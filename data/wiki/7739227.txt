@@ -1,0 +1,89 @@
+{{Short description|1953 British film based on the 1948 novel}}
+{{Use dmy dates|date=May 2016}}
+{{Use British English|date=May 2016}}
+{{Infobox film
+| name           = The Heart of the Matter
+| image          = Heartmattpost.jpg
+| caption        = [[Film poster]]
+| director       = [[George More O'Ferrall]]
+|based_on = ''[[The Heart of the Matter]]'' by [[Graham Greene]] 
+| writer         = [[Lesley Storm]]<br />[[Ian Dalrymple]]
+| producer       = Ian Dalrymple
+| starring       = [[Trevor Howard]]<br />[[Elizabeth Allan]]<br />[[Maria Schell]]<br />[[Denholm Elliott]]
+| cinematography = [[Jack Hildyard]]
+| editing        =Sidney Stone
+| music          = [[Edric Connor]]
+| studio = [[London Films]]
+| distributor    = [[British Lion Films]]
+| released       = {{Film date|1953|11|03|df=yes}}
+| runtime        = 100 minutes
+| country        = United Kingdom
+| language       = English
+| budget         = 
+| gross          = £123,479 (UK)<ref>Vincent Porter, 'The Robert Clark Account', ''Historical Journal of Film, Radio and Television'', Vol 20 No 4, 2000 p501</ref> 
+}}
+
+'''''The Heart of the Matter''''' is a 1953 British [[drama film]] based on [[The Heart of the Matter|the 1948 book of the same name]] by [[Graham Greene]].<ref>{{cite book|url=https://books.google.com/books?id=Yyqc0Qa6b60C&q=the+heart+of+the+matter+literary+sources+in+film&pg=PA793|title=The Complete Index to Literary Sources in Film|first=Alan|last=Goble|date=8 September 2011|publisher=Walter de Gruyter|isbn=9783110951943|via=Google Books}}</ref> It was directed by [[George More O'Ferrall]] for [[London Films]].<ref>{{cite web|url=https://www.bfi.org.uk/films-tv-people/4ce2b6abf2c09|archive-url=https://web.archive.org/web/20170616224414/http://www.bfi.org.uk/films-tv-people/4ce2b6abf2c09|url-status=dead|archive-date=16 June 2017|title=The Heart of the Matter (1954)|website=BFI}}</ref> It was entered into the [[1953 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/3915/year/1953.html |title=Festival de Cannes: The Heart of the Matter |access-date=2009-01-21|work=festival-cannes.com}}</ref>
+
+==Plot==
+Harry Scobie, [[Deputy Commissioner]] of the [[Sierra Leone Police]] in [[Freetown]] during the [[Second World War]], is unhappily married to fellow-Catholic Louise: both mourn the death of their only daughter. Despite his having been a police officer in the country for 15 years, when the [[Police Commissioner]] announces he is to retire, Scobie is overlooked in favour of a younger man sent out from the UK.
+
+On a search of a neutral Portuguese ship, the ''Esperança'', he finds an envelope addressed to Germany. When he confiscates it, the captain begs him to do nothing because the letter is to his daughter. Feeling pity, Scobie burns it. His wife does not like the climate or the other expatriates and keeps begging him to let her go to South Africa by sea but they cannot afford the fare. Eventually he accepts a loan from Yusef, a suspected smuggler.
+
+Called up country because a local District Commissioner is in trouble, he finds the man has committed suicide because of his debts. While he is there, survivors of a ship torpedoed by the Germans are brought ashore by the [[Vichy France|Vichy]] police of neighbouring [[French Guinea]].  One is Helen, a young widow who reminds him of his dead daughter. Back in Freetown, he finds she has been given a hut near his house and, after he pays her a visit, they commence an affair. After an argument, he writes her a love letter but it is intercepted by a servant in Yusef's pay.
+
+He learns that Louise is returning and Yusef tells him that he must give a packet of contraband diamonds to the captain of the Esperança or he will give his wife his letter to Helen. He complies. However, someone tells Louise about the affair.
+
+Scobie is in torment between his love for Helen and his responsibilities to his wife, his wartime role and particularly his religious faith. He contemplates suicide but is then killed trying to stop a brawl.
+
+==Cast==
+*[[Trevor Howard]]	as Harry Scobie
+*[[Elizabeth Allan]] 	as Louise Scobie
+*[[Maria Schell]] 	as Helen Rolt
+*[[Denholm Elliott]] 	as Wilson
+*[[Peter Finch]] 	as Father Rank
+*[[Gérard Oury]] 	as Yusef 
+*[[George Coulouris]] 	as Portuguese Captain
+*[[Michael Hordern]] 	as Commissioner
+*[[Peter Burton]] 	as Perrot 
+*[[Earl Cameron (actor)|Earl Cameron]] 	as Ali 
+*[[Judith Furse]] 	as Dr. Sykes 
+*[[Evelyn Roberts]] 	as Col. Wright 
+*[[Colin Gordon]] 	as Secretary
+*[[Orlando Martins]] 	as Rev. Clay 
+*[[Cyril Raymond]] 	as Carter
+* [[Gillian Lind]] as Mrs Carter
+
+==Production==
+It contains no [[film score|original score]], but instead features indigenous music from Sierra Leone in [[West Africa]], where [[filming location|location filming]] took place. The interiors were filmed at [[Shepperton Studios]] in [[London]]. The film's sets were designed by the [[art director]] [[Joseph Bato]]. The black and white [[cinematography]] was by [[Jack Hildyard]].<ref>{{cite web|url=https://www.allmovie.com/movie/the-heart-of-the-matter-v94585/cast-crew|title=The Heart of the Matter (1953) - George More O'Ferrall - Cast and Crew|website=AllMovie}}</ref>
+
+==Differences between film and book==
+The main difference between the film and the book is in the ending, which is almost equally bleak, but reversed from Greene's original story. In the book, Scobie's servant is killed (apparently an act of revenge by Yusef, here played by [[Gérard Oury]]). Scobie commits [[suicide]]. In the film, Scobie ''intends'' to kill himself, but is interrupted by a fight breaking out. He intervenes and is shot. The servant ([[Earl Cameron (actor)|Earl Cameron]]) does not die, but instead Scobie dies in his servant's arms.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|id=0047066|title=The Heart of the Matter}}
+* [http://www.channel4.com/film/reviews/film.jsp?id=104144 Channel Four review]
+{{Alexander Korda}}
+{{Graham Greene}}
+
+{{DEFAULTSORT:Heart of the Matter (film), The}}
+[[Category:1953 films]]
+[[Category:British drama films]]
+[[Category:Films based on British novels]]
+[[Category:1953 drama films]]
+[[Category:London Films films]]
+[[Category:Films based on works by Graham Greene]]
+[[Category:Films directed by George More O'Ferrall]]
+[[Category:Films set in the British Empire]]
+[[Category:Films set in Africa]]
+[[Category:Films set in 1942]]
+[[Category:Films produced by Ian Dalrymple]]
+[[Category:Films with screenplays by Ian Dalrymple]]
+[[Category:Films shot in Sierra Leone]]
+[[Category:British black-and-white films]]
+[[Category:1953 English-language films]]
+[[Category:1953 British films]]
+[[Category:English-language drama films]]

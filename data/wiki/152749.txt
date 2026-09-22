@@ -1,0 +1,298 @@
+{{short description|1955 French noir psychological thriller film by Henri-Georges Clouzot}}
+{{Use dmy dates|date=October 2023}}
+{{About|the 1955 film|the 1996 version|Diabolique (1996 film)}}
+{{Infobox film
+| name           = Les Diaboliques
+| image          = Lesdiaboliquesposter.jpg
+| caption        = Theatrical release poster
+| director       = [[Henri-Georges Clouzot]]
+| screenplay     = {{Plainlist|
+* Henri-Georges Clouzot
+* Jérôme Géronimi
+* René Masson{{efn-lr|name=collab|Collaboration.<ref>{{cite web|url=https://sbiff.org/les-diaboliques/|publisher=[[Santa Barbara International Film Festival]]|title=Les Diaboliques|url-status=live|archive-url=https://archive.today/20260103081826/https://sbiff.org/les-diaboliques/|archive-date=3 January 2026}}</ref>}}
+* Frédéric Grendel{{efn-lr|name=collab}}
+}}
+| based_on       = {{based on|''[[She Who Was No More|Celle qui n'était plus]]''|[[Boileau-Narcejac]]}}
+| producer       = {{Plainlist|
+* Henri-Georges Clouzot
+* [[Georges Lourau]]
+}}
+| starring       = {{Plainlist|
+* [[Simone Signoret]]
+* [[Véra Clouzot]]
+* [[Paul Meurisse]]
+* [[Charles Vanel]]
+}}
+| cinematography = [[Armand Thirard]]
+| editing        = [[Madeleine Gug]]
+| music          = [[Georges Van Parys]]
+| studio         = {{Plainlist|
+* Filmsonor
+* Vera Film
+}}
+| distributor    = [[Cinédis]] 
+| released       = {{Film date|df=y|1955|1|29}}
+| runtime        = 117 minutes<ref name=BBFC>{{cite web|publisher=[[British Board of Film Classification]]|title=The Fiends (les Diaboliques)|url=https://www.bbfc.co.uk/release/the-fiends-les-diaboliques-q29sbgvjdglvbjpwwc0ynzu2mdy|url-status=live|archive-url=https://archive.today/20260101225810/https://www.bbfc.co.uk/release/the-fiends-les-diaboliques-q29sbgvjdglvbjpwwc0ynzu2mdy|archive-date=1 January 2026}}</ref>
+| country        = France
+| language       = French
+| budget         = 
+}}
+'''''Les Diaboliques''''' ({{IPA|fr|le djabɔlik|lang}}, lit. transl. '''''The Diabolical Ones''''' or '''''Diabolical Women''''', released as '''''Diabolique''''' in the United States and variously translated as '''''The Devils''''' or '''''The Fiends'''''){{sfn|Schneider|2007|p=71}} is a 1955 French [[psychological thriller]] film co-written and directed by [[Henri-Georges Clouzot]], and starring [[Simone Signoret]], [[Véra Clouzot]], [[Paul Meurisse]], and [[Charles Vanel]]. The story blends elements of psychological thriller, crime drama and psychological [[Horror film|horror]], with the plot focusing on a woman and her husband's [[mistress (lover)|mistress]] who conspire to murder the man. It is based on the 1952 novel ''[[She Who Was No More|Celle qui n'était plus]]'' ({{translation|literal=yes}} ''The One Who Was No More'')<ref>{{cite journal|journal=[[London Review of Books]]|url=https://www.lrb.co.uk/the-paper/v33/n05/michael-wood/at-the-movies|last=Wood|first=Michael|title=At the Movies: 'Les Diaboliques'|date=3 March 2011|volume=33|issue=5|url-status=live|archive-url=https://archive.today/20260103085216/https://www.lrb.co.uk/the-paper/v33/n05/michael-wood/at-the-movies|archive-date=3 January 2026}}</ref> by [[Boileau-Narcejac|Pierre Boileau and Thomas Narcejac]].
+
+Clouzot, after finishing ''[[The Wages of Fear]]'' (1953), optioned the screenplay rights to the novel, preventing [[Alfred Hitchcock]] from making the film.{{sfn|Hayward|2005|p=13}} The film helped inspire Hitchcock's ''[[Psycho (1960 film)|Psycho]]'' (1960).{{sfn|Hawkins|2002|p=382}} [[Robert Bloch]], the author of the novel ''[[Psycho (novel)|Psycho]]'', stated in an interview that his all-time favorite horror film was ''Les Diaboliques''.<ref name=Bloch>{{cite web |url=http://mgpfeff.home.sprynet.com/lofficier_interview1.html |website=The Unofficial Robert Bloch Website |access-date=October 23, 2010 |title=INTERVIEW WITH ROBERT BLOCH, Randy and Jean-Marc Lofficier |archive-url=https://web.archive.org/web/20150212121219/http://mgpfeff.home.sprynet.com/lofficier_interview1.html |archive-date=February 12, 2015}}</ref><ref name=Bui>{{cite web|work=[[/Film]]|url=https://www.slashfilm.com/577527/the-quarantine-stream-les-diaboliques/|title=The Quarantine Stream: 'Les Diaboliques' Is The Best Suspense Film Hitchcock Never Directed|date=30 October 2020|last=Bui|first=Hoa-Tran|url-status=live|archive-url=https://archive.today/20260102084827/https://www.slashfilm.com/577527/the-quarantine-stream-les-diaboliques/|archive-date=2 January 2026}}</ref>
+
+Released in France in January 1955, ''Les Diaboliques'' was the seventh highest-grossing film of the year, with a total of 3,674,380 admissions.{{sfn|Hayward|2005|p=100}} It received largely favorable reviews from French critics, and won two [[Louis Delluc Prize]]s (for Best Film and Best Performance by Signoret). While reception in the United Kingdom was mixed, the film was favorably received by critics in the United States,{{sfn|Hayward|2005|pages=100–101}} where it won the title of Best Foreign Film of the year by the [[New York Film Critics Circle]] and the [[National Board of Review]]. By late 1956, it had become the highest-grossing French film released in the United States at that time.<ref name=Marks/>
+ 
+''Les Diaboliques'' went on to garner a reputation as a classic film with significant influence on the horror genre, particularly due to its [[plot twist|twist ending]].{{sfn|Bansak|2003|pages=498–499}}{{sfn|Weismann|2021|p=74}} It is now regarded as influential masterpiece, one of the best French films and thriller movies ever made.
+
+==Plot==
+A second-rate boys' boarding school in [[Saint-Cloud]], [[Hauts-de-Seine]],<!--As seen in the film script https://www.springfieldspringfield.co.uk/movie_script.php?movie=diabolique-1955--> in the [[Paris metropolitan area]], is run by the tyrannical and cruel Michel Delassalle. The school is owned, however, by Delassalle's wife Christina, a wealthy, devout Catholic immigrant from Venezuela who works there as a Spanish teacher. The frail Christina suffers from a chronic [[Cardiovascular disease|heart condition]]. Despite Christina's unstable health, Michel subjects her to significant [[Psychological abuse|emotional abuse]], humiliating and mocking her, as well as mistreating the students. He also carries on an extramarital relationship with Nicole Horner, another teacher at the school, whom he physically abuses. Rather than antagonism, Christina and Nicole have a somewhat close relationship, primarily based on their apparent mutual hatred of Michel.  
+
+Unable to stand his mistreatment any longer, Nicole devises a plan to murder Michel. Though hesitant at first, Christina ultimately consents to help Nicole. Using a threatened divorce to lure Michel to Nicole's apartment building in [[Niort]], a town several hundred kilometers away, Christina sedates him with laced wine before the two women drown him in a bathtub. Concealing his body in a [[wicker]] trunk, the women drive back to the school, where they dump his corpse in the school's unused swimming pool. When his corpse floats to the top, they think it will appear to have been an accident. Almost everything goes according to their plans until the body fails to surface. Michel's corpse is nowhere to be found when the pool is drained. Afterwards, the suit that Michel had been wearing when they drowned him is returned from the dry cleaners. When the proprietor of the dry cleaners also returns a key to a room in a nearby hotel that was with the clothes, Christina goes to the room. There, the cleaning man tells her that Michel had kept the room for a while but was rarely if ever seen and stored nothing there.
+
+Nicole sees in the newspaper that the police have found the corpse in the [[Seine]]. However, when Christina goes to the morgue, she finds it is not actually Michel's body. There, she meets Alfred Fichet, a retired senior policeman now working as a private detective. He becomes involved in the case, much to Nicole's chagrin.
+
+Christina, Nicole and other teachers find a student who claims that Michel has ordered him to rake leaves as punishment for breaking a window. Accusing him of lying, Christina confiscates his slingshot. Under the stress, Christina's heart condition worsens, and her doctors fear she may die soon unless she maintains strict bed rest. When the school photograph is taken, the result seems to show Michel's spectral figure in the window behind the students. Unnerved, Nicole leaves the school; she asks Christina to accompany her, but she is too ill and afraid.
+
+Christina, overcome by fear, confesses everything to Alfred. He does not believe her, but he investigates the pool. That night, Christina hears noises and wanders around the school. When she realizes that someone is following her, she runs back to her room. There, she finds Michel's corpse submerged in the bathtub, which is filled with water. Michel rises from the tub, and Christina suffers a fatal [[myocardial infarction|heart attack]]. It is revealed that Michel and Nicole have set up Christina from the beginning, with Michel acting as a vengeful ghost to scare Christina to death. However, Alfred hears their celebration and exposes their plot, telling them they will be sentenced to 15 to 20 years in prison, depending on the judge.
+
+The school is closed in the wake of the scandal. As the children and teachers leave, the same boy who had earlier broken a window breaks another. When asked how he recovered his slingshot, the boy says that Christina gave it to him.
+
+==Cast==
+{{Cast listing|
+* [[Simone Signoret]] as Nicole Horner
+* [[Véra Clouzot]] as Christina Delassalle
+* [[Paul Meurisse]] as Michel Delassalle
+* [[Charles Vanel]] as Alfred Fichet
+* [[Jean Brochard]] as Plantiveau
+* [[Thérèse Dorny]] as M<sup>me</sup> Herboux
+* [[Michel Serrault]] as M. Raymond
+* [[Georges Chamarat]] as Dr. Loisy
+* [[Robert Dalban]] as the gas station attendant
+* [[Camille Guérini]] as the photographer
+* [[Jacques Hilling]] as the employee of the forensic institute
+* [[Jean Lefebvre]] as the soldier
+* Aminda Montserrat as M<sup>me</sup> Plantiveau
+* [[Jean Témerson]] as the hotel waiter
+* [[Jacques Varennes]] as M. Bridoux
+* [[Georges Poujouly]] as Soudieu
+* [[Noël Roquevert]] as M. Herboux
+* [[Pierre Larquey]] as M. Drain
+* [[Johnny Hallyday]] as a student (uncredited)<ref name=":0">{{Cite web|url=http://cinema.encyclopedie.films.bifi.fr/imprime.php?pk=47752|title=Les Diaboliques|website=Les Fiches du cinéma|language=fr|url-status=live|archive-date=1 January 2026|archive-url=https://archive.today/20260101003216/http://cinema.encyclopedie.films.bifi.fr/imprime.php?pk=47752}}</ref>
+* [[Madeleine Suffel]] as the degreaser (uncredited)
+}} 
+
+==Themes==
+Film historian Susan Hayward regards ''Les Diaboliques'' as "something of an unsettled text" which crosses genres, combining elements of psychological thrillers and [[film noir]], ultimately classifying it as "a transgressive and transcendent film noir. There is fragmentation and excess, both of which are played out through the narrative and the body, and both of which function to challenge the constructed order of things, social restrictions, established laws and hierarchies as they relate to notions of censorship and sexuality."{{sfn|Hayward|2005|pages=41, 60}} 
+
+While the film's source novel explicitly reveals a lesbian relationship between Mireille and Lucienne, the equivalents of Christina and Nicole, the film eliminates this element; however, Hayward suggests that this implication is still present, though allowing other interpretations: "It can equally be seen for what it is (albeit the filmic text tries to hide it away), namely a lesbian relationship. It can also be seen as a mother-daughter relationship. Nicole takes care of Christina; she speaks to her at times as a mother would to a daughter. Patiently and meticulously she explains why the murder must be carried out and why it must be carried out in a particular way. She is protective of her sexual immaturity. She soothes her when Michel is cruel to her (and so on). Already, we are looking at three types of ambiguity here, unfixing the social order of things. Nothing remains in place."{{sfn|Hayward|2005|p=53}}
+
+Academic Daniel Tilsley interprets ''Les Diaboliques'' as a film whose horror emerges "because of the perceptual dissonance between the subjective and the objective world, with the psychologically tormented protagonist Christina unable to accurately make sense of the world around her... [the film] focuses on the gradual distortion of Christina's perception of the world around her as she is plunged deeper and deeper into fear."<ref name=Tilsley/>
+
+==Production==
+===Writing===
+Director [[Henri-Georges Clouzot]]'s wife, [[Véra Clouzot|Véra]], initially drew his attention to [[She Who Was No More|the Boileau-Narcejac novel]] on which the film is based.{{sfn|Hayward|2005|pages=14–15}} Clouzot read it through the night and optioned the rights the following morning.<ref name=Delphine>{{Cite web|url=https://www.cinematheque.fr/article/1112.html|title=Histoire orale : le tournage des " Diaboliques " de Clouzot raconté par ceux qui l'ont vécu|work=[[Cinémathèque française]]|url-status=live|language=fr|archive-url=https://archive.today/20260101231502/https://www.cinematheque.fr/article/1112.html|archive-date=1 January 2026|date=24 October 2017|last=Simon-Marsaud|first=Delphine}}</ref> He and his brother Jean (who took the pseudonym Jérôme Géronimi)<ref name=":1" /> spent 18 months adapting the novel. In the book, the action takes place between [[Enghien-les-Bains]] and [[Nantes]] but Clouzot transposed it to [[Saint-Cloud]] and [[Niort]], his own birthplace.<ref name=":1" /> He was not particularly interested in the insurance scam that was the criminal motive in the book. He switched the gender of the murderers and invented the private-school setting.{{sfn|Guérif|1986|p=113}}
+
+Film historian Susan Hayward suggests that the gender switch made by Clouzot was caused not so much by censorship considerations (in the source novel, Lucienne and Mireille turn out to be a pair of [[lesbian]] lovers), but by his desire to create a sizeable role for his wife.{{sfn|Hayward|2005|p=15}} The book has only one principal female character, Lucienne, since the supposed victim, Mireille disappears early on. Véra, with her distinctly feminine demeanor, was ill-suited for the role of Lucienne (called Nicole in the film).{{sfn|Hayward|2005|pages=14–16}} So in Clouzot's script, Mireille (now named Christina) is the character who has a weak heart, and is the object of manipulation of her husband Michel and his mistress Nicole.{{sfn|Hayward|2005|pages=14–16}} Clouzot also followed the convention that the culprits should be exposed by the detective in the end (another departure from the novel, where the authors let them get away).{{sfn|Buss|2001|p=24}}
+
+===Casting===
+[[File:Paul Meurisse and Simone Signoret - Diabolique publicity photo.jpg|thumb|right|upright=.9|[[Paul Meurisse]] and [[Simone Signoret]] in publicity still for the film's U.S. release]]
+Véra was the first to be cast in the film in the role of Christina.{{sfn|Hayward|2005|p=16}} Director Clouzot cast [[Simone Signoret]] opposite her in the role of Nicole; he previously directed Signoret's husband [[Yves Montand]] in ''[[The Wages of Fear]]'', and the two couples became friends.{{sfn|Hayward|2005|p=16}} Clouzot was also aware of his wife's Vera's limitations as an actress, and sought someone to lend her support in such a demanding role.{{sfn|Hayward|2005|p=16}}
+
+Signoret signed an eight-week contract but the shooting actually took 16 weeks. She ended up being paid for only eight weeks of work despite staying until the end of the filming because she neglected to read the small print.{{sfn|Hayward|2005|p=16}} Signoret's co-star [[Paul Meurisse]] also recalls in his memoirs that the actress was further bemused by Clouzot's constant attempts to find clever ways of lighting Vera's face while muting the light on Signoret so she would not upstage his wife.{{sfn|Hayward|2005|p=17}}
+
+Clouzot had known Meurisse since 1939, when the latter was attempting to pursue a singing career.{{sfn|Hayward|2005|pp=17–18}} Clouzot then was trying to sell his song lyrics to [[Édith Piaf|Edith Piaf]], Meurisse's lover at the time.{{sfn|Hayward|2005|pp=17–18}} By the late 1940s, Meurisse had become an established stage and screen actor, known for the roles of "icy and sophisticated villains," and he seemed a natural choice for the role of Michel.{{sfn|Hayward|2005|pp=17–18}}
+
+The film featured two Clouzot regulars: [[Pierre Larquey]] as M. Drain and [[Noël Roquevert]] as M. Herboux. [[Michel Serrault]] made his screen debut as M. Raymond, one of the schoolteachers. [[Charles Vanel]]—who previously co-starred in Clouzot's ''The Wages of Fear''—was cast as the seemingly inept Inspector Fichet.
+
+Clouzot also auditioned 300 children and selected 35. Among them were Jean-Philippe Smet (the future [[Johnny Hallyday]]), [[Patrick Dewaere]]'s brother Yves-Marie Maurin, and [[Georges Poujouly]], who previously received acclaim in [[René Clément]]'s ''[[Forbidden Games]]''.{{sfn|Hayward|2005|p=19}}
+
+===Filming===
+The filming began on 18 August 1954 and finished on 30 November the same year.<ref name=":0" /> Clouzot asked his assistant Michel Romanoff to find a suitable filming location for the boarding school.<ref name=:1/> The latter discovered a decrepit chateau in [[L'Étang-la-Ville|L'Etang-la-Ville]] between Saint-Cloud and the [[Bois de Boulogne|Bois-du-Boulogne]].<ref name=":1">{{Cite web|url=https://www.nouvelobs.com/cinema/20171027.OBS6631/les-diaboliques-histoire-d-un-tournage-electrique.html|title=Les Diaboliques", histoire d'un tournage électrique|last=Loison|first=Guillaume|date=7 November 2017|website=[[Le Nouvel Obs]]|issn=0029-4713|language=fr|archive-url=https://archive.today/20260101231735/https://www.nouvelobs.com/cinema/20171027.OBS6631/les-diaboliques-histoire-d-un-tournage-electrique.html|archive-date=1 January 2026|url-status=live}}</ref> The building and its surroundings matched the director's vision perfectly since they projected the desired mood of decay and neglect, featuring an adjacent swimming pool that was dirty and full of slime.{{sfn|Hayward|2005|p=20}} Clouzot spent five weeks shooting at this location.{{sfn|Hayward|2005|p=20}}
+
+The screenplay placed Nicole's apartment in Niort, but the actual house used for filming was in [[Montfort-l'Amaury]], just opposite the building that previously appeared in Clouzot's ''[[Le Corbeau]]''.{{sfn|Hayward|2005|p=20}} The morgue scenes were shot inside an actual mortuary at the Institut Médico-légal in Paris.{{sfn|Hayward|2005|p=20}} The rest was filmed at Saint-Maurice Studios southeast of Paris, which took  an additional nine weeks.{{sfn|Hayward|2005|p=20}} The interior sets were designed by [[Léon Barsacq]].{{sfn|Hayward|2005|p=24}} Cinematographer [[Armand Thirard]] used two camera crews to speed up the shooting that was falling behind schedule. Despite his efforts, the filming took twice longer than the projected 48 days.{{sfn|Hayward|2005|pp=20–21}} Thirard shot the majority of the film using predominately [[medium shot]]s and [[close-up]]s to accentuate a sense of anxiety and claustrophobia.{{sfn|Hayward|2005|p=36}}
+
+The film's central murder sequence in which Meurisse's character is drowned in the bathtub was shot over a period of two days.{{sfn|Hayward|2005|p=18}} To prevent the actor from becoming ill, the crew filled the bathtub with hot water for each take, and in between shots, Meurisse was redressed in dry clothes and given [[whisky]] toddies.{{sfn|Hayward|2005|p=18}}
+
+Originally the film was to be called ''Les Veuves'' (''The Widows'') but this was deemed unmarketable.{{sfn|Hayward|2005|p=13}} Eleven weeks into filming it was changed to ''Les Démoniaques''.{{sfn|Hayward|2005|p=13}} Eventually it was renamed ''Les Diaboliques'' but this title was already used for [[Les Diaboliques (short story collection)|a collection of short stories]] by the 19th-century writer [[Jules Barbey d'Aurevilly|Barbey d'Aurevilly]]. Clouzot was permitted to use this title but only on the condition that he give the author a proper mention.{{sfn|Hayward|2005|p=13}} He did it by opening the film with a quote from the preface to d'Aurevilly's work: "A portrait is always moral when it is tragic and shows the horror of the things it represents."{{sfn|Mayne|2000|p=49}}
+
+==Release==
+{{multiple image
+| footer = U.S. newspaper advertisements for the film (left, original 1955 release; right, 1966 re-release)
+| image1 = Diabolique American newspaper ad (December 30, 1955).jpg
+| width1 = 136
+| alt1 = Newspaper advertisement for ''Diabolique'' from 1955
+| image2 = Diabolique 1966 newspaper advertisement.jpg
+| width2 = 146
+| alt2 = Newspaper advertisement for ''Diabolique'' from 1966
+| align = right}}
+''Les Diaboliques'' premiered on 29 January 1955 at the [[Palais Berlitz|Gaumont-Palace Berlitz]], where it had an exclusive theatrical run for seventeen weeks.{{sfn|Hayward|2005|p=100}} In the United States, a press review screening was held at New York City's Fine Arts Theater on [[Halloween]] 1955,<ref>{{cite news|url=https://www.newspapers.com/article/the-new-york-age-diabolique/110702466/|date=12 November 1955|work=[[The New York Age]]|page=9|last=Murrain|first=Edward|title=Front and Center|via=Newspapers.com}}</ref> followed by an official U.S. premiere there on 21 November 1955.<ref>{{cite news|url=https://www.newspapers.com/article/daily-news/187961865/|title='Diabolique' Nov. 21|date=14 November 1955|work=[[New York Daily News]]|page=52|via=Newspapers.com}}</ref> The film's [[San Francisco]] release began the following month, on 28 December 1955,<ref>{{cite news|url=https://www.newspapers.com/article/the-san-francisco-call-bulletin/187968928/|work=[[The San Francisco Call|The San Francisco Call Bulletin]]|date=28 December 1955|title=Suspense Movie Now At Larkin|page=21|via=Newspapers.com}}</ref> where it had a six month-long exhibition at the Larkin Theater.<ref name=Marks/> The film's [[St. Louis]] premiere occurred on 30 December 1955.<ref>{{cite news|url=https://www.newspapers.com/article/st-louis-post-dispatch-diabolique/110704747/|work=[[St. Louis Post-Dispatch]]|title=Gruesome, Gory and Good|last=Standish|first=Myles|date=30 December 1955|page=3C|via=Newspapers.com}}</ref>
+
+The Western premiere at the [[Esquire Theatre (Denver)|Esquire Theatre]] in Denver followed in late January 1956. For this engagement, the theater introduced a no-late-seating policy, described by the ''Rocky Mountain News'' as "unprecedented": "Because of the unusual nature of this motion picture, the Esquire Theater will not admit any patron after the main feature has begun."<ref>{{cite news |title=Premiere at Esquire Thursday For Top French Suspense Film |newspaper=Rocky Mountain News |date=January 29, 1956 |page=44 |url=https://www.coloradohistoricnewspapers.org/?a=d&d=RMD19560129-01.2.142&srpos=5&e=-------en-20--1--img-txIN%7ctxCO%7ctxTA-Esquire+Theater-------0------ |via=Colorado Historic Newspapers Collection}}</ref> The practice predated [[Alfred Hitchcock]]'s similar no-late-admission policy for ''[[Psycho (1960 film)|Psycho]]'' by four years.
+
+In the United Kingdom, the film premiered in London on 1 December 1955, under the title ''The Fiends''.<ref name=Fiends>{{cite news|work=[[The Standard (London newspaper)|Evening Standard]]|url=https://www.newspapers.com/article/evening-standard/187967442/|title=The Fiends|date=30 November 1955|page=22|via=Newspapers.com}}</ref>
+
+[[Warner Bros.-Seven Arts]] theatrically reissued the film in the United States in the fall of 1966.<ref>{{cite news|url=https://www.newspapers.com/article/san-francisco-chronicle/187985010/|work=[[San Francisco Chronicle]]|date=5 October 1966|title=Exclusive Engagement: Diabolique|page=43|via=Newspapers.com}}</ref><ref>{{cite news|url=https://www.newspapers.com/article/the-morning-call/187984934/|work=[[The Paterson Morning Call]]|date=25 November 1966|title=Starts Wed. Nov. 30: "Diabolique"|page=15|via=Newspapers.com}}</ref><ref>{{cite news|url=https://www.newspapers.com/article/oakland-tribune/108396669/|work=[[Oakland Tribune]]|title=Starts Today: Diabolique|date=30 November 1966|page=23|via=Newspapers.com}}</ref> In 1995, the film was given another theatrical re-release in the United States by [[Kino Lorber|Kino International]] commemorating its fortieth anniversary.<ref>{{cite news|url=https://www.baltimoresun.com/1995/01/27/les-diaboliques-returns-from-1955-still-frightfully-good/|work=[[The Baltimore Sun]]|date=27 January 1995|title='Les Diaboliques' returns from 1955, still frightfully good|last=Hunter|first=Stephen|author-link=Stephen Hunter}}</ref>
+
+===Marketing===
+Though it was swiftly described by critics as a [[horror film]] upon release, ''Les Diaboliques'' was marketed as a psychological thriller.<ref name=Tilsley>{{cite journal|last=Tilsley|first=Daniel|journal=Film-Philosophy|publisher=[[Edinburgh University Press]]|title=Existential and Phenomenological Horror in Les Diaboliques|volume=29|issue=1|doi=10.3366/film.2025.0291|date=20 January 2025|pages=23–45 |doi-access=free}}</ref> Promotional materials for the film in the United States expressly warned audiences not to reveal the film's ending to the public,<ref>{{cite news|url=https://www.newspapers.com/article/st-louis-post-dispatch/187968165/|work=[[St. Louis Post-Dispatch]]|title=Diabolique|date=30 December 1955|page=6C|via=Newspapers.com}}</ref> while British advertising materials indicated that theatre patrons would not be admitted once the film had started.<ref name=Fiends/> In some theaters in the United States, [[Usher (occupation)|usher]]s distributed slips of paper to theatergoers reading: "Contract and Article of Agreement for 'Diabolique': With the purchase of this ticket I agree that I will neither directly or indirectly reveal the ending to Henri-Georges Clouzot's picture to my relatives, friends, or enemies."<ref>{{cite news|url=https://www.newspapers.com/article/buffalo-courier-express/188364763/|work=[[Buffalo Courier-Express]]|last=Hughes|first=Alice|date=21 December 1955|page=12|title=Chitchat of Designers, Devilish Film and Dogs|via=Newspapers.com}}</ref>  
+
+The film's end credits themselves contain an early example of such an "anti-[[spoiler (media)|spoiler]]" message requesting audience members not to disclose the [[Plot twist|twist ending]]:<ref name="gferraratcm">{{cite web |url=http://www.tcm.com/tcmdb/title/73044/Diabolique/articles.html|archive-url=https://web.archive.org/web/20120325081654/http://www.tcm.com/tcmdb/title/73044/Diabolique/articles.html |url-status=dead |archive-date=25 March 2012 |title=Diabolique (1955) – Articles |website=[[Turner Classic Movies]]}}</ref>
+{{Verse translation
+|Ne soyez pas DIABOLIQUES!
+Ne détruisez pas l'intérêt que pourraient prendre vos amis à ce film.
+Ne leur racontez pas ce que vous avez vu.
+Merci pour eux.<ref>{{cite web|work=[[Première (magazine)|Première]]|url=https://www.premiere.fr/Cinema/News-Cinema/Ne-soyez-pas-diaboliques-le-message-anti-spoilers-de-Clouzot-qui-a-inspire-Hitchcock|title="Ne soyez pas diaboliques" : le message anti-spoilers de Clouzot qui a inspiré Hitchcock|last=Bardinet|first=Elodie|date=2 March 2020|language=fr|url-status=live|archive-url=https://archive.today/20260102054243/https://www.premiere.fr/Cinema/News-Cinema/Ne-soyez-pas-diaboliques-le-message-anti-spoilers-de-Clouzot-qui-a-inspire-Hitchcock|archive-date=2 January 2026}}</ref>
+|Don't be DIABOLICAL!
+Do not destroy the interest that your friends may have in this movie.
+Do not tell them what you have seen.
+Thank you, on their behalf.<ref name="gferraratcm"/>}}
+
+===Home media===
+[[The Criterion Collection]] released ''Les Diaboliques'' on [[LaserDisc]] in December 1991<ref>{{cite AV media|publisher=[[The Criterion Collection]]|year=1991|medium=[[LaserDisc]]|id=CC1283L|title=Diabolique}}</ref><ref>{{cite news|date=27 December 1991|title=Laserdiscs|last=Christiansen|first=Richard|author-link=Richard Christiansen (critic)|url=https://www.newspapers.com/article/chicago-tribune/105780135/|work=[[Chicago Tribune]]|page=3|via=Newspapers.com}}</ref> before issuing the film on [[DVD]] in July 1999.<ref>{{cite web|url=https://www.dvdtalk.com/reviews/44/diabolique/|work=[[DVD Talk]]|title=Diabolique|date=5 January 2000|last=Picker|first=Heather|url-status=live|archive-url=https://archive.today/20260102005556/https://www.dvdtalk.com/reviews/44/diabolique/|archive-date=2 January 2026}}</ref> On 17 May 2011, Criterion reissued the film on DVD and [[Blu-ray]].<ref name=Jane>{{cite web|url=https://www.dvdtalk.com/reviews/48138/diabolique/|work=[[DVD Talk]]|title=Diabolique: The Criterion Collection|last=Jane|first=Ian|date=18 May 2011|url-status=live|archive-url=https://archive.today/20260102005730/https://www.dvdtalk.com/reviews/48138/diabolique/|archive-date=2 January 2026}}</ref> The latter release features selected-scene commentary by French-film scholar Kelley Conway, a new video introduction by Serge Bromberg, and a new video interview with novelist and film critic [[Kim Newman]].<ref name=Jane/> 
+
+In the United Kingdom, [[Arrow Films]] issued a Blu-ray and DVD combination set on 25 April 2011.<ref>{{Cite web|url=https://www.blu-ray.com/movies/Les-Diaboliques-Blu-ray/18145/|work=Blu-ray.com|title=Les Diaboliques Blu-ray|url-status=live|archive-url=https://archive.today/20260103090557/https://www.blu-ray.com/movies/Les-Diaboliques-Blu-ray/18145/|archive-date=3 January 2026}}</ref> In France, the film was released in [[4K resolution|4K]] [[Ultra-high-definition television|Ultra HD]] and Blu-ray on 20 May 2025, by Coin de Mire Cinéma.<ref>{{cite web |url=https://www.blu-ray.com/movies/Les-Diaboliques-4K-Blu-ray/380714/ |title=Les Diaboliques 4K Blu-ray (DigiPack) (France) |website=[[Blu-ray.com]] |access-date=4 September 2026}}</ref>
+
+==Reception==
+===Box office===
+''Les Diaboliques'' created a sensation upon its French release and was a success at the box office with 3,674,380 admissions in France alone.{{sfn|Hayward|2004|p=253}} It ranked seventh place for final audience figures in France by the end of the year.{{sfn|Hayward|2005|p=100}} The film was also a major box-office hit in the United States, with estimated ticket sales of $600,000 (equivalent to ${{Format price|{{Inflation|US|600000|1956|r=-5}}}} in {{Inflation/year|US}}) by September 1956, making it the highest-grossing French film in the country's history at that time.<ref name=Marks>{{cite news|work=[[The Oregon Journal|The Oregon Daily Journal]]|date=19 September 1956|page=25|title=Stage and Screen|last=Marks|first=Arnold|url=https://www.newspapers.com/article/the-oregon-daily-journal/188367497/|via=Newspapers.com}}</ref>
+
+===Critical response===
+Critical reception for ''Les Diaboliques'' was highly favorable in both France and the United States.{{sfn|Hayward|2005|pages=100–101}} [[Bosley Crowther]] gave the film an enthusiastic review in ''[[The New York Times]]'', calling it "one of the dandiest mystery dramas that has shown here" and "a pip of a murder thriller, ghost story and character play rolled into one". He added "the writing and the visual construction are superb, and the performance by top-notch French actors on the highest level of sureness and finesse."<ref>{{Cite news|url=https://www.nytimes.com/1955/11/22/archives/the-screen-a-chiller-of-a-thriller-diabolique-a-french-film-at-fine.html|title=The Screen: A Chiller of a Thriller; 'Diabolique,' a French Film, at Fine Arts|last=Crowther|first=Bosley|date=22 November 1955|newspaper=[[The New York Times]]|archive-url=https://archive.today/20260102005938/https://www.nytimes.com/1955/11/22/archives/the-screen-a-chiller-of-a-thriller-diabolique-a-french-film-at-fine.html|archive-date=2 January 2026|url-status=live|author-link=Bosley Crowther}}</ref> The ''[[Chicago Tribune|Chicago Daily Tribune]]'' wrote, "If you like a good mystery and can stand it fairly morbid and uncompromising as to detail, this is one of the best offerings in a long time." The reviewer added, "You may suspect, as I did, one of the answers as the film nears its finale, but if you solve it all, you've missed your profession."<ref>{{Cite news|last=Tinee|first=Mae|date=26 December 1955|page=20F|url=https://www.newspapers.com/article/chicago-tribune-diabolique/110704570/|via=Newspapers.com|title='Diabolique' Is Top Notch Thriller|newspaper=[[Chicago Tribune|Chicago Daily Tribune]]}}</ref> ''[[Variety (magazine)|Variety]]'' was more critical: “Although this has a few hallucinating bits of terror, the film is primarily a creaky-door type of melodrama. Its macabre aspects and lack of sympathy for the characters make this a hybrid which flounders between a blasting look at human infamy and an out-and-out contrived whodunit."<ref>{{Cite magazine|url=https://variety.com/1954/film/reviews/les-diaboliques-1200417881/|title=Les Diaboliques|author=''Variety'' Staff|date=1955|magazine=[[Variety (magazine)|Variety]]|url-status=live|archive-url=https://archive.today/20260102005815/https://variety.com/1954/film/reviews/les-diaboliques-1200417881/|archive-date=2 January 2026}}</ref> 
+
+Dorothy Masters of the ''[[New York Daily News]]'' praised the lead performances of Signoret, Clouzot, and Meurisse, and gave the film a three and a half out of four star-rating, summarizing: "The arch fiends of hell couldn't have plotted better than Pierre Boileau and Thomas Narcejac...&nbsp;The horrors, psychological and physical, make this a shocker worthy of the devil himself."<ref>{{cite news|work=[[New York Daily News]]|date=22 November 1955|last=Masters|first=Dorothy|title=Shocker From France Opens at Fine Arts|url=https://www.newspapers.com/article/daily-news/188364505/|via=Newspapers.com|page=51}}</ref> Hortense Morton of the ''[[San Francisco Examiner]]'' praised the film as "a super suspense yarn knitted together with a deft Gallic touch. [[Madame Defarge|Madam Dufarge]] ''[sic]'' couldn't do better, and a splendid, very splendid cast, sees that no dramatic stitches are dropped."<ref>{{cite news|title='Diabolique': Suspense Shocker in French|last=Morton|first=Hortense|date=31 December 1955|page=8|via=Newspapers.com|work=[[San Francisco Examiner]]|url=https://www.newspapers.com/article/the-san-francisco-examiner-diabolique/110705456/}}</ref> [[National Board of Review|The National Board of Review]] named it among the best foreign films of 1955,<ref name=NationalBoard>{{cite web|url=http://www.nationalboardofreview.org/award-years/1955/|title=1955 Archives|website=[[National Board of Review]]|url-status=live|archive-url=https://archive.today/20260102052927/https://nationalboardofreview.org/award-years/1955/|archive-date=2 January 2026}}</ref> and called it "a genuine thriller—a shocking, satisfying chunk of ''Grand Guignol'' psychological suspense."{{sfn|Vermilye|1988|p=121}} 
+
+Reviews from British film critics were less favorable.{{sfn|Hayward|2005|pages=100–101}} [[Milton Shulman]] in the ''[[Sunday Express]]'' accused the film of "calculated malevolence", and commented that "it is no trick to sicken an audience by such blunt methods as these."<ref>{{Cite news|title=Review of Diabolique|last=Shulman|first=Milton|date=1955-12-04|newspaper=[[Sunday Express]]}}</ref> [[C. A. Lejeune]] in ''[[The Observer]]'' called it "extremely clever and very horrid," and complained about "a vogue at the moment for the horrid in entertainment."<ref>{{Cite news|title=Review of Diabolique|last=Lejeune|first=C. A.|author-link=C. A. Lejeune|date=4 December 1955|newspaper=[[The Observer]]|page=9|url=https://www.newspapers.com/article/the-observer-diabolique/110700326/|via=Newspapers.com}}</ref> Reg Whiteley in the ''[[Daily Mirror]]'' described it as "a suspenseful but sordid slice of French life," and exclaimed: "Just how horrible can films get?"<ref>{{Cite news|title=Review of Diabolique|last=Whiteley|first=Reg|date=2 December 1955|newspaper=[[Daily Mirror]]}}</ref> [[Alan Brien]] of ''[[Nottingham Journal|The Guardian Journal]]'' panned the film, writing that "as the work of a minor Hitchcock," the film would be "eminently acceptable. From Henri-Georges Clouzot, the director of ''[[The Wages of Fear]]'', it must be reckoned a disappointment."<ref>{{cite news|work=[[Nottingham Journal|The Guardian Journal]]|author-link=Alan Brien|date=3 December 1955|last=Brien|first=Alan|title=Week Full of Surprises Among New Films|page=4|via=Newspapers.com|url=https://www.newspapers.com/article/the-guardian-journal/188364233/}}</ref>
+
+[[Roger Ebert]], reviewing the film during its 1995 re-release, wrote: "The famous plot of the movie usually deceives first-time viewers, at least up to a point. The final revelations are somewhat disappointing, but Clouzot doesn't linger over them. The most disturbing elements of the movie are implied, not seen."<ref>{{Cite web|url=https://www.rogerebert.com/reviews/diabolique-1995|title=Diabolique movie review & film summary (1955)|last=Ebert|first=Roger|date=17 February 1995|url-status=live|archive-url=https://archive.today/20200502050213/https://www.rogerebert.com/reviews/diabolique-1995|archive-date=2 May 2020|author-link=Roger Ebert|website=[[RogerEbert.com]]}}</ref> ''[[Time Out (magazine)|Time Out]]'' commented that the film "makes for a great piece of Guignol misanthropy" where "everyone is in the end a victim, and their actions operate like snares setting traps that leave them grasping for survival."<ref>{{Cite magazine|url=https://www.timeout.com/london/film/diabolique-1955|title=Diabolique|magazine=[[Time Out (magazine)|Time Out]]|date=7 September 2012|url-status=live|archive-url=https://archive.today/20260102054010/https://www.timeout.com/movies/diabolique-1|archive-date=2 January 2026}}</ref>
+
+{{Rotten Tomatoes prose|95|8.6|85|consensus=Cruel, dark, but undeniably effective, ''Diabolique'' is a suspense thriller as effective as Hitchcock's best work and with a brilliant twist ending.|access-date=30 December 2025|ref=y}}  
+
+===Accolades===
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col" style="width:20em;"| Award/association
+! scope="col" style="width:8em;"| Year
+! scope="col" style="width:15em;"| Category
+! scope="col"| Recipient(s) and nominee(s)
+! scope="col"| Result
+! scope="col" class="unsortable"| {{Abbr|Ref.|Reference(s)}}
+|-
+! scope="row"| [[List of Edgar Allan Poe Award for Best Motion Picture Screenplay winners|Edgar Allan Poe Awards]]
+| 1956
+| colspan="2"| Best Foreign Film
+| {{won}}
+| style="text-align:center;"|<ref>{{Cite web|url=http://theedgars.com/awards/category-list-best-foreign-film/|title=Category List – Best Foreign film |work=[[Edgar Awards|Edgars Database]]|url-status=live|archive-url=https://archive.today/20260101225143/https://edgarawards.com/category-list-best-foreign-film/|archive-date=1 January 2026}}</ref>
+|-
+! scope="row" rowspan="2"| [[Louis Delluc Prize]]
+| rowspan="2"| 1954
+| Best Film
+| [[Henri-Georges Clouzot]]
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web|last=Ferrara|first=Greg|url=https://www.tcm.com/articles/467334/the-critics-corner-diabolique|work=[[Turner Classic Movies]]|title=The Critics' Corner - Diabolique|date=30 December 2011|archive-url=https://archive.today/20260102053755/https://www.tcm.com/articles/467334/the-critics-corner-diabolique|archive-date=2 January 2026}}</ref>
+|-
+| Best Actress
+| [[Simone Signoret]]
+| {{won}}
+| style="text-align:center;"| {{sfn|Minot|1997|p=16}}
+|-
+! scope="row"| [[National Board of Review]]
+| 1955
+| colspan="2"| Top Foreign Film
+| {{won}}
+| style="text-align:center;"| <ref name=NationalBoard/>
+|-
+! scope="row"| [[New York Film Critics Circle|New York Film Critics Circle Awards]]
+| 1955
+| colspan="2"| Best Foreign Film
+| {{won}}{{efn-lr|Tied with ''[[Umberto D.]]''}}
+| style="text-align:center;"| <ref>{{cite news|url=https://www.newspapers.com/article/the-oregonian/187969176/|date=29 December 1955|page=9|work=[[The Oregonian]]|title=Critics Pick 2 Best of Year|via=Newspapers.com}}</ref> 
+|-
+|}
+
+==Legacy and influence==
+''Les Diaboliques'' is regarded among film critics and historians as an influential classic of the [[horror film|horror genre]].{{sfn|Bansak|2003|pages=498–499}}{{sfn|Weismann|2021|p=74}}<ref>{{cite encyclopedia|url=https://www.britannica.com/topic/Les-Diaboliques|encyclopedia=[[Encyclopædia Britannica]]|title=Les Diaboliques|url-status=live|archive-url=https://archive.today/20260102055307/https://www.britannica.com/topic/Les-Diaboliques|archive-date=2 January 2026}}</ref><ref name=Scovell>{{cite web|url=https://www.bbc.com/culture/article/20250414-the-1950s-french-horror-that-inspired-psycho|last=Scovell|first=Adam|work=[[BBC]]|title='The epitome of what the horror film should be': How 1950s French horror Les Diaboliques inspired Psycho|date=15 April 2025|url-status=live|archive-url=https://web.archive.org/web/20251213041654/https://www.bbc.com/culture/article/20250414-the-1950s-french-horror-that-inspired-psycho|archive-date=13 December 2025}}</ref> The [[Harvard Film Archive]] describes the film as "a work of audacious trickery that entirely reinvented the rules for mystery cinema."<ref>{{cite web|work=[[Harvard Film Archive]]|title=Diabolique|url=https://harvardfilmarchive.org/calendar/diabolique-2011-12|date=17 December 2011|url-status=live|archive-url=https://archive.today/20260102055645/https://harvardfilmarchive.org/calendar/diabolique-2011-12|archive-date=2 January 2026}}</ref> Writing for ''[[Senses of Cinema]]'' in 2011, Pedro Blas Gonzalez describes ''Les Diaboliques'' as "one of the greatest suspense films of all time."<ref>{{cite web|work=[[Senses of Cinema]]|last=Gonzalez|first=Pedro Blas|date=November 2011|title=Les Diaboliques|url=https://www.sensesofcinema.com/2011/cteq/les-diaboliques/|url-status=live|archive-url=https://archive.today/20260102084332/https://www.sensesofcinema.com/2011/cteq/les-diaboliques/|archive-date=2 January 2026}}</ref> It has also been cited as one of the scariest films ever made.<ref name=Independent>{{cite web|work=[[The Independent]]|title=Is Les Diaboliques the scariest film ever made?|date=20 August 2021|url-status=live|url=https://www.the-independent.com/independentpremium/culture/les-diaboliques-scary-film-b1905163.html|last=Macnab|first=Geoffrey|archive-url=https://archive.today/20260102055109/https://www.the-independent.com/independentpremium/culture/les-diaboliques-scary-film-b1905163.html|archive-date=2 January 2026}}</ref><ref>{{cite web|url=https://emanuellevy.com/review/diabolique-1955-scariest-film-made/|work=EmanuelLevy.com|last=Levy|first=Emanuel|title=Diabolique (1955)|author-link=Emanuel Levy|date=5 June 2011|url-status=live|archive-url=https://archive.today/20260102084555/https://emanuellevy.com/review/diabolique-1955-scariest-film-made/|archive-date=2 January 2026}}</ref>
+
+[[Kim Newman]] wrote in ''[[Empire (magazine)|Empire]]'': "The horrific mystery has lost only a fraction of its power over the years, though literally dozens of films (see: ''[[Deathtrap (film)|Deathtrap]]'', ''[[Hush...Hush, Sweet Charlotte|Hush... Hush, Sweet Charlotte]]'', ''[[Games (film)|Games]]'' etc.) have borrowed part or all of its tricky storyline. This was one of the first movies to depend on a twist ending which forces you to reassess everything you thought you had been told earlier in the film."<ref>{{Cite magazine|url=https://www.empireonline.com/movies/reviews/les-diaboliques-review/|title=Les Diaboliques|last=Newman|first=Kim|date=1 January 2011|magazine=[[Empire (magazine)|Empire]]|author-link=Kim Newman|url-status=live|archive-url=https://archive.today/20260101233334/https://www.empireonline.com/movies/reviews/les-diaboliques-review/|archive-date=1 January 2026}}</ref> The [[British Film Institute]] included it in their list of the "100 Best Thrillers of All Time", calling it "a compelling, grisly thriller... capped by an unforgettable twist ending."<ref>{{Cite web|url=https://www.bfi.org.uk/lists/100-essential-thrillers|title=100 essential thrillers|date=16 October 2017 |publisher=[[British Film Institute]]|archive-url=https://archive.today/20260102054550/https://www.bfi.org.uk/lists/100-essential-thrillers|archive-date=2 January 2026}}</ref> ''The Guardian'' listed it at number 19 among the 25 best horror films of all time.<ref>{{Cite news|url=https://www.theguardian.com/film/2010/oct/22/les-diaboliques-clouzot|title=Les Diaboliques: No 19 best horror film of all time|last=O'Neill|first=Phelim|date=22 October 2010|newspaper=[[The Guardian]]|archive-url=https://archive.today/20260101233415/https://www.theguardian.com/film/2010/oct/22/les-diaboliques-clouzot|archive-date=1 January 2026|url-status=live}}</ref> The scene in which Michel emerges from the bathtub ranked number 49 on [[Bravo (US TV channel)|Bravo]]'s ''100 Scariest Movie Moments''.<ref>{{Cite web|url=https://thefilmspectrum.com/?page_id=7124|title=BRAVO's 100 Scariest Movie Moments|website=The Film Spectrum|url-status=live|archive-url=https://archive.today/20260102061450/https://thefilmspectrum.com/rankings/bravos-100-scariest-movie-moments|archive-date=2 January 2026}}</ref>
+
+Critical discussion of the film has often been linked to the films of [[Alfred Hitchcock]].<ref name=Scovell/><ref>{{cite web|url=https://www.interviewmagazine.com/film/diabolique-criterion|work=[[Interview (magazine)|Interview]]|title=More Psycho than Psycho: Clouzot's Diabolique|date=10 May 2011|url-status=live|archive-url=https://archive.today/20260103090320/https://www.interviewmagazine.com/film/diabolique-criterion|archive-date=3 January 2026}}</ref>{{sfn|Hayward|2005|pages=9–12}} According to film historian Susan Hayward, Hitchcock missed out on purchasing the rights to the Boileau and Narcejac novel by just a few hours, with Clouzot getting to the authors first.{{sfn|Hayward|2005|p=13}}{{efn-lr|[[François Truffaut]], in his book-length interview ''Hitchcock/Truffaut'' (1967), suggested that Boileau and Narcejac then wrote ''[[The Living and the Dead (Boileau-Narcejac novel)|D'Entre les Morts]]'' specifically for Hitchcock, who adapted the latter book for ''[[Vertigo (film)|Vertigo]]'' (1958).{{sfn|Truffaut|1985|p=243}} However, Narcejac later refuted Truffaut's statement.}} While making ''[[Vertigo (film)|Vertigo]]'' (1958), Hitchcock frequently screened ''Les Diaboliques'' for himself as well as his collaborators.{{sfn|Barr|2021|p=83}} Milan Terlunen, writing for ''[[CrimeReads]]'', views ''Les Diaboliques'' as a crucial progenitor of Hitchcock's ''[[Psycho (1960 film)|Psycho]]'' (1960), and notes that both films "achieve something very rare: a perfect plot twist but an unspoilable movie."<ref>{{Cite web|work=[[CrimeReads]]|last=Terlunen|first=Milan|title=On the Art of the Plot Twist|date=28 January 2021|url-status=live|url=https://crimereads.com/on-the-art-of-the-plot-twist/|archive-url=https://archive.today/20260103084240/https://crimereads.com/on-the-art-of-the-plot-twist/|archive-date=3 January 2026}}</ref> Academic Charles Barr characterizes the advertising campaign of ''Psycho'' as "a highly effective rip-off" of that of ''Les Diaboliques'', utilizing similar marketing tactics cautioning and preventing audience members from revealing the film's surprise ending.{{sfn|Barr|2021|p=84}} 
+
+[[Robert Bloch]], author of the 1959 novel ''[[Psycho (novel)|Psycho]]'' on which the Hitchcock film was based, named ''Les Diaboliques'' as his favorite horror film of all time.<ref name=Bloch/><ref name=Bui/> British filmmaker [[Jimmy Sangster]] also cited it as a major influence on his writing and directing, stating: "most of my 'psycho' type movies...&nbsp;were derivative of each other and they all went back to my original inspiration: ''Les Diaboliques''. I'm not the only one to follow that path. I guess I just did it more than most."{{sfn|Huckvale|2014|p=11}} Film historian Edmund G. Bansak also cites the film as a significant influence on American filmmaker [[William Castle]].{{sfn|Bansak|2003|p=498}}
+
+==Related works==
+In 1964, television writer-producer-director [[Joseph Stefano]] was inspired by this film to create a pilot for a thriller anthology series for the [[American Broadcasting Company]] (ABC). Titled ''The Unknown'', the pilot failed to take off. Stefano then rewrote and reshot it—adding fantasy elements in the process—as an episode of ''[[The Outer Limits (1963 TV series)|The Outer Limits]]'' called "[[The Forms of Things Unknown]]".<ref>{{cite web|url=https://www.nytimes.com/2007/07/15/arts/television/15evan.html|work=[[The New York Times]]|title=It Came From the '60s, Cheesy but Influential|last=Evans|first=Greg|date=15 July 2007|archive-url=https://archive.today/20130707063420/http://www.nytimes.com/2007/07/15/arts/television/15evan.html?_r=0#selection-467.1-498.0|archive-date=7 July 2013|url-status=live}}</ref>
+
+The 1967 film ''[[Games (film)|Games]]'', directed by [[Curtis Harrington]] and starring [[James Caan]] and [[Katharine Ross]], has a different basic situation, but similar twists at the end, and again features [[Simone Signoret]] as the corrupt woman of mystery.<ref name=Stafford>{{cite web|url=https://www.tcm.com/articles/1214/diabolique-1955-diabolique|work=[[Turner Classic Movies]]|last=Stafford|first=Jeff|date=21 October 2002|url-status=live|archive-url=https://archive.today/20260102021906/https://www.tcm.com/articles/1214/diabolique-1955-diabolique|archive-date=2 January 2026|title=Diabolique (1955)}}</ref>
+
+An American [[television film]] version of ''Les Diaboliques'', titled ''[[Reflections of Murder]]'', was made by ABC in 1974, starring [[Tuesday Weld]], [[Joan Hackett]], and [[Sam Waterston]].<ref name=Natale/> In 1993, another made-for-television film remake was made; this one was titled ''House of Secrets'', and it starred [[Melissa Gilbert]].<ref name=Natale>{{cite news|url=https://www.latimes.com/archives/la-xpm-1995-09-10-ca-44125-story.html|last=Natale|first=Richard|date=10 September 1995|work=[[Los Angeles Times]]|title=MOVIES : It's a Remake--But Then Again, It's Not : Take a 1955 French thriller and set it in Pittsburgh with Sharon Stone. What have you got? Well, you can call it 'Diabolique'|archive-url=https://archive.today/20250723040716/https://www.latimes.com/archives/la-xpm-1995-09-10-ca-44125-story.html|archive-date=23 July 2025}}</ref> In 1996, the film was remade again as ''[[Diabolique (1996 film)|Diabolique]]'', adapted by [[Don Roos]], directed by [[Jeremiah S. Chechik]], and starring [[Sharon Stone]] and [[Isabelle Adjani]] in the leading female roles, with [[Chazz Palminteri]] as the husband and [[Kathy Bates]] as the detective.<ref name=Natale/>
+
+==Notes==
+{{Notelist-lr}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+{{Refbegin|30em}}
+* {{cite book|last=Bansak|first=Edmund G.|title=Fearing the Dark: The Val Lewton Career|publisher=[[McFarland & Company]]|isbn=978-0-7864-1709-4|year=2003|location=Jefferson, North Carolina|url=https://books.google.com/books?id=Tla20AU48uMC}}
+*{{cite book|last=Barr|first=Charles|year=2021|title=Haunted by Vertigo: Hitchcock's Masterpiece Then and Now|editor1=Gottlieb, Sidney|editor2=Martin, Donal|pages=77–94|chapter=Hitchcock and Vertigo: French and Other Connections|publisher=John Libbey Publishing|location=New Barnet, England|isbn=978-0-861-96988-3}}
+*{{cite book|last=Buss|first=Robin|url=https://archive.org/details/frenchfilmnoir0000buss_n0r7/page/24/mode/2up|title=French Film Noir|date=2001|publisher=[[Marion Boyars Publishers|Marion Boyars]]|isbn=978-0-714-53036-9|location=London, England|oclc=44652477|url-access=registration}}
+*{{cite book|last=Guérif|first=François|title=Le cinéma policier français|year=1986|publisher=Artefact|language=fr|isbn=978-2-851-99403-5|oclc=489779740}}
+*{{cite book |last=Hawkins |first=Joan|year=2002|editor1=Gottlieb, Sidney|editor2=Brookhouse, Christopher|chapter="See it From the Beginning": Hitchcock's Reconstruction of Film History|pages=373–386|title=Framing Hitchcock: Selected Essays from the Hitchcock Annual|publisher=[[Wayne State University Press]]|location=Detroit, Michigan|isbn=978-0-814-33061-6}}
+*{{cite book|last=Hayward|first=Susan|year=2004|title=Simone Signoret: The Star as Cultural Sign|publisher=Bloomsbury|location=New York City, New York|isbn= 978-0-826-41394-9}}
+*{{cite book |last=Hayward |first=Susan |url=https://archive.org/details/lesdiaboliques0000hayw |title=Les Diaboliques (Henri-Georges Clouzot, 1955) |series=French Film Guides |location=Urbana and Chicago, Illinois |publisher=[[University of Illinois Press]] |year=2005 |isbn=978-0-252-03089-5 |url-access=registration}}
+*{{cite book|last=Huckvale|first=David|title=Hammer Films' Psychological Thrillers, 1950–1972|year=2014|isbn=978-1-4766-0421-3|location=Jefferson, North Carolina|publisher=[[McFarland & Company]]|oclc=870994470}}
+*{{cite book|last=Mayne|first=Judith|title=Framed: Lesbians, Feminists, and Media Culture|year=2000|publisher=University of Minnesota Press|isbn=978-0-816-63457-6|location=Minneapolis, Minnesota|oclc=43555067}}
+*{{cite journal|last=Minot|first=Alain|date=June 1997|journal=L'Avant-scène|issn=0045-1169|location=Paris, France|title=Les diaboliques|language=fr}}
+*{{cite book|editor-last=Schneider|editor-first=Steven Jay|title=100 European Horror Films|series=BFI Screen Guides|publisher=[[British Film Institute]]|year=2007|location=London, England|isbn=978-1-84457-164-2|oclc=175215721}}
+*{{cite book|last1=Truffaut|first1=François|author1-link=François Truffaut|year=1985|title=Hitchcock/Truffaut|publisher=[[Simon & Schuster]]|location=New York City, New York|isbn=978-0-671-60429-5}}
+*{{cite book|editor-last=Vermilye|editor-first=Jerry|url=https://archive.org/details/500bestbritishfo00verm/page/121|title=500 Best British and Foreign Films to Buy, Rent, or Videotape|year=1988|publisher=W. Morrow|others=National Board of Review of Motion Pictures (U.S.)|isbn= 978-0-688-07798-3|edition=1st|location=New York City, New York|oclc=16901342|url-access=registration}} 
+*{{cite book|last=Weismann|first=Brad|year=2021|title=Lost in the Dark: A World History of Horror Film|publisher=[[University Press of Mississippi]]|location=Jackson, Mississippi|isbn=978-1-496-83323-5}}
+{{Refend}}
+
+==Further reading==
+* {{cite journal|last=Hayward|first=Susan|url=https://www.tandfonline.com/doi/abs/10.1386/sfci.3.1.5/0|title=Literary adaptations of the 1950s Thérèse Raquin (1953) and Les Diaboliques (1955)|journal=[[Studies in French Cinema]]|year=2003|volume=3|issue=1|pages=5–14 |doi=10.1386/sfci.3.1.5/0 |url-access=subscription}}
+* {{cite journal|last=Moon|first=Perry|url=https://read.dukeupress.edu/romanic-review/article-abstract/103/1-2/255/165963/Une-peinture-morale-Intertextuality-in-Clouzot-s?redirectedFrom=fulltext|title=Une peinture morale: Intertextuality in Clouzot's Les Diaboliques|journal=[[Romanic Review]]|date=January 2012|volume=103|issue=1–2|pages=255–272 |doi=10.1215/26885220-103.1-2.255 |url-access=subscription}}
+* {{cite journal|last=Wayant|first=Chelsea|title=Les Diaboliques|journal=[[Film International]]|place=Gothenburg|year=2007|volume=5|issue=2|page=61}}
+
+==External links==
+{{Commons category}}
+* {{IMDb title}}
+* {{Rotten Tomatoes}}
+* {{TCMDb title}}
+* [https://www.criterion.com/current/posts/1859-diabolique-murder-considered-as-one-of-the-fine-arts ''Diabolique: Murder Considered as One of the Fine Arts''] – an essay by [[Terrence Rafferty]] at [[The Criterion Collection]] 
+* [https://www.criterion.com/current/posts/53-diabolique ''Diabolique''] – an essay by [[Danny Peary]] at The Criterion Collection
+
+{{Henri-Georges Clouzot|state=autocollapse}}
+
+{{DEFAULTSORT:Diaboliques, Les}}
+[[Category:1955 films]]
+[[Category:1955 horror films]]
+[[Category:1955 French films]]
+[[Category:1955 French-language films]]
+[[Category:1950s horror thriller films]]
+[[Category:1950s psychological horror films]]
+[[Category:1950s psychological thriller films]]
+[[Category:Edgar Award–winning works]]
+[[Category:Fiction about mariticide]]
+[[Category:Films about uxoricide]]
+[[Category:Films about adultery in France]]
+[[Category:Films about abuse]]
+[[Category:Films about disability in France]]
+[[Category:Films based on French novels]]
+[[Category:Films based on mystery novels]]
+[[Category:Films based on works by Boileau-Narcejac]]
+[[Category:Films directed by Henri-Georges Clouzot]]
+[[Category:Films scored by Georges Van Parys]]
+[[Category:Films set in boarding schools]]
+[[Category:Films set in Île-de-France]]
+[[Category:Films set in Nouvelle-Aquitaine]]
+[[Category:Films shot at Saint-Maurice Studios]]
+[[Category:Films shot in Paris]]
+[[Category:Films shot in Yvelines]]
+[[Category:Films with screenplays by Henri-Georges Clouzot]]
+[[Category:French black-and-white films]]
+[[Category:French horror thriller films]]
+[[Category:French psychological horror films]]
+[[Category:French psychological thriller films]]
+[[Category:Louis Delluc Prize winners]]

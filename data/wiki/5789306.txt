@@ -1,0 +1,1817 @@
+{{Short description|None}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox artist discography
+| Artist       = [[A-ha]]
+| Image        = A-ha 1985 Press Photo.jpg
+| Caption      = a-ha in 1985
+| Studio       = 11
+| Compilation  = 8
+| Live         = 5
+| Video        = 7
+| EP           = 10
+| Tribute      =
+| Singles      = 50
+| Music videos = 44
+| B-sides      =
+| Soundtrack   =
+| 1Option      = 6
+| 1Option name = Promotional singles
+| 2Option      = 6
+| 2Option name = Box sets
+| 3Option      = 9
+| 3Option name = Reissues
+| 4Option      = 1
+| 4Option name = Demo Tapes
+}}
+The [[discography]] of [[A-ha]], a Norwegian [[synth-pop]] band, consists of eleven studio albums, eight [[compilation album]]s, six [[box set]]s, ten [[extended play]]s, and fifty [[Single (music)|singles]]. This list does not include solo material or other projects recorded by A-ha band members.
+
+A-ha was formed in 1982 by vocalist [[Morten Harket]], guitarist [[Paul Waaktaar-Savoy]], and keyboardist [[Magne Furuholmen]]. The band moved to [[London]] and eventually signed with [[Warner Bros. Records]]. They released their debut album ''[[Hunting High and Low]]'' in 1985, which remains their biggest success and contained their international break-through hit song "[[Take On Me]]". The band has scored two top twenty US hits in their career, but has had several hit singles in many countries in Europe, South America and their native Norway. By 1993, the band had released five studio albums before going on hiatus the following year.
+
+After a performance at the Nobel Peace Prize Concert in 1998, the band returned to the studio and recorded a new album, ''[[Minor Earth Major Sky]]'', which was released in 2000. Their next album, ''[[Lifelines (A-ha album)|Lifelines]]'', was released in 2002, but would be their final album for Warner Bros. After signing to [[Polydor Records|Polydor]] (part of [[Universal Music Group|Universal Music]]), further new albums were released in 2005 and 2009, after which the band decided to break up. However, they reformed for yet another new album, ''[[Cast in Steel]]'', which was released in 2015. In 2022 they signed a one-album deal with [[RCA Records|RCA]]/[[Sony Music]] and released the [[True North (A-ha album)|''True North'']] album in 2022.<ref>{{Cite web |title=RCA Germany gewinnt a-ha für weltweiten Album- und Film-Release |url=https://beta.musikwoche.de/details/467934 |access-date=2022-10-30 |website=beta.musikwoche.de}}</ref> Harket, Furuholmen and Waaktaar-Savoy have been awarded [[Spellemannprisen]] 8 times.<ref>{{cite web | url=https://spellemann.no/arkiv/?aar=&klasse=&artist-tittel=A-ha | title=Spellemann - Arkiv over alle nominerte og vinnere fram til i dag! | date=2 September 2019 }}</ref> Through 2009 A-ha had sold over 100 million records worldwide.<ref name="musicnorway.no">{{Cite web|url=http://musicnorway.no/artist/a-ha-2/|title=a-ha - Music Norway EN|access-date=4 February 2016|archive-date=5 November 2016|archive-url=https://web.archive.org/web/20161105204602/http://musicnorway.no/artist/a-ha-2/|url-status=dead}}</ref> The band has released eleven studio albums, five compilations and four live albums.<ref name="musicnorway.no"/>
+
+In their native Norway, eight of the band's studio albums and eight of their singles have reached number one.
+
+==Albums==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:15em;" | Title
+! rowspan="2" scope="col" style="width:16em;" | Album details
+! colspan="11" |Peak chart positions
+! rowspan="2" |[[Music recording certification|Certifications]]
+|-
+! scope="col" style="width:2em;font-size:90%;" | [[VG-lista|NOR]]<br /><ref name="NOR">{{cite web |title=norwegiancharts.com > A-ha in Norwegian Charts |url=https://norwegiancharts.com/showinterpret.asp?interpret=A-ha |access-date=16 June 2019 |publisher=Hung Medien}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Kent Music Report|AUS]]<br /><ref name="aus2">Australian chart peaks:
+* Top 100 ([[Kent Music Report]]) peaks to 12 June 1988: {{cite book |last=Kent |first=David |title=Australian Chart Book 1970–1992 |publisher=Australian Chart Book |year=1993 |isbn=0-646-11917-6 |edition=Illustrated |location=Sydney |page=13 |author-link=David Kent (historian)}} N.B. This chart was licensed by [[Australian Recording Industry Association|ARIA]] between mid-1983 and 12 June 1988.
+* All ARIA-era (commencing 13 June 1988) peaks: {{cite web |title=Response from ARIA re: a-ha ARIA chart history, received 22 December 2017 |url=https://i.imgur.com/Ph2S9QW.jpg |access-date=22 December 2017 |publisher=Imgur.com}} N.B. The High Peak number in the NAT column displays the release's peak on the national chart.</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT">{{cite web |title=austriancharts.at > A-ha in der Österreichischen Hitparade |url=https://austriancharts.at/showinterpret.asp?interpret=A-ha |access-date=16 June 2019 |publisher=Hung Medien |language=de}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web |title=lescharts.com > A-ha dans les Charts Français |url=https://lescharts.com/showinterpret.asp?interpret=A-ha |access-date=16 June 2019 |publisher=Hung Medien |language=fr}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref name="GER">{{cite web |title=Offizielle Deutsch Charts > Suchen nach: "A-ha" |url=https://www.offiziellecharts.de/suche?artist_search=A-Ha&do_search=do |access-date=16 June 2019 |publisher=GfK Entertainment |language=de}} N.B. Select Album tab to display albums chart peaks.</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Oricon Albums Chart|JPN]]<br /><ref name="jp">Japanese album chart peaks:
+* Up until 2005: {{cite book |title=Oricon Album Chart Book: Complete Edition 1970–2005 |publisher=Oricon Entertainment |year=2006 |isbn=4-87131-077-9 |location=[[Roppongi]], Tokyo}}
+* All except noted: {{cite web |script-title=ja:a～haの作品 |trans-title=Works of a-ha |url=https://www.oricon.co.jp/prof/27061/products/ |access-date=2 November 2022 |publisher=[[Oricon]] |language=ja}}
+* ''Foot of the Mountain'': {{cite web |title= |script-title=ja:フット・オブ・ザ・マウンテン {{!}} a～ha |trans-title=Foot of the Mountain {{!}} a-ha |url=https://www.oricon.co.jp/prof/27061/products/840248/1/ |access-date=31 July 2022 |publisher=[[Oricon]] |language=ja}}
+* ''Hunting High and Low (Deluxe Edition)'': {{cite web |title= |script-title=ja:ハンティング・ハイ・アンド・ロウ(デラックス・エディション) {{!}} a～ha |trans-title=Hunting High and Low (Deluxe Edition) |url=https://www.oricon.co.jp/prof/27061/products/877149/1/ |access-date=1 August 2022 |publisher=[[Oricon]] |language=ja}}
+* ''Scoundrel Days (Deluxe Edition)'': {{cite web |title= |script-title=ja:スカウンドレル・デイズ(デラックス・エディション) {{!}} a～ha |trans-title=Scoundrel Days (Deluxe Edition) |url=https://www.oricon.co.jp/prof/27061/products/877150/1/ |access-date=1 August 2022 |publisher=[[Oricon]] |language=ja}}
+* ''25'': {{cite web |title= |script-title=ja:25～コンプリート・ベスト【ジャパン・エディション {{!}} a～ha |trans-title=25–Complete Best [Japan Edition] {{!}} a-ha |url=https://www.oricon.co.jp/prof/27061/products/885866/1/ |access-date=31 July 2022 |publisher=[[Oricon]] |language=ja}}
+* ''Greatest Hits – Japanese Singles Collection'': {{cite web |title= |script-title=ja:グレイテスト・ヒッツ-ジャパニーズ・シングル・コレクション- {{!}} a～ha |trans-title=Greatest Hits – Japanese Singles Collection {{!}} a-ha |url=https://www.oricon.co.jp/prof/27061/products/1348841/1/ |access-date=31 July 2022 |publisher=[[Oricon]] |language=ja}}
+* ''Hunting High and Low (Expanded Edition)'': {{cite web |title= |script-title=ja:ハンティング・ハイ・アンド・ロウ(エクスパンデッド・エディション)- {{!}} a～ha |trans-title=Hunting High and Low (Expanded Edition) {{!}} a-ha |url=https://www.oricon.co.jp/prof/27061/products/1339871/1/ |access-date=1 August 2022 |publisher=[[Oricon]] |language=ja}}
+* ''True North'': {{cite web |title= |script-title=ja: トゥルー・ノース {{!}} a～ha |trans-title=True North {{!}} a-ha |url=https://www.oricon.co.jp/prof/27061/products/1457466/1/ |access-date=4 January 2023 |publisher=[[Oricon]] |language=ja}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Dutch Album Top 100|NL]]<br /><ref name="NLD">{{cite web |title=dutchcharts.nl > A-ha in Dutch Charts |url=https://dutchcharts.nl/showinterpret.asp?interpret=A-ha |access-date=16 June 2019 |publisher=Hung Medien |language=nl}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br /><ref name="SWE">{{cite web |title=swedishcharts.com > A-ha in Swedish Charts |url=https://swedishcharts.com/showinterpret.asp?interpret=A-ha |access-date=16 June 2019 |publisher=Hung Medien}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br /><ref name="SWI">Swiss chart peaks:
+* Albums: {{cite web |title=hitparade.ch > Suchen nach A-ha (alben) |url=https://hitparade.ch/search.asp?search=a-ha&cat=a |access-date=16 June 2019 |publisher=Hung Medien |language=de}}
+* Singles: {{cite web |title=hitparade.ch > Suchen nach A-ha (songs) |url=https://hitparade.ch/search.asp?search=a-ha&cat=s |access-date=16 June 2019 |publisher=Hung Medien |language=de}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[UK Albums Chart|UK]]<br /><ref name="UK">UK chart peaks:
+* Top 100 peaks: {{cite web |title=Official Charts > a-ha |url=https://www.officialcharts.com/artist/26315/a-ha/ |access-date=16 June 2019 |publisher=[[Official Charts Company]]}} N.B. This site uses the compressed singles chart (exclusion rules applied) for positions 76-100.
+* Top 200 peaks from November 1994 to December 2010: {{cite web |title=Chart Log UK 1994-2010 > A – Azzido Da Bass |url=http://www.zobbel.de/cluk/CLUK_A.HTM |access-date=16 June 2019 |publisher=zobbel.de}} N.B. This site uses the uncompressed singles chart (no exclusions) for positions 76-200, between November 1994 and May 2001.
+* For the 2015 deluxe edition reissues: {{cite web |title=CHART: CLUK Update 31.10.2015 (wk44) |url=http://www.zobbel.de/cluk/151031cluk.txt |access-date=1 August 2022 |publisher=zobbel.de}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Billboard 200|US]]<br /><ref name="US1">{{cite magazine |title=a-ha Chart History > Billboard 200 |url=https://www.billboard.com/artist/a-ha/chart-history/tlp/ |magazine=[[Billboard (magazine)|Billboard]] |access-date=29 March 2018}}</ref>
+|-
+! scope="row" |''[[Hunting High and Low]]''
+|
+* Released: 1 June 1985
+* Label: [[Warner Records|Warner Bros.]]
+* Formats: [[Compact disc|CD]], [[LP record|LP]], [[Cassette tape|MC]]
+|1
+|15
+|1
+|7
+|10
+|8
+|11
+|1
+|10
+|2
+|15
+|
+* [[International Federation of the Phonographic Industry|NOR]]: 2× Platinum<ref>{{cite magazine |date=27 December 1986 |title=European Gold & Platinum Awards 1986 |url=https://worldradiohistory.com/hd2/IDX-UK/Music/Archive-Music-Media-IDX/IDX/80s/86/M&M-1986-12-27-OCR-Page-0016.pdf |magazine=Music & Media |volume=3 |issue=51/52 |page=33 |oclc=29800226 |via=World Radio History}}</ref>
+* [[Australian Recording Industry Association|AUS]]: Gold<ref>{{cite web |date=2 March 2020 |title=ARIA Albums Chart 2 March 2020 |url=http://cdn.aria.com.au/pdfs/920CF75F17E9E04704B5D95A4D33BCCEA1F81AAF73B049800BE4698AB58267E0/ARIA%20Albums%20Chart.pdf?seq=30 |access-date=1 March 2020 |work=[[ARIA Charts]]}}</ref>
+* [[Bundesverband Musikindustrie|GER]]: 3× Gold<ref name="Germany's certification-database">{{cite certification|region=Germany|artist=A-ha|accessdate=26 September 2010}}</ref>
+* [[NVPI|NL]]: Gold<ref name="BVMI">{{cite certification|region=Netherlands|artist=A-ha|access-date=1 August 2022}}</ref>
+* [[British Phonographic Industry|UK]]: 3× Platinum<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=Hunting High And Low|id=3049-993-2|access-date=28 September 2022}}</ref>
+* [[Recording Industry Association of America|US]]: Platinum<ref name="BVMI3">{{cite certification|region=United States|artist=A-ha|access-date=1 August 2022}}</ref>
+|-
+! scope="row" |''[[Scoundrel Days]]''
+|
+* Released: 6 October 1986
+* Label: Warner Bros.
+* Formats: CD, LP, MC
+|1
+|17
+|9
+|7
+|4
+|6
+|6
+|11
+|6
+|2
+|74
+|
+* NOR: 2× Platinum<ref>{{cite magazine |date=27 December 1986 |title=Gold & Platinum Awards 1986 |url=https://worldradiohistory.com/hd2/IDX-UK/Music/Archive-Music-Media-IDX/IDX/80s/86/M&M-1986-12-27-OCR-Page-0017.pdf |magazine=Music & Media |volume=3 |issue=51/52 |page=34 |oclc=29800226 |via=World Radio History}}</ref>
+* GER: Platinum<ref name="Germany's certification-database" />
+* [[International Federation of the Phonographic Industry|SWI]]: Platinum<ref name="BVMI4">{{cite certification|region=Switzerland|artist=A-ha|access-date=1 August 2022}}</ref>
+* UK: 2× Platinum<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=Scoundrel Days|id=5724-993-2|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |''[[Stay on These Roads]]''
+|
+* Released: 3 May 1988
+* Label: Warner Bros.
+* Formats: CD, LP, MC
+|1
+|55
+|9
+|3
+|4
+|5
+|5
+|10
+|6
+|2
+|148
+|
+* GER: Gold<ref name="Germany's certification-database" />
+* NL: Gold<ref name="BVMI" />
+* SWI: Gold<ref name="BVMI4" />
+* UK: Gold<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=Stay On These Roads|id=6266-993-2|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |''[[East of the Sun, West of the Moon]]''
+|
+* Released: 22 October 1990
+* Label: Warner Bros.
+* Formats: CD, LP, MC
+|1
+|122
+|23
+|15
+|6
+|20
+|20
+|35
+|16
+|12
+|—
+|
+* GER: Gold<ref name="Germany's certification-database" />
+* SWI: Gold<ref name="BVMI4" />
+* UK: Silver<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=East Of The Sun, West Of The Moon|id=1993-993-2|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |''[[Memorial Beach]]''
+|
+* Released: 14 June 1993
+* Label: Warner Bros.
+* Formats: CD, LP, MC
+|1
+|132
+|36
+|25
+|17
+|27
+|64
+|39
+|39
+|17
+|—
+|
+|-
+! scope="row" |''[[Minor Earth Major Sky]]''
+|
+* Released: 17 July 2000
+* Label: [[Warner Music Group|WEA]]
+* Formats: CD, MC
+|1
+|169
+|4
+|41
+|1
+|53
+|55
+|36
+|3
+|27
+|—
+|
+* GER: Platinum<ref name="Germany's certification-database" />
+* SWI: Gold<ref name="BVMI4" />
+|-
+! scope="row" |''[[Lifelines (A-ha album)|Lifelines]]''
+|
+* Released: 24 April 2002
+* Label: WEA
+* Formats: CD, MC
+|1
+|—
+|2
+|30
+|1
+|99
+|92
+|21
+|6
+|67
+|—
+|
+* GER: Gold<ref name="Germany's certification-database" />
+|-
+! scope="row" |''[[Analogue (album)|Analogue]]''
+|
+* Released: 4 November 2005
+* Label: [[Polydor Records|Polydor]]
+* Formats: CD, MC, [[Music download|digital download]]
+|1
+|—
+|18
+|60
+|6
+|—
+|50
+|—
+|21
+|24
+|—
+|
+* UK: Silver<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=Analogue|id=493-993-2|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |''[[Foot of the Mountain]]''
+|
+* Released: 19 June 2009
+* Label: We Love Music/Polydor/[[Universal Music Group|Universal]]
+* Formats: CD, digital download
+|2
+|—
+|11
+|—
+|1
+|134
+|83
+|45
+|12
+|5
+|—
+|
+* GER: Platinum<ref name="Germany's certification-database" />
+|-
+! scope="row" |''[[Cast in Steel]]''
+|
+* Released: 4 September 2015
+* Label: We Love Music/Polydor/Universal
+* Formats: CD, 2×CD, LP, digital download
+|2
+|—
+|13
+|84
+|4
+|—
+|5
+|—
+|9
+|8
+|—
+|
+|-
+! scope="row" |''[[True North (A-ha album)|True North]]''
+|
+* Released: 21 October 2022<ref name="True North and I'm In2">{{cite web |date=5 July 2022 |title=a-ha return with 'I'm In' as lead single from forthcoming album 'True North' |url=https://retropopmagazine.com/a-ha-im-in-lead-single-true-north-album/ |access-date=6 July 2022 |website=Retropop Magazine}}</ref>
+* Label: [[RCA Records|RCA]]
+* Formats: CD, LP, digital download
+|3
+|—
+|8
+|38
+|4
+|39
+|11
+|6
+|5
+|12
+|—
+|
+|-
+| colspan="14" style="font-size:90%" |"—" denotes releases that did not chart or were not released in that territory.
+|}
+
+===Live albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:15em;" | Title
+! rowspan="2" scope="col" style="width:15em;" | Album details
+! colspan="8" |Peak chart positions
+|-
+! scope="col" style="width:2em;font-size:90%;" | [[VG-lista|NOR]]<br /><ref name="NOR" />
+! scope="col" style="width:2em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT" />
+! scope="col" style="width:2em;font-size:90%;" | [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA" />
+! scope="col" style="width:2em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref name="GER" />
+! scope="col" style="width:2em;font-size:90%;" | [[Dutch Album Top 100|NL]]<br /><ref name="NLD" />
+! scope="col" style="width:2em;font-size:90%;" | [[Productores de Música de España|SPA]]<br /><ref>{{Cite web |title=spanishcharts.com - Spanish charts portal |url=https://spanishcharts.com/search.asp?cat=a&search=a-ha |access-date=2022-07-31 |website=spanishcharts.com}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:2em;font-size:90%;" | [[UK Albums Chart|UK]]<br /><ref name="UK" />
+|-
+! scope="row" |''[[Live at Vallhall: Homecoming]]''
+|
+* Released: 5 November 2001
+* Label: Self-released
+* Formats: [[DVD]]+CD, [[VHS]]+CD
+* CD only available as a bonus with the video album from the band's website
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''[[How Can I Sleep with Your Voice in My Head]]''
+|
+* Released: 24 March 2003
+* Label: WEA
+* Formats: CD, 2×CD, MC
+|4
+|73
+|88
+|8
+|—
+|—
+|36
+|—
+|-
+! scope="row" |''[[Live at Vallhall: Homecoming|Live at Vallhall – Sight & Sound series CD & DVD set]]''
+|
+* Released: 28 July 2008
+* Label: [[Warner Music Group|Warner Music]]
+* Formats: CD+DVD
+* Reissue of 2001 album with full live CD
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''[[Ending on a High Note: The Final Concert]]''
+|
+* Released: 1 April 2011
+* Label: We Love Music/Universal
+* Formats: CD, DVD, [[Blu-ray]]
+|3
+|61
+|163
+|3
+|72
+|92
+|52
+|43
+|-
+! scope="row" |''[[MTV Unplugged: Summer Solstice]]''
+|
+* Released: 6 October 2017
+* Label: We Love Music/Polydor/Universal
+* Formats: 2×CD, 3×LP, DVD, Blu-ray, digital download
+|14
+|14
+|100
+|3
+|98
+|76
+|20
+|6
+|-
+| colspan="10" style="font-size:90%" |"—" denotes releases that did not chart or were not released in that territory.
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:15em;" | Title
+! rowspan="2" scope="col" style="width:15em;" | Album details
+! colspan="10" |Peak chart positions
+! rowspan="2" |Certifications
+|-
+! scope="col" style="width:2em;font-size:90%;" | [[VG-lista|NOR]]<br /><ref name="NOR" />
+! scope="col" style="width:2em;font-size:90%;" | [[Kent Music Report|AUS]]<br /><ref name="aus2" />
+! scope="col" style="width:2em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT" />
+! scope="col" style="width:2em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref name="GER" />
+! scope="col" style="width:2em;font-size:90%;" | [[Irish Albums Chart|IRE]]<br /><ref>{{Cite web |title=irishcharts.com - Discography a-ha |url=http://www.irish-charts.com/showinterpret.asp?interpret=a-ha |archive-url=https://web.archive.org/web/20110818163443/http://irish-charts.com/showinterpret.asp?interpret=A-ha |url-status=dead |archive-date=18 August 2011 |access-date=2022-07-31 |website=www.irish-charts.com}}</ref><ref>{{Cite web |title=Irish Album Charts 1991/1992 (and a bit of 1990) |url=https://www.ukmix.org/forum/chart-discussion/chart-analysis/10875940-irish-album-charts-1991-1992-and-a-bit-of-1990 |access-date=2022-07-31 |website=UKMIX Forums |language=en}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Oricon Albums Chart|JPN]]<br /><ref name="jp" />
+! scope="col" style="width:2em;font-size:90%;" | [[Dutch Album Top 100|NL]]<br /><ref name="NLD" />
+! scope="col" style="width:2em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br /><ref name="SWE" />
+! scope="col" style="width:2em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:2em;font-size:90%;" | [[UK Albums Chart|UK]]<br /><ref name="UK" />
+|-
+! scope="row" |''On Tour in Brazil''
+|
+* Released: 1989
+* Label: WEA
+* Formats: CD, LP, MC
+* Brazil-only release
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |''Best in Brazil''<br />({{aka}} ''a-ha en Argentina'')
+|
+* Released: 1991
+* Label: WEA
+* Formats: CD, LP, MC
+* Brazil and Argentina-only release
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |''[[Headlines and Deadlines: The Hits of A-ha]]''
+|
+* Released: 4 November 1991
+* Label: Warner Bros.
+* Formats: CD, LP, MC
+|9
+|162
+|32
+|26
+|18
+|16
+|28
+|47
+|40
+|12
+|
+* GER: Platinum<ref name="Germany's certification-database" />
+* [[Recording Industry Association of Japan|JPN]]: Gold<ref name="BVMI5">{{cite certification|region=Japan|artist=A-ha|access-date=1 August 2022}}</ref>
+* UK: Platinum<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=Headlines And Deadlines - The Hits Of|id=2778-993-2|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |''The Very Best of a-ha''
+|
+* Released: 13 May 1992
+* Label: Music Design/Afidno
+* Formats: CD, LP, MC
+* South Korea-only release
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |''[[The Definitive Singles Collection 1984–2004|The Singles: 1984–2004]]''
+|
+* Released: 11 April 2005
+* Label: Warner Music
+* Formats: CD, digital download
+* Released in the UK as ''The Definitive Singles Collection 1984–2004''
+|4
+|—
+|—
+|49
+|44
+|—
+|—
+|8
+|—
+|14
+|
+* GER: Gold<ref name="Germany's certification-database" />
+* UK: Gold<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=The Definitive Singles Collection|id=6887-993-2|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |''[[25 (A-ha album)|25]]''
+|
+* Released: 19 July 2010
+* Label: Warner Bros./[[Rhino Entertainment|Rhino]]
+* Formats: 2×CD, digital download
+|6
+|—
+|9
+|2
+|28
+|—
+|73
+|—
+|6
+|10
+|
+* NOR: 2× Platinum<ref name="BVMI6">{{cite certification|region=Norway|artist=A-ha|access-date=1 August 2022|certyear=2010}}</ref>
+* GER: Platinum<ref name="Germany's certification-database" />
+* UK: Silver<ref>{{Cite certification|region=United Kingdom|artist=A-Ha|title=25|id=8857-2427-2|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |''[[Time and Again: The Ultimate A-ha|Time and Again: The Ultimate a-ha]]''
+|
+* Released: 18 March 2016
+* Label: Warner Bros./Rhino
+* Formats: 2×CD, digital download
+|—
+|—
+|—
+|22
+|—
+|—
+|—
+|—
+|38
+|75
+|
+|-
+! scope="row" |''{{ill|Greatest Hits – Japanese Singles Collection|jp|ジャパニーズ・シングル・コレクション-グレイテスト・ヒッツ- (a-haのアルバム)}}''
+|
+* Released: 26 February 2020
+* Label: Warner Music Japan/Rhino
+* Formats: CD+DVD
+* Japan-only release
+|—
+|—
+|—
+|—
+|—
+|44
+|—
+|—
+|—
+|—
+|
+|-
+| colspan="13" style="font-size:90%" |"—" denotes releases that did not chart or were not released in that territory.
+|}
+
+=== Box sets ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:15em;" | Title
+! scope="col" style="width:15em;" | Album details
+|-
+! scope="row" |''[[Minor Earth Major Box]]''
+|
+* Released: 26 February 2001
+* Label: WEA
+* Formats: 4×[[CD single|CDS]]
+|-
+! scope="row" |''3 for One''
+|
+* Released: 2 October 2001
+* Label: Warner Music
+* Formats: 3×CD
+* Australia-only release
+|-
+! scope="row" |''Trilogy: Three Classic Albums''
+|
+* Released: 5 December 2005
+* Label: Warner Bros./Rhino
+* Formats: 3×CD
+|-
+! scope="row" |''Original Album Series''
+|
+* Released: 13 June 2011
+* Label: Warner Bros.
+* Formats: 5×CD
+|-
+! scope="row" |''2 for 1: Foot of the Mountain/Analogue''
+|
+* Released: 28 October 2011
+* Label: Universal Music
+* Formats: 2×CD
+|-
+! scope="row" |''The Triple Album Collection''
+|
+* Released: 5 October 2012
+* Label: Warner Bros.
+* Formats: 3×CD
+|}
+
+===Reissues===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:15em;" | Title
+! rowspan="2" scope="col" style="width:15em;" | Album details
+! colspan="5" |Peak chart positions
+|-
+! scope="col" style="width:2em;font-size:90%;" | [[VG-lista|NOR]]<br /><ref name="NOR" />
+! scope="col" style="width:2em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref name="GER" />
+! scope="col" style="width:2em;font-size:90%;" | [[Dutch Album Top 100|NL]]<br /><ref name="NLD" />
+! scope="col" style="width:2em;font-size:90%;" | [[Oricon Albums Chart|JPN]]<br /><ref name="jp" />
+! scope="col" style="width:2em;font-size:90%;" | [[UK Albums Chart|UK]]<br /><ref name="UK" />
+|-
+! scope="row" |''[[Hunting High and Low#2010 deluxe edition|Hunting High and Low (Deluxe Edition)]]''
+|
+* Released: 5 July 2010
+* Label: Warner Bros./Rhino
+* Formats: 2×CD, digital download
+|32
+|39
+|—
+|160
+|165
+|-
+! scope="row" |''[[Scoundrel Days#2010 remastered reissue|Scoundrel Days (Deluxe Edition)]]''
+|
+* Released: 5 July 2010
+* Label: Warner Bros./Rhino
+* Formats: 2×CD, digital download
+|27
+|52
+|—
+|190
+|190
+|-
+! scope="row" |''Hunting High and Low Super Deluxe 30th Anniversary Edition''
+|
+* Released: 18 September 2015
+* Label: Warner Bros./Rhino
+* Formats: 4×CD+DVD, CD, LP, digital download
+|25
+|30
+|79
+|—
+|83
+|-
+! scope="row" |''[[Stay on These Roads#2015 Deluxe edition|Stay on These Roads (Deluxe Edition)]]''
+|
+* Released: 23 October 2015
+* Label: Warner Bros./Rhino
+* Formats: 2×CD, digital download
+|—
+|—
+|—
+|—
+|145
+|-
+! scope="row" |''[[East of the Sun, West of the Moon#2015 deluxe edition|East of the Sun, West of the Moon (Deluxe Edition)]]''
+|
+* Released: 23 October 2015
+* Label: Warner Bros./Rhino
+* Formats: 2×CD+DVD, digital download
+|—
+|—
+|—
+|—
+|186
+|-
+! scope="row" |''[[Memorial Beach#2015 Deluxe edition|Memorial Beach (Deluxe Edition)]]''
+|
+* Released: 23 October 2015
+* Label: Warner Bros./Rhino
+* Formats: 2×CD, digital download
+|—
+|—
+|—
+|—
+|184
+|-
+! scope="row" |''[[Minor Earth Major Sky#2019 Deluxe edition|Minor Earth Major Sky (Deluxe Edition)]]''
+|
+* Released: 27 September 2019
+* Label: Warner Music/Rhino
+* Formats: 2×CD, 2×LP, digital download
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''[[Lifelines (A-ha album)|Lifelines (Deluxe Edition)]]''
+|
+* Released: 27 September 2019
+* Label: Warner Music/Rhino
+* Formats: 2×CD, 2×LP, digital download
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''Hunting High and Low (Expanded Edition)''
+|
+* Released: 15 November 2019
+* Label: Warner Bros./Rhino
+* Formats: 4×CD, digital download
+|—
+|—
+|—
+|—
+|—
+|-
+| colspan="7" style="font-size:90%" |"—" denotes releases that did not chart or were not released in that territory.
+|}
+
+==EPs==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:15em;" | Title
+! rowspan="2" scope="col" style="width:15em;" | EP details
+!Peak chart positions
+|-
+! scope="col" style="width:2em;font-size:90%;" | [[Oricon Albums Chart|JPN]]<br /><ref name="jp" />
+|-
+! scope="row" |''[[45 R.P.M. Club]]''
+|
+* Released: 25 June 1986
+* Label: Warner Bros./[[Reprise Records|Reprise]]
+* Formats: 12", CD, MC
+* Japan-only release
+|6
+|-
+! scope="row" |''[[Twelve Inch Club]]''
+|
+* Released: 25 August 1986
+* Label: Warner Bros./Reprise
+* Formats: 12", CD, MC
+* Japan-only release
+|21
+|-
+! scope="row" |''a-ha''
+|
+* Released: 1986
+* Label: [[Amiga (record label)|Amiga]]
+* Formats: 7"
+* East Germany-only release
+|—
+|-
+! scope="row" |''[[Scoundrel Club]]''
+|
+* Released: 25 May 1987
+* Label: Warner Bros.
+* Formats: 12", CD, MC
+* Japan-only release
+|27
+|-
+! scope="row" |''[[Road Club]]''
+|
+* Released: 25 August 1988
+* Label: Warner Bros.
+* Formats: CD
+* Japan-only release
+|42
+|-
+! scope="row" |''Hits E.P.''
+|
+* Released: 1 October 1990
+* Label: Warner Bros.
+* Formats: 7"
+* UK-only release
+|—
+|-
+! scope="row" |''Hits E.P. – Number Two''
+|
+* Released: December 1990
+* Label: Warner Bros.
+* Formats: 7"
+* UK-only release
+|—
+|-
+! scope="row" |''Singles Remixies''
+|
+* Released: 8 November 2000
+* Label: WEA
+* Formats: CD
+* Japan-only release
+|—
+|-
+! scope="row" |''Rhino Hi-Five''
+|
+* Released: 19 July 2005
+* Label: Rhino
+* Formats: digital download
+|—
+|-
+! scope="row" |''Hits South America''
+|
+* Released: 16 April 2016
+* Label: Warner Bros./Rhino
+* Formats: 12"
+|—
+|-
+| colspan="3" style="font-size:90%" |"—" denotes releases that did not chart or were not released in that territory.
+|}
+
+==Singles==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:15em;" | Title
+! rowspan="2" scope="col" style="width:2em;" | Year
+! colspan="10" |Peak chart positions
+! rowspan="2" |Certifications
+! rowspan="2" style="width:15em;" |Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[VG-lista|NOR]]<br /><ref name="NOR" />
+! scope="col" style="width:3em;font-size:90%;" | [[Kent Music Report|AUS]]<br /><ref name="aus2" />
+! scope="col" style="width:3em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br /><ref name="AUT" />
+! scope="col" style="width:3em;font-size:90%;" | [[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA" />
+! scope="col" style="width:3em;font-size:90%;" | [[GfK Entertainment charts|GER]]<br /><ref name="GER" />
+! scope="col" style="width:3em;font-size:90%;" | [[Irish Singles Chart|IRE]]<br /><ref>{{Cite web |title=The Irish Charts - All there is to know |url=https://www.irma.ie/search/%2A |access-date=2022-08-01 |website=irishcharts.ie}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Dutch Single Top 100|NL]]<br /><ref name="NLD" />
+! scope="col" style="width:3em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br /><ref name="SWI" />
+! scope="col" style="width:3em;font-size:90%;" | [[UK Singles Chart|UK]]<br /><ref name="UK" />
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard Hot 100|US]]<br /><ref name="US2">{{cite magazine |title=a-ha Chart History > Hot 100 |url=https://www.billboard.com/artist/a-ha/chart-history/hsi/ |magazine=Billboard |access-date=29 March 2018}}</ref>
+|-
+! scope="row" |"[[Take On Me]]" <small>(original version)</small> {{efn|The original 1984 single version of "Take On Me" would later appear on the Deluxe Edition of the album ''[[Hunting High and Low]]''.|group=upper-alpha|name=}}
+|1984
+|3
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|{{Non-album single}}
+|-
+! scope="row" |"[[Love Is Reason]]"
+| rowspan="3" |1985
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+| rowspan="5" |''Hunting High and Low''
+|-
+! scope="row" |"[[Take On Me]]"
+|1
+|1
+|1
+|3
+|1
+|2
+|1
+|1
+|2
+|1
+|
+* FRA: Gold<ref>{{cite magazine |date=27 December 1986 |title=European Gold & Platinum Awards 1986 |url=https://www.worldradiohistory.com/UK/Music-and-Media/80s/1986/M&M-1986-12-27.pdf |magazine=[[Music & Media]] |page=33 |access-date=10 June 2020}}</ref>
+* GER: Gold<ref name="Germany's certification-database" />
+* [[Recorded Music NZ|RMNZ]]: 6× Platinum<ref>{{cite certification|region=New Zealand|type=single|artist=a-ha|source=radioscope|access-date=March 10, 2026|title=}}</ref>
+* UK: 5× Platinum<ref>{{Cite web | title=BRIT Certified Awards {{!}} BPI | url=https://www.bpi.co.uk/award/6446-2427-1 | access-date=2026-08-30 | website=www.bpi.co.uk}}</ref>
+|-
+! scope="row" |"[[The Sun Always Shines on T.V.]]"
+|2
+|19
+|8
+|10
+|5
+|1
+|4
+|7
+|1
+|20
+|
+* UK: Gold<ref>{{Cite certification|region=United Kingdom|artist=A Ha|title=The Sun Always Shines On Tv|id=7350-993-1|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |"[[Train of Thought (A-ha song)|Train of Thought]]"
+| rowspan="5" |1986
+|—
+|47
+|—
+|—
+|14
+|5
+|—
+|—
+|8
+|—
+|
+|-
+! scope="row" |"[[Hunting High and Low (A-ha song)|Hunting High and Low]]"
+|10
+|33
+|24
+|4
+|11
+|4
+|9
+|—
+|5
+|—
+|
+|-
+! scope="row" |"[[I've Been Losing You]]"
+|1
+|21
+|20
+|14
+|15
+|3
+|11
+|16
+|8
+|—
+|
+| rowspan="4" |''Scoundrel Days''
+|-
+! scope="row" |"[[Cry Wolf (A-ha song)|Cry Wolf]]"
+|2
+|45
+|—
+|35
+|20
+|4
+|12
+|27
+|5
+|50
+|
+* UK: Silver<ref>{{Cite certification|region=United Kingdom|artist=A-Ha|title=Cry Wolf|id=1586-993-1|access-date=28 September 2022}}</ref>
+|-
+! scope="row" |"Maybe Maybe" <small>(Bolivia-only release)</small>
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"[[Manhattan Skyline (song)|Manhattan Skyline]]"
+| rowspan="2" |1987
+|4
+|—
+|—
+|—
+|28
+|3
+|53
+|—
+|13
+|—
+|
+|-
+! scope="row" |"[[The Living Daylights (song)|The Living Daylights]]" {{efn|"The Living Daylights" was the theme song for the 1987 [[James Bond]] film ''[[The Living Daylights]]''. A re-recorded version of the song would appear on A-ha's 1988 studio album ''[[Stay on These Roads]]''.|group=upper-alpha}}
+|1
+|29
+|18
+|21
+|8
+|3
+|9
+|8
+|5
+|—
+|
+|''[[The Living Daylights (soundtrack)]]''
+|-
+! scope="row" |"[[Stay on These Roads (song)|Stay on These Roads]]"
+| rowspan="4" |1988
+|1
+|56
+|11
+|3
+|7
+|2
+|10
+|10
+|5
+|—
+|
+| rowspan="4" |''Stay on These Roads''
+|-
+! scope="row" |"[[The Blood That Moves the Body]]"
+|—
+|—
+|—
+|—
+|23
+|11
+|24
+|29
+|25
+|—
+|
+|-
+! scope="row" |"[[Touchy!]]"
+|—
+|—
+|—
+|5
+|13
+|6
+|13
+|18
+|11
+|—
+|
+|-
+! scope="row" |"[[You Are the One (A-ha song)|You Are the One]]"
+|—
+|—
+|—
+|21
+|30
+|12
+|56
+|—
+|13
+|—
+|
+|-
+! scope="row" |"[[Crying in the Rain#A-ha version|Crying in the Rain]]"
+| rowspan="2" |1990
+|1
+|131
+|17
+|11
+|6
+|8
+|10
+|21
+|13
+|—
+|
+| rowspan="4" |''East of the Sun, West of the Moon''
+|-
+! scope="row" |"[[I Call Your Name (A-ha song)|I Call Your Name]]"
+|—
+|155
+|—
+|45
+|37
+|—
+|38
+|—
+|44
+|—
+|
+|-
+! scope="row" |"[[Early Morning (song)|Early Morning]]"
+| rowspan="3" |1991
+|—
+|—
+|—
+|—
+|52
+|29
+|—
+|—
+|78
+|—
+|
+|-
+! scope="row" |"Waiting for Her" <small>(Japan-only release)</small>
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"[[Move to Memphis]]" {{efn|"Move to Memphis" was released as a single from the 1991 compilation ''[[Headlines and Deadlines – The Hits of A-ha]]''. A new version of the song would appear on A-ha's 1993 studio album ''[[Memorial Beach]]''.|group=upper-alpha}}
+|2
+|171
+|—
+|—
+|39
+|29
+|61
+|—
+|47
+|—
+|
+|''Headlines and Deadlines – The Hits of a-ha''
+|-
+! scope="row" |"[[The Blood That Moves the Body|The Blood That Moves the Body '92]]" {{efn|"The Blood That Moves the Body (The Gun Mix)" was a new remixed version of the song released as a single to promote the compilation ''[[Headlines and Deadlines – The Hits of A-ha]]'', though it wasn't included on the album. The B-side of this single, the 'Two-Time Gun Mix', appeared on the 2010 compilation album ''[[25 (A-ha album)|25]]''.|group=upper-alpha}}
+|1992
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|{{Non-album single}}
+|-
+! scope="row" |"[[Dark Is the Night for All]]"
+| rowspan="3" |1993
+|4
+|165
+|—
+|—
+|46
+|28
+|—
+|—
+|19
+|—{{efn|"Dark Is the Night for All" did not enter the ''Billboard'' Hot 100, but peaked at number 11 on the [[Bubbling Under Hot 100 Singles]] chart.<ref>{{cite magazine |url=https://www.billboard.com/artist/a-ha/chart-history/hbu/ |title=a-ha Chart History: Bubbling Under Hot 100 |magazine=Billboard |access-date=14 December 2020}}</ref>|group=upper-alpha}}
+|
+| rowspan="3" |''Memorial Beach''
+|-
+! scope="row" |"[[Angel in the Snow (A-ha song)|Angel]]"
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|41
+|—
+|
+|-
+! scope="row" |"Lie Down in Darkness" <small>(US-only release)</small>
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"[[Shapes That Go Together]]"
+|1994
+|—
+|—
+|—
+|—
+|57
+|—
+|—
+|—
+|27
+|—
+|
+|{{Non-album single}}
+|-
+! scope="row" |"[[Summer Moved On]]"
+| rowspan="4" |2000
+|1
+|—
+|10
+|—
+|8
+|—
+|74
+|14
+|33
+|—
+|
+| rowspan="4" |''Minor Earth Major Sky''
+|-
+! scope="row" |"[[Minor Earth Major Sky (song)|Minor Earth Major Sky]]"
+|23
+|—
+|—
+|—
+|73
+|—
+|—
+|73
+|—
+|—
+|
+|-
+! scope="row" |"[[Velvet (Savoy song)|Velvet]]"
+|29
+|—
+|—
+|—
+|48
+|—
+|—
+|92
+|—
+|—
+|
+|-
+! scope="row" |"The Sun Never Shone That Day"
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"[[Forever Not Yours]]"
+| rowspan="3" |2002
+|1
+|—
+|31
+|—
+|18
+|—
+|82
+|26
+|175
+|—
+|
+| rowspan="3" |''Lifelines''
+|-
+! scope="row" |"[[Lifelines (song)|Lifelines]]"
+|18
+|—
+|—
+|—
+|32
+|—
+|—
+|—
+|78
+|—
+|
+|-
+! scope="row" |"[[Did Anyone Approach You?]]"
+|—
+|—
+|—
+|—
+|67
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" | "[[The Sun Always Shines on T.V.#Live version|The Sun Always Shines on T.V.]]" <small>(live)</small>
+|2003
+|—
+|—
+|—
+|—
+|53
+|—
+|—
+|—
+|181
+|—
+|
+|''How Can I Sleep with Your Voice in My Head''
+|-
+! scope="row" |"[[Celice (song)|Celice]]"
+| rowspan="2" |2005
+|1
+|—
+|41
+|—
+|21
+|—
+|—
+|38
+|—
+|—
+|
+| rowspan="4" |''Analogue''
+|-
+! scope="row" |"Birthright"
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"[[Analogue (All I Want)]]"
+| rowspan="2" |2006
+|10
+|—
+|—
+|—
+|33
+|24
+|—
+|—
+|10
+|—
+|
+|-
+! scope="row" |"[[Cosy Prisons]]"
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|39
+|—
+|
+|-
+! scope="row" |"[[Foot of the Mountain (song)|Foot of the Mountain]]"
+| rowspan="3" |2009
+|8
+|—
+|28
+|—
+|3
+|—
+|—
+|33
+|66
+|—
+|
+* GER: Gold<ref name="Germany's certification-database" />
+| rowspan="3" |''Foot of the Mountain''
+|-
+! scope="row" |"[[Nothing Is Keeping You Here]]"
+|—
+|—
+|—
+|—
+|65
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"[[Shadowside (song)|Shadowside]]"
+|—
+|—
+|73
+|—
+|22
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"[[Butterfly, Butterfly (The Last Hurrah)]]"
+|2010
+|13
+|—
+|—
+|—
+|22
+|—
+|—
+|—
+|98
+|—
+|
+|''25''
+|-
+! scope="row" |"[[Summer Moved On]]" <small>(live)</small>
+|2011
+|—
+|—
+|—
+|—
+|90
+|—
+|—
+|—
+|—
+|—
+|
+|''Ending on a High Note: The Final Concert''
+|-
+! scope="row" |"Under the Makeup"
+|2015
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+| rowspan="3" |''Cast in Steel''
+|-
+! scope="row" |"Cast in Steel" <small>([[Steve Osborne]] version)</small>
+| rowspan="2" |2016
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"Objects in the Mirror" <small>(Steve Osborne version)</small>
+|—
+|—
+|—
+|179
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+! scope="row" |"This Is Our Home"
+|2017
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|''MTV Unplugged''
+|-
+|-
+! scope="row" |"I'm In"<ref name="True North and I'm In2"/>
+|rowspan=2|2022
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|rowspan=2| ''True North''
+|-
+! scope="row" |"You Have What It Takes"<ref>{{Cite web|url=https://www.classicpopmag.com/2022/09/a-ha-unveil-new-single-you-have-what-it-takes/|title=a-ha unveil new single You Have What It Takes|date=16 September 2022|publisher=Classic Pop Magazine|accessdate=16 September 2022}}</ref>
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|-
+| colspan="15" style="font-size:90%" |"—" denotes releases that did not chart or were not released in that territory.
+|}
+
+===Promotional singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:15em;" |Title
+! scope="col" style="width:2em;" |Year
+! scope="col" style="width:15em;" |Album
+|-
+! scope="row" |"Living a Boy's Adventure Tale" <small>(Philippines-only release)</small>
+|1986
+|''Hunting High and Low''
+|-
+! scope="row" |"There's Never a Forever Thing" <small>(Brazil-only release)</small>
+|1989
+|''Stay on These Roads''
+|-
+! scope="row" |"Birthright"
+|2005
+|''Analogue''
+|-
+! scope="row" |"The Wake"
+| rowspan="2" |2015
+| rowspan="2" |''Cast in Steel''
+|-
+! scope="row" |"Forest Fire"
+|-
+! scope="row" |"Cry Wolf" <small>([[John Benitez|Jellybean]] Mix)</small>
+|2016
+|''Time and Again: The Ultimate a-ha''
+|}
+
+==Videos==
+===Video albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! rowspan="2" scope="col" style="width:15em;" |Title
+! rowspan="2" scope="col" style="width:15em;" |Album details
+! colspan="5" |Peak chart positions
+|-
+! scope="col" style="width:2em;font-size:90%;" | [[Ö3 Austria Top 40|AUT]]<br /><ref>{{Cite web |title=Austria Top 40 - Musik-DVD Top 10 22.04.2011 - austriancharts.at |url=https://austriancharts.at/charts/musik-dvd/22-04-2011 |access-date=2022-08-02 |website=austriancharts.at}}</ref><ref>{{Cite web |title=Austria Top 40 - Musik-DVD Top 10 20.10.2017 - austriancharts.at |url=https://austriancharts.at/charts/musik-dvd/20-10-2017 |access-date=2022-08-02 |website=austriancharts.at}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Dutch Charts|NL]]<br /><ref>{{Cite web |title=a-ha - Ending On A High Note - The Final Concert: Live At Oslo Spektrum, December 4th 2010 [DVD] |url=https://dutchcharts.nl/showitem.asp?interpret=a-ha&titel=Ending+on+a+High+Note+-+The+Final+Concert%3A+Live+at+Oslo+Spektrum%2C+December+4th+2010+%5BDVD%5D&cat=a |access-date=2022-08-02 |website=dutchcharts.nl}}</ref><ref>{{Cite web |title=a-ha - MTV Unplugged - Summer Solstice [DVD] |url=https://dutchcharts.nl/showitem.asp?interpret=a%2Dha&titel=MTV+Unplugged+%2D+Summer+Solstice+%5BDVD%5D&cat=a |access-date=2022-08-02 |website=dutchcharts.nl}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Sverigetopplistan|SWE]]<br /><ref>{{Cite web |title=Veckolista DVD Album, vecka 16, 2011 |url=https://www.sverigetopplistan.se/chart/105 |access-date=2022-08-02 |website=Sverigetopplistan |language=sv}}</ref><ref>{{Cite web |title=Veckolista DVD Album, vecka 41, 2017 |url=https://www.sverigetopplistan.se/chart/105 |access-date=2022-08-02 |website=Sverigetopplistan |language=sv}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[Swiss Hitparade|SWI]]<br /><ref>{{Cite web |title=Die Offizielle Schweizer Hitparade - hitparade.ch |url=http://www.swisscharts.com/search.asp?cat=d&search=a-ha |access-date=2022-08-02 |website=www.swisscharts.com}}</ref>
+! scope="col" style="width:2em;font-size:90%;" | [[UK Video Charts|UK]]<br /><ref>{{Cite web |title=Official Music Video Chart Top 50 {{!}} Official Charts Company |url=https://www.officialcharts.com/charts/music-video-chart/20020616/13/ |access-date=2022-08-02 |website=www.officialcharts.com |language=en}}</ref>
+|-
+! scope="row" |''[[Headlines and Deadlines: The Hits of A-ha|Headlines and Deadlines – The Hits of a-ha]]''
+|
+* Released: November 1991
+* Label: Warner Music Vision
+* Formats: [[VHS]], [[LaserDisc|LD]]
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''Live in South America''
+|
+* Released: June 1993
+* Label: Warner Music Vision
+* Formats: VHS, LD
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''[[Live at Vallhall: Homecoming]]''
+|
+* Released: 5 November 2001
+* Label: Warner Music Vision
+* Formats: [[DVD]], VHS
+|—
+|—
+|—
+|—
+|13
+|-
+! scope="row" |2-''DVD Collection''
+|
+* Released: 27 November 2006
+* Label: Warner Music Vision
+* Formats: 2×DVD
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''[[25 (A-ha album)|25]]''
+|
+* Released: 19 July 2010
+* Label: Warner Bros./Rhino
+* Formats: 2×CD+DVD
+|—
+|—
+|—
+|—
+|—
+|-
+! scope="row" |''[[Ending on a High Note: The Final Concert]]''
+|
+* Released: 1 April 2011
+* Label: We Love Music/Universal
+* Formats: DVD, [[Blu-ray]]
+|1
+|11
+|1
+|4
+|—
+|-
+! scope="row" |''[[MTV Unplugged: Summer Solstice]]''
+|
+* Released: 6 October 2017
+* Label: We Love Music/Polydor/Universal
+* Formats: DVD, Blu-ray
+|5
+|8
+|11
+|
+|—
+|-
+! scope="row" |''A-ha – The Movie'' (documentary)<ref>{{cite web | url=https://www.imdb.com/title/tt10851414/?ref_=fn_al_tt_1 | title=A-ha: The Movie (2021) - IMDb | website=[[IMDb]] }}</ref><ref>{{cite web | url=https://a-ha-music.de/film/ | title=Film – a-ha &#124; True North }}</ref>
+|
+* Released: 3 September 2021
+* Label: Motlys Film- og TV-produksjon
+* Formats: DVD, Blu-ray
+|
+|
+|
+|
+|}
+
+"—" denotes releases that did not chart or were not released in that territory.
+
+===Music videos===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of music videos, showing year released and directors
+! scope="col" style="width:15em;" |Title
+! scope="col" |Year
+! scope="col" |Director
+|-
+! scope="row" |"Take On Me" <small>(original version)</small>
+|1984
+|Stevie Price<ref name="SteviePrice">{{cite web |title=Now Available: a-ha, Hunting High & Low – Super Deluxe 30th Anniversary Edition rhino.com |url=http://www.rhino.com/article/now-available-a-ha-hunting-high-low-super-deluxe-30th-anniversary-edition |access-date=6 January 2016 |publisher=rhino.com}}</ref>
+|-
+! scope="row" |"Take On Me"
+| rowspan="3" |1985
+| rowspan="2" |[[Steve Barron]]<ref name="SB">{{cite web |title=A-ha videography |url=http://www.clipland.com/Name/0000584/ |access-date=7 March 2008 |publisher=Clipland}}</ref>
+|-
+! scope="row" |"The Sun Always Shines on T.V."
+|-
+! scope="row" |"Train of Thought"
+|Candice Reckinger & Michael Patterson<ref name="SB" />
+|-
+! scope="row" |Hunting High and Low"
+| rowspan="3" |1986
+| rowspan="5" |Steve Barron<ref name="SB" />
+|-
+! scope="row" |"I've Been Losing You"
+|-
+! scope="row" |"Cry Wolf"
+|-
+! scope="row" |"Manhattan Skyline"
+| rowspan="2" |1987
+|-
+! scope="row" |"The Living Daylights"
+|-
+! scope="row" |"Stay on These Roads"
+| rowspan="5" |1988
+| rowspan="2" |[[Andy Morahan]]<ref name="SB" />
+|-
+! scope="row" |"The Blood That Moves the Body"
+|-
+! scope="row" |"Touchy!"
+|Kevin Moloney<ref name="SB" />
+|-
+! scope="row" |"You Are the One"
+|Damon Heath<ref name="DH">{{cite web |title=Damon Heath |url=https://www.imdb.com/name/nm1141537/ |access-date=7 March 2008 |publisher=IMDb}}</ref>
+|-
+! scope="row" |"There's Never a Forever Thing"
+|[[Lauren Savoy]]<ref name="LS">{{cite web |title=Fra sangboka til Savoy |url=http://www.dagsavisen.no/kultur/musikk/article291514.ece |url-status=dead |archive-url=https://web.archive.org/web/20080224194015/http://www.dagsavisen.no/kultur/musikk/article291514.ece |archive-date=24 February 2008 |access-date=7 March 2008 |publisher=Dagsavisen |language=no}}</ref>
+|-
+! scope="row" |"Crying in the Rain"
+| rowspan="2" |1990
+|Steve Barron<ref name="SB" />
+|-
+! scope="row" |"I Call Your Name"
+| rowspan="2" |[[Michael Burlingame (filmmaker)|Michael Burlingame]]<ref name="SB" />
+|-
+! scope="row" |"Early Morning"
+| rowspan="4" |1991
+|-
+! scope="row" |"I've Been Losing You" <small>(live)</small>
+| rowspan="2" | Odd Arvid Strømstad
+|-
+! scope="row" |"Sycamore Leaves" <small>(live)</small>
+
+|-
+! scope="row" |"Move to Memphis"
+| rowspan="2" |Erick Ifergan<ref name="SB" />
+|-
+! scope="row" |"Dark Is the Night for All"
+| rowspan="2" |1993
+|-
+! scope="row" |"Angel in the Snow"
+|[[Howard Greenhalgh]]<ref name="HG">{{cite web |title=Howard Greenhalgh |url=http://www.director-file.com/amv/archive3.html |url-status=dead |archive-url=https://web.archive.org/web/20080220102616/http://www.director-file.com/amv/archive3.html |archive-date=20 February 2008 |access-date=7 March 2008 |publisher=Howard Greenhalgh videography}}</ref>
+|-
+! scope="row" |"Shapes That Go Together"
+|1994
+|Barry Maguire<ref>{{cite web |title=Shapes That Go Together |url=http://www.A-ha.com/MEDIA/video/AHA_videoShapesThatGoTogether.aspx |url-status=dead |archive-url=https://web.archive.org/web/20090413030711/http://www.a-ha.com/MEDIA/VIDEO/AHA_videoShapesThatGoTogether.aspx |archive-date=13 April 2009 |access-date=23 June 2009 |publisher=A-ha.com}}</ref>
+|-
+! scope="row" |"Summer Moved On"
+| rowspan="5" |2000
+|[[Adam Berg (director)|Adam Berg]]<ref name="SB" />
+|-
+! scope="row" |"Minor Earth Major Sky"
+|[[Philipp Stölzl]]<ref name="PS">{{cite web |title=Philipp Stölzl at Clipland |url=http://www.clipland.com/Name/0001020/ |access-date=7 March 2008 |publisher=Clipland.com}}</ref>
+|-
+! scope="row" |"I Wish I Cared"
+|Henrik Haugen
+|-
+! scope="row" |"Velvet"
+|[[Harald Zwart]]<ref name="SB" />
+|-
+! scope="row" |"The Sun Never Shone That Day"
+|[[Trond Kvernstrøm]], John Sullivan, [[Per Sundnes]] and Odd Syse<ref>{{Cite web |title=A-ha: The Sun Never Shone That Day (Music Video 2001) - IMDb |url=https://www.imdb.com/title/tt10761270/fullcredits/?ref_=tt_cl_sm |website=[[IMDb]]}}</ref>
+|-
+! scope="row" |"Forever Not Yours"
+| rowspan="2" |2002
+|Harald Zwart<ref name="SB" />
+|-
+! scope="row" |"Lifelines"
+|[[Morten Skallerud]]<ref name="SB" />
+|-
+! scope="row" |"Did Anyone Approach You?"
+| rowspan="2" |2003
+| rowspan="2" |Lauren Savoy<ref name="LS" />
+|-
+! scope="row" |"The Sun Always Shines on T.V." <small>(live)</small>
+|-
+! scope="row" |"Celice"
+|2005
+|Jörn Heitmann<ref name="JH">{{cite web |title=Jörn Heitmann |url=http://www.geocities.com/cancciola/2005C.html |url-status=dead |archive-url=https://web.archive.org/web/20091027054457/http://www.geocities.com/cancciola/2005C.html |archive-date=27 October 2009 |access-date=7 March 2008 |publisher=Geocities}}</ref>
+|-
+! scope="row" |"Analogue (All I Want)"
+| rowspan="2" |2006
+|Howard Greenhalgh<ref name="SB" />
+|-
+! scope="row" |"Cosy Prisons"
+|Paul Gore<ref name="PG">{{cite web |title=Paul Gore |url=https://actors.mandy.com/uk/u/102939 |access-date=7 March 2008 |publisher=actors.mandy.com/uk}} {{dead link|date=July 2019|bot=medic}}{{cbignore|bot=medic}}</ref>
+|-
+! scope="row" |"Foot of the Mountain"
+| rowspan="3" |2009
+|Olaf Heine<ref>{{cite web |title=OLAF HEINE for A-ha |url=http://www.anjawiroth.com/news/test/ |url-status=dead |archive-url=https://web.archive.org/web/20090703033805/http://www.anjawiroth.com/news/test/ |archive-date=3 July 2009 |access-date=23 June 2009 |publisher=anjawiroth.com}}</ref>
+|-
+! scope="row" |"Shadowside"
+| rowspan="2" |[[Uwe Flade]]<ref name="autogenerated1">{{cite web |title=Music Video Producer Uwe Flade |url=http://www.dwelle.de/dw/article/0,,4762985,00.html |url-status=dead |archive-url=https://archive.today/20110807030027/http://www.dwelle.de/dw/article/0,,4762985,00.html |archive-date=7 August 2011 |access-date=14 November 2009 |publisher=dwelle.de}}</ref>
+|-
+! scope="row" |"Nothing Is Keeping You Here"
+|-
+! scope="row" |"Butterfly, Butterfly (The Last Hurrah)"
+|2010
+|Steve Barron
+|-
+! scope="row" |"Summer Moved On" <small>(live)</small>
+|2011
+|N/A
+|-
+! scope="row" |"Under the Makeup"
+|2015
+|Bode Brodmüller
+|-
+! scope="row" |"Cast in Steel"
+| rowspan="2" |2016
+|
+|-
+! scope="row" |"Objects in the Mirror"
+|[[Jonas Bjerre]]
+|-
+! scope="row" |"I'm In"
+|rowspan="5"|2022
+|rowspan="6"|Stian Andersen
+|-
+! scope="row" |"You Have What It Takes"
+|-
+! scope="row" |"As If"
+|-
+! scope="row" |"True North"
+|-
+! scope="row" |"Hunter in the Hills"
+|-
+! scope="row" |"Between the Halo and the Horn"<ref>{{cite web | url=https://www.pmstudio.com/music/20230116-18776 | title=A-ha Drops New Music Video for "Between the Halo and the Horn" }}</ref>
+|2023
+|}
+
+==Demo tapes==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+! scope="col" style="width:15em;" |Title
+! scope="col" style="width:15em;" |Album details
+|-
+! scope="row" |''The Swing of Things / The Demo Tapes''
+|
+* Released Officially: 21 October 2004
+* Released in Bootlegs: mid 1980s
+* Recorded in 1982 and 1983
+* Label: Forlaget Press
+* Formats: CD
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Discogs artist|artist=A-ha}}
+
+{{A-ha}}
+
+{{DEFAULTSORT:A-ha Discography}}
+[[Category:Discographies of Norwegian artists]]
+[[Category:A-ha|Discography]]
+[[Category:Pop music group discographies]]
+[[Category:New wave discographies]]

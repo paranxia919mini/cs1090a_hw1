@@ -1,0 +1,56 @@
+{{Short description|1951 Japanese film}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox film
+| name           = Ginza Cosmetics
+| image          = Ginza Cosmetics.jpg
+
+| caption        = DVD cover
+| director       = [[Mikio Naruse]]
+| producer       = Motohiko Ito
+| writer         = {{ubl|[[Matsuo Kishi]]|Tomoichirō Inoue (novel)}}
+| starring       = [[Kinuyo Tanaka]]
+| music          = Seiichi Suzuki
+| cinematography = Akira Mimura
+| editing        = Hidetoshi Kasama
+| distributor    = [[Shintoho]]
+| released       = {{film date|1951|04|14|Japan|df=y|ref1=<ref name="jmdb">{{cite web |url=http://www.jmdb.ne.jp/1951/ca000600.htm |title=銀座化粧 |website=Japanese Movie Database |language=Japanese |access-date=28 January 2021}}</ref><ref name="kinenote">{{cite web |url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=27289 |title=銀座化粧 |website=Kinenote |language=Japanese |access-date=21 July 2023}}</ref>}}
+| runtime        = 87 minutes
+| country        = Japan
+| language       = Japanese
+}}
+{{nihongo|'''''Ginza Cosmetics'''''|銀座化粧|Ginza keshō}} is a 1951 Japanese [[drama film]] directed by [[Mikio Naruse]]. It is based on a novel by Tomoichirō Inoue.<ref name="jmdb" /><ref name="kinenote" />
+
+==Plot==
+''Ginza Cosmetics'' follows the life of hostess Yukiko, single mother of a young boy, in the lively [[Tokyo]] quarter of [[Ginza]].
+
+==Cast==
+* [[Kinuyo Tanaka]] as Yukiko Tsuji
+* [[Ranko Hanai]] as Shizue Sayama
+* [[Kyōko Kagawa]] as Kyōko
+* Eijirō Yanagi as Seikichi Kineya
+* [[Eijirō Tōno]] as Hyōbei Sugano
+* Yoshihiro Nishikubo as Haruo
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0043587}}
+* {{Cite web |url=https://www.slantmagazine.com/film/ginza-cosmetics/ |title=Review: Ginza Cosmetics |last=Uhlich |first=Keith |website=slantmagazine.com |date=6 February 2006 |access-date=28 January 2021}}
+* {{Cite web |url=http://mubi.com/films/25256 |title=Ginza Cosmetics |website=mubi.com |access-date=28 January 2021}}
+
+{{Mikio Naruse}}
+
+[[Category:1951 films]]
+[[Category:1951 drama films]]
+[[Category:Japanese drama films]]
+[[Category:1951 Japanese-language films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Films based on Japanese novels]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:Shintoho films]]
+[[Category:1951 Japanese films]]
+[[Category:Japanese-language drama films]]
+
+
+{{1950s-Japan-film-stub}}

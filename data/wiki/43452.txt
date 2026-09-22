@@ -1,0 +1,580 @@
+{{Short description|1962 film directed by David Lean}}
+{{Use British English|date=April 2023}}
+{{Use dmy dates|date=January 2025}}
+{{Infobox film
+| name           = Lawrence of Arabia
+| image          = Lawrence of arabia ver3 xxlg.jpg
+| caption        = Theatrical release poster by [[Howard Terpning]]
+| director       = [[David Lean]]
+| producer       = [[Sam Spiegel]]
+| screenplay     = {{Plainlist|
+* [[Robert Bolt]]
+* [[Michael Wilson (writer)|Michael Wilson]]
+}}
+| starring       = {{Plainlist|<!-- Per poster billing block -->
+* [[Alec Guinness]]
+* [[Anthony Quinn]]
+* [[Jack Hawkins]]
+* [[José Ferrer]]
+* [[Anthony Quayle]]
+* [[Claude Rains]]
+* [[Arthur Kennedy]]
+* [[Omar Sharif]]
+* [[Peter O'Toole]]
+}}
+| music          = [[Maurice Jarre]]
+| cinematography = [[Freddie Young|Freddie A. Young]]
+| editing        = [[Anne V. Coates]]
+| studio         = [[Horizon Pictures]]<ref name="Lawrence of Arabia 1962">{{cite web|url=https://catalog.afi.com/Catalog/MovieDetails/23993 |title=Lawrence of Arabia (1962) |archive-url=https://web.archive.org/web/20190327091728/https://catalog.afi.com/Catalog/MovieDetails/23993 |archive-date=27 March 2019 |url-status=live |website=[[AFI Catalog]]}}</ref>
+| distributor    = [[Columbia Pictures]]<ref name="Lawrence of Arabia 1962" />
+| released       = {{Film date|df=yes|1962|12|16}}
+| runtime        = 222 minutes
+| country        = United Kingdom<ref>{{cite web |title=Lawrence of Arabia (1962) |url=https://www2.bfi.org.uk/films-tv-people/4ce2b6aea50ea |archive-url=https://web.archive.org/web/20160206211223/http://www.bfi.org.uk/films-tv-people/4ce2b6aea50ea |url-status=dead |archive-date=6 February 2016 |website=BFI |access-date=30 October 2022}}</ref><br />United States<ref name="Lawrence of Arabia 1962" />
+| language       = English
+| budget         = $15&nbsp;million<ref name="Numbers"/>
+| gross          = $70&nbsp;million<ref name="Numbers" />
+}}
+
+'''''Lawrence of Arabia''''' is a 1962 [[Epic film|epic]] [[Biographical film|biographical]] [[Drama (film and television)|drama]] film directed by [[David Lean]] and produced by [[Sam Spiegel]] through the latter's British company [[Horizon Pictures]] and distributed by [[Columbia Pictures]]. It is based on the life of [[T. E. Lawrence]] and his 1926 book ''[[Seven Pillars of Wisdom]]'' (also known as ''Revolt in the Desert'').<ref>{{cite web |title=Revolt in the Desert |url=https://www.churchillbookcollector.com/pages/books/006613/t-e-lawrence/revolt-in-the-desert |url-status=dead |archive-url=https://web.archive.org/web/20210624222951/https://www.churchillbookcollector.com/pages/books/006613/t-e-lawrence/revolt-in-the-desert |archive-date=24 June 2021 |website=Churchill Book Collector}}</ref> ''Lawrence of Arabia'' introduces [[Peter O'Toole]] as Lawrence, with [[Alec Guinness]] playing [[Faisal I|Prince Faisal]]. It also stars [[Jack Hawkins]], [[Anthony Quinn]], [[Omar Sharif]], [[Anthony Quayle]], [[Claude Rains]], [[Jose Ferrer]] and [[Arthur Kennedy]]. The screenplay was written by [[Robert Bolt]] and [[Michael Wilson (writer)|Michael Wilson]].
+
+''Lawrence of Arabia'' depicts Lawrence's experiences in the [[Ottoman Empire|Ottoman]] provinces of [[Hejaz Vilayet|Hejaz]] and [[Ottoman Syria|Syria]] during the [[First World War]], in particular his attacks on [[Aqaba]] and [[Damascus]] and his involvement in the [[Arab National Council]]. Its themes include Lawrence's emotional struggles with the violence inherent in war, his identity, and his divided allegiance between Britain and his new-found comrades within the Arabian desert tribes.
+
+In 1963, ''Lawrence of Arabia'' was nominated for ten [[Oscars]] at the [[35th Academy Awards]], winning seven, including [[Academy Award for Best Picture|Best Picture]] and [[Academy Award for Best Director|Best Director]]. It also won the [[Golden Globe Award for Best Motion Picture&nbsp;– Drama]] and the [[BAFTA Awards]] for [[BAFTA Award for Best Film|Best Film]] and [[BAFTA Award for Outstanding British Film|Outstanding British Film]]. The dramatic score by [[Maurice Jarre]] and the [[Super Panavision&nbsp;70]] cinematography by [[Freddie Young]] also won praise from critics.
+
+''Lawrence of Arabia'' is widely regarded as one of the [[List of films considered the best|greatest films ever made]]. In 1991, it was deemed "culturally, historically, or aesthetically significant" by the United States [[Library of Congress]] and selected for preservation in the [[National Film Registry]]. Although primarily a British production, it was eligible due to [[Columbia Pictures]] involvement in financing and making the production, as well as helping get the film released.<ref>{{cite web |title=Complete National Film Registry Listing |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |website=[[Library of Congress]] |access-date=8 October 2020 |archive-url=https://web.archive.org/web/20201008184509/https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |archive-date=8 October 2020 |url-status=live}}</ref><ref name="USFilmRegistry">{{cite news |last=Andrews |first=Robert M. |url=https://www.latimes.com/archives/la-xpm-1991-09-26-ca-4030-story.html |title=25 Classics Join U.S. Film Registry |work=[[Los Angeles Times]] |date=26 September 1991 |access-date=4 September 2015 |archive-url=https://web.archive.org/web/20150915010517/http://articles.latimes.com/1991-09-26/entertainment/ca-4030_1_national-film-registry |archive-date=15 September 2015 |url-status=live |url-access=limited}}</ref> In 1998, the [[American Film Institute]] placed ''Lawrence of Arabia'' fifth on [[AFI's 100 Years...100 Movies|their list of the greatest American films]]; in 2007, they placed it seventh on [[AFI's 100 Years...100 Movies (10th Anniversary Edition)|an updated list]]. The [[British Film Institute]] named ''Lawrence of Arabia'' the [[BFI Top 100 British films|third-greatest British film]] in 1999. In 2004, it was voted the best British film in ''[[The Sunday Telegraph]]''{{'s}} poll of Britain's leading filmmakers.
+
+== Plot ==
+[[T. E. Lawrence]] dies in a motorcycle accident in 1935. At a memorial service at [[St Paul's Cathedral]], it becomes clear that several influential Britons disliked him.
+
+During the [[First World War]], Lawrence is a misfit [[lieutenant (British Army and Royal Marines)|lieutenant]] in the [[British Army]], notable for his effrontery and education. Mr. Dryden of the [[Arab Bureau]] sends him to meet with [[Colonel (United Kingdom)|Colonel]] Harry Brighton, who advises [[Faisal I of Iraq|Prince Feisal]] in [[Arab Revolt|his revolt]] against the [[Ottoman Empire|Turks]]. Lawrence is outraged when his guide is killed by Sherif Ali ibn el Kharish for drinking from the latter's well. Lawrence accuses Ali of being a barbarian and is dismayed to learn that the latter is Feisal's advisor.
+
+Relations between the [[United Kingdom of Great Britain and Ireland|British]] and the Arabs are tense. While the British will supply guns to the Arabs, they will not provide [[artillery]], which would make Feisal an independent force. Feisal is impressed by Lawrence's familiarity with the [[Quran]] and his honesty about British interests in [[Arabia]].
+
+Lawrence violates Brighton's orders by convincing Feisal to launch [[Battle of Aqaba|a surprise attack]] on the port of [[Aqaba]] to improve his supply lines. Ali protests, as Aqaba is protected from land attacks by the [[Nefud Desert]] and the local Turkish enforcer, [[Howeitat]] tribal leader [[Auda Abu Tayi]]. Feisal gives Lawrence just fifty men. Lawrence hires teenage orphans Daud and Farraj as his attendants.
+
+During the march to Aqaba, Lawrence wins over Feisal's men by returning to the desert to rescue Gasim.{{non sequitur|date=September 2026}} The grateful Arabs give Lawrence traditional clothing. Lawrence convinces Auda to switch sides by promising him a Turkish gold hoard at Aqaba. En route, Lawrence is shaken when he must execute Gasim to prevent a conflict between Feisal's men and Auda's.
+
+Lawrence and Auda capture Aqaba, but there is no gold. To placate Auda, Lawrence agrees to ask his superiors in [[Cairo]] for more money. Daud is drowned by [[dry quicksand|quicksand]] along the way.
+
+In Cairo, Lawrence perplexes the British officers with his Arab clothes and his insistence that Farraj be treated with the same respect as a British officer. General [[Edmund Allenby]] promotes Lawrence to [[major (United Kingdom)|major]] and backs the Arabs with arms and money. Lawrence asks Allenby whether the Arabs are correct that the British seek to dominate Arabia and demands artillery for Feisal's army. Allenby lies to him on both counts.
+
+Lawrence launches a [[guerrilla war]] against the Turks. The American media romanticise Lawrence's exploits and make him famous, as American journalist Jackson Bentley is looking to highlight the "more adventurous aspects" of war to help [[American entry into World War I|draw the United States into the fight]]. Ali urges Lawrence to slow down, but the latter ignores him. Farraj is injured during a raid, and Lawrence kills him to save him from the Turks, who torture their captives.
+
+The Turks capture Lawrence while he scouts [[Deraa]]. The Turkish [[Bey]] orders him stripped, ogled, prodded and beaten—and, it is implied, raped.{{efn|This is apparently based on an actual story Lawrence told in 1919.<ref>Letter to W.F. Stirling, Deputy Chief Political Officer, Cairo, 28 June 1919, in Brown, 1988.</ref>}} Ali rescues him, but the experience leaves Lawrence shaken and humbled.
+
+Dryden informs Lawrence about the [[Sykes–Picot Agreement]], which will partition the Middle East between Britain and [[French Third Republic|France]]. Allenby urges Lawrence to return to Arabia to support [[Capture of Damascus (1918)|the "big push"]] on [[Damascus]]. Lawrence feels betrayed but complies. He recruits an army with little interest in Arab liberation. Lawrence hopes that if the Arabs can take Damascus before the British, they will be able to demand an independent Arab state.
+
+Lawrence's army sights a column of retreating Turkish soldiers who have just [[Tafas massacre|massacred the residents of Tafas]]. One of Lawrence's men is from [[Tafas]] and demands that the Arab army take [[No quarter|no prisoners]]. Ali insists on proceeding to Damascus, but the man charges alone and is killed. Lawrence takes up his battle cry, and the Arabs massacre the Turks.
+
+The Arabs beat the British to Damascus. Lawrence advises them to run the city without British support, but the tribesmen bicker constantly, the public utilities fail, and the understaffed hospitals barely function. Feisal discards Lawrence's dream of Arab independence in exchange for British support.
+
+Lawrence returns to the British Army. The British promote Lawrence to colonel and order him back to Britain. As he leaves Damascus, he looks longingly at the departing Arabs before his car is passed by a motorcyclist.
+
+== Cast ==
+* [[Peter O'Toole]] as [[T. E. Lawrence]]. [[Albert Finney]] was a virtual unknown at the time but he was Lean's first choice to play Lawrence. Finney underwent a successful screen test but turned down the part as he did not want to sign a long-term contract with producer Sam Spiegel. [[Marlon Brando]] was also offered the part, while [[Anthony Perkins]] and [[Montgomery Clift]] were briefly considered before O'Toole was cast.{{sfn|Turner|1994|pp=41–45}} Spiegel disliked Clift, having worked with him on ''[[Suddenly, Last Summer (film)|Suddenly, Last Summer]]'' (1959). [[Alec Guinness]] had played Lawrence in the play ''[[Ross (play)|Ross]]'' and was briefly considered for the part, but Lean and Spiegel thought him too old. Lean had seen O'Toole in ''[[The Day They Robbed the Bank of England]]'' (1960) and was bowled over by his screen test, proclaiming, "This ''is'' Lawrence!" Spiegel eventually acceded to Lean's choice. Pictures of Lawrence suggest also that O'Toole bore some resemblance to him, though at {{height|ft=6|in=2|abbr=mos}} tall O'Toole was significantly taller than Lawrence.<ref name="Woolf">{{cite web |last=Woolf |first=Christopher |url=https://theworld.org/stories/2013/12/16/lawrence-arabia-fact-or-fiction |title=Is Peter O'Toole's Lawrence of Arabia fact or fiction? |website=[[Public Radio International|PRI]] |date=16 December 2013 | access-date=10 February 2017 | archive-url=https://web.archive.org/web/20170211155438/https://www.pri.org/stories/2013-12-16/peter-otooles-lawrence-arabia-fact-or-fiction | archive-date=11 February 2017 | url-status=live}}</ref> O'Toole's looks prompted a different reaction from [[Noël Coward]], who quipped after seeing the première of the film, "If you had been any prettier, the film would have been called ''Florence of Arabia''".<ref>{{cite magazine |last=Lane |first=Anthony |url=https://www.newyorker.com/arts/critics/atlarge/2008/03/31/080331crat_atlarge_lane |title=Master and Commander |magazine=[[The New Yorker]] |date=31 March 2008 | access-date=26 February 2011 | archive-url=https://web.archive.org/web/20110606142628/http://www.newyorker.com/arts/critics/atlarge/2008/03/31/080331crat_atlarge_lane | archive-date=6 June 2011 | url-status=live}}</ref>
+* [[Alec Guinness]] as [[Faisal I of Iraq|Prince Faisal]] ("Feisal" in the credits). Faisal was originally to be portrayed by [[Laurence Olivier]]. Guinness had performed in other David Lean films, and he got the part when Olivier dropped out. Guinness was made up to look as much like the real Faisal as possible; he recorded in his diaries that while shooting in Jordan he met several people who had known Faisal who actually mistook him for the late prince. Guinness said in interviews that he developed his Arab accent from a conversation that he had with Omar Sharif.<ref>{{cite web|url=https://www.telegraph.co.uk/culture/culturepicturegalleries/10516976/Alec-Guinness-in-films-picture-special.html|title=Alec Guinness in films: picture special|first1=Martin|last1=Chilton|date=6 November 2015|access-date=27 June 2024|website=The Telegraph|publisher=Telegraph Media Group Limited|quote=Guinness said he developed his Arab accent from a conversation he had with Sharif.}}</ref>
+* [[Anthony Quinn]] as [[Auda Abu Tayi]]. Quinn got very much into his role; he spent hours applying his own makeup, using a photograph of the real Auda to make himself look as much like him as he could. One anecdote has Quinn arriving on set for the first time in full costume, whereupon Lean mistook him for a native and asked his assistant to ring Quinn and notify him that they were replacing him with the new arrival.{{citation needed|date=June 2023}}
+* [[Jack Hawkins]] as General [[Edmund Allenby, 1st Viscount Allenby|Edmund Allenby]]. Spiegel pushed Lean to cast [[Cary Grant]] or [[Laurence Olivier]] (who was engaged at the [[Chichester Festival Theatre]] and declined). Lean convinced him to choose Hawkins because of his work for them on ''[[The Bridge on the River Kwai]]'' (1957). Hawkins shaved his head for the role and reportedly clashed with Lean several times during filming. Guinness recounted that Hawkins was reprimanded by Lean for celebrating the end of a day's filming with an impromptu dance. Hawkins became close friends with O'Toole during filming, and the two often improvised dialogue during takes, to Lean's dismay.{{citation needed|date=June 2023}}
+* [[Omar Sharif]] as Sherif Ali ibn el Kharish. The role was offered to many actors before Sharif was cast. [[Horst Buchholz]] was the first choice but had already signed on for the film ''[[One, Two, Three]]''. [[Alain Delon]] had a successful screen test but ultimately declined because of the brown contact lenses he would have had to wear. [[Maurice Ronet]] and Indian actor, [[Dilip Kumar]] were also considered.{{sfn|Turner|1994|pp=45–49}} Sharif, who was already a major star in the Middle East, was originally cast as Lawrence's guide Tafas, but when other actors proved unsuitable, Sharif was given the part of Ali. An amalgamation of numerous Arab leaders, particularly Faisal's cousin Sharif Nassir, who led the Harith forces in the attack on [[Aqaba]], this character was created largely because Lawrence did not serve with any single Arab leader, aside from Auda, throughout the majority of the war.{{citation needed|date=June 2023}}
+* [[José Ferrer]] as the Turkish [[Bey]]. Ferrer was initially dissatisfied with the small size of his part and accepted the role only on the condition of being paid $25,000 (more than O'Toole and Sharif combined) plus a [[Porsche]].{{sfn|Turner|1994|p=49}} Afterwards, Ferrer considered this his best film performance, saying in an interview: "If I was to be judged by any one film performance, it would be my five minutes in ''Lawrence''". Peter O'Toole once said that he learned more about screen acting from Ferrer than he could in any acting class. According to Lawrence in ''Seven Pillars of Wisdom'', this was General Hajim Bey (in Turkish, ''Hacim Muhiddin Bey''), though the film does not name him. Biographers including [[Jeremy Wilson]] and [[John E. Mack|John Mack]] have argued that Lawrence's account is to be believed; others including [[Michael Asher (explorer)|Michael Asher]] and [[Lawrence James]] argue that contemporary evidence suggests that Lawrence never went to Deraa at this time and that the story is invented.{{citation needed|date=June 2023}}
+* [[Anthony Quayle]] as Colonel Harry Brighton. Quayle, a veteran of military roles, was cast after Jack Hawkins, the original choice, was shifted to the part of Allenby. Quayle and Lean argued over how to portray the character, with Lean feeling Brighton to be an honourable character, while Quayle thought him an idiot. He is in essence a composite of all of the British officers who served in the Middle East with Lawrence, most notably Lieutenant Colonel [[S. F. Newcombe]] (in Michael Wilson's original script, the character was named Colonel Newcombe before Robert Bolt changed it). Like Brighton in the film, Newcombe was Lawrence's predecessor as liaison to the Arab Revolt; he and many of his men were captured by the Turks in 1916, but Newcombe escaped. Brighton was created to represent how ordinary British soldiers would feel about a man like Lawrence: impressed by his accomplishments but repulsed by his affected manner.{{citation needed|date=June 2023}}
+* [[Claude Rains]] as Mr Dryden. Like Sherif Ali and Colonel Brighton, Dryden was an amalgamation of several historical figures, primarily [[Ronald Storrs]], a member of the Arab Bureau, but also [[David George Hogarth|David Hogarth]], an archaeologist friend of Lawrence; [[Henry McMahon]], the High Commissioner of Egypt who negotiated the [[McMahon–Hussein Correspondence]] which began the Arab Revolt and [[Mark Sykes]], who helped draw up the [[Sykes–Picot Agreement]] which partitioned the post-war Middle East. [[Robert Bolt]] stated that the character was created to "represent the civilian and political wing of British interests, to balance Allenby's military objectives".<ref>{{cite web |url=http://www.telawrence.info/telawrenceinfo/legacy3/film/film3.htm |title=Lawrence of Arabia or Smith in the Desert? |access-date=8 March 2021 |archive-date=29 September 2011 |archive-url=https://web.archive.org/web/20110929015041/http://www.telawrence.info/telawrenceinfo/legacy3/film/film3.htm |url-status=live}}</ref>
+* [[Arthur Kennedy]] as Jackson Bentley. In the early days of the production, when the Bentley character had a more prominent role, [[Kirk Douglas]] was considered for the part; Douglas expressed interest but demanded a star salary and the highest billing after O'Toole and thus was turned down by Spiegel. Later, [[Edmond O'Brien]] was cast in the part.{{sfn|Turner|1994|p=51}} O'Brien filmed the Jerusalem scene and (according to Omar Sharif) Bentley's political discussion with Ali, but he suffered a heart attack on location and had to be replaced at the last moment by Kennedy, who was recommended to Lean by Anthony Quinn.{{sfn|Turner|1994|pp=137–138}} The character was based on famed American journalist [[Lowell Thomas]], whose reports helped make Lawrence famous. Thomas was a young man at the time who spent only weeks at most with Lawrence in the field, unlike Bentley, who is a middle-aged man present for all of Lawrence's later campaigns. Bentley was the narrator in Wilson's original script, but Bolt reduced his role significantly in the final treatment.
+* [[Donald Wolfit]] as General [[Archibald Murray]]. He releases Lawrence to Mr Dryden.
+* [[I. S. Johar]] as Gasim. Johar was a well-known [[India]]n actor who occasionally appeared in international productions.
+* [[Gamil Ratib]] as Majid. Ratib was a veteran Egyptian actor. His English was not considered good enough, so he was dubbed by an uncredited [[Robert Rietti]]{{citation needed|date=November 2018}} in the final edit.
+* [[Michel de Carvalho|Michel Ray]] as Farraj. At the time, Ray was a rising Anglo-Brazilian actor who had appeared in several films, including [[Irving Rapper]]'s ''[[The Brave One (1956 film)|The Brave One]]'' (1956) and [[Anthony Mann]]'s ''[[The Tin Star]]'' (1957).
+* John Dimech as Daud
+* [[Zia Mohyeddin]] as Tafas. Mohyeddin, one of Pakistan's best-known actors, played a character based on Lawrence's actual guide, Sheikh Obeid el-Rashid of the Hazimi branch of the Beni Salem, whom Lawrence referred to as Tafas several times in ''Seven Pillars''.
+* [[Howard Marion-Crawford]] as the medical officer. He was cast at the last minute during the filming of the Damascus scenes in Seville. The character was based on an officer mentioned in an incident in ''Seven Pillars of Wisdom''. Lawrence's meeting the officer again while in British uniform was an invention of the script.
+* [[Jack Gwillim]] as the club secretary. Gwillim was recommended to Lean for the film by close friend Quayle.
+* [[Hugh Miller (actor)|Hugh Miller]] as the [[RAMC]] colonel. He worked on several of Lean's films as a dialogue coach and was one of several members of the film crew to be given bit parts (see below).
+* [[Peter Burton]] as a Damascus sheik (uncredited)
+* Kenneth Fortescue as Allenby's aide (uncredited)<ref name="Eagan2010">{{cite book |author=Daniel Eagan |title=America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry |url=https://books.google.com/books?id=deq3xI8OmCkC&pg=PA586 |date=2010 |publisher=A&C Black |isbn=978-0-8264-2977-3 |pages=586–|access-date=2 February 2019|archive-url=https://web.archive.org/web/20190724211745/https://books.google.com/books?id=deq3xI8OmCkC&pg=PA586|archive-date=24 July 2019|url-status=live}}</ref>
+* [[Harry Fowler]] as Corporal William Potter (uncredited)<ref>{{Cite news |url=https://www.theguardian.com/film/2012/jan/04/harry-fowler |title=Harry Fowler obituary |newspaper=The Guardian |date=4 January 2012 |last1=Baxter |first1=Brian| access-date=2 February 2019| archive-url=https://web.archive.org/web/20120109022501/http://www.guardian.co.uk/film/2012/jan/04/harry-fowler| archive-date=9 January 2012| url-status=live}}</ref>
+* [[Jack Hedley]] as a reporter (uncredited)
+* [[Ian MacNaughton]] as Corporal Michael George Hartley, Lawrence's companion in O'Toole's first scene (uncredited)
+* [[Henry Oscar]] as Silliam, Faisal's servant (uncredited)
+* [[Norman Rossington]] as Corporal Jenkins (uncredited)<ref name="Eagan2010" />
+* [[John Ruddock]] as Elder Harith (uncredited)<ref name="Eagan2010" />
+* [[Fernando Sancho]] as the Turkish sergeant (uncredited)
+* Stuart Saunders as the [[regimental sergeant major]] (uncredited)
+* [[Bryan Pringle]] as the driver of the car which takes Lawrence away at the end of the film (uncredited)
+
+The crew consisted of over 200 people. Including cast and extras, over 1,000 people worked on the film.{{sfn|Jackson|2007|p=59}} Members of the crew portrayed minor characters. First assistant director Roy Stevens played the truck driver who transports Lawrence and Farraj to the Cairo HQ at the end of Act I; the sergeant who stops Lawrence and Farraj ("Where do you think you're going to, Mustapha?") is construction assistant Fred Bennett, and screenwriter [[Robert Bolt]] has a wordless cameo as one of the officers watching Allenby and Lawrence confer in the courtyard (he is smoking a pipe).{{sfn|Phillips|2006|p=296}} Steve Birtles, the film's [[Gaffer (occupation)|gaffer]], played the motorcyclist at the Suez Canal; Lean is rumoured to have provided the cyclist's voice shouting "Who are you?" Continuity supervisor Barbara Cole appeared as one of the nurses in the Damascus hospital scene.{{citation needed|date=September 2021}}
+
+It may be the longest theatrical film with no female speaking roles.{{citation needed|date=October 2025}} Women appear in crowd scenes or as extras.<ref>{{Cite web|title=15 Movies With No Female Characters Whatsoever |website=screenrant.com |date=28 January 2017 |last=Leadbeater |first=Alex|access-date=7 October 2025| url=https://screenrant.com/movies-without-female-characters/}}</ref>
+
+== Historical accuracy ==
+Most of the film's characters are based on historical figures but to varying degrees. Some scenes were heavily fictionalised, such as the [[Battle of Aqaba]], and those dealing with the Arab Council since the council remained more or less in power in [[Syria]] until France deposed [[Faisal I of Iraq|Faisal]] in 1920. Little background is provided on the history of the region, the First World War, and the Arab Revolt, probably because of Bolt's increased focus on Lawrence (Wilson's draft script had a broader, more politicised version of events).{{Citation needed|date=June 2025}} The second half of the film focuses on Lawrence's disillusionment as his attempts to convert battlefield victories into the basis for an independent Arab state fail.
+
+The film's timeline inaccurately depicts the chronology of the Arab Revolt and First World War, as well as the geography of the [[Hejaz]] region. Bentley's meeting with Faisal in which he mentions that the United States has not yet entered the war is in late 1917 after the fall of Aqaba, months after the [[American entry into World War I|American entry into the war]]. Lawrence's involvement in the Arab Revolt prior to the attack on Aqaba is absent, as are his involvement in the seizures of [[Yanbu|Yenbo]] and [[Al Wajh|Wejh]]. The rescue and the execution of Gasim are based on two incidents that were conflated for dramatic reasons.
+
+The film shows Lawrence representing the Allied cause in the Hejaz almost alone, with Colonel Brighton ([[Anthony Quayle]]) as the only British officer there to assist him. In fact, there were numerous British officers such as colonels [[Cyril Wilson]], [[Stewart Newcombe]], and [[Pierce C. Joyce]], all of whom arrived before Lawrence began serving in Arabia.{{sfn|Murphy|2008|p=17}} There was a French military mission led by Colonel [[Édouard Brémond]] serving in the Hejaz but it is not mentioned in the film.{{sfn|Murphy|2008|p=18}} The film shows Lawrence as the originator of the attacks on the Hejaz railway. The first attacks began in early January 1917, led by officers such as Newcombe.{{sfn|Murphy|2008|p=39}} The first successful attack on the Hejaz railway with a locomotive-destroying "Garland mine" was led by Major [[Herbert Garland]] in February 1917, a month before Lawrence's first attack.{{sfn|Murphy|2008|pp= 43–44}}
+
+The film shows the [[Hashemites|Hashemite]] forces consisting of Bedouin guerrillas, but the core of the Hashemite force was the regular Arab Army recruited from Ottoman Arab prisoners of war. They wore British-style uniforms with [[keffiyeh]]s and fought in conventional battles.{{sfn|Murphy|2008|p=24}} The film makes no mention of the [[Sharifian Army]] and leaves the viewer with the impression that the Hashemite forces were composed exclusively of Bedouin irregulars.
+
+=== Representation of Lawrence ===
+[[File:Peter O'Toole in Lawrence of Arabia.png|thumb|left|[[Peter O'Toole]] as T. E. Lawrence]]
+Many complaints about the film's accuracy concern the characterisation of Lawrence. The perceived problems with the portrayal begin with the differences in his physical appearance — the {{cvt|6|ft|2|in|m}} [[Peter O'Toole]] was almost {{cvt|9|in|cm}} taller than the {{cvt|5|ft|5|in|m}} Lawrence<ref>{{cite book |last=Orlans |first=Harold |title=T. E. Lawrence: Biography of a Broken Hero |publisher=McFarland |page=111 |date=2002 |isbn=0-7864-1307-7}}</ref> — and extended to his behaviour.
+
+The screenwriters depict Lawrence as an egotist.{{citation needed|date=October 2023}} It is not clear to what degree Lawrence sought or shunned attention, as evidenced by his use of various assumed names after the war. Even during the war, [[Lowell Thomas]] wrote in ''With Lawrence in Arabia'' that he could take pictures of him only by tricking him, although Lawrence later agreed to pose for several photos for Thomas's stage show. Thomas's famous comment that Lawrence "had a genius for backing into the limelight" suggests that his extraordinary actions prevented him from being as private as he would have liked, or may suggest that Lawrence made a pretence of avoiding the limelight but subtly placed himself at centre stage. Others{{who|date=October 2023}} point to Lawrence's writings to support the argument that he was egotistical.
+
+Lawrence's sexual orientation remains a controversial topic among historians. Bolt's primary source was ostensibly ''Seven Pillars'', but the film's portrayal seems informed by [[Richard Aldington]]'s ''Biographical Inquiry'' (1955), which posited Lawrence as a "pathological liar and exhibitionist" as well as a homosexual. That is opposed to his portrayal in ''[[Ross (play)|Ross]]'' as a "physically and spiritually broken recluse".<ref>{{Cite journal |last=Weintraub |first=Stanley |year=1964 |title=Lawrence of Arabia |jstor=1210914 |journal=Film Quarterly |volume=17 |issue=3 |pages=51–54 |doi=10.2307/1210914}}</ref> Historians like [[B. H. Liddell Hart]] disputed the film's depiction of Lawrence as an active participant in the attack and slaughter of the retreating Turkish columns who had committed the [[Tafas massacre]], but most current biographers accept the film's portrayal as reasonably accurate.
+
+The film shows that Lawrence spoke and read [[Arabic]], could quote the [[Quran]] and was reasonably knowledgeable about the region. It barely mentions his archaeological travels from 1911 to 1914 in Syria and Arabia and ignores his espionage work, including a pre-war topographical survey of the [[Sinai Peninsula]] and his attempts to negotiate the release of British prisoners at [[Siege of Kut|Kut]], [[Mesopotamia]], in 1916. Lawrence is made aware of the [[Sykes–Picot Agreement]] very late in the story and is shown to be appalled by it, but he may well have known about it much earlier while he fought with the Arabs.<ref>cf. Jeremy Wilson, ''Lawrence of Arabia: The Authorised Biography of T. E. Lawrence'' (1990), pp. 409–10</ref>
+
+Lawrence's biographers have a mixed reaction towards the film. The authorised biographer Jeremy Wilson noted that the film has "undoubtedly influenced the perceptions of some subsequent biographers", such as the depiction of the film's Ali being a real rather than a composite character and the highlighting of the Deraa incident.<ref>{{cite web |last=Wilson |first=Jeremy |url=http://www.telstudies.org/discussion/film_tv_radio/lofa_or_sid_1.shtml |title=Lawrence of Arabia or Smith in the Desert? |publisher=T. E. Lawrence Studies |access-date=9 July 2015 | archive-url=https://web.archive.org/web/20150723003651/http://www.telstudies.org/discussion/film_tv_radio/lofa_or_sid_1.shtml | archive-date=23 July 2015 | url-status=live}}</ref> The film's historical inaccuracies, in Wilson's view, are more questionable than should be allowed under normal dramatic licence. Liddell Hart criticised the film and engaged Bolt in a lengthy correspondence over its portrayal of Lawrence.{{sfn|Morris|Raskin|1992|pp=149–156}}
+
+According to Sonoma State University associate professor Ajay Gehlawat, the portrayal of Lawrence also qualifies as a [[White savior narrative in film|cinematic white saviour]].<ref name="gehlawat">{{cite book | last=Gehlawat | first=Ajay | year=2013 | title=The Slumdog Phenomenon: A Critical Anthology | publisher=Anthem Press | isbn=978-0-85728-001-5 | page=83 }}</ref>
+
+=== Representation of other characters ===
+The film portrays Allenby as cynical and manipulative with a superior attitude to Lawrence, but there is much evidence that Allenby and Lawrence liked and respected each other. Lawrence once said that Allenby was "an admiration of mine" and later that he was "physically large and confident and morally so great that the comprehension of our littleness came slow to him".<ref>{{cite web |url=http://www.castlehillpress.com/plates/pl01.htm |title=''The Seven Pillars'' Portraits |publisher=Castle Hill Press |access-date=21 January 2006 |archive-url=https://web.archive.org/web/20060313204945/http://www.castlehillpress.com/plates/pl01.htm |archive-date=13 March 2006 |url-status=live}}</ref><ref>{{cite web |url=https://www.pbs.org/lawrenceofarabia/players/allenby.html |title=General Allenby (biography) |publisher=pbs.org |access-date=2 September 2017 |archive-url=https://web.archive.org/web/20171125103413/http://www.pbs.org/lawrenceofarabia/players/allenby.html |archive-date=25 November 2017 |url-status=live}}</ref> The fictional Allenby's words at Lawrence's funeral in the film stand in contrast to the real Allenby's remarks upon Lawrence's death,
+
+{{blockquote|I have lost a good friend and a valued comrade. Lawrence was under my command, but, after acquainting him with my strategical plan, I gave him a free hand. His co-operation was marked by the utmost loyalty, and I never had anything but praise for his work, which, indeed, was invaluable throughout the campaign."<ref>{{cite web |url=https://www.pbs.org/lawrenceofarabia/players/allenby2.html |title=General Allenby (radio interview) |publisher=pbs.org |access-date=2 September 2017 |archive-url=https://web.archive.org/web/20170314231750/http://www.pbs.org/lawrenceofarabia/players/allenby2.html |archive-date=14 March 2017 |url-status=live}}</ref>}}
+
+Allenby spoke highly of him numerous times and much to Lawrence's delight publicly endorsed the accuracy of ''Seven Pillars of Wisdom''. Although Allenby manipulated Lawrence during the war, their relationship lasted for years afterwards, indicating that in real life they were friendly, if not close. The Allenby family was particularly upset by the Damascus scenes, in which Allenby coldly allows the town to fall into chaos as the Arab Council collapses.{{sfn|Caton|1999|p=59}}
+
+Murray was initially sceptical of the Arab Revolt's potential but thought highly of Lawrence's abilities as an intelligence officer. It was largely through Lawrence's persuasion that Murray came to support the revolt. The intense dislike shown toward Lawrence in the film is the opposite of Murray's real feelings, but Lawrence seemed not to hold Murray in any high regard.{{citation needed|date=June 2023}}
+
+The depiction of Auda Abu Tayi as a man interested only in loot and money is at odds with the historical record. Although Auda at first joined the revolt for monetary reasons, he became a steadfast supporter of Arab independence, notably after Aqaba's capture. Despite repeated bribery attempts by the Turks, he took their money but remained loyal to the revolt and went so far as to knock out his false teeth, which were Turkish-made. He was present with Lawrence from the beginning of the Aqaba expedition and helped to plan it, along with Lawrence and Prince Faisal. Faisal was not the middle-aged man depicted, as he was in his early thirties. Faisal and Lawrence respected each other's capabilities and intelligence and worked well together.<ref>{{cite web |url=https://www.pbs.org/lawrenceofarabia/players/feisal.html |title=Prince Feisal |publisher=pbs.org |access-date=2 September 2017 |archive-url=https://web.archive.org/web/20170919145955/http://www.pbs.org/lawrenceofarabia/players/feisal.html |archive-date=19 September 2017 |url-status=live}}</ref>
+
+The reactions of those who knew Lawrence and the other characters cast doubt on the film's veracity. The most vehement critic of its accuracy was Professor [[A. W. Lawrence]], T. E. Lawrence's younger brother and literary executor, who had sold the rights to ''Seven Pillars of Wisdom'' to Spiegel for £25,000 and went on a campaign in the United States and Britain to denounce the film. He said, "I should not have recognised my own brother". In one pointed talk show appearance, he remarked that he had found the film "pretentious and false" and that his brother was "one of the nicest, kindest and most exhilarating people I've known. He often appeared cheerful when he was unhappy". Later, he said to ''[[The New York Times]]'', "[The film is] a psychological recipe. Take an ounce of narcissism, a pound of exhibitionism, a pint of sadism, a gallon of blood-lust and a sprinkle of other aberrations and stir well." Lowell Thomas was critical of the portrayal of Lawrence and of most of the film's characters and believed that the train attack scenes were the only reasonably accurate aspect of the film. Criticisms were not restricted to Lawrence. Allenby's family lodged a formal complaint against Columbia about his portrayal. Descendants of Auda Abu Tayi and Sharif Nassir (upon whom the film's Ali was partially based) went further by suing Columbia. The Auda case went on for almost 10 years before it was dropped.<ref>{{Cite book |last=Turner |first=Adrian |url=https://archive.org/details/robertboltscenes0000turn |title=Robert Bolt: scenes from two lives |date=1998 |publisher=Hutchinson |isbn=978-0-09-180176-2 |location=London |pages=201–206 |access-date=9 August 2025 |url-access=registration |via=[[Internet Archive]]}}</ref>
+
+The film has its defenders. Biographer [[Michael Korda]], the author of ''Hero: The Life and Legend of Lawrence of Arabia'', offers a different opinion. The film is neither "the full story of Lawrence's life or a completely accurate account of the two years he spent fighting with the Arabs". Korda said that criticising its inaccuracy "misses the point". "The object was to produce, not a faithful docudrama that would educate the audience, but a hit picture".<ref>Korda, pp. 693–94</ref> Stephen E. Tabachnick goes further than Korda by arguing that the film's portrayal of Lawrence is "appropriate and true to the text of ''Seven Pillars of Wisdom''".<ref>''Lawrence of Arabia: An Encyclopedia.'' Westport, CT: Greenwood, Press, 2004. p. 24</ref> David Murphy, historian and author of the 2008 book ''The Arab Revolt'', wrote that although the film was flawed with inaccuracies and omissions, "it was a truly epic movie and is rightly seen as a classic".{{sfn|Murphy|2008|pp=88–89}}
+
+== Production ==
+=== Background and pre-production ===
+Previous films about T. E. Lawrence had been planned but had not been made. In the 1940s, [[Alexander Korda]] was interested in filming ''Seven Pillars of Wisdom'' with [[Laurence Olivier]], [[Leslie Howard]], or [[Robert Donat]] as Lawrence, but had to pull out owing to financial difficulties. David Lean had been approached to direct a 1952 version for [[the Rank Organisation]], but the project fell through.{{sfn|Phillips|2006|p=258}} At the same time as pre-production of the film, [[Terence Rattigan]] was developing his play ''[[Ross (play)|Ross]]'' which centred primarily on Lawrence's alleged [[homosexuality]]. ''Ross'' had begun as a screenplay but was re-written for the stage when the film project fell through. Sam Spiegel grew furious and attempted to have the play suppressed, which helped to gain publicity for the film.{{sfn|Brownlow|1996|pp=410–411}} [[Dirk Bogarde]] had accepted the role in ''Ross''; he described the cancellation of the project as "my bitterest disappointment". Alec Guinness played the role on stage.<ref>{{Cite book |title=Peter O'Toole: The Definitive Biography |last=Sellers |first=Robert |publisher=Pan Macmillan |year=2015 |isbn=978-0-283-07216-1 |location=London |quote=my bitterest disappointment}}</ref>
+
+Lean and Sam Spiegel had worked together on ''[[The Bridge on the River Kwai]]'' and decided to collaborate again. For a time, Lean was interested in a biopic of [[Mahatma Gandhi|Gandhi]], with Alec Guinness to play the title role and [[Emeric Pressburger]] writing the screenplay. He eventually lost interest in the project, despite extensive pre-production work, including location scouting in India and a meeting with [[Jawaharlal Nehru]].{{sfn|Brownlow|1996|pp=393–401}} Lean then returned his attention to T. E. Lawrence. [[Columbia Pictures]] had an interest in a Lawrence project dating back to the early 1950s, and the project got underway when Spiegel convinced a reluctant A. W. Lawrence to sell the rights to ''[[Seven Pillars of Wisdom]]'' for £22,500.{{sfn|Phillips|2006|p=271}}
+
+[[Michael Wilson (writer)|Michael Wilson]] wrote the original draft of the screenplay. Lean was dissatisfied with Wilson's work, primarily because his treatment focused on the historical and political aspects of the Arab Revolt. Spiegel hired Robert Bolt to re-write the script to make it a character study of Lawrence. Many of the characters and scenes are Wilson's invention, but virtually all of the dialogue in the finished film was written by Bolt.{{sfn|Phillips|2006|pp=270–282}}{{sfn|Brownlow|1996|pp=423-424}}
+
+Lean reportedly watched [[John Ford]]'s 1956 film ''[[The Searchers]]'' to help him develop ideas as to how to shoot the film. Several scenes directly recall Ford's film, most notably Ali's entrance at the well and the composition of many of the desert scenes and the dramatic exit from [[Wadi Rum]]. Lean biographer [[Kevin Brownlow]] noted a physical similarity between Wadi Rum and Ford's [[Monument Valley]].{{sfn|Brownlow|1996|p=443}}
+
+In an interview with ''[[The Washington Post]]'' in 1989, Lean said that Lawrence and Ali were written as being in a gay relationship. When asked about whether the film was "pervasively homoerotic", Lean responded:
+<blockquote>
+Yes. Of course it is. Throughout. I'll never forget standing there in the desert once, with some of these tough Arab buggers, some of the toughest we had, and I suddenly thought, "He's making eyes at me!" And he was! So it does pervade it, the whole story, and certainly Lawrence was very if not entirely homosexual. We thought we were being very daring at the time: Lawrence and Omar, Lawrence and the Arab boys.<ref>{{cite news |last=Yardley |first=Jonathan |url=https://www.washingtonpost.com/archive/lifestyle/1989/02/03/david-lean-sorcerer-of-the-screen/784a3547-60d6-47d6-96a4-1f99f3edea55/ |title=David Lean, Sorcerer of the Screen |newspaper=[[The Washington Post]] |date=3 February 1989 |access-date=14 March 2022 |archive-url=https://web.archive.org/web/20221230052041/https://www.washingtonpost.com/archive/lifestyle/1989/02/03/david-lean-sorcerer-of-the-screen/784a3547-60d6-47d6-96a4-1f99f3edea55/ |archive-date=30 December 2022 |url-status=live}}</ref>
+</blockquote>
+
+Lean also compared Ali and Lawrence's romance in the film to the relationship of the two main characters in his 1945 film ''[[Brief Encounter]]''.<ref>{{Cite book |title=Brief Encounters: Lesbians and Gays in British Cinema 1930–1971 |last=Bourne |first=Stephen |publisher=Bloomsbury Publishing |year=2016 |isbn=978-1-4742-9134-7 |page=169}}</ref>
+
+=== Filming ===
+[[File:Spain Andalusia Seville BW 2015-10-23 15-35-15.jpg|thumb|upright=1.3|The [[Plaza de España, Seville]] appeared as Britain's Egyptian Expeditionary Force Headquarters in Cairo, which included the officers' club.]]
+The film was made by [[Horizon Pictures]] and [[Columbia Pictures]]. Horizon Pictures were the main leading studio behind the making of the film while Columbia Pictures gave significant financial backing for the production and provided distribution of the release.<ref name=the-numbers>{{cite web |title=Lawrence of Arabia (1962) |url=https://www.the-numbers.com/movie/Lawrence-of-Arabia | archive-url=https://web.archive.org/web/20260605210911/https://www.the-numbers.com/movie/Lawrence-of-Arabia | archive-date=2026-06-05 |url-status=live |website=[[the-numbers]]}} </ref> Principal photography began on 15&nbsp;May 1961 and ended on 21&nbsp;September 1962.{{sfn|Phillips|2006|pages=291, 303}} The desert scenes were shot in [[Jordan]] and [[Morocco]] and [[Province of Almería|Almería]] and [[Doñana National Park|Doñana]] in Spain. It was originally to be filmed entirely in Jordan; the government of [[Hussein of Jordan|King Hussein]] was extremely helpful in providing logistical assistance, location scouting, transport and extras. Hussein visited the set several times during production and maintained cordial relationships with cast and crew. The only tension occurred when Jordanian officials learned that English actor [[Henry Oscar]] did not speak Arabic but would be filmed reciting the Quran. Permission was granted only on condition that an imam be present to ensure that there were no misquotations.{{cn|date=August 2026}}
+
+Lean planned to film in Aqaba and the archaeological site at [[Petra]], which Lawrence had been fond of as a place of study. The production had to be moved to Spain due to cost and outbreaks of illness among the cast and crew before these scenes could be shot. The attack on Aqaba was reconstructed in a dried river bed in Playa del Algarrobico, southern Spain (at {{nowrap|{{coord|37|1|25|N|1|52|53|W|region:ES_type:landmark|display=inline}}}}); it consisted of more than 300 buildings and was meticulously based on the town's appearance in 1917. The execution of Gasim, the train attacks, and Deraa exteriors were filmed in the [[Almería]] region, with some of the filming being delayed because of a flash flood. The [[Sierra Nevada (Spain)|Sierra Nevada]] mountains filled in for [[Azraq]], Lawrence's winter quarters. The city of [[Seville]] was used to represent Cairo, Jerusalem and [[Damascus]], with the appearance of [[Casa de Pilatos]] as Jerusalem British headquarters, the [[Alcázar of Seville]] as Damascus' town hall courtyard, the [[Plaza de América]], the Casino from [[Teatro Lope de Vega (Seville)]] for the final Arab Council meeting, the basement of the [[Peruvian pavilion, Seville]] as both match and Bey's torture scenes and the [[Plaza de España, Seville|Plaza de España]] as British headquarters in Cairo. All of the interiors were shot in Spain, including Lawrence's first meeting with Faisal and the scene in Auda's tent. The Tafas massacre was filmed in [[Ouarzazate]], Morocco, with Moroccan soldiers substituting for the Turkish army; Lean could not film as much as he wanted because the soldiers were uncooperative and impatient.{{sfn|Brownlow|1996|pp=466–467}}
+
+[[File:Pabellon Mudejar.JPG|thumb|upright=0.8|The [[Mudéjar]] pavilion of the [[Parque de María Luisa]] in Seville appeared as Damascus.]]
+O'Toole was not used to riding camels and found the saddle to be uncomfortable. During a break in filming, he bought a piece of foam rubber at a market and added it to his saddle. Many of the extras copied the idea and sheets of the foam can be seen on many of the horse and camel saddles. The Bedouin nicknamed O'Toole ''Abu-'Isfanj'' ({{lang|ar|أبو إسفنج}}), meaning "Father of the Sponge".<ref>{{cite podcast |url=https://freshairarchive.org/segments/early-years-actor-peter-otoole |title=The Early Years of Actor Peter O'Toole |website=Fresh Air |publisher=NPR |host=Terry Gross |date=16 April 1993 |time=|access-date=10 December 2023}}</ref> During the filming of the Aqaba scene, O'Toole was nearly killed when he fell from his camel, but it stood over him, preventing the extras' horses from trampling him. Coincidentally, a very similar mishap befell the real Lawrence at the Battle of Abu El Lissal in 1917.<ref>{{Cite web |title=Lawrence's Corps of Camel Raiders – History Moments |url=https://historyweblog.com/2022/01/lawrences-corps-of-camel-raiders/#:~:text=In%20the%20charge%20Lawrence%20accidentally%20shot%20his%20own,it,%20while%20his%20followers%20charged%20right%20over%20him. |access-date=2025-06-03 |website=historyweblog.com}}</ref>
+
+[[Super Panavision 70|Super Panavision]] technology was used to shoot the film, meaning that spherical lenses were used instead of [[Anamorphic format|anamorphic]] ones, and the image was exposed on a 65&nbsp;mm negative, then printed onto a 70&nbsp;mm positive to leave room for the soundtracks. Rapid cutting was more disturbing on the wide screen, so film makers had to apply longer and more fluid takes. Shooting such a wide ratio produced some unwanted effects during projection, such as a peculiar "flutter" effect, a blurring of certain parts of the image. To avoid the problem, the director often had to modify blocking, giving the actor a more diagonal movement, where the flutter was less likely to occur.{{sfn|Caton|1999|pp=70–71}} Lean was asked whether he could handle [[CinemaScope]]: "If one had an eye for composition, there would be no problem."<ref>{{Cite book |title=The Epic Films of David Lean |last=Santas |first=Constantine |publisher=The Scarecrow Press, Inc. |year=2012 |location=Plymouth UK |page=xxvi}}</ref> O'Toole did not share Lawrence's love of the desert and stated in an interview "I loathe it".<ref>{{cite web |url=https://www.youtube.com/watch?v=ZUyixfiE_oM |title=Peter O'Toole talks about 'Lawrence of Arabia' in rare 1963 interview |publisher=YouTube |access-date=4 November 2014|archive-url=https://web.archive.org/web/20190724211714/https://www.youtube.com/watch?v=ZUyixfiE_oM|archive-date=24 July 2019|url-status=live}}</ref>
+
+=== Music ===
+{{Main|Lawrence of Arabia (soundtrack)|l1=''Lawrence of Arabia'' (soundtrack)}}
+The [[film score]] was composed by [[Maurice Jarre]], little known at the time and selected only after both [[William Walton]] and [[Malcolm Arnold]] had proved unavailable. Jarre was given just six weeks to compose two hours of orchestral music for ''Lawrence''.<ref>{{cite web|url=https://www.economist.com/obituary/2009/04/16/maurice-jarre |newspaper=The Economist |title=Obituary: Maurice Jarre |date=16 April 2009 |archive-date=25 July 2023 |archive-url=https://web.archive.org/web/20230725200614/https://www.economist.com/obituary/2009/04/16/maurice-jarre |url-status=live |url-access=registration}}</ref> The score was performed by the [[London Philharmonic Orchestra]]. [[Adrian Boult|Sir Adrian Boult]] is listed as the conductor of the score in the film's credits, but he could not conduct most of the score, due in part to his failure to adapt to the intricate timings of each cue, and Jarre replaced him as the conductor. The score went on to garner Jarre his first [[Academy Award for Best Original Score|Academy Award for Music Score—Substantially Original]],<ref>{{cite web|url=https://www.oscars.org/oscars/ceremonies/1963 |title=The 35th Academy Awards {{!}} 1963 |access-date=1 January 2025 |website=Oscars.org |date=5 October 2014 |archive-date=29 December 2024 |archive-url=https://web.archive.org/web/20241229214326/https://www.oscars.org/oscars/ceremonies/1963 |url-status=live}}</ref> and it is now considered one of the greatest scores of all time, ranking number three on the [[AFI's 100 Years of Film Scores|American Film Institute's top twenty-five film scores]].<ref>{{cite web|url=http://www.afi.com/100years/scores.aspx |title=AFI's 100 Years of Film Scores: Lawrence Of Arabia (#3), composer Maurice Jarre |archive-url=https://web.archive.org/web/20131225213455/http://afi.com/100Years/scores.aspx |archive-date=25 December 2013 |url-status=dead |website=American Film Institute |date=23 September 2005 |location=Los Angeles, CA}}</ref>
+
+Producer [[Sam Spiegel]] wanted to create a score with two themes to show the 'Eastern' and British side for the film. It was intended for Soviet composer [[Aram Khachaturian]] to create one half and British composer [[Benjamin Britten]] to write the other.{{sfn|Jackson|2007|p=90}}
+
+[[Kenneth J. Alford|Kenneth Alford]]'s march ''[[The Voice of the Guns]]'' (1917) is prominently featured on the soundtrack.<ref>{{cite web |last1=Quinn |first1=Michael |title=HomeClips Maurice Jarre Lawrence of Arabia Review |url=https://www.bbc.co.uk/music/reviews/pcd3/ |publisher=BBC |access-date=16 August 2026}}</ref><ref name="Brownlow">{{cite book |last1=Brownlow |first1=Kevin |title=David Lean: A Biography |date=1996 |publisher=St. Martin's Press |isbn=978-0312145781}}</ref>
+
+A complete recording of the score was not released until 2010 when Tadlow Music produced a CD of the music, with Nic Raine conducting the [[City of Prague Philharmonic Orchestra]] from scores reconstructed by [[Leigh Phillips]].<ref>{{Cite web |title=Release "Lawrence of Arabia: World Premiere Recording of the Complete Score" by The City of Prague Philharmonic Orchestra & Nic Raine – MusicBrainz |url=https://musicbrainz.org/release/cf26e8de-9f37-446d-b3f4-b08c4e6f9736 |access-date=2 March 2024 |website=musicbrainz.org}}</ref>
+
+== Release ==
+=== Theatrical run ===
+The film premiered at the [[Odeon Luxe Leicester Square|Odeon Leicester Square]] in London on 10&nbsp;December 1962 and was released in the United States on 16&nbsp;December 1962.
+
+Jordan banned the film for what was felt to be a disrespectful portrayal of Arab culture.<ref name="Woolf" /> Egypt, Omar Sharif's home country, was the only Arab nation to give the film a wide release, where it became a success through the endorsement of President [[Gamal Abdel Nasser]], who appreciated the film's depiction of [[Pan-Arabism|Arab nationalism]].<ref>{{cite news |last1=Gaughan |first1=Liam |title='Lawrence of Arabia' Was Banned for Controversial Reasons |url=https://collider.com/lawrence-of-arabia-banned-censored/ |access-date=14 September 2024 |work=Collider |date=18 February 2024 |language=en}}</ref>
+
+[[File:Lawrence of Arabia.jpg|thumb|upright=0.8|Theatrical poster from 1962 during the film's release]]
+
+''Lawrence of Arabia'' is slightly more than one minute longer than ''Gone With the Wind'' and is, therefore, the longest movie ever to win a Best Picture Oscar.<ref>{{Cite news |last=Collins |first=Hannah |date=3 October 2024 |title=What is the longest movie to win an Oscar for 'Best Picture'? |url=https://faroutmagazine.co.uk/longest-film-win-oscar-best-picture/ |access-date=9 August 2025 |work=Far Out Magazine}}</ref>
+
+In January 1963, ''Lawrence of Arabia'' was released in a version edited by 20 minutes.<ref name="AlternateVersions">{{cite news |last=Farber |first=Stephen |url=https://www.nytimes.com/1971/05/02/archives/look-what-theyve-done-to-lawrence-of-arabia-now.html |title=Look What They've Done to 'Lawrence of Arabia' Now |work=The New York Times |page=D11 |date=2 May 1971 |access-date=29 December 2022}}</ref> In the United States, the film was released in five key cities—New York, Los Angeles, Philadelphia, Boston, and Miami Beach. By February 1963, the film expanded into six more [[Roadshow theatrical release|reserved-seating engagements]].<ref>{{cite magazine |title=Six More Key City Dates Set for 'Lawrence' |url=https://archive.org/details/boxofficejanmar182boxo/page/n104/mode/1up |magazine=Boxoffice |date=21 January 1963 |access-date=29 December 2022 |via=Internet Archive}}</ref> From 9&nbsp;October 1963 it started to open at 1,000 theatres in the United States on a non-reserved seat basis.<ref>{{cite magazine |magazine=[[Variety (magazine)|Variety]] |date=18 September 1963 |page=12 |title='Lawrence of Arabia' Is The Hottest Attraction In Showbusiness Today! (advertisement) |url=https://archive.org/details/sim_variety_1963-09-18_232_4/page/12/mode/1up?view=theater|access-date=20 February 2024 |via=[[Internet Archive]]}}</ref>
+
+When it was re-released in 1971, an even shorter cut of 187&nbsp;minutes was presented.<ref name="AlternateVersions" /> The first round of cuts was made at the direction and even insistence of David Lean, to assuage criticisms of the film's length and increase the number of showings per day; however, during the 1989 restoration, he passed blame for the cuts onto deceased producer Sam Spiegel.{{sfn|Brownlow|1996|pp=484, 705, 709}}<ref>{{cite news |last=Rothman |first=Cliff |url=https://www.latimes.com/archives/la-xpm-1989-01-29-ca-1564-story.html |title=The Resurrection of 'Lawrence of Arabia' |work=Los Angeles Times |date=29 January 1989 |access-date=29 December 2022}}</ref> In addition, a 1966 print was used for initial television and video releases which accidentally altered a few scenes by reversing the image.{{sfn|Caton|1999|pp=129–131}}
+
+The film was screened out of competition at the [[1989 Cannes Film Festival]]<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/239/year/1989.html |title=Festival de Cannes: Lawrence of Arabia |access-date=3 August 2009 |work=festival-cannes.com |archive-url=https://web.archive.org/web/20120119100704/http://www.festival-cannes.com/en/archives/ficheFilm/id/239/year/1989.html |archive-date=19 January 2012 |url-status=live}}</ref> and at the 2012 [[Karlovy Vary International Film Festival]].<ref name="kviff.com">{{cite web |url=https://fullmovieis.org/1/947/lawrenceofarabia|archive-url=https://web.archive.org/web/20180929155812/https://fullmovieis.org/1/947/lawrenceofarabia/|url-status=dead|archive-date=29 September 2018 |title=anniversaryKarlovy Vary International Film Festival – Lawrence of Arabia |access-date=4 July 2012 |work=fullmovieis.org}}</ref>
+
+''Lawrence of Arabia'' was re-released theatrically in 2002 to celebrate the film's fortieth anniversary.<ref>{{cite news |last=Farber |first=Stephen |url=https://www.nytimes.com/2002/09/15/arts/film-1962-when-the-silver-screen-never-looked-so-golden.html |title=1962: When the Silver Screen Never Looked So Golden |work=The New York Times |at=Section 2, p. 24 |date=15 September 2002 |access-date=29 December 2022}}</ref>
+
+=== Restored director's cut ===
+A restored version was undertaken by [[Robert A. Harris]] and Jim Painten under the supervision of David Lean. It was released in 1989 with a 216-minute length (plus overture, intermission and exit music). Most of the cut scenes were dialogue sequences, particularly those involving General Allenby and his staff. Two scenes were excised—Brighton's briefing of Allenby in Jerusalem before the Deraa scene and the British staff meeting in the field tent—and the Allenby-briefing scene has still not been entirely restored. Much of the missing dialogue involves Lawrence's writing of poetry and verse, alluded to by Allenby in particular, saying "the last poetry general we had was [[Arthur Wellesley, 1st Duke of Wellington|Wellington]]". The opening of Act II existed in only fragmented form, where Faisal is interviewed by Bentley, as well as the later scene in Jerusalem where Allenby convinces Lawrence not to resign. Both scenes were restored to the 1989 re-release. Some of the more graphic shots of the Tafas massacre scene were also restored, such as the lengthy panning shot of the corpses in Tafas and Lawrence shooting a surrendering Turkish soldier.{{citation needed|date=June 2023}}
+
+Most of the missing footage is of minimal import, supplementing existing scenes. One scene is an extended version of the Deraa torture sequence, which makes Lawrence's torture more overt. Other scripted scenes exist, including a conversation between Auda and Lawrence immediately after the fall of Aqaba, a brief scene of Turkish officers noting the extent of Lawrence's campaign and the battle of Petra (later reworked into the first train attack) but these scenes were probably not filmed. Living actors dubbed their dialogue and [[Jack Hawkins]]'s dialogue was dubbed by [[Charles Gray (actor)|Charles Gray]], who had provided Hawkins' voice for several films after Hawkins developed throat cancer in the late 1960s.<ref>{{Cite news |date=25 November 2012 |title=Lawrence of Arabia – review |url=http://www.theguardian.com/film/2012/nov/25/lawrence-of-arabia-review |access-date=29 November 2022 |website=The Guardian}}</ref> Reasons for the cuts of various scenes can be found in Lean's notes to Sam Spiegel, Robert Bolt and [[Anne V. Coates]].<ref>{{cite web |url=http://davidlean.com/fun/fun/leannotes.html |title=Director's Notes on Re-editing Lawrence of Arabia |publisher=davidlean.com |url-status=dead |archive-url=https://web.archive.org/web/20100307024557/http://davidlean.com/fun/fun/leannotes.html |archive-date=7 March 2010}}</ref> The film runs 227&nbsp;minutes (216 minutes of proper film plus 11 minutes of overture, intermission, and exit music) in the most recent [[director's cut]] available on Blu-ray Disc and DVD.<ref name="Runtime">{{cite web |title=Lawrence of Arabia |url=https://www.bbfc.co.uk/release/lawrence-of-arabia-q29sbgvjdglvbjpwwc0ynzy4mdq |website=[[British Board of Film Classification]] |access-date=10 February 2023 |archive-url=https://web.archive.org/web/20201008151919/https://www.bbfc.co.uk/releases/lawrence-arabia-3 |archive-date=8 October 2020 |url-status=live}}</ref>
+
+=== Home media ===
+The initial home video release of the film was in [[pan and scan]] and lacked the full vertical height. After the film was restored in 1989, [[The Criterion Collection]] issued Laserdisc editions in two speed formats, CAV ([[Constant Angular Velocity]]) and 
+CLV ([[Constant Linear Velocity]]). RCA/Columbia Pictures also issued a movie-only widescreen release of this restoration on Laserdisc.<ref>{{Cite book |last=Pratt |first=Douglas |title=The Laser Video Disc Companion Expanded Edition}}</ref>
+
+''Lawrence of Arabia'' has been released in five different DVD editions, including an initial release as a two-disc set (2001),<ref>{{cite web |last=Apar |first=Bruce |date=5 April 2001 |title=Lawrence' Star O'Toole Marvels at DVD |url=http://www.hive4media.com/news/html/Product_article.cfm?article_id=1021 |url-status=usurped |archive-url=https://web.archive.org/web/20010418032017/http://www.hive4media.com/news/html/Product_article.cfm?article_id=1021 |archive-date=18 April 2001 |access-date=8 September 2019 |website=hive4media.com}}</ref> followed by a shorter single disc edition (2002),<ref>{{cite web |first=Enrique |last=Rivero |url=http://www.hive4media.com/news/html/Product_article.cfm?article_id=3325 |archive-url=https://web.archive.org/web/20020702164646/http://www.hive4media.com/news/html/Product_article.cfm?article_id=3325 |title=Columbia Trims Its DVDs |website=hive4media.com |archive-date=2 July 2002 |date=20 June 2002 |access-date=12 September 2019|url-status=live}}</ref> a high resolution version of the director's cut with restored scenes (2003) issued as part of the [[Superbit]] series, as part of the Columbia Best Pictures collection (2008), and in a fully restored special edition of the director's cut (2008).<ref name="Turn Classic Movies">{{cite web |url=http://shop.tcm.com/lawrence-of-arabia-collectors-edition-dvd/detail.php?p=351469 |title=Lawrence of Arabia (Collector's Edition) DVD |access-date=4 January 2012 |archive-url=https://web.archive.org/web/20131012110908/http://shop.tcm.com/lawrence-of-arabia-collectors-edition-dvd/detail.php?p=351469 |archive-date=12 October 2013 |url-status=dead}}</ref>
+
+[[Martin Scorsese]] and [[Steven Spielberg]] helped restore a version of the film for a DVD release in 2000.<ref>{{cite book |last=Wasser |first=Frederick |year=2010 |title=Steven Spielberg's America |series=Polity America Through the Lens |publisher=Polity |page=222 |isbn=978-0-7456-4082-2}}</ref>
+
+=== New restoration, Blu-ray, and theatrical re-release ===
+An [[8K resolution|8K]] scan/[[4K resolution|4K]] intermediate [[Film preservation|digital restoration]] was made for [[Blu-ray]] and theatrical re-release<ref name="HT4kWay">{{cite web |author=Sabin |first=Rob |date=20 December 2011 |title=Home Theater: Hollywood, The 4K Way |url=http://www.hometheater.com/content/hollywood-4k-way-page-2 |url-status=live |archive-url=https://web.archive.org/web/20130222083237/http://www.hometheater.com/content/hollywood-4k-way-page-2 |archive-date=22 February 2013 |access-date=24 February 2013 |work=HomeTheater.com Ultimate Tech |publisher=Source Interlink Media}}</ref> during 2012 by [[Sony Pictures]] to celebrate the film's 50th anniversary.<ref>{{Cite news |last=DuHamel |first=Brandon |date=12 June 2012 |title=Lawrence of Arabia on Blu-ray Later This Year |url=http://www.blu-raydefinition.com/news/lawrence-of-arabia-on-blu-ray-later-this-year.html |archive-url=https://web.archive.org/web/20120618022053/http://www.blu-raydefinition.com/news/lawrence-of-arabia-on-blu-ray-later-this-year.html |archive-date=18 June 2012 |access-date=9 August 2025 |work=Blu-rayDefinition.com}}</ref> The Blu-ray edition of the film was released in the United Kingdom on 10&nbsp;September 2012 and in the United States on 13&nbsp;November 2012.<ref>{{Cite news |last=Silva |first=Robert |date=7 August 2012 |title=Lawrence of Arabia Blu-ray Disc Release Finalized |url=http://hometheater.about.com/b/2012/08/07/lawrence-of-arabia-blu-ray-disc-release-finalized.htm |url-status=dead |archive-url=https://web.archive.org/web/20120811090112/http://hometheater.about.com/b/2012/08/07/lawrence-of-arabia-blu-ray-disc-release-finalized.htm |archive-date=11 August 2012 |access-date=9 August 2025 |work=About.com}}</ref>
+
+According to Grover Crisp, executive VP of restoration at Sony Pictures, the new 8K scan has such high resolution that it showed a series of fine concentric lines in a pattern "reminiscent of a fingerprint" near the top of the frame. This was caused by the film emulsion melting and cracking in the desert heat during production. Sony had to hire a third party to minimise or eliminate the rippling artefacts in the new restored version.<ref name="HT4kWay" /> The digital restoration was done by Sony Colorworks DI, [[Prasad Studios]], and MTI Film.<ref>{{cite web |url=http://library.creativecow.net/kaufman_debra/Lawrence-of-Arabia-Restoration/1 |title=CreativeCOW |work=creativecow.net |access-date=8 March 2016|archive-url=https://web.archive.org/web/20140911103639/http://library.creativecow.net/kaufman_debra/Lawrence-of-Arabia-Restoration/1|archive-date=11 September 2014|url-status=live}}</ref>
+
+A 4K digitally restored version of the film was screened at the [[2012 Cannes Film Festival]],<ref>{{Cite news |date=25 April 2012 |title=Cannes Classics 2012 |url=http://www.festival-cannes.fr/en/article/58952.html |archive-url=https://web.archive.org/web/20170215183141/http://www.festival-cannes.fr/en/article/58952.html |archive-date=15 February 2017 |access-date=9 August 2025 |work=Festival de Cannes |language=en}}</ref><ref>{{cite news |last=Smith |first=Nigel M. |url=https://www.indiewire.com/article/jaws-lawrence-of-arabia-once-upon-a-time-in-america-and-tess-to-get-the-cannes-classics-treatment |title='Jaws,' 'Lawrence of Arabia,' 'Once Upon a Time in America' and 'Tess' to Get the Cannes Classics Treatment |date=26 May 2012 |website=Indiewire |archive-url=https://web.archive.org/web/20120526145907/http://www.indiewire.com/article/jaws-lawrence-of-arabia-once-upon-a-time-in-america-and-tess-to-get-the-cannes-classics-treatment |archive-date=26 May 2012 |url-status=live}}</ref> at the 2012 [[Karlovy Vary International Film Festival]],<ref>{{Cite journal |last=Dönmez-Colin |first=Gönül |date=15 November 2012 |title=Karlovy Vary 2012 |url=https://openjournals.uwaterloo.ca/index.php/kinema/article/view/1254 |journal=Kinema: A Journal for Film and Audiovisual Media |volume=Fall 2012 |page=2 |doi=10.15353/kinema.vi.1254 |doi-access=free}}</ref> at the V Janela Internacional de Cinema<ref>[http://www.janeladecinema.com.br/ Janela Internacional de Cinema do Recife | Festival Internacional de Cinema do Recife] {{Webarchive|url=https://web.archive.org/web/20160911045718/http://www.janeladecinema.com.br/ |date=11 September 2016 }}. Janeladecinema.com.br.</ref> in [[Recife]], Brazil, and at the 2013 [[Cinequest Film & Creativity Festival]] in [[San Jose, California]].<ref>{{Cite web |title=Lawrence of Arabia |url=https://cinequest.org/films/251195/lawrence-arabia |access-date=2025-08-09 |website=Cinequest}}</ref>
+
+In 2020, Sony Pictures reissued the film on a multi-film [[Ultra HD Blu-ray|4K UHD Blu-Ray]] release called the Columbia Classics 4K UltraHD Collection, which included other historically significant films from their library such as ''[[Dr. Strangelove]]'' (1964) and ''[[Mr. Smith Goes to Washington]]'' (1939).<ref>{{cite web |url=https://www.sonypictures.com/movies/columbiaclassics4kultrahdcollection |title=Columbia Classics 4K UltraHD Collection |website=Sony Pictures |archive-url=https://web.archive.org/web/20210522142728/https://www.sonypictures.com/movies/columbiaclassics4kultrahdcollection |archive-date=22 May 2021 |url-status=live}}</ref> In honour of the film's 60th anniversary, the film was re-released in an individual four-disc steelbook set by Sony Pictures, with the same substantial collection of special features as the corrected bonus disc for the Columbia Classics release.<ref>{{cite news |last=Hunt |first=Bill |date=6 June 2022 |title=Lawrence of Arabia: 60th Anniversary Limited Edition |url=https://thedigitalbits.com/item/lawrence-of-arabia-steelbook-4k-uhd-2022 |access-date=27 September 2021 |website=The Digital Bits}}</ref>
+
+== Reception ==
+=== Box office ===
+During its initial theatrical run, the film earned $15&nbsp;million in box office rentals in the United States and Canada.<ref>{{cite magazine |title=All-Time Top Grossers |url=https://archive.org/details/sim_variety_1965-01-06_237_7/page/39 |magazine=[[Variety (magazine)|Variety]] |date=6 January 1965 |page=39 |access-date=29 December 2022 |via=Internet Archive}}</ref> In the United Kingdom, the film set a record by selling over 1&nbsp;million tickets from 13 theatres in six months.<ref>{{Cite book |url=https://books.google.com/books?id=CDh6-vXouPQC |title=Box Office |date=1963 |publisher=RLD Communications |volume=83 |pages=9 |language=en |quote='Lawrence of Arabia,' the Sam Spiegel-David Lean production, has topped the million admission mark in the United Kingdom alone in its first six months of release following its world premiere in December, although it has played in only 12 theatres thus far.|chapter='Lawrence' Hits U.K. Record}}</ref> The film went on to gross $70 million worldwide, including $37.5&nbsp;million in North America and $32.5&nbsp;million in other territories.<ref name="Numbers">{{cite web |title=Lawrence of Arabia |url=https://www.the-numbers.com/movie/Lawrence-of-Arabia#tab=summary |url-status=live |archive-url=https://web.archive.org/web/20150113081920/http://www.the-numbers.com/movie/Lawrence-of-Arabia#tab=summary |archive-date=13 January 2015 |access-date=13 January 2015 |website=[[The Numbers (website)|The Numbers]]}}</ref>
+
+=== Critical reaction ===
+[[Bosley Crowther]] of ''[[The New York Times]]'' called the film "vast, awe-inspiring, beautiful with ever-changing hues, exhausting and barren of humanity". He further wrote Lawrence's characterisation was lost within the spectacle, writing the film "reduces a legendary figure to conventional movie-hero size amidst magnificent and exotic scenery but a conventional lot of action-film cliches".<ref>{{cite news |last=Crowther |first=Bosley |author-link=Bosley Crowther |date=17 December 1962 |title=Screen: A Desert Warfare Spectacle |url=https://www.nytimes.com/1962/12/17/archives/screen-a-desert-warfare-spectaclelawrence-of-arabia-opens-in-new.html |url-status=live |archive-url=https://web.archive.org/web/20221230032738/https://www.nytimes.com/1962/12/17/archives/screen-a-desert-warfare-spectaclelawrence-of-arabia-opens-in-new.html |archive-date=30 December 2022 |access-date=29 December 2022 |work=The New York Times |page=5}}</ref> Similarly, ''[[Variety (magazine)|Variety]]'' wrote that the film was "a sweepingly produced, directed and lensed job. Authentic desert locations, a stellar cast and an intriguing subject combine to put this into the blockbuster league." However, it later noted Bolt's screenplay "does not tell the audience anything much new about Lawrence of Arabia nor does it offer any opinion or theory about the character of this man or the motivation for his actions".<ref>{{cite news |url=https://archive.org/details/variety-1962-12/page/n141/mode/1up |title=Film Reviews: Lawrence of Arabia |work=Variety |page=6 |date=19 December 1962 |access-date=29 December 2022 |via=Internet Archive}}</ref> Philip K. Scheuer of the ''[[Los Angeles Times]]'' wrote: "It is also one of the most magnificent pictures, if not the most magnificent, and one of the most exasperating ... The awesome majesty of the landscapes in Jordan and elsewhere, the mass movements of Bedouins and British and Turks with, of course, the ever-present camels, sweep against the eye long after one has lost the ability to exclaim in astonishment over them. And all this is Technicolor and Super Panavision 70, the finest process, under F. A. Young as director of photography. Maurice Jarre composed a score to match."<ref>{{cite news |last=Scheuer |first=Philip K. |url=https://www.newspapers.com/clip/76087075/lawrence-of-arabia/ |title='Lawrence' Superb but Exasperating |newspaper=Los Angeles Times |at=Part IV, p. 17 |date=17 December 1962 |access-date=29 December 2022 |via=Newspapers.com |archive-url=https://web.archive.org/web/20210910223545/https://www.newspapers.com/clip/76087075/lawrence-of-arabia/ |archive-date=10 September 2021 |url-status=live}} {{Open access}}</ref>
+
+A review in ''[[Time (magazine)|Time]]'' magazine felt that while ''Lawrence of Arabia'' "falls far short of ''Kwai'' in dramatic impact, it nevertheless presents a vivid and intelligent spectacle". It further praised O'Toole's performance, writing he "continually dominates the screen, and he dominates it with professional skill, Irish charm and smashing good looks".<ref>{{cite magazine |url=https://content.time.com/time/subscriber/article/0,33009,829725,00.html |title=Cinema: The Spirit in the Wind |magazine=Time |page=58 |date=4 January 1963 |access-date=29 December 2022 |archive-url=https://web.archive.org/web/20230314174422/https://content.time.com/time/subscriber/article/0,33009,829725,00.html |archive-date=14 March 2023 |url-status=live}}</ref> ''[[Chicago Tribune]]'' wrote the photography was "no less than superb" and felt the script "is taut and expressive and the musical score deftly attuned to the tale. Director David Lean has molded his massive material with skill, but personally I felt the film was too long, the running time is 221 minutes, or 20 minutes short of 4 hours and in the latter part, unnecessarily bloody."<ref>{{cite news |last=Tinee |first=Mae |date=17 January 1963 |title=Desert Shots Superb in 'Lawrence' |url=https://www.newspapers.com/clip/76132315/lawrence-of-arabia/ |url-status=live |archive-url=https://web.archive.org/web/20210910223542/https://www.newspapers.com/clip/76132315/lawrence-of-arabia/ |archive-date=10 September 2021 |access-date=29 December 2022 |work=Chicago Tribune |at=Part 3, p. 15 |via=Newspapers.com}} {{Open access}}</ref> A review in ''[[Newsweek]]'' praised the film as "an admirably serious film ... The size, the scope, the fantastical scale of his personality and his achievement is triumphantly there." It also praised the ensemble cast as "all as good as they ought to be. And Peter O'Toole is not only good; he is an unnerving look-alike of the real Lawrence. He is reliably unreliable, steadily mercurial."<ref>{{cite magazine |title=All-Star, All-Good |magazine=Newsweek |date=24 December 1962 |page=64}}</ref>
+
+In 1998, the [[American Film Institute]] (AFI) ranked ''Lawrence of Arabia'' in fifth place in their list of [[AFI's 100 Years...100 Movies|100 Years...100 Movies]]. In 2006, AFI ranked the film #30 on its list of most [[AFI's 100 Years...100 Cheers|inspiring]] movies.<ref>{{Cite web |title=AFI's 100 Years...100 Cheers |url=https://www.afi.com/afis-100-years-100-cheers/ |access-date=13 December 2023 |website=American Film Institute |language=en |archive-url=https://web.archive.org/web/20240214154257/https://www.afi.com/afis-100-years-100-cheers/ |archive-date=14 February 2024 |url-status=live}}</ref> In 2007, it was ranked in seventh place in their [[AFI's 100 Years...100 Movies (10th Anniversary Edition)|updated list]] and listed as the first of the greatest American films of the [[Epic film|"epic" genre]].<ref>{{cite news |author=American Film Institute |author-link=American Film Institute |date=17 June 2008 |title=AFI Crowns Top 10 Films in 10 Classic Genres |url=https://www.comingsoon.net/news/movienews.php?id=46072 |url-status=dead |archive-url=https://web.archive.org/web/20080619034738/http://www.comingsoon.net/news/movienews.php?id=46072 |archive-date=19 June 2008 |access-date=18 June 2008 |work=ComingSoon.net}}</ref> In 1991, the film was deemed "culturally, historically, or aesthetically significant" by the [[Library of Congress]] and selected for preservation in the United States [[National Film Registry]].<ref name="USFilmRegistry" /> In 1999, the film placed third in the [[BFI Top 100 British films|British Film Institute's poll]] of the best British films of the 20th century. In 2001, the magazine ''[[Total Film]]'' called it "as shockingly beautiful and hugely intelligent as any film ever made" and that despite "the odd historical liberty here and there", "as a movie - - not a textbook - - it's faultless."<ref>{{cite web |url=http://www.totalfilm.com/reviews/dvd/lawrence-of-arabia-two-disc-set |title=Lawrence Of Arabia: Two-Disc Set Review |date=18 September 2010 |website=Total Film |archive-url=https://web.archive.org/web/20101119081739/http://www.totalfilm.com/reviews/dvd/lawrence-of-arabia-two-disc-set |archive-date=19 November 2010 |url-status=dead}}</ref>
+
+It was ranked in the top ten films of all time in the 2002 ''[[Sight and Sound]]'' directors' poll.<ref>{{cite web |url=http://old.bfi.org.uk/sightandsound/polls/topten/poll/directors.html |title=The directors' top ten films |publisher=British Film Institute |access-date=9 April 2017|archive-url=https://web.archive.org/web/20170620112407/http://old.bfi.org.uk/sightandsound/polls/topten/poll/directors.html|archive-date=20 June 2017|url-status=dead}}</ref> In 2004, it was voted the best British film of all time by over 200 respondents in ''[[The Sunday Telegraph]]'' poll of Britain's leading filmmakers.<ref>{{cite news |url=https://www.telegraph.co.uk/news/uknews/1469436/Stars-vote-Lawrence-of-Arabia-the-best-British-film-of-all-time.html |work=The Daily Telegraph |location=London |title=Stars vote Lawrence of Arabia the best British film of all time |first1=Chris |last1=Hastings |first2=Fiona |last2=Govan |date=15 August 2004 |access-date=2 May 2010 | archive-url=https://web.archive.org/web/20090706021548/http://www.telegraph.co.uk/news/uknews/1469436/Stars-vote-Lawrence-of-Arabia-the-best-British-film-of-all-time.html |archive-date=6 July 2009 |url-status=live}}</ref> O'Toole's performance is often considered one of the greatest in cinema history, topping lists from ''[[Entertainment Weekly]]'' and ''[[Première (magazine)|Première]]''. T. E. Lawrence, portrayed by O'Toole, was selected as the [[AFI's 100 Years...100 Heroes & Villains|tenth-greatest hero in cinema history]] by the American Film Institute.<ref>{{cite web |url=http://www.afi.com/100Years/handv.aspx |title=AFI's 100 Years... 100 Heroes and Villains |website=American Film Institute |archive-url=https://web.archive.org/web/20160304082823/http://afi.com/100years/handv.aspx |archive-date=4 March 2016 |url-status=dead |access-date=20 December 2013}}</ref> In 2006, [[Writers Guild of America]] ranked its screenplay 14th in WGA’s list of 101 Greatest Screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-02 |language=en}}</ref> In 2012, the [[Motion Picture Editors Guild]] listed the film as the seventh best-edited of all time based on a survey of its membership.<ref>{{cite journal |title=The 75 Best Edited Films |journal=Editors Guild Magazine |date=May 2012 |volume=1 |issue=3 |url=https://www.editorsguild.com/magazine.cfm?ArticleID=1102 |archive-url=https://web.archive.org/web/20150317101140/https://www.editorsguild.com/magazine.cfm?ArticleID=1102 |archive-date=17 March 2015}}</ref> In March 2024, [[Robbie Collin]] of ''The Telegraph'' ranked ''Lawrence of Arabia'' as the greatest biographical film of all time.<ref>{{cite web |last=Collin |first=Robbie |url=https://www.telegraph.co.uk/films/0/best-biopics-of-all-time-ranked-oscars/ |title=From Raging Bull to Oppenheimer: The 40 greatest biopics of all time, ranked |website=The Telegraph |date=6 March 2024 |access-date=8 March 2024 |archive-url=https://web.archive.org/web/20240308121621/https://www.telegraph.co.uk/films/0/best-biopics-of-all-time-ranked-oscars/ |archive-date=8 March 2024 |url-status=live}}</ref>
+
+''Lawrence of Arabia'' is currently one of the highest-rated films on [[Metacritic]]; it holds a perfect 100 rating based on eight reviews for the 40th anniversary re-release.<ref>{{cite web |url=https://metacritic.com/movie/lawrence-of-arabia-re-release |title=Lawrence of Arabia (re-release) |website=[[Metacritic]] |publisher=[[Red Ventures]] |access-date=14 July 2025 |archive-url=https://web.archive.org/web/20250519204200/https://www.metacritic.com/movie/lawrence-of-arabia-re-release/|archive-date=19 May 2025 |url-status=live}}</ref> It has a 93% approval rating on [[Rotten Tomatoes]] based on 132 reviews, with an average rating of 9.30/10. Its critical consensus reads: "The epic of all epics, ''Lawrence of Arabia'' cements director David Lean's status in the film-making pantheon with nearly four hours of grand scope, brilliant performances, and beautiful cinematography."<ref>{{cite web |url=https://www.rottentomatoes.com/m/lawrence_of_arabia |title=Lawrence of Arabia (1962) |website=Rotten Tomatoes |access-date=14 July 2025 |archive-url=https://web.archive.org/web/20250511230023/https://www.rottentomatoes.com/m/lawrence_of_arabia|archive-date=11 May 2025 |url-status=live}}</ref>
+
+The Japanese filmmaker [[Akira Kurosawa]] cited this movie as one of his 100 favourite films.<ref name="farout">{{cite web |last1=Thomas-Mason |first1=Lee |title=From Stanley Kubrick to Martin Scorsese: Akira Kurosawa once named his top 100 favourite films of all time |url=https://faroutmagazine.co.uk/akira-kurosawa-100-favourite-films-list/ |website=Far Out Magazine |date=12 January 2021 |access-date=23 January 2023}}</ref>
+
+==Awards==
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| rowspan="10"| [[35th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Sam Spiegel]]
+| {{won}}
+| align="center" rowspan="10"| <ref>{{cite web |url=http://www.oscars.org/oscars/ceremonies/1963 |title=The 35th Academy Awards (1963) Nominees and Winners |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=23 August 2011 |archive-url=https://web.archive.org/web/20180202001804/https://www.oscars.org/oscars/ceremonies/1963 |archive-date=2 February 2018 |url-status=live}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| [[David Lean]]
+| {{won}}
+|-
+| [[Academy Award for Best Actor|Best Actor]]
+| [[Peter O'Toole]]
+| {{nom}}
+|-
+| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Omar Sharif]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| [[Robert Bolt]] and [[Michael Wilson (writer)|Michael Wilson]]
+| {{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction – Color]]
+| Art Direction: [[John Box]] and [[John Stoll]];<br /> Set Decoration: [[Dario Simoni]]
+| {{won}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography – Color]]
+| [[Freddie Young]]
+| {{won}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Anne V. Coates]]
+| {{won}}
+|-
+| [[Academy Award for Best Original Score|Best Music Score – Substantially Original]]
+| [[Maurice Jarre]]
+| {{won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[John Cox (sound engineer)|John Cox]]
+| {{won}}
+|-
+| [[American Cinema Editors|American Cinema Editors Awards]]
+| [[American Cinema Editors Award for Best Edited Feature Film – Dramatic|Best Edited Feature Film]]
+| Anne V. Coates
+| {{nom}}
+| align="center"| 
+|-
+| rowspan="5"| [[16th British Academy Film Awards|British Academy Film Awards]]
+| colspan="2"| [[BAFTA Award for Best Film|Best Film from any Source]]
+| {{won}}
+| align="center" rowspan="5"| <ref>{{cite web |url=http://awards.bafta.org/award/1963/film |title=BAFTA Awards: Film in 1963 |publisher=[[British Academy Film Awards]] |access-date=16 September 2016}}</ref>
+|-
+| colspan="2"| [[BAFTA Award for Best British Film|Best British Film]]
+| {{won}}
+|-
+| [[BAFTA Award for Best Actor in a Leading Role|Best British Actor]]
+| Peter O'Toole
+| {{won}}
+|-
+| [[BAFTA Award for Best Actor in a Leading Role|Best Foreign Actor]]
+| [[Anthony Quinn]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Screenplay|Best British Screenplay]]
+| Robert Bolt
+| {{won}}
+|-
+| [[British Society of Cinematographers#Award categories|British Society of Cinematographers Awards]]
+| [[British Society of Cinematographers Award for Best Cinematography in a Theatrical Feature Film|Best Cinematography in a Theatrical Feature Film]]
+| Freddie Young
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://bscine.com/media/uploads/awards/bsc-cinematography-feature-film.pdf?v |title=Best Cinematography in Feature Film |publisher=[[British Society of Cinematographers]] |access-date=3 June 2021}}</ref>
+|-
+| rowspan="2"| [[David di Donatello|David di Donatello Awards]]
+| [[David di Donatello for Best Foreign Film|Best Foreign Production]]
+| Sam Spiegel
+| {{won}}
+| align="center" rowspan="2"| 
+|-
+| [[David di Donatello for Best Foreign Actor|Best Foreign Actor]]
+| Peter O'Toole
+| {{won}}{{efn|Tied with [[Fredric March]] for ''[[Seven Days in May]]''.}}
+|-
+| [[15th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| David Lean
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://www.dga.org/Awards/History/1960s/1962.aspx?value=1962 |title=The 15th Annual DGA Awards |publisher=[[Directors Guild of America Awards]] |access-date=5 July 2021}}</ref>
+|-
+| rowspan="8"| [[20th Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| {{won}}
+| align="center" rowspan="8"| <ref>{{cite web |url=https://www.goldenglobes.com/film/lawrence-arabia |title=Lawrence of Arabia |publisher=[[Golden Globe Awards]] |access-date=5 July 2021}}</ref>
+|-
+| rowspan="2"| [[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor in a Motion Picture – Drama]]
+| Peter O'Toole
+| {{nom}}
+|-
+| Anthony Quinn
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor – Motion Picture]]
+| Omar Sharif
+| {{won}}
+|-
+| [[Golden Globe Award for Best Director – Motion Picture|Best Director – Motion Picture]]
+| David Lean
+| {{won}}
+|-
+| rowspan="2"| [[Golden Globe Award for New Star of the Year – Actor|Most Promising Newcomer – Male]]
+| Peter O'Toole
+| {{won}}
+|-
+| Omar Sharif
+| {{won}}
+|-
+| Best Cinematography – Color
+| Freddie Young
+| {{won}}
+|-
+| rowspan="2"| [[6th Annual Grammy Awards|Grammy Awards]]
+| [[Grammy Award for Best Score Soundtrack for Visual Media|Best Original Score from a Motion Picture or Television Show]]
+| rowspan="2"| ''[[Lawrence of Arabia (soundtrack)|Lawrence of Arabia]]'' – Maurice Jarre
+| {{nom}}
+| align="center" rowspan="2"| <ref>{{cite web |url=https://www.grammy.com/awards/6th-annual-grammy-awards |title=6th Annual GRAMMY Awards |publisher=[[Grammy Awards]] |access-date=1 May 2011}}</ref>
+|-
+| [[Grammy Award for Best Instrumental Composition|Best Instrumental Theme]]
+| {{nom}}
+|-
+| [[International Film Music Critics Association|International Film Music Critics Association Awards]]
+| [[International Film Music Critics Association Award for Best New Archival Release of an Existing Score – Re-Release or Re-Recording|Best Archival Release of an Existing Score]]
+| Maurice Jarre, Nic Raine, Jim Fitzpatrick, and Frank K. DeWald
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://filmmusiccritics.org/awards-archive/2010-ifmca-awards/ |title=2010 IFMCA Awards |date=8 March 2011 |publisher=[[International Film Music Critics Association]] |access-date=1 May 2020}}</ref>
+|-
+| [[Kinema Junpo|Kinema Junpo Awards]]
+| Best Foreign Language Film
+| David Lean
+| {{won}}
+| align="center"| 
+|-
+| rowspan="4"| [[Laurel Awards]]
+| colspan="2"| Top Road Show
+| {{won}}
+| align="center" rowspan="4"| 
+|-
+| Top Male Dramatic Performance
+| Peter O'Toole
+| {{nom}}
+|-
+| Top Male Supporting Performance
+| Omar Sharif
+| {{nom}}
+|-
+| Top Song
+| Maurice Jarre {{small|(for the "Theme Song")}}
+| {{nom}}
+|-
+| [[Nastro d'Argento]]
+| Best Foreign Director
+| David Lean
+| {{won}}
+| align="center"| 
+|-
+| rowspan="2"| [[National Board of Review Awards 1962|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{draw|4th Place}}
+| align="center" rowspan="2"| <ref>{{cite web |url=https://nationalboardofreview.org/award-years/1962/ |title=1962 Award Winners |publisher=[[National Board of Review]] |access-date=5 July 2021}}</ref>
+|-
+| [[National Board of Review Award for Best Director|Best Director]]
+| David Lean
+| {{won}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |title=Complete National Film Registry Listing |publisher=[[Library of Congress]] |access-date=26 May 2024}}</ref>
+|-
+| Online Film & Television Association Awards
+| colspan="2"| Film Hall of Fame: Productions
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame Productions |publisher=Online Film & Television Association |access-date=15 May 2021}}</ref>
+|-
+| [[12th Golden Laurel Awards|Producers Guild of America Awards]]
+| PGA Hall of Fame – Motion Pictures
+| Sam Spiegel
+| {{won}}
+| align="center"| 
+|-
+| [[39th Saturn Awards|Saturn Awards]]
+| [[Saturn Award for Best DVD or Blu-ray Special Edition Release|Best DVD or Blu-ray Special Edition Release]]
+| ''Lawrence of Arabia: 50th Anniversary Collector's Edition''
+| {{nom}}
+| align="center"| 
+|-
+| [[Writers' Guild of Great Britain|Writers' Guild of Great Britain Awards]]
+| Best British Dramatic Screenplay
+| Robert Bolt and Michael Wilson
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://writersguild.org.uk/writers-guild-awards-1962/ |title=Writers' Guild Awards 1962 |publisher=[[Writers' Guild of Great Britain]] |access-date=26 May 2024}}</ref>
+|}
+
+== Legacy ==
+Its visual style has influenced many directors, including [[George Lucas]], [[Sam Peckinpah]], [[Stanley Kubrick]], [[Martin Scorsese]], [[Ridley Scott]], [[Brian De Palma]], [[Oliver Stone]], [[Denis Villeneuve]], and [[Steven Spielberg]], who called the film a "miracle".<ref>{{cite web |last=Stephens |first=Dan |url=http://www.top10films.co.uk/archives/3244 |title='Lawrence of Arabia': The film that inspired Steven Spielberg |date=16 September 2010 |archive-url=https://web.archive.org/web/20101117112948/http://www.top10films.co.uk/archives/3244 |archive-date=17 November 2010 |website=Top 10 Films |url-status=live}}</ref> Spielberg further considered it his favourite film of all time and the one that inspired him to become a filmmaker,<ref>DVD documentary, ''A Conversation with Steven Spielberg''</ref> crediting the film, which he saw four times in four successive weeks upon its release, with understanding "It was the first time seeing a movie, I realized there are themes that aren't narrative story themes, there are themes that are character themes, that are personal themes. [...] and I realized there was no going back. It was what I was going to do."<ref>{{cite AV media |people=Lacy, Susan |date=5 October 2021 |title=Spielberg |type=Documentary film}}</ref>
+
+Film director [[Kathryn Bigelow]] also considers it one of her favourite films, saying it inspired her to film ''[[The Hurt Locker]]'' in Jordan.<ref>{{Cite web |date=3 April 2022 |title=Kathryn Bigelow's 5 favourite films |url=https://faroutmagazine.co.uk/kathryn-bigelows-five-favourite-films-of-all-time/ |website=Far Out Magazine |access-date=9 April 2022 |language=en-US}}</ref> ''Lawrence of Arabia'' also inspired numerous other [[Adventure film|adventure]], [[science fiction]] and [[fantasy]] stories in modern popular culture, including [[Frank Herbert]]'s ''[[Dune (franchise)|Dune]]'' franchise, George Lucas's ''[[Star Wars]]'' franchise, [[James Cameron]]'s ''[[Avatar (franchise)|Avatar]]'' franchise, Ridley Scott's ''[[Prometheus (2012 film)|Prometheus]]'' (2012), and [[George Miller (filmmaker)|George Miller]]'s ''[[Mad Max: Fury Road]]'' (2015).<ref>{{cite web |title='Lawrence Of Arabia' Is The Unlikely Prequel To 'Star Wars,' 'Dune,' And All Your Favorite Fantasy Epics |url=https://decider.com/2015/12/03/lawrence-of-arabia-star-wars-dune-sci-fi/ |website=[[Decider.com]] |publisher=[[New York Post]] |access-date=14 June 2019 |date=3 December 2015 |archive-url=https://web.archive.org/web/20190616084717/https://decider.com/2015/12/03/lawrence-of-arabia-star-wars-dune-sci-fi/ |archive-date=16 June 2019 |url-status=live}}</ref> Director [[Denis Villeneuve]] has called ''Lawrence'' a "perfect movie", strongly influencing his ''[[Dune (2021 film)|Dune]]'' trilogy.<ref>{{cite web|url=https://faroutmagazine.co.uk/perfect-movie-denis-villeneuve-calls-masterpiece/}}</ref>
+
+== Later film ==
+In 1990, the made-for-television film ''[[A Dangerous Man: Lawrence After Arabia]]'' was aired. It depicts events in the lives of Lawrence and Faisal subsequent to ''Lawrence of Arabia'' and featured [[Ralph Fiennes]] as Lawrence and [[Alexander Siddig]] as Prince Faisal.
+
+== See also ==
+* [[BFI Top 100 British films]]
+* [[List of films considered the best]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{reflist|3}}
+
+== Sources ==
+* {{cite book |last=Brownlow |first=Kevin |year=1996 |title=David Lean: A Biography |publisher=Richard Cohen Books |isbn=978-1-86066-042-9 |url=https://archive.org/details/davidleanbiograp0000brow |url-access=registration}}
+* {{Cite book |last=Caton |first=Steven Charles |title=Lawrence of Arabia: a film's anthropology |date=1999 |publisher=[[University of California Press]] |isbn=978-0-520-91989-1 |location=Berkeley |doi=10.1525/california/9780520210820.003.0007}}
+* {{cite book |last=Jackson |first=Kevin |title=Lawrence of Arabia (BFI Film Classics) |publisher=[[British Film Institute]] |year=2007 |isbn=978-1-84457-178-9}}
+* {{cite book |last1=Morris |first1=L. Robert |last2=Raskin |first2=Lawrence |title=Lawrence of Arabia: The 30th Anniversary Pictorial History |year=1992 |publisher=[[Doubleday (publisher)|Anchor Books]] |location=New York |isbn=978-0-385-42479-0}}
+* {{cite book |last=Murphy |first=David |title=The Arab Revolt: 1916–1918 |location=London |publisher=[[Osprey Publishing]] |year=2008 |isbn=978-1-84603-339-1}}
+* {{Cite book |last=Phillips |first=Gene D. |title=Beyond the Epic: The Life and Films of David Lean |publisher=[[University Press of Kentucky]] |year=2006 |isbn=978-0-8131-2415-5 |location=Lexington}}
+* {{cite book |last=Turner |first=Adrian |year=1994 |title=The Making of David Lean's ''Lawrence of Arabia'' |publisher=Dragon's World Ltd |isbn=978-1-85028-211-2}}
+
+== External links ==
+{{Commons category}}
+{{Wikiquote}}
+* [https://www.loc.gov/static/programs/national-film-preservation-board/documents/lawrence.pdf ''Lawrence of Arabia''] by Michael Wilmington on the [[National Film Registry]] website
+* {{IMDb title|0056172}}
+* {{TCMDb title|4455}}
+* {{mojo title|lawrenceofarabia}}
+* {{rotten-tomatoes|lawrence_of_arabia}}
+* {{Metacritic film}}
+* {{AFI film|23993}}
+* [https://books.google.com/books?id=deq3xI8OmCkC ''Lawrence of Arabia''] essay by Daniel Eagan in America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry, A&C Black, 2010 {{ISBN|0826429777}}, pages 586–588
+* [https://web.archive.org/web/20110525124738/http://www.bafta.org/archive/david-lean/lawrence-of-arabia-journal,8,BAA.html The Making of ''Lawrence of Arabia''], Digitised [[British Academy of Film and Television Arts|BAFTA]] Journal (Winter 1962–1963)
+
+{{T. E. Lawrence}}
+{{David Lean}}
+{{Navboxes
+|title = Awards for ''Lawrence of Arabia''
+|list =
+{{Academy Award Best Picture}}
+{{BAFTA Best Film}}
+{{BAFTA Best British Film}}
+{{David di Donatello Best Foreign Film}}
+{{Golden Globe Award Best Motion Picture Drama}}
+}}
+
+{{Portal bar|Film|1960s}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lawrence Of Arabia}}
+[[Category:1962 films]]
+[[Category:1962 historical drama films]]
+[[Category:1962 war drama films]]
+[[Category:1960s biographical drama films]]
+[[Category:American biographical drama films]]
+[[Category:American epic films]]
+[[Category:American historical drama films]]
+[[Category:American war drama films]]
+[[Category:American World War I films]]
+[[Category:Best British Film BAFTA Award winners]]
+[[Category:Best Drama Picture Golden Globe winners]]
+[[Category:Best Film BAFTA Award winners]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:British biographical drama films]]
+[[Category:British epic films]]
+[[Category:British historical drama films]]
+[[Category:British war drama films]]
+[[Category:British World War I films]]
+[[Category:Columbia Pictures films]]
+[[Category:Cultural depictions of T. E. Lawrence]]
+[[Category:Drama films based on actual events]]
+[[Category:1962 English-language films]]
+[[Category:Epic films based on actual events]]
+[[Category:Films scored by Maurice Jarre]]
+[[Category:Films about mental health]]
+[[Category:Films about prejudice]]
+[[Category:Films about princes]]
+[[Category:Films about race and ethnicity]]
+[[Category:Films about rape]]
+[[Category:Films based on biographies]]
+[[Category:British films based on plays]]
+[[Category:American films based on plays]]
+[[Category:Films directed by David Lean]]
+[[Category:Films featuring a Best Supporting Actor Golden Globe winning performance]]
+[[Category:Films produced by Sam Spiegel]]
+[[Category:Films set in the 20th-century Ottoman Empire]]
+[[Category:Films set in deserts]]
+[[Category:Films set in the 1910s]]
+[[Category:Films set in the 1930s]]
+[[Category:Films set in 1917]]
+[[Category:Films set in 1918]]
+[[Category:Films set in 1935]]
+[[Category:Films set in the British Empire]]
+[[Category:Films shot in Jordan]]
+[[Category:Films shot in London]]
+[[Category:Films shot in Morocco]]
+[[Category:Films shot in Ouarzazate]]
+[[Category:Films that won the Best Original Score Academy Award]]
+[[Category:Films that won the Best Sound Mixing Academy Award]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose director won the Best Director Golden Globe]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:History of Saudi Arabia on film]]
+[[Category:Horizon Pictures films]]
+[[Category:Films about railway accidents and incidents]]
+[[Category:Films with screenplays by Michael Wilson (writer)]]
+[[Category:Films with screenplays by Robert Bolt]]
+[[Category:United States National Film Registry films inducted in 1991]]
+[[Category:War epic films]]
+[[Category:World War I films based on actual events]]
+[[Category:World War I films set in the Middle East]]
+[[Category:Films shot in Almería]]
+[[Category:Historical epic films]]
+[[Category:1962 British films]]
+[[Category:Whitewashing in film]]
+[[Category:English-language historical drama films]]
+[[Category:English-language biographical drama films]]
+[[Category:English-language war drama films]]
+[[Category:1962 biographical films]]

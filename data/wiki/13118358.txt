@@ -1,0 +1,120 @@
+{{Infobox film
+| name           = Les Enfants terribles
+| image          = Enfantsterriblesposter.jpg
+| alt            = 
+| caption        = French theatrical release poster
+| native_name    = <!--{{Infobox name module|language|title}}-->
+| director       = [[Jean-Pierre Melville]]
+| producer       = Jean-Pierre Melville{{sfn|Vincendeau|2003|p=225}}
+| writer         =
+| screenplay     = {{plainlist|
+*[[Jean Cocteau]]
+*Jean-Pierre Melville (uncredited){{sfn|Vincendeau|2003|p=225}}}}
+| story          = 
+| based_on       = {{based on|''[[Les Enfants terribles]]''|Jean Cocteau}}
+| starring       = {{plainlist|
+* [[Nicole Stéphane]]
+* [[Édouard Dermit]]
+* {{ill|Renée Cosima|fr|Renée Cosima}}
+* [[Jacques Bernard (actor)|Jacques Bernard]]}}
+| narrator       = Jean Cocteau
+| music          = 
+| cinematography = [[Henri Decaë]]{{sfn|Vincendeau|2003|p=225}}
+| editing        = Monique Bonnot{{sfn|Vincendeau|2003|p=225}}
+| studio         = O.G.C.{{sfn|Vincendeau|2003|p=225}}
+| distributor    = [[Gaumont (company)|Gaumont Distribution]]
+| released       = {{film date|1950|3|29|Paris|df=y}}
+| runtime        = 107 minutes{{sfn|Vincendeau|2003|p=225}}
+| country        = France
+| language       = French
+| budget         = 
+| gross          = <!--(please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221")-->
+}}
+
+'''''Les Enfants terribles''''' ({{IPA|fr|lez‿ɑ̃fɑ̃ teʁibl}}; literal English translation: ''The Terrible Children''; English title: '''''The Strange Ones''''')<ref>{{cite book | url=https://books.google.com/books?id=Na3l7xoV3LoC&pg=PA158 | title=Screen World Vol. 4 1953 | isbn=978-0-8196-0259-6 | last1=Blum | first1=Daniel | year=1969 | publisher=Biblo & Tannen Publishers }}</ref> is a 1950 French film directed by [[Jean-Pierre Melville]], with a screenplay adapted by [[Jean Cocteau]] from his 1929 [[Les Enfants terribles|novel of the same name]] about the tangled relationship of a close brother and sister.
+
+The film's soundtrack of [[Antonio Vivaldi|Vivaldi]] concertos was unusual at the time and praised for its use in increasing the dramatic tension of the plot.<ref name="Anderson" />
+
+Cocteau provided the voice-over narration of the film.
+
+==Plot==
+Elisabeth looks after her bedridden mother and is very protective of her younger brother Paul, particularly after he is injured in a snowball fight and must withdraw from school. The siblings rarely leave their house, and other than a doctor and a maid, their only visitor is Paul's friend Gérard, who has a crush on Elisabeth. Gérard often sleeps over, spending much of his time watching Elisabeth and Paul fight and play secret games in their shared bedroom.
+
+After Elisabeth and Paul's mother dies, Elisabeth becomes a model for a couturier and meets Agathe, whom she invites to live in her mother's old room. The shy girl bears a strong resemblance to Paul's former classmate Dargelos, the boy who injured Paul, and with whom he is infatuated. Paul and Agathe are immediately attracted to each other, but both take some time to realize this.
+
+Elisabeth starts to date Michael, a rich young American businessman, and they marry. When he dies in a car crash shortly after the wedding, Elisabeth inherits his fortune and mansion and brings Paul and Agathe to live with her. When his uncle is out of the country, Gérard stays with them as well. At first, everyone sleeps in Elisabeth's room, but after a fight with her, Paul sets up a living space in another wing of the building. Agathe and Gérard also start to sleep in their own rooms more often, and Elisabeth starts to feel lonely.  
+
+In the course of her investigation of the breakdown of her social circle, Elisabeth learns that Agathe loves Paul but thinks he hates her, and that Paul has written Agathe a letter to declare his love for her. Instead of bringing the two together, however, Elisabeth intercepts the letter and destroys it, then convinces Gérard and Agathe to marry each other. They move out, and Elisabeth has Paul to herself again, though they are still living in separate parts of the mansion and Paul is  despondent over the loss of Agathe.
+
+One day, Agathe and Gérard visit. Gérard brings an exotic poison that Dargelos, whom he had run into, asked him to give Paul, as Paul and Dargelos were both interested in poisons when they were at school together. Some time later, Agathe awakens Elisabeth to say she just got a letter from Paul in which he said he was about to take the poison. The women rush to Paul and find him near death. While Elisabeth is out of the room, Paul and Agathe figure out that Elisabeth had lied to keep them apart. Elisabeth returns and, realizing that she has been found out, says that she could never lose Paul to Agathe. Paul dies blaming his sister for his woes, and Elisabeth shoots herself in the head.
+
+== Cast ==
+{{cast listing|
+* [[Nicole Stéphane]] as Elisabeth
+* [[Édouard Dermit]] as Paul
+* {{ill|Renée Cosima|fr|Renée Cosima}} as both Dargelos and Agathe
+* [[Jacques Bernard (actor)|Jacques Bernard]] as Gérard
+* Melvyn Martin as Michael
+* [[Karin Lannby|Maria Cyliakus]] as Elisabeth and Paul's mother
+* {{ill|Jean-Marie Robain|fr|Jean-Marie Robain}} as the headmaster
+* Maurice Revel as the doctor
+* [[Rachel Devirys]]
+* Adeline Aucoc as Mariette, Elisabeth and Paul's maid
+* Émile Mathys as the vice-principal
+* {{ill|Roger Gaillard (actor)|lt=Roger Gaillard|fr|Roger Gaillard (acteur)}} as Gérard's uncle
+* [[Jean Cocteau]] as the narrator
+}}
+
+==Production==
+Melville's first feature film, ''[[Le Silence de la mer (1949 film)|Le Silence de la mer]]'' (1949), attracted the attention of [[Jean Cocteau]], who commissioned Melville to direct a film adaptation of his 1929 novel ''[[Les Enfants terribles]]''.
+
+The film was shot on location in Paris, at the Société nationale des entreprises de presse and the [[Théâtre Pigalle]]; in [[Montmorency, Val-d'Oise|Montmorency]] for the seaside shoplifting scene; and in [[Ermenonville]] for Michael's car accident scene.{{sfn|Vincendeau|2003|p=226}}
+
+The shoplifting scene was directed by Cocteau, as Melville was ill the day it was filmed.{{sfn|Vincendeau|2003|p=226}} Melville said Cocteau followed his directing instructions "to the letter."{{sfn|Vincendeau|2003|p=226}}
+
+==Soundtrack==
+The soundtrack of the film is almost entirely classical music by [[Antonio Vivaldi|Vivaldi]], including one [[Bach]] transcription of a Vivaldi work. The soundtrack consists of extracts from:<ref name="Anderson">{{cite book |last1=Anderson |first1=Laura |editor1-last=Baumgartner |editor1-first=Michael |editor2-last=Boczkowska |editor2-first=Ewelina |title=Music, Authorship, Narration, and Art Cinema in Europe |date=2022 |publisher=Taylor & Francis/Routledge |isbn=978-1-315-29833-7 |pages=33–50 |chapter-url=https://books.google.com/books?id=UkuhEAAAQBAJ&pg=PT39 |chapter=Music as a Sonic Enabler: Jean-Pierre Melville's Film Adaptation of Jean Cocteau's ''Les enfants terribles''}}</ref>
+
+*Vivaldi's [[List of compositions by Antonio Vivaldi#Concertos, sinfonias, sonatas|Concerto for Violin in D minor]] (RV 813)
+
+*Bach's [[BWV 1065|Concerto for Four Harpsichords in A minor]] (BWV 1065) – an adaptation of Vivaldi's [[RV 580|Concerto for Four Violins in B minor]], Op. 3 No. 10 (RV 580)
+
+*Vivaldi's [[RV 580|Concerto for Four Violins and Cello in B minor]] (RV 580)
+
+*Vivaldi's [[L'estro armonico#Concerto No. 8, RV 522|Concerto for Two Violins and String Orchestra in A minor]], Op. 3 No. 8 (RV 522)
+
+Cocteau had originally wanted the score to be jazz music, but was convinced by Melville to accept the use of the Vivaldi pieces instead.<ref>{{cite web |last1=Indiana |first1=Gary |title=''Les enfants terribles'': Hazards of a Snowball Fight |url=https://www.criterion.com/current/posts/586-les-enfants-terribles-hazards-of-a-snowball-fight |website=[[The Criterion Collection]] |access-date=31 March 2023 |date=8 July 2007}}</ref><ref name="Anderson" /> The successful dramatic use of the Vivaldi concertos in the film has been remarked upon, analyzed, and praised by numerous film critics and theorists, including [[Noël Burch]] and [[Edward Baron Turk]].<ref name="Anderson" />
+
+This was the first use of [[baroque music|baroque]] incidental music in film;<ref name="Rorem">{{cite book |last1=Rorem |first1=Ned |author1-link=Ned Rorem |title=Setting the Tone: Essays and a Diary |date=2013 |publisher=Penguin |isbn=978-1-4804-2774-7 |url=https://books.google.com/books?id=TVR5WbvjY74C&pg=PT195}}</ref> ''Les Enfants terribles'' was also one of the first films exclusively using pre-existing classical music as underscore music, a practice that became increasingly common from the 1950s onward.<ref name="Anderson" /> It is the only Cocteau film without a score by [[Georges Auric]].<ref name="Rorem" />
+
+==Release==
+''Les Enfants terribles'' was released in Paris on 29 March 1950.{{sfn|Vincendeau|2003|p=225}} It took in 255,224 admissions in Paris and 719,844 admissions in France as a whole.{{sfn|Vincendeau|2003|p=260}}
+
+== References ==
+{{reflist}}
+
+===Sources===
+* {{cite book |last=Vincendeau |first=Ginette|author-link=Ginette Vincendeau|title=Jean-Pierre Melville – An American in Paris |publisher=[[British Film Institute]] |date=2003 |isbn=0-85170-949-4 |url-access=registration |url=https://archive.org/details/jeanpierremelvil00vinc }}
+
+== External links ==
+* {{IMDb title|0042436}}
+*[https://www.criterion.com/current/posts/586-les-enfants-terribles-hazards-of-a-snowball-fight ''Les enfants terribles: Hazards of a Snowball Fight''] an essay by [[Gary Indiana (writer)|Gary Indiana]] at [[The Criterion Collection]]
+
+{{Jean Cocteau}}
+{{Jean-Pierre Melville}}
+{{Portal bar|Film}}
+{{Authority control}}
+
+{{DEFAULTSORT:Enfants terribles (film), Les}}
+[[Category:1950 films]]
+[[Category:1950 drama films]]
+[[Category:French drama films]]
+[[Category:1950 French-language films]]
+[[Category:French black-and-white films]]
+[[Category:Films about incest]]
+[[Category:Films based on French novels]]
+[[Category:Films based on works by Jean Cocteau]]
+[[Category:Films directed by Jean-Pierre Melville]]
+[[Category:Films with screenplays by Jean Cocteau]]
+[[Category:1950 French films]]
+[[Category:French-language drama films]]

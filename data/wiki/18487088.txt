@@ -1,0 +1,124 @@
+{{short description|1966 film by Jean-Pierre Melville}}
+{{Use dmy dates|date=February 2024}}
+{{Infobox film
+| name           = Le deuxième souffle
+| image          = Deuxiemesouffle.jpg
+| alt            = 
+| caption        = 
+| native_name    = <!--{{Infobox name module|language|title}}-->
+| director       = [[Jean-Pierre Melville]]
+| writer         = {{plainlist|
+* Jean-Pierre Melville
+* [[José Giovanni]]}}
+| screenplay     = 
+| story          = 
+| based_on       = {{based on|''[[Le deuxième souffle (novel)|Le deuxième souffle]]''|José Giovanni}}
+| producer       = {{plainlist|
+* Charles Lumbroso
+* Andre Labay{{sfn|Vincendeau|2003|p=238}}}}
+| starring       = {{plainlist|
+* [[Lino Ventura]]
+* [[Paul Meurisse]]
+* [[Raymond Pellegrin]]
+* [[Christine Fabréga]]}}
+| narrator       = 
+| cinematography = Marcel Combes{{sfn|Vincendeau|2003|p=238}}
+| editing        = {{plainlist|
+* Monique Bonnot
+* Michèle Boëhm{{sfn|Vincendeau|2003|p=238}}}}
+| music          = [[Bernard Gérard (composer)|Bernard Gérard]]{{sfn|Vincendeau|2003|p=239}}
+| studio         = {{plainlist|
+* Les Productions Montaigne
+* Charles Lumbroso{{sfn|Vincendeau|2003|p=238}}}}
+| distributor    = 
+| released       = {{Film date|1966|11|02|Paris|df=y}}
+| runtime        = 144 minutes{{sfn|Vincendeau|2003|p=239}}
+| country        = France
+| language       = French
+| budget         = 
+| gross          = <!--(please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221")-->
+}}
+
+'''''Le deuxième souffle''''' (translated into English as '''''Second Wind''''' or '''''Second Breath''''')<ref>{{cite web|url=http://en.unifrance.org/movie/1854/second-breath|title=Second Breath|publisher=unifrance.org |access-date=2014-02-20}}</ref> is a 1966 French [[crime film|crime]]-[[thriller film]] directed by [[Jean-Pierre Melville]] and starring [[Lino Ventura]], [[Paul Meurisse]], [[Raymond Pellegrin]], and [[Christine Fabréga]]. It is based on the novel ''[[Le deuxième souffle (novel)|Le deuxième souffle]]'' by [[José Giovanni]].
+
+==Plot==
+Incarcerated gangster Gustave "Gu" Minda, who is widely respected in the French underworld for never giving the police any information about his accomplices, escapes from prison and heads for Paris to see his sister Manouche and her faithful bodyguard Alban. While he is traveling, Manouche's current boyfriend, Jacques Ribaldi, who is competing with the Marseille-based gangster and nightclub owner Paul Ricci in the illicit cigarette trade, is shot dead in Manouche's restaurant by some of Paul's henchmen. Thinking Manouche will be more vulnerable than usual, Paul's dishonorable brother Jo, who owns a bar in Paris, sends two men to Manouche's house to extort money from her, but Gu arrives while they are there and executes them in his trademark fashion, which is shooting people while in a moving car. [[Commissaire de police|Commissaire]] Blot of the Paris police quickly deduces the motives for the shootings and who was involved, and sets out to solve both cases and catch Gu using a combination of manipulation and patience.
+
+Manouche and Alban hide Gu in an apartment in Paris for a bit, and then Gu, after growing a mustache, follows Manouche to [[Marseille]], as they plan to flee to Italy on her cousin's boat once Gu gets a fake passport. Not wanting to live on Manouche's money, Gu eagerly agrees to take the place of Jeannot Franchi, who was killed in the attack on Jacques, in an upcoming heist being organized by Paul. Gu's friend Orloff had been offered the job, but he thought it was too risky, so he recommended Gu.
+
+When the time comes, Gu, Paul, Pascal Léonetti, and young Antoine Ripa set out to rob a security van transporting half a ton (500 kg) of [[platinum]] from [[Toulon]] to [[Cadarache]]. On a remote mountain road overlooking the sea, Antoine and Gu shoot and kill the two motorcycle police officers escorting the shipment, and the team ties up the other guards and gets away with the loot. Gu goes into hiding while he waits for the platinum to be converted into cash, but he is spotted and tricked into revealing Paul's involvement in the heist while being recorded by Blot, who had suspected Gu's involvement and discovered the same gun used to kill the two men who tried to extort Manouche was used to kill one of the motorcycle police officers.
+
+Commissaire Fardiano of the Marseille police arrests and tortures Gu and Paul, but neither says anything. Gu is racked with guilt for having implicated Paul, and when he is shown a newspaper article that says he informed, he punches his hands through a window and bashes his head against a file cabinet, which gets him sent to the hospital.
+
+Jo, who is scared Gu might want revenge for having sent the men to Manouche's house, takes the rumors about Gu as an opportunity to try to get rid of him. He, Antoine, and Pascal tell Orloff that, as he vouched for Gu, he has to kill the rat, which he agrees to do, but only if he can prove that Gu was not set up. While Orloff begins to investigate, Gu escapes from the hospital and abducts Fardiano, whom he kills after forcing the commissaire to confess, in writing, to tricking Gu and torturing suspects.
+
+Orloff is with Manouche when Gu returns, and he tells Gu to escape right away, as Blot is in town, and let him work to clear Gu's name and Paul's expensive lawyers worry about getting Paul released. Gu agrees to let Orloff show Fardiano's confession to Jo, Antoine, and Pascal, but then, after shaving his mustache, he knocks Orloff out and goes to the meeting himself, where he kills Jo, is shot by Antoine, and kills Pascal and Antoine. Dragging himself to the stairway of the apartment building, Gu fires at the police as they enter and is shot by Godefroy, one of Blot's detectives. Blot rushes up to Gu, who gives Fardiano's confession to Blot and says "Manouche" before dying. Outside, Blot lets Manouche past a barricade and tells her Gu did not have any final words and she should go back to Paris. He then drops Fardiano's confession at the feet of a journalist.
+
+==Selected Cast==
+{{div col}}
+* [[Lino Ventura]] as Gustave "Gu" Minda
+* [[Paul Meurisse]] as [[Commissaire de police|Commissaire]] Blot of Paris
+* [[Raymond Pellegrin]] as Paul Ricci, Jo's brother
+* [[Christine Fabréga]] as Simone "Manouche" ("Gypsy") Pelquier
+* [[Marcel Bozzuffi]] as Jo Ricci, Paul's brother
+* [[Paul Frankeur]] as Commissaire Fardiano of Marseille
+* Denis Manuel as Antoine Ripa, the youngest member of Paul's heist team
+* [[Jean Négroni]] as the police officer who tricks Gu
+* [[Michel Constantin]] as Alban, Manouche's bodyguard and bartender
+* [[Pierre Zimmer]] as Orloff, Gu's friend, who prefers to work alone
+* Pierre Grasset as Pascal Léonetti, a member of Paul's heist team
+* Jack Leonard as Henri Tourneur, one of the men who breaks into Manouche's house
+* Raymond Loyer as Jacques "le [[Civil law notary#France|Notaire]]" Ribaldi, Manouche's boyfriend and Paul's rival in the illicit cigarette trade
+* Régis Outin as Paul's inside source for the heist
+* [[Albert Michel]] as Marcel "le Stéphanois" ("from [[Saint-Étienne]]"), a bartender at Manouche's restaurant
+* Jean-Claude Bercq as Godefroy, one of Blot's detectives
+* Louis Bugette as Théo Cassini, Manouche's cousin with a boat
+* Albert Dagnant as Jeannot Franchi, Paul's henchman who is killed while killing Jacques
+* Sylvain Levignac as Louis Bartel, one of the men who breaks into Manouche's house
+* Marcel Bernier as one of Fardiano's detectives, whom Gu attacks to escape the hospital
+* Pierre Gualdi as one of Blot's detectives
+{{div col end}}
+
+==Release==
+The film was released in Paris on 2 November 1966.{{sfn|Vincendeau|2003|p=239}} It took in 647,857 admissions in Paris, and 1,912,749 admissions in France as a whole,{{sfn|Vincendeau|2003|p=260}} which made it Melville's highest grossing film in France to that point (by the end of his career, it was his fourth-highest grossing film).{{sfn|Vincendeau|2003|p=260}}
+
+==Remake==
+A [[The Second Wind|remake of ''Le deuxième souffle'']] directed by [[Alain Corneau]] and starring [[Daniel Auteuil]], [[Michel Blanc]], and [[Jacques Dutronc]], was released in 2007.
+
+Has been shown on the [[Turner Classic Movies]] show 'Noir Alley' with [[Eddie Muller]]. Assistance from 'TCM Imports' host [[Alicia Malone]].
+
+==See also==
+*[[Heist film]]
+
+==References==
+{{reflist}}
+
+===Sources===
+{{Refbegin}}
+* {{cite book |last=Vincendeau |first=Ginette |title=Jean-Pierre Melville An American in Paris |publisher=[[British Film Institute]] |date=2003 |isbn=0851709494 |url-access=registration |url=https://archive.org/details/jeanpierremelvil00vinc }}
+{{Refend}}
+
+==External links==
+* {{IMDb title|0060305}}
+* {{rotten-tomatoes|le_deuxieme_souffle}}
+* [https://www.criterion.com/current/posts/703-le-deuxi-me-souffle-after-the-fall ''Le deuxième souffle: After the Fall''] an essay by Adrian Danks at the [[Criterion Collection]]
+
+{{Jean-Pierre Melville}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Deuxieme souffle, Le}}
+[[Category:1966 films]]
+[[Category:1966 black-and-white films]]
+[[Category:French crime thriller films]]
+[[Category:French heist films]]
+[[Category:1966 crime thriller films]]
+[[Category:French neo-noir films]]
+[[Category:Films directed by Jean-Pierre Melville]]
+[[Category:Films about organised crime in France]]
+[[Category:Films based on works by José Giovanni]]
+[[Category:1960s heist films]]
+[[Category:1966 French-language films]]
+[[Category:1966 French films]]
+[[Category:French-language crime thriller films]]
+[[Category:French black-and-white films]]

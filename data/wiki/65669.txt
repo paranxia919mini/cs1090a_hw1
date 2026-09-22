@@ -1,0 +1,283 @@
+{{short description|2001 film by Brian Helgeland}}
+{{about|the 2001 film|the story from ''The Canterbury Tales''|The Knight's Tale}}
+{{Use American English|date=January 2025}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox film
+| name = A Knight's Tale
+| image = AKnightsTale.jpg
+| alt =
+| caption = Theatrical release poster
+| director = [[Brian Helgeland]]
+| producer = {{Plainlist|
+* [[Todd Black]]
+* Brian Helgeland
+* Tim Van Rellim
+}}
+| writer = Brian Helgeland
+| based_on = {{Based on|"[[The Knight's Tale]]"|[[Geoffrey Chaucer]]}}
+| starring = {{Plainlist|
+* [[Heath Ledger]]
+* [[Mark Addy]]
+* [[Rufus Sewell]]
+* [[Paul Bettany]]
+* [[Alan Tudyk]]<!-- per poster billing block DO NOT CHANGE -->
+}}
+| music = [[Carter Burwell]]
+| cinematography = [[Richard Greatrex]]
+| editing = [[Kevin Stitt (film editor)|Kevin Stitt]]<ref name="afi" />
+| production_companies = [[Columbia Pictures]]<ref name=afi>{{cite web |title=A Knight's Tale |website=[[AFI Catalog of Feature Films]] |url=http://catalog.afi.com/Catalog/MovieDetails/62087 |access-date=December 1, 2017}}</ref><br/>[[Escape Artists]]<ref name="Variety">{{cite magazine |last=McCarthy |first=Todd |date=April 19, 2001 |title=A Knight's Tale |type=film review |magazine=[[Variety (magazine)|Variety]] |url=https://variety.com/2001/film/reviews/a-knight-s-tale-2-1200467761/ |access-date=December 1, 2017}}</ref><br/>Finestkind Productions
+| distributor = [[Sony Pictures Motion Picture Group#Sony Pictures Releasing|Sony Pictures Releasing]]<ref name=afi/>
+| released = {{Film date|2001|05|11}}
+| runtime = 132&nbsp;minutes<ref>{{cite web |title=A Knight's Tale (PG) |date=April 27, 2001 |website=[[British Board of Film Classification]] |url=http://www.bbfc.co.uk/releases/knights-tale-2001-1 |archive-url=https://web.archive.org/web/20141006082008/http://www.bbfc.co.uk/releases/knights-tale-2001-1 |url-status=dead |archive-date=6 October 2014 |access-date=January 2, 2012}}</ref>
+| country = United States
+| language = English
+| budget = $65&nbsp;million<ref name="mojo"/>
+| gross = $117.5&nbsp;million
+}}
+
+'''''A Knight's Tale''''' is a 2001 American [[Middle Ages in film|medieval]] [[Action comedy#Film|action comedy film]]<ref>{{cite web|url=https://www.dailydot.com/upstream/a-knights-tale-netflix/|title=In praise of 'A Knight's Tale,' now streaming on Prime—on its 20th anniversary|last=Baker-Whitelaw|first=Gavia|website=[[The Daily Dot]]|date=August 1, 2020|access-date=July 22, 2023|archive-url=https://web.archive.org/web/20200802181230/https://www.dailydot.com/upstream/a-knights-tale-netflix/|archive-date=August 2, 2020}}</ref><ref>{{cite web|url=https://collider.com/a-knights-tale-anniversary-heath-ledger-analysis/|title='A Knight's Tale' 20th Anniversary: Why This Bizarrely Anachronistic Action Comedy Still Holds Up|last=Taylor|first=Robert|website=[[Collider (website)|Collider]]|date=May 13, 2021|access-date=July 22, 2023}}</ref> written, co-produced and directed by [[Brian Helgeland]]. The film stars [[Heath Ledger]] as William Thatcher, a [[peasant]] [[squire]] who poses as a [[knight]] and competes in tournaments, winning accolades and acquiring friendships with such historical figures as [[Edward the Black Prince]] ([[James Purefoy]]) and [[Geoffrey Chaucer]] ([[Paul Bettany]]). Its [[14th-century]] story is intentionally [[anachronistic]], with many modern pop culture references and a soundtrack featuring 1970s music.<ref name="screenrant.com">{{cite web |title=20 Crazy Behind-The-Scenes Details About A Knight's Tale |website=Screen Rant |date=27 July 2018 |url= https://screenrant.com/details-knights-tale-behind-the-scenes/|last=McAdams|first=Eric}}</ref> The film takes its name from Chaucer's story "[[The Knight's Tale]]", part of ''[[The Canterbury Tales]]'', and also draws several plot points from Chaucer's work.
+
+''A Knight's Tale'' was released by [[Columbia Pictures]] in the United States on May 11, 2001. It received mixed reviews from critics and grossed $117.5&nbsp;million against a budget of $65&nbsp;million.
+
+== Plot ==
+<!-- Plot summaries must be 400 to 700 words; see [[WP:FILMPLOT]] -->
+At a [[jousting]] tournament in [[Middle Ages|14th-century Europe]], squires William Thatcher, Roland, and Wat discover that their master, Sir&nbsp;Ector, has died of [[dysentery]]. With one more pass, he could have won the tournament. Destitute, William wears Sir&nbsp;Ector's [[armor]] to impersonate him, winning the tournament and taking the prize.
+
+Although only [[nobles]] are allowed in tournaments, William is inspired to compete and win more prizes. Roland and Wat would rather take their winnings and leave, but William convinces them to stay and help him train. While traveling, they encounter a young [[Geoffrey Chaucer]], who is also destitute and agrees to forge a [[patent of nobility]] so William can enter, [[assumed name|assuming the name]] of "Sir&nbsp;[[Ulrich von Liechtenstein]]" from [[Guelders|Gelderland]]. But William is brought before Simon the Summoner and Peter the Pardoner: Chaucer has a [[gambling problem]] and is in their debt. William demands Chaucer be released and promises payment.
+
+During the competition, William's armor is badly damaged; he goads Kate, a female blacksmith, into repairing it on credit. He wins the tournament's sword event, enabling him to pay Chaucer's debt. In the joust, he faces Sir&nbsp;Thomas Colville, who withdraws from the tournament after being injured by William, though they exchange a ceremonial pass so that Colville can retain the honour of never having failed to complete a match.
+
+The proceedings are observed by Jocelyn, a noblewoman with whom William has become infatuated, and Count Adhemar of [[County of Anjou|Anjou]], a rival both in the joust and for Jocelyn's heart. In the final joust, Adhemar defeats William by knocking his helmet off. William vows revenge, but Adhemar taunts him, "[[Belshazzar's feast|You have been weighed, you have been measured, and you have been found wanting.]]"
+
+William is invited to a [[banquet]] and Kate shows him how to dance. There, he meets with Jocelyn again and, once more, Adhemar attempts to humiliate Will. The attempt backfires as Will stuns the audience with his dancing.
+
+Kate joins William's party and forges new lightweight armor. In the following tournament, Adhemar and William are both assigned to tilt against Sir&nbsp;Thomas Colville, but they learn that he is actually [[Edward the Black Prince|Prince Edward]], the [[heir apparent]] to the [[English throne]]. Unwilling to risk harming him, Adhemar withdraws; but William chooses to joust against Edward anyway and then addresses him by name, further earning his respect.
+
+Adhemar is called away to the [[Battle of Poitiers]], and William achieves several victories in his absence. William proves his love for Jocelyn by complying when she first asks him to deliberately lose (in contrast to knights who promise to win "in her name"), and then, just before he would be eliminated, to win the tournament after all.
+
+The group travels to [[London]] for the World Championship. William recalls leaving his father to squire for Sir&nbsp;Ector and learn to become a knight, hoping to "change his stars." Adhemar has also arrived in London and announces that he is in negotiations with Jocelyn's father for her hand in [[marriage]]. William dominates at the tournament, but is seen visiting his now-[[Visual impairment|blind]] father by Adhemar. Adhemar alerts the authorities to William's true identity. As William prepares to compete, his friends urge him to flee, and Jocelyn, now regardless of Will's true identity, urges Will to flee with her. Will refused to run and headed to the tourney, determined to compete.
+
+William is [[arrested]], locked in a cell where he is chastised by Adhemar, and placed in the town square [[pillory]], but is defended from the hostile crowd by his friends. Just as the mob reaches its frenzy, Prince Edward reveals himself. He acknowledges William's honour and ability to inspire his friends' dedication that is in the best traditions of knighthood. Edward then announces that William is in fact descended from an ancient noble family, and knights him "Sir&nbsp;William". He asserts that as Prince-royal, his declaration is "beyond contestation".
+
+William returns to the tournament to face Adhemar in the final match, but Adhemar cheats with an illegally sharpened lance, seriously injuring William. Entering the final pass, William is losing by two lances and must unhorse Adhemar to win. He demands to be stripped of his armor while Chaucer buys time by performing the introduction of William that he omitted earlier. William, unable to hold the lance due to his injuries, asks Wat to strap it to his arm.
+
+Finally, William tilts against Adhemar, with his father and Jocelyn in attendance. Bellowing his true name as he charges, Will knocks Adhemar to the ground with a crushing blow; Adhemar experiences a vision of William and his friends mockingly telling him that ''he'' has been "weighed, measured, and found wanting". With this final blow, William wins the world championship. In the ensuing celebration, as Jocelyn and William embrace, Chaucer remarks that he should [[The Knight's Tale|write an account of these events]].
+
+After the credits, Roland, Wat, Chaucer, and Kate are sitting in an attic having a flatulence contest.
+
+==Cast==
+<!--- [[MOS:FILMCAST]] [[WP:NOTDATABASE]] - cast and order per Main Cast [[opening credits]], roles per [[closing credits]] scroll --->
+{{Cast listing|
+* [[Heath Ledger]] as William Thatcher, a squire to the late Sir Ector, who masquerades as 'Sir Ulrich von Liechtenstein of Gelderland'
+* [[Mark Addy]] as Roland, a squire to the late Sir Ector and a loyal friend of William
+* [[Rufus Sewell]] as Count Adhemar of Anjou, a wealthy, battle hardened knight who believes Sir Ulrich (William) would be a "lesser" knight, taunting William in front of Jocelyn and the public
+* [[Paul Bettany]] as [[Geoffrey Chaucer|Chaucer]], a big-headed writer and [[ring announcer]]
+* [[Shannyn Sossamon]] as Jocelyn, a lady of noble birth, bound to the church but enjoys the fun and tricks in life
+* [[Alan Tudyk]] as Wat, a squire to the late Sir Ector, obsessed with the greater things in life
+* [[Laura Fraser]] as Kate, a hard-working widowed blacksmith who joins William to prove that her armor is better than her competitors
+* [[Christopher Cazenove]] as John Thatcher, William's father
+* [[Bérénice Bejo]] as Christiana, Jocelyn's loyal friend and lady-in-waiting
+* [[James Purefoy]] as Colville, (attempted) incognito alias of [[Edward the Black Prince]]
+}}
+
+In addition, [[Nick Brimble]] has a cameo as Sir Ector, a noble knight whose untimely death sets the plot in motion.
+
+== Production ==
+''A Knight's Tale'' was filmed entirely on location in the [[Czech Republic]] at [[Barrandov Studios]], [[Prague]], during the summer of 2000.<ref>{{cite news | title=A Knight's Tale | website=Sony Movie Channel | url=http://www.sonymoviechannel.com/movies/knights-tale/details | access-date=July 15, 2012 | archive-date=3 March 2016 | archive-url=https://web.archive.org/web/20160303183533/http://www.sonymoviechannel.com/movies/knights-tale/details | url-status=dead }}</ref> There, while the film was in production, [[Heath Ledger]] met [[Heather Graham]] during her simultaneous filming of ''[[From Hell (film)|From Hell]]''.<ref name="screenrant.com" />
+
+[[Lance]]s were created that would convincingly explode upon impact without injuring the stunt riders. The body of each lance was scored so it would break easily, and the tips were made of [[Ochroma pyramidale|balsa wood]]. Each was also hollowed out, with the holes filled with balsa splinters and uncooked [[linguine]].<ref>{{cite web |title=Interview with Brian Helgeland |website=Movie Habit |url=http://www.moviehabit.com/essay.php?story=helgeland|first=Marty |last=Mapes|date=May 6, 2001}}</ref>
+
+Director Brian Helgeland says in the [[DVD]] Special Edition's commentary that he had intended to show what Geoffrey Chaucer might have been doing that inspired him to write ''[[The Canterbury Tales]]'' during the six months in which Chaucer seems to have gone missing in 1372.<ref name="screenrant.com"/>
+
+Heath Ledger's principal suit of armor was made in steel by UK-based Armordillo Ltd. They also created several stunt replicas of this armor, Count Adhemar's armor, and all the jousting armors for men and horses in lightweight, flexible, and nearly unbreakable polyurethane resin.
+
+== Music ==
+The film, which notionally is set during the [[High Middle Ages]], is notable for its deliberately [[anachronistic]] use of [[classic rock]] and [[funk music|funk]] songs in its soundtrack. The ten that were credited in the film are listed in order of appearance:
+* "[[We Will Rock You]]" – [[Queen (band)|Queen]]
+* "[[Low Rider]]" – [[War (U.S. band)|War]]
+* "[[Takin' Care of Business (song)|Takin' Care of Business]]" – [[Bachman–Turner Overdrive]]
+* "[[Golden Years (David Bowie song)|Golden Years]]" – [[David Bowie]]
+* "[[Farther Up the Road|Further on Up the Road]]" – [[Eric Clapton]]
+* "[[Get Ready (The Temptations song)|Get Ready]]" – [[Rare Earth (band)|Rare Earth]]
+* "[[I Want to Take You Higher]]" – [[Sly and the Family Stone]]
+* "[[The Boys Are Back in Town]]" – [[Thin Lizzy]]
+* "[[You Shook Me All Night Long]]" – [[AC/DC]]
+* "[[We Are the Champions]]" – [[Robbie Williams]] & [[Queen (band)|Queen]]
+
+In addition, the film's score makes use of the work of Estonian composer [[Arvo Pärt]], his composition ''[[Fratres]]'' (Brothers) being heard in the scene in which William is knighted by Prince Edward.
+
+===Soundtrack===
+{{Infobox album
+| name       = A Knight's Tale: Music from the Motion Picture
+| type       = [[Soundtrack]]
+| artist     = Various Artists
+| cover      =
+| alt        =
+| released   = May 8, 2001
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Rock music|Rock]], [[Country music|country]], [[Pop music|pop]]
+| length     =
+| label      = [[Columbia Records|Columbia]]
+| producer   = {{hlist|[[Brian Helgeland]] <small>([[Executive producer|exec.]])</small>|Glen Brunman <small>(exec.)</small>|Lia Vollack <small>(exec.)</small>|John Kalodner <small>(exec.)</small>|}}
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+{{Track listing
+| headline = ''Track Listing''
+| extra_column = Artist(s)
+| title1       = [[We Will Rock You]]
+| length1      = 2:14
+| writer1      = [[Brian May]]
+| extra1       = [[Queen (band)|Queen]]
+| title2       = [[Low Rider]]
+| length2      = 3:11
+| writer2      = Thomas Sylvester "Papa Dee" Allen, [[Harold Ray Brown]], Morris "B.B." Dickerson, Leroy Jordan, [[Charles Miller (musician)|Charles Miller]], [[Lee Oskar]], [[Howard E. Scott]], and [[Jerry Goldstein (producer)|Jerry Goldstein]]
+| extra2       = [[War (U.S. band)|War]]
+| title3       = [[Takin' Care of Business (song)|Takin' Care of Business]]
+| length3      = 4:50
+| writer3      = [[Randy Bachman]]
+| extra3       = [[Bachman-Turner Overdrive]]
+| title4       = [[Golden Years (David Bowie song)|Golden Years]]
+| length4      = 3:27
+| writer4      = [[David Bowie]]
+| extra4       = David Bowie
+| title5       = [[Ramble On]]
+| length5      = 4:35
+| writer5      = [[Jimmy Page]] and [[Robert Plant]]
+| extra5       = [[Train (band)|Train]]
+| title6       = [[Crazy On You]]
+| length6      = 4:50
+| writer6      = [[Ann Wilson]] and [[Nancy Wilson (rock musician)|Nancy Wilson]]
+| extra6       = [[Heart (band)|Heart]]
+| title7       = [[Farther Up the Road|Further Up On The Road]]
+| length7      = 4:29
+| writer7      = [[Don Robey|Don D. Robey]] and [[Joe Medwick (blues musician)|Joe Medwick Veasey]]
+| extra7       = [[Eric Clapton]] ft. [[Robbie Robertson]]
+| title8       = [[Get Ready (The Temptations song)|Get Ready]]
+| length8      = 2:50
+| writer8      = [[Smokey Robinson]]
+| extra8       = [[Rare Earth (band)|Rare Earth]]
+| title9       = [[I Want To Take You Higher]]
+| length9      = 5:20
+| writer9      = [[Sylvester Stewart]]
+| extra9       = [[Sly & The Family Stone]]
+| title10      = [[The Boys Are Back in Town]]
+| length10     = 4:28
+| writer10     = [[Phil Lynott]]
+| extra10      = [[Thin Lizzy]]
+| title11      = One Of Your Own (score)
+| length11     = 1:53
+| writer11     = [[Carter Burwell]]
+| extra11      = Carter Burwell
+| title12      = [[We Are The Champions]]
+| length12     = 3:54
+| writer12     = [[Freddie Mercury]]
+| extra12      = Queen and [[Robbie Williams]]
+| title13      = Pieces of My Heart
+| length13     = 3:28
+| writer13     = Dan Powell and Adam Smalley
+| extra13      = Dan Powell
+| title14      = Eye Conqueror
+| length14     = 4:07
+| writer14     = Arion Salazar
+| extra14      = [[Third Eye Blind]]
+}}
+
+Tracks 5, 6, 13, and 14 do not appear in the actual film while [[You Shook Me All Night Long]] by [[AC/DC]] appears in the film, but is not on the soundtrack.
+
+=== Year-end charts ===
+{| class="wikitable plainrowheaders" style="text-align:center"
+|+Year-end chart performance for ''A Knight's Tale''
+! scope="col"| Chart (2001)
+! scope="col"| Peak<br />position
+|-
+!scope="row"| Canadian Albums (Nielsen SoundScan)<ref>{{cite web|archive-url=https://web.archive.org/web/20031106085719/http://www.jamshowbiz.com/JamMusicCharts/200-2_2001.html|archive-date= November 6, 2003|url=http://www.jamshowbiz.com/JamMusicCharts/200-2_2001.html|title=Top 200 Albums of 2001 (based on sales)|website=[[Jam!]]|access-date=March 26, 2022}}</ref>
+| 127
+|}
+
+===Certifications===
+{{Certification Table Top}}
+{{Certification Table Entry|region=United States|artist=Soundtrack|title=A Knight's Tale|award=Gold|type=album|relyear=2001|certyear=2003|access-date=December 21, 2022}}
+{{Certification Table Bottom|nosales=true}}
+
+==Release==
+===Home media===
+''A Knight's Tale'' was released on [[DVD]] and [[VHS]] on September 25, 2001, with the VHS release being delayed by three days to September 28 when Sony took down a ''[[Spider-Man (2002 film)|Spider-Man]]'' teaser trailer that was recalled due to the [[September 11 attacks]].<ref>{{cite news |url=https://www.newspapers.com/clip/106426582/companies-postponing-redoing-ad/ |title=Companies postponing, redoing ad campaigns in wake of attacks |archive-url=https://web.archive.org/web/20220730190658/https://www.newspapers.com/clip/106426582/companies-postponing-redoing-ad/ |date=September 17, 2001 |access-date=July 30, 2022 |archive-date=July 30, 2022 |page=31 |newspaper=[[Odessa American|The Odessa American]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref><ref>{{cite news |url=https://www.newspapers.com/clip/106426806/spider-man-gets-cut/ |title=Spider-Man Gets Cut |archive-url=https://web.archive.org/web/20220730190824/https://www.newspapers.com/clip/106426806/spider-man-gets-cut/ |date=September 19, 2001 |access-date=July 30, 2022 |archive-date=July 30, 2022 |page=42 |publisher=[[Hartford Courant]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref>
+
+On May 20, 2025, the [[Ultra HD Blu-ray]] discs were released by Sony featuring the theatrical cut and extended cut.<ref>{{Cite web |last=Gonzales |first=Dillon |date=2025-03-07 |title=Sony To Release Heath Ledger's Action Favorite 'A Knight's Tale' On 4K UHD Blu-Ray This May |url=https://geekvibesnation.com/sony-to-release-heath-ledgers-action-favorite-a-knights-tale-on-4k-uhd-blu-ray-this-may/ |access-date=2026-07-22 |website=Geek Vibes Nation |language=en-US}}</ref><ref>{{Cite AV media |url=https://www.blu-ray.com/news/?id=36079 |title=A Knight's Tale 4K Blu-ray |access-date=2025-05-20 |via=www.blu-ray.com}}</ref><ref>{{Cite web |last=Wurm |first=Gerald |title=Knight's Tale, A (Comparison: Theatrical Version - Extended Version) - Movie-Censorship.com |url=https://www.movie-censorship.com/report.php?ID=2494 |access-date=2025-05-20 |website=www.movie-censorship.com}}</ref>
+
+== Reception ==
+===Critical reception===
+Review aggregation website [[Rotten Tomatoes]] gives the film a score of 60% based on reviews from 153 critics, with an average rating of 5.90/10. The website's critical consensus says, "Once you get past the anachronism, ''A Knight's Tale'' becomes a predictable, if spirited, ''[[Rocky]]'' on horseback."<ref>{{cite web |title=''A Knight's Tale'' (2001) |url=https://www.rottentomatoes.com/m/knights_tale |website=Rotten Tomatoes |access-date=December 3, 2022 |language=en}}</ref> On [[Metacritic]], the film holds a score of 56 out of 100, sampled from 36&nbsp;reviews, indicating "mixed or average" reviews.<ref>{{cite web |title=''A Knight's Tale'' (2001) |website=Metacritic |url=http://www.metacritic.com/movie/a-knights-tale |access-date=November 19, 2015}}</ref> Audiences polled by CinemaScore gave the film an average grade of "B+" on an A+ to F scale.<ref>{{Cite web |title=Home |url=https://www.cinemascore.com/ |access-date=2022-11-07 |website=CinemaScore |language=en-US}}</ref>
+
+[[Roger Ebert]] gave the film 3&nbsp;stars out of 4 and argued that the anachronisms made little difference, writing that the director himself "pointed out that an orchestral score would be equally anachronistic, since orchestras hadn't been invented in the 1400s."<ref>{{cite news |author-link=Roger Ebert |first=Roger |last=Ebert |newspaper=[[Chicago Sun-Times]] |title=''A Knight's Tale'' (2001) |url= https://www.rogerebert.com/reviews/a-knights-tale-2001|date=May 11, 2001|via=RogerEbert.com}}</ref><ref>{{cite web |title=A Knight's Tale |series=2001 movies |website=Reel McCoy |url=http://www.the-reel-mccoy.com/movies/2001/AKnightsTale.html |access-date=September 25, 2009 |url-status= dead |archive-url=https://web.archive.org/web/20081114032920/http://www.the-reel-mccoy.com/movies/2001/AKnightsTale.html |archive-date=November 14, 2008}}</ref> In an [[obituary]] for [[David Bowie]], culture critic [[Anthony Lane]] referred to the film's use of the song [[Golden Years (David Bowie song)|"Golden Years"]] as "the best and most honest use of anachronism that I know of."<ref>{{cite magazine |last=Lane |first=Anthony |date=January 13, 2016 |title=David Bowie in the Movies |magazine=[[The New Yorker]] |url=https://www.newyorker.com/culture/cultural-comment/david-bowie-in-the-movies |access-date=27 April 2021 }}</ref>
+
+''[[Newsweek]]'' revealed in June&nbsp;2001 that print ads contained glowing comments from a film reviewer who did not exist for at least four films released by [[Columbia Pictures]], including ''A Knight's Tale'' and ''[[The Animal]]'' (2001).<ref name="Newsweek 2001-06-02">{{cite web |last=Horn |first=John |date=June 2, 2001 |title=The reviewer who wasn't there |magazine=[[Newsweek]] |url=http://www.msnbc.com/news/581770.asp?cp1=1 |access-date=October 3, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20010609225327/http://www.msnbc.com/news/581770.asp?cp1=1 |archive-date=June 9, 2001 |via=[[MSNBC]]}}</ref> The fake critic was named [[David Manning (fictitious writer)|David Manning]] and was created by a Columbia employee who worked in the advertising department.<ref name="Newsweek 2001-06-02"/> "Manning" was fraudulently presented as a reviewer for ''[[The Ridgefield Press]]'', a small [[Connecticut]] weekly.<ref name="Newsweek 2001-06-02"/>
+
+Bettany's performance as [[Geoffrey Chaucer]] was particularly praised, with Ed Power in [[The i Paper|''i'']] saying that "Bettany adds a hilarious zing to this tale of honour and destiny and steals the thunder of the stoic and reserved Ledger."<ref>{{Cite web|url=https://www.theguardian.com/film/2026/feb/16/how-we-made-a-knights-tale-heath-ledger-paul-bettany-brian-helgeland|title=‘Heath Ledger knocked my tooth out jousting with a broom’: how we made A Knight’s Tale|first=Simon|last=Bland|date=16 February 2026|via=The Guardian}}</ref>
+
+=== Box office ===
+''A Knight's Tale'' made $16.5 million during its opening weekend, ranking in second place behind ''[[The Mummy Returns]]''.<ref>{{cite news |url=https://www.newspapers.com/clip/113069537/mummy-still-rules-box-office/ |title='Mummy' still rules box office |archive-url=https://web.archive.org/web/20221114214255/https://www.newspapers.com/clip/113069537/mummy-still-rules-box-office/ |date=May 16, 2001 |access-date=November 14, 2022 |archive-date=November 14, 2022 |page=32 |publisher=[[The Berkshire Eagle]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> The film earned $56.6&nbsp;million at the North American box office and an additional $60.9 million internationally, for a worldwide total of $117.5&nbsp;million.<ref name="mojo">{{cite web |title=A Knight's Tale |website=[[Box Office Mojo]] |id=rl2270987777 |language=en |url=https://www.boxofficemojo.com/release/rl2270987777 |access-date=November 25, 2019 |url-status=live |archive-url=https://web.archive.org/web/20191125205818/https://www.boxofficemojo.com/release/rl2270987777/ |archive-date=November 25, 2019}}</ref>
+
+=== Awards ===
+The film was nominated for three awards at the [[2002 MTV Movie Awards]]. Shannyn Sossamon was nominated for Breakthrough Female performance, losing to [[Mandy Moore]] in ''[[A Walk to Remember]].''<ref>{{cite web |title=''Lord of the Rings'', ''Fast and the Furious'' top MTV movie award nominees |department=[[2002 MTV Movie Awards]] |website=[[MTV]] |url=http://www.mtv.com/news/1453554/lord-of-the-rings-fast-and-the-furious-top-mtv-movie-award-nominees/|archive-url=https://web.archive.org/web/20150929174516/http://www.mtv.com/news/1453554/lord-of-the-rings-fast-and-the-furious-top-mtv-movie-award-nominees/|url-status=dead|archive-date=29 September 2015|date=April 23, 2002}}</ref> The film was also nominated for Best Kiss, and Best Musical Sequence, losing to ''[[American Pie 2]]'' and ''[[Moulin Rouge!]]'', respectively.<ref>{{cite web |title=''Lord of the Rings'', Nicole Kidman on-top at MTV movie awards |department=[[2002 MTV Movie Awards]] |website=[[MTV]] |url=http://www.mtv.com/news/1454958/lord-of-the-rings-nicole-kidman-on-top-at-mtv-movie-awards/|archive-url=https://web.archive.org/web/20160831124233/http://www.mtv.com/news/1454958/lord-of-the-rings-nicole-kidman-on-top-at-mtv-movie-awards/|url-status=dead|archive-date=31 August 2016|date=June 3, 2002}}</ref>
+
+Bettany won the [[London Film Critics' Circle Award for British Supporting Actor of the Year]].<ref>{{Cite web|url=https://www.screendaily.com/master-and-commander-sails-off-with-london-critics-awards/4017305.article|title=Master And Commander sails off with London Critics awards|first=Staff|last=reporters|website=Screen}}</ref> THe film also took two [[Taurus World Stunt Awards]] for 'Hardest hit' and 'Best work with an animal'.<ref>{{Cite web|url=https://www.taurusworldstuntawards.com/awards/winners-and-nominees-2002/|title=Winners and Nominees 2002 - Taurus World Stunt Awards|date=31 January 2002}}</ref>
+
+==Sequel==
+In 2012, a TV series adaptation was reported to be in development by [[American Broadcasting Company]], written by [[Ronald D. Moore]].<ref>{{cite web |last1=Jeffery |first1=Morgan |title='A Knight's Tale' TV series in the works at ABC |url=https://www.digitalspy.com/tv/ustv/a407840/a-knights-tale-tv-series-in-the-works-at-abc/ |website=[[Digital Spy]] |publisher=[[Hearst Magazines UK]] |access-date=15 July 2023 |date=24 September 2012}}</ref>
+
+In April 2024, it was revealed that director [[Brian Helgeland]] had pitched a sequel to [[Netflix]], who passed on the project.<ref>{{Cite web |date=2024-04-22 |title=20 Years Later, Denzel Washington's Wild Revenge Thriller Still Holds Up For One Crucial Reason |url=https://www.inverse.com/entertainment/man-on-fire-anniversary-20-years-interview-brian-helgeland-knights-tale-sequel |access-date=2026-07-22 |website=Inverse |language=en}}</ref>
+
+==Musical adaptation==
+{{main|A Knight's Tale (musical){{!}}''A Knight's Tale'' (musical)}}
+
+A musical adaptation of the movie had its world premiere in [[Manchester Opera House]] on 11 April 2025. The limited run ended on 10 May 2025 with an anticipated transfer to the West End at an as yet unannounced later date.<ref>{{Cite web |last=Galaszia |first=Charlotte |date=2024-07-23 |title=News: World Premiere Production Of A Knight's Tale The Musical |url=https://thetheatrecafe.co.uk/news-world-premiere-production-of-a-knights-tale-the-musical/ |access-date=2024-07-30 |website=The Theatre Cafe |language=en-GB}}</ref><ref>{{Cite web |title=A Knight's Tale: The Comedy Musical {{!}} Official Website |url=https://aknightstalemusical.com/ |access-date=2024-07-30 |website=aknightstalemusical.com |language=en-GB}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category}}
+* {{IMDb title|0183790|A Knight's Tale}}
+* {{mojo title|aknightstale|A Knight's Tale}}
+* {{rotten-tomatoes|knights_tale|A Knight's Tale}}
+* {{Metacritic film|title=A Knight's Tale}}
+
+{{Brian Helgeland}}
+{{Geoffrey Chaucer}}
+
+{{DEFAULTSORT:Knights Tale}}
+[[Category:2001 adventure comedy films]]
+[[Category:2001 action comedy films]]
+[[Category:2001 American films]]
+[[Category:2001 English-language films]]
+[[Category:2001 films]]
+[[Category:Advertising and marketing controversies in film]]
+[[Category:American action adventure films]]
+[[Category:Columbia Pictures films]]
+[[Category:Cultural depictions of Edward the Black Prince]]
+[[Category:English-language action adventure films]]
+[[Category:English-language action comedy films]]
+[[Category:English-language adventure comedy films]]
+[[Category:Escape Artists films]]
+[[Category:Films about competitions]]
+[[Category:Films adapted into plays]]
+[[Category:Films directed by Brian Helgeland]]
+[[Category:Films produced by Todd Black]]
+[[Category:Films scored by Carter Burwell]]
+[[Category:Films set in 14th-century Plantagenet England]]
+[[Category:Films set in France]]
+[[Category:Films set in London]]
+[[Category:Films set in the 1350s]]
+[[Category:Films shot at Barrandov Studios]]
+[[Category:Films shot in the Czech Republic]]
+[[Category:Films with screenplays by Brian Helgeland]]
+[[Category:Impact of the September 11 attacks on cinema]]
+[[Category:Works based on The Canterbury Tales]]

@@ -1,0 +1,472 @@
+{{Use mdy dates|date=April 2016}}
+
+{{short description|2015 film by Jeremy Saulnier}}
+{{about|the 2015 American film|the concept after which the film is named|Green room|the unrelated 1978 French film|The Green Room (film)}}
+
+{{Infobox film
+| name           = Green Room
+| image          = Green Room (film) POSTER.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Jeremy Saulnier]]
+| producer       = {{Plainlist|
+* [[Neil Kopp]]
+* Victor Moyers
+* Anish Savjani
+* [[Macon Blair]]
+}}
+| writer         = Jeremy Saulnier
+| starring       = {{Plainlist|
+* [[Anton Yelchin]]
+* [[Imogen Poots]]
+* [[Alia Shawkat]]
+* [[Joe Cole (actor)|Joe Cole]]
+* [[Callum Turner]]
+* [[Patrick Stewart]]
+}}
+| music          = {{Plainlist|
+* Brooke Blair
+* Will Blair}}
+| cinematography = [[Sean Porter (cinematographer)|Sean Porter]]
+| editing        = Julia Bloch
+| studio         = {{Plainlist|
+* [[Broad Green Pictures]]
+* FilmScience
+}}
+| distributor    = [[A24]]
+| released       = {{Film date|2015|05|17|[[2015 Cannes Film Festival|Cannes]]|2016|04|15|United States}}
+| runtime        = 95 minutes<!--Theatrical runtime: 94:51--><ref>{{cite web | url=https://bbfc.co.uk/releases/green-room-film | title=''GREEN ROOM'' (18) | work=[[British Board of Film Classification]] | date=January 20, 2016 | access-date=January 20, 2016 | archive-date=February 18, 2017 | archive-url=https://web.archive.org/web/20170218064416/http://www.bbfc.co.uk/releases/green-room-film | url-status=dead }}</ref>
+| country        = United States<ref>{{cite web|url=https://www2.bfi.org.uk/films-tv-people/564128d66ce5a|archive-url=https://web.archive.org/web/20160524184012/http://www.bfi.org.uk/films-tv-people/564128d66ce5a|url-status=dead|archive-date=May 24, 2016|title=Green Room (2015)|access-date=February 8, 2021}}</ref>
+| language       = English
+| budget         = $5 million<ref name="budget">{{cite web|last1=Phillips|first1=Ian|title=The best action movie out now cost just $5 million and is more intense than anything by Marvel or Disney|url=http://www.businessinsider.com/green-room-movie-review-2016-5|website=[[Business Insider]]|access-date=May 13, 2016|archive-date=May 5, 2016|archive-url=https://web.archive.org/web/20160505233131/http://www.businessinsider.com/green-room-movie-review-2016-5|url-status=live}}</ref><ref name="numbers" />
+| gross          = $3.8 million<ref name="mojo">{{cite web |url=https://boxofficemojo.com/movies/?id=greenroom.htm |title=''Green Room (2016)''|work=[[Box Office Mojo]] |access-date=June 24, 2025 |archive-date=September 26, 2024|archive-url=https://web.archive.org/web/20240926214442/https://www.boxofficemojo.com/release/rl360482305/|url-status=live}}</ref>
+}}
+
+'''''Green Room''''' is a 2015 American [[horror film|horror]]-[[thriller film]]<ref>{{cite web | title=Green Room | url=https://a24films.com/films/green-room }}</ref><ref name=VarietyReview /> written and directed by [[Jeremy Saulnier]], and produced by [[Neil Kopp]], Victor Moyers and Anish Savjani. Starring [[Anton Yelchin]], [[Imogen Poots]], [[Alia Shawkat]], [[Joe Cole (actor)|Joe Cole]], [[Callum Turner]] and [[Patrick Stewart]], the film focuses on a punk band who find themselves attacked by [[White power skinhead|neo-Nazi skinheads]] after witnessing a murder at a remote club in the [[Pacific Northwest]].
+
+Principal photography took place during October 2014 in [[Portland, Oregon]]. The film was financed and produced by [[Broad Green Pictures]]. ''Green Room'' was screened in the [[Directors' Fortnight]] section at the [[2015 Cannes Film Festival]].<ref name="Quinzaine">{{cite web|url=http://www.quinzaine-realisateurs.com/the-directors-fortnight-2015-selection-p487.html |title=The Directors' Fortnight 2015 selection! |access-date=21 April 2015 |work=Quinzaine des Réalisateurs |url-status=dead |archive-url=https://web.archive.org/web/20150423224901/http://www.quinzaine-realisateurs.com/the-directors-fortnight-2015-selection-p487.html |archive-date=April 23, 2015 |df=mdy-all }}</ref> At the [[2015 Toronto International Film Festival]], the film finished third in the balloting for the Grolsch People's Choice Midnight Madness Award.<ref>{{cite press release |date=2015-09-20 |access-date=2015-09-21 |title=Toronto International Film Festival Announces 2015 Award Winners |url=https://s3.amazonaws.com/presscontent.tiff.net/docs/48vk20_Festival_Awards_2015__8877337_1442771061.pdf |publisher=TIFF |archive-date=March 3, 2016 |archive-url=https://web.archive.org/web/20160303175312/https://s3.amazonaws.com/presscontent.tiff.net/docs/48vk20_Festival_Awards_2015__8877337_1442771061.pdf |url-status=dead }}</ref> The film began a [[limited release]] on April 15, 2016, before being [[Wide release|widely released]] on May 13 through [[A24]].<ref name="Jaugernath">{{cite web|url=http://blogs.indiewire.com/theplaylist/watch-arm-snapping-punk-rock-red-band-trailer-for-jeremy-saulniers-green-room-starring-patrick-stewart-20160202|title=Watch: Arm-Snapping, Punk Rock, Red-Band Trailer For Jeremy Saulnier's 'Green Room' Starring Patrick Stewart|publisher=[[Indiewire.com]]|first=Kevin|last=Jaugernath|date=February 2, 2016|access-date=February 12, 2016|archive-url=https://web.archive.org/web/20160205193641/http://blogs.indiewire.com/theplaylist/watch-arm-snapping-punk-rock-red-band-trailer-for-jeremy-saulniers-green-room-starring-patrick-stewart-20160202|archive-date=February 5, 2016|url-status=dead}}</ref> It appeared on many critics' lists as one of the best films of 2016 and received a 2017 [[Empire Award]] nomination for [[Empire Award for Best Horror|Best Horror]], and grossed $3.8 million against a budget of $5 million. This was Anton Yelchin's final film released during his lifetime.
+
+==Plot summary==
+Pat, Sam, Reece and Tiger are members of a punk band, the Ain't Rights, traveling through the [[Pacific Northwest]]. After their gig is cancelled, a local radio host, Tad, arranges a show through his cousin, Daniel, at a [[neo-Nazi skinhead]] bar in the woods outside [[Portland, Oregon|Portland]], opening for the [[Nazi metal]] band Cowcatcher.
+
+After the show, Pat returns to the [[green room]] to retrieve Sam's phone. He sees the body of a woman, Emily, who has been stabbed to death by Werm, a member of Cowcatcher. Pat calls the police, but the bar employees Gabe and Big Justin confiscate the band's phones and hold them captive in the green room with Emily's friend Amber. Gabe pays a skinhead to stab another to create a cover story for the police who respond to the call. He consults with the bar owner and skinhead leader, Darcy, who decides to gift Cowcatcher with poisoned drugs and kill the band to eliminate witnesses.
+
+The band overpowers Big Justin and holds him hostage, taking a box cutter from his pocket and his pistol. They negotiate through the door with Darcy, who asks them to surrender the pistol. Pat agrees, but as he opens the door, Amber realizes it is a trap. Darcy and his men slash at Pat's arm and partially sever his hand with machetes until he drops the gun, but he closes the door. Big Justin attacks the band, but Reece chokes him into unconsciousness. When Big Justin surprises Reece by awaking again, Reece chokes Big Justin again and Amber cuts him open to ensure that he is dead.
+
+Searching for a way out, the band discovers an underground drug lab, but the only exit is locked from the outside. Arming themselves with improvised weapons, they exit the green room into the empty club.  A skinhead, Clark, unleashes an attack dog, which kills Tiger. Amber and Pat drive the dog away with microphone feedback. Reece flees through a window, but is murdered by a skinhead.
+
+Pat, Amber, and Sam retreat to the green room. Darcy sends Daniel into the club to kill the band, who Darcy claims murdered Emily. Amber tells Daniel that Werm murdered Emily after discovering Daniel and Emily planned to leave the skinheads. Daniel agrees to help them escape and leads the band into the club, where he is shot dead by the bartender. The group kills the bartender and takes his shotgun, but Clark's dog kills Sam. Darcy's men wound Amber, who retreats to the green room with Pat.
+
+As Pat and Amber come up with a survival plan, Darcy sends skinheads Jonathan and Kyle with Gabe to kill Pat and Amber, and he leaves with the bodies, planning to stage their deaths to appear as though they were killed while trespassing. Pat lures Jonathan into the drug lab while Kyle remains in the green room, where Amber ambushes and kills him. As Pat fights Jonathan, Amber sneaks up behind the latter and shoots him. Gabe then surrenders to Pat and Amber, fearing prison time for his involvement.
+
+Holding Gabe at gunpoint, the group trek through the woods. When Pat hears Darcy and his men staging the deaths, he and Amber go after them. Gabe volunteers to go into a farm and call the police. Pat and Amber kill Clark and another skinhead. Fleeing, Darcy pulls a revolver from his jacket but is shot dead by Pat and Amber. The two sit on the side of the road and wait for the police.
+
+==Cast==
+{{castlist|
+* [[Anton Yelchin]] as Pat, the bassist of the Ain't Rights
+* [[Imogen Poots]] as Amber, Emily's friend 
+* [[Alia Shawkat]] as Sam, the guitarist of the Ain't Rights
+* [[Joe Cole (actor)|Joe Cole]] as Reece, the drummer of the Ain't Rights
+* [[Callum Turner]] as Tiger, the singer of the Ain't Rights
+* [[Patrick Stewart]] as Darcy Banker, the leader of the skinheads 
+* [[Mark Webber (actor)|Mark Webber]] as Daniel, a skinhead and Tad's cousin in a relationship with Emily 
+* [[Eric Edelstein]] as Big Justin, a skinhead bouncer
+* [[Macon Blair]] as Gabe, a skinhead and club employee
+* Kai Lennox as Clark, a skinhead and [[Dog fighting|dogfight]] breeder
+* [[David W. Thompson]] as Tad, a radio host and promoter
+* Brent Werzner as Werm, a member of Cowcatcher
+* Taylor Tunes as Emily, a skinhead and Amber's friend
+* Samuel Summer as Jonathan, a skinhead
+* Mason Knight as Kyle, a skinhead
+* Colton Ruscheinsky as Alan, a skinhead
+* Jacob Kasch as the bartender
+* Thomas Bell as man with cell phone
+}}
+
+==Production==
+The film came from Saulnier's desire to create a thriller set in a green room, calling the idea "an obsession".<ref name="slashfilmfirstpage"/>  Saulnier created a short film set in one as part of a 48-hour film challenge in 2007 which involved the [[supernatural]] and according to Saulnier was "Really kind of fun and hammy." However, he still wanted a chance to do his green room movie "the right way".<ref name="slashfilmfirstpage">{{cite web|last1=Hall|first1=Jacob|title=Interview: 'Green Room' Director Jeremy Saulnier on Patrick Stewart, Inept Heroes, and "Full-Frontal Gore"|url=http://www.slashfilm.com/green-room-jeremy-saulnier-interview/|website=Slashfilm|date=April 13, 2016|access-date=26 July 2016|page=1|archive-date=July 18, 2016|archive-url=https://web.archive.org/web/20160718073056/http://www.slashfilm.com/green-room-jeremy-saulnier-interview/|url-status=live}}</ref> Although the film features a large amount of violence and what Saulnier calls "full frontal gore", he has gone on record as stating that it is not "sadistic", and that every act of violence apart from the initiating incident is done with a reason.<ref name="slashfilmpagetwo"/>  As such Saulnier made sure that there were no "gratuitous close ups" of recently deceased characters.<ref name="slashfilmpagetwo">{{cite web|last1=Hall|first1=Jacob|title=Interview: 'Green Room' Director Jeremy Saulnier on Patrick Stewart, Inept Heroes, and "Full-Frontal Gore"|url=http://www.slashfilm.com/green-room-jeremy-saulnier-interview/2/|website=Slashfilm|date=April 13, 2016|access-date=26 July 2016|archive-date=July 18, 2016|archive-url=https://web.archive.org/web/20160718071639/http://www.slashfilm.com/green-room-jeremy-saulnier-interview/2/|url-status=live}}</ref>
+
+On May 22, 2014, it was announced that [[Broad Green Pictures]] would finance and produce the film directed and written by Jeremy Saulnier, with Film Science.<ref name=BroadGreenPictures>{{cite news|last1=McNary|first1=Dave|title='Blue Ruin' Director Gets Financing for Thriller 'Green Room'|url=https://variety.com/2014/film/news/cannes-blue-ruin-director-gets-financing-for-thriller-green-room-1201188711/|access-date=October 30, 2014|work=[[Variety (magazine)|Variety]]|date=May 22, 2014|archive-date=September 26, 2024|archive-url=https://web.archive.org/web/20240926212916/https://variety.com/2014/film/news/cannes-blue-ruin-director-gets-financing-for-thriller-green-room-1201188711/|url-status=live}}</ref> Anish Savjani, [[Neil Kopp]] and Victor Moyers would produce the film.<ref name="BroadGreenPictures" /> On October 16, [[Anton Yelchin]] and [[Imogen Poots]] joined the lead cast of the film, along with [[Alia Shawkat]], [[Callum Turner]], [[Joe Cole (actor)|Joe Cole]], Macon Blair and [[Mark Webber (actor)|Mark Webber]].<ref>{{cite news|last1=Kit|first1=Borys|title=Anton Yelchin and Imogen Poots to Star in Thriller 'Green Room'|url=https://hollywoodreporter.com/heat-vision/anton-yelchin-imogen-poots-star-741561|access-date=October 30, 2014|work=The Hollywood Reporter|date=October 16, 2014|archive-date=October 20, 2014|archive-url=https://web.archive.org/web/20141020031522/http://www.hollywoodreporter.com/heat-vision/anton-yelchin-imogen-poots-star-741561|url-status=live}}</ref> On October 21, [[Patrick Stewart]] was added to the cast to play Darcy Banker, the leader of a violent [[white supremacist]] group,<ref name=TheWrap>{{cite news|last1=Sneider|first1=Jeff|title=Patrick Stewart to Play White Supremacist in Crime Thriller 'Green Room'|url=https://thewrap.com/patrick-stewart-to-play-white-supremacist-in-crime-thriller-green-room-exclusive/|access-date=October 30, 2014|publisher=thewrap.com|date=October 21, 2014|archive-date=October 24, 2014|archive-url=https://web.archive.org/web/20141024202447/http://www.thewrap.com/patrick-stewart-to-play-white-supremacist-in-crime-thriller-green-room-exclusive/|url-status=live}}</ref> while other cast includes Kai Lennox, [[Eric Edelstein]] and Taylor Tunes.<ref name="TheWrap" />
+
+===Filming===
+[[Principal photography]] began in October 2014 in [[Portland, Oregon]].<ref>{{cite news|last1=Baker|first1=Jeff|title=Patrick Stewart is in Portland filming a movie with Anton Yelchin|url=http://www.oregonlive.com/movies/index.ssf/2014/10/patrick_stewart_is_in_portland.html|access-date=October 30, 2014|publisher=oregonlive.com|date=October 29, 2014|archive-date=August 4, 2016|archive-url=https://web.archive.org/web/20160804211938/http://www.oregonlive.com/movies/index.ssf/2014/10/patrick_stewart_is_in_portland.html|url-status=live}}</ref><ref>{{cite news|title=Patrick Stewart begins filming the crime thriller "Green Room" in Portland, OR|url=http://www.onlocationvacations.com/2014/10/29/patrick-stewart-begins-filming-the-crime-thriller-green-room-in-portland-or/|access-date=October 30, 2014|publisher=onlocationvacations.com|date=October 29, 2014|archive-date=September 27, 2020|archive-url=https://web.archive.org/web/20200927005444/https://onlocationvacations.com/2014/10/29/patrick-stewart-begins-filming-the-crime-thriller-green-room-in-portland-or/|url-status=dead}}</ref> The location for Tad's house was in [[Astoria, Oregon]], on the Oregon coast, and the forest scenes were filmed in the [[Mount Hood National Forest]].<ref>{{cite web|url=http://www.koernercamera.com/blog/2016/4/12/green-room|work=Koerner Camera Systems|title=Green Room|date=April 12, 2016|access-date=April 15, 2016|archive-date=April 25, 2016|archive-url=https://web.archive.org/web/20160425085553/http://www.koernercamera.com/blog/2016/4/12/green-room|url-status=dead}}</ref> Filming concluded in late November 2014.<ref>{{Cite tweet |user=saulnier_jeremy |number=538487506841264128 |title=Back on the grid. Production wrap on @greenroomfilm and yummy meat hangover. Grateful as can be.}}</ref>
+
+===Music===
+Saulnier, who used to play in a [[hardcore punk]] band called No Turn on Fred,<ref>{{cite news |last1=Eisenberg |first1=Ophira |title=Alia Shawkat And Jeremy Saulnier: In The 'Green Room' |url=https://www.npr.org/2016/04/19/476154880/alia-shawkat-and-jeremy-saulnier-in-the-green-room |access-date=March 3, 2021 |work=[[Ask Me Another (radio program)|Ask Me Another]] |publisher=[[NPR]] |date=April 29, 2016 |archive-date=April 2, 2022 |archive-url=https://web.archive.org/web/20220402210344/https://www.npr.org/2016/04/19/476154880/alia-shawkat-and-jeremy-saulnier-in-the-green-room |url-status=live }}</ref> wanted the film to "stand the test of real musicians scrutinizing every frame".<ref>{{cite news |last1=McDermott |first1=Patrick D. |title=''Green Room'' Is Punk Because It Doesn't Really Try To Be |url=https://www.thefader.com/2016/04/26/green-room-movie-jeremy-saulnier-interview |access-date=March 3, 2021 |work=[[The Fader]] |date=April 26, 2016 |archive-date=September 26, 2024 |archive-url=https://web.archive.org/web/20240926212817/https://www.thefader.com/2016/04/26/green-room-movie-jeremy-saulnier-interview |url-status=live }}</ref> He enlisted [[Hutch Harris]] of American [[indie rock]] band [[The Thermals]] to teach the actors the musical parts that they would be performing onscreen.<ref>{{cite news |last1=Harris |first1=Hutch |title=The Ain't Rights are All Right: Four Days in the Green Room |url=https://www.talkhouse.com/aint-rights-right-four-days-green-room/ |access-date=March 3, 2021 |work=[[Talkhouse]] |date=June 7, 2016 |archive-date=September 26, 2024 |archive-url=https://web.archive.org/web/20240926212819/https://www.talkhouse.com/aint-rights-right-four-days-green-room/ |url-status=live }}</ref> The film's soundtrack is largely populated by [[Heavy metal music|heavy metal]] artists like Midnight rather than [[White power music|white nationalist bands]]. Saulnier says that he wanted the club to have more of a [[Motörhead]]-like atmosphere, and that he had no intention of financially supporting white nationalist artists.<ref>{{cite news |last1=Yanick |first1=Joe |title=Director Jeremy Saulnier Talks About Getting the Punks-Versus-Skins Dynamic Right in 'Green Room' |url=https://www.vice.com/en/article/green-room-jeremy-saulnier-interview/ |access-date=March 3, 2021 |work=Noisey |publisher=VICE |date=April 11, 2016 |archive-date=December 7, 2022 |archive-url=https://web.archive.org/web/20221207061214/https://www.vice.com/en/article/rgpeg7/green-room-jeremy-saulnier-interview |url-status=live }}</ref>
+
+In addition to the songs appearing on the soundtrack, ''Green Room'' features several other punk and metal tracks, including [[Fear (band)|Fear]]'s "[[Have Another Beer with FEAR|Legalize Drugs]]" (1995), [[Napalm Death]]'s "[[Harmony Corruption|Suffer the Children]]" (1990), [[Obituary (band)|Obituary]]'s "[[Inked in Blood|Paralyzed with Fear]]" (2014), [[Poison Idea]]'s "Taken By Surprise" (1990), [[Slayer]]'s "[[Seasons in the Abyss|War Ensemble]]" (1990), and [[Bad Brains]]' "[[Rock for Light|Right Brigade]]" (1982).<ref>{{cite news |last1=Fischer |first1=Russ |title=Crossover: Eight Great Punk and Metal Songs In GREEN ROOM |url=https://birthmoviesdeath.com/2016/05/05/crossover-eight-great-punk-and-metal-songs-in-green-room |access-date=March 4, 2021 |work=Birth. Movies. Death. |date=May 5, 2016}}</ref>
+
+{{Infobox album
+| name       = Green Room (Original Soundtrack Album)
+| type       = soundtrack
+| artist     = various artists
+| cover      = Green Room Soundtrack.jpg
+| alt        =
+| released   = {{start date|2016|4|15}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      = [[Punk rock]]
+| length     = 59:47
+| label      = [[Milan Records]]
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+{{Track listing
+| headline = ''Green Room (Original Soundtrack Album)''<ref>{{cite news |last1=Davis |first1=Edward |title=Exclusive: Listen To 3 Soundtrack Cuts From Jeremy Saulnier's 'Green Room' Plus Full Release Details |url=https://www.indiewire.com/2016/03/exclusive-listen-to-3-soundtrack-cuts-from-jeremy-saulniers-green-room-plus-full-release-details-259494/ |access-date=March 4, 2021 |work=[[IndieWire]] |date=March 22, 2016 |archive-date=May 6, 2021 |archive-url=https://web.archive.org/web/20210506200757/https://www.indiewire.com/2016/03/exclusive-listen-to-3-soundtrack-cuts-from-jeremy-saulniers-green-room-plus-full-release-details-259494/ |url-status=live }}</ref>
+| extra_column = Artist(s)
+
+| title1 = Weapons Ready
+| writer1 = {{hlist|Brooke Blair|Will Blair}}
+| extra1 = Brooke Blair and Will Blair
+| length1 = 2:17
+
+| title2 = What Have I Become?
+| writer2 = {{hlist|Benjamin Macensky|Ezra Mihalcin|Matt Mihalcin}}
+| extra2 = The Ain't Rights
+| length2 = 2:19
+
+| title3 = Corpus Rottus
+| writer3 = Corpus Rottus
+| extra3 = Corpus Rottus
+| length3 = 3:02
+
+| title4 = Oregon Coast
+| writer4 = {{hlist|Brooke Blair|Will Blair}}
+| extra4 = Brooke Blair and Will Blair
+| length4 = 0:50
+
+| title5 = Balefire
+| writer5 = {{hlist|Brooke Blair|Will Blair}}
+| extra5 = Brooke Blair and Will Blair
+| length5 = 0:51
+
+| title6 = Prowling Leather
+| writer6 = Jamie Walters
+| extra6 = Midnight
+| length6 = 3:38
+
+| title7 = [[Nazi Punks Fuck Off]]
+| writer7 = {{hlist|[[Dead Kennedys|Darren Henley]]|[[Jello Biafra|Eric Boucher]]|[[Klaus Flouride|Geoffrey Lyall]]|[[East Bay Ray|Raymond Pepperell]]}}
+| extra7 = The Ain't Rights
+| length7 = 1:07
+
+| title8 = Red Laces
+| writer8 = {{hlist|Brooke Blair|Will Blair}}
+| extra8 = Brooke Blair and Will Blair
+| length8 = 2:00
+
+| title9 = Pour A Floor
+| writer9 = {{hlist|Brooke Blair|Will Blair}}
+| extra9 = Brooke Blair and Will Blair
+| length9 = 2:38
+
+| title10 = Blades And Fangs
+| writer10 = {{hlist|Brooke Blair|Will Blair}}
+| extra10 = Brooke Blair and Will Blair
+| length10 = 3:15
+
+| title11 = Coronary
+| writer11 = Sam Jones
+| extra11 = The Ain't Rights
+| length11 = 3:03
+
+| title12 = Inevitable Failure
+| writer12 = Hochstedder
+| extra12 = Hochstedder
+| length12 = 3:13
+
+| title13 = Mosh Pit
+| writer13 = {{hlist|Brooke Blair|Will Blair}}
+| extra13 = Brooke Blair and Will Blair
+| length13 = 0:55
+
+| title14 = Mopping Up
+| writer14 = {{hlist|Brooke Blair|Will Blair}}
+| extra14 = Brooke Blair and Will Blair
+| length14 = 2:18
+
+| title15 = Let's Pretend
+| writer15 = {{hlist|Brooke Blair|Will Blair}}
+| extra15 = Brooke Blair and Will Blair
+| length15 = 3:10
+
+| title16 = Savage Pressure
+| writer16 = Battletorn
+| extra16 = Battletorn
+| length16 = 1:04
+
+| title17 = Takin' Out The Trash
+| writer17 = {{hlist|Christian Blunda|Patsy Gelb}}
+| extra17 = Patsy's Rats
+| length17 = 3:17
+
+| title18 = Melted
+| writer18 = {{hlist|Christian Blunda|Patsy Gelb}}
+| extra18 = Patsy's Rats
+| length18 = 2:44
+
+| title19 = Odin Himself
+| writer19 = {{hlist|Brooke Blair|Will Blair}}
+| extra19 = Brooke Blair and Will Blair
+| length19 = 6:10
+
+| title20 = Fresh Air
+| writer20 = {{hlist|Brooke Blair|Will Blair}}
+| extra20 = Brooke Blair and Will Blair
+| length20 = 1:38
+
+| title21 = The Residence
+| writer21 = {{hlist|Brooke Blair|Will Blair}}
+| extra21 = Brooke Blair and Will Blair
+| length21 = 3:10
+
+| title22 = We Need The Police
+| writer22 = {{hlist|Brooke Blair|Will Blair}}
+| extra22 = Brooke Blair and Will Blair
+| length22 = 1:46
+
+| title23 = [[Green River (album)|Sinister Purpose]]
+| writer23 = [[John Fogerty|John Cameron Fogerty]]
+| extra23 = [[Creedence Clearwater Revival]]
+| length23 = 3:20
+
+| title24 = Toxic Evolution
+| writer24 = Sam Jones
+| extra24 = The Ain't Rights
+| length24 = 2:02
+
+| total_length = 59:47
+}}
+
+==Release==
+[[File:Anton Yelchin TIFF 2015.jpg|thumb|upright|Actor [[Anton Yelchin]] at the [[2015 Toronto International Film Festival]] premiere of ''Green Room''. It was his last feature film released while he was alive.]]
+On October 29, 2014, WestEnd Films acquired the international rights to the film.<ref>{{cite news|last1=Barraclough|first1=Leo|title=AFM: WestEnd Films Adds 'Green Room' to Slate|url=https://variety.com/2014/film/news/afm-westend-films-adds-green-room-to-slate-1201342200/|access-date=October 30, 2014|work=[[Variety (magazine)|Variety]]|date=October 29, 2014|archive-date=September 26, 2024|archive-url=https://web.archive.org/web/20240926212818/https://variety.com/2014/film/news/afm-westend-films-adds-green-room-to-slate-1201342200/|url-status=live}}</ref> The film had its world premiere at the [[Cannes Film Festival]] on May 17, 2015.<ref name=VarietyReview /> Shortly after, it was announced [[A24]] had acquired distribution rights to the film.<ref>{{cite web|url=https://variety.com/2015/film/news/green-room-a24-patrick-stewart-1201573676/|title='Green Room':A24 Buys Patrick Stewart Thriller|work=Variety|first=Dave|last=McNary|date=August 19, 2015|access-date=October 10, 2015|archive-date=October 6, 2015|archive-url=https://web.archive.org/web/20151006114837/http://variety.com/2015/film/news/green-room-a24-patrick-stewart-1201573676/|url-status=live}}</ref> The film screened on opening night of the [[2015 Toronto International Film Festival]], on September 10, 2015.<ref>{{cite web|url=https://variety.com/2015/film/news/toronto-film-fest-docs-midnight-slate-green-room-charlie-hebdo-1201567389/|title=Toronto Film Fest Documentary, Midnight Movies Lineup Revealed|work=Variety|first=Jennie|last=Punter|date=August 11, 2015|access-date=October 10, 2015|archive-date=September 26, 2024|archive-url=https://web.archive.org/web/20240926212819/https://variety.com/2015/film/news/toronto-film-fest-docs-midnight-slate-green-room-charlie-hebdo-1201567389/|url-status=live}}</ref>
+
+The film was originally to open in a [[limited release]] on April 1, 2016, before opening in a [[wide release]] on April 15, 2016.<ref name=release>{{cite web|url=https://www.thewrap.com/a24-to-release-anton-yelchins-neo-nazi-thriller-green-room-on-april-fools-day/|title=A24 to release Anton Yelchin's Neo-Nazi Thriller 'Green Room' on April Fools Day|work=The Wrap|first=Jeff|last=Sneider|date=October 5, 2015|access-date=October 10, 2015|archive-date=October 3, 2023|archive-url=https://web.archive.org/web/20231003175606/https://www.thewrap.com/a24-to-release-anton-yelchins-neo-nazi-thriller-green-room-on-april-fools-day/|url-status=live}}</ref> However, it was moved to April 15, in limited release, and May 13 wide.<ref name="Jaugernath"/>
+
+===Home media===
+Lionsgate, as the home media distributor of A24 releases, released ''Green Room'' on [[Blu-ray]] and [[DVD]] on July 12, 2016.<ref>{{cite web|work=[[DVD Talk]]|url=https://www.dvdtalk.com/reviews/70876/green-room/|title=Green Room (Blu-ray)|author=Jane, Ian|date=June 25, 2016|archive-url=https://archive.today/20190930012433/https://www.dvdtalk.com/reviews/70876/green-room/|archive-date=September 30, 2019|url-status=live|access-date=September 30, 2019}}</ref> The end credits of the film's home media and subsequent releases feature an addended dedication to the memory of star Yelchin, who died on June 19, 2016.<ref>{{cite AV media|title=Green Room|publisher=Broad Green Pictures|medium=[[Blu-ray]]|year=2016}} End credits read: "''In loving memory of our friend, Anton.''"</ref>
+
+==Reception==
+===Box office===
+''Green Room'' opened at #30 in its limited release, premiering in 3 theaters, earning $87,984. In its official wide release, the film premiered at 777 theaters, taking the #16 rank on opening weekend, and grossing $547,031 in North America.<ref name="mojo" /> It grossed a total of $3.8 million worldwide.<ref name="numbers">{{cite web |title=Green Room (2016) – Financial Information |url=https://www.the-numbers.com/movie/Green-Room-(2015)#tab=summary |website=The Numbers }}</ref>
+
+===Critical response===
+On [[review aggregator]] website [[Rotten Tomatoes]] the film holds an approval rating of 90% based on 250 reviews, with an average rating of 7.7/10. The site's critical consensus reads: "''Green Room'' delivers unapologetic genre thrills with uncommon intelligence and powerfully acted élan."<ref name="GreenRottenTomatoes">{{cite web|url=https://www.rottentomatoes.com/m/green_room_2016/|title=''Green Room (2016)''|work=[[Rotten Tomatoes]]|publisher=[[Fandango Media]]|access-date=January 23, 2022|archive-date=September 26, 2024|archive-url=https://web.archive.org/web/20240926214916/https://www.rottentomatoes.com/m/green_room_2016|url-status=live}}</ref> [[Metacritic]] gave it a weighted average score of 79 out of 100, based on 42 critics, indicating "generally favorable" reviews.<ref>{{cite web|url=https://www.metacritic.com/movie/green-room|title=''Green Room''|work=[[Metacritic]]|publisher=[[CBS Interactive]]|access-date=October 24, 2019|archive-date=February 19, 2020|archive-url=https://web.archive.org/web/20200219181239/https://www.metacritic.com/movie/green-room|url-status=live}}</ref>
+
+[[Richard Roeper]] of the ''[[Chicago Sun-Times]]'' praised Patrick Stewart, Imogen Poots, Alia Shawkat and Macon Blair's performances and called the film "a wonderfully nasty, gruesome, jagged-edge gem of a horror film" that has "first-rate" cinematography, set design, soundtrack, and editing.<ref>{{cite web|url=http://chicago.suntimes.com/news/green-room-punk-bands-gig-turns-truly-hardcore-in-horror-gem/|title='Green Room': Punk band's gig turns truly hardcore in horror gem|last=Roeper|first=Richard|work=[[Chicago Sun-Times]]|date=April 18, 2016|access-date=February 5, 2017|archive-url=https://web.archive.org/web/20170206022501/http://chicago.suntimes.com/news/green-room-punk-bands-gig-turns-truly-hardcore-in-horror-gem/|archive-date=February 6, 2017|url-status=dead}}</ref> Barry Hertz of ''[[The Globe and Mail]]'' awarded it a full four stars and wrote, "Jeremy Saulnier (Murder Party, Blue Ruin) continues one of the best streaks in independent horror with this terrifying and inventive thriller."<ref>{{cite news|url=https://www.theglobeandmail.com/arts/film/film-reviews/green-room-is-a-delightfully-cruel-work-of-high-tension/article29786494/|title=Green Room is a delightfully cruel work of high tension|last=Hertz|first=Barry|work=[[The Globe and Mail]]|date=April 29, 2016|access-date=February 6, 2017|archive-date=February 6, 2017|archive-url=https://web.archive.org/web/20170206105638/http://www.theglobeandmail.com/arts/film/film-reviews/green-room-is-a-delightfully-cruel-work-of-high-tension/article29786494/|url-status=live}}</ref> Lenika Cruz of ''[[The Atlantic]]'' said it's "a tense gore-fest, one that’s as grimy and claustrophobic as the titular room. But scrape off the scum, and you’ll find Green Room full of visual artistry, dark humor, smart writing, and glints of humanity".<ref>{{cite web|url=https://www.theatlantic.com/entertainment/archive/2016/04/green-room-jeremy-saulnier-review/479244/|title=Green Room: Escape From the Nazi Punks|last=Cruz|first=Lenika|work=[[The Atlantic]]|date=April 27, 2016|access-date=February 6, 2017|archive-date=February 6, 2017|archive-url=https://web.archive.org/web/20170206104648/https://www.theatlantic.com/entertainment/archive/2016/04/green-room-jeremy-saulnier-review/479244/|url-status=live}}</ref> ''[[IGN]]'' awarded it a score of 9 out of 10, saying, "This follow-up to the brilliant ''[[Blue Ruin]]'' pits a rock band against white supremacists with ace, ultra-violent results."<ref>Singer, Leigh (May 18, 2015).  [https://uk.ign.com/articles/2015/05/18/green-room-review "Green Room Review."] {{Webarchive|url=https://web.archive.org/web/20191113053657/https://uk.ign.com/articles/2015/05/18/green-room-review |date=November 13, 2019 }}  ''[[IGN]]''.  Retrieved February 2, 2016.</ref>
+
+Jeffrey Bloomer of ''[[Slate (magazine)|Slate]]'' favorably compared the film's "genre maturity", "amoral survivalism and malleable sense of good and evil", "brutal efficiency" and "weary humor" to [[John Carpenter]]'s ''[[Assault on Precinct 13 (1976 film)|Assault on Precinct 13]]'' and praised the cast, writing "If the world knows any justice[...] then the Screen Actors Guild will remember this cast when it doles out its awards next year".<ref>{{cite web|url=http://www.slate.com/articles/arts/movies/2016/04/green_room_reviewed_a_bloody_funny_ensemble_thriller.html|title=Green Room reviewed: A bloody, funny ensemble thriller.|last=Bloomer|first=Jeffrey|work=[[Slate (magazine)|Slate]]|date=April 15, 2016|access-date=February 7, 2017|archive-date=February 6, 2017|archive-url=https://web.archive.org/web/20170206142952/http://www.slate.com/articles/arts/movies/2016/04/green_room_reviewed_a_bloody_funny_ensemble_thriller.html|url-status=live}}</ref> [[James Berardinelli]] concludes the film is "for anyone who enjoys sitting through 90 tense minutes and feeling the attendant adrenaline rush. It’s like a well-constructed horror movie" that's "As intimate as it is unnerving".<ref>{{cite web|url=http://www.reelviews.net/reelviews/green-room|title=Green Room (United States, 2016)|last=Berardinelli|first=James|work=reelviews.net|date=April 28, 2016|access-date=February 6, 2017|archive-date=February 6, 2017|archive-url=https://web.archive.org/web/20170206110851/http://www.reelviews.net/reelviews/green-room|url-status=live}}</ref> Guy Lodge of ''[[Variety (magazine)|Variety]]'' called it "a technically sharp backwoods horror-thriller that lacks a human element".<ref name=VarietyReview>{{cite web|url=https://variety.com/2015/film/festivals/green-room-review-1201498852/|title=Cannes Film Review: 'Green Room'|last=Lodge|first=Guy|work=[[Variety (magazine)|Variety]]|date=May 17, 2015|access-date=June 23, 2015|archive-date=May 17, 2015|archive-url=https://web.archive.org/web/20150517190120/https://variety.com/2015/film/festivals/green-room-review-1201498852/|url-status=live}}</ref>  Leslie Felperin of ''[[The Hollywood Reporter]]'' wrote that it's entertaining but "less disciplined, less original and less memorable work than ''[[Blue Ruin]]''".<ref>{{cite web|url=https://hollywoodreporter.com/review/green-room-cannes-review-796288|title='Green Room': Cannes Review|last=Felperin|first=Leslie|work=[[The Hollywood Reporter]]|date=May 17, 2015|access-date=June 23, 2015|archive-date=June 24, 2015|archive-url=https://web.archive.org/web/20150624071203/http://www.hollywoodreporter.com/review/green-room-cannes-review-796288|url-status=live}}</ref>
+
+===Top ten lists===
+''Green Room'' was listed on many film critics' top ten yearly lists.<ref name="metacritic">{{cite web|url=https://metacritic.com/feature/film-critics-list-the-top-10-movies-of-2016|title=Film Critic Top 10 Lists – Best Movies of 2016|work=Metacritic|access-date=February 5, 2017|archive-date=December 14, 2016|archive-url=https://web.archive.org/web/20161214201243/http://www.metacritic.com/feature/film-critics-list-the-top-10-movies-of-2016?|url-status=dead}}</ref>
+
+{{div col|colwidth=30em}}
+* 2nd&nbsp;– Josh Bell, ''[[Las Vegas Weekly]]''<ref name=metacritic />
+* 3rd&nbsp;– Nick Schager, ''[[Esquire (magazine)|Esquire]]''<ref name=metacritic />
+* 3rd&nbsp;– Jesse Hassenger, ''[[The A.V. Club]]''<ref name=metacritic />
+* 4th&nbsp;– Eric D. Snider, ''[[Salt Lake City Weekly]]''<ref name=metacritic />
+* 4th&nbsp;– A.A. Dowd, ''[[The A.V. Club]]''<ref name=metacritic />
+* 4th&nbsp;– Katie Rife, ''[[The A.V. Club]]''<ref name=metacritic />
+* 4th&nbsp;– Rob Hunter, ''[[Film School Rejects]]''<ref name=metacritic />
+* 5th&nbsp;– Steve Davis, ''[[The Austin Chronicle]]''<ref name=metacritic />
+* 5th&nbsp;– Noel Murray, ''[[The A.V. Club]]''<ref name=metacritic />
+* 5th&nbsp;– Jacob Oller, ''[[RogerEbert.com]]''<ref name=metacritic />
+* 5th&nbsp;– Alan Zilberman, ''[[RogerEbert.com]]''<ref name=metacritic />
+* 6th&nbsp;– Andrew Wright, ''[[Salt Lake City Weekly]]''<ref name=metacritic />
+* 6th&nbsp;– Mark Dujsik, ''[[RogerEbert.com]]''<ref name=metacritic />
+* 7th&nbsp;– Marc Doyle, ''[[Metacritic]]''<ref name=metacritic />
+* 7th&nbsp;– Haleigh Foutch, ''[[Collider (website)|Collider]]''<ref name=metacritic />
+* 7th&nbsp;– Jen Yamato, ''[[The Daily Beast]]''<ref name=metacritic />
+* 7th&nbsp;– Sean Mulvihill, ''[[RogerEbert.com]]''<ref name=metacritic />
+* 8th&nbsp;– David Chen, ''[[/Film]]''<ref name=metacritic />
+* 8th&nbsp;– Jacob Hall, ''[[/Film]]''<ref name=metacritic />
+* 9th&nbsp;– Josh Kupecki, ''[[The Austin Chronicle]]''<ref name=metacritic />
+* 9th&nbsp;– Robert Horton, ''[[Seattle Weekly]]''<ref name=metacritic />
+* 9th&nbsp;– Jason Bailey, ''[[Flavorwire]]''<ref name=metacritic />
+* 10th&nbsp;– Vince Mancini, ''[[Uproxx]]''<ref name=metacritic />
+{{div col end}}
+
+===Accolades=== 
+{| class="wikitable sortable"
+|-
+! scope="col"| Year
+! scope="col"| Award
+! scope="col"| Category
+! scope="col"| Recipient(s)
+! scope="col"| Result
+! scope="col" class="unsortable"| {{Ref heading}}
+|-
+|rowspan="8"| 2015
+|rowspan="3"| [[Neuchâtel International Fantastic Film Festival]]
+| H.R. Giger «Narcisse» Award
+| ''Green Room''
+| {{won}}
+|rowspan="3" style="text-align:center;"| <ref name="NIFFF">{{cite web|title=PALMARES 2015|url=http://www.nifff.ch/site/fr/le-festival/archives&year=2015|publisher=Neuchâtel International Fantastic Film Festival|access-date=July 7, 2017}}{{Dead link|date=July 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| Audience Award
+| ''Green Room''
+| {{won}}
+|-
+| Denis-de-Rougemont Youth Award
+| ''Green Room''
+| {{won}}
+|-
+| [[2015 Deauville American Film Festival|Deauville Film Festival]]
+| Grand Prix
+| ''Green Room''
+| {{nom}}
+| style="text-align:center;"| <ref name="DAFF">{{cite web|url=https://variety.com/2015/film/global/michael-shannon-starrer-99-homes-wins-deauville-grand-prize-1201592033/|title=Michael Shannon Starrer '99 Homes' Wins Deauville Grand Prize|date=September 12, 2015|access-date=September 12, 2015|archive-date=December 29, 2017|archive-url=https://web.archive.org/web/20171229052426/https://variety.com/2015/film/global/michael-shannon-starrer-99-homes-wins-deauville-grand-prize-1201592033/|url-status=live}}</ref>
+|-
+| [[2015 Toronto International Film Festival|Toronto International Film Festival]]
+| Grolsch People's Choice Midnight Madness Award
+| ''Green Room''
+| {{draw|3rd place}}
+| style="text-align:center;"| <ref name="TIFF 2015">{{cite news|title=Toronto film festival 2015: full lineup|url=https://www.theguardian.com/film/2015/jul/28/toronto-film-festival-2015-full-lineup|newspaper=[[The Guardian]]|access-date=July 7, 2017|archive-date=September 26, 2024|archive-url=https://web.archive.org/web/20240926212924/https://www.theguardian.com/film/2015/jul/28/toronto-film-festival-2015-full-lineup|url-status=live}}</ref>
+|-
+| [[Austin Fantastic Fest]]
+| Audience Award
+| ''Green Room''
+| {{won|1st place}}
+| style="text-align:center;"| <ref name="AFF">{{cite web|title=Announcing The 2015 Fantastic Fest Jury Winners!|url=http://fantasticfest.com/news/entry/announcing-the-2015-fantastic-fest-jury-winners|publisher=[[Austin Fantastic Fest]]|access-date=July 7, 2017|archive-date=October 4, 2015|archive-url=https://web.archive.org/web/20151004023959/http://fantasticfest.com/news/entry/announcing-the-2015-fantastic-fest-jury-winners|url-status=dead}}</ref>
+|-
+| [[Festival du nouveau cinéma]]
+| Temps Ø People's Choice Award
+| ''Green Room''
+| {{won}}
+| style="text-align:center;"| <ref name="FDNC">{{cite web|title=Festival du nouveau cinéma – AWARDS & PRIZES – 44th edition|url=http://www.nouveaucinema.ca/en/news/news/awards-prizes-44th-edition|publisher=Festival du nouveau cinéma|access-date=July 7, 2017|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706055847/http://www.nouveaucinema.ca/en/news/news/awards-prizes-44th-edition|url-status=dead}}</ref>
+|-
+| [[IndieWire|IndieWire Critics' Poll]]
+| Most Anticipated Film of 2016
+| ''Green Room''
+| {{draw|3rd place}}
+| style="text-align:center;"| <ref name="IW 2015">{{cite web|title=IndieWire Critics' Poll 2015 – Mubi|url=https://mubi.com/awards-and-festivals/indiewire?year=2015|publisher=[[Mubi (streaming service)|Mubi]]|access-date=July 7, 2017|archive-date=November 19, 2020|archive-url=https://web.archive.org/web/20201119214848/https://mubi.com/awards-and-festivals/indiewire?year=2015|url-status=live}}</ref>
+|-
+|rowspan="9"| 2016
+|rowspan="3"| BloodGuts UK Horror Awards
+| Best Original Film
+| ''Green Room''
+| {{nom}}
+| style="text-align:center;"| <ref name="BloodGutsUK">{{cite web|title=BloodGuts UK Horror Awards 2016 – The Films|url=http://www.bloodguts.co.uk/bloodguts-awards-2016---the-films|publisher=BloodGuts|access-date=July 7, 2017|archive-date=March 15, 2017|archive-url=https://web.archive.org/web/20170315174938/http://www.bloodguts.co.uk/bloodguts-awards-2016---the-films|url-status=dead}}</ref>
+|-
+| Best Actor
+| [[Anton Yelchin]]
+| {{nom}}
+| style="text-align:center;"| <ref name="BloodGuts">{{cite web|title=BloodGuts UK Horror Awards 2016 – The Stars|url=http://www.bloodguts.co.uk/bloodguts-awards-2016---the-stars|publisher=BloodGuts|access-date=July 7, 2017|archive-url=https://web.archive.org/web/20170213163804/http://www.bloodguts.co.uk/bloodguts-awards-2016---the-stars|archive-date=February 13, 2017|url-status=dead}}</ref>
+|-
+| Best Screenplay/Script
+| [[Jeremy Saulnier]]
+| {{nom}}
+| style="text-align:center;"| <ref name="BloodGutsuk">{{cite web|title=BloodGuts UK Horror Awards 2016 – The Extras|url=http://www.bloodguts.co.uk/bloodguts-awards-2016---the-extras|publisher=BloodGuts|access-date=July 7, 2017|archive-date=February 13, 2017|archive-url=https://web.archive.org/web/20170213164110/http://www.bloodguts.co.uk/bloodguts-awards-2016---the-extras|url-status=dead}}</ref>
+|-
+| [[National Board of Review Awards 2016|National Board of Review Awards]]
+| Top Ten Independent Films
+| ''Green Room''
+| {{Won}}
+| style="text-align:center;"| <ref>{{cite web |url=http://www.nationalboardofreview.org/award-years/2016/ |title=National Board of Review Announces 2016 Award Winners |work=[[National Board of Review]] |date=November 29, 2016 |access-date=November 29, 2016 |archive-date=January 9, 2017 |archive-url=https://web.archive.org/web/20170109201710/http://www.nationalboardofreview.org/award-years/2016/ |url-status=live }}</ref>
+|-
+|rowspan="5"| Fright Meter Awards
+| Best Horror Movie
+| ''Green Room''
+| {{nom}}
+|rowspan="5" style="text-align:center;"| <ref name="FrightMeter">{{cite web|title=2016 Fright Meter Award Winners|url=http://www.frightmeterawards.com/past-winners-of-fright-meter.php?sYr=2016|archive-url=https://web.archive.org/web/20170308184243/http://www.frightmeterawards.com/past-winners-of-fright-meter.php?sYr=2016|url-status=dead|archive-date=March 8, 2017|publisher=Fright Meter|access-date=July 7, 2017}}</ref>
+|-
+| Best Actor in a Leading Role
+| [[Anton Yelchin]]
+| {{nom}}
+|-
+| Best Supporting Actress
+| [[Imogen Poots]]
+| {{nom}}
+|-
+| Best Supporting Actor
+| [[Patrick Stewart]]
+| {{nom}}
+|-
+| Best Score
+| {{plainlist|
+* Brooke Blair
+* Will Blair}}
+| {{nom}}
+|-
+| rowspan="6"| 2017
+| rowspan="4"| [[2017 Fangoria Chainsaw Awards|Fangoria Chainsaw Awards]]
+| Best Film
+| ''Green Room''
+| {{nom}}
+| rowspan="4" style="text-align:center;"| <ref>{{cite web|title=Never mind Oscar, here's the 2017 FANGORIA Chainsaw Awards Nominees Ballot!|url=http://www.fangoria.com/new/never-mind-oscar-heres-the-2017-fangoria-chainsaw-awards-nominees-ballot/|website=FANGORIA®|access-date=14 February 2017|archive-date=August 6, 2017|archive-url=https://web.archive.org/web/20170806233824/http://fangoria.com/new/never-mind-oscar-heres-the-2017-fangoria-chainsaw-awards-nominees-ballot/|url-status=dead}}</ref>
+|-
+| Best Actor
+| Anton Yelchin
+| {{nom}}
+|-
+| Best Supporting Actor
+| Patrick Stewart
+| {{nom}}
+|-
+| Best Makeup & SFX
+| Wayne Eaton
+| {{won}}
+|-
+| [[22nd Empire Awards|Empire Awards]]
+| [[Empire Award for Best Horror|Best Horror]]
+| ''Green Room''
+| {{nom}}
+| style="text-align:center;"| <ref name="EmpireAwards">{{cite web |url=https://www.flickreel.com/star-wars-rogue-one-leads-empire-awards-2017-nominations/ |title=Star Wars: Rogue One Leads Empire Awards 2017 Nominations |first=Danny |last=Pape |publisher=Flickreel.com |date=February 7, 2017 |access-date=March 3, 2017 |archive-date=March 3, 2017 |archive-url=https://web.archive.org/web/20170303201956/https://www.flickreel.com/star-wars-rogue-one-leads-empire-awards-2017-nominations/ |url-status=live }}</ref>
+|-
+| Seattle Film Critics Awards
+| Best Villain
+| Patrick Stewart
+| {{nom}}
+| style="text-align:center;"| <ref name="Mubi">{{cite web|title=SEATTLE FILM CRITICS AWARDS 2017|url=https://mubi.com/awards-and-festivals/seattle-fcas?year=2017|publisher=[[Mubi (streaming service)|Mubi]]|access-date=July 8, 2017}}</ref>
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+* {{Official website|http://www.greenroom-movie.com/}}
+* {{IMDb title|4062536|Green Room}}
+* {{Mojo title|greenroom|Green Room}}
+* {{Rotten Tomatoes|green_room_2016|Green Room}}
+* {{Metacritic film|title=Green Room}}
+
+{{Jeremy Saulnier}}
+
+{{DEFAULTSORT:Green Room}}
+[[Category:2010s action horror films]]
+[[Category:2015 American films]]
+[[Category:2015 English-language films]]
+[[Category:2015 psychological horror films]]
+[[Category:2015 psychological thriller films]]
+[[Category:2015 films]]
+[[Category:2015 horror thriller films]]
+[[Category:2015 independent films]]
+[[Category:A24 (company) films]]
+[[Category:American horror thriller films]]
+[[Category:American independent films]]
+[[Category:American rock music films]]
+[[Category:American survival films]]
+[[Category:Broad Green Pictures films]]
+[[Category:English-language action horror films]]
+[[Category:English-language horror thriller films]]
+[[Category:English-language independent films]]
+[[Category:Films about hostage takings]]
+[[Category:Films about musical groups]]
+[[Category:Films about neo-Nazism]]
+[[Category:Films about torture]]
+[[Category:Films directed by Jeremy Saulnier]]
+[[Category:Films set in drinking establishments]]
+[[Category:Films set in Oregon]]
+[[Category:Films shot in Astoria, Oregon]]
+[[Category:Films shot in Portland, Oregon]]
+[[Category:Punk films]]
+[[Category:Siege films]]
+[[Category:Skinhead films]]

@@ -1,0 +1,123 @@
+{{About|the first episode of the revival limited series |the first episode of the original series|Pilot (Twin Peaks)|the first numbered episode of the original series|Episode 1 (Twin Peaks)}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=October 2017}}
+{{Infobox television episode
+| series       = [[Twin Peaks]]
+| image        = Sam_Colby_observes_the_Glass_Box.jpg
+| caption      = Sam Colby ([[Ben Rosenfield|Benjamin Rosenfield]]) observes the Glass Box in [[New York City]], as seen in the episode. The sequence has received much praise, with critics likening it to the episode itself<ref name="ew">{{Cite magazine |last=Jensen |first=Jeff |date=May 22, 2017 |title=Twin Peaks premiere recap: 'The Return: Parts 1 and 2' |url=https://ew.com/recap/twin-peaks-season-3-premiere/ |access-date=October 28, 2017 |magazine=Entertainment Weekly|archive-url=https://web.archive.org/web/20170522084851/https://ew.com/recap/twin-peaks-season-3-premiere/|archive-date=May 22, 2017}}</ref> and to the process of filmmaking.<ref name="AV">{{Cite web |last=Stephens |first=Emily L. |date=May 22, 2017 |title=In its nightmarish two-part return, Twin Peaks is pure Lynchian horror |url=https://www.avclub.com/in-its-nightmarish-two-part-return-twin-peaks-is-pure-1798196775 |access-date=October 28, 2017 |website=The A.V. Club}}</ref>
+| season       = 3
+| episode      = 1
+| director     = [[David Lynch]]
+| writer       = * David Lynch
+* [[Mark Frost]]
+| photographer = [[Peter Deming]]
+| editor       = [[Duwayne Dunham]]
+| airdate      = {{Start date|2017|5|21}}
+| length       = 58 minutes
+| guests       = * [[Jane Adams (actress, born 1965)|Jane Adams]] as Constance Talbot
+* Joseph M. Auger as Delivery Driver (Joe)
+* Melissa Bailey as Marjorie Green
+* [[Richard Beymer]] as [[Benjamin Horne]]
+* [[Michael Bisping]] as Guard
+* [[Brent Briscoe]] as Detective Dave Macklay
+* [[Bailey Chase]] as Detective Don Harrison
+* [[Catherine E. Coulson|Catherine Coulson]] as [[Log Lady|Margaret Lanterman / "The Log Lady"]]
+* James Croak as Robby
+* Kathleen Deming as Buella
+* Erica Eynon as Experiment Model
+* Allen Galli as Man in Suit
+* James Giordano as Officer Douglas
+* [[Harry Goaz]] as Deputy Sheriff [[List of Twin Peaks characters#Andy Brennan|Andy Brennan]]
+* George Griffith as Ray Monroe
+* [[Cornelia Guest]] as Phyllis Hastings
+* [[Michael Horse]] as Deputy Chief [[Tommy Hill (Twin Peaks)|Tommy "Hawk" Hill]]
+* [[Ashley Judd]] as Beverly Paige
+* [[David Patrick Kelly]] as [[List of Twin Peaks characters#Jerry Horne|Jerry Horne]]
+* Dep Kirkland as Police Chief Mike Boyd
+* [[Nicole LaLiberte]] as Darya
+* [[Sheryl Lee]] as [[Laura Palmer]]
+* [[Matthew Lillard]] as William Hastings
+* [[Christopher Murray (actor)|Christopher Murray]] as Officer Olson
+* [[Max Perlich]] as Hank Fillmore
+* [[Kimmy Robertson]] as [[List of Twin Peaks characters#Lucy Moran|Lucy Brennan]]
+* [[Ben Rosenfield|Benjamin Rosenfield]] as Sam Colby
+* Mary Stofle as Ruth Davenport
+* [[Carel Struycken]] as [[The Giant (Twin Peaks)|The Fireman]]{{efn|In the episode's credits, Struycken's character was listed as "???????". In "[[Part 14 (Twin Peaks)|Part 14]]", his name was revealed as "The Fireman".}}
+* [[Russ Tamblyn]] as [[List of Twin Peaks characters#Lawrence Jacoby|Dr. Lawrence Jacoby]]
+* Redford Westwood as Otis
+* [[Madeline Zima]] as Tracey Barberato
+| prev         = [[Episode 29 (Twin Peaks)|Episode 29]]
+| next         = [[Part 2 (Twin Peaks)|Part 2]]
+| episode_list = List of Twin Peaks episodes
+}}
+
+"'''Part 1'''", also known as "'''My Log Has a Message for You'''",{{efn|Episodes did not originally air with titles, but the promotional quotes for each episode were later used as titles in the Blu-ray release of this season}} is the first episode of the [[Twin Peaks season 3|third season]] of the American [[Surrealist cinema|surrealist]] [[Mystery fiction|mystery]] [[Horror fiction|horror]] [[Drama (film and television)|drama]] television series ''[[Twin Peaks]]''. It was written by series creators [[Mark Frost]] and [[David Lynch]], directed by Lynch, and stars [[Kyle MacLachlan]].
+
+"Part 1" was first broadcast on [[Showtime (TV network)|Showtime]], along with "[[Part 2 (Twin Peaks)|Part 2]]", on May 21, 2017, and was seen by an audience of 506,000 viewers in the United States.<ref name="Ratings">{{Cite web |last=Porter |first=Rick |date=May 23, 2017 |title=Sunday cable ratings: 'Twin Peaks' return comes in low for Showtime |url=http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-may-21-2017/ |url-status=dead |archive-url=https://web.archive.org/web/20170523182829/http://tvbythenumbers.zap2it.com/daily-ratings/sunday-cable-ratings-may-21-2017/ |archive-date=May 23, 2017 |access-date=October 23, 2017 |website=Showbuzz Daily}}</ref> In addition, the two episodes were shown as a feature at the [[2017 Cannes Film Festival]], where they received a standing ovation.<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=May 25, 2017 |title=David Lynch's 'Twin Peaks' Revival Met With Standing Ovation In Cannes |url=https://deadline.com/2017/05/david-lynch-twin-peaks-cannes-film-festival-standing-ovation-1202102666/ |access-date=October 23, 2017 |website=Deadline}}</ref> The episode received critical acclaim.
+
+== Plot ==
+
+{{blockquote|My log has a message for you.|[[The Log Lady|Margaret Lanterman]] (used as a promotional tagline for the episode)}}
+
+===Background===
+The small town of Twin Peaks, Washington, has been shocked by the murder of schoolgirl [[Laura Palmer]] ([[Sheryl Lee]]) and the attempted murder of her friend [[List of characters in Twin Peaks#Ronette Pulaski|Ronette Pulaski]] ([[Phoebe Augustine]]). [[FBI]] special agent [[Dale Cooper]] ([[Kyle MacLachlan]]) has been sent to the town to investigate<ref>{{Cite episode |title=Pilot |episode-link=Pilot (Twin Peaks) |series=[[Twin Peaks]] |last=David Lynch (writer |author-link=David Lynch |last2=director |author-link2=Mark Frost |network=[[American Broadcasting Company|ABC]] |date=April 8, 1990 |season=1 |number=1 |name-list-style=amp |author3=Mark Frost (writer)}}</ref> and has come to the realization that the killer was Laura's father, [[Leland Palmer]] ([[Ray Wise]]), who acted while possessed by a demonic entity, [[Killer BOB]] ([[Frank Silva]]).<ref name="ep16">{{Cite episode |title=Episode&nbsp;16 |episode-link=Episode 16 (Twin Peaks) |series=Twin Peaks |series-link=Twin Peaks |last=Tim Hunter (director) |author-link=Tim Hunter (director) |last2=Mark Frost (writer) |author-link2=Mark Frost |network=[[American Broadcasting Company|ABC]] |date=December 1, 1990 |season=2 |number=9}}</ref> At the [[Episode 29 (Twin Peaks)|end]] of the [[Twin Peaks|original series]], BOB trapped Cooper in the [[Black and White Lodges|Black Lodge]], an extra-dimensional place, and let out Cooper's doppelgänger to use him for physical access to the world.<ref name="ep29">{{Cite episode |title=Episode&nbsp;29 |episode-link=Episode 29 (Twin Peaks) |series=Twin Peaks |series-link=Twin Peaks |last=David Lynch (director) |author-link=David Lynch |last2=Mark Frost (writer) |author-link2=Mark Frost |network=[[American Broadcasting Company|ABC]] |date=June 6, 1990 |season=2 |number=22 |author3=[[Harley Peyton]] (writer) |author4=Robert Engels (writer) |author4-link=Robert Engels}}</ref>
+
+===Events===
+Cooper sits in the [[Black and White Lodges|Red Room]]. Laura Palmer, seated on the other side of the room, salutes him and tells him "I'll see you again in 25 years. Meanwhile".<ref name="P1">[[David Lynch]] (writer and director), [[Mark Frost]] (writer) (May 21, 2017). "Part 1". [[Twin Peaks]]</ref> She accompanies her words with a hand gesture. Images from the pilot are shown, including a girl running away and screaming and the portrait of Laura in the school's trophy case.
+
+Twenty-five years later, Cooper sits in another room across from [[The Giant (Twin Peaks)|the Fireman]] ([[Carel Struycken]]), who points at a phonograph producing a scratching noise and tells him, "listen to the sounds";<ref name="P1" /> he then informs Cooper that "it is in our house now".<ref name="P1" /> He tells Cooper to remember "430" and "Richard and Linda. Two birds with one stone."<ref name="P1" /> Cooper replies, "I understand." The Fireman tells Cooper, "You are far away,"<ref name="P1" /> after which Cooper disappears. In Twin Peaks, Dr. [[List of Twin Peaks characters#Lawrence Jacoby|Jacoby]] ([[Russ Tamblyn]]) receives a shipment of shovels from Joe (Joseph M. Auger). Joe asks Jacoby if he needs help, and Jacoby thanks him but declines.
+
+In New York City, Sam Colby ([[Ben Rosenfield|Benjamin Rosenfield]]) watches an enormous glass box connected to various machines. The room is full of cameras pointed at the box; when a buzzer goes off, Sam is required to change the SD card in one of the cameras and place it in a locker. After that, Sam sits back until the intercom announces an incoming delivery. Sam goes to the other room, where he finds Tracey Barberato ([[Madeline Zima]]), who has brought him coffee. She asks if she can come inside, but since the security guard ([[Michael Bisping]]) is there Sam replies that she cannot. When Sam enters the code to open the door, Tracey tries to look over his shoulder, but he catches her. Sam walks back in with the coffee, and goes back to staring at the box.
+
+In [[the Great Northern Hotel]], [[Benjamin Horne]] ([[Richard Beymer]]) instructs Beverly Paige ([[Ashley Judd]]) to give a Mrs. Houseman a refund for two nights' stay since a skunk was in the hotel. [[List of Twin Peaks characters#Jerry Horne|Jerry Horne]] ([[David Patrick Kelly]]) walks in, and after introducing him to Beverly, Ben dismisses her. The two brothers talk briefly about Beverly, with Jerry convinced that Ben will eventually sleep with her, and about Jerry's new profession as cannabis cultivator. At the Twin Peaks Sheriff's Station, [[List of Twin Peaks characters#Harry Moran|Lucy Brennan]] ([[Kimmy Robertson]]) sits at the receptionist's desk. A man in suit (Allen Galli) enters and asks for Sheriff Truman; when Lucy asks him to specify whether he means [[Harry S. Truman (Twin Peaks)|the one who is sick]] or [[List of Twin Peaks characters#Frank Truman|the one who is fishing]], the man, visibly puzzled, says "it's about insurance." When this fails to answer the question Lucy asked, he gives her his card and leaves.
+
+Cooper's [[doppelgänger]] ([[Kyle MacLachlan]]) drives to a house. He incapacitates the guard (James Croak) and walks inside, where Otis (Redford Westwood) greets him as "Mr. C"; also in the room are a man in a wheelchair and a thin man sitting in an armchair. The guard enters and tries to hit the doppelgänger, who again incapacitates him before he can do so. Buella (Kathleen Deming) enters, and the doppelgänger asks for Darya ([[Nicole LaLiberte]]) and Ray (George Griffith). She calls them out, and they follow the doppelgänger out.
+
+In New York City, Sam changes another SD card. He hears the elevator. When the guard doesn't call him to announce a visitor, he goes to see what's happening. The person waiting is Tracey, with two more coffees; since the guard is absent, Sam lets her in. Sitting in front of the box, he tells her that his job is to watch the box to see if anything appears inside it, and that, although he has not seen anything yet, the guy who was there before him did see something at one point that he preferred not to talk about. After sitting down and tasting the coffee, the two of them start to make out and eventually have sex. Meanwhile, the box darkens completely and a figure appears inside, the Experiment Model (Erica Eynon). After Sam and Tracey notice this, the figure breaks out of the box and slaughters them.
+
+In an apartment complex in Buckhorn, South Dakota, Marjorie Green (Melissa Bailey) walks her dog Armstrong down the hall. When the dog starts to bark in front of the door of Ruth Davenport (Mary Stofle), Marjorie notices a foul smell, and calls the police. Officers Douglas (James Giordano) and Olson ([[Christopher Murray (actor)|Christopher Murray]]) are sent to investigate. They ask whether anyone has the key to Ruth's apartment, which Marjorie does not know, and whether there is a manager, to which Marjorie answers that there is one named Barney, but that he is unavailable. After the two call a locksmith, Marjorie suggests asking Barney's brother, Chip; when they ask her where to find him, she sends them to Hank Fillmore ([[Max Perlich]]), a friend of Barney.
+
+The officers find Hank outside the complex. He reacts shiftily, asking if they were sent by Harvey and then, upon questioning, tells them that Chip does not possess a phone. Marjorie appears on the staircase, announcing that she has a key. Upon entering the apartment, the officers walk into the bedroom to see a severely damaged head lying in bed, her body under the covers. Meanwhile, Hank calls Harvey believing that he sent the police; the two proceed to discuss a deal they made, with Hank insisting that the money from it is solely his and Chip's since Harvey opted out of it. Constance Talbot ([[Jane Adams (actress, born 1965)|Jane Adams]]) investigates the crime scene while pictures are taken. Detective Dave Macklay ([[Brent Briscoe]]) walks in; he shows Constance that his hands are gloved, much to her appreciation. The two of them pull the sheet off the body, revealing a severed female head atop a decapitated male corpse.
+
+In Twin Peaks, [[Margaret Lanterman]] ([[Catherine Coulson]]), visibly ill, calls Deputy [[Tommy 'Hawk' Hill|Hawk]] ([[Michael Horse]]). She tells him that her log has a message for him: that something is missing having to do with Cooper. She adds that the way Hawk will find it will have to do with his heritage. Hawk thanks her and hangs up. At the Buckhorn Police Station, Constance calls for Detective Macklay upon finding a match for the prints retrieved at the crime scene: they belong to William "Bill" Hastings ([[Matthew Lillard]]), the local high school principal. She confirms that the head is Ruth Davenport's but adds that there is no match for the body. Macklay arrests Hastings at his home, which angers Bill's wife Phyllis ([[Cornelia Guest]]) as they were supposed to host a dinner party that night.
+
+At the Twin Peaks Sheriff Station, Hawk brings [[List of Twin Peaks characters#Andy Brennan|Andy Brennan]] ([[Harry Goaz]]) and Lucy to the conference room, where he conveys Margaret's message. At the Buckhorn Police Station, Detective Don Harrison ([[Bailey Chase]]) and Police Officer Mike Boyd ([[Deppish Kirkland|Dep Kirkland]]) observe Macklay as he interrogates Hastings. Hastings says he barely knew Davenport, the school librarian, and that the last time he saw her was a couple of months earlier, but his story contains a 40- to 50-minute gap on the day of Ruth's murder, on which, he adds with hesitation, he took his assistant Betty home after a meeting. As Hastings speaks, Macklay writes down notes on his statement, producing a scratching sound that seems to agitate and distract Hastings. After Hastings nervously asks for his lawyer, Macklay informs him that Davenport was murdered and that his fingerprints were found all over the apartment. Hastings is then escorted to a cell, where he asks to speak to his wife.
+
+Macklay and Harrison go to the Hastings home with a police team and a search warrant for the house. Upon inspecting the car, the two find an unidentifiable lump of human flesh in the trunk under a portable fridge.
+
+Now alone, the Fireman watches the phonograph as the scratching noise continues.{{efn|In the original broadcast, this scene was missing; the first two episodes were presented as a sole feature, with Part 1's final scene flowing directly in the beginning of "Part 2". This scene was added when the episode was published on streaming services, functioning as the background to the credits rolling.}}
+
+== Production ==
+"Part 1", like the rest of the limited series, was written by [[Mark Frost]] and [[David Lynch]] and directed by Lynch himself.{{Citation needed|date=September 2024}} Frost had already written ten episodes of the [[Twin Peaks|original series]] — the "[[Pilot (Twin Peaks)|Pilot]]" and Episodes [[Episode 1 (Twin Peaks)|1]], [[Episode 2 (Twin Peaks)|2]] and [[Episode 8 (Twin Peaks)|8]] with Lynch, plus Episodes [[Episode 5 (Twin Peaks)|5]], [[Episode 7 (Twin Peaks)|7]], [[List of Twin Peaks episodes#Episode 12|12]], [[Episode 14 (Twin Peaks)|14]], [[Episode 16 (Twin Peaks)|16]], [[Episode 26 (Twin Peaks)|26]] and the original series finale, [[Episode 29 (Twin Peaks)|Episode 29]]. Lynch also directed six episodes of the original series — the "Pilot", "Episode 2", "Episode 8", "[[Episode 9 (Twin Peaks)|Episode 9]]", "Episode 14" and "Episode 29".<ref name="lynch">{{Cite web |title=David Lynch movies, photos, movie reviews, filmography, and biography |url=https://www.allmovie.com/artist/david-lynch-p100454/ |access-date=October 28, 2017 |website=[[AllRovi]] |publisher=[[Rovi Corporation]]}}</ref> The episode is dedicated to the memory of [[Catherine Coulson]].
+
+=== Music ===
+Additionally, a heavily edited version of the song "American Woman" by [[Muddy Magnolias]] is used to underscore the entrance of Cooper's doppelgänger.<ref>{{Cite web |last=Dom |first=Pieter |date=May 23, 2017 |title=Here's That Night Driving Song Introducing Mr. C, David Lynch's Remix Of "American Woman" By Muddy Magnolias |url=http://welcometotwinpeaks.com/music/muddy-magnolias-american-woman-david-lynch-remix/ |access-date=October 28, 2017 |website=WelcomeToTwinPeaks}}</ref> This version of the song was labeled "David Lynch remix" and eventually released in the September 2017 soundtrack album ''[[Music of Twin Peaks#Twin Peaks: Limited Event Series Original Soundtrack|Twin Peaks: Limited Event Series Original Soundtrack]]''.<ref>{{Cite web |title=Twin Peaks: Music from the Limited Event Series |url=http://www.rhino.com/product/twin-peaks-music-from-the-limited-event-series |access-date=October 28, 2017 |publisher=Rhino Records}}</ref> The instrumental tracks "Sub Dream" (by David Lynch and Dean Hurley) and "Frank 2000" (by Lynch and [[Angelo Badalamenti]], performed by the Thought Gang) are also present in the episode, but as of October 2017 are yet to be officially released.<ref>{{Cite web |last=Dom |first=Pieter |date=May 22, 2017 |title=New Twin Peaks Soundtracks Coming Out On CD, MP3 & Double Vinyl In September |url=http://welcometotwinpeaks.com/news/new-twin-peaks-soundtrack-2017/ |access-date=October 28, 2017 |website=WelcomeToTwinPeaks}}</ref>
+
+== Reception ==
+===Broadcast===
+"Part 1" was originally broadcast on the [[Showtime (TV network)|Showtime]] network together with [[Part 2 (Twin Peaks)|Part 2]] on May 22, 2017. The initial broadcast was watched by 506,000 viewers in the United States,<ref name="Ratings" /> a low number by the standards of premium cable networks. But subsequent data from Showtime estimates that in the first three days after the premiere around 1.7 million viewers watched the episode, including 298,000 from [[Digital video recorder|DVR viewings]] and viewers from various streaming platforms.<ref>{{Cite web |last=O'Connell |first=Michael |date=May 26, 2017 |title=TV Ratings: With a Modest Start, 'Twin Peaks' Return Sees Massive Streaming Lift |url=https://www.hollywoodreporter.com/live-feed/tv-ratings-a-modest-start-twin-peaks-return-skews-streaming-1008141 |access-date=October 28, 2017 |website=[[The Hollywood Reporter]] |publisher=[[Eldridge Industries]]}}</ref> Although "Part 1" was not rated upon its Showtime broadcast, a [[TV-14]] edit of the episode was uploaded on the official ''Twin Peaks'' [[YouTube]] channel for a brief period in June 2017 (on the occasion of [[National Doughnut Day]]);<ref>{{Cite web |last=Dom |first=Pieter |date=June 3, 2017 |title=Watch Twin Peaks: The Return Parts 1 & 2 For Free (U.S. Only) |url=http://welcometotwinpeaks.com/news/watch-new-twin-peaks-free/ |access-date=October 28, 2017 |website=WelcomeToTwinPeaks}}</ref> the same edit was uploaded again on August 8, 2017.<ref>{{YouTube|id=WS83sR4qR18}}</ref>
+
+===Critical reception===
+"Part 1" received critical acclaim. On [[Rotten Tomatoes]], the episode received a 100% rating based on 29 reviews. The critics' consensus reads, "'Part One' suggests ''Twin Peaks'' hasn't left any of its singularly unsettling power during the show's long layoff — and proves this is one series revival not motivated by empty nostalgia".<ref>{{Cite web |title=Twin Peaks: The Return: Season 1, Episode 1 {{!}} Rotten Tomatoes |url=https://www.rottentomatoes.com/tv/twin_peaks_the_return/s01/e01 |access-date=2026-01-19 |website=www.rottentomatoes.com |language=en}}</ref> In [[IndieWire]], Liz Shannon Miller gave the episode a B+, expressing disappointment at the "pretty staggering" violence against women in both this episode and Part 2, but calling the show "fascinating in our current era of revivals, because it eschews all the conventions used by other series". She called [[Kyle MacLachlan]]'s performance "impressive", extending the praise to the rest of the cast in the light of the "insane" circumstances they worked under ("all actors were only given their own lines, and no knowledge of the full story"). Ultimately, she called the premiere "plenty watchable", but added, "there are a few elements that don't go down as easy as damn good coffee."<ref>{{Cite web |last=Miller |first=Liz |date=May 21, 2017 |title='Twin Peaks' Season 3 Premiere Review: David Lynch Remains a Master — But The Brutality Toward Women Feels Dated |url=https://www.indiewire.com/2017/05/twin-peaks-review-season-3-premiere-david-lynch-showtime-spoilers-1201829732/ |access-date=October 28, 2017 |website=[[IndieWire]]}}</ref>
+
+''[[The New York Times]]''{{'}} James Poniewozik gave the episode a positive review, praising Lynch's visual imagination as "inimitable" and likening the episode to the glass box it features while also drawing comparisons to ''[[Lost (2004 TV series)|Lost]]'', ''[[Fargo (TV series)|Fargo]]'' and ''[[True Detective]]''. Poniewozik wrote, "[t]he original ''Twin Peaks'' was powered by two questions: 'Who killed Laura Palmer?' and 'What the hell am I watching?'", and that while "[t]he reincarnation doesn't have the first", "it still knows how to get you to ask the second".<ref name="nytimes">{{Cite web |last=Poniewozik |first=James |date=May 21, 2017 |title=Review: In 'Twin Peaks,' an Old Log Learns Some New Tricks |url=https://www.nytimes.com/2017/05/21/arts/television/twin-peaks-review.html |access-date=October 28, 2017 |website=[[The New York Times]]}}</ref> In his recap for ''[[Entertainment Weekly]]'', [[Jeff Jensen]] also gave Part 1 a B+, criticizing the episode's "absence of certain conventions that even that unconventional [[Pilot (Twin Peaks)|pilot]] possessed" while also praising the episode's scope and Glass Box subplot, ultimately declaring himself "engaged" by the series.<ref name="ew" />
+
+In her positive review of the episode, ''[[The A.V. Club]]''{{'}}s Emily L. Stephens gave the episode an A, writing that the "comfort" of the original ''Twin Peaks'' is "entirely eschewed", praising the Glass Box subplot as "a remark upon the creation and the consumption of television and film" and calling the episode an "unfiltered Lynchian vision, unfettered from the structures of soap operas, police procedurals, or thrillers that gave shape to the first few original outings into Twin Peaks."<ref name="AV" />
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.sho.com/twin-peaks/the-return/part/1 "Part 1"] at [[Showtime (TV network)|Showtime]]
+* {{IMDb episode|4108304}}
+
+{{Twin Peaks}}
+
+[[Category:2017 American television episodes]]
+[[Category:Television episodes directed by David Lynch]]
+[[Category:Television episodes written by David Lynch]]
+[[Category:Television episodes written by Mark Frost]]
+[[Category:Twin Peaks season 3 episodes]]

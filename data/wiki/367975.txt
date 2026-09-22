@@ -1,0 +1,1733 @@
+{{Short description|none}}
+[[File:Setaki.JPG|thumb|A {{gli|quickdraw}} with one end attached to a {{gli|bolt hanger}} (which is itself attached to a fixed {{gli|bolt}}), and the other end clipped into a {{gli|dynamic rope}}, on a {{gli|sport climbing|sport climb}} {{gli|climbing route|route}}]]
+{{Climbing sidebar}}
+This is a '''glossary of climbing terms''' related to [[rock climbing]] (including [[aid climbing]], [[lead climbing]], [[bouldering]], and [[competition climbing]]), [[mountaineering]], and to [[ice climbing]].<ref name=ClimbingDictionary/><ref name=UKC>{{cite web|last1=Bate|first1=Chris|last2=Arthur|first2=Charles|title=A Glossary of Climbing terms: from Abseil to Zawn|url=https://www.ukclimbing.com/articles/features/a_glossary_of_climbing_terms_from_abseil_to_zawn-33|website=UK Climbing|access-date=29 April 2018|language=en|date=8 May 2006|display-authors=etal}}</ref><ref name=SC>{{cite book|title=Sport Climbing: From Toprope to Redpoint, Techniques for Climbing Success|author=Andrew Bisharat|date=6 October 2009|url=https://books.google.com/books?id=MI8TCgAAQBAJ&q=climbing+deadpoint+dyno&pg=PT73 | publisher=[[Mountaineers Books]] | isbn=978-1594852701|accessdate=15 August 2023}} ebook: {{isbn|9781594855139}}</ref>
+
+The terms used can vary between different English-speaking countries; many of the phrases described here are particular to the United States and the United Kingdom.
+
+{{compact TOC}}
+
+==A==
+{{glossary}}
+
+{{term|[[Grade (climbing)#Aid climbing|A-grade]]}}
+{{defn|1={{ghat|Also '''aid climbing grade'''.}}
+The technical difficulty {{gli|grade|grading}} system for {{gli|aid climbing}} (both for "original" and an adapted version for "new wave"), which goes: A0, A1, A2, A3, A4, A5 and up to A6 (for "new wave"). See ''{{gli|C-grade}}''.<ref name=AlpinistGrades>{{cite web | magazine=[[Alpinist (magazine)|Alpinist]] | url=http://www.alpinist.com/p/climbing_notes/grades | title=Grade Comparison Chart | date=2023 | accessdate=10 March 2023 | archive-date=30 March 2021 | archive-url=https://web.archive.org/web/20210330142513/http://www.alpinist.com/p//climbing_notes/grades | url-status=dead }}</ref>}}
+
+{{term|[[Abalakov thread]]}}
+{{defn|1=[[File:Abalakov thread.jpg|thumb|upright=0.7|'''{{gli|Abalakov thread}}''']]
+{{ghat|Also '''V-thread'''.}}
+A type of {{gli|anchor}} used in {{gli|abseiling}} especially in winter and in {{gli|ice climbing}}.
+}}
+
+{{term|[[Assisted braking device|ABD]]}}
+{{defn|1={{ghat|Also '''assisted braking device'''.}}
+A term used to describe a {{gli|progress capture device}} or a {{gli|self-locking device}} such as a [[Grigri (climbing)|Petzl GriGri]] that immediately locks if the rope travels through it quickly in a specific direction.  See ''{{gli|auto belay}}''.}}
+
+{{term|[[abseiling]]}}
+{{defn|1={{ghat|Also '''rappelling'''.}}
+A technique by which a climber descends via a {{gli|fixed rope}} that is firmly attached to a fixed {{gli|anchor}} point, which is also known as an "abseil station". See ''{{gli|tat}}'' and ''{{gli|cord}}''.}}
+
+{{term|abseil rack}}
+{{defn|See ''{{gli|rack}}''.}}
+
+{{term|add-on}}
+{{defn|An indoor climbing game where climbers take turns creating a route, adding two moves at a time.<ref>{{Cite web |title=Training: 16 Climbing Games |first1=Julie |last1=Ellison |first2=JP |last2=Whitehead |work=Climbing |date=28 April 2016 |access-date=20 May 2019 |url= https://www.climbing.com/skills/training-16-climbing-games/ }}</ref>}}
+
+{{term|accessory cord}}
+{{defn|See ''{{gli|cord}}''.}}
+
+{{term|active protection}}
+{{defn|1={{ghat|Also '''active camming device''' or '''ACD'''}}
+Type of {{gli|protection}} that dynamically changes to absorb the shape and strength of a fall; active protection is the opposite of {{gli|passive protection}}. See ''{{gli|cam}}s'' and ''{{gli|friend}}s''.}}
+
+{{term|[[adze]]}}
+{{defn|1=[[File:Historischer Eispickel mit GFK-Stiel.jpg|thumb|upright=0.7|[[Ice axe]] with '''{{gli|adze}}''']]
+A thin blade mounted perpendicular to the handle on an {{gli|ice axe}}; is used for chopping footholds.
+}}
+
+{{term|[[aid climbing]]}}
+{{defn|Type of rock climbing where artificial devices are used to make upward progress (and not just for {{gli|protection}}); opposite of {{gli|free climbing}}. See ''{{gli|clean aid climbing}}''.}}
+
+{{term|aider}}
+{{defn|See ''{{gli|etrier}}''.}}
+
+{{term|[[alpine climbing]]}}
+{{defn|A form of {{gli|mountaineering}} that includes {{gli|ice climbing}}, {{gli|dry-tooling}} and {{gli|rock climbing}}.}}
+
+{{term|[[Grade (climbing)#International French adjectival system (IFAS)|Alpine-grade]]}}
+{{defn|1={{ghat|Also '''IFAS grade''', and '''UIAA Scale of Difficulty'''}}
+Part of the {{gli|alpine climbing}} system for {{gli|grade|grading}} the technical difficulty of alpine climbing routes, which goes: F ("facile/easy"), PD ("peu difficile/little difficult"), AD ("assez difficile/fairly hard"), D ("difficile/difficult"), TD ("très difficile/very hard"), and ED ("extrêmement difficile/extremely difficult"); ED then goes ED1, ED2, ED3, .. etc.<ref name=AlpinistGrades/><ref name=CAI>{{cite book | first1=Gabriele |last1=Mandelli |first2=A |last2=Angriman | date=2016 | title=Scales of Difficulty in Mountaineering | publisher=Central School of Mountaineering, Italy |s2cid=53358088 }}</ref> }}
+
+{{term|alpine knee}}
+{{defn|An awkward [[climbing technique]] where the knee is placed on the hold rather than the foot.<ref>{{Cite web |title=Total Body Climbing: Use All Your Body Parts for Smart, Savvy Climbing |first=Heather |last=Weidner |work=Climbing |date=11 November 2018 |access-date=20 May 2019 |url= https://www.climbing.com/skills/total-body-climbing-use-all-your-body-parts-for-smart-savvy-climbing/ }}</ref>}}
+
+{{term|alpine start}}
+{{defn|Starting a climb very early in the morning, generally before 5:00{{spaces}}a.m. (and even much earlier); common to {{gli|alpine climbing}} to avoid afternoon rockfalls and melting snow on the route, or to get firmer ice on the glacier travel to and from the route.<ref name=UKC/>}}
+
+{{term|[[alpine style]]}}
+{{defn|Carrying all your own gear (even for multi-day climbs); also called "light-weight" climbing; opposite of {{gli|expedition style}}.}}
+
+{{term|[[American death triangle]]}}
+{{defn|1=[[File:Death triangle.png|thumb|upright=0.7|Diagram of '''{{gli|American death triangle}}''']]
+A dangerous {{gli|anchor}} that is created by connecting a closed loop of webbing between two points of protection.}}
+
+{{term|[[Anchor (climbing)|anchor]]}}
+{{defn|An arrangement of one or more pieces of fixed {{gli|protection}} set up to support the weight of a {{gli|belay}}, a {{gli|top rope}}, or an {{gli|abseiling}}.<ref name=ClimbingDictionary>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/news/rock-climbing-terms-definitions/ | title=What's A Redpoint And What Do Other Climbing Terms Mean? Our Climbing Dictionary Has The Answers | date=4 May 2022 | accessdate=3 March 2023 | author=Climbing Staff}}</ref><ref name=SC/> See also ''{{gli|deadman anchor}}''.}}
+
+{{term|[[ape index]]}}
+{{defn|A measure of the ratio of a climber's arm span relative to their height.}}
+
+{{term|[[arête]]}}
+{{defn|
+1. A small ridge-like feature or a sharp outward-facing corner on a steep rock face.}}
+{{defn|no=2|A narrow ridge of rock formed by glacial erosion.}}
+{{defn|no=3|A method of {{gli|indoor climbing}} in which one is able to use such a corner as a hold. See also ''{{gli|dihedral}}''.}}
+
+{{term|term=arm bar|content=arm bar {{anchor|armbar}} }}
+{{defn|A [[climbing technique]] where the climber jams their arm into a crack and locks it into place, to aid their ascent.<ref name=ClimbingDictionary/>}}
+
+{{term|[[Deep-water soloing#Risks|armchair landing]]}}
+{{defn|1=[[File:Deep Water Solo Spot, Algarve Portugal .png|thumb|upright=0.7|An '''{{gli|armchair landing}}''']]
+A technique in {{gli|deep-water soloing}} for entering shallower water where the climber needs to avoid deeper hazards in the water; executed properly a {{Convert|30|ft|m|adj=on}} fall can be absorbed in just {{Convert|5|ft|m|adj=off}} of water.<ref name=CL5>{{cite web | website=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/skills/learn-this-deep-water-soloing-101/ | title=Learn This: Deep-Water Soloing 101 | date=18 March 2019 | accessdate=10 May 2023 | first1=Bryan R. | last1=Simon | first2=Seth C. | last2=Hawkins}}</ref>}}
+
+{{term|[[ascender (climbing)|ascender]]}}
+{{defn|1=[[File:Petzl Ascenders (On Rope).jpg|thumb|upright=0.7|'''{{gli|Ascender}}s''']]
+A mechanical device used for ascending a {{gli|fixed rope}}, very common in {{gli|aid climbing}} and {{gli|big wall climbing}}. See ''{{gli|jumar}}''.}}
+
+{{term|[[aspect (geography)|aspect]]}}
+{{defn|The geographical direction which a particular slope or rock wall faces, e.g. "north aspect".}}
+
+{{term|[[Belay device#Tubular variant|ATC]]}}
+{{defn|A {{gli|belay device}} from [[Black Diamond Equipment|Black Diamond]] (the "Air Traffic Controller") that became a generic term for any {{gli|tuber}} belay device. }}
+
+{{term|[[Australian rappel]]}}
+{{defn|1=[[File:Australian Rappel.jpg|thumb|upright=0.7|'''{{gli|Australian rappel}}''']] {{ghat|Also '''angel jumping''', '''deepelling''' and '''rap jumping'''.}}
+A type of {{gli|abseiling}} technique performed face first; used for military purposes.<ref>{{cite web | magazine=Climbing | url=https://www.climbing.com/skills/dangerous-rappel-technique-australian/ | title=Rappellers Threw Themselves Face First Off Cliff With One-Nut Anchor | first=Kevin | last=Corrigan | date=4 September 2022 | accessdate=21 March 2023}}</ref>}}
+
+{{term|[[auto belay]]}}
+{{defn|A mechanical {{gli|belay device}} on indoor {{gli|climbing wall}}s, which hangs from the top of routes that solo climbers clip into.}}
+{{glossaryend}}
+
+==B==
+{{glossary}}
+{{term|[[Grade (climbing)#B system|B-grade]]}}
+{{defn|A {{gli|grade|grading system}} for {{gli|bouldering}} invented by [[John Gill (climber)|John Gill]], now superseded by the {{gli|V-grade|V-grading system}}.}}
+
+{{term|[[Bachar ladder]]}}
+{{defn|1=[[File:Bachar ladder.jpg|thumb|upright=0.7|'''{{gli|Bachar ladder}}''']]
+A piece of training equipment used to improve {{gli|campus|campusing}} and core body and arm strength; invented by [[John Bachar]].}}
+
+{{term|back-clipping}}
+{{defn|A hazardous mistake of clipping the rope into a {{gli|quickdraw}} so the leader's end runs underneath the quickdraw as opposed to over the top of it; if the leader falls, the rope may fold directly over the gate, causing it to open and fail.<ref name=ClimbingDictionary/><ref name=Gripped-lead-mistakes>{{cite web | magazine=Grippped Magazine | url=https://gripped.com/profiles/three-common-lead-climbing-mistakes-to-avoid/ | date=1 March 2021 | accessdate=3 March 2023 | title=Three Common Lead Climbing Mistakes to Avoid}}</ref>}}
+
+{{term|back-step}}
+{{defn|1=[[File:Rock Climbing - 25285498093.jpg|thumb|upright=0.7|A '''{{gli|back-step}}''']]
+Stepping on a hold where the outside edge — little toe side — of the shoe touches the rock.<ref name=ClimbingDictionary/><ref name="REI"/><ref name="ClimbingTechniques"/>
+}}
+
+{{term|bail}}
+{{defn|To retreat from a climb.}}
+
+{{term|ball nut}}
+{{defn|A type of {{gli|protection}} device consisting of a nut and a movable ball used for very small thin cracks.<ref>{{cite web |url=http://www.sierramtnguides.com/demystifying-the-ball-nut/ |title=Demystifying the Ball Nut! |publisher=Sierra Mountain Guides |access-date=10 March 2023|first=Howie |last=Schwartz| date=21 July 2016}}</ref>}}
+
+{{term|barn-door}}
+{{defn|1=[[File:Joshua Tree - Illusion Dweller 1.jpg|thumb|upright=0.7|A potential '''{{gli|barn door}}''' swing to the right]]
+When all four points of contact are on a straight axis, the body can swing uncontrollably on this axis. See ''{{gli|flagging}}''.<ref name=UKC/>}}
+
+{{term|bashie}}
+{{defn|See ''{{gli|copperhead}}''.}}
+
+{{term|bat hang}}
+{{defn|1=[[File:Iker en Margalef.jpg|thumb|upright=0.7|Using a '''{{gli|bat hang}}''']]
+Where a climber gains a brief upside-down rest by hanging from their wedged feet. See ''{{gli|chest jam}}'' and ''{{gli|knee bar}}''.}}
+
+{{term|term=belay|content=[[belaying|belay]] {{anchor|belaying}} }}
+{{defn|To {{gli|protection|protect}} a roped {{gli|lead climbing|lead climber}} from falling by controlling the rope; usually involves a {{gli|belay device}}.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[belayer]]}}
+{{defn|The person {{gli|belay|belaying}} the {{gli|lead climber}}, also known as a {{gli|second}}.}}
+
+{{term|[[belay device]]}}
+{{defn|A mechanical device used by {{gli|belayer|belayers}} to increase braking force when belaying; can be passive like a {{gli|figure eight|figure eights}} or {{gli|tuber|tubers}}, or a more active {{gli|abd|assisted braking device}} like the [[Grigri (climbing)|Petzl GriGri]].<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[belay glasses]]}}
+{{defn|Glasses that are worn by the {{gli|belayer}} to help them avoid having to look upward, which can cause neck strain.<ref name=OUT45/>}}
+
+{{term|belay gloves}}
+{{defn|1=[[File:Belayglove.saa.jpeg|thumb|upright=0.7|'''{{gli|Belay glove}}''']]
+Gloves that are worn by the {{gli|belayer}} to protect their skin in the event of sudden rope movement and to aid grip.<ref name=OUT45>{{cite web | magazine=[[Outside (magazine)|Outside]] | first=Alison | last=Osius | title=Sh*t Climbers Bring These Days | url=https://www.outsideonline.com/outdoor-gear/climbing-gear/unnecessary-climbing-gear/ | date=22 August 2022 | accessdate=25 June 2024}}</ref>}}
+
+{{term|belay loop}}
+{{defn|The strongest point on a climbing {{gli|harness}}, and the loop to which a {{gli|belay device}} is physically attached.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|belay off}}
+{{defn|A {{gli|climbing command}} from a {{gli|belayer}} to confirm that the friction of {{gli|belay|belaying}} has been removed from a climbing rope. It is a standard response to a climber's "{{gli|off belay}}" request.<ref name=outsidenoob>{{cite web | magazine=[[Outside (magazine)|Outside]] | url=https://www.outsideonline.com/outdoor-adventure/climbing/beginners-guide-rock-climbing/ | title=The Noob's Guide to Rock Climbing | first=Chris | last=Brinlee | date=16 March 2016 | accessdate=5 July 2023}}</ref>}}
+
+{{term|belay on}}
+{{defn|A {{gli|climbing command}} from a {{gli|belayer}} to confirm that the friction of {{gli|belay|belaying}} has been (re)applied to a climbing rope. It is a standard response to a climber's "{{gli|on belay}}" request.<ref name=outsidenoob/>}}
+
+{{term|belay station}}
+{{defn|1=[[File:Red Rocks - Steve on The Nightcrawler - 1.jpg|thumb|upright=0.7|Bolted '''{{gli|belay station}}''']]
+The place from which a {{gli|belayer}} is belaying, sometimes anchored to the ground, or directly to the rock (particularly in a {{gli|hanging belay}} on {{gli|big wall climbing}} routes), or other objects.<ref>{{cite web|title=Belay stations – Mountaineering Methodology|url=http://www.mountaineeringmethodology.com/belay-stations/|website=www.mountaineeringmethodology.com|access-date=8 December 2017|archive-date=29 January 2018|archive-url=https://web.archive.org/web/20180129003729/http://www.mountaineeringmethodology.com/belay-stations/|url-status=dead}}</ref>}}
+
+{{term|[[bergschrund]]}}
+{{defn|A {{gli|crevasse}} that forms on the upper portion of a [[glacier]] where the moving section pulls away from the {{gli|headwall}}.
+}}
+
+{{term|[[beta (climbing)|beta]]}}
+{{defn|Information on how to complete (or protect) a particular climbing route. See ''{{gli|on-sight}}'' and ''{{gli|flash}}''.<ref name=ClimbingDictionary/><ref name=UKC/><ref name=SC/>}}
+
+{{term|beta break}}
+{{defn|In {{gli|sport climbing}}, a move on a climbing route other than the move originally intended by the route setter.  In bouldering, a move other than the move usually used on the boulder.}}
+
+{{term|beta flash}}
+{{defn|See ''{{gli|flash}}''.}}
+
+{{term|bicycle}}
+{{defn|A [[rock-climbing technique]] for {{gli|overhang|overhangs}} where the feet "pinch-hold" a foothold by one foot pushing down on it while the other foot pulls up on it (i.e. like the pedals on a bicycle).<ref>{{cite web | website=FrictinoLabs | url=https://frictionlabs.com/blog/how-it-works-the-bicycle | title=How It Works: The Bicycle | date=2023 | accessdate=5 March 2023 | first=Conor | last=Griffith}}</ref>}}
+
+{{term|Big Bro}}
+{{defn|1={{ghat|Also '''tube chock'''.}}
+A hollow telescopic tubular device manufactured by Trango for use as {{gli|protection}} in {{gli|off-width}} {{gli|crack climbing}}.<ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] |url=https://www.climbing.com/skills/learn-this-offwidth-protection-primer/ | first=Pamela | last=Pack | title=Learn This: Offwidth Protection Primer | date=18 April 2016 | accessdate=30 October 2023}}</ref>}}
+
+{{term|[[big wall climbing]]}}
+{{defn|1=[[File:Craig DeMartino on Zodiac on El Capitan.jpg|thumb|upright=0.7|'''{{gli|Big wall climbing}}''']]
+A long sustained sheer exposed rock climb with ''at least'' 6–10 {{gli|pitch}}es (over 300–500 metres), that typically takes over a day (if not many days), and requires the hauling of food, water, sleeping bags, and the use of {{gli|portaledge}}s.<ref name=ClimbingDictionary/>}}
+
+{{term|[[bivouac shelter|bivouac]]}}
+{{defn|1={{ghat|Also '''bivy''' or '''bivvy'''.}}
+A crude overnight camp or shelter on a climbing route; on a sheer vertical wall, a {{gli|portaledge}} can be used.}}
+
+{{term|bivy-bag}}
+{{defn|A lightweight garment or sack offering full-body protection from wind and rain, which is used in a {{gli|bivouac}}.}}
+
+{{term|[[belay#Body belay|body belay]]}}
+{{defn|1={{ghat|Also '''hip belay'''.}}
+Where the {{gli|belayer}} uses their body, and not a mechanical {{gli|belay device}}, to increase braking force when belaying; usually involves wrapping the rope around their waist or hip.<ref>{{cite web|url=https://www.climbing.com/skills/how-to-hip-belay/ |title=How to Hip Belay|publisher=Climbing.com |access-date=20 April 2023 | date=18 June 2013 | first=Christian | last=Santelices}}</ref>}}
+
+{{term|boinking}}
+{{defn|A {{gli|sport climbing}} technique to get back onto the wall after falling by pulling on the rope to un-weight it, allowing the belayer to {{gli|take|take in}} the {{gli|slack}} quickly; avoids the fallen climber having to return to the ground.<ref>{{cite web | magazine=Climbing | url=https://www.climbing.com/skills/how-to-boink-sport-climbing/ | title=Learn This Critical Skill for Steep Rock: Boinking | first=Pat | last=Bagley | date=2 February 2023 | accessdate=5 March 2023}}</ref>}}
+
+{{term|bollard}}
+{{defn|1=[[File:A Snow Bollard on Meall Odhar - geograph.org.uk - 774915.jpg|thumb|upright=0.7|Snow '''{{gli|bollard}}''']]
+A large block of rock or ice that is used as an {{gli|anchor}} to construct a {{gli|belay}}.
+}}
+
+{{term|[[bolt (climbing)|bolt]]}}
+{{defn|A point of {{gli|protection}} permanently installed in a hole drilled into the rock, to which a metal {{gli|bolt hanger}} is attached, with a hole to attach a {{gli|carabiner}} or a {{gli|quickdraw}}; used in {{gli|sport climbing}} and in {{gli|competition climbing}}.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|bolt chopping}}
+{{defn|The deliberate removal of {{gli|bolt|bolts}} from a climb; happens on {{gli|traditional climbing}} routes (e.g. the ''[[Indian Face]]''); also featured in the "bolt wars" of the 1980s and 1990s in the US.<ref name=SC/>}}
+
+{{term|bolt ladder}}
+{{defn|Sequence of {{gli|bolt|bolts}} that are so close together, they can be used by {{gli|aid climbing|aid climbers}} as a ladder.<ref name=UKC/>}}
+
+{{term|[[bolt hanger]]}}
+{{defn|1={{ghat|Also '''hanger'''.}} A piece of metal that is pre-attached to a {{gli|bolt}} (i.e. before the bolt is screwed in) into which {{gli|quickdraw}}s can be clipped.}}
+
+{{term|[[bolt runner]]}}
+{{defn|A term to describe a {{gli|bolt}} that has no {{gli|bolt hanger}}; will require a {{gli|rivet hanger}} to be used by a climber.}}
+
+{{term|bomb-proof}}
+{{defn|1={{ghat|Also '''bomber'''.}}
+A highly secure {{gli|anchor}}, or a particularly solid handhold or foothold.<ref name=ClimbingDictionary/><ref name=UKC/><ref>{{cite web | website=[[British Mountaineering Council]] | url=https://www.thebmc.co.uk/bomb-proof-belay-stakes-at-pembroke | title=Bomb-proof belay stakes at Pembroke | first=Cath | last=Fitchcroft | date=25 October 2007 | accessdate=1 March 2023}}</ref>
+}}
+
+{{term|[[bosun's chair]]}}
+{{defn|A type of larger harness to give a climber relief from bearing a constant load via their {{gli|harness|climbing harness}}.}}
+
+{{term|[[bouldering]]}}
+{{defn|A type of climbing on large [[boulder]]s less than {{convert|20|ft|m}} high with only {{gli|crash pad|crash pads}} and {{gli|spotting}} for protection.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[bouldering mat]]}}
+{{defn|1=[[File:Crash pad.jpg|thumb|upright=0.7|'''{{gli|Bouldering mat}}''']] 
+A thick foam pad used for protection when {{gli|bouldering}}; also called a crash pad.<ref name=UKC/>}}
+
+{{term|bounce test}}
+{{defn|A technique in {{gli|aid climbing}} where a new placement is tested by using the {{gli|lead climber}}'s bodyweight.<ref name=CL41>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/skills/how-to-climb-a-big-wall/ | title=Everything You Need to Know for Your First Big Wall | first=Mark | last=Synott | date=23 February 2022 | accessdate=16 May 2023}}</ref><br>
+Also recommended for questionable {{gli|abseiling|abseil stations}} testing.<ref>{{Cite book |title=Down |last=Kirkpatrick |first=Andrew |publisher=Andrew Kirkpatrick Limited |year=2020 |chapter=CH04 Anchors |isbn=978-1-9997005-7-7}}</ref>}}
+
+{{term|[[bowline on a bight]]}}
+{{defn|A knot that makes a pair of fixed-size loops in the middle of a rope.<ref>{{Cite web |title=Bowline on a bight | access-date=July 4, 2020 |url= https://www.animatedknots.com/bowline-on-a-bight-knot}}</ref>}}
+
+{{term|[[Rock climbing#Techniques|bridging]]}}
+{{defn|See ''{{gli|stemming}}''.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|bucket}}
+{{defn|A large handhold that is very easy to use.<ref name=UKC/>}}
+
+{{term|[[buildering]]}}
+{{defn|The practice of climbing on buildings, which is often illegal.}}
+
+{{term|buttress}}
+{{defn|1=[[File:Big Buttress, East Face, Sarclet - geograph.org.uk - 911727.jpg|thumb|upright=0.7|Large '''{{gli|buttress|buttresses}}''']]
+A prominent rock feature that juts out from the rock face or from the mountain.<ref name=UKC/>
+}}
+{{glossaryend}}
+
+==C==
+{{glossary}}
+
+{{term|[[Grade (climbing)#Aid climbing|C-grade]]}}
+{{defn|1={{ghat|Also '''clean aid climbing grade'''.}}
+The technical difficulty {{gli|grade|grading}} system for {{gli|aid climbing}} that is "clean" (i.e. no {{gli|rock hammer|hammered}} {{gli|piton}}s or {{gli|bolt}}s), which goes: C0, C1, C2, C3, C4, and C5; also has an {{gli|a-grade|A-grade}} equivalent of the "original" aid grades for "new wave".<ref name=AlpinistGrades/>}}
+
+{{term|[[Spring-loaded camming device|cam]]}}
+{{defn|A {{gli|spring-loaded camming device}} (SLCD), also known as "friends", used as {{gli|protection}} in {{gli|traditional climbing}}.<ref name=ClimbingDictionary/>}}
+
+{{term|[[camalot]]}}
+{{defn|A brand of {{gli|spring-loaded camming device}} (SLCD), manufactured by [[Black Diamond Equipment]].}}
+
+{{term|campusing}}
+{{defn|1=[[File:Bouldering at Lizard's Mouth in santa barbara, ca.jpg|thumb|upright=0.7|Climber '''{{gli|campusing}}''']]
+Ascending a route without using the feet; is done on overhanging routes or on a {{gli|campus board}}.<ref name=ClimbingDictionary/><ref name=UKC/> See ''{{gli|paddling}}''.}}
+
+{{term|[[campus board]]}}
+{{defn|A piece of [[climbing equipment#Training equipment|training equipment]] used to build finger strength and strong arm lock-offs.<ref name=UKC/>}}
+
+{{term|[[carabiner]]}}
+{{defn|1={{ghat|Also '''twist-lock carabiner''', '''bent-gate carabiner'''.}}
+An aluminum loop with a spring-loaded gate used to attach various load-bearing climbing devices together.<ref name=ClimbingDictionary/>}}
+
+{{term|carrot bolt}}
+{{defn|1=[[File:Climbing carrot bolt.jpg|thumb|upright=0.7|'''{{gli|Carrot bolt}}''' with {{gli|nut}}]] {{ghat|Also '''bash-in'''.}}
+An Australian term for a metal hex-headed [[Bolt (fastener)|machine bolt]] that functions like a {{gli|bolt}} but with no fixed {{gli|bolt hanger}}; climbers attach to the carrot bolt by using a version of a {{gli|rivet hanger}} or by attaching a removable bolt hanger plate.<ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | date=12 July 2023 | accessdate=8 November 2023 | first=Ryan | last=Siacci | url=https://www.climbing.com/places/the-carrot-bolt-an-australian-icon/ | title=Many a visitor has left our shores with crappy dacks (a quaint piece of slang meaning basically what you'd expect) after an exciting episode with this Aussie icon.}}</ref>}}
+
+{{term|[[chalk bag|chalk]]}}
+{{defn|Gymnastic [[magnesium carbonate#Uses|magnesium carbonate]] chalk that is used to reduce moisture, improve friction, and mark holds.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[chalk bag]]}}
+{{defn|1=[[File:Klimmen pofzak.jpg|thumb|upright=0.7|'''{{gli|Climbing chalk|Chalk}}''' and '''{{gli|chalk bag}}''']]
+A hand-sized holder for climbing {{gli|chalk}} that is carried on a chalk belt or clipped to a {{gli|harness}}.
+}}
+
+{{term|[[chest harness]]}}
+{{defn|Type of {{gli|harness}} that also covers the upper body to help prevent a rotation in any fall; particularly used when the climber is carrying a heavy pack, or is climbing in an area with crevasses.}}
+
+{{term|term=chest jam|content=chest jam {{anchor|chestjam}} }}
+{{defn|Jamming the torso into a wide crack, especially to allow the climber to rest.}}
+
+{{term|chicken bolt}}
+{{defn|Term in {{gli|big wall climbing}} and {{gli|aid climbing}} to refer to a {{gli|bolt}} placed to reduce the risk of a difficult section.<ref>{{cite web | magazine=Gripped Magazine | url=https://gripped.com/routes/the-boot-flake-on-the-nose-on-el-cap-is-gone__trashed-2/ | title=The Boot Flake on The Nose on El Cap is Gone, April Foola | date=2 April 2020 | accessdate=25 May 2023}}</ref>}}
+
+{{term|chicken head}}
+{{defn|1=[[File:Reed's Creek - Tied off Chicken Head.JPG|thumb|upright=0.7|Tied '''{{gli|chicken head}}''']]
+Knob or horn of rock narrowed at the base .<ref name=UKC/>}}
+
+{{term|term=chicken wing|content=chicken wing {{anchor|chickenwing}} }}
+{{defn|A {{gli|crack}} [[climbing technique]] where a hand is placed on one side of the crack and the shoulder on the other.<ref>{{Cite web |title=Don't Just Wing It: 6 Crucial Wide-Crack Techniques |first=Matt |last=Kuehl |magazine=[[Climbing (magazine)|Climbing]] |date=18 December 2015 |access-date=20 May 2019 |url= https://www.climbing.com/skills/dont-just-wing-it/}}</ref>}}
+
+{{term|chimneying}} 
+{{defn|1=[[File:Agamemnon (20600608644).jpg|thumb|upright=0.7|'''{{gli|Chimneying}}''']]
+[[Rock-climbing technique]] for climbing a rock cleft with mostly parallel vertical sides, large enough to fit the climber's body.  See ''{{gli|stemming}}''.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[Chipping (rock climbing)|chipping]]}}
+{{defn|Improving a climbing hold by chipping the rock — is considered unethical and poor practice in climbing.<ref name=UKC/>}}
+
+{{term|chock}}
+{{defn|1={{ghat|Also '''chockstone'''.}}
+A stone wedged in a crack that can be threaded to create a point of {{gli|protection}} in {{gli|traditional climbing}}.<ref name=ClimbingDictionary/><ref name=UKC/><ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/gear/the-nut-chronicles/ | title=Before "the Nut" There Was "the Pebble"… and It Was Sketchy | date=27 April 2022 | accessdate=12 September 2023 | first1=Jeff | last1=Achey}}</ref>}}
+
+{{term|chop route}}
+{{defn|British term for a {{gli|traditional climbing}} route with very poor {{gli|protection}} where any fall could be fatal. See ''{{gli|x|X}}''.<ref name=UKC/>}}
+
+{{term|choss}}
+{{defn|Loose or "rotten" rock that makes for unpleasant, difficult, or dangerous climbing; useful for {{gli|dry-tooling}}.<ref name=UKC/>}}
+
+{{term|classification}}
+{{defn|See ''{{gli|grade}}''.}}
+
+{{term|clean}}
+{{defn|no=1|To remove (or strip) {{gli|protection}} equipment from a climbing route.}}
+{{defn|no=2|A route that is free of loose vegetation and rocks; vigorous cleaning can be {{gli|chipping}}<ref name=UKC/>}}
+{{defn|no=3|To complete a climb without falling or resting on the rope. See ''{{gli|redpoint}}''.}}
+
+{{term|[[aid climbing|clean aid climbing]]}}
+{{defn|A type of {{gli|aid climbing}} where only removable {{gli|traditional climbing}} {{gli|protection}} is allowed, and no {{gli|rock hammer|hammered-in}} {{gli|bolt}}s or {{gli|piton}}s. See ''{{gli|C-grade}}''.}}
+
+{{term|[[clean climbing]]}}
+{{defn|A broad movement that extended from the earlier {{gli|free climbing}} movement, which advocated minimizing any form of climbing that permanently impacted the natural rock surface, such as the use of {{gli|bolt}}s or {{gli|piton}}s in {{gli|sport climbing}}.}}
+
+{{term|cleaning tool}}
+{{defn|1=[[File:Climbing.nuttool.JPG|thumb|upright=0.7|'''{{gli|Cleaning tool}}''']]
+{{ghat|Also '''nut key''' or '''nut tool'''.}}
+A device for removing jammed protection equipment, especially {{gli|nut|nuts}}, from a {{gli|route}}.
+}}
+
+{{term|climbing area}}
+{{defn|A region with numerous {{gli|climbing route}}s. See ''{{gli|crag}}''}}
+
+{{term|climbing command}}
+{{defn|A short phrase used for communication and instructions between a {{gli|lead climber}} and a {{gli|belayer}}. See ''{{gli|take}}'', ''{{gli|belay off}}'', ''{{gli|belay on}}'', ''{{gli|on belay}}'', ''{{gli|off belay}}''.<ref name=outsidenoob/>}}
+
+{{term|[[climbing gym]]}}
+{{defn|A specialized {{gli|indoor climbing}} center; usually just called a "climbing centre" in the UK.}}
+
+{{term|climbing peak}}
+{{defn|From German (Klettergipfel) a formation that can only be ascended by climbing.<ref>{{citation|editor-surname1=Der Sächsische Bergsteigerbund|title=Sächsische Kletterregeln : Vollständige Fassung|contribution=5.1 ''Klettergipfel''|date=1 September 2009|language=German|url=http://www.bergsteigerbund.de/klettern_saechsische_kletterregeln.html|format=Webdokument|access-date=16 November 2009|archive-url=https://web.archive.org/web/20110910091422/http://www.bergsteigerbund.de/klettern_saechsische_kletterregeln.html|archive-date=10 September 2011|url-status=dead}}</ref>}}
+
+{{term|[[climbing rope]]}}
+{{defn|1={{ghat|See ''{{gli|dynamic rope}}'' and ''{{gli|static rope}}''}}
+General term for the wide range of specialized ropes that are used in all forms of climbing.<ref name=CL50/>}}
+
+{{term|[[climbing route]]}}
+{{defn|A path by which a climber reaches the top of a mountain, a rock face or obstacle, or an ice-covered face or obstacle.}}
+
+{{term|[[climbing shoe]]}}
+{{defn|1=[[File:Five Ten Anasazi Verde.jpg|thumb|upright=0.7|'''{{gli|Climbing shoe}}''']]
+Footwear designed specifically for rock climbing that fits tightly and with sticky rubber soles for grip.}}
+
+{{term|[[climbing wall]]}}
+{{defn|Artificial rock face that is typically housed indoors; is also used for {{gli|competition climbing}}.}}
+
+{{term|clip in}}
+{{defn|1={{ghat|Also '''clipping in'''.}}
+The process of attaching the rope to {{gli|protection}} (usually via a {{gli|carabiner}}), to {{gli|belay}} devices, or to other {{gli|anchor|anchors}}. See {{gli|tie in}}.}}
+
+{{term|clipstick}}
+{{defn|See ''{{gli|stick clip}}''.}}
+
+{{term|[[competition climbing]]}}
+{{defn|A type of climbing held on {{gli|climbing wall}}s for mostly professional or Olympic climbers, split into the disciplines of {{gli|lead climbing}} (on a bolted {{gli|sport climbing}} route), {{gli|bouldering}} and {{gli|speed climbing}}. A fourth discipline of "combined" add the three together. See ''{{gli|ifsc|IFSC}}''.<ref>{{cite web | website=[[British Mountaineering Council]] | url=https://www.thebmc.co.uk/a-brief-history-of-competition-climbing | title=A brief history of competition climbing | first=Toby | last=Dunne | date=17 August 2021 | accessdate=10 March 2023}}</ref>}}
+
+{{term|[[competition ice climbing]]}}
+{{defn|A type of ice climbing held on {{gli|climbing wall}}s for mostly professional ice climbers, split into the disciplines of ice {{gli|lead climbing}} (on a bolted {{gli|sport climbing}} dry-wall route), and ice {{gli|speed climbing}} on an iced route. See also ''{{gli|uiaa|UIAA}}''.}}
+
+{{term|[[Copperhead (climbing)|copperhead]]}}
+{{defn|1=[[File:Copperheads.jpg|thumb|upright=0.7|'''{{gli|Copperhead}}s''']] {{ghat|Also '''head'''.}}
+A small nut on a loop of wire with a head made of metal (often copper), soft enough to deform during placement, which is often with a {{gli|rock hammer|hammer}}; commonly used in {{gli|aid climbing}} as a point of placement, remaining fixed in-situ after placement.}}
+
+{{term|[[Cord (climbing)|cord]]}}
+{{defn|1={{ghat|Also '''cordage''', '''accessory cord'''}}
+A short piece of thin climbing rope used for various purposes in climbing, including for creating {{gli|abseiling|abseil stations}}. See ''{{gli|tat}}''.<ref name=CL50>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/gear/a-beginners-guide-to-climbing-ropes/ | title=Your Complete Guide to Rock Climbing Ropes | first=Stephen | last=Potter | date=25 July 2022 | accessdate=21 March 2023}}</ref>}}
+
+{{term|[[cord lock]]}}
+{{defn|A lock or toggle used to fasten cords with gloved hands. Used on most mountaineering gear.}}
+
+{{term|cordelette}}
+{{defn|1=[[File:Cordelette at belay anchor.jpg|thumb|upright=0.7|'''{{gli|Cordelette}}''']]
+A loop of narrow (e.g. 5-7 millimetre) accessory perlon cord that is used to tie into multiple {{gli|anchor}} points.}}
+
+{{term|corner}}
+{{defn|An inside corner of rock, the opposite of an {{gli|arête}} (UK). See ''{{gli|dihedral}}''.<ref name=UKC/>}}
+
+{{term|[[Cornice (climbing)|cornice]]}}
+{{defn|An overhanging edge of snow on a ridge.}}
+
+{{term|[[crack climbing]]}}
+{{defn|To ascend by wedging body parts into natural cracks in the rock.<ref name=ClimbingDictionary/><ref name=UKC/> See ''{{gli|jamming}}'', ''{{gli|chimney}}'', and ''{{gli|off-width}}''.}}
+
+{{term|crag}}
+{{defn|An expanse of continuous rock that contains a number of rock {{gli|climbing route}}s (e.g. [[Clogwyn Du'r Arddu]]).<ref name=UKC/>}}
+
+{{term|[[crampons]]}}
+{{defn|1=[[File:Mointain Boot with Crampons.jpg|thumb|upright=0.7|12-point '''{{gli|crampons}}''']]
+A pair of metal frames with spikes that can be attached to boots to increase grip on snow and ice. See ''{{gli|front pointing}}''.}}
+
+{{term|cranking}}
+{{defn|To pull on a climbing hold as hard as possible.}}
+
+{{term|crash pad}}
+{{defn|See ''{{gli|bouldering mat}}''.}}
+
+{{term|crater}}
+{{defn|See ''{{gli|ground fall}}''.<ref name=UKC/>}}
+
+{{term|[[Rock climbing#Techniques|crimp]]}}
+{{defn|1=[[File:BW 2012-08-26 Anna Stoehr AUS 0601.JPG|thumb|upright=0.7|'''{{gli|crank|Cranking}}''' on '''{{gli|crimp|crimps}}''']]
+{{ghat|Also '''crimper'''.}}
+A hold which is only just big enough to be grasped with the tips of the fingers.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="ClimbingTechniques"/>}}
+
+{{term|crux}}
+{{defn|The most difficult portion of a climb; often the [[Grade (climbing)|grade]] is defined by the difficulty of the crux.<ref name=ClimbingDictionary/><ref name=UKC/><ref>{{cite web | magazine=Climbing | url=https://www.climbing.com/news/the-crux/ | title=The Crux | first=Steve | last=Quinn | date=13 August 2008 | accessdate=24 December 2022}}</ref>}}
+
+{{term|cut-loose}}
+{{defn|When a climber's feet swing away from the rock on overhanging terrain and they hang by their hands.}}
+
+{{glossaryend}}
+
+==D==
+{{glossary}}
+
+{{term|[[Grade (climbing)#D-grade|D-grade]]}}
+{{defn|1={{ghat|Also '''dry-tool climbing grade'''.}}
+Where {{gli|mixed climbing}} routes are completed in fully dry conditions (i.e. no ice or snow), the "M" suffix of the {{gli|M-grade}} is swapped for a "D".}}
+
+{{term|dab}}
+{{defn|A term in {{gli|bouldering}} for touching the ground, {{gli|crash pad}}, spotter, or hold from other {{gli|route}}.<ref>{{cite web | magazine=Gripped Magazine | title=Do Ethical Dabs in Bouldering Exist? | first=Noah | last=Walker | date=21 July 2021 | accessdate=5 March 2023 | url=https://gripped.com/profiles/do-ethical-dabs-in-bouldering-exist/}}</ref>}}
+
+{{term|[[Daisy chain (climbing)|daisy chain]]}}
+{{defn|1=[[File:Daisychainclimbing.JPG|thumb|upright=0.7|'''{{gli|Daisy chain}}''']]
+A special-purpose type of {{gli|sling}} with multiple sewn or tied loops, used in {{gli|aid climbing|aid}} and {{gli|big wall climbing}}.}}
+
+{{term|dead hang}}
+{{defn|1=[[File:Climbing World Championships 2018 Lead Final Garnbret 03.jpg|thumb|upright=0.7|'''{{gli|Dead hang|Dead hanging}}''']]
+When a climber hangs limp, such that their weight is held by arm [[ligament]] tension rather than by muscles.}}
+
+{{term|deadman anchor}}
+{{defn|1={{ghat|Also '''snow anchor''' and '''T-slot'''}} An object which lies horizontally, buried in the snow, serving as an {{gli|anchor}} for an attached {{gli|fixed rope}}.<ref>{{Cite book|title=Mountaineering : the freedom of the hills|year=2017|publisher=Mountaineers Books |isbn=9781680510034|oclc=978286879}}</ref>}}
+
+{{term|deadpoint}}
+{{defn|A controlled {{gli|dynamic motion}} in which the hold is grabbed with one hand at the apex of upward motion of the body, while one or both feet and the other hand maintain contact with the rock.<ref>{{Cite web |title=Climbing Movement: 17. The DeadPoint |work=Climbing Tech Tips |date=20 August 2017 |access-date=20 May 2019 |url=https://climbingtechtips.com/instructional-climbing-videos/climbing-movement/the-deadpoint/ |archive-date=20 September 2020 |archive-url=https://web.archive.org/web/20200920014845/https://climbingtechtips.com/instructional-climbing-videos/climbing-movement/the-deadpoint/ |url-status=dead }}</ref> See ''{{gli|dyno|dynos}}''.}}
+
+{{term|deck}}
+{{defn|The ground below a climbing route (i.e they fell to the ground and "hit the deck"). See ''{{gli|ground fall}}''.<ref name=UKC/>}}
+
+{{term|[[deep-water soloing]]}}
+{{defn|1={{ghat|Also '''psicobloc'''.}} [[File:Natalija Gros in Kamenjak, Croatia, 2009 photo Jure Breceljnik.jpg|thumb|upright=0.7|'''{{gli|Deep-water soloing}}''']]
+{{gli|Free solo climbing}} on an overhanging route over a body of water to absorb any fall.<ref name=UKC/>}}
+
+{{term|[[Descender (climbing)|descender]]}}
+{{defn|1={{ghat|Also '''rappel device'''.}}
+A mechanical device that enables a controlled descent on a {{gli|fixed rope}}; {{gli|belay device|belay devices}} can be descenders.<ref name=UKC/> A {{gli|rack}} is another type of descender.}}
+
+{{term|[[dexamethasone]]}}
+{{defn|1={{ghat|Also '''dex'''.}}
+A drug to treat [[high-altitude cerebral edema]] (HACE) and [[high-altitude pulmonary edema]] (HAPE).<ref name=MedicalProblems>{{cite web |author1=Cymerman, A |author2=Rock, PB |title=Medical Problems in High Mountain Environments. A Handbook for Medical Officers |publisher=US Army Research Inst. of Environmental Medicine Thermal and Mountain Medicine Division Technical Report |id=USARIEM-TN94-2 |url=http://archive.rubicon-foundation.org/7976 |access-date=2009-03-05 |archive-url=https://web.archive.org/web/20090423042510/http://archive.rubicon-foundation.org/7976 |archive-date=2009-04-23 |url-status=usurped }}</ref>
+}}
+
+{{term|dialled}}
+{{defn|To have a complete understanding of a particular climbing move or sequence of moves on a route.}}
+
+{{term|[[Diamox]]}}
+{{defn|A drug used to inhibit the onset of [[altitude sickness]]; otherwise known as ''acetazolamide''.<ref name=MedicalProblems />}}
+
+{{term|dihedral}}
+{{defn|1=[[File:Red Rocks - Climbing the Fox - 1.jpg|thumb|upright=0.7|'''{{gli|Dihedral}}''']]
+An open book-shaped {{gli|corner}} formed at the intersection of two flat rock faces; the opposite of an ''{{gli|arête}}''.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|direttissima}}
+{{defn|Italian for "shortest link", is the most direct route to the summit of a mountain up the fall line (e.g. the ''Brandler-Hasse Direttissima'' on the [[Cima Grande di Lavaredo|Cima Grande]], [[Dolomites]]); origin of the term is often attributed to [[Emilio Comici]] who said: "I wish some day to make a route, and from the summit let fall a drop of water, and this is where my route will have gone".<ref>{{cite web | url=https://gripped.com/news/film-emilio-comici-angel-of-the-dolomites/ | title=Film: Emilio Comici – Angel of the Dolomites | date=8 July 2015 | magazine=Gripped Magazine | accessdate=25 August 2023}}</ref>}}
+
+{{term|direct start}}
+{{defn|A new variation of an existing rock climbing route that avoids detours taken before the main line is reached due to their greater difficulty (e.g. [[Suprême Jumbo Love]] as a direct start to [[Jumbo Love]]).}}
+
+{{term|dirtbag}}
+{{defn|A climber who lives modestly and often itinerantly, to maximize the amount of time climbing. Practitioners included [[Jan and Herb Conn]] and [[Fred Beckey]] (from the film: ''Dirtbag: The Legend of Fred Beckey'').<ref>{{Cite web|title=DIRTBAG: THE LEGEND OF FRED BECKEY Screening|url=https://www.mountaineers.org/locations-lodges/seattle-program-center/events/dirtbag-the-movie|access-date=2021-02-07|website=The Mountaineers|language=en}}</ref>}}
+
+{{term|double ropes}}
+{{defn|1={{ghat|Also '''half ropes'''.}} [[File:Hebrides climbing - The Raven.jpg|thumb|upright=0.7|Using '''{{gli|double ropes}}''']]
+In {{gli|lead climbing}} where two thinner ropes are used instead of a single rope to manage {{gli|drag|rope drag}}. Compare ''{{gli|twin ropes}}''.<ref name=CL50/>}}
+
+{{term|downclimb}}
+{{defn|To descend by climbing downward (rather than by {{gli|abseiling}} or {{gli|lower-off|lowering off}}), after completing a climb, or {{gli|bail}}ing.}}
+
+{{term|drag}}
+{{defn|1={{ghat|Also '''rope drag'''.}}
+Friction from the rope running over the rock and through the lower {{gli|protection}}. See ''{{gli|slack}}'' and ''{{gli|double ropes}}''.<ref>{{cite journal|last1=Ellison|first1=Julie|title=Extension Basics|journal=Climbing|date=11 January 2013|url=http://www.climbing.com/skills/extension-basics/|access-date=9 December 2016}}</ref><ref>{{cite web|title=Preventing Rope Drag|url=http://www.climbingtechniques.org/preventing-rope-drag.html|website=ClimbingTechniques.org|access-date=9 December 2016}}</ref><ref>{{cite web | magazine=Climbing | url=https://www.climbing.com/skills/how-to-lead-climb/ | title=A Beginner's Guide to Lead Climbing | first=Stephen | last=Potter | date=23 August 2022 | accessdate=24 December 2022}}</ref>}}
+
+{{term|drilled baby angle}}
+{{defn|1=[[File:Red Rocks - Piton at Great Red Book Rock.jpg|thumb|upright=0.7|'''{{gli|Drilled baby angle}}''']]
+{{ghat|Also '''drilled pitons'''.}}
+A type of {{gli|anchor}} used in soft rock instead of {{gli|bolt|bolts}} that uses a "baby angle" ({{gli|piton}}) {{gli|rock hammer|hammered}} into a drilled hole, which some think is better in soft rock than bolts that can crack the rock.<ref>{{cite web|title=Drilling Bolts? Do Not Do This! |url=https://www.mountainproject.com/forum/topic/105890815/drilling-bolts-do-not-do-this|website=Mountain Project|access-date=15 December 2017}}</ref><ref>{{cite web|title=Drilled Pitons in the desert| url=https://www.mountainproject.com/forum/topic/105950741/drilled-pitons-in-the-desert|website=Mountain Project|access-date=15 December 2017}}</ref>
+}}
+
+{{term|drive-by}}
+{{defn|A {{gli|deadpoint}} where one arm crosses over the other to reach a hold that is above and to the side.}}
+
+{{term|drop knee}}
+{{defn|1={{ghat|Also '''egyptian'''.}}
+{{ghat|Also '''knee drop'''.}}{{ghat|Also '''lolotte'''.}}
+An advanced [[rock-climbing technique]] where the knee is dropped downwards to twist the hips—and the centre of gravity—closer to the rock face, thus increasing the amount of upward reach and torque available to the climber; the unique stresses on the knee can lead to serious injuries.<ref name=ClimbingDictionary/><ref name="REI"/>}}
+
+{{term|[[dry-tooling]]}}
+{{defn|1=[[File:Ice climbing Ecrins 2014 2.jpg|thumb|upright=0.7|A climber '''{{gli|dry tooling}}''']]
+Using {{gli|ice climbing}} tools such as {{gli|crampons}} and {{gli|ice axe|ice axes}}, on bare rock. See ''{{gli|Mixed climbing}}''.}}
+
+{{term|[[Dry Tooling Style]]}}
+{{defn|1={{ghat|Also '''DTS'''.}}
+Type of {{gli|dry-tooling}} with additional restrictions and particularly a prohibition on {{gli|yaniro}} moves.}}
+
+{{term|[[Dülfersitz]]}}
+{{defn|A classical non-mechanical {{gli|abseiling}} technique where the {{gli|fixed rope}} is wrapped around the body.}}
+
+{{term|[[dynamic rope]]}}
+{{defn|An elastic {{gli|climbing rope}} that softens falls to some extent and absorbs the energy of heavy loads. Compare ''{{gli|static rope}}''.<ref name=CL50/>}}
+
+{{term|dyno}}
+{{defn|In rock climbing, a dynamic jump or leap to grab an out-of-reach hold; failure to grab the hold will usually result in a {{gli|fall}}.  See also ''{{gli|paddling}}'' and ''{{gli|campusing}}''.<ref name=ClimbingDictionary/><ref name=UKC/><ref name=CL56/>}}
+
+{{glossaryend}}
+
+==E==
+{{glossary}}
+
+{{term|[[Grade (climbing)#British|E-grade]]}}
+{{defn|Part of the British adjectival grading system that is used to rank the level of risk (a separate grade is given for technical difficulty) of {{gli|traditional climbing}} routes, and which goes E1, E2, E3, ... to E11 (an additional metric is used for technical difficulty).<ref name=AlpinistGrades/>}}
+
+{{term|[[Rock climbing#Techniques|edging]]}}
+{{defn|A technique of using the edge of a {{gli|climbing shoe}} on a narrow foothold; in the absence of footholds, {{gli|smearing}} is used.}}
+
+{{term|Egyptian}}
+{{defn|1=[[File:Janja Garnbret, World Championships, 17 09 2016 Paris.jpg|thumb|upright=0.7|'''{{gli|Egyptian}}''']]
+See ''{{gli|Drop knee}}''.<ref name=ClimbingDictionary/><ref name="REI"/>}}
+
+{{term|Egyptian bridging}}
+{{defn|The same position as {{gli|bridging}} or {{gli|chimneying}}, but with one leg in front and one behind the body.}}
+
+{{term|[[eight-thousander]]}}
+{{defn|A mountain whose elevation exceeds 8,000 meters (26,247 ft) [[Height above mean sea level|a.s.l.]], of which there are only 14 in the world.}}
+
+{{term|eliminate}}
+{{defn|no=1 | A {{gli|bouldering}} move, or series of moves, where certain holds are placed "off bounds".<ref name=UKC/>}}
+{{defn|no=2 | A British climbing term for a route that does not take the most obvious or direct line, and instead 'eliminates' the use of other features to create its line (e.g. not allowing the climber to use a nearby crack in making their ascent).<ref name=UKC/>}}
+
+{{term|Elvis legs}}
+{{defn|See ''{{gli|sewing-machine leg}}''.<ref name=UKC/>}}
+
+{{term|[[enchainment]]}}
+{{defn|A mountaineering term to describe linking-up several individual climbs to create a larger undertaking.}}
+
+{{term|energy absorber}}
+{{defn|1=[[File:PetzlScorpioShockAbsorber.jpg|thumb|upright=0.7|'''{{gli|Energy absorber}}''']] {{ghat|Also '''shock absorber'''.}}
+A piece of {{gli|protection}} equipment used in {{gli|via ferrata}} climbing to absorb the energy of the arrest of any fall. See ''{{gli|lanyard}}''.}}
+
+{{term|epic}}
+{{defn|An otherwise ordinary climb that turned into a major struggle.}}
+
+{{term|ERNEST}}
+{{defn|An acronym for Equalised, Redundant, No Extension, Strong, and Timely, in building {{gli|anchor|anchors}}. See ''{{gli|serene|SERENE}}''.}}
+
+{{term|etrier}}
+{{defn|1=[[File:Tatryhakowka.jpg|thumb|upright=0.7|Using an '''{{gli|etrier}}''']]
+A short ladder made of {{gli|webbing}} that is used for {{gli|aid climbing}}.<ref name=UKC/><ref>{{cite book|first=Harvey|last=Frommer|title=The Sports Junkie's Book of Trivia, Terms, and Lingo: What They Are, Where They Came From, and How They're Used|url=https://books.google.com/books?id=Zf0lAAAAQBAJ&pg=PA308|year=2005|publisher=Taylor Trade Publishing|isbn=978-1-4616-2603-9|page=308}}</ref>}}
+
+{{term|[[European Death Knot|European death knot]]}}
+{{defn|A flat overhand used to join a pair of ropes for retrievable {{gli|abseil|abseils}}; considered dubious in America.}}
+
+{{term|[[expedition style]]}}
+{{ghat|Also ''' siege tactics'''.}}
+{{defn|Using teams of support people (e.g. support climbers, sherpas, and/or equipment porters, etc.), and equipment (e.g. {{gli|fixed rope}}, base camps, etc.) in helping the lead climbers reach the eventual summit; opposite of {{gli|alpine style}}.}}
+
+{{term|[[Exposure (heights)|exposure]]}}
+{{defn|The level of empty space below or around a climber who is not in a secure position.<ref name=UKC/>}}
+
+{{glossaryend}}
+
+==F==
+{{glossary}}
+{{term|[[face climbing]]}}
+{{defn|Any climbing on vertical rock using finger holds, {{gli|edge|edges}}, and {{gli|smearing|smears}}, as opposed to {{gli|crack climbing}}.<ref name=ClimbingDictionary/>}}
+
+{{term|[[fall factor]]}}
+{{defn|Ratio of the height (h) a climber falls to the rope length (l) available to absorb the energy of a fall.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|false peak}}
+{{defn|1={{ghat|Also '''false summit'''}} 
+A [[summit (topography)|peak]] that appears to be the pinnacle of the mountain but upon reaching, it turns out the [[summit]] is higher (and further ahead).}}
+
+{{term|figure-four}}
+{{defn|1=[[File:2016 UIAA Ice Climbing World Tour Cheongsong - 59.jpg|thumb|upright=0.7|A '''{{gli|figure-four}}''' move]]
+{{ghat|Also '''figure of four''' and '''figure-four move''' and '''yaniro'''}}
+An advanced [[climbing technique]] in which the climber hooks a leg over the opposite arm (which needs to be in a good handhold), and then pushes down with this leg to achieve a greater vertical reach; more common in {{gli|mixed climbing}}.<ref name=UKC/>}}
+
+{{term|figure-nine}}
+{{defn|1={{ghat|Also '''figure of nine''' and '''figure-nine move'''}}
+A variation of the {{gli|figure-four}} move where the "same-side" leg is used instead of the "opposite" leg.<ref name=UKC/>}}
+
+{{term|[[Figure 8 (climbing)|figure eight]]}}
+{{defn|1=[[File:Abseilachter mit Seil.JPG|thumb|upright=0.7|'''{{gli|Figure eight}}''' belay]]
+A {{gli|belay device}} or {{gli|descender}} that is shaped like the number eight.<ref name=UKC/><ref name="ClimbingTechniques"/>
+}}
+
+{{term|[[figure-eight knot]]}}
+{{defn|1=[[File:Achterknoten2.JPG|thumb|upright=0.7|'''{{gli|Figure-eight knot}}''']]
+{{ghat|Also '''figure-eight loop'''.}}
+A knot commonly used to {{gli|tie in}} a climber's {{gli|harness}} to the climbing rope.
+}}
+
+{{term|finger jam}}
+{{defn|1={{ghat|Also '''finger lock'''.}}
+A type of {{gli|jamming|jam}} using the fingers in a crack.<ref name=ClimbingDictionary/>}}
+
+{{term|[[Hangboard|finger board]]}}
+{{defn|Training equipment used to build finger strength. See also ''{{gli|hangboard}}''.<ref name=UKC/>}}
+
+{{term|[[first ascent]]}}
+{{defn|1={{ghat|Also '''FA'''.}}
+The first successful ascent of a new {{gli|route}} by any means, including {{gli|aid climbing}} (i.e. not via {{gli|free climbing}}).}}
+
+{{term|[[first free ascent]]}}
+{{defn|1={{ghat|Also '''FFA'''.}}
+The {{gli|first ascent}} of a new {{gli|route}} without {{gli|aid climbing|aid}}, following the {{gli|free climbing}} criteria of a {{gli|redpoint}}.}}
+
+{{term|[[first female free ascent]]}}
+{{defn|1={{ghat|Also '''FFFA'''.}}
+The first female to complete a free ascent of a route that has already had an FFA.}}
+
+{{term|fist jam}}
+{{defn|A type of {{gli|jamming|jam}} using the hand.}}
+
+{{term|[[fixed rope]]}}
+{{defn|1=[[File:Žumarování.JPG|thumb|upright=0.7|{{gli|jumar|Jumaring}} up a '''{{gli|fixed rope}}''' using an {{gli|ascender}}]]
+A rope that hangs from a fixed attachment point; commonly used for {{gli|abseil|abseiling}} (going down) or for {{gli|jumar|jumaring}} (going up).}}
+
+{{term|flagging}}
+{{defn|A [[rock-climbing technique]] where a leg is held in a position to maintain balance, rather than to support weight, often to prevent a {{gli|barn-door}}.<ref name=UKC/> There are three types of flagging:<ref name="ClimbingTechniques"/><ref name="REI"/>
+;normal flag : Flagging foot stays on the same side (e.g. flagging right foot to the right side of the body).<ref name="ClimbingTechniques"/><ref name="REI"/>
+;reverse inside-flag : Flagging foot is crossed in front of the foot that is on a foothold.<ref name="ClimbingTechniques"/><ref name="REI"/>
+;reverse outside-flag : Flagging foot is crossed behind the foot that is on a foothold.<ref name="ClimbingTechniques"/><ref name="REI"/>
+}}
+
+{{term|flake}}
+{{defn|A thin slab of rock on the main face offering a hold, although it may become detached.<ref name=UKC/>}}
+
+{{term|flash}}
+{{defn|To ascend a route on the first attempt, but having obtained {{gli|beta}}; with no beta, it is an {{gli|on-sight}}.<ref name=ClimbingDictionary/><ref name=UKC/><ref name=Onsight/><ref name=SC/>}}
+
+{{term|[[Grade (climbing)#Font grade|font]]}}
+{{defn|1={{ghat|Also '''Fontainebleau grade'''.}}
+The French {{gli|grade}} system for {{gli|bouldering}}, which goes: 1, 2, 3, 4, 5, 6A, 6B, 6C, 7A, 7B, 7C, .... , to 9A; with the American {{gli|v-grade|V-grade}} system, is the most common worldwide boulder-grading system.  Font grades are often confused with {{gli|French grade}}s.<ref name=CAI/>}}
+
+{{term|term=foot jam|content=foot jam {{anchor|footjam}} }}
+{{defn|1={{ghat|Also '''heel-to-toe jam'''.}}
+A technique of {{gli|jamming}} the foot into a large crack by twisting so that the heel and toes touch the sides.}}
+
+{{term|flapper}}
+{{defn|The tearing of skin and flesh due to friction with sharp or rough surfaces. }}
+
+{{term|[[fourteener]]}}
+{{defn|A mountain summit that exceeds {{convert|14000|ft|m}}, particularly one in the contiguous United States.}}
+
+{{term|[[FreeBASE (climbing)|freeBASE]]}}
+{{defn|{{gli|Free solo climbing}} but with a [[BASE jumping]] parachute as a backup in the event of a fall.}}
+
+{{term|[[free climbing]]}}
+{{defn|Climbing without artificial {{gli|aid climbing|aids}} other than for {{gli|protection}}; can be done as {{gli|sport climbing}} or {{gli|traditional climbing}}.<ref name=UKC/>}}
+
+{{term|term=free solo climbing|content=[[free solo climbing]] {{anchor|free soloing}} }}
+{{defn|1={{ghat|Also '''free soloing'''.}}[[File: Michael Reardon - free soloing in Joshua Tree.jpg|thumb|upright=0.7|'''{{gli|Free soloing}}''']]
+Climbing without any type of {{gli|aid climbing|aid}} or any form of climbing {{gli|protection}}.}}
+
+{{term|[[French free climbing]]}}
+{{defn|The use of very basic {{gli|aid climbing}} techniques (i.e. {{gli|A-grade|A0-graded}} aid techniques such as pulling on climbing protection) to bypass a short section that is not easily climbable, particularly used in {{gli|big wall climbing}}.<ref>{{cite web | title=What is French free climbing | website=Climber | url=https://www.climbernews.com/what-is-french-free-climbing/ | date=12 April 2021 | accessdate=5 March 2023}}</ref>}}
+
+{{term|[[Grade (climbing)#French numerical grade|French grade]]}}
+{{defn|1={{ghat|Also '''Sport climbing grade''', and '''Plaisir grade'''}}
+The French {{gli|grade}} system for {{gli|sport climbing}}, which goes: 5a, 5b, 5c, 6a, 6b, 6c, 7a, 7b, 7c, .... , to 9c; with the American {{gli|yosemite decimal system|YDS}} system, is the most common sport climbing grading system.  French grades are often confused with {{gli|font}} grades.<ref name=CAI/>}}
+
+{{term|French start}}
+{{defn|Moving off for the second hold without being established on the start holds, thus using the floor as a foothold. In most {{gli|competition climbing}}, including {{gli|IFSC}} events, starting a climb in this manner invalidates the attempt.<ref>{{cite web |url=https://cdn.ifsc-climbing.org/images/World_Competitions/2021_IFSC_Rules_v165.pdf|archive-url=https://web.archive.org/web/20210508042833/https://cdn.ifsc-climbing.org/images/World_Competitions/2021_IFSC_Rules_v165.pdf|url-status=usurped|archive-date=May 8, 2021|title=IFSC 2021 Rules |access-date=2021-12-04 |author=Tim Hatch, François Leonardon}}</ref>}}
+
+{{term|frenchies}}
+{{defn|An exercise used to develop lock-off strength consisting of pull-ups that stop with the elbows locked at angles between 20 and 160 degrees.}}
+
+{{term|friable}}
+{{defn|Delicate and easily broken rock, or ice, often dangerously so.}}
+
+{{term|friction climbing}}
+{{defn|A [[rock-climbing technique]] relying solely on the [[friction]] between the sloped rock and the sole of the {{gli|climbing shoe|shoe}}.}}
+
+{{term|Friend}}
+{{defn|1=[[File:Climbing gear - Wild Country Friends - 06.jpg|thumb|upright=0.7|'''{{gli|Friend|Friends}}''']]
+The name of Wild Country's {{gli|spring-loaded camming device}} (SLCD) {{gli|protection}}, and a generic name for SLCDs.<ref name=UKC/>}}
+
+{{term|[[front pointing]]}}
+{{defn|An {{gli|ice climbing}} technique that uses the frontmost-spikes of the {{gli|crampons}} to ascend iced routes.}}
+
+{{term|fruit boot}}
+{{defn|1=[[File:Ice Climbing Fruit Boots.jpg|thumb|upright=0.7|'''{{gli|fruit boot|Fruit boot}}''']]
+Type of lightweight shoe used in {{gli|mixed climbing}} and {{gli|ice climbing}} that have in-built {{gli|crampons}}.}}
+{{glossaryend}}
+
+==G==
+{{glossary}}
+{{term|[[gaiters]]}}
+{{defn|Mountaineering clothing equipment that is worn over the boots and lower leg to give added protection and waterproofing.}}
+
+{{term|Gaston}}
+{{defn|A climbing grip using one hand with the thumb down and elbow out, like a reverse {{gli|side pull}}. The grip maintains friction against a hold by pressing outward toward the elbow. Named for [[Gaston Rébuffat]].<ref name=ClimbingDictionary/><ref name=UKC/><ref name="REI"/>}}
+
+{{term|gate flutter}}
+{{defn|The unwelcome action of the gate on a {{gli|carabiner}} opening during a fall.}}
+
+{{term|[[gendarme (mountaineering)|gendarme]]}}
+{{defn|A rock-pinnacle or isolated rock-tower encountered along a ridge; often at the intersection of ridges.}}
+
+{{term|Geneva rappel}}
+{{defn|A modified {{gli|Dulfersitz}} {{gli|rappel}} using the hip and downhill arm for friction — less complex, but less friction and control.}}
+
+{{term|GiGi}}
+{{defn|A {{gli|belay device|belay plate device}} for belaying a second from above that has auto-blocking; made by Kong. See also ''{{gli|sticht plate|Sticht plate}}''.}}
+
+{{term|[[Glissade (climbing)|glissade]]}}
+{{defn|1=[[File:Glissading 0125 (3938801127).jpg|thumb|upright=0.7|Sitting '''{{gli|glissade}}''']]
+A voluntary act of sliding down a steep slope of snow using an {{gli|ice axe}} for control.}}
+
+{{term|[[Grade (climbing)|grade]]}}
+{{defn|Classifications intended as an objective measure of the technical difficulty of a climbing route (including rock, ice, bouldering, mixed, and aid). The most widely used {{gli|lead climbing}} grading systems are the {{gli|French grade|French sport climbing grades}}, and the American {{gli|yosemite decimal system|Yosemite Decimal System}}; for {{gli|bouldering}}, it is the {{gli|font}} grade and the {{gli|v-grade|V-grade}} systems.<ref name=UKC/><ref name=CAI/>}}
+
+{{term|[[List of grade milestones in rock climbing|grade milestone]]}}
+{{defn|The {{gli|first free ascent}} (FFA) by a {{gli|lead climber}} of a new {{gli|climbing route}} that sets a new grade level (e.g. the first-ever {{climbing grade|9b}} grade milestone was [[Chris Sharma]]'s FFA of ''[[Jumbo Love]]'' in 2008).}}
+
+{{term|greenpoint}}
+{{defn|1={{ghat|Also '''greenpointing'''.}}
+Ascending a {{gli|sport climbing}} route but only using {{gli|traditional climbing}} protection (e.g. ''[[Principle Hope]]''). See ''{{gli|redpoint}}''.<ref name=Gripped100>{{cite web | magazine=Gripped Magazine | url=https://gripped.com/profiles/redpoint-pinkpoint-and-headpoint-what-do-they-mean/ | title=Redpoint, Pinkpoint, and Headpoint – What Do They Mean? | first=Aaron | last=Pardy | date=5 November 2022 | accessdate=21 December 2022}}</ref>}}
+
+{{term|[[Grigri (climbing)|Grigri]]}}
+{{defn|1=[[File:Belaying grigri.jpg|thumb|upright=0.7|{{gli|Belaying}} with a '''{{gli|grigri}}''']]
+A {{gli|belay device}} invented and manufactured by [[Petzl]]; also used in [[rope solo climbing]].<ref name=UKC/>}}
+
+{{term|gronked}}
+{{defn|Accidentally going off-route {{gli|lead climbing|leading}} into a harder route; from the notorious climb ''Gronk'' in [[Avon Gorge]].}}
+
+{{term|ground fall}}
+{{defn|{{ghat|Also '''decking'''.}}
+Where a {{gli|lead climber}} falls and hits the ground, either because their {{gli|protection}} failed (e.g. {{gli|zipper fall}}), the {{gli|runout}} was too great, or the {{gli|belayer}} failed to arrest or hold the rope.<ref name=UKC/>}}
+
+{{glossaryend}}
+
+==H==
+{{glossary}}
+
+{{term|half ropes}}
+{{defn|See ''{{gli|double ropes}}''.<ref name=CL50/>}}
+
+{{term|hand jam}}
+{{defn|A type of {{gli|jamming|jam}} using the hand in a crack.<ref name=ClimbingDictionary/>}}
+
+{{term|hand traverse}}
+{{defn|{{gli|traverse|Traversing}} without any definitive footholds, i.e. no {{gli|edging}}, {{gli|smearing}} or {{gli|heelhooking}}.}}
+
+{{term|[[hangboard]]}}
+{{defn|1=[[File:Concet Climbing Solution Hangboard .jpg|thumb|upright=0.7|'''{{gli|Hangboard}}''']] 
+{{ghat|Also '''finger board'''.}}
+A training device to increase the climber's arm and finger strength. See ''{{gli|campus board}}''.<ref>{{cite web | magazine=Climbing | url=https://www.climbing.com/skills/hangboarding-easier-or-harder/ | title=Hangboarding For Everyone | date=6 October 2022 | accessdate=10 March 2023 | first=Kevin | last=Corrigan}}</ref>}}
+
+{{term|hangdog}}
+{{defn|1={{ghat|Also '''hangdogging'''.}}
+To hang on the rope, or a piece of {{gli|protection}}, after falling, and then start reclimbing without returning to the ground.<ref name=CL8>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | title=How to Hangdog Sport Climbing | date=21 July 2022 | accessdate=3 March 2023 | first=Laz | last=Haas | url=https://www.climbing.com/skills/how-to-hangdog-sport-climbing/}}</ref>}}
+
+{{term|[[hanging belay]]}}
+{{defn|1=[[File:Pou Anaiak el niño 8b - panoramio.jpg|thumb|upright=0.7|Using a '''{{gli|hanging belay}}''' (bottom climber)]]
+Where the {{gli|belay station}} of the {{gli|belayer}} is suspended from the ground and tied to the wall via a fixed {{gli|anchor}} point; used in {{gli|big wall|big wall climbing}} and {{gli|multi-pitch climbing}}.}}
+
+{{term|[[heel spurs (climbing)|heel spurs]]}}
+{{defn|Type of {{gli|crampons|crampon}} attachment to the back of the heel used in {{gli|mixed climbing}} to perform a {{gli|heel hook}}.<ref name=RI1>{{cite web | magazine=[[Rock & Ice]] | url=https://www.rockandice.com/opinion/is-mixed-climbing-legitimate/ | title=Is Mixed Climbing Legitimate? | first=Ryan | last=Nelson | date=27 February 2012 | accessdate=30 April 2023 | archive-date=30 April 2023 | archive-url=https://web.archive.org/web/20230430121105/https://www.rockandice.com/opinion/is-mixed-climbing-legitimate/ | url-status=dead }}</ref>}}
+
+{{term|term=high-altitude cerebral edema|content=[[high-altitude cerebral edema]] {{anchor|HACE}} }}
+{{defn|1={{ghat|Also '''HACE'''.}}
+A severe and often fatal form of [[altitude sickness]] caused by physical exertion without sufficient oxygen.<ref name=MedicalProblems />}}
+
+{{term|term=high-altitude pulmonary edema|content=[[high-altitude pulmonary edema]] {{anchor|HAPE}} }}
+{{defn|1={{ghat|Also '''HAPE'''.}}
+A severe form of [[altitude sickness]] caused by physical exertion without sufficient oxygen.<ref name=MedicalProblems />}}
+
+{{term|[[Climbing harness|harness]]}}
+{{defn|1={{ghat|Also '''climbing harness'''.}} 
+A sewn nylon webbing load-bearing device that is worn around the climber's waist and thighs, and to which the climbing rope, and other load-bearing climbing devices, can be attached.<ref name=UKC/>}}
+
+{{term|[[haul bag]]}}
+{{defn|1=[[File:Haul bag.jpg|thumb|upright=0.7|'''{{gli|Haul bag}}''']]
+A large hard-wearing bag for supplies and equipment that can be dragged up multi-pitch or {{gli|big wall}} routes.}}
+
+{{term|headpoint}}
+{{defn|1={{ghat|Also '''headpointing'''.}}
+{{gli|Top-roping}} a {{gli|traditional climbing}} route before {{gli|clean|lead climbing}} it to practice the moves. See ''{{gli|redpoint}}''.<ref name=Gripped100/>}}
+
+{{term|[[headwall]]}}
+{{defn|A region at the top of a cliff or rock face that steepens dramatically.}}
+
+{{term|term=heel hook|content=heel hook {{anchor|heelhook}} }}
+{{defn|1=[[File:Emily Harrington sends Golden Gate (5.13 VI) in El Capitan - 04.jpg|thumb|upright=0.7|'''{{gli|Heel hook}}''']]
+Using the back of the heel to apply pressure on a {{gli|hold}} for balance or for leverage.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="ClimbingTechniques">{{cite web |title=Intermediate Moves |url=http://www.climbingtechniques.org/intermediate-moves.html |website=ClimbingTechniques.org |access-date=13 March 2019 |language=en}}</ref>
+}}
+
+{{term|heel-toe}}
+{{defn|1={{ghat|Also '''heel-toe cam'''.}} 
+A combination of a {{gli|toe hook}} and {{gli|heel hook}} to hold the body onto the climbing route.}}
+
+{{term|hero loop}}
+{{defn|A short {{gli|runner}} made of 5- to 8-mm {{gli|cord}} tied in to a loop. Commonly used for self-belay during {{gli|rappel}}, escaping a {{gli|belay}}, and in {{gli|crevasse}} rescue.<ref>{{Cite book|title=Mountaineering : the freedom of the hills|year=2017|publisher=Mountaineers Books |isbn=9781680510034|oclc=978286879}}</ref>}}
+
+{{term|[[Hex (climbing)|hexcentric]]}}
+{{defn|1=[[File:Climbing gear - Black Diamond Hexes - 08.jpg|thumb|upright=0.7|'''{{gli|hex|Hexes}}''']]
+{{ghat|Also a '''hex'''.}}
+A {{gli|protection|protective device}} consisting of an eccentric hexagonal {{gli|nut}} attached to a wire loop.}}
+
+{{term|[[Highball (climbing)|highball]]}}
+{{ghat|Also '''high ball'''.}}
+{{defn|1=[[File:Hampi bouldering - 08.jpg|thumb|upright=0.7|A '''{{gli|high ball}}''']]
+A {{gli|boulder problem}} over circa {{convert|5-10|m|ft|adj=on}} high, where falling is dangerous.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[hip belay]]}}
+{{defn|A method of {{gli|belay|belaying}}, whereby the rope friction is increased by passing the rope around the hip of the belayer.}}
+
+{{term|[[climbing hold|hold]]}}
+{{defn|A place to temporarily cling, grip, jam, press, or stand in the process of climbing a route.<ref name=UKC/> See ''{{gli|volume hold}}''.}}
+
+{{term|[[HMS carabiner]]}}
+{{defn|A round-ended {{gli|carabiner}} for use with a {{gli|Munter hitch}} (from German for the hitch; ''Halbmastwurfsicherung'').}}
+
+{{term|[[Fifi hook|hook]]}}
+{{defn|1={{ghat|Also '''fifi hook''' and '''cam hook'''.}}
+A mechanical piece of [[climbing equipment]] used in {{gli|aid climbing}}. See also ''{{gli|skyhook}}''.}}
+
+{{term|hueco}}
+{{defn| A round hold consisting of a pocket in the rock with a positive lip, varying in size from a single finger (a "mono") to body-sized. The term comes from [[Hueco Tanks]] that is notable for huecos, the Spanish term for a "hole".}}
+
+{{term|hueco scale}}
+{{defn|See ''{{gli|V-grade}}''.<ref name=ClimbingDictionary/>}}
+
+{{glossaryend}}
+
+==I==
+{{glossary}}
+
+{{term|[[ice axe]]}}
+{{defn|1=[[File:Matériel d'escalade - studio WMCH - pioche Petzel.jpg|thumb|upright=0.7|Modern '''{{gli|ice axe}}''']]
+A multi-purpose tool used in {{gli|alpine climbing}} that is a combination of an ice pick, {{gli|adze}}, and pointed stick.}}
+
+{{term|[[ice climbing]]}}
+{{defn|Ascending iced routes (e.g. waterfalls, and [[couloir]]s), with specialized equipment. See ''{{gli|mixed climbing}}''.<ref name=ClimbingDictionary/>}}
+
+{{term|[[ice hammer]]}}
+{{defn|1=[[File:Ice Hammer K7NS1013.jpg|thumb|upright=0.7|'''{{gli|Ice hammer}}''']]
+A lightweight {{gli|ice axe}} with a hammer and pick head on a short handle, and no spike. See also ''{{gli|rock hammer}}''.}}
+
+{{term|ice piton}}
+{{defn|1=[[File:EishakenSchrauben.JPG|thumb|upright=0.7|'''{{gli|ice piton|Ice pitons}}''' (left), and '''{{gli|ice screw}}''' (right)]]
+A long, wide, serrated {{gli|piton}} that can be used for weak {{gli|protection}} on ice.}}
+
+{{term|[[ice screw]]}}
+{{defn|Modern {{gli|protection}} device in {{gli|ice climbing}}, with the tubular ice screw as the strongest.<ref>{{cite web | url=http://www.blackdiamondequipment.com/en_CA/ice-climbing-protection/express-ice-screw-BD4902100000ALL1.html | title=Best Ice Climbing tools &#124; Black Diamond Ice Axes &#124; Black Diamond® Climbing Gear }}</ref>}}
+
+{{term|[[ice tool]]}}
+{{ghat|Also '''technical axe'''.}}
+{{defn|A specialized elaboration of the modern {{gli|ice axe}} that is used in modern advanced {{gli|ice climbing}}.}}
+
+{{term|[[International Federation of Sport Climbing|IFSC]]}}
+{{defn|Outdated acronym for the international body that organises and regulates {{gli|competition climbing}}; now {{gli|WC}}. See ''{{gli|uiaa|UIAA}}''.}}
+
+{{term|[[indoor climbing]]}}
+{{defn|Rock climbing that takes place on artificial {{gli|climbing wall}}s that are set up inside buildings.}}
+
+{{term|in-situ}}
+{{defn|Denotes {{gli|protection}} that is installed on the route (e.g. "there is a {{gli|piton}} and {{gli|sling}} "in-situ" at the {{gli|crux}}").<ref name=UKC/>}}
+
+{{term|isolation zone}}
+{{defn|In {{gli|competition climbing}}, an area where competitiors are kept to prevent them getting {{gli|beta}} on the upcoming routes.<ref name=IFSCRules2023>{{cite web | website=[[International Federation of Sport Climbing]] | url=https://www.ifsc-climbing.org/index.php/world-competition/rules | title=IFSC RULES 2023 | date=April 2023 | accessdate=2 April 2023}}</ref>}}
+
+{{glossaryend}}
+
+==J==
+{{glossary}}
+{{term|jamming}}
+{{defn|1=[[File:Coyne Crack 5.11+ - Supercrack Buttress - Indian Creek.jpg|thumb|upright=0.7|Hand '''{{gli|jamming}}''']]
+Wedging a body part into a crack, including {{gli|finger jam}}, {{gli|foot jam}}, {{gli|hand jam}}, and {{gli|chest jam}}.<ref name=UKC/>}}
+
+{{term|jib}}
+{{defn|A very small foothold, large enough for the big toe, relying heavily on friction to support the weight.}}
+
+{{term|jug}}
+{{defn|See ''{{gli|bucket}}''.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[jumar]]}}
+{{ghat|Also '''jumaring'''.}}
+{{defn|A type of mechanical {{gli|ascender}}, and the generic term for ascending a {{gli|fixed rope}} using a mechanical ascender.}}
+{{glossaryend}}
+
+==K==
+{{glossary}}
+
+{{term|karabiner}}
+{{defn|See ''{{gli|carabiner}}''.<ref name=UKC/>}}
+
+{{term|[[Klemheist knot]]}}
+{{defn|An alternative to the {{gli|prusik|Prusik knot}}, useful when the climber is short of cord but has plenty of webbing.}}
+
+{{term|knee bar|content=knee bar {{anchor|kneebar}} }}
+{{defn|1=[[File:Hueco Tanks - Schwerer Gustav - V11.webm|thumb|thumbtime=12|Using a '''{{gli|knee bar}}''']]
+Wedging a knee against a hold in such a way as to allow the other limbs to be released and rested.<ref name=ClimbingDictionary/><ref name=kneebar2>{{cite web|last1=Buys|first1=Jordan|title=Use your knees!|url=http://www.ukclimbing.com/articles/page.php?id=3154|magazine=UKClimbing|date=15 November 2010 |access-date=12 December 2016}}</ref>
+}}
+
+{{term|knee drop}}
+{{defn|See ''{{gli|Egyptian}}''.}}
+
+{{term|knee pad | content=knee pad {{anchor|knee pad}} }}
+{{defn|An artificial pad that is worn on the lower thigh to protect a climber when performing a {{gli|knee bar}}; initially controversial as they raised technical standards, but came to be accepted like climbing shoes.<ref>{{cite web | magazine=Gripped Magazine | date=31 December 2020 | accessdate=25 June 2024 | first=Noah | last=Walker | title=Grading: Adam Ondra and Alex Megos on Ethics and Kneepads | url=https://gripped.com/news/rock/grading-ondra-and-megos-on-ethics-and-kneepads/}}</ref><ref name=AO>{{cite web | url=https://adamondra.com/updates/climbing-ethics | title=Climbing Ethics | author=[[Adam Ondra]] | website=AdamOndra.com | accessdate=1 January 2022 | date=8 January 2021}}</ref>
+}}
+
+{{glossaryend}}
+
+==L==
+{{glossary}}
+
+{{term|lache}}
+{{defn|
+Modern climbing and [[parkour]] movement (most commonly used in {{gli|bouldering}}) where the climber dynamically progresses laterally by use of momentum gainned by swinging with feet and legs, and then letting go with the hands (from the [[French language|French]] ''lâcher''; let go).}}
+
+{{term|ladder}}
+{{defn|1=[[File:Negotiating crevasse.JPG|thumb|upright=0.7|Aluminum '''{{gli|ladder}}''']]
+{{ghat|Also '''aluminum ladder'''.}}
+Lightweight rigid aluminum ladders are used in {{gli|expedition style}} mountaineering to cross crevasses or on difficult sections as a form of {{gli|aid climbing}} support (this can also be done with flexible ''{{gli|bachar ladder}}s''). See also ''{{gli|aider}}''.}}
+
+{{term|[[Lanyard (climbing)|lanyard]]}}
+{{defn|1=[[File:ViaFerrataLanyardPetzlScorpio.jpg|thumb|upright=0.7|A Petzl '''{{gli|lanyard}}''' and '''{{gli|energy absorber}}''']]
+A Y-shaped piece of {{gli|protection}} equipment used in {{gli|via ferrata}} climbing that attaches the {{gli|harness}} to the fixed steel cables. Lanyards often attach to {{gli|energy absorber}}s given the higher {{gli|fall factor}} of via ferrata climbing.}}
+
+{{term|1=[[Rock climbing#Techniques|laybacking]]}}
+{{defn|1=[[File:Clifton, Tasmania - Matchless - 1.jpg|thumb|upright=0.7|'''{{gli|laybacking|Laybacking}}''']]
+{{ghat|Also '''liebacking'''.}}
+Climbing an edge by {{gli|side pull|side-pulling}} with both hands and using opposing friction for the feet.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="REI"/>}}
+
+{{term|[[lead climbing]]}}
+{{defn|1={{ghat|Also '''leading'''.}}
+A form of climbing in which a {{gli|lead climber}} clips their {{gli|belay}} rope into {{gli|protection}} equipment as they ascend.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[lead climber]]}}
+{{defn|1={{ghat|Also '''leader'''.}}
+The individual ascending the route in {{gli|lead climbing}}; the other person is the {{gli|belayer}}.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|leader fall}}
+{{defn|A {{gli|lead climber}} fall while {{gli|lead climbing}}; will be ''at least'' twice the distance to the last piece of {{gli|protection}}.}}
+
+{{term|Leavittation}}
+{{defn|A technique used to climb {{gli|off-width}} cracks pioneered in the late 1970s by Randy Leavitt and [[Tony Yaniro]] that uses alternating hand-fist stacks and leg-calf locks; helpful for resting, and when placing {{gli|protection}}.<ref>{{cite web | magazine=Gripped Magazine | url=https://gripped.com/news/leavittation-how-to-climb-offwidth-cracks/ | title=Leavittation: How To Climb Offwidth Cracks | accessdate=6 March 2023| date=8 May 2013}}</ref>}}
+
+{{term|[[liquid chalk]]}}
+{{defn|A liquid form of {{gli|climbing chalk}} but with a longer hold time.}}
+
+{{term|live rope}}
+{{defn|In {{gli|lead climbing}}, the segment of the rope between the {{gli|lead climber}} and the {{gli|belayer}}.<ref name=UKC/>}}
+
+{{term|lock-off}}
+{{defn|1=[[File:Climbing World Championships 2018 Lead Semi Klingler (BT0A1022).jpg|thumb|upright=0.7|Resting '''{{gli|lock off}}''']]
+A climber holding a fixed position with one bent arm, usually while clipping or reaching for another hold with their other arm, or resting. Contrast with {{gli|dead hang}}.<ref name=ClimbingDictionary/>}}
+
+{{term|lolotte}}
+{{defn|See ''{{gli|Egyptian}}''.}}
+
+{{term|lower-off}}
+{{defn|When a {{gli|lead climber}} is lowered down the route by the {{gli|belayer}} holding their weight on the {{gli|belay device}}.}}
+
+{{term|low zone}}
+{{defn|In competition bouldering, a marked hold somewhere between the start and zone.  It is either worth some number of points (less than the zone) or used as a tiebreaker.}}
+{{glossaryend}}
+
+
+
+==M==
+{{glossary}}
+
+{{term|[[Grade (climbing)#M-grade|M-grade]]}}
+{{defn|1={{ghat|Also '''mixed climbing grades'''.}}
+Part of the {{gli|mixed climbing}} system for {{gli|grade|grading}} the technical difficulty of mixed climbing routes, which goes: M1, M2, M3, M4, M5, M6, and up to M14.<ref name=AlpinistGrades/> See also ''{{gli|D-grade}}''.}}
+
+{{anchor|mantel}}{{term|mantel move}}
+{{defn|1=[[File:Rat rock 2 020.jpg|thumb|upright=0.7|'''{{gli|Mantel}}''' move]]
+Moving onto a shelf of rock by pressing down on it with the palms until the climber can stand on the "mantel" (i.e. the same action as leaving from the side of a pool).<ref name=ClimbingDictionary/><ref name=UKC/><ref name="ClimbingTechniques"/><ref name="REI">{{cite web |title=Climbing Techniques and Moves {{!}} REI Expert Advice |url=https://www.rei.com/learn/expert-advice/climbing-techniques.html |website=REI |access-date=13 March 2019}}</ref>
+}}
+
+{{term|[[mixed climbing]]}}
+{{defn|A type of climbing that involves using {{gli|ice climbing}} tools on iced-up or snow-covered rock surfaces; [[mixed climbing technique]]s are used in ''{{gli|dry-tooling}}'' and in ''{{gli|alpine climbing}}''.<ref name=RI1/>}}
+
+{{term|mono}}
+[[File:Mono hold.jpeg|thumb|upright=0.7|'''{{gli|Mono}}''' hold]]
+{{defn|A climbing hold, typically a {{gli|pocket}} or a {{gli|hueco}}, which only has enough room for one finger.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|moving together}}
+{{defn|See ''{{gli|simul climbing}}''.}}
+
+{{term|[[multi-pitch climbing]]}}
+{{defn|A climb that has more than one {{gli|pitch}}; a {{gli|big wall}} route involves so many pitches, it takes over a day.}}
+
+{{term|[[Munter hitch]]}}
+{{defn|1={{ghat|Also '''Italian hitch''' or '''friction hitch'''.}}
+A simple [[List of hitch knots|hitch]] used for {{gli|belay|belaying}} without a mechanical {{gli|belay device}}.
+}}
+
+{{glossaryend}}
+
+==N==
+{{glossary}}
+
+{{term|[[National Climbing Classification System]]}}
+{{defn|1={{ghat|Also '''NCCS'''}} {{ghat|Also '''commitment grade'''}}
+A North American grading system used mainly in {{gli|big wall climbing}} and {{gli|alpine climbing}}; goes from I, II, III ... to VII.}}
+
+{{term|[[névé]]}}
+{{defn|Permanent granular ice formed by repeated freeze-thaw cycles.}}
+
+{{term|[[aid climbing#New wave A-grades|new wave]]}}
+{{defn|See ''{{gli|A-grade}}''.}}
+
+{{term|no-hand rest}}
+{{defn|1=[[File:No hands rest.jpg|thumb|upright=0.7|'''{{gli|No-hand rest}}''']]
+An entirely leg-supported resting position during climbing that does not require hands on the rock.
+}}
+
+{{term|normal route}}
+{{defn|1={{ghat|Also '''voie normale'''}} {{ghat|Also '''Normalweg'''}}
+The easiest and most frequently used route for ascending and descending a climb.<ref>{{cite book | title=The Mountain Encyclopedia: An A to Z Compendium of Over 2,250 Terms, Concepts, Ideas, and People | first1=Frederic | last1=Hartemann | first2=Robert | last2=Hauptman | publisher=Taylor Trade Publishing | date=2005-06-15 | url=https://books.google.com/books?id=ifs2AgAAQBAJ&pg=PA158| isbn=9781461703310}}</ref>}}
+
+{{term|[[nunatak]]}}
+{{defn|A mountain or rock formation that protrudes through an ice field.
+}}
+
+{{term|[[Nut (climbing)|nut]]}}
+{{defn|1=[[File:Climbing gear - Assorted nuts - 10.jpg|thumb|upright=0.7|'''{{gli|nut|Nuts}}''']]
+A metal wedge attached to a wire loop that is inserted into cracks for {{gli|protection}}. See ''{{gli|hexcentric}}''.<ref name=UKC/>}}
+
+{{term|nut key}}
+{{defn|1={{ghat|Also '''nut tool'''.<ref name=UKC/>}}
+See ''{{gli|cleaning tool}}''.}}
+
+{{glossaryend}}
+
+==O==
+{{glossary}}
+
+{{term|off belay}}
+{{defn|American {{gli|climbing command}} when requesting that the {{gli|belayer}} remove {{gli|belay}} equipment from the climbing rope (e.g. when cleaning top {{gli|protection}} from a lead route). Replied to with "{{gli|belay off}}".<ref name=outsidenoob/>}}
+
+{{term|off-width}}
+{{defn|1=[[File:Creeks Giving - Climbing in Indian Creek, Utah - 23.jpg|thumb|upright=0.7|'''{{gli|Off-width}}''' climb]]
+A crack that is too wide for effective hand or foot {{gli|jamming|jams}} but is not as large as a {{gli|chimney}}.<ref name=ClimbingDictionary/><ref name=UKC/> See {{gli|big bro}}.}}
+
+{{term|on belay}}
+{{defn|American {{gli|climbing command}} when they are ready to be {{gli|belay|belayed}}. Replied to with "{{gli|belay on}}".<ref name=outsidenoob/>}}
+
+{{term|on-sight |content=on-sight {{anchor|onsight}} }}
+{{Redirect|On sight|the Kanye West song|On Sight}}
+{{defn|{{ghat|Also '''OS'''.}}
+To ascend a route on the first attempt, with no prior {{gli|beta}}; with beta, it is a {{gli|flash}}.<ref name=ClimbingDictionary/><ref name=UKC/><ref name=Onsight>{{cite web | magazine=Gripped Magazine | url=https://gripped.com/profiles/onsight-and-flash-what-do-they-mean/ | first=Aaron | last=Pardy | date=2 November 2022 | accessdate=24 December 2022 | title=Onsight and Flash – What Do They Mean?}}</ref>}}
+
+{{term|open book}}
+{{defn|An inside angle in the rock. See also ''{{gli|dihedral}}''.}}
+
+{{term|open project}}
+{{defn|A route that was {{gli|bolt}}ed by someone (e.g. they bought and installed the bolts) but who was unsuccessful in {{gli|redpoint}}ing it, and it is now considered to be "open" to any climber to try; sometimes the original bolter will leave colored tape on the first bolt(s) to note the route is "not open".<ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] |url=https://www.climbing.com/people/crusty-corner-the-red-tag-dilemma/ | title=Ah Yes: The Red-Tag / Open Project Dilemma | date=26 June 2019 | accessdate=15 September 2023 | first=Matt | last=Samet}}</ref>}}
+
+{{term|[[Overhang (rock formation)|overhang]]}}
+{{defn|A section of rock or ice that is angled beyond the vertical. See ''{{gli|roof}}''.<ref name=UKC/>}}
+{{glossaryend}}
+
+==P==
+{{glossary}}
+
+{{term|paddling}}
+{{defn|A multi-move {{gli|dyno}} where the climber must move quickly through a sequence of intermediate hand holds (neither of which can hold the climber for any period), with their arms mimicking a paddling action and their feet usually in mid-air, before getting to a secure position. See also ''{{gli|campusing}}''.<ref name=CL56>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/skills/how-to-master-climbing-dynos/ | title=Uncoordinated? Here are Three Drills to Improve Your Dynamic Movement | first=Josh | last=Larson | date=14 December 2021 | accessdate=25 April 2023}}</ref> }}
+
+{{term|passive protection}}
+{{defn|Type of {{gli|protection}} that remains static during a fall; opposite of {{gli|active protection}}. See ''{{gli|nut}}s'' and ''{{gli|hexcentric}}s''.}}
+
+{{term|[[peak-bagging]]}}
+{{defn|To systematically attain every peak of a designated class of summits (e.g. [[eight-thousander]]s), sometimes under prescribed conditions (e.g. in winter), and/or in a prescribed climbing style (e.g. no [[supplementary oxygen]]).}}
+
+{{term|peg}}
+{{defn|A {{gli|piton}}.}}
+
+{{term|[[pendulum]]}}
+{{defn|no=1|Swinging on a taut anchored rope to reach the next hold in a {{gli|traverse|pendulum traverse}}.}}
+{{defn|no=2|A swing experienced during a fall caused by the last piece of {{gli|protection}} being far to one side.}}
+
+{{term|[[permadraw]]}}
+{{defn|A {{gli|quickdraw}} but made from a steel cable with steel {{gli|carabiner}}s that is permanently fixed to the {{gli|bolt}}; longer wearing than aluminum quickdraws, and climbers do not need to retrieve them after a climb.<ref name=ClimbingDictionary/>}}
+
+{{term|[[personal anchor system]]}}
+{{defn|1={{ghat|Also '''PAS'''.}}
+An adjustable attachment point from a climber to a fixed {{gli|anchor}}, give them flexibility to perform other tasks.}}
+
+{{term|[[Snow anchor|picket]]}}
+{{defn|1={{ghat|Also '''snow picket'''.}} [[File:Firnanker.JPG|thumb|upright=0.7|'''{{gli|Picket}}''']]
+A long, tubular rod driven into the snow to provide a makeshift {{gli|anchor}}.}}
+
+{{term|pinch hold}}
+
+{{defn|1={{ghat|Also '''pinch'''.}}
+A hold which must be "pinched" between the fingers to use it.<ref name=UKC/><ref name="ClimbingTechniques"/>}}
+
+{{term|pinkpoint}}
+{{defn|{{gli|Lead climbing}} where the {{gli|protection}} (e.g. {{gli|quickdraw}}s) are pre-installed. See also ''{{gli|greenpoint}}'' and ''{{gli|redpoint}}''.<ref name=UKC/><ref name=Gripped100/>}}
+
+{{term|[[Pitch (climbing)|pitch]]}}
+{{defn|The climbing route between two {{gli|belay}} points with a "full pitch" being the length of the rope, circa {{convert|50|m|ft}}.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[piton]]}}
+{{defn|1=[[File:Profilhaken.jpg|thumb|upright=0.7|'''{{gli|Piton}}''']] {{ghat|Also '''angle''', '''beak''', '''bong''', '''knifeblade''', '''lost arrow'''.}}
+A flat or angled metal blade of steel for {{gli|protection}} that incorporates a clipping hole for a {{gli|carabiner}} or a ring in its body that is {{gli|rock hammer|hammered}} into cracks; comes in a wide range of designs and types for different crack types and widths; common in {{gli|aid climbing}}, {{gli|big wall climbing}}, and {{gli|alpine climbing}}.<ref name=ClimbingDictionary/><ref name=UKC/> See also ''{{gli|rurp|RURP}}''.}}
+
+{{term|piton catcher}}
+{{defn|A clip-on string fastened to a {{gli|piton}} when inserting or removing, so as to avoid loss.}}
+
+{{term|plunge step}}
+{{defn|An aggressive step pattern for descending on hard or steep-angle snow.}}
+
+{{term|pogo}}
+{{defn|A dynamic, momentum-based, and often diagonal, move where one leg swings wildly to generate upward force, enabling the climber to reach distant holds with reduced upper body strain.}}
+
+{{term|poop tube}}
+{{defn|1=[[File:Poop Tube Waste System.webp|thumb|upright=0.7|'''{{gli|Poop tube}}''']]
+A [[PVC]] tube-shaped container for carrying out human feces during multi-day or {{gli|big wall climbing|big wall}} climbs.<ref name=BK2/>}}
+
+{{term|[[portaledge]]}}
+{{defn|1=[[File:Lying on the portaledge.jpg|thumb|upright=0.7|'''{{gli|Portaledge}}''']]
+A lightweight foldaway tent platform used in {{gli|big wall climbing}} to create a rest point on a sheer rock face.}}
+
+{{term|term=positive |content=positive {{anchor|positive hold}} }}
+{{defn|A {{gli|hold}} or part of a hold with a surface facing upwards, or away from the direction it is pulled, facilitating use. A positive hold is the opposite of a {{gli|sloper}}.}}
+
+{{term|pressure breathing}}
+{{defn|1={{ghat|Also '''Whittaker wheeze'''.}}
+Forcefully exhaling to facilitate O<sub>2</sub>/CO<sub>2</sub> exchange at altitude.}}
+
+{{term|term=problem |content=problem {{anchor|bouldering problem|boulder problem}} }}
+{{defn|1={{ghat|Also '''bouldering problem''' or '''boulder problem'''.}}
+Used in {{gli|bouldering}} to describe the sequence of moves to be overcome.<ref name=UKC/>}}
+
+{{term|progress capture device}}
+{{defn|1=[[File:Petzl Micro Traxion Self-Locking.jpg|thumb|upright=0.7|'''{{gli|Progress capture device|Petzl Micro Traxion}}''']] {{ghat|Also '''PCD'''.}}
+A mechanical climbing device that allows the rope to move through it in only one direction, examples being the Petzl Micro Traxion or the Camp Lift; PCDs are used in many climbing tasks including gear hauling, [[belaying]], [[top rope solo climbing]] and in [[simul-climbing]].<ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/skills/how-to-toprope-solo/ | title=Top-rope soloing: How Josh Wharton Climbs Multi-pitches Faster and With Less Energy | date=25 August 2022 | accessdate=5 March 2023 | first=Josh | last=Wharton}}</ref><ref name=GJ>{{cite web | website=GearJunkie | url=https://gearjunkie.com/climbing/rope-solo-rock-climbing-how-to | title=Rope Solo Rock Climbing: Understanding How It's Done | first=Christian | last=Black | date=3 February 2022 | accessdate=3 March 2023}}</ref> See also ''{{gli|Self-locking device}}''.}}
+
+{{term|project}}
+{{defn|1={{ghat|Also '''projecting'''.}} 
+An attempt over time to climb a new (worldwide or personal) {{gli|route}} or boulder {{gli|problem}} as a "project".}}
+
+{{term|[[Protection (climbing)|protection]] }}
+{{defn|1={{ghat|Also '''pro'''.}} {{ghat|Also '''gear'''.}} [[File:Climber with equipment.jpg|thumb|upright=0.7|Carrying '''{{gli|protection}}''']]
+Equipment for arresting {{gli|lead climber}} falls, or to create {{gli|anchor|anchors}} for {{gli|abseil}}s or {{gli|belay}}s. Examples are {{gli|passive protection|passive}} ({{gli|bolt}}s,  {{gli|copperhead}}s, {{gli|hexcentric}}s, {{gli|ice screw}}s, {{gli|nut}}s, {{gli|quickdraw}}s, and {{gli|skyhook}}s), and {{gli|active protection|active}} ({{gli|cam}}s, {{gli|friend}}s, {{gli|tricam}}s).<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[Prusik knot|Prusik]]}}
+{{defn|A knot used for ascending a {{gli|fixed rope}}, named after Austrian [[Karl Prusik]], who developed this knot in 1931.<ref name=UKC/>}}
+
+{{term|pulley}}
+{{defn|1=[[File:20030830중앙119구조단 산악계곡구조 훈련23.jpg|thumb|upright=0.7|'''{{gli|Pulley}}''' (in red)]] {{ghat|Also '''climbing pulley'''.}} 
+The lightweight mechanical pully that has wide application in climbing including [[big wall climbing]] (especially gear hauling) and [[crevasse rescue]] and in [[tyrolean traverse]]ing.}}
+
+{{term|pump}}
+{{defn|1={{ghat|Also '''pumped'''.}} 
+The accumulation of metabolic waste products in the forearm(s) so that holding a basic grip becomes impossible.<ref name=UKC/>}}
+
+{{glossaryend}}
+
+==Q==
+[[File:Klettern Expressset.jpg|thumb|upright=0.7|'''{{gli|Quickdraw}}s''' ]]
+{{glossary}}
+{{term|[[quickdraw]]}}
+{{defn|1={{ghat|Also '''draw''', and '''extender'''.}}
+A piece of climbing {{gli|protection}} that is used to attach a running rope to an {{gli|anchor}} or a {{gli|bolt}}. See ''{{gli|permadraw}}''.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[maillon|quicklink]]}}
+{{defn|1={{ghat|Also '''[[maillon]]''' and '''maillon rapide'''.}}
+A screw-type oval-shaped stainless steel {{gli|carabiner}} which is smaller than the normal carabiner.}}
+{{glossaryend}}
+
+==R==
+{{glossary}}
+{{term|rack}}
+{{defn|1=[[File:Trad rack.jpg|thumb|upright=0.7|A {{gli|traditional climbing}} '''{{gli|rack}}''' on a {{gli|harness}}]]
+[[File:Braking bar.jpg|thumb|upright=0.7|A '''{{gli|rack}}''']]
+[[File:Whaletail Descender Bare.jpg|thumb|upright=0.7|A whale tail ('''{{gli|rack}}''')]]}}
+{{defn|no=1|Name given to the collective set of {{gli|protection}} equipment carried by a {{gli|lead climber}} up a climb.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+{{defn|no=2|A type of heavy-duty "all-weather" {{gli|descender}} known as an "abseil rack" or a "rappel rack", consisting of metal bars on a U-shaped chassis, which is frequently used in [[caving]]. An alternative heavier device is a "whaletail" (also "whale tail") which is a machined block often used by rescuers.<ref>{{cite book| title=Vertical | first=Al | last=Warild | chapter=Chapter 6: Descent| page=96 | url=https://www.cavediggers.com/files/vertical/6descent.pdf |access-date=2 July 2024 | date=1994 | edition=3rd | isbn=978-0958925372 | publisher=[[National Speleological Society]]}}</ref> }}
+
+{{term|[[abseil|rappel]]}}{{anchor|rappelling}}
+{{defn|See ''{{gli|abseil}}''.}}
+
+{{term|rating}}
+{{defn|See ''{{gli|grade}}''.}}
+
+{{term|re-belay}}
+{{defn|1={{ghat|Also '''rebelay'''.}}
+Secondary or intermediate fixed {{gli|anchor|anchor point(s)}} along the length of a {{gli|fixed rope}} (i.e. in addition to the main {{gli|anchor|anchor}} at the top of the fixed rope) that is used to avoid edges that could increase rope wear.<ref>{{cite web | website=VDiff Climbing | url=https://www.vdiffclimbing.com/big-wall-fixing-pitches/ | title=How To Climb a Big Wall – Fixing Pitches | date=2024 | accessdate=10 May 2024 | first=Neil |last=Chelton}}</ref>}}
+
+{{term|rebolting}}
+{{defn|The replacement of older {{gli|bolt|bolts}} on an existing bolted {{gli|sport climbing}} route.}}
+
+{{term|[[Redpoint (climbing)|redpoint]]}}
+{{defn|1={{ghat|Also '''redpointing'''.}}
+{{gli|free climbing|Free climbing}} a route by {{gli|lead climbing|leading}} it after having failed it or practiced it beforehand (e.g. by {{gli|hangdog|hangdogging}}, {{gli|headpoint}}ing,  or {{gli|top rope climbing|top roping}}). A route climbed on the first-ever attempt (and no practice), it is an {{gli|onsight}} or a {{gli|flash}}. See ''{{gli|first free ascent}}''.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[removable bolt]]}}
+{{defn|1={{ghat|Also '''RB'''.}}
+A removable {{gli|protection}} {{gli|bolt}}, similar in concept to a sliding {{gli|nut}}, but shaped to fit into a drilled hole; popular in {{gli|aid climbing}}.}}
+
+{{term|[[rest step]]}}
+{{defn|An energy-saving mountaineering technique where the unweighted (uphill) leg is rested between each forward step, by "locking" the knee of the rear leg.}}
+
+{{term|retro-bolting}}
+{{defn|The addition of {{gli|bolt|bolts}} to a route that has already been ascended using {{gli|traditional climbing}} {{gli|protection}}. The technique is controversial, with ethical debate on the issues of improving climber safety versus protecting the integrity of the original traditional climbing challenge.<ref>{{cite web | website=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/news/opinion-not-reto-bolting-is-irresponsible-a-doctor-sounds-off/ | title=Opinion: Not Retro-Bolting Is Irresponsible. A Doctor Sounds Off. | date=26 October 2022 | accessdate=1 March 2023 | first=Sam | last=Miller}}</ref><ref>{{cite web | website=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/places/32-climbing-experiences-inform-bolting-decisions/ | title=Should We Really Retro-bolt That Dangerous Classic? | date=18 July 2023 | accessdate=12 September 2023 | first=Steve| last=Bordeau}}</ref>}}
+
+{{term|rigging plate}}
+{{defn|1=[[File:Mountain climbing equipment in Mirabad - Nishapur 01.JPG|thumb|upright=0.7|Blue '''{{gli|rigging plate}}''']] {{ghat|Also '''rigging board''' and '''bat plate'''.}}
+A light metal plate with several holes that can be used as a multi-anchor device that several items can be attached to at a {{gli|belay station}}, notable versions include the Petzl PAW.}}
+
+{{term|ripped}}
+{{defn|Term to denote when a piece of {{gli|protection}} failed and "ripped-out" of the rock. See ''{{gli|zipper fall}}''.<ref name=UKC/>}}
+
+{{term|rivet hanger}}
+{{defn|1=[[File:Aid Climbing Rivet Hanger.jpg|thumb|upright=0.7|'''{{gli|Rivet hanger}}''']] {{ghat|Also '''plate hanger''', '''wire hanger''', or '''cinch hanger'''.}}
+A piece of {{gli|aid climbing}} equipment used by the {{gli|lead climber}} to attach to {{gli|bolt runner}} rivets in the rock. See also ''{{gli|carrot bolt}}''.}}
+
+{{term|[[Rock climbing hammer|rock hammer]]}}
+{{defn|1= {{ghat|Also '''wall hammer'''.}} A lightweight hammer with a short handle used for inserting {{gli|piton}}s, {{gli|bolt}}s, and {{gli|copperhead}}s in {{gli|aid climbing}} and {{gli|big wall climbing}}. See also ''{{gli|ice hammer}}''.}}
+
+{{term|rockover move}}
+{{defn|A [[rock-climbing technique]] where the body weight is transferred (or "rocked-over") to the raised up-hill leg to reach a higher hold.<ref name=UKC/>}}
+
+{{term|rodeo clipping}}
+{{defn|To clip into the first piece of {{gli|protection}} from the ground by swinging a loop of rope so that it is caught by a pre-placed {{gli|carabiner}}.<ref>{{cite web | magazine=[[Rock & Ice]] | date=30 October 2017 | accessdate=10 March 2023 | first=Magnus | last=Midtbø | url=https://www.rockandice.com/videos/skills/rodeo-clip-climbing-rope-skills/ | title=How to Rodeo Clip – Climbing Rope Skills | archive-date=11 March 2023 | archive-url=https://web.archive.org/web/20230311010058/https://www.rockandice.com/videos/skills/rodeo-clip-climbing-rope-skills/ | url-status=dead }}</ref>}}
+
+{{term|[[Roof (rock formation)|roof]]}}
+{{defn|1=[[File:Elizabeth Furnace - Furnass 12a - 8.jpg|thumb|upright=0.7|Climbing a '''{{gli|roof}}''']]
+An {{gli|overhang}} that is so steep, it becomes horizontal.<ref name=UKC/>
+}}
+
+{{term|rope bag}}
+{{defn|Specialist lightweight but hardwearing bag for carrying a {{gli|climbing rope}}.<ref name=ClimbingDictionary/>}}
+
+{{term|rope drag}}
+{{defn|See ''{{gli|drag}}''.<ref name=ClimbingDictionary/>}}
+
+{{term|[[rope jumping]]}}
+{{defn|Jumping a full rope-length from the top of a rock face with the rope attached to a fixed {{gli|anchor}} like a [[bungee cord]].}}
+
+{{term|[[rope team]]}}
+{{defn|See ''{{gli|simul climbing}}''.}}
+
+{{term|rose move}}
+{{defn|A move in which the crossing arm goes behind the other arm and is so far extended that the body is forced to twist until it ends up facing away from the rock. It was introduced by {{ill|Antoine Le Menestrel|fr}} to climb a route in [[Buoux]] called ''La rose et le vampire'' {{climbing grade|8b}} in 1985.<ref>{{cite web | magazine=Gripped Magazine | accessdate=10 March 2023 | url=https://gripped.com/profiles/watch-anna-stohr-do-the-rose-move-on-the-famous-rose-route/ | title=Watch Anna Stohr do the Rose Move on the Famous Rose Route | date=22 November 2018}}</ref>}}
+
+{{term|route}}
+{{defn|See ''{{gli|climbing route}}''.}}
+
+{{term|RP}}
+{{defn|A small {{gli|protection}} {{gli|nut}} on a wire for tiny cracks with marginal holding power; named after Roland Pauligk.<ref name=UKC/>}}
+
+{{term|runner}}
+{{defn|no=1|In the US, a {{gli|sling}} is made from nylon-blend materials, used by climbers for a multitude of purposes.<ref name=ClimbingDictionary/>}}
+{{defn|no=2|In the UK, any item of {{gli|protection}} placed by the {{gli|lead climber}} to reduce the length of a fall.<ref name=UKC/>}}
+
+{{term|runout}}
+{{defn|1=[[File:Fotothek df ps 0002300 Sport ^ Klettersport.jpg|thumb|upright=0.7|A long '''{{gli|runout}}''']]
+In a term in {{gli|lead climbing}} for the distance between points of good {{gli|protection}}; in the [[grade (climbing)|grading of climbs]], routes with long runouts have higher adjectival "{{gli|E-grade|E}}" grade (British system), or an {{gli|r/x|R/X }}or even {{gli|X}} suffix ({{gli|yosemite decimal system|American system}}). See ''{{gli|ground fall}}''.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|[[RURP]]}}
+{{defn|1=[[File:RURP by Tom Frost.jpg|thumb|upright=0.7|'''{{gli|RURP}}''']]
+A miniature, postage stamp-sized chrome-moly square {{gli|piton}}, tied to a wire or rope and {{gli|rock hammer|hammered}} into cracks; created by [[Yvon Chouinard]] in 1960 for extreme {{gli|aid climbing}} routes in [[Yosemite]]; acronym for ''realized ultimate reality piton''.<ref>{{cite web | magazine=[[Alpinist (magazine)|Alpinist]] | url=http://www.alpinist.com/doc/ALP52/tool-users-realized-ultimate-reality-piton | title=Tool Users: Realized Ultimate Reality Piton | date=6 November 2015 | first=Anders | last=Ax | accessdate=10 March 2023}}</ref>}}
+
+{{term|R/X}}
+{{defn|A suffix used in the {{gli|yosemite decimal system}} for {{gli|traditional climbing}} routes that have poor possibilities for {{gli|protection}} where any fall could be serious (e.g. ''[[Master's Edge]]''). See ''{{gli|X}}''.}}
+
+{{glossaryend}}
+
+==S==
+{{glossary}}
+
+{{term|[[Deep-water soloing#S-grades|S-grade]]}}
+{{defn|1={{ghat|Also '''deep-water soloing grades'''.}}
+Part of the {{gli|deep-water soloing}} system for {{gli|grade|grading}} the objective danger difficulty of DWS climbing routes, which goes: S0, S1, S2, and S3. See also ''{{gli|x|X}}''.}}
+
+{{term|[[Saddle (landform)|saddle]]}}
+{{defn|A high pass between two peaks, larger than a {{gli|col}}.}}
+
+{{term|[[sandbagging (climbing)|sandbag]]}}
+{{defn|A rock climb with a much lower official climbing {{gli|grade}} than probably deserved; sometimes due to a "trick-move" at the {{gli|crux}} that once learned, does make the route easier; or due to overly conservative grading.<ref name=UKC/>}}
+
+{{term|[[scrambling]]}}
+{{defn|A type of climbing somewhere between hiking and graded rock climbing; involves climbing the easiest {{gli|grades}}.}}
+
+{{term|screamer}}
+{{defn|no=1|Shock absorbing sling designed to reduce peak loads in a climbing system. Very commonly used for winter / ice climbing. Made of a nylon {{gli|webbing}} structure consisting of one large loop sewn in multiple places to make a shorter length.}}
+{{defn|no=2|A British term for a large {{gli|whipper}} fall.<ref name=UKC/>}}
+
+{{term|[[scree]]}}
+{{defn|Small, loose rocks, at the base of a cliff or slope; distinguished from {{gli|talus}}.}}
+
+{{term|screw on}}
+{{defn|1={{ghat|Also '''foot chip''', '''chip''', or '''micro'''.}}
+A small climbing {{gli|hold}} screwed onto the wall on a {{gli|climbing wall}}.
+}}
+
+{{term|[[second (climbing)|second]]}}
+{{defn|1=[[File:Creeks Giving - Climbing in Indian Creek, Utah - 3.jpg|thumb|upright=0.7|{{gli|Lead climber}} (right) and '''{{gli|second}}''' (left)]]
+A climber who follows the {{gli|lead climber}}; often acts as the {{gli|belayer}}.}}
+
+{{term|[[self-arrest]]}}
+{{defn|Using the pick of an {{gli|ice axe}} to arrest a fall, or to control a {{gli|glissade}}.}}
+
+{{term|[[self-belay]]}}
+{{defn|1={{ghat|Also '''self-belaying'''.}} 
+The act of using a mechanical device for {{gli|belaying}} in {{gli|solo climbing}}. See ''{{gli|self-locking device}}''.}}
+
+{{term|[[self-locking device]]}}
+{{defn|1={{ghat|Also '''SLD'''.}} [[File:Wren Industries Silent Partner.jpg|thumb|upright=0.7|'''{{gli|Self-locking device}}''']]
+A device used in {{gli|solo climbing}}, and particularly [[rope solo climbing]], to automatically arrest falls.  Examples include Wren's Silent Partner. See also ''{{gli|progress capture device}}''. Compare ''{{gli|automatic belay}}''.}}
+
+{{term|[[Self rescue (climbing)|self rescue]]}}
+{{defn|Actions taken by a climber(s) to execute their own rescue or recovery from a difficult or dangerous situation.}}
+
+{{term|send}}
+{{defn|To {{gli|free climbing|free climb}} a {{gli|route}}, via an {{gli|on-sight}}, {{gli|flash}}, or {{gli|redpoint}}.<ref name=UKC/><ref name=ClimbingDictionary/>}}
+
+{{term|[[serac]]}}
+{{defn|A large tower of ice on the surface of a glacier; falling seracs are a serious hazard to mountaineers.}}
+
+{{term|SERENE}}
+{{defn|Acronym for building {{gli|anchor|anchors}}; stands for ''Strong, Equalised, Redundant, Efficient, No Extension''. See also ''{{gli|ERNEST}}''.}}
+
+{{term|[[Physiologic tremor|sewing-machine leg]]}}
+{{defn|1={{ghat|Also '''scissor leg''', '''Elvis legs''', or '''disco knee'''.}}
+The involuntary vibration of the leg due to fatigue and/or panic and stress.<ref name=UKC/>}}
+
+{{term|shadow match}}
+{{defn|A rock climbing move to quickly switch hands on a {{gli|hold}} that can only fit one hand at a time.}}
+
+{{term|sharp end}}
+{{defn|The end of the rope that is attached to the {{gli|lead climber}}, to denote the more serious activity they are undertaking compared to the {{gli|belayer}}.<ref name=UKC/>}}
+
+{{term|short fixing}}
+{{defn|An advanced {{gli|big wall}} [[climbing technique]] where the {{gli|lead climber}} fixes the rope at an anchor to allow the {{gli|second}} to ascend using {{gli|jumar}}s, while the leader climber then continues to ascend in a [[rope solo climbing]] fashion; unlike {{gli|simul climbing}}, neither is {{gli|belay}}ing the other.<ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/skills/short-fixing/ | title=Short-Fixing | date=4 April 2012 | accessdate=10 March 2023 | first=Russ | last=Facante}}</ref><ref name=sfixsc>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/skills/advanced-techniques-simul-climbing-and-short-fixing/ | title=Advanced Climbing Techniques: Simul-Climbing and Short-Fixing | date=23 December 2022 | accessdate=10 March 2023 | first=Miranda | last=Oakley}}</ref>}}
+
+{{term|side pull}}
+{{defn|1=[[File:Bouldering in Coopers Rock - 02.jpg|thumb|upright=0.7|A '''{{gli|side pull}}''']]
+A vertical {{gli|hold}} that needs to be gripped with a sideways pull towards the body.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="REI"/>
+}}
+
+{{term|[[simul climbing]]}}{{anchor|simulclimbing}}
+{{defn|1={{ghat|Also '''running belay'''.}}
+An advanced technique in which two climbers move simultaneously upward, with the {{gli|lead climbing|leader}} placing {{gli|protection}} that the {{gli|second}} removes as they advance. A {{gli|protection capture device (PCD)}} may also be used.<ref name=sfixsc/>}}
+
+{{term|[[single-rope technique]]}}
+{{defn|The use of a single rope where one or both ends of the rope are attached to fixed {{gli|anchor}} points. See {{gli|fixed rope}}.}}
+
+{{term|sit start}}
+{{defn|1={{ghat|Also '''sit down start''' or '''SDS'''}} [[File:Bouldering at Tom Riach - 06.jpg|thumb|upright=0.7|A '''{{gli|sit start}}''']]
+{{gli|Bouldering}} term for a route that must be started from a seated position on the ground with hands and feet on prescribed holds; acronyms are ''SS'' (sit-start), ''SDS'' (sit-down-start), or ''assis'' (french); concept invented by John Yablonski.<ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/people/bouldering-sit-start-john-yablonski/ | first=Victor | last=Copeland | date=15 October 2022 | accessdate=13 August 2023 | title=The Weird Origins Of Bouldering's Sit Start}}</ref>}}
+
+{{term|skyhook}}
+{{defn|1=[[File:Skyhook.jpg|thumb|upright=0.7|'''{{gli|Skyhook}}''']]
+A metal {{gli|hook}} inserted on a horizontal {{gli|hold}} for {{gli|protection}} in {{gli|traditional climbing}}, or in {{gli|aid climbing}}.}}
+
+{{term|slab}}
+{{defn|A low-angle — significantly less than vertical — rock face that requires {{gli|slab climbing}} techniques.<ref name=UKC/>}}
+
+{{term|slab climbing}}
+{{defn|A type of climbing on {{gli|slab}}s that usually emphasizes balance, footwork, and {{gli|smearing}}.}}
+
+{{term|slack}}
+{{defn|In {{gli|lead climbing}} and in {{gli|top rope climbing}}, it is the amount of ''additional rope'' that the {{gli|belayer}} has allowed; slack increases the distance of any fall before the {{gli|protection}} begins to hold the rope, but is needed to reduce {{gli|rope drag}} or {{gli|aid climbing|aid}}.<ref>{{cite web | magazine=[[Climbing (magazine)|Climbing]] | url=https://www.climbing.com/skills/how-to-lead-climb/ | title=A Beginner's Guide to Lead Climbing | first=Stephen | last=Potter | date=23 August 2022 | accessdate=18 March 2023}}</ref>}}
+
+{{term|[[Sling (climbing)|sling]]}}
+{{defn|A closed loop of {{gli|webbing}}.<ref name=UKC/>}}
+
+{{term|sloper}}
+{{defn|1=[[File:BW 2012-08-26 Rustam Gelmanov RUS 0749.JPG|thumb|upright=0.7|'''{{gli|Sloper}}''' hold]]
+A {{gli|hold}} where the surface slopes down toward the ground, with very little {{gli|positive}} surface or lip.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="ClimbingTechniques"/>}}
+
+{{term|smearing}}
+{{defn|To make use of friction on the sole of the {{gli|climbing shoe}} in the absence of good footholds.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="ClimbingTechniques"/>
+}}
+
+{{term|snarg}}
+{{defn|A type of tubular {{gli|ice screw}} that is inserted by hammering with an {{gli|ice hammer}}.}}
+
+{{term|[[snow cave]]}}
+{{defn|A temporary shelter constructed by digging out snow to form a cave.}}
+
+{{term|[[snow fluke]]}}
+{{defn|1=[[File:SnowFlukeA.JPG|thumb|upright=0.7|'''{{gli|Snow fluke}}''']]
+An angled aluminum plate attached to a cable or rope that is buried into the snow to create a {{gli|deadman anchor}}.}}
+
+{{term|[[solo climbing]]}}
+{{defn|When the climber is alone (with no {{gli|second}}); if also without {{gli|protection}} is {{gli|free solo climbing}}. See [[rope solo climbing]].}}
+
+{{term|[[speed climbing]]}}
+{{defn|A {{gli|competition climbing}} discipline where competitors race in pairs up a standardized {{gli|climbing wall}}.<ref name=ClimbingDictionary/>}}
+
+{{term|spinner}}
+{{defn|In {{gli|indoor climbing}}, a {{gli|hold}} that is not secure and spins in place when weight is applied.}}
+
+{{term|splitter}}
+{{defn|1=[[File:Crack climbing in Indian Creek, Utah.jpg|thumb|upright=0.7|A '''{{gli|splitter}}''' crack]]
+A crack with perfectly parallel sides, often in an otherwise blank face.}}
+
+{{term|[[sport climbing]]}}
+{{defn|A style of {{gli|lead climbing}} where the {{gli|protection}} is via pre-placed fixed {{gli|bolt}}s; opposite of {{gli|traditional climbing}}.<ref name=SC/> Confusingly, {{gli|competition climbing}} (which includes bolted lead climbing, but also free solo bouldering and top-roped speed climbing) is sometimes called "sport climbing".<ref name=UKC/><ref name=SC/>}}
+
+{{term|[[Spotting (climbing)|spotting]]}}
+{{defn|People standing beneath a {{gli|lead climber}} or {{gli|bouldering}} climber ready to absorb the energy of a {{gli|ground fall}}.<ref name=UKC/>}}
+
+{{term|sprag}}
+{{defn|A type of hand position where the fingers and thumb are opposed in a tiny crack.<ref name=UKC/>}}
+
+{{term|[[spring-loaded camming device]]}}
+{{defn|1={{ghat|Also '''SLCD'''}}
+A type of active {{gli|protection}} device used in {{gli|crack climbing}}. See ''{{gli|cam}}''.<ref name=UKC/>}}
+
+{{term|[[static rope]]}}
+{{defn|A non-elastic {{gli|climbing rope}} used for {{gli|abseiling}} or {{gli|jumar|jumaring}} (as a {{gli|fixed rope}}), but not {{gli|lead climbing}}. Compare ''{{gli|dynamic rope}}''.<ref name=UKC/><ref name=CL50/>}}
+
+{{term|stein pull}}
+{{defn|A technique in {{gli|mixed climbing}} and {{gli|dry-tooling}} where the ice axe is inverted and the blade wedged into a crack above the climber's head, who then pulls down on the handle of the axe to gain upward momentum. See also ''{{gli|undercling pull}}''.<ref name=C76>{{cite web | magazine=Climbing | url=https://www.climbing.com/skills/tech-tip-ice-stein-pulling/ | title=Ice Climbing Skills: The Stein Pull | date=2 February 2004 | accessdate=30 April 2023 | first=Sean | last=Issac }}</ref>}}
+
+{{term|[[Rock climbing#Techniques|stemming]]}}
+{{defn|1=[[File:Red River Gorge - Long Wall - Rock Wars 1a.jpg|thumb|upright=0.7|'''{{gli|Stemming}}''']]
+Technique for climbing opposing corners by pushing in opposite directions with the feet and hands. See {{gli|chimneying}}.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="ClimbingTechniques"/><ref name="REI"/>}}
+
+{{term|step cutting}}
+{{defn|Scooping steps out of snow or ice with the adze of an {{gli|ice axe}}.}}
+
+{{term|step kicking}}
+{{defn|Scooping and stamping steps out of soft snow with the feet.}}
+
+{{term|[[Belay device#Sticht plate|Sticht plate]]}}
+{{defn|A {{gli|belay device}} consisting of a flat plate with a pair of slots, named after the inventor Fritz Sticht.<ref name=UKC/> See also ''{{gli|gigi|GiGi}}''.}}
+
+{{term|stick clip}}
+{{defn|1=[[File:Use of stick clip.jpg|thumb|upright=0.7|Using a '''{{gli|stick clip}}''']]
+A long pole with a {{gli|quickdraw}} that can be clipped into the first {{gli|bolt}} of a route from the ground.<ref name=ClimbingDictionary/>}}
+
+{{term|stopper}}
+{{defn|no=1|A wedge-shaped {{gli|nut}} made by [[Black Diamond Equipment|Black Diamond]].}}
+{{defn|no=2|A [[Stopper knot|knot]] used to prevent the end of a rope from running through—and detaching from—a piece of {{gli|gear}}.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+
+{{term|sure-footedness}}
+{{defn|Sure-footedness is the ability when hiking or mountain climbing, to negotiate difficult or rough terrain safely.<ref>Soanes, Catherine and Stevenson, Angus (ed.) (2005). ''Oxford Dictionary of English'', 2nd Ed., revised, Oxford University Press, Oxford, New York, p. 1775. {{ISBN|978-0-19-861057-1}}.</ref>}}
+
+{{term|swami belt}}
+{{defn|A type of simple climbing {{gli|harness}}}}
+
+{{glossaryend}}
+
+==T==
+{{glossary}}
+
+{{term|tat}}
+{{defn |Term to describe pieces of {{gli|webbing}} or {{gli|cord}} left on a climb (e.g. "I found some old tat") often as part of an irretrievable {{gli|anchor}} point that was part of an {{gli|abseiling|abseil station}}.<ref>{{cite web | website=[[British Mountaineering Council]] | url=https://www.thebmc.co.uk/tech-skills-abseil-stations | title=Tech skills: abseil stations | first=Dan | last=Middleton | date=2 June 2008 | accessdate=21 March 2023}}</ref>}}
+
+{{term|take}}
+{{defn |1={{ghat|Also '''take-in'''.}}
+The act of taking the {{gli|slack}} out of a rope; also a {{gli|climbing command}} by a {{gli|lead climber}} to the {{gli|belayer}}.<ref name=ClimbingDictionary/>}}
+
+{{term|talus}}
+{{defn|1=[[File:Brenay.jpg|thumb|upright=0.7|'''{{gli|Talus}}''' rocks]]
+An area of large rock fragments on a mountainside where the rocks are stable and not loose like {{gli|scree}}.}}{{Term|talon hook}}{{Defn|A type of three-pronged climbing hook used for securing the climber to a horizontal edge in the rock face. Each prong contains a curved hook of differing widths for securing onto respective edge sizes when aid climbing.}}
+
+{{term|tape}}
+{{defn |1=[[File:USMC-110201-M-4150N-256.jpg|thumb|upright=0.7|Applying '''{{gli|tape}}''']]
+{{ghat|Also '''climbing tape''' and '''second skin'''}}
+Adhesive tape that is wrapped around the fingers and hands to protect the skin; particularly useful in {{gli|crack climbing}}.}}
+
+{{term|technical grade}}
+{{defn|See ''{{gli|grade}}''.}}
+
+{{term|testpiece}}
+{{defn|A route that is representative of the hardest climbs in an area at a particular {{gli|grade}} (e.g. ''[[Action Directe (climb)|Action Directe]]'' for {{gli|grade}} 9a).}}
+
+{{term|tie in}}
+{{defn|1={{ghat|Also '''tying in'''.}}
+To physically attach the {{gli|harness}} to the climbing rope, usually via a {{gli|figure-eight knot}}. See ''{{gli|clip in}}''.}}
+
+{{term|thread}}
+{{defn|A {{gli|runner}} created by "threading" a {{gli|sling}} around a jammed block or through a hole in the rock.<ref name=UKC/>}}
+
+{{term|term=toe hook |content= toe hook {{anchor|toehook}} }}
+{{defn|1=[[File:015 zehnte stadtmeisterschaft im Klettern in Munich.JPG|thumb|upright=0.7|A '''{{gli|toe hook}}''']]
+Act of pressing the upper side of the toes under a {{gli|hold}} to pull the climber inwards; used on {{gli|overhang}}s.<ref name=ClimbingDictionary/><ref name="ClimbingTechniques"/> 
+}}
+
+{{term|[[Topo (climbing)|topo]]}}
+{{defn|The graphical representation – drawing or photograph – of a climbing route, with the main obstacles marked.}}
+
+{{term|term=[[top rope climbing]]}} 
+{{defn|1=[[File:Starr 071222-0266 Salsola tragus.jpg|thumb|upright=0.7|'''{{gli|top rope|Top roping}}''']] {{ghat|Also '''top roping'''}}
+To {{gli|belay}} from a fixed {{gli|anchor}} point above the climb; if the climber falls, they just hang. See ''{{gli|hangdog}}ging''.<ref name=UKC/><ref name=ClimbingDictionary/><ref name=SC/>}}
+
+{{term|top-out}}
+{{defn|To complete a {{gli|route}} by ascending over the top of the climb to safety.<ref name=UKC/>}}
+
+{{term|torque pull}}
+{{defn|A technique in {{gli|mixed climbing}} and {{gli|dry-tooling}} where the ice axe is wedged into a crack and twisted to generate torque to aid upward momentum. See also ''{{gli|undercling pull}}'' and ''{{gli|stein pull}}''.<ref name=C76/>}}
+
+{{term|tracking}}
+{{defn|See ''{{gli|feet follow}}''.}}
+
+{{term|[[traditional climbing]]}}
+{{defn|1=[[File:Climbing in Yosemite Valley - 01.jpg|thumb|upright=0.7|'''{{gli|Traditional climbing}}''']] {{ghat|Also '''trad climbing''' or simply '''trad'''.}}
+A style of {{gli|lead climbing}} where {{gli|protection}} is placed as the {{gli|lead climber}} ascends; opposite of {{gli|sport climbing}}.<ref name=UKC/><ref name=SC/>}}
+
+{{term|trail rope}}
+{{defn|1={{ghat|Also '''haul line'''.}} A {{gli|big wall climbing}} technique where the {{gli|lead climber}} carries an additional static rope (in addition to their dynamic climbing rope) that hangs (or "trails") behind them as they ascend; the trail rope enables the belayer to pass equipment to the leader during the ascent, and for the leader to haul up equipment as the belayer ascends.<ref name=CL41/><ref name=BK2>{{cite book | title=Big Wall Climbing: Elite Technique  | date=2005 | publisher=Mountaineers Books | edition=1st | isbn=978-0898867480 | first=Jared| last=Ogden | chapter=Chapter1: Big Wall Climbing Procedures| pages=94–140}}</ref>}}
+
+{{term|[[Traverse (climbing)|traverse]]}}
+{{defn|1=[[File:Peter Stocker in Yosemite.jpg|thumb|upright=0.7|'''{{gli|Traverse|Traversing}}''']] 
+1. A section of a {{gli|route}} that requires progress in a horizontal direction.<ref name=ClimbingDictionary/><ref name=UKC/>}}
+{{defn|no=2|A [[Tyrolean traverse]] is crossing a chasm using a {{gli|fixed rope}} anchored at both ends.}}
+{{defn|no=3|A [[Pendulum (climbing)|pendulum traverse]] is swinging across a wall suspended from a rope anchored above the climber.<ref name=CL41/>}}
+{{defn|no=4|A [[tension traverse]] is a static version of a pendulum traverse where rope tension is used to control movement.<ref name=CL41/>}}
+
+{{term|[[tricam]]}}
+{{defn|1=[[File:Tricam 7 placed.jpg|thumb|upright=0.7|'''{{gli|Tricam}}''']]
+A simple {{gli|camming}} {{gli|protection}} device that has no moving parts (e.g. it is {{gli|passive protection}}).}}
+
+{{term|[[Belay device#Tubular|tuber]]}}{{ghat|Also '''tubular'''}}
+{{defn|1=[[File:Tuber mix.jpg|thumb|upright=0.7|'''{{gli|tuber|Tubers}}''']]
+A type of {{gli|belay device}}.}}
+
+{{term|[[tufa]]}}
+{{defn|1=[[File:Climbing at Kalymnos Island - 23.jpg|thumb|upright=0.7|Climbing on '''{{gli|tufa|tufas}}''']]
+1. A [[limestone]] rib formation that protrudes from the wall which climbers can pinch-grip.
+}}
+{{defn|no=2|A plastic bolted-on {{gli|bouldering}} hold to replicate such a formation on a {{gli|climbing wall}}.}}
+
+{{term|twin ropes}}
+{{defn|In {{gli|lead climbing}}, using two ropes that are even thinner than {{gli|double ropes}}, both of which need to be {{gli|clip in|clipped in}} at each point of {{gli|protection}}; sometimes used in long {{gli|alpine climbing}} routes with major {{gli|abseiling}} descents.<ref name=CL50/>}}
+
+{{term|twist lock}}
+{{defn|A climbing move where the hips "twist" perpendicular to the wall, the inside arm is "locked" on an upper hold, the outside arm holds the body against the wall, and the feet press down to propel the body higher.}}
+
+{{glossaryend}}
+
+==U==
+{{glossary}}
+
+{{term|[[UIAA]]}}
+{{defn|Acronym for the international governance body for [[mountaineering]] and other types of [[climbing]]; UIAA also regulates {{gli|competition ice climbing}}.<ref name=ClimbingDictionary/> See also ''{{gli|ifsc|IFSC}}''.}}
+
+{{term|[[Grade (climbing)#UIAA|UIAA grade]]}}
+{{defn|1={{ghat|Also '''UIAA scale'''.}}
+The {{gli|UIAA}} grade system for rock climbing, which goes: ... VI, VII, VIII, IX, X, XI, .... , to XII; is less common than the {{gli|French grade}} system or the American {{gli|yosemite decimal system|YDS grade}} system, but still used in Germany and parts of Eastern Europe.<ref name=CAI/>}}
+
+{{term|[[Alpine climbing#Grading|UIAA Scale of Overall Difficulty]]}}
+{{defn|See ''{{gli|Alpine-grade}}''.<ref name=CAI/>}}
+
+{{term|undercling}}
+{{defn|1={{ghat|Also '''undercut'''.}}
+A downward {{gli|hold}} which is gripped with the palm of the hand facing upwards.<ref name=ClimbingDictionary/><ref name=UKC/><ref name="REI"/>}}
+
+{{term|undercling pull}}
+{{defn|After a {{gli|stein pull}} is completed, the undercling pull is a {{gli|mixed climbing}} technique for continuing to use the hold to gain upward momentum by using the hold to pull into the rock; requires a lot more energy than a stein pull.<ref name=C76/>}}
+
+{{term|undercut}}
+{{defn|See ''{{gli|undercling}}''.}}
+{{glossaryend}}
+
+==V==
+{{glossary}}
+{{term|[[Grade (climbing)#V-grade|V-grade]]}}
+{{defn|1={{ghat|Also '''Hueco scale'''.}}
+A {{gli|grade|grading system}} for {{gli|bouldering}} {{gli|problem|problems}} invented by [[John Sherman (climber)|John Sherman]], which goes: V0, V1, V2, V3, V4, V5, V6, V7, ... , to V17.  The V-scale and the French {{gli|font}} scale are the most common boulder grading systems in use worldwide.<ref name=ClimbingDictionary/><ref name=CAI/>}}
+
+{{term|[[Abalakov thread|V-thread]]}}
+{{defn|1={{ghat|Also '''Abalakov thread'''.}}
+A type of {{gli|abseiling}} point used especially in winter and in {{gli|ice climbing}}.}}
+
+{{term|verglas}}
+{{defn|A thin coating of ice that forms over rocks when rainfall or melting snow freezes, which is hard to climb on as there is insufficient depth for {{gli|crampons}} to have penetration. See also ''{{gli|clear ice}}'' and ''{{gli|glaze ice}}''.}}
+
+{{term|[[via ferrata]]}}
+{{defn|1= {{ghat|Also '''Klettersteig'''.}}
+[[File:Climber on fixed rope route Piz Mitgel 2.jpg|thumb|upright=0.7|Climbing a '''{{gli|via ferrata}}''']]
+An alpine {{gli|route}} where {{gli|protection}} is from permanent steel {{gli|fixed ropes}} or chains, with progression aided by artificial steel steps or ladders; commonly found in the [[Dolomites]]. See also ''{{gli|lanyard}}'' and ''{{gli|energy absorber}}''.}}
+
+{{term|volume hold}}
+{{defn|1=[[File:Mascarenas megan 1854.JPG|thumb|upright=0.7|'''{{gli|Volume hold}}s''']]
+A large, hollow, bolted-on {{gli|hold}}, for indoor {{gli|climbing wall}}s; it may itself contain individual holds}}
+{{glossaryend}}
+
+==W==
+{{glossary}}
+
+{{term|[[Grade (climbing)#WI-grade|WI-grade]]}}
+{{defn|1={{ghat|Also '''ice climbing grades'''.}}
+Part of the {{gli|ice climbing}} system for {{gli|grade|grading}} the technical difficulty of ice climbing routes, which goes: WI1, WI2, WI3, WI4, WI5, WI6, and up to WI13.<ref name=AlpinistGrades/> See also ''{{gli|M-grade}}''.}}
+
+{{term|[[webbing]]}}
+{{defn|1=[[File:Schlauchband.JPG|thumb|upright=0.7|Round '''{{gli|webbing}}''']]
+A hollow and flat nylon strip mainly used to make {{gli|sling|slings}}.
+}}
+
+{{term|webolette}}
+{{defn|A piece of {{gli|webbing}} with eyes sewn into the ends which can be used in place of a {{gli|cordelette}}.}}
+
+{{term|weighting}}
+{{defn|Any time a rope sustains the weight of the climber, e.g. "weighting the rope". This can happen during a minor fall, a {{gli|whipper}} (long fall), or simply by resting while hanging on the {{gli|belay}} rope. See also ''{{gli|hangdog|hangdogging}}''.}}
+
+{{term|whipper}}
+{{defn|1=[[File:Rock Climbing in Iran.jpg|thumb|upright=0.7|Climber on a '''{{gli|whipper}}''']]
+{{other uses|Whipper (disambiguation)}}
+A large fall by a {{gli|lead climber}} as they were well beyond the last piece of {{gli|protection}}. See ''{{gli|screamer}}''.<ref>{{cite web | magazine=Climbing | url=https://www.climbing.com/videos/the-sick-6-weekend-whippers-with-big-scary-falls-hey-no-one-said-the-weekend-was-over/ | title=Enjoy These Sick 6 Weekend Whippers On a Monday, Just Because | date=2019 | accessdate=24 December 2022}}</ref>}}
+
+{{term|wire brushing}}
+{{defn|{{gli|clean|Cleaning}} a rock climbing route with a wire brush before an attempt; has ethical issues due to rock damage and possible {{gli|chipping}}.<ref name=UKC/>}}
+
+{{term|wired}}
+{{defn|See ''{{gli|dialled}}''.<ref name=UKC/>}}
+
+{{term|wires}}
+{{defn|See ''{{gli|nut|nuts}}''.<ref name=UKC/>}}{{Term|[[World Climbing|WC]]}}{{Defn|Acronym for the international body that organises and regulates {{gli|competition climbing}}. See {{gli|uiaa|UIAA}}.}}
+
+{{glossaryend}}
+
+==X==
+{{glossary}}
+{{term|X}}
+{{defn|A suffix used in the {{gli|Yosemite decimal system}} for highlighting {{gli|traditional climbing}} routes that have poor or even no possibilities for {{gli|protection}}, where any fall could be fatal (e.g. ''[[Indian Face]]'' and ''[[Gaia (climb)|Gaia]]''). See ''{{gli|r/x|R/X}}'' and ''{{gli|chop route}}''.}}
+
+{{glossaryend}}
+
+==Y==
+{{glossary}}
+
+{{term|yaniro}}
+{{defn|French term for a {{gli|figure-four}} move which came from American climber [[Tony Yaniro]]'s use of it on ''Chouca'' {{climbing grade|8a+}}.<ref>{{cite web | website=PlanetMountain | title=Eline & Marc Le Menestrel: Chouca and Buoux, yesterday, today and tomorrow | date=31 March 2020 | accessdate=1 May 2023 | url=https://www.planetmountain.com/en/news/interviews/eline-marc-le-menestrel-chouca-buoux-yesterday-today-tomorrow.html}}</ref>}}
+
+{{term|yo-yo}}
+{{defn|A {{gli|free climbing}} term pre-{{gli|redpoint}}ing, where a falling {{gli|lead climber}} returns to the ground to restart, but leaves their rope clipped into the {{gli|protection}} — in redpointing, the rope is pulled free from all protection before re-starting the climb.<ref name=UKC/>
+}}
+
+{{term|[[Grade (climbing)#American YDS grade|Yosemite Decimal System]]}}
+{{defn|American system for {{gli|grade|grading}} walks, hikes, and climbs; the rock climbing (5.x) goes: 5.7, 5.8, 5.9, 5.10a, 5.10b, 5.10c, 5.10d, 5.11a, .... , 5.14a, 5.14b, 5.14c, 5.14d, 5.15a, etc.,  and with the {{gli|French grade}} system, is the most widely used grading system worldwide for {{gli|sport climbing}}.<ref name=CAI/>}}
+{{glossaryend}}
+
+==Z==
+{{glossary}}
+{{term|z-clipping}}
+{{defn|While {{gli|lead climbing}}, {{gli|clipping in|clipping into}} {{gli|protection}} with a segment of rope from ''beneath'' the previous piece of protection, resulting in {{gli|rope drag}}.<ref name=ClimbingDictionary/><ref name=Gripped-lead-mistakes/>}}
+
+{{term|[[z-pulley]]}}
+{{defn|1=[[File:Z-pulley.jpg|thumb|upright=0.7|'''{{gli|Z-pulley}}''' system]]
+A system of rope, anchors, and {{gli|pulley}}s; is typically used to extricate a climber after falling into a {{gli|crevasse}}.}}
+
+{{term|zawn}}
+{{defn|1=[[File:Zawn at Trwynbychan - geograph.org.uk - 4181311.jpg|thumb|upright=0.7|A '''{{gli|zawn}}''' in Wales]]
+In Britain, a deep, narrow inlet in a sea cliff that is filled by the sea at high tide.<ref name=UKC/>}}
+
+{{term|zipper fall}}
+{{defn|1={{ghat|Also '''gear rip-out'''.}}
+A {{gli|traditional climbing}} {{gli|ground fall}} where all the {{gli|protection}} gear fails in sequence (i.e. opens like a "zip").<ref name=UKC/><ref>{{cite web | magazine=Climbing | url=https://www.climbing.com/videos/weekend-whipper-gear-ripping-trad-climbing-fall/#_pay-wall | title=Weekend Whipper: First-time Traditional Climbing Leader Rips-Out 3 (out of 4) Pieces | date=2 April 2022 | accessdate=1 March 2023}}</ref>}}
+
+{{term|[[zone hold]]}}
+{{defn|1=[[File:2022-08-12 European Championships 2022 – Sport Climbing Women's Boulder by Sandro Halank–075.jpg|thumb|upright=0.7|'''{{gli|Zone hold}}''']] 
+In [[competition bouldering]], a hold roughly halfway up that counts towards scoring; formerly (up to 2017) "bonus hold".}}
+
+{{glossaryend}}
+
+==See also==
+*[[Climbing equipment]]
+*[[Glossary of caving and speleology]]
+*[[List of climbers and mountaineers]]
+*''[[Mountaineering: The Freedom of the Hills]]''
+{{clear}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.climbing.com/news/rock-climbing-terms-definitions/ What’s A Redpoint And What Do Other Climbing Terms Mean? Our Climbing Dictionary Has The Answers], ''[[Climbing (magazine)|Climbing]]'' (May 2022)
+*[https://www.ukclimbing.com/articles/features/a_glossary_of_climbing_terms_from_abseil_to_zawn-33 UK Climbing (UK) Glossary of Terms from Abseil to Zawn], ''UK Climbing Magazine'' (May 2006)
+*[https://www.rei.com/learn/expert-advice/rock-climbing-glossary.html Rock Climbing Glossary], [[REI|REI Co-Op]] (April 2023)
+*[https://www.thecrag.com/en/article/glossary Glossary of climbing terms], ''theCrag'' (2023)
+
+{{Climbing navbox}}
+{{Glossaries of sports}}
+
+[[Category:Climbing|*]]
+[[Category:Glossaries of sports|Climbing terms]]
+[[Category:Climbing techniques| ]]
+[[Category:Wikipedia glossaries using description lists]]
+[[Category:Climbing and mountaineering-related lists]]

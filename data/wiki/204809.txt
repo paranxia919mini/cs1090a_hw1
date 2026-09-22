@@ -1,0 +1,296 @@
+{{Short description|1987 Hong Kong film by Ching Siu-tung}}
+{{Use dmy dates|date=July 2014}}
+{{Use Hong Kong English|date=September 2026}}
+{{Infobox film
+| name           = A Chinese Ghost Story
+| image          = A-chinese-ghost-story-1980s-poster.jpg
+| image_upright  = 0.8
+| alt            = 
+| caption        = Hong Kong film poster
+| native_name    = {{Infobox Chinese/Chinese|child=yes|hide=yes|header=none
+| c      = 倩女幽魂
+| j        = Sin{{sup|6}} neoi{{sup|5}} jau{{sup|1}}wan{{sup|4}}
+| p      = Qiàn yǚ yōuhún
+| l      = Beautiful ghost woman
+}}
+| director       = [[Ching Siu-tung]]
+| producer       = [[Tsui Hark]]
+| writer         = Yuen Kai-chi{{sfn|Morton|2001|p=70}}
+| based_on       = {{based on|"[[Nie Xiaoqian]]"|[[Pu Songling]]}}
+| starring       = {{ubl|[[Leslie Cheung]]|[[Joey Wong]]|[[Wu Ma]]}}
+| music          = {{ubl|[[Romeo Diaz]]|[[James Wong Jim]]{{sfn|Morton|2001|p=70}}}}
+| cinematography = {{ubl|[[Poon Hang-sang]]|Sander Lee|Tom Lau|Wong Wing-hang{{sfn|Charles|2000|p=155}}}}
+| editing        = [[David Wu (Hong Kong actor)|David Wu]]
+| studio         = {{ubl|
+* [[Film Workshop]]<ref name="newman" />
+* [[Cinema City Enterprises|Cinema City]]
+}}
+| distributor    = [[Golden Princess Film Production|Golden Princess Amusement]]
+| released       = {{film date|1987|7|18|HK|df=y}}
+| runtime        = 98 minutes
+| country        = [[British Hong Kong|Hong Kong]]
+| language       = Cantonese
+| budget         = 
+| gross          = {{US$|3.8 million}} ({{estimation}})
+}}
+'''''A Chinese Ghost Story''''' ({{zh|c=倩女幽魂|l=Beautiful ghost woman}}) is a 1987 Hong Kong [[Romance film|romantic]] [[xianxia]] [[horror film]] directed by [[Ching Siu-tung]] and produced by [[Tsui Hark]]. It stars [[Leslie Cheung]], [[Joey Wong]] and [[Wu Ma]] in the leading roles. The plot is loosely based on the short story "[[Nie Xiaoqian]]" from ''[[Strange Stories from a Chinese Studio]]'' by [[Pu Songling]], and is also inspired by the 1960 [[Shaw Brothers Studio|Shaw Brothers]] film ''[[The Enchanting Shadow]].''
+
+The film was popular in Hong Kong and East Asia. Although the film could not gain access to theatres in mainland China when it was first released, it became a [[cult film]] among younger mainland Chinese. At that time, the film generated a phenomenal cult following among audiences, especially the generation born in the 1980s. In 2011, the Hong Kong producers screened a restored version officially in mainland China.<ref name=":1">{{Cite journal |last=Wang |first=Hongjian |date=2018-05-04 |title=''A Chinese Ghost Story'': A Hong Kong comedy film's cult following in Mainland China |url=http://dx.doi.org/10.1080/17508061.2018.1475968 |journal=Journal of Chinese Cinemas |volume=12 |issue=2 |pages=142–157 |doi=10.1080/17508061.2018.1475968 |s2cid=194825813 |issn=1750-8061|url-access=subscription }}</ref>
+
+The film boosted the stardom of Joey Wong,<ref name=":1" /> increased Leslie Cheung's popularity in Japan,<ref name=":1" /> and sparked a trend of folklore ghost films in the [[Cinema of Hong Kong|Hong Kong film industry]].<ref name=":1" /> In 2005, film was ranked number 50 of the [[Hong Kong Film Award#Best 100 Chinese Motion Pictures|Best 100 Chinese Motion Pictures]]. It was followed by two direct sequels, an [[A Chinese Ghost Story: The Tsui Hark Animation|animated reimagining]], and two remakes.
+
+== Plot ==
+Ning Caichen, a timid debt collector, goes to a rural town and ends up taking shelter in a deserted temple in the forest. That night, he meets [[Nie Xiaoqian]] and falls in love with her. In the morning, he becomes fearful and superstitious after hearing from Yan Chixia, a [[Daoshi|Taoist priest]], that he had encountered ghosts in the temple. Later that night, he returns to the temple and confirms that Nie is a ghost.
+
+Nie tells Ning about how she has been enslaved by a Tree Demoness because her remains are buried at the foot of the tree. Ning wants to free her soul, so he seeks help from Yan, who fights the Tree Demoness but loses. As a punishment for betraying her master, Nie's soul is banished to the [[Diyu|Underworld]].
+
+Unwilling to give up, Ning convinces Yan to help him open a temporary portal into the Underworld to search for Nie, eventually reuniting with her briefly near dawn. Ning learns that the only way to save Nie's soul is to rebury her remains at a more auspicious burial site, which he does so near a hill crest. He burns a [[joss stick]] for her and prays while Yan watches solemnly behind him.
+
+== Cast ==
+{{castlist|
+* [[Leslie Cheung]] as Ning Caichen
+* [[Joey Wong]] as [[Nie Xiaoqian]]
+* [[Wu Ma]] as Yan Chixia
+* [[Lau Siu Ming|Lau Siu-ming]] as the Tree Demoness
+* Lam Wai as Xiahou
+* Xue Zhilun as Xiaoqing
+* [[Wong Jing]] as the magistrate
+* [[David Wu (Hong Kong actor)|David Wu]] as the magistrate's secretary
+}}
+
+== Production ==
+
+=== Development and writing ===
+[[Tsui Hark]] was interested in creating ''A Chinese Ghost Story'' as early as 1978, when he proposed making a television series to the Hong Kong television station [[Television Broadcasts Limited|TVB]].{{sfn|Morton|2001|p=74}} The producers turned it down, feeling it would not be suitable for television.{{sfn|Morton|2001|p=74}} ''A Chinese Ghost Story'' uses elements of several stories from [[Pu Songling]]'s 17th-century collection ''[[Strange Tales from a Chinese Studio]]''.{{sfn|Morton|2001|p=72}} Tsui stated that they changed a lot of the stories for their adaptation as they found out the stories were against their initial interpretation.{{sfn|Morton|2001|p=75}} 
+
+On developing the film, Tsui noted that [[Ching Siu-tung]] wanted to work with him.{{sfn|Morton|2001|p=75}} Ching had previously worked as a director and an action choreographer on various [[Film Workshop]] productions such as ''[[Peking Opera Blues]]'' and ''[[A Better Tomorrow II]]''.{{sfn|O'Brien|2003|p=111}} Tsui suggested developing ''A Chinese Ghost Story'', describing it as a love story which Ching was not as interested in developing as either a romance film or a non-horror ghost story.{{sfn|Morton|2001|p=75}} Tsui noted that his bosses approached him to develop the film into being about a female cop, not being aware that it was based on a book or that it was a period film.{{sfn|Morton|2001|p=75}} While working on the film, Tsui and Ching did not really know what it would end up being like, as Ching was still apprehensive on creating a romance film and desired to add horror film elements.{{sfn|Morton|2001|p=75}} 
+
+Rumours persist around the production suggesting that Tsui effectively ghost directed the film.{{sfn|O'Brien|2003|p=111}} British critic [[Tony Rayns]] stated that, effectively, most Film Workshop productions were "redirected or hijacked by Tsui Hark."{{sfn|O'Brien|2003|p=111}}
+
+=== Casting ===
+Tsui had envisioned Nie Xiaoqian as a crossover between an angel and a demon, and wanted Japanese singer-actress [[Akina Nakamori]] to star in the film.<ref name=":0">{{Cite web |date=19 July 2020 |title=Director Tsui Hark Says Joey Wong Wasn't His First Choice To Play Nie Xiaoqian In A Chinese Ghost Story |url=https://www.todayonline.com/8days/sceneandheard/entertainment/director-tsui-hark-says-joey-wong-wasnt-his-first-choice-play-nie |access-date=October 15, 2025 |website=Today Online |language=en|archiveurl=https://web.archive.org/web/20240922095016/https://www.todayonline.com/8days/sceneandheard/entertainment/director-tsui-hark-says-joey-wong-wasnt-his-first-choice-play-nie|archivedate=September 22, 2024|first=Toh|last=Ziyi}}</ref> Nakamori turned down the offer due to the language barrier and her inability to understand the story.<ref name=":0" /> [[May Lo]] was Tsui's second choice, but her growing popularity at that time meant she could not fit the filming into her schedule.<ref name=":0" /> [[Joey Wong]] then approached Tsui's wife, film producer [[Nansun Shi]], for an audition and managed to score an audition with Tsui.<ref name=":0" /> During the audition, Wong was seen as a perfect fit for Tsui's vision and was cast as Nie Xiaoqian,<ref name=":0" /> being a professional basketball player and model before starting her film career.{{sfn|O'Brien|2003|p=112}} Prior to working on the film, she appeared in films such as the Taiwanese production ''It'll Be Very Cold at the Lakeside This Year''.{{sfn|O'Brien|2003|p=112}} She would show up in a few [[Shaw Brothers Studio]] films and Tsui's film ''Working Class''.{{sfn|O'Brien|2003|p=112}}
+
+Actors in the film include [[Leslie Cheung]], who was also a [[Cantopop]] singer.{{sfn|O'Brien|2003|p=112}} Cheung had previously worked with Tsui in ''[[A Better Tomorrow]]'' and ''[[A Better Tomorrow II]]''.{{sfn|O'Brien|2003|p=112}} Cheung also sung the films theme song.{{sfn|O'Brien|2003|p=112}} [[Wu Ma]] had previously appeared in several Hong Kong horror films such as ''[[Spooky Encounters]]'', ''The Dead and the Deadly'' and ''[[Mr. Vampire]]''.{{sfn|O'Brien|2003|p=112}} 
+
+=== Filming and special effects ===
+The film used the services of Cinefex Workshop, Hong Kong's first proper special effects studio, which had previously worked on Tsui's film ''[[Zu Warriors from the Magic Mountain]]''.{{sfn|O'Brien|2003|p=112}} The script called for a giant slithering tongue and zombies, which were developed by Cinefex technician Man Xian Liang, who taught himself stop motion animation in order to make the effects happen.{{sfn|O'Brien|2003|p=112}} 
+
+=== Music ===
+[[James Wong Jim]] contributed to the score of the film.{{sfn|Morton|2001|p=75}} Wong was primarily known for writing songs for pop stars and television programs and completed his first score for Tsui's ''[[Shanghai Blues]]''.{{sfn|Morton|2001|p=75}}
+
+== Release ==
+''A Chinese Ghost Story'' opened on July 18, 1987.{{sfn|Morton|2001|p=70}} The film received theatrical release throughout Asia and Europe.{{sfn|Morton|2001|p=71}} The film also received international recognition when it won the special Jury Prize at the Avoriaz festival in France and the Best Film Award at the Opporto Festival in Portugal in 1987.{{sfn|Morton|2001|p=74}}
+
+=== Box office ===
+''A Chinese Ghost Story'' performed well at the Hong Kong box office, earning {{HK$}}18,831,638 ({{US$|{{#expr:18831638/7.798 round 0}}|link=yes}}) and becoming 1987's fifteenth highest-grossing film in Hong Kong.{{sfn|Morton|2001|p=74}}<ref>{{cite web |title=Official exchange rate (LCU per US$, period average) - Hong Kong |url=https://data.worldbank.org/indicator/PA.NUS.FCRF?end=1987&locations=HK&start=1986 |website=[[World Bank]] |year=1987 |access-date=30 November 2018 |language=en-us}}</ref> In Taiwan, it was the 11th highest-grossing film of 1987, selling 187,654 tickets and earning {{NTD|12,684,540}}<ref>{{cite web |title=1987 Taiwan Box Office |url=http://cinema.nccu.edu.tw/box/3a/3a93.htm |archive-url=https://web.archive.org/web/20010421213900/http://cinema.nccu.edu.tw/box/3a/3a87.htm |website=[[National Chengchi University]] |url-status=dead |archive-date=21 April 2001 |access-date=30 November 2018 }}</ref> (US$443,515).<ref>{{cite web |title=Historical exchange rates (TWD) |url=https://fxtop.com/en/historical-currency-converter.php?A=12684540&C1=TWD&C2=USD&DD=31&MM=12&YYYY=1987&B=1&P=&I=1 |website=fxtop.com |date=31 December 1987 |access-date=5 June 2020}}</ref> In South Korea, the film sold 31,639 tickets in Seoul upon release in December 1987,<ref name="korea">{{cite web |title=영화정보 |trans-title=Movie Information |url=http://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do |website=KOFIC |publisher=[[Korean Film Council]] |language=ko |access-date=26 August 2019 |archive-url=https://web.archive.org/web/20181225151904/http://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do |archive-date=25 December 2018 |url-status=live}}</ref> equivalent to an estimated {{KRW|link=yes}}{{formatnum:{{#expr:31639*3500}}|}}<ref>{{cite book |last=Park |first=Seung Hyun |title=A Cultural Interpretation of Korean Cinema, 1988-1997 |date=2000 |publisher=[[Indiana University]] |page=119 |url=https://books.google.com/books?id=ilEeAQAAMAAJ |quote=Average Ticket Prices in Korea, 1974-1997 [...] * Source: Korea Cinema Yearbook (1997-1998) * Currency: won [...] Foreign [...] 1987 [...] 3,500}}</ref> ({{US$|{{#expr:110736500/822.568 round 0}}|long=yes}}).<ref>{{cite web |title=Official exchange rate (LCU per US$, period average) - Korea, Rep. |url=https://data.worldbank.org/indicator/PA.NUS.FCRF?end=1987&locations=KR&start=1986 |website=[[World Bank]] |year=1987 |access-date=7 December 2018}}</ref>
+
+In the United Kingdom, the film sold 1,045 tickets in 1996,<ref>{{cite web |title=Sinnui yauman (A Chinese Ghost Story) |url=https://lumiere.obs.coe.int/web/film_info/?id=1627 |website=[[Lumiere (database)|Lumiere]] |access-date=5 January 2021}}</ref> equivalent to an estimated {{£|{{#expr:1045*3.70 round 0}}|long=no|link=yes}}<ref name="uk-ticket">{{cite web |title=UK cinema ticket prices |url=https://www.terramedia.co.uk/reference/statistics/cinema/cinema_ticket_prices_1.htm |website=Terra Media |date=20 August 2014 |access-date=23 June 2019 |archive-url=https://web.archive.org/web/20160718064606/http://www.terramedia.co.uk/reference/statistics/cinema/cinema_ticket_prices_1.htm |archive-date=18 July 2016 |url-status=live}}</ref> ({{US$|{{#expr:3867/0.64 round 0}}|long=yes}}).<ref>{{cite web |title=Official exchange rate (LCU per US$, period average) - United Kingdom |url=https://data.worldbank.org/indicator/PA.NUS.FCRF?end=1996&locations=GB&start=1995 |website=[[World Bank]] |year=1996 |access-date=7 December 2018}}</ref> In China, the film grossed US$328,204 in 2008<ref>{{cite web |title=Sien lui yau wan (2008 release) |url=https://www.boxofficemojo.com/releasegroup/gr233656837/ |website=[[Box Office Mojo]] |access-date=5 January 2021}}</ref> and {{CNY|2.95 million|link=yes}} ({{US$|{{To USD|2950000|CHN|year=2011|round=yes}}|long=yes}}) in 2011,<ref>{{cite web |title=A Chinese Ghost Story |url=https://www.endata.com.cn/BoxOffice/MovieStock/movieShow.html?id=6456 |website=Endata |publisher=EntGroup |access-date=5 January 2021}}</ref> for a total of {{US$|{{#expr:328204+456656}}|long=yes}} grossed in China. This adds up to an estimated total of {{US$|{{#expr:2414932+443515+134623+6042+784860}}|long=yes}} grossed worldwide (equivalent to an estimated {{US$|{{Inflation|US|3.783972|1987}} million}} adjusted for inflation).
+
+=== Re-releases and restorations ===
+In memory of [[Leslie Cheung]], director [[Ching Siu-tung]] and producer [[Ng See-yuen]] re-released the film in cinemas across mainland China on 30 April 2011.<ref name="chinadaily" /> [[China Radio International]] reported that the film was remastered with color timing that took about half a year.<ref name="cri">{{cite web|
+archive-url=https://web.archive.org/web/20110507025402/http://english.cri.cn/6666/2011/05/05/1321s635720.htm| url=http://english.cri.cn/6666/2011/05/05/1321s635720.htm|title=A Chinese Ghost Story Redux Offers Nostalgia|publisher=[[China Radio International]]|date=5 May 2011|access-date=17 June 2016| url-status=dead|archive-date=7 May 2011}}</ref> In addition, premieres took place in both Beijing and Shanghai. Ching, Ng and [[Lau Siu Ming|Lau Siu-ming]] were present. However, [[Wu Ma]] and [[Joey Wong]], who were invited, did not attend the premiere. Ching had difficulty tracking down Wong and had to contact her through her family in Taiwan. He received a telephone call at the last minute from Wong's father, stating that the actress was in poor health and not in good condition to attend the premiere. Wong's father also quoted his daughter saying that acting in the film was one of her best memories.<ref name="chinadaily">{{cite web|url=http://www.chinadaily.com.cn/hqyl/dsneidigangtai/2011-04-30/content_2473414.html|work=[[China Daily]]|title=87版《倩女幽魂》上海首映 陈小东遗憾剪掉哥哥床戏|language=zh|archive-url=https://web.archive.org/web/20110502033033/http://www.chinadaily.com.cn/hqyl/dsneidigangtai/2011-04-30/content_2473414.html |archive-date=2 May 2011 }}</ref>
+
+In 2025, [[Cinema City Enterprises]] produced a 4K restoration of ''A Chinese Ghost Story'', releasing it theatrically in China on 21 March 2025 in standard and [[4DX]] formats.<ref>{{Cite news |date=2025-03-20 |title=《倩女幽魂》4K修复版将于3月21日重映 |url=https://www.sohu.com/a/873579282_119038 |access-date=2025-08-29 |work=China Youth Network |language=zh}}</ref> The re-release earned 10 million RMB in its first week.<ref>{{Cite news |author=Lu Jiahong |date=2025-06-02 |title=日本电影《情书》30年后在中国院线首映受追捧，中国影业"怀旧经济"方兴未艾 |url=https://www.bbc.com/zhongwen/articles/c706jg97jzgo/simp |access-date=2025-08-29 |work=BBC |language=zh}}</ref> [[Shout! Factory]] released digital and Blu-ray versions of the restoration in August and October 2025, respectively, having acquired worldwide rights to production company [[Golden Princess Film Production|Golden Princess]]' catalogue in January.<ref>{{Cite news |last=Taylor |first=Drew |date=2025-04-28 |title=Shout! Studios Unveils Hong Kong Cinema Classics Line, Including Digital and Physical Releases of Movies from John Woo and Jet Li |url=https://www.thewrap.com/shout-studios-hong-kong-cinema-classics-john-woo-blu-ray-digital/ |access-date=2025-08-29 |work=The Wrap}}</ref><ref>{{Cite news |date=2025-08-04 |title=Scream Factory and Shout Factory Announce October Releases |url=https://www.blu-ray.com/news/?id=36892 |access-date=2025-08-29 |work=Blu-ray.com}}</ref><ref>{{Cite news |last=Ramachandran |first=Naman |date=2025-01-13 |title=John Woo, Chow Yun-fat Classics Among 156-Film Golden Princess Library Acquired by Shout! Studios (EXCLUSIVE) |url=https://variety.com/2025/film/news/john-woo-chow-yun-fat-golden-princess-shout-studios-1236272850/ |access-date=2025-08-29 |work=Variety}}</ref>
+
+==Reception and legacy==
+From contemporary reviews, Walter Goodman (''[[The New York Times]]'') noted poor subtitling on the print he viewed, opining that "If there are any Eastern profundities emanating from the temple, this Westerner did not recognize them." and that "The kick you get from all this will depend on how exciting you find explosive exhibitions of extraterrestrial exercises."<ref>{{cite news|url=https://www.nytimes.com/1988/03/23/movies/review-film-sepulchral-seductress-and-a-taoist-warrior.html|access-date=June 14, 2016|title=Review/Film; Sepulchral Seductress And a Taoist Warrior|last=Goodman|first=Walter|date=March 23, 1988|newspaper=[[The New York Times]]}}</ref> [[Kim Newman]] (''[[Monthly Film Bulletin]]'') described the film as "an excellent example of the distinctive type of ghost/horror film that has been coming out of Hong Kong for many years" and that the film "affords an insight into a movie mythos at least as highly developed and ritualized as the Universal horror cycle of the 30s or the Hammer films of the 50s and 60s".<ref name="newman">{{cite magazine|magazine=[[Monthly Film Bulletin]]|title=Qian Nü Youhun/A Chinese Ghost Story|volume=55|issue=650|page=88|date=March 1988|publisher=[[British Film Institute]]|location=London|last=Newman|first=Kim|author-link=Kim Newman}}</ref> The film was reviewed by a critic credited as "Mel" in ''[[Variety (magazine)|Variety]]'' who praised the film, stating that "Cinema City is to be congratulated for searching original Chinese material. The art direction, costumes, cinematography and soundtrack music are all exceptional."{{sfn|Mel.|1991}} The review went on to state that the "storyline portray the beauty and fragility of life on earth" which led to "an entertaining love story with a tantalizing horror background, mixed with fantasy escapism that won't insult adult viewers."{{sfn|Mel.|1991}}
+
+From retrospective reviews, ''[[The Guardian]]'' described the film as "one of the breakthrough films of modern Hong Kong cinema" and that it was "dubious knockabout comedy [...] spiced with frantic set piece stunts (mid-air fights, thousand-foot tongues); not for those who value comprehensibility over panache."<ref name="guardian-review">{{cite news|newspaper=[[The Guardian]]|page=C82|date=June 28, 1997|location=London, United Kingdom|author=AP|title=Cable & Satellite: A Chinese Ghost Story|issn=0261-3077}}</ref> ''[[Empire (film magazine)|Empire]]'' gave the film four stars out of five, noting "gorgeous imagery" and that it was not "quite as completely demented as ''[[Mr Vampire]]'', but it is truly strange."<ref>{{cite web|url=https://empireonline.com/movies/chinese-ghost-story/review/|work=[[Empire (magazine)|Empire]]|title=A Chinese Ghost Story Review|last=Bowyer|first=Justin|date=January 2000 |access-date=18 June 2016|archive-url=https://web.archive.org/web/20160618041400/https://empireonline.com/movies/chinese-ghost-story/review/|archive-date=18 June 2016}}</ref> Donald C Willis wrote in his book ''Horror and Science Fiction Film IV'' that ''A Chinese Ghost Story'' was "an entertaining fantasy extravaganza" and that "the movie is very inventive, occasionally even poetic, but not quite moving".{{sfn|Willis|1997|p=82}} John Charles gave the film an eight out of ten rating, noting that some horror elements in the film were in debt to the film ''[[The Evil Dead]]'', but noted that the "cinematography and art direction are superb, the action is invigorating, and the love story surprisingly touching, making this one of the most captivating and enjoyable fantasies of the post-New Wave period."{{sfn|Charles|2000|p=155}}
+
+In mainland China, before the film was officially released in 2011, it was already widely circulated through unofficial channels- including smuggled videocassettes, pirated VCDs and DVDs, and later, video-sharing websites- and celebrated as a cult classic. The Chinese generation born in the 1980s, aka. the "post-80s" ({{transliteration|zh|balinghou}}), are among the most devout fans of this film, which they see as an embodiment of idealism, rebellion, nostalgia, and social criticism. Some scholars consider its comic nature, or "half-seriousness," to be the main reason for this cult following.<ref>{{cite journal |last1=Wang |first1=Hongjian |title=A Chinese Ghost Story: A Hong Kong Comedy Film's Cult Following in Mainland China |journal=Journal of Chinese Cinemas |date=2018 |volume=12 |issue=2 |pages=142–157 |doi=10.1080/17508061.2018.1475968|s2cid=194825813 }}</ref>
+
+The modern reception of the film in Hong Kong and Taiwan is positive.<ref name="goldenhorselist">{{cite web|url=http://www.filmbiz.asia/news/horse-announces-greatest-chinese-films|publisher=[[Film Business Asia]]|access-date=November 4, 2015|date=January 27, 2011|title=Horse announces greatest Chinese films|last=Cremin|first=Stephen|archive-url=https://web.archive.org/web/20110314212536/http://www.filmbiz.asia/news/horse-announces-greatest-chinese-films|archive-date=14 March 2011 }}</ref><ref name="hkfaa">{{cite web|url=http://www.hkfaa.com/news/100films.html|publisher=[[Hong Kong Film Awards]]|title=[最佳華語片一百部] The Best 100 Chinese Motion Pictures|language=zh|access-date=June 14, 2016|archive-date=22 October 2019|archive-url=https://web.archive.org/web/20191022211054/http://www.hkfaa.com/news/100films.html|url-status=dead}}</ref> At the 24th [[Hong Kong Film Awards]] various Asian film critics, film makers and actors voted for the top Chinese films from Hong Kong, Taiwan and China.<ref name="hkfaa" /> ''A Chinese Ghost Story'' was listed at 50th place on the list.<ref name="hkfaa" /> In 2011, the [[Golden Horse Film Festival and Awards|Taipei Golden Horse Film Festival]] had 122 industry professionals take part in the survey.<ref name="goldenhorselist" /> The voters included film scholars, festival programmers, film directors, actors and producers to vote for the 100 Greatest Chinese-Language Films.<ref name="goldenhorselist" /> ''A Chinese Ghost Story'' tied with [[Jia Zhangke]]'s ''[[Xiao Wu]]'' (1997) and [[Zhang Yimou]]'s ''[[The Story of Qiu Ju]]'' (1992) for 35th place on the list.<ref name="goldenhorselist" />
+
+{{Rotten Tomatoes prose|70|7.8|10|ref=yes|access-date={{RT data|access date}}}}
+
+=== Awards and nominations ===
+{| class="wikitable" style="font-size:95%"
+|-
+! Event
+! Category
+! Recipient
+! Outcome
+|-
+| rowspan="12" |7th [[Hong Kong Film Award]]s
+|[[Hong Kong Film Award for Best Film|Best Film]]
+|''A Chinese Ghost Story''
+|{{Nom}}
+|-
+|[[Hong Kong Film Award for Best Director|Best Director]]
+|[[Ching Siu-tung]]
+|{{Nom}}
+|-
+|[[Hong Kong Film Award for Best Actress|Best Actress]]
+|[[Joey Wong]]
+|{{Nom}}
+|-
+|[[Hong Kong Film Award for Best Supporting Actor|Best Supporting Actor]]
+|[[Wu Ma]]
+|{{Nom}}
+|-
+|[[Hong Kong Film Award for Best Cinematography|Best Cinematography]]
+|[[Poon Hang-sang]], Tom Lau, Sander Lee, <br>Horace Wong
+|{{Nom}}
+|-
+|Best Film Editing
+|Cinema City Production Co. Ltd. Editing Unit
+|{{Nom}}
+|-
+|Best Art Direction 
+|[[Yee Chung-Man|Kenneth Yee]]
+|{{Won}}
+|-
+|[[Hong Kong Film Award for Best Action Choreography|Best Action Choreography]]
+|[[Ching Siu-tung]], [[Philip Kwok]], Lau Chi-ho, <br>[[Alan Chui Chung-San]], Bobby Wu
+|{{Nom}}
+|-
+| Best Original Film Score 
+| [[Romeo Diaz]], [[James Wong (lyricist)|James Wong]]
+|{{Won}}
+|-
+| rowspan="3" |Best Original Film Song 
+|Song: ''Dawn, Please Do Not Come'' (黎明不要來)
+Composer/Lyricist: James Wong
+<br>Singer: [[Sally Yeh]]
+|{{Won}}
+|-
+|Song: ''A Chinese Ghost Story'' (倩女幽魂)
+Composer/Lyricist: James Wong
+<br>Singer: [[Leslie Cheung]]
+|{{Nom}}
+|-
+|Song: ''Path'' (道)
+Composer/Lyricist:/Singer: James Wong
+|{{Nom}}
+|-
+| rowspan="7" |24th [[Golden Horse Film Festival and Awards|Golden Horse Awards]]
+|[[Golden Horse Award for Best Feature Film|Best Feature Film]]
+|''A Chinese Ghost Story''
+|{{Won}}
+|-
+|Best Supporting Actor
+|Wu Ma
+|{{Won}}
+|-
+|Best Adapted Screenplay
+|Yuen Kai-chi
+|{{Won}}
+|-
+|Best Film Editing
+|Cinema City Production Co. Ltd. Editing Unit
+|{{Won}}
+|-
+|Best Art Direction
+|Kenneth Yee
+|{{Nom}}
+|-
+|Best Makeup & Costume Design
+|Shirley Chan
+|{{Won}}
+|-
+|Best Original Film Song
+|Song: ''Path'' (道)
+Composer/Lyricist: James Wong Singer: Leslie Cheung
+|{{Nom}}
+|-
+|16th [[Avoriaz International Fantastic Film Festival|Avoriaz Fantastic Film Festival]] 
+|Special Jury Award 
+|[[Tsui Hark]]
+|{{Won}}
+|-
+|8th [[Fantafestival]]
+|Best Director 
+|Ching Siu-tung
+|{{Won}}
+|-
+|8th [[Fantasporto]] Film Festival 
+|Best Film Award
+|''A Chinese Ghost Story''
+|{{Won}}
+|-
+|[[24th Hong Kong Film Awards]]
+|Best 100 Chinese Motion Pictures (#50)
+|''A Chinese Ghost Story''
+|{{Won}}
+|-
+|1987 [[Sitges Film Festival]]
+|Best Special Effects<ref>{{cite web |url=https://mubi.com/films/a-chinese-ghost-story |title=A Chinese Ghost Story |author=<!--Not stated--> |website=mubi.com |access-date=20 February 2020}}</ref>
+|Cinefex Workshop Co., Ltd.
+|{{Won}}
+|-
+|}
+
+== Subsequent media ==
+The film was followed by two official sequels: ''[[A Chinese Ghost Story II]]'' (1990) and ''[[A Chinese Ghost Story III]]'' (1991), both directed by Ching Siu-tung and starring Joey Wong. 
+
+In 1997, producer [[Tsui Hark]] wrote and produced ''[[A Chinese Ghost Story: The Tsui Hark Animation]]'', a loose animated reimagining of the first film's story. 
+
+In 2011, a [[A Chinese Ghost Story (2011 film)|new adaptation of Pu's short story]] was released, directed by [[Wilson Yip]] and starring [[Louis Koo]] and [[Liu Yifei]].<ref>{{cite web|url=http://www.filmbiz.asia/reviews/a-chinese-ghost-story|title=A Chinese Ghost Story|last=Elley|first=Derek|access-date=17 June 2016|date=16 November 2011|publisher=[[Film Business Asia]]|author-link=Derek Elley|archive-url=https://web.archive.org/web/20111124050334/http://www.filmbiz.asia/reviews/a-chinese-ghost-story|archive-date=24 November 2011}}</ref> 
+
+In 2020, a Mainland Chinese remake entitled ''The Enchanting Phantom'' was released, directed by Lin Zhenzhao and starring Eleanor Lee and Chen Xing-xu.<ref>https://www.imdb.com/title/tt12217840/</ref>
+
+==See also==
+{{Portal|Hong Kong|Film|1980s}}
+* ''[[Qian Nü You Hun (disambiguation)|Qian Nü You Hun]]''
+* [[List of ghost films]]
+
+== References ==
+
+===Footnotes===
+{{reflist|30em}}
+
+===Sources===
+{{Refbegin}}
+* {{Cite book | last=Charles | first=John |title=The Hong Kong Filmography: 1977-1997|publisher=McFarland|year=2000|isbn=147660262X}}
+* {{cite book|title=Variety's Film Reviews 1987-1988|volume=20|publisher=[[R. R. Bowker]]|isbn=0-8352-2667-0|year=1991|at=There are no page numbers in this book. This entry is found under the header "September 2, 1987"|author=Mel.}}
+* {{Cite book | last= Morton | first= Lisa | title= The Cinema of Tsui Hark |publisher= [[McFarland & Company|McFarland]] |year= 2001 |isbn= 0-7864-4460-6 |url=https://books.google.com/books?id=MiulRecfarcC |access-date=6 May 2010}}
+* {{cite book
+ |last=O'Brien
+ |first=Daniel
+ |title=Spooky Encounters: A Gwailo's Guide to Hong Kong Horror
+ |publisher=Headpress
+ |isbn=1900486318
+ |year=2003
+}}
+* {{cite book
+ |last=Willis
+ |first=Donald C.
+ |title=Horror and Science Fiction Films IV
+ |publisher=[[Scarecrow Press]]
+ |isbn=0-8108-3055-8
+ |year=1997
+}}
+{{Refend}}
+
+==External links==
+*{{IMDb title|0093978|A Chinese Ghost Story}}
+*[http://www.lovehkfilm.com/reviews_2/chinese_ghost_story.htm lovehkfilm entry]
+*[http://www.illuminatedlantern.com/cinema/review/archives/chinese_ghost_story.php Film review at The Illuminated Lantern] {{Webarchive|url=https://web.archive.org/web/20211107061718/http://www.illuminatedlantern.com/cinema/review/archives/chinese_ghost_story.php |date=7 November 2021 }}
+*{{rotten-tomatoes|chinese_ghost_story/|A Chinese Ghost Story}}
+
+{{Ching Siu-tung}}
+{{Tsui Hark}}
+{{A Chinese Ghost Story}}
+{{Strange Tales from a Chinese Studio}}
+{{DEFAULTSORT:Chinese Ghost Story}}
+[[Category:1987 horror films]]
+[[Category:1987 films]]
+[[Category:1987 fantasy films]]
+[[Category:1980s ghost films]]
+[[Category:1987 supernatural films]]
+[[Category:Hong Kong horror films]]
+[[Category:Hong Kong fantasy films]] <!--source: https://allmovie.com/movie/a-chinese-ghost-story-v9375 -->
+[[Category:1980s romantic fantasy films]]
+[[Category:1987 Cantonese-language films]]
+[[Category:A Chinese Ghost Story films| ]] <!-- https://allmovie.com/movie/a-chinese-ghost-story-v9375 -->
+[[Category:Films directed by Ching Siu-tung]]
+[[Category:Films using stop-motion animation]]
+[[Category:1980s gothic horror films]]
+[[Category:Hong Kong New Wave films]]
+[[Category:1987 Hong Kong films]]
+[[Category:Films based on short fiction]]
+[[Category:Films set in forests]]
+[[Category:1980s demon films]]
+[[Category:Wuxia films]]
+[[Category:Hong Kong demon films]]
+[[Category:Films produced by Tsui Hark]]

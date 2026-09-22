@@ -1,0 +1,79 @@
+{{short description|1964 film}}
+{{redirect|Ansatsu|for the anime and manga series|Assassination Classroom}}
+{{Infobox film
+| name           = Assassination
+| image          = Assassination DVD.jpg
+| alt            = 
+| caption        = UK DVD Cover
+| native_name      = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = [[Masahiro Shinoda]]
+| producer       = <!-- or: | producers = -->
+| screenplay     = Nobuo Yamada{{sfn|Galbraith IV|1996|p=105}}
+| story          = [[Ryotaro Shiba]]{{sfn|Galbraith IV|1996|p=105}}
+| based_on       = <!-- {{based on|title of the original work|writer of the original work}} -->
+| starring       = {{plainlist|*[[Tetsuro Tamba]]
+*[[Shima Iwashita]]
+*[[Eitaro Ozawa]]}}
+| narrator       = <!-- or: | narrators = -->
+| music          = [[Tōru Takemitsu]]{{sfn|Galbraith IV|1996|p=105}}
+| cinematography = [[Masao Kosugi]]{{sfn|Galbraith IV|1996|p=105}}
+| editing        = 
+| studio         = [[Shochiku]]{{sfn|Galbraith IV|1996|p=105}}
+| distributor    = <!-- or: | distributors = -->
+| released       = {{film date|1964|7|4|Japan}}
+| runtime        = 104 minutes{{sfn|Galbraith IV|1996|p=105}}
+| country        = Japan
+| language       = 
+| budget         = 
+| gross          = <!--(please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221")-->
+}}
+
+{{Nihongo|'''''Assassination'''''|暗殺|Ansatsu|lead=yes}}, also known as '''''The Assassin''''', is a [[1964 in film|1964]] [[film]] directed by [[Masahiro Shinoda]].<ref>{{cite web|url=https://kotobank.jp/word/%E6%9A%97%E6%AE%BA-29157|title=暗殺|publisher=kotobannk|access-date=27 December 2020}}</ref><ref>{{cite web|url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=21419|title=暗殺|publisher=[[Kinema Junpo]]|access-date=27 December 2020}}</ref><ref>{{cite web|url=https://www.japanese-cinema-db.jp/Details?id=9764|title=暗殺|publisher=[[文化庁]]|access-date=27 December 2020}}</ref><ref>{{cite web|url=https://movies.shochiku.co.jp/100th/ansatsu/|title=暗殺|date=19 June 2020 |publisher=k松竹|access-date=27 December 2020}}</ref>
+
+==Release==
+''Assassination'' was released in Japan in 1964.{{sfn|Galbraith IV|1996|p=105}} The film was released in the United States on October 30, 1964, by Shochiku Films of America.{{sfn|Galbraith IV|1996|p=105}}
+
+== Cast ==
+* [[Tetsurō Tamba]] – Hachirô Kiyokawa
+* [[Shima Iwashita]] – Oren
+* [[Isao Kimura]] – Tadasaburô Sasaki
+* [[Eiji Okada]] – Lord Matsudaira
+* [[Eitaro Ozawa]] – [[Itakura Katsukiyo|Premier Itakura]]
+* [[Takanobu Hozumi]] – [[Yamaoka Tesshū|Tetsutaro Yamaoka]]
+* [[Junkichi Orimoto]] – [[Kamo Serizawa]]
+* [[Yukio Ninagawa]] – Shôhei Imuta
+* [[Muga Takewaki]] - Miyagawa
+* [[Keiji Sada]] – [[Sakamoto Ryōma]]
+
+== References ==
+
+===Footnotes===
+{{reflist|30em}}
+
+===Sources===
+{{Refbegin}}
+* {{cite book |last=Galbraith IV |first=Stuart |title=The Japanese Filmography: 1900 through 1994 |publisher=McFarland |date=1996 |isbn=0-7864-0032-3 }}
+{{Refend}}
+
+==External links==
+* [https://web.archive.org/web/20070326124001/http://eurekavideo.co.uk/moc/catalogue/assassination/essay/ ''Assassination'' essay by Joan Mellen] at the [[Masters of Cinema]] website
+* [https://web.archive.org/web/20070928045551/http://www.eurekavideo.co.uk/moc/catalogue/assassination/trailer/020-assassination.mov ''Assassination'' trailer] at the Masters of Cinema website
+* {{IMDb title|id=0164347|title=Assassination}}
+* {{in lang|ja}} {{cite web |url=http://www.jmdb.ne.jp/1964/cn001800.htm|title=暗殺 (Ansatsu)|access-date=2007-07-16|language=Japanese|publisher=[[Japanese Movie Database]]}}
+
+{{Masahiro Shinoda}}
+
+[[Category:1964 films]]
+[[Category:1964 historical drama films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Films directed by Masahiro Shinoda]]
+[[Category:1964 Japanese-language films]]
+[[Category:Jidaigeki films]]
+[[Category:1960s samurai films]]
+[[Category:Shochiku films]]
+[[Category:Japanese historical drama films]]
+[[Category:Films scored by Toru Takemitsu]]
+[[Category:Films set in Bakumatsu]]
+[[Category:1964 Japanese films]]
+{{1960s-Japan-film-stub}}
+{{historic-film-stub}}

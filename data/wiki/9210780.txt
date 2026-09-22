@@ -1,0 +1,1295 @@
+{{Short description|none}}
+{{DISPLAYTITLE:List of ''The Six Million Dollar Man'' episodes}}
+{{Use American English|date=March 2026}}
+{{Use mdy dates|date=November 2022}}
+'''''[[The Six Million Dollar Man]]''''' is an American [[science fiction on television|science fiction]] and [[action television]] series, running from 1973 to 1978, about a former [[astronaut]], [[United States Air Force|USAF]] [[Colonel (United States)|Colonel]] [[Steve Austin (character)|Steve Austin]], portrayed by [[Lee Majors]]. After being seriously injured in a [[NASA]] test flight crash, Austin is rebuilt (at considerable expense, hence the title of the series) with bionic implants that give him superhuman strength, speed and vision. Austin is then employed as a secret agent by a fictional American government office titled OSI.{{refn|OSI was variously referred to as the Office of Scientific Intelligence, the Office of Scientific Investigation or the Office of Strategic Intelligence.<ref>Lottman, Eileen, ''Welcome Home, Jaime'' (Berkeley Books, 1976, {{ISBN|978-0425032305}})</ref>|group="n"}} The series was based on [[Martin Caidin]]'s 1972 novel ''[[Cyborg (novel)|Cyborg]]'', which was the [[working title]] of the series during pre-production.<ref>{{cite book |title=The TV Guide TV Book: 40 Years of the All-Time Greatest Television Facts, Fads, Hits, and History |url=https://archive.org/details/tvguidetvbook40y00wein |url-access=registration |last=Weiner |first=Ed |year=1992 |publisher=Harper Collins |location=New York |isbn=0-06-096914-8 |page=[https://archive.org/details/tvguidetvbook40y00wein/page/174 174]}}</ref>
+
+Following three television films intended as pilots, which all aired in 1973, ''The Six Million Dollar Man'' television series aired on the [[American Broadcasting Company|ABC network]] as a regular episodic series for five seasons from 1974 to 1978. Steve Austin became a [[pop culture]] [[pop icon|icon]] of the 1970s.<ref name="Muir">{{cite book |last1=Muir |first1=John Kenneth |author-link1=John Kenneth Muir |title=The Encyclopedia of Superheroes on Film and Television |date=2008 |publisher=[[McFarland & Company]] |isbn=978-0-7864-3755-9 |pages=471–488 |edition=2nd |chapter=The Six Million Dollar Man |lccn=2008019724}}</ref>
+
+==Series overview==
+<onlyinclude>{{Series overview
+
+| color0S = #BCB9B8
+| link0S = <includeonly>List of The Six Million Dollar Man episodes</includeonly>#Pilot movies (1973)
+| linkT0S = Pilot movies
+| start0S = March 7, 1973
+| end0S = November 17, 1973
+
+| color1 = #FF5F6F
+| link1 = <includeonly>List of The Six Million Dollar Man episodes</includeonly>#Season 1 (1974)
+| episodes1 = 13
+| start1 = {{Start date|1974|01|18}}
+| end1 = {{End date|1974|04|26}}
+
+| color2 = #0C4CCD
+| link2 = <includeonly>List of The Six Million Dollar Man episodes</includeonly>#Season 2 (1974–75)
+| episodes2 = 22
+| start2 = {{Start date|1974|09|13}}
+| end2 = {{End date|1975|04|27}}
+
+| color3 = #11AF44
+| link3 = <includeonly>List of The Six Million Dollar Man episodes</includeonly>#Season 3 (1975–76)
+| episodes3 = 21
+| start3 = {{Start date|1975|09|14}}
+| end3 = {{End date|1976|03|07}}
+
+| color4 = #8D18BB
+| link4 = <includeonly>List of The Six Million Dollar Man episodes</includeonly>#Season 4 (1976–77)
+| episodes4 = 22
+| start4 = {{Start date|1976|09|19}}
+| end4 = {{End date|1977|05|15}}
+
+| color5 = #FF7D0E
+| link5 = <includeonly>List of The Six Million Dollar Man episodes</includeonly>#Season 5 (1977–78)
+| episodes5 = 21
+| start5 = {{Start date|1977|09|11}}
+| end5 = {{End date|1978|03|06}}
+
+| color6 = #FCE81A
+| link6 = <includeonly>List of The Six Million Dollar Man episodes</includeonly>#Television movies (1987–1994)
+| linkT6 = Television movies
+| episodes6 = 3
+| start6 = {{Start date|1987|05|17}}
+| end6 = {{End date|1994|11|29}}
+}}</onlyinclude>
+
+== Pilot movies (1973) ==
+{{Episode table
+|background=#BCB9B8
+|title=31
+|writer=17
+|director=16
+|airdate=13
+|episodes=
+
+{{Episode list
+ |RTitle=''The Six Million Dollar Man''
+ |AltTitle=The Moon and the Desert
+ |DirectedBy=Richard Irving
+ |WrittenBy=[[Martin Caidin]] & Henri Simoun
+ |OriginalAirDate={{Start date|1973|03|07}}
+ |ShortSummary=Steve Austin is an astronaut who has made three Moon landings. In a test flight accident caused by a malfunctioning center stick, his right arm is severed, his left eye is blinded, and both legs must be surgically amputated. Steve Austin’s personal physician, Dr. Rudy Wells, has theorized about the creation of a cyborg through the installation of bionic parts. He is persuaded by an OSI agent to reconstruct his patient/friend with the understanding that Steve Austin will subsequently work for the OSI. Dr. Wells apprises Steve of the plan, but is met with much resistance as Steve Austin mentally struggles to cope with his injuries, the installation of artificial components, and the future obligations that will be involuntarily thrust upon him. Following surgery and lengthy [[Physical medicine and rehabilitation|rehabilitation]], Steve Austin reluctantly accepts an assignment to rescue a hostage in [[Saudi Arabia]]. 
+{{Episode cast}} [[Martin Balsam]] as the first Dr. Rudy Wells|LineColor=BCB9B8
+}}
+{{Episode list
+ |RTitle=''Wine, Women and War''
+ |DirectedBy=Russ Mayberry
+ |WrittenBy=[[Glen A. Larson]]
+ |OriginalAirDate={{Start date|1973|10|20}}
+ |ShortSummary=Steve Austin is gravely injured by a depth charge while fleeing from a failed mission in [[Egypt]].  He refuses further cooperation with OSI, which will not disclose to him the target of the operation that nearly cost him his life.  OSI conspires with an old [[United States Air Force|Air Force]] acquaintance to dupe Austin into "escaping" from his involuntary confinement to Paradise Cay in [[the Bahamas]]. There he is unwittingly thrust back into the same operation that intends to stop an [[arms dealer]], Findletter, from selling stolen American and Russian [[nuclear missile]]s. The stakes increase when Findletter attempts to hijack a newly launched American submarine.
+
+Steve Austin's bionic eye is shown to have [[night vision]].  It is both suggested and partially contradicted that Steve Austin's bionics give him the ability to hold his breath for long periods of time. As noted in ''[[Cyborg (novel)|Cyborg]]'' (the novel on which the TV series was based), Austin's significantly reduced biological body mass requires far less oxygen and produces correspondingly less carbon dioxide; an unchanged lung capacity is thus vastly more efficient.
+
+The character [[Oscar Goldman (character)|Oscar Goldman]] is introduced in this episode. [[Alan Oppenheimer]] debuts as the second Dr. Rudy Wells. The sound effect later used to indicate the operation of Steve Austin's eye is heard as the button effect that operates the missile bay doors. Steve Austin purposely rigs a [[nuclear bomb]] to be unwittingly detonated by his pursuer in an inhabited part of Paradise Cay.  The bomb is detonated as he looks on from what is portrayed to be a safe distance.
+
+{{Episode cast}} [[Earl Holliman]] as Harry Donner, [[Britt Ekland]] as a Russian agent.
+ |LineColor=BCB9B8
+}}
+{{Episode list
+ |RTitle=''The Solid Gold Kidnapping''
+ |DirectedBy=Russ Mayberry
+ |WrittenBy=Larry Alexander,<br /> [[Alan Caillou]]
+ |OriginalAirDate={{Start date|1973|11|17}}
+ |ShortSummary=Oscar Goldman orchestrates a ruse whereby a high-level U.S. military diplomat pretending to be held up in a Paris hospital is to be secretly whisked off to [[Peking]] to negotiate an ease of tensions between the two countries. A professional kidnapping organization successfully abducts the diplomat in Paris with the aid of his treacherous paramour known as the Contessa. The kidnappers demand a $1 billion ransom in gold. As the gold shipment moves forward, Steve Austin begins a search against the clock for the hostage. He is aided both by the fickle Contessa and by a doctor who agrees, with perilous consequences, to have brain cells of a dead kidnapper injected into her own brain to allow her to have access to his memories. |LineColor=BCB9B8
+}}
+}}
+
+Some sources consider these movies to be part of Season 1 of the series, particularly the second and third films, which aired only a couple of months before the weekly series began. All three films were later re-edited into two-part episodes of the regular series, with additional footage added, for the purposes of network reruns and later syndication. In all three cases, the original opening titles are removed and replaced with the standard ''Six Million Dollar Man'' title sequence. In the case of "The Moon and the Desert", some of the additional footage consisted of clips from later seasons, including footage of [[Martin E. Brooks]] as Rudy Wells, even though [[Martin Balsam]] plays the character in the first telefilm, and operation footage from "The Bionic Woman" episode of season 2.
+
+==Episodes==
+
+===Season 1 (1974)===
+{{Episode table |background=#FF5F6F |overall=4 |season=4 |title=21 |writer=17 |director=16 |airdate=13 |episodes={{Episode list
+ |EpisodeNumber=1
+ |EpisodeNumber2=1
+ |Title=Population: Zero
+ |DirectedBy=[[Jeannot Szwarc]]
+ |WrittenBy=[[Elroy Schwartz]]
+ |OriginalAirDate={{Start date|1974|01|18}}
+ |ShortSummary=When Steve and Oscar investigate the knocking out of the entire population of a small town, they are contacted by a scientist, once employed by the government, who is set on revenge for past grievances. He demands $10 million or he will strike again, and Steve must find and stop him.
+
+Steve Austin's bionics are shown to be vulnerable to sub-zero temperatures. The town scenes were from the movie ''[[The Andromeda Strain (film)|The Andromeda Strain]]''.
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=2
+ |EpisodeNumber2=2
+ |Title=Survival of the Fittest
+ |DirectedBy=[[Leslie H. Martinson]]
+ |WrittenBy=Mann Rubin
+ |OriginalAirDate={{Start date|1974|01|25}}
+ |ShortSummary=Due to secret negotiations with the Russians, Oscar Goldman is targeted for assassination by interests that will be hurt by the prospective pact. Oscar and Steve Austin board a flight in Hawaii bound for [[Dulles International Airport|Dulles]].  The plane is forced to make an emergency landing on a deserted Pacific Island when part of a wing is lost during a storm. While awaiting rescue, two military officers that had been on the flight severely wound Oscar in an attempt to kill him. Unaware of the breadth of the conspiracy, Steve Austin must carefully decide whom he can trust in his efforts to save his friend.
+
+{{Episode cast}} [[Jo Anne Worley]] as a passenger mistakenly on the flight; [[William Smith (American actor)|William Smith]] as a Navy Officer; [[Laurette Spang]] as a yeoman
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=3
+ |EpisodeNumber2=3
+ |Title=Operation Firefly
+ |DirectedBy=[[Reza Badiyi]]
+ |WrittenBy=Sy Salkowitz
+ |OriginalAirDate={{Start date|1974|02|01}}
+ |ShortSummary=Dr. Samuel Abbott has been kidnapped while developing a wireless laser that utilizes scientific principles observed in light generation by the common firefly. Steve Austin goes to [[Spain]] to find Abbott’s daughter Susan, whose known powers of [[extrasensory perception]] (ESP) will hopefully assist in locating the scientist. She leads them to [[the Everglades]] only to discover that Dr. Abbott mistakenly believes his kidnappers are government agents that are protecting him. He continues to complete the laser unaware that it is being used to extort money from the US government.
+
+This episode employs the first use of the bionic eye sound effect.
+
+{{Episode cast}} [[Joe Kapp]] as Frank
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=4
+ |EpisodeNumber2=4
+ |Title=Day of the Robot
+ |DirectedBy=Leslie H. Martinson
+ |WrittenBy={{StoryTeleplay|s= Harold Livingston|t= [[Del Reisman]]}}
+ |OriginalAirDate={{Start date|1974|02|08}}
+ |ShortSummary=In an attempt to steal a top-secret anti-missile device, Steve's associate and friend, Major Sloan, is kidnapped and replaced with a robot. Steve must discover the impostor and keep the device from being stolen and sold to the highest bidder.
+
+This is the first occurrence of the sound effect later used for Steve Austin's bionic legs and arm, although used here for Fred Sloan robot's powered arm swings.
+
+{{Episode cast}} [[John Saxon]] as Major Sloan, and [[Lloyd Bochner]] as Gavern Wilson
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=5
+ |EpisodeNumber2=5
+ |Title=Little Orphan Airplane
+ |DirectedBy=Reza Badiyi
+ |WrittenBy=Elroy Schwartz
+ |OriginalAirDate={{Start date|1974|02|22}}
+ |ShortSummary=Steve is assigned to find and rescue downed pilot Josh Perkins, as well as recover the evidence of [[United Nations]] treaty violations that Perkins had on him when he disappeared.
+
+{{Episode cast}} [[Greg Morris]] as Josh Perkins
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=6
+ |EpisodeNumber2=6
+ |Title=Doomsday, and Counting
+ |DirectedBy=Jerry Jameson
+ |WrittenBy={{StoryTeleplay|s= Larry Brody & [[Jimmy Sangster]]|t= Larry Brody}}
+ |OriginalAirDate={{Start date|1974|03|01}}
+ |ShortSummary=When an earthquake threatens the stability of an underground Russian nuclear installation, Steve must rescue the fiancée of his friend Col. Vasily Zhukov, who is buried beneath debris. Complicating matters further, Steve must also stop the reactor before it explodes.
+
+{{Episode cast}} [[Gary Collins (actor)|Gary Collins]] as Colonel Vasily Zhukov
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=7
+ |EpisodeNumber2=7
+ |Title=Eyewitness to Murder
+ |DirectedBy=[[Alf Kjellin]]
+ |WrittenBy=William Driskill
+ |OriginalAirDate={{Start date|1974|03|08}}
+ |ShortSummary=By sheer chance, Steve Austin witnesses the attempted assassination of Lawrence Sandusky, a prosecutor who is about to file criminal charges against a known [[racketeer]]. Austin is unable to capture the attacker, but he catches a glimpse of his face. OSI is assigned to security detail for the prosecutor pending a 9:00 a.m. court hearing. Austin identifies and apprehends John Hopper, believing him to be the hired hitman. However, Hopper has a seemingly ironclad alibi. Convinced that he is correct, Austin trails the released suspect as the court hearing fast approaches.
+
+{{Episode cast}} [[William Schallert]] as Lawrence Sandusky and [[Gary Lockwood]] as John Hopper |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=8
+ |EpisodeNumber2=8
+ |Title=The Rescue of Athena One
+ |DirectedBy=Lawrence Doheny
+ |WrittenBy=[[D. C. Fontana]]
+ |OriginalAirDate={{Start date|1974|03|15}}
+ |ShortSummary=Steve is launched into space to rescue two astronauts stranded in a crippled [[space capsule]]. However, when his bionics begin to malfunction due to space radiation, the return trip to Earth becomes endangered.
+
+Note: The first of four appearances that Lee Majors' then-wife, Farrah Fawcett Majors, made on the show. She appeared in each season except the final one, playing a different character each time.
+
+{{Episode cast}} [[Farrah Fawcett]], [[Dean Smith (sprinter)|Dean Smith]]
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=9
+ |EpisodeNumber2=9
+ |Title=Dr. Wells Is Missing
+ |DirectedBy=[[Virgil W. Vogel|Virgil Vogel]]
+ |WrittenBy=Elroy Schwartz, [[Krishna Shah]] & William Keenan
+ |OriginalAirDate={{Start date|1974|03|29}}
+ |ShortSummary=When a group of international criminals kidnap Dr. Rudy Wells in order to force him to build them a bionic man, Steve is sent to find and rescue him.
+
+The bionic sound is used for the first time once during the fight scene close to the end of the episode. 
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=10
+ |EpisodeNumber2=10
+ |Title=The Last of the Fourth of Julys
+ |DirectedBy=Reza Badiyi
+ |WrittenBy=Richard Landau
+ |OriginalAirDate={{Start date|1974|04|05}}
+ |ShortSummary=When a terrorist uses a laser to try to kill a group of [[prime minister]]s attending an international meeting in Paris, Steve is assigned to infiltrate his compound and stop him.
+
+{{Episode cast}} [[Kevin Tighe]] as Root, and [[Arlene Martel]] as Violette
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=11
+ |EpisodeNumber2=11
+ |Title=Burning Bright
+ |DirectedBy=[[Jerry London]]
+ |WrittenBy=[[Del Reisman]]
+ |OriginalAirDate={{Start date|1974|04|12}}
+ |ShortSummary=Steve's astronaut friend Josh Lang ([[William Shatner]]) is impaired after being exposed to an electrical field while in space. However, Lang finds himself with strange abilities from the exposure, including the ability to communicate with dolphins. When Lang's condition deteriorates, Steve must find him and take him to a facility before he harms himself.
+
+{{Episode cast}} [[William Shatner]] as Josh Lang
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=12
+ |EpisodeNumber2=12
+ |Title=The Coward
+ |DirectedBy=Reza Badiyi
+ |WrittenBy=Elroy Schwartz
+ |OriginalAirDate={{Start date|1974|04|19}}
+ |ShortSummary=When an earthquake in the [[Himalayas]] uncovers a [[Douglas DC-3|DC-3 plane]] containing secret papers that went down during [[World War II]], Steve is sent to recover them. Steve also tries to clear the name of the pilot—his father—who was accused of bailing out and leaving the rest of the crew to die.
+
+{{Episode cast}} [[George Montgomery (actor)|George Montgomery]] as Chris Bell; [[George Takei]] as Chin-Ling; [[France Nuyen]] as Mamu; and [[Ron Soble]] as Queng-Dri
+ |LineColor=FF5F6F
+}}
+{{Episode list
+ |EpisodeNumber=13
+ |EpisodeNumber2=13
+ |Title=Run, Steve, Run
+ |DirectedBy=Jerry Jameson
+ |WrittenBy=Lionel E. Siegel
+ |OriginalAirDate={{Start date|1974|04|26}}
+ |ShortSummary=When a crime syndicate and a robot creator conspire to build a team of bionic robot criminals, they kidnap Steve in order to learn how his bionic limbs work.
+
+{{Episode cast}} [[Noah Beery, Jr.]] as Tom Molson
+ |LineColor=FF5F6F
+}}
+}}
+
+===Season 2 (1974–75)===
+{{Episode table
+|background=#0C4CCD
+|overall=4
+|season=4
+|title=21
+|writer=17
+|director=16
+|airdate=13
+|episodes=
+
+{{Episode list
+ |EpisodeNumber=14
+ |EpisodeNumber2=1
+ |Title=Nuclear Alert
+ |DirectedBy=Jerry London
+ |WrittenBy=William Driskill
+ |OriginalAirDate={{Start date|1974|09|13}}
+ |ShortSummary=Steve must stop a group of government conspirators who have assembled an [[atomic bomb]] from stolen parts.
+
+{{Episode cast}} [[George Gaynes]] as General Wiley
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=15
+ |EpisodeNumber2=2
+ |Title=The Pioneers
+ |DirectedBy=[[Christian I. Nyby II]]
+ |WrittenBy={{StoryTeleplay|s= Katey Barrett|t= Bill Svanoe}}
+ |OriginalAirDate={{Start date|1974|09|20}}
+ |ShortSummary=While scientist David Tate experiments in space with a serum designed to awaken [[cryogenic]]ally frozen patients, he is accidentally injected with too much serum. When the space capsule crashes, he begins terrorizing the countryside and Steve must hunt him down.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=16
+ |EpisodeNumber2=3
+ |Title=Pilot Error
+ |DirectedBy=Jerry Jameson
+ |WrittenBy=Edward J. Lakso
+ |OriginalAirDate={{Start date|1974|09|27}}
+ |ShortSummary=A plane carrying Steve, a senator, and the senator's aides crashes in the desert. Steve must lead the others to safety despite being blinded in the crash.
+{{Episode cast}} [[Pat Hingle]] as Senator Hill.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=17
+ |EpisodeNumber2=4
+ |Title=The Pal-Mir Escort
+ |DirectedBy=[[Lawrence Dobkin]]
+ |WrittenBy=Margaret Schneider & [[Paul Schneider (writer)|Paul Schneider]]
+ |OriginalAirDate={{Start date|1974|10|04}}
+ |ShortSummary=When the prime minister of a small country has a [[heart attack]] while negotiating a [[peace treaty]] with neighboring countries, she is selected to receive the first bionic heart. Steve is assigned to protect her while she is transported to the secret hospital where the procedure will take place.
+
+{{Episode cast}} [[Anne Revere]] as Madame Salka Pal-Mir
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=18
+ |EpisodeNumber2=5
+ |Title=The Seven Million Dollar Man
+ |DirectedBy=Richard Moder
+ |WrittenBy=[[Peter Allan Fields]]
+ |OriginalAirDate={{Start date|1974|11|01}}
+ |ShortSummary=When Steve discovers that there is another bionic man — Barney Miller, a race car driver — he is assigned to help him adjust to his bionics. (The character Barney Miller is seen again in episode 3-09 'The Bionic Criminal', when the seven million dollar man is reactivated. In the latter episode, the character is re-named Barney ''H''iller, probably to avoid confusion with the title character of the then-recently premiered [[sitcom]] ''[[Barney Miller]]'', also airing on ABC.)
+
+{{Episode cast}} [[Monte Markham]] as Barney Miller
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=19
+ |EpisodeNumber2=6
+ |Title=Straight On 'til Morning
+ |DirectedBy=Lawrence Doheny
+ |WrittenBy=D. C. Fontana
+ |OriginalAirDate={{Start date|1974|11|08}}
+ |ShortSummary=A [[UFO]] carrying four anthropomorphic aliens seeking a new home on Earth crashes into the ocean. The aliens manage to escape their lost vessel and swim ashore. Having witnessed the UFO’s flight, Steve Austin investigates a town close to the point of impact. Things quickly turn confrontational when physical contact between an alien and a human causes the alien to slowly die and the human to suffer radiation burns. Steve Austin befriends the aliens and attempts to assist the sole survivor in returning to her people before she dies. Despite astronomical odds, an impending rocket launch appears to be the only possible solution.
+Steve Austin's bionic eye enables him to detect as false certain moving images of the aliens which have been fabricated for the purpose of eluding capture, possibly through the non-detection of heat.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=20
+ |EpisodeNumber2=7
+ |Title=The Midas Touch
+ |DirectedBy=[[Bruce Bilson]]
+ |WrittenBy={{StoryTeleplay|s= Donald Gold & Lester William Burke|t= Donald Gold, Lester William Burke & Peter Allan Fields}}
+ |OriginalAirDate={{Start date|1974|11|15}}
+ |ShortSummary=When Oscar disappears, Steve investigates a lead involving a government-operated [[gold mine]].
+
+{{Episode cast}} [[Rick Hurst]] as Connors
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=21
+ |EpisodeNumber2=8
+ |Title=The Deadly Replay
+ |DirectedBy=Christian I. Nyby II
+ |WrittenBy=Wilton Denmark
+ |OriginalAirDate={{Start date|1974|11|22}}
+ |ShortSummary=Steve attempts to re-test the experimental plane that caused his near-fatal accident. When suspicious things begin to happen, Oscar reveals to Steve that his first crash might not have been an accident. Steve chooses to proceed with the experiments, hoping to lure the saboteurs into the open.
+
+{{Episode cast}} [[Clifton James]] as Walter 'Shadetree' Burns and [[Jack Ging]] as Ted Collins
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=22
+ |EpisodeNumber2=9
+ |Title=Act of Piracy
+ |DirectedBy=Christian I. Nyby II
+ |WrittenBy={{StoryTeleplay|s= David Ketchum & Bruce Shelly|t= Peter Allan Fields}}
+ |OriginalAirDate={{Start date|1974|11|29}}
+ |ShortSummary=While Steve is helping a science team place earthquake sensors on the ocean floor, their boat is notified that the nearby country of Santa Ventura has broken diplomatic relations with the US. Before their boat can leave the area, they are captured by a Venturan patrol boat. Steve must help the team to escape.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=23
+ |EpisodeNumber2=10
+ |Title=Stranger in Broken Fork
+ |DirectedBy=[[Christian Nyby]]
+ |WrittenBy={{StoryTeleplay|s= Bill Svanoe|t= Bill Svanoe & Wilton Denmark}}
+ |OriginalAirDate={{Start date|1974|12|13}}
+ |ShortSummary=An electrical malfunction in Steve Austin’s bionic wiring causes him to crash land a plane in [[Colorado]]. Suffering from complete [[amnesia]], he is taken in by a psychologist who is operating a home for people with mental health problems. Some locals in the town of Broken Fork do not want this home for "crazy" people in their community, and use strong-arm tactics to force it to move. Austin becomes embroiled in the controversy, amazing both himself and all witnesses with his seemingly inexplicable superhuman strength. As he searches for his true identity, Oscar Goldman leads a team trying to find his forgetful friend before his faulty wiring becomes fatal.
+|LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=24
+ |EpisodeNumber2=11
+ |Title=The Peeping Blonde
+ |DirectedBy=[[Herschel Daugherty]]
+ |WrittenBy={{StoryTeleplay|s= William T. Zacha|t= William T. Zacha & Wilton Denmark}}
+ |OriginalAirDate={{Start date|1974|12|20}}
+ |ShortSummary=When Steve jumps a {{cvt|12|ft}} fence to fix a malfunctioning space capsule, a newswoman captures it on film. After her boss sees the footage, he attempts to kidnap Steve so he can sell him to a foreign country.
+{{Episode cast}} Farrah Fawcett (as Victoria Webster)
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=25
+ |EpisodeNumber2=12
+ |Title=The Cross-Country Kidnap
+ |DirectedBy=Christian Nyby
+ |WrittenBy={{StoryTeleplay|s= Ray Brenner|t= Ray Brenner & Stephen Kandel}}
+ |OriginalAirDate={{Start date|1975|01|10}}
+ |ShortSummary=Steve is assigned to protect Liza Leitman, an [[Equestrianism|equestrian]] trying to make the [[Olympics|Olympic]] team; also the creator of the [[cryptography]] code that links computers and secret communications worldwide.
+
+{{Episode cast}} [[Donna Mills]] as Liza Leitman
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=26
+ |EpisodeNumber2=13
+ |Title=Lost Love
+ |DirectedBy=[[Arnold Laven]]
+ |WrittenBy={{StoryTeleplay|s= Melvin Levy & Tom Levy|t= Richard Carr}}
+ |OriginalAirDate={{Start date|1975|01|17}}
+ |ShortSummary=Steve consoles a woman—with whom he was once romantically involved—after her husband apparently dies in a plane crash.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=27
+ |EpisodeNumber2=14
+ |Title=The Last Kamikaze
+ |DirectedBy=Richard Moder
+ |WrittenBy=Judy Burns
+ |OriginalAirDate={{Start date|1975|01|19}}
+ |ShortSummary=When a plane carrying an [[atomic warhead]] crashes on a [[List of islands in the Pacific Ocean|South Pacific island]], Steve is sent to retrieve it. He finds that an ex-Japanese fighter pilot, Kuroda, has taken it to his home. Steve must successfully navigate his way through the [[booby-trap]]s and retrieve the warhead before a rogue [[guerilla]] group does.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=28
+ |EpisodeNumber2=15
+ |Title=Return of the Robot Maker
+ |DirectedBy=Phil Bondelli
+ |WrittenBy={{StoryTeleplay|s= Mark Frost & Del Reisman|t= [[Mark Frost]]}}
+ |OriginalAirDate={{Start date|1975|01|26}}
+ |ShortSummary=Doctor Dolenz returns and kidnaps Oscar, replacing him with a lookalike robot in an attempt to steal the formula for a new energy source.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=29
+ |EpisodeNumber2=16
+ |Title=Taneha
+ |DirectedBy=[[Earl Bellamy]]
+ |WrittenBy=[[Margaret Armen]]
+ |OriginalAirDate={{Start date|1975|02|02}}
+ |ShortSummary=The last known golden cougar is on the verge of being hunted down by local ranchers trying to stop their livestock from being killed. Steve's friend, and a local rancher, asks Steve to help him save the cougar from extinction.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=30
+ |EpisodeNumber2=17
+ |Title=Look Alike
+ |DirectedBy=Jerry London
+ |WrittenBy={{StoryTeleplay|s= Gustave Field|t= Richard Carr}}
+ |OriginalAirDate={{Start date|1975|02|23}}
+ |ShortSummary=While Steve Austin is on a one-week fishing vacation, a Steve Austin look-alike shows up at Oscar Goldman’s office, claiming that he decided to cut his vacation short.  He secretly takes photographs of the Omega Project files, which are turned over to a middleman named Breezy.  The real Steve Austin returns just in time to catch his double getting a tour of the Omega Project facility.  The impostor is hit by a car and killed in the ensuing pursuit.  Steve Austin then poses as the impostor, a former boxer named John Dine who had his face surgically altered to resemble the bionic OSI agent.  The search for the photographs eventually lands Austin in the ring of a crooked [[boxing promoter]].
+
+{{Episode cast}} [[George Foreman]] as Marcus Grayson, a boxer now working for OSI; [[Jack Colvin]] as Ed Jasper
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=31
+ |EpisodeNumber2=18
+ |Title=The E.S.P. Spy
+ |DirectedBy=Jerry London
+ |WrittenBy=Lionel E. Siegel
+ |OriginalAirDate={{Start date|1975|03|02}}
+ |ShortSummary=When Oscar discovers that the construction of a top secret laser is being duplicated, he suspects that Harry Green, the expert overseeing the project, is a traitor. However, Steve disagrees and believes that Green's thoughts are being monitored through ESP. He obtains the help of Audrey Moss, also gifted with ESP, to track down the spy.
+
+{{Episode cast}} [[Dick Van Patten]] as Harry Green; Alan Bergmann as Charles Lund; [[Robbie Lee (actress)|Robbie Lee]] as Audrey Moss
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=32
+ |EpisodeNumber_2=33
+ |EpisodeNumber2_1=19
+ |EpisodeNumber2_2=20
+ |Title=The Bionic Woman
+ |DirectedBy=Richard Moder
+ |WrittenBy=[[Kenneth Johnson (producer)|Kenneth Johnson]]
+ |OriginalAirDate_1={{Start date|1975|03|16}}
+ |OriginalAirDate_2={{Start date|1975|03|23}}
+ |ShortSummary=Steve Austin buys a ranch in his hometown [[Ojai, California]].  He reunites with childhood friend Jaime Sommers who is now a professional [[tennis]] player.  They rekindle a brief childhood romance.  Sommers is injured in a [[skydiving]] accident when her parachute collapses toward the end of a jump.  Her right arm, right ear, and both legs are severely damaged.  With Jaime’s life in peril, Steve Austin persuades a reluctant Oscar Goldman to fit her with bionics.  Although skeptical at first, Jaime Sommers quickly acclimates to her mechanized components.  The bond deepens between the two bionic humans.  Steve Austin proposes marriage to Jaime Sommers, and she accepts.
+
+While Steve Austin and Jaime Sommers plan their wedding, Oscar Goldman submits his bill for making Jaime Sommers a bionic woman:  She is to go on her first assignment with her fiancé to switch a flawed US $20 bill printing plate for a perfect copy in the possession of a foreign counterfeiter, Joseph Ronaugh.  Steve Austin vehemently objects, but Jaime Sommers acknowledges her debt and agrees.  The two succeed in their mission despite a malfunction in Jaime Sommers' bionic arm which nearly causes it to fail.  It is soon discovered that her body is rejecting the bionics.  Dr. Rudy Wells conducts an emergency surgery to no avail.  Jaime Sommers dies.
+
+Steve Austin's mother and stepfather are portrayed.  The soundtrack includes the song "Sweet Jaime," sung by [[Lee Majors]]. 
+
+{{Episode cast}} [[Lindsay Wagner]] as Jaime Sommers, [[Martha Scott]] as Helen Elgin, [[Ford Rainey]] as Jim Elgin, [[Malachi Throne]] as Joseph Ronaugh, and [[Dana Plato]]. 
+|LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=34
+ |EpisodeNumber2=21
+ |Title=Outrage in Balinderry
+ |DirectedBy=Earl Bellamy
+ |WrittenBy={{StoryTeleplay|s= Paul Schneider & Margaret Schneider|t= Paul Schneider}}
+ |OriginalAirDate={{Start date|1975|04|20}}
+ |ShortSummary=Revolutionaries kidnap the wife of the [[US Ambassador]] to the nation of Balinderry. In exchange for her release, the revolutionaries want their imprisoned fellow revolutionaries freed. With the help of Julia Flood, his liaison with the kidnappers, Steve attempts to rescue the ambassador's wife.
+ |LineColor=0C4CCD
+}}
+{{Episode list
+ |EpisodeNumber=35
+ |EpisodeNumber2=22
+ |Title=Steve Austin, Fugitive
+ |DirectedBy=[[Russ Mayberry]]
+ |WrittenBy={{StoryTeleplay|s= Wilton Denmark, William D. Gordon & James Doherty|t= Mark Frost & Richard Carr}}
+ |OriginalAirDate={{Start date|1975|04|27}}
+ |ShortSummary=Steve is arrested when an assassin he helped send to prison seeks revenge by [[frame-up|framing]] him for murder. Steve escapes from the police and must find the assassin before the police find Steve.
+Peggy Callahan, Oscar's secretary, is introduced. 
+{{Episode cast}} [[Gary Lockwood]] as John Hopper and [[Bernie Hamilton]] as Lt. Dobbs; Lee Majors also appears as an elderly electrical store clerk credited as L Majors.
+|LineColor=0C4CCD
+}}
+}}
+
+===Season 3 (1975–76)===
+{{Episode table
+|background=#11AF44
+|overall=4
+|season=4
+|title=21
+|writer=17
+|director=16
+|airdate=13
+|episodes=
+
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=36
+ |EpisodeNumber_2=37
+ |EpisodeNumber2_1=1
+ |EpisodeNumber2_2=2
+ |Title=The Return of the Bionic Woman
+ |DirectedBy=Richard Moder
+ |WrittenBy=Kenneth Johnson
+ |OriginalAirDate_1={{Start date|1975|09|14}}
+ |OriginalAirDate_2={{Start date|1975|09|21}}
+ |ShortSummary=Steve's bionic legs are crushed in an attempt to sow mayhem between two families of [[organized crime]]. During his [[Physical medicine and rehabilitation|rehabilitation]], he sees an unconscious Jaime Sommers, but is repeatedly assured that he is [[hallucination|hallucinating]]. An irate Steve confronts Oscar Goldman and Dr. Rudy Wells, prompting them to tell the truth to Steve: Jaime did die, but the intercession of Dr. Michael Marchetti resuscitated her through experimental [[cryogenics]]. She has suffered a complete and perhaps permanent loss of memory. It is feared that if they attempt to revive Jamie's memories, she may suffer more pain. Steve is reintroduced to Jamie simply as "the other bionic human." Steve is emotionally wrenched as he sees his fiancée fall in love with Dr. Marchetti who admits that he is attracted to his pretty patient, creating a [[love triangle]] between the three.
+
+In part 2, Steve Austin takes Jaime Sommers to his ranch in Ojai hoping that it will be beneficial to her recovery.  A brief moment of inattentiveness allows Jaime Sommers to escape into town.  The local [[tennis court]] immediately revives memories of her past life, and causes her to suffer violent headaches.  Her caregivers believe that a covert sabotage mission on the [[Caribbean island]] of Melinique would be a good diversion.  However, it is abruptly aborted when Jaime Sommers is incapacitated by memories of her bionic beau.  Steve Austin selflessly decides that the best thing for her is a complete divorce from her former life for a while.  She is to be relocated to Dr. Wells' facility in Colorado Springs with Dr. Marchetti.
+
+The soundtrack includes the song "Sweet Jaime," performed by [[Lee Majors]]. 
+{{Episode cast}} [[Lindsay Wagner]] as Jaime Sommers, [[Martin E. Brooks]] as the third Dr. Rudy Wells
+|LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=38
+ |EpisodeNumber2=3
+ |Title=The Price of Liberty
+ |DirectedBy=Richard Moder
+ |WrittenBy={{StoryTeleplay|s= Kenneth Johnson and Justin Edgerton|t= Kenneth Johnson}}
+ |OriginalAirDate={{Start date|1975|09|28}}
+ |ShortSummary=An ex-government employee feels the government owes him after being [[layoffs|laid off]] due to cutbacks. He therefore rigs the [[Liberty Bell]], which is on tour around the country for the bicentennial celebration, to explode unless he gets $5 million and safe passage out of the country. Steve and Oscar must rely on an explosive expert who is in prison to defuse the bomb.
+
+{{Episode cast}} [[Chuck Connors]] as Niles Lingstrom
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=39
+ |EpisodeNumber2=4
+ |Title=The Song and Dance Spy
+ |DirectedBy=Richard Moder
+ |WrittenBy=Jerry Devine
+ |OriginalAirDate={{Start date|1975|10|05}}
+ |ShortSummary=When Oscar suspects [[wikt:rockstar|rock star]] John Perry (Steve's friend and former college roommate) of carrying top-secret information, Steve is assigned to watch him and hopefully prove his innocence.
+
+{{Episode cast}} Pop singer [[Sonny Bono]] as John Perry
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=40
+ |EpisodeNumber2=5
+ |Title=The Wolf Boy
+ |DirectedBy=Jerry London
+ |WrittenBy=Judy Burns
+ |OriginalAirDate={{Start date|1975|10|12}}
+ |ShortSummary=Kuroda (from episode 2-14) and Steve are reunited when Kuroda asks Steve to help him investigate reports about a boy living with wolves.
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=41
+ |EpisodeNumber2=6
+ |Title=The Deadly Test
+ |DirectedBy=Christian I. Nyby II
+ |WrittenBy=[[James D. Parriott]]
+ |OriginalAirDate={{Start date|1975|10|19}}
+ |ShortSummary=Steve Austin temporarily assumes command of a test pilot training school at [[Edwards Air Force Base]].  Due to political differences, a great deal of tension exists between two of the pilots, Prince Aram Sakari of the [[Arab]] state of Kutan, and David Levy of [[Israel]]. The Prime Minister of Kutan hires a Dr. Winslow to kill the Prince by using a jamming device to disable his plane's controls in mid-flight.  A last-minute change in flight assignments causes Levy to take the Prince's plane.  Levy narrowly escapes death, causing further suspicions between the two pilots.  Steve secretly takes the place of the Prince on his next flight and has to overcome an errant plane and the debilitating effects of the jamming device on his bionic eye.
+
+{{Episode cast}} [[Erik Estrada]] as Prince Aram Sakari of Kutan
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=42
+ |EpisodeNumber2=7
+ |Title=Target in the Sky
+ |DirectedBy=Jerry London
+ |WrittenBy=Larry Alexander
+ |OriginalAirDate={{Start date|1975|10|26}}
+ |ShortSummary=When Oscar discovers missiles have been installed near a [[lumber camp]], Steve goes undercover as a [[lumberjack]] to investigate. He soon learns that the site foreman is part of a plot to bring down the presidential plane.
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=43
+ |EpisodeNumber2=8
+ |Title=One of Our Running Backs is Missing
+ |DirectedBy=[[Lee Majors]]
+ |WrittenBy=Kenneth Johnson & Elroy Schwartz
+ |OriginalAirDate={{Start date|1975|11|02}}
+ |ShortSummary=[[American football|Football]] player Larry Bronco is kidnapped as part of a plan to make his team lose and generate a fortune for his abductors, who have wagered heavily on the game. Steve determines to find him before the start of the game.
+
+{{Episode cast}} [[Larry Csonka]] as Larry Bronco; Pro Football Hall-of-Famer [[Dick Butkus]] as Bobby Laport; [[Carl Weathers]] as Stolar
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=44
+ |EpisodeNumber2=9
+ |Title=The Bionic Criminal
+ |DirectedBy=Leslie Martinson
+ |WrittenBy={{StoryTeleplay|s= Peter Allan Fields|t= Richard Carr}}
+ |OriginalAirDate={{Start date|1975|11|09}}
+ |ShortSummary=Barney Hiller, the seven million dollar man (episode 2-05), is reactivated. Having apparently recovered, he is eager to resume auto racing. However the team owner will not let him race, so Barney attacks the man and mistakenly believes he has killed him. Barney has a mental break from the stress and goes on a crime spree. Steve must track him down.
+
+{{Episode cast}} [[Monte Markham]] as Barney Hiller (formerly known as Barney ''M''iller, but the character was renamed after his previous appearance to avoid confusion with the sitcom and title character ''[[Barney Miller]]''); [[Alan Oppenheimer]] as Dr. Rudy Wells
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=45
+ |EpisodeNumber2=10
+ |Title=The Blue Flash
+ |DirectedBy=[[Cliff Bole]]
+ |WrittenBy=Sheridan Gibney & Sidney Field
+ |OriginalAirDate={{Start date|1975|11|16}}
+ |ShortSummary=Steve searches for a missing OSI agent who was about to close an investigation into the theft of hi-tech microchips. After Steve takes a room at the [[boarding house]] where the agent had been staying. Its owner soon disappears, leaving Steve to discover if the disappearances are related.
+
+Steve's bionic hand is outfit with a special scanner to detect stolen microchips; when found, the scanner causes the titular "blue flash" in Steve's bionic eye.
+{{Episode cast}} [[Rodney Allen Rippy]] as the son of the owner, whose bicycle Steve repairs with the "spirits" of science.
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=46
+ |EpisodeNumber2=11
+ |Title=The White Lightning War
+ |DirectedBy=Phil Bondelli
+ |WrittenBy=Wilton Denmark
+ |OriginalAirDate={{Start date|1975|11|23}}
+ |ShortSummary=Investigating a [[Georgia (U.S. state)|Georgia]] [[moonshine]] operation, the death of a federal agent leads Steve to discover a trail of corruption that starts with a [[distillery]] owner, goes through the local sheriff, and ends with a powerful Washington lawyer.
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=47
+ |EpisodeNumber2=12
+ |Title=Divided Loyalty
+ |DirectedBy=Alan Crosland
+ |WrittenBy=[[Jim Carlson (screenwriter)|Jim Carlson]] & Terry McDonnell
+ |OriginalAirDate={{Start date|1975|11|30}}
+ |ShortSummary=When a scientist who defected to [[Soviet Union|Russia]] for love wants to return to the US, Steve is assigned to bring him back. Knowing only life in Russia, the scientist's son is hesitant to join, and by the time Steve convinces him to come along, the Russians learn of their plan and block the escape route, forcing a more dangerous alternative to be used.
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=48
+ |EpisodeNumber2=13
+ |Title=Clark Templeton O'Flaherty
+ |DirectedBy=[[Ernest Pintoff]]
+ |WrittenBy={{StoryTeleplay|s= Frank Dandridge & Dennis Pryor|t= Frank Dandridge}}
+ |OriginalAirDate={{Start date|1975|12|14}}
+ |ShortSummary=Steve investigates a friend accused of stealing secret documents.
+
+{{Episode cast}} [[Louis Gossett Jr.]] as O'Flaherty; [[H.M. Wynant]] as McAdams 
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=49
+ |EpisodeNumber2=14
+ |Title=The Winning Smile
+ |DirectedBy=Arnold Laven
+ |WrittenBy={{StoryTeleplay|s= Gustave Field|t= Gustave Field & Richard Carr}}
+ |OriginalAirDate={{Start date|1975|12|21}}
+ |ShortSummary=Steve investigates a security leak that has imperiled a top-secret project.
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=50
+ |EpisodeNumber2=15
+ |Title=Hocus-Pocus
+ |DirectedBy=[[Barry Crane]]
+ |WrittenBy={{StoryTeleplay|s= Richard Carr & [[James Schmerer]]|t= Richard Carr}}
+ |OriginalAirDate={{Start date|1976|01|18}}
+ |ShortSummary=With help again from mind-reader Audrey Moss, Steve poses as a magician to recover a stolen code book.
+
+{{Episode cast}} [[Pernell Roberts]] as Mark Wharton; [[Jack Colvin]] as Will Collins; [[Robbie Lee (actress)|Robbie Lee]] as Audrey Moss
+ |LineColor=11AF44
+}}
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=51
+ |EpisodeNumber_2=52
+ |EpisodeNumber2_1=16
+ |EpisodeNumber2_2=17
+ |Title=The Secret of Bigfoot
+ |DirectedBy=Alan Crosland
+ |WrittenBy=Kenneth Johnson
+ |OriginalAirDate_1={{Start date|1976|02|01}}
+ |OriginalAirDate_2={{Start date|1976|02|04}}
+ |ShortSummary=While helping set up an earthquake warning system, Steve encounters a towering monster ([[Sasquatch]], a.k.a. Bigfoot) and its mysterious masters.  In part 2, an earthquake device imperils Steve and his captors from outer space.
+
+{{Episode cast}} [[Stefanie Powers]] as Shalon; professional wrestler [[Andre the Giant]] as Sasquatch; Lindsay Wagner as Jaime Sommers
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=53
+ |EpisodeNumber2=18
+ |Title=The Golden Pharaoh
+ |DirectedBy=Cliff Bole
+ |WrittenBy=Margaret Schneider & Paul Schneider
+ |OriginalAirDate={{Start date|1976|02|08}}
+ |ShortSummary=Just as he is assigned the task of escorting the Golden Pharaoh back to the country of Levant, Steve detects that the seemingly priceless statue entrusted to him is a fake.  Suspicion as to the whereabouts of the real statue immediately turns to the embassy of the Kalny Republic.  Trish Hollander, a former love interest of Steve with an insatiable gambling addiction, is engaged to the Kalnian Ambassador, Gustav Tokar.  She is recruited to assist Austin in infiltrating the embassy to regain the statue.  However, her love of money reigns supreme as she shifts her fickle loyalties among her rich fiancé, her astronaut friend, and her favorite gambling operator, Wheel Jackson.
+
+{{Episode cast}} [[Farrah Fawcett|Farrah Fawcett-Majors]] as Trish Hollander
+|LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=54
+ |EpisodeNumber2=19
+ |Title=Love Song for Tanya
+ |DirectedBy=Phil Bondelli
+ |WrittenBy=David H. Balkan & Alan Folsom
+ |OriginalAirDate={{Start date|1976|02|15}}
+ |ShortSummary=Oscar Goldman assigns Steve Austin to escort duty for Russian gymnast Tanya Breski. When Steve shows Tanya some of the less cultural aspects of American life, she develops a [[puppy love|crush]] on him.
+{{Episode cast}} Gymnast [[Cathy Rigby]] as Tanya Breski; Lindsay Wagner as Jaime Sommers
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=55
+ |EpisodeNumber2=20
+ |Title=The Bionic Badge
+ |DirectedBy=Cliff Bole
+ |WrittenBy=Wilton Denmark
+ |OriginalAirDate={{Start date|1976|02|22}}
+ |ShortSummary=Steve poses as a policeman to find who is pilfering [[atomic weapon]] components.
+
+{{Episode cast}} [[Noah Beery, Jr.]] as Officer Banner; Alan Bergmann as Mr. Burman 
+ |LineColor=11AF44
+}}
+{{Episode list
+ |EpisodeNumber=56
+ |EpisodeNumber2=21
+ |Title=Big Brother
+ |DirectedBy=Cliff Bole
+ |WrittenBy=Kenneth Johnson
+ |OriginalAirDate={{Start date|1976|03|07}}
+ |ShortSummary=Steve becomes a [[Big Brothers Big Sisters of America|big brother]] to an unruly teenager.
+
+{{Episode cast}} Lindsay Wagner as Jaime Sommers
+|LineColor=11AF44
+}}
+}}
+
+===Season 4 (1976–77)===
+{{Episode table
+|background=#8D18BB
+|overall=4
+|season=4
+|title=21
+|writer=17
+|director=16
+|airdate=13
+|episodes=
+
+{{Episode list
+ |EpisodeNumber=57
+ |EpisodeNumber2=1
+ |Title=The Return of Bigfoot: Part 1
+ |RTitle=<ref>"The Return of Bigfoot" is a two-part episode. Part two is the season two premiere of ''The Bionic Woman''.</ref>
+ |DirectedBy=Barry Crane
+ |WrittenBy=Kenneth Johnson
+ |OriginalAirDate={{Start date|1976|09|19}}
+ |ShortSummary=A splinter group of the alien race that Steve previously encountered (season 3, episode 17) need supplies of metal and jewels, and send their Bigfoot android to steal them from U.S. government depots. Seeing the results of the unseen android's efforts, the authorities conclude that Steve must be responsible and arrest him. To clear his name, Steve must escape and track down the aliens.<br />
+This episode was the first part of a two-chapter story, the second part airing as an episode of ''[[The Bionic Woman]]''. "The Return of Bigfoot (Part 2)" is usually syndicated as a ''Six Million Dollar Man'' episode.  Actor [[Ted Cassidy]], perhaps best known for portraying the character [[Lurch (The Addams Family)|Lurch]] in the [[American Broadcasting Company|ABC]] television series ''[[The Addams Family (1964 TV series)|The Addams Family]]'', this time plays the role of Sasquatch, who was portrayed by [[André the Giant]] in season three.
+
+{{Episode cast}} [[John Saxon]] as Nedlick; [[Sandy Duncan]] as Gillian 
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=58
+ |EpisodeNumber2=2
+ |Title=Nightmare in the Sky
+ |DirectedBy=Alan Crosland
+ |WrittenBy=[[Terrence McDonnell]] & Jim Carlson
+ |OriginalAirDate={{Start date|1976|09|26}}
+ |ShortSummary=Steve is present at the test flight of his friend Kelly Wood when she is shot down by a World War II-era Japanese [[Mitsubishi Zero]] fighter. Later Kelly is found but her plane has vanished and she's suspected of selling it to a foreign concern. Steve must clear her name and discovers a sinister plot to steal top-secret aircraft.
+
+{{Episode cast}} [[Farrah Fawcett]] as Major Kelly Wood and [[Dana Elcar]] as Larry Stover
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=59
+ |EpisodeNumber2=3
+ |Title=Double Trouble
+ |DirectedBy=Phil Bondelli
+ |WrittenBy=Jerry Devine
+ |OriginalAirDate={{Start date|1976|10|03}}
+ |ShortSummary=The prime minister of the African nation of Boizana is ready to announce his country’s break from the [[Soviet bloc]].  Seeking to prevent this defection to the West, the Russians retain a Dr. Barto who manages to find a look-alike of the prime minister, comedian Billy Parker.  Parker is persuaded to undergo surgery to remove a growth on his neck, but is instead implanted with an electronic device that allows his behavior to be completely controlled by computer commands.  The prime minister is to be kidnapped, and the puppet Parker substituted in his place.  Their plans are slightly derailed when Parker is hit by a car and suffers a head injury.  X-rays reveal the implanted device, and OSI is immediately notified.  Steve Austin is assigned to act as Parker’s bodyguard to determine the people and the motive behind the plot.
+
+{{Episode cast}} [[Flip Wilson]] as both comedian Billy Parker and the prime minister of Boizana.
+
+Noteworthy Moments:  This episode features bionic speed bag punching, and bionic jump roping.  Flip Wilson uses his signature punchline "the devil made me do it," eliciting immediate laughter from both Oscar Goldman and Steve Austin. |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=60
+ |EpisodeNumber2=4
+ |Title=The Most Dangerous Enemy
+ |DirectedBy=Richard Moder
+ |WrittenBy=Judy Burns
+ |OriginalAirDate={{Start date|1976|10|17}}
+ |ShortSummary=Oscar sends Steve and Rudy to a remote island used for government research to check up on scientist Cheryl Osborne, who was performing classified experimental drug research using chimpanzees, but who has suddenly ceased communications. When they arrive, there is no sign of Dr. Osborne, her lab is destroyed, and Rudy is then attacked and bitten by one of several rampaging chimpanzees. Soon Rudy begins to turn psychotic and exhibit super-human strength, and Steve must both stop him and find Osborne before it's too late for both.
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=61
+ |EpisodeNumber2=5
+ |Title=H+2+O = Death
+ |DirectedBy=[[John Meredyth Lucas]]
+ |WrittenBy=John Meredyth Lucas
+ |OriginalAirDate={{Start date|1976|10|24}}
+ |ShortSummary=Steve Austin attempts to infiltrate the Omega spy ring by posing as a disillusioned OSI scientist who has discovered how to break down water molecules into their hydrogen and oxygen components. Omega takes the bait after Dr. Rudy Wells assists Steve Austin in faking an underwater breathing apparatus. In his efforts to capture Omega's principal, Steve Austin contends with a female OSI/Omega double agent whose true loyalties are unclear.
+
+{{Episode cast}} [[Elke Sommer]] as Dr. Ilse Martin
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=62
+ |EpisodeNumber2=6
+ |Title=Kill Oscar: Part 2
+ |RTitle=<ref>"Kill Oscar" is a three-part episode. Parts one and three are episodes of ''The Bionic Woman''.</ref>
+ |DirectedBy=Barry Crane
+ |WrittenBy={{StoryTeleplay|s= Arthur Rowe & [[Oliver Crawford]]|t= William T. Zacha}}
+ |OriginalAirDate={{Start date|1976|10|31}}
+ |ShortSummary=Jaime lies near death after being attacked by two Fembots. Meanwhile, Steve locates the compound where Oscar is being held and attempts to rescue him.<br />
+This episode was the middle chapter of a trilogy with the other two episodes aired as part of ''[[List_of_The_Bionic_Woman_episodes#ep19|The Bionic Woman]]'' series. "Kill Oscar (Part 2)" is usually syndicated as a ''Bionic Woman'' episode.
+
+{{Episode cast}} [[Jack Ging]] as Chief Inspector Hanson
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=63
+ |EpisodeNumber2=7
+ |Title=The Bionic Boy
+ |DirectedBy=Phil Bondelli
+ |WrittenBy={{StoryTeleplay|s= Lionel E. Siegel|t= Tom Greene}}
+ |OriginalAirDate={{Start date|1976|11|07}}
+ |ShortSummary=When a young man, Andy Sheffield, is injured in a landslide that also kills his father, the OSI sanctions the use of bionics to restore his crippled legs. But Andy sets out to clear his father's name and find the people responsible with the help of Steve.
+
+This two-hour episode was broken into two parts for syndication. 
+{{Episode cast}} [[Frank Gifford]] as himself, [[Greg Evigan]] as Joe Hamilton, [[Joan Van Ark]] as Valerie Sheffield, [[Dick Van Patten]] as Palmer and [[Vincent Van Patten]] as Andy Sheffield
+|LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=64
+ |EpisodeNumber2=8
+ |Title=Vulture of the Andes
+ |DirectedBy=Cliff Bole
+ |WrittenBy=Ben Masselink
+ |OriginalAirDate={{Start date|1976|11|21}}
+ |ShortSummary=A glider competition is used as a front for placing missile homing devices at strategic U.S. military sites. Once in place, an attempt is made to blackmail the U.S. Government into supplying fighter jets to be used to overthrow the government of the country of San Lorenzo. Steve Austin poses as a glider pilot, but is quickly sidelined with an injury to his bionics. Steve works with another OSI agent who is called in while he undergoes repairs.
+{{Episode cast}} [[Bernie Kopell]] as the OSI agent assisting Steve Austin.
+
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=65
+ |EpisodeNumber2=9
+ |Title=The Thunderbird Connection
+ |DirectedBy=Christian I. Nyby II
+ |WrittenBy=Terrence McDonnell & Jim Carlson
+ |OriginalAirDate={{Start date|1976|11|28}}
+ |ShortSummary=To save the life of a young Middle Eastern prince from rival factions, Steve goes undercover as a [[United States Air Force Thunderbirds|Thunderbird]] pilot in order to smuggle him out of the country.
+
+This two-hour episode was broken into two parts for syndication.
+
+{{Episode cast}} [[Barry Miller (actor)|Barry Miller]] as Prince Hassad.
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=66
+ |EpisodeNumber2=10
+ |Title=A Bionic Christmas Carol
+ |DirectedBy=Gerald Mayer
+ |WrittenBy=[[Wilton Schiller]]
+ |OriginalAirDate={{Start date|1976|12|12}}
+ |ShortSummary=Steve Austin arrives at Budge Corporation on Christmas Eve to investigate suspected sabotage of a Mars landing project the U.S. Government has contracted out to Budge. There he meets Budge Corporation’s owner, the miserly and cantankerous Horton Budge. Mr. Budge is a veritable Scrooge who eschews Christmas celebrations at the work place and subordinates job safety to his bottom line. He also meets Bob Crandall, Budge’s nephew, who had embezzled money from Budge to pay medical expenses for his ailing wife after Budge refused to lend him money. When Mr. Budge falls ill on Christmas Eve, Steve Austin dons a Santa Claus suit and shows the hallucinating Budge the true meaning of Christmas at the Crandall house.
+
+{{Episode cast}} [[Ray Walston]] as Horton Budge; [[Dick Sargent]] as Bob Crandall; [[Adam Rich]] as Bob Crandall’s son, [[Antoinette Bower]] as Nora Crandall. Noteworthy moments: This episode features bionic digging and off-screen bionic chiseling.  When Steve asks the clerk to wrap his Christmas presents, a Six Million Dollar Man doll can be seen on the shelf behind the clerk.
+
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=67
+ |EpisodeNumber2=11
+ |Title=Task Force
+ |DirectedBy=Barry Crane
+ |WrittenBy=Robert C. Dennis
+ |OriginalAirDate={{Start date|1976|12|19}}
+ |ShortSummary=Steve goes undercover as Steve Ferguson, a hired mercenary, in order to infiltrate a ring of thieves attempting to steal a military missile called the Hornet.
+
+{{Episode cast}} [[Alex Cord]] as Dave Harraway
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=68
+ |EpisodeNumber2=12
+ |Title=The Ultimate Imposter
+ |DirectedBy=[[Paul Stanley (director)|Paul Stanley]]
+ |WrittenBy=Lionel E. Siegel & W. T. Zacha
+ |OriginalAirDate={{Start date|1977|01|02}}
+ |ShortSummary=Steve's friend Joe Patton is the subject of a unique experiment to transfer information directly from a computer to a human brain. Patton becomes the OSI's newest super-agent but the process has hidden dangers...
+
+{{Episode cast}} [[Kim Basinger]] as Lorraine Stenger. Noteworthy moments: This episode features only a few scenes with Col. Austin, at the beginning and end of the episode. It was a backdoor pilot attempt.  The concept was later retried with the same title, director, and producers (but with a different cast) in an effort that became a 1979 made-for-TV movie; neither production was picked up for a series.
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=69
+ |EpisodeNumber_2=70
+ |EpisodeNumber2_1=13
+ |EpisodeNumber2_2=14
+ |Title=Death Probe
+ |DirectedBy=Richard Moder
+ |WrittenBy=[[Steven E. de Souza]]
+ |OriginalAirDate_1={{Start date|1977|01|09}}
+ |OriginalAirDate_2={{Start date|1977|01|16}}
+ |ShortSummary=The Soviets have created an experimental Venus probe out of a new alloy, but it crashes in Wyoming. Thinking it's on Venus, the probe prepares to destroy a small town. The Russians send a team of agents (including Irina Leonova from "Doomsday, and Counting") in to recover it, while the OSI is desperate to stop it before it kills. Complications arise when it becomes clear the probe is stronger than Steve.
+
+In part 2, Steve Austin and the Death Probe fight mechanical mano a mano.  The Death Probe prevails, crushing Steve Austin’s bionic arm in its pincer.  Russian operative Major Popov attempts in vain to destroy the Probe with a missile made of the same indestructible alloy.  Stripped of his brawn, Steve Austin puts his wholly human brain to the task and correctly theorizes that the heightened internal pressure of the Death Probe gained in its propulsion around Venus repelled the missile.  The solution, he reasons, is to bring the Death Probe to a higher elevation where the low pressure atmosphere will allow it to explode.
+
+{{Episode cast}} [[Beverly Garland]] as Secretary
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=71
+ |EpisodeNumber2=15
+ |Title=Danny's Inferno
+ |DirectedBy=Cliff Bole
+ |WrittenBy=Tom Greene
+ |OriginalAirDate={{Start date|1977|01|23}}
+ |ShortSummary=Danny, a 14-year-old boy, inadvertently creates a source of chemical thermal energy while trying to create a new fuel source for his toy rocket. When his chemicals are stolen from his garage laboratory, Steve and the OSI must protect Danny and catch the thief before he sells it on the black market.
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=72
+ |EpisodeNumber2=16
+ |Title=Fires of Hell
+ |DirectedBy=Edward M. Abroms
+ |WrittenBy=Orville H. Hampton
+ |OriginalAirDate={{Start date|1977|01|30}}
+ |ShortSummary=  Steve Austin poses as an oil worker to investigate repeated sabotage at a government oil drilling site. While a conservation group intent on halting the drilling appears to be the likely culprit, Steve Austin uncovers a crooked alliance among a Washington politician, a driller, and a foreman seeking to extract uranium located on the same land. |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=73
+ |EpisodeNumber2=17
+ |Title=The Infiltrators
+ |DirectedBy=Phil Bondelli
+ |WrittenBy=Sam Ross & Wilton Schiller
+ |OriginalAirDate={{Start date|1977|02|06}}
+ |ShortSummary=An assassination plot is in the works to disrupt Sino-American diplomatic rapprochement.  Suspicions center around boxing promoter Boris Ritsky who has brought in several Eastern Bloc boxers to the U.S. who have mysteriously disappeared.  Steve Austin goes undercover as a boxer named Steve Miller.  He enters Ritsky’s international boxing tournament after he and Dr. Rudy Wells put on a display of bionic strength to convince the current American champion to withdraw due to illness.  With no leads and time running out, Steve Austin risks blowing his cover by pointedly questioning Ritsky’s female assistant Lena Bannister.  His keen observations in the gym expose the true plot to be the theft of a very heavy NASA chip.
+
+{{Episode cast}} [[Yvonne Craig]] as Lena Bannister, [[Harold Sylvester]] as a boxer named Tulomme, [[Joe Kapp]] as Cooper, and [[Jerry Quarry]] as Wally
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=74
+ |EpisodeNumber2=18
+ |Title=Carnival of Spies
+ |DirectedBy=Richard Moder
+ |WrittenBy=Robert C. Dennis
+ |OriginalAirDate={{Start date|1977|02|13}}
+ |ShortSummary=Steve Austin investigates an East German scientist who fakes a heart attack while in the U.S. under the guise of attending a science conference. The trail leads him to a traveling carnival staffed with an assortment of dubious characters. Steve Austin uncovers an elaborate missile launching device that is disguised within several carnival rides and is located in close proximity to the test flight of a new B-1 bomber.
+
+Notable Event: During filming in the funhouse called "''Laff-in-the-Dark''", a technician tried to move a strange-looking wax-covered mannequin hanging from a rope. When he did, the mummy's arm broke off in his hand. Sticking out of the wax was a human bone. It was discovered that the mummifed corpse was in fact arsenic-embalmed human remains of [[Elmer McCurdy]], a western outlaw who had been killed in a gunfight in 1911. After he was conclusively identified, he was buried in a formal ceremony, of which many of the show's crew were in attendance.
+
+{{Episode cast}} [[Lloyd Bochner]] as Ulrich Rau, and [[H.M. Wynant]] as General<ref name=Svenvold>Mark Svenvold. ''The Adventures in Life and Afterlife of an American Outlaw: Elmer McCurdy.'' [[Fourth Estate Paperbacks]], March 15, 2004. {{ISBN|1841153230}}</ref> 
+  |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=75
+ |EpisodeNumber2=19
+ |Title=U-509
+ |DirectedBy=Phil Bondelli
+ |WrittenBy=Michael I. Wagner
+ |OriginalAirDate={{Start date|1977|02|20}}
+ |ShortSummary=A British ex-submariner raises an abandoned Nazi U-boat and threatens to use its deadly cargo against the U.S. unless they give in to his extortion demands.
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=76
+ |EpisodeNumber2=20
+ |Title=The Privacy of the Mind
+ |DirectedBy=[[Jimmy Lydon]]
+ |WrittenBy=Vanessa Boos & Wilton Schiller
+ |OriginalAirDate={{Start date|1977|02|27}}
+ |ShortSummary=Steve is sent to impersonate an eccentric scientist who is recruited by the Russians. He discovers they are working on a project involving a mind-reading computer, but time is running out on how long he can maintain the impersonation.
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=77
+ |EpisodeNumber2=21
+ |Title=To Catch the Eagle
+ |DirectedBy=Phil Bondelli
+ |WrittenBy=Peter R. Brooke & Judy Burns
+ |OriginalAirDate={{Start date|1977|03|06}}
+ |ShortSummary=Two OSI scientists investigating a find of radioactive ore on Apache lands become entrapped inside a cave due to a blast intentionally set off by an unidentified individual.  Unaware of their fate, OSI assigns Steve Austin the task of locating and rescuing the scientists.  Steve Austin encounters a great deal of resistance from the tribe's shaman who refuses to grant him access to sacred Apache ground.  His only way in is to request permission to "catch the eagle," an Apache ritual test that first requires passing three challenges before being sent into the desert without provisions to capture an eagle.
+
+{{Episode cast}} [[Peter Breck]] (who co-starred on ''[[The Big Valley]]'' with Majors) as Silver Cloud and [[Gerald McRaney]] as Bob Marsh
+ |LineColor=8D18BB
+}}
+{{Episode list
+ |EpisodeNumber=78
+ |EpisodeNumber2=22
+ |Title=The Ghostly Teletype
+ |DirectedBy=Tom Connors III
+ |WrittenBy=Wilton Schiller
+ |OriginalAirDate={{Start date|1977|05|15}}
+ |ShortSummary=Steve is framed for espionage when the writing on research papers for a special formula disappear before his very eyes. Seeking to prove himself, he runs foul of twins seeking a cure for their rapid-aging disease, and the formula can provide them with what they need.
+ |LineColor=8D18BB
+}}
+}}
+
+===Season 5 (1977–78)===
+{{Episode table
+|background=#FF7D0E
+|overall=4
+|season=4
+|title=21
+|writer=17
+|director=16
+|airdate=13
+|episodes=
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=79
+ |EpisodeNumber_2=80
+ |EpisodeNumber2_1=1
+ |EpisodeNumber2_2=2
+ |Title=Sharks
+ |DirectedBy=[[Alan J. Levi]]
+ |WrittenBy=Arthur Weingarten
+ |OriginalAirDate_1={{Start date|1977|09|11}}
+ |OriginalAirDate_2={{Start date|1977|09|18}}
+ |ShortSummary=OSI has acquired a decommissioned nuclear submarine from the U.S. Government. Steve Austin joins the crew to assist in locating a lost tracking device. A team of pirates with an underwater hideout sabotage the submarine causing the entire crew to abandon it on the ocean floor. The pirates commandeer the sub with the aid of several trained sharks under the control of the pirate chieftain’s beautiful daughter.  Steve Austin is taken prisoner when he reenters the sub.  Dr. Rudy Wells becomes trapped in an underwater vessel on the ocean floor after a shark bites through its steel cable tether.  When it is learned that the pirates are loading a nuclear missile on the submarine, the naval commander assisting in the search decides to destroy the sub at the risk of killing both the bionic man and his maker.
+
+In part 2, Oscar Goldman attempts to dissuade the naval commander from using depth charges to destroy the purloined submarine.  Reaching back to his time served in World War II, Goldman devises a clever plan to surround the sub with magnetic mines.  A mutiny ensues amid the ranks of the pirates.  Steve Austin saves the life of the deposed pirate chieftain who suffered a heart attack in the mutinous melee, winning him the support of both the incapacitated pirate and his doting daughter.  The mutineers impress Steve Austin into their service, forcing him to push the sub out of its mine-laden encirclement.  When freed, they intend to threaten cities on the Eastern seaboard as part of an extortion scheme.
+{{Episode cast}} [[Marc Alaimo]] as Williams
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=81
+ |EpisodeNumber_2=82
+ |EpisodeNumber2_1=3
+ |EpisodeNumber2_2=4
+ |Title=Deadly Countdown
+ |DirectedBy=Cliff Bole
+ |WrittenBy=Gregory S. Dinallo
+ |OriginalAirDate_1={{Start date|1977|09|25}}
+ |OriginalAirDate_2={{Start date|1977|10|02}}
+ |ShortSummary=Steve is on a mission involving a test satellite. But Steve becomes a target when the satellite is needed to gain control of a missile to be sold to a foreign power.  In part 2, the daughter of Steve's friend David McGrath is kidnapped in order to force David to kill Steve. When the attempt on Steve fails, David confesses to Steve who then must rescue the girl.
+
+{{Episode cast}} [[Jenny Agutter]] as Dr. Leah Russell, [[Martin Caidin]], the author of the [[Cyborg (novel)|Cyborg]] novels makes an appearance as G.H. Beck in the two-part episode, and [[Lloyd Bochner]] as Gordon Shanks
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=83
+ |EpisodeNumber2=5
+ |Title=Bigfoot V
+ |DirectedBy=[[Rod Holcomb]]
+ |WrittenBy=Gregory S. Dinallo
+ |OriginalAirDate={{Start date|1977|10|09}}
+ |ShortSummary=An anthropologist awakens the bionic sasquatch using a high pitch sonic device. She informs OSI of her discovery, unaware of the creature’s alien origin. Steve Austin intervenes in an attempt to stave off all efforts to capture the sasquatch.  A visit to a hidden cave reveals that the sasquatch was left behind by his alien creators at his own request and was in an extended period of hibernation while being transformed into an earth creature. However his premature awakening has left him in an unstable state. Steve Austin must help his hairy friend return to his cave while evading capture by the anthropologist and her scheming guides.
+
+{{Episode cast}} [[Geoffrey Lewis (actor)|Geoffrey Lewis]] as a scheming guide, and [[Ted Cassidy]] as Sasquatch
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=84
+ |EpisodeNumber2=6
+ |Title=Killer Wind
+ |DirectedBy=Richard Moder
+ |WrittenBy=Gregory S. Dinallo
+ |OriginalAirDate={{Start date|1977|10|16}}
+ |ShortSummary=Due to high winds caused by a fast approaching twister, three bank robbers and their getaway van get stuck in the desert sands. Excessive turbulence forces Steve Austin and Dr. Rudy Wells to make an emergency aircraft landing nearby. Dr. Rudy Wells breaks his ankle jumping off the landed plane. To provide a means to transport Wells to a local doctor, Steve Austin assists one of the bank robbers in extricating his van from its sandy morass only to have his kindness repaid in the form of a wrench blow to the head. Meanwhile, a teacher and four children become stranded in a cable car when a bolt of lightning causes a power outage.
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=85
+ |EpisodeNumber2=7
+ |Title=Rollback
+ |DirectedBy=Don McDougall
+ |WrittenBy=Steven E. de Souza
+ |OriginalAirDate={{Start date|1977|10|30}}
+ |ShortSummary=Steve Austin goes undercover as Philip Taylor, a roller derby skater with great talent and a mean streak.  Through a seemingly successful ruse, Steve is hired to replace a skater he injures on the Thunderbirds team whose owner is seeking to acquire and sell top secret government information. He undergoes highly unusual training with the Thunderbirds, thought to be in preparation for infiltrating and stealing information from the Pentagon. As the heist unfolds, Steve soon finds out that his cover is blown and that OSI is the real target.
+
+{{Episode cast}} [[Robert Loggia]] as Hendricks, owner of the Thunderbirds, and [[Rick Springfield]] debuting as Niles
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=86
+ |EpisodeNumber_2=87
+ |EpisodeNumber2_1=8
+ |EpisodeNumber2_2=9
+ |Title=Dark Side of the Moon
+ |DirectedBy=Cliff Bole
+ |WrittenBy={{StoryTeleplay|s= Richard H. Landau|t= John Meredyth Lucas}}
+ |OriginalAirDate_1={{Start date|1977|11|06}}
+ |OriginalAirDate_2={{Start date|1977|11|13}}
+ |ShortSummary=Steve is sent to the moon to investigate an orbital shift which is causing major upheavals in the Earth's climate. It turns out the upheavals are caused by a deranged scientist working at an exploration post on a nearby asteroid. In part 2, Steve is captured on the moon and is forced to help the scientist, who believes he's found a new energy source, and who threatens nuclear devastation on Earth if Steve refuses.
+{{Episode cast}} [[Jack Colvin]] as Dr. Charles Leith
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=88
+ |EpisodeNumber2=10
+ |Title=Target: Steve Austin
+ |DirectedBy=Edward M. Abroms
+ |WrittenBy=Donald Gold & Lester William Berke
+ |OriginalAirDate={{Start date|1977|11|27}}
+ |ShortSummary=Steve poses as a newlywed with another OSI agent to uncover who broke into headquarters in search of an atomic bomb. Travelling via RV, their prey discovers the RV has a nuclear power source of its own and attempts to turn the tables.
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=89
+ |EpisodeNumber2=11
+ |Title=The Cheshire Project
+ |DirectedBy=Richard Moder
+ |WrittenBy=John Meredyth Lucas
+ |OriginalAirDate={{Start date|1977|12|18}}
+ |ShortSummary=OSI is developing a system through its Cheshire Project that makes fighter jets undetectable to radar. Due to the small size of the cockpit, a female test pilot named Jenny Fraser is hired to perform its first crewed flight. Jenny is a friend of Steve Austin and the two rekindle a romance that ended several years earlier due to work relocation. While at first the test flight appears to be a success, Jenny’s plane mysteriously disappears in mid-flight without a trace. Steve Austin’s search leads right back to the Cheshire Project itself and a weapons purchaser hoping to buy the new technology.
+
+{{Episode cast}} [[Suzanne Somers]] as Jenny Fraser the test pilot
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=90
+ |EpisodeNumber2=12
+ |Title=Walk a Deadly Wing
+ |DirectedBy=Herb Wallerstein
+ |WrittenBy=Terrence McDonnell & Jim Carlson
+ |OriginalAirDate={{Start date|1978|01|01}}
+ |ShortSummary=Steve is assigned to gain the confidence of a scientist who has developed a weapon to capture soldiers non-violently, but refuses to hand over the plans to anyone for fear it could cause drastic results if used on a pilot in flight. As Steve begins to become his friend and acquire the weapon, the Russians inform the scientist they are holding his wife hostage and demand the device in trade for her safe return.
+
+{{Episode cast}} [[Eric Braeden]] as Viktor Cheraskin
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=91
+ |EpisodeNumber2=13
+ |Title=Just a Matter of Time
+ |DirectedBy=Don McDougall
+ |WrittenBy={{StoryTeleplay|s= Neal J. Sperling|t= Gregory S. Dinallo & Neal J. Sperling}}
+ |OriginalAirDate={{Start date|1978|01|08}}
+ |ShortSummary=Steve Austin makes a space test flight which confirms the performance capabilities of a new booster fuel developed by OSI.  Upon attempted reentry into Earth’s atmosphere, a malfunction in a tracking device causes the space capsule to be thrown off course and contact to be lost with ground control.  Steve Austin is washed ashore on an unknown island.  He learns that he has gone through a time warp and has returned to Earth in 1984, six years after his launch.  He is soon arrested by Edward Barris, the new Director of OSI, under charges of treason for having defected to the Soviet Union during these lost years.  Further shock comes from the news that Oscar Goldman has died and Dr. Rudy Wells has taken a wife.
+{{Episode cast}} [[John de Lancie]] as army soldier Chapman.
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=92
+ |EpisodeNumber_2=93
+ |EpisodeNumber2_1=14
+ |EpisodeNumber2_2=15
+ |Title=Return of Death Probe
+ |DirectedBy=Tom Connors III
+ |WrittenBy=Howard Dimsdale
+ |OriginalAirDate_1={{Start date|1978|01|22}}
+ |OriginalAirDate_2={{Start date|1978|01|29}}
+ |ShortSummary=A mystery unfolds in a steel production facility capable of producing extremely strong metals. Steve Austin goes undercover as a steel worker to investigate. He quickly determines that a previously undetected theft of metal plate has occurred, and apprehends the culpable plant manager. Following the exchange of the plant manager for a kidnapped foreign ambassador, Steve Austin and Oscar Goldman are led to a remote area where they are introduced to a new and improved Venus probe constructed of the stolen metal. The alleged foreign ambassador demands nuclear weapons from the U.S. government in exchange for not releasing the seemingly unstoppable Venus probe on the nearby population.  In part 2, when all physical assaults fail against the new Venus probe, Steve succeeds in tricking it into falling into a pit. However, when it starts drilling towards a city, Steve has a bigger problem than before.
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=94
+ |EpisodeNumber2=16
+ |Title=The Lost Island
+ |DirectedBy=Cliff Bole
+ |WrittenBy={{StoryTeleplay|s= [[Lou Shaw]]|t= Mel Goldberg}}
+ |OriginalAirDate={{Start date|1978|01|30}}
+ |ShortSummary=While searching for a fallen satellite in the Pacific, Steve rescues a drowning victim who turns out to be an alien. She offers to help him acquire the satellite, which has landed on her race's invisible island. However, many of the island's populace fear a revolution, yet are unable to leave due to a lack of immunity to Earth illnesses. Steve must get an experimental serum for her before she will help him.
+
+This is a two-hour episode.
+
+{{Episode cast}} [[Anthony Geary]] as Arta and [[Jared Martin]] as Torg
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=95
+ |EpisodeNumber2=17
+ |Title=The Madonna Caper
+ |DirectedBy=Herb Wallerstein
+ |WrittenBy=Gregory S. Dinallo
+ |OriginalAirDate={{Start date|1978|02|06}}
+ |ShortSummary=While Steve helps a countess retrieve a microdot with important information hidden on a painting in a museum, she helps herself to a masterpiece and replaces it with a forgery. Oscar sends Steve to retrieve the painting from its buyer before a visiting art expert causes embarrassment by discovering the counterfeit currently on display.
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=96
+ |EpisodeNumber2=18
+ |Title=Dead Ringer
+ |DirectedBy=Arnold Laven
+ |WrittenBy={{StoryTeleplay|s= Charles Mitchell and Robert I. Holt|t= Robert I. Holt}}
+ |OriginalAirDate={{Start date|1978|02|13}}
+ |ShortSummary=Steve Austin sees a luminous vision of himself following a car accident in which he sustains a head injury. Plagued by this and subsequent similar visions, he consults a parapsychologist who theorizes that Steve Austin's spirit was detached from his body when he was clinically dead following the accident that led to his rebirth as a bionic man. She believes that his spirit is now seeking to rid itself of his body by killing him. These strange and seemingly inexplicable events coincide with the arrival of two foreign agents who are seeking to steal secrets regarding OSI's bionics program.  |LineColor=FF7D0E
+}}
+{{Episode list
+ |NumParts=2
+ |EpisodeNumber_1=97
+ |EpisodeNumber_2=98
+ |EpisodeNumber2_1=19
+ |EpisodeNumber2_2=20
+ |Title=Date With Danger
+ |DirectedBy=Rod Holcomb
+ |WrittenBy={{StoryTeleplay|s= Wilton Schiller|t= John Meredyth Lucas}}
+ |OriginalAirDate_1={{Start date|1978|02|20}}
+ |OriginalAirDate_2={{Start date|1978|02|27}}
+ |ShortSummary=Oscar Goldman has concluded that agent Joe Canton stole a large sum of money from OSI through an elaborate computer scheme. Incredulous, Steve Austin investigates a computer dating service called Datamate which accessed OSI's system without authorization. Emily, Datamate's new owner, takes a liking to Steve Austin and offers to cooperate. Their investigation is quickly hampered by a series of electronically delivered orders intended to prevent any interference, including the hiring of an assassin to kill Steve Austin. All paths seem to lead to the mysterious George Cloche who is eventually revealed to be an OSI computer expert named Bell. In part 2, Steve Austin sustains a head injury evading a would-be assassin. His subsequent admission to a local hospital is electronically sabotaged giving him the false identity of a dangerous mental patient named Steve Ankarios. He awakens in restraints in a padded room of a psychiatric ward, but eventually escapes with Emily’s assistance. Forsaking all means of electronic communication to avoid further detection/interference, Steve Austin apprehends Bell and his accomplice, but soon finds out that the computer is now acting alone.
+ |LineColor=FF7D0E
+}}
+{{Episode list
+ |EpisodeNumber=99
+ |EpisodeNumber2=21
+ |Title=The Moving Mountain
+ |DirectedBy=Don McDougall
+ |WrittenBy=Stephen Kandel
+ |OriginalAirDate={{Start date|1978|03|06}}
+ |ShortSummary=A terrorist/extortionist named Santos has stolen a Russian mobile missile launcher (nicknamed the "Moving Mountain") and American smart missiles. After first working separately to recover their stolen property, Oscar Goldman proposes cooperation with his Russian counterpart. Steve Austin teams up with a beautiful KGB agent named Andreia. Posing as honeymooners at the Chamonix Inn, a romance quickly develops between them. When Oscar finds out that Andreia’s father was killed in an encounter with Steve Austin two years prior, he fears that the Russian operative plans on killing Steve Austin and stealing the American missiles. Steve Austin’s relationship with KGB agent Andreia causes them to challenge the logic of the Cold War.
+{{Episode cast}} [[John Colicos]] as General Norbukov
+ |LineColor=FF7D0E
+}}
+}}
+
+== Television movies (1987–1994) ==
+{{Episode table
+|background=#FCE81A
+|title=31
+|writer=17
+|director=16
+|airdate=13
+|episodes=
+
+{{Episode list
+ |RTitle=''[[The Return of the Six Million Dollar Man and the Bionic Woman]]''
+ |DirectedBy=[[Ray Austin (director)|Ray Austin]]
+ |WrittenBy=Michael Sloan,<br /> Bruce Lansbury
+ |OriginalAirDate={{Start date|1987|05|17}}
+ |ShortSummary=Steve Austin's former employer, Oscar Goldman, approaches him and asks for help; a band of terrorists he put out of business are back. Steve initially declines, but changes his mind when his son Michael Austin is severely injured as a result of his first solo flight. Rudy Wells operates on Michael, giving him better bionics than Steve's or Jaime's.
+ |LineColor=FCE81A
+}}
+{{Episode list
+ |RTitle=''[[Bionic Showdown: The Six Million Dollar Man and the Bionic Woman]]''
+ |DirectedBy=Alan J. Levi
+ |WrittenBy=Brock Choy,<br /> Robert De Laurentis,<br /> Michael Sloan
+ |OriginalAirDate={{Start date|1989|04|30}}
+ |ShortSummary=Jaime helps a new young bionic woman, former wheelchair user Kate Mason ([[Sandra Bullock]]), adjust to her bionic implants. Meanwhile, Steve decides to ask Jaime to marry him, but he is interrupted when someone using bionic powers sabotages the security systems at OSI Headquarters and steals secret documents. Being suspects, Jaime and Steve are detained but break out to conduct their own investigation. 
+ |LineColor=FCE81A
+}}
+{{Episode list
+ |RTitle=''[[Bionic Ever After?]]''
+ |DirectedBy=Steve Stafford
+ |WrittenBy=Michael Sloan,<br /> Norman Morrill
+ |OriginalAirDate={{Start date|1994|11|29}}
+ |ShortSummary=Steve and Jaime are about to get married. However, something is happening to Jaime; it seems like her bionics are failing and no one knows what's wrong with her. As Rudy discovers Jaime's bionics have been deliberately infected with a computer virus, an old friend of Steve's is being held prisoner by terrorists in Nassau and Steve, needing to take his mind off Jaime, offers to go and help.
+ |LineColor=FCE81A
+}}
+}}
+
+==See also==
+*[[List of The Bionic Woman episodes|List of ''The Bionic Woman'' episodes]]
+
+==Notes==
+{{reflist|group=n}}
+
+==References==
+<references />
+
+==External links==
+*{{IMDb title|qid=Q1196836|id=tt0071054|title=The Six Million Dollar Man}}
+*{{IMDb title|qid=Q3988997|id=tt0093853|title=The Return of the Six Million Dollar Man and the Bionic Woman}}
+*{{IMDb title|qid=Q3640174|id=tt0109274|title=Bionic Ever After?}}
+
+{{The Six Million Dollar Man/The Bionic Woman}}
+
+{{DEFAULTSORT:Six Million Dollar Man, The}}
+[[Category:Bionic franchise|Episodes]]
+[[Category:Lists of American science fiction television series episodes]]
+[[Category:Lists of American action television series episodes]]

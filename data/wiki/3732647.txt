@@ -1,0 +1,715 @@
+{{use mdy dates|date=April 2016}}
+{{hatnote group|{{About|the 1987 album by Prince|other uses|Sign of the Times (disambiguation){{!}}Sign of the Times}}
+{{redirect|Housequake|the 2009 documentary film|HouseQuake{{!}}''HouseQuake''}}}}
+{{Infobox album
+| name         = Sign o' the Times
+| type         = studio
+| artist       = [[Prince (musician)|Prince]]
+| cover        = Prince-SignOTheTimes.jpg
+| alt          = 
+| released     = {{start date|1987|03|31}}
+| recorded     =
+* July 1984{{efn|Basic tracking for "Slow Love".<ref name="Clerc"/>}}
+* March 1986 – January 1987
+| studio       = {{hlist|Lake Minnetonka home (Minnetonka)|Galpin Boulevard home ([[Chanhassen]])|Washington Avenue Warehouse ([[Edina, Minnesota|Edina]])|[[Sunset Sound Recorders]]|[[Ocean Way Recording]] (Hollywood)|Monterey Sound ([[Glendale, California|Glendale]])|[[Dieter Dierks|Dierks Studio Mobile Trucks]] (Paris)}}
+| genre        = <!-- verified in #Critical reception -->{{hlist|[[contemporary R&B|R&B]]|[[funk]]|[[soul music|soul]]|[[rock music|rock]]|[[avant-pop]]}}
+| length       = 80:06
+| label        = {{hlist|[[Paisley Park Records|Paisley Park]]|[[Warner Bros. Records|Warner Bros.]]}}
+| producer     = Prince
+| prev_title   = [[Parade (Prince album)|Parade]]
+| prev_year    = 1986
+| next_title   = [[Lovesexy]]
+| next_year    = 1988
+| misc         = {{Singles
+ | name        = Sign o' the Times
+ | type        = Studio album
+ | single1     = [[Sign o' the Times (song)|Sign o' the Times]]
+ | single1date = February 18, 1987
+ | single2     = [[If I Was Your Girlfriend]]
+ | single2date = May 6, 1987
+ | single3     = [[U Got the Look]]
+ | single3date = July 14, 1987
+ | single4     = [[I Could Never Take the Place of Your Man]]
+ | single4date = November 3, 1987
+}}
+}}
+
+'''''Sign o' the Times''''' (stylized as '''''Sign "☮" the Times''''') is the ninth [[studio album]] by the American singer and songwriter [[Prince (musician)|Prince]]. It was released on March 31, 1987, as a [[double album]] by [[Paisley Park Records]] and [[Warner Bros. Records]]. The album is the follow-up to ''[[Parade (Prince album)|Parade]]'' and is Prince's first solo album following his disbanding of [[The Revolution (band)|the Revolution]]. The album's songs were largely recorded from 1986 to 1987 in sessions for releases Prince ultimately aborted: ''[[Dream Factory (album)|Dream Factory]]'', the pseudonymous ''[[Camille (album)|Camille]]'', and finally the triple album ''[[Crystal Ball (unreleased album)|Crystal Ball]]''. Prince eventually compromised with label executives and shortened the length of the release to a double album.
+
+''Sign o' the Times'' is a drastic departure from Prince's previous works, taking inspiration from social issues and spirituality. An [[R&B]] album, the album takes influence from [[avant-pop]] and [[Hip-hop|hip hop]], which was emerging in mainstream music. Many of the drum sounds on the album came from the [[Linn LM-1]] drum machine, and Prince used the [[Fairlight CMI]] synthesizer to replace other instruments. Four songs contain higher-pitched vocals to represent Prince's [[alter ego]] "Camille". The album's music touches on [[funk]], [[soul music|soul]], [[psychedelic pop]], [[electro (music)|electro]], and [[rock music|rock]].  
+
+Despite being Prince's fifth album in five years, ''Sign o' the Times'' reached the top 10 of the [[Billboard 200|''Billboard'' 200]] and spawned three top 10 hits on the [[US Billboard Hot 100|''Billboard'' Hot 100]]: the title track and [[lead single]] "Sign o' the Times", "[[U Got the Look]]" and "[[I Could Never Take the Place of Your Man]]". Besides these three, "[[If I Was Your Girlfriend]]" was also released as a single. A concert film [[Sign o' the Times (film)|of the same name]] was released to promote the album. The album was a huge critical success and is certified [[RIAA certification|platinum]] in the US. Following [[Death of Prince|Prince's death]] in 2016, it re-entered the ''Billboard'' 200 at number 20.
+
+''Sign o' the Times'' is one of the most critically acclaimed albums in [[popular music]], widely being regarded as Prince's best album, ahead of ''[[Purple Rain (album)|Purple Rain]]'' (1984). It was voted the best album of 1987 in the [[Pazz & Jop]] critics poll and was nominated for [[Grammy Award for Album of the Year|Album of the Year]] at the [[30th Annual Grammy Awards|30th Grammy Awards]]. Often regarded as a [[masterpiece]], some critics have praised ''Sign o' the Times'' as the best album of the 1980s. It is a frequent inclusion in lists of the greatest albums of all time and was inducted into the [[Grammy Hall of Fame]] in 2017.
+
+== Background ==
+Prince's sixth studio album, ''[[Purple Rain (album)|Purple Rain]]'' (1984), dominated American pop culture for nearly the entirety of 1984.<ref name=":7">{{Cite web |last=Chesterton |first=George |date=2017-08-07 |title=Prince's Sign O' The Times: the fulfilment of genius |url=https://www.gq-magazine.co.uk/article/prince-sign-o-the-times-30-years |access-date=2025-10-28 |website=[[GQ|British GQ]] |language=en-GB}}</ref> Prince and [[The Revolution (band)|the Revolution]] followed it with the [[Psychedelic music|psychedelic]] album ''[[Around the World in a Day|Around The World In A Day]]'' (1985) and ''[[Parade (Prince album)|Parade]]'' the following year; the former topped the [[Billboard 200|''Billboard'' 200]] whilst the latter was critically well received.<ref name=":7" /> However, Prince's record company and most of his newer fans gained from the success of ''Purple Rain'' wanted a second ''Purple Rain''. Further issues were that much of his black audience thought he was becoming "too white" and sections of the public were uncomfortable with his prurience and sexual ambiguity.<ref name=":7" />
+
+Unlike the three previous band albums, ''[[Dream Factory (album)|Dream Factory]]'' included input from the band members and lead vocals by [[Wendy & Lisa]].{{sfn|Draper|2008|pp=76–78}} Prince feared that he was losing control, leading to the project to be abandoned.<ref name=":7" /> The ''[[Camille (unreleased Prince album)|Camille]]'' project saw Prince create an androgynous persona primarily singing in a higher, female-sounding voice. With the dismissal of the Revolution, Prince consolidated material from both shelved albums, along with some new songs, into a three-LP album to be titled ''[[Crystal Ball (unreleased album)|Crystal Ball]]''.{{sfn|Draper|2008|p=80}} Warner Bros. balked at the idea of trying to sell a triple album and forced Prince to trim it down to a double album.<ref name="Billboard Sign o the times">{{cite magazine |last=Erlewine |first=Stephen Thomas |title=Sign 'O' the Times |url={{BillboardURLbyName|artist=prince|chart=all}} |url-status=dead |archive-url=https://web.archive.org/web/20130509100710/http://www.billboard.com/artist/351039/prince/chart |archive-date=May 9, 2013 |access-date=March 3, 2009 |magazine=[[Billboard (magazine)|Billboard]]|date=}}</ref> Prince cut seven tracks, and also reformulated the album to accommodate the newly added title track.<ref name="bbc.com">{{Cite news |date=September 23, 2020 |title=Prince's Sign O' the Times: An oral history |url=https://www.bbc.com/news/entertainment-arts-54203180 |work=|publisher=[[BBC News]]|last=Savage|first=Mark}}</ref><ref name="telegraph.co.uk">{{Cite news |last1=Hall |first1=James |date=September 27, 2020 |title=Sign O' the Times: How Prince created a masterpiece – and ruined his career |url=https://www.telegraph.co.uk/music/artists/sign-o-times-prince-created-masterpiece-ruined-career/ |newspaper=The Telegraph}}</ref>
+
+== Production and composition ==
+
+=== Recording ===
+As with many of Prince's 1980s albums, this album features extensive use of the [[Linn LM-1]] drum machine on most songs.<ref>{{Cite web|url=http://www.bandedbox.com/2017/03/sign-times-30-years-later/|title=A Look At Sign O' The Times: 30 Years Later|last=Ferguson|first=Randy|date=March 30, 2017|website=BandedBox|access-date=February 5, 2020}}</ref> In addition, many songs on the album (such as "[[If I Was Your Girlfriend]]") feature minimal instrumentation, and use of the [[Fairlight CMI]], a then state-of-the-art [[synthesizer]] also containing a [[digital sampler]]. Unlike many of his contemporaries, Prince used the stock sounds of the Fairlight to create the title track. Four of the album's standout songs, "[[Housequake]]", "Strange Relationship", "[[U Got the Look]]" with [[Sheena Easton]], and "If I Was Your Girlfriend"  use pitch-shifted vocals to create a higher voice, ostensibly the voice of "Camille", Prince's [[alter ego]] of this era.<ref>{{Cite web|url=https://pitchfork.com/features/article/9882-how-princes-androgynous-genius-changed-the-way-we-think-about-music-and-gender/|title=How Prince's Androgynous Genius Changed the Way We Think About Music and Gender|last=Reynolds|first=Simon|date=April 22, 2016|website=[[Pitchfork (website)|Pitchfork]]|access-date=February 5, 2020|author-link=Simon Reynolds}}</ref>
+
+Prince was known for recording his vocals in the [[control room]] area of the studio. Typically, in the recording process, a vocalist records in the recording booth, separated from the control room by a window or soundproof door. To have privacy during the vocal recording process, Prince usually asked his engineer, [[Susan Rogers]], to leave the room. Rogers recalls:
+
+{{quote|We'd get the track halfway or three-quarters of the way there and then set him up with a microphone in the control room. He'd have certain tracks on the multi-track that he would use and he'd do the vocal completely alone. I think that was the only way he could really get the performance.<ref>{{Cite web|url=https://stack.com.au/music/album-tales-how-it-happened-prince-sign-o-the-times/|title = Album Tales (How it Happened): Prince, 'Sign o' the Times'|date = September 2020}}</ref>}}
+
+On some occasions, Prince recorded vocals with his back to her. Rogers monitored the vocals with a pair of headphones so Prince's recording microphone would not pick up the speakers she would usually have used. Prince typically used a [[Sennheiser]] 441 dynamic [[microphone]] (recommended to him by [[Stevie Nicks]])<ref>{{Cite web|url=https://www.mixonline.com/recording/classic-tracks-princes-kiss-365014|title = Classic Tracks: Prince's "Kiss"|date = April 17, 2026|website=[[Mix (magazine)|Mix]]|last=Daley|first=Dan}}</ref> for recording vocals at this stage in his career. Susan Rogers also recalled the speed of Prince's creative process, saying "[the] songs came out like a sneeze, one track after the next, after the next."<ref name="bbc.com"/> She also noticed a problem with the sound desk—which had been newly installed—during the recording of "[[The Ballad of Dorothy Parker]]", which resulted in a sound matching the "underwater dream state" of the song.<ref name="bbc.com"/>
+
+Although ''Sign o' the Times'' was regarded by some as less polished than his earlier efforts (''[[Spin (magazine)|Spin]]'' said the album sounded like outtakes, "except nobody else's outtakes would sound so strong, rock so hard, swing so free")<ref>{{Cite web|url=https://www.spin.com/2016/04/classic-reviews-prince-sign-o-the-times/|title=Review: Prince – Sign o' the Times|date=April 22, 2016|website=[[Spin (magazine)|Spin]]}}</ref> Prince pointed out that he (and his record company) "spent more time and money" on ''Sign o' the Times'' than anything he had ever done, adding that "[much] more work went into it."<ref name="bbc.com"/>
+
+=== Music and lyrics ===
+Described by ''[[Rolling Stone]]'' as "the most expansive R&B record" of the 1980s,<ref name="rs500" /> ''Sign o' the Times'' encompasses a wide range of styles. Music critic [[Stephen Thomas Erlewine]] said Prince utilizes a palette of genres, "from bare-bones [[electro-funk]] and [[smooth soul]] to pseudo-[[psychedelic pop]] and crunching [[hard rock]], touching on [[Gospel music|gospel]], [[blues]], and [[folk music|folk]] along the way".<ref name="Erlewine" /> Similarly, writer and Prince scholar [[Ben Greenman]] observes "spooky political R&B, full-throated psychedelic pop, bone-rattling skeletal funk, and pocket soul so gentle and nuanced you could almost call it folk".<ref>{{cite book|last=Greenman|first=Ben|author-link=Ben Greenman|page=43|title=Dig If You Will the Picture: Funk, Sex, God and Genius in the Music of Prince|year=2017|isbn=978-1250128379|publisher=Henry Holt and Company}}</ref> According to music journalist [[Touré (journalist)|Touré]], the album is Prince's foray into soul more than anything,<ref name="Touré" /> while writer and composer [[Paul Grimstad]] deemed the record an example of [[avant-pop]].<ref name="avant">{{cite web|url=http://www.brooklynrail.org/2007/9/music/what-is-avant-pop|title=What is Avant-Pop?|last1=Grimstad|first1=Paul|date=September 4, 2007|website=[[Brooklyn Rail]]|access-date=October 1, 2016}}</ref> Prince's use of the drum machine throughout the album is an example of "authentic rock music [made] with computers", Yuzima Philip wrote in ''[[The New York Observer|Observer]]''.<ref>{{cite web|website=[[The New York Observer|Observer]]|date=March 31, 2017|url=https://observer.com/2017/03/prince-sign-o-the-times-anniversary-review/|title=How Prince Unleashed a Cultural Revolution on 'Sign 'O' The Times'|access-date=January 30, 2020}}</ref> In the opinion of ''[[Star Tribune]]'' journalist Jon Bream, the music can be described as an absolute "balance of everything" the artist had explored stylistically up to that point, including "grinding funk, catchy pop, anthemic rock, tender balladry".<ref>{{cite web|last=Bream|first=Jon|date=April 30, 2016|url=http://www.startribune.com/prince-s-albums-a-complete-critical-guide-to-all-37-official-releases/377695291/|title=Prince's albums: A complete critical guide to all 37 official releases|website=[[Star Tribune]]|access-date=January 30, 2020}}</ref> The album also delves into [[Hip-hop|hip hop]], which was emerging into the mainstream.<ref name=":4">{{Cite web |last=Azhar |first=Mobeen |title=Is Prince's Sign O' The Times the greatest album of all time? |url=https://www.bbc.com/culture/article/20200923-is-princes-sign-o-the-times-the-greatest-album-of-all-time |access-date=2025-10-26 |date=September 24, 2020 |language=en|publisher=[[BBC News]]}}</ref> According to [[Nelson George]], Prince was keenly aware that hip-hop was gaining more exposure and influencing contemporary music.<ref name=":5">{{Cite web |last=George |first=Nelson |title=Prince: Sign o' the Times |url=https://pitchfork.com/reviews/albums/21845-sign-o-the-times/ |access-date=October 28, 2025 |website=[[Pitchfork (website)|Pitchfork]] |language=en-US|date=April 30, 2016|author-link=Nelson George}}</ref>
+
+Regarding the themes explored throughout the album, [[MTV News]] writer [[Hanif Abdurraqib]] said it functions "as a political action" and "that the politics are not those of solutions, but those of survival in the face of that which you might not survive for much longer. The politics of survival say that we may dance in the face of a coming apocalypse. We may, in the face of a coming apocalypse, go to bed with someone we love or someone we didn't know before the night started. We may play in the streets, or fantasize about a new world to run into. On ''Sign 'O' The Times'', after laying out the terrifying landscape, Prince pushes the landscape aside, lays out all of our options for survival on a table, and tells us to take our pick."<ref>{{Cite web|url=http://www.mtv.com/news/2998825/prince-sign-times-thirty-years/|archive-url=https://web.archive.org/web/20170401134152/http://www.mtv.com/news/2998825/prince-sign-times-thirty-years/|url-status=dead|archive-date=April 1, 2017|title=Prince's Sign 'O' The Times And Surviving The End|last=Willis-Abdurraqib|first=Hanif|language=en|access-date=2020-01-02|publisher=[[MTV News]]}}</ref>
+
+George also pointed to carnality and [[spirituality]] being a common theme on ''Sign o' the Times''. "Forever in My Life" was noted as an example, where Prince combines both sexuality and piety.<ref name=":5" /> "Hot Thing" and "It" were described as aggressively sexual, but through the "oddly-pitched" sounds, the songs resonate with spiritual themes like human connection and [[Transcendence (philosophy)|transcendence]].<ref name=":5" /> The title track and [[lead single]], "[[Sign o' the Times (song)|Sign o' the Times]]", discusses [[gang violence]] and the [[Crack epidemic in the United States|crack cocaine epidemic]].<ref name=":4" /> "The Cross" stands out on the album as a [[Christian rock]] song described as raw and emotional, as Prince preaches about [[Jesus]].<ref name=":6">{{Cite magazine |last=Partridge |first=Kenneth |date=March 31, 2017 |title=Prince's 'Sign O' the Times' Turns 30: All the Songs Ranked |url=https://www.billboard.com/music/pop/prince-sign-o-the-times-album-ranked-7744222/ |access-date=October 28, 2025 |magazine=[[Billboard (magazine)|Billboard]] |language=en-US}}</ref> The song was also noted for having a [[Indian rock|Eastern]]-influenced sound.<ref name=":6" />
+
+=== Cover ===
+The cover of the album was shot by photographer [[Jeff Katz (photographer)|Jeff Katz]], who also served as Prince's photographer during the mid-80s, and had shot the covers of Prince's [[The Family (The Family album)|''The Family'']] album in 1985, and ''Parade'' in 1986. The shoot was held at a warehouse in [[Eden Prairie, Minnesota]] close to where [[Paisley Park Studios]] was set up later. The cover featured a drum set on top of the front end of a 1971 [[Pontiac Grand Prix]], bouquets, a plasma globe and a guitar, with Prince's face in the foreground in a blur.<ref name="vogue">{{cite web |url=https://www.vogue.com/article/prince-exclusive-sign-o-the-times/ |title=Untold Story Behind Prince's Sign O' the Times Album |author=Janelle Okwodu |date=10 September 2020 |access-date=28 November 2023 |website=[[Vogue (magazine)|Vogue]]}}</ref><ref>{{cite web |url=https://pitchfork.com/features/photo-gallery/prince-sign-o-the-times-album-cover-photo/ |title=What It Was Like to Be Prince's Personal Photographer |author=Quinn Moreland |date=23 September 2020 |access-date=2 December 2023 |website=[[Pitchfork (website)|Pitchfork]]}}</ref> The props were taken from Prince's home and studio, and the backdrop borrowed from a stage production of the musical ''[[Guys And Dolls]]''.<ref>{{cite web |url=https://www.thisisdig.com/feature/best-80s-album-covers/ |title=Best 80s album covers: 20 iconic artworks from an outlandish era |author=York |date=23 July 2023 |access-date=19 December 2023 |website=Rhino|first=Alan}}</ref>
+
+== Release ==
+''Sign o' the Times'' was released on March 30, 1987, in the United Kingdom, and one day later in the United States and France.{{sfn|Draper|2008|p=135}} It peaked at number six on the ''Billboard'' 200, reached the top 10 in Austria, France, New Zealand, Norway, Sweden, and the UK, and reached number one in Switzerland.  The singles "Sign o' the Times", "[[U Got the Look]]" and "[[I Could Never Take the Place of Your Man]]" reached number three, two and ten on the [[US Billboard Hot 100|''Billboard'' Hot 100]], respectively.<ref name=":1">{{Cite magazine |title=Prince Chart History |url=https://www.billboard.com/music/prince |access-date=2019-06-10 |magazine=[[Billboard (magazine)|Billboard]]|date=}}</ref> Four months after its release, the album was certified [[RIAA certification|platinum]] by the [[Recording Industry Association of America]] (RIAA).<ref>{{Cite web |title=Gold & Platinum |url=https://www.riaa.com/gold-platinum/ |access-date=2019-06-10 |website=[[RIAA]] |language=en-US}}</ref> Following Prince's death in 2016, the album re-charted on the ''Billboard'' 200 at number 20.<ref name=":1" />
+
+Though ''Sign o' the Times'' is regarded as one of Prince's best albums, it did not sell as well as his three preceding releases.<ref name=":02">{{cite web|url=https://www.msn.com/en-au/news/world/purple-rain-superstar-prince-57-dies-at-us-studio-complex/|title='Purple Rain' superstar Prince, 57, dies at US studio complex|last1=Dobuzinskis|first1=Alex|last2=Serjeant|first2=Jill|date=April 22, 2016|agency=[[Reuters]]|publisher=[[MSN.com]]|at=''Scroll down to the slide show and reach ''10/21 slides|access-date=June 3, 2016}}</ref> According to Mark Lindores, writing for ''[[Classic Pop]]'', Prince's commercial stock had declined significantly following the underperformance of ''Around The World In A Day'' and ''Parade'', both of which shifted from the "pulsing electro-rock and soaring anthems" of ''Purple Rain'' in favor of psychedelic pop and "Eurocentric, jazz-inflected funk", respectively''.''<ref name=":0">{{Cite web |last=Lindores |first=Mark |date=November 8, 2019 |title=Making Prince: Sign O' The Times |url=https://www.classicpopmag.com/features/classic-album/classic-album-sign-o-the-times-prince/ |access-date=October 28, 2025 |website=[[Classic Pop]] |language=en-GB}}</ref> The underwhelming sales of the album is also likely attributed to it being Prince's fifth album in five years and there not being a supporting tour in the US (he also cancelled the UK dates, meaning the tour only reached mainland Europe).<ref name="telegraph.co.uk"/>
+
+=== Reissues ===
+The album was reissued in ''Remastered'', ''Deluxe'' and ''Super Deluxe'' editions on September 25, 2020. The Super Deluxe edition contains nine discs with a remaster of the original album, all 13 single, maxi-single and B-side tracks, 45 previously unreleased tracks, and two complete live recordings of the ''Sign o' the Times Tour'': one audio performance recorded at [[Stadion Galgenwaard]] in [[Utrecht]], Netherlands, on June 20, 1987, and one video performance shot at [[Paisley Park]] on December 31, 1987.<ref>{{Cite web|url=https://store.prince.com/product/5QCDPR045/sign-o-the-times-remastered-super-deluxe-edition-8cd-1-dvd?cp=null|title = Sign O' the Times Remastered Super Deluxe Edition (8CD + 1 DVD) &#124; Shop the Prince Official Store}}</ref> In addition, a 7" vinyl singles box set limited to 1,987 units was released, containing remastered audio for all four official 7" singles released in 1987, as well as the two official Warner Records promo singles and a brand new 7" single comprising two versions of the previously unreleased track "Witness 4 the Prosecution".<ref>{{Cite web|url=https://store.prince.com/product/5QLPPR057/sign-o-the-times-limited-edition-7-vinyl-singles-box-set?cp=103229_108321|title = Shop the Prince Official Store}}</ref>
+
+== Critical reception ==
+''Sign o' the Times'' became Prince's most critically acclaimed record.<ref name=":4" /> Reviewing for ''[[Spin (magazine)|Spin]]'' in 1987, [[Bart Bull]] said Prince's loosely organized songs are "genius" rather than indulgent and that, although there is no song as groundbreaking as "[[Girls & Boys (Prince song)|Girls & Boys]]", "nobody else's outtakes would sound so strong, rock so hard, swing so free."<ref>{{cite journal|last=Bull|first=Bart|author-link=Bart Bull|url=https://books.google.com/books?id=dNSW1RIkidsC&pg=RA1-PA30|title=Prince: ''Sign o' the Times''|journal=[[Spin (magazine)|Spin]]|volume=3|issue=2|location=New York|date=May 1987|access-date=August 22, 2011|page=30|issn=0886-3032}}</ref> Don McLeese of the ''[[Chicago Sun-Times]]'' hailed it as "a one-man show, a tour de force, and a confirmation that pop's former prodigy has come of age."<ref>{{cite news|last=McLeese|first=Don|url=https://www.highbeam.com/doc/1P2-3817974.html|archive-url=https://web.archive.org/web/20160911152637/https://www.highbeam.com/doc/1P2-3817974.html|url-status=usurped|archive-date=September 11, 2016|title=Prince // Once again, a one-man band on 'Sign O the Times'|newspaper=[[Chicago Sun-Times]]|date=March 29, 1987|access-date=April 25, 2016|via=[[HighBeam Research]]|url-access=subscription }}</ref> Writing for ''[[The Village Voice]]'', [[Robert Christgau]] said the album is not a "formal breakthrough" but rather "the most gifted pop musician of his generation proving what a motherfucker he is for two discs start to finish." He particularly praised Prince's "one-man band tricks" and multi-tracked vocals, which he said "make [[Stevie Wonder]] sound like a struggling ventriloquist" and express real emotions: "The objects of his desire are also objects of interest, affection, and respect. Some of them he may not even fuck."<ref name="Christgau">{{cite news|last=Christgau|first=Robert|author-link=Robert Christgau|date=May 5, 1987|url=http://www.robertchristgau.com/xg/cg/cgv5-87.php|title=Consumer Guide|newspaper=[[The Village Voice]]|location=New York|access-date=May 31, 2013}}</ref>
+
+''Sign o' the Times'' was nominated for [[Grammy Award for Album of the Year|Album of the Year]] at the [[30th Annual Grammy Awards|30th Grammy Awards]], losing to [[U2]]'s ''[[The Joshua Tree]]'' (1987).<ref name=":2">{{Cite web|url=https://www.grammy.com/artists/prince/5675|title=Prince|date=2019-11-19|website=[[Grammy Awards]]|language=en|access-date=2020-01-13}}</ref> It was voted as the best album of 1987 in ''The Village Voice''{{'}}s [[Pazz & Jop]] critics' poll.<ref name="pazzandjop">{{cite news|date=March 1, 1988|url=http://www.robertchristgau.com/xg/pnj/pjres87.php|title=The 1987 Pazz & Jop Critics Poll|newspaper=[[The Village Voice]]|location=New York|access-date=May 31, 2013}}</ref> According to Christgau, the poll's creator, the album was "easily the biggest winner" in the poll's history and "established Prince as the greatest rock and roll musician of the era—as singer-guitarist-hooksmith-beatmaster, he has no peer."<ref>{{cite news|last=Christgau|first=Robert|date=March 1, 1988|url=http://www.robertchristgau.com/xg/pnj/pj87.php|title= Pazz & Jop 1987: Significance and Its Discontents in the Year of the Blip|newspaper=[[The Village Voice]]|location=New York|access-date=May 31, 2013}}</ref> The title track "[[Sign o' the Times (song)|Sign o' the Times]]" was named the best single of 1987 in the poll, while "[[I Could Never Take the Place of Your Man]]" and "[[U Got the Look]]" were also voted within the top 10.<ref name="pazzandjop" /> The album also ranked second among "Albums of the Year" for 1987 in the annual ''[[NME]]'' critics' poll, and the title track ranked number one among songs.<ref>{{Cite web |url=https://www.nme.com/bestalbumsandtracksoftheyear/1987-2-1045385 |title=Albums and Tracks of the Year: 1987 |date=2018 |publisher=[[NME]] |access-date=November 24, 2018 }}</ref> In an interview in December 1989, [[Robert Smith (musician)|Robert Smith]] of [[the Cure]] cited ''Sign o' the Times'' amongst the best things about the 1980s.<ref>{{cite journal|date=December 23–30, 1989|title=Robert Smith [interview]|journal=[[Melody Maker]]|location=London|page=23}}</ref>
+
+== Reappraisal and legacy ==
+{{Album reviews
+| MC = 99/100<br />{{small|(deluxe edition)}}<ref>{{cite web |url=https://www.metacritic.com/music/sign-o-the-times-deluxe-edition/prince |title=Sign O' the Times [Deluxe Edition] by Prince Reviews and Tracks |website=[[Metacritic]] |access-date=12 September 2021}}</ref>
+| subtitle = Retrospective professional ratings
+|rev1 = [[AllMusic]]
+|rev1score = {{rating|5|5}}<ref name="Erlewine">{{cite web|last=Erlewine|first=Stephen Thomas|author-link=Stephen Thomas Erlewine|url=https://www.allmusic.com/album/sign-o-the-times-mw0000195348|title=''Sign 'O' the Times'' – Prince|website=[[AllMusic]]|access-date=September 15, 2011}}</ref>
+|rev2 = ''[[Blender (magazine)|Blender]]''
+|rev2score = {{Rating|5|5}}<ref name="Harris">{{cite journal|last=Harris |first=Keith |url=http://www.blender.com/reviews/review_2280.html |title=Prince — Every Original CD Reviewed: ''Sign O' the Times'' |journal=[[Blender (magazine)|Blender]] |issue=1 |location=New York |date=June–July 2001 |access-date=April 8, 2017 |archive-url=https://web.archive.org/web/20040820014418/http://www.blender.com/reviews/review_2280.html |archive-date=August 20, 2004 |url-status=dead}}</ref>
+|rev3 = ''[[Christgau's Record Guide: The '80s|Christgau's Record Guide]]''
+|rev3Score = A+<ref>{{cite book|last=Christgau|first=Robert|author-link=Robert Christgau|chapter-url=https://www.robertchristgau.com/get_album.php?id=2806|chapter=Prince: ''Sign o' the Times''|access-date=September 15, 2011|title=Christgau's Record Guide: The '80s|publisher=[[Pantheon Books]]|year=1990|isbn=0-679-73015-X|title-link=Christgau's Record Guide: The '80s}}</ref>
+|rev4 = ''[[Encyclopedia of Popular Music]]''
+|rev4Score = {{Rating|5|5}}<ref>{{cite book|title=The Encyclopedia of Popular Music|last=Larkin|first=Colin|year=2011|publisher=[[Omnibus Press]]|author-link=Colin Larkin (writer)|edition=5th|isbn=978-0857125958|chapter=Prince|page=2000|title-link=The Encyclopedia of Popular Music}}</ref>
+|rev5 = ''[[Entertainment Weekly]]''
+|rev5score = A<ref name="Browne">{{cite magazine|last=Browne|first=David|author-link=David Browne (journalist)|url=https://ew.com/article/1990/09/21/decade-prince-albums/|title=Purple Products|magazine=[[Entertainment Weekly]]|issue=32|location=New York|date=September 21, 1990|access-date=August 22, 2011|issn=1049-0434|archive-date=April 30, 2011|archive-url=https://web.archive.org/web/20110430171116/http://www.ew.com/ew/article/0,,318219,00.html|url-status=live}}</ref>
+|rev6 = ''[[The Guardian]]''
+|rev6score = {{Rating|5|5}}<ref name="Price">{{cite news|last=Price|first=Simon|author-link=Simon Price|url=https://www.theguardian.com/music/2016/apr/22/prince-every-album-rated-and-ranked|title=Prince: every album rated – and ranked|newspaper=[[The Guardian]]|location=London|date=April 22, 2016|access-date=April 25, 2016}}</ref>
+|rev7 = ''[[Pitchfork (website)|Pitchfork]]''
+|rev7score = 10/10<ref name="Pitchfork Media">{{cite web|last=George|first=Nelson|url=https://pitchfork.com/reviews/albums/21845-sign-o-the-times/|title=Prince: ''Sign "O" the Times''|work=[[Pitchfork (website)|Pitchfork]]|date=April 29, 2016|access-date=May 2, 2016}}</ref>
+|rev8 = ''[[Q (magazine)|Q]]''
+|rev8score = {{rating|5|5}}<ref>{{cite journal|last=Murray|first=Charles Shaar|author-link=Charles Shaar Murray|title=Prince: ''Sign o' the Times''|journal=[[Q (magazine)|Q]]|issue=8|location=London|date=May 1987}}</ref>
+|rev9 = ''[[Rolling Stone]]''
+|rev9score = {{rating|5|5}}<ref name="Touré">{{cite magazine|author=Touré|author-link=Touré (journalist)|url=https://www.rollingstone.com/music/albumreviews/sign-o-the-times-20021008|title=Prince: ''Sign O' The Times''|magazine=[[Rolling Stone]]|location=New York|date=October 8, 2002|access-date=September 15, 2011|issn=0035-791X}}</ref>
+|rev10 = ''[[Spin Alternative Record Guide]]''
+|rev10score = 10/10<ref>{{cite book|chapter=Prince|title=Spin Alternative Record Guide|editor1-last=Weisbard|editor1-first=Eric|editor2-last=Marks|editor2-first=Craig|publisher=[[Vintage Books]]|location=New York|year=1995|isbn=0-679-75574-8|title-link=Spin Alternative Record Guide}}</ref>
+}}
+In the decades that followed, ''Sign o' the Times'' has been regarded by critics as Prince's best album<ref name=":5" /><ref name=":0" /><ref name="bbc"/> and is often hailed as a [[masterpiece]].<ref name=":6" /><ref name="RSguide">{{cite book |last=Matos |first=Michaelangelo |title=The New Rolling Stone Album Guide |title-link=The Rolling Stone Album Guide |publisher=[[Simon & Schuster]] |year=2004 |isbn=0-7432-0169-8 |editor1-last=Brackett |editor1-first=Nathan |edition=4th |location=New York |pages=[https://archive.org/details/newrollingstonea00brac/page/654 654–657] |chapter=Prince |access-date=May 12, 2012 |editor2-last=Hoard |editor2-first=Christian |chapter-url=https://books.google.com/books?id=t9eocwUfoSoC&pg=PA656}}</ref><ref>{{Cite news |date=2020-09-24 |title=Prince's Vault Reveals a Brilliant Trove With 'Sign o' the Times' (Published 2020) |url=https://www.nytimes.com/2020/09/24/arts/music/prince-sign-o-the-times-review.html |access-date=2025-10-26 |language=en|work=[[The New York Times]]|last=Pareles|first=Jon|author-link=Jon Pareles}}</ref> Some critics have also praised it as the best album of the 1980s.<ref name=":7" /><ref name="RSguide" /><ref>{{Cite magazine |last=Tyrangiel |first=Josh |date=2010-01-25 |title=Is Sign O' The Times one of the All-TIME 100 Best Albums? |url=https://entertainment.time.com/2006/11/02/the-all-time-100-albums/slide/sign-o-the-times/ |access-date=2025-10-26 |magazine=Time |language=en-US |issn=0040-781X}}</ref> In a retrospective review, John McKie of [[BBC News]] cited it as "one of the most acclaimed albums of the second half of the 20th century" and a "masterpiece – encompassing all of [Prince's] musical personas: bedroom balladeer; penitent Christian; one-track-mind loverman; modern-day Basie-style bandleader; whimsical storyteller; meticulous orchestrator, guitar-wielding axeman and pop craftsman."<ref name="bbc">{{Cite news|url=https://www.bbc.com/news/entertainment-arts-39441461|title=Prince's Sign O' The Times, 30 years on|last=McKie|first=John|date=March 31, 2017|access-date=January 3, 2020|language=en-GB|publisher=[[BBC News]]}}</ref> [[Simon Price]] deemed it Prince's best album,<ref name="Price" /> as did Michaelangelo Matos, who wrote in ''[[The Rolling Stone Album Guide]]'' (2004) that it was "the most complete example of his artistry's breadth, and arguably the finest album of the 1980s".<ref name="RSguide"/> Matos also believed it was "the last classic R&B album prior to [[hip hop music|hip hop]]'s takeover of [[African-American music|black music]] and the final four-sided blockbuster of the vinyl era".<ref name="spin">{{cite journal|last=Matos|first=Michaelangelo|date=July 2005|title=100 Greatest Albums: 1985–2005|url=https://books.google.com/books?id=p6-UYTO7l1MC&pg=PA70|journal=[[Spin (magazine)|Spin]]|location=New York|volume=21|issue=7|page=70|access-date=May 12, 2012}}</ref> 
+
+According to journalist Kristen Pyszczyk, "critics tend to be pretty evenly divided over Prince's best album: about half will go for ''Purple Rain'', and the rest usually vouch for ''Sign o' the Times'', a double album sometimes regarded as Prince's magnum opus."<ref>{{cite web |last=Pyszczyk |first=Kristen |date=September 4, 2017 |title=What's your Prince horoscope? |url=https://medium.com/@kristenkarenina/whats-your-prince-horoscope-ece9edec43ee |access-date=January 4, 2019 |publisher=[[Medium (website)|Medium]]}}</ref> Kenneth Partridge of ''[[Billboard (magazine)|Billboard]]'' regarded ''Sign o' the Times'' as the album that broke the theory of Prince needing the Revolution to "keep him in check" and, like other critics, described the album as a "masterpiece".<ref name=":6" /> In a ''[[Pitchfork (website)|Pitchfork]]'' review, Nelson George regarded the artistry in ''Sign o' the Times'' as Prince's peak and that, despite the "dated" production, "the scope of the songs, the musicianship, and overall arrangements are just too glorious to nitpick." He concluded that the restless power of the album saves it from being formulaic or complacent: "All these years later, it’s still a vibrant thing, the product of a great artist at the height of his power."<ref>{{Cite web |title=Prince: Sign o' the Times |url=https://pitchfork.com/reviews/albums/21845-sign-o-the-times/ |access-date=2020-01-02 |website=Pitchfork |language=en}}</ref>
+
+Writing in ''[[The Brooklyn Rail]]'', Grimstad said that ''Sign o' the Times'' is "to be included with other double sets that actually cohere (the ''[[The Beatles (album)|White Album]]'', ''[[The Basement Tapes]]'', ''[[Something/Anything?]]''). Proves there is no limit to what [Prince] can do."<ref name="avant" /> In a [[BBC Music]] review, Daryl Easlea also compared the record to [[the Beatles]]' best work, saying "Although ''Sign ‘O’ The Times'' didn't rival his commercial sales peak of ''Purple Rain'', it is his ''White Album''". He also regarded Prince's ''Sign o' the Times'' era as one of the greatest eras in [[popular music]]: "This, and the supporting concert film [''[[Sign o' the Times (film)|Sign o' the Times]]''] remain one of the most scintillating documents of an artist at the summit of their powers... when you listen again to ''Sign 'O' The Times'', you realise why Prince was routinely labelled a genius in the late 80s."<ref>{{Cite web|url=https://www.bbc.co.uk/music/reviews/5fhj/|title=BBC – Music – Review of Prince – Sign 'O' The Times|last=Easlea|first=Daryl|language=en-GB|access-date=2020-01-02|publisher=[[BBC]]}}</ref> Keith Harris of ''[[Blender (magazine)|Blender]]'' called ''Sign o' the Times'' a "masterpiece" and commented that "never has [Prince's] curiosity about women strayed into so many unpredictable corners",<ref name="Harris" /> while ''[[Slant Magazine]]''{{'}}s Eric Henderson deemed it a "double-disc blowout of sweat, funk, and raw, concentrated talent".<ref name="Henderson">{{cite web|url=https://www.slantmagazine.com/music/review/prince-sign-o-the-times/1162|title=Prince: ''Sign 'O' the Times''|last=Henderson|first=Eric|date=August 19, 2007|work=[[Slant Magazine]]|access-date=September 15, 2011}}</ref> 
+
+''Sign o' the Times'' has appeared on publications' lists and polls of the greatest albums. In 1989, ''[[Time Out (company)|Time Out]]'' magazine ranked ''Sign o' the Times'' as the greatest album of all time. The album was ranked number 16 on the ''[[NME|New Musical Express]]'' list of the All Time Top 100 Albums, third in ''[[Hot Press]]'' magazine's list of the 100 Best Albums of All Time, and number 35 on [[VH1]]'s 100 Greatest Albums. The album was also placed 8th on ''[[Nieuwe Revu]]'''s Top 100 Albums of All Time. ''[[The Times]]'' listed ''Sign o' the Times'' as the 29th greatest album of all time. It was voted number 19 in the third edition of [[Colin Larkin]]'s ''[[All Time Top 1000 Albums]]'' (2000).<ref name="Larkin">{{cite book|title=[[All Time Top 1000 Albums]]|date=2006|publisher=[[Virgin Books]]|isbn=0-7535-0493-6|editor=Colin Larkin|editor-link=Colin Larkin|edition=3rd|page=43}}</ref> In 2003, the album was ranked number 93 on ''[[Rolling Stone]]''{{'s}} list of [[The 500 Greatest Albums of All Time]],<ref name="rs500">{{cite magazine|url=https://www.rollingstone.com/music/lists/500-greatest-albums-of-all-time-19691231/sign-o-the-times-prince-19691231 |title=The 500 Greatest Albums of All Time — 93 &#124; ''Sign 'o' the Times'' – Prince |magazine=[[Rolling Stone]] |location=New York |date=December 11, 2003 |access-date=September 15, 2011 |archive-url=https://web.archive.org/web/20060528070448/http://www.rollingstone.com/news/story/6598154/93_sign_o_the_times |archive-date=May 28, 2006 |url-status=dead}}</ref> maintaining the rank in the 2012 revision and moving up to number 45 in the 2020 reboot of the list.<ref>{{Cite web|url=https://genius.com/Rolling-stone-the-500-greatest-albums-of-all-time-2012-lyrics|title = Rolling Stone – the 500 Greatest Albums of All Time (2012)}}</ref><ref>{{cite web|url=https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/prince-sign-o-the-times-4-1063188/|publisher=[[Rolling Stone]]|title=The 500 Greatest Albums of All Time – Prince, 'Sign O' the Times'|date=22 September 2020|access-date=1 April 2021}}</ref> In 2006, ''[[Q (magazine)|Q]]'' magazine placed the album at number 12 in its list of "40 Best Albums of the '80s".<ref>{{cite journal|title=40 Best Albums of the '80s|journal=Q|issue=241|location=London|date=August 2006}}</ref> In 2012, ''[[Slant Magazine]]'' listed the album at number 11 on its list of "Best Albums of the 1980s", calling it "Prince's most varied album and his most self-consciously auteurish".<ref>{{Cite web|url=https://www.slantmagazine.com/features/article/best-albums-of-the-1980s/P18|title=The 100 Best Albums of the 1980s|work=[[Slant Magazine]]|date=March 5, 2012|access-date=March 30, 2016}}</ref> The album ranked number 51 among the [[Apple Music 100 Best Albums]] in 2024.<ref>{{Cite web|url=https://100best.music.apple.com/us/album/51|title=Sign O' the Times by Prince|website=[[Apple Music]]|access-date=June 3, 2024}}</ref> The same year, [[Paste (magazine)|''Paste'']] magazine ranked ''Sign 'o' the Times'' number 4 on its list of the greatest albums of all-time.<ref>{{Cite web |last=Paste Staff |title=The 300 Greatest Albums of All Time |url=https://www.pastemagazine.com/music/greatest-albums/the-300-greatest-albums-of-all-time-2 |website=[[Paste (magazine)|Paste]]|date=June 3, 2024}}</ref> In 2017, ''Sign o' the Times'' was inducted into the [[Grammy Hall of Fame]].<ref name=":2" /> In 2020, Kirk Johnson asked Prince’s fans via social media which song should be re-recorded by his former band members, and "The Cross" was selected.<ref>{{Cite web|url=https://www.guitarworld.com/news/former-prince-band-members-join-together-to-record-a-new-version-of-his-classic-1987-song-the-cross|title=Former Prince band members join together to record new version of his classic 1987 song The Cross|author1=Richard Bienstock|date=June 8, 2020|website=guitarworld}}</ref>
+
+== Track listing ==
+=== Original album ===
+{{Track listing
+| headline      = Record one: Side one
+| all_writing   = [[Prince (musician)|Prince]], except where noted.
+| title1        = [[Sign o' the Times (song)|Sign o' the Times]]
+| length1       = 5:02
+| title2        = Play in the Sunshine
+| length2       = 5:05
+| title3        = Housequake
+| length3       = 4:38
+| title4        = [[The Ballad of Dorothy Parker]]
+| length4       = 4:04
+| total_length  = 18:49
+}}
+{{Track listing
+| headline      = Record one: Side two
+| title1        = It
+| length1       = 5:10
+| title2        = [[Starfish and Coffee (song)|Starfish and Coffee]]
+| writer2       = {{hlist|Prince|[[Susannah Melvoin]]}}
+| length2       = 2:51
+| title3        = Slow Love
+| writer3       = {{hlist|Prince|[[Carole Davis]]}}
+| length3       = 4:18
+| title4        = Hot Thing
+| length4       = 5:39
+| title5        = Forever in My Life
+| length5       = 3:38
+| total_length  = 21:36
+}}
+{{Track listing
+| headline      = Record two: Side three
+| title1        = [[U Got the Look]]
+| note1         = features uncredited vocals by [[Sheena Easton]]
+| length1       = 3:58
+| title2        = [[If I Was Your Girlfriend]]
+| length2       = 4:54
+| title3        = Strange Relationship
+| length3       = 4:04
+| title4        = [[I Could Never Take the Place of Your Man]]
+| length4       = 6:31
+| total_length  = 19:27
+}}
+{{Track listing
+| headline      = Record two: Side four
+| title1        = The Cross
+| length1       = 4:46
+| title2        = It's Gonna Be a Beautiful Night
+| writer2       = {{hlist|Prince|[[Doctor Fink]]|[[Eric Leeds]]}}
+| length2       = 8:59
+| title3        = [[Adore (Prince song)|Adore]]
+| length3       = 6:29
+| total_length  = 20:14
+80:06
+}}
+
+=== Remastered, deluxe and super deluxe editions ===
+The ''Remastered'' edition contains a remaster of the original album (discs one and two). The ''Deluxe'' edition contains the remaster and a third disc with all the single and maxi-single mixes as well as the B-sides. The ''Super Deluxe'' edition contains six additional discs: Three of them contain 45 previously unissued studio tracks, two discs contain the live audio concert recordings of the ''[[Sign o' the Times Tour]]'' at stadium Galgenwaard in Utrecht, The Netherlands, and the last disc is a DVD with the live video concert recordings of the New Year's Eve show at Paisley Park, that has been bootlegged prior to this release.
+
+The albums were also issued on vinyl in a 2 LP, 2 LP peach vinyl, 4 LP and 13 LP + DVD set and are available on all digital download and streaming services. The video content is exclusive to the physical DVD and does not appear on digital download or streaming versions of the Super Deluxe Edition set.<ref>{{Cite web|url=https://store.prince.com/product/5QLPPR056/sign-o-the-times-remastered-super-deluxe-edition-13lp-180g-1-dvd?cp=null|title = Sign O' the Times Remastered Super Deluxe Edition (13LP 180g + 1 DVD) &#124; Shop the Prince Official Store}}</ref> Released on September 25, 2020, ''[[Pitchfork (website)|Pitchfork]]'' rated the Super Deluxe version a 10 out of 10 and named it Best New Reissue.<ref>{{cite news |last1=Nelson |first1=Brad |title=Prince: Sign o' the Times (Super Deluxe) |url=https://pitchfork.com/reviews/albums/sign-o-the-times-super-deluxe/ |access-date=October 5, 2020 |date=October 3, 2020|work=[[Pitchfork (website)|Pitchfork]]}}</ref>
+
+All songs written by [[Prince (musician)|Prince]], except where noted.
+
+{{Track listing
+| headline      = CD 1 / LP 1: Remastered
+| title1        = Sign o' the Times
+| length1       = 4:57
+| title2        = Play in the Sunshine
+| length2       = 5:06
+| title3        = Housequake
+| length3       = 4:40
+| title4        = The Ballad of Dorothy Parker
+| length4       = 4:03
+| title5        = It
+| length5       = 5:10
+| title6        = Starfish and Coffee
+| writer6       = {{hlist|Prince|Melvoin}}
+| length6       = 2:50
+| title7        = Slow Love
+| writer7       = {{hlist|Prince|Davis}}
+| length7       = 4:22
+| title8        = Hot Thing
+| length8       = 5:39
+| title9        = Forever in My Life
+| length9       = 3:32
+| total_length  = 40:19
+}}
+{{Track listing
+| headline      = CD 2 / LP 2: Remastered
+| title1        = U Got the Look
+| length1       = 3:46
+| title2        = If I Was Your Girlfriend
+| length2       = 5:04
+| title3        = Strange Relationship
+| length3       = 4:01
+| title4        = I Could Never Take the Place of Your Man
+| length4       = 6:29
+| title5        = The Cross
+| length5       = 4:49
+| title6        = It's Gonna Be a Beautiful Night
+| writer6       = {{hlist|Prince|Matt Fink|Eric Leeds}}
+| length6       = 9:02
+| title7        = Adore
+| length7       = 6:35
+| total_length  = 39:46
+}}
+{{Track listing
+| headline      = CD 3 / LPs 3 & 4: Single Mixes & Edits Remastered
+| title1        = Sign o' the Times
+| note1         = Edit
+| length1       = 3:41
+| title2        = [[La, La, La, He, He, Hee]]
+| note2         = Edit
+| writer2       = {{hlist|Prince|Easton}}
+| length2       = 3:22
+| title3        = La, La, La, He, He, Hee
+| note3         = Highly Explosive
+| writer3       = {{hlist|Prince|Easton}}
+| length3       = 10:47
+| title4        = If I Was Your Girlfriend
+| note4         = Edit
+| length4       = 3:47
+| title5        = [[Shockadelica (song)|Shockadelica]]
+| length5       = 3:31
+| title6        = Shockadelica
+| note6         = 12" Long Version
+| length6       = 6:13
+| title7        = U Got the Look
+| note7         = Long Look
+| length7       = 6:41
+| title8        = Housequake
+| note8         = Edit
+| length8       = 3:22
+| title9        = Housequake
+| note9         = 7 Minutes MoQuake
+| length9       = 7:12
+| title10       = I Could Never Take the Place of Your Man
+| note10        = Fade
+| length10      = 3:39
+| title11       = Hot Thing
+| note11        = Edit
+| length11      = 3:41
+| title12       = Hot Thing
+| note12        = Extended Remix
+| length12      = 8:32
+| title13       = Hot Thing
+| note13        = Dub Version
+| length13      = 6:53
+| total_length  = 71:21
+}}
+{{Track listing
+| headline      = CD 4 / LPs 5 & 6: Vault Tracks I (all tracks previously unreleased)
+| title1        = I Could Never Take the Place of Your Man
+| note1         = 1979 version
+| length1       = 3:13
+| title2        = Teacher, Teacher
+| note2         = 1985 version
+| length2       = 3:08
+| title3        = All My Dreams
+| length3       = 7:24
+| title4        = Can I Play with U?
+| note4         = featuring [[Miles Davis]]
+| length4       = 6:40
+| title5        = Wonderful Day
+| note5         = Original Version
+| length5       = 3:48
+| title6        = Strange Relationship
+| note6         = Original Version
+| length6       = 6:42
+| title7        = Visions
+| writer7       = Coleman
+| length7       = 2:19
+| title8        = The Ballad of Dorothy Parker
+| note8         = with Horns
+| length8       = 4:56
+| title9        = Witness 4 the Prosecution
+| note9         = Version 1
+| length9       = 4:00
+| title10       = Power Fantastic
+| note10        = Live in Studio
+| writer10      = {{hlist|Prince|Melvoin|Coleman}}
+| length10      = 7:18
+| title11       = And That Says What?
+| length11      = 1:50
+| title12       = Love and Sex
+| length12      = 4:12
+| title13       = A Place in Heaven
+| note13        = Prince Vocal
+| length13      = 2:58
+| title14       = Colors
+| writer14      = Wendy Melvoin
+| length14      = 1:01
+| title15       = Crystal Ball{{efn|Full version officially released on ''[[Crystal Ball (box set)|Crystal Ball]]''.}}
+| note15        = 7" mix
+| length15      = 3:30
+| title16       = Big Tall Wall
+| note16        = Version 1
+| length16      = 5:59
+| title17       = Nevaeh ni Ecalp A
+| length17      = 2:33
+| title18       = In a Large Room with No Light
+| writer18      = {{hlist|Prince|Melvoin|Coleman}}
+| length18      = 3:28
+| total_length  = 74:59
+}}
+{{Track listing
+| headline      = CD 5 / LPs 7 & 8: Vault Tracks II (all tracks previously unreleased)
+| title1        = [[Time Waits for No One (Mavis Staples album)|Train]]
+| length1       = 4:22
+| title2        = It Ain't Over 'Til the Fat Lady Sings
+| length2       = 2:22
+| title3        = Eggplant
+| note3         = Original Prince Vocal
+| length3       = 5:19
+| title4        = Everybody Want What They Don't Got
+| length4       = 2:09
+| title5        = Blanche
+| length5       = 5:37
+| title6        = Soul Psychodelicide{{efn|"Soul Psychodelicide" was referenced in "[[Graffiti Bridge (album)|Joy in Repetition]]".}}
+| note6         = 1986 Master
+| length6       = 12:37
+| title7        = [[The Ball (Prince song)|The Ball]]{{efn|"The Ball" eventually got reworked into "[[Eye No]]".}}
+| length7       = 4:34
+| title8        = Adonis and Bathsheba
+| length8       = 5:28
+| title9        = Forever in My Life
+| note9         = Early Vocal Run-Through
+| length9       = 6:25
+| title10       = Crucial
+| note10        = Alternate Lyrics
+| length10      = 6:15
+| title11       = The Cocoa Boys
+| length11      = 6:06
+| title12       = When the Dawn of the Morning Comes
+| length12      = 6:17
+| title13       = Witness 4 the Prosecution
+| note13        = Version 2
+| length13      = 5:03
+| title14       = It Be's Like That Sometimes
+| length14      = 3:19
+| total_length  = 75:53
+}}
+{{Track listing
+| headline      = CD 6 / LPs 9 & 10: Vault Tracks III (all tracks previously unreleased)
+| title1        = Emotional Pump
+| length1       = 4:59
+| title2        = Rebirth of the Flesh
+| note2         = Original Outro
+| length2       = 5:28
+| title3        = Cosmic Day
+| length3       = 5:39
+| title4        = Walkin' in Glory
+| length4       = 5:14
+| title5        = Wally
+| length5       = 4:45
+| title6        = I Need a Man
+| length6       = 5:33
+| title7        = Promise to Be True
+| length7       = 3:38
+| title8        = Jealous Girl
+| note8         = Version 2
+| length8       = 4:52
+| title9        = There's Something I Like About Being Your Fool
+| length9       = 3:49
+| title10       = Big Tall Wall
+| note10        = Version 2
+| length10      = 5:46
+| title11       = A Place in Heaven
+| note11        = Lisa Vocal
+| length11      = 2:46
+| title12       = Wonderful Day
+| note12        = 12" Mix
+| length12      = 7:34
+| title13       = Strange Relationship
+| note13        = 1987 [[Shep Pettibone]] Club Mix
+| length13      = 7:08
+| total_length  = 67:11
+}}
+{{Track listing
+| headline      = CD 7 / LPs 11-12A: Live in Utrecht 6/20/87 (all tracks previously unreleased)
+| title1        = Sign o' the Times
+| length1       = 5:36
+| title2        = Play in the Sunshine
+| length2       = 4:36
+| title3        = [[Little Red Corvette]]
+| length3       = 1:36
+| title4        = Housequake
+| length4       = 4:52
+| title5        = [[Girls & Boys (Prince song)|Girls & Boys]]
+| length5       = 4:17
+| title6        = Slow Love
+| writer6       = {{hlist|Prince|Davis}}
+| length6       = 5:06
+| title7        = [[Take the "A" Train|Take the 'A' Train]] / Pacemaker / I Could Never Take the Place of Your Man
+| writer7       = {{hlist|Prince|[[Billy Strayhorn]]|Leeds}}
+| length7       = 10:17
+| title8        = Hot Thing
+| length8       = 6:15
+| title9        = [[Madhouse (band)|Four]]
+| note9         = with Sheila E. Drum Solo
+| writer9       = {{hlist|Prince|[[Sheila E.]]}}
+| length9       = 6:12
+| title10       = If I Was Your Girlfriend
+| length10      = 5:17
+| total_length  = 54:04
+}}
+{{Track listing
+| headline      = CD 8 / LPs 12B-13: Live in Utrecht 6/20/87 (all tracks previously unreleased)
+| title1        = [[Let's Go Crazy]]
+| length1       = 6:10
+| title2        = [[When Doves Cry]]
+| length2       = 2:46
+| title3        = [[Purple Rain (song)|Purple Rain]]
+| length3       = 5:40
+| title4        = [[1999 (Prince song)|1999]]
+| length4       = 5:54
+| title5        = Forever in My Life
+| length5       = 13:12
+| title6        = [[Kiss (Prince song)|Kiss]]
+| length6       = 3:33
+| title7        = The Cross
+| length7       = 7:44
+| title8        = It's Gonna Be a Beautiful Night
+| writer8       = {{hlist|Prince|Fink|Leeds}}
+| length8       = 13:55
+| total_length  = 58:54
+}}
+{{Track listing
+| headline      = DVD: Live at Paisley Park 12/31/87 (live tracks previously unreleased)
+| title1        = Intro
+| length1       = 0:29
+| title2        = Sign o' the Times
+| length2       = 5:11
+| title3        = Play in the Sunshine
+| length3       = 4:22
+| title4        = Little Red Corvette
+| length4       = 1:38
+| title5        = [[Erotic City]]
+| length5       = 3:06
+| title6        = Housequake
+| length6       = 4:08
+| title7        = Slow Love
+| length7       = 0:59
+| title8        = [[Do Me, Baby]]
+| length8       = 2:00
+| title9        = Adore
+| length9       = 6:46
+| title10       = I Could Never Take the Place of Your Man
+| length10      = 7:41
+| title11       = What's Your Name Jam
+| length11      = 5:31
+| title12       = [[Let's Pretend We're Married]]
+| length12      = 0:52
+| title13       = [[Delirious (Prince song)|Delirious]]
+| length13      = 1:10
+| title14       = Jack U Off
+| length14      = 1:43
+| title15       = Drum Solo
+| note15        = featuring Sheila E.
+| length15      = 4:02
+| title16       = [[Madhouse (band)|Twelve]]
+| length16      = 1:46
+| title17       = Hot Thing
+| length17      = 4:55
+| title18       = If I Was Your Girlfriend
+| length18      = 6:56
+| title19       = Let's Go Crazy
+| length19      = 6:51
+| title20       = When Doves Cry
+| length20      = 2:44
+| title21       = Purple Rain
+| length21      = 14:10
+| title22       = 1999
+| length22      = 3:14
+| title23       = U Got the Look
+| length23      = 8:05
+| title24       = It's Gonna Be a Beautiful Night Medley{{efn|Medley includes "[[Chain of Fools]]", "Hon E Man", "Pacemaker", "[[Take the "A" Train|Take the 'A' Train]]", "Six", "Movie Star", "Housequake", "Cold Sweat", "Mother Popcorn", "Lines", and "[[Land of a Thousand Dances]]".}}
+| note24        = featuring Miles Davis
+| length24      = 34:08
+| total_length  = 132:12
+}}
+
+== Personnel ==
+Credits adapted from Duane Tudahl, Benoît Clerc and Guitarcloud.<ref name=":3">{{cite book|last=Tudahl |first=Duane |date=2021 |title=Prince and the Parade and Sign O' The Times Era Studio Sessions 1985 and 1986 |publisher=Rowman & Littlefield |isbn=9781538144527}}</ref><ref name="Clerc">{{cite book|last=Clerc |first=Benoît |date=October 2022 |title=Prince: All the Songs |publisher=Octopus |isbn=9781784728816}}</ref><ref>{{cite web|title=Sign O The Times & The Black Album|url=http://guitarcloud.org/era/sign-o-times|access-date=2023-04-09|website=guitarcloud.org}}</ref><ref>{{cite web|title=Yamaha DX7|url=http://guitarcloud.org/equipment/yamaha-dx7|access-date=2023-05-12|website=guitarcloud.org}}</ref><ref>{{cite web|title=Linn LinnDrum|url=http://www.guitarcloud.org/equipment/linn-linndrum|access-date=2023-05-12|website=guitarcloud.org}}</ref>
+* [[Prince (musician)|Prince]] – lead and backing vocals, guitars, bass guitar, [[piano]], [[Synthesizer|synthesizers]]{{efn|The synthesizers used include the [[Ensoniq Mirage]], [[Oberheim OB-Xa]], [[Oberheim OB-8]], [[Sequential (company)|Sequential]] [[Prophet VS]], and the [[Yamaha DX7]].<ref name=":3" />}}, [[Fairlight CMI]] {{Small|(tracks 1;1–6, 1;8, 2;1–5, 2;7)}}, [[Hammond organ]] {{Small|(tracks 1;4, 2;7)}}, [[Linn LM-1]], [[LinnDrum]], [[Drum kit|acoustic drums]] {{Small|(tracks 1;2, 1;6–7, 2;5)}}, [[Percussion instrument|percussion]]{{efn|The percussion used includes [[finger cymbals]], [[Cowbell (instrument)|cowbell]], and a [[tambourine]].}}, Publison IM90 Infernal Machine {{Small|(tracks 1;3, 2;1–3)}}
+* [[Wendy Melvoin]] – backing vocals {{Small|(tracks 1;7, 2;6)}}, electric guitar {{Small|(tracks 1;7, 2;3, 2;6)}}, tambourine and Fairlight CMI {{Small|(track 2;3)}}
+* [[Lisa Coleman (musician)|Lisa Coleman]] – backing vocals {{Small|(track 1;7)}}, Fairlight CMI {{Small|(track 2;3)}}, keyboards and backing vocals {{Small|(track 2;6)}}
+* [[Sheila E.]] – Linn LM-1, cymbals, [[hi-hat]], cowbells and [[timbales]] {{Small|(track 2;1)}}, congas {{Small|(track 2;3)}}, percussion and [[Rapping|transmississippirap]] {{Small|(track 2;6)}}
+* [[Dr. Fink]] – keyboards {{Small|(track 2;6)}}
+* [[Miko Weaver]] – electric guitar {{Small|(track 2;6)}}
+* [[Brown Mark]] – bass guitar {{Small|(track 2;6)}}
+* [[Bobby Z.]] – [[Simmons SDSV]] {{Small|(track 2;6)}}
+* [[Eric Leeds]] – saxophone {{Small|(tracks 1;3, 1;7–8, 2;6–7)}}
+* [[Atlanta Bliss]] – trumpet {{Small|(tracks 1;3, 1;7, 2;6–7)}}
+* [[Susannah Melvoin]] – backing vocals {{Small|(tracks 1;2, 1;4, 1;6)}}, vocals {{Small|(track 2;6)}}
+* [[Jill Jones]] – vocals {{Small|(track 2;6)}}
+* Gilbert Davison, Coke Johnson, Todd Herreman, [[Susan Rogers]], Mike Slotts, Brad Marsh – party voices {{Small|(track 1;3)}}
+* [[Novi Novog]] – violin {{Small|(track 2;7)}}
+* [[Sheena Easton]] – lead vocals {{Small|(track 2;1)}}
+* [[Clare Fischer]] – string arrangements
+
+The live audience on "It's Gonna Be a Beautiful Night" is credited for backing vocals under the name of "6,000 wonderful Parisians" and was recorded during a [[Parade Tour]] show in Paris on 25 August 1986, while vocals, Sheila E.'s rap and instrumental overdubs were recorded at Sunset Sound on 22 November.<ref name=":3" />
+
+== Charts ==
+{{col-begin}}
+{{col-2}}
+
+=== Weekly charts ===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+1987 weekly chart performance for ''Sign o' the Times''
+! scope="col"| Chart (1987)
+! scope="col"| Peak<br />position
+|-
+!scope="row"|[[Kent Music Report|Australian Kent Music Report]]<ref name="auchart">{{Cite book|title=Australian Chart Book 1970–1992|last=Kent|first=David|author-link=David Kent (historian)|publisher=Australian Chart Book|location=[[St Ives, New South Wales|St Ives, NSW]]|year=1993|isbn=0-646-11917-6|title-link=Kent Music Report}}</ref>
+|20
+|-
+!scope="row"|[[Austrian Albums Chart]]<ref>{{cite web|title=austriancharts.at Prince - ''Sign o' the Times''|work=Hung Medien|language=de|format=ASP|url=http://austriancharts.at/showitem.asp?interpret=Prince&titel=Sign+'O'+The+Times&cat=a|access-date=April 2, 2014}}</ref>
+|2
+|-
+!scope="row"|[[RPM (magazine)|Canadian RPM Albums Chart]]<ref>{{cite magazine|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.0810&type=1&interval=24&PHPSESSID=a52tdjk2pthulskt5cj0394740|title=Top Albums/CDs – Volume 46, No. 7|magazine=RPM|format=PHP|date=May 23, 1987|access-date=May 3, 2013|url-status=dead|archive-url=https://web.archive.org/web/20140429080438/http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?brws_s=1&file_num=nlc008388.0810&type=1&interval=24&PHPSESSID=a52tdjk2pthulskt5cj0394740|archive-date=April 29, 2014}}</ref>
+|25
+|-
+!scope="row"|[[Dutch Albums Chart]]<ref>{{cite web|title=dutchcharts.nl Prince – ''Sign o' the Times''|publisher=[[MegaCharts]]|url=http://dutchcharts.nl/showitem.asp?interpret=Prince&titel=Sign+'O'+The+Times&cat=a|work=Hung Medien|format=ASP|access-date=April 2, 2014}}</ref>
+|2
+|-
+! scope="row" | Finnish Albums ([[Official Finnish Charts|Suomen virallinen lista]])<ref>{{cite book|url=https://musiikkiarkisto.fi/oa/_tiedostot/julkaisut/sisaltaa-hitin.pdf#page=204|first=Timo|last=Pennanen|year=2021|title=Sisältää hitin – 2. laitos Levyt ja esittäjät Suomen musiikkilistoilla 1.1.1960–30.6.2021|section=Prince|page=204|publisher=Kustannusosakeyhtiö Otava|location=Helsinki|language=fi}}</ref>
+| 7
+|-
+!scope="row"|[[SNEP|French SNEP Albums Chart]]<ref>{{cite web|url=http://infodisc.fr/Album_P.php |title=InfoDisc : Tous les Albums classés par Artiste > Choisir Un Artiste Dans la Liste |language=fr |publisher=infodisc.fr |access-date=April 2, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140330131347/http://infodisc.fr/Album_P.php |archive-date=March 30, 2014}}</ref>
+|4
+|-
+!scope="row"|[[Oricon|Japanese Oricon LPs Chart]]<ref name="Jachart">{{cite book|title=Oricon Album Chart Book: Complete Edition 1970–2005|publisher=Oricon Entertainment|location=[[Roppongi]], [[Tokyo]]|year=2006|isbn=4-87131-077-9}}</ref>
+|13
+|-
+!scope="row"|[[RIANZ|New Zealand Albums Chart]]<ref>{{cite web|title=charts.nz Prince - ''Sign o' the Times''|work=Hung Medien|publisher=[[Recording Industry Association of New Zealand]]|url=https://charts.nz/showitem.asp?interpret=Prince&titel=Sign+'O'+The+Times&cat=a|format=ASP|access-date=April 2, 2014}}</ref>
+|6
+|-
+!scope="row"|[[Norwegian Albums Chart]]<ref>{{cite web|title=norwegiancharts.com Prince – ''Sign o' the Times''|url=http://norwegiancharts.com/showitem.asp?interpret=Prince&titel=Sign+'O'+The+Times&cat=a|format=ASP|access-date=April 2, 2014}}</ref>
+|3
+|-
+!scope="row"|[[Swedish Albums Chart]]<ref>{{cite web|title=swedishcharts.com Prince – ''Sign o' the Times''|format=ASP|url=http://swedishcharts.com/showitem.asp?interpret=Prince&titel=Sign+'O'+The+Times&cat=a|language=sv|access-date=April 2, 2014}}</ref>
+|6
+|-
+!scope="row"|[[Swiss Albums Chart]]<ref>{{cite web|title= Prince – ''Sign o' the Times'' – hitparade.ch|url=http://hitparade.ch/showitem.asp?interpret=Prince&titel=Sign+'O'+The+Times&cat=a|language=de|work=Hung Medien|format=ASP|publisher=Swiss Music Charts|access-date=April 2, 2014}}</ref>
+|1
+|-
+!scope="row"|[[UK Albums Chart]]<ref>{{cite web| url=http://www.officialcharts.com/artist/_/Prince/| title= Prince > Artists > Official Charts| publisher=[[UK Albums Chart]]|access-date=April 2, 2014}}</ref>
+|4
+|-
+!scope="row"|[[Billboard 200|US ''Billboard'' 200]]<ref name="USchart">{{cite web|title=Allmusic: ''Sign o' the Times'': Charts & Awards: Billboard Albums|website=AllMusic|url={{AllMusic|class=album|id=r87111/charts-awards|pure_url=yes}}|access-date=April 2, 2014}}</ref>
+|6
+|-
+!scope="row"|[[Top R&B/Hip-Hop Albums|US ''Billboard'' R&B Albums]]<ref name="USchart"/>
+|4
+|-
+!scope="row"|[[Media Control|West German Media Control Albums Chart]]<ref>{{cite web
+| url=http://www.officialcharts.de/album.asp?artist=Prince&title=Sign+%27O%27+The+Times&cat=a&country=de| archive-url=https://archive.today/20140707095203/http://www.officialcharts.de/album.asp?artist=Prince&title=Sign+'O'+The+Times&cat=a&country=de| url-status=dead| archive-date=July 7, 2014| title=Album Search: Prince – ''Sign o' the Times''| language=de| publisher=Media Control| access-date=April 2, 2014}}</ref>
+|11
+|}
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+2016 weekly chart performance for ''Sign o' the Times''
+!Chart (2016)
+!Peak <br />position
+|-
+!scope="row"|[[Federazione Industria Musicale Italiana|Italian Albums Chart]]<ref>{{cite web|url=http://www.fimi.it/classifiche#/category:album/id:2248|title=Album – Classifica settimanale WK 19 (dal 2016-05-06 al 2016-05-12)|publisher=[[Federazione Industria Musicale Italiana]]|language=it|access-date=14 May 2016}}</ref>
+|align="center"|71
+|-
+!scope="row"|[[Billboard 200|US ''Billboard'' 200]]
+| style="text-align:center;"|20
+|-
+{{album chart|BillboardSoundtrack|2|artist=Prince|rowheader=true|access-date=July 3, 2022}}
+|}
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|+2020 weekly chart performance for ''Sign o' the Times''
+! scope="col"| Chart (2020)
+! scope="col"| Peak<br />position
+|-
+{{album chart|Flanders|2|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 2, 2020}}
+|-
+{{album chart|Wallonia|10|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 2, 2020}}
+|-
+! scope="row"| Croatian International Albums ([[Top of the Shops|HDU]])<ref>{{Cite web |date=2020-10-17 |title=Lista prodaje (strano) 41. tjedan 2020. (05.10.2020. – 11.10.2020.) |url=https://www.top-lista.hr/www/lista-prodaje-strano-41-tjedan-2020/ |access-date=2025-07-06 |website=[[Top lista]] |language=hr}}</ref>
+| 1
+|-
+{{album chart|Denmark|35|M|url=http://hitlisten.nu/default.asp?w=39&y=2020&list=a40|title=Hitlisten.NU – Album Top-40 Uge 39, 2020|publisher=[[Hitlisten]]|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 7, 2020}}
+|-
+{{album chart|Netherlands|2|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 2, 2020}}
+|-
+{{album chart|Finland|48|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 4, 2020}}
+|-
+{{album chart|Germany|3|id=533|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 2, 2020}}
+|-
+{{album chart|Hungary|4|year=2020|week=40|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 8, 2020}}
+|-
+{{album chart|Ireland3|9|date=20201002|rowheader=true|access-date=October 2, 2020}}
+|-
+! scope="row"| Norwegian Albums ([[VG-lista]])<ref>{{cite web|url=https://topplista.no/charts/albums/2020-w40/|title=VG-lista – Topp 40 Album uke 40, 2020|publisher=[[VG-lista]]|access-date=October 2, 2020}}</ref>
+| 22
+|-
+{{album chart|Portugal|18|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 29, 2020}}
+|-
+! scope="row"| Spanish Albums ([[Productores de Música de España|PROMUSICAE]])<ref>{{cite web|url=http://www.promusicae.es/listas/semana/4454-%C3%81lbumes-semana-40-2020|title=Top 100 Albumes – Semana 40: del 25.9.2020 al 1.10.2020|publisher=[[Productores de Música de España]]|language=es|access-date=October 7, 2020}}</ref>
+| 16
+|-
+{{album chart|Switzerland|3|artist=Prince|album=Sign 'O' The Times|rowheader=true|access-date=October 7, 2020}}
+|-
+{{album chart|UK2|7|date=20201002|rowheader=true|access-date=October 2, 2020}}
+|-
+{{album chart|Billboard200|20|artist=Prince|rowheader=true|access-date=October 7, 2020}}
+|}
+{{col-2}}
+
+=== Year-end charts ===
+{| class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+1987 year-end chart performance for ''Sign o' the Times''
+! scope="col"| Chart (1987)
+! scope="col"| Position
+|-
+!scope="row"|Australian Albums Chart<ref name="auchart"/>
+|98
+|-
+!scope="row"|Dutch Albums Chart<ref>{{cite web|url=http://dutchcharts.nl/jaaroverzichten.asp?year=1987&cat=a |title=Dutch charts jaaroverzichten 1987|language=nl |publisher=Dutchcharts.nl|access-date=April 2, 2014}}</ref>
+|8
+|-
+!scope="row"|French Albums Chart<ref>{{cite web|url=http://www.infodisc.fr/B-CD_1987.php |title=Les Albums (CD) de 1987 par InfoDisc |language=fr |format=PHP |publisher=infodisc.fr |access-date=April 2, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160201073400/http://www.infodisc.fr/B-CD_1987.php |archive-date=February 1, 2016}}</ref>
+|24
+|-
+! scope="row" | New Zealand Albums (RMNZ)<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-albums/1987-12-31|title=Top Selling Albums of 1987 — The Official New Zealand Music Chart|publisher=[[Recorded Music New Zealand]]|access-date=February 5, 2022}}</ref>
+| 32
+|-
+!scope="row"|Swiss Albums Chart<ref>{{cite web |url=http://hitparade.ch/year.asp?key=1987|title=Hitparade.ch – Schweizer Jahreshitparade 1987|publisher=Hung Medien|access-date=May 7, 2011}}</ref> 
+|6
+|-
+!scope="row"|UK Albums Chart<ref name="UKYE">{{cite web
+ |url=http://chartheaven.9.forumer.com/a/complete-uk-yearend-album-charts_post21.html
+ |title=Complete UK Year-End Album Charts
+ |access-date=April 2, 2014
+ |archive-date=January 11, 2012
+ |url-status=dead
+ |archive-url=https://web.archive.org/web/20120111074744/http://chartheaven.9.forumer.com/a/complete-uk-yearend-album-charts_post21.html}}</ref>
+|79
+|-
+!scope="row"|US ''Billboard'' Pop Albums<ref>{{cite web|url=http://www.billboard.biz/bbbiz/charts/archivesearch/article_display/855248|archive-url  =https://archive.today/20120802034725/http://www.billboard.biz/bbbiz/charts/archivesearch/article_display/855248
+|title=Top Pop Albums of 1987|publisher=billboard.biz|access-date=April 24, 2014|archive-date=August 2, 2012|url-status=dead
+|date=December 31, 1987}}</ref>
+|47
+|}
+{{col-end}}
+
+== Certifications and sales ==
+{{certification Table Top|caption=Certifications and sales for ''Sign o' the Times''}}
+{{certification Table Entry|title=Sign o' the Times|artist=Prince|type=album|relyear=1987|certyear=1999|region=Australia|award=Gold|access-date=May 2, 2013}}
+{{certification Table Entry|region=Brazil|nocert=true|salesamount=25,000|salesref=<ref>{{cite news|url=https://books.google.com/books?id=RwAgAAAAIBAJ&pg=PA32&article_id=3950,2358019|title=O Prince nu|newspaper=[[Jornal do Brasil]]|page=32|date=July 25, 1983|language=pt|access-date=February 24, 2024}}</ref>}} 
+{{certification Table Entry|title=Sign O' The Time|artist=Prince|type=album|relyear=1987|certyear=2001|region=France|award=Gold|number=2|source=infpdisc}} 
+{{Certification Table Entry|region=Germany|type=album|title=Sign o the Times|artist=Prince|award=Gold|relyear=1987}}
+{{Certification Table Entry|type=album|title=Sign of the times|artist=Prince|relyear=1987|region=Italy|nocert=yes|salesamount=70,000|salesref=<ref>{{cite news|title=Stadi affollati e giradischi vuoti?|newspaper=[[La Stampa]]|page=7|date=August 1, 1987|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,7/articleid,0979_04_1987_0567_0007_13471927/|language=it|access-date= December 14, 2020}}</ref>}}
+{{certification Table Entry|title=Sign o' the Times|artist=Prince|type=album|relyear=1987|region=Netherlands|award=Platinum|access-date=May 2, 2011}}
+{{certification Table Entry|title=Sign o' the Times|artist=Prince|type=album|relyear=1987|id=1987-10-16|source=newchart|access-date=2024-11-20|region=New Zealand|award=Gold}}
+{{Certification Table Entry|region=Switzerland|type=album|artist=Prince|title=Sign o the Times|award=Gold|certref=<ref>{{cite web|url=https://worldradiohistory.com/UK/Music-and-Media/80s/1987/M&M-1987-12-26.pdf|title=Gold & Platinum Awards 1987|work=[[Music and Media]]|publisher=American Radio History Archive|date=26 December 1987|page=46|access-date=1 January 2020}}</ref>|relyear=1987}}
+{{certification Table Entry|title=Sign o' the Times|artist=Prince|type=album|relyear=1987|region=United Kingdom|award=Platinum|access-date=April 2, 2014|id=5869-1115-2}}
+{{certification Table Entry|title=The Times|artist=Prince|type=album|relyear=1987|region=United States|award=Platinum|access-date=May 2, 2013}} 
+{{Certification Table Bottom}}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+=== Bibliography ===
+* {{cite book|last=Draper|first=Jason|year=2008|title=Prince: Life & Times|publisher=Jawbone Press|isbn=978-1906002183}}
+
+== Further reading ==
+*{{cite book|title=A Brief History of Album Covers|first=Jason|last=Draper|publisher=Flame Tree Publishing|location=London|year=2008|pages=270–271|isbn=9781847862112|oclc=227198538 |ref=none}}
+*[http://www.nbcwashington.com/around_town/the_scene/Classic-Albums-Revisited--Prince-Sign-o-The-Times.html Classic Albums Revisited: Prince, ''Sign o' The Times''] at [[NBC Washington]]
+* [https://web.archive.org/web/20160201151720/http://www.thesundaytimes.co.uk/sto/culture/music/article130103.ece Song of the year: 1987: Prince Sign 'o' the Times] at ''[[The Times]]''
+
+== External links ==
+* ''[http://www.discogs.com/Prince-Sign-O-The-Times/release/7018304 Sign O The Times]'' at [[Discogs]]
+* ''[http://www.princevault.com/index.php/Album:_Sign_O'_The_Times Sign O The Times]'' at Prince Vault
+
+{{Prince albums}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sign O The Times}}
+[[Category:1987 albums]]
+[[Category:Prince (musician) albums]]
+[[Category:Albums produced by Prince (musician)]]
+[[Category:Paisley Park Records albums]]
+[[Category:Warner Records albums]]
+[[Category:Albums recorded at Sunset Sound Recorders]]
+[[Category:Avant-pop albums]]
+[[Category:Albums recorded at United Western Recorders]]
+[[Category:Albums arranged by Clare Fischer]]
+[[Category:Albums recorded in a home studio]]

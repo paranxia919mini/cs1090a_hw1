@@ -1,0 +1,352 @@
+{{short description|2013 Japanese film by Hayao Miyazaki}}
+{{Use British English|date=July 2025}}
+{{Use dmy dates|date=April 2025}}
+{{Infobox film
+| image          = Kaze Tachinu poster.jpg
+| alt            = An image of Nahoko Satomi working on a painting on a hill with clouds in a blue sky. The film's titles and credits appears in the bottom in Japanese text.
+| caption        = Theatrical release poster
+| native_name    = {{Infobox Japanese
+| japanese       = 風立ちぬ
+| l              = ''The Wind Has Risen''
+| revhep         = ''Kaze Tachinu''
+}}
+| director       = [[Hayao Miyazaki]]
+| screenplay     = Hayao Miyazaki
+| based_on       = {{based on|風立ちぬ (''The Wind Has Risen'')|Hayao Miyazaki}}
+| producer       = [[Toshio Suzuki]]
+| starring       = {{Plainlist|
+* [[Hideaki Anno]]
+* [[Miori Takimoto]]
+* [[Hidetoshi Nishijima (actor)|Hidetoshi Nishijima]]
+* [[Masahiko Nishimura]]
+* [[Morio Kazama]]
+* [[Keiko Takeshita]]
+* [[Mirai Shida]]
+* [[Jun Kunimura]]
+* [[Shinobu Otake]]
+* [[Nomura Mansai]]
+}}
+| cinematography = Atsushi Okui
+| editing        = [[Takeshi Seyama]]
+| music          = [[Joe Hisaishi]]
+| studio         = [[Studio Ghibli]]
+| distributor    = [[Toho]]
+| released       = {{Film date|df=yes|2013|7|20|Japan}}<!--Do Not add any other release dates here-->
+| runtime        = 126 minutes<!--Theatrical runtime: 126:35--><ref>{{cite web|title=''THE WIND RISES'' (12A)|url=https://www.bbfc.co.uk/releases/wind-rises-film-0|work=[[StudioCanal]]|publisher=[[British Board of Film Classification]]|date=31 March 2014|access-date=1 April 2014|url-status=dead|archive-url=https://web.archive.org/web/20140407082552/http://www.bbfc.co.uk/releases/wind-rises-film-0|archive-date=7 April 2014}}</ref>
+| country        = Japan
+| language       = Japanese
+| budget         = {{USD|30 million|link=yes}}<ref>{{cite book|last=Robles|first=Manuel|title=Antología Studio Ghibli: Volumen 2|year=2013|publisher=Dolmen Editorial|location=Barcelona|isbn=978-8415296935|page=80|url=https://dolmeneditorial.com/antologia-del-studio-ghibli-volumen-2-1999-2011/|access-date=21 July 2020|archive-date=15 October 2018|archive-url=https://web.archive.org/web/20181015114434/https://dolmeneditorial.com/antologia-del-studio-ghibli-volumen-2-1999-2011/|url-status=live}}</ref>
+| gross          = {{USD|136.5 million}}<!--$119,513,192 (Japan) + $4,977,470 (North America) + $329,099 (Australia) + $92,943 (Belgium) + $83,056 (Brazil) + $5,446,333 (France) + $1,886,354 (Hong Kong) + $182,492 (Singapore) + $22,478 (Ukraine) !! Total revenue has not been updated at Boxofficemojo--><ref>{{cite web|url=https://www.boxofficemojo.com/release/rl2575009281/|title=The Wind Rises (2014) – Box Office Mojo|url-status=live|archive-url=https://web.archive.org/web/20140404131451/http://boxofficemojo.com/movies/?id=windrises.htm|archive-date=4 April 2014}}</ref><ref>{{cite web|title=International Total Gross|url=https://www.boxofficemojo.com/releasegroup/gr3391115781/|work=Box Office Mojo|access-date=3 March 2014|url-status=live|archive-url=https://web.archive.org/web/20140228154848/http://boxofficemojo.com/movies/?page=intl&id=windrises.htm|archive-date= 28 February 2014}}</ref>
+}}
+
+{{Nihongo|'''''The Wind Rises'''''|風立ちぬ|Kaze Tachinu|{{lit|The Wind Has Risen}}|lead=yes}} is a 2013 Japanese [[Anime|animated]] [[historical drama film]] written and directed by [[Hayao Miyazaki]] based on his 2009 manga of the same name. Produced by [[Studio Ghibli]] and distributed by [[Toho]], the film stars the voices of [[Hideaki Anno]], [[Miori Takimoto]], [[Hidetoshi Nishijima (actor)|Hidetoshi Nishijima]], [[Masahiko Nishimura]], [[Morio Kazama]], [[Keiko Takeshita]], [[Mirai Shida]], [[Jun Kunimura]], [[Shinobu Otake]], and [[Nomura Mansai]].
+
+The film portrays a fictionalised account of the life of Japanese [[aeronautical engineer]] [[Jiro Horikoshi]], in particular his engineering career from his time at the [[University of Tokyo]] in 1923 to the first test flight of the [[Mitsubishi Ka-14]] on 4 February 1935.<ref>{{cite magazine |last1=Green |first1=William |last2=Swanborough |first2=Gordon |title=The Zero Precursor...Mitsubishi's A5M| magazine=[[Air Enthusiast]] |issue=19 |date=August–November 1982 |pages=26–43}}</ref> Juxtaposed with the historical events is a fictional romance of Horikoshi's, inspired by the similarly named semi-autobiographical novel ''[[The Wind Has Risen]]'' by [[Tatsuo Hori]]. The film was originally intended to be Miyazaki's final feature film,<ref>{{Cite web |date=2013-09-07 |script-title=ja:宮崎駿監督「この世は生きるに値する」 引退会見の全文 |url=https://www.nikkei.com/article/DGXNZO59386140W3A900C1000000/ |access-date=2023-10-11 |publisher=[[The Nikkei]] |language=ja |archive-date=February 5, 2016 |archive-url=https://web.archive.org/web/20160205030127/http://www.nikkei.com/article/DGXNZO59386140W3A900C1000000/ |url-status=live }}</ref><ref>{{cite magazine|last=Highfill|first=Samantha|date=September 6, 2013|url=https://ew.com/article/2013/09/06/hayao-miyazaki-retirement/|title=Hayao Miyazaki on his retirement: 'This time I am quite serious'|magazine=[[Entertainment Weekly]]|access-date=October 27, 2019|archive-date=October 21, 2013|archive-url=https://web.archive.org/web/20131021053757/http://insidemovies.ew.com/2013/09/06/hayao-miyazaki-retirement/|url-status=dead}}</ref> before Miyazaki reversed his decision and eventually directed ''[[The Boy and the Heron]]''.<ref>{{Cite web |date=2021-11-14 |script-title=ja:宮崎駿監督、新作タイトルは「君たちはどう生きるか」：朝日新聞デジタル |url=https://www.asahi.com/articles/ASKBX5T4ZKBXUCLV008.html |archive-url=https://web.archive.org/web/20211114113038/https://www.asahi.com/articles/ASKBX5T4ZKBXUCLV008.html |url-status=dead |archive-date= November 14, 2021 |access-date=2023-09-13 |website=Asahi Shimbun}}</ref><ref>{{Cite news |last=Piedra |first=Josh |date=October 28, 2017 |title=Hayao Miyazaki's Final Film Title is How Do You Live? |language=en-US |work=The Outerhaven |url=http://www.theouterhaven.net/2017/10/hayao-miyazaki-how-do-you-live/ |url-status=live |access-date=March 3, 2018 |archive-url=https://web.archive.org/web/20180221054442/http://www.theouterhaven.net/2017/10/hayao-miyazaki-how-do-you-live/ |archive-date=February 21, 2018}}</ref>
+
+Released on 20 July 2013 in Japan, ''The Wind Rises'' was the highest-grossing Japanese film of 2013. Though it caused some political controversy and criticism in Asia, it was met with critical acclaim. The film was nominated for several awards, including the [[Academy Award for Best Animated Feature]], the [[Golden Globe Award for Best Foreign Language Film]], and the [[Japan Academy Prize for Animation of the Year]], winning the latter.
+
+== Plot ==
+[[File:Mitsubishi Heavy Industries Oe Factory Tokei-dai 20150517.JPG|thumb|Mitsubishi aircraft manufacturing factory, [[Nagoya]]]]
+[[File:Manpei hotel02s1440.jpg|thumb|Mampei Hotel, Karuizawa]]
+<!-- Per WP:FilmPlot, plot summaries for feature films should be between 400 and 700 words. -->
+In 1918, a young [[Jiro Horikoshi]] longs to become a pilot, but his nearsightedness prevents it. Inspired by a magazine, he begins having recurring dreams of flying with his idol, Italian aircraft designer [[Giovanni Battista Caproni]], aboard Caproni's aircraft. Caproni tells him that he has never flown a plane in his life, and that building planes is better than flying them. Five years later, following the failure of the [[Caproni Ca.60]], Jiro is an aeronautical engineering student at [[Tokyo Imperial University]]. While travelling home from a visit with family, he meets a young girl, Nahoko Satomi, travelling with her maid Kinu. The [[Great Kantō earthquake]] suddenly hits, and Kinu's leg is broken. Jiro helps Nahoko carry her to Nahoko's family home, leaving without exchanging names.
+
+In 1925, Jiro graduates with his friend [[Kiro Honjo]], and both are employed at aeroplane manufacturer [[Mitsubishi Heavy Industries|Mitsubishi]] amidst the [[Great Depression]]. They are assigned to perfect a fighter plane, the [[Mitsubishi 1MF9]], for the [[Imperial Japanese Army|Imperial Army]]. During a test, it breaks apart in midair while attempting to pass 200 knots and is rejected. Pivoting their plans, Mitsubishi sends Jiro and Honjo to the [[Weimar Republic]] in 1929 to obtain a production licence for a [[Junkers G.38]], intending to build a bomber. Although [[Hugo Junkers]] welcomes them, the two men are blocked from obtaining complete plans by the ''[[Sicherheitspolizei (Weimar Republic)|Sicherheitspolizei]]''. With them and their coworkers discouraged by how far back Japan's aeronautics technology is from the rest of the world, Jiro returns to Japan, while Honjo stays and eventually develops the [[Mitsubishi G4M]].
+
+In early 1932, Jiro is promoted to chief designer for a fighter plane competition sponsored by the [[Imperial Japanese Navy|Imperial Navy]], but his design, the [[Mitsubishi 1MF10]], fails testing in 1933 and is rejected. Disappointed, he takes a vacation at a summer resort in [[Karuizawa]]. There he reunites with an adult Nahoko, who has been searching for him since they first met. The two quickly develop a romance, assisted by a German tourist he calls Castorp. Critical of [[Nazi Germany]], Castorp privately tells Jiro that [[Adolf Hitler]] has apprehended Junkers for resisting [[Nazism]], and that Germany must be stopped from declaring another world war, this time allied with Japan. He then flees arrest from the [[Special Higher Police]].
+
+Later, Nahoko is diagnosed with [[tuberculosis]], so Jiro asks Nahoko's father for his blessing to marry her, and the two are engaged. However, Nahoko wishes to wait until she recovers to marry, and moves back in with her family. Wanted in connection with Castorp, Jiro hides at his supervisor Kurokawa's home while he works on a new fighter project for the Imperial Navy. Jiro briefly leaves when Nahoko suffers from a [[pulmonary haemorrhage]]. After Jiro briefly tends to her, Nahoko decides to check into a mountain [[sanatorium]] to recover, but cannot bear being apart from Jiro and returns to be with him. Kurokawa and his wife marry the two and allow the couple to stay in their home with Nahoko's father's permission. Jiro's sister Kayo, a doctor, warns Jiro that his marriage to Nahoko will end tragically as tuberculosis is incurable. Though Nahoko's health deteriorates, she and Jiro enjoy their fleeting time together.
+
+Jiro leaves for the test flight of his new prototype aeroplane, the [[Mitsubishi Ka-14]]. Knowing that she will die soon, Nahoko leaves farewell letters for Jiro, her family, and friends and discreetly leaves the house in a vain attempt to return to the sanatorium. At the test site, Jiro is distracted from his success by a gust of wind, suggesting Nahoko's passing. 
+
+In 1945, after Japan has [[Surrender of Japan|lost]] [[World War II]], Jiro dreams of Caproni again, regretting that his plane was used for war. Caproni comforts him, saying that Jiro's dream of building beautiful aeroplanes was nonetheless realised, in the form of his masterpiece—the [[Mitsubishi A6M|A6M 'Zero' fighter]]. Nahoko's spirit also appears, encouraging her husband to live on. After her spirit departs, Jiro and Caproni walk together into their shared kingdom of dreams.
+
+== Voice cast ==
+<!--  It should be possible to put the English dub cast in the same order as the original. -->
+{| class="wikitable"
+|-
+! Character !! Japanese  !! English<ref>{{cite web | url = https://collider.com/the-wind-rises-u-s-voice-cast-joseph-gordon-levitt/ | title = English-Language Voice Cast for Hayao Miyazaki's THE WIND RISES Includes Joseph Gordon-Levitt, Emily Blunt, and Mandy Patinkin | first = Adam | last = Chitwood | work = Collider | date = 18 December 2013 | url-status = live | archive-url = https://web.archive.org/web/20140830163126/http://collider.com/the-wind-rises-u-s-voice-cast-joseph-gordon-levitt/ | archive-date = 30 August 2014 | df = dmy-all }}</ref>
+|-
+| {{nihongo|[[Jiro Horikoshi]]|堀越 二郎|Horikoshi Jirō}}
+| [[Hideaki Anno]]<ref>{{cite web |title=Newspaper: Evangelion's Hideaki Anno to Star in Ghibli's Kaze Tachinu Film |url=https://www.animenewsnetwork.com/news/2013-05-09/newspaper/evangelion-hideaki-anno-to-star-in-ghibli-kaze-tachinu-film |publisher=[[Anime News Network]] |url-status=live |archive-url=https://web.archive.org/web/20140419101634/http://www.animenewsnetwork.com/news/2013-05-09/newspaper/evangelion-hideaki-anno-to-star-in-ghibli-kaze-tachinu-film |archive-date=19 April 2014  }}</ref><hr>{{small|Kaichi Kaburagi}}{{ref|young|Y}}
+| [[Joseph Gordon-Levitt]]<ref>{{cite news|last=Truitt|first=Brian|title=Gordon-Levitt, Blunt head up 'The Wind Rises' U.S. cast|url=https://www.usatoday.com/story/life/movies/2013/12/16/the-wind-rises-voice-cast/3911661/|access-date=17 December 2013|newspaper=USA Today|date=16 December 2013|url-status=live|archive-url=https://web.archive.org/web/20131221044829/http://www.usatoday.com/story/life/movies/2013/12/16/the-wind-rises-voice-cast/3911661/|archive-date=21 December 2013}}</ref><hr>{{small|[[Zach Callison]]}}{{ref|young|Y}}
+|-
+| {{nihongo|Nahoko Satomi|里見 菜穂子|Satomi Nahoko}}
+| [[Miori Takimoto]]<hr>{{small|[[Mayu Iino]]}}{{ref|young|Y}}
+| [[Emily Blunt]]<hr>{{small|Madeleine Rose Yen}}{{ref|young|Y}}
+|-
+| {{nihongo|[[Kiro Honjo]]|本庄 季郎|Honjō Kirō}}
+| [[Hidetoshi Nishijima (actor)|Hidetoshi Nishijima]]
+| [[John Krasinski]]
+|-
+| {{nihongo|Kurokawa|黒川}}
+| [[Masahiko Nishimura]]
+| [[Martin Short]]
+|-
+| {{nihongo|Castorp|カストルプ|Kasutorupu}}
+| [[Steve Alpert|Stephen Alpert]]
+| [[Werner Herzog]]
+|-
+| {{nihongo|Satomi|里見}}
+| [[Morio Kazama]]
+| [[William H. Macy]]
+|-
+| {{nihongo|Jiro's mother|二郎の母|Jirō no haha}}
+| [[Keiko Takeshita]]
+| [[Edie Mirman]]
+|-
+| {{nihongo|Kayo Horikoshi|堀越 加代|Horikoshi Kayo}}
+| [[Mirai Shida]]<hr>{{small|Maki Shinta}}{{ref|young|Y}}
+| [[Mae Whitman]]<hr>{{small|[[Eva Bella]]}}{{ref|young|Y}}
+|-
+| {{nihongo|Hattori|服部}}
+| [[Jun Kunimura]]
+| [[Mandy Patinkin]]
+|-
+| {{nihongo|Mrs. Kurokawa|黒川夫人|Kurokawa fujin}}
+| [[Shinobu Otake]]
+| [[Jennifer Grey]]
+|-
+| {{nihongo|[[Giovanni Battista Caproni]]|カプローニ|Kapurōni}}
+| [[Nomura Mansai]]
+| [[Stanley Tucci]]
+|-
+| {{nihongo|Kinu|絹}}
+| Haruka Shibuya
+| Mae Whitman
+|-
+| {{nihongo|Sone|曽根}}
+|
+| [[Elijah Wood]]
+|-
+| {{nihongo|Mitsubishi employee|三菱の従業員|Mitsubishi no jūgyōin}}
+|
+| [[Ronan Farrow]]
+|-
+| {{nihongo|Katayama|片山}}
+|
+| [[Darren Criss]]
+|-
+| Flight Engineer
+|
+| David Cowgill
+|}
+
+== Production ==
+=== Development ===
+{{quote box
+| align = right
+| width = 260px
+| quote = The film's title comes from the poetic line:<br/> "''Le vent se lève!... Il faut tenter de vivre''! ("The wind rises!... We must try to live!")" '&nbsp;— [[Paul Valéry]], ''"Le Cimetière Marin" (The Graveyard by the Sea)''.<ref>Shone, Tom (21 February 2014). [https://www.theguardian.com/film/2014/feb/21/wind-rises-hayao-miyazaki-animated-film-review "The Wind Rises: a flight into Hayao Miyazaki's magic and poetry"] {{webarchive|url=https://web.archive.org/web/20170202011214/https://www.theguardian.com/film/2014/feb/21/wind-rises-hayao-miyazaki-animated-film-review |date=2 February 2017 }}". ''[[The Guardian]]'' (London). Retrieved 9 December 2014.</ref><ref>[http://homepages.wmich.edu/~cooneys/poems/fr/valery.daylewis.html "Le Cimetière marin"] {{webarchive|url=https://web.archive.org/web/20140305130950/http://homepages.wmich.edu/~cooneys/poems/fr/valery.daylewis.html |date=5 March 2014 }}.</ref>
+}}
+''The Wind Rises'' was directed by [[Hayao Miyazaki]],<ref name="cinematoday20121213">{{cite web |url= https://www.cinematoday.jp/news/N0048613 |script-title= ja:ジブリ新作、2作一挙公開！宮崎駿＆高畑勲作品でジブリ史上初！ |date= 13 December 2012 |access-date= 27 December 2012 |work= Cinema Today |url-status= live |archive-url= https://web.archive.org/web/20121216014409/http://www.cinematoday.jp/page/N0048613 |archive-date= 16 December 2012 |df= dmy-all }}</ref> his first feature film since ''[[Ponyo]]'' in 2008.<ref name="ann20121213"/>
+
+Miyazaki began to conceive a story to illustrate the life of Jiro Horikoshi in 2008.<ref name=YahooTW>{{cite web|last=劉黎兒|script-title=zh:人物專訪／風起了 聽宮崎駿內心的聲音|url=https://tw.news.yahoo.com/人物專訪／風起了-聽宮崎駿內心的聲音上-040127364.html|website=tw.news.yahoo.com|date=18 September 2013 |language=zh|publisher=Yahoo Taiwan|access-date=2 October 2014|url-status=live|archive-url=https://web.archive.org/web/20141006102137/https://tw.news.yahoo.com/%E4%BA%BA%E7%89%A9%E5%B0%88%E8%A8%AA%EF%BC%8F%E9%A2%A8%E8%B5%B7%E4%BA%86-%E8%81%BD%E5%AE%AE%E5%B4%8E%E9%A7%BF%E5%85%A7%E5%BF%83%E7%9A%84%E8%81%B2%E9%9F%B3%E4%B8%8A-040127364.html|archive-date=6 October 2014}}</ref> He published the story as a manga series in the ''Model Graphix'' magazine's April 2009 to January 2010 issues as a continuation of his ''[[Hayao Miyazaki's Daydream Data Notes|Delusional Notes]]'' series, and it was collected into one volume in October 2015.<ref>{{Cite book |last=宮崎 |first=駿 |script-title=ja:風立ちぬ 宮崎駿の妄想カムバック |date=8 October 2015 |publisher=Dainippon Kaiga |isbn=978-4-499-23167-1 |language=Japanese}}</ref> The title is an [[allusion]] to [[Paul Valéry]]'s 1920 poem "Le Cimetière Marin" (''The Graveyard by the Sea'').<ref name="welt"/> The film also references [[Tatsuo Hori]]'s 1937 semi-autobiographical novel ''[[The Wind Has Risen]]'' ({{nihongo2|風立ちぬ| help=yes}}),<ref name="p88VisialGuide">{{cite book|title=The Wind Rises Visual Guide|date=20 July 2011|language=ja|publisher=Kadokawa Shoten|isbn=978-4-04-110510-8|page=88}}</ref> and uses visuals to depict Hori's words.<ref name=YahooTW/> The manga portrayed certain characters as [[anthropomorphised]] pigs, employing a design reminiscent of that seen in Miyazaki's film ''[[Porco Rosso]]'' (1992).<ref>{{cite web|url= https://www.slashfilm.com/studio-ghibli-titles-new-films-from-hayao-miyazaki-and-isao-takahata-grave-of-the-fireflies-picked-up-for-us-re-release/|title= Studio Ghibli Titles New Films From Hayao Miyazaki and Isao Takahata; 'Grave of the Fireflies' Picked Up For US Re-Release|author= Russ Fischer|date= 21 November 2012|access-date= 24 November 2012|work= slashfilm.com|url-status= live|archive-url= https://web.archive.org/web/20130202013957/http://www.slashfilm.com/studio-ghibli-titles-new-films-from-hayao-miyazaki-and-isao-takahata-grave-of-the-fireflies-picked-up-for-us-re-release/|archive-date= 2 February 2013|df= dmy-all}}</ref>
+
+The story in the manga follows the historical account of Horikoshi's aircraft development up to 1935 (the year of the Mitsubishi A5M's maiden flight),<ref name="p77VisialGuide">{{cite book|title=The Wind Rises Visual Guide|date=20 July 2011|language=ja|publisher=Kadokawa Shoten|isbn=978-4-04-110510-8|page=77}}</ref> and intertwines with fictional encounters with Caproni and Nahoko Satomi ({{nihongo2|里見 菜穂子| help=yes}}).<ref>{{cite book|title=The Wind Rises Visual Guide|date=20 July 2011|language=ja|publisher=Kadokawa Shoten|isbn=978-4-04-110510-8|page=92}}</ref> The scenes with Nahoko in the manga included elements from the novel ''The Wind Has Risen'',<ref name=YahooTW/> in which Tatsuo Hori wrote about his life experience with his fiancée, Ayako Yano ({{nihongo2|矢野 綾子| help=yes}}), before she died from tuberculosis. The name ''Nahoko Satomi'' was created from the female protagonist of another novel by Tatsuo Hori, ''Nahoko'' ({{nihongo2|菜穂子| help=yes}}).<ref>{{cite book|title=The Wind Rises Visual Guide|date=20 July 2011|language=ja|publisher=Kadokawa Shoten|isbn=978-4-04-110510-8|page=93}}</ref>
+
+Characters frequently discuss [[Thomas Mann]]'s novel ''[[The Magic Mountain]]'', and, in a letter to Nahoko, Jiro names his fleeing German friend "Mr. Castorp" after its protagonist.<ref name="p60VisialGuide">{{cite book|title=The Wind Rises Visual Guide|date=20 July 2011|language=ja|publisher=Kadokawa Shoten|isbn=978-4-04-110510-8|page=60}}</ref><ref>{{cite news|last=Sachs|first=Ben|title=''The Wind Rises'': On a higher plane|url=https://www.chicagoreader.com/chicago/the-wind-rises-hayao-miyazaki-jiro-horikoshi/Content?oid=12535079|access-date=12 August 2015|work=[[Chicago Reader]]|date=19 February 2014|url-status=live|archive-url=https://web.archive.org/web/20150920121936/http://www.chicagoreader.com/chicago/the-wind-rises-hayao-miyazaki-jiro-horikoshi/Content?oid=12535079|archive-date=20 September 2015}}</ref> The character himself is a caricature of Stephen Alpert, who was once the executive director of Ghibli's international division. He left the company in 2011 for personal reasons, but was instrumental in Ghibli's overseas expansion. He was asked to return to Japan to model for the character's appearance and a suitable voice.<ref>{{cite web|url=http://www.scifijapan.com/articles/2013/09/08/the-wind-rises-production-notes|title=The Wind Rises Production Notes|publisher=scifijapan.com|access-date=23 January 2016|url-status=live|archive-url=https://web.archive.org/web/20160303204025/http://www.scifijapan.com/articles/2013/09/08/the-wind-rises-production-notes/|archive-date=3 March 2016}}</ref>
+
+After the release of ''Ponyo'', Miyazaki wanted his next film to be a sequel to the film, but producer [[Toshio Suzuki]] proposed to adapt the manga ''The Wind Has Risen'' instead. At first, Miyazaki rejected the proposal because he created the manga as a hobby and considered its subjects not suitable for children, the traditional audience of Studio Ghibli's features. However, he changed his mind when a staff member suggested that "children should be allowed to be exposed to subjects they are not familiar with".<ref name=nikkei>{{cite web|script-title=zh:宮崎駿專訪：時代追上了我|url=http://zh.cn.nikkei.com/trend/traditional-culture/6141-20130812.html|website=nikkei.com|language=zh|publisher=日經中文網|access-date=2 October 2014|url-status=live|archive-url=https://web.archive.org/web/20141006091744/http://zh.cn.nikkei.com/trend/traditional-culture/6141-20130812.html|archive-date=6 October 2014}}</ref> He was also inspired to make the film after reading a quote from Horikoshi: "All I wanted to do was to make something beautiful".<ref name="latimes20130815">{{cite news | url=https://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-the-wind-rises-trailer-miyazaki-20130815,0,314360.story | title={{-'}}The Wind Rises': Hayao Miyazaki's new film stirs controversy | work=[[Los Angeles Times]] | date=15 August 2013 | access-date=16 August 2013 | author=Keegan, Rebecca | url-status=live | archive-url=https://web.archive.org/web/20130817191230/http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-the-wind-rises-trailer-miyazaki-20130815,0,314360.story | archive-date=17 August 2013 | df=dmy-all }}</ref>
+
+=== Music ===
+
+The 32-track [[film score]] was composed and conducted by [[Joe Hisaishi]], and performed by the [[Yomiuri Nippon Symphony Orchestra]]. It features [[Yumi Matsutoya]]'s 1973 song {{nihongo|"[[Hikō-ki Gumo]]"|ひこうき雲}}. Matsutoya previously collaborated with Studio Ghibli on ''Kiki's Delivery Service'', which features her songs {{nihongo|"[[Rūju no Dengon]]"|ルージュの伝言}} and {{nihongo|"Yasashisa ni Tsutsumaretanara"|やさしさに包まれたなら}}. Producer Suzuki recommended "Hikō-ki Gumo" to Miyazaki in December 2012, feeling the lyrics resembled the story of ''The Wind Rises''.<ref>{{cite book|title=The Wind Rises Visual Guide|date=20 July 2011|publisher=Kadokawa Shoten|isbn=978-4-04-110510-8|page=39}}</ref> "Das gibt's nur einmal" (English: ''It only happens once'') is the German song Hans Castorp sings while playing the piano at Hotel Kusakaru.<ref name="welt">{{Cite web |date=2015-10-16 |title=Animationsfilm: Der tollkühne Künstler und seine fliegenden Kisten |url=https://www.welt.de/kultur/kino/article130183346/Der-tollkuehne-Kuenstler-und-seine-fliegenden-Kisten.html |access-date=2023-07-27 |website=[[DIE WELT]] |language=de |archive-date=27 July 2023 |archive-url=https://web.archive.org/web/20230727161657/https://www.welt.de/kultur/kino/article130183346/Der-tollkuehne-Kuenstler-und-seine-fliegenden-Kisten.html |url-status=live }}</ref> The soundtrack was released in Japan on 17 July 2013 by [[Tokuma Japan Communications]].<ref name="OfficialSiteMusic">{{cite web|title=Music, Theme Song|url=http://www.ghibli.jp/kazetachinu/music.html|website=The Wind Rises Official Web Site|access-date=18 September 2014|language=ja|url-status=live|archive-url=https://web.archive.org/web/20140830232542/http://kazetachinu.jp/music.html|archive-date=30 August 2014}}</ref>
+
+== Release ==
+''The Wind Rises'' was to have been released simultaneously with ''[[The Tale of the Princess Kaguya (film)|The Tale of the Princess Kaguya]]'', another Ghibli film, by [[Isao Takahata]], in Japan in mid-2013.<ref name="ann20121213">{{cite web|url= https://www.animenewsnetwork.com/news/2012-12-13/ghibli-announces-miyazaki-kaze-tachinu-takahata-kaguya-hime-no-monogatari|title= Ghibli Announces Miyazaki's Kaze Tachinu, Takahata's Kaguya-hime no Monogatari|date= 13 December 2012|access-date= 27 December 2012|work= Anime News Network|url-status= live|archive-url= https://web.archive.org/web/20130103083255/http://www.animenewsnetwork.com/news/2012-12-13/ghibli-announces-miyazaki-kaze-tachinu-takahata-kaguya-hime-no-monogatari|archive-date= 3 January 2013|df= dmy-all}}</ref> It would have been the first time the directors' works were released together since the release of ''[[My Neighbor Totoro]]'' and ''[[Grave of the Fireflies]]'' in 1988.<ref name="ann20121213"/> However, ''Princess Kaguya'' was delayed until 23 November 2013,<ref name="ann20130205">{{cite web |url= https://www.animenewsnetwork.com/news/2013-02-04/isao-takahata-kaguya-hime-film-delayed-to-this-fall |title= Isao Takahata's Kaguya-hime Film Delayed to This Fall |date= 5 February 2013 |access-date= 25 March 2013 |work= Anime News Network |url-status= live |archive-url= https://web.archive.org/web/20130312102857/http://www.animenewsnetwork.com/news/2013-02-04/isao-takahata-kaguya-hime-film-delayed-to-this-fall |archive-date= 12 March 2013 |df= dmy-all }}</ref> and ''The Wind Rises'' was released on 20 July 2013.<ref name="latimes20130815"/>
+
+''The Wind Rises'' played in competition at the [[70th Venice International Film Festival]].<ref>{{cite web|url=https://www.labiennale.org/en/cinema/70th-festival/line-up/off-sel/venezia70|title=Venezia 70|work=labiennale|access-date=25 July 2013|url-status=dead|archive-url=https://web.archive.org/web/20150926172034/http://www.labiennale.org/en/cinema/70th-festival/line-up/off-sel/venezia70/|archive-date=26 September 2015}}</ref><ref>{{Cite news|url=https://www.theguardian.com/film/2013/jul/25/venice-film-festival-2013-line-up/|title=Venice film festival 2013: the full line-up|work=The Guardian|access-date=25 July 2013|location=London|date=25 July 2013|url-status=live|archive-url=https://web.archive.org/web/20130828075213/http://www.theguardian.com/film/2013/jul/25/venice-film-festival-2013-line-up|archive-date=28 August 2013}}</ref> It had its North American premiere at the 2013 [[Toronto International Film Festival]],<ref>{{cite web | url=https://tiff.net/filmsandschedules/festival/2013/windrises | archive-url=https://web.archive.org/web/20130818091449/http://tiff.net/filmsandschedules/festival/2013/windrises | title= The Wind Rises Festival Special Presentation | date=August 2013 | archive-date=18 August 2013 | url-status=dead }}</ref> although a sneak preview was presented earlier at the 2013 [[Telluride Film Festival]], outside of the official program.<ref>[https://www.telluridefilmfestival.org/news Telluride Film Festival] {{webarchive|url=https://web.archive.org/web/20170905231706/http://www.telluridefilmfestival.org/news |date=5 September 2017 }}. Telluride Film Festival (15 July 2013). Retrieved on 12 May 2014.</ref>
+
+[[Walt Disney Studios Motion Pictures]] distributed ''The Wind Rises'' in North America through its [[Touchstone Pictures]] banner.<ref name="Wrap">{{cite news|last=Cunningham|first=Todd|title=Disney Will Release Hayao Miyazaki's 'The Wind Rises' in U.S.|url=https://www.thewrap.com/movies/article/disney-will-release-hayao-mayazakis-wind-rises-us-113581|access-date=27 August 2013|newspaper=The Wrap|date=27 August 2013|url-status=live|archive-url=https://web.archive.org/web/20130827200819/http://www.thewrap.com/movies/article/disney-will-release-hayao-mayazakis-wind-rises-us-113581|archive-date=27 August 2013}}</ref><ref>[https://www.comingsoon.net/movies.php?year=2014&month=02 Movie Trailers, New Movies, Upcoming Movies, Movies, 2014 Movies, Films, DVD, Blu-ray, TV, Videos, Video, Game, Clips] {{webarchive|url=https://web.archive.org/web/20140122054601/http://www.comingsoon.net/movies.php?year=2014&month=02 |date=22 January 2014 }}. ComingSoon.net. Retrieved on 12 May 2014.</ref> English dubbing was directed by [[Gary Rydstrom]].<ref>{{cite news|last=Hill|first=Jim|title=Joseph Gordon-Levitt Loves How Hayao Miyazki's ''The Wind Rises'' Celebrates the Magic of Normal, Everyday Life|url=https://www.huffingtonpost.com/jim-hill/joseph-gordonlevitt-loves_b_4862701.html|access-date=27 February 2014|newspaper=The Huffington Post|date=26 February 2014|url-status=live|archive-url=https://web.archive.org/web/20140303200820/http://www.huffingtonpost.com/jim-hill/joseph-gordonlevitt-loves_b_4862701.html|archive-date=3 March 2014}}</ref> Disney held a one-week release window in the [[Los Angeles]] theatrical circuit beginning on 8 November 2013, so that it could qualify for [[Academy Award]]s consideration.<ref>{{Cite web|title=THE WIND RISES Opens in U.S. November 8 for Oscar-Qualifying Run; THE WIND RISES Gets Wide Release in February 2014|url=https://collider.com/the-wind-rises-release-date-us/|website=Collider|date=2013-09-12|access-date=2026-02-01|language=en|first=Brendan|last=Bettinger}}</ref> It was released theatrically on 21 February 2014 in [[Limited release|select cities]], with [[wide release]] on 28 February.<ref>{{cite news|last=Keegan|first=Rebecca|title=Miyazaki's 'The Wind Rises' to get Oscar-qualifying run in November|url=https://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-miyazaki-the-wind-rises-oscar-qualifying-run-20130910,0,660588.story|access-date=12 September 2013|newspaper=Los Angeles Times|date=11 September 2013|url-status=live|archive-url=https://web.archive.org/web/20130913070825/http://www.latimes.com/entertainment/envelope/moviesnow/la-et-mn-miyazaki-the-wind-rises-oscar-qualifying-run-20130910,0,660588.story|archive-date=13 September 2013}}</ref> It was released in the United Kingdom on 9 May 2014 by [[StudioCanal UK|StudioCanal]].<ref>{{cite news|last=Williams|first=Mike|title=The Wind Rises confirms UK release date|url=http://uk.movies.yahoo.com/wind-rises-confirms-uk-release-date-135900870.html|access-date=27 February 2014|newspaper=Yahoo!|date=7 February 2014|url-status=dead|archive-url=https://web.archive.org/web/20140305065847/http://uk.movies.yahoo.com/wind-rises-confirms-uk-release-date-135900870.html|archive-date=5 March 2014}}</ref>
+
+=== Home media ===
+[[Walt Disney Studios Japan]] released ''The Wind Rises'' on [[Blu-ray Disc]] and [[DVD-Video|DVD]] in Japan on 18 June 2014.<ref>{{cite web | url=https://www.disney.co.jp/studio/ghibli/1265.html | script-title=ja:風立ちぬ | language=ja | publisher=Disney | access-date=21 September 2020 | archive-date=13 January 2021 | archive-url=https://web.archive.org/web/20210113065709/https://www.disney.co.jp/studio/ghibli/1265.html | url-status=live }}</ref> The Japanese DVD release sold 128,784 units until [[National Pearl Harbor Remembrance Day|7 December]] 2014<ref>{{Cite web |last=Loo |first=Egan |date=2014-12-09 |title=Japan's Animation DVD Ranking, December 1–7 |url=https://www.animenewsnetwork.com/news/2014-12-09/japan-animation-dvd-ranking-december-1-7/.81951 |access-date=2022-04-26 |website=[[Anime News Network]] |archive-date=26 April 2022 |archive-url=https://web.archive.org/web/20220426015619/https://www.animenewsnetwork.com/news/2014-12-09/japan-animation-dvd-ranking-december-1-7/.81951 |url-status=live }}</ref> and a further 6,735 units between 8 December 2014 and 7 June 2015,<ref>{{Cite web |last=Loo |first=Egan |date=2015-06-17 |title=Top-Selling Animation DVDs in Japan: 2015 (First Half) |url=https://www.animenewsnetwork.com/news/2015-06-17/top-selling-animation-dvds-in-japan-2015/.89376 |access-date=2022-04-26 |website=[[Anime News Network]] |archive-date=26 April 2022 |archive-url=https://web.archive.org/web/20220426015614/https://www.animenewsnetwork.com/news/2015-06-17/top-selling-animation-dvds-in-japan-2015/.89376 |url-status=live }}</ref> for a combined {{formatnum:{{#expr:134510+6735}}|}} DVD units {{As of|2015|6|7|lc=y}}.
+
+In the United States, [[Walt Disney Studios Home Entertainment]] released the film on [[Blu-ray Disc]] and [[DVD]] on 18 November 2014. The release includes supplement features with storyboards, the original Japanese trailers and TV spots, a "Behind the Microphone" featurette with members of the English voice cast, and a video from when the film was announced to be completed. The audio for both English and Japanese language is monophonic (DTS-HD MA 1.0).<ref>{{cite web |title=Details for Studio Ghibli's "Princess Mononoke", "Kiki's Delivery Service", "The Wind Rises" on Disney Blu-ray |url=http://www.toonzone.net/2014/09/details-for-studio-ghiblis-princess-mononoke-kikis-deliver-service-the-wind-rises-on-bluray |url-status=dead |archive-url=https://web.archive.org/web/20141012154620/http://www.toonzone.net/2014/09/details-for-studio-ghiblis-princess-mononoke-kikis-deliver-service-the-wind-rises-on-bluray/ |archive-date=12 October 2014 |access-date=26 September 2014 |website=toonzone.net}}</ref> Even though the North American rights Disney owned on Studio Ghibli films expired in 2017, Walt Disney Studios Home Entertainment continued to distribute ''The Wind Rises'' until 2020, when GKIDS re-released it on DVD and Blu-ray on 22 September 2020 with distribution through [[Shout! Factory]].<ref>{{cite web|url=https://www.animenewsnetwork.com/news/2020-06-11/gkids-shout-factory-to-release-the-wind-rises-film-on-bd-dvd-in-n-america-on-september-22/.160530|title=GKIDS, Shout! Factory to Release The Wind Rises Film on BD/DVD in N. America on September 22|publisher=Anime News Network|date=11 June 2020|first=Alex|last=Mateo|access-date=21 September 2020|archive-date=11 December 2020|archive-url=https://web.archive.org/web/20201211054855/https://www.animenewsnetwork.com/news/2020-06-11/gkids-shout-factory-to-release-the-wind-rises-film-on-bd-dvd-in-n-america-on-september-22/.160530|url-status=live}}</ref> The re-release took longer than with other Studio Ghibli titles as it was still a fairly new film, and Disney still held the US rights.{{citation needed|date=April 2022}}
+
+''The Wind Rises'' has grossed over {{US$|9 million|long=no}} from physical DVD and Blu-ray sales in the US.<ref>{{Cite web |title=Kaze Tachinu (2013) - Financial Information |url=https://www.the-numbers.com/movie/Kaze-Tachinu |access-date=2022-04-26 |website=[[The Numbers (website)|The Numbers]] |archive-date=28 November 2021 |archive-url=https://web.archive.org/web/20211128111614/https://www.the-numbers.com/movie/Kaze-Tachinu |url-status=live }}</ref> In the United Kingdom, it was 2015's fifth-best-selling foreign-language film on [[home video]], and third best-selling [[Asian film]] (below ''[[The Raid 2]]'' and [[The Tale of the Princess Kaguya (film)|''The Tale of the Princess Kaguya'']]).<ref>{{Cite book |url=https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2016.pdf |title=Statistical Yearbook 2016 |publisher=[[British Film Institute]] (BFI) |year=2016 |location=United Kingdom |pages=144 |access-date=25 April 2022 |archive-date=20 May 2022 |archive-url=https://web.archive.org/web/20220520120749/https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2016.pdf |url-status=live }}</ref>
+
+== Reception ==
+=== Box office ===
+''The Wind Rises'' grossed {{JPY|11.6 billion|link=yes}} ({{USD|113 million|link=yes}})<ref>{{cite web|last=Box Office Mojo|title=October 26–27, 2013 Japan Box Office|url=https://www.boxofficemojo.com/weekend/by-year/2013/?area=JP|work=Box Office Mojo|access-date=30 January 2014|url-status=live|archive-url=https://web.archive.org/web/20140201193524/http://www.boxofficemojo.com/intl/japan/?yr=2013&wk=43&currency=local&p=.htm|archive-date=1 February 2014}}</ref> at the Japanese box office, the highest-grossing film in Japan in 2013.<ref>{{cite web|url= http://www.filmbiz.asia/news/the-wind-rises-tops-2013-japan-bo|title= The Wind Rises tops 2013 Japan B.O.|author= Kevin Ma|date= 1 January 2014|access-date= 5 January 2014|work= [[Film Business Asia]]|url-status= dead|archive-url= https://web.archive.org/web/20140102191843/http://www.filmbiz.asia/news/the-wind-rises-tops-2013-japan-bo|archive-date= 2 January 2014|df= dmy-all}}</ref>
+
+=== Critical response ===
+On the [[review aggregator]] website [[Rotten Tomatoes]], 88% of 182 critics' reviews are positive, with an average rating of 8.0/10. The website's consensus reads: "''The Wind Rises'' is a fittingly bittersweet swan song for director Hayao Miyazaki."<ref name="Rotten Tomatoes">{{cite web |title=''The Wind Rises'' |url=https://www.rottentomatoes.com/m/the_wind_rises |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |access-date=12 February 2024 }} </ref> [[Metacritic]], which uses a [[weighted average]], assigned the film a score of 83 out of 100, based on 41 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''The Wind Rises'' |url=https://www.metacritic.com/movie/the-wind-rises |website=[[Metacritic]] |publisher=[[Fandom, Inc.]] |access-date=12 February 2024 }}</ref>
+
+Critic David Ehrlich rated ''The Wind Rises'' 9.7/10 and called it "perhaps the greatest animated film ever made". He wrote: "While initially jarring, Miyazaki's unapologetic deviations from fact help ''The Wind Rises'' to transcend the linearity of its expected structure, the film eventually revealing itself to be less of a biopic than it is a devastatingly honest lament for the corruption of beauty, and how invariably pathetic the human response to that loss must be. Miyazaki's films are often preoccupied with absence, the value of things left behind and how the ghosts of beautiful things are traced onto our memories like the shadows of objects outlined by a nuclear flash. ''The Wind Rises'' looks back as only a culminating work can."<ref>[https://www.mtv.com/news/2771199/the-wind-rises-review/ Review: 'The Wind Rises'] {{webarchive|url=https://web.archive.org/web/20141121100618/http://www.film.com/movies/the-wind-rises-review |date=21 November 2014 }}. Film.com. Retrieved on 12 May 2014.</ref> [[Peter Bradshaw]] of ''[[The Guardian]]'' called the film "visually exquisite and emotionally charged".<ref>{{cite web |last=Bradshaw |first=Peter |author-link=Peter Bradshaw |date=8 May 2014 |title=The Wind Rises review-Hayao Miyazaki's idealistic swansong |url=https://www.theguardian.com/film/2014/may/08/the-wind-rises-review-hayao-miyazaki |url-status=live |archive-url=https://web.archive.org/web/20220315171049/https://www.theguardian.com/film/2014/may/08/the-wind-rises-review-hayao-miyazaki |archive-date=15 March 2022 |access-date=15 March 2022 |website=[[The Guardian]]}}</ref> [[Mark Kermode]] called it "a rich treat for the eye and soul alike".<ref>{{cite web |last=Kermode |first=Mark |author-link=Mark Kermode |date=10 May 2014 |title=The Wind Rises review-a breathtaking story of love and war in Japan |url=https://www.theguardian.com/film/2014/may/11/the-wind-rises-breathtaking-japanese-love-war-story |url-status=live |archive-url=https://web.archive.org/web/20220315172128/https://www.theguardian.com/film/2014/may/11/the-wind-rises-breathtaking-japanese-love-war-story |archive-date=15 March 2022 |access-date=15 March 2022 |website=[[The Guardian]]}}</ref>
+
+Scott Foundas of ''[[Variety (magazine)|Variety]]'' wrote: "The score by frequent Miyazaki collaborator Joe Hisaishi recalls Nino Rota in its lilting accordion-and-mandolin main theme."<ref>{{Cite web |last=Foundas |first=Scott |date=30 August 2013 |title=Venice Film Review: 'The Wind Rises' |url=https://variety.com/2013/film/reviews/the-wind-rises-review-venice-toronto-1200592219/ |url-status=live |archive-url=https://web.archive.org/web/20140512091108/https://variety.com/2013/film/reviews/the-wind-rises-review-venice-toronto-1200592219/ |archive-date=12 May 2014 |access-date=31 July 2024 |website=Variety |language=en-US}}</ref> [[Dana Stevens (critic)|Dana Stevens]] of [[Slate (magazine)|''Slate'']] called it as a "romantic orchestral score".<ref>{{Cite web |last=Stevens |first=Dana |author-link=Dana Stevens (critic) |date=20 February 2014 |title=Miyazaki's The Wind Rises Has the Sweep of David Lean and the Dreamlike Quality of Kurosawa |url=http://www.slate.com/articles/arts/movies/2014/02/hayao_miyazaki_s_the_wind_rises_reviewed.html |access-date=31 July 2024 |website=Slate}}</ref> Alonso Duralde of ''[[TheWrap]]'' wrote "Joe Hisaishi contributes another in his series of legendary scores for the director."<ref>{{Cite web |last=Duralde |first=Alonso |date=30 October 2013 |title='The Wind Rises' Review: Miyazaki's Soaring Celebration of Man's Dreams of Flight |url=https://www.thewrap.com/wind-rises-review-miyazakis-soaring-celebration-mans-dreams-flight/ |url-status=live |archive-url=https://web.archive.org/web/20150613054955/https://www.thewrap.com/wind-rises-review-miyazakis-soaring-celebration-mans-dreams-flight/ |archive-date=13 June 2015 |access-date=31 July 2024 |website=TheWrap |language=en-US}}</ref> ''[[The Japan Times]]'' gave ''The Wind Rises'' three and a half out of five, and stated: "A visually sumptuous celebration of an unspoiled prewar Japan."<ref>[https://www.japantimes.co.jp/culture/2013/07/18/films/kaze-tachinu-the-wind-rises/#.UiAxqhtQHnB Film/Reviews. "Kaze Tachinu (The Wind Rises)"] {{webarchive|url=https://web.archive.org/web/20140811083937/http://www.japantimes.co.jp/culture/2013/07/18/films/kaze-tachinu-the-wind-rises/ |date=11 August 2014 }}. ''[[The Japan Times]]''.</ref> In ''The Asia-Pacific Journal'', Matthew Penney wrote: "What Miyazaki offers is a layered look at how Horikoshi's passion for flight was captured by capital and militarism", and that it was "one of Miyazaki's most ambitious and thought-provoking visions as well as one of his most beautifully realized visual projects".<ref name="penney2013">{{cite journal |title=Miyazaki Hayao's Kaze Tachinu (The Wind Rises) |first=Matthew |last=Penney |url=https://apjjf.org/2013/11/30/Matthew-Penney/3976/article.html |journal=The Asia-Pacific Journal |volume=11 |issue=30, No. 2 |date=5 August 2013 |access-date=9 August 2013 |url-status=live |archive-url=https://archive.today/20130809155047/http://www.japanfocus.org/-Matthew-Penney/3976 |archive-date=9 August 2013  }}</ref> In 2025, ''The Wind Rises'' was voted number 235 voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century," finishing at number 235.<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |date=2 July 2025 |access-date=2 July 2025}}</ref>
+
+=== Controversy ===
+In Japan, ''The Wind Rises'' received criticism from both the Japanese political right<ref name="latimes20130815"/> and from the Japan Society for Tobacco Control.<ref name="guardian20130823">{{cite web |url=https://www.theguardian.com/world/2013/aug/23/hayao-miyazaki-film-wind-rises |title=Japanese animator under fire for film tribute to warplane designer |first=Justin |last=McCurry |work=The Guardian|date=23 August 2013 |access-date=25 August 2013 |url-status=live |archive-url=https://web.archive.org/web/20170113021415/https://www.theguardian.com/world/2013/aug/23/hayao-miyazaki-film-wind-rises |archive-date=13 January 2017  }}</ref> Miyazaki added to the controversy by publishing an essay in which he criticised the proposal by Japan's right-wing [[Liberal Democratic Party (Japan)|Liberal Democratic Party]] to change [[Article 9 of the Japanese Constitution|Article 9]] of the [[Japanese Constitution]] to allow Japan to remilitarise.<ref name="latimes20130815"/><ref name="guardian20130823"/><ref>{{Cite web |last=Miyazaki |first=Hayao |script-title=ja:憲法を変えるなどもってのほか |trans-title=Other than changing the Constitution |url=https://www.ghibli.jp/docs/0718kenpo.pdf |url-status=dead |archive-url=https://web.archive.org/web/20130719122305/https://www.ghibli.jp/docs/0718kenpo.pdf |archive-date=2013-07-19 |access-date=2020-06-27 |website=Studio Ghibli}}</ref>
+
+Miyazaki also attracted political criticism from South Korean internet users, who argued that the Zero represents Japanese military aggression and that many planes were assembled by Korean [[forced labour]].<ref name="guardian20130823"/> Miyazaki told South Korean journalists that "[Horikoshi] was someone who resisted demands from the military...I wonder if he should be liable for anything just because he lived in that period."<ref name="guardian20130823"/> In an interview with the ''[[Asahi Shimbun]]'', Miyazaki said he had "very complex feelings" about World War II since, as a [[pacifist]], he felt militarist Japan had acted out of "foolish arrogance". However, he also said that the [[Zero plane]] "represented one of the few things we Japanese could be proud of—[they] were a truly formidable presence, and so were the pilots who flew them".<ref name="guardian20130823"/>
+
+=== Accolades ===
+{{Main list|List of accolades received by The Wind Rises{{!}}List of accolades received by ''The Wind Rises''}}
+
+''The Wind Rises'' received 13 nominations and 17 awards for "Best Animated Feature", including one Academy Award nomination.<ref name="auto1">{{cite news|author=<!--Not stated.-->|title=2013 Academy Awards Nominations and Winners by Category|url=https://www.boxofficemojo.com/oscar/chart/?view=allcategories&yr=2013&p=.htm|access-date=16 January 2014|newspaper=[[Box Office Mojo]]|date=16 January 2014|url-status=live|archive-url=https://web.archive.org/web/20140228152810/http://boxofficemojo.com/oscar/chart/?view=allcategories&yr=2013&p=.htm|archive-date=28 February 2014}}</ref> Hayao Miyazaki won the award for Writing in an Animated Feature Production at the [[41st Annie Awards]].<ref name="auto2">{{cite web|url=https://www.animenewsnetwork.com/news/2014-02-02/hayao-miyazaki-wins-annie-award-for-writing-the-wind-rises|title=Hayao Miyazaki Wins Annie Award for Writing The Wind Rises|date=2 February 2014|work=[[Anime News Network]]|access-date=2 February 2014|url-status=live|archive-url=https://web.archive.org/web/20140202173237/http://www.animenewsnetwork.com/news/2014-02-02/hayao-miyazaki-wins-annie-award-for-writing-the-wind-rises|archive-date=2 February 2014}}</ref> The film's musical composer, [[Joe Hisaishi]], received the [[Japan Academy Prize (film)|Japan Academy Prize]] for Best Music Score.<ref name="auto3">{{cite web|last=Loo|first=Egan|title=The Wind Rises, Madoka, Lupin vs. Conan, Harlock, Kaguya Earn Japan Academy Prize Nods|url=https://www.animenewsnetwork.com/news/2014-01-16/wind-rises-madoka-lupin-vs-conan-harlock-kaguya-earn-japan-academy-prize-nods|work=Anime News Network|publisher=Christopher Macdonald|access-date=30 January 2014|url-status=live|archive-url=https://web.archive.org/web/20140130043434/http://www.animenewsnetwork.com/news/2014-01-16/wind-rises-madoka-lupin-vs-conan-harlock-kaguya-earn-japan-academy-prize-nods|archive-date=30 January 2014}}</ref> The film was also selected as "Audience Favorite – Animation" at the [[Mill Valley Film Festival]].<ref name=":0">{{cite web |url=http://mvff.squarespace.com/mvff36-audience-favorites/ |title=Mill Valley Film Festival 36 Audience Favorites Awards |author=<!--Not stated--> |website=Mill Valley Film Festival |publisher=California Film Institute |access-date=17 January 2019}}</ref>
+
+{| class="wikitable plainrowheaders sortable" style="width: 100%;"
+|+ {{sronly|Accolades received by ''The Wind Rises''}}
+|-
+! scope="col" | Award
+! scope="col" | Date of ceremony
+! scope="col" | Category
+! scope="col" style="width:30%;" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable" | {{Refh}}
+|-
+! scope="row" | [[Academy Awards]]
+| [[86th Academy Awards|{{dts|2 March 2014}}]]
+| [[Academy Award for Best Animated Feature|Best Animated Feature]]
+| {{sort|Miyazaki|[[Hayao Miyazaki]] and [[Toshio Suzuki]]}}
+| {{nom}}
+| style="text-align:center;" | <ref>{{cite web |date=2 March 2014 |title=2014 Academy Awards Winners: Full List |url=https://variety.com/2014/film/awards/2014-academy-awards-winners-oscar-winner-list-1201123978/ |website=[[Variety (magazine)|Variety]] |access-date=29 October 2023 |archive-date=10 March 2018 |archive-url=https://web.archive.org/web/20180310062026/https://variety.com/2014/film/awards/2014-academy-awards-winners-oscar-winner-list-1201123978/ |url-status=live }}</ref>
+|-
+! scope="rowgroup" rowspan="3" | [[Annie Awards]]
+| rowspan="3" | [[41st Annie Awards|{{dts|1 February 2014}}]]
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+| {{sort|Wind Rises|''The Wind Rises''}}
+| {{nom}}
+| rowspan="3" style="text-align:center;" | <ref>{{cite web |last=Loo |first=Egan |date=2 February 2014 |title=Hayao Miyazaki Wins Annie Award for Writing ''The Wind Rises'' |url=https://www.animenewsnetwork.com/news/2014-02-02/hayao-miyazaki-wins-annie-award-for-writing-the-wind-rises |publisher=[[Anime News Network]] |access-date=29 October 2023 |archive-date=2 February 2014 |archive-url=https://web.archive.org/web/20140202173237/http://www.animenewsnetwork.com/news/2014-02-02/hayao-miyazaki-wins-annie-award-for-writing-the-wind-rises |url-status=live }}</ref>
+|-
+| [[Annie Award for Outstanding Achievement for Character Animation in a Feature Production|Outstanding Achievement for Character Animation in a Feature Production]]
+| {{sortname|Kitarō|Kōsaka}}
+| {{nom}}
+|-
+| [[Annie Award for Outstanding Achievement for Writing in a Feature Production|Outstanding Achievement for Writing in a Feature Production]]
+| {{sortname|Hayao|Miyazaki}}
+| {{won}}
+|-
+! scope="row" | [[Golden Globe Awards]]
+| [[71st Golden Globe Awards|{{dts|12 January 2014}}]]
+| [[Golden Globe Award for Best Foreign Language Film|Best Foreign Language Film]]
+| {{sort|Wind Rises|''The Wind Rises''}}
+| {{nom}}
+| style="text-align:center;" | <ref>{{cite web |last=Nordyke |first=Kimberly |date=12 January 2014 |title=Golden Globes: Complete Winners List |url=https://www.hollywoodreporter.com/news/general-news/golden-globes-2014-winners-list-2-670159/ |website=[[The Hollywood Reporter]] |access-date=29 October 2023 |archive-date=15 May 2023 |archive-url=https://web.archive.org/web/20230515131452/https://www.hollywoodreporter.com/news/general-news/golden-globes-2014-winners-list-2-670159/ |url-status=live }}</ref>
+|-
+! scope="rowgroup" rowspan="2" | [[Japan Academy Film Prize]]
+| rowspan="2" | [[37th Japan Academy Film Prize|{{dts|7 March 2014}}]]
+| [[Japan Academy Film Prize for Animation of the Year|Animation of the Year]]
+| {{sort|Wind Rises|''The Wind Rises''}}
+| {{won}}
+| rowspan="2" style="text-align:center;" | <ref>{{cite web |date=21 January 2014 |script-title=ja:【日本アカデミー賞】久石譲、「譜面読めますし、自分で書いてます」 『風立ちぬ』で最優秀音楽賞受賞 |trans-title=[Japan Academy Prize] Joe Hisaishi: "I can read music, and I write it myself", wins Best Music award for ''The Wind Rises'' |url=https://www.oricon.co.jp/news/2034871/full/ |publisher=[[Oricon]] |access-date=29 October 2023 |language=ja |archive-date=28 February 2015 |archive-url=https://web.archive.org/web/20150228082815/http://www.oricon.co.jp/news/2034871/full/ |url-status=live }}</ref>
+|-
+| Outstanding Achievement in Music
+| {{sortname|Joe|Hisaishi}}
+| {{won}}
+|-
+! scope="row" | [[Mill Valley Film Festival]]
+| {{dts|13 October 2013}}
+| Audience Favorite – Animation
+| {{sort|Wind Rises|''The Wind Rises''}}
+| {{won}}
+| style="text-align:center;" | <ref>{{cite web |title=MVFF36 Audience Favorites |url=http://www.mvff.com/mvff36-audience-favorites/ |publisher=[[Mill Valley Film Festival]] |access-date=29 October 2023 |archive-date=19 February 2014 |archive-url=https://web.archive.org/web/20140219021501/http://www.mvff.com/mvff36-audience-favorites/ |url-status=dead }}</ref>
+|-
+! scope="row" | [[Venice Film Festival]]
+| [[70th Venice International Film Festival|{{dts|7 September 2013}}]]
+| [[Golden Lion]]
+| {{sort|Wind Rises|''The Wind Rises''}}
+| {{nom}}
+| style="text-align:center;" | <ref>{{cite web |last=Tartaglione |first=Nancy |date=7 September 2013 |title=Venice Award Winners: ''Sacro Gra'' Is First Documentary Ever To Take Golden Lion |url=https://deadline.com/2013/09/venice-70-award-winners-golden-lion-581012/ |website=[[Deadline Hollywood]] |access-date=29 October 2023 |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128231223/https://deadline.com/2013/09/venice-70-award-winners-golden-lion-581012/ |url-status=live }}</ref>
+|-
+|}
+
+== See also ==
+* ''[[The Kingdom of Dreams and Madness]]'', a 2013 documentary about the making of the film.
+*''[[The Eternal Zero (film)|The Eternal Zero]]'', a 2013 live-action drama film based on a novel of the same name that also features the Zero fighter plane
+* ''[[Porco Rosso]]'', a 1992 Ghibli animated film also directed by Miyazaki which contains a number of similar thematic elements.
+* ''[[The Cockpit (OVA)|The Cockpit]]'', a similar 1993 anime OVA focusing on World War II [[Axis powers|Axis]] allegiances, also featuring an emphasis on the [[warplane]]s.
+* ''[[Grave of the Fireflies]]'', another Ghibli anime film from 1988 covering the Japanese perspective on World War II and its effects on civilians.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category}}
+* {{Official website}}
+* {{Anime News Network|movie|14975}}
+* {{IMDb title}}
+
+{{Hayao Miyazaki}}
+{{Studio Ghibli Films}}
+{{Hideaki Anno}}
+{{Navboxes
+|title = [[List of accolades received by The Wind Rises|Awards for ''The Wind Rises'']]
+|list =
+{{Chicago Film Critics Association Award for Best Animated Film}}
+{{Japan Academy Prize for Animation of the Year}}
+{{National Board of Review Award for Best Animated Film}}
+{{New York Film Critics Circle Award for Best Animated Film}}
+{{Online Film Critics Society Award for Best Animated Film}}
+{{San Diego Film Critics Society Award for Best Animated Film}}
+{{Satellite Award Best Animated or Mixed Media Feature Film}}
+{{Tokyo Anime Award for Animation of the Year}}
+{{TFCA Award for Best Animated Film}}}}
+{{Portal bar|2010s|Japan|Anime and manga|Animation|Cartoon}}
+
+{{DEFAULTSORT:Wind Rises}}
+[[Category:1923 Great Kantō earthquake]]
+[[Category:2013 historical drama films]]
+[[Category:2013 Japanese-language films]]
+[[Category:2013 anime films]]
+[[Category:2013 biographical drama films]]
+[[Category:2013 films]]
+[[Category:Adaptations of works by Hayao Miyazaki]]
+[[Category:Animated film controversies]]
+[[Category:Animated films about aviation]]
+[[Category:Animated films based on actual events]]
+[[Category:Animated films set in Germany]]
+[[Category:Animated films set in Japan]]
+[[Category:Animated films set in the 1910s]]
+[[Category:Animated films set in the 1920s]]
+[[Category:Animated films set in the 1930s]]
+[[Category:Animated films set in the 1940s]]
+[[Category:Animated World War II films]]
+[[Category:Anime and manga about marriage]]
+[[Category:Anime and manga controversies]]
+[[Category:Anime films based on manga]]
+[[Category:Annie Award–winning films]]
+[[Category:Anti-war films about World War II]]
+[[Category:Drama anime and manga]]
+[[Category:Existentialist anime and manga]]
+[[Category:Films about dreams]]
+[[Category:Films about earthquakes]]
+[[Category:Films about engineers]]
+[[Category:Films directed by Hayao Miyazaki]]
+[[Category:Films produced by Toshio Suzuki]]
+[[Category:Films scored by Joe Hisaishi]]
+[[Category:Films set in 1918]]
+[[Category:Films set in 1923]]
+[[Category:Films set in 1927]]
+[[Category:Films set in 1929]]
+[[Category:Films set in 1932]]
+[[Category:Films set in 1933]]
+[[Category:Films set in 1945]]
+[[Category:Films with screenplays by Hayao Miyazaki]]
+[[Category:Historical anime and manga]]
+[[Category:Japan Academy Prize for Animation of the Year winners]]
+[[Category:Japanese adult animated films]]
+[[Category:Japanese aviation films]]
+[[Category:Japanese biographical drama films]]
+[[Category:Japanese historical drama films]]
+[[Category:Japanese-language biographical drama films]]
+[[Category:Japanese-language historical drama films]]
+[[Category:Japanese World War II films]]
+[[Category:The Kennedy/Marshall Company films]]
+[[Category:Military anime and manga]]
+[[Category:Nippon Television films]]
+[[Category:Philosophical anime and manga]]
+[[Category:Romance anime and manga]]
+[[Category:Satellite Award–winning films]]
+[[Category:Slice of life anime and manga]]
+[[Category:Studio Ghibli animated films]]
+[[Category:Toho animated films]]
+[[Category:Toho films]]
+[[Category:Touchstone Pictures animated films]]
+[[Category:War in anime and manga]]
+[[Category:Works about earthquakes]]
+[[Category:World War II aviation films]]

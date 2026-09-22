@@ -1,0 +1,65 @@
+{{Infobox film
+| name           = The Island Closest to Heaven
+| image          = The Island Closest to Heaven poster.jpg
+| caption        = Theatrical poster
+| native_name = {{Infobox Japanese| kana           = 天国にいちばん近い島
+| revhep         = Tengoku ni ichiban chikai shima}}
+| director       = [[Nobuhiko Obayashi]]
+| producer       = [[Haruki Kadokawa]]<ref name="Films"/>
+| screenplay     = [[:jp:剣持亘|Wataru Kenmotsu]]<ref name="Films"/>
+| story          = {{ill|Katsura Morimura|ja|森村桂}}<ref name="Films"/>
+| starring       = {{plainlist|
+* [[Tomoyo Harada]]<ref name="Films">{{cite book |script-title=ja:フィルムメーカーズ20 大林宣彦 |trans-title=Filmmakers 20: Nobuhiko Obayashi |language=ja |editor=Higuchi Naofumi |editor-link=:ja:樋口尚文 |publisher=[[:ja:宮帯出版社|Miyaobi Publishing Company]] |year=2019 |page=244 |ISBN=978-4-8016-0207-6}}</ref>
+*{{ill|Ryōichi Takayanagi|ja|高柳良一}}<ref name="Films"/>
+*[[Tōru Minegishi (actor)|Tōru Minegishi]]<ref name="Films"/>
+*[[Miyoko Akaza]]<ref name="Films"/>
+*[[Shigeru Izumiya]]<ref name="Films"/>
+}}
+| music          = {{ill|Tomoyuki Asakawa|ja|朝川朋之}}<ref name="Films"/>
+| cinematography = {{ill|Yoshitaka Sakamoto|ja|阪本善尚}}<ref name="Films"/>
+| editing        = Nobuhiko Obayashi<ref name="Films"/>
+| studio         = 
+| distributor    = 
+| released       = {{Film date|1984|12|15|Japan|df=y}}<ref name="Films"/>
+| runtime        = 102 minutes<ref name="Films"/>
+| country        = Japan
+| language       = Japanese
+| budget         = 
+| gross          = 
+}}{{Expand Japanese|topic=cult}}
+{{nihongo|'''''The Island Closest to Heaven'''''|天国にいちばん近い島|Tengoku ni ichiban chikai shima|lead=yes}} is a 1984 [[Cinema of Japan|Japanese film]] directed by [[Nobuhiko Obayashi]], based on an original story by {{ill|Katsura Morimura|fr|Katsura Morimura}}.<ref name="Films"/>
+
+==Plot==
+After her father's sudden death, a Japanese [[Secondary education in Japan|high school]] girl travels to the southwest Pacific archipelago of [[New Caledonia]] in search of the location, which they had agreed to visit together, of the film's title. From her encounters with Japanese [[émigré]]s and locals, she learns where the real island closest to heaven may be found.<ref name="Films"/><ref>{{cite web |url=https://www.radiotimes.com/movie-guide/b-jynq4p/the-island-closest-to-heaven/ |title=The Island Closest to Heaven |publisher=Radio Times |access-date=30 November 2022}}</ref>
+
+==Cast==
+*[[Tomoyo Harada]] as Mari <ref name="Films"/>
+*{{ill|Ryōichi Takayanagi|ja|高柳良一}} as Taro <ref name="Films"/>
+*[[Tōru Minegishi (actor)|Tōru Minegishi]]<ref name="Films"/>
+*[[Miyoko Akaza]]<ref name="Films"/>
+*[[Shigeru Izumiya]]<ref name="Films"/>
+*[[Yukihiro Takahashi]]<ref name="Films"/>
+*[[Kayo Matsuo]]<ref name="Films"/>
+*[[Nenji Kobayashi]]<ref name="Films"/>
+*[[Hideo Murota]]<ref name="Films"/>
+*[[Nobuko Otowa]]<ref name="Films"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb title|0125549}}
+*[http://www.jmdb.ne.jp/1984/dh004240.htm ''The Island Closest to Heaven''] at the [[Japanese Movie Database]] {{in lang|ja}}
+
+{{Nobuhiko Obayashi}}
+
+{{DEFAULTSORT:Island Closest to Heaven}}
+[[Category:1984 films]]
+[[Category:Films directed by Nobuhiko Obayashi]]
+[[Category:1984 Japanese-language films]]
+[[Category:1984 Japanese films]]
+[[Category:Films based on works by Japanese writers]]
+[[Category:Films based on non-fiction books]]
+[[Category:Films produced by Haruki Kadokawa]]
+
+{{1980s-Japan-film-stub}}

@@ -1,0 +1,532 @@
+{{Short description|Motion pictures without synchronized recorded sound}}
+{{redirect|Silent movie|the Mel Brooks film|Silent Movie|the band|A Silent Film}}
+{{Multiple issues|
+{{Globalize|article|USA|date=May 2026}}
+{{citations needed|date=March 2026}}
+}}
+{{Use mdy dates|date=April 2017}}
+
+[[File:Tango_scene_from_The_Four_Horsemen_of_the_Apocalypse.jpg|thumb|A still from 1921's ''[[The Four Horsemen of the Apocalypse (1921 film)|The Four Horsemen of the Apocalypse]]'', one of the highest-grossing silent films]]
+A '''silent film''' is a [[film]] without synchronized [[Sound recording and reproduction|recorded sound]] (or more generally, no audible spoken [[dialogue]]). Though silent films convey [[narrative]] and emotion visually, various plot elements (such as a setting or era) or key lines of dialogue may, when necessary, be conveyed by the use of [[intertitles]].
+
+The term "silent film" is something of a misnomer, as films were almost always accompanied by live sounds. During the silent era, which existed from the 1890s to the 1920s in most countries, a [[pianist]], [[theater organ]]ist—or even, in larger cities, an [[orchestra]]—would play music to accompany the films. Pianists, organists, and orchestras would play either from [[sheet music]], or [[Musical improvisation|improvisation]]. Sometimes a person would even narrate the inter-title cards for the audience. Though at the time the technology to synchronize sound with the film did not exist, music was seen as an essential part of the viewing experience. "Silent film" is typically used as a historical term to describe an era of cinema prior to the invention of synchronized sound, which was the 1890s to the 1920s, but it also applies to sound-era films of the 1920s and 1930s, such as ''[[City Lights]]'' and ''[[Modern Times (film)|Modern Times]]'', which are accompanied by a synchronized music-only soundtrack in place of spoken dialogue.
+
+The term ''silent film'' is a [[retronym]]—a term created to retroactively distinguish something from later developments. Early sound films, starting with ''[[The Jazz Singer]]'' in 1927, were variously referred to as the [[Sound film|"talkies", "sound films", or "talking pictures"]]. The idea of combining motion pictures with recorded sound is older than film (it was suggested almost immediately after [[Thomas Edison|Edison]] introduced the [[phonograph]] in 1877), and some early experiments had the projectionist manually adjusting the frame rate to fit the sound,<ref>{{cite journal |last1=Torres-Pruñonosa |first1=Jose |last2=Plaza-Navas |first2=Miquel-Angel |last3=Brown |first3=Silas |date=2022 |title=Jehovah's Witnesses' adoption of digitally-mediated services during Covid-19 pandemic |journal=Cogent Social Sciences |volume=8 |issue=1 |article-number=2071034 |doi=10.1080/23311886.2022.2071034 |s2cid=248581687 |quote=synchronised sound in the silent-movie era (accomplished by playing a gramophone while manually adjusting the projector's frame rate for lip synchronisation) |doi-access=free|hdl=10261/268521 |hdl-access=free }}</ref> but because of the technical challenges involved, the introduction of synchronized dialogue became practical only in the late [[1920s in film|1920s]] with the perfection of the [[Audion amplifier tube]] and the advent of the [[Vitaphone]] system.<ref>{{cite web|url=https://www.jstor.org/topic/silent-films/|title=Silent Films|work=[[JSTOR]]|access-date=2019-10-29|archive-date=May 26, 2019|archive-url=https://web.archive.org/web/20190526031810/https://www.jstor.org/topic/silent-films/|url-status=dead}}</ref> Within a decade, the widespread production of silent films for popular entertainment had ceased, and the industry had moved fully into the [[sound era]], in which movies were accompanied by synchronized sound recordings of spoken dialogue, music and [[sound effect]]s.
+
+Most early motion pictures are considered [[Lost film|lost]] owing to their physical decay, as the [[Nitrocellulose#Film|nitrate film]]stock used in that era was extremely unstable and flammable. Many films were destroyed, because they had negligible remaining financial value in that era. It has often been claimed that around 75 percent of silent films produced in the US have been lost, though these estimates' accuracy cannot be determined due to a lack of numerical data.{{sfn|Slide|2000|p=5}}
+
+== Elements and beginnings (1833–1894) ==
+{{main|Precursors of film}}
+{{main|History of film technology}}
+[[File:Horse in Motion - Sallie Gardner (animation).gif|Animation of 11 frames of [[Eadweard Muybridge]]'s 1878 cabinet card of running horse "Sallie Gardner" from the series ''[[The Horse in Motion]]''|thumb]]
+[[File:LouisLePrinceFirstFilmEver RoundhayGardenScene.png|''[[Roundhay Garden Scene]]'', which has a running time of just over two seconds, was filmed in 1888. It is believed to be the world's earliest surviving motion-picture film. The elderly lady in black is [[Sarah Whitley]], the mother-in-law of filmmaker [[Louis Le Prince]]; she died ten days after this scene was filmed.|thumb]]
+Film projection mostly evolved from [[magic lantern]] shows, in which images from handpainted glass slides were projected onto a wall or screen.{{sfn|Lewis|2008}} After the advent of photography in the 19th century, still [[photograph]]s were sometimes used. Narration of the showman was important in spectacular entertainment screenings and vital in the lecturing circuit.<ref>{{Cite journal |last=Dellman |first=Sarah |date=2016 |title=Lecturing without an Expert |url=https://a-million-pictures.wp.hum.uu.nl/wp-content/uploads/sites/210/2017/01/Dellmann_Lecturing-without-an-expert.pdf |journal=The Magic Lantern Gazette}}</ref>
+
+The principle of stroboscopic [[animation]] was well-known since the introduction of the [[phenakistiscope]] in 1833, a popular [[optical toys|optical toy]], but the development of [[cinematography]] was hampered by long exposure times for [[photographic emulsion]]s, until [[Eadweard Muybridge]] managed to record a [[chronophotography|chronophotographic]] sequence in 1878. After others had animated his pictures in [[zoetrope]]s, Muybridge started lecturing with his own [[zoopraxiscope]] animation projector in 1880.
+
+The work of other pioneering chronophotographers, including [[Étienne-Jules Marey]] and [[Ottomar Anschütz]], furthered the development of motion picture cameras, projectors and transparent celluloid film.
+
+Although [[Thomas Edison]] was keen to develop a film system that would be synchronised with his [[phonograph]], he eventually introduced the [[kinetoscope]] as a silent motion picture viewer in 1893 and later "kinetophone" versions remained unsuccessful.
+
+== Silent era ==
+[[File:Battle of Chemulpo Bay edison.ogv|thumb|left|A one-minute 1904 film by [[Edison Studios]] re-enacting the [[Battle of Chemulpo Bay]], which occurred on 9 February that year off the coast of present-day [[Incheon]], South Korea|alt=A film of a re-enactment of a naval battle, depicting Russians firing at a Japanese ship with a cannon]]
+
+The art of motion pictures grew into full maturity in the "silent era" ([[1894 in film]] – [[1929 in film]]). The height of the silent era (from the early [[1910s in film]] to the late 1920s) was a particularly fruitful period, full of artistic innovation. The film movements of [[Classical Hollywood narrative|Classical Hollywood]] as well as [[French impressionist cinema|French Impressionism]], [[German expressionist cinema|German Expressionism]], and [[Soviet Montage]] began in this period. Silent filmmakers pioneered the art form to the extent that virtually every style and genre of film-making of the 20th and 21st centuries has its artistic roots in the silent era. The silent era was also a pioneering one from a technical point of view. Three-point lighting, the [[close-up]], [[long shot]], [[Panning (camera)|panning]], and [[continuity editing]] all became prevalent long before silent films were replaced by "[[Sound film|talking pictures]]" or "talkies" in the late 1920s. Some scholars claim that the artistic quality of cinema decreased for several years, during the early 1930s, until [[film director]]s, actors, and production staff adapted fully to the new "talkies" around the mid-1930s.<ref name="filmsite">{{cite web| url=http://www.filmsite.org/20sintro.html| title=Film History of the 1920s, Part 1| last=Dirks| first=Tim| publisher=AMC| access-date=March 7, 2014| archive-date=February 20, 2014| archive-url=https://web.archive.org/web/20140220014027/http://www.filmsite.org/20sintro.html| url-status=live}}</ref>
+
+[[File:Aziza Amir in ‘Laila’ 1927.jpg|thumb|[[Aziza Amir]] in ''[[Laila (1927 film)|Laila]]'' (1927)]]
+The visual quality of silent movies—especially those produced in the 1920s—was often high, but there remains a widely held misconception that these films were primitive, or are barely watchable by modern standards.{{sfn|Brownlow|1968b|p=580}} This misconception comes from the general public's unfamiliarity with the medium, as well as from carelessness on the part of the industry. Most silent films are poorly preserved, leading to their deterioration, and well-preserved films are often played back at the wrong speed or suffer from [[Film censorship|censorship cuts]] and missing frames and scenes, giving the appearance of poor editing.<ref>{{Cite news|url=https://variety.com/2013/film/news/library-of-congress-only-14-of-u-s-silent-films-survive-1200915020/|title=Library of Congress: 75% of Silent Films Lost|last=Harris|first=Paul|date=December 4, 2013|work=Variety|access-date=July 27, 2017|archive-date=August 21, 2017|archive-url=https://web.archive.org/web/20170821061438/http://variety.com/2013/film/news/library-of-congress-only-14-of-u-s-silent-films-survive-1200915020/|url-status=live}}</ref><ref>{{Cite web|url=https://silentology.wordpress.com/2015/01/05/how-do-silent-films-become-lost/|title=How Do Silent Films Become 'Lost'?|last=S.|first=Lea|date=January 5, 2015|website=Silent-ology|access-date=July 27, 2017|archive-date=February 24, 2018|archive-url=https://web.archive.org/web/20180224173324/https://silentology.wordpress.com/2015/01/05/how-do-silent-films-become-lost/|url-status=live}}</ref> Many silent films exist only in second- or third-generation copies, often made from already damaged and neglected film stock.<ref name="filmsite" />
+
+Many early screenings were plagued by flicker on the screen, when the stroboscopic interruptions between frames lay below the [[Flicker fusion threshold|critical flicker frequency]]. This was solved with the introduction of a three-bladed shutter (since 1902), causing two more interruptions per frame.<ref>{{Cite web |last=Rossell |first=Deac |title=Double Think: The Cinema and Magic Lantern Culture |url=https://www.academia.edu/378378 |pages=2,9–10 |website=www.academia.edu |date=November 28, 2010 |access-date=August 1, 2024 |archive-date=July 10, 2024 |archive-url=https://web.archive.org/web/20240710104708/https://www.academia.edu/378378 |url-status=live }}</ref>
+
+Another misconception is that all silent films lacked color. In fact, color was more prevalent in silent films than in the first few decades of sound films. By the early 1920s, 80 percent of movies could be seen in some sort of color, usually in the form of [[film tinting]] or [[Photographic print toning|toning]] or hand coloring, but also with fairly natural two-color processes such as [[Kinemacolor]] and [[Technicolor]].<ref>{{cite web |author=Jeremy Polacek |date=June 6, 2014 |title=Faster than Sound: Color in the Age of Silent Film |publisher=Hyperallergic |url=http://hyperallergic.com/129119/faster-than-sound-color-in-the-age-of-silent-film/ |access-date=December 14, 2015 |archive-date=December 22, 2015 |archive-url=https://web.archive.org/web/20151222161338/http://hyperallergic.com/129119/faster-than-sound-color-in-the-age-of-silent-film/ |url-status=live}}</ref> Traditional colorization processes ceased with the adoption of [[sound-on-film]] technology. Traditional film colorization, which involved the use of dyes in some form, interfered with the high resolution required for built-in recorded sound, and was therefore abandoned. The innovative three-strip technicolor process introduced in the mid-1930s was costly and fraught with limitations, and color would not have the same prevalence in film as it did in the silents for nearly four decades.
+
+=== Inter-titles ===
+[[File:CABINETOFDRCALIGARI-03.jpg|thumb|''[[The Cabinet of Dr. Caligari]]'' (1920) used stylized inter-titles.]]
+
+As motion pictures gradually increased in running time, a replacement was needed for the in-house interpreter who would explain parts of the film to the audience. Because silent films had no synchronized sound for dialogue, onscreen [[intertitle|inter-title]]s were used to narrate story points, present key dialogue and sometimes even comment on the action for the audience. The ''title writer'' became a key professional in silent film and was often separate from the ''scenario writer'' who created the story. Inter-titles (or ''titles'' as they were generally called at the time) "often were graphic elements themselves, featuring illustrations or abstract decorations that commented on the action".<ref>Vlad Strukov, "A Journey through Time: Alexander Sokurov's ''Russian Ark'' and Theories of Memisis" in Lúcia Nagib and Cecília Mello, eds. ''Realism and the Audiovisual Media'' (NY: Palgrave Macmillan, 2009), 129–30. {{ISBN|0230246974}}; and Thomas Elsaesser, ''Early Cinema: Space, Frame, Narrative'' (London: British Film Institute, 1990), 14. {{ISBN|0851702457}}</ref><ref>{{cite web |last=Foster |first=Diana |title=The History of Silent Movies and Subtitles |url=https://www.vicaps.com/blog/history-of-silent-movies-and-subtitles/ |website=Video Caption Corporation |access-date=24 February 2019 |date=November 19, 2014 |archive-date=February 25, 2019 |archive-url=https://web.archive.org/web/20190225050323/https://www.vicaps.com/blog/history-of-silent-movies-and-subtitles/ |url-status=live}}</ref>
+
+=== Live music and other sound accompaniment ===
+Showings of silent films almost always featured live music starting with the first public projection of movies by the [[Max Skladanowsky|Skladanowsky brothers]] on 1 November 1895, in Berlin, who had a score composed and performed at loud volume to drown out the noises of their projector.<ref>{{Cite web |date=2024-11-11 |title=The Skladanowsky Brothers: The Devil Knows – Senses of Cinema |url=https://www.sensesofcinema.com/2010/feature-articles/the-skladanowsky-brothers-the-devil-knows/ |access-date=2026-05-09 |language=en-US}}</ref> This was furthered in 1896 by the first motion-picture exhibition in the United States at [[Koster and Bial's Music Hall]] in New York City. At this event, Edison set the precedent that all exhibitions should be accompanied by an orchestra.{{sfn|Cook|1990}} From the beginning, music was recognized as essential, contributing atmosphere, and giving the audience vital emotional cues. Musicians sometimes played on film sets during shooting for similar reasons. However, depending on the size of the exhibition site, musical accompaniment could drastically change in scale.{{sfn|Lewis|2008}} Small-town and neighborhood movie theatres usually had a [[pianist]]. Beginning in the mid-1910s, large city theaters tended to have [[organist]]s or ensembles of musicians. Massive [[theatre organ]]s, which were designed to fill a gap between a simple piano soloist and a larger orchestra, had a wide range of special effects. Theatrical organs such as the famous "[[Wurlitzer#Theatre organs|Mighty Wurlitzer]]" could simulate some orchestral sounds along with a number of percussion effects such as bass drums and cymbals, and [[sound effect]]s ranging from "train and boat whistles [to] car horns and bird whistles;&nbsp;... some could even simulate pistol shots, ringing phones, the sound of surf, horses' hooves, smashing pottery, [and] thunder and rain".<ref>{{cite magazine |last=Miller |first=Mary K. |title=It's a Wurlitzer |url=https://www.smithsonianmag.com/history/its-a-wurlitzer-61398212/ |magazine=Smithsonian |date=April 2002 |access-date=February 24, 2018 |archive-date=July 15, 2023 |archive-url=https://web.archive.org/web/20230715115313/https://www.smithsonianmag.com/history/its-a-wurlitzer-61398212/ |url-status=live }}</ref>
+
+[[Film score|Musical scores]] for early silent films were either [[improvised]] or compiled of classical or theatrical repertory music. Once full features became commonplace, however, music was compiled from [[photoplay music]] by the pianist, organist, orchestra conductor or the [[movie studio]] itself, which included a cue sheet with the film. These sheets were often lengthy, with detailed notes about effects and moods to watch for. Starting with the mostly original score composed by [[Joseph Carl Breil]] for [[D.&nbsp;W. Griffith]]'s epic ''[[The Birth of a Nation]]'' (1915), it became relatively common for the biggest-budgeted films to arrive at the exhibiting theater with original, specially composed scores.{{sfn|Eyman|1997}} However, the first designated full-blown scores had in fact been composed in 1908, by [[Camille Saint-Saëns]] for ''[[The Assassination of the Duke of Guise]]'',{{sfn|Marks|1997}} and by [[Mikhail Ippolitov-Ivanov]] for ''[[Stenka Razin (film)|Stenka Razin]]''.
+
+When organists or pianists used sheet music, they still might add improvisational flourishes to heighten the drama on screen. Even when special effects were not indicated in the score, if an organist was playing a theater organ capable of an unusual sound effect such as "galloping horses", it would be used during scenes of dramatic horseback chases.
+
+At the height of the silent era, movies were the single largest source of employment for instrumental musicians, at least in the United States. However, the introduction of talkies, coupled with the roughly simultaneous onset of the [[Great Depression]], was devastating to many musicians.
+
+A number of countries devised other ways of bringing sound to silent films. The early [[cinema of Brazil]], for example, featured ''fitas cantatas'' (singing films), filmed [[operetta]]s with singers performing behind the screen.{{sfn|Parkinson|1996|p=69}} In [[Cinema of Japan|Japan]], films had not only live music but also the ''[[benshi]]'', a live narrator who provided commentary and character voices. The ''benshi'' became a central element in Japanese film, as well as providing translation for foreign (mostly American) movies.{{sfn|Standish|2006|p=68}} The popularity of the ''benshi'' was one reason why silent films persisted well into the 1930s in Japan. Conversely, as ''benshi''-narrated films often lacked intertitles, modern-day audiences may sometimes find it difficult to follow the plots without specialised subtitling or additional commentary.
+
+=== Score restorations from 1980 to the present ===
+
+Few film scores survived intact from the silent period, and [[Musicology|musicologists]] are still confronted by questions when they attempt to precisely reconstruct those that remain. Scores used in current reissues or screenings of silent films may be complete reconstructions of compositions, newly composed for the occasion, assembled from already existing music libraries, or improvised on the spot in the manner of the silent-era theater musician.
+
+Interest in the scoring of silent films fell somewhat out of fashion during the 1960s and 1970s. There was a belief in many college film programs and [[Revival house|repertory cinemas]] that audiences should experience silent film as a pure visual medium, undistracted by music. This belief may have been encouraged by the poor quality of the music tracks found on many silent film reprints of the time. Since around 1980, there has been a revival of interest in presenting silent films with quality musical scores (either reworkings of period scores or cue sheets, or the composition of appropriate original scores). An early effort of this kind was [[Kevin Brownlow]]'s 1980 restoration of [[Abel Gance]]'s ''[[Napoléon (1927 film)|Napoléon]]'' (1927), featuring a score by [[Carl Davis]]. A slightly re-edited and sped-up version of Brownlow's restoration was later distributed in the United States by [[Francis Ford Coppola]], with a live orchestral score composed by his father [[Carmine Coppola]].
+
+In 1984, an edited restoration of ''[[Metropolis (1927 film)|Metropolis]]'' (1927) was released with a new rock music score by producer-composer [[Giorgio Moroder]]. Although the contemporary score, which included pop songs by [[Freddie Mercury]], [[Pat Benatar]], and [[Jon Anderson]] of [[Yes (band)|Yes]], was controversial, the door had been opened for a new approach to the presentation of classic silent films.
+
+Today, a large number of soloists, music ensembles, and orchestras perform traditional and contemporary scores for silent films internationally.<ref>{{cite web|url=http://www.brentonfilm.com/reference/silent-film-musicians-directory|title=Silent Film Musicians Directory|work=Brenton Film|access-date=May 25, 2016|date=February 10, 2016|archive-date=February 25, 2021|archive-url=https://web.archive.org/web/20210225144000/http://www.brentonfilm.com/reference/silent-film-musicians-directory|url-status=live}}</ref> The legendary theater organist [[Gaylord Carter]] continued to perform and record his original silent film scores until shortly before his death in 2000; some of those scores are available on DVD reissues. Other purveyors of the traditional approach include organists such as [[Dennis James (musician)|Dennis James]] and pianists such as [[Neil Brand]], Günter Buchwald, Philip C. Carli, [[Ben Model]], and [[William P. Perry]]. Other contemporary pianists, such as Stephen Horne and Gabriel Thibaudeau, have often taken a more modern approach to scoring. Ben Model in particular advocates in‑era scoring—"keep the sound inside that world so the picture plays the way it should"—rather than contemporary sound palettes.<ref>{{Cite web |title=Ben Model, Undercrank Productions, and the joy of silent movies on disc |website=Mighty Chroma |date=September 23, 2025 |url=https://mightychroma.me/blog/ben-model-undercrank-productions-and-the-joy-of-silent-movies-on-disc |access-date=September 27, 2025}}</ref>
+
+Orchestral conductors such as Carl Davis and [[Robert Israel (composer)|Robert Israel]] have written and compiled scores for numerous silent films; many of these have been featured in showings on [[Turner Classic Movies]] or have been released on DVD. Davis has composed new scores for classic silent dramas such as ''[[The Big Parade]]'' (1925) and ''[[Flesh and the Devil]]'' (1927). Israel has worked mainly in silent comedy, scoring the films of [[Harold Lloyd]], [[Buster Keaton]], [[Charley Chase]], and others. [[Timothy Brock]] has restored many of [[Charlie Chaplin]]'s scores, in addition to composing new scores.
+
+Contemporary music ensembles are helping to introduce classic silent films to a wider audience through a broad range of musical styles and approaches. Some performers create new compositions using traditional musical instruments, while others add electronic sounds, modern harmonies, rhythms, improvisation, and sound design elements to enhance the viewing experience. Among the contemporary ensembles in this category are [[Un Drame Musical Instantané]], [[Alloy Orchestra]], [[Club Foot Orchestra]], [[Silent Orchestra]], Mont Alto Motion Picture Orchestra, Minima and the Caspervek Trio, [[RPM Orchestra]]. Donald Sosin and his wife Joanna Seaton specialize in adding vocals to silent films, particularly where there is onscreen singing that benefits from hearing the actual song being performed. Films in this category include Griffith's ''[[Lady of the Pavements]]'' with [[Lupe Vélez]], [[Edwin Carewe]]'s ''[[Evangeline (1929 film)|Evangeline]]'' with [[Dolores del Río]], and [[Rupert Julian]]'s ''[[The Phantom of the Opera (1925 film)|The Phantom of the Opera]]'' with [[Mary Philbin]] and [[Virginia Pearson]].{{Citation needed|date = November 2015}}
+
+The Silent Film Sound and Music Archive digitizes music and cue sheets written for silent films and makes them available for use by performers, scholars, and enthusiasts.<ref>{{Cite web|url=http://www.sfsma.org/|title=About|website=Silent Film Sound & Music Archive|language=en-US|access-date=February 24, 2018|archive-date=June 17, 2016|archive-url=https://web.archive.org/web/20160617124232/http://www.sfsma.org/|url-status=live}}</ref>
+
+=== Acting techniques ===
+[[File:Lillian Gish-edit1.jpg|thumb|left|upright|[[Lillian Gish]], the "First Lady of the American Cinema", was a leading star in the silent era with one of the longest careers—1912 to 1987.]]
+[[File:Lon_Chaney_by_Jack_Freulich_1920s.jpg|thumb|left|upright|Actor and makeup artist [[Lon Chaney]]'s ability to transform into the most physically grotesque characters earned him the nickname "The Man of a Thousand Faces".<ref>{{Cite web |title=Lon Chaney |url=https://www.tcm.com/tcmdb/person/32060%7C100215/Lon-Chaney/ |access-date=2022-06-04 |website=Turner Classic Movies |language=en |archive-date=June 30, 2022 |archive-url=https://web.archive.org/web/20220630131536/https://www.tcm.com/tcmdb/person/32060%7C100215/Lon-Chaney/ |url-status=dead }}</ref>]]
+
+Silent-film actors emphasized [[body language]] and [[facial expression]] so that the [[audience]] could better understand what an actor was feeling and portraying on screen. Much silent film acting is apt to strike modern-day audiences as simplistic or [[camp (style)|campy]]. The melodramatic acting style was in some cases a habit actors transferred from their former stage experience. [[Vaudeville]] was an especially popular origin for many American silent film actors.{{sfn|Lewis|2008}} The pervading presence of stage actors in film was the cause of this outburst from director [[Marshall Neilan]] in 1917: "The sooner the stage people who have come into pictures get out, the better for the pictures."  In other cases, directors such as [[John Griffith Wray]] required their actors to deliver larger-than-life expressions for emphasis. As early as 1914, American viewers had begun to make known their preference for greater naturalness on screen.{{sfn|Brownlow|1968a|pp=344–353}}
+
+Silent films became less vaudevillian in the mid-1910s, as the differences between stage and screen became apparent. Due to the work of directors such as [[D. W. Griffith]], cinematography became less stage-like, and [[close up]]s allowed for understated and realistic acting. [[Lillian Gish]] has been called film's "first true actress" for her work in the period, as she pioneered new film performing techniques, recognizing the crucial differences between stage and screen acting. Directors such as [[Albert Capellani]] and [[Maurice Tourneur]] began to insist on naturalism in their films. By the mid-1920s many American silent films had adopted a more naturalistic acting style, though not all actors and directors accepted naturalistic, low-key acting straight away; as late as 1927, films featuring expressionistic acting styles, such as ''[[Metropolis (1927 film)|Metropolis]]'', were still being released.{{sfn|Brownlow|1968a|pp=344–353}} [[Greta Garbo]], whose first American film was released in 1926, would become known for her naturalistic acting.
+
+According to Anton Kaes, a silent film scholar from the University of California, Berkeley, American silent cinema began to see a shift in acting techniques between 1913 and 1921, influenced by techniques found in German silent film. This is mainly attributed to the influx of immigrants from the [[Weimar Republic]], "including film directors, producers, cameramen, lighting and stage technicians, as well as actors and actresses".{{sfn|Kaes|1990}}
+
+=== Projection speed ===
+Until the standardization of the projection speed of 24 frames per second (fps) for sound films between 1926 and 1930, silent films were shot at variable speeds (or "[[frame rate]]s") anywhere from 12 to 40&nbsp;fps, depending on the year and studio.<ref name=Brownlow2>{{cite magazine |last=Brownlow |first=Kevin |author-link=Kevin Brownlow |date=Summer 1980 |title=Silent Films: What Was the Right Speed? |url=http://www.cinemaweb.com/silentfilm/bookshelf/18_kb_2.htm |magazine=Sight & Sound |pages=164–167 |archive-url=https://web.archive.org/web/20111109054638/http://www.cinemaweb.com/silentfilm/bookshelf/18_kb_2.htm |archive-date=November 9, 2011 |access-date=March 24, 2018}}</ref> "Standard silent film speed" is often said to be 16&nbsp;fps as a result of the [[Auguste and Louis Lumière|Lumière brothers']] {{Lang|fr|Cinématographe}}, but industry practice varied considerably; there was no actual standard. [[William Kennedy Dickson|William Kennedy Laury Dickson]], an Edison employee, settled on the astonishingly fast 40 frames per second.{{sfn|Lewis|2008}} Additionally, cameramen of the era insisted that their cranking technique was exactly 16&nbsp;fps, but modern examination of the films shows this to be in error, and that they often cranked faster. Unless carefully shown at their intended speeds silent films can appear unnaturally fast or slow. However, some scenes were intentionally [[fast motion|undercranked]] during shooting to accelerate the action—particularly for comedies and action films.<ref name=Brownlow2 />
+
+[[File:ICA Monopol II - DSC 1268.JPG|thumb|Silent film projector model Monopol II of the Internationale Camera Actiengesellschaft (ICA) Dresden Germany, 1920s]]
+Slow projection of a [[cellulose nitrate]] base film carried a risk of fire, as each frame was exposed for a longer time to the intense heat of the projection lamp; but there were other reasons to project a film at a greater pace. Often projectionists received general instructions from the distributors on the musical director's cue sheet as to how fast particular reels or scenes should be projected.<ref name=Brownlow2 /> In rare instances, usually for larger productions, cue sheets produced specifically for the projectionist provided a detailed guide to presenting the film. Theaters also—to maximize profit—sometimes varied projection speeds depending on the time of day or popularity of a film,<ref name=card>{{cite journal|first=James |last=Card |date=October 1955 |title=Silent Film Speed |journal=Image |pages=5–56 |url=http://www.cinemaweb.com/silentfilm/bookshelf/18_car_1.htm |access-date=2007-05-09 |url-status=dead |archive-url=https://web.archive.org/web/20070407224839/http://www.cinemaweb.com/silentfilm/bookshelf/18_car_1.htm |archive-date=April 7, 2007 }}</ref> or to fit a film into a prescribed time slot.<ref name=Brownlow2 />
+
+All motion-picture film projectors require a moving shutter to block the light whilst the film is moving, otherwise the image is smeared in the direction of the movement. However this shutter causes the image to ''flicker'', and images with low rates of flicker are very unpleasant to watch. Early studies by [[Thomas Edison]] for his [[Kinetoscope]] machine determined that any rate below 46&nbsp;images per second "will strain the eye".<ref name=Brownlow2 /> and this holds true for projected images under normal cinema conditions also. The solution adopted for the Kinetoscope was to run the film at over 40 frames/sec, but this was expensive for film. However, by using projectors with dual- and triple-blade shutters the flicker rate is multiplied two or three times higher than the number of film frames—each frame being flashed two or three times on screen. A three-blade shutter projecting a 16&nbsp;fps film will slightly surpass Edison's figure, giving the audience 48 images per second. During the silent era projectors were commonly fitted with 3-bladed shutters. Since the introduction of sound with its 24 frame/sec standard speed 2-bladed shutters have become the norm for 35&nbsp;mm cinema projectors, though three-bladed shutters have remained standard on 16&nbsp;mm and 8&nbsp;mm projectors, which are frequently used to project amateur footage shot at 16 or 18 frames/sec. A 35&nbsp;mm film frame rate of 24&nbsp;fps translates to a film speed of {{convert|456|mm|in}} per second.{{sfn|Read|Meyer|2000|pp=24–26}} One {{convert|1000|ft|m|-2|adj=on}} reel requires 11 minutes and 7 seconds to be projected at 24&nbsp;fps, while a 16&nbsp;fps projection of the same reel would take 16 minutes and 40 seconds, or {{convert|304|mm|in}} per second.<ref name=Brownlow2 />
+
+In the 1950s, many [[telecine]] conversions of silent films at grossly incorrect frame rates for broadcast television may have alienated viewers.<ref>Director [[Gus Van Sant]] describes in his director commentary on ''Psycho: Collector's Edition'' (1998) that he and his generation were likely turned off to silent film because of incorrect TV broadcast speeds.</ref> Film speed is often a vexed issue among scholars and film buffs in the presentation of silents today, especially when it comes to DVD releases of [[film restoration|restored films]], such as the case of the 2002 restoration of ''[[Metropolis (1927 film)|Metropolis]]''.<ref>{{Cite web|url=https://www.dvdtalk.com/dvdsavant/s3200frame.html|title=Metropolis and the Frame Rate Issue|last=Erickson|first=Glenn|date=1 May 2010|website=DVD Talk|access-date=11 October 2018|archive-date=October 11, 2018|archive-url=https://web.archive.org/web/20181011214838/https://www.dvdtalk.com/dvdsavant/s3200frame.html|url-status=live}}</ref>
+
+=== Tinting ===
+{{Main|Film tinting}}
+[[File:The Cabinet of Dr Caligari Conrad Veidt.jpg|thumb|Cesare ([[Conrad Veidt]]) awakens in ''[[The Cabinet of Dr. Caligari]]''. The amber [[Film tinting|tint]] indicates a daylight setting.]]
+
+With the lack of natural color processing available, films of the silent era were frequently dipped in [[dye]]stuffs and dyed various shades and hues to signal a mood or represent a time of day. Hand tinting dates back to 1895 in the United States with Edison's release of selected hand-tinted prints of ''Butterfly Dance''. Additionally, experiments in color film started as early as in 1909, although it took a much longer time for color to be adopted by the industry and an effective process to be developed.{{sfn|Lewis|2008}} Blue represented night scenes, yellow or amber meant day. Red represented fire and green represented a mysterious atmosphere. Similarly, toning of film (such as the common silent film generalization of [[Sepia tone|sepia]]-toning) with special solutions replaced the silver particles in the film stock with salts or dyes of various colors. A combination of tinting and toning could be used as an effect that could be striking.
+
+Some films were hand-tinted, such as ''[[Annabelle Serpentine Dance]]'' (1894), from [[Edison Studios]]. In it, [[Annabelle Whitford]],<ref name=whitford>{{cite web| title=Annabelle Whitford| url=http://ibdb.com/person.php?id=69059| publisher=[[Internet Broadway Database]]| access-date=March 7, 2014| archive-date=March 8, 2014| archive-url=https://web.archive.org/web/20140308021953/http://ibdb.com/person.php?id=69059| url-status=live}}</ref> a young dancer from Broadway, is dressed in white veils that appear to change colors as she dances. This technique was designed to capture the effect of the live performances of [[Loie Fuller]], beginning in 1891, in which stage lights with colored gels turned her white flowing dresses and sleeves into artistic movement.{{sfn|Current|Current|1997}} Hand coloring was often used in the early "trick" and fantasy films of Europe, especially those by [[Georges Méliès]]. Méliès began hand-tinting his work as early as 1897 and the 1899 ''[[Cinderella (1899 film)|Cendrillion]]'' (Cinderella) and 1900 ''[[Joan of Arc (1900 film)|Jeanne d'Arc]]'' (Joan of Arc) provide early examples of hand-tinted films in which the color was a critical part of the scenography or ''[[mise-en-scène]]''; such precise tinting used the workshop of [[Elisabeth Thuillier]] in Paris, with teams of female artists adding layers of color to each frame by hand rather than using a more common (and less expensive) process of stenciling.{{sfn|Bromberg|Lang|2012}} A newly restored version of Méliès's ''[[A Trip to the Moon]]'', originally released in 1902, shows an exuberant use of color designed to add texture and interest to the image.<ref name=duvall>{{cite book| title=A Trip to the Moon in its Original 1902 Colors| first1=Gilles| last1=Duvall| first2=Severine| last2=Wemaere| date=March 27, 2012| publisher=Technicolor Foundation for Cinema Heritage and Flicker Alley| pages=18–19}}</ref>
+
+Comments by an American distributor in a 1908 film-supply catalog further underscore France's continuing dominance in the field of hand-coloring films during the early silent era. The distributor offers for sale at varying prices "High-Class" motion pictures by [[Pathé]], [[Charles Urban|Urban-Eclipse]], [[Gaumont]], [[Kalem Company|Kalem]], [[Itala Film]], [[Ambrosio Film]], and [[Selig Polyscope Company|Selig]]. Several of the longer, more prestigious films in the catalog are offered in both standard black-and-white "plain stock" as well as in "hand-painted" color.<ref name="1908prices">[https://archive.org/details/revisedlistofhig00unse/page/190/mode/2up ''Revised List of High-Class Original Motion Picture Films'' (1908)], sales catalog of unspecified film distributor (United States, 1908), pp. [4], 191. Internet Archive. Retrieved July 7, 2020.</ref> A plain-stock copy, for example, of the 1907 release ''[[Ben Hur (1907 film)|Ben Hur]]'' is offered for $120 (${{Inflation|US|120|1908|fmt=c}} USD today), while a colored version of the same 1,000-foot, 15-minute film costs $270 (${{Inflation|US|270|1908|fmt=c}}) including the extra $150 coloring charge, which amounted to 15 cents more per foot.<ref name="1908prices"/> Although the reasons for the cited extra charge were likely obvious to customers, the distributor explains why his catalog's colored films command such significantly higher prices and require more time for delivery. His explanation also provides insight into the general state of film-coloring services in the United States by 1908:
+
+[[File:1908 film-supply catalog with prices for the Kalem release Ben Hur.jpeg|thumb|Price for a hand-colored print of ''Ben Hur'' in 1908]]
+{{blockquote|The coloring of moving picture films is a line of work which cannot be satisfactorily performed in the United States. In view of the enormous amount of labor involved which calls for individual hand painting of every one of sixteen pictures to the foot or 16,000 separate pictures for each 1,000 feet of film very few American colorists will undertake the work at any price.<br>As film coloring has progressed much more rapidly in France than in any other country, all of our coloring is done for us by the best coloring establishment in Paris and we have found that we obtain better quality, cheaper prices and quicker deliveries, even in coloring American made films, than if the work were done elsewhere.<ref name="1908prices"/>}}
+
+By the beginning of the 1910s, with the onset of feature-length films, tinting was used as another mood setter, just as commonplace as music. The director [[D.&nbsp;W. Griffith]] displayed a constant interest and concern about color, and used tinting as a special effect in many of his films. His 1915 epic ''[[The Birth of a Nation]]'' used a number of colors, including amber, blue, lavender, and a striking red tint for scenes such as the "burning of Atlanta" and the ride of the [[Ku Klux Klan]] at the climax of the picture. Griffith later invented a color system in which colored lights flashed on areas of the screen to achieve a color.
+
+With the development of sound-on-film technology and the industry's acceptance of it, tinting was abandoned altogether, because the dyes used in the tinting process interfered with the soundtracks present on film strips.{{sfn|Lewis|2008}}
+
+== Early studios ==
+The early studios were located in the [[New York City area]]. Edison Studios were first in [[West Orange, New Jersey]] (1892), they were moved to [[the Bronx|the Bronx, New York]] (1907). Fox (1909) and Biograph (1906) started in [[Manhattan]], with studios in St George, [[Staten Island]]. Other films were shot in [[Fort Lee, New Jersey]]. In December 1908, Edison led the formation of the [[Motion Picture Patents Company]] in an attempt to control the industry and shut out smaller producers. The "Edison Trust", as it was nicknamed, was made up of [[Edison Studios|Edison]], [[Biograph Studios|Biograph]], [[Essanay Studios]], [[Kalem Company]], [[George Kleine Productions]], [[Lubin Manufacturing Company|Lubin Studios]], [[Georges Méliès]], [[Pathé]], [[Selig Polyscope Company|Selig Studios]], and [[Vitagraph Studios]], and dominated distribution through the [[General Film Company]]. This company dominated the industry as both a vertical and horizontal [[monopoly]] and is a contributing factor in studios' migration to the West Coast. The Motion Picture Patents Co. and the General Film Co. were found guilty of [[antitrust]] violation in October 1915, and were dissolved.
+
+The [[Thanhouser Company|Thanhouser]] film studio was founded in [[New Rochelle, New York]], in 1909 by American theatrical impresario [[Edwin Thanhouser]]. The company produced and released 1,086 films between 1910 and 1917, including the first [[film serial]], ''[[The Million Dollar Mystery]]'', released in 1914.<ref>{{cite news|url=https://www.nytimes.com/2013/08/16/nyregion/getting-a-close-up-of-the-silent-film-era.html|title=Getting a Close-Up of the Silent-Film Era|newspaper=The New York Times|first=Eve M.|last=Kahn|date=August 15, 2013|access-date=November 29, 2017|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201132150/http://www.nytimes.com/2013/08/16/nyregion/getting-a-close-up-of-the-silent-film-era.html|url-status=live}}</ref> The first [[Western film|Westerns]] were filmed at [[Fred Scott (actor)|Fred Scott]]'s Movie Ranch in South Beach, Staten Island. Actors costumed as [[cowboy]]s and Native Americans galloped across Scott's movie ranch set, which had a frontier main street, a wide selection of stagecoaches and a 56-foot stockade. The island provided a serviceable stand-in for locations as varied as the Sahara desert and a British cricket pitch. [[War film|War scenes]] were shot on the plains of [[Grasmere, Staten Island]]. ''[[The Perils of Pauline (1914 serial)|The Perils of Pauline]]'' and its even more popular sequel ''[[The Exploits of Elaine]]'' were filmed largely on the island. So was the 1906 blockbuster ''[[Life of a Cowboy]]'', by [[Edwin S. Porter|Edwin S. Porter Company]], and filming moved to the West Coast {{Circa|1912}}.
+
+== Top-grossing films in the United States ==
+{{multiple image
+ | total_width = 330
+ | image1      = Birth of a Nation poster 2.jpg
+ | caption1    = Poster for ''[[The Birth of a Nation]]'' (1915)
+ | image2      = Ben-Hur-1925.jpg
+ | caption2    = Poster for ''[[Ben-Hur (1925 film)|Ben-Hur]]'' (1925)
+}}
+The following are American films from the silent film era that had earned the highest gross income as of 1932. The amounts given are [[gross rental]]s (the distributor's share of the box-office) as opposed to exhibition gross.<ref name="Variety (1932)">{{cite news |title=Biggest Money Pictures |work=[[Variety (magazine)|Variety]] |date=June 21, 1932 |page=1}} Cited in {{cite web |title=Biggest Money Pictures|publisher=Cinemaweb |url=http://www.cinemaweb.com/silentfilm/bookshelf/7_v_32_4.htm |access-date=July 14, 2011 |archive-url=https://web.archive.org/web/20110708155503/http://www.cinemaweb.com/silentfilm/bookshelf/7_v_32_4.htm |archive-date=July 8, 2011}}</ref>
+{| class="wikitable sortable plainrowheaders" width=60%
+!scope="col" | Title
+!scope="col" | Year
+!scope="col" | Director
+!scope="col" | [[List of highest-grossing films#distributor rental|Gross rental]]
+|-
+!scope="row"| {{Sort|Birth|''[[The Birth of a Nation]]''}}
+|1915
+|{{sortname|D.&nbsp;W.|Griffith}}
+|{{nts|10,000,000|prefix=$}}
+|-
+!scope="row"| {{sort|Big|''[[The Big Parade]]''}}
+|1925
+|{{sortname|King|Vidor}}
+|{{nts|6,400,000|prefix=$}}
+|-
+!scope="row"| ''[[Ben-Hur: A Tale of the Christ (1925 film)|Ben-Hur]]''
+|1925
+|{{sortname|Fred|Niblo}}
+|{{nts|5,500,000|prefix=$}}
+|-
+!scope="row"| [[The Kid (1921 film)|''The Kid'']]
+|1921
+|[[Charlie Chaplin]]
+|{{nts|5,450,000|prefix=$}}
+|-
+!scope="row"| ''[[Way Down East]]''
+|1920
+|{{sortname|D.&nbsp;W.|Griffith}}
+|{{nts|5,000,000|prefix=$}}
+|-
+!scope="row"| ''[[City Lights]]''
+|1931
+|{{sortname|Charlie|Chaplin}}
+|{{nts|4,300,000|prefix=$}}
+|-
+!scope="row"| ''[[The Gold Rush]]''
+|1925
+|[[Charlie Chaplin]]
+|{{nts|4,250,000|prefix=$}}
+|-
+!scope="row"| {{sort|Circus|''[[The Circus (1928 film)|The Circus]]''}}
+|1928
+|{{Sortname|Charlie|Chaplin}}
+|{{nts|3,800,000|prefix=$}}
+|-
+!scope="row"| {{sort|Covered|''[[The Covered Wagon]]''}}
+|1923
+|{{Sortname|James|Cruze}}
+|{{nts|3,800,000|prefix=$}}
+|-
+!scope="row"| {{sort|Hunchback|''[[The Hunchback of Notre Dame (1923 film)|The Hunchback of Notre Dame]]''}}
+|1923
+|{{Sortname|Wallace|Worsley}}
+|{{nts|3,500,000|prefix=$}}
+|-
+!scope="row"| {{sort|Ten|''[[The Ten Commandments (1923 film)|The Ten Commandments]]''}}
+|1923
+|{{Sortname|Cecil B.|DeMille}}
+|{{nts|3,400,000|prefix=$}}
+|-
+!scope="row"|''[[Orphans of the Storm]]''
+|1921
+|{{Sortname|D.&nbsp;W.|Griffith}}
+|{{nts|3,000,000|prefix=$}}
+|-
+!scope="row"|''[[For Heaven's Sake (1926 film)|For Heaven's Sake]]''
+|1926
+|{{Sortname|Sam|Taylor|Sam Taylor (director)}}
+|{{nts|2,600,000|prefix=$}}
+|-
+!scope="row"|''[[The Road to Ruin (1928 film)|The Road to Ruin]]''
+|1928
+|[[Norton S. Parker]]
+|{{nts|2,500,000|prefix=$}}
+|-
+!scope="row"|''[[7th Heaven (1927 film)|7th Heaven]]''
+|1928
+|[[Frank Borzage]]
+|{{nts|2,500,000|prefix=$}}
+|-
+!scope="row"|''[[What Price Glory? (1926 film)|What Price Glory?]]''
+|1926
+|{{Sortname|Raoul|Walsh}}
+|{{nts|2,400,000|prefix=$}}
+|-
+!scope="row"|''[[Abie's Irish Rose (1928 film)|Abie's Irish Rose]]''
+|1928
+|{{Sortname|Victor|Fleming}}
+|{{nts|1,500,000|prefix=$}}
+|}
+
+== During the sound era ==
+
+=== Transition ===
+Although attempts to create sync-sound motion pictures go back to the Edison lab in 1896, only from the early 1920s were the basic technologies such as [[vacuum tube]] amplifiers and high-quality loudspeakers available. The next few years saw a race to design, implement, and market several rival [[sound-on-disc]] and [[sound-on-film]] sound formats, such as [[Photokinema]] (1921), [[Phonofilm]] (1923), [[Vitaphone]] (1926), [[Movietone sound system|Fox Movietone]] (1927) and [[RCA Photophone]] (1928).
+
+[[Warner Bros.]] was the first studio to accept sound as an element in film production and utilize the Vitaphone, a sound-on-disc technology, to do so.{{sfn|Lewis|2008}} The studio then released ''[[The Jazz Singer]]'' in 1927, which marked the first commercially successful [[sound film]], but silent films were still the majority of features released in both 1927 and 1928, along with so-called [[Goat gland (film release)|goat-glanded]] films: silents with a subsection of sound film inserted. Thus the modern sound film era may be regarded as coming to dominance beginning in 1929.
+
+For a listing of notable silent-era films, see ''[[List of years in film]]'' for the years between the beginning of film and 1928. The following list includes only films produced in the sound era with the specific artistic intention of being silent.
+* ''[[City Girl (1930 film)|City Girl]]'', [[F. W. Murnau]], 1930
+* ''[[Earth (1930 film)|Earth]]'', [[Aleksandr Dovzhenko]], 1930
+* ''[[The Silent Enemy (1930 film)|The Silent Enemy]]'', H.P. Carver, 1930<ref name="TCMSilent">{{cite web|last1=Carr|first1=Jay|title=The Silent Enemy|url=https://www.tcm.com/this-month/article/311028|website=Turner Classic Movies|access-date=11 September 2017|archive-date=September 12, 2017|archive-url=https://web.archive.org/web/20170912012553/http://www.tcm.com/this-month/article/311028%7C0/The-Silent-Enemy.html|url-status=live}}</ref><ref name="Schrom">{{cite web|last1=Schrom|first1=Benjamin|title=The Silent Enemy|url=http://silentfilm.org/archive/the-silent-enemy-1930|website=San Francisco Silent Film Festival|access-date=11 September 2017|archive-date=January 31, 2020|archive-url=https://web.archive.org/web/20200131235341/http://www.silentfilm.org/archive/the-silent-enemy-1930|url-status=dead}}</ref>
+* ''[[Borderline (1930 film)|Borderline]]'', [[Kenneth Macpherson]], 1930
+* ''[[City Lights]]'', [[Charlie Chaplin]], 1931
+* ''[[Tabu: A Story of the South Seas|Tabu]]'', F. W. Murnau, 1931
+* ''[[I Was Born, But...]]'', [[Yasujirō Ozu]], 1932
+* ''[[Passing Fancy]]'', Yasujirō Ozu, 1933
+* ''[[The Goddess (1934 film)|The Goddess]]'', [[Wu Yonggang]], 1934
+* ''[[A Story of Floating Weeds]]'', Yasujirō Ozu, 1934
+* ''[[Orizuru Osen|The Downfall of Osen]]'', [[Kenji Mizoguchi]], 1935
+* ''[[Legong (film)|Legong]]'', [[Henri de la Falaise]], 1935
+* ''[[An Inn in Tokyo]]'', Yasujirō Ozu, 1935
+* ''[[Happiness (1935 film)|Happiness]]'', [[Aleksandr Medvedkin]], 1935
+* ''[[Cosmic Voyage (1936 film)|Cosmic Voyage]]'', Vasili Zhuravlov, 1936
+
+=== Later homages ===
+Several filmmakers have paid homage to the comedies of the silent era, including [[Charlie Chaplin]], with ''[[Modern Times (film)|Modern Times]]'' (1936), [[Orson Welles]] with ''[[Too Much Johnson (1938 film)|Too Much Johnson]]'' (1938), [[Jacques Tati]] with ''[[Les Vacances de Monsieur Hulot]]'' (1953), [[Pierre Etaix]] with ''[[The Suitor]]'' (1962), and [[Mel Brooks]] with ''[[Silent Movie]]'' (1976). Taiwanese director [[Hou Hsiao-hsien]]'s acclaimed drama ''[[Three Times]]'' (2005) is silent during its middle third, complete with intertitles; [[Stanley Tucci]]'s ''[[The Impostors]]'' has an opening silent sequence in the style of early silent comedies. Brazilian filmmaker Renato Falcão's ''Margarette's Feast'' (2003) is silent. Writer/director Michael Pleckaitis puts his own twist on the genre with ''Silent'' (2007). While not silent, the ''[[Mr. Bean]]'' television series and movies have used the title character's non-talkative nature to create a similar style of humor. A lesser-known example is [[Jérôme Savary]]'s ''[[La fille du garde-barrière]]'' (1975), an homage to silent-era films that uses intertitles and blends comedy, drama, and explicit sex scenes (which led to it being refused a cinema certificate by the [[British Board of Film Classification]]).
+
+In 1990, [[Charles Lane (filmmaker)|Charles Lane]] directed and starred in ''[[Sidewalk Stories]]'', a low budget salute to sentimental silent comedies, particularly [[Charlie Chaplin]]'s ''[[The Kid (1921 film)|The Kid]]''.
+
+The German film ''[[Tuvalu (film)|Tuvalu]]'' (1999) is mostly silent; the small amount of dialog is an odd mix of European languages, increasing the film's universality. [[Guy Maddin]] won awards for his homage to Soviet-era silent films with his short ''[[The Heart of the World]]'' after which he made a feature-length silent, ''[[Brand Upon the Brain!]]'' (2006), incorporating live [[Foley (sound design)|Foley artists]], narration and orchestra at select showings. ''[[Shadow of the Vampire]]'' (2000) is a highly fictionalized depiction of the filming of [[Friedrich Wilhelm Murnau]]'s classic silent [[vampire]] movie ''[[Nosferatu, eine Symphonie des Grauens|Nosferatu]]'' (1922). [[Werner Herzog]] honored the same film in his own version, ''[[Nosferatu: Phantom der Nacht]]'' (1979).
+
+Some films draw a direct contrast between the silent film era and the era of talkies. ''[[Sunset Boulevard (1950 film)|Sunset Boulevard]]'' shows the disconnect between the two eras in the character of [[Norma Desmond]], played by silent film star [[Gloria Swanson]], and ''[[Singin' in the Rain]]'' deals with [[Hollywood (film industry)|Hollywood]] artists adjusting to the talkies. [[Peter Bogdanovich]]'s 1976 film ''[[Nickelodeon (film)|Nickelodeon]]'' deals with the turmoil of silent filmmaking in Hollywood during the early 1910s, leading up to the release of [[D.&nbsp;W. Griffith]]'s epic ''[[The Birth of a Nation]]'' (1915).
+
+In 1999, the [[Finland|Finnish]] filmmaker [[Aki Kaurismäki]] produced ''[[Juha (1999 film)|Juha]]'' in black and white, which captures the style of a silent film, using intertitles in place of spoken dialogue. Special [[release print]]s with titles in several different languages were produced for international distribution.<ref>{{IMDb title|qid=Q1711517|id=tt0158692|title=Juha}}</ref> In India, the film ''[[Pushpak]]'' (1988),<ref>{{IMDb title|qid=Q7261850|id=tt0251355|title=Pushpak}}</ref> starring [[Kamal Haasan]], was a black comedy entirely devoid of dialog. The Australian film ''[[Dr. Plonk|Doctor Plonk]]'' (2007), was a silent comedy directed by [[Rolf de Heer]]. Stage plays have drawn upon silent film styles and sources. Actor/writers [[Billy Van Zandt]] and [[Jane Milmore]] staged their Off-Broadway slapstick comedy ''Silent Laughter'' as a live action tribute to the silent screen era.<ref name=silentlaughter>{{cite web| title=About the Show| url=http://silentlaughter.com/about/| year=2004| publisher=Silent Laughter| access-date=March 7, 2014| archive-date=March 12, 2014| archive-url=https://web.archive.org/web/20140312063000/http://silentlaughter.com/about/| url-status=live}}</ref> Geoff Sobelle and Trey Lyford created and starred in ''All Wear Bowlers'' (2004), which started as an homage to [[Laurel and Hardy]] then evolved to incorporate life-sized silent film sequences of Sobelle and Lyford who jump back and forth between live action and the silver screen.<ref name=zinoman>{{cite news| title=Lost in a Theatrical World of Slapstick and Magic| url=https://www.nytimes.com/2005/02/23/theater/reviews/23roun.html?_r=0| date=February 23, 2005| last=Zinoman| first=Jason| author-link=Jason Zinoman| work=The New York Times| access-date=March 7, 2014| archive-date=July 21, 2023| archive-url=https://web.archive.org/web/20230721115855/https://www.nytimes.com/2005/02/23/theater/reviews/lost-in-a-theatrical-world-of-slapstick-and-magic.html| url-status=live}}</ref> The animated film ''[[Fantasia (1940 film)|Fantasia]]'' (1940), which is eight different animation sequences set to music, can be considered a silent film, with only one short scene involving dialogue. The espionage film ''[[The Thief (1952 film)|The Thief]]'' (1952) has music and sound effects, but no dialogue, as do [[Thierry Zéno]]'s 1974 ''[[Vase de Noces]]'' and [[Patrick Bokanowski]]'s 1982 ''[[The Angel (1982 film)|The Angel]]''.
+
+In 2005, the [[H.&nbsp;P. Lovecraft Historical Society]] produced a [[The Call of Cthulhu (film)|silent film version]] of Lovecraft's story ''[[The Call of Cthulhu]]''. This film maintained a period-accurate filming style, and was received as both "the best HPL adaptation to date" and, referring to the decision to make it as a silent movie, "a brilliant conceit".<ref>{{Cite web|url=https://www.syfy.com/|archiveurl=https://web.archive.org/web/20090325060048/http://www.scifi.com/sfw/issue451/screen2.html|url-status=dead|title=www.scifi.com|archivedate=March 25, 2009|website=SYFY Official Site|accessdate=October 8, 2024}}</ref>
+
+The French film ''[[The Artist (film)|The Artist]]'' (2011), written and directed by [[Michel Hazanavicius]], plays as a silent film and is set in Hollywood during the silent era. It also includes segments of fictitious silent films starring its protagonists. It won the [[Academy Award for Best Picture]].<ref name=presskitmh>{{Cite web|url=http://www.festival-cannes.com/assets/Image/Direct/041179.PDF |title=Interview with Michel Hazanavicius |work=English press kit The Artist |publisher=[[Wild Bunch (film company)|Wild Bunch]] |access-date=May 10, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110914011421/http://www.festival-cannes.com/assets/Image/Direct/041179.PDF |archive-date=September 14, 2011 }}</ref>
+
+The Japanese [[vampire film]] ''[[Sanguivorous (film)|Sanguivorous]]'' (2011) is not only done in the style of a silent film, but even toured with live orchestral accompaniment.<ref name=smash>{{cite web| title=Sangivorous| url=http://www.filmsmash.com/?os_reviews=sanguivorous| date=December 8, 2012| publisher=Film Smash| access-date=March 7, 2014| archive-date=December 11, 2013| archive-url=https://web.archive.org/web/20131211122529/http://www.filmsmash.com/?os_reviews=sanguivorous| url-status=live}}</ref><ref name=Uarts>{{cite press release| title=School of Film Spotlight Series: Sanguivorous| url=http://www.uarts.edu/events/alumni/2013/04/school-film-spotlight-series-sanguivorous| date=April 4, 2013| publisher=[[University of the Arts (Philadelphia)|University of the Arts]]| access-date=March 7, 2014| archive-url=https://web.archive.org/web/20131002161306/http://www.uarts.edu/events/alumni/2013/04/school-film-spotlight-series-sanguivorous| archive-date=October 2, 2013| url-status=dead| df=mdy-all}}</ref> [[Eugene Chadbourne]] has been among those who have played live music for the film.<ref name=folio>{{cite news| title=Sanguivorous| url=http://folioweekly.com/SANGUIVOROUS,7950| work=[[Folio Weekly]]| date=October 19, 2013| location=Jacksonville, Florida| access-date=March 7, 2014| archive-url=https://web.archive.org/web/20131109060830/http://folioweekly.com/SANGUIVOROUS,7950| archive-date=November 9, 2013| url-status=dead| df=mdy-all}}</ref>
+
+''[[Blancanieves]]'' is a 2012 Spanish black-and-white silent fantasy drama film written and directed by [[Pablo Berger]].<ref>{{Cite web |last=Sanchez |first=Diana |date= |title=Blancanieves |url=http://tiff.net/filmsandschedules/tiff/2012/blancanieves |url-status=dead |archive-url=https://web.archive.org/web/20120826011205/http://tiff.net/filmsandschedules/tiff/2012/blancanieves |archive-date=2012-08-26 |access-date=2023-02-06 |website=Toronto International Film Festival}}</ref>
+
+The American feature-length silent film ''[[Silent Life]]'', which started in 2006 and features performances by [[Isabella Rossellini]] and [[Galina Jovovich]], mother of [[Milla Jovovich]], premiered in 2013. The film is based on the life of silent screen icon [[Rudolph Valentino]], known as Hollywood's first "Great Lover". After emergency surgery, Valentino loses his grip on reality and begins to see the recollection of his life in Hollywood from a perspective of a coma – as a silent film shown at a movie palace, the magical portal between life and eternity, between reality and illusion.<ref name=silentlife>{{cite press release| title=Another Silent Film to Come Out in 2011: "Silent Life" Moves up Release Date| url=http://www.prnewswire.com/news-releases/another-silent-film-to-come-out-in-2011-silent-life-moves-up-release-date-134313178.html| publisher=Rudolph Valentino Productions| date=November 22, 2011| access-date=March 7, 2014| archive-date=May 28, 2023| archive-url=https://web.archive.org/web/20230528172229/https://www.prnewswire.com/news-releases/another-silent-film-to-come-out-in-2011-silent-life-moves-up-release-date-134313178.html| url-status=live}}</ref><ref>{{Cite web|url=http://www.silentlifefilm.com/synopsis|archiveurl=https://web.archive.org/web/20140308002711/http://www.silentlifefilm.com/synopsis|url-status=dead|title=Silent life official web site|archivedate=March 8, 2014|accessdate=October 8, 2024}}</ref>
+
+''[[The Picnic (2012 film)|The Picnic]]'' is a 2012 short film made in the style of two-reel silent melodramas and comedies. It was part of the exhibit, ''No Spectators: The Art of Burning Man,'' a 2018–2019 exhibit curated by the [[Renwick Gallery]] of the [[Smithsonian American Art Museum]].<ref name="SchaeferBurning">{{cite news|last=Schaefer|first=Brian|title=Will the Spirit of Burning Man Art Survive in Museums?|url=https://www.nytimes.com/2018/03/23/arts/design/burning-man-art-renwick-gallery.html|work=The New York Times|access-date=June 12, 2020|date=23 March 2018|archive-date=June 12, 2020|archive-url=https://web.archive.org/web/20200612083448/https://www.nytimes.com/2018/03/23/arts/design/burning-man-art-renwick-gallery.html|url-status=live}}</ref> The film was shown inside a miniature 12-seat [[Art Deco]] movie palace on wheels called ''The Capitol Theater'', created by Oakland, Ca. art collective [[Five Ton Crane]].
+
+''[[Right There (film)|Right There]]'' is a 2013 short film that is an homage to silent film comedies.
+
+The [[American Theatre Organ Society]] pays homage to the music of silent films, as well as the [[theatre organ]]s that played such music. With over 75 local chapters, the organization seeks to preserve and promote theater organs and music as an art form.<ref>{{cite web| title=About Us| publisher=American Theater Organ Society| url=http://www.atos.org/about| access-date=March 7, 2014| archive-date=October 29, 2013| archive-url=https://web.archive.org/web/20131029204639/http://www.atos.org/about| url-status=live}}</ref>
+
+The [[Globe International Silent Film Festival]] (GISFF) is an annual event focusing on image and atmosphere in cinema which takes place in a reputable university or academic environment every year and is a platform for showcasing and judging films from filmmakers who are active in this field.<ref>Globe International Silent Film Festival wikipedia</ref> In 2018, film director Christopher Annino shot the now internationally award-winning feature silent film ''Silent Times''.<ref>[https://www.broadwayworld.com/connecticut/article/Silent-Feature-Film-SILENT-FILM-is-the-First-Of-Its-Kind-In-80-Years-20180430 "Silent Feature Film SILENT TIMES Is the First of Its Kind in 80 Years"] {{webarchive |url=https://web.archive.org/web/20181210111020/https://www.broadwayworld.com/connecticut/article/Silent-Feature-Film-SILENT-FILM-is-the-First-Of-Its-Kind-In-80-Years-20180430 |date=December 10, 2018}} (April 30, 2018). ''Broadway World.com''. Retrieved January 20, 2019.</ref><ref>Dunne, Susan (May 19, 2018). [https://www.courant.com/entertainment/movies/hc-ctnow-mystic-silent-times-0524-story.html "World Premiere of Silent Film at Mystic-Noank Library."] {{webarchive |url=https://web.archive.org/web/20181210111519/https://www.courant.com/entertainment/movies/hc-ctnow-mystic-silent-times-0524-story.html |date=December 10, 2018}} ''Hartford Courant''. Retrieved from Courant.com, January 23, 2019.</ref><ref>[https://www.theday.com/article/20180524/NWS01/180529919 "Mystic & Noank Library Showing Silent Film Shot in Mystic, Westerly"] {{webarchive |url=https://web.archive.org/web/20181210202639/https://www.theday.com/article/20180524/NWS01/180529919 |date=December 10, 2018}} (May 24, 2018). ''TheDay.com''. Retrieved January 23, 2019.</ref> The film pays homage to many of the characters from the 1920s, including Officer Keystone, played by David Blair; Enzio Marchello who portrays a Charlie Chaplin character. ''Silent Times'' won best silent film at the Oniros Film Festival. Set in a small New England town, the story centers on Oliver Henry III (played by Westerly native Geoff Blanchette), a small-time crook turned vaudeville theater owner. From humble beginnings in England, he immigrates to the US in search of happiness and fast cash. He becomes acquainted with people from all walks of life, from burlesque performers, mimes, hobos to classy flapper girls, as his fortunes rise and his life spins ever more out of control.
+In 2021, director [[Malte Wirtz]] brought his silent film [[Gender Crisis]] to German cinemas, which is now available online worldwide. The film tells the ancient story of [[Samson]] and [[Delilah]] in a modern way.<ref>{{cite web| title=Gender Crisis| publisher=MUBI| url=https://mubi.com/de/de/films/gender-crisis| access-date=December 13, 2024| archive-date=December 13, 2024| archive-url=https://web.archive.org/web/20241213103356/https://mubi.com/de/de/films/gender-crisis| url-status=live}}</ref>
+
+Although animated films ''[[El Apóstol|The Apostle]]'' (1917) and ''[[The Adventures of Prince Achmed]]'' (1926) are considered silent, they have used the synchronized sound and music without use of dialogues (only for gibberish and emotion sounds) for their respective films, in similar veins of Academy Award-nominated animated films like ''[[Shaun the Sheep Movie]]'' (2015), ''[[The Red Turtle]]'' (2016), and Berger's ''[[Robot Dreams (film)|Robot Dreams]]'' (2023) as well as Academy Award-winning animated film ''[[Flow (2024 film)|Flow]]'' (2024).
+
+The 2026 film ''[[Minions & Monsters]]'' is set in the 1920s Hollywood, paying homage to the silent film, where the [[Minions (Despicable Me)|Minions]] accidentally become silent movie stars before the arrival of sound films (talkies).<ref>{{Cite news |last=Levitt |first=Barry |date=2026-07-03 |title=Every Movie Reference in 'Minions & Monsters' |url=https://time.com/article/2026/07/02/minions-monsters-movies-hollywood/ |access-date=2026-07-20 |work=Time |language=en-US |issn=0040-781X}}</ref>
+
+== Preservation and lost films ==
+{{further|Lost film|Film preservation}}
+[[File:Saved from the Titanic.jpg|thumb|A still from ''[[Saved from the Titanic]]'' (1912), which featured survivors of the disaster. It is now among those considered a [[lost film]].]]
+The vast majority of the silent films produced in the late 19th and early 20th centuries are considered lost. According to a September 2013 report published by the United States [[Library of Congress]], some 70 percent of American silent feature films fall into this category.<ref name="loc">{{cite press release|title=Library Reports on America's Endangered Silent-Film Heritage|date=December 4, 2013|publisher=Library of Congress|url=https://www.loc.gov/today/pr/2013/13-209.html|access-date=March 7, 2014|work=News from the Library of Congress|issn=0731-3527|archive-date=July 20, 2016|archive-url=https://web.archive.org/web/20160720044141/http://www.loc.gov/today/pr/2013/13-209.html|url-status=live}}</ref> There are numerous reasons for this number being so high. Some films have been lost unintentionally, but most silent films were destroyed on purpose. Between the end of the silent era and the rise of [[home video]], film studios would often discard large numbers of silent films out of a desire to free up storage in their archives, assuming that they had lost the cultural relevance and economic value to justify the amount of space they occupied. Additionally, due to the fragile nature of the [[Nitrocellulose|nitrate film stock]] which was used to shoot and distribute silent films, many motion pictures have irretrievably deteriorated or have been lost in accidents, including fires (because nitrate is highly flammable and can spontaneously combust when stored improperly). Examples of such incidents include the [[1965 MGM vault fire]] and the [[1937 Fox vault fire]], both of which caused catastrophic losses of films. Many such films not completely destroyed survive only partially, or in badly damaged prints. Some lost films, such as ''[[London After Midnight (film)|London After Midnight]]'' (1927), lost in the MGM fire, have been the subject of considerable interest by [[film historian|film collectors and historians]].
+
+Major silent films presumed lost include:
+* ''[[The Fairylogue and Radio-Plays]]'' (1908)
+* ''[[Saved from the Titanic]]'' (1912), which featured survivors of the disaster;{{sfn|Thompson|1996|pp=12–18}}
+* ''[[The Life of General Villa]]'', starring [[Pancho Villa]] himself
+* ''[[Cleopatra (1917 film)|Cleopatra]]'' (1917){{sfn|Thompson|1996|pp=68–78}}
+* ''[[Kiss Me Again (1925 film)|Kiss Me Again]]'' (1925)
+* ''[[Arirang (1926 film)|Arirang]]'' (1926)
+* ''[[The Great Gatsby (1926 film)|The Great Gatsby]]'' (1926)
+* ''[[London After Midnight (film)|London After Midnight]]'' (1927)
+* ''[[The Patriot (1928 film)|The Patriot]]'' (1928), the only lost [[Best Picture]] nominee; only the [[Trailer (promotion)|trailer]] survives
+* ''[[Gentlemen Prefer Blondes (1928 film)|Gentlemen Prefer Blondes]]'' (1928){{sfn|Thompson|1996|pp=186–200}}
+
+Though most lost silent films will never be recovered, [[List of rediscovered films|some have been discovered]] in film archives or private collections. Discovered and preserved versions may be editions made for the home rental market of the 1920s and 1930s that are discovered in estate sales, etc.<ref>{{cite web| title=Ben Model interview on Outsight Radio Hours| url=https://archive.org/details/BenModelOnOutsightRadioHours| via=Archive.org| access-date=August 4, 2013}}</ref> The degradation of old film stock can be slowed through proper archiving, and films can be transferred to [[Cellulose acetate film|safety film stock]] or to digital media for preservation. The [[Film preservation|preservation]] of silent films has been a high priority for historians and archivists.{{sfn|Kula|1979}}
+
+=== Dawson Film Find ===
+{{main|Dawson Film Find}}
+[[Dawson City]], in the [[Yukon]] territory of Canada, was once the end of the distribution line for many films. In 1978, a cache of more than 500 reels of nitrate film was discovered during the excavation of a vacant lot formerly the site of the Dawson Amateur Athletic Association, which had started showing films at its recreation center in 1903.{{sfn|Kula|1979}}<ref>{{cite web|url=http://www.yukon-news.com/arts/a-different-sort-of-klondike-treasure/|title=A different sort of Klondike treasure – Yukon News|date=24 May 2013|access-date=February 25, 2018|archive-date=June 20, 2017|archive-url=https://web.archive.org/web/20170620230453/http://yukon-news.com/arts/a-different-sort-of-klondike-treasure/|url-status=live}}</ref> Works by [[Pearl White]], [[Helen Holmes (actress)|Helen Holmes]], [[Grace Cunard]], [[Lois Weber]], [[Harold Lloyd]], [[Douglas Fairbanks]], and [[Lon Chaney]], among others, were included, as well as many newsreels. The titles were stored at the local library until 1929 when the flammable nitrate was used as landfill in a condemned swimming pool. Having spent 50 years under the permafrost of the Yukon, the reels turned out to be extremely well preserved. Owing to its dangerous chemical volatility,{{sfn|Morrison|2016|loc=1:53:45}} the historical find was moved by military transport to [[Library and Archives Canada]] and the US [[Library of Congress]] for storage (and transfer to [[Cellulose acetate film|safety film]]). A documentary about the find, ''[[Dawson City: Frozen Time]]'', was released in 2016.<ref name="VF">{{cite magazine |last=Weschler |first=Lawrence |title=The Discovery, and Remarkable Recovery, of the King Tut's Tomb of Silent-Era Cinema |url=http://www.vanityfair.com/hollywood/2016/09/the-discovery-and-recovery-of-the-king-tuts-tomb-of-silent-era-cinema |magazine=Vanity Fair |date=September 14, 2016 |access-date=July 20, 2017 |archive-date=March 23, 2023 |archive-url=https://web.archive.org/web/20230323192429/https://www.vanityfair.com/hollywood/2016/09/the-discovery-and-recovery-of-the-king-tuts-tomb-of-silent-era-cinema |url-status=live }}</ref>{{sfn|Slide|2000|p=99}}
+
+==Film festivals==
+There are annual silent film festivals around the globe, including:<ref>-[https://wfpp.columbia.edu/silent-film-organizations-festivals-conferences/#FILM_FESTIVALS_CONFERENCES_SCREENING_RESOURCES Only verified active festivals are included; please consult individual sites to see if the festivals are still active.- Women Film Pioneers Project, 'Silent Film Organizations, Festivals & Conferences'] {{Webarchive|url=https://web.archive.org/web/20230813024858/https://wfpp.columbia.edu/silent-film-organizations-festivals-conferences/#FILM_FESTIVALS_CONFERENCES_SCREENING_RESOURCES |date=August 13, 2023 }}</ref> 
+* Capitolfest, at the [[Capitol Theatre (Rome, New York)|Capitol Theatre]] in [[Rome, New York]].<ref>{{Cite web|url=https://www.romecapitol.com/capitolfest/|title=CAPITOLFEST – Capitol Arts Complex|date=January 24, 2022 |accessdate=October 8, 2024}}</ref>
+* Kansas Silent Film Festival, at [[Washburn University]] in [[Topeka, Kansas]].<ref>{{Cite web|url=http://www.kssilentfilmfest.org/|title=Kansas Silent Film Festival web site|website=www.kssilentfilmfest.org|accessdate=October 8, 2024|archive-date=September 18, 2024|archive-url=https://web.archive.org/web/20240918090721/http://www.kssilentfilmfest.org/|url-status=live}}</ref>
+* San Francisco Silent Film Festival, at the [[Castro Theatre]] in [[San Francisco, California]].<ref>{{Cite web|url=https://silentfilm.org/|title=San Francisco Silent Film Festival – The San Francisco Silent Film Festival is a nonprofit organization dedicated to educating the public about silent film as an art form and as a culturally valuable historical record.|website=silentfilm.org|accessdate=October 8, 2024|archive-date=October 8, 2024|archive-url=https://web.archive.org/web/20241008140718/https://silentfilm.org/|url-status=live}}</ref>
+* Toronto Silent Film Festival, at the [[Fox Theatre (Toronto)|Fox Theatre]] in [[Toronto, Ontario]].<ref>{{Cite web|url=http://www.torontosilentfilmfestival.com/|title=TSFF2024|first=|last=|website=www.torontosilentfilmfestival.com|accessdate=October 8, 2024|archive-date=October 6, 2024|archive-url=https://web.archive.org/web/20241006031304/http://www.torontosilentfilmfestival.com/|url-status=live}}</ref>
+* Festival d'Anères in [[Anères]], France.<ref>{{Cite web |title=Festival d'Anères |url=http://www.festival-aneres.fr/FestivalAneres.php?Menu=1 |access-date=2024-02-20 |website=www.festival-aneres.fr}}</ref>
+* Hippodrome Silent Film Festival in [[Falkirk, Scotland]].<ref>{{Cite web |title=Hippodrome |url=https://www.falkirkleisureandculture.org/venues/hippodrome/ |access-date=2024-02-20 |website=website |language=en |archive-date=February 20, 2024 |archive-url=https://web.archive.org/web/20240220070341/https://www.falkirkleisureandculture.org/venues/hippodrome/ |url-status=dead }}</ref>
+* Internationale Stummfilmtage (International Days of Silent Cinema), which is held every August in [[Bonn, Germany]].<ref>{{Cite web |title=Home EN |url=https://www.internationale-stummfilmtage.de/en/home-en |access-date=2024-02-20 |website=www.internationale-stummfilmtage.de |archive-date=February 20, 2024 |archive-url=https://web.archive.org/web/20240220070343/https://www.internationale-stummfilmtage.de/en/home-en |url-status=live }}</ref>
+* Le Giornate del cinema muto (Pordenone Silent Film Festival), held annually in [[Pordenone, Italy]]. It is the first and largest international film festival dedicated to the preservation, dispersion, and study of silent film.<ref>{{Cite web |title=GCM HOME pre 2024 |url=http://www.giornatedelcinemamuto.it/ |access-date=2024-02-20 |website=Le Giornate del Cinema Muto |language=en-US |archive-date=September 24, 2017 |archive-url=https://web.archive.org/web/20170924001358/http://www.giornatedelcinemamuto.it/ |url-status=live }}</ref> 
+* Mykkäelokuvafestivaalit (International Silent Film Festival, Forssa) held in [[Forssa]], Finland.<ref>{{Cite web |title=Etusivu {{!}} Mykkäelokuvafestivaalit 21.8.-27.8.2023 Forssassa |url=https://www.forssasilentmovie.com/ |access-date=2024-02-20 |website=www.forssasilentmovie.com}}</ref>
+* Nederlands Silent Film Festival held in [[Eindhoven]], Nederlands.<ref>{{Cite web |date=2022-10-24 |title=Home - Nederlands Silent Film Festival |url=https://nsff.nl/ |access-date=2024-02-20 |website=nsff.nl |language=nl-NL |archive-date=February 20, 2024 |archive-url=https://web.archive.org/web/20240220070342/https://nsff.nl/ |url-status=live }}</ref>
+* The Slapstick Film Festival held in [[Bristol, UK]].<ref>{{Cite web |date=2021-03-29 |title=Slapstick Festival Bristol {{!}} Silent Film & Visual Comedy Festival |url=https://slapstick.org.uk/ |access-date=2024-02-20 |website=slapstick.org.uk |language=en-GB |archive-date=February 21, 2024 |archive-url=https://web.archive.org/web/20240221104114/https://slapstick.org.uk/ |url-status=live }}</ref>
+* Stummfilm Festival Karlsruhe held in [[Karlsruhe, Germany]].<ref>{{Cite web |date=2018-02-26 |title=Willkommen beim Stummfilmfestival Karlsruhe |url=https://stummfilmfestival-karlsruhe.de/ |access-date=2024-02-20 |website=Stummfilmfestival Karlsruhe |language=de-DE |archive-date=February 27, 2024 |archive-url=https://web.archive.org/web/20240227133346/https://stummfilmfestival-karlsruhe.de/ |url-status=live }}</ref>
+
+==See also==
+{{Portal|Film|1920s}}
+{{div col|colwidth=25em}}
+* [[:Category:Silent films]]
+* [[:Category:Silent film actors]]
+* [[Black women in the silent film era]]
+* ''[[Classic Images]]''
+* [[Laurel and Hardy filmography]]
+* [[List of motion picture film formats]]
+* [[German expressionist cinema]]
+* ''[[Kammerspielfilm]]''
+* [[List of silent films released on 8&nbsp;mm or Super 8&nbsp;mm film]]
+* [[List of early sound feature films (1926–1929)]]
+* {{anli|List of black-and-white films produced since 1966}}
+* [[Melodrama]]
+* [[Sound stage]]
+* [[Tab show]]
+* "[[At the Moving Picture Ball]]" – song about silent film stars
+{{div col end}}
+
+==References==
+{{Reflist}}<!--Allow auto-formatting. Narrowing of reference list into triple columns is unwarranted, it fragments the section and lessens overall readability. Wikipedia prefers auto-formatting even for much, much longer reference or footnote listings. See reference sections of Wiki articles for Clark Gable, John Barrymore, Joan Crawford, Bette Davis, and Kirk Douglas for just a few examples of preferred double-column formatting instead of the triple-column. Note as well that Wikipedia's page for "Sound film" also uses the two-column format.!-->
+
+==Bibliography==
+{{Refbegin|35em}}
+* {{cite AV media
+|people=Bromberg, Serge, Lang, Eric (directors)
+|year=2012
+|title=The Extraordinary Voyage
+|medium=DVD
+|publisher=MKS/Steamboat Films
+|ref={{sfnref|Bromberg|Lang|2012}}}}
+* {{cite book
+|last=Brownlow
+|first=Kevin
+|author-link=Kevin Brownlow
+|year=1968a
+|title=The Parade's Gone By...
+|location=New York
+|publisher=Alfred A. Knopf}}
+* {{cite book
+|last=Brownlow
+|first=Kevin
+|author-link=Kevin Brownlow
+|author-mask={{long dash}}
+|year=1968b
+|title=The People on the Brook
+|location=New York
+|publisher=Alfred A. Knopf}}
+* {{cite book
+|last=Cook
+|first=David A.
+|year=1990
+|title=A History of Narrative Film
+|edition=2nd
+|location=New York
+|publisher=W.W. Norton
+|isbn=978-0-393-95553-8}}
+* {{cite book
+|last1=Current
+|first1=Richard Nelson
+|author1-link=Richard N. Current
+|last2=Current
+|first2=Marcia Ewing
+|year=1997
+|title=Loie Fuller: Goddess of Light
+|location=Boston
+|publisher=Northeastern University Press
+|isbn=978-1-55553-309-0
+|url=https://archive.org/details/loiefullergoddes00curr}}
+* {{cite book
+|last=Eyman
+|first=Scott
+|author-link=Scott Eyman
+|year=1997
+|title=The Speed of Sound: Hollywood and the Talkie Revolution, 1926–1930
+|location=New York
+|publisher=Simon & Schuster
+|isbn=978-0-684-81162-8
+|url=https://archive.org/details/speedofsoundholl00eyma}}
+* {{cite journal
+|last=Kaes
+|first=Anton
+|year=1990
+|title=Silent Cinema
+|journal=Monatshefte
+|volume=82
+|issue=3
+|pages=246–256
+|issn=1934-2810
+|jstor=30155279}}
+* {{cite book
+|last=Kobel
+|first=Peter
+|year=2007
+|title=Silent Movies: The Birth of Film and the Triumph of Movie Culture
+|edition=1st
+|location=New York
+|publisher=Little, Brown and Company
+|isbn=978-0-316-11791-3}}
+* {{cite journal
+|last=Kula
+|first=Sam
+|year=1979
+|title=Rescued from the Permafrost: The Dawson Collection of Motion Pictures
+|url=http://journals.sfu.ca/archivar/index.php/archivaria/article/view/10738/11624
+|journal=Archivaria
+|issue=8
+|publisher=Association of Canadian Archivists
+|pages=141–148
+|issn=1923-6409
+|access-date=March 7, 2014
+|archive-date=October 20, 2014
+|archive-url=https://web.archive.org/web/20141020183120/http://journals.sfu.ca/archivar/index.php/archivaria/article/view/10738/11624
+|url-status=live}}
+* {{cite book
+|last=Lewis
+|first=John
+|year=2008
+|title=American Film: A History
+|edition=1st
+|location=New York
+|publisher=W.&nbsp;W. Norton & Company
+|isbn=978-0-393-97922-0}}
+* {{cite book
+|last=Marks
+|first=Martin Miller
+|year=1997
+|title=Music and the Silent Film: Contexts and Case Studies, 1895–1924
+|location=New York
+|publisher=Oxford University Press
+|isbn=978-0-19-506891-7}}
+* {{cite AV media
+|last=Morrison
+|first=Bill
+|author-link=Bill Morrison (director)
+|year=2016
+|title=[[Dawson City: Frozen Time]]
+|publisher=KinoLorber}}
+* {{cite book
+|last=Musser
+|first=Charles
+|author-link=Charles Musser
+|year=1990
+|title=The Emergence of Cinema: The American Screen to 1907
+|location=New York
+|publisher=Charles Scribner's Sons}}
+* {{cite book
+|last=Parkinson
+|first=David
+|year=1996
+|title=History of Film
+|location=New York
+|publisher=Thames and Hudson
+|isbn=978-0-500-20277-7
+|url=https://archive.org/details/historyoffilm0000park}}
+* {{cite book
+|year=2000
+|editor1-last=Read
+|editor1-first=Paul
+|editor2-last=Meyer
+|editor2-first=Mark-Paul
+|title=Restoration of Motion Picture Film
+|series=Conservation and Museology
+|location=Oxford
+|publisher=Butterworth-Heinemann
+|isbn=978-0-7506-2793-1}}
+* {{cite book
+|last=Slide
+|first=Anthony
+|author-link=Anthony Slide
+|year=2000
+|title=Nitrate Won't Wait: A History of Film Preservation in the United States
+|location=Jefferson, North Carolina
+|publisher=McFarland & Co.
+|isbn=978-0-7864-0836-8}}
+* {{cite book
+|last=Standish
+|first=Isolde
+|year=2006
+|title=A New History of Japanese Cinema: A Century of Narrative Film
+|location=New York
+|publisher=Continuum
+|isbn=978-0-8264-1790-9}}
+* {{cite book
+|last=Thompson
+|first=Frank T.
+|year=1996
+|title=Lost Films: Important Movies That Disappeared
+|location=New York
+|publisher=Carol Publishing
+|isbn=978-0-8065-1604-2}}
+* {{cite book|last=Brownlow|first=Kevin|author-link=Kevin Brownlow|year=1980|title=Hollywood: The Pioneers|url=https://archive.org/details/hollywoodpioneer0000brow|url-access=registration|location=New York|publisher=Alfred A. Knopf|isbn=978-0-394-50851-1}}
+* {{cite journal|last=Corne|first=Jonah|year=2011|title=Gods and Nobodies: Extras, the October Jubilee, and Von Sternberg's ''The Last Command''|journal=Film International|volume=9|issue=6|issn=1651-6826}}
+* {{cite book|last=Davis|first=Lon|year=2008|title=Silent Lives|location=Albany, New York|publisher=BearManor Media|isbn=978-1-59393-124-7}}
+* {{cite book|last=Everson|first=William K.|author-link=William K. Everson|year=1978|title=American Silent Film|location=New York|publisher=Oxford University Press|isbn=978-0-19-502348-0|url=https://archive.org/details/americansilentfi00ever_1}}
+* {{cite news|last=Mallozzi|first=Vincent M.|date=February 14, 2009|title=Note by Note, He Keeps the Silent-Film Era Alive|url=https://www.nytimes.com/2009/02/15/nyregion/15pianist.html|url-access=limited|work=The New York Times|page=A35|access-date=September 11, 2013|archive-date=January 11, 2015|archive-url=https://web.archive.org/web/20150111074003/http://www.nytimes.com/2009/02/15/nyregion/15pianist.html|url-status=live}}
+* {{cite journal|last=Stevenson|first=Diane|year=2011|title=Three Versions of ''Stella Dallas''|journal=Film International|volume=9|issue=6|issn=1651-6826}}
+* {{cite journal|last=Toles|first=George|year=2011|title=Cocoon of Fire: Awakening to Love in Murnau's ''Sunrise''|journal=Film International|volume=9|issue=6|issn=1651-6826}}
+* {{cite book|last=Usai|first=Paolo Cherchi|year=2000|title=Silent Cinema: An Introduction|edition=2nd|location=London|publisher=British Film Institute|isbn=978-0-85170-745-7}}
+{{Refend}}
+
+==External links==
+{{Wikiquote}}
+{{Commonscatinline}}
+* The [[Internet Archive]]'s [https://archive.org/details/silent_films Silent Film Archive]
+* [https://silentsplease.wordpress.com/ Silents, Please!: Interesting Avenues in Silent Film History]
+
+{{Film genres|state=collapsed}}
+{{Authority control}}
+
+[[Category:Silent films| ]]
+[[Category:19th century in film]]
+[[Category:20th century in film]]
+[[Category:Articles containing video clips]]
+[[Category:Audiovisual introductions in 1894]]
+[[Category:Film genres]]
+[[Category:Film styles]]
+[[Category:Silence|Film]]

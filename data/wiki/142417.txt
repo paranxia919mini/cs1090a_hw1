@@ -1,0 +1,569 @@
+{{Short description|1995 film by Ron Howard}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2024}}
+{{Infobox film
+| name           = Apollo 13
+| image          = Apollo thirteen movie.jpg
+| caption        = Theatrical release poster
+| alt            = The Apollo 13 spacecraft passes the Moon with vapor streaming from the side of it, with a crescent Earth in the distance. The words "Houston, we have a problem" appear directly above the craft. The names of the principal actors appear at the top, and the title APOLLO 13 appears at the lower right.
+| director       = [[Ron Howard]]
+| producer       = [[Brian Grazer]]
+| screenplay     = [[William Broyles Jr.]] <br> [[Al Reinert]]
+| based_on       = {{Based on|''[[Lost Moon]]''|[[Jim Lovell]]|[[Jeffrey Kluger]]}}
+| starring       = {{plainlist|
+* [[Tom Hanks]]
+* [[Kevin Bacon]]
+* [[Bill Paxton]]
+* [[Gary Sinise]]
+* [[Ed Harris]]
+* [[Kathleen Quinlan]]}}<!-- per poster -->
+| music          = [[James Horner]]
+| cinematography = [[Dean Cundey]]
+| editing        = [[Daniel P. Hanley]]<br />[[Mike Hill (film editor)|Mike Hill]]
+| studio         = [[Imagine Entertainment]]
+| distributor    = [[Universal Pictures]]
+| released       = {{Film date|1995|6|30|United States}}
+| runtime        = 140 minutes
+| country        = United States
+| language       = English
+| budget         = $52&nbsp;million<ref>{{cite news |url=http://www.cnn.com/SHOWBIZ/Movies/Apollo13/index.html |title=CNN Showbiz News: Apollo 13 |work=[[CNN]] |access-date=April 9, 2009 |archive-date=September 25, 2020 |archive-url=https://web.archive.org/web/20200925235456/http://www.cnn.com/SHOWBIZ/Movies/Apollo13/index.html |url-status=live |date=June 30, 1995 |first=Carol |last=Buckland}}</ref>
+| gross          = $355.2&nbsp;million<ref name="Boxofficemojo"/>
+}}
+
+'''''Apollo 13''''' is a 1995 American [[docudrama]] film directed by [[Ron Howard]] and starring [[Tom Hanks]], [[Kevin Bacon]], [[Bill Paxton]], [[Gary Sinise]], [[Ed Harris]] and [[Kathleen Quinlan]]. The screenplay by [[William Broyles Jr.]] and [[Al Reinert]] dramatizes the aborted 1970 [[Apollo 13]] lunar mission and is an adaptation of the 1994 book ''[[Lost Moon|Lost Moon: The Perilous Voyage of Apollo 13]]'', by astronaut [[Jim Lovell]] and [[Jeffrey Kluger]]. 
+
+The film tells the story of [[astronaut]]s Lovell, [[Jack Swigert]], and [[Fred Haise]] aboard the ill-fated Apollo 13 for the United States' fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces [[NASA]]'s flight controllers to abandon the [[Moon landing]] and improvise scientific and mechanical solutions to get the three astronauts to Earth safely. Howard went to great lengths to create a technically accurate movie, employing NASA's assistance in astronaut and flight-controller training for his cast and obtaining permission to film scenes aboard a [[reduced-gravity aircraft]] for realistic depiction of the [[weightlessness]] experienced by the astronauts in space.
+
+Released in theaters by [[Universal Pictures]] in the United States on June 30, 1995,<ref>{{cite web |url=http://www.boxofficemojo.com/movies/?id=apollo13.htm |title=Apollo 13 |website=[[Box Office Mojo]] |date=June 30, 1995 |access-date=September 11, 2016 |archive-date=November 16, 2018 |archive-url=https://web.archive.org/web/20181116194505/https://www.boxofficemojo.com/movies/?id=apollo13.htm |url-status=live}}</ref> ''Apollo 13'' received critical acclaim and was nominated for nine [[Academy Awards]], including [[Academy Award for Best Picture|Best Picture]] (winning for [[Academy Award for Best Film Editing|Best Film Editing]] and [[Academy Award for Best Sound Mixing|Best Sound]]).<ref name="Oscar">{{cite web |url=http://awardsdatabase.oscars.org |title=Academy Awards, USA: 1996 |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=April 8, 2009 |archive-url=https://web.archive.org/web/20080723203650/http://awardsdatabase.oscars.org/ |archive-date=July 23, 2008 |url-status=dead}}</ref> The film also won the [[Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture]], as well as two [[British Academy Film Awards]]. In total, the film grossed over $355&nbsp;million worldwide during its theatrical releases, becoming the [[1995 in film#Highest-grossing films|third-highest-grossing film of 1995]].
+It is listed in ''The New York Times Guide to the Best 1,000 Movies Ever Made'' (2004).<ref>{{cite book | url=https://books.google.com/books?id=55qlWjbs14sC&dq=apollo+13+best+films+of+all+time&pg=PA54 | title=The New York Times Guide to the Best 1,000 Movies Ever Made | isbn=978-0-312-32611-1 | last1=Nichols | first1=Peter M. | date=February 21, 2004 | publisher=Macmillan }}</ref> In 2023, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically or aesthetically significant."<ref>{{Cite web |last=Saperstein |first=Pat |date=December 13, 2023 |title='Home Alone,' 'Terminator 2,' '12 Years a Slave' Among 25 Titles Joining National Film Registry |url=https://variety.com/2023/film/news/national-film-registry-2023-home-alone-terminator-12-years-a-slave-1235833815/ |access-date=December 13, 2023 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+== Plot ==
+<!-- PER WP:FILMPLOT, plot summaries for featured film articles should be 400-700 words. -->
+On July 20, 1969, astronaut [[Jim Lovell]] hosts a party where guests watch [[Neil Armstrong]]'s televised first steps on the Moon from [[Apollo 11]]. Lovell, who orbited the Moon on [[Apollo 8]], tells his wife Marilyn that he will return to the Moon to walk on its surface.
+
+Three months later, as Lovell is conducting a VIP tour of NASA's [[Vehicle Assembly Building]], his boss [[Deke Slayton]] informs him that his crew will fly [[Apollo 13]] instead of 14, swapping flights with [[Alan Shepard]]'s crew. Lovell, [[Ken Mattingly]], and [[Fred W. Haise, Jr.|Fred Haise]] train for their mission. Days before launch in April 1970, Mattingly is exposed to [[rubella|German measles]], and the flight surgeon demands his replacement with Mattingly's backup, [[Jack Swigert]].
+
+Lovell resists breaking up his team, but relents when Slayton threatens to bump his crew to a later mission. As the launch date approaches, Marilyn has a nightmare about her husband dying in space, and tells Lovell she will not go to [[Kennedy Space Center]] to see him off for an unprecedented fourth launch. She later changes her mind and surprises him.
+
+On launch day, Flight Director [[Eugene F. Kranz|Gene Kranz]] in Houston's [[Christopher C. Kraft Jr. Mission Control Center|Mission Control Center]] gives the [[launch status check#Apollo missions|go for launch]]. As the [[Saturn V]] rocket climbs through the atmosphere, a [[S-II|second stage]] engine cuts off prematurely, but the craft reaches its Earth [[parking orbit]]. After the third stage fires again to send Apollo 13 to the Moon, Swigert performs the maneuver to turn the [[Apollo command and service module|Command Module]] ''Odyssey'' around to [[docking and berthing of spacecraft|dock]] with the [[Apollo Lunar Module|Lunar Module]] ''Aquarius'' and pull it away from the spent rocket.
+
+Three days into the mission, by order of Mission Control, Swigert turns on the [[liquid oxygen]] stirring fans. An electrical short causes a tank to explode, emptying its contents into space and sending the craft tumbling. The other tank is soon found to be leaking. [[Flight controller#EECOM|Consumables manager]] [[Sy Liebergot]] convinces Kranz that shutting off two of ''Odyssey''{{'}}s three [[fuel cell]]s offers the best chance to stop the leak, but this does not work.
+
+With only one fuel cell, mission rules dictate the Moon landing be aborted. Lovell and Haise power up ''Aquarius'' to use as a "lifeboat", while Swigert shuts down ''Odyssey'' to save its battery power for the return to Earth. Kranz charges his team with bringing the astronauts home, declaring "[[failure is not an option]]". Consumables manager [[John Aaron]] recruits Mattingly to help him improvise a procedure to restart ''Odyssey'' for the landing on Earth.
+
+As the crew watches the Moon pass beneath them, Lovell laments his lost dream of walking on its surface, then turns his crew's attention to the business of getting home. With ''Aquarius'' running on minimal electrical power and rationed water supply, the crew suffers from freezing conditions, and Haise develops a [[urinary tract infection]]. Swigert suspects Mission Control is concealing the fact they are doomed; Haise angrily blames Swigert's inexperience for the accident, but Lovell quashes the argument.
+
+As ''Aquarius''{{'}}s [[carbon dioxide]] filters run out, concentration of the gas approaches a dangerous level. Ground control improvises a [[Rube Goldberg machine|"Rube Goldberg" device]] to make the [[Apollo command module|Command Module]]'s [[Square peg in a round hole#Literal cases|incompatible]] filter cartridges work in the Lunar Module. With ''Aquarius''{{'}}s navigation systems shut down, the crew makes a vital course correction manually by steering the Lunar Module and controlling its engine.
+
+Mattingly and Aaron struggle to find a way to power up the Command Module systems without drawing too much power, and finally read the procedure to Swigert, who restarts ''Odyssey'' by drawing the extra power from ''Aquarius''. When the crew jettisons the [[Apollo service module|Service Module]], they are surprised by the extent of the damage, raising the possibility that the [[ablative heat shield]] was compromised. As they release ''Aquarius'' and re-enter the Earth's atmosphere, no one is sure that ''Odyssey''{{'}}s heat shield is intact.
+
+The tense period of radio silence due to [[ionization blackout]] is longer than normal, but the astronauts report all is well, and the world watches ''Odyssey'' [[splashdown|splash down]] and celebrates their return. As helicopters bring the crew aboard the [[USS Iwo Jima (LPH-2)|USS ''Iwo Jima'']] for a hero's welcome, Lovell's voice-over describes the cause of the explosion, and the subsequent careers of Haise, Swigert, Mattingly, Kranz, and himself. He wonders if and when mankind will return to the Moon.
+
+== Cast ==
+{{Multiple image
+| direction         = horizontal
+| total_width       = 500
+| align             = right
+| image1            = Tom Hanks 2016.jpg
+| alt1              = A photograph of Tom Hanks.
+| caption1          = 
+| image2            = Bill Paxton 2014 retouched.jpg
+| alt2              = A photograph of Bill Paxton.
+| caption2          = 
+| image3            = Kevin Bacon SDCC 2014.jpg
+| alt3              = A photograph of Kevin Bacon.
+| caption3          = 
+| image4            = Gary Sinise 2011 (cropped).jpg
+| alt4              = A photograph of Gary Sinise.
+| caption4          = 
+| image5            = Ed Harris by Gage Skidmore.jpg
+| alt5              = A photograph of Ed Harris.
+| caption5          = 
+| footer            = (Left to right) [[Tom Hanks]] (pictured in 2016), [[Bill Paxton]] (2014), [[Kevin Bacon]] (2014), [[Gary Sinise]] (2011), and [[Ed Harris]] (2017)
+}}
+'''Apollo 13 crew:'''
+* [[Tom Hanks]] as Commander [[Jim Lovell]]
+* [[Bill Paxton]] as Lunar Module Pilot [[Fred Haise]]
+* [[Kevin Bacon]] as backup Command Module Pilot [[Jack Swigert]]
+* [[Gary Sinise]] as prime Command Module Pilot [[Ken Mattingly]], who was grounded shortly before the mission
+
+'''Other astronauts:'''
+* Mark Wheeler as Apollo 11 Commander [[Neil Armstrong]]
+* Larry Williams as Apollo 11 Lunar Module Pilot [[Buzz Aldrin]]
+* [[David Andrews (actor)|David Andrews]] as Apollo 12 Commander [[Pete Conrad]]
+* Ben Marley as Apollo 13 backup Commander [[John Young (astronaut)|John Young]]
+* [[Brett Cullen]] as [[capsule communicator]] (CAPCOM) 1 "Andy" (a composite astronaut, based on [[Jack R. Lousma]] and [[William Pogue]])
+* [[Ned Vaughn]] as CAPCOM 2 (a composite astronaut)
+
+'''NASA ground personnel:'''
+* [[Ed Harris]] as White Team [[Flight controller#Flight director|Flight Director]] [[Gene Kranz]]. 
+* [[Chris Ellis (actor)|Chris Ellis]] as Director of Flight Crew Operations [[Deke Slayton]]
+* [[Joe Spano]] as NASA Director, a [[composite character]] loosely based on [[Manned Spacecraft Center]] director [[Christopher C. Kraft, Jr.]]
+* [[Marc McClure]] as Black Team Flight Director [[Glynn Lunney]]
+* [[Clint Howard]] as White Team [[Electrical, Environmental, Consumables Manager|Electrical, Environmental and Consumables Manager]] (EECOM) [[Seymour Liebergot|Sy Liebergot]]
+* [[Ray McKinnon (actor)|Ray McKinnon]] as White Team [[Flight Dynamics Officer]] (FIDO) Jerry Bostick
+* [[Todd Louiso]] as White Team [[Flight Activities Officer]] (FAO)
+* [[Gabriel Jarret]] as White Team Guidance, Navigation, and Controls Systems Engineer (GNC)
+* [[Andy Milder]] as White Team Guidance Officer (GUIDO)
+* [[Jim Meskimen]] as White Team Telemetry, Electrical, EVA Mobility Unit Officer (TELMU)
+* [[Loren Dean]] as EECOM [[John Aaron]]
+* [[Christian Clemenson]] as [[Flight Surgeon]] [[Charles A. Berry|Dr. Charles Berry]]
+* [[Carl Gabriel Yorke]] as SIM (Simulator) 1
+* [[Xander Berkeley]] as Henry Hurt, a fictional NASA Office of Public Affairs staff member<ref>The character in the film is a [[composite character|composite]] of protocol officer Bob McMurrey, who relayed the request for permission to erect a TV tower to Marilyn Lovell, and an unnamed OPA staffer who made the request on the phone, to whom she personally denied it as Quinlan did to "Henry" in the film. "Henry" is also seen performing other OPA functions, such as conducting a press conference. {{Cite book |last1=Kluger |first1=Jeffrey |author-link=Jeffrey Kluger |first2=Jim |last2=Lovell |title=Lost Moon: The Perilous Voyage of Apollo 13 |publisher=[[Pocket Books]] |location=New York |edition=First Pocket Books printing |date=July 1995 |pages=[https://archive.org/details/apollo1300love/page/118 118, 209–210, 387] |isbn=0-671-53464-5 |url-access=registration |url=https://archive.org/details/apollo1300love/page/118 }}
+</ref>
+* [[Endre Hules]] as [[Günter Wendt]], [[launch pad|pad]] leader
+'''Civilians:'''
+* [[Kathleen Quinlan]] as Marilyn Gerlach Lovell, Jim's wife
+* [[Jean Speegle Howard]] (Ron Howard's mother) as Blanche Lovell, Jim's mother
+* [[Mary Kate Schellhardt]] as Barbara Lovell, Jim's older daughter
+* [[Max Elliott Slade]] as James "Jay" Lovell, Jim's older son
+* [[Emily Ann Lloyd]] as Susan Lovell, Jim's younger daughter
+* [[Miko Hughes]] as Jeffrey Lovell, Jim's younger son
+* [[Rance Howard]] (Ron Howard's father) as the Lovell family minister
+* [[Tracy Reiner]] as Mary Haise, Fred's wife
+* [[Michele Little]] as Jane Conrad
+
+'''Cameos:'''
+* Jim Lovell appears as Captain [[Leland Kirkemo]] of the recovery ship [[USS Iwo Jima (LPH-2)|USS ''Iwo Jima'']]; Howard had intended to make him an admiral, but Lovell himself, having retired as a captain, chose to appear in his actual rank (and wearing his own Navy uniform).
+* Marilyn Lovell appears among the spectators during the launch sequence.<ref name="DVDLovellCommentary" />
+* [[Jeffrey Kluger]] appears as a television reporter.<ref name="DVDHowardCommentary" />
+* Horror film director [[Roger Corman]], a mentor of Howard, appears as a congressman being given a VIP tour by Lovell of the [[Vehicle Assembly Building]], as it had become something of a tradition for Corman to make a cameo appearance in his protégés' films.<ref name="DVDHowardCommentary">{{cite video | title = Apollo 13: 2-Disc Anniversary Edition (Disc 1), Special Features: Commentary track by Ron Howard | medium = DVD  | publisher = [[Universal Pictures|Universal Studios]]  | date=April 19, 2005}}</ref><ref>{{cite web | url=https://www.npr.org/templates/story/story.php?storyId=128873305 | title=Repertoire Of Horrors: The Films Of Roger Corman | website=[[NPR]] | date=August 3, 2010 | access-date=January 1, 2012 | archive-date=February 1, 2018 | archive-url=https://web.archive.org/web/20180201075421/https://www.npr.org/templates/story/story.php?storyId=128873305 | url-status=live }}</ref>
+* [[CBS News]] anchor [[Walter Cronkite]] appears in archive news footage and can be heard in newly recorded announcements, some of which he edited himself to sound more authentic.<ref name="DVDLovellCommentary" />
+* Cheryl Howard (Ron Howard's wife) and [[Bryce Dallas Howard]] (Ron Howard's eldest daughter) as uncredited background performers in the scene where the astronauts wave goodbye to their families.<ref name="DVDHowardCommentary" />
+
+== Production ==
+
+=== Development ===
+The movie rights to [[Jim Lovell]]'s book ''[[Lost Moon]]'' were being shopped to potential buyers before it was written.<ref name="lost moon">{{cite web |url=http://www.tomhanks-online.com/media/video/detail/420/apollo-13-making-of |title=Lost Moon: The Triumph of Apollo 13 |access-date=January 1, 2012 |archive-date=January 19, 2012 |archive-url=https://web.archive.org/web/20120119112207/http://www.tomhanks-online.com/media/video/detail/420/apollo-13-making-of |url-status=dead}}</ref> He stated that his first reaction was that [[Kevin Costner]] would be a good choice to play him.<ref name="lost moon" /><ref name="DVDLovellCommentary">{{cite video |title=Apollo 13: 2-Disc Anniversary Edition (Disc 1), Special Features: Commentary track by Jim and Marilyn Lovell |medium=DVD  |publisher=[[Universal Pictures|Universal Studios]]  |date=April 19, 2005}}</ref>
+
+=== Pre-production ===
+The original screenplay by [[William Broyles Jr.]] and [[Al Reinert]] was written with Costner in mind because of his facial similarities with Lovell. By the time [[Ron Howard]] acquired the director's position, [[Tom Hanks]] had expressed interest in doing a film based on [[Apollo 13]]. When Hanks' representative informed him that a script was being passed around he had it sent to him, and Costner's name never came up in serious discussion.<ref name="lost moon"/> Hanks was ultimately cast as Lovell because of his knowledge of Apollo and space history.<ref>{{cite news|last1=Johnson|first1=Mary|last2=Neff|first2=Renfreu|last3=Mercurio|first3=Jim|last4=Goldsmith|first4=David F.|title=John Sayles on Screenwriting|url=https://creativescreenwriting.com/john-sayles-on-screenwriting/|access-date=October 2, 2017|work=Creative Screenwriting|date=April 15, 2016|archive-date=April 13, 2019|archive-url=https://web.archive.org/web/20190413190715/https://creativescreenwriting.com/john-sayles-on-screenwriting/|url-status=live}}</ref>
+
+Because of his interest in aviation, [[John Travolta]] asked Howard for the role of Lovell, but was politely turned down, [[Bill Murray]], [[Dan Aykroyd]] and [[Tommy Lee Jones]] were also considered for the role of Jim Lovell.<ref name="Travolta_Pitt_Cusack">{{Cite web|url=https://www.filmink.com.au/close-casting-calls-john-travolta-brad-pitt-john-cusack-in-apollo-13-1995/|title=Close Casting Calls: John Travolta, Brad Pitt & John Cusack In Apollo 13 (1995)|first=Erin|last=Free|date=July 9, 2016}}</ref> [[John Cusack]], [[Patrick Swayze]], [[Joe Pesci]] and [[Rick Moranis]] were offered the role of Fred Haise but all turned it down, and the role went to [[Bill Paxton]]. [[Brad Pitt]] was offered the role of Jack Swigert but also turned it down in favor of ''[[Seven (1995 film)|Seven]]'', so the role went to [[Kevin Bacon]]. [[Tom Cruise]], [[Charlie Sheen]] and [[Michael J. Fox]] were also considered for the role of Swigert.<ref name="Travolta_Pitt_Cusack"/><ref>{{Cite web|url=https://www.mcall.com/news/|title=The Morning Call|website=The Morning Call|accessdate=December 18, 2022}}</ref> [[Daniel Stern (actor)|Daniel Stern]] was the original choice to the role of Ken Mattingly but was busy filming [[Bushwhacked (film)|Bushwhacked]], Howard however was able to get [[Gary Sinise]] (who co-starred with [[Tom Hanks]] in ''[[Forrest Gump]]'' a year earlier) and asked if he would play any part and Sinise chose Mattingly.<ref name="lost moon"/> [[Kelsey Grammer]] and [[Christopher Lloyd]] were offered the role of Gene Kranz, but it ultimately went to [[Ed Harris]].
+
+After Hanks had been cast and construction of the spacecraft sets had begun, [[John Sayles]] rewrote the script. While planning the film, Howard decided that every shot would be original and that no mission footage would be used.<ref name="DVDProductionNotes">{{cite video | title = Apollo 13: 2-Disc Anniversary Edition (Disc 1), Production Notes | medium = DVD | publisher = [[Universal Pictures|Universal Studios]] | date=March 19, 2005}}</ref> The spacecraft interiors were constructed by the [[Kansas Cosmosphere and Space Center]]'s Space Works, which also restored the Apollo 13 Command Module. Two individual Lunar Modules and two Command Modules were constructed for filming. Composed of some original Apollo materials, they were built so that different sections were removable, which allowed filming to take place inside them. Space Works also built modified Command and Lunar Modules for filming inside a [[Boeing KC-135 Stratotanker|Boeing KC-135]] [[reduced gravity aircraft|reduced-gravity aircraft]], and the pressure suits worn by the actors, which are exact reproductions of those worn by the Apollo astronauts, right down to the detail of being airtight. When suited up with their helmets locked in place, the actors were cooled by and breathed air pumped into the suits, as in actual Apollo suits.<ref name="ProductionNotes2" />
+
+The [[Christopher C. Kraft Jr. Mission Control Center]] consisted of two control rooms on the second and third floors of Building 30 at the [[Johnson Space Center]] in [[Houston, Texas]]. [[NASA]] offered the use of the control room for filming, but Howard declined, opting instead to make his own replica.<ref name="DVDLovellCommentary" /><ref name="DVDProductionNotes" /> Production designer Michael Corenblith and set decorator Merideth Boswell were in charge of the construction of the Mission Control set at Universal Studios. It was equipped with giant rear-screen projection capabilities, and a complex set of computers with individual video feeds to all the flight controller stations. The actors playing the flight controllers could communicate with each other on a private audio loop.<ref name="ProductionNotes2" /> The Mission Control room built for the film was on the ground floor.<ref name="DVDProductionNotes" /> One NASA employee, a consultant for the film, said the set was so realistic that he would leave at the end of the day and look for the elevator before he remembered he was not in Mission Control.<ref name="DVDLovellCommentary" /> The recovery ship [[USS Iwo Jima (LPH-2)|USS ''Iwo Jima'']] had been scrapped by the time the film was made, so her sister ship, [[USS New Orleans (LPH-11)|''New Orleans'']], was used instead.<ref name="DVDProductionNotes" />
+
+To prepare for their roles in the film, Hanks, Paxton, and Bacon all attended the [[U.S. Space Camp]] in [[Huntsville, Alabama]]. While there, astronauts Jim Lovell and [[David Scott]], commander of [[Apollo 15]], did actual training exercises with the actors inside a simulated [[Apollo command and service module#Command module (CM)|Command Module]] and [[Lunar Module]]. The actors were also taught about each of the 500 buttons, toggles, and switches used to operate the spacecraft. The actors then traveled to [[Johnson Space Center]] in Houston, where they flew in the KC-135 to simulate weightlessness in outer space.
+
+Each member of the cast performed extensive research for the project to provide an authentic story. Technical adviser Scott<ref>{{cite news|url=https://www.nytimes.com/1998/09/06/arts/television-from-earth-to-the-moon-and-back-for-more-bows.html|title=Television; From Earth to the Moon and Back, for More Bows|last1=Nichols|first1=Peter M.|newspaper=The New York Times|date=September 6, 1998|access-date=August 3, 2019|archive-date=August 3, 2019|archive-url=https://web.archive.org/web/20190803091141/https://www.nytimes.com/1998/09/06/arts/television-from-earth-to-the-moon-and-back-for-more-bows.html|url-status=live}}</ref> was impressed with their efforts, stating that each actor was determined to make every scene technically correct, word for word.<ref name="lost moon" />
+
+In Los Angeles, Ed Harris and all the actors portraying [[flight controller]]s enrolled in a Flight Controller School led by [[Gerry Griffin]], an Apollo 13 flight director, and flight controller Jerry Bostick. The actors studied audiotapes from the mission, reviewed hundreds of pages of NASA transcripts, and attended a crash course in [[physics]].<ref name="DVDProductionNotes" /><ref name="ProductionNotes2">{{cite web |url=http://www.imax.com/apollo13/pressmaterials/ProductionNotes.pdf |title=Production Notes (Press Release) |publisher=[[IMAX]] |access-date=April 9, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20110604135005/http://www.imax.com/apollo13/pressmaterials/ProductionNotes.pdf |archive-date=June 4, 2011 |df=mdy-all}}</ref>
+
+Reportedly, [[Pete Conrad]] expressed interest in appearing in the film.<ref name="DVDLovellCommentary" />
+
+=== Filming ===
+{{Quote box|quote = For actors, being able to actually shoot in zero gravity as opposed to being in incredibly painful and uncomfortable harnesses for special effects shots was all the difference between what would have been a horrible moviemaking experience as opposed to the completely glorious one that it actually was.|source = —Tom Hanks<ref name="ProductionNotes2" />|width = 35%|align = right|salign = right}}
+[[File:Apollo 13 filming at KSC (KSC-94pc1510).jpg|thumb|[[Ron Howard]] (right) with [[Tom Hanks]] (left) and the production crew during filming at the [[Kennedy Space Center|KSC]] in December 1994]]
+[[Principal photography]] for ''Apollo 13'' started in August 1994.<ref>{{cite web|url=https://www.chicagotribune.com/news/ct-xpm-1994-09-11-9409110155-story.html|title=Jim Lovell Opens the Book on Almost Being Lost in Space|website=[[Chicago Tribune]] |date=September 11, 1994 }}</ref>
+Howard anticipated difficulty in portraying [[weightlessness]] in a realistic manner. He discussed this with [[Steven Spielberg]], who suggested filming aboard the KC-135 airplane, which can be flown in such a way as to create about 23 seconds of weightlessness, a method NASA has always used to train its astronauts for space flight. Howard obtained NASA's permission and assistance<ref>{{cite web | url=http://industrycentral.net/director_interviews/RH01.HTM | title=Ron Howard Weightless Again Over Apollo 13's DGA Win | access-date=December 16, 2011 | archive-url=https://web.archive.org/web/20111007053644/http://www.industrycentral.net/director_interviews/RH01.HTM | archive-date=October 7, 2011 | url-status=dead }}</ref> to obtain three hours and 54 minutes of filming time in 612 zero-g maneuvers.<ref name="DVDProductionNotes" /><ref name="ProductionNotes2"/> Filming in this environment was a time and cost saver because the stage recreation and computer graphics would have been expensive.<ref name="ProductionNotes3">Apollo 13 Collector's Edition Production Notes</ref> The final three weeks of filming took place in the stages on the [[Universal Studios Lot]] in [[Universal City, California]], where two life-size replicas of both the command module and the lunar module were built for simultaneous shooting on different soundstages.<ref name="FilmNotes">{{cite web |last1=Neilson |first1=Archer |title=Film Notes: APOLLO 13 |url=https://web.library.yale.edu/film/notes/fn00029 |website=Yale University Library |access-date=November 21, 2023 |date=June 22, 2016}}</ref> Air-cooling units lowered the temperatures inside each soundstage to around {{convert|38|F
+}}, to simulate the conditions necessary for condensation and the visibility of the actors' breath inside the spacecraft.<ref name="ProductionNotes2"/> Filming wrapped on February 25, 1995. The final scene to be filmed was the splashdown sequence at the film's conclusion, which was shot on a large, artificial lake on the Universal lot.<ref>{{cite web |last1=Eller |first1=Claudia |title=MOVIES : Shooting the Moon : America's hero, Tom Hanks, splashes down for his old friend director Ron Howard in 'Apollo 13,' the story of the near-fatal, botched 1970 lunar expedition. |url=https://www.latimes.com/archives/la-xpm-1995-02-26-ca-36184-story.html |website=Los Angeles Times |access-date=November 21, 2023 |date=February 26, 1995}}</ref>
+
+==== Safety ====
+While filming in a 25-second burst of weightlessness was "charged and frenetic", the cast and crew only suffered from bumps and bruises, and most injuries occurred when they bumped on non-padded items. The cast and crew of ''Apollo 13'' describe the weightlessness experience as being in a "vomit comet" and "[[roller coaster]] ride", but the motion sickness afflicted only a few members.<ref name="ProductionNotes3" />
+
+During filming of the low-temperature scenes in the Universal stages, signs that explained frostbite symptoms were posted on the stages' walls, and the crew worked in parkas.<ref name="FilmNotes"/>
+
+=== Post-production ===
+<!--{{In use|section|time=23:10, 11 August 2022 (UTC)}}-->
+<!--{{Under construction |placedby= |section=true |nocat= |notready=true |comment= |category= |notify=yes }} -->
+The [[visual effects]] supervisor was [[Robert Legato]].
+To avoid awkward visible switches to stock news footage in a live action film, he decided to produce the [[Saturn V]] launch [[sequence (filmmaking)|sequence]] using miniature models and digital [[image stitching]] to create a [[panorama|panoramic]] background.<ref name="befores&afters">{{Cite journal |last=Failes |first=Ian |date=June 30, 2020 |title=The 'Apollo 13' effects you might not know about |url=https://beforesandafters.com/2020/06/30/the-apollo-13-effects-you-might-not-know-about/ |journal=Befores&Afters}}</ref> On Howard's request to "shoot it like [[Martin Scorsese]] would shoot it", Legato studied Scorsese's [[scene (filmmaking)|scene]]s of [[pool (cue sports)|pool]] games from ''[[The Color of Money]]'', and copied his technique of creating a sense of rhythm by repeating two or three frames between each [[Cut (transition)|cut]] (just enough to be undetectable) for the engine ignition sequence. Legato says this scene inspired [[James Horner]]'s soundtrack music for the launch.<ref name="befores&afters"/> The long-range shot of the vehicle in flight was filmed using a $25 1:144 scale model [[Revell]] kit, with the camera realistically shaking, and it was digitized and re-filmed off of a high resolution monitor through a black filter, slightly overexposed to keep it from "looking like a video game".<ref name="befores&afters"/>
+
+The exhaust of the [[reaction control system|attitude control thrusters]] was generated with [[computer-generated imagery]] (CGI). This was also attempted to show the astronaut's urine dump into space, but wasn't high enough resolution to look right, so droplets sprayed from an [[Evian]] bottle were photographed instead.<ref name="befores&afters"/>
+
+The producers wanted to use CGI to render the splashdown, but Legato adamantly insisted this would not look realistic. Real parachutes were used with a prop capsule tossed out of a helicopter.<ref name="befores&afters"/>
+
+During weightless filming, all of the dialogue had been rendered unusable by the loudness of the plane. This required Hanks, Bacon and Paxton to attend [[Dubbing#ADR/post-sync|ADR]] sessions, where they redubbed all of the lines for the weightless scenes.<ref>{{cite book |last1=Heidelberger |first1=David |title=Sound Mixing in TV and Film |date=December 15, 2018 |publisher=Cavendish Square Publishing LLC |location=Google Books |isbn=9781502641571 |pages=21–23 |url=https://books.google.com/books?id=aPKCDwAAQBAJ&dq=apollo+13+1995+adr&pg=PA21 |access-date=November 21, 2023}}</ref>
+
+== Soundtrack ==
+{{Main|Apollo 13 (soundtrack)|l1=''Apollo 13'' (soundtrack)}}
+The score to ''Apollo 13'' was composed and conducted by [[James Horner]], and performed by the [[Hollywood Studio Symphony]]. The [[soundtrack]] was released in 1995 by [[MCA Records]] and has seven tracks of score, eight period songs used in the film, and seven tracks of dialogue by the actors at a total running time of nearly seventy-eight minutes. The music also features solos by vocalist [[Annie Lennox]] and Tim Morrison on the trumpet. The score was a critical success and garnered Horner an [[Academy Award]] nomination for [[Academy Award for Best Original Score#1990s|Best Original Score]].
+
+== Release ==
+=== Theatrical ===
+''Apollo 13'' was released on June 30, 1995, in North America<ref>{{cite news |last1=Warner |first1=Fara |author-link=Fara Warner |title=What movies will make you buy |url=https://www.newspapers.com/article/the-courier-news-what-movies-will-make-y/137542852/ |access-date=December 28, 2023 |work=[[Courier News]] |agency=[[Wall Street Journal]] |date=June 23, 1995 |archive-url=https://web.archive.org/web/20231228160859/https://www.newspapers.com/article/the-courier-news-what-movies-will-make-y/137542852/ |archive-date=December 28, 2023 |page=12 |url-status=live }}</ref> and on September 22, 1995, in the [[United Kingdom]].<ref>{{cite news |title=Nerd superstar |url=https://www.newspapers.com/article/evening-standard-nerd-superstar/137542353/ |access-date=December 28, 2023 |work=[[Evening Standard]] |date=September 14, 1995 |archive-url=https://web.archive.org/web/20231228160334/https://www.newspapers.com/article/evening-standard-nerd-superstar/137542353/ |archive-date=December 28, 2023 |page=41 |url-status=live |quote=Apollo 13 opens on September 22. }}</ref>
+
+In September 2002, and for its 30th anniversary in September 2025, the film was re-released in [[IMAX]]. It is the first film to be digitally remastered using [[IMAX DMR]] technology.<ref>{{cite web|title=History of IMAX|url=http://www.imax.com/corporate/history|access-date=February 11, 2011|archive-date=February 9, 2011|archive-url=https://web.archive.org/web/20110209005330/http://www.imax.com/corporate/history/|url-status=live}}</ref><ref>{{cite web|title='Apollo 13' Heads to IMAX for 30th Anniversary|url=https://www.today.com/video/-apollo-13-heads-to-imax-for-30th-anniversary-243761221861/|work=Today|access-date=July 24, 2025}}</ref>
+
+=== Home media ===
+''Apollo 13'' was released on [[VHS]] on November 21, 1995, and on [[LaserDisc]] the following week.<ref>{{cite news |url=https://www.newspapers.com/clip/98513897/apollo-13-soars-into-the-vcr-universe/ |title='Apollo 13' Soars Into The VCR Universe |archive-url=https://web.archive.org/web/20220407171440/https://www.newspapers.com/clip/98513897/apollo-13-soars-into-the-vcr-universe/ |date=November 24, 1995 |access-date=April 7, 2022 |archive-date=April 7, 2022 |page=131 |publisher=[[Newsday (Nassau Edition)]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> On September 9, 1997, the film debuted on a [[THX]] certified widescreen VHS release.<ref>{{cite news |last=McKay |first=John |url=https://www.newspapers.com/clip/98855969/more-videos-present-movies-in-original/ |title=More videos present movies in original widescreen images |archive-url=https://web.archive.org/web/20230311210504/https://www.newspapers.com/clip/98855969/more-videos-present-movies-in-original/ |date=September 6, 1997 |access-date=March 11, 2023 |archive-date=March 11, 2023 |page=36 |work=The Canadian Press |publisher=[[Brantford Expositor]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref>
+
+A tenth-anniversary [[DVD]] of the film was released in 2005; it included both the original theatrical version and the [[IMAX]] version, along with several extras.<ref>{{cite web|title=DVD Review: Apollo 13 (10th Anniversary Edition) |first=Mark |last=Mortimer |date=March 29, 2005 |url=https://www.universetoday.com/articles/dvd-review-apollo-13-10th-anniversary-edition|website=universetoday.com|access-date=August 2, 2025}}</ref> The IMAX version has a 1.66:1 [[aspect ratio (image)|aspect ratio]].<ref>{{cite book| url= http://lethlib.bibliocommons.com/item/show/306209031| title= Apollo 13 (DVD - 2005)| year= 1995| publisher= [[Lethbridge Public Library]]| isbn= 9780783225739| access-date= December 30, 2011| archive-date= January 31, 2012| archive-url= https://web.archive.org/web/20120131061632/http://lethlib.bibliocommons.com/item/show/306209031| url-status= live}}</ref>
+
+In 2006, ''Apollo 13'' was released on [[HD DVD]] and, on April 13, 2010, it was released on [[Blu-ray]] as the 15th-anniversary edition on the 40th anniversary of the Apollo 13 accident.<ref>{{cite web|last=McCutcheon|first=David|title=Apollo 13 Blasts Off|url=https://www.ign.com/articles/2010/02/10/apollo-13-blasts-off|publisher=IGN|access-date=May 31, 2025|date=February 10, 2010}}</ref> The film was released on 4K UHD Blu-ray on October 17, 2017.<ref>{{Cite web|url=https://ultrahd.highdefdigest.com/48734/apollo134kultrahdbluray.html|title=Apollo 13 - 4K Ultra HD Blu-ray Ultra HD Review {{!}} High Def Digest|website=ultrahd.highdefdigest.com|language=en|access-date=2017-12-22|archive-date=December 23, 2017|archive-url=https://web.archive.org/web/20171223043642/https://ultrahd.highdefdigest.com/48734/apollo134kultrahdbluray.html|url-status=live}}</ref>
+
+== Box office ==
+''Apollo 13'' earned $25,353,380 from 2,347 theaters during its opening weekend, which made up 14.7% of the total US gross.<ref name="Boxofficemojo">{{cite web | url=http://www.boxofficemojo.com/movies/?id=apollo13.htm | title=Apollo 13 (1995) | website=[[Box Office Mojo]] | access-date=April 9, 2009 | archive-date=November 16, 2018 | archive-url=https://web.archive.org/web/20181116194505/https://www.boxofficemojo.com/movies/?id=apollo13.htm | url-status=live }}</ref> Upon its opening, it was ranked number one at the box office, beating ''[[Pocahontas (1995 film)|Pocahontas]]'', ''[[Batman Forever]]'', ''[[Mighty Morphin Power Rangers: The Movie]]'' and ''[[Judge Dredd (film)|Judge Dredd]]''. Additionally, it surpassed ''[[Forrest Gump]]'' for having the largest opening weekend for a [[Tom Hanks]] film.<ref>{{cite news |date=July 6, 1995 |title='Apollo 13' blasts Hollywood to box-office weekend |url=https://www.newspapers.com/newspage/153384059/ |publisher=[[Reno Gazette-Journal]] |page=38 |access-date=June 24, 2026  |archive-url=https://web.archive.org/web/20260624131443/https://www.newspapers.com/newspage/153384059/ |archive-date=June 24, 2026 |via=[[Newspapers.com]] |url-access=subscription |url-status=live}}</ref> The film also achieved [[Kevin Bacon]]'s highest opening weekend, a record that lasted for five years until 2000, when ''[[Hollow Man]]'' replaced it.<ref>{{cite web |last=Gray |first=Brandon |date=August 7, 2000 |title=Weekend Box Office |url=https://www.boxofficemojo.com/article/ed2339636228/ |access-date=June 24, 2026 |website=[[Box Office Mojo]] |archive-date=June 24, 2026 |archive-url=https://web.archive.org/web/20260624125858/https://www.boxofficemojo.com/article/ed2339636228/ |url-status=live }}</ref> Within five days, ''Apollo 13'' generated $38.5 million, becoming the second-highest five-day Fourth of July opening of all time, behind ''[[Terminator 2: Judgment Day]]''.<ref name="LandsFirst">{{cite news |title=Apollo 13' lands in first |url=https://www.upi.com/Archives/1995/07/04/Apollo-13-lands-in-first/2514804830400/ |access-date=March 8, 2022 |work=[[United Press International]] |date=July 4, 1995 |archive-date=March 3, 2022 |archive-url=https://web.archive.org/web/20220303191505/https://www.upi.com/Archives/1995/07/04/Apollo-13-lands-in-first/2514804830400/ |url-status=live }}</ref> The weekend of the film's opening earned $154 million from ticket sales, surpassing the previous record held by the combined [[Thanksgiving (United States)|Thanksgiving]] 1992 openings of ''[[Aladdin (1992 Disney film)|Aladdin]]'', ''[[The Bodyguard (1992 film)|The Bodyguard]]'' and ''[[Home Alone 2: Lost in New York]]''.<ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-1995-07-06-ca-20561-story.html|title=The Sky's the Limit at Box Office : Movies: A total of about $154 million in receipts sets a five-day record. 'Apollo 13' is atop the field with $38.5 million.|website=[[Los Angeles Times]] |date=July 6, 1995 }}</ref> It would continue to stay in the number one spot for three more weeks until it was dethroned by ''[[Waterworld]]''.<ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-1995-07-31-ca-29840-story.html|title='Waterworld' Sails to No. 1 : Movies: The $175-million production takes in $21.6 million in its first weekend. But unless it enlarges its appeal, it will probably gross about half its cost.|website=[[Los Angeles Times]] |date=July 31, 1995 }}</ref> Earning $355,237,933, ''Apollo 13'' was the [[1995 in film|third-highest-grossing film of 1995]], behind ''[[Die Hard with a Vengeance]]'' and ''[[Toy Story]]'' (which also starred Hanks).<ref>{{cite web|url=https://urbanmatter.com/a-look-back-at-the-year-1995-in-film-history/|title=A Look Back at the Year 1995 in Film History|date=November 25, 2020}}</ref>
+
+On September 19, 2025, ''Apollo 13'' began a 30th anniversary re-release in [[IMAX]] screenings.<ref>{{cite news |url=https://variety.com/2025/film/news/film-news-in-brief-july-21-2025-1236448522/|title='Apollo 13' Sets Imax Rerelease for 30th Anniversary- Film News in Brief|first1=Jazz|last1=Tangcay|first2=Giana|last2=Levy |first3=Andrew|last3=McGowan|publisher=Variety|date=July 24, 2025|accessdate=September 18, 2025}}</ref><ref>{{cite web|url=https://www.imax.com/en/ca/movie/apollo-13|title=Apollo 13: 30th Anniversary|date=April 20, 2023 |publisher=IMAX |accessdate=September 18, 2025}}</ref> As of September 21, 2025, the 2025 re-release has made $627,155 from screenings in 200 IMAX theaters.<ref>{{cite web |url=https://www.the-numbers.com/weekend-box-office-chart |title=Weekend Domestic Chart for September 19, 2025|publisher=The Numbers.com|accessdate=September 22, 2025}}</ref>
+
+{| class="wikitable"
+|-
+|+ ''Apollo 13'' box office revenue
+|-
+! Source !! Gross ([[United States dollar|US$]]) !! % Total !! All-time rank (unadjusted)
+|-
+| North America
+| $173,837,933<ref name="Boxofficemojo" />
+| 48.9%
+| 229<ref name="Boxofficemojo" />
+|-
+| Foreign
+| $181,400,000<ref name="Boxofficemojo" />
+| 51.1%
+| N/A
+|-
+| '''Worldwide'''
+| ''' $355,237,933'''<ref name="Boxofficemojo" />
+| '''100.0%'''
+| '''282'''<ref name="Boxofficemojo" />
+|}
+
+==Reception==
+On the review aggregator website Rotten Tomatoes, 94% of 150 critics' reviews are positive. The website's consensus reads: "In recreating the troubled space mission, ''Apollo 13'' pulls no punches: it's a masterfully told drama from director Ron Howard, bolstered by an ensemble of solid performances".<ref>{{cite web |title=Apollo 13 |url=http://www.rottentomatoes.com/m/apollo_13/ |url-status=live |archive-url=https://web.archive.org/web/20100820105138/http://www.rottentomatoes.com/m/apollo_13/ |archive-date=August 20, 2010 |access-date=September 19, 2025 |website=[[Rotten Tomatoes]]}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 78 out of 100, based on 22 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Apollo 13'' |url=https://www.metacritic.com/movie/apollo-13 |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=20 September 2025 |archive-url= |archive-date= |url-status=}}</ref><ref>{{cite web|url=http://www.metacritic.com/movie/apollo-13|title=Apollo 13 Reviews|website=[[Metacritic]]|access-date=September 25, 2011|archive-date=September 4, 2011|archive-url=https://web.archive.org/web/20110904133252/http://www.metacritic.com/movie/apollo-13|url-status=live}}</ref> Audiences surveyed by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale.<ref>{{cite web |url= https://www.cinemascore.com/publicsearch/index/title/ |title= Cinemascore |url-status = dead |archive-url= https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= 2018-12-20|access-date=2021-02-11}}</ref>
+
+=== Critical response ===
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' praised the film in his review, saying: "This is a powerful story, one of the year's best films, told with great clarity and remarkable technical detail, and acted without pumped-up histrionics".<ref>{{cite web |last=Ebert |first=Roger |author-link1=Roger Ebert |date=June 30, 1995 |title=Apollo 13 |url=https://www.rogerebert.com/reviews/apollo-13-1995 |website=[[Roger Ebert.com]] |publisher=Ebert Digital LLC |via=[[Chicago Sun-Times]] |archive-url=https://web.archive.org/web/20130520191119/https://www.rogerebert.com/reviews/apollo-13-1995 |url-status=live  |archive-date=May 20, 2013 |access-date=September 27, 2021}}</ref> [[Richard Corliss]] of ''[[Time (magazine)|Time]]'' highly praised the film, saying: "From lift-off to splashdown, ''Apollo 13'' gives one hell of a ride."<ref>{{cite magazine |last=Corliss |first=Richard |author-link=Richard Corliss |date=July 3, 1995 |title=Apollo 13: Review |url=http://www.time.com/time/magazine/article/0,9171,983125,00.html |magazine=[[Time (magazine)|Time]] |publisher=[[ WarnerMedia|Time Warner]] {{small|now Time USA, LLC.}} |issn=0040-781X |oclc=1311479 |archive-date=October 8, 2010 |archive-url=https://web.archive.org/web/20101008030128/http://www.time.com/time/magazine/article/0,9171,983125,00.html |url-status=dead |access-date=April 11, 2009}}</ref> Edward Guthmann of ''[[San Francisco Chronicle]]'' gave a mixed review and wrote: "I just wish that ''Apollo 13'' worked better as a movie, and that Howard's threshold for corn, mush and twinkly sentiment weren't so darn wide".<ref>{{cite news |last=Guthmann |first=Edward |date=June 30, 1995 |title=Apollo 13 Review: Story heroic, but it just doesn't fly. |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1995/06/30/DD35698.DTL |newspaper=[[San Francisco Chronicle]] |publisher=[[Hearst Corporation|Hearst Communications]] |issn=1932-8672 |oclc=8812614 |archive-date=September 14, 2011 |archive-url=https://web.archive.org/web/20110914203453/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F1995%2F06%2F30%2FDD35698.DTL |url-status=dead |access-date=April 11, 2009}}</ref> [[Peter Travers]] of ''[[Rolling Stone (magazine)|Rolling Stone]]'' praised the film and wrote: "Howard lays off the manipulation to tell the true story of the near-fatal 1970 Apollo 13 mission in painstaking and lively detail. It's easily Howard's best film".<ref>{{cite magazine |last=Travers |first=Peter |author-link=Peter Travers |date=February 6, 2001 |title=Apollo 13 Review |url=https://www.rollingstone.com/reviews/movie/5948373/review/5948374/apollo_13 |magazine=[[Rolling Stone (magazine)|Rolling Stone]] |archive-url=https://web.archive.org/web/20090702061414/http://www.rollingstone.com/reviews/movie/5948373/review/5948374/apollo_13 |archive-date=July 2, 2009 |url-status=dead |access-date=April 11, 2009}}</ref>
+
+[[Janet Maslin]] made the film an ''[[The New York Times|NYT]]'' Critics' Pick, calling it an "absolutely thrilling" film that "unfolds with perfect immediacy, drawing viewers into the nail-biting suspense of a spellbinding true story". According to Maslin, "like ''[[Quiz Show (film)|Quiz Show]]'', ''Apollo 13'' beautifully evokes recent history in ways that resonate strongly today. Cleverly nostalgic in its visual style ([[Rita Ryack]]'s costumes are especially right), it harks back to movie making without phony heroics and to the strong spirit of community that enveloped the astronauts and their families. Amazingly, this film manages to seem refreshingly honest while still conforming to the three-act dramatic format of a standard Hollywood hit. It is far and away the best thing Mr. Howard has done (and ''[[Far and Away]]'' was one of the other kind)."<ref>{{cite news |last=Maslin |first=Janet |author-link=Janet Maslin |date=June 30, 1995 |url=https://movies.nytimes.com/movie/review?res=990CE0D7123FF933A05755C0A963958260 |title=''Apollo 13'', a Movie for the Fourth of July |newspaper=[[The New York Times]] |eissn=1553-8095 |oclc=1645522 |archive-date=February 17, 2012 |archive-url=https://web.archive.org/web/20120217023752/http://movies.nytimes.com/movie/review?res=990CE0D7123FF933A05755C0A963958260 |url-status=live |access-date=September 30, 2011}}</ref>
+
+The academic critic Raymond Malewitz focuses on the DIY aspects of the "mailbox" filtration system to illustrate the emergence of an unlikely hero in late 20th-century American culture—"the creative, improvisational, but restrained thinker—who replaces the older prodigal cowboy heroes of American mythology and provides the country a better, more frugal example of an appropriate 'husband'."<ref>{{cite news |url=http://stanfordpress.typepad.com/blog/2014/09/getting-rugged-with-thing-theory.html |date=September 5, 2014 |first=Raymond |last=Malewitz |title=getting Rugged With Thing Theory |publisher=Stanford UP |access-date=September 30, 2014 |archive-date=September 15, 2014 |archive-url=https://web.archive.org/web/20140915202908/http://stanfordpress.typepad.com/blog/2014/09/getting-rugged-with-thing-theory.html |url-status=live }}</ref> In contrast, Matt Goldberg of ''Collider'' referred to the movie as an example of [[competency porn]].<ref>{{Cite web |last=Goldberg |first=Matt |date=2020-07-02 |title=Why Apollo 13 Is Competency Porn |url=https://collider.com/why-apollo-13-is-competency-porn/ |access-date=2026-02-06 |website=Collider |language=en}}</ref>
+
+Marilyn Lovell praised Quinlan's portrayal of her, stating she felt she could feel what Quinlan's character was going through, and remembered how she felt in her mind.<ref name="lost moon" />
+
+== Accolades ==
+
+{| class="wikitable" style="width:99%;"
+|-
+! Year !! Award !! Category !! Recipient!! Result !! Ref.
+|-
+|rowspan="40"| 1996
+|rowspan="9"| [[68th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Brian Grazer]]
+|{{nom}}
+| rowspan="9" style="text-align:center;" |<ref name="Oscar" />
+|-
+| [[Academy Award for Best Supporting Actor|Best Actor in a Supporting Role]]
+| [[Ed Harris]]
+|{{nom}}
+|-
+| [[Academy Award for Best Supporting Actress|Best Actress in a Supporting Role]]
+| [[Kathleen Quinlan]]
+|{{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay Based on Material Previously Produced or Published]]
+| [[William Broyles Jr.]] and [[Al Reinert]]
+|{{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| Art Direction: [[Michael Corenblith]]; Set Decoration: [[Merideth Boswell]]
+|{{nom}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Mike Hill (film editor)|Mike Hill]] and [[Daniel P. Hanley|Daniel Hanley]]
+|{{won}}
+|-
+| [[Academy Award for Best Original Score|Best Original Dramatic Score]]
+| [[James Horner]]
+|{{nom}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Rick Dior]], [[Steve Pederson (sound engineer)|Steve Pederson]], [[Scott Millan]] and [[David MacMillan (sound engineer)|David MacMillan]]
+|{{won}}
+|-
+| [[Academy Award for Best Visual Effects|Best Visual Effects]]
+| [[Robert Legato]], [[Michael Kanfer]], [[Leslie Ekker]] and [[Matt Sweeney (special effects artist)|Matt Sweeney]]
+|{{nom}}
+|-
+|| [[ACE Eddie Awards|American Cinema Editors (Eddies)]]
+|  Best Edited Feature Film
+| [[Mike Hill (film editor)|Mike Hill]], [[Daniel P. Hanley]]
+|{{nom}}
+| style="text-align:center;"|
+|-
+|| [[American Society of Cinematographers]]
+|  Outstanding Achievement in Cinematography in Theatrical Releases
+| [[Dean Cundey]]
+|{{nom}}
+| style="text-align:center;"|
+|-
+|rowspan="5"| [[British Academy of Film and Television Arts|BAFTA Film Awards]]
+|  Best Production Design
+| Michael Corenblith
+|{{won}}
+| rowspan="5" style="text-align:center;"|
+|-
+|  Outstanding Achievement in Special Visual Effects
+| Robert Legato, Michael Kanfer, Matt Sweeney, Leslie Ekker
+|{{won}}
+|-
+| Best Cinematography
+| Dean Cundey
+|{{nom}}
+|-
+| Best Editing
+| Mike Hill, Daniel Hanley
+|{{nom}}
+|-
+| Best Sound
+|David MacMillan, Rick Dior, Scott Millan, Steve Pederson
+|{{nom}}
+|-
+|| [[Casting Society of America|Casting Society of America (Artios)]]
+|  Best Casting for Feature Film, Drama
+|  [[Jane Jenkins]], [[Janet Hirshenson]]
+|{{nom}}
+| style="text-align:center;"|
+|-
+|rowspan="6"| [[Chicago Film Critics Association|Chicago Film Critics Association Awards]]
+|  [[Chicago Film Critics Association Award for Best Cinematography|Best Cinematography]]
+| Dean Cundey
+|{{nom}}
+| rowspan="6" style="text-align:center;"|
+|-
+|  [[Chicago Film Critics Association Award for Best Director|Best Director]]
+| [[Ron Howard]]
+|{{nom}}
+|-
+|  [[Chicago Film Critics Association Award for Best Film|Best Picture]]
+| ''Apollo 13''
+|{{won}}
+|-
+|  [[Chicago Film Critics Association Award for Best Original Score|Best Original Score]]
+| James Horner
+|{{nom}}
+|-
+|  [[Chicago Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| Ed Harris
+|{{nom}}
+|-
+|  [[Chicago Film Critics Association Award for Best Supporting Actress|Best Supporting Actress]]
+| Kathleen Quinlan
+|{{nom}}
+|-
+||[[48th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Ron Howard, Carl Clifford, Aldric La'Auli Porter, Jane Paul
+|{{won}}
+| style="text-align:center;"|
+|-
+|rowspan="4"|[[Golden Globe Award]]s
+| [[Golden Globe Award for Best Supporting Actor - Motion Picture|Best Supporting Actor&nbsp;– Motion Picture]]
+|  Ed Harris
+|{{nom}}
+| rowspan="4" style="text-align:center;"|
+|-
+| [[Golden Globe Award for Best Supporting Actress - Motion Picture|Best Supporting Actress&nbsp;– Motion Picture]]
+| Kathleen Quinlan
+|{{nom}}
+|-
+| [[Golden Globe Award for Best Director - Motion Picture|Best Director&nbsp;– Motion Picture]]
+| Ron Howard
+|{{nom}}
+|-
+| [[Golden Globe Award for Best Motion Picture - Drama|Best Motion Picture&nbsp;– Drama]]
+| ''Apollo 13''
+|{{nom}}
+|-
+|| [[Heartland Film Festival]]
+| Studio Crystal Heart Award
+| Jeffrey Kluger
+|{{won}}
+| style="text-align:center;"|
+|-
+||[[Hugo Awards]]
+| [[Hugo Award for Best Dramatic Presentation|Best Dramatic Presentation]]
+| ''Apollo 13''
+|{{nom}}
+| style="text-align:center;"|
+|-
+| [[Nickelodeon Kids' Choice Awards|Kids' Choice Awards]]
+| [[Kids' Choice Award for Favorite Movie Actor|Favorite Movie Actor]]
+| Tom Hanks
+| {{nom}}
+| style="text-align:center;"|
+|-
+|rowspan="2"|[[MTV Movie Awards]]
+| [[MTV Movie Award for Best Actor in a Movie|Best Male Performance]]
+| Tom Hanks as Jim Lovell
+|{{nom}}
+| rowspan="2" style="text-align:center;"|
+|-
+| [[MTV Movie Award for Movie of the Year|Best Movie]]
+| ''Apollo 13''
+|{{nom}}
+|-
+||[[Producers Guild of America|PGA Awards]]
+| Motion Picture Producer of the Year Award
+|Brian Grazer, Todd Hallowell
+|{{won}}
+| style="text-align:center;"|
+|-
+|| [[Saturn Award]]s
+| [[Saturn Award for Best Action/Adventure/Thriller Film|Best Action / Adventure / Thriller Film]]
+| ''Apollo 13''
+|{{nom}}
+| style="text-align:center;"|
+|-
+|rowspan="2"|[[Screen Actors Guild Awards]]
+| [[Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Supporting Role|Outstanding Performance by a Male Actor in a Supporting Role]]
+|Ed Harris
+|{{won}}
+| rowspan="2" style="text-align:center;"|<ref>{{cite news|last=Collins|first=Scott|title=Cage, Sarandon Capture Top Screen Actor Awards|url=https://www.latimes.com/archives/la-xpm-1996-02-26-ca-40205-story.html|newspaper=Los Angeles Times|date=February 26, 1996|access-date=September 10, 2022|url-access=limited|archive-url=https://web.archive.org/web/20220606202147/https://www.latimes.com/archives/la-xpm-1996-02-26-ca-40205-story.html|archive-date=June 6, 2022|url-status=live}}</ref>
+|-
+| [[Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture|Outstanding Performance by a Cast in a Motion Picture]]
+| [[Kevin Bacon]], [[Tom Hanks]], [[Ed Harris]], [[Bill Paxton]], [[Kathleen Quinlan]], and [[Gary Sinise]]
+|{{won}}
+|-
+|| [[Space Foundation|Space Foundation's Douglas S. Morrow Public Outreach Award]]
+| Best Family Feature&nbsp;– Drama
+|''Apollo 13''
+|{{won}}
+| style="text-align:center;"|<ref>{{cite web|url=http://www.nationalspacesymposium.org/symposium-awards|title=Symposium Awards|publisher=National Space Symposium|access-date=April 26, 2009|url-status=usurped|archive-url=https://web.archive.org/web/20090203060101/http://www.nationalspacesymposium.org/symposium-awards|archive-date=February 3, 2009}}</ref>
+|-
+||[[Writers Guild of America Award]]s
+|Best Screenplay Adapted from Another Medium
+|William Broyles Jr., Al Reinert
+|{{nom}}
+| style="text-align:center;"|
+|-
+||[[Young Artist Awards]]
+| Best Family Feature&nbsp;– Drama
+|''Apollo 13''
+|{{nom}}
+| style="text-align:center;"|
+|-
+| 2005
+| [[American Film Institute]]
+| [[AFI's 100 Years... 100 Movie Quotes]]
+| "Houston, we have a problem." (#50)
+|{{won}}
+| style="text-align:center;" |<ref>{{cite web|url=http://www.afi.com/docs/tvevents/pdf/quotes100.pdf|title= AFI's 100 years...100 quotes|publisher=[[American Film Institute|AFI]]|access-date=April 13, 2009|archive-url= https://web.archive.org/web/20090326063240/http://www.afi.com/Docs/tvevents/pdf/quotes100.pdf|archive-date=March 26, 2009|url-status=live}}</ref>
+|-
+|| 2006
+| [[American Film Institute]]
+| [[AFI's 100 Years... 100 Cheers]]
+|''Apollo 13'' (#12)
+|{{won}}
+| style="text-align:center;"|
+|}
+
+== Technical and historical accuracy ==
+{{Further|topic=the Apollo 13 flight|Apollo 13}}
+[[File:Universal Studios Hollywood 2012 58.jpg|thumb|Apollo 13 Command Module prop from the film.]]
+
+In the film, Lovell tells his wife he was given command of Apollo 13 instead of 14 because the original commander, Alan Shepard's, "ear infection is flaring up again"; in fact, Shepard had no "ear infection", but had been grounded since 1963 by [[Ménière's disease]]. This was surgically corrected four years later, and he was returned to flight duty in May 1969, but Manned Spacecraft Center management felt he needed more training time for a lunar mission.<ref>{{cite book|title=Deke! U.S. Manned Space: From Mercury to the Shuttle|last1=Slayton|first1=Donald K. "Deke"|author-link1=Deke Slayton|last2=Cassutt|first2=Michael|author-link2=Michael Cassutt|url=https://books.google.com/books?id=z8vl46GV2JYC&pg=PA236|year=1994|edition=1st|page=236|publisher=[[Tor Books|Forge]]|location=New York|isbn=978-0-312-85503-1|ref={{sfnRef|Slayton & Cassutt|1994}}}}</ref>
+
+The film portrays the [[Saturn V]] launch vehicle being rolled out to the launch pad two days before launch. In reality, the launch vehicle was rolled out on the [[Mobile launcher platform#Saturn V and Space Shuttle|Mobile Launcher]] using the [[crawler-transporter]] two months before the launch date.<ref>{{Cite book |url=https://ntrs.nasa.gov/search.jsp?R=19970009949 |title=Roger E. Bilstein, ''Stages to Saturn'', NASA History Office, 1996. |date=January 1996 |isbn=9780160489099 |access-date=July 31, 2020 |archive-date=November 12, 2020 |archive-url=https://web.archive.org/web/20201112015052/https://ntrs.nasa.gov/search.jsp?R=19970009949 |url-status=live |last1=Bilstein |first1=Roger E. |publisher=DIANE Publishing }}</ref>
+
+The film depicts the crew hearing a bang shortly{{Clarify|date=May 2026}} after Swigert followed directions from mission control to stir the oxygen and hydrogen tanks. In reality, the crew heard the bang 95 seconds later.<ref>[https://history.nasa.gov/SP-4029/Apollo_13h_Timeline.htm Apollo 13 Timeline] {{Webarchive|url=https://web.archive.org/web/20171226033748/https://history.nasa.gov/SP-4029/Apollo_13h_Timeline.htm |date=December 26, 2017 }}, ''Apollo by the Numbers: A Statistical Reference'', NASA History Series, Office of Policy and Plans, Richard W. Orloff, Sept. 2004. See "Oxygen tank #2 fans on. Stabilization control system electrical disturbance indicated a power transient. 055:53:20."</ref>
+
+The film depicts Sy Liebergot suggesting that the oxygen leak was in one or two of ''Odyssey''{{'}}s fuel cells, and the order to shut them down passed up to the crew, forcing abortion of the lunar landing mission. In reality, Mission Control did not order the shutdown; Haise found the cells were already dead, because of starvation due to the damage to the oxygen system.<ref>{{Cite book |last=Lovell |first=James A. |url=https://history.nasa.gov/SP-350/ch-13-1.html |title=Apollo Expeditions to the Moon |date=July 28, 1975 |publisher=NASA |editor-last=Cortright |editor-first=Edgar M. |chapter=3.1 "Houston, We've Had a Problem"}}</ref>
+
+The film depicts Swigert and Haise arguing about who was at fault. In the television show ''The Real Story: Apollo 13'', broadcast on the Smithsonian Channel, Haise states that no such argument took place and that there was no way anyone could have foreseen that stirring the tank would cause problems.<ref>[http://www.smithsonianchannel.com/shows/the-real-story/apollo-13/679/141246 ''The Real Story: Apollo 13''] {{Webarchive|url=https://web.archive.org/web/20150515223536/http://www.smithsonianchannel.com/shows/the-real-story/apollo-13/679/141246 |date=May 15, 2015 }}, Season 4, Episode 3, 2012.  See this section beginning at 15:18.</ref> Similarly, on the [[BBC]] ''13 Minutes to the Moon'' program, the backup lunar module pilot on the mission, [[Charles Duke]], says the film portrayed Swigert as unprepared for the flight but that it was untrue, and that Swigert was very familiar with the Command Module, as he had been involved with its development during his time as an engineering test pilot at [[North American Aviation]], prior to becoming an astronaut.<ref>{{cite web |title=13 Minutes to the Moon 2 Ep.07 Resurrection (part at 14:00 - 15:00) |url=https://www.bbc.co.uk/programmes/w3ct0v1r |website=BBC |access-date=May 1, 2023}}</ref>
+
+The dialogue between ground control and the astronauts was taken nearly verbatim from transcripts and recordings, with few exceptions. One of them is the [[tagline]], "[[Houston, we have a problem]]". (This quote was voted #50 on the list "[[AFI's 100 Years... 100 Movie Quotes]]".) According to recorded audio of the air-to-ground communications, the actual words uttered by Swigert were "Okay, Houston, we've had a problem here." Ground control responded by saying, "This is Houston. Say again, please." Jim Lovell then repeated, "Houston, we've had a problem."<ref>{{cite web |title=Apollo 13 Technical Air-to-Ground Voice Transmission Transcription |url=https://www.hq.nasa.gov/alsj/a13/AS13_TEC.txt |website=NASA.gov |publisher=National Aeronautics and Space Administration |access-date=July 2, 2022 |date=April 1970}}</ref>
+
+Another exception comes after the re-entry blackout. In the film, Lovell says, "Hello Houston... this is ''Odyssey''... it's good to see you again." In the actual re-entry, the Command Module's transmission was finally received by a [[Sikorsky SH-3D Sea King]] recovery helicopter, which then relayed its communications to Mission Control. The CAPCOM astronaut [[Joe Kerwin]] (not Mattingly, who serves as CAPCOM in this scene in the film) then made a call to the spacecraft, saying, "Odyssey, Houston standing by. Over." Swigert, not Lovell, replied "Okay, Joe." Unlike in the film, this occurred well before the parachutes deployed, but it was visual confirmation of their deployment that triggered the celebrations depicted at Mission Control.<ref>{{cite web|url= http://apollo13.spacelog.org/05:22:46:03/#log-line-513963|title= Apollo 13's re-entry transcript on Spacelog|date= April 17, 1970|access-date= February 19, 2013|archive-date= December 5, 2013|archive-url= https://web.archive.org/web/20131205065914/http://apollo13.spacelog.org/05:22:46:03/#log-line-513963|url-status= live}}</ref>
+
+The tagline "Failure is not an option," said in the film by Gene Kranz, also became very popular but was not taken from the historical transcripts. The following story, from an e-mail by Apollo 13 [[Flight Dynamics Officer]] Jerry Bostick, relates the origin of the phrase:
+<blockquote>As far as the expression "Failure is not an option," you are correct that Kranz never used that term. In preparation for the movie, the script writers, Al Reinart and Bill Broyles, came down to Clear Lake to interview me on "What are the people in Mission Control really like?" One of their questions was "Weren't there times when everybody, or at least a few people, just panicked?" My answer was "No, when bad things happened, we just calmly laid out all the options, and failure was not one of them. We never panicked, and we never gave up on finding a solution." I immediately sensed that Bill Broyles wanted to leave and assumed that he was bored with the interview. Only months later did I learn that when they got in their car to leave, he started screaming, "That's it! That's the tag line for the whole movie, Failure is not an option. Now we just have to figure out who to have say it." Of course, they gave it to the Kranz character, and the rest is history.<ref>{{cite web|url=http://www.spaceacts.com/notanoption.htm|title=Origin of Apollo 13 Quote: "Failure Is Not an Option."|publisher=SPACEACTS.COM|access-date=April 4, 2010|archive-date=January 23, 2010|archive-url=https://web.archive.org/web/20100123160551/http://www.spaceacts.com/notanoption.htm|url-status=live}}</ref></blockquote>
+
+One of the film's most significant departures from history is its depiction of Flight Director Gene Kranz and his White Team as managing all of the essential parts of the flight, from liftoff to landing. Consequently, the actual role of the other flight directors and teams, especially [[Glynn Lunney]] and his Black Team, are neglected. In fact, it was Flight Director Lunney and his team who got Apollo 13 through its most critical period in the hours immediately after the explosion, including the mid-course correction that sent the mission on a "free return" trajectory around the Moon and back to the Earth. The astronaut Ken Mattingly, who was replaced as Apollo 13 Command Module Pilot at the last minute by Swigert, later said:
+<blockquote>If there was a hero, Glynn Lunney was, by himself, a hero, because when he walked in the room, I guarantee you, nobody knew what the hell was going on. Glynn walked in, took over this mess, and he just brought calm to the situation. I've never seen such an extraordinary example of leadership in my entire career. Absolutely magnificent. No general or admiral in wartime could ever be more magnificent than Glynn was that night. He and he alone brought all of the scared people together.  And you've got to remember that the flight controllers in those days were—they were kids in their thirties. They were good, but very few of them had ever run into these kinds of choices in life, and they weren't used to that. All of a sudden, their confidence had been shaken. They were faced with things that they didn't understand, and Glynn walked in there, and he just kind of took charge.<ref>Ken Mattingly, quoted in ''Go, Flight! The Unsung Heroes of Mission Control, 1965-1992'', Rick Houston and Milt Heflin, 2015, University of Nebraska Press, p. 221</ref></blockquote>
+
+A [[Audio commentary (DVD)|DVD commentary track]], recorded by Jim and Marilyn Lovell, included with the Signature Laserdisc, and later included on both DVD versions,<ref name="DVDInfo" >{{cite web|url=https://www.amazon.com/dp/B00371QQ2U|title=Apollo 13 Blu-Ray Release|date=August 28, 2011 |publisher=[[Universal Pictures|Universal Studios]]|access-date=September 29, 2011|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308170059/https://www.amazon.com/dp/B00371QQ2U|url-status=live}}</ref> mentions several more inaccuracies, all done for reasons of [[artistic license]]:
+{{Quote box
+| quote = We were working and watching the controls during that time. Because we came in shallow, it took us longer coming through the atmosphere where we had ionization. And the other thing was that we were just slow in answering.
+| source = —Jim Lovell, on the real reason for the delay in replying after Apollo 13's four-minute re-entry into Earth's atmosphere<ref name="nytlovell"/>
+| width = 45%
+| align = right
+| salign = right
+}}
+* In the film, Mattingly plays a key role in solving a power consumption problem that Apollo 13 faced as it approached re-entry. Lovell points out in his commentary that there were several astronauts and engineers—including [[Charles Duke]] (whose rubella led to Mattingly's grounding)—who worked to solve that problem.<ref name="DVDLovellCommentary"/>
+* When Swigert is getting ready to dock with the Lunar Module, a concerned NASA technician says: "If Swigert can't dock this thing, we don't have a mission." Lovell and Haise also seem worried. In his DVD commentary, Jim Lovell says that if Swigert had been unable to dock with the module, he himself or Haise could have done it. He also says that Swigert was a well-trained Command Module Pilot and no one was really worried about whether he was up to the job<ref name="nytlovell"/> but admits that the depicted uncertainty made a nice subplot for the film. What the astronauts were really worried about, Lovell says, was the planned expected rendezvous between the Lunar Module and the Command Module after Lovell and Haise left the surface of the Moon (which was aborted by the emergency).<ref name="DVDLovellCommentary"/>
+* A scene set the night before the launch, showing the astronauts' family members saying their goodbyes while separated by a road, to reduce the possibility of any last-minute [[transmission (medicine)|transmission]] of disease, depicted a tradition that did not begin until the [[Space Shuttle program]].<ref name="DVDLovellCommentary"/>
+* The film depicts Marilyn Lovell accidentally dropping her wedding ring down a shower drain. According to Jim Lovell, this did occur,<ref name="nytlovell"/> but the drain trap caught the ring and his wife was able to retrieve it.<ref name="DVDLovellCommentary"/>  Lovell has also confirmed that the scene in which his wife had a nightmare about him being "sucked through an open door of a spacecraft into outer space" did occur, though he believes it was prompted by a scene in ''[[Marooned (1969 film)|Marooned]]'', a 1969 film about astronauts trapped on an experimental [[space station]], which they saw three months before Apollo 13 launched.<ref name="nytlovell">{{cite news | url= https://www.nytimes.com/1995/07/19/garden/at-the-movies-with-jim-lovell-in-space-no-room-for-fear.html | first= Lena | last= William | date= July 19, 1995 | title= In Space, No Room For Fear | newspaper= The New York Times | access-date= September 30, 2011 | archive-date= February 22, 2017 | archive-url= https://web.archive.org/web/20170222210328/http://www.nytimes.com/1995/07/19/garden/at-the-movies-with-jim-lovell-in-space-no-room-for-fear.html | url-status= live }}</ref>
+
+When the three astronauts are putting on their spacesuits, the NASA "worm" logo can be clearly seen on the glass behind Kevin Bacon, but that logo was not used until 1975.
+
+== See also ==
+* ''[[From the Earth to the Moon (miniseries)|From the Earth to the Moon]]'', a 1998 docudrama mini-series based around the Apollo missions
+* ''[[Gravity (2013 film)|Gravity]]'', a 2013 film about astronauts stranded in Earth orbit
+* [[Survival film]]
+* [[1970s nostalgia]]
+
+== References ==
+{{reflist}}
+{{Include-NASA}}
+
+== External links ==
+{{commons category|Apollo 13 (film)}}
+{{wikiquote|Apollo 13 (film)|the film Apollo&nbsp;13}}
+* {{IMDb title|0112384|Apollo 13}}
+* {{TCMDb title|67523|Apollo 13}}
+* {{AFI film|55718}}
+* {{Rotten-tomatoes|apollo_13|Apollo 13}}
+* {{Mojo title|apollo13|Apollo 13}}
+
+{{Ron Howard}}
+{{Brian Grazer}}
+{{Navboxes
+|title = Awards for ''Apollo 13''
+|list =
+{{ScreenActorsGuildAward CastMotionPicture}}
+{{BAFTA Award for Best Special Visual Effects}}
+{{Chicago Film Critics Association Award for Best Film}}
+{{Producers Guild of America Award for Best Theatrical Motion Picture}}
+}}
+
+{{Portal bar|Solar System|Space|Spaceflight|Film}}
+
+{{Authority control}}
+
+[[Category:1995 historical films]]
+[[Category:1995 drama films]]
+[[Category:1995 films]]
+[[Category:Adventure films based on actual events]]
+[[Category:American aviation films]]
+[[Category:American films based on actual events]]
+[[Category:American historical drama films]]
+[[Category:American space adventure films]]
+[[Category:1990s space adventure films]]
+[[Category:American survival films]]
+[[Category:Apollo 13]]
+[[Category:BAFTA winners (films)]]
+[[Category:Drama films based on actual events]]
+[[Category:1995 English-language films]]
+[[Category:Films about astronauts]]
+[[Category:Films about the Apollo program]]
+[[Category:Films about space hazards]]
+[[Category:Films based on non-fiction books]]
+[[Category:Films directed by Ron Howard]]
+[[Category:Films produced by Brian Grazer]]
+[[Category:Films scored by James Horner]]
+[[Category:Films set in 1967]]
+[[Category:Films set in 1969]]
+[[Category:Films set in 1970]]
+[[Category:Films set in Florida]]
+[[Category:Films set in Houston]]
+[[Category:Films shot in Houston]]
+[[Category:Films that won the Best Sound Mixing Academy Award]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:Imagine Entertainment films]]
+[[Category:American IMAX films]]
+[[Category:Jim Lovell]]
+[[Category:Science docudramas]]
+[[Category:Universal Pictures films]]
+[[Category:American docudrama films]]
+[[Category:1990s docudrama films]]
+[[Category:Fred Haise]]
+[[Category:Jack Swigert]]
+[[Category:Deke Slayton]]
+[[Category:1995 American films]]
+[[Category:United States National Film Registry films inducted in 2023]]
+[[Category:English-language historical drama films]]
+[[Category:Films about engineers]]

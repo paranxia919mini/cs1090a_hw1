@@ -1,0 +1,42 @@
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=January 2025}}
+{{Infobox film
+| name        = Death & Taxes
+| image       = Death_&_Taxes_(film).jpg
+| writer      = Jeffrey J. Jackson
+| starring    =
+| director    = Jeffrey J. Jackson
+| distributor =
+| released    = {{Film date|1993}}
+| runtime     = 113 minutes
+| language    = English
+| country     = United States
+| budget      =
+}}
+
+'''''Death & Taxes''''' is a 1993 [[documentary film]] directed by Jeffrey F. Jackson about [[Gordon Kahl]], a [[Tax protester (United States)|tax protester]] who was killed in a shootout with local law enforcement officials in [[Smithville, Arkansas]] in 1983.
+
+==Synopsis==
+The documentary focuses on Kahl, a tax protester that was killed as part of a shootout in Arkansas in 1983. It utilized interviews and archive material, as well as footage from Kahl's exhumation and the 1991 [[made-for-TV movie]] ''In the Line of Duty: Manhunt in the Dakotas'' starring [[Rod Steiger]].
+
+==Reception==
+''[[Variety (magazine)|Variety]]'' reviewed the documentary, writing that it was "a hard-hitting reinvestigation of the 1983 Gordon Kahl case, about which questions still linger. Jackson's unfazed, investigative reporting style approach and inventive handling of familiar material make this a controversial item for fests and progressive webs."<ref>{{cite web|last1=Elley|first1=Derek|title=Review: 'Death & Taxes'|url=https://variety.com/1993/film/reviews/death-taxes-1200435039/|website=Variety|access-date=9 March 2017|date=1 December 1993}}</ref> ''[[Billboard (magazine)|Billboard]]'' also looked at the film and noted that it "has only a slim potential audience, but provides plenty of fodder for those interested in its subject matter."<ref>{{Cite book|url=https://books.google.com/books?id=xw0EAAAAMBAJ&q=%22Death+%26+Taxes%22+Gordon+Kahl&pg=PA76|title=Death & Taxes (review)|last=Applefeld|first=Catherine|date=1995-09-02|publisher=Billboard|pages=76|language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* Taos Land and Film [http://www.taoslandandfilm.com/D%26T%20ARTICLES.html Review Collection]
+* {{IMDb title|0182962|Death & Taxes}}
+
+{{DEFAULTSORT:Death and Taxes (film)}}
+[[Category:American documentary films]]
+[[Category:1993 documentary films]]
+[[Category:1993 films]]
+[[Category:Documentary films about American politics]]
+[[Category:1993 English-language films]]
+[[Category:1993 American films]]
+[[Category:English-language documentary films]]
+
+{{1990s-bio-documentary-film-stub}}
+{{US-documentary-film-stub}}

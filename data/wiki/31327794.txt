@@ -1,0 +1,307 @@
+{{short description|2012 American film by Genndy Tartakovsky}}
+{{Redirect|Hotel Transylvania 1|the franchise|Hotel Transylvania{{!}}''Hotel Transylvania''|the television series|Hotel Transylvania: The Series{{!}}''Hotel Transylvania: The Series''}}
+{{Use American English|date=April 2021}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox film
+| name                 = Hotel Transylvania
+| image                = HotelTransylvania.jpg
+| caption              = Theatrical release poster
+| director             = [[Genndy Tartakovsky]]<ref name="TAGBlog1">{{cite web | last=Hulett | first=Steve | url=http://animationguildblog.blogspot.com/2011/04/splashing-around-spa.html | title=Splashing Around the SPA | publisher=The Animation Guild Blog | date=April 5, 2011 | access-date=April 6, 2011 | archive-date=July 20, 2011 | archive-url=https://web.archive.org/web/20110720085013/http://animationguildblog.blogspot.com/2011/04/splashing-around-spa.html | url-status=live }}</ref>
+| producer             = Michelle Murdocca
+| screenplay           = {{plainlist|
+* [[Peter Baynham]]<ref name=afi/>
+* [[Robert Smigel]]<ref name=afi/>
+}}
+| story                = {{plainlist|
+* [[Todd Durham]]<ref>{{Cite web|url=http://www.visualhollywood.com/movies_2012/hotel_transylvania/notes.pdf|title=Columbia Pictures Press Kit - Hotel Transylvania|archive-url=https://web.archive.org/web/20121222034223/http://www.visualhollywood.com/movies_2012/hotel_transylvania/notes.pdf|archive-date=December 22, 2012|url-status=dead}}</ref>
+* [[Dan Hageman]]
+* [[Kevin Hageman]]
+}}
+| starring             = {{plainlist|<!--- Per poster billing. --->
+* [[Adam Sandler]]
+* [[Andy Samberg]]
+* [[Selena Gomez]]
+* [[Kevin James]]
+* [[Fran Drescher]]
+* [[Steve Buscemi]]
+* [[Molly Shannon]]
+* [[David Spade]]
+* [[CeeLo Green]]
+}}
+| music                = [[Mark Mothersbaugh]]<ref>{{cite news|title=Mark Mothersbaugh to score 'Hotel Transylvania'|url=http://filmmusicreporter.com/2011/01/27/mark-mothersbaugh-to-score-hotel-transylvania/|access-date=May 12, 2012|newspaper=Film Music Reporter|date=January 27, 2011|archive-date=June 21, 2019|archive-url=https://web.archive.org/web/20190621030702/http://filmmusicreporter.com/2011/01/27/mark-mothersbaugh-to-score-hotel-transylvania/|url-status=live}}</ref>
+| editing              = Catherine Apple
+| production_companies = {{plainlist|
+* [[Columbia Pictures]]<ref name="HTNumbers">{{cite the numbers |title=Hotel Transylvania |id=Hotel-Transylvania |access-date=March 4, 2021}}</ref>
+* [[Sony Pictures Animation]]<ref name=afi>{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/68964?sid=265ea0fa-1a96-45e7-92f4-b754fc8aa15b&sr=3.8817034&cp=1&pos=0|title=Hotel Transylvania (2012)|work=[[AFI Catalog of Feature Films]]|access-date=November 11, 2017|archive-date=November 10, 2020|archive-url=https://web.archive.org/web/20201110221728/https://catalog.afi.com/Catalog/moviedetails/68964?sid=265ea0fa-1a96-45e7-92f4-b754fc8aa15b&sr=3.8817034&cp=1&pos=0|url-status=live}}</ref>
+}}
+| distributor          = [[Sony Pictures Releasing]]<ref name=afi/>
+| released             = {{Film date|2012|09|08|[[Toronto International Film Festival|TIFF]]|2012|09|28|United States}}
+| runtime              = 91 minutes<ref name=tiff>{{cite web|title=Hotel Transylvania|url=http://tiff.net/filmsandschedules/tiff/2012/hoteltransylvania|publisher=TIFF|access-date=July 31, 2012|archive-url=https://web.archive.org/web/20120905224516/http://tiff.net/filmsandschedules/tiff/2012/hoteltransylvania|archive-date=September 5, 2012}}</ref>
+| country              = United States
+| language             = English
+| budget               = $85 million<ref name=BOM>{{cite Box Office Mojo|title=Hotel Transylvania|id=0837562|access-date=March 4, 2021}}</ref>
+| gross                = $358.4 million<ref name=BOM />
+}}
+
+'''''Hotel Transylvania''''' is a 2012 American animated [[horror-comedy]] film directed by [[Genndy Tartakovsky]], written by [[Peter Baynham]] and [[Robert Smigel]], and featuring the voices of [[Adam Sandler]], [[Andy Samberg]], [[Selena Gomez]], [[Kevin James]], [[Fran Drescher]], [[Steve Buscemi]], [[Molly Shannon]], [[David Spade]], and [[CeeLo Green]]. It tells the story of [[Count Dracula]] (Sandler), who is the owner of Hotel Transylvania, where the world's monsters can take a rest from human civilization. When the "human-free hotel" is unexpectedly visited by a human traveler named Jonathan (Samberg), Drac must do everything in his power to prevent his daughter Mavis (Gomez) and the other guests from finding out that a human has found their safe place, which may jeopardize the hotel's future and his career.
+
+As a first-time feature director, Tartakovsky set out to make a film that used his background in [[traditional animation]] to implement the physics of 2D in [[computer animation]], inspired by the physical comedy of [[Tex Avery]], and departing from the focus on realism that had become standard in CGI fare.
+
+''Hotel Transylvania'' premiered at the [[2012 Toronto International Film Festival|Toronto International Film Festival]] on September 8, 2012, and was theatrically released in the United States on September 28, by [[Sony Pictures Releasing]]. It received mixed reviews from critics and  grossed $358&nbsp;million against a budget of $85&nbsp;million. It was nominated for a [[Golden Globe Award for Best Animated Feature Film|Golden Globe for Best Animated Film]]. The financial success of ''Hotel Transylvania'' launched [[Hotel Transylvania|a multimedia franchise]], including three sequels.
+
+==Plot==
+In 1895, after his wife Martha was killed by an angry human mob, Count Dracula commissions and builds a massive monsters-only hotel in [[Transylvania]], in which he raises his young daughter, Mavis. The hotel also serves as a safe haven and a getaway for the world's monsters from fear of human persecution. Famous monsters and friends of Dracula such as Frankenstein and his wife Eunice, Wayne and Wanda Werewolf and their massive immediate family, Griffin, and Murray often come to stay at the hotel.
+
+In 2012, on Mavis's 118th birthday, she wants to finally see the human world. Dracula allows her to leave the castle, but he sets up an elaborate plan using his zombie bellhops disguised as humans to make them seem intimidating, and frighten her home. The plan works, but on their way back the zombies inadvertently lead a human, Jonathan "Johnny" Loughran, back to the hotel. Drac frantically disguises him as a Frankenstein-esque monster and passes him off as Frank's cousin "Johnnystein" so that he could lie about his arrival. Jonathan soon meets Mavis and the two "zing". Unable to get Johnny out of the hotel without notice, Drac quickly improvises that Johnny is a party planner, brought in to bring a fresher approach to his own traditional and boring parties. Johnny quickly becomes a hit to the other monsters, but this worries Drac, who is both envious of Johnny's popularity and afraid that his friends will never return to the hotel if they find out the truth about him. Drac coerces Johnny to leave, but he is brought back by Mavis, who is unaware of Johnny's real species and feud with her father. After being shown the beauty of a sunrise by Johnny, Mavis is inspired to give humans another chance.
+
+Meanwhile, the hotel chef Quasimodo, with the help of his pet rat Esmeralda, learns that Johnny is a human and kidnaps him to cook him. Drac intervenes and magically freezes Quasimodo to keep him from telling anyone that Johnny is human. Drac leads Johnny to his quarters and shows him a painting of Martha, allowing Johnny to realize why Drac built the hotel, became overprotective of Mavis, and his hatred for humans. Johnny then agrees to leave for good, but Drac, noticing that Mavis and Johnny's feelings for each other are real, persuades him to stay for the time being to avoid ruining Mavis's birthday. Drac and Johnny begin to bond and have fun together.
+
+The party becomes a great success the next night and Mavis looks forward to opening a gift from Martha. However, when Johnny and Mavis share their first kiss, Drac overreacts, and in his outburst, inadvertently confesses to deceiving Mavis with the town. A still-frozen Quasimodo bursts in and Mr. Fly reveals from his frozen speech that Johnny is a human disguised by Drac, who is guilty about his lie. The guests are shocked and outraged by the deceit at play but Mavis is undeterred and wants to be with Johnny. Johnny rejects her out of respect for her father and leaves the hotel. A heartbroken Mavis flies onto the roof with her mother's gift, and Drac follows in hopes of comforting her. He learns the present is a book about how he and Martha "zinged" and fell in love, and realizes he no longer knows mankind's true tolerance of monsters. After apologizing to the patrons, Drac persuades Frank, Wayne, Griffin, and Murray to head out into the human world to help him find Johnny, and with the scent-tracking ability of Wayne's daughter, Winnie, they learn that he is about to catch a flight back to the United States.
+
+The five head to the airport, but are held up in a town celebrating a Monster Festival along the way. Frankenstein attempts to scare away the assembled crowd of humans with a loud roar but instead receives wild applause and adoration. He then gets the humans to agree to help, and a team of men dressed as vampires provides Drac shelter from the sunlight while he rushes to the airport. Drac arrives to see Johnny's plane taking off, and he gives chase in bat form, burning in the sunlight. After getting Johnny's attention, Drac makes his way to the windshield of the plane and uses his mind-controlling power on the pilot to help him apologize over the plane's PA system, stating that Mavis has grown up and can make her own decisions. Johnny accepts his apology, and Drac manipulates the pilot to return to the Transylvanian airport. Drac returns Johnny to Mavis, announcing that he approves of Johnny. Johnny confesses to Mavis that their "zing" was mutual and the two kiss. The monsters finish celebrating Mavis's party, impressing the hotel guests.
+
+==Voice cast==
+{{main|List of Hotel Transylvania characters}}
+{{Multiple image
+| perrow      = 3 3 4
+| total_width = 320
+| image1      = Adam Sandler at Berlinale 2024.jpg
+| alt1        = Sandler in 2024
+| image2      = Andy Samberg by Gage Skidmore.jpg
+| alt2        = Samberg in 2025
+| image3      = Selena Gomez at the 2024 Toronto International Film Festival 10 (cropped).jpg
+| alt3        = Gomez in 2024
+| image4      = Kevin James 2011 (Cropped).jpg
+| alt4        = James in 2011
+| image5      = SteveBuscemi-byPhilipRomano.jpg
+| alt5        = Buscemi in 2025
+| image6      = CeeLo Green (51936707973) (cropped).jpg
+| alt6        = Green in 2022
+| image7      = David Spade 1 (cropped).jpg
+| alt7        = Spade in 2010
+| image8      = Fran Drescher 2018.jpg
+| alt8        = Drescher in 2018
+| image9      = Molly Shannon by Gage Skidmore.jpg
+| alt9        = Shannon in 2010
+| image10     = Jon Lovitz Mercedes-Benz Carousel of Hope Gala 2014 (cropped).jpg
+| alt10       = Lovitz in 2014
+| footer      = '''Top''': [[Adam Sandler]], [[Andy Samberg]] and [[Selena Gomez]] voice Count Dracula, Johnny Loughran, and Mavis
+'''Middle''': [[Kevin James]], [[Steve Buscemi]] and [[CeeLo Green]] voice Frankenstein, Wayne, and Murray
+'''Bottom''': [[David Spade]], [[Fran Drescher]], [[Molly Shannon]] and [[Jon Lovitz]] voice Griffin, Eunice, Wanda, and Quasimodo Wilson
+}}
+{{columns-list|colwidth=30em|
+* [[Adam Sandler]] as [[Count Dracula|Count "Drac" Dracula]], a [[vampire]] and the owner of the hotel and Mavis's overprotective father.
+* [[Andy Samberg]] as Jonathan "Johnny" Loughran, Mavis's love interest.
+* [[Selena Gomez]] as Mavis Dracula, daughter of Count Dracula and late Martha, and Johnny's love interest.
+** [[Sadie Sandler]] as young Mavis Dracula, as well as Winnie, Wayne and Wanda's werewolf daughter.
+* [[Kevin James]] as [[Frankenstein's monster|Frankenstein]], one of Count Dracula's best friends who acts as an uncle to Mavis and mostly hangs out with Murray.
+* [[Steve Buscemi]] as Wayne, a [[werewolf]] who is one of Count Dracula's best friends and Wanda's husband.<ref name="Deadline1" />
+* [[CeeLo Green]] as Murray, a short, fat [[Mummy (undead)|mummy]] who is one of Count Dracula's best friends and mostly hangs out with Frankenstein.<ref name=entertainment /> He is later voiced by [[Keegan-Michael Key]] in the next three films.
+* [[David Spade]] as [[Griffin (The Invisible Man)|Griffin the Invisible Man]], one of Count Dracula's best friends.<ref name=entertainment />
+* [[Fran Drescher]] as [[Bride of Frankenstein (character)|Eunice]], Frankenstein's wife and Wanda's best friend.
+* [[Molly Shannon]] as Wanda, a werewolf, Wayne's heavily pregnant wife and Eunice's best friend.<ref name="Deadline1" />
+* [[Jon Lovitz]] as [[Quasimodo]] Wilson, a hunchbacked gourmet [[chef]] and the former [[bell-ringer]] of [[Notre-Dame de Paris|Notre-Dame]] who desires to make a dish with human as the main ingredient.<ref name="Deadline1" /><ref>{{cite news|last=Lovitz|first=Jon|title=Here's a picture of my character,...|url=https://www.twitter.com/realjonlovitz/status/207914408364613633/photo/1|access-date=May 30, 2012|newspaper=Twitter|date=May 30, 2012|quote=Here's a picture of my character, Quasimodo the Chef, from Adam Sandler's "Hotel Transylvania"|archive-date=November 26, 2016|archive-url=https://web.archive.org/web/20161126151637/https://twitter.com/realjonlovitz/status/207914408364613633/photo/1|url-status=live}}</ref>
+* [[Chris Parnell]] as [[The Fly (George Langelaan)|Mr. Fly]], Hotel Transylvania's fitness coordinator who can also translate any speech.
+* [[Brian George]] as a [[suit of armor]] who acts as the head of Hotel Transylvania's [[security guard]]s.
+* [[Jim Wise]] and [[Luenell]] as the [[shrunken head]]s that serve as a [[Door hanger|"Do Not Disturb" sign]] on the door of Mavis's room.<ref>{{cite tweet |author=Luenell |author-link=Luenell |user=Luenell |number=187217148211507200 |date=April 4, 2012 |title=My 2nd movie w/Adam Sandler, "Hotel Transylvania"! Comes out n 3-D thus Sept! I'm the shrunken head hanging on the do}}</ref>
+* [[Brian Stack (comedian)|Brian Stack]] as a pilot who flies Jonathan's airplane back to America.
+* [[Jackie Sandler]] as [[Brides of Dracula|Martha]], Dracula's wife and Mavis's mother who was killed by an angry mob when Mavis was an infant.
+* [[Rob Riggle]] as [[Skeleton (undead)|Skeleton]] Husband
+* [[Paul Brittain]] as Mr. Ghouligan, a [[zombie]] [[plumber]].
+* [[Brian McCann (actor)|Brian McCann]] as [[Yeti]]
+}}
+The heads of the [[Lernaean Hydra|Hydra]] named Mr. Hydraberg are voiced by Jim Wise, [[Paul Brittain]], Jonny Solomon, [[Craig Kellman]], and [[Brian McCann (actor)|Brian McCann]].
+
+==Production==
+===Development===
+[[File:Genndy Tartakovsky.jpg|thumb|Director Genndy Tartakovsky presented a few scenes from the film at the 2012 [[Annecy International Animated Film Festival]].<ref>{{cite news|last1=Hopewell|first1=Elsa|title=Studios roll out movies at Annecy|url=https://variety.com/2012/film/news/studios-roll-out-movies-at-annecy-1118054896/|access-date=April 19, 2015|work=Variety|date=June 1, 2012|archive-date=April 2, 2019|archive-url=https://web.archive.org/web/20190402114907/https://variety.com/2012/film/news/studios-roll-out-movies-at-annecy-1118054896/|url-status=live}}</ref><ref>{{cite web|last1=Henderson|first1=Steve|title=Annecy 2012: Hotel Transylvania|url=http://www.skwigly.co.uk/annecy-day-2-hotel-transylvania/|publisher=[[Skwigly (magazine)|Skwigly]]|access-date=April 19, 2015|date=June 8, 2012|archive-date=June 14, 2017|archive-url=https://web.archive.org/web/20170614165722/http://www.skwigly.co.uk/annecy-day-2-hotel-transylvania/|url-status=live}}</ref>]]
+''Hotel Transylvania'' was originally created and developed by comedy writer [[Todd Durham]], which he based on his book of the same name; after creating the [[Bible (screenwriting)|bible]] for a franchise of several films, television series, holiday TV specials, video games, books, merchandising, hotel chain, and theme parks, he took the package unsolicited to [[Columbia Pictures]] and set it up at [[Sony Pictures Animation]] where he became the first of several screenwriters on the project.<ref>{{Cite web|url=http://www.visualhollywood.com/movies_2012/hotel_transylvania/notes.pdf|title=Columbia Pictures Press Kit - Hotel Transylvania|archive-url=https://web.archive.org/web/20121222034223/http://www.visualhollywood.com/movies_2012/hotel_transylvania/notes.pdf|archive-date=December 22, 2012|url-status=dead}}</ref><ref>{{Cite web|url=http://www.sonypicturesanimation.com/pastfilms.php?s=hotelt|title=Hotel Transylvania|website=Sony Pictures Animation|access-date=August 24, 2017|archive-date=December 28, 2019|archive-url=https://web.archive.org/web/20191228135355/http://www.sonypicturesanimation.com/pastfilms.php?s=hotelt|url-status=dead}}</ref><ref>{{Cite web|url=https://www.facebook.com/HotelT/|title=Hotel Transylvania|website=Facebook|access-date=August 24, 2017|archive-date=August 29, 2020|archive-url=https://web.archive.org/web/20200829184402/https://www.facebook.com/HotelT|url-status=live}}</ref>
+
+The development process ultimately went through six directors; in 2006, [[Anthony Stacchi]] and [[David Feiss]] became the first directors set to helm the film.<ref>{{cite news | last=Davis | first=Erik | url=https://variety.com/2006/digital/markets-festivals/hotel-key-to-sony-toons-1200338684/ | title='Hotel' key to Sony toons | work=[[Variety (magazine)|Variety]] | date=July 31, 2006 | access-date=June 14, 2011 | archive-date=November 7, 2012 | archive-url=https://web.archive.org/web/20121107204310/http://www.variety.com/article/VR1117947750 | url-status=live }}</ref>  They were replaced by [[Jill Culton]] in 2008,<ref>{{cite news | last=Siegel | first=Tatiana | url=https://variety.com/2008/digital/markets-festivals/jill-culton-checks-into-sony-s-hotel-1117982005/ | work=[[Variety (magazine)|Variety]] | title=Jill Culton checks into Sony's 'Hotel' | date=March 6, 2008 | access-date=June 14, 2011 | archive-date=November 8, 2012 | archive-url=https://web.archive.org/web/20121108152036/http://www.variety.com/article/VR1117982005 | url-status=live }}</ref> who was followed by [[Chris Jenkins (film producer)|Chris Jenkins]],<ref>{{cite web | last=Hulett | first=Steve | url=http://animationguildblog.blogspot.com/2010/04/visiting-spa.html | title=Visiting the SPA | publisher=TAG Blog | date=April 7, 2010 | access-date=June 14, 2011 | archive-date=September 29, 2011 | archive-url=https://web.archive.org/web/20110929112448/http://animationguildblog.blogspot.com/2010/04/visiting-spa.html | url-status=live }}</ref> with Todd Wilderman in 2010.<ref name=BleedingCool />  In February 2011,<ref>{{cite news|last=Blair|first=Iain|title=Tartakovsky: TV titan turns around Sony's troubled 'Transylvania'|url=https://variety.com/2012/digital/news/tartakovsky-tv-titan-turns-around-sony-s-troubled-transylvania-1118062721/|access-date=December 4, 2012|newspaper=Variety|date=December 1, 2012|archive-date=December 6, 2012|archive-url=https://web.archive.org/web/20121206045123/http://www.variety.com/article/VR1118062721|url-status=live}}</ref> [[Genndy Tartakovsky]], creator of ''[[Dexter's Laboratory]]'', ''[[Samurai Jack]]'', ''[[Star Wars: Clone Wars]]'', and ''[[Sym-Bionic Titan]]'' took over as the sixth scheduled director,<ref name=LosAngelesTimes>{{cite news|last=Keegan|first=Rebecca|title=Genndy Tartakovsky gets 'Hotel Transylvania' open for business|url=https://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-hotel-transylvania-20120826,0,3490529.story|access-date=August 26, 2012|newspaper=Los Angeles Times|date=August 25, 2012|archive-date=August 26, 2012|archive-url=https://web.archive.org/web/20120826000631/http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-hotel-transylvania-20120826,0,3490529.story|url-status=live}}</ref> and made his feature directorial debut with the film.<ref name="Deadline1">{{Cite press release | url=https://deadline.com/2011/07/adam-sandler-to-lead-voice-cast-of-sony-animations-hotel-transylvania-145193/ | title=Adam Sandler To Lead Voice Cast Of Sony Animation's 'Hotel Transylvania' | website=[[Deadline Hollywood]] | date=July 5, 2011 | access-date=July 5, 2011 | archive-date=January 8, 2014 | archive-url=https://web.archive.org/web/20140108180408/http://www.deadline.com/2011/07/adam-sandler-to-lead-voice-cast-of-sony-animations-hotel-transylvania/ | url-status=live }}</ref><ref name=BleedingCool>{{cite news|last=Connelly|first=Brendon|title=Genndy Tartakovsky Taking Over The Hotel Transylvania?|url=http://www.bleedingcool.com/2011/03/26/genndy-tartakovsky-taking-over-the-hotel-transylvania/|access-date=July 31, 2012|newspaper=Bleedin Cool|date=March 26, 2011|archive-date=June 21, 2019|archive-url=https://web.archive.org/web/20190621032217/https://www.bleedingcool.com/2011/03/26/genndy-tartakovsky-taking-over-the-hotel-transylvania/|url-status=live}}</ref>
+
+In November 2011, [[Miley Cyrus]] was announced to voice Mavis, Dracula's teenaged daughter,<ref name=entertainment>{{cite magazine|last=Vary|first=Adam B.|title=Miley Cyrus to voice Adam Sandler's daughter in 'Hotel Transylvania' -- EXCLUSIVE|url=http://insidemovies.ew.com/2011/11/04/miley-cyrus-adam-sandler-hotel-transylvania/|magazine=Entertainment Weekly|publisher=Entertainment Weekly|access-date=April 11, 2011|archive-date=June 3, 2013|archive-url=https://web.archive.org/web/20130603043351/http://insidemovies.ew.com/2011/11/04/miley-cyrus-adam-sandler-hotel-transylvania/|url-status=live}}</ref><ref>{{cite web|url=http://www.entertainmentwise.com/news/69288/Miley-Cyrus-Drops-Out-Of-Film-Role-To-Make-Pop-Comeback |title=Miley Cyrus Drops Out Of Film Role To Make Pop Comeback |author=Shaun Kitchener |publisher=Entertainmentwise. [[Gigwise]] |date=February 10, 2012 |access-date=September 21, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20150404070727/http://www.entertainmentwise.com/news/69288/miley-cyrus-drops-out-of-film-role-to-make-pop-comeback |archive-date=April 4, 2015 }}</ref> but in February 2012, she was removed from the film. In August 2019, Cyrus admitted it was because of buying then-partner [[Liam Hemsworth]] a birthday cake in the shape of a [[penis]] and licking it.<ref>{{cite web|url=https://people.com/movies/miley-cyrus-kicked-off-hotel-transylvania-over-liam-hemsworth-penis-cake/|title=Miley Cyrus Says She Was 'Kicked Off' Hotel Transylvania After Licking Liam Hemsworth's Penis Cake|work=[[People (magazine)|People]]|date=August 22, 2019|first=Ale|last=Russian|access-date=August 22, 2019|archive-date=November 11, 2020|archive-url=https://web.archive.org/web/20201111184832/https://people.com/movies/miley-cyrus-kicked-off-hotel-transylvania-over-liam-hemsworth-penis-cake/|url-status=live}}</ref> It was later announced that [[Selena Gomez]] would replace Cyrus.<ref name=cartoon>{{cite news |url=http://blog.bcdb.com/miley-cyrus-checking-hotel-transylvania-3039/ |title=Miley Cyrus checking out of "Hotel Transylvania" |first=Ethan |last=Minovitz |newspaper=Big Cartoon News |date=February 12, 2012 |access-date=February 12, 2012 |url-status=dead |archive-url=https://archive.today/20120710170246/http://blog.bcdb.com/miley-cyrus-checking-hotel-transylvania-3039/ |archive-date=July 10, 2012 }}</ref> According to Tartakovsky his favorite Dracula was Bela Lugosi, especially in the context of Abbott and Costello. As a kid he really did not like horror movies, so he never really watched them. So he got introduced to all those characters through comedy, and so it was ''[[Abbott and Costello Meet Frankenstein]]'' and ''[[Abbott and Costello Meet the Mummy|Meet the Mummy]]'', etc. As Tartakovsky said [in relation to making ''Hotel Transylvania'']: "I don't want to scare anybody. I just want to make them laugh with these iconic characters."<ref>{{Cite web |url=https://www.denofgeek.com/culture/hotel-transylvania-director-genndy-tartakovsky-tells-tales-outside-the-lab/ |title=Hotel Transylvania Director Genndy Tartakovsky Tells Tales Outside the Lab |date=June 29, 2018 |access-date=May 2, 2020 |archive-date=June 16, 2020 |archive-url=https://web.archive.org/web/20200616144108/https://www.denofgeek.com/culture/hotel-transylvania-director-genndy-tartakovsky-tells-tales-outside-the-lab/ |url-status=live }}</ref>
+
+===Animation and design===
+Tartakovsky, who originates from a traditional animation background, reimagined the film to follow the energy, organic nature, and exaggeration of 2D animation, particularly as seen in the work of director [[Tex Avery]].<ref>{{cite magazine |last=Giardina |first=Carolyn |date=August 7, 2012 |title=Siggraph 2012: 'Hotel Transylvania' Previewed by Director Genndy Tartakovsky |url=https://www.hollywoodreporter.com/news/siggraph-hotel-transylvania-selena-gomez-359203 |url-status=live |archive-url=https://web.archive.org/web/20121025131645/http://www.hollywoodreporter.com/news/siggraph-hotel-transylvania-selena-gomez-359203 |archive-date=October 25, 2012 |access-date=August 8, 2012 |magazine=[[The Hollywood Reporter]]}}</ref>  "I took all the aesthetics I like from 2-D and applied them here," he said. "I don't want to do animation to mimic reality. I want to push reality."<ref name="LosAngelesTimes" /> Tartakovsky's process involved drawing over character models in order to achieve exaggerated poses, hoping to "bring a 2D drawing sensibility into the CG world" and "push the expressions of the characters."<ref>{{Cite web |title=Genndy Tartakovsky Talks 'Hotel Transylvania' |url=https://www.awn.com/animationworld/genndy-tartakovsky-talks-hotel-transylvania |access-date=2024-08-19 |website=Animation World Network |language=en}}</ref><ref name=":0">{{Cite web |title='Hotel Transylvania' Gets a 2D Transfusion |url=https://www.awn.com/animationworld/hotel-transylvania-gets-2d-transfusion |access-date=2024-08-19 |website=Animation World Network |language=en}}</ref> [[Character animation|Character animator]] Bill Haller remarked that "20% of the effort went into tweaking the rig to more of a hand-drawn pose" when creating most of the shots.<ref name=":0" />
+
+[[Visual effects supervisor]] Dan Kramer stated that because most of the film's assets were created under a different director, they were initially hesitant to take the character animation off model, but admitted that "when [Tartakovsky] did draw overs, it was freeing for the animators. And it's changed my viewpoint in being a little looser."<ref name=":0" /> Bill Desowitz of ''[[Animation World Network]]'' described the process as "creating new pipeline, breaking [[Skeletal animation|rigs]] and coming up with various deforming tweaks to get the right [[Squash and stretch|squash-and-stretch]] in CG."<ref name=":0" /> "I wanted to have an imprint so you'd go, 'Well, only Genndy can make this," Tartakovsky explained. "It's hard, especially with CG, but I feel there's a lot of moments that feel that they're very me, so hopefully it'll feel different enough that it has a signature to it."<ref name="Shock">{{cite news |last=Douglas |first=Edward |date=June 26, 2012 |title=A Preview of Sony Animation's Hotel Transylvania |url=http://www.shocktillyoudrop.com/news/168229-a-preview-of-sony-animations-hotel-transylvania |url-status=live |archive-url=https://web.archive.org/web/20150108094401/http://www.shocktillyoudrop.com/news/168229-a-preview-of-sony-animations-hotel-transylvania/ |archive-date=January 8, 2015 |access-date=August 8, 2012 |newspaper=Shock Till You Drop}}</ref>
+
+==Soundtrack==
+* "Where Did the Time Go Girl (Party Version)" Written by [[Robert Smigel]], Adam Sandler, and Dennis White. Produced by [[Static Revenger]].
+* "Daddy's Girl" Written by Adam Sandler and Robert Smigel. Performed by Adam Sandler.<ref name="endcredits">"End Credits" ''Hotel Transylvania'' [[DVD]] & [[Blu-ray]] 2012. [[Sony Pictures Home Entertainment]] Retrieved February 15, 2013</ref>
+* "[[Call Me Maybe|Call Me Mavy]]" Performed by Traci L.<ref>{{cite news|title=''Hotel Transylvania'' Music Video ''Call Me Mavy''|url=http://www.disneydreaming.com/2012/08/02/hotel-transylvania-music-video-call-me-mavy/|access-date=October 13, 2012|newspaper=Disney Dreaming|date=August 2, 2012|archive-date=December 15, 2018|archive-url=https://web.archive.org/web/20181215121114/http://www.disneydreaming.com/cgi-sys/suspendedpage.cgi|url-status=dead}}</ref>
+* "Problem (The Monster Remix)" Written by [[Cirkut (record producer)|Henry Walter]], [[Lukasz Gottwald]], [[Becky G]] (as Becky Gomez) & [[will.i.am]] (as William Adams). Performed by Becky G featuring will.i.am.
+* "[[Sexy and I Know It]]", performed by [[LMFAO]]
+* "The Zing" Written by Adam Sandler, Robert Smigel, and Dennis White. Produced by Static Revenger. Performed by Adam Sandler, Andy Samberg, CeeLo Green, Kevin James, and Selena Gomez.<ref name="endcredits" />
+* "Helpless", written and performed by Peter Tvrznik<ref name="endcredits" />
+* "Sweet 118", written by Andy Samberg, Stuart Hart and Trevor Simpson. Performed by Andy Samberg.<ref name="endcredits" />
+* "[[Hush, Little Baby]]", performed by Adam Sandler.<ref name="endcredits" />
+* "[[Monster Mash]]", performed by [[Bobby Pickett]].<ref name="endcredits" />
+
+==Release==
+===Theatrical===
+''Hotel Transylvania'' premiered on September 8, 2012, at the [[Toronto International Film Festival]].<ref name=tiff /> The film received a wide release on September 28, 2012.<ref name=afi/> On October 26, 2012, [[Regal Entertainment Group]] Cinemas began exclusively playing the traditionally animated short film ''[[#Goodnight Mr. Foot|Goodnight Mr. Foot]]'' before the film. Based on ''Hotel Transylvania'', the short was directed and animated by Genndy Tartakovsky.<ref name=PRNewswireGoodnight>{{cite news|title=No Trick, Big Halloween Treat from Sony Pictures Animation's HOTEL TRANSYLVANIA Director Genndy Tartakovsky|url=http://www.prnewswire.com/news-releases/no-trick-big-halloween-treat-from-sony-pictures-animations-hotel-transylvania-director-genndy-tartakovsky-175869981.html|access-date=October 26, 2012|newspaper=PR Newswire|date=October 25, 2012|publisher=Sony Pictures Animation|archive-date=June 2, 2013|archive-url=https://web.archive.org/web/20130602032705/http://www.prnewswire.com/news-releases/no-trick-big-halloween-treat-from-sony-pictures-animations-hotel-transylvania-director-genndy-tartakovsky-175869981.html|url-status=live}}</ref>
+
+===Home media===
+''Hotel Transylvania'' was released on [[Blu-ray]] (2D and 3D) and [[DVD]] on January 29, 2013. It was accompanied by the short animated film, ''Goodnight Mr. Foot''.<ref>{{cite news|title=Hotel Transylvania Blu-ray|url=http://www.blu-ray.com/news/?id=9964|access-date=November 20, 2012|newspaper=Blu-ray.com|date=November 19, 2012|archive-date=June 29, 2017|archive-url=https://web.archive.org/web/20170629154455/http://www.blu-ray.com/news/?id=9964|url-status=live}}</ref>
+
+In April 2021, Sony signed a deal giving Disney access to their legacy content, including the ''Hotel Transylvania'' franchise to stream on [[Disney+]] and [[Hulu]] and appear on Disney's linear television networks. Disney's access to Sony's titles would come following their availability on [[Netflix]].<ref>{{Cite web |last1=Couch |first1=Aaron |date=2021-04-21 |title=Sony Films Will Move to Disney After Netflix Window Expires |url=https://www.hollywoodreporter.com/movies/movie-news/disney-nabs-post-pay-1-rights-for-sonys-feature-films-4170479/ |access-date=2022-10-29 |website=The Hollywood Reporter |language=en-US |archive-date=April 21, 2021 |archive-url=https://web.archive.org/web/20210421230835/https://www.hollywoodreporter.com/news/disney-nabs-post-pay-1-rights-for-sonys-feature-films |url-status=live }}</ref>
+
+===Box office===
+''Hotel Transylvania'' earned $148.3&nbsp;million in North America, and $210.1 million in other countries, for a worldwide total of $358.4&nbsp;million.<ref name=BOM /> The officially reported budget for the film was $85&nbsp;million,<ref name=BOM /> although ''[[Deadline Hollywood]]'' claimed that the film actually cost $104&nbsp;million.<ref name=DeadlineWeekend>{{cite news|last=Finke|first=Nikki|title=What A Weekend! Sony Has Best Ever #1 + #2 Films: ''Hotel Transylvania'' & ''Looper'' Set Records; Uni's ''Pitch Perfect'' Tops Screen Average; Walden's ''Won't Back Down'' Flops|url=https://deadline.com/2012/09/fine-friday-box-office-sony-claims-1-hotel-transylvania-and-2-looper-universal-platforms-pitch-perfect-on-key-waldenfox-surrenders-wont-back-down-345378/|access-date=September 30, 2012|newspaper=Deadline|date=September 30, 2012|archive-date=October 11, 2017|archive-url=https://web.archive.org/web/20171011191448/http://deadline.com/2012/09/fine-friday-box-office-sony-claims-1-hotel-transylvania-and-2-looper-universal-platforms-pitch-perfect-on-key-waldenfox-surrenders-wont-back-down-345378/|url-status=live}}</ref>
+
+''Hotel Transylvania'' topped the box office with $11&nbsp;million on its first Friday, and $42.5&nbsp;million domestically and $50.6&nbsp;million worldwide for its opening weekend, which at the time of its release broke ''[[Sweet Home Alabama (film)|Sweet Home Alabama]]''{{'}}s record for the largest-grossing September opening,<ref name=DeadlineWeekend /> a record which was overtaken by its sequel ''[[Hotel Transylvania 2]]'' in 2015, with a weekend gross of $48.5&nbsp;million.<ref name=DeadlineRecordOpening>{{cite web|url=https://deadline.com/2015/09/the-intern-hotel-transylvania-2-the-green-inferno-weekend-box-office-1201550112/|title=''Hotel Transylvania 2'' At $48.5M Marks Record Opening For Adam Sandler; 'Intern' Slacks On Sunday – Monday Postmortem|author=Anthony D'Alessandro|website=[[Deadline Hollywood]]|publisher=([[Penske Media Corporation]])|date=September 28, 2015|access-date=September 29, 2015|archive-date=November 8, 2020|archive-url=https://web.archive.org/web/20201108102840/https://deadline.com/2015/09/the-intern-hotel-transylvania-2-the-green-inferno-weekend-box-office-1201550112/|url-status=live}}</ref> The film also earned the highest-grossing domestic debut for Sony Pictures Animation (also later overtaken by ''Hotel Transylvania 2'').<ref name=DeadlineRecordOpening /><ref>{{cite web|title=Sony Pictures Animation – Opening Weekends|url=https://www.boxofficemojo.com/franchises/chart/?view=openings&id=sonyanimation.htm&p=.htm|website=Box Office Mojo|access-date=October 1, 2012|archive-date=July 7, 2017|archive-url=https://web.archive.org/web/20170707184602/http://www.boxofficemojo.com/franchises/chart/?view=openings&id=sonyanimation.htm&p=.htm|url-status=live}}</ref> According to Sony's president of worldwide distribution, Rory Bruer, Sony was very satisfied with the film's performance, which was "beyond anyone's imagination, and the holds are ridiculous. It exceeds expectations in every new market it opens in."<ref>{{cite news|last=Cunningham|first=Todd|title=How "Hotel Transylvania" beat its better-reviewed rivals at the box office|url=https://www.chicagotribune.com/entertainment/sns-rt-us-hoteltransylvaniabre89l1nc-20121022,0,3720610.story|access-date=October 23, 2012|newspaper=Chicago Tribune|date=October 22, 2012|agency=Reuters|archive-date=December 15, 2018|archive-url=https://web.archive.org/web/20181215171655/https://www.chicagotribune.com/entertainment/sns-rt-us-hoteltransylvaniabre89l1nc-20121022,0,3720610.story|url-status=live}}</ref> ''Hotel Transylvania'' was theatrically released in China on October 28, 2013,<ref>{{cite news|last=Marsh|first=James|title=China Box Office: Russian War Epic STALINGRAD Storms The Charts|url=http://twitchfilm.com/2013/11/china-box-office-russian-war-epic-stalingrad-storms-the-charts.html|access-date=November 23, 2013|newspaper=Twitch|date=November 5, 2013|archive-date=March 28, 2016|archive-url=https://web.archive.org/web/20160328223701/http://twitchfilm.com/2013/11/china-box-office-russian-war-epic-stalingrad-storms-the-charts.html|url-status=dead}}</ref> more than a year after the worldwide premiere, and contributed $11,180,000 to the overall gross.<ref>{{cite web|title=Hotel Transylvania (2012) – China|url=https://www.boxofficemojo.com/movies/?page=intl&country=CH&id=hoteltransylvania.htm|website=Box Office Mojo|access-date=November 23, 2013|archive-date=December 15, 2018|archive-url=https://web.archive.org/web/20181215173337/https://www.boxofficemojo.com/movies/?page=intl&country=CH&id=hoteltransylvania.htm|url-status=live}}</ref>
+
+==Reception==
+''Hotel Transylvania'' has an approval rating of 45% based on 142 professional reviews on the [[review aggregator]] website [[Rotten Tomatoes]], with an average rating of {{RT data|average}}. Its critical consensus reads, "''Hotel Transylvania''{{'}}s buoyant, giddy tone may please children, but it might be a little too loud and thinly-scripted for older audiences."<ref>{{Cite Rotten Tomatoes|title=Hotel Transylvania|id={{RT data|rtid|noprefix=y}}|type=m|access-date={{RT data|access-date}}}}{{RT data|edit}}</ref> [[Metacritic]] (which uses a weighted average) assigned ''Hotel Transylvania'' a score of 47 out of 100 based on 32 critics, indicating "mixed or average" reviews.<ref name=Metacritic>{{cite Metacritic|title=Hotel Transylvania|id=hotel-transylvania|type=movie|access-date=March 4, 2021}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on an A+ to F scale.<ref>{{cite news|last=Cunningham|first=Todd|title='Hotel Transylvania': Monster Debut Puts It on Pace for $38M Box-Office Weekend|url=https://www.thewrap.com/movies/article/hotel-transylvania-monster-debut-puts-it-pace-38m-box-office-weekend-58531|access-date=September 29, 2012|newspaper=The Wrap|date=September 29, 2012|archive-date=October 30, 2020|archive-url=https://web.archive.org/web/20201030223110/https://www.thewrap.com/hotel-transylvania-monster-debut-puts-it-pace-38m-box-office-weekend-58531/|url-status=dead}}</ref><ref>{{cite web |date=September 30, 2012 |author=Ray Subers |title=Weekend Report: 'Hotel Transylvania' Scares Up New September Record |url=https://www.boxofficemojo.com/article/ed930939908/ |website=[[Box Office Mojo]] |quote=audience was primarily made up of families (78 percent), and they awarded the movie an "A-" CinemaScore (that improved to a solid "A" among women and children). |access-date=March 24, 2022 |archive-date=March 24, 2022 |archive-url=https://web.archive.org/web/20220324041512/https://www.boxofficemojo.com/article/ed930939908/ |url-status=live }}</ref>
+
+''[[IGN]]'' editor Geoff Chapman awarded the film a score of 9 out of 10, and wrote "This is a fun film, full of quirky gags and lovable characters. There are a few songs that smack a bit like soundtrack marketing for the kids, and the story is of course fairly predictable, but this movie is about enjoying a fun journey with great characters. It's a romp that kids and families will all enjoy. ''Hotel Transylvania'' is definitely somewhere you'll want to check in."<ref>{{cite news|last=Chapman|first=Geoff|title=Hotel Transylvania Review|url=https://www.ign.com/articles/2012/09/08/hotel-transylvania-review|access-date=January 18, 2013|newspaper=IGN|date=September 8, 2012|archive-date=March 10, 2020|archive-url=https://web.archive.org/web/20200310211605/https://www.ign.com/articles/2012/09/08/hotel-transylvania-review|url-status=live}}</ref>
+
+===Accolades===
+{| class="wikitable" width=100%
+|-
+! Award !! Category !! Recipient !! Result
+|-
+| rowspan=8 | [[Annie Awards]]<ref>{{cite news|title=Annie Award Nominations Unveiled|url=https://deadline.com/2012/12/2012-annie-award-nominations-381176/|access-date=December 3, 2012|newspaper=Deadline|date=December 3, 2012|archive-date=October 18, 2020|archive-url=https://web.archive.org/web/20201018174432/https://deadline.com/2012/12/2012-annie-award-nominations-381176/|url-status=live}}</ref><ref>{{cite news|last=Beck|first=Jerry|title=Annie Award Winners|url=http://www.cartoonbrew.com/events/annie-award-winners-77380.html|access-date=February 3, 2013|newspaper=[[Cartoon Brew]]|date=February 2, 2013|archive-date=February 6, 2013|archive-url=https://web.archive.org/web/20130206130709/http://www.cartoonbrew.com/events/annie-award-winners-77380.html|url-status=live}}</ref>
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+|
+| rowspan=11 {{nom}}
+|-
+| rowspan=2 | Character Design in an Animated Feature Production
+| Carlos Grangel
+|-
+| Carter Goodrich
+|-
+| Directing in an Animated Feature Production
+| Genndy Tartakovsky
+|-
+| Music in an Animated Feature Production
+| Mark Mothersbaugh
+|-
+| Production Design in an Animated Feature Production
+| Marcello Vignali
+|-
+| Voice Acting in an Animated Feature Production
+| Adam Sandler
+|-
+| Editorial in an Animated Feature Production
+| Catherine Apple
+|-
+| [[70th Golden Globe Awards|Golden Globe Awards]]<ref>{{cite news|title=70th Golden Globe Awards Nominations|url=https://deadline.com/2012/12/golden-globe-awards-nominations-2013-388146/|access-date=December 13, 2012|newspaper=Deadline|date=December 13, 2012|archive-date=October 14, 2013|archive-url=https://web.archive.org/web/20131014025737/http://www.deadline.com/2012/12/golden-globe-awards-nominations-2013/|url-status=live}}</ref>
+| [[Golden Globe Award for Best Animated Feature Film|Best Animated Feature Film]]
+| [[Genndy Tartakovsky]]
+|-
+| rowspan=2 | [[Visual Effects Society]]<ref>{{cite news|title=Nominations for the 11th Annual VES Awards|url=https://www.comingsoon.net/news/gamenews.php?id=98578|access-date=January 7, 2013|newspaper=ComingSoon.net|date=January 7, 2013|archive-date=October 15, 2014|archive-url=https://web.archive.org/web/20141015100214/http://www.comingsoon.net/news/gamenews.php?id=98578|url-status=dead}}</ref><ref>{{cite news|title=VES Awards: 'Life Of Pi' Wins 4 Including Feature, 'Brave', 'Game Of Thrones' Other Big Winners|url=https://deadline.com/2013/02/visual-effects-society-awards-2013-winners-list-422307/|access-date=February 7, 2013|newspaper=Deadline|date=February 5, 2013|archive-date=June 19, 2014|archive-url=https://web.archive.org/web/20140619025218/http://www.deadline.com/2013/02/visual-effects-society-awards-2013-winners-list/|url-status=live}}</ref>
+| [[Visual Effects Society Award for Outstanding Animation in an Animated Feature Motion Picture|Outstanding Animation in an Animated Feature Motion Picture]]
+| Lydia Bottegoni, James Crossley, Mike Ford, Daniel Kramer
+|-
+| Outstanding Animated Character in an Animated Feature Motion Picture
+| Bill Haller, Tim Pixton, Jorge Vigara (for Dracula)
+|-
+| [[2013 Kids' Choice Awards|Kid's Choice Awards]]<ref>{{cite news|last=West|first=Abby|title=Kids' Choice Awards 2013 TV nominees- EXCLUSIVE|url=http://family-room.ew.com/2013/02/13/kids-choice-awards-2013-tv-nominees-exclusive/|access-date=February 16, 2013|newspaper=Entertainment Weekly|date=February 13, 2013|archive-date=February 17, 2013|archive-url=https://web.archive.org/web/20130217164015/http://family-room.ew.com/2013/02/13/kids-choice-awards-2013-tv-nominees-exclusive/|url-status=live}}</ref>
+| Favorite Voice from an Animated Movie
+| Adam Sandler (as Dracula)
+| {{won}}
+|}
+
+== Other media ==
+{{main|Hotel Transylvania}}
+
+=== Sequels ===
+{{main|Hotel Transylvania 2}}
+The sequel, titled ''Hotel Transylvania 2'', was released on September 25, 2015.<ref name="EWSequel">{{cite news |last=Schou |first=Solvej |title=''Hotel Transylvania 2'' scheduled for 2015 release |url=https://www.ew.com/article/2012/11/09/hotel-transylvania-sequel-2015?iid=sr-link3 |access-date=November 22, 2012 |newspaper=Entertainment Weekly |date=November 9, 2012 |archive-date=April 2, 2019 |archive-url=https://web.archive.org/web/20190402192333/https://ew.com/article/2012/11/09/hotel-transylvania-sequel-2015/?iid=sr-link3 |url-status=live }}</ref> Its story takes place seven years after the first film, with the hotel now open to human guests, and its owner, Count Dracula, being more preoccupied with the fact that his 5-year-old grandson is not a pure-blood vampire.<ref name=InquirerFacts>{{cite news|title='Hotel Transylvania 2′ fun facts|url=http://entertainment.inquirer.net/178086/hotel-transylvania-2-fun-facts|newspaper=Inquirer.net|access-date=September 20, 2015|date=September 8, 2015|archive-date=December 26, 2020|archive-url=https://web.archive.org/web/20201226125155/https://entertainment.inquirer.net/178086/hotel-transylvania-2-fun-facts|url-status=live}}</ref> The original crew and cast returned for the film, except CeeLo Green as the role of Murray, who was replaced by Keegan-Michael Key. New additions include [[Mel Brooks]] as Dracula's father, Vlad;<ref name="USA Today">{{cite web |url=https://www.usatoday.com/story/life/movies/2014/11/25/mel-brooks-hotel-transylvania-2-movie-sneak-peek/19193423 |title=Mel Brooks checks in for ''Hotel Transylvania 2'' |author=Brian Truitt |date=November 25, 2014 |work=[[USA Today]] |access-date=November 26, 2014 |archive-date=August 8, 2020 |archive-url=https://web.archive.org/web/20200808164051/https://www.usatoday.com/story/life/movies/2014/11/25/mel-brooks-hotel-transylvania-2-movie-sneak-peek/19193423/ |url-status=live }}</ref> [[Nick Offerman]] and [[Megan Mullally]] as Jonathan's parents, Mike and Linda;<ref name=PeopleOffermanMullally>{{cite news|last1=Sokmensuer|first1=Harriet|title=Hotel Transylvania 2 Costars Nick Offerman and Wife Megan Mullally: Who's Funnier? Here's What He Says|url=http://www.people.com/article/nick-offerman-wife-megan-mullally-hotel-transylvania-2|access-date=June 17, 2015|work=People|date=June 16, 2015|archive-date=May 4, 2019|archive-url=https://web.archive.org/web/20190504060229/https://people.com/movies/nick-offerman-talks-wife-megan-mullally-and-hotel-transylvania-2/|url-status=live}}</ref> and [[Asher Blinkoff]] as Mavis and Johnny's half-human/half-vampire son, Dennis.<ref name=THPAsherBlinkoff>{{cite news|last1=HIll|first1=Jim|title=There's Something Fishy About Asher Blinkoff's Voice Work in Hotel Transylvania 2|url=https://www.huffingtonpost.com/jim-hill/theres-something-fishy-ab_b_8113702.html|access-date=September 12, 2015|work=The Huffington Post|date=September 9, 2015|archive-date=March 31, 2019|archive-url=https://web.archive.org/web/20190331180130/https://www.huffpost.com/entry/theres-something-fishy-ab_b_8113702|url-status=live}}</ref>
+
+''Hotel Transylvania 2'' was followed by ''[[Hotel Transylvania 3: Summer Vacation]]'', released on July 13, 2018.
+
+The fourth feature film in the series is ''[[Hotel Transylvania: Transformania]]'', released as an [[Amazon Prime Video]] exclusive on January 14, 2022.
+
+A fifth film is in development.<ref>{{Cite web |last=Lang |first=Jamie |date=January 14, 2026 |title='Hotel Transylvania 5' Confirmed By Keegan-Michael Key, Who Praises Voice Acting As A 'Sacred Connection To The Drawings' |url=https://www.cartoonbrew.com/feature-film/hotel-transylvania-5-keegan-michael-key-258213.html|url-status=live |website=[[Cartoon Brew]]}}</ref>
+
+=== Television series ===
+{{Main|Hotel Transylvania: The Series}}
+
+A television series based on the film premiered on June 25, 2017, and ended on October 29, 2020.<ref name=VarietyHotelTV /> Developed and produced by [[Nelvana Limited]], in partnership with Sony Pictures Animation, the prequel series focused on the 114/115 years of Mavis and her friends at the Hotel Transylvania.<ref name=VarietyHotelTV>{{cite news|last=Steinberg|first=Brian|title=Nelvana, Sony Pictures Animation Ready 'Hotel Transylvania' For TV|url=https://variety.com/2015/tv/news/nelvana-sony-pictures-animation-hotel-transylvania-tv-1201539674/|access-date=November 3, 2015|work=Variety|date=July 14, 2015}}</ref> [[Sony Pictures Television]] handled distribution in the United States, while Nelvana distributed the series outside the United States.<ref name=VarietyHotelTV /> It aired on the [[Disney Channel]] worldwide.<ref name="DeadlineHT3EmojiGhost">{{cite web|last=Pederson|first=Erik|title=Sony Animation Dates 'Hotel Transylvania 3', 'Emojimovie' & More; 'Ghostbusters' TV Series Set|url=https://deadline.com/2016/06/hotel-transylvania-3-emoji-movie-ghostbusters-sony-animation-1201775965/|publisher=Deadline|access-date=June 21, 2016|date=June 20, 2016}}</ref>
+
+In June 2024, ''Motel Transylvania'', a television series set to debut on [[Netflix]] in 2027, was announced.<ref>{{Cite web|url=https://deadline.com/2024/06/timothy-olyphant-terminator-animated-netflix-series-1235960994/|title=Timothy Olyphant To Voice Terminator In Animated Netflix Series|website=[[Deadline Hollywood]]|first=Peter|last=White|date=June 6, 2024|access-date=June 6, 2024|archive-date=June 6, 2024|archive-url=https://web.archive.org/web/20240606212044/https://deadline.com/2024/06/timothy-olyphant-terminator-animated-netflix-series-1235960994/|url-status=live}}</ref> The series is set to focus on Dracula and Mavis opening a [[motel]].<ref>{{Cite web|url=https://variety.com/2024/tv/news/timothy-olyphant-terminator-zero-netflix-1236027699/|title=Timothy Olyphant to Star in Netflix's 'Terminator Zero'; Plus 'Plankton' Movie and 'Motel Transylvania' Among Animation Slate|website=[[Variety (magazine)|Variety]]|first1=Carolyn|last1=Giardina|first2=Jordan|last2=Moreau|date=June 6, 2024|access-date=June 6, 2024|archive-date=June 6, 2024|archive-url=https://web.archive.org/web/20240606212018/https://variety.com/2024/tv/news/timothy-olyphant-terminator-zero-netflix-1236027699/|url-status=live}}</ref>
+
+==See also==
+* [[List of films featuring Frankenstein]]
+* [[Vampire film]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote|Hotel Transylvania}}
+* {{Official website|https://www.sonypictures.com/movies/hoteltransylvania}}
+* {{IMDb title|0837562}}
+
+{{Hotel Transylvania}}
+{{Navboxes|list1=
+{{Sony Pictures Animation}}
+{{Sony theatrical animated features}}
+{{Genndy Tartakovsky}}
+{{Dracula}}
+{{Frankenstein}}
+{{The Wolf Man}}
+{{The Mummy}}
+{{The Invisible Man}}
+{{Gill-man}}
+{{Dr Jekyll and Mr Hyde}}
+{{The Hunchback of Notre Dame}}
+{{The Fly}}}}
+
+[[Category:2012 films]]
+[[Category:2012 children's animated films]]
+[[Category:2012 children's comedy films]]
+[[Category:2012 children's fantasy films]]
+[[Category:2010s monster movies]]
+[[Category:2010s vampire films]]
+[[Category:2012 3D films]]
+[[Category:2012 American animated films]]
+[[Category:2012 computer-animated films]]
+[[Category:2012 directorial debut films]]
+[[Category:2012 English-language films]]
+[[Category:2012 fantasy comedy films]]
+[[Category:3D animated films]]
+[[Category:American 3D films]]
+[[Category:American children's animated comedy films]]
+[[Category:American children's animated fantasy films]]
+[[Category:American computer-animated films]]
+[[Category:American crossover films]]
+[[Category:American fantasy comedy films]]
+[[Category:American monster movies]]
+[[Category:Animated crossover films]]
+[[Category:Animated films about birthdays]]
+[[Category:Animated films about families]]
+[[Category:Animated films about father–daughter relationships]]
+[[Category:Animated films about shapeshifting]]
+[[Category:Animated films about talking animals]]
+[[Category:Animated films set in castles]]
+[[Category:Animated films set in hotels]]
+[[Category:Animated films set in Transylvania]]
+[[Category:Animated films set in the 1890s]]
+[[Category:Animated films set in the 2010s]]
+[[Category:Animated monster movies]]
+[[Category:Children's horror films]]
+[[Category:Columbia Pictures animated films]]
+[[Category:Dracula films]]
+[[Category:English-language fantasy comedy films]]
+[[Category:Fiction about human–vampire romance]]
+[[Category:Films about vacationing]]
+[[Category:Films adapted into television shows]]
+[[Category:Films directed by Genndy Tartakovsky]]
+[[Category:Films produced by Michelle Murdocca]]
+[[Category:Films scored by Mark Mothersbaugh]]
+[[Category:Films set in 1895]]
+[[Category:Films set in 2012]]
+[[Category:Films with screenplays by Peter Baynham]]
+[[Category:Films with screenplays by Robert Smigel]]
+[[Category:Films with screenplays by The Hageman Brothers]]
+[[Category:Frankenstein films]]
+[[Category:Hotel Transylvania]]
+[[Category:Mummy films]]
+[[Category:Nickelodeon Kids' Choice Award–winning films]]
+[[Category:Sony Pictures Animation films]]
+[[Category:Vampire comedy films]]

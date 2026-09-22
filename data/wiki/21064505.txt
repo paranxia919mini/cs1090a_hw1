@@ -1,0 +1,81 @@
+{{short description|2004 film}}
+{{use American English|date=October 2020}}
+{{use mdy dates|date=October 2020}}
+{{Infobox film
+| name           = Take Out
+| image          = TakeOut-poster-small.jpg
+| caption        = Theatrical release poster
+| director       = {{ubl|[[Sean Baker]]<ref>{{Cite web|title=Superprime Signs Director Sean Baker|url=https://superprimefilms.com/3462/superprime-signs-director-sean-baker/|access-date=2020-12-29|website=Superprime|date=December 17, 2018 |language=en-US}}</ref>|[[Shih-Ching Tsou]]<ref>{{Cite web |title=Shih-Ching Tsou |url=https://www.filmindependent.org/talent/shih-ching-tsou/ |access-date=2020-12-29 |website=Film Independent |language=en-US}}</ref>}}
+| producer       = {{ubl|Sean Baker|Shih-Ching Tsou}}
+| writer         = {{ubl|Sean Baker|Shih-Ching Tsou}}
+| starring       = {{ubl|Charles Jang|Jeng-Hua Yu|Wang-Thye Lee|Justin Wan}}
+| cinematography = Sean Baker<ref name=crit>{{Cite web |title=Take Out |url=https://www.criterion.com/films/30084-take-out |access-date=2022-09-30 |website=The Criterion Collection |language=en}}</ref>
+| editing        = {{ubl|Sean Baker|Shih-Ching Tsou}}<ref name=crit/>
+| studio         = Cre Film
+| distributor    = CAVU Pictures
+| released       = {{Film date|2004|01|18|[[Slamdance Film Festival|Slamdance]]|2008|06|06|United States}}
+| runtime        = 90 minutes
+| country        = United States
+| language       = {{ubl|[[Mandarin Chinese|Mandarin]]|English}}
+| budget         = $3,000<ref>{{Cite web |last=Lack |first=Hannah |date=2022-10-17 |title=Sean Baker Shares the Story Behind His 2004 Masterpiece Take Out |url=https://www.anothermag.com/design-living/14440/take-out-sean-baker-interview-review-2004-2022 |access-date=2025-08-28 |website=AnOther |language=en}}</ref>
+| gross          = $69,816<ref>https://www.boxofficemojo.com/title/tt0391483/credits/</ref>
+}}
+'''''Take Out''''' is a 2004 American [[Independent film|independent]] [[Drama (film and television)|drama]] film written and directed by [[Sean Baker]] and [[Shih-Ching Tsou]]. Tsou's co-directorial debut feature and Baker's second work, the film follows an [[Illegal immigration|undocumented]] [[History of Chinese Americans|Chinese immigrant]] working as a deliveryman for a Chinese take-out shop in New York City.
+
+''Take Out'' initially premiered at the [[Slamdance Film Festival]] in January 2004, but did not see a wider release until 2008. It received acclaim from critics, and holds a [[List of films with a 100% rating on Rotten Tomatoes|100% rating]] on film aggregation website [[Rotten Tomatoes]].
+
+==Plot==
+''Take Out'' is a day-in-the-life of Ming Ding, an undocumented Chinese immigrant working as a deliveryman for a Chinese take-out shop in New York City. Ming is behind with payments on his huge debt to the smugglers who brought him to the United States. The collectors have given him until the end of the day to deliver the money that is due. After borrowing most of the money from friends and relatives, Ming realizes that the remainder must come from the day's delivery tips. In order to do so, he must make more than double his average daily income.
+
+==Cast==
+*Charles Jang as Ming Ding - A determined, reticent delivery man who is racing against time to come up with the late payment owed to [[Snakehead (gang)|snakehead]] smugglers. Ming came to the United States with the goal of creating a better future for his wife and child back in China.
+*Jeng-Hua Yu as Young - A fellow delivery man and Ming's closest friend at the take-out. Young is a happy-go-lucky slacker who provides comic relief to the mundane work day. He is the only one at the take-out who is aware of Ming's dilemma.
+*Wang-Thye Lee as Big Sister - The cashier and managerial figure of the take-out. Big Sister is a spunky woman with street smarts who juggles the orders and operations of the take-out.
+*Justin Wan as Wei - A cook at the take-out who has been in the country longer than most of the others. Wei's sense of seniority frequently lands him in minor disagreements of opinion and power with the other workers.
+
+==Style==
+In a [[social realism|social-realist]] style, the camera follows Ming on his deliveries throughout the upper Manhattan neighborhood where social and economic extremes exist side by side.{{Citation needed|date=November 2022}} Intercutting between Ming's deliveries and the daily routine of the restaurant, ''Take Out'' presents a harshly real look at the daily lives of illegal Chinese immigrants in New York City. Baker said, "We were heavily influenced by [[Cinéma vérité|cinema verite]]."<ref name=":1">{{Cite web |last=Lee |first=Jennifer 8 |date=2008-06-04 |title=This Chinese Deliveryman Works at Google |url=https://archive.nytimes.com/cityroom.blogs.nytimes.com/2008/06/04/this-chinese-deliveryman-works-at-google/ |access-date=2025-03-01 |website=City Room |publisher=[[The New York Times]] |language=en}}</ref>
+
+Baker also referenced [[Lars von Trier]]'s 1998 film ''[[The Idiots (1998 film)|The Idiots]]'' as an influence, which he has also mentioned often as one of his favorite films, as well as citing the film movement [[Dogme 95]] in general, which was founded by Trier and [[Thomas Vinterberg]].<ref>{{Cite web |last=Phipps |first=Grant |date=2022-10-11 |title="Take Out taught us the way:" Sean Baker on microbudget filmmaking aesthetics |url=https://tonemadison.com/articles/take-out-taught-us-the-way-sean-baker-on-microbudget-filmmaking-aesthetics/ |access-date=2025-12-19 |website=Tone Madison |language=en-US |quote=Back in 2004, we were watching a standard definition file. It was never what we wanted it to be. And what’s great about this new release is that we were able to go through the process that the Dogme 95 films went through [originating on low-end standard definition video but being transferred to 35mm], and the process that we felt completed the movie and put it in a presentable form.}}</ref><ref>{{Cite news |last=Murphy |first=Mekado |date=2015-07-05 |title=Sean Baker Talks ‘Tangerine,’ and Making a Movie With an iPhone |url=https://www.nytimes.com/2015/07/06/movies/sean-baker-talks-tangerine-and-making-a-movie-with-an-iphone.html |archive-url=https://web.archive.org/web/20250910153654/https://www.nytimes.com/2015/07/06/movies/sean-baker-talks-tangerine-and-making-a-movie-with-an-iphone.html |archive-date=2025-09-10 |access-date=2025-12-19 |work=[[The New York Times]] |language=en |quote=I remember at that time,” he said, “Shih-Ching Tsou, who I co-directed ‘Take Out’ with, kept saying, ‘Can you just stop complaining about the fact that we’re shooting on standard-definition video? It’s about the content, it’s not about the camera.’ ”But Mr. Baker was encouraged by the work of directors like Lars von Trier, a founder of the avant-garde, low-tech Dogme 95 movement, who used standard-definition video with natural lighting to make the feature “The Idiots.}}</ref>
+
+==Production==
+''Take Out'' was filmed in and near [[Upper Manhattan]], [[New York City|New York]], in the spring of 2003 on a budget of $3,000.<ref>{{Cite magazine |last=Lyon |first=Shauna |date=June 23, 2008 |title=The Film File: Take Out |url=https://www.newyorker.com/arts/reviews/film/take_out_tsou |url-status=dead |archive-url=https://web.archive.org/web/20080618082409/https://www.newyorker.com/arts/reviews/film/take_out_tsou |archive-date=2008-06-18 |magazine=The New Yorker}}</ref> The film was shot on digital video due to both the [[cinema vérité]] style and a non-existent budget with an ensemble cast of both professional and nonprofessional actors<ref>{{Cite web |title=Take Out |url=https://www.tvguide.com/movies/take-out/2030291035/ |access-date=2022-09-30 |website=TVGuide.com |language=en}}</ref> while shooting without a full crew in an actual take-out restaurant during operating hours.<ref>{{Cite web |last=Barsanti |first=Chris |date=2008-06-28 |title=Late Delivery: Take Out (2004) |url=https://www.popmatters.com/late-delivery-take-out-2004-2496140474.html |archive-url=https://web.archive.org/web/20220615200947/https://www.popmatters.com/late-delivery-take-out-2004-2496140474.html |archive-date=2022-06-15 |access-date=2022-09-30 |website=PopMatters |language=en-US}}</ref><ref>{{Cite web |date=2008-06-03 |title=indieWIRE INTERVIEW {{!}} "Take Out" Co-director Sean Baker |url=https://www.indiewire.com/2008/06/indiewire-interview-take-out-co-director-sean-baker-72270/ |archive-url=https://web.archive.org/web/20171008133546/https://www.indiewire.com/2008/06/indiewire-interview-take-out-co-director-sean-baker-72270/ |archive-date=2017-10-08 |access-date=2022-09-30 |website=[[IndieWire]] |language=en}}</ref>
+
+Charles Jang is a Korean-American actor born on [[Long Island]] who learned Chinese while studying abroad in Taiwan. Co-director [[Shih-Ching Tsou]], who is from Taiwan, assumed that he was from China when he auditioned.<ref name=":1" />
+
+==Release==
+''Take Out'' debuted at the [[Slamdance Film Festival]] in January 2004. The film had already been screened in over 25 film festivals when lawyers representing Baker and Tsou sent a [[Cease-and-desist letter|cease and desist letter]] to filmmaker [[Seth Landau]] who was planning to release a film with the same name. The case went into arbitration under rules of the [[Motion Picture Association|Motion Picture Association of America]] in November 2005.<ref name=":0">{{Cite news |last=Welkos |first=Robert W |date=2005-11-02 |title='Take Out' for party of two: Indie films with the same title dispute the matter in major-studio style: It starts with a letter from lawyers. |work=[[Los Angeles Times]] |url=https://www.latimes.com/archives/la-xpm-2005-nov-02-et-takeout2-story.html |url-status=live |access-date=2022-09-30 |archive-url=https://web.archive.org/web/20080510220948/http://takeoutthemovie.com/la_times.htm |archive-date=2008-05-10}}</ref> Baker and Tsou were represented by [[patent attorney]] S. Stephen Baker of the law firm Baker and Rannells, P.A., who also happens to be Sean Baker's father.<ref>{{Cite web |last=Wray |first=Daniel Dylan |date=March 16, 2018 |title=An interview with Sean Baker, film's brightest activist |url=https://www.huckmag.com/art-and-culture/film-2/the-florida-project-sean-baker-interview/ |url-status=dead |archive-url=https://web.archive.org/web/20190729074200/https://www.huckmag.com/art-and-culture/film-2/the-florida-project-sean-baker-interview/ |archive-date=July 29, 2019 |access-date=November 27, 2021 |website=Huck Magazine}}</ref><ref name=":12">{{Cite web |last=Welkos |first=Robert W |date=November 2, 2005 |title='Take Out' for party of two |url=https://www.latimes.com/archives/la-xpm-2005-nov-02-et-takeout2-story.html |url-status=live |archive-url=https://web.archive.org/web/20221006030040/https://www.latimes.com/archives/la-xpm-2005-nov-02-et-takeout2-story.html |archive-date=October 6, 2022 |access-date=September 30, 2022 |website=[[Los Angeles Times]]}}</ref>
+
+The film was not given a limited release through CAVU Pictures until 2008. On September 1, 2009, Kino Entertainment released ''Take Out'' in the US on a Region 1 DVD.<ref>{{Cite news |last=Lee |first=Nathan |date=2008-06-06 |title=A Tall Order |language=en-US |work=The New York Times |url=https://www.nytimes.com/2008/06/06/movies/06take.html |access-date=2022-09-30 |issn=0362-4331}}</ref><ref>{{Cite web |last=Hillis |first=Aaron |date=June 3, 2008 |title=Take Out's Microbudget Realism |url=http://www.villagevoice.com/2008-06-03/film/take-out/ |archive-url=https://web.archive.org/web/20080827115024/https://www.villagevoice.com/2008-06-03/film/take-out/ |archive-date=August 27, 2008 |website=Village Voice}}</ref><ref>{{Cite web |last=Trueman |first=Kerry |date=2008-06-06 |title=Take Out: A Story of Stir-Fried Servitude |url=https://www.huffpost.com/entry/take-out-a-story-of-stir_b_105735 |archive-url=https://web.archive.org/web/20220930213136/https://www.huffpost.com/entry/take-out-a-story-of-stir_b_105735 |archive-date=2022-09-30 |access-date=2022-09-30 |website=HuffPost |language=en}}</ref><ref>{{Cite web |last=Murray |first=Noel |date=2008-06-05 |title=Take Out |url=https://www.avclub.com/take-out-1798204397 |url-status=live |archive-url=https://web.archive.org/web/20210724113939/https://www.avclub.com/take-out-1798204397 |archive-date=2021-07-24 |access-date=2022-09-30 |website=The A.V. Club |language=en-us}}</ref> In September 2022, the film was given a [[Blu-ray]] release as part of the [[Criterion Collection]].<ref name=crit/>
+
+==Reception==
+{{Rotten Tomatoes prose|100||27|''Take Out'' presents an unvarnished view of one immigrant's experiences as a restaurant deliveryman – and leaves the audience with plenty of food for thought.|ref=yes|access-date=2025-04-26}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 80 out of 100, based on 10 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Take Out'' |url=https://www.metacritic.com/ |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{Cite web |title=''Take Out'' |url=https://www.metacritic.com/movie/take-out/ |access-date=2025-04-26 |website=[[Metacritic]] |language=en}}</ref>
+
+Audience members at a screening assumed the actor who played Ming Ding was in real peril and asked how he was doing, when in reality Jang was working for Google and studying for his [[M.B.A.]]<ref name=":1" />
+
+===Accolades===
+''Take Out'' was nominated for the [[Independent Spirit John Cassavetes Award|John Cassavetes Award]] at the 2008 [[Independent Spirit Award]]s.<ref>{{Cite web |last1=Maxwell |first1=Erin |last2=Jones |first2=Michael |date=2008-12-02 |title=Spirit Award nominees announced |url=https://variety.com/2008/film/awards/spirit-award-nominees-announced-1117996677/ |archive-url=https://web.archive.org/web/20220610022205/https://variety.com/2008/film/awards/spirit-award-nominees-announced-1117996677/ |archive-date=2022-06-10 |access-date=2022-09-30 |website=Variety |language=en-US}}</ref> It also won the Grand Jury Prize at the [[Nashville Film Festival]].<ref name=":0"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|https://web.archive.org/web/20080520010758/http://www.takeoutthemovie.com/}}
+*{{IMDb title|id=0391483|title=Take Out}}
+*[https://www.criterion.com/current/posts/7922-take-out-off-the-books ''Take Out'': Off the Books] an essay by J.J. Murphy at the [[Criterion Collection]]
+
+{{Sean Baker}}
+
+{{DEFAULTSORT:Take Out}}
+[[Category:2004 films]]
+[[Category:Films about Chinese Americans]]
+[[Category:2004 independent films]]
+[[Category:Films directed by Sean Baker]]
+[[Category:2004 directorial debut films]]
+[[Category:Films set in New York City]]
+[[Category:Films shot in New York City]]
+[[Category:Asian-American drama films]]
+[[Category:Films about immigration to the United States]]
+[[Category:Chinese-language American films]]
+[[Category:2004 American films]]
+[[Category:American independent films]]

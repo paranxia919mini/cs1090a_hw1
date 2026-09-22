@@ -1,0 +1,579 @@
+{{short description|2021 film by Shaka King}}
+{{Use American English|date=January 2021}}
+{{Use mdy dates|date=January 2021}}
+{{Infobox film
+| name           = ''Judas and the Black Messiah''
+| image          = Judas and the Black Messiah poster.png
+| caption        = Theatrical release poster
+| director       = [[Shaka King]]
+| producer       = {{Plainlist|
+* Charles D. King
+* [[Ryan Coogler]]
+* Shaka King
+}}
+| screenplay     = {{Plainlist|
+* [[Will Berson]]
+* Shaka King
+}}
+| story          = {{Plainlist|
+* Will Berson
+* Shaka King
+* [[Kenny and Keith Lucas|Kenny Lucas]]
+* [[Kenny and Keith Lucas|Keith Lucas]]
+}}
+| starring       = {{Plainlist|<!--per billing in credits-->
+* [[Daniel Kaluuya]]
+* [[LaKeith Stanfield]]
+* [[Jesse Plemons]]
+* [[Dominique Fishback]]
+* [[Ashton Sanders]]
+* [[Martin Sheen]]
+}}
+| music          = {{Plainlist|
+* [[Mark Isham]]
+* [[Craig Harris]]
+}}
+| cinematography = [[Sean Bobbitt]]
+| editing        = Kristan Sprague
+| production_companies = {{Plainlist|
+* MACRO
+* [[Participant (company)|Participant]]
+* [[Bron Studios|Bron Creative]]
+* [[Proximity Media]]
+}}
+| distributor    = [[Warner Bros. Pictures]]
+| released       = {{Film date|2021|2|1|[[2021 Sundance Film Festival|Sundance]]|2021|2|12|United States}}
+| runtime        = 126 minutes
+| country        = {{Plainlist|
+* United States
+* Canada
+}}
+| language       = English
+| budget         = $26 million<ref name="Variety-Dec20"/>
+| gross          = $7.5 million<ref name="BOM">{{cite Box Office Mojo |id= tt9784798 |title= Judas and the Black Messiah |access-date= May 10, 2021 }}</ref><ref name="NUM">{{cite the numbers |id= Judas-and-the-Black-Messiah-(2020) |title= Judas and the Black Messiah |access-date= May 27, 2021 |archive-date= February 14, 2021 |archive-url= https://web.archive.org/web/20210214170151/https://www.the-numbers.com/movie/Judas-and-the-Black-Messiah-(2020) |url-status= live }}</ref>
+}}
+'''''Judas and the Black Messiah''''' is a 2021 [[biographical film|biographical]] [[historical drama|historical]] [[crime drama]] film directed and produced by [[Shaka King]], who wrote the screenplay with [[Will Berson]], based on a story by the pair and [[Kenny and Keith Lucas]]. The film is about the betrayal of [[Fred Hampton]] (played by [[Daniel Kaluuya]]), chairman of the Illinois chapter of the [[Black Panther Party]] in late 1960s [[Chicago]], by [[William O'Neal (informant)|William O'Neal]] (played by [[LaKeith Stanfield]]), an FBI informant. [[Jesse Plemons]], [[Dominique Fishback]], [[Ashton Sanders]], [[Darrell Britt-Gibson]], [[Lil Rel Howery]], [[Algee Smith]], [[Dominique Thorne]], and [[Martin Sheen]] also star.
+
+A Fred Hampton biopic had been in the works for several years, with the Lucas brothers and Will Berson writing and shopping screenplays individually since 2014. Berson's version almost got made with [[F. Gary Gray]] directing, but King was hired to direct when that fell through. The cast joined in 2019, with the blessings of Hampton's family, with filming beginning that fall in Ohio.
+
+''Judas and the Black Messiah'' premiered at the [[2021 Sundance Film Festival]] on February 1, 2021, and was released in the United States by [[Warner Bros. Pictures]] on February 12, simultaneously in theaters and digitally on [[HBO Max]]. Released amid the [[COVID-19 pandemic]], the film grossed $7 million worldwide against a budget of $26 million. The film was acclaimed by critics, who praised King's direction, the cinematography, the screenplay, the performances (particularly Kaluuya, Stanfield, and Fishback), and its timely themes. The film earned six Oscar nominations at the [[93rd Academy Awards]], including [[Academy Award for Best Picture|Best Picture]] and [[Academy Award for Best Supporting Actor|Best Supporting Actor]] for Stanfield, winning Best Supporting Actor (Kaluuya) and [[Academy Award for Best Original Song|Best Original Song]] ("[[Fight for You (H.E.R. song)|Fight for You]]"). For his performance, Kaluuya also won Best Supporting Actor at the [[78th Golden Globe Awards|Golden Globes]], [[26th Critics' Choice Awards|Critics' Choice Awards]], [[27th Screen Actors Guild Awards|Screen Actors Guild Awards]], and [[74th British Academy Film Awards|BAFTA Awards]]. Since its release, ''Judas and the Black Messiah''  has been cited as one of the best films of the 2020s.<ref name="drama">{{Cite web|url=https://collider.com/best-drama-movies-2020s/|title=The 20 Best Drama Movies of the 2020s So Far, Ranked|website=[[Collider (website)|Collider]]|date=August 24, 2023 }}</ref>
+
+== Plot ==
+In 1968, 19-year-old petty criminal [[William O'Neal (informant)|William O'Neal]] is arrested in Chicago after attempting to steal a car by posing as a federal officer. He is approached by FBI Special Agent Roy Mitchell, who offers to have O'Neal's charges dropped if he works undercover for the Bureau. O'Neal is assigned to infiltrate the Illinois chapter of the [[Black Panther Party]] (BPP) and obtain information on its leader, [[Fred Hampton]].
+
+O'Neal begins to grow close to Hampton, who works to form alliances with rival [[Gangs in Chicago|gangs]] and militia bands while extending community outreach through the BPP's [[Free Breakfast for Children]] Program. Hampton's persuasive oratory eventually helps to form the multiracial [[Rainbow Coalition (Fred Hampton)|Rainbow Coalition]] along with the [[Young Lords]] and [[Young Patriots Organization]]. Hampton also falls in love with [[Akua Njeri|Deborah Johnson]], a fellow BPP member. O'Neal begins to relay intelligence to Mitchell, who in return pays him.
+
+After Hampton is imprisoned for allegedly stealing $71 worth of ice cream bars, O'Neal begins to rise through the ranks and is promoted to security captain. When a shootout between the [[Chicago Police]] and the BPP occurs at the chapter office, O'Neal sneaks out as the police firebomb the office. Outraged that he could have been killed, O'Neal attempts to quit being an informant, but Mitchell refuses, threatening him with the original charges.
+
+Three months later, Hampton is released from prison while [[Supersedeas bond|appealing his charges]] and reunites with Deborah, now pregnant with his child. BPP member Jimmy Palmer, who was hospitalized with non-life-threatening injuries after being shot by a police officer, dies unexpectedly while being transferred to another hospital. Assuming police have murdered Jimmy, fellow member Jake Winters engages in a shootout with police, killing several officers before being gunned down himself.
+
+After Hampton's appeal is rejected, FBI Director [[J. Edgar Hoover]] orders that he be "neutralized" rather than allowing him to return to [[Menard Correctional Center|prison]]. Mitchell coerces O'Neal into helping with the plan by warning him that the BPP will turn on him if they find out he's an informant, and O'Neal reluctantly agrees to help. O'Neal is later handed a vial of sedatives and ordered to drug Hampton's drink with it by another undercover FBI collaborator, who hands O'Neal his old fake FBI badge to prove his credentials. The following evening, BPP members gather at Hampton's apartment before he must depart for prison. An allied gang leader offers Hampton money to flee the country, but he turns it down and instead orders that a clinic be established with the money in Jake's memory. During the evening, O'Neal reluctantly drugs Hampton's drink and departs soon after. Hours later, officers and agents raid the apartment and assassinate Hampton after shooting or injuring the other Black Panthers, while Deborah is arrested. Later, O'Neal meets with Mitchell, who gives him money and a pair of keys to a gas station which is being given to him. O'Neal attempts to quit again but reluctantly accepts the money and keys and puts them in his pocket.
+
+Archive footage is shown of Hampton's speeches, including his funeral procession, and an interview O'Neal gave in 1989.<ref>{{Citation|title=Eyes on the Prize; Interview with William O'Neal, Part 1|url=http://americanarchive.org/catalog/cpb-aacip-151-x34mk66290|language=en|access-date=2021-03-05}}</ref> The title cards state that O'Neal continued to work as an informant within the BPP before taking his own life in 1990. A [[People's Law Office#Black Panther Party|lawsuit]] was filed against the FBI in 1970 and 12 years later was settled for $1.85 million. As of the film's release, [[Fred Hampton Jr.]] and his mother serve as chairman and board member of the Black Panther Party Cubs.
+
+== Cast ==
+<!---cast and order per tombstone opening credits, roles per closing credits scroll --->
+{{Cast listing|
+* [[Daniel Kaluuya]] as [[Fred Hampton]], chairman of the [[Black Panther Party|Black Panther]] chapter in Chicago
+* [[LaKeith Stanfield]] as [[William O'Neal (informant)|Bill O'Neal]], an [[FBI]] informant who infiltrates the Black Panther Party
+* [[Jesse Plemons]] as Roy Mitchell, O'Neal's FBI Special Agent handler
+* [[Dominique Fishback]] as [[Akua Njeri|Deborah Johnson]], Hampton's girlfriend and a Black Panther member
+* [[Ashton Sanders]] as Jimmy Palmer, a Black Panther member
+* [[Algee Smith]] as Jake Winters, a Black Panther member
+* [[Darrell Britt-Gibson]] as [[Bobby Rush]], co-founder of the Black Panther Party chapter in Chicago
+* [[Lil Rel Howery]] as Wayne, an undercover FBI agent
+* [[Dominique Thorne]] as Judy Harmon, a Black Panther member
+* [[Martin Sheen]] as [[J. Edgar Hoover]], Director of the FBI
+* Mark Francis as FBI Agent David Black
+* [[Amari Cheatom]] as Rod Collins, leader of the Crowns, a fictionalized version of a Chicago gang<ref>{{Cite web|url=https://www.vulture.com/2021/02/the-real-characters-in-judas-and-the-black-messiah.html|title=Who's Who in Judas and the Black Messiah: A Character Guide|first=Nick|last=Allen|date=February 13, 2021|website=Vulture}}</ref>
+* [[Khris Davis (actor)|Khris Davis]] as Steel, a Crowns leader
+* Ian Duff as Doc Satchel
+* Caleb Eberhardt as Bob Lee
+* [[Robert Longstreet]] as Leslie Carlyle, Mitchell's FBI colleague
+* [[Amber Chardae Robinson]] as Betty Coachman
+* [[Jermaine Fowler]] as [[Mark Clark (activist)|Mark Clark]], a member of The Black Panther Party.
+}}
+
+In addition, Nicholas Velez portrays [[Jose Cha Cha Jimenez|José Cha Cha Jiménez]], founder of the [[Young Lords]] group, while Terayle Hill plays Black Panthers chairman [[George W. Sams Jr.|George Sams]], who is depicted as an FBI informant.
+
+== Production ==
+=== Development ===
+{{Multiple image
+| align         = right
+| total_width   = 400
+| image1        = Shaka King at Sundance Festival.jpg
+| image2        = Lb wiki pic.jpg
+| caption_align = center
+| header_align  = center
+| footer        = Director [[Shaka King]] (left) and co-writers [[Kenny and Keith Lucas]]
+}}
+[[Kenny and Keith Lucas]] began pitching the idea of a [[Fred Hampton]] biopic to [[A24]] and [[Netflix]] in 2014, selling it as "''[[The Conformist (1970 film)|The Conformist]]'' meets ''[[The Departed]]''." While working with Shaka King on a television pilot in 2016, they pitched their idea for a Hampton film, and he became intrigued. Will Berson had also written a Hampton screenplay about the same time and it was in early stages of production, with [[F. Gary Gray]] in talks to direct, [[Casey Affleck]] and [[John Powers Middleton]] in negotiations to produce, and [[Jaden Smith]] and [[O'Shea Jackson Jr.]] being eyed to portray Hampton. After that version fell through, Berson and King rewrote his script with help from the Lucas brothers.<ref name="Variety-Dec20">{{cite web|url=https://variety.com/2020/film/features/judas-and-the-black-messiah-shaka-king-1234871984/|title='Judas and the Black Messiah': Inside the Long Struggle to Bring Fred Hampton's Story to the Screen|website=[[Variety (magazine)|Variety]]|first=Clayton|last=Davis|date=December 23, 2020|access-date=February 1, 2021|archive-url=https://web.archive.org/web/20210201223751/https://variety.com/2020/film/features/judas-and-the-black-messiah-shaka-king-1234871984/|archive-date=February 1, 2021|url-status=live}}</ref>
+
+The brothers got in touch with Macro's Charles King, who agreed to finance half of the project.<ref name="finance">{{cite web | url=https://ph.news.yahoo.com/judas-black-messiah-reflects-charles-214148001.html | title=How 'Judas and the Black Messiah' Reflects Charles D. King's Macro Vision | publisher=Yahoo! News | date=10 February 2021 | access-date=22 February 2021 | first=Cynthia|last=Littleton| quote=If Macro and partners hadn’t put up half of the financing for "Judas," about the murder of Black Panther Party chairman Fred Hampton at the hands of the FBI, the movie would not have been made with a first-time studio director Shaka King, and stars Daniel Kaluuya and LaKeith Stanfield.}}</ref>
+{{blockquote|text=
+By going to market with a great script, two amazing actors and Shaka, a visionary filmmaker, and the clout that Ryan Coogler brought, plus Macro bringing half of the financing to the table with a great production plan. That put us in a position to be partners, so this movie is not purely driven by the studio. That also helped us support Shaka's vision and how he cast the movie and to keep it as authentic as possible.<ref name="finance" />| author=Charles D. King}}
+
+=== Casting ===
+In February 2019, it was announced [[Daniel Kaluuya]] and [[LaKeith Stanfield]] had joined the cast of the film, with [[Ryan Coogler]] producing and [[Warner Bros. Pictures]] distributing.<ref name="DH1"/> The film marks the second collaboration between Kaluuya and Stanfield, following the 2017 film ''[[Get Out]]''. King, Kaluuya, and producer Charles D. King (who provided half the film's $26 million budget) reached out to Hampton's widow [[Akua Njeri]] and her son, [[Fred Hampton Jr.]], to get their blessing on the film and casting.<ref name="Variety-Dec20"/> In September 2019, [[Jesse Plemons]], [[Dominique Fishback]] and [[Ashton Sanders]] joined the cast of the film,<ref>{{cite web|url=https://deadline.com/2019/09/deuce-dominique-fishback-daniel-kaluuya-lakeith-stanfield-warner-bros-jesus-homeboy-1202737748/|title=Jesse Plemons & 'The Deuce' Actress Dominique Fishback Join Daniel Kaluuya & LaKeith Stanfield In WB's Black Panthers Pic 'Jesus Was My Homeboy'|website=[[Deadline Hollywood]]|first=Andreas|last=Wiseman|date=September 19, 2019|access-date=October 20, 2019|archive-date=October 20, 2019|archive-url=https://web.archive.org/web/20191020173615/https://deadline.com/2019/09/deuce-dominique-fishback-daniel-kaluuya-lakeith-stanfield-warner-bros-jesus-homeboy-1202737748/|url-status=live}}</ref><ref>{{cite web|url=https://deadline.com/2019/09/ashton-sanders-daniel-kaluuya-lakeith-stanfield-jesus-homeboy-warner-bros-1202744965/|title='Moonlight' & 'Wu-Tang: An American Saga' Star Ashton Sanders In Talks To Join 'Jesus Was My Homeboy' With Daniel Kaluuya & Lakeith Stanfield|website=[[Deadline Hollywood]]|first=Andreas|last=Wiseman|date=September 25, 2019|access-date=October 20, 2019|archive-date=September 27, 2019|archive-url=https://web.archive.org/web/20190927161809/https://deadline.com/2019/09/ashton-sanders-daniel-kaluuya-lakeith-stanfield-jesus-homeboy-warner-bros-1202744965/|url-status=live}}</ref> with [[Algee Smith]] being cast the following month.<ref name="THR1">{{cite web|url=https://www.hollywoodreporter.com/news/euphoria-actor-algee-smith-joins-daniel-kaluuya-black-panther-drama-1249599|title='Euphoria' Actor Algee Smith Joins Daniel Kaluuya in Drama About Black Panther Activist (Exclusive)|website=[[The Hollywood Reporter]]|first=Borys|last=Kit|date=October 28, 2019|access-date=October 28, 2019|archive-date=October 28, 2019|archive-url=https://web.archive.org/web/20191028221811/https://www.hollywoodreporter.com/news/euphoria-actor-algee-smith-joins-daniel-kaluuya-black-panther-drama-1249599|url-status=live}}</ref>
+
+=== Filming and post-production ===
+[[Principal photography]] began in [[Cleveland|Cleveland, Ohio]] on October 21, 2019.<ref name="Cleveland19">{{cite web|url=https://www.cleveland19.com/2019/09/30/get-out-actors-film-black-panther-biopic-cleveland-movie-extras-needed/|title='Get Out' actors to film Black Panther Party biopic in Cleveland, movie extras needed|website=[[WOIO|Cleveland19.com]]|first=Misty|last=Stiver|date=September 30, 2019|access-date=October 20, 2019|archive-date=October 20, 2019|archive-url=https://web.archive.org/web/20191020173618/https://www.cleveland19.com/2019/09/30/get-out-actors-film-black-panther-biopic-cleveland-movie-extras-needed/|url-status=live}}</ref> On November 25 and 26, 2019, filming took place at the [[Ohio State Reformatory]] in [[Mansfield, Ohio|Mansfield]].<ref name="MNJ">{{cite web|url=https://www.mansfieldnewsjournal.com/story/news/2019/11/26/naacp-fred-hampton-movie-filming-mansfield/4295500002/|title=Movie on NAACP martyr Fred Hampton filming in Mansfield|last=Tuggle|first=Zach|work=[[Mansfield News Journal]]|publisher=[[Gannett]]|date=November 26, 2019|access-date=July 31, 2020|archive-date=November 28, 2019|archive-url=https://web.archive.org/web/20191128090047/https://www.mansfieldnewsjournal.com/story/news/2019/11/26/naacp-fred-hampton-movie-filming-mansfield/4295500002/|url-status=live}}</ref> After 42 days, production concluded on December 19, 2019.<ref>{{cite web|url=https://www.instagram.com/p/B6R9p9clDOT/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/B6R9p9clDOT |archive-date=December 26, 2021 |url-access=registration|title=42 days and it's a wrap! After 3 months in production, 2 years in development and just over 50 years after the assassination of Chairman Fred Hampton, my heart is full of gratitude, respect and love. It was a needle-moving, eye-opening and completely step-outside-of-the-comfort-zone experience. To this incredible team of artists, filmmakers, partners and crewmembers, it was an honor to work alongside you to tell the important story of this extraordinary man. Stay tuned.|via=[[Instagram]]|first=Charles|last=D. King|date=December 19, 2019|access-date=December 28, 2019}}{{cbignore}}</ref> Originally announced as ''Jesus Was My Homeboy'',<ref name="DH1">{{cite web|url=https://deadline.com/2019/02/ryan-coogler-black-panthers-warner-bros-daniel-kaluuya-lakeith-stanfield-macro-fred-hampton-1202559976/|title=Ryan Coogler & MACRO Set Black Panthers Pic With Warner Bros; Daniel Kaluuya & LaKeith Stanfield In Talks To Star|website=[[Deadline Hollywood]]|first=Andreas|last=Wiseman|date=February 19, 2019|access-date=October 20, 2019|archive-date=October 20, 2019|archive-url=https://web.archive.org/web/20191020173616/https://deadline.com/2019/02/ryan-coogler-black-panthers-warner-bros-daniel-kaluuya-lakeith-stanfield-macro-fred-hampton-1202559976/|url-status=live}}</ref> the film was later reported as being titled ''Judas and the Black Messiah''<ref name="Cleveland19"/> before being described as untitled.<ref name="THR1"/><ref name="MNJ"/> Kristan Sprague began editing the film in January 2020, prior to dozens of studios being shut down due to the [[COVID-19 pandemic in New York (state)|COVID-19 pandemic in New York]], which later resulted in crew members working remotely during post-production.<ref>{{cite web|url=https://deadline.com/2021/02/judas-and-the-black-messiah-shaka-king-sean-bobbitt-podcast-interview-sundance-film-festival-1234684992/|title='Judas And The Black Messiah': Director Shaka King & DP Sean Bobbitt On Finding Late 1960s Chicago In Cleveland – Sundance Crew Call Podcast|date=February 1, 2021|first=Anthony|last=D'Alessandro|website=[[Deadline Hollywood]]|archive-url=https://web.archive.org/web/20210201231346/https://deadline.com/2021/02/judas-and-the-black-messiah-shaka-king-sean-bobbitt-podcast-interview-sundance-film-festival-1234684992/|archive-date=February 1, 2021|url-status=live|access-date=February 1, 2021}}</ref> In July 2020, the film's title was confirmed to be ''Judas and the Black Messiah''.<ref>{{cite web|url=https://relevantmagazine.com/culture/ryan-cooglers-fred-hampton-biopic-has-a-new-name-judas-and-the-black-messiah/|title=Ryan Coogler's Fred Hampton Biopic Has a New Name: 'Judas and the Black Messiah'|website=[[Relevant (magazine)|Relevant]]|date=July 30, 2020|access-date=July 31, 2020|archive-date=August 1, 2020|archive-url=https://web.archive.org/web/20200801053301/https://relevantmagazine.com/culture/ryan-cooglers-fred-hampton-biopic-has-a-new-name-judas-and-the-black-messiah/|url-status=live}}</ref>
+
+===Music===
+{{Main|Judas and the Black Messiah (soundtrack)}}
+Two soundtrack albums were released for the film. The first, titled ''[[Judas and the Black Messiah (soundtrack)|Judas and the Black Messiah (Original Motion Picture Soundtrack)]]'', featured incerpts from the film's score composed by [[Mark Isham]] and [[Craig Harris]].<ref>{{cite web|last=Davis|first=Clayton|title=Oscars Predictions: Best Original Score – James Newton Howard Guns for His First Oscar for 'News of the World'|url=https://variety.com/feature/2021-oscars-best-original-score-predictions-1234773087/|website=[[Variety (magazine)|Variety]]|access-date=January 9, 2021|date=January 7, 2021|archive-date=January 7, 2021|archive-url=https://web.archive.org/web/20210107182633/https://variety.com/feature/2021-oscars-best-original-score-predictions-1234773087/|url-status=live}}</ref> It was released on February 12, 2021 by [[WaterTower Music]].<ref>{{Cite web |title=Judas and the Black Messiah (Original Motion Picture Soundtrack) by Craig Harris and Mark Isham on Apple Music |url=https://music.apple.com/us/album/judas-black-messiah-original-motion-picture-soundtrack/1552288333 |access-date=February 20, 2021 |publisher=[[Apple Music]]}}</ref> The same day, another soundtrack consisting of incorporated songs was released under the title ''[[Judas and the Black Messiah (soundtrack)|Judas and the Black Messiah: The Inspired Album]]''. The 22-track music album featured songs from many prominent rappers, such as [[Jay-Z]], [[ASAP Rocky]] and [[Nas]], as well as a posthumous appearance by [[Nipsey Hussle]].<ref>{{cite web |date=February 12, 2021 |title=Stream 'Judas and the Black Messiah: The Inspired Album' f/ Jay-Z, ASAP Rocky, Nipsey Hussle, and More |url=https://www.complex.com/music/judas-and-the-black-messiah-inspired-album-stream/ |url-status=live |archive-url=https://web.archive.org/web/20210212223846/https://www.complex.com/music/judas-and-the-black-messiah-inspired-album-stream |archive-date=February 12, 2021 |access-date=February 12, 2021 |work=[[Complex Networks]]}}</ref> It features an original song titled "[[Fight for You (H.E.R. song)|Fight for You]]" performed by [[H.E.R.]], who also co-wrote it with [[D'Mile]] and [[Tiara Thomas]].<ref>{{cite web|url=https://filmmusicreporter.com/2020/12/30/judas-and-the-black-messiah-to-feature-original-song-fight-for-you-by-h-e-r/|title='Judas and the Black Messiah' to Feature Original Song 'Fight for You' by H.E.R.|work=Film Music Reporter|date=December 30, 2020|access-date=January 12, 2021|archive-date=January 12, 2021|archive-url=https://web.archive.org/web/20210112203458/https://filmmusicreporter.com/2020/12/30/judas-and-the-black-messiah-to-feature-original-song-fight-for-you-by-h-e-r/|url-status=live}}</ref> The music album received critical acclaim<ref>{{Cite web |title=Critic Reviews for Judas and the Black Messiah: The Inspired Album |url=https://www.metacritic.com/music/judas-and-the-black-messiah-the-inspired-album/original-music-soundtrack/critic-reviews |access-date=March 22, 2021 |website=[[Metacritic]] |language=en}}</ref> and was featured in the 12th position of the Weekly [[Billboard 200|''Billboard'' 200]] charts,<ref>{{cite magazine |title=Billboard 200 Chart – February 27, 2021 |url=https://www.billboard.com/charts/billboard-200/2021-02-27 |access-date=February 23, 2021 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> while also topping the [[Billboard charts|''Billboard'' soundtracks]] chart,<ref>{{cite magazine |title=Soundtracks Chart – February 27, 2021 |url=https://www.billboard.com/charts/soundtracks/2021-02-27 |access-date=February 23, 2021 |magazine=[[Billboard (magazine)|Billboard]]}}</ref> and also listed in 23rd position in the year-ender charts.<ref>{{cite magazine |title=Soundtracks – Year-End 2021 |url=https://www.billboard.com/charts/year-end/2021/top-soundtracks-albums/ |access-date=January 17, 2022 |magazine=Billboard}}</ref>
+<!-- Infobox, tracks, reviews and ratings were already published in the main article -->
+
+== Release ==
+''Judas and the Black Messiah'' had its world premiere at the [[2021 Sundance Film Festival]] on February 1, 2021, at both virtual and in-person screenings.<ref>{{cite web|url=https://variety.com/2021/film/news/judas-and-the-black-messiah-sundance-film-festival-1234883365/|title=Judas and the Black Messiah' to Premiere at Sundance Film Festival|magazine=[[Variety (magazine)|Variety]]|first=Rebecca|last=Rubin|date=January 12, 2021|access-date=January 12, 2021|archive-date=January 12, 2021|archive-url=https://web.archive.org/web/20210112180124/https://variety.com/2021/film/news/judas-and-the-black-messiah-sundance-film-festival-1234883365/|url-status=live}}</ref> The film was released on February 12, 2021, in the United States, by [[Warner Bros. Pictures]].<ref>{{cite web|url=https://deadline.com/2020/12/judas-and-the-black-messiah-sets-release-for-2021-awards-season-1234660883/|title='Judas And The Black Messiah' Sets Release For 2021 Awards Season|website=[[Deadline Hollywood]]|first=Anthony|last=D'Alessandro|date=December 22, 2020|access-date=December 22, 2020|archive-date=December 23, 2020|archive-url=https://web.archive.org/web/20201223013430/https://deadline.com/2020/12/judas-and-the-black-messiah-sets-release-for-2021-awards-season-1234660883/|url-status=live}}</ref> The film was originally scheduled to be released on August 21, 2020,<ref>{{cite web|url=https://deadline.com/2019/12/matrix-sequel-release-date-the-flash-akira-off-slate-fred-hampton-movies-warner-bros-1202806896/|title=Warner Bros Sets Release Dates For 'The Matrix' Sequel, 'The Flash' & More; 'Akira' Off Schedule|website=[[Deadline Hollywood]]|first=Patrick|last=Hipes|date=December 11, 2019|access-date=December 28, 2019|archive-date=December 18, 2019|archive-url=https://web.archive.org/web/20191218191427/https://deadline.com/2019/12/matrix-sequel-release-date-the-flash-akira-off-slate-fred-hampton-movies-warner-bros-1202806896/|url-status=live}}</ref> but because of the [[COVID-19 pandemic]], it was postponed to 2021.<ref>{{Cite web|url=https://deadline.com/2020/04/the-batman-sopranos-prequel-tom-elvis-presley-movie-warner-bros-release-dates-changes-coronavirus-1202912605/|title='The Batman' Flies To Fall 2021, 'Sopranos' Prequel Moves To March & More As Warner Bros. Makes Release Date Changes Due To COVID-19 Climate|last=D'Alessandro|first=Anthony|website=[[Deadline Hollywood]]|date=April 20, 2020|access-date=April 20, 2020|archive-url=https://web.archive.org/web/20200420202338/https://deadline.com/2020/04/the-batman-sopranos-prequel-tom-elvis-presley-movie-warner-bros-release-dates-changes-coronavirus-1202912605/|archive-date=April 20, 2020|url-status=live}}</ref><ref name=CorderoAugust2020>{{cite magazine|url=https://ew.com/movies/judas-and-the-black-messiah-trailer-daniel-kaluuya-fred-hampton/|title=See Daniel Kaluuya as Black Panther leader Fred Hampton in ''Judas and the Black Messiah'' trailer|last=Cordero|first=Rosy|magazine=[[Entertainment Weekly]]|date=August 6, 2020|access-date=August 6, 2020|archive-date=August 7, 2020|archive-url=https://web.archive.org/web/20200807053924/https://ew.com/movies/judas-and-the-black-messiah-trailer-daniel-kaluuya-fred-hampton/|url-status=live}}</ref>
+
+As part of its plans for all of its 2021 films, Warner Bros. Pictures also streamed the film simultaneously on the [[HBO Max]] service for a period of one month, after which the film played exclusively in theatres until the start of the normal home media release schedule period.<ref>{{cite web|url=https://variety.com/2020/film/news/warner-bros-hbo-max-theaters-dune-matrix-4-1234845342/|title=Warner Bros. to Debut Entire 2021 Film Slate, Including 'Dune' and 'Matrix 4,' Both on HBO Max and In Theaters|first1=Rebecca|last1=Rubin|first2=Matt|last2=Donnelly|date=December 3, 2020|access-date=December 3, 2020|work=[[Variety (magazine)|Variety]]|archive-date=December 3, 2020|archive-url=https://web.archive.org/web/20201203183130/https://variety.com/2020/film/news/warner-bros-hbo-max-theaters-dune-matrix-4-1234845342/|url-status=live}}</ref> [[Samba TV]] reported that 653,000 households streamed the film over its opening weekend.<ref>{{cite web|url= https://observer.com/2021/04/justice-league-hbo-max-ratings-viewership-subscribers-netflix-disneyplus-amazon/ |title= Was 'Zack Snyder's Justice League' a Hit for HBO Max? Here's What the Data Says. |first1= Katz |last1= Brandon|date= April 1, 2021|access-date=July 3, 2021|work=[[Observer.com|Observer]]}}</ref> By the end of its first month, the film had been watched in over 1.4 million U.S. households.<ref>{{cite web|url=https://deadline.com/2022/01/2022-box-office-theatrical-streaming-day-date-experiment-1234902774/|title=With Tentpoles Bound To Surge The 2022 Box Office, The Great Theatrical-Streaming Day & Date Experiment Goes Out Like A Dud In 2021|date=January 3, 2022|first=Anthony|last=D'Alessandro|website=[[Deadline Hollywood]]|access-date=January 3, 2022}}</ref> The film was re-added to HBO Max on July 1, 2021.<ref>{{cite web|url=https://collider.com/heres-whats-new-to-hbo-and-hbo-max-in-july-2021/|title=Here's what's new on HBO and HBO Max in July 2021|first=Adam|last=Chitwood|publisher=Collider|date=2021-07-01|accessdate=2025-02-10}}</ref>
+
+== Reception ==
+=== Box office ===
+''Judas and the Black Messiah'' grossed $5.5 million in the United States and Canada, and $2 million in other territories, for a worldwide total of $7.5 million.<ref name=NUM/><ref name=BOM/>
+
+Compared to ''[[Land (2021 film)|Land]]'' with limited expansion of ''[[Willy's Wonderland]]'' and ''[[The Mauritanian]]'', ''Judas and the Black Messiah'' made $2.5 million from 1,888 theaters over its [[Washington's Birthday|four-day opening weekend]], finishing second at the box office behind holdover ''[[The Croods: A New Age]]''.<ref>{{cite web|url=https://www.boxofficemojo.com/weekend/2021W07/occasion/us_presidentsday_weekend/|title=Domestic 2021 Weekend 7 {{!}} February 12–15, 2021 - Presidents' Day weekend (US)|website=[[Box Office Mojo]]|access-date=February 15, 2021}}</ref> About 61% of the audience was African-American and 21% Caucasian, while male/female split evenly and 75% were above the age of 25.<ref name=opening>{{cite web|last=D'Alessandro|first=Anthony|date=February 14, 2021|url=https://deadline.com/2021/02/thanksgiving-release-croods-a-new-age-tops-presidents-day-weekend-box-office-challenged-by-snow-covid-1234693680/|title=Thanksgiving Release 'Croods: A New Age' Tops Presidents' Day Weekend Box Office, Challenged By Snow & Covid|website=[[Deadline Hollywood]]|access-date=February 14, 2021|archive-date=February 14, 2021|archive-url=https://web.archive.org/web/20210214165608/https://deadline.com/2021/02/thanksgiving-release-croods-a-new-age-tops-presidents-day-weekend-box-office-challenged-by-snow-covid-1234693680/|url-status=live}}</ref> In its second weekend the film finished third, dropping 55% to $905,000, then made $500,000 in its third weekend.<ref>{{cite web|last=D'Alessandro|first=Anthony|date=February 21, 2021|url= https://deadline.com/2021/02/croods-new-age-weekend-box-office-nomadland-searchlight-not-reporting-oscars-1234697869/ |title= 'Croods 2' Crosses $50M; Searchlight Staying Quiet On 'Nomadland' B.O. & What That Means During Awards Season |website=[[Deadline Hollywood]]|access-date=February 21, 2021}}</ref><ref>{{cite news|last=D'Alessandro|first=Anthony|date=February 28, 2021|url= https://deadline.com/2021/03/tom-jerry-weekend-box-office-opening-pandemic-1234702484/ |title= Warner Bros' 'Tom & Jerry' Runs Up Second-Best Opening During Pandemic With $13.7M |website=[[Deadline Hollywood]]|access-date=February 28, 2021}}</ref> The weekend following its six Oscar nominations, the film made $250,000 from 951 theaters, for a domestic running total of $5 million.<ref>{{cite news|last=D'Alessandro|first=Anthony|date=March 21, 2021|url= https://deadline.com/2021/03/weekend-box-office-kelly-marie-tran-los-angeles-raya-and-the-last-dragon-1234718593/ |title= L.A. Weekend Box Office Clears $1M+; Kelly Marie Tran & Carlos Lopez Estrada Welcome 'Raya' El Capitan Fans As Pic Posts Firm No. 1 Hold – Update |website= [[Deadline Hollywood]]|access-date=March 21, 2021}}</ref>
+
+=== Critical response ===
+{{Multiple image
+| align             = right
+| total_width       = 300
+| image1            = Daniel Kaluuya (2017).jpg
+| image2            = Keith Stanfield by Gage Skidmore.jpg
+| caption_align     = center
+| header_align      = center
+| width1            = 380
+| width2            = 431
+| height1           = 500
+| height2           = 500
+| footer            = The performances of [[Daniel Kaluuya]] and [[LaKeith Stanfield]] garnered critical acclaim and both received [[Academy Awards|Academy Award]] nominations for [[Academy Award for Best Supporting Actor|Best Supporting Actor]], with Kaluuya winning.
+}}
+
+[[Review aggregator]] [[Rotten Tomatoes]] reports that 96% of 358 critic reviews were positive, with an average rating of 8.2/10. The website's critics consensus reads: "An electrifying dramatization of historical events, ''Judas and the Black Messiah'' is a forceful condemnation of racial injustice – and a major triumph for its director and stars."<ref>{{cite Rotten Tomatoes |title=Judas and the Black Messiah |id=judas_and_the_black_messiah |type=movie |access-date=July 1, 2025 |archive-date=January 23, 2021 |archive-url=https://web.archive.org/web/20210123010848/https://www.rottentomatoes.com/m/judas_and_the_black_messiah |url-status=live }}</ref> According to [[Metacritic]], which assigned a [[Weighted arithmetic mean|weighted average score]] of 84 out of 100 based on 49 critics, the film received "universal acclaim".<ref>{{cite Metacritic |title=Judas and the Black Messiah Reviews |id=judas-and-the-black-messiah |type=movie |access-date=March 24, 2024 |archive-date= February 2, 2021 |archive-url=https://web.archive.org/web/20210202132629/https://www.metacritic.com/movie/judas-and-the-black-messiah |url-status=live }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale, while 87% of filmgoers at [[PostTrak]] gave it a positive score (with an average 4.5 out of 5 stars) and 74% saying they would definitely recommend it.<ref name="opening" />
+
+Writing for ''[[Variety (magazine)|Variety]]'', Peter Debruge praised Stanfield's performance and said, "The powerful film puts the current moment into fresh historical context and suggests that ambivalence can be its own form of betrayal."<ref>{{Cite web|last=Debruge|first=Peter|date=February 1, 2021|title='Judas and the Black Messiah' Review: Lakeith Stanfield Plays a Rat Among the Panthers|url=https://variety.com/2021/film/reviews/judas-and-the-black-messiah-review-1234894636/|access-date=February 1, 2021|work=[[Variety (magazine)|Variety]]|archive-date=February 2, 2021|archive-url=https://web.archive.org/web/20210202132612/https://variety.com/2021/film/reviews/judas-and-the-black-messiah-review-1234894636/|url-status=live}}</ref> David Rooney of ''[[The Hollywood Reporter]]'' wrote: "Led by sensational performances from Daniel Kaluuya as Hampton and LaKeith Stanfield as William O'Neal, the FBI informant who infiltrated his inner circle, this is a scalding account of oppression and revolution, coercion and betrayal, rendered more shocking by the undiminished currency of its themes."<ref>{{cite web|last=Rooney|first=David|url=https://www.hollywoodreporter.com/news/judas-and-the-black-messiah-film-review-sundance-2021|title='Judas and the Black Messiah': Film Review - Sundance 2021|website=[[The Hollywood Reporter]]|date=February 1, 2021|access-date=February 1, 2021|archive-date=February 2, 2021|archive-url=https://web.archive.org/web/20210202132630/https://www.hollywoodreporter.com/news/judas-and-the-black-messiah-film-review-sundance-2021|url-status=live}}</ref>
+
+Pete Hammond from ''[[Deadline Hollywood]]'' and Karen Han from ''[[Slate (magazine)|Slate]]'' both compared various themes in the film to those found in ''[[The Trial of the Chicago 7]]'' (released the year before), with Hammond saying that "King skillfully lays out each side of the equation in this raw and exciting account set in 1968".<ref>{{cite web|url=https://deadline.com/video/judas-and-the-black-messiah-daniel-kaluuya-lakeith-stanfield-sundance/|title=Sundance Review: Daniel Kaluuya And LaKeith Stanfield In 'Judas And The Black Messiah'|date=February 1, 2021|first=Pete|last=Hammond|website=[[Deadline Hollywood]]|access-date=February 2, 2021|archive-date=February 2, 2021|archive-url=https://web.archive.org/web/20210202132429/https://deadline.com/video/judas-and-the-black-messiah-daniel-kaluuya-lakeith-stanfield-sundance/|url-status=live}}</ref><ref>{{cite web|url=https://slate.com/culture/2021/02/judas-black-messiah-movie-review-trial-chicago-7.html|title=Judas and the Black Messiah Offers a Powerful Corrective to The Trial of the Chicago 7|date=February 1, 2021|first=Karen|last=Han|website=[[Slate (magazine)|Slate]]|access-date=February 2, 2021|archive-date=February 2, 2021|archive-url=https://web.archive.org/web/20210202132415/https://slate.com/culture/2021/02/judas-black-messiah-movie-review-trial-chicago-7.html|url-status=live}}</ref> [[Michael Phillips (critic)|Michael Phillips]] of the ''[[Chicago Tribune]]'' gave the film 3.5 out of 4 stars and called the film "a leap and a bound ahead of the recent Netflix production ''Trial of the Chicago 7''" and called it "brash, narratively risky, full of life and sneaky wit (even if the dominant tone is one of foreboding) and brimming with terrific actors."<ref>{{cite news|last=Phillips|first=Michael|title='Judas and the Black Messiah' review: Retelling the death of Black Panther leader Fred Hampton|url=https://www.chicagotribune.com/entertainment/movies/michael-phillips/sc-mov-judas-messiah-review-0201-20210202-zoq4zrsr7bgr5edocvpd6uhxhe-story.html|date=February 1, 2021|access-date=February 10, 2021|work=[[Chicago Tribune]]|archive-date=February 2, 2021|archive-url=https://web.archive.org/web/20210202160019/https://www.chicagotribune.com/entertainment/movies/michael-phillips/sc-mov-judas-messiah-review-0201-20210202-zoq4zrsr7bgr5edocvpd6uhxhe-story.html|url-status=live}}</ref>
+
+In 2023, it ranked number 14 on ''[[Collider (website)|Collider]]''{{'}}s list of "The 20 Best Drama Movies of the 2020s So Far," saying that "Director Shaka King was able to encapsulate Hampton's accomplishments by creating an engaging crime thriller with no ambiguities about its relevance. Within each scene of the FBI hunting down Hampton and initiating his assassination, it's evident why the conversations about black identity he initiated are still so important."<ref name="drama"/>
+
+Former Black Panther Party member [[Eddie Conway]] found the portrayal of Hampton in the film inaccurate, noting that he was an outwardly warmhearted person, and not a cold, hardened individual as the film depicts.<ref>{{Cite web|url=https://www.youtube.com/watch?v=d30wZz8n81w&t=3434s|title=Will Judas and the Black Messiah do right by Fred Hampton's legacy?|date=February 12, 2021 |via=www.youtube.com}}</ref> Other leftists criticized the film for neglecting to shed much light on Hampton's politics. Adrienne Weller wrote: "Centering on the betrayer is a worn out trope in films dealing with martyred challengers to the capitalist system."<ref>{{cite news |last=Weller |first=Adrienne |title=Stirring ''Judas and the Black Messiah'' leaves more to tell |date=June 2021 |newspaper=[[Freedom Socialist Party|Freedom Socialist]] |url=https://socialism.com/fs-article/stirring-judas-and-the-black-messiah-leaves-more-to-tell/}}</ref>
+
+=== Accolades ===
+Despite being campaigned for leading actor nominations, both [[LaKeith Stanfield]] and [[Daniel Kaluuya]] were nominated for the [[Academy Award for Best Supporting Actor]]. Both of the film's primary actors appearing in the supporting category proved unexpected and confusing to the public and awards pundits. Kyle Buchanan of the ''[[New York Times]]'' jokingly questioned, "If Stanfield and Kaluuya are both supporting actors, then who exactly is this movie supposed to be about?"<ref>{{cite web|url= https://www.nytimes.com/2021/03/15/movies/oscars-snubs-surprises.html|title= 2021 Oscars Nominations: Snubs and Surprises for Daniel Kaluuya, LaKeith Stanfield and Jodie Foster|work=[[The New York Times]]|date=March 15, 2021|last=Buchanan|first=Kyle}}</ref>
+
+{| class="wikitable sortable"
+|- 
+! scope="col" style="width:27%;"| Award
+! scope="col" style="width:12%;"| Date
+! scope="col" | Category
+! scope="col" | Recipients
+! scope="col" | Result
+! scope="col" class="unsortable" | {{Ref heading}}
+|-
+| rowspan="6"| [[Academy Awards]]
+| rowspan="6"| [[93rd Academy Awards|April 25, 2021]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Shaka King]], Charles D. King and [[Ryan Coogler]]
+| {{nom}}
+| rowspan="6" align="center"| <ref name="Oscars 2021">{{cite web |title=The 93rd Academy Awards {{!}} 2021 |website=Oscars.org |date=2024-10-28 |url=https://www.oscars.org/oscars/ceremonies/2021 |access-date=2025-07-05}}</ref>
+|-
+| rowspan="2"| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Daniel Kaluuya]]
+| {{won}}
+|-
+| [[LaKeith Stanfield]]
+| {{nom}}
+|-
+| [[Academy Award for Best Original Screenplay|Best Original Screenplay]]
+| [[Will Berson]], [[Shaka King]], [[Kenny and Keith Lucas|Kenny Lucas and Keith Lucas]]
+| {{nom}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[Sean Bobbitt]]
+| {{nom}}
+|-
+| [[Academy Award for Best Original Song|Best Original Song]]
+| "[[Fight for You (H.E.R. song)|Fight for You]]" ([[H.E.R.]], [[D'Mile|Dernst Emile II]] and [[Tiara Thomas]])
+| {{won}}
+|-
+| rowspan="4"| [[African-American Film Critics Association|African-American Film Critics Association Awards]]
+| rowspan="4"| April 7, 2021
+| Best Picture
+| ''Judas and the Black Messiah''
+| {{won}}
+| rowspan="4" align="center"| <ref>{{Cite web|title=AAFCA AWARDS|url=https://aafca.com/aafca-awards/|date=April 7, 2021|publisher=African-American Film Critics Association}}</ref>
+|-
+| Best Supporting Actor
+| Daniel Kaluuya
+| {{won}}
+|-
+| Best Supporting Actress
+| [[Dominique Fishback]]
+| {{won}}
+|-
+| Breakout Director
+| Shaka King
+| {{won}}
+|-
+| [[American Film Institute Awards]]
+| [[American Film Institute Awards 2020|January 25, 2021]]
+| Top 10 Films
+| ''Judas and the Black Messiah''
+| {{won}}
+| align="center"| <ref>{{cite web|url=https://www.hollywoodreporter.com/news/afi-awards-2020-film-tv-winners-full-list|title=AFI Awards: 'Da 5 Bloods,' 'Minari,' 'Soul' Among Picks for Best Films of 2020|date=January 25, 2021|first=Hilary|last=Lewis|website=[[The Hollywood Reporter]]|archive-url=https://web.archive.org/web/20210127173916/https://www.hollywoodreporter.com/news/afi-awards-2020-film-tv-winners-full-list|archive-date=January 27, 2021|url-status=live|access-date=February 2, 2021}}</ref>
+|-
+| [[Austin Film Critics Association|Austin Film Critics Association Awards]]
+| [[Austin Film Critics Association Awards 2020|March 19, 2021]]
+| Best Supporting Actor
+| Daniel Kaluuya
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://austinfilmcritics.org/2020-austin-film-critics-association-award-winners-e5d8c3453c9a |title=2020 Awards |work=Austin Film Critics Association |date=March 19, 2021 |accessdate=March 19, 2021 |archive-url=https://archive.today/20180109085457/https://austinfilmcritics.org/2020-austin-film-critics-award-winners-4f5ce8c11b71?gi=b211d0e8e9af |archive-date=January 9, 2018 |url-status=live }}</ref>
+|-
+| rowspan="3"| [[BET Awards]]
+| rowspan="3"| [[BET Awards 2021|June 27, 2021]]
+| [[BET Award for Best Movie|Best Movie]]
+| ''Judas and the Black Messiah''
+| {{won}}
+| rowspan="3" "align=center"| <ref>{{Cite web|date=2021-05-27|title=BET Awards Unveil 2021 Nominees List, Led By Megan Thee Stallion And DaBaby|url=https://deadline.com/2021/05/bet-awards-2021-nominees-list-megan-thee-stallion-dababy-seven-nominations-1234765106/|access-date=2021-05-27|website=Deadline}}</ref>
+|-
+| rowspan="2"| [[BET Award for Best Actor|Best Actor]]
+| Daniel Kaluuya
+| {{nom}}
+|-
+| LaKeith Stanfield
+| {{nom}}
+|-
+| rowspan="12"| [[Black Reel Awards]]
+| rowspan="12"| [[Black Reel Awards of 2021|April 11, 2021]]
+| [[Black Reel Award for Outstanding Film|Outstanding Motion Picture]]
+| Charles D. King, Ryan Coogler and Shaka King
+| {{won}}
+| rowspan="12" align="center"| <ref>{{Cite web|last=Amanda N'Duka|date=2021-02-18|title='One Night in Miami', 'Judas and the Black Messiah' Lead Nominations For 21st Annual Black Reel Awards|url=https://deadline.com/2021/02/one-night-in-miami-judas-and-the-black-messiah-nominations-21st-annual-black-reel-awards-1234696267/|access-date=2021-03-07|website=Deadline}}</ref>
+|-
+| [[Black Reel Award for Outstanding Director|Outstanding Director]]
+| Shaka King 
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Actor|Outstanding Actor]]
+| LaKeith Stanfield
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Supporting Actor|Outstanding Supporting Actor]]
+| Daniel Kaluuya
+| {{won}}
+|-
+| [[Black Reel Award for Outstanding Supporting Actress|Outstanding Supporting Actress]]
+| Dominique Fishback
+| {{won}}
+|-
+| [[Black Reel Award for Outstanding Screenplay, Adapted or Original|Outstanding Screenplay]]
+| Will Berson and Shaka King
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Ensemble|Outstanding Ensemble]]
+| Alexa L. Fogel
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Breakthrough Performance, Female|Outstanding Breakthrough Performance, Female]]
+| Dominique Fishback
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Emerging Director|Outstanding Emerging Director]]
+| Shaka King
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Original Song|Outstanding Original Song]]
+| "Fight for You" (D'Mile, H.E.R. and Tiara Thomas)
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Cinematography|Outstanding Cinematography]]
+| Sean Bobbitt
+| {{nom}}
+|-
+| [[Black Reel Award for Outstanding Production Design|Outstanding Production Design]]
+| Sam Lisenco
+| {{nom}}
+|-
+| rowspan="4"| [[British Academy Film Awards]]
+| rowspan="4"| [[74th British Academy Film Awards|April 11, 2021]]
+| [[BAFTA Award for Best Actor in a Supporting Role|Best Actor in a Supporting Role]]
+| Daniel Kaluuya
+| {{won}}
+| rowspan="4" align="center"| <ref>{{cite web|url=https://www.nme.com/news/film/baftas-2021-nominations-rolling-list-2896802|title=BAFTAs 2021 nominations: rolling list|work=[[NME]]|date=March 9, 2021|access-date=March 9, 2021}}</ref>
+|-
+| [[BAFTA Award for Best Actress in a Supporting Role|Best Actress in a Supporting Role]]
+| Dominique Fishback
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| Sean Bobbitt
+| {{nom}}
+|-
+| [[BAFTA Award for Best Casting|Best Casting]]
+| Alexa L. Fogel
+| {{nom}}
+|-
+| [[Casting Society of America]]
+| April 15, 2021
+| Feature Big Budget – Drama
+| Alexa L. Fogel, Donna Belajac, Elizabeth Berra and Missy Finnell
+| {{nom}}
+| align="center"| <ref>{{Cite web|url=https://deadline.com/2021/02/artios-awards-film-nominations-borat-da-5-bloods-chicago-7-one-night-in-miami-more-up-for-casting-society-prizes-1234696808/|title=Artios Awards Film Nominations: 'Borat', 'Da 5 Bloods', 'Chicago 7', 'One Night In Miami' & More Up For Casting Society Prizes|last=Pedersen|first=Erik|date=February 19, 2021|website=[[Deadline Hollywood]]|language=en|access-date=February 28, 2021|archive-date=February 20, 2021|archive-url=https://web.archive.org/web/20210220160040/https://deadline.com/2021/02/artios-awards-film-nominations-borat-da-5-bloods-chicago-7-one-night-in-miami-more-up-for-casting-society-prizes-1234696808/|url-status=live}}</ref>
+|-
+| [[Costume Designers Guild|Costume Designers Guild Awards]]
+| [[23rd Costume Designers Guild Awards|April 13, 2021]]
+| [[Costume Designers Guild Award for Excellence in Period Film|Excellence in Period Film]]
+| [[Charlese Antoinette Jones]]
+| {{nom}}
+| align="center"| <ref>{{Cite web|title=Costume Designer Guild Nominations Include 'Ma Rainey's Black Bottom' 'Emma,' 'Promising Young Woman' – IndieWire|date=March 4, 2021|url=https://www.indiewire.com/2021/03/costume-designer-guild-nominations-ma-raineys-black-bottom-1234621109/|access-date=2021-03-10}}</ref>
+|-
+| rowspan="3"| [[Critics' Choice Movie Awards]]
+| rowspan="3"| [[26th Critics' Choice Awards|March 7, 2021]]
+| [[Critics' Choice Movie Award for Best Supporting Actor|Best Supporting Actor]]
+| Daniel Kaluuya
+| {{won}}
+| rowspan="3" align="center"| <ref>{{cite web|url=https://variety.com/2021/film/awards/critics-choice-nominations-2021-mank-netflix-1234902895/|title=Critics Choice Awards: 'Mank' Leads With 12 Nominations, Netflix Makes History With Four Best Picture Nominees|date=February 8, 2021|first=Clayton|last=Davis|website=[[Variety (magazine)|Variety]]|access-date=February 9, 2021|archive-date=February 8, 2021|archive-url=https://web.archive.org/web/20210208211947/https://variety.com/2021/film/awards/critics-choice-nominations-2021-mank-netflix-1234902895/|url-status=live}}</ref>
+|-
+| [[Critics' Choice Movie Award for Best Acting Ensemble|Best Acting Ensemble]]
+| ''Judas and the Black Messiah''
+| {{nom}}
+|-
+| [[Critics' Choice Movie Award for Best Song|Best Song]]
+| "Fight for You" (D'Mile, H.E.R. and Tiara Thomas)
+| {{nom}}
+|-
+| [[Dallas–Fort Worth Film Critics Association|Dallas–Fort Worth Film Critics Association Awards]]
+| February 10, 2021
+| [[Dallas–Fort Worth Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| rowspan="2"| Daniel Kaluuya
+| {{won}}
+| align="center"| <ref>{{cite web|last=Jorgenson|first=Todd|url=http://dfwcritics.com|title=DFW FILM CRITICS NAME "NOMADLAND" BEST PICTURE OF 2020|work=[[Dallas-Fort Worth Film Critics Association]]|access-date=February 10, 2021|date=February 10, 2021|archive-date=March 24, 2019|archive-url=https://web.archive.org/web/20190324214020/http://dfwcritics.com/|url-status=live}}</ref>
+|-
+| rowspan="2"| [[Detroit Film Critics Society|Detroit Film Critics Society Awards]]
+| rowspan="2"| March 8, 2021
+| Best Supporting Actor
+| {{won}}
+| rowspan="2" align="center"| <ref>{{cite web|last=Neglia|first=Matt|url=https://nextbestpicture.com/the-2020-detroit-film-critics-society-dfcs-nominations/|title=The 2020 Detroit Film Critics Society (DFCS) Nominations|date=March 4, 2021|access-date=March 5, 2021|work=Next Best Picture|archive-date=March 4, 2021|archive-url=https://web.archive.org/web/20210304183614/https://www.nextbestpicture.com/latest/the-2020-detroit-film-critics-society-dfcs-nominations|url-status=live}}</ref>
+|-
+| Best Original Screenplay
+| Will Berson and Shaka King
+| {{nom}}
+|-
+| [[Dorian Awards]]
+| April 18, 2021
+| Best Film Performance – Supporting Actor
+| rowspan="3"| Daniel Kaluuya
+| {{won}}
+| align="center"| <ref>{{Cite web|date=2021-02-11|title=2021 Dorian Film Awards Nominations: List of Nominees|url=https://www.hollywoodreporter.com/news/dorian-film-awards-minari-tops-nominations-from-lgbtq-entertainment-critics|access-date=2021-02-11|website=The Hollywood Reporter|language=en}}</ref>
+|-
+| [[Georgia Film Critics Association|Georgia Film Critics Association Awards]]
+| March 12, 2021
+| Best Supporting Actor
+| {{nom}}
+| align="center"| <ref>{{cite web|last=Neglia|first=Matt|url=https://nextbestpicture.com/the-2020-georgia-film-critics-association-gfca-nominations/|title=The 2020 Georgia Film Critics Association (GFCA) Nominations|date=March 5, 2021|access-date=March 5, 2021|work=Next Best Picture|archive-date=March 5, 2021|archive-url=https://web.archive.org/web/20210305150457/https://www.nextbestpicture.com/latest/the-2020-georgia-film-critics-association-gfca-nominations|url-status=live}}</ref>
+|-
+| rowspan="2"| [[Golden Globe Awards]]
+| rowspan="2"| [[78th Golden Globe Awards|February 28, 2021]]
+| [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor – Motion Picture]]
+| {{won}}
+| rowspan="2" align="center"| <ref>{{cite web|last=Bahiana|first=Ana Maria|title=Nominations for the 78th Golden Globe Awards (2021) Announced|url=https://www.goldenglobes.com/articles/2021-nominations-78th-golden-globe-awards-have-been-announced|website=[[Golden Globe Awards]]|access-date=February 4, 2021|date=February 3, 2021|archive-date=February 3, 2021|archive-url=https://web.archive.org/web/20210203201401/https://www.goldenglobes.com/articles/2021-nominations-78th-golden-globe-awards-have-been-announced|url-status=live}}</ref>
+|-
+| [[Golden Globe Award for Best Original Song|Best Original Song]]
+| rowspan="2"| "Fight for You" (D'Mile, H.E.R. and Tiara Thomas)
+| {{nom}}
+|-
+| rowspan="3"| [[Grammy Awards]]
+| rowspan="3"| [[64th Annual Grammy Awards|April 3, 2022]]
+| [[Grammy Award for Song of the Year|Song of the Year]]
+| {{nom}}
+| rowspan="3" align="center"| <ref>{{cite web|url=https://www.grammy.com/news/2022-grammys-complete-winners-nominees-nominations-list|title=2022 GRAMMYs Awards Show: Complete Nominations List|publisher=[[Recording Academy]]|date=November 23, 2021|first=Morgan|last=Enos|access-date=November 23, 2021}}</ref>
+|-
+| [[Grammy Award for Best Traditional R&B Performance|Best Traditional R&B Performance]]
+| "Fight for You" (H.E.R.)
+| {{won}}
+|-
+| [[Grammy Award for Best Song Written for Visual Media|Best Song Written for Visual Media]]
+| "Fight for You" (D'Mile, H.E.R. and Tiara Thomas)
+| {{nom}}
+|-
+| rowspan="4"| [[Hollywood Critics Association|Hollywood Critics Association Awards]]
+| rowspan="4"| March 5, 2021
+| Best Picture
+| ''Judas and the Black Messiah''
+| {{nom}}
+| rowspan="4" align="center"| <ref>{{cite news |last1=Bosselman |first1=Haley |title='Promising Young Woman' Sweeps Hollywood Critics Association Awards |url=https://variety.com/2021/awards/awards/hollywood-critics-association-awards-2021-winners-1234923204/ |access-date=March 11, 2021 |work=Variety |date=March 5, 2021}}</ref><ref>{{cite web|title=4TH ANNUAL HCA FILM AWARDS 2020 nominees|url=https://hollywoodcriticsassociation.com/the-4th-annual-hca-film-awards-nominations-have-been-announced/|access-date=February 2, 2021|archive-date=February 3, 2021|archive-url=https://web.archive.org/web/20210203165643/https://hollywoodcriticsassociation.com/the-4th-annual-hca-film-awards-nominations-have-been-announced/|url-status=live}}</ref>
+|-
+| Best Supporting Actor
+| Daniel Kaluuya
+| {{nom}}
+|-
+| Best Male Director
+| Shaka King
+| {{nom}}
+|-
+| Impact Award
+| ''Judas and the Black Messiah''
+| {{won}}
+|-
+| [[Hollywood Music in Media Awards]]
+| [[11th Hollywood Music in Media Awards|January 27, 2021]]
+| [[Hollywood Music in Media Award for Best Original Song in a Feature Film|Best Original Song in a Feature Film]]
+| "Fight for You" (D'Mile, H.E.R. and Tiara Thomas)
+| {{nom}}
+| align="center"| <ref>{{cite magazine|url=https://www.billboard.com/articles/news/awards/9517388/diane-warren-james-newton-howard-winners-2021-hollywood-music-in-media-awards/|title=Diane Warren & James Newton Howard Among Top Winners at 2021 Hollywood Music in Media Awards|date=January 27, 2021|accessdate=January 28, 2021|magazine=[[Billboard (magazine)|Billboard]]|first=Paul|last=Grein}}</ref>
+|-
+| rowspan="2"| [[MTV Movie & TV Awards]]
+| rowspan="2"| [[2021 MTV Movie & TV Awards|May 16, 2021]]
+| [[MTV Movie Award for Movie of the Year|Best Movie]]
+| ''Judas and the Black Messiah''
+| {{nom}}
+| rowspan="2" align="center"| <ref>{{Cite web|last=Del Rosario|first=Alexandra|date=2021-04-19|title=MTV Movie & TV Awards Nominations: 'Emily In Paris', 'WandaVision' & 'RuPaul's Drag Race'|url=https://deadline.com/2021/04/mtv-movie-tv-awards-nominations-emily-in-paris-wandavision-rupauls-drag-race-1234737437/|access-date=2021-04-20|website=Deadline|language=en-US}}</ref>
+|-
+| [[MTV Movie Award for Best Actor in a Movie|Best Performance in a Movie]]
+| Daniel Kaluuya
+| {{nom}}
+|-
+| rowspan="9"| [[NAACP Image Awards]]
+| rowspan="9"| [[53rd NAACP Image Awards|February 26, 2022]]
+| [[NAACP Image Award for Outstanding Motion Picture|Outstanding Motion Picture]]
+| Charles D. King, Ryan Coogler and Shaka King
+| {{nom}}
+| rowspan="9" align="center"|<ref>{{Cite web|last=Spivey|first=Kemberlie|date=2022-01-19|title=2022 NAACP Image Awards Nominations: The Full List|url=https://www.forbes.com/sites/kemberliespivey/2022/01/18/2022-naacp-image-awards-nominations-the-full-list/|access-date=2022-01-20|website=[[Forbes]]|language=en}}</ref>
+|-
+| [[NAACP Image Award for Outstanding Directing in a Motion Picture|Outstanding Directing in a Motion Picture]]
+| Shaka King 
+| {{won}}
+|-
+| [[NAACP Image Award for Outstanding Actor in a Motion Picture|Outstanding Actor in a Motion Picture]]
+| LaKeith Stanfield
+| {{nom}}
+|-
+| rowspan="2"| [[NAACP Image Award for Outstanding Supporting Actor in a Motion Picture|Outstanding Supporting Actor in a Motion Picture]]
+| Daniel Kaluuya
+| {{won}}
+|-
+| Algee Smith
+| {{nom}}
+|-
+| [[NAACP Image Award for Outstanding Supporting Actress in a Motion Picture|Outstanding Supporting Actress in a Motion Picture]]
+| Dominique Fishback
+| {{nom}}
+|-
+| [[NAACP Image Award for Outstanding Writing in a Motion Picture|Outstanding Writing in a Motion Picture]]
+| Will Berson, Shaka King, Kenny Lucas and Keith Lucas
+| {{won}}
+|-
+| Outstanding Ensemble Cast in a Motion Picture
+| The cast of ''Judas and the Black Messiah''
+| {{nom}}
+|-
+| Outstanding Soundtrack/Compilation Album
+| ''Judas and the Black Messiah Soundtrack'' ([[Mark Isham]] and [[Craig Harris]]) 
+| {{nom}}
+|-
+| [[National Board of Review|National Board of Review Awards]]
+| [[National Board of Review Awards 2020|January 26, 2021]]
+| [[National Board of Review: Top Ten Films|Top 10 Films]]
+| rowspan="2"| ''Judas and the Black Messiah''
+| {{won}}
+| align="center"| <ref>{{cite news|url=https://deadline.com/2021/01/national-board-of-review-2020-winners-list-da-five-bloods-1234680677/|title=Spike Lee's 'Da 5 Bloods' Named Best Film Of 2020 By National Board Of Review|website=[[Deadline Hollywood]]|date=January 26, 2021|access-date=January 26, 2021|archive-date=January 26, 2021|archive-url=https://web.archive.org/web/20210126214212/https://deadline.com/2021/01/national-board-of-review-2020-winners-list-da-five-bloods-1234680677/|url-status=live}}</ref>
+|-
+| rowspan="2"| [[Seattle Film Critics Society|Seattle Film Critics Society Awards]]
+| rowspan="2"| February 15, 2021
+| Best Supporting Actor
+| {{won}}
+| rowspan="2" align="center"| <ref>{{cite web|title='Minari' leads Seattle Film Critics Society (SFCS) nominations|date=February 8, 2021|url=https://awardswatch.com/minari-leads-seattle-film-critics-society-sfcs-nominations/|access-date=February 8, 2021|archive-date=February 8, 2021|archive-url=https://web.archive.org/web/20210208190037/https://awardswatch.com/minari-leads-seattle-film-critics-society-sfcs-nominations/|url-status=live}}</ref>
+|-
+| Best Production Design
+| Sam Lisenco and Rebecca Brown
+| {{nom}}
+|-
+| [[Screen Actors Guild Awards]]
+| [[27th Screen Actors Guild Awards|April 4, 2021]]
+| [[Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Supporting Role|Outstanding Performance by a Male Actor in a Supporting Role]]
+| rowspan="4"| Daniel Kaluuya
+| {{won}}
+| align="center"| <ref>{{cite web|url=https://deadline.com/2021/02/2021-sag-awards-nominations-list-nominees-screen-actors-guild-1234686869/|title=SAG Awards Nominations: 'Ma Rainey', 'Minari' Lead Film List; 'The Crown', 'Schitt's Creek' Top TV And 'Bridgerton' Arrives – Full List|date=February 4, 2021|first=Patrick|last=Hipes|website=[[Deadline Hollywood]]|access-date=February 9, 2021|archive-date=February 4, 2021|archive-url=https://web.archive.org/web/20210204162422/https://deadline.com/2021/02/2021-sag-awards-nominations-list-nominees-screen-actors-guild-1234686869/|url-status=live}}</ref>
+|-
+| [[Toronto Film Critics Association|Toronto Film Critics Association Awards]]
+| [[Toronto Film Critics Association Awards 2020|February 7, 2021]]
+| [[Toronto Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| {{won}}
+| align="center"| <ref>{{Cite web|title=Nomadland Leads 24th Annual TFCA Award Winners|url=https://torontofilmcritics.com/features/nomadland-leads-tfca-awards/|access-date=2021-02-19|website=Toronto Film Critics Association|date=February 7, 2021 |language=en-CA}}</ref>
+|-
+| [[Vancouver Film Critics Circle|Vancouver Film Critics Circle Awards]]
+| [[Vancouver Film Critics Circle Awards 2020|February 22, 2021]]
+| [[Vancouver Film Critics Circle Award for Best Supporting Actor|Best Supporting Actor]]
+| {{won}}
+| align="center"| <ref name=nomadland>Etan Vlessing, [https://www.hollywoodreporter.com/news/chloe-zhaos-nomadland-named-best-feature-by-vancouver-film-critics-circle "Chloe Zhao's 'Nomadland' Named Best Feature by Vancouver Film Critics Circle"]. ''[[The Hollywood Reporter]]'', February 22, 2021.</ref>
+|-
+| rowspan="2"| [[Washington D.C. Area Film Critics Association|Washington D.C. Area Film Critics Association Awards]]
+| rowspan="2"| [[Washington D.C. Area Film Critics Association Awards 2020|February 8, 2021]]
+| [[Washington D.C. Area Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| {{nom}}
+| rowspan="2" align="center"| <ref>{{cite web|last=Gordon|first=Tim|url=http://www.dcfilmcritics.com/awards/|title=The 2020 WAFCA Awards|work=[[Washington D.C. Area Film Critics Association]]|access-date=February 8, 2021|date=February 8, 2021|archive-date=December 8, 2019|archive-url=https://web.archive.org/web/20191208112148/http://www.dcfilmcritics.com/awards/|url-status=live}}</ref>
+|-
+| [[Washington D.C. Area Film Critics Association Award for Best Supporting Actress|Best Supporting Actress]]
+| Dominique Fishback
+| {{nom}}
+|-
+| [[Writers Guild of America Awards]]
+| [[73rd Writers Guild of America Awards|March 21, 2021]]
+| [[Writers Guild of America Award for Best Original Screenplay|Best Original Screenplay]]
+| Will Berson & Shaka King and Kenny and Keith Lucas
+| {{nom}}
+| align="center"| <ref>{{Cite web|url=https://deadline.com/2021/02/wga-awards-film-nominations-2021-list-1234694291/|title=WGA Awards Film Nominations: 'Trial Of The Chicago 7', 'Sound Of Metal', 'One Night In Miami', 'Borat', 'Palm Springs' & More|first1=Erik|last1=Pedersen|date=February 16, 2021}}</ref>
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{wikiquote}}
+* {{Official website}}
+* {{IMDb title|9784798}}
+* [https://deadline.com/wp-content/uploads/2021/01/Judas-And-The-Black-Messiah-Screenplay.pdf Script] {{webarchive |url=https://web.archive.org/web/20210129190842/https://deadline.com/wp-content/uploads/2021/01/Judas-And-The-Black-Messiah-Screenplay.pdf |date=January 29, 2021}}
+* {{cite web |last=Sims |first=David |title='I Expected a Bidding War. We Did Not Get That.' |website=The Atlantic |date=2021-02-03 |url=https://www.theatlantic.com/culture/archive/2021/02/shaka-king-judas-and-black-messiah/617912/ |access-date=2021-02-16 |ref=none}} Shaka King interview on funding ''Judas and the Black Messiah''
+
+{{Navboxes
+|title = Awards for ''Judas and the Black Messiah''
+|list =
+{{BET Award for Best Movie}}
+{{Black Reel Award for Outstanding Film}}
+}}
+{{Black Panther Party|state=collapsed}}
+
+{{DEFAULTSORT:Judas and the Black Messiah}}
+[[Category:2021 films]]
+[[Category:2021 biographical drama films]]
+[[Category:2021 crime thriller films]]
+[[Category:2021 American films]]
+[[Category:2021 English-language films]]
+[[Category:2020s political drama films]]
+[[Category:African-American films]]
+[[Category:American biographical drama films]]
+[[Category:American crime thriller films]]
+[[Category:American political drama films]]
+[[Category:Biographical films about activists]]
+[[Category:Bron Studios films]]
+[[Category:Cultural depictions of J. Edgar Hoover]]
+[[Category:English-language biographical drama films]]
+[[Category:English-language crime thriller films]]
+[[Category:Films about the Black Panther Party]]
+[[Category:Films about the Federal Bureau of Investigation]]
+[[Category:Films featuring a Best Supporting Actor Academy Award–winning performance]]
+[[Category:Films postponed due to the COVID-19 pandemic]]
+[[Category:Films produced by Ryan Coogler]]
+[[Category:Films scored by Mark Isham]]
+[[Category:Films set in 1968]]
+[[Category:Films set in 1969]]
+[[Category:Films set in Chicago]]
+[[Category:Films shot in Cleveland]]
+[[Category:Films shot in Ohio]]
+[[Category:Films that won the Best Original Song Academy Award]]
+[[Category:HBO Max films]]
+[[Category:Participant (company) films]]
+[[Category:Warner Bros. films]]
+[[Category:Films about political repression]]

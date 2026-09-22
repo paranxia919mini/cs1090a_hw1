@@ -1,0 +1,603 @@
+{{short description|1999 film by Tim Burton}}
+{{About|the 1999 film|other uses|Sleepy Hollow (disambiguation){{!}}Sleepy Hollow}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=June 2021}}
+{{Infobox film
+| name           = Sleepy Hollow
+| image          = Sleepy hollow ver2.jpg
+| caption        = Theatrical release poster
+| director       = [[Tim Burton]]
+| screenplay     = [[Andrew Kevin Walker]]
+| story          = {{Plainlist|
+* [[Kevin Yagher]]
+* Andrew Kevin Walker
+}}
+| based_on       = {{Based on|"[[The Legend of Sleepy Hollow]]"|[[Washington Irving]]}}
+| producer       = {{Plainlist|
+* [[Scott Rudin]]
+* [[Adam Schroeder]]
+}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Johnny Depp]]
+* [[Christina Ricci]]
+* [[Miranda Richardson]]
+* [[Michael Gambon]]
+* [[Casper Van Dien]]
+* [[Jeffrey Jones]]
+}}
+| cinematography = [[Emmanuel Lubezki]]
+| editing        = [[Chris Lebenzon]]
+| music          = [[Danny Elfman]]
+| studio         = {{Plainlist|
+* [[Mandalay Pictures]]
+* [[Scott Rudin|Scott Rudin Productions]]
+* [[American Zoetrope]]
+* [[Tim Burton Productions]]
+}}
+| distributor    = [[Paramount Pictures]]{{efn|Distributed in the United States by Paramount Pictures; in Germany by Constantin Film<ref>{{cite web|title=Sleepy Hollow (1999)|website=[[Lumiere (website)|Lumiere]]|access-date=9 April 2023|url=https://lumiere.obs.coe.int/movie/13457|archive-date=July 1, 2022|archive-url=https://web.archive.org/web/20220701142236/https://lumiere.obs.coe.int/movie/13457|url-status=live}}</ref>; and internationally (that is, Overseas) by Summit Entertainment<ref>{{cite web|title=Sleepy Hollow (1999)|website=Screendaily|url=https://www.screendaily.com/summit-mandalay-extend-relationship-till-2004/407796.article}}</ref>.}}
+| released       = {{Film date|1999|11|17|[[Grauman's Chinese Theatre|Mann's Chinese Theatre]]|1999|11|19|United States}}
+| runtime        = 105 minutes<ref>{{cite web|title=Sleepy Hollow|url=https://www.bbfc.co.uk/DVF159770|website=[[British Board of Film Classification]]|access-date=May 29, 2016|archive-date=July 1, 2016|archive-url=https://web.archive.org/web/20160701062343/http://www.bbfc.co.uk/releases/sleepy-hollow-film|url-status=dead}}</ref>
+| country        = {{Plainlist|
+* Germany<ref>{{cite web |url=https://www2.bfi.org.uk/films-tv-people/4ce2b76d54360 |title=Sleepy Hollow (1999) |website=[[British Film Institute]] |access-date=June 6, 2017 |archive-date=April 26, 2017 |archive-url=https://web.archive.org/web/20170426090508/http://www.bfi.org.uk/films-tv-people/4ce2b76d54360 |url-status=dead }}</ref><ref>{{cite web |url=https://letterboxd.com/film/sleepy-hollow/ |title=Sleepy Hollow |website=letterboxd.com |access-date=December 12, 2020 |archive-date=November 4, 2020 |archive-url=https://web.archive.org/web/20201104030222/https://letterboxd.com/film/sleepy-hollow/ |url-status=live }}</ref>
+* United States
+}}
+| language       = English
+| budget         = $70–100 million<ref name=numbers>{{cite web|url=https://www.the-numbers.com/movie/Sleepy-Hollow#tab=summary|title=Sleepy Hollow (1999)|work=[[The Numbers (website)|The Numbers]]|access-date=June 7, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612143557/https://www.the-numbers.com/movie/Sleepy-Hollow#tab=summary|url-status=live}}</ref><ref name=box/>
+| gross          = $207 million<ref name=numbers/>
+}}
+'''''Sleepy Hollow''''' is a 1999 [[Gothic film|Gothic]] [[horror film]] directed by [[Tim Burton]] from a screenplay by [[Andrew Kevin Walker]]. Co-produced by [[Paramount Pictures]], [[Mandalay Pictures]], [[Scott Rudin|Scott Rudin Productions]], [[American Zoetrope]], and [[Tim Burton Productions]], it is based on [[Washington Irving]]'s 1820 short story "[[The Legend of Sleepy Hollow]]", and stars [[Johnny Depp]] and [[Christina Ricci]], with [[Miranda Richardson]], [[Michael Gambon]], [[Casper Van Dien]], and [[Jeffrey Jones]] in supporting roles. The plot follows [[New York City]] police constable [[Ichabod Crane]] (Depp), who is sent to investigate a series of brutal murders in the [[Hudson Highlands|upstate]] village of [[Sleepy Hollow, New York|Sleepy Hollow]], where he becomes romantically involved with Katrina Van Tassel (Ricci), the daughter of the richest resident of the town (Gambon).
+
+''Sleepy Hollow'' began development in 1993 at [[Paramount Pictures]], with [[Kevin Yagher]] originally set to direct [[Andrew Kevin Walker]]'s script as a low-budget [[slasher film]]. Disagreements with Paramount resulted in Yagher being demoted to [[prosthetic makeup]] designer, and Burton was hired to direct in June 1998. Filming took place from November 1998 to May 1999. The film was an international co-production between Germany and the United States.
+
+''Sleepy Hollow'' had its world premiere at [[Grauman's Chinese Theatre|Mann's Chinese Theatre]] on November 17, 1999, and was released in the United States on November 19, by Paramount Pictures. It received positive reviews from critics, and grossed $207&nbsp;million. It won the [[Academy Award for Best Production Design|Academy Award for Best Art Direction]].
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries cannot be more than 700 words. This article is currently at 681.  -->
+In the fall of 1799, pragmatic [[New York City]] [[constable]] [[Ichabod Crane]] is sent to the [[Hudson Highlands|upstate]] [[Dutch Americans|Dutch]] village of [[Sleepy Hollow, New York|Sleepy Hollow]] to investigate a series of brutal [[decapitation]]s of its residents, which included [[Land tenure|landowner]] Peter Van Garrett, his son Dirk, and widow Emily Winship. Received by the insular town elders—wealthy [[farmer]] Baltus Van Tassel; [[Medical doctor|doctor]] Thomas Lancaster; the [[The Reverend|Reverend]] Steenwyck; [[notary]] James Hardenbrook; and [[magistrate]] Samuel Philipse—Ichabod learns that the locals believe the killer is the undead apparition of a headless [[Hessian (soldier)|Hessian]] [[mercenary]], who is trying to find his missing head.
+
+Skeptical of the paranormal explanation, Ichabod begins his investigation and settles in the house of the Van Tassels, becoming romantically attached to Baltus' spiritual daughter, Katrina. After Van Garrett's servant, Jonathan Masbath, becomes the next victim, his teenage son volunteers as Ichabod's assistant. On a tip from Philipse, Ichabod and Young Masbath [[Exhumation|exhume]] the bodies of the victims and learn that the widow died pregnant. Shortly after, Ichabod witnesses the Hessian killing Philipse. Together with Masbath and Katrina, Ichabod goes to the Western Woods, where a [[crone]] reveals the location of the Hessian's grave at the "tree of the dead", his [[Hellmouth|portal into the living world]]. Ichabod digs up the grave and discovers the Hessian's remains without a skull, deducing that it has been taken in order to control him.
+
+That night, the Hessian kills town midwife Beth Killian and her family, as well as Katrina's suitor, Brom Van Brunt, when he attempts to intervene. Ichabod hypothesizes that the Hessian is attacking selected targets linked by a [[conspiracy]]. Ichabod and Masbath visit Hardenbrook, who unwittingly reveals that Van Garrett had secretly married Winship, [[Devise and bequeath|bequeathing]] his estate to her and her unborn child. Ichabod deduces that all the victims are either beneficiaries or witnesses to the new [[Will and testament|will]], and assumes that the Hessian's master is Baltus, Van Garret's [[next of kin]] who would otherwise have [[Inheritance|inherited]] the estate. Ichabod finds a [[chalk]]ed [[pentagram]] under his bed, which he believes symbolizes the [[evil eye]].
+
+Upon learning of Ichabod's suspicions, Katrina destroys his evidence to protect her father. Hardenbrook commits [[suicide]], and Steenwyck convenes a meeting to discredit Ichabod, but Baltus bursts into the church assembly, announcing that the Hessian has killed his wife and Katrina's stepmother, Mary Van Tassel. The remaining elders turn on each other, resulting in Steenwyck and Lancaster being killed. [[holy ground (religion)|Unable to enter the church]], the Hessian harpoons Baltus through a window, dragging him out and acquiring his head. In the ensuing chaos, Katrina draws a pentagram identical to the one Ichabod found earlier, making him believe that she is the Hessian's master.
+
+Using Katrina's [[compendium]] of charms, Ichabod discovers that her pentagram is actually one of [[Apotropaic magic|protection]]; he also finds a [[Autopsy|post-mortem]] wound on Mary's supposed body, which belongs to the Van Tassels' servant, Sarah. Mary confronts Katrina and takes her to a [[windmill]], where she reveals her true parentage from an impoverished family evicted by Van Garrett years ago in favor of the Van Tassels. Having witnessed the Hessian's death as a child, Mary [[Deal with the Devil|pledged herself to Satan]] to resurrect him from the grave and take over the Van Garrett and Van Tassel estates in revenge. She manipulated her way into the Van Tassel household, killing Katrina's mother to take her place as Baltus' wife, and drew the other elders into the conspiracy against him through blackmail and lust.
+
+Having eliminated all the other heirs and witnesses, including her own sister (the crone) for aiding Ichabod, Mary summons the Hessian to finish off Katrina. Ichabod and Masbath rush to the windmill to rescue Katrina as the Hessian arrives. After escaping from the windmill, which led to its destruction, and the subsequent chase to the tree of the dead, Ichabod retrieves the Hessian's skull from Mary and returns it to him, freeing the Hessian from her control. With his head restored, the Hessian spares Katrina and returns to [[Hell]], taking Mary with him. With the case solved, Ichabod takes Katrina and Masbath from Sleepy Hollow to start a new life with them in New York.
+
+==Cast==
+{{multiple image
+| perrow=3
+| total_width=312
+| align=right
+| image1=Johnny Depp (July 2009) 2.jpg
+| image2=Christina Ricci by David Shankbone.jpg
+| image3=Miranda Richardson Met Opera 2010 Shankbone.jpg
+| image4=Michael Gambon cropped.jpg
+| image5=Casper Van Dien (3x4).jpg
+| image6=Christopher Walken Feb 2008 (2).jpg
+| footer='''Top row:''' [[Johnny Depp]], [[Christina Ricci]], and [[Miranda Richardson]] play Ichabod Crane, Katrina Van Tassel, and Lady Van Tassel.<br>'''Bottom row:''' [[Michael Gambon]], [[Casper Van Dien]], and [[Christopher Walken]] play Baltus Van Tassel, Brom Van Brunt, and the Hessian Horseman.
+}}
+* [[Johnny Depp]] as [[Ichabod Crane]], an eccentric and earnest [[New York City]] [[constable]] infatuated with the idea of applying [[forensic science|modern science]] and [[Natural deduction|deduction]] to solve crimes.<ref name="Cinefantastique16">{{cite magazine|last=Jones|first=Alan|author-link=Alan Jones (film critic)|url=https://ia800705.us.archive.org/17/items/cinefantastique_1970-2002/Cinefantastique%20Vol%2031%20No%209%20%28Dec%201999%29.pdf|title=Sleepy Hollow|magazine=[[Cinefantastique]]|page=16|volume=31|number=9|date=December 1999|access-date=October 18, 2025|via=[[Internet Archive]]}}</ref><ref name="WideAwake">{{cite news|url=http://edition.cnn.com/SHOWBIZ/Movies/9911/16/sleepy.hollow/|title=Burton and Depp: Wide awake in 'Sleepy Hollow'|first=Donna|last=Freydkin|date=November 16, 1999|work=[[CNN]]|access-date=March 11, 2019|archive-date=January 18, 2019|archive-url=https://web.archive.org/web/20190118040926/http://edition.cnn.com/SHOWBIZ/Movies/9911/16/sleepy.hollow/|url-status=dead}}</ref><ref name="MostUnderrated">{{cite magazine|last=Macnab|first=Geoffrey|date=July 12, 2024|title=How Sleepy Hollow became Tim Burton's most underrated film|url=https://www.the-independent.com/arts-entertainment/films/features/sleepy-hollow-tim-burton-movies-johnny-depp-b2577992.html|magazine=[[The Independent]]|access-date=October 18, 2025|url-status=live|archive-url=https://web.archive.org/web/20250725024142/https://www.the-independent.com/arts-entertainment/films/features/sleepy-hollow-tim-burton-movies-johnny-depp-b2577992.html|archive-date=July 25, 2025}}</ref> Depp described his character as "a very delicate, fragile person who was maybe a little too in touch with his feminine side, like a frightened little girl."<ref name="AHeadOfItsTime" /> [[Tim Burton]] elaborated that although the character of Ichabod has been changed from the original story, "there was a certain spirit of this sort of prissy, wimpy guy. He lives in his head but then he's forced to open up and become physical, not because he wants to but because he has to."{{sfn|Burton|2006|page=177}}
+** Dominic Preece was Depp's [[Double (occupation)#Stunt double|stunt double]] as Ichabod.
+** Sam Fior plays 7-year-old Ichabod.{{sfn|Walker|1999|page=53}}
+* [[Christina Ricci]] as Katrina Anne Van Tassel, the strong‑willed and romantic daughter of the most affluent family in Sleepy Hollow, who becomes Ichabod's love interest.<ref name="Cinefantastique16" /><ref name="AHeadOfItsTime">{{cite magazine|first=Chris|last=Nashawaty|author-link=Chris Nashawaty|url=https://www.maryellenmark.com/bibliography/magazines/article/entertainment-weekly/a-head-of-its-time/E|title=Sleepy Hollow: A Head of Its Time|magazine=[[Entertainment Weekly]]|date=November 19, 1999|access-date=October 22, 2025|via=[[Mary Ellen Mark]]}}</ref><ref name="KissingYourCousin">{{cite magazine|first=Stacy|last=Lambe|url=https://people.com/sleepy-hollow-at-25-casper-van-dien-reveals-family-connection-to-movie-exclusive-8747573|title=Why ''Sleepy Hollow'''s Casper Van Dien Was Warned That Kissing Christina Ricci Would Be Like 'Kissing Your Cousin' (Exclusive)|magazine=[[People (magazine)|People]]|date=November 19, 2024|access-date=October 22, 2025|archive-date=March 30, 2025|archive-url=https://web.archive.org/web/20250330053359/https://people.com/sleepy-hollow-at-25-casper-van-dien-reveals-family-connection-to-movie-exclusive-8747573|url-status=live}}</ref><ref>{{cite magazine|url=https://www.rollingstone.com/tv-movies/tv-movie-news/christina-ricci-nice-and-naughty-cover-240915/|title=Christina Ricci: Nice and Naughty|first=David|last=Lipsky|author-link=David Lipsky (author)|date=December 9, 1999|magazine=[[Rolling Stone]]|access-date=October 18, 2025|archive-date=June 6, 2025|archive-url=https://web.archive.org/web/20250606043855/https://www.rollingstone.com/tv-movies/tv-movie-news/christina-ricci-nice-and-naughty-cover-240915/|url-status=live}}</ref> Ricci described her character as a "sort of like a fairy tale, a princess-y character, very one-sided, no emotional depth."<ref name="WideAwake" />
+* [[Miranda Richardson]] as Lady Mary Van Tassel (née Archer), Baltus' manipulative second wife and Katrina's stepmother, who turns out to be the one controlling the Hessian.<ref name="MostUnderrated" /><ref name="KissingYourCousin" />{{sfn|Walker|1999|pages=139–142}}{{sfn|Burton|2006|page=275}}
+** Richardson also portrays the Crone, Lady Van Tassel's [[Witchcraft|witch]] sister living in the Western Woods.{{sfn|Walker|1999|pages=143–144}}{{sfn|Walker|1999|page=34}}
+** Tessa Allen-Ridge and Cassandra Farndale play Lady Van Tassel and the Crone in their childhood, respectively.
+* [[Michael Gambon]] as Baltus Van Tassel, Katrina's father, Lady Van Tassel's husband, and Sleepy Hollow's richest resident.<ref name="AHeadOfItsTime" /><ref name="KissingYourCousin" />
+* [[Casper Van Dien]] as Brom Van Brunt, Katrina's suitor who competes with Ichabod for her affections.<ref name="KissingYourCousin" /><ref name="Cinefantastique27">{{cite magazine|last=Jones|first=Alan|author-link=Alan Jones (film critic)|url=https://ia800705.us.archive.org/17/items/cinefantastique_1970-2002/Cinefantastique%20Vol%2031%20No%209%20%28Dec%201999%29.pdf|title=Sleepy Hollow: Casper Van Dien|magazine=[[Cinefantastique]]|page=27|volume=31|number=9|date=December 1999|access-date=October 18, 2025|via=[[Internet Archive]]}}</ref>
+* [[Jeffrey Jones]] as Reverend Steenwyck, the austere and corrupt town [[The Reverend|pastor]].
+* [[Christopher Lee]] as the [[Burgomaster]], a New York City police official who sends Ichabod to investigate the murders in Sleepy Hollow.<ref name="HeadsRoll">{{cite news|last=Gaul|first=Lou|url=https://books.google.com/books?id=EPhVAAAAIBAJ&pg=PA32&#v=onepage&q&f=false|title=Heads roll in 'Sleepy Hollow' as the legend lives|newspaper=[[The Beaver County Times]]|via=[[Google News Archive]]|page=2|date=November 24, 1999|access-date=October 18, 2025}}</ref><ref name="Cinefantastique22">{{cite magazine|last=Jones|first=Alan|author-link=Alan Jones (film critic)|url=https://ia800705.us.archive.org/17/items/cinefantastique_1970-2002/Cinefantastique%20Vol%2031%20No%209%20%28Dec%201999%29.pdf|title=Sleepy Hollow|magazine=[[Cinefantastique]]|page=22|volume=31|number=9|date=December 1999|access-date=October 18, 2025|via=[[Internet Archive]]}}</ref>
+* [[Richard Griffiths]] as Samuel Philipse, the drunken town [[magistrate]].
+* [[Ian McDiarmid]] as Thomas Lancaster, the town doctor and surgeon.
+* [[Michael Gough]] as James Hardenbrook, the wizened and cowardly town [[notary]].
+* [[Christopher Walken]] as the [[Headless Horseman|Hessian Horseman]], a brutal and sadistic [[Hessian (soldier)|Hessian]] mercenary sent to America during the [[American Revolutionary War]] who loses his head during battle.
+** Rob Inch and [[Ray Park]] were Walken's stunt doubles as the Headless Horseman.
+* [[Marc Pickering]] as Young Masbath, an orphaned 10-year-old boy who becomes Ichabod's assistant after his father is killed by the Hessian.<ref name="MostUnderrated" />{{sfn|Burton|2006|page=275}}{{sfn|Walker|1999|page=11}}
+* [[Lisa Marie (actress)|Lisa Marie]] as Lady Crane, Ichabod's late mother who was tortured to death when he was a child.<ref name="AHeadOfItsTime" />{{sfn|Burton|2006|page=274–275}} She appears in the flashbacks/nightmares that haunt Ichabod during his investigation.<ref name="MostUnderrated" />{{sfn|Burton|2006|page=275}}
+* [[Steven Waddington]] as Killian, the father of a young family who aids Ichabod before becoming one of the Hessian's victims.{{sfn|Burton|2006|page=274}}{{sfn|Walker|1999|page=36}}
+
+Additionally, [[Claire Skinner]] plays Elizabeth "Beth" Killian, the town [[midwife]].{{sfn|Walker|1999|page=37}} [[Alun Armstrong]] plays the High Constable. Mark Spalding plays Jonathan Masbath, Young Masbath's father and Van Garrets' servant who becomes one of the Hessian's victims. [[Jessica Oyelowo]] plays Sarah, the Van Tassels' servant. [[Tony Maudsley]] plays Van Ripper. [[Peter Guinness (actor)|Peter Guinness]] plays Lord Crane, Ichabod's grim and tyrannical [[parson]] father, who murdered his wife when their son was a child.{{sfn|Walker|1999|page=53}}{{sfn|Walker|1999|page=109}} Sean Stephens plays Thomas Killian. Other roles include [[Michael Feast]] as Spotty Man, [[Jamie Foreman]] as Thuggish Constable, [[Philip Martin Brown]] as a Constable, and an uncredited [[Martin Landau]] as Peter Van Garrett, Sleepy Hollow's chief citizen until his death at the hands of the Headless Horseman.
+
+==Production==
+===Development===
+In 1993, [[Kevin Yagher]], a special make-up effects designer who had turned to directing with ''[[Tales from the Crypt (TV series)|Tales from the Crypt]]'', had the notion to adapt [[Washington Irving]]'s short story "[[The Legend of Sleepy Hollow]]" into a feature film. Through his agent, Yagher was introduced to [[Andrew Kevin Walker]]; they spent a few months working on a [[film treatment]]{{sfn|Burton|2006|pp=161–169}} that transformed [[Ichabod Crane]] from a schoolmaster from [[Connecticut]] to a banished [[New York City]] detective.<ref name="cluster" /> Yagher and Walker subsequently [[pitch (filmmaking)|pitch]]ed ''Sleepy Hollow'' to various studios and production companies, eventually securing a deal with producer [[Scott Rudin]],{{sfn|Burton|2006|pp=161–169}} who had been impressed with Walker's unproduced [[spec script]] for ''[[Seven (1995 film)|Seven]]''.<ref name="AHeadOfItsTime" /> Rudin optioned the project to [[Paramount Pictures]] in a deal that had Yagher set to direct, with Walker scripting; the pair would share story credit.{{sfn|Burton|2006|pp=161–169}} Following the completion of ''[[Hellraiser: Bloodline]]'', Yagher had planned ''Sleepy Hollow'' as "a low-budget effects showcase with a spectacular murder every five minutes or so," characterized by its screenwriter as a "pretentious [[slasher film|slasher movie]]".<ref>{{cite news | first = Kim |last=Newman | title = The Cage of Reason | work = [[Sight and Sound]] | date = January 2000 | author-link = Kim Newman}}</ref> Paramount had reservations about the film, interpreting it as a typical [[historical drama|period piece]]—"I wouldn't say they weren't enthusiastic about it, but they didn't see the commercial viability," producer [[Adam Schroeder]] noted. "The studio thinks 'old literary classic' and they think ''[[The Crucible (1996 film)|The Crucible]]''. There was a fear about that... We started developing it before horror movies came back."<ref name=fangoria/>
+
+Paramount CEO [[Sherry Lansing]] revived studio interest in 1998.<ref name="AHeadOfItsTime" /> Schroeder, who shepherded [[Tim Burton]]'s ''[[Edward Scissorhands]]'' as a studio executive at [[20th Century Studios|20th Century Fox]] in 1990, suggested that Burton direct the film.{{sfn|Burton|2006|pp=177–183}} [[Francis Ford Coppola]]'s minimal production duties came from [[American Zoetrope]]; Burton only became aware of Coppola's involvement during the editing process when he was sent a copy of ''Sleepy Hollow''{{'}}s [[Trailer (promotion)|trailer]] and saw Coppola's name on it.{{sfn|Burton|2006|pp=177–183}} Burton, coming off the troubled production of ''[[Superman in film#Superman Lives|Superman Lives]]'', was hired to direct in June 1998.<ref name=eyes/> Excited about Burton's involvement, Yagher stepped down as director "with good grace", remaining involved in the project as the lead [[Prosthetic makeup|creature effects]] artist.<ref name=fangoria/> Burton considered the film his first venture into a primarily horror-focused tone. "I had never really done something that was more of a horror film," he explained, "and it's funny, because those are the kind of movies that I like probably more than any other genre."{{sfn|Burton|2006|pp=161–169}} His interest in directing a horror film was influenced by his love for [[Hammer Film Productions]] and ''[[Black Sunday (1960 film)|Black Sunday]]''—particularly the supernatural feel they evoked as a result of being filmed primarily on [[sound stage]]s.<ref name=fangoria/> As a result, ''Sleepy Hollow'' is an [[Homage (arts)|homage]] to various Hammer Film Productions, including ''[[Dr. Jekyll and Sister Hyde]]'',<ref>{{cite news |first=Gene |last=Seymour |title=Headless In Hollywood |work=[[Newsday]] |date=November 17, 1998}}</ref> and other films such as ''[[Frankenstein (1931 film)|Frankenstein]]'', ''[[Bride of Frankenstein]]'', various [[Roger Corman]] horror films,<ref name=Bernard/> ''[[Jason and the Argonauts (film)|Jason and the Argonauts]]'', and ''[[Scream Blacula Scream]]''.<ref name="AHeadOfItsTime" /> The image of the [[Headless Horseman]] had fascinated Burton during his apprenticeship as a Disney animator at [[California Institute of the Arts|CalArts]] in the early 1980s.<ref name="Bernard">{{cite news |first=Bernard |last=Weinraub |author-link=Bernard Weinraub | title = At the Movies | work = [[The New York Times]] | date = November 19, 1999}}</ref> "One of my teachers had worked on the [[The Adventures of Ichabod and Mr. Toad|Walt Disney version]] as one of the layout artists on the pursuit, and he brought in some layouts from it, so that was exciting. It was one of the things that maybe shaped what I like to do."{{sfn|Burton|2006|pp=161–169}} Burton worked with Walker on rewrites, but Rudin suggested that [[Tom Stoppard]] rewrite the script to add to the comical aspects of Ichabod's bumbling mannerisms, and emphasize the character's romance with Katrina. His work went uncredited through the [[WGA screenwriting credit system]].<ref name=blue/><ref name="AHeadOfItsTime" />
+
+=== Casting ===
+While [[Johnny Depp]] was Burton's first choice for the role of Ichabod Crane, Paramount required him to consider [[Brad Pitt]], [[Liam Neeson]] and [[Daniel Day-Lewis]].<ref name=fangoria/><ref>{{cite magazine|first=David |last=Hochman |url=https://ew.com/article/1998/07/09/getting-sleepy/ |title=Brad Pitt may star in the new Tim Burton film |magazine=[[Entertainment Weekly]] |date=July 9, 1998 |access-date=November 1, 2010}}</ref> Depp was cast in July 1998 for his third collaboration with Burton after the title roles of ''[[Edward Scissorhands]]'' and ''[[Ed Wood (film)|Ed Wood]]''.<ref name=ride/> Depp wanted Ichabod to parallel Irving's description of the character in the short story. This included a long [[prosthetic makeup|prosthetic snipe nose]], huge ears, and elongated fingers. Paramount turned down his suggestions,<ref name=splice/> and after Depp read Tom Stoppard's rewrite of the script, he was inspired to take the character even further. "I always thought of Ichabod as a very delicate, fragile person who was maybe a little too in touch with his feminine side, like a frightened little girl," Depp explained.<ref name="AHeadOfItsTime" /> He did not wish to portray the character as a typical action star would have, and instead took inspiration by [[Angela Lansbury]]'s performance in ''[[Death on the Nile (1978 film)|Death on the Nile]]''.<ref name="AHeadOfItsTime" /> "It's good," Burton reasoned, "because I'm not the greatest action director, or the greatest director in any genre, and he's not the greatest action star, or the greatest star in any genre."{{sfn|Burton|2006|pp=177–183}} Depp modeled Ichabod's detective personality from [[Basil Rathbone]] in the [[Sherlock Holmes (1939 film series)|1939 ''Sherlock Holmes'' film series]]. He also studied [[Roddy McDowall]]'s acting for additional influence.<ref name="splice">{{cite news |first= Rob |last=Blackwelder | url = http://www.splicedwire.com/features/depp.html | title = Deppth Perception |website = SPLICEDwire.com | date = November 12, 1999 | access-date = November 1, 2010 | archive-date = June 21, 2011 | archive-url = https://web.archive.org/web/20110621194028/http://splicedwire.com/features/depp.html | url-status = live }}</ref> Burton added that "the idea was to try to find an elegance in action of the kind that [[Christopher Lee]] or [[Peter Cushing]] or [[Vincent Price]] had."{{sfn|Burton|2006|pp=177–183}}
+
+By late July 1998, [[Christina Ricci]] had been cast as Katrina Van Tassel in her first major adult role.<ref>{{cite magazine|last=Hindes|first=Andrew|author-link=Andrew Hindes|date=July 27, 1998|title=Ricci to star in 'Hollow'|url=https://variety.com/1998/film/news/ricci-to-star-in-hollow-1117478831/|magazine=[[Variety (magazine)|Variety]]|access-date=October 18, 2025}}</ref> ''Sleepy Hollow'' also reunited Burton with [[Jeffrey Jones]] (from ''[[Beetlejuice]]'' and ''[[Ed Wood (film)|Ed Wood]]'') as Reverend Steenwyck, [[Christopher Walken]] (Max Shreck in ''[[Batman Returns]]'') as the Hessian Horseman, [[Martin Landau]] (''Ed Wood'') in a cameo role, and Hammer veteran [[Michael Gough]] ([[Alfred Pennyworth|Alfred]] in Burton's ''Batman'' films), whom Burton tempted out of retirement.{{sfn|Burton|2006|pp=177–183}} The Hammer influence was further confirmed by the casting of Christopher Lee in a small role as the [[Burgomaster]] who sends Crane to Sleepy Hollow.<ref>{{cite news |author=Salisbury |first=Mark |date=December 17, 1999 |title=The American Nightmare |work=[[The Guardian]] |url=https://www.theguardian.com/film/1999/dec/17/culture.features |url-status=live |access-date=November 5, 2010 |archive-url=https://web.archive.org/web/20131219065555/http://www.theguardian.com/film/1999/dec/17/culture.features |archive-date=December 19, 2013}}</ref><ref name="TributeToChristopherLee">{{cite magazine|last=Breznican|first=Anthony|date=June 16, 2015|title=Tim Burton's tribute to Christopher Lee|url=https://ew.com/article/2015/06/16/tim-burton-tribute-christopher-lee/|magazine=[[Entertainment Weekly]]|access-date=October 18, 2025|url-status=live|archive-url=https://web.archive.org/web/20241127061157/https://ew.com/article/2015/06/16/tim-burton-tribute-christopher-lee/|archive-date=November 27, 2024}}</ref>
+
+===Filming===
+[[File:Sleepy Hollow set.jpg|thumb|300px|Supervised by Heinrichs, the town of Sleepy Hollow was constructed around a small duck pond. At a cost estimated at $1.3&nbsp;million, and over a period of four months, 12 structures were built, several with detailed interiors, as well as exteriors.{{sfn|Burton|2006|pp=161–169}}]]
+
+The original intention had been to shoot ''Sleepy Hollow'' predominantly on location with a $30&nbsp;million budget.<ref name="Calhoun">{{cite news |first = John |last=Calhoun | title = Headless in Sleepy Hollow | work = Entertainment Design | date = November 1999}}</ref> Towns were scouted throughout [[Upstate New York]] along the [[Hudson Valley]],{{sfn|Burton|2006|pp=161–169}} and the filmmakers decided on [[Tarrytown, New York|Tarrytown]]<ref name="eyes">{{cite news | url = https://variety.com/1998/voices/columns/burton-eyes-hollow-rodman-wrestles-1117477668/ | title = Burton eyes 'Hollow'; Rodman wrestles | work = [[Variety (magazine)|Variety]] | date = June 17, 1998 | access-date = November 1, 2010 | archive-date = May 27, 2011 | archive-url = https://web.archive.org/web/20110527024710/http://www.variety.com/article/VR1117477668 | url-status = live }}</ref> for an October 1998 start date.<ref name="ride">{{cite news |first=Andrew |last=Hindes | url = https://variety.com/1998/film/news/depp-to-ride-in-hollow-1117478515/ | title = Depp to ride in 'Hollow' | work = [[Variety (magazine)|Variety]] | date = July 15, 1998 | access-date = November 1, 2010 | archive-date = November 6, 2012 | archive-url = https://web.archive.org/web/20121106195703/http://www.variety.com/article/VR1117478515 | url-status = live }}</ref> The [[Historic Hudson Valley]] organization assisted in scouting locations, which included the [[Philipsburg Manor House]] and forests in the [[Rockefeller State Park Preserve]].<ref name="cluster">{{cite news |first=Todd |last=Shapera |title = The Legend Continues; In a Cluster of New Films This Fall, Washington Irving's Classic Rides Again | work = The New York Times | date = October 24, 1999 |url=https://www.nytimes.com/1999/10/24/nyregion/legend-continues-cluster-new-films-this-fall-washington-irving-s-classic-rides.html |access-date=2023-09-28}}</ref> "They had a wonderful quality to them," production designer [[Rick Heinrichs]] reflected on the locations, "but it wasn't quite lending itself to the sort of [[expressionism]] that we were going for, which wanted to express the feeling of foreboding."<ref name="drafting">{{cite news | url = https://variety.com/2000/film/news/from-the-drafting-board-rick-heinrichs-1117776725/ | title = From the drafting board: Rick Heinrichs | work = [[Variety (magazine)|Variety]] | date = February 23, 2000 | access-date = November 1, 2010 | archive-date = November 6, 2012 | archive-url = https://web.archive.org/web/20121106195732/http://www.variety.com/article/VR1117776725 | url-status = live }}</ref> Disappointed, the filmmakers scouted locations in [[Sturbridge, Massachusetts]], and considered using Dutch colonial villages and period town recreations in the Northeastern United States. When no suitable existing location could be found, coupled with a lack of readily available studio space in the New York area needed to house the production's large number of sets, producer Scott Rudin suggested the United Kingdom.{{sfn|Burton|2006|pp=161–169}}
+
+Rudin believed Britain offered the level of craftsmanship in period detail, painting and costuming that was suitable for the film's design.<ref name="Thames">{{cite news |first=Matt |last=Wolf |title= 'Sleepy Hollow,' on the Thames | work = The New York Times | date = April 11, 1999}}</ref> Having directed ''[[Batman (1989 film)|Batman]]'' entirely in Britain, Burton agreed, and designers from ''Batman''{{'}}s art department were employed by Paramount for ''Sleepy Hollow''.{{sfn|Burton|2006|pp=177–183}} As a result, [[principal photography]] was pushed back<ref>{{cite news |author=Hindes |first=Andrew |date=November 11, 1998 |title=Mandalay's 'Sleepy' |work=[[Variety (magazine)|Variety]] |url=https://variety.com/1998/film/news/mandalay-s-sleepy-1117488415/ |url-status=live |access-date=November 1, 2010 |archive-url=https://web.archive.org/web/20121106200105/http://www.variety.com/article/VR1117488415 |archive-date=November 6, 2012}}</ref> to November 20, 1998, at [[Warner Bros. Studios Leavesden|Leavesden Film Studios]], which had been recently vacated by ''[[Star Wars: Episode I – The Phantom Menace]]''.<ref name=Calhoun/> The majority of filming took place at Leavesden, with other work taking place at [[Shepperton Studios]],{{sfn|Burton|2006|pp=161–169}} where the massive Tree of the Dead set was built using Stage H.<ref name="AHeadOfItsTime" /> Production then moved to the [[Culden Faw Estate]], [[Hambleden]]<ref>{{cite web | url=https://culdenfawestate.com/tv-film-locations/?your-interest=Events | title=TV & Film Locations |website=Culden Faw Estate |access-date=June 24, 2022 | archive-date=May 26, 2022 | archive-url=https://web.archive.org/web/20220526232403/https://culdenfawestate.com/tv-film-locations/?your-interest=Events |url-status=live}}</ref> for a month-long shoot in March, where the town of Sleepy Hollow was constructed.{{sfn|Burton|2006|pp=161–169}} "We came to England figuring we would find a perfect little town," producer Adam Schroeder recalled, "and then we had to build it anyway." Filming in Britain continued through April,{{sfn|Burton|2006|pp=161–169}} and a few [[wikt:last minute|last minute]] scenes were shot using a [[sound stage]] in [[Yonkers, New York]] the following May.<ref name=cluster/><ref>{{cite news | url = https://variety.com/1999/film/news/shooting-in-town-1117757976/ | title = Shooting in town | work = [[Variety (magazine)|Variety]] | date = November 11, 1999 | access-date = November 1, 2010 | archive-date = November 6, 2012 | archive-url = https://web.archive.org/web/20121106195824/http://www.variety.com/article/VR1117757976 | url-status = live }}</ref>
+
+===Design===
+[[File:Treeofthedead.jpg|thumb|left|254px|The Tree of the Dead, designed by [[Keith Short]]<ref>{{cite web|url=http://www.keithshortsculptor.com/sleepyhollow3.htm|title=Sleepy Hollow|work=[[Keith Short|KeithShort]]Sculptor.com|access-date=December 27, 2007|archive-date=February 11, 2008|archive-url=https://web.archive.org/web/20080211114622/http://www.keithshortsculptor.com/sleepyhollow3.htm|url-status=live}}</ref>]]
+
+Responsible for the film's [[Production designer|production design]] was [[Rick Heinrichs]], whom Burton intended to use on ''[[Superman in film#Superman Lives|Superman Lives]]''. While the production crew was always going to build a substantial number of sets, the decision was made early on that optimally fulfilling Burton's vision would necessitate shooting ''Sleepy Hollow'' in a totally controlled environment at Leavesden Film Studios.{{sfn|Burton|2006|pp=170–176}} The production design was influenced by Burton's love for [[Hammer Film Productions]] and the film ''[[Black Sunday (1960 film)|Black Sunday]]'' (1960)—particularly the supernatural feel they evoked as a result of being filmed primarily on sound stages. Heinrichs was also influenced by [[American colonial architecture]], [[German expressionist cinema]], [[Dr. Seuss]] illustrations, and Hammer's ''[[Dracula Has Risen from the Grave]]''.<ref name="fangoria">{{cite news |first=Mark |last=Salisbury |title=Graveyard Shift | work = [[Fangoria]] | date = November 1999}}</ref>
+
+One sound stage at Leavesden was dedicated to the "Forest to Field" set, for the scene in which the Headless Horseman races out of the woods and into a field. This stage was then transformed into, variously, a graveyard, a corn field, a field of harvested wheat, a churchyard, and a snowy battlefield. In addition, a small [[backlot]] area was devoted to a New York City street and waterfront tank.<ref name=Calhoun/>
+
+====Cinematography====
+Burton was impressed by the [[cinematography]] in ''[[Great Expectations (1998 film)|Great Expectations]]'' (1998) and hired [[Emmanuel Lubezki]] as ''Sleepy Hollow''{{'}}s director of photography. Initially, Lubezki and Burton contemplated shooting the film in black and white, and in old square [[Academy ratio]]. When that proved unfeasible, they opted to apply [[bleach bypass]] to desaturate the image and increase the color black.{{sfn|Burton|2006|pp=177–183}} Burton and Lubezki intentionally planned the over-dependency of smoke and soft lighting to accompany the film's sole [[wide-angle lens]] strategy. Lubezki also used Hammer horror<ref name="contrast" /> and Mexican [[Luchador films]] from the 1960s, such as ''[[Santo Contra los Zombies]]'' and ''[[Santo vs. las Mujeres Vampiro]]''.<ref name=fangoria/> Lighting effects increased the dynamic energy of the Headless Horseman, while the [[Contrast (vision)|contrast]] of the film stock was increased in post-production to add to the monochromatic feel.<ref name="contrast">{{cite news | url = https://variety.com/2000/film/news/cinematographer-s-journal-1117761011/ | title = Cinematographer's Journal | work = [[Variety (magazine)|Variety]] | date = January 17, 2000 | access-date = November 1, 2010 | archive-date = November 6, 2012 | archive-url = https://web.archive.org/web/20121106202248/http://www.variety.com/article/VR1117761011 | url-status = live }}</ref>
+
+Leavesden Studios, a converted airplane factory, presented problems because of its relatively low ceilings. This was less of an issue for ''The Phantom Menace'', in which set height was generally achieved by digital means. "Our visual choices get channeled and violent," Heinrichs elaborated, "so you end up with liabilities that you tend to exploit as virtues. When you've got a certain ceiling height, and you're dealing with painted backings, you need to push atmosphere and diffusion."<ref name=Calhoun/> This was particularly the case in several exteriors that were built on sound stages. "We would mitigate the disadvantages by hiding lights with teasers and smoke."<ref name=Calhoun/>
+
+====Visual effects====
+The majority of ''Sleepy Hollow''{{'}}s 150 visual effects shots were handled by [[Industrial Light & Magic]] (ILM),<ref name="nominee">{{cite news | first= Marc |last=Graser | url = https://variety.com/2000/film/news/seven-pics-make-the-cut-in-oscar-f-x-nominee-race-1117760828/ | title = Seven pics make the cut in Oscar f/x nominee race | work = [[Variety (magazine)|Variety]] | date = January 2, 2000 | access-date = November 1, 2010 | archive-date = November 6, 2012 | archive-url = https://web.archive.org/web/20121106200453/http://www.variety.com/article/VR1117760828 | url-status = live }}</ref> while [[Kevin Yagher]] supervised the human and creature effects. [[Framestore]] also assisted on visual effects, and [[The Mill (company)|The Mill]] handled [[motion control photography]].<ref>{{cite news | first = Karl |last=Cohen | url = http://www.awn.com/asifa-sf/1999/0999.html | title = More ILM Work Will Be In Theaters This Year | work = [[Animation World Network]] | date = September 1999 | access-date = November 1, 2010 | url-status=dead | archive-url = https://web.archive.org/web/20011222074842/http://www.awn.com/asifa-sf/1999/0999.html | archive-date = December 22, 2001 | df = mdy-all }}</ref> In part a reaction to the [[computer-generated imagery|computer-generated effects]] in ''[[Mars Attacks!]]'', Burton opted to use as limited an amount of digital effects as possible.{{sfn|Burton|2006|pp=177–183}} [[Ray Park]], who served as the Headless Horseman [[Double (occupation)#Stunt double|stunt double]], wore a blue ski mask for the [[chroma key]] effect, digitally removed by ILM.<ref name="blue">{{cite news |first=David |last=Mills |title = One on One: Tim Burton | work = [[Total Film]] | pages = 50–56 | date = February 2000}}</ref> Burton and Heinrichs applied to ''Sleepy Hollow'' many of the techniques they had used in [[stop-motion]] animation on ''[[Vincent (1982 film)|Vincent]]''—such as [[forced perspective]] sets.{{sfn|Burton|2006|pp=170–176}}
+
+The windmill was a 60-foot-tall forced-perspective exterior (visible to highway travellers miles away), a base and rooftop set and a quarter-scale miniature. The interior of the mill, which was about 30 feet high and 25 feet wide, featured wooden gears equipped with mechanisms for grinding flour. A wider view of the windmill was rendered on a Leavesden soundstage set with a quarter-scale windmill, complete with rotating vanes, painted sky backdrop and special-effects fire. "It was scary for the actors who were having burning wood explode at them," Heinrichs recalled. "There were controls in place and people standing by with hoses, of course, but there's always a chance of something going wrong."<ref name="design" /> For the final shot of the burning mill exploding, the quarter-scale windmill and painted backdrop were erected against the outside wall of the "flight shed", a spacious hangar on the far side of Leavesden Studios. The hangar's interior walls were knocked down to create a 450-foot run, with a 40-foot width still allowing for coach and cameras. Heinrichs tailored the sets so cinematographer Emmanuel Lubezki could shoot from above without seeing the end of the stage.<ref name="design">{{cite news | first = Denise |last=Abbott | title = Entertainment By Design | work = [[The Hollywood Reporter]] | date = February 29, 2000}}</ref>
+
+Actor Ian McDiarmid, who portrayed Dr. Lancaster, had just finished another Leavesden production with ''[[Star Wars: Episode I – The Phantom Menace]]''. He compared the aesthetics of the two films, stating that physical sets helped the actors get into a natural frame of mind. "Having come from the [[chroma key|blue-screen]] world of ''Star Wars'' it was wonderful to see gigantic, beautifully made perspective sets and wonderful clothes, and also people recreating a world. It's like the way movies used to be done"<ref name=Thames/>
+
+===Musical score===
+{{Main|Sleepy Hollow (soundtrack)}}
+The [[film score]] was composed by [[Danny Elfman]]. It won the [[Satellite Award for Best Original Score|Golden Satellite Award]] and was also nominated by the Las Vegas Film Critics.
+
+==Release==
+===Distribution===
+It is the first Mandalay Pictures film to be distributed by Paramount Pictures after they ended their collaboration with [[Sony Pictures Entertainment]], they released the film in most territories through their joint venture company [[United International Pictures]] outside the United States. [[Pathé]] released the film in the United Kingdom, Ireland and France, Roadshow Films released the film in Australia and New Zealand, Village Films released the film in Greece and TriPictures released the film in Spain.
+
+===Marketing===
+To promote ''Sleepy Hollow'', Paramount Pictures featured the [[Trailer (promotion)|film's trailer]] at [[San Diego Comic-Con]] in August 1999.<ref>{{cite news |first=Amid |author-link=Amid Amidi |last=Amidi | url = http://www.awn.com/mag/issue4.06/4.06pages/amidicomic/amidicomiccon.php3 | title = San Diego Comic-Con '99: More Than Fat, Sweaty Guys | work = [[Animation World Network]] | date = September 1999 | access-date = November 1, 2010 | archive-url = https://web.archive.org/web/20110612060407/http://www.awn.com/mag/issue4.06/4.06pages/amidicomic/amidicomiccon.php3 | archive-date = June 12, 2011 | url-status=dead | df = mdy-all }}</ref> The following October, the studio launched a website, which ''[[Variety (magazine)|Variety]]'' described as being the "most ambitious [[Digital marketing|online launch]] of a motion picture to date."<ref name="online">{{cite news | first = Marc |last=Graser | url = https://variety.com/1999/digital/news/par-gets-peppy-with-sleepy-online-1117757625/ | title = Par gets peppy with 'Sleepy' online | work = [[Variety (magazine)|Variety]] | date = November 1, 1999 | access-date = November 1, 2010 | archive-date = November 6, 2012 | archive-url = https://web.archive.org/web/20121106200132/http://www.variety.com/article/VR1117757625 | url-status = live }}</ref> The site offered visitors live video chats with several of the filmmakers hosted by [[Yahoo! Movies]] and enabled them to view photos from sets and behind-the-scenes footage. In the weeks before the movie's release, a toy line was marketed by [[McFarlane Toys]].<ref>{{cite news |first= David |last=Kilmer | url = http://www.awn.com/news/licensing/mcfarlane-toys-releases-sleepy-hollow-figures | title = McFarlane Toys releases Sleepy Hollow figures | work = [[Animation World Network]] | date = November 19, 1999 | access-date = November 1, 2010 | archive-date = June 12, 2011 | archive-url = https://web.archive.org/web/20110612060420/http://www.awn.com/news/licensing/mcfarlane-toys-releases-sleepy-hollow-figures | url-status = live }}</ref> [[Simon & Schuster]] also published ''The Art of Sleepy Hollow'' ({{ISBN|0671036572}}), which included the film's screenplay and an introduction by Tim Burton.{{sfn|Walker|1999}} A [[novelization]], also published by Simon & Schuster, was written by [[Peter Lerangis]].<ref>{{cite news | isbn = 0671036653 | title = Sleepy Hollow: A Novelization | last1 = Lerangis | first1 = Peter | year = 1999 | publisher = Simon and Schuster }}</ref>
+
+===Box office===
+''Sleepy Hollow'' was released in the United States on November 19, 1999, in 3,069 theaters, grossing $30,060,467 in its opening weekend<ref name=box>{{cite web |title=Sleepy Hollow (1999) |url=https://boxofficemojo.com/movies/?id=sleepyhollow.htm |website=[[Box Office Mojo]] |access-date=March 29, 2016 |archive-date=April 11, 2016 |archive-url=https://web.archive.org/web/20160411190619/http://www.boxofficemojo.com/movies/?id=sleepyhollow.htm |url-status=live }}</ref> at the No. 2 spot behind ''[[The World Is Not Enough]]''.<ref>{{cite news | first = Dade |last=Hayes | url = https://variety.com/1999/film/news/b-o-shaken-stirred-by-bond-1117758270/ | title = B.O. shaken, stirred by Bond | work = [[Variety (magazine)|Variety]] | date = November 21, 1999 | access-date = November 1, 2010 | archive-date = November 6, 2012 | archive-url = https://web.archive.org/web/20121106200246/http://www.variety.com/article/VR1117758270 | url-status = live }}</ref> The film marked the highest opening weekend for Johnny Depp's career, a record that lasted for four years until ''[[Pirates of the Caribbean: The Curse of the Black Pearl]]'' surpassed it in 2003.<ref>{{cite web|last=DiOrio|first=Carl|date=July 13, 2003|title=Disney parlays ride stuff|url=https://variety.com/2003/film/box-office/disney-parlays-ride-stuff-1117889214/|accessdate=April 23, 2026|website=[[Variety (magazine)|Variety]]}}</ref> It would drop into fourth place behind ''The World Is Not Enough'', ''[[Toy Story 2]]'' and ''[[End of Days (film)|End of Days]]'' the following weekend.<ref name="Stampede">{{cite news |last=Lyman |first=Rick |title=Those Toys Are Leaders In Box-Office Stampede |url=https://www.nytimes.com/1999/11/29/movies/those-toys-are-leaders-in-box-office-stampede.html |access-date=March 25, 2022 |work=The New York Times |date=November 29, 1999 |archive-date=March 19, 2022 |archive-url=https://web.archive.org/web/20220319232310/https://www.nytimes.com/1999/11/29/movies/those-toys-are-leaders-in-box-office-stampede.html |url-status=live }}</ref> ''Sleepy Hollow'' eventually earned $101,068,340 in domestic gross, and $105&nbsp;million in foreign sales, coming to a worldwide total of $206,068,340.<ref name=numbers />
+
+===Home media===
+Paramount Home Video first released ''Sleepy Hollow'' on [[DVD]] and [[VHS]] in the United States on May 23, 2000.<ref>{{cite web | url = https://www.amazon.com/dp/B00003CX5A | title = Sleepy Hollow | website = Amazon | date = May 23, 2000 | access-date = November 1, 2010 | archive-date = August 16, 2023 | archive-url = https://web.archive.org/web/20230816023608/https://www.amazon.com/dp/B00003CX5A | url-status = live }}</ref> The [[HD DVD]] release came in July 2006,<ref>{{cite web | url = https://www.amazon.com/dp/B000GTJT16 | title = Sleepy Hollow (HD DVD) | website = Amazon | date = July 25, 2006 | access-date = November 1, 2010 | archive-date = August 16, 2023 | archive-url = https://web.archive.org/web/20230816023616/https://www.amazon.com/dp/B000GTJT16 | url-status = live }}</ref> while the film was released on [[Blu-ray]] two years later, in June 2008.<ref>{{cite web | url = https://www.amazon.com/dp/B000I0QM0E | title = Sleepy Hollow (Blu-ray) | website = Amazon | date = June 3, 2008 | access-date = November 1, 2010 | archive-date = July 17, 2022 | archive-url = https://web.archive.org/web/20220717101049/https://www.amazon.com/dp/B000I0QM0E | url-status = live }}</ref>
+An unofficial video game adaptation of the film titled ''Cursed Fates: The Headless Horseman'' was released by Fenomen Games and [[Big Fish Games]] on January 6, 2013.<ref>{{cite web|author=Fenomen Games|title=Cursed Fates: The Headless Horseman Collector's Edition|url=https://www.bigfishgames.com/games/8017/cursed-fates-headless-horseman-ce/?pc|website=Big Fish Games|publisher=Big Fish Games, Inc|access-date=May 19, 2018|archive-date=May 19, 2018|archive-url=https://web.archive.org/web/20180519121518/https://www.bigfishgames.com/games/8017/cursed-fates-headless-horseman-ce/?pc|url-status=live}}</ref> For the 20th anniversary, Paramount Home Entertainment released a Blu-ray digibook with a photobook containing the original story on September 24, 2019.<ref>{{Cite web|title=Watch Sleepy Hollow {{!}} DVD/Blu-ray or Streaming |website=Paramount Movies|url=https://www.paramountmovies.com/movies/sleepy-hollow|language=en|access-date=February 26, 2020|archive-date=February 26, 2020|archive-url=https://web.archive.org/web/20200226005639/https://www.paramountmovies.com/movies/sleepy-hollow|url-status=live}}</ref> For the upcoming 25th anniversary of the film, Paramount Pictures released a remastered 4K Ultra HD Blu-ray version on September 5, 2023.<ref>{{cite web|title=Sleepy Hollow 4K Blu-ray |url=https://www.blu-ray.com/movies/Sleepy-Hollow-4K-Blu-ray/331981/ |access-date=February 25, 2024|archive-url=https://web.archive.org/web/20240225154448/https://www.blu-ray.com/movies/Sleepy-Hollow-4K-Blu-ray/331981/|archive-date=February 25, 2024|url-status=live}}</ref>
+
+==Reception==
+===Critical response===
+''Sleepy Hollow'' received positive reviews from critics, who praised its direction, screenplay, visual effects, musical score, and the performances of the cast.<ref>{{cite web|last=Omotade|first=Lade|date=September 16, 2025|title=Tim Burton's Darkest and Most Twisty Fantasy Movie Is Officially Back on Streaming|url=https://collider.com/tim-burton-sleepy-hollow-pluto-tv-streaming-success-september-2025/|website=[[Collider (website)|Collider]]|access-date=October 18, 2025|archive-url=https://web.archive.org/web/20251007071958/https://collider.com/tim-burton-sleepy-hollow-pluto-tv-streaming-success-september-2025/|archive-date=October 7, 2025|url-status=live}}</ref> The [[review aggregator]] website [[Rotten Tomatoes]] reported that the film had {{a or an|{{RT data|score}}}} approval rating based on {{RT data|count}} reviews, with an average rating of {{RT data|average}}. According to its consensus, "It isn't Tim Burton's best work, but ''Sleepy Hollow'' entertains with its stunning visuals and creepy atmosphere."<ref>{{cite web|title=Sleepy Hollow (1999)|url=https://www.rottentomatoes.com/m/sleepy_hollow|access-date={{RT data|access date}}|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|archive-date=April 23, 2019|archive-url=https://web.archive.org/web/20190423121136/https://www.rottentomatoes.com/m/sleepy_hollow|url-status=live}}{{RT data|edit}}</ref> On [[Metacritic]], the film has a weighted average score of 65 out of 100 from 35 reviews, indicating "generally favorable reviews".<ref>{{cite web|url=https://www.metacritic.com/movie/sleepy-hollow|title=Sleepy Hollow Reviews|website=[[Metacritic]]|publisher=[[CBS Interactive]]|access-date=March 29, 2016|archive-date=March 31, 2016|archive-url=https://web.archive.org/web/20160331150852/http://www.metacritic.com/movie/sleepy-hollow|url-status=live}}</ref> Audiences polled by [[CinemaScore]] gave the film a "B−" grade on a scale of A+ to F.<ref>{{cite web|url=https://cinemascore.com/publicsearch/index/title/|title=Movie Title Search|website=[[CinemaScore]]|access-date=October 18, 2025|archive-date=December 20, 2018|archive-url=https://web.archive.org/web/20181220122629/https://cinemascore.com/publicsearch/index/title/|url-status=dead}}</ref>
+
+[[Roger Ebert]] gave it 3.5 stars out of 4 and said: "This is the best-looking horror film since Coppola's ''[[Bram Stoker's Dracula (1992 film)|Bram Stoker's Dracula]]''". He praised Johnny Depp's performance and Tim Burton's methods of visual design. "Johnny Depp is an actor able to disappear into characters," Ebert continued, "never more readily than in one of Burton's films."<ref>{{cite news |first=Roger |last=Ebert |url=https://www.rogerebert.com/reviews/sleepy-hollow-1999 |title=Sleepy Hollow | work = [[Chicago Sun-Times]] |date=November 19, 1999 |access-date=November 1, 2010 | author-link=Roger Ebert |archive-date=July 22, 2012 |archive-url=https://web.archive.org/web/20120722194140/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19991119/REVIEWS/911190303 |url-status=live}}</ref> [[Richard Corliss]] wrote, in his review for ''[[Time (magazine)|Time]]'', "Burton's richest, prettiest, weirdest [film] since ''[[Batman Returns]]''. The simple story bends to his twists, freeing him for an exercise in high style."<ref>{{cite magazine |first=Richard |last=Corliss | url = http://www.time.com/time/magazine/article/0,9171,992634,00.html | archive-url = https://web.archive.org/web/20080302224633/http://www.time.com/time/magazine/article/0,9171,992634,00.html | url-status = dead | archive-date = March 2, 2008 | title = Tim Burton's Tricky Treat | magazine = [[Time (magazine)|Time]] | date = November 22, 1999 | access-date = November 1, 2010 | author-link = Richard Corliss}}</ref> [[David Sterritt]] of ''[[The Christian Science Monitor]]'' gave praise to filmmaking and the high-spirited acting of cast, but believed Andrew Kevin Walker's writing was too repetitious and formulaic for the third act.<ref>{{cite news |first=David |last=Sterritt | url = https://www.csmonitor.com/durable/1999/11/19/fp19s1-csm.shtml  | title = New Releases| work = [[The Christian Science Monitor]] | date = November 19, 1999 | access-date = November 4, 2010 |archive-url = https://web.archive.org/web/20000229234512/http://www.csmonitor.com/durable/1999/11/19/fp19s1-csm.shtml |archive-date = February 29, 2000 | author-link = David Sterritt}}</ref>
+
+[[Owen Gleiberman]] from ''[[Entertainment Weekly]]'' wrote ''Sleepy Hollow'' is "a choppily plotted crowd-pleaser that lacks the seductive, freakazoid alchemy of Burton's best work." Gleiberman compared the film to ''[[The Mummy (1999 film)|The Mummy]]'', and said "it feels like every high-powered action climax of the last 10 years. Personally, I'd rather see Burton so intoxicated by a movie that he lost his head."<ref>{{cite magazine |first=Owen |last=Gleiberman |url=https://ew.com/article/1999/11/19/sleepy-hollow-2/ |title=Dead Heads| magazine=[[Entertainment Weekly]] |date=November 26, 1999 |access-date = November 4, 2010 |author-link=Owen Gleiberman}}</ref> [[Andrew Johnston (critic)|Andrew Johnston]] of ''[[Time Out (magazine)|Time Out New York]]'' wrote "[l]ike the best of Burton's films, ''Sleepy Hollow'' takes place in a world so richly imagined that, despite its abundant terrors, you can't help wanting to step through the screen."<ref>{{cite news|title=Sleepy Hollow |last=Johnston |first=Andrew |author-link=Andrew Johnston (critic) |work=Time Out New York |date=November 1999 |page=121}}</ref> [[Mick LaSalle]], writing in the ''[[San Francisco Chronicle]]'', criticized Burton's perceived image as a creative artist. "All ''Sleepy Hollow'' has going for it is art direction, and even in that it falls back on [[cliché]]."<ref>{{cite news |first=Mick |last=LaSalle |url=https://www.sfgate.com/movies/article/Sleepy-Hollow-a-Yawner-Burton-s-direction-is-2895589.php |title='Sleepy Hollow' a Yawner |work= [[San Francisco Chronicle]] |date=November 19, 1999 |access-date=November 7, 2010 |author-link=Mick LaSalle |archive-date=June 28, 2009 |archive-url= https://web.archive.org/web/20090628175752/http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/1999/11/19/DD79156.DTL&type=movies |url-status=live}}</ref>
+
+[[Jonathan Rosenbaum]] from the ''[[Chicago Reader]]'' called ''Sleepy Hollow'' "a ravishing visual experience, a pretty good vehicle for some talented American and English actors," but concluded that the film was a missed opportunity to depict an actual representation of the short story. "Burton's fidelity is exclusively to the period feeling he gets from disreputable Hammer horror films and a few images culled from ''[[The Adventures of Ichabod and Mr. Toad|Ichabod and Mr. Toad]]''. When it comes to one of America's great stories, Burton obviously couldn't care less."<ref>{{cite news|first=Jonathan |last=Rosenbaum | url = http://www.jonathanrosenbaum.net/?p=6437 | title = Hollow Rendition [on Sleepy Hollow] | work = [[Chicago Reader]] | date = November 26, 1999 | access-date = November 7, 2010 | author-link = Jonathan Rosenbaum | archive-date = August 16, 2023 | archive-url = https://web.archive.org/web/20230816023610/https://jonathanrosenbaum.net/2022/05/hollow-rendition/ | url-status = live }}</ref>
+
+==Accolades==
+{| class="wikitable sortable" width="95%"
+|+ style="background: LightSteelBlue;" | Awards
+|-
+! Award
+! Date of ceremony
+! Category
+! Recipients
+! Result
+|-
+| rowspan="3"| [[72nd Academy Awards|Academy Awards]]<ref>{{cite web |title=Nominees & Winners for the 72nd Academy Awards |url=http://www.oscars.org/oscars/ceremonies/2000 |url-status=live |archive-url=https://web.archive.org/web/20141109141152/http://www.oscars.org/oscars/ceremonies/2000 |archive-date=November 9, 2014 |access-date=January 3, 2014 |website=[[Academy of Motion Picture Arts and Sciences]]}}</ref>
+| rowspan="3"| [[72nd Academy Awards|March 26, 2000]]
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| [[Rick Heinrichs]], [[Peter Young (set decorator)|Peter Young]]
+| {{won}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[Emmanuel Lubezki]]
+| {{nominated}}
+|-
+| [[Academy Award for Best Costume Design|Best Costume Design]]
+| [[Colleen Atwood]]
+| {{nominated}}
+|-
+| rowspan="3"| [[British Academy Film Awards]]<ref>{{cite web |title=Film in 2000 |url=http://awards.bafta.org/award/2000/film |url-status=live |archive-url=https://web.archive.org/web/20220717170501/http://awards.bafta.org/award/2000/film |archive-date=July 17, 2022 |access-date=5 April 2023 |website=BAFTA}}</ref>
+| rowspan="3"| [[53rd British Academy Film Awards|April 9, 2000]]
+| [[BAFTA Award for Best Production Design|Best Production Design]]
+| Rick Heinrichs
+| {{won}}
+|-
+| [[BAFTA Award for Best Costume Design|Best Costume Design]]
+| Colleen Atwood 
+| {{won}}
+|-
+| [[BAFTA Award for Best Special Visual Effects|Best Visual Effects]]
+| Jim Mitchell, Kevin Yagher, [[Joss Williams]], Paddy Eason
+| {{nominated}}
+|-
+| rowspan="11"| [[Academy of Science Fiction, Fantasy and Horror Films]]<ref>{{Cite web |last= |first= |date=2000-03-15 |title='Hollow' carves most Saturn Awards noms |url=https://variety.com/2000/film/news/hollow-carves-most-saturn-awards-noms-1117779482/ |access-date=2023-09-28 |website=Variety |language=en-US}}</ref>
+| rowspan="11"| [[26th Saturn Awards|June 6, 2000]]
+| [[Saturn Award for Best Horror Film|Best Horror Film]]
+| [[Scott Rudin]], [[Adam Schroeder]]
+| {{nominated}}
+|-
+| [[Saturn Award for Best Director|Best Director]]
+| [[Tim Burton]]
+| {{nominated}}
+|-
+| [[Saturn Award for Best Writing|Best Writing]]
+| [[Andrew Kevin Walker]]
+| {{nominated}}
+|-
+| [[Saturn Award for Best Actor|Best Actor]]
+| [[Johnny Depp]]
+| {{nominated}}
+|-
+| [[Saturn Award for Best Actress|Best Actress]]
+| [[Christina Ricci]]
+| {{won}}
+|-
+| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Christopher Walken]]
+| {{nominated}}
+|-
+| [[Saturn Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Miranda Richardson]]
+| {{nominated}}
+|-
+| [[Saturn Award for Best Music|Best Music]]
+| [[Danny Elfman]]
+| {{won}}
+|-
+| [[Saturn Award for Best Costume Design|Best Costume]]
+| Colleen Atwood
+| {{nominated}}
+|-
+| [[Saturn Award for Best Make-up|Best Make-up]]
+| Kevin Yagher, [[Peter Owen (make-up artist)|Peter Owen]]
+| {{nominated}}
+|-
+|  [[Saturn Award for Best Special Effects|Best Special Effects]]
+| Jim Mitchell, Kevin Yagher, Joss Williams, Paddy Eason
+| {{nominated}}
+|-
+
+| rowspan="1"| [[1999 American Society of Cinematographers Awards|American Society of Cinematographers]]<ref>{{cite web |title=The ASC Awards for Outstanding Achievement in Cinematography |url=http://www.theasc.com/asc_news/awards/awards_history.php |url-status=dead |archiveurl=https://web.archive.org/web/20110802060537/http://www.theasc.com/asc_news/awards/awards_history.php |archive-date=2011-08-02 |website=theasc.com}}</ref>
+| rowspan="1"| [[1999 American Society of Cinematographers Awards|February 20, 2000]]
+| [[American Society of Cinematographers Award for Outstanding Achievement in Cinematography in Theatrical Releases|Outstanding Achievement in Cinematography]]
+| Emmanuel Lubezki
+| {{nominated}}
+|-
+| rowspan="1"| [[Art Directors Guild]]<ref>{{cite news |date=February 3, 2000 |title=4th Annual Excellence in Production Design Awards |work=adg.org |url=http://www.adg.org/?art=1999_award |url-status=dead |access-date=March 29, 2016 |archive-url=https://web.archive.org/web/20160325202106/http://www.adg.org/?art=1999_award |archive-date=March 25, 2016}}</ref>
+| rowspan="1"| [[American Society of Cinematographers Award for Outstanding Achievement in Cinematography in Theatrical Releases|February 8, 2000]]
+| [[Art Directors Guild Award for Excellence in Production Design for a Feature Film|Excellence in Production Design for a Feature Film]]
+| Rick Heinrichs, Les Tompkins, [[John Dexter]], Kevin Phipps, John Wright Stevens, Ken Court, [[Andy Nicholson (production designer)|Andrew Nicholson]], Bill Hoes, Julian Ashby, Gary Tompkins, Nick Navarro
+| {{won}}
+|-
+| rowspan="4"| Awards Circuit Community Awards
+| rowspan="4"|1999
+| Best Art Direction
+| Rick Heinrichs
+| {{won}}
+|-
+| Best Costume Design
+| Colleen Atwood
+| {{won}}
+|-
+| Best Sound
+| 
+| {{nom}}
+|-
+| Best Visual Effects
+| 
+| {{nom}}
+|-
+| rowspan="1"| [[Broadcast Music, Inc.|BMI Film & Television Awards]]
+| rowspan="1"| December 8, 2014
+| [[Broadcast Music, Inc.|BMI Film Music Award]]
+| Danny Elfman
+| {{won}}
+|-
+| rowspan="4"| [[6th Blockbuster Entertainment Awards|Blockbuster Entertainment Awards]]<ref>{{cite web |url= https://variety.com/2000/film/news/blockbuster-entertainment-award-winners-1117781474/ |title= Blockbuster Entertainment Award winners |date= May 9, 2000 |website= [[Variety (magazine)|Variety]] |access-date= May 20, 2013 |archive-date= March 3, 2016 |archive-url= https://web.archive.org/web/20160303211107/http://variety.com/2000/film/news/blockbuster-entertainment-award-winners-1117781474/ |url-status= live }}</ref>
+| rowspan="4"| May 9, 2000
+| Favorite Actor – Horror
+| Johnny Depp
+| {{won}}
+|-
+| Favorite Actress – Horror
+| Christina Ricci
+| {{won}}
+|-
+| Favorite Supporting Actress – Horror
+| Miranda Richardson 
+| {{won}}
+|-
+| Favorite Supporting Actor – Horror
+| [[Marc Pickering]]
+| {{nominated}}
+|-
+| rowspan="1"| [[Boston Society of Film Critics Awards 1999|Boston Society of Film Critics Awards]]<ref>{{cite web |url= http://www.thebsfc.org/PastWin.html |title= Past Winners |website=BSFC |archive-url= https://web.archive.org/web/20121011145714/http://www.thebsfc.org/PastWin.html |archive-date= 11 October 2012 |url-status= dead}}</ref>
+| rowspan="1"| [[Boston Society of Film Critics Awards 1999|December 12, 1999]]
+| [[Boston Society of Film Critics Award for Best Cinematography|Best Cinematography]]
+| rowspan="2" |Emmanuel Lubezki
+| {{won}}
+|-
+| rowspan="1"| [[Chicago Film Critics Association Awards 1999|Chicago Film Critics Association]]<ref>{{Cite web |title=Chicago Film Critics Awards 1999 |url=https://www.filmaffinity.com/au/award-edition.php?edition-id=cfca_1999 |access-date=2023-09-28 |website=FilmAffinity}}</ref>
+| rowspan="1"| [[Chicago Film Critics Association Awards 1999|March 13, 2000]]
+| [[Chicago Film Critics Association Award for Best Cinematography|Best Cinematography]]
+| {{nominated}}
+|-
+| rowspan="1"| [[Costume Designers Guild]]<ref>{{cite web|url=http://costumedesignersguild.com/awards/awards-archive/awards2000/|title=Winners of the 2nd Annual Costume Designers Guild Awards|website=HitFix|date=February 25, 2000|access-date=March 29, 2016|archive-date=March 15, 2015|archive-url=https://web.archive.org/web/20150315074210/http://costumedesignersguild.com/awards/awards-archive/awards2000/|url-status=dead}}</ref>
+| rowspan="1"| [[Costume Designers Guild|February 25, 2000]]
+| [[Costume Designers Guild Award for Excellence in Period/Fantasy Film|Excellence in Period/Fantasy Film]]
+| Colleen Atwood
+| {{won}}
+|-
+| rowspan="1"| [[List of film awards|Hollywood Makeup Artist and Hair Stylist Guild Awards]]<ref>{{cite web |last=Ryfle |first=Steve |date=March 19, 2000 |title=Stars Praise Hollywood's Primping Pros |url=http://www.hollywood.com/news/brief/312079/stars-praise-hollywood-s-primping-pros |url-status=dead |archive-url=https://web.archive.org/web/20150105150914/http://www.hollywood.com/news/brief/312079/stars-praise-hollywood-s-primping-pros |archive-date=January 5, 2015 |access-date=March 29, 2016 |website=Hollywood.com}}</ref>
+| rowspan="1"| [[List of film awards|March 19, 2000]]
+| Best Character Makeup – Feature
+| Kevin Yagher, Peter Owen, Liz Tagg, Paul Gooch
+| {{won}}
+|-
+| rowspan="1"| [[International Film Music Critics Association]]<ref>{{cite web |date=February 9, 2012 |title=IFMCA Award nominations 2011 |url=http://filmmusiccritics.org/2012/02/ifmca-award-nominations-2011/ |url-status=live |archive-url=https://web.archive.org/web/20150702125708/http://filmmusiccritics.org/2012/02/ifmca-award-nominations-2011/ |archive-date=July 2, 2015 |access-date=December 24, 2014 |website=[[International Film Music Critics Association]]}}</ref>
+| rowspan="1"| [[International Film Music Critics Association|February 23, 2012]]
+| [[International Film Music Critics Association|Best Archival Release of an Existing Score]]
+| Danny Elfman {{small|(also for ''[[Pee-wee's Big Adventure]]'', ''[[Beetlejuice]]'', ''[[Batman (1989 film)|Batman]]'', ''[[Edward Scissorhands]]'', ''[[The Nightmare Before Christmas]]'', ''[[Big Fish]]'', ''[[Charlie and the Chocolate Factory (film)|Charlie and the Chocolate Factory]]'', ''[[Corpse Bride]]'' and ''[[Alice in Wonderland (2010 film)|Alice in Wonderland]]'')}}
+| {{won}}
+|-
+| rowspan="1"| [[International Film Music Critics Association]]<ref>{{cite web |date= October 18, 2012|title=1999 FMCJ Awards |url=http://filmmusiccritics.org/awards-archive/1999-fmcj-awards/ |access-date=September 28, 2023 |website=[[International Film Music Critics Association]]}}</ref>
+| rowspan="1"| [[International Film Music Critics Association|February 4, 1999]]
+| [[International Film Music Critics Association|Film Score of the Year]]
+| Danny Elfman
+| {{nominated}}
+|-
+| rowspan="1"| [[International Horror Guild Award|International Horror Guild]]<ref>{{cite web|url=http://www.horroraward.org/prevrec.html#1999 |title=IHG Award Recipients |website=[[International Horror Guild]] |date=May 12, 2000 |access-date=March 29, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20141031061140/http://horroraward.org/prevrec.html |archive-date=October 31, 2014}}</ref>
+| rowspan="1"| [[International Horror Guild Award|May 12, 2000]]
+| Best Film
+| 
+| {{nominated}}
+|-
+| rowspan="1"| [[Nastro d'Argento|Italian National Syndicate of Film Journalists]]<ref>{{cite web|url=https://variety.com/2000/film/news/tulips-leads-field-for-italo-crix-awards-1117782242/|title='Tulips' leads field for Italo crix awards|work=[[Variety (magazine)|Variety]]|date=June 6, 2000|access-date=March 29, 2016|archive-date=April 10, 2016|archive-url=https://web.archive.org/web/20160410023003/http://variety.com/2000/film/news/tulips-leads-field-for-italo-crix-awards-1117782242/|url-status=live}}</ref>
+| rowspan="1"| [[Nastro d'Argento|May 12, 2000]]
+| Best Foreign Director
+| Tim Burton
+| {{nominated}}
+|-
+| rowspan="4"| Las Vegas Film Critics Society Awards<ref>{{cite web|url=http://www.lvfcs.org/sierra-award-winners.html|title=Previous Sierra Award Winners|website=Las Vegas Film Critics Society Awards|date=January 18, 2000|access-date=March 29, 2016|archive-date=December 25, 2013|archive-url=https://web.archive.org/web/20131225035112/http://www.lvfcs.org/sierra-award-winners.html|url-status=live}}</ref>
+| rowspan="4"| January 18, 2000
+| Best Score
+| Danny Elfman
+| {{nominated}}
+|-
+| Best Cinematography
+| Emmanuel Lubezki
+| {{nominated}}
+|-
+| Best Costume Design
+| Colleen Atwood 
+| {{nominated}}
+|-
+| rowspan="2" | Best Production Design
+|  rowspan="2" |Rick Heinrichs
+| {{won}}
+|-
+| rowspan="1"| [[Los Angeles Film Critics Association#Awards categories|Los Angeles Film Critics Association Awards]]<ref>{{cite news |date=December 12, 1999 |title='The Insider' Wins Top L.A. Film Critics Award |newspaper=[[Los Angeles Times]] |url=https://www.latimes.com/archives/la-xpm-1999-dec-12-me-43179-story.html |url-status=live |access-date=March 29, 2016 |archive-url=https://web.archive.org/web/20160306091914/http://articles.latimes.com/1999/dec/12/local/me-43179 |archive-date=March 6, 2016}}</ref>
+| rowspan="1"| [[1999 Los Angeles Film Critics Association Awards|December 12, 1999]]
+| {{won}}
+|-
+| rowspan="1"| [[MTV Movie & TV Awards|MTV Movie Awards]]<ref>{{cite web|url=http://www.mtv.com/ontv/movieawards/1999/|title=1999 MTV Movie Awards|website=[[MTV]]|date=June 5, 2000|access-date=March 29, 2016|archive-date=June 30, 2015|archive-url=https://web.archive.org/web/20150630202124/http://www.mtv.com/ontv/movieawards/1999/|url-status=dead}}</ref>
+| rowspan="1"| [[2000 MTV Movie Awards|June 5, 2000]]
+| [[MTV Movie Award for Best Villain|Best Villain]]
+| Christopher Walken
+| {{nominated}}
+|-
+| rowspan="1"| [[Motion Picture Sound Editors]]<ref>{{cite web|url=http://www.btlnews.com/awards/contender-skip-lievsay-sound-mixedit-no-country/|title=Contender-Skip Lievsay-Sound Mix/Edit-No Country|website=BTL News|date=December 15, 2006|access-date=December 15, 2006|archive-date=January 5, 2015|archive-url=https://web.archive.org/web/20150105141803/http://www.btlnews.com/awards/contender-skip-lievsay-sound-mixedit-no-country/|url-status=live}}</ref>
+| rowspan="1"| [[Motion Picture Sound Editors|December 15, 1999]]
+| Best Sound Editing – Effects & Foley
+| [[Skip Lievsay]], Thomas W. Small, Sean Garnhart, Lewis Goldstein, Paul Urmson, [[Craig Berkey]], Richard L. Anderson, [[John Pospisil]], Michael Dressel, Scott Curtis, Matthew Harrison, Tammy Fearing
+| {{nominated}}
+|-
+| rowspan="1"| [[National Society of Film Critics]]<ref>{{cite web|url=https://www.nytimes.com/2000/01/10/movies/malkovich-and-topsy-turvy-tie-for-critics-prize.html|title='Malkovich' and 'Topsy-Turvy' Tie for Critics' Prize|work=[[The New York Times]]|date=January 10, 2000|access-date=March 29, 2016|archive-date=November 27, 2020|archive-url=https://web.archive.org/web/20201127120648/https://www.nytimes.com/2000/01/10/movies/malkovich-and-topsy-turvy-tie-for-critics-prize.html|url-status=live}}</ref>
+| rowspan="1"| [[1999 National Society of Film Critics Awards|January 8, 2000]]
+| [[National Society of Film Critics Award for Best Cinematography|Best Cinematography]]
+| rowspan="2" | Emmanuel Lubezki 
+| {{nominated}}
+|-
+| rowspan="1"| [[New York Film Critics Circle|New York Film Critics Circle Awards]]<ref>{{cite web|url=https://variety.com/1999/film/news/n-y-crix-tap-turvy-tops-1117760117/|title=N.Y. crix tap 'Turvy' tops|work=[[Variety (magazine)|Variety]]|date=December 16, 1999|access-date=March 29, 2016|archive-date=December 1, 2020|archive-url=https://web.archive.org/web/20201201015813/https://variety.com/1999/film/news/n-y-crix-tap-turvy-tops-1117760117/|url-status=live}}</ref>
+| rowspan="1"| [[1999 New York Film Critics Circle Awards|January 9, 2000]]
+| [[New York Film Critics Circle Award for Best Cinematographer|Best Cinematographer]]
+| {{draw|Runner-up}}
+|-
+| rowspan="9"| [[List of film awards|Online Film & Television Association]]<ref>{{cite web|url=http://ofta.cinemasight.com/Awards/Film/1999.html|title=1999: THE YEAR OF American Beauty|website=Online Film & Television Association|date=January 12, 2000|access-date=March 29, 2016|archive-date=August 26, 2014|archive-url=https://web.archive.org/web/20140826174431/http://ofta.cinemasight.com/Awards/Film/1999.html|url-status=dead}}</ref>
+| rowspan="9"| January 12, 2000
+| Best Original Score
+| Danny Elfman
+| {{nominated}}
+|-
+| Best Cinematography
+| Emmanuel Lubezki 
+| {{nominated}}
+|-
+| Best Production Design
+| Rick Heinrichs, Ken Court, John Dexter, Andy Nicholson, Kevin Phipps, [[Leslie Tomkins]], Peter Young
+| {{won}}
+|-
+| Best Costume Design
+| Colleen Atwood
+| {{nominated}}
+|-
+| Best Makeup and Hairstyling
+| Kevin Yagher, [[Peter Owen (make-up artist)|Peter Owen]], Liz Tagg, Paul Gooch, Susan Parkinson, Bernadette Mazur, Tamsin Dorling
+| {{nominated}}
+|-
+| Best Sound Mixing
+| Lee Dichter, Robert Fernandez, Skip Lievsay, [[Frank Morrone]]
+| {{nominated}}
+|-
+| Best Sound Effects
+| Skip Lievsay
+| {{nominated}}
+|-
+| Best Visual Effects
+| James Mitchell, [[Kevin Yagher]], [[Joss Williams]], Paddy Eason  
+| {{nominated}}
+|-
+| Best Official Film Website
+| www.sleepyhollow.com
+| {{nominated}}
+|-
+| [[Online Film Critics Society]]<ref>{{cite web|url=http://www.ofcs.org/awards/1999-awards-3rd-annual/|title=1999 Awards (3rd Annual)|website=[[Online Film Critics Society]]|date=January 2, 2000|access-date=March 29, 2016|archive-date=March 28, 2019|archive-url=https://web.archive.org/web/20190328005831/http://www.ofcs.org/awards/1999-awards-3rd-annual/|url-status=live}}</ref>
+| [[Online Film Critics Society Awards 1999|January 2, 2000]]
+| rowspan="2" | Best Cinematography
+| rowspan="2" |Emmanuel Lubezki 
+| {{won}}
+|-
+| Santa Fe Film Critics Circle Awards<ref>{{cite web|url=http://superforty.com/the-santa-fe-film-critics-circle-awards/|title=The Santa Fe Film Critics Circle Awards|website=Santa Fe Film Critics Circle Awards|date=January 2, 2000|access-date=March 29, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160325051207/http://superforty.com/the-santa-fe-film-critics-circle-awards/|archive-date=March 25, 2016}}</ref>
+| January 9, 2000
+| {{won}}
+|-
+| rowspan="8"| [[Satellite Awards]]<ref>{{Cite web |title=2000 4th Annual SATELLITE™ Awards |url=http://www.pressacademy.com/satawards/awards2000.shtml |url-status=dead |archive-url=https://web.archive.org/web/20110715112958/http://www.pressacademy.com/satawards/awards2000.shtml |archive-date=2011-07-15 |access-date=2023-09-28 |website=[[International Press Academy]]}}</ref>
+| rowspan="8"| [[4th Golden Satellite Awards|January 16, 2000]]
+| [[Satellite Award for Best Actor – Motion Picture|Best Actor – Musical or Comedy]]
+| Johnny Depp
+| {{nominated}}
+|-
+| [[Satellite Award for Best Original Score|Best Original Score]]
+| Danny Elfman
+| {{won}}
+|-
+| [[Satellite Award for Best Cinematography|Best Cinematography]]
+| Emmanuel Lubezki 
+| {{won}}
+|-
+| [[Satellite Award for Best Art Direction and Production Design|Best Art Direction]]
+| Ken Court, John Dexter, Rick Heinrichs and Andy Nicholson
+| {{won}}
+|-
+| [[Satellite Award for Best Costume Design|Best Costume Design]]
+| Colleen Atwood 
+| {{won}}
+|-
+| [[Satellite Award for Best Editing|Best Editing]]
+| [[Chris Lebenzon]]
+| {{nominated}}
+|-
+| [[Satellite Award for Best Sound|Best Sound]]
+| Gary Alpers, Skip Lievsay, Frank Morrone
+| {{won}}
+|-
+| [[Satellite Award for Best Visual Effects|Best Visual Effects]]
+| Jim Mitchell, Joss Williams
+| {{nominated}}
+|-
+| rowspan="1"| [[Teen Choice Awards]]<ref>{{Cite web |title=The Teen Choice Awards 2000 – Movies |url=http://www.fox.com/specials/teenchoice/your/movies.htm |url-status=dead |archive-url=https://web.archive.org/web/20010809223142/http://www.fox.com/specials/teenchoice/your/movies.htm |archive-date=2001-08-09 |access-date=2023-09-28 |website=Fox.com}}</ref>
+| rowspan="1"| [[2000 Teen Choice Awards|August 6, 2000]]
+| Film – Choice Actress
+| rowspan="2" | Christina Ricci
+| {{nominated}}
+|-
+| rowspan="1"| [[Young Artist Award]]<ref>{{cite web|url=http://www.youngartistawards.org/noms21.htm |title=Twentyfirst Annual Young Artist Awards 1998–1999 |website=[[Young Artist Awards]] |date=March 19, 2000 |access-date=March 29, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20120719182252/http://www.youngartistawards.org/noms21.htm |archive-date=July 19, 2012}}</ref>
+| rowspan="1"| [[21st Young Artist Awards|March 19, 2000]]
+| [[Young Artist Award for Best Leading Young Actress in a Feature Film|Best Performance in a Feature Film: Leading Young Actress]]
+| {{nominated}}
+|-
+|}
+
+* [[AFI's 100 Years...100 Thrills]] – Nominated
+* [[AFI's 100 Years...100 Heroes & Villains]]:
+** Headless Horseman – Nominated Villain
+
+==Legacy==
+On June 10, 2022, Paramount announced plans for a reboot of ''Sleepy Hollow'' with Lindsey Beer in talks to write and direct it.<ref>{{Cite web |last=Kroll |first=Justin |date=2022-06-10 |title=Lindsey Beer To Write And Direct A Reboot Of 'Sleepy Hollow' For Paramount |url=https://deadline.com/2022/06/lindsey-beer-sleepy-hollow-paramount-1235042918/ |url-status=live |archive-url=https://web.archive.org/web/20220611020545/https://deadline.com/2022/06/lindsey-beer-sleepy-hollow-paramount-1235042918/ |archive-date=June 11, 2022 |access-date=2022-06-11 |website=Deadline |language=en-US}}</ref>
+
+On July 23, 2025, it was announced IDW Dark will be publishing a sequel in comic book form called ''Return to Sleepy Hollow'', scripted by [[Casey Gilley]] and illustrated by [[Savanna Mayer]].<ref>{{cite magazine |title=Tim Burton's 'Sleepy Hollow' gets a sequel — in comic book form (Exclusive) |magazine=[[Entertainment Weekly]] |url=https://ew.com/sleepy-hollow-sequel-tim-burton-comic-book-return-to-sleepy-hollow-exclusive-11775338}}</ref> The first issue was released on October 29, 2025.<ref>{{cite web |title=Tim Burton's Headless Horseman to Ride Again in 'Sleepy Hollow' Sequel Comic |url=https://bloody-disgusting.com/comics/3889522/tim-burtons-headless-horseman-to-ride-again-in-sleepy-hollow-sequel-comic/}}</ref>
+
+In March of 2026, it was announced that IDW would be publishing a five-issue comic book prequel to the film entitled ''The Witches of the Western Wood'' written by [[Delilah S. Dawson]] with art by [[Jose Jaro]], colors by [[Xenon Honchar]] and lettering by [[LetterSquids]]. The first issue was released on May 6, 2026.<ref>{{cite web |title=Comics‘Sleepy Hollow: The Witches of the Western Wood’ Comic Serves As a Prequel to Tim Burton’s Film |url=https://bloody-disgusting.com/comics/3942651/sleepy-hollow-the-witches-of-the-western-wood-comic-serves-as-a-prequel-to-tim-burtons-film/}}</ref>
+
+==See also==
+{{Portal|Film|1990s}}
+* [[Sleepy Hollow (TV series)|''Sleepy Hollow'' (TV series)]]
+* [[List of ghost films]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book |first1=Tim |last1=Burton |author-link=Tim Burton |editor-first1=Mark |editor-last1=Salisbury |title=Burton on Burton |year=2006 |publisher=[[Faber and Faber]] |isbn=978-0571229260 |url=https://archive.org/details/isbn_2900571229269/mode/2up}}
+* {{cite book|last=Walker|first=Andrew Kevin|author-link=Andrew Kevin Walker|title=The Art of Sleepy Hollow|year=1999|publisher=[[Pocket Books]]|isbn=978-0671036577|url=https://archive.org/details/artofsleepyhollo0000unse/mode/2up}}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title|0162661|title=Sleepy Hollow}}
+* {{TCMDb title|432929|title=Sleepy Hollow}}
+* {{Rotten Tomatoes|sleepy_hollow|title=Sleepy Hollow}}
+* {{Mojo title|sleepyhollow|title=Sleepy Hollow}}
+* {{Metacritic film|title=Sleepy Hollow}}
+* [https://web.archive.org/web/20100330032148/http://www.charlierose.com/view/interview/3995 Tim Burton interview] by [[Charlie Rose]]
+* {{cite magazine |first=Stephen |last=Pizzello |url=https://www.nxtbook.com/nxtbooks/ac/ac199912/index.php#/p/42 |title=Galloping Ghost |magazine=[[American Cinematographer]] |date=December 1999 |volume=80 |pages=38–53}} [http://www.theasc.com/magazine/dec99/sleepy/index.htm (Archived)]
+* {{cite news| first= Tom |last=Kenny | url = http://mixonline.com/mag/audio_sound_fx_sleepy/ | title = Sound FX for 'Sleepy Hollow': Heads Will Roll, Horses Will Run | work = [[Mix (magazine)|Mix]] | date = December 1, 1999 | url-status=dead | archive-url = https://web.archive.org/web/20120912142304/http://mixonline.com/mag/audio_sound_fx_sleepy/ | archive-date = September 12, 2012 | df = mdy-all }}
+
+{{Tim Burton}}
+{{Andrew Kevin Walker}}
+{{Sleepy Hollow}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sleepy Hollow (Film)}}
+[[Category:1999 films]]
+[[Category:1999 American films]]
+[[Category:1990s dark fantasy films]]
+[[Category:1999 English-language films]]
+[[Category:1999 German films]]
+[[Category:1990s ghost films]]
+[[Category:1999 supernatural films]]
+[[Category:1999 horror thriller films]]
+[[Category:1990s mystery horror films]]
+[[Category:1999 mystery films]]
+[[Category:1990s police films]]
+[[Category:1990s serial killer films]]
+[[Category:1999 supernatural horror films]]
+[[Category:1990s historical horror films]]
+[[Category:American dark fantasy films]]
+[[Category:American films about Halloween]]
+[[Category:American films about revenge]]
+[[Category:American ghost films]]
+[[Category:American mystery horror films]]
+[[Category:American police detective films]]
+[[Category:American serial killer films]]
+[[Category:American supernatural horror films]]
+[[Category:American slasher films]]
+[[Category:American Zoetrope films]]
+[[Category:BAFTA winners (films)]]
+[[Category:American crime horror films]]
+[[Category:1990s crime horror films]]
+[[Category:English-language crime films]]
+[[Category:English-language fantasy films]]
+[[Category:English-language horror thriller films]]
+[[Category:English-language mystery horror films]]
+[[Category:German fantasy films]]
+[[Category:German ghost films]]
+[[Category:German mystery films]]
+[[Category:German supernatural horror films]]
+[[Category:German slasher films]]
+[[Category:Films about grave-robbing]]
+[[Category:Films about inheritances]]
+[[Category:Films about legendary creatures]]
+[[Category:Films about necromancy]]
+[[Category:Films about Satanism]]
+[[Category:Films about siblicide]]
+[[Category:Films about uxoricide]]
+[[Category:Films about witchcraft]]
+[[Category:Films based on The Legend of Sleepy Hollow]]
+[[Category:Films directed by Tim Burton]]
+[[Category:Films produced by Scott Rudin]]
+[[Category:Films scored by Danny Elfman]]
+[[Category:Films set in 1799]]
+[[Category:Films set in Manhattan]]
+[[Category:Films set in Westchester County, New York]]
+[[Category:Films shot at Shepperton Studios]]
+[[Category:Films shot at Warner Bros. Studios Leavesden]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films with screenplays by Andrew Kevin Walker]]
+[[Category:1990s folk horror films]]
+[[Category:1990s gothic horror films]]
+[[Category:Halloween horror films]]
+[[Category:Mandalay Pictures films]]
+[[Category:Paramount Pictures films]]
+[[Category:Romantic period films]]
+[[Category:Satellite Award–winning films]]
+[[Category:Saturn Award–winning films]]
+[[Category:Summit Entertainment films]]
+[[Category:German crime horror films]]
+[[Category:English-language supernatural horror films]]

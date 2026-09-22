@@ -1,0 +1,124 @@
+{{Short description|2024 documentary directed by Wang Bing}}
+{{Italic title|all=yes}}
+{{Infobox film
+| name           = Youth (Hard Times)
+| image          = Youth (Hard Times) 2024 film poster.jpg
+| alt            = 
+| caption        = Promotional release poster
+| native_name    = {{Infobox name module|Chinese|青春：苦}} 
+| director       = [[Wang Bing (director)|Wang Bing]]
+| producer       = {{Plainlist|
+* Sonia Buchman
+* Mao Hui
+* Nicolas R. de la Mothe
+* Vincent Wang
+}}
+| cinematography = {{Plainlist|
+* Shan Xiaohui
+* Song Yang
+* Ding Bihan
+* Liu Xianhui
+* Maeda Yoshitaka
+* Wang Bing
+}}
+| editing        = {{Plainlist|
+* Dominique Auvray
+* Xu Bingyuan
+* Liyo Gong
+}}
+| music          = 
+| studio         = {{Plainlist|
+* House on Fire
+* Gladys Glover
+* CS Production
+* [[Arte France Cinéma]]
+* Les Films Fauves
+* Volya Films
+* Eastern-Lion Pictures and Culture Media Co.
+* Beijing Contemporary Art Foundation
+* Le Fresnoy
+}}
+| distributor    = 
+| released       = {{Film date|df=y|2024|08|13|[[77th Locarno Film Festival|Locarno]]|ref1=<ref name="lff">{{cite web |title=Qing chun (Ku) |url=https://www.locarnofestival.ch/festival/program/film.html?fid=ab81cdc6-55f5-4bf6-90f7-f819b0706e72&eid= |website=Locarno Film Festival |access-date=24 July 2024 |archive-date=24 July 2024 |archive-url=https://web.archive.org/web/20240724160350/https://www.locarnofestival.ch/festival/program/film.html?fid=ab81cdc6-55f5-4bf6-90f7-f819b0706e72&eid= |url-status=live }}</ref>}}
+| runtime        = 227 minutes
+| country        = {{Plainlist|
+* China
+* France
+* Luxembourg
+* Netherlands
+}}
+| language       = Mandarin
+| budget         = 
+| gross          = 
+| italic_title   = no<!-- The following line ensures that "(Spring)" appears in italic font. This is the correct typesetting in this case, because "(Homecoming)" is actually part of the film title...not an editorial note. -->
+}}
+'''''Youth (Hard Times)''''' ({{lang-zh|c=青春：苦|p=qīng chūn ku}}) is a 2024 [[documentary film]] directed by [[Wang Bing (director)|Wang Bing]]. It is the second entry in the director's ''Youth'' trilogy, about young Chinese [[textile industry]] workers, after the 2023 documentary ''[[Youth (Spring)]].''
+
+The film had its world premiere at the International Competition of the [[77th Locarno Film Festival]], where it competed for the Golden Leopard, and was awarded a Special Mention and the [[FIPRESCI|FIPRESCI Prize]]. It was followed by ''[[Youth (Homecoming)]]'', also released in 2024.
+
+== Premise ==
+Tensions surface between workers and factory owners in multiple textile workshops in [[Zhili (province)|Zhili]].<ref name="lff" />
+
+== Release ==
+''Youth (Hard Times)'' premiered on 13 August 2024 at the [[Locarno Film Festival]].<ref name="lff" /> The third and final installment in the trilogy, ''[[Youth (Homecoming)]]'', debuted at the [[81st Venice International Film Festival]] in September 2024.<ref>{{cite news |last1=Roberts |first1=Duncan |title=Luxembourg co-production makes history with Venice selection |url=https://www.luxtimes.lu/culture/luxembourg-co-production-makes-history-with-venice-selection/16477553.html |access-date=24 July 2024 |agency=[[Luxemburger Wort|Luxembourg Times]]}}</ref>
+
+== Reception ==
+=== Critical response ===
+{{Rotten Tomatoes prose|94||16|consensus=|ref=yes|access-date=March 29, 2026}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 84 out of 100, based on 8 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''Youth'' |url=https://www.metacritic.com/movie/youth-hard-times |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=March 29, 2026 |archive-url= |archive-date= |url-status=}}</ref>
+
+=== Accolades ===
+{| class="wikitable sortable plainrowheaders"
+! scope="col" | Award
+! scope="col" | Ceremony date
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable" | {{Abbr|Ref.|Reference(s)}}
+|-
+! scope="row" rowspan="3" | [[Locarno Film Festival]]
+| rowspan="3" | [[77th Locarno Film Festival|17 August 2024]]
+| [[Golden Leopard]]
+| rowspan="4" | ''Youth (Hard Times)''
+| {{Runner-up|Special mention}}
+| align="center" | <ref name="lff" /><ref name="lff24">{{cite web |title=Locarno77: The Pardo d'Oro goes to Akiplėša (Toxic) by Saulė Bliuvaitė, a striking vision of the teenage female body as a battleground |url=https://www.locarnofestival.ch/press/press-releases/2024/palmares-locarno77-pardo-d-oro-to-akiplesa.html |website=[[Locarno Film Festival]] |access-date=19 August 2024 |archive-date=17 August 2024 |archive-url=https://web.archive.org/web/20240817213653/https://www.locarnofestival.ch/press/press-releases/2024/palmares-locarno77-pardo-d-oro-to-akiplesa.html |url-status=live }}</ref>
+|-
+| [[FIPRESCI|FIPRESCI Prize]]
+| {{Won}}
+| rowspan="2" align="center" | <ref name="prize">{{cite news |last1=Lodge |first1=Guy |title=Lithuanian Teen Drama 'Toxic' Wins Big at Locarno Film Festival |url=https://variety.com/2024/film/news/lithuanian-teen-drama-toxic-wins-at-locarno-film-festival-1236109849/ |access-date=27 August 2024 |agency=[[Variety (magazine)|Variety]] |archive-date=17 August 2024 |archive-url=https://web.archive.org/web/20240817142910/https://variety.com/2024/film/news/lithuanian-teen-drama-toxic-wins-at-locarno-film-festival-1236109849/ |url-status=live }}</ref>
+|-
+| Junior Jury Award, Environment is Quality of Life Prize
+| {{Won}}
+|-
+! scope="row" | [[Golden Horse Film Festival and Awards|Taipei Golden Horse Awards]]
+| [[61st Golden Horse Awards|23 November 2024]]
+| [[Golden Horse Award for Best Documentary Feature|Best Documentary Feature]]
+| {{nom}}
+| align="center" | <ref>{{Cite web |last=Wong |first=Silvia |title='Dead Talents Society' leads Taiwan's Golden Horse Awards nominations |url=https://www.screendaily.com/news/dead-talents-society-leads-taiwans-golden-horse-awards-nominations/5197768.article |date=2024-10-03 |access-date=2024-10-04 |website=[[Screen International]] |language=en |archive-date=2024-10-03 |archive-url=https://web.archive.org/web/20241003144246/https://www.screendaily.com/news/dead-talents-society-leads-taiwans-golden-horse-awards-nominations/5197768.article |url-status=live }}</ref>
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IMDb title|tt33029373|Youth (Hard Times)}}
+
+{{Wang Bing}}
+{{Portal bar|China|France|Luxembourg|Netherlands|Film|2020s}}
+
+[[Category:2024 films]]
+[[Category:2024 Chinese films]]
+[[Category:2024 French films]]
+[[Category:2024 Luxembourgian films]]
+[[Category:2024 Dutch films]]
+[[Category:2024 documentary films]]
+[[Category:2024 Mandarin-language films]]
+[[Category:Films directed by Wang Bing]]
+[[Category:Chinese documentary films]]
+[[Category:French documentary films]]
+[[Category:Luxembourgian documentary films]]
+[[Category:Dutch documentary films]]
+[[Category:Films about labour]]
+[[Category:Films about social issues]]
+[[Category:Films set in factories]]
+[[Category:Arte France Cinéma films]]
+[[Category:Films shot in Zhejiang]]

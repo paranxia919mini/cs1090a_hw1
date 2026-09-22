@@ -1,0 +1,82 @@
+{{short description|2018 film by Hong Sang-soo}}
+{{Infobox film
+| name           = Grass
+| image          = Grass (2018).jpg
+| alt            = 
+| caption        = Theatrical release poster
+| native_name      = {{Infobox Korean film name
+| hangul      = ^풀잎들
+| lk = }}
+| director       = [[Hong Sang-soo]]
+| producer       = Hong Sang-soo
+| writer         = Hong Sang-soo
+| starring       = [[Kim Min-hee (actress, born 1982)|Kim Min-hee]]<br />[[Jung Jin-young (actor)|Jung Jin-young]]<br />[[Gi Ju-bong]] 
+| music          = Andrew Orkin
+| cinematography = Kim Hyung-koo
+| editing        = Son Yeon-ji
+| studio         = Jeonwonsa Film 
+| distributor    = Jeonwonsa Film<br />Contents Panda<br />Movement
+| released       = {{film date|2018|02|16|[[68th Berlin International Film Festival|Berlin]]|2018|10|25|South Korea}}
+| runtime        = 66 minutes
+| country        = South Korea
+| language       = Korean
+| budget         = 
+| gross          = {{USD|29,976}}<ref>{{cite web |title=Grass (2018) |url=http://koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20180401 |website=Korean Film Biz Zone}}</ref>
+}}
+'''''Grass''''' ({{Korean/auto|hangul=^풀잎들|rr=yes}}) is a 2018 South Korean [[drama film]] written, produced, and directed by [[Hong Sang-soo]].<ref>{{cite web|script-title=ko:풀잎들|url=https://movie.naver.com/movie/bi/mi/basic.nhn?code=167647|website=[[Naver]]|language=ko}}</ref><ref name="grass">{{cite web|title=Grass (2018)|url=http://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20180401|website=Korean Film Biz Zone}}</ref> It was released theatrically on October 25, 2018.<ref name="release">{{cite web|script-title=ko:홍상수x김민희 '풀잎들', BIFF 공식 일정 성료..25일 국내 개봉|url=http://www.osen.co.kr/article/G1111007289|website=[[Osen (newspaper)|OSEN]]|date=17 October 2018|language=ko}}</ref>
+
+==Premise==
+The story about a patron of a Seoul café who observes her fellow customers as they while away their days, drawing inspiration from their conversations for her writing.<ref name="berlin">{{cite web|title=Critics Embrace Hong's Intimate 22nd Work GRASS in Berlin|url=https://www.koreanfilm.or.kr/eng/news/news.jsp?pageIndex=2&blbdComCd=601006&seq=4709&mode=VIEW&returnUrl=&searchKeyword=|website=Korean Film Biz Zone|date=17 October 2018}}</ref><ref name="grass"/>
+
+==Cast==
+*[[Kim Min-hee (actress, born 1982)|Kim Min-hee]] as A-reum 
+*[[Jung Jin-young (actor)|Jung Jin-young]] as Kyung-soo 
+*[[Gi Ju-bong]] as Chang-soo
+*Seo Young-hwa as Sung-hwa 
+*[[Kim Sae-byuk]] as Ji-young
+*[[Ahn Jae-hong (actor)|Ahn Jae-hong]] as Hong-soo
+*[[Gong Min-jeung]] as Mi-na
+*Ahn Sun-young as Yeonju
+*Shin Seok-ho as Jinho
+*Kim Myung-soo as Jaemyung
+*[[Lee Yoo-young]]<ref name="Variety"/> as Soonyoung
+
+==Awards and nominations==
+{| class="wikitable"
+|-
+! Year
+! Award
+! Category
+! Recipient
+! Result
+|-
+| 2019 || [[6th Wildflower Film Awards]]<ref>{{cite web|first=Patrick|last=Frater|title=''Remnants'' Documentary Wins Korea's Wildflower Awards|url=https://variety.com/2019/film/asia/remnants-documentary-wins-korea-wildflower-awards-1203189571/|publisher=[[Variety (magazine)|Variety]]|accessdate=21 April 2019|date=15 April 2019}}</ref> || Best Supporting Actress || [[Kim Sae-byuk]] || {{won}}
+|}
+
+==Production==
+Principal photography began on September 7, 2017, and wrapped on September 21, 2017.<ref>{{cite web|script-title=ko:풀잎들|url=http://www.kobiz.or.kr/new/kor/01_bizmatching/movieInfo/movie_view.jsp?movieCd=20180401|website=Korean Film Biz Zone|language=ko|access-date=2018-10-17|archive-date=2018-10-17|archive-url=https://web.archive.org/web/20181017203027/http://www.kobiz.or.kr/new/kor/01_bizmatching/movieInfo/movie_view.jsp?movieCd=20180401|url-status=dead}}</ref>
+
+The film marks the sixth collaboration between actress [[Kim Min-hee (actress, born 1982)|Kim Min-hee]] and director [[Hong Sang-soo]].<ref name="berlin"/>
+
+==Release==
+The film premiered at the [[68th Berlin International Film Festival]] on February 16, 2018.<ref name="Variety">{{cite web|last1=Kiang|first1=Jessica|title=Berlin Film Review: 'Grass'|url=https://variety.com/2018/film/festivals/grass-review-berlinale-2018-1202686998/|website=[[Variety (magazine)|Variety]]|date=16 February 2018}}</ref><ref>{{cite web|last1=Ehrlich|first1=David|title='Grass' Review: Hong Sang-soo's First Movie of 2018 Is a Beguiling 66-Minute Charmer for Hardcore Fans Only — Berlinale 2018|url=http://www.indiewire.com/2018/02/grass-review-hong-sang-soo-kim-min-hee-1201931859/|website=[[IndieWire]]|date=23 February 2018}}</ref> In early October 2018, the film was screened in the "Korean Cinema Today – Panorama" program of the [[23rd Busan International Film Festival]].<ref name="release"/>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{hancinema film|Grass}}
+*{{IMDb title|7913172}}
+*''[http://movie.naver.com/movie/bi/mi/basic.nhn?code=167647 Grass]'' at [[Naver|Naver Movies]] {{in lang|ko}}
+
+{{Hong Sang-soo}}
+
+[[Category:2018 films]]
+[[Category:2018 black-and-white films]]
+[[Category:2018 drama films]]
+[[Category:Films directed by Hong Sang-soo]]
+[[Category:South Korean black-and-white films]]
+[[Category:South Korean drama films]]
+[[Category:2018 South Korean films]]
+[[Category:2018 Korean-language films]]
+[[Category:Korean-language drama films]]

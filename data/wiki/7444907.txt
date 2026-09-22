@@ -1,0 +1,177 @@
+{{Short description|1991 film by Todd Haynes}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=January 2025}}
+{{Infobox film
+| name           = Poison
+| image          = Poison-Haynes.jpg
+| alt            = 
+| caption        = DVD cover
+| director       = [[Todd Haynes]]
+| producer       = {{Plainlist|
+* [[Christine Vachon]]
+}}<!-- Producers only, not executive producers, line producers, etc -->
+| screenplay     = Todd Haynes
+| based_on       = Three novels<br>by [[Jean Genet]]{{unbulleted list|''[[Our Lady of the Flowers]]'' (1943)|''[[Miracle of the Rose]]'' (1946)|''[[The Thief's Journal|Thief's Journal]]'' (1949)}}
+| narrator       = Richard Hansen
+| starring       = {{Plainlist|
+* Edith Meeks
+* Larry Maxwell
+* Susan Gayle Norman
+* Scott Renderer
+* John Leguizamo
+* [[James Lyons (film editor)|James Lyons]]
+}}<!--PER POSTER BILLING BLOCK-->
+| music          = James Bennett
+| cinematography = [[Maryse Alberti]]
+| editing        = {{Plainlist|
+*  Todd Haynes
+* [[James Lyons (film editor)|James Lyons]]
+}}
+| studio         = {{Plainlist|
+* [[Killer Films]]
+* Bronze Eye Productions
+}}
+| distributor    = [[Zeitgeist Films]]
+| released       = {{Film date|1991|01|11|[[Sundance Film Festival|Sundance]]|1991|04|05|United States}}
+| runtime        = 85 minutes<!--Theatrical runtime: 85:29--><ref>{{cite web |title=''Poison'' (18) |url=http://www.bbfc.co.uk/releases/poison-1970 |work=[[British Board of Film Classification]] |date=August 15, 1991 |access-date=September 9, 2026 |archive-url=https://web.archive.org/web/20160305135109/http://www.bbfc.co.uk/releases/poison-1970 |url-status=dead |archive-date=March 5, 2016}}</ref>
+| country        = United States
+| language       = English
+| budget         = $250,000<ref>{{cite web|url=https://www.nytimes.com/1998/11/08/movies/film-focusing-on-glam-rock-s-blurring-of-identity.html?_r=0|title=Focusing on Glam Rock's Blurring of Identity|website=[[The New York Times]]|first=Stephen|last=Holden|authorlink=Stephen Holden|date=November 8, 1998|access-date=October 23, 2016|archive-date=September 9, 2023|archive-url=https://web.archive.org/web/20230909221954/https://www.nytimes.com/1998/11/08/movies/film-focusing-on-glam-rock-s-blurring-of-identity.html?_r=0|url-status=live}}</ref>
+| gross          = $787,280<ref>{{mojo title|poison|Poison}}</ref>
+}}
+'''''Poison''''' is a 1991 American [[Science fiction film|science fiction]] [[Drama film|drama]] [[horror film]] written and directed by [[Todd Haynes]], starring Edith Meeks, Larry Maxwell, Susan Gayle Norman, Scott Renderer, and [[James Lyons (film editor)|James Lyons]].
+
+Composed of three intercut narratives inspired by the novels of [[Jean Genet]], the [[gay]] themes in ''Poison'' marked an emerging "[[New queer cinema|queer new wave]]" in cinema. The film received generally positive reviews.
+
+==Plot==
+Three stories intertwine throughout the film, named in the closing credits:<ref name=":0" />
+* ''Hero'': A seven-year-old, Richie Beacon, shoots his abusive father and then flies away, depicted in the style of a 1980s [[tabloid television]] [[news magazine]].
+* ''Horror'': A scientist, Dr. Graves, isolates the "[[elixir]] of human sexuality" and, after drinking it, is transformed into a murderous [[leper]], portrayed in the style of a [[Psychedelic film|psychotropic]] 1960s sci-fi horror [[B movie]].
+* ''Homo'': A prisoner, John Broom finds himself attracted to another inmate, reunited after meeting as youth in a [[Youth detention center|juvenile facility]], with scenes alternating between a gritty [[prison film]] and recollections evoked as pastoral [[fantasy]].
+
+This film is a work of [[Experimental film|experimental]], [[Transgressive art|transgressive]] fiction, which lacks a clear plot, but brings up themes of isolation, violence, and social rejection, and, in the case of “Homo”, homosexuality. There is also an implicit critique of the role of media in editing and denaturing reality, through the juxtapositions of three narrative styles: newscasts, horror movies, and melodrama.
+
+In “Hero”, Richie Beacon is bullied by those his age, beaten by his father, and then pathologized by his community during talking heads interview segments. In “Horror”, Dr. Graves is chased out of town by an angry mob. In “Homo”, John Broom falls into an intense, consuming relationship with a fellow inmate named Jack Bolton.<ref name=":0">{{Cite web |last=Spicer |first=Lucy |date=10 April 2023 |title=Transcendent Transgression: Looking Back at Todd Haynes’ “Poison” |url=https://www.sundance.org/blogs/transcendent-transgression-looking-back-at-todd-haynes-poison/ |url-status=live |access-date=31 May 2026 |website=Sundance Institute |archive-date=December 21, 2023 |archive-url=https://web.archive.org/web/20231221161917/https://www.sundance.org/blogs/transcendent-transgression-looking-back-at-todd-haynes-poison/ }}</ref>
+
+The movie closes with a quote from Jean Genet's ''Funeral Rights: “A man must dream a long time in order to act with grandeur, and dreaming is nursed in darkness.”<ref name=":0" />''
+
+==Cast==
+Segment: ''Hero''
+{{Cast list|
+* Edith Meeks as Felicia Beacon
+* Millie White as Millie Sklar
+* Buck Smith as Gregory Lazar
+* Anne Giotta as Evelyn McAlpert
+* Lydia Lafleur as Sylvia Manning
+* Ian Nemser as Sean White
+* Rob LaBelle as Jay Wete
+* [[Evan Dunsky]] as Dr. MacArthur
+* Marina Lutz as Hazel Lamprecht
+* Barry Cassidy as Officer Rilt
+* [[Richard Anthony (singer)|Richard Anthony]] as Edward Comacho
+* Angela M. Schreiber as Florence Giddens
+}}
+
+Segment: ''Horror''
+{{castlist|
+* Larry Maxwell as Dr. Graves
+* Susan Gayle Norman as Dr. Nancy Olsen
+* Al Quagliata as Deputy Hansen
+}}
+
+Segment: ''Homo''
+{{castlist|
+* Scott Renderer as John Broom 
+* [[James Lyons (film editor)|James Lyons]] as Jack Bolton
+* John R. Lombardi as Rass
+* Tony Pemberton as Young Broom
+* Andrew Harpending as Young Bolton
+* [[John Leguizamo]] (credited 'Damien Garcia') as Chanchi
+}}
+
+== Conception ==
+Each section is loosely inspired by a work of French writer [[Jean Genet]]. Most notably, "Homo" is a from the 1946 semi-autobiographical book ''[[Miracle of the Rose]]'' and its non-linear writing style.<ref name=":0" />
+
+== Themes ==
+
+=== Queerness and Politics ===
+In both ''Hero'' and ''Homo'', ''Poison'' directly creates a connection between Queerness and what is perceived as criminal. Film critic [[Jonathan Rosenbaum]], in his 1991 review of the film for the Chicago Reader, interpreted the film's first line, "The whole world is dying of a panicky fright", as part of its social critiques.<ref name=":02">{{Cite web |title=Crimes of Passion [POISON] {{!}} Jonathan Rosenbaum |url=https://jonathanrosenbaum.net/2024/03/crimes-of-passion/ |access-date=2026-06-01 |website=jonathanrosenbaum.net |archive-date=February 12, 2026 |archive-url=https://web.archive.org/web/20260212115530/https://jonathanrosenbaum.net/2024/03/crimes-of-passion/ |url-status=live }}</ref>
+
+Jean Genet's influence on the film is also a part of this usage of crime as a theme, with ''Homo'' being a loose adaptation of the Jean Genet novel ''[[Miracle of the Rose|The Miracle of the Rose]].''<ref>{{Citation |last=Deuber-Mankowsky |first=Astrid |title=Autoimmunity and Sexual Difference in Todd Haynes's Films Superstar: The Karen Carpenter Story, Poison, and Safe |date=2025 |work=Queer Post-Cinema: Reinventing Resistance |pages=27–52 |url=https://doi.org/10.37050/ci-32_1 |access-date=2026-06-01 |place=Berlin |publisher=ICI Berlin Press |language=en-GB |doi=10.37050/ci-32/todd-haynes.html}}</ref> Genet frequently wrote about the sexual elements to crime and the sexual impulses behind it, writing, "I was hot for crime."<ref>{{Cite book |last=Genet |first=Jean |title=The Thief's Journal |year=1949}}</ref> In an interview with Film Quarterly in 1993, Haynes stated, on Genet's influence: “Genet wrote about a strangely united political and erotic charge that he experienced with regard to homosexuality that was violent, that was based on upsetting the norm and not about finding a nice safe space that society will give you.”<ref>{{Cite journal |last=Wyatt |first=Justin |last2=Haynes |first2=Todd |date=1993-04-01 |title=Cinematic/Sexual Transgression: An Interview with Todd Haynes |url=https://online.ucpress.edu/fq/article/46/3/2/41030/CinematicSexual-Transgression-An-Interview-with |journal=Film Quarterly |language=en |volume=46 |issue=3 |pages=2–8 |doi=10.2307/1212898 |issn=0015-1386}}</ref>
+
+=== HIV/AIDS and the Body ===
+The story of ''Horror'' has been interpreted by many scholars as a direct allegory for the [[HIV/AIDS]] epidemic: Dr. Graves, the scientist at its core, becomes a social pariah and stigmatized after becoming infected, connecting this illness, stigmatization, and his sexuality.<ref>{{Cite web |last=Hartman |first=Andy |date=2013-11-01 |title=Structural/Sexual Transgression: Todd Haynes' Poison as a Critique of Homonormativity |url=https://brightlightsfilm.com/structural-sexual-transgression-todd-haynes-poison-as-a-critique-of-homonormativity/ |access-date=2026-06-01 |website=Bright Lights Film Journal |language=en-US}}</ref> Rosenbaum wrote that the film in its entirety can be seen as a direct allusion to HIV/AIDS, and other scholars have noted that the wedding scene in ''Homo'' and its inclusion of exchanging fluids could also be taken as a direct reference to the contraction of HIV/AIDS.<ref name=":0" /><ref name=":02" />
+
+Throughout the film, the body of each of the stories core figures is also central to the plot itself. Outside of ''Horror''<nowiki/>'s direct exploration of body horror and the morphing of one's body, ''Homo''<nowiki/>'s portrayals of sexuality and exploration of the male body is through trapped men and their bodies in prison, and the main character of Richie's flying out the window in ''Hero'' can be interpreted as a sort of escaping from one's body.<ref>{{Cite web |title=On the Margins: Todd Haynes’s Poison |url=https://www.criterion.com/current/posts/7418-on-the-margins-todd-haynes-s-poison |access-date=2026-06-01 |website=The Criterion Collection |language=en}}</ref>
+
+=== Acceptance and Rejection ===
+
+Despite rejection from wider society, each story has a character who is able to persist as long as they do thanks to the acceptance of them as they are by an individual. While "''Horror''" and "''Homo''" do this through romantic and/or sexual love, their stories both end in tragic ways. However, Richie, the child, experiences unbridled love and acceptance by his mother. Once he kills his abusive father, his mother still calls him her "baby." It is only after this that Richie is able to fly away, and his mother becomes his steadfast defender in the documentary segments. The final scene depicts the moment Richie flies away from a first person point of view, leaving the viewing with a bittersweet but hopeful ending to the child's story.
+
+==Release==
+After a world premiere at the [[Sundance Film Festival]] on January 11, 1991,<ref>{{cite web|url=https://www.nytimes.com/2010/11/07/movies/07poison.html|title=When 'Poison' Was a Cinematic Antidote|website=[[The New York Times]]|first=Dennis|last=Lim|date=November 5, 2010|access-date=October 23, 2016|archive-date=September 16, 2018|archive-url=https://web.archive.org/web/20180916235348/https://www.nytimes.com/2010/11/07/movies/07poison.html|url-status=live}}</ref> [[Zeitgeist Films]] acquired distribution rights,<ref>{{cite web|url=http://www.indiewire.com/2008/06/zeitgeist-films-at-20-years-building-a-boutique-brand-72145/|title=Zeitgeist Films at 20 Years: Building a Boutique Brand|website=[[Indiewire.com]]|first=Eugene|last=Herandez|date=June 26, 2008|access-date=October 23, 2016}}</ref> giving ''Poison'' a [[limited release]] starting April 5, 1991.<ref>{{cite web|url=https://www.nytimes.com/movie/review?res=9D0CE4D6163BF936A35757C0A967958260|title=Review/Film; 'Poison,' Three Stories Inspired by Jean Genet|website=[[The New York Times]]|first=Vincent|last=Canby|date=April 5, 1991|access-date=October 23, 2016}}</ref> The Motion Picture Association of America gave the movie an NC-17 rating due to its "explicit sexuality"<ref name=":0" /> with some critics even catting it "soft-porn"<ref name=":1">{{Cite web |last=Snow |first=Mat |date=1 January 2000 |title=Poison |url=https://www.empireonline.com/movies/reviews/poison-review/ |url-status=live |access-date=31 May 2026 |website=Empire}}</ref>
+
+===Controversy===
+U.S. [[culture war]] conservatives such as Senator [[Jesse Helms]] and Rev. [[Donald Wildmon]] of the [[American Family Association]] denounced the "explicit porno scenes of homosexuals involved in [[anal sex]]".<ref>{{cite web|first=Michael|last=Koresky|url=https://www.criterion.com/current/posts/7418-on-the-margins-todd-hayness-poison|title=On the Margins: Todd Haynes's Poison|website=[[The Criterion Collection]]|date=June 11, 2021|accessdate=April 15, 2024}}</ref><ref>{{cite web|first=Maohai|last=Deng|url=https://www.sensesofcinema.com/2015/cteq/poison/|title=Poison|website=Senses of Cinema|date=March 2015|accessdate=April 15, 2024|archive-date=April 20, 2024|archive-url=https://web.archive.org/web/20240420140638/https://www.sensesofcinema.com/2015/cteq/poison/|url-status=live}}</ref> It also received controversy as the [[National Endowment for the Arts]], an independent government agency, donated $25,000 towards the cost of editing.<ref name=":1" /><ref name=":2">{{Cite web |last=Ansen |first=David |date=28 April 1991 |title='Poison' Doesn't Go Down Easy |url=https://www.newsweek.com/poison-doesnt-go-down-easy-202336 |url-status=live |access-date=31 May 2026 |website=Newsweek}}</ref> Then chairman of the NEA, John Frohnmayer, defended the movie as "the work of a serious artist."<ref name=":2" />
+
+==Reception==
+The film received generally positive reviews. {{Rotten Tomatoes prose|80|7.3|25|Claustrophobic and quirky horror, this is a decently dirty debut for director Todd Haynes.|ref=yes|access-date=July 30, 2024}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 67 out of 100, based on 18 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Poison'' |url=https://www.metacritic.com/movie/poison-1991 |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=July 30, 2024 |archive-url= |archive-date= |url-status=}}</ref>
+
+==Awards and nominations==
+* [[Berlin International Film Festival]] [[Teddy Award]] for Best Feature Film, 1991 (winner)
+* [[Fantasporto]] Critics' Award, 1992 (winner); International Fantasy Film Award Best Film, 1992 (nominated)
+* [[Independent Spirit Awards]] Best Director, 1992 (nominated); Best First Feature, 1992 (nominated)
+* [[Locarno International Film Festival]] Golden Leopard, 1991 (nominated)
+* [[Sitges - Catalan International Film Festival]] Special Prize of the Jury, 1991, "For keeping the subversive values inherent to any genuine poetry in force"
+* [[Sundance Film Festival]] Grand Jury Prize - Dramatic, 1991 (winner)
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0102687|Poison}}
+* {{mojo title|poison|Poison}}
+* {{rotten-tomatoes|1037447-poison|Poison}}
+* {{Metacritic film|title=Poison}}
+
+{{s-start}}
+{{s-ach|aw}}
+{{succession box
+| title=[[List of Sundance Film Festival award winners|Sundance Grand Jury Prize: U.S. Dramatic]]
+| years=1991
+| before=''[[Chameleon Street]]''
+| after=''[[In the Soup]]''}}
+{{end}}
+{{Todd Haynes}}
+{{Sundance Grand Jury Prize Dramatic}}
+{{Teddy Award for Best Film}}
+
+[[Category:1991 films]]
+[[Category:1991 drama films]]
+[[Category:1991 LGBTQ-related films]]
+[[Category:1991 independent films]]
+[[Category:1991 science fiction horror films]]
+[[Category:1990s science fiction drama films]]
+[[Category:1990s satirical films]]
+[[Category:American independent films]]
+[[Category:American drama films]]
+[[Category:American gay-related films]]
+[[Category:American satirical films]]
+[[Category:American science fiction horror films]]
+[[Category:1991 English-language films]]
+[[Category:Films directed by Todd Haynes]]
+[[Category:Films based on French novels]]
+[[Category:Sundance Film Festival award–winning films]]
+[[Category:LGBTQ-related horror drama films]]
+[[Category:1990s LGBTQ-related horror films]]
+[[Category:Films produced by Christine Vachon]]
+[[Category:Killer Films films]]
+[[Category:LGBTQ-related science fiction horror films]]
+[[Category:Films about patricide]]
+[[Category:1991 American films]]
+[[Category:English-language science fiction horror films]]
+[[Category:English-language independent films]]
+[[Category:Films based on works by Jean Genet]]
+[[Category:English-language drama films]]
+[[Category:Films distributed by Zeitgeist Films]]
+[[Category:English-language satirical films]]

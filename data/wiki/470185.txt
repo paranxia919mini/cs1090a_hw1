@@ -1,0 +1,219 @@
+{{short description|1975 film by Sydney Pollack}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2015}}
+{{Infobox film
+| name           = Three Days of the Condor
+| image          = Three Days of the Condor poster.JPG
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Sydney Pollack]]
+| producer       = Stanley Schneider
+| screenplay     = {{Plainlist|
+* [[Lorenzo Semple Jr.]]
+* [[David Rayfiel]]
+}}
+| based_on       = {{based on|''[[Six Days of the Condor]]''|[[James Grady (author)|James Grady]]}}
+| narrator       = 
+| starring       = {{Plainlist|
+* [[Robert Redford]]
+* [[Faye Dunaway]]
+* [[Cliff Robertson]]
+* [[Max von Sydow]]
+}}
+| music          = [[Dave Grusin]]
+| cinematography = [[Owen Roizman]]
+| editing        = [[Don Guidice]]<br />[[Fredric Steinkamp]] (supervising)
+| studio         = [[Dino De Laurentiis|Dino De Laurentiis Corporation]]
+| distributor    = [[Paramount Pictures]]
+| released       = {{Film date|1975|09|25|US}}
+| runtime        = 118 minutes
+| country        = United States
+| language       = English
+| budget         = $7.8 million<ref name="dinod">{{cite news |url=https://www.latimes.com/archives/la-xpm-1987-08-30-fi-5144-story.html |title=De Laurentiis: Producer's Picture Darkens |last=Knoedelseder |first=William K. Jr |newspaper=Los Angeles Times |date=August 30, 1987 |page=1 |access-date=January 19, 2021 |archive-date=March 28, 2021 |archive-url=https://web.archive.org/web/20210328153738/https://www.latimes.com/archives/la-xpm-1987-08-30-fi-5144-story.html |url-status=live }}</ref>
+| gross          = $41.5 million (US/Canada)<ref name=numbers>{{Cite web|url=https://www.the-numbers.com/movies/1975/03DOC.php|work=[[The Numbers (website)|The Numbers]]|title=Three Days of the Condor|access-date=January 22, 2012|archive-date=January 27, 2013|archive-url=https://web.archive.org/web/20130127122609/http://www.the-numbers.com/movies/1975/03DOC.php|url-status=live}}</ref> (worldwide rentals: $32.7 million)<ref name="dinod"/>
+}}
+'''''Three Days of the Condor''''' is a 1975 American [[spy thriller]] film directed by [[Sydney Pollack]] and starring [[Robert Redford]], [[Faye Dunaway]], [[Cliff Robertson]], and [[Max von Sydow]].<ref name="nytimes">{{cite web|title=Three Days of the Condor (1975) |url=https://www.nytimes.com/movies/movie/49657/Three-Days-of-the-Condor/overview |archive-url=https://web.archive.org/web/20131014020057/http://www.nytimes.com/movies/movie/49657/Three-Days-of-the-Condor/overview |url-status=dead |archive-date=October 14, 2013 |department=Movies & TV Dept. |work=[[The New York Times]] |author=Lucia Bozzola |date=2013 |access-date=February 8, 2014}}</ref> The screenplay by [[Lorenzo Semple Jr.]] and [[David Rayfiel]] was based on the 1974 novel ''[[Six Days of the Condor]]'' by [[James Grady (author)|James Grady]].<ref name="nytimes"/><ref>{{cite book |last=Grady |first=James |author-link=James Grady (author) |year=1974 |title=Six Days of the Condor |url=https://books.google.com/books/about/Six_Days_of_the_Condor.html?id=jYk6XwKxIaUC |format=[[Hardcover]] |location=[[New York City]] |publisher=[[W. W. Norton & Company]] |isbn=0393086925 |oclc=	797885}}</ref>
+
+Set mainly in New York City and Washington, D.C., the film is about a bookish [[Central Intelligence Agency|CIA]] researcher who comes back from lunch one day to discover his co-workers murdered, then tries to avoid his own murder and outwit those responsible and understand their motives. The film was nominated for the [[Academy Award for Best Film Editing]]. Semple and Rayfiel received an [[Edgar Award]] from the [[Mystery Writers of America]] for Best Motion Picture Screenplay.<ref name="nytimes"/>
+
+== Plot ==
+<!--- DO NOT EXCEED 700 WORDS; PLOTS ARE GENERALLY 400-700 WORDS; CURRENT COUNT: 602 -->
+Joe Turner is a bookish [[Central Intelligence Agency|CIA]] analyst, codenamed "Condor", who works at the American Literary Historical Society in [[New York City]], in reality a clandestine CIA office. The staff analyzes print media from around the world. Turner files a report to [[George Bush Center for Intelligence|CIA headquarters]] on a thriller novel with strange plot elements that has been translated into several languages despite poor sales.
+
+When Turner leaves to get lunch, armed men invade the office. Returning to find his co-workers dead, he leaves and contacts the CIA's New York headquarters in the [[World Trade Center (1973–2001)|World Trade Center]]. He is instructed to meet Wicks, his head of department, who will take him to safety. Turner insists Wicks bring somebody familiar since he had never met his departmental head. Wicks brings Sam Barber, a friend from their undergraduate years at [[City College of New York|City College]] and now a CIA administrator. The rendezvous is a trap and Wicks attempts to kill Turner, who wounds him before escaping. Wicks kills Barber, eliminating him as a witness, and blames Turner for both shootings. Wicks is later killed by an intruder in his hospital room.
+
+Turner encounters Kathy Hale and forces her to take him to her apartment and holds her hostage as he works out what is happening. She comes to trust Turner, and they become lovers. Turner visits Barber's apartment where he encounters Joubert, a European who led the massacre of Turner's co-workers and had disconnected Wicks from life support at the hospital. Turner escapes when Joubert tries to shoot him, but Joubert tracks the license plate on Kathy's car. A hit man disguised as a mailman arrives at Hale's apartment, and Turner kills him.
+
+With Hale's help, Turner abducts Higgins, the deputy director of the CIA's New York division, who identifies Joubert as a freelance assassin working for the CIA. Higgins later discovers that the hitman who attacked Turner worked with Joubert on a previous operation and both reported to Wicks.
+
+Turner discovers Joubert's location using a hotel key found on the hit man. Turner, disguised as a phone company worker, uses the hotel switchboard to trace a phone call from Joubert and learn the name and address of Leonard Atwood, [[Deputy Director of CIA for Operations|CIA Deputy Director of Operations]] for the Middle East. Confronting Atwood at gunpoint in his mansion near [[Washington, D.C.]], Turner suggests his own original report to CIA headquarters had exposed a rogue CIA operation to seize Middle Eastern oil fields. 
+
+Fearful of its disclosure, Atwood had privately ordered Turner's section eliminated. Atwood confirms the accusation as Joubert enters and unexpectedly kills him, staging it as a suicide. Atwood's superiors had hired Joubert to eliminate someone who was about to become an embarrassment, overriding Atwood's original contract for Joubert to kill Turner. Joubert suggests that the resourceful Turner leave the country and even become an assassin himself. Turner rejects the suggestion but heeds Joubert's warning that the CIA will try to eliminate him as another embarrassment, possibly entrapping him through a trusted acquaintance.
+
+Back in New York, Turner has a rendezvous with Higgins near [[Times Square]]. Higgins describes the oilfield plan as a [[contingency plan|contingency "game"]] that was planned within the CIA without approval. He defends the project, suggesting when [[peak oil|oil shortages]] cause a major economic crisis, the American people will accept harsh measures to keep their comfortable lives. Turner then reveals that he has given full details to ''[[The New York Times]]''. Higgins retorts that Turner is about to become a very lonely man and questions whether the [[whistleblowing]] will really be published. "They'll print it," Turner defiantly replies. As "Condor" walks away, Higgins shouts after him, "How do you know?".
+
+== Cast ==
+{{cast listing|
+* [[Robert Redford]] as Joe Turner (Condor)
+* [[Faye Dunaway]] as Katherine "Kathy" Hale
+* [[Cliff Robertson]] as Higgins<ref name="cliff">{{cite magazine|date=1 March 2026|access-date=1 March 2026|first=Stephen|last=Vagg|url=https://www.filmink.com.au/not-quite-movie-stars-cliff-robertson/|magazine=Filmink|title=Not Quite Movie Stars: Cliff Robertson}}</ref>
+* [[Max von Sydow]] as Joubert
+* [[John Houseman]] as Wabash
+* [[Addison Powell]] as Leonard Atwood
+* [[Walter McGinn]] as Sam Barber
+* [[Tina Chen]] as Janice Chong
+* [[Michael Kane (actor)|Michael Kane]] as S.W. Wicks
+* Don McHenry as Dr. Lappe
+* Michael Miller as Fowler
+* [[Jess Osuna]] as The Major
+* Dino Narizzano as Harold
+* [[Helen Stenborg]] as Mrs. Russell 
+* [[Patrick Gorman (American actor)|Patrick Gorman]] as Martin
+* [[Hansford Rowe]] as Jennings
+* [[Carlin Glynn]] as Mae Barber
+* [[Hank Garrett]] as The Mailman
+* [[James Keane (actor)|James Keane]] as Store Clerk
+* [[Sal Schillizzi]] as himself 
+* [[Dorothi Fox]] as Nurse
+* [[Ernest Harden Jr.]] as Teenager
+}}
+
+== Production ==
+The film was shot on location in [[New York City]] (including the [[World Trade Center (1973–2001)|World Trade Center]], 55 East 77th Street, [[Brooklyn Heights]], [[The Ansonia]], and [[Central Park]]), [[New Jersey]] (including [[Hoboken Terminal]]), and [[Washington, D.C.]] (including the [[National Mall]]).<ref>{{cite web|url=https://movie-locations.com/movies/t/Three-Days-Of-The-Condor.php|title=Three Days Of The Condor {{!}} 1975|website=movie-locations.com|accessdate=November 5, 2024}}</ref><ref name="otsony">{{cite web |title=Three Days of the Condor |website=On the Set of New York |url=http://onthesetofnewyork.com/threedaysofthecondor.html |access-date=May 3, 2013 |archive-date=May 30, 2013 |archive-url=https://web.archive.org/web/20130530152917/http://www.onthesetofnewyork.com/threedaysofthecondor.html |url-status=live }}</ref><ref name="dvd">{{cite video|people=Sydney Pollack (director) |title=Three Days of the Condor |medium=DVD |publisher=Paramount |location=Los Angeles |year=1999 }}</ref>
+
+== Soundtrack ==
+{{Infobox album
+| name       = Three Days of the Condor
+| type       = soundtrack
+| artist     = [[Dave Grusin]]
+| cover      = 
+| caption    = 
+| alt        =
+| released   = August 1975
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     =
+| label      = [[Capitol Records|Capitol]] (1975)<br>DRG (2004 reissue)
+| producer   = Neely Plumb
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+All music by [[Dave Grusin]], except where noted.
+
+# "Condor! (Theme from 3 Days of the Condor)" 3:35
+# "Yellow Panic" 2:15
+# "Flight of the Condor" 2:25
+# "We'll Bring You Home" 2:24
+# "Out to Lunch" 2:00
+# "Goodbye for Kathy (Love Theme from 3 Days of the Condor)" 2:16
+# "I've Got You Where I Want You" 3:12 (Grusin/Bahler; sung by [[Jim Gilstrap]])
+# "Flashback to Terror" 2:24
+# "Sing Along with the C.I.A." 1:34
+# "Spies of a Feather, Flocking Together (Love Theme from 3 Days of the Condor)" 1:55
+# "[[Silver Bells]]" 2:37 (Livingstone / Evans; sung by Marti McCall)
+# "Medley: a) Condor! (Theme) / b) I've Got You Where I Want You" 1:57
+
+==Release ==
+The film was released in September 1975, earning $8,925,000 in [[theatrical rental]]s in the United States and Canada by the end of the year.<ref>"All-time Film Rental Champs", ''Variety'', 7 January 1976 p 44</ref> It earned rentals of $20 million in the United States and Canada from a gross of $41.5 million.<ref name=numbers/> It earned rentals of $32.7 million worldwide.<ref name="dinod"/>
+
+== Reception ==
+[[Rotten Tomatoes]], a [[review aggregator]], reports that 88% of 56 surveyed critics gave the film a positive review, and the average rating was 7.4/10; the site's consensus is: "This post-Watergate thriller captures the paranoid tenor of the times, thanks to [[Sydney Pollack]]'s taut direction and excellent performances from Robert Redford and Faye Dunaway."<ref>{{cite web|url=https://www.rottentomatoes.com/m/three_days_of_the_condor/|title=''Three Days of the Condor'' (1975)|access-date=October 10, 2023|work=[[Rotten Tomatoes]]|archive-date=December 5, 2013|archive-url=https://web.archive.org/web/20131205221453/http://www.rottentomatoes.com/m/three_days_of_the_condor/|url-status=live}}</ref> On [[Metacritic]], the film has a [[weighted average]] of 63 out of 100 based on 11 reviews, indicating "generally favorable" reviews.<ref>{{cite web |title=Three Days of the Condor |url=https://www.metacritic.com/movie/three-days-of-the-condor/ |publisher=Metacritic}}</ref>
+
+When first released, the film was reviewed positively by [[Vincent Canby]], critic for ''[[The New York Times]]'', who wrote that the film "is no match for stories in your local newspaper", but it benefits from good acting and directing.<ref name="canby">{{cite news|url=https://www.nytimes.com/movie/review?res=EE05E7DF173CE577BC4D51DFBF66838E669EDE|title=Three Days of the Condor (1975)|last=Canby|first=Vincent|work=[[The New York Times]]|date=September 25, 1975|access-date=February 29, 2008|archive-date=March 9, 2014|archive-url=https://web.archive.org/web/20140309045028/http://www.nytimes.com/movie/review?res=EE05E7DF173CE577BC4D51DFBF66838E669EDE|url-status=live}}</ref> ''[[Variety (magazine)|Variety]]'' called it a [[B movie]] that was given a big budget despite its lack of substance.<ref>{{cite web|url=https://variety.com/1974/film/reviews/three-days-of-the-condor-1200423315/|title=Review: 'Three Days of the Condor'|author=<!-- Staff -->|work=[[Variety (magazine)|Variety]]|year=1975|access-date=February 8, 2014|archive-date=September 15, 2020|archive-url=https://web.archive.org/web/20200915003558/https://variety.com/1974/film/reviews/three-days-of-the-condor-1200423315/|url-status=live}}</ref> [[Roger Ebert]] wrote, "''Three Days of the Condor'' is a well-made thriller, tense and involving, and the scary thing, in these months after Watergate, is that it's all too believable."<ref>{{cite web|url=https://www.rogerebert.com/reviews/three-days-of-the-condor-1975|title=Three Days of the Condor|last=Ebert|first=Roger|work=[[Chicago Sun-Times]]|year=1975|access-date=February 8, 2014|archive-date=December 31, 2020|archive-url=https://web.archive.org/web/20201231141654/https://www.rogerebert.com/reviews/three-days-of-the-condor-1975|url-status=live}}</ref>
+
+[[John Simon (critic)|John Simon]] wrote how the film differed from the book:
+{{blockquote|That the action has been relocated from sleepy Washington to furious New York City, almost all names have been changed, that the plot has been vastly over-complicated, is of lesser interest than a straight genre film, has been overloaded into an elegy of private, political, and finally, cosmic pessimism, a kind of national, if not metaphysical, guilt film to enchant the disenchanted.<ref name="simon">{{cite book |title=Reverse Angle: A Decade of American Film|url=https://archive.org/details/reverseangledeca0000simo|url-access=registration|last1=Simon|first1=John |publisher=Crown Publishers Inc. |year=1982 |pages=[https://archive.org/details/reverseangledeca0000simo/page/195 195-198]|isbn=9780517544716 }}</ref>}}
+
+French philosopher [[Jean Baudrillard]] lists the film as an example of a new genre of "retro cinema" in his essay on history in the now influential book, ''[[Simulacra and Simulation]]'' (1981):
+
+{{blockquote|In the 'real' as in cinema, there was history but there isn't any anymore. Today, the history that is 'given back' to us (precisely because it was taken from us) has no more of a relation to a 'historical real' than neofiguration in painting does to the classical figuration of the real...All, but not only, those historical films whose very perfection is disquieting: [[Chinatown (1974 film)|''Chinatown'']], ''Three Days of the Condor'', ''[[Barry Lyndon]]'', [[1900 (film)|''1900'']], ''[[All the President's Men (film)|All the President's Men]]'', etc. One has the impression of it being a question of perfect remakes, of extraordinary montages that emerge more from a combinatory culture (or [[Marshall McLuhan|McLuhanesque]] mosaic), of large photo-, kino-, historicosynthesis machines, etc., rather than one of veritable films."<ref>[[Jean Baudrillard|Baudrillard, Jean]]. ''[[Simulacra and Simulation]]''. Trans. Sheila Faria Glaser. [[University of Michigan Press]], 1994, p. 45. French original, ''Simulacres et Simulation,'' published by [[:fr:Éditions Galilée|Éditions Galilée]] in 1981.</ref>}}{{clarify|date=May 2026|reason=What is he trying to say here? And is there a clearer way of saying it?}}
+
+Some critics described the film as a piece of [[Propaganda#Politics|political propaganda]], as it was released soon after the "[[Family Jewels (Central Intelligence Agency)|Family Jewels]]" scandal came to light in December 1974, which exposed a variety of CIA "dirty tricks". In an interview with ''[[Jump Cut (journal)|Jump Cut]]'', Pollack explained that the film was written solely to be a spy thriller and that production on the film was nearly over by the time the Family Jewels revelations were made, so even if they had wanted to take advantage of them, it was far too late in the filmmaking process to do so. Despite both he and Redford being well-known political [[liberalism in the United States|liberals]], Pollack said they were only interested in making the film because an espionage thriller was a genre neither of them had previously explored.<ref name="jumpcut">{{cite journal | title=Hollywood uncovers the CIA | first=Patrick | last=McGilligan | journal=[[Jump Cut (journal)|Jump Cut]] | url=http://www.ejumpcut.org/archive/onlinessays/JC10-11folder/PollackMcGilligan.html | year=1976 | issue=10–11 | access-date=December 24, 2013 | archive-date=November 19, 2012 | archive-url=https://web.archive.org/web/20121119062758/http://www.ejumpcut.org/archive/onlinessays/JC10-11folder/PollackMcGilligan.html | url-status=live }}</ref>
+
+{{blockquote|I didn't want this picture to be judged; it's a movie. I intended it always as a movie. I never had any pretensions about the picture and it's making me very angry that I'm getting pretensions stuck on me like tails on a donkey. If I wanted to be pretentious, I'd take the CIA seal and advertise this movie and really take advantage of the headlines. Central Intelligence Agency, United States of America, Robert Redford, Faye Dunaway. And don't think it wasn't suggested&nbsp;— obviously, that's what advertising people do. We really put our foot down&nbsp;— Redford and I&nbsp;— to absolutely stop that.<ref name="jumpcut"/>}}
+
+=== KGB ===
+According to former Soviet intelligence officer [[Sergei Tretyakov (intelligence officer)|Sergei Tretyakov]], the fictional clandestine office shown in ''Three Days of Condor'' convinced [[KGB]] generals to establish an equivalent office in Moscow, the Scientific Research Institute of Intelligence Problems ({{langx|ru|Научно-исследовательский институт разведывательных проблем}}).<ref>{{cite book |last1=Earley |first1=Pete |title=Comrade J: The Untold Secrets of Russia's Master Spy in America After the End of the Cold War |date=2007 |publisher=Penguin Books |pages=37–39}}</ref>
+
+== Awards and nominations ==
+; Wins
+* [[Cartagena Film Festival]]: Golden India Catalina, Best Actor, Max von Sydow; 1976.
+* [[David di Donatello]] Awards: Special David, Sydney Pollack, for the direction; 1976.
+* [[Edgar Award|Edgar Allan Poe Awards]]: Edgar; Best Motion Picture, Lorenzo Semple Jr. David Rayfiel; 1976.
+* Kansas City Film Critics Circle Awards: [[Kansas City Film Critics Circle Awards 1975|KCFCC Award]]; Best Supporting Actor, Max von Sydow; 1976.
+* [[Motion Picture Sound Editors]]: Golden Reel Award; Best Sound Editing - Sound Effects; 1976.
+
+; Nominations
+* [[Academy Award]]s: Oscar; [[Academy Award for Best Film Editing|Film Editing]], Fredric Steinkamp and Don Guidice; 1976.
+* Cartagena Film Festival: Golden India Catalina; Best Film, Sydney Pollack; 1976.
+* [[Golden Globe Award]]s: Golden Globe; Best Motion Picture Actress - Drama, Faye Dunaway; 1976.
+* [[Grammy Award]]s: Grammy; Best Album of Original Score Written for a Motion Picture or Television Special, Dave Grusin; 1977.
+* [[AFI's 100 Years...100 Thrills]]; 2001<ref>{{Cite web |url=http://www.afi.com/Docs/100years/thrills400.pdf |title=AFI's 100 Years...100 Thrills Nominees |access-date=September 16, 2014 |archive-date=July 6, 2011 |archive-url=https://web.archive.org/web/20110706070532/http://www.afi.com/Docs/100Years/thrills400.pdf |url-status=live }}</ref>
+
+== Legal action ==
+In 1997, The Association of Danish Film Directors (''Danske Filminstruktører''), on behalf of the director Sydney Pollack, sued [[Danmarks Radio]] on the grounds that [[pan and scan|cropping the film for television]] compromised the artistic integrity of the original film and that broadcasting the film in a reduced screen version violated Pollack's copyright. The case was unsuccessful because the film rights to ''Three Days of the Condor'' were not actually owned by Pollack. The case is believed to have been the first legal challenge to the practice of [[Pan and scan|panning and scanning]] widescreen films on screens with a 4:3 aspect ratio.<ref>{{cite magazine|first=Morton|last= Jacobsen| title=Copyright on Trial in Denmark|magazine=Image Technology|volume= 79|number=5|date=May 1997|pages= 16–20}}</ref><ref>{{cite magazine|first=Morton|last= Jacobsen| title=Copyright on Trial in Denmark|magazine=Image Technology|volume= 79|number=6|date=June 1997|pages= 22–24}}</ref>
+
+== Cultural legacy==
+* Joubert's musings in the penultimate scene (see under Plot above) on how Turner might be killed by the CIA are reprised almost word-for-word in the ''[[Seinfeld]]'' episode "[[The Junk Mail]]". The speech is used as a warning from [[Newman (Seinfeld)|Newman]] to [[Cosmo Kramer|Kramer]] about how the [[United States Postal Service|U.S. Postal Service]] will retaliate for Kramer's refusal to receive his mail.
+* In ''[[Out of Sight]]'', Jack Foley ([[George Clooney]]) and Karen Sisco ([[Jennifer Lopez]]) discuss the film's romantic subplot, which Sisco describes as dubious.
+* The [[Marvel Comics]] superhero film ''[[Captain America: The Winter Soldier]]'' (2014) was inspired by this film and other sources as well as by the original comic book source material. The directors, the [[Russo brothers]], admit this and say that Robert Redford's casting in their film was intended as an homage.<ref>{{cite web |last1=Faraci |first1=Devin |url=https://birthmoviesdeath.com/2014/03/07/the-russo-brothers-on-why-the-winter-soldier-is-three-days-of-captain-ameri |title=The Russo Brothers On Why THE WINTER SOLDIER Is THREE DAYS OF CAPTAIN AMERICA |website=Birth. Movies. Death. |date=March 7, 2014 |access-date=1 September 2020 |archive-date=September 14, 2020 |archive-url=https://web.archive.org/web/20200914235500/https://birthmoviesdeath.com/2014/03/07/the-russo-brothers-on-why-the-winter-soldier-is-three-days-of-captain-ameri |url-status=live }}</ref>
+* Perhaps the most famous line in the film is Turner's challenge to Higgins, “You think not getting caught in a lie is the same thing as telling the truth?” Director [[Sydney Pollack]] has admitted to using variations of that line in three of his other films: ''[[Tootsie]]'' (1982), ''[[The Firm (1993 film)|The Firm]]'' (1993), and ''[[The Interpreter (2005 film)|The Interpreter]]'' (2005).
+* The famous hacker [[Kevin Mitnick]] chose the ''Condor'' nickname after watching the film.<ref>{{Cite book |title=The Internet : a historical encyclopedia |date=2005 |others=Hilary W. Poole, Laura Lambert, Chris Woodford, Christos J. P. Moschovitis |isbn=1-85109-664-7|publisher=ABC-CLIO |location=Santa Barbara, Calif. |oclc=62211803 }}</ref>
+* R&B singer [[Amerie]] sampled the film's main theme "Condor!" for her 2002 song "[[Why Don't We Fall in Love]]".
+
+== TV series ==
+{{main|Condor (TV series)}}
+
+''[[Condor (TV series)|Condor]]'', a television series based on the film and novel, premiered on June 6, 2018, on [[Audience (TV network)|Audience]]. The series stars [[Max Irons]] and was created by Todd Katzberg, [[Jason Smilovic]], and Ken Robinson. A second season premiered on June 9, 2020, on [[C More]]<ref>{{cite web |title=Condor sesong 2 |url=https://serienytt.no/events/condor-sesong-2/ |access-date=July 9, 2020 |website=Serienytt}}</ref> and [[RTÉ2]].<ref name="Condor Episode Guide">{{cite web |title=Condor Episode Guide |url=https://www.radiotimes.com/tv-programme/e/g6jxjm/condor-episode-guide/ |url-status=dead |archive-url=https://web.archive.org/web/20200728192455/https://www.radiotimes.com/tv-programme/e/g6jxjm/condor-episode-guide/ |archive-date=July 28, 2020 |access-date=June 17, 2020 |website=[[Radio Times]]}}</ref>
+
+== See also ==
+* [[List of American films of 1975]]
+* [[Conspiracy thriller]]
+* [[United States Joint Publications Research Service]], purportedly{{by whom|date=August 2025}} a model for the "American Literary Historical Society"
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{wikiquote}}
+* {{IMDb title|id=0073802|title=Three Days of the Condor}}
+* {{TCMDb title|id=4274}}
+* {{AFI film|id=53853|title=Three Days of the Condor}}
+* {{Rotten Tomatoes | id= three_days_of_the_condor}}
+* {{YouTube|4lEKQvHM1Ss|''Three Days of the Condor'' film trailer}}
+
+{{Sydney Pollack}}
+{{Authority control}}
+
+{{DEFAULTSORT:Three Days Of The Condor}}
+[[Category:1975 English-language films]]
+[[Category:1970s political thriller films]]
+[[Category:1970s spy films]]
+[[Category:1975 American films]]
+[[Category:1975 films]]
+[[Category:American political thriller films]]
+[[Category:American spy films]]
+[[Category:American spy thriller films]]
+[[Category:Cold War spy films]]
+[[Category:Edgar Award–winning works]]
+[[Category:English-language political thriller films]]
+[[Category:Films about conspiracy theories]]
+[[Category:Films about the Central Intelligence Agency]]
+[[Category:Films adapted into television shows]]
+[[Category:Films based on American thriller novels]]
+[[Category:Films directed by Sydney Pollack]]
+[[Category:Films produced by Dino De Laurentiis]]
+[[Category:Films scored by Dave Grusin]]
+[[Category:Films set in New York City]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films shot in New Jersey]]
+[[Category:Films shot in New York City]]
+[[Category:Films shot in Virginia]]
+[[Category:Films shot in Washington, D.C.]]
+[[Category:Films with screenplays by Lorenzo Semple Jr.]]
+[[Category:Paramount Pictures films]]
+[[Category:American techno-thriller films]]

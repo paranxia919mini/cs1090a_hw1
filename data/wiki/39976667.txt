@@ -1,0 +1,85 @@
+{{short description|1946 film}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name           = Mysterious Intruder
+| image          = Mysterious Intruder poster.jpg
+| alt            =
+| caption        = Theatrical release poster
+| director       = [[William Castle]]
+| producer       = [[Rudolph Flothow|Rudolph C. Flothow]]
+| based_on       = {{based on|''[[The Whistler (radio series)|The Whistler]]''<br>1942-1955 radio series|[[J. Donald Wilson]]}}
+| screenplay     = [[Eric Taylor (screenwriter)|Eric Taylor]]
+| story          = Eric Taylor
+| narrator       = Otto Forrest
+| starring       = [[Richard Dix]]<br/>[[Barton MacLane]]<br/>[[Nina Vale]]
+| cinematography = [[Philip Tannura]]
+| editing        = [[Dwight Caldwell]]
+| color_process  = [[Black and white]]
+| studio         = Larry Darmour Productions
+| distributor    = [[Columbia Pictures]]
+| released       = {{Film date|1946|4|16|United States}}
+| runtime        = 62 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          =
+}}
+'''''Mysterious Intruder''''' is a 1946 American [[mystery film]] [[film noir|noir]] based on the [[radio drama]] ''[[The Whistler (radio series)|The Whistler]]''. Directed by [[William Castle]], the production features [[Richard Dix]], [[Barton MacLane]] and [[Nina Vale]].<ref>{{TCMDb title|id=84443|title=Mysterious Intruder}}.</ref>  It is the fifth of [[Columbia Pictures]]' eight "[[The Whistler (radio series)#Films|Whistler]]" films produced in the 1940s, the first seven starring Dix.
+
+==Plot==
+Edward Stillwell, the aged proprietor of a music store, hires private detective Don Gale (Dix) to find Elora Lund, who, after her mother died seven years before, vanished at the age of fourteen. Stillwell can only pay $100, but hints mysteriously that finding Lund could make Gale a rich man.
+
+A young woman claiming to be Elora Lund shows up at Stillwell's shop, supposedly in answer to his newspaper advertisement. Stillwell tells her that her mother gave him some "odds and ends" to sell; he discovered something very valuable among them, but refuses to give her any details until he telephones Gale. Meanwhile, Harry Pontos sneaks into the basement and finds a package marked as belonging to Lund. He grabs it, then stabs Stillwell to death and kidnaps "Elora Lund". Gale informs the reporters at the murder scene that the woman is not Lund. The news results in her being released unharmed.
+
+Gale goes to see her; her real name is Freda Hanson, and she is Gale's accomplice. From clues that Hanson is able to provide, Gale retraces her steps and finds the house occupied by Pontos. Finding Pontos drunk and passed out, he looks around, but just then, Police Detectives Taggart and Burns bang on the door. Pontos awakens, grabs a gun and a shootout ensues. Gale sneaks away, but is seen by a neighbor and loses a shoe in the process.
+
+Taggart and Burns question Gale, inform him that Pontos is dead and return his shoe. When he refuses to cooperate, they arrest him, but release him a little later (hoping he will lead them somewhere). He goes to see Hanson and finally gets her to admit that what she is after is worth $200,000. When there is a knock on the door, he hides and finds a newspaper clipping indicating that a magnate has offered $100,000 each for two wax cylinder recordings legendary Swedish singer [[Jenny Lind]] made shortly before her death.
+
+Meanwhile, the real Elora Lund goes to the police. Taggert and Burns send her to see Gale to try to find out what he knows. She remembers the recordings; Gale offers to secure them for 25% of their value. He persuades her to stay with his associate Rose Deming while he does so.
+
+James Summers, the manager of the apartment building in which Hanson lives, finds her strangled body in her closet. The police figure Gale is guilty, as he was seen leaving her apartment around the time of the murder. Joan Hill, Gale's secretary, warns him he is a wanted man.
+
+He heads to Stillwell's place, finding his neighbor and friend, Mr. Brown, dead too. In the basement of Brown's Brass Shop, he sees Summers and an accomplice. They have found the recordings. Summers offers to cut Gale in, but Gale does not like what happened to Summers' other partners: Hanson and Pontos. A gunfight breaks out. Gale grabs the recordings and runs upstairs where he telephones police headquarters and announces he has the recordings. When he hears someone coming after him, he fires. He is shot and killed ... by the police. Taggart notes that one of the shots has shattered the recordings.
+
+==Cast==
+* [[Richard Dix]] as Don Gale
+* [[Barton MacLane]] as Detective Taggart
+* [[Nina Vale]] as Joan Hill
+* [[Regis Toomey]] as James Summers
+* [[Helen Mowery]] as Freda Hanson
+* [[Mike Mazurki]] as Harry Pontos
+* [[Pamela Blake]] as Elora Lund
+* [[Charles Lane (actor, born 1905)|Charles Lane]] as Detective Burns
+* [[Paul E. Burns]] as Edward Stillwell
+* [[Kathleen Howard]] as Rose Deming
+* [[Harlan Briggs]] as Mr. Brown
+
+==Reception==
+Film critic Dennis Schwartz liked the film and wrote a positive film review, "This was the fifth episode in Columbia Picture's "The Whistler" series, and is one of the better ones. William Castle (''[[The Tingler]]''/''[[Strait-Jacket]]''/''[[Shanks (film)|Shanks]]'') directs this low-budget black-and-white enjoyable minor film noir, that comes with a choice narration by the disguised Whistler (Otto Forrest) ...  It has a good performance by Richard Dix as the unscrupulous private detective and a plausible surprise ending."<ref>[http://homepages.sover.net/~ozus/mysteriousintruder.html Schwartz, Dennis]. ''Ozus' World Movie Reviews'', film review, September 25, 2012. Accessed: July 15, 2013.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|id=0038766|title=Mysterious Intruder}}
+* {{TCMDb title|id=84443|title=Mysterious Intruder}}
+* {{AFI film|id=24887|title=Mysterious Intruder}}
+* {{YouTube|yq3YUzedoxQ|''Mysterious Intruder'' complete film}}
+
+{{William Castle}}
+
+{{DEFAULTSORT:Mysterious Intruder}}
+[[Category:1946 films]]
+[[Category:1940s crime thriller films]]
+[[Category:American crime thriller films]]
+[[Category:American black-and-white films]]
+[[Category:Columbia Pictures films]]
+[[Category:American detective films]]
+[[Category:Film noir]]
+[[Category:Films based on radio series]]
+[[Category:Films directed by William Castle]]
+[[Category:The Whistler films]]
+[[Category:1946 English-language films]]
+[[Category:1946 American films]]
+[[Category:English-language crime thriller films]]

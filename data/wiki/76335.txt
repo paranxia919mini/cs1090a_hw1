@@ -1,0 +1,282 @@
+{{short description|1956 film by John Ford}}
+{{other uses}}
+{{Use American English|date = November 2019}}
+{{Use mdy dates|date = November 2019}}
+{{Infobox film
+| name           = The Searchers
+| image          = SearchersPoster-BillGold.jpg
+| caption        = Theatrical release poster by [[Bill Gold]]
+| director       = [[John Ford]]
+| screenplay     = [[Frank Nugent|Frank S. Nugent]]
+| based_on       = {{Based on|''The Searchers''<br>1954 novel|[[Alan Le May]]}}
+| starring       = {{Plainlist|
+* [[John Wayne]]
+* [[Jeffrey Hunter]]
+* [[Vera Miles]]
+* [[Ward Bond]]
+* [[Natalie Wood]]
+}}
+| music          = [[Max Steiner]]
+| cinematography = [[Winton C. Hoch]]
+| editing        = [[Jack Murray (film editor)|Jack Murray]]
+| studio         = [[Cornelius Vanderbilt Whitney|C.V. Whitney Pictures]]
+| distributor    = [[Warner Bros. Pictures|Warner Bros.]]
+| released       = {{Film date|1956|05|16|[[Chicago Theatre]]|ref1=<ref>{{cite journal |date=May 9, 1956 |title=Chatter – Chicago |journal=[[Variety (magazine)|Variety]] |page=62 }}</ref>}}
+| runtime        = 119 minutes
+| country        = United States
+| language       = English
+| budget         = $3.75 million<ref>[https://www.boxofficemojo.com/movies/?id=searchers.htm Box Office Information for ''The Searchers''.] [[Box Office Mojo]]. Retrieved December 24, 2013.</ref>
+| gross          = 
+}}
+'''''The Searchers''''' is a 1956 American [[Epic film|epic]] [[Western film]] directed by [[John Ford]] and written by [[Frank Nugent|Frank S. Nugent]], based on the 1954 novel by [[Alan Le May]]. It is set during the [[Texas–Indian wars]] and stars [[John Wayne]] as a middle-aged veteran of the [[Confederate States Army|Confederate Army]] who, accompanied by his adopted, partially Native American nephew ([[Jeffrey Hunter]]), spends years looking for his abducted niece ([[Natalie Wood]]). It was shot in [[VistaVision]] on [[Eastmancolor]] negative with processing and prints by [[Technicolor]].<ref name=":0">{{cite web |last1=Harris |first1=Robert A. |title=A Robert A. Harris Interview: Warner's Ned Price on The Searchers |url=http://archive.thedigitalbits.com/articles/robertharris/harris082106.html |website=The Digital Bits |access-date=18 January 2024}}</ref><ref name=":1">{{cite journal |last1=Haines |first1=Richard W. |title=Technicolor Revival |journal=Film History |date=2000 |volume=12 |issue=4 |page=414 |doi=10.2979/FIL.2000.12.3.410 |doi-broken-date=July 12, 2025 |jstor=3815348 |url=https://www.jstor.org/stable/3815348 |access-date=18 January 2024|url-access=subscription }}</ref>
+
+The film was a critical and commercial success. Since its release, it has come to be considered a masterpiece and [[List of films voted the best|one of the greatest and most influential films ever made]]. It was named the [[AFI's 10 Top 10#Western|greatest American Western]] by the [[American Film Institute]] in 2008, and it placed 12th on the same organization's 2007 list of the [[AFI's 100 Years...100 Movies (10th Anniversary Edition)|100 greatest American movies of all time]].<ref>{{cite web |url= http://connect.afi.com/site/PageServer?pagename=micro_100landing |title= Welcome: AFI's 100 Years...100 Movies |publisher= American Film Institute |year= 2008 |access-date= 2009-05-28 |url-status= dead |archive-url= https://web.archive.org/web/20110716071157/http://connect.afi.com/site/PageServer?pagename=micro_100landing |archive-date= 2011-07-16 }}</ref> ''Entertainment Weekly'' also named it the best Western.<ref>IMDb Trivia Section</ref> The [[British Film Institute]]'s ''[[Sight and Sound]]'' magazine ranked it as the seventh-best film of all time based on a [[The Sight & Sound Greatest Films of All Time 2012|2012 international survey of film critics]]<ref>{{cite web |title=Sight & Sound 2012 Polls |url=http://explore.bfi.org.uk/sightandsoundpolls/2012 |archive-url=https://web.archive.org/web/20120816144041/http://explore.bfi.org.uk/sightandsoundpolls/2012/ |url-status=dead |archive-date=2012-08-16 |publisher=British Film Institute |year=2012}}</ref><ref>{{cite news |last=French |first=Philip |author-link=Philip French |title=How Hitchcock's ''Vertigo'' eventually topped the Sight & Sound critics' poll |date=August 4, 2012 |work=The Guardian |location=London |url=https://www.theguardian.com/film/2012/aug/05/sight-sound-best-film-poll-2012}}</ref> and in 2008, the French magazine ''[[Cahiers du Cinéma]]'' ranked ''The Searchers'' number 10 in their list of the 100 best films ever made.<ref>{{cite web|url=http://www.themovingarts.com/greatest-films/cahiers-du-cinema-100-films/|title=Cahiers du Cinéma 100 Films|work=The Moving Arts Film Journal|access-date=10 March 2016|url-status=usurped|archive-url=https://web.archive.org/web/20160726130550/http://www.themovingarts.com/greatest-films/cahiers-du-cinema-100-films/|archive-date=26 July 2016}}</ref>
+
+In 1989, ''The Searchers'' was deemed "culturally, historically, or aesthetically significant" by the United States [[Library of Congress]] and was selected for preservation in its [[National Film Registry]]; it was one of the first 25 films selected for the registry.<ref>{{cite news|date=September 19, 1989|title=ENTERTAINMENT: Film Registry Picks First 25 Movies|url=https://www.latimes.com/archives/la-xpm-1989-09-19-mn-347-story.html|work=[[Los Angeles Times]]|location=[[Washington, DC]]|access-date=April 22, 2020}}</ref>
+
+''The Searchers'' was perhaps the first major film to have an intentionally filmed documentary about the [[Behind-the-scenes|making of it]], requested by John Ford. It deals with most aspects of making the film, including preparation of the site, construction of props, and filming techniques.<ref>''Behind the Camera'', Included in the 2005 restored Blu-ray edition</ref>
+
+== Plot ==
+In 1868, Ethan Edwards returns after an eight-year absence to the home of his brother Aaron in [[West Texas]]. Ethan fought in the Civil War on the side of the [[Confederate States of America|Confederacy]]. In the three years since that war ended, he also apparently fought in the [[Second French intervention in Mexico|Second Franco–Mexican War]]. He has in his possession many gold coins of uncertain origin. He also has a medal from the Mexican campaign, which he gives to his eight-year-old niece, Debbie. As a former Confederate soldier, when he is asked to take an oath of allegiance to the [[Texas Ranger Division|Texas Rangers]], he refuses.
+
+Shortly after Ethan's arrival, cattle belonging to his neighbor Lars Jorgensen are stolen, by Indians they believe, and Rev. Captain Samuel Clayton leads Ethan and a group of Rangers to recover them. After discovering that the theft was a [[Comanche]] ploy to draw the men away from their families, they race back, to find the Edwards [[Homestead Acts|homestead]] in flames. Aaron, his wife Martha, and their son Ben have all been killed, while Debbie and her older sister Lucy have been abducted.
+
+After a brief funeral, the men set out in pursuit. When they find the Comanche camp, Ethan recommends a frontal attack, but Clayton insists on a stealth approach to avoid killing the hostages. The camp turns out to be deserted. Further along the trail, the men ride into an ambush. Despite fending off the attack, the Rangers are left with too few men to fight the Comanche effectively.
+
+They return to their base, but Ethan insists on continuing his search for the girls, joined by Lucy's fiancé, Brad Jorgensen, and Debbie's adoptive brother Martin Pawley, who is part [[Cherokee]]. Ethan finds Lucy murdered (and, it is implied, raped) in a canyon near the Comanche camp. In a blind rage, Brad rides directly into the camp to attack the warriors and is killed. Ethan and Martin continue.
+[[File:The searchers Ford Trailer screenshot (22).jpg|thumb|left|"I figure on gettin' myself unsurrounded," insists Captain Clayton to Ethan as they realize they are caught in a trap and must run for their lives.]]
+When winter arrives, Ethan and Martin lose the trail and return to the Jorgensen ranch. Martin is enthusiastically welcomed by the Jorgensens' daughter Laurie, and Ethan finds a letter waiting for him from a trader named Futterman, who claims to have information about Debbie. Ethan, who would rather travel alone, leaves without Martin the next morning, but Laurie reluctantly provides Martin with a horse to catch up. At Futterman's trading post, Ethan and Martin learn that Debbie has been taken by Scar, the chief of the [[Comanche#Bands|Nawyecka]] band of Comanche.
+
+A year or more later, Laurie receives a letter from Martin describing the ongoing search. Reading the letter aloud, Laurie narrates the next few scenes. Ethan kills Futterman for trying to steal his money, and Martin accidentally buys a Comanche woman as a wife. She runs away when she hears the men mention their hunt for Scar. Later, they find her among the dead Comanche of Scar's band, who were killed by soldiers.
+[[File:The searchers Ford Trailer screenshot (20).jpg|right|thumb|Martin shields Ethan's niece to prevent Ethan from murdering her.]]
+In [[New Mexico Territory]], after five years, they find Debbie, now an adolescent, living as one of Scar's wives. She says that she has become a Comanche and wishes to remain with them. Ethan would rather see her dead than living that way, and tries to shoot her, but Martin shields her with his body.  A Comanche wounds Ethan with an arrow as the two men escape. Although Martin tends to Ethan's wound, he is furious with him for attempting to kill Debbie. Later, they return home.
+
+Meanwhile, Charlie McCorry has been courting Laurie in Martin's absence. Ethan and Martin arrive home just as Charlie and Laurie's wedding is about to begin. After a fistfight between Martin and Charlie, a nervous Yankee soldier, Lieutenant Greenhill, brings news that Ethan's friend Mose Harper has located Scar. 
+
+Clayton leads his men to the Comanche camp, this time for a direct attack, but Martin is allowed to sneak in ahead of the assault to find Debbie, who welcomes him this time. Martin kills Scar to save Debbie. Ethan, finding Scar's body, scalps him for revenge. Ethan finds Debbie, who flees, and pursues her on horseback. 
+
+Martin chases them desperately, fearing that Ethan will kill her. Instead, Ethan sweeps her up into his arms and takes her to the Jorgensen ranch, where Martin reunites with Laurie. While everyone else enters the house, Ethan watches, then walks away.
+
+== Cast ==
+[[File:The Searchers (1956) - Trailer.webm|thumb|Original trailer of ''The Searchers'' (1956)]]
+{{div col|colwidth=20em}}
+* [[John Wayne]] as Ethan Edwards
+* [[Jeffrey Hunter]] as Martin Pawley
+* [[Vera Miles]] as Laurie Jorgensen
+* [[Ward Bond]] as Rev. Capt. Samuel Johnson Clayton
+* [[Natalie Wood]] as adult Debbie Edwards
+* [[John Qualen]] as Lars Jorgensen
+* [[Olive Carey]] as Mrs. Jorgensen
+* [[Henry Brandon (actor)|Henry Brandon]] as Chief Scar
+* [[Ken Curtis]] as Charlie McCorry
+* [[Harry Carey Jr.]] as Brad Jorgensen
+* [[Antonio Moreno]] as Emilio Gabriel Fernández y Figueroa
+* [[Hank Worden]] as Mose Harper
+* Beulah Archuletta as Wild Goose Flying in the Night Sky (Look)
+* [[Walter Coy]] as Aaron Edwards
+* [[Dorothy Jordan (American actress)|Dorothy Jordan]] as Martha Edwards
+* [[Pippa Scott]] as Lucy Edwards
+* [[Patrick Wayne]] as Lt. Greenhill
+* [[Lana Wood]] as young Debbie Edwards
+* [[Robert Lyden]] as Ben Edwards
+* [[Chuck Roberson]] as Texas Ranger at Wedding
+* [[Jack Pennick]] as Sergeant at Fort
+* [[Peter Mamakos]] as Jerem Futterman
+{{div col end}}
+
+== Production ==
+The film was shot in the [[VistaVision]] widescreen process.
+
+=== Filming locations ===
+While the film was primarily set in the staked plains ([[Llano Estacado]]) of northwestern Texas, it was actually filmed in [[Monument Valley]], [[Arizona]]/[[Utah]]. Additional scenes were filmed in [[Mexican Hat, Utah]], in [[Bronson Canyon]] in [[Griffith Park]], [[Los Angeles]], and in [[Elk Island National Park]].<ref>''DGA Magazine'', November 2003, http://www.dga.org/news/v28_4/craft_bronson.php3 {{Webarchive|url=https://web.archive.org/web/20080720001214/http://www.dga.org/news/v28_4/craft_bronson.php3 |date=July 20, 2008 }}</ref>
+
+{{Panorama
+| image = Monument Valley Panorama.jpg
+| height = 200
+}}
+
+=== Casting ===
+Ford originally wanted to cast [[Fess Parker]], whose [[Davy Crockett: King of the Wild Frontier|performance]] as [[Davy Crockett]] on television had helped spark a [[coonskin cap|national craze]], for the Martin Pawley role, but [[Walt Disney]], to whom Parker was under contract, refused to allow it and did not tell Parker about the offer, according to Parker's videotaped interview for the [[Archive of American Television]]. Parker has said retrospectively that this was easily his worst career reversal.<ref>Academy of Television Arts & Sciences Foundation Archive, July 24, 2000, http://emmys.tv/foundation/archive</ref>
+
+=== Producers and film crew ===
+''The Searchers'' was the first production from "distinguished [[wikt:turfman|turfman]]"<ref name="nyt56bc" /> [[Cornelius Vanderbilt Whitney]]; it was directed by John Ford and distributed by [[Warner Bros. Pictures]] Behind the camera film crew included cinematographer [[Winton C. Hoch]] and editor [[Jack Murray (film editor)|Jack Murray]].
+
+''The Searchers'' is the first of only three films produced by Whitney's company C.V. Whitney Pictures; the second was ''[[The Missouri Traveler]]'' in 1958 with [[Brandon deWilde]] and [[Lee Marvin]], and the third was ''[[The Young Land]]'' in 1959 with Wayne's son [[Patrick Wayne]] and [[Dennis Hopper]].
+
+=== Promotion ===
+[[File:Motionpictureher203quig 0311 02.jpg|thumb|right|C.V. Whitney Pictures, Inc. trade magazine ad promoting the Native American casting of ''The Searchers'']]
+As part of its promotion of ''The Searchers'' in 1956, Warner Bros. produced and broadcast one of the first [[behind-the-scenes|behind-the-scenes, "making-of" programs]] in movie history, which aired in 1956 as an episode of its ''[[Warner Bros. Presents]]'' TV series.<ref name=Museum>{{cite web|title=WARNER BROTHERS PRESENTS U.S. Dramatic Series|url=http://www.museum.tv/eotvsection.php?entrycode=warnerbrothe|publisher=The Museum of Broadcast Communications|access-date=23 February 2013|archive-date=May 14, 2013|archive-url=https://web.archive.org/web/20130514051607/http://www.museum.tv/eotvsection.php?entrycode=warnerbrothe|url-status=dead}}</ref><ref name=WBPresents>[[Warner Bros. Presents]]</ref>
+
+== Historical background ==
+[[File:The searchers Ford Trailer screenshot (4).jpg|left|thumb|Ethan during an attack on a [[Native Americans in the United States|Native American]] village]]
+Author [[Alan Le May]]'s surviving research notes indicate that the two characters who go in search of a missing girl were inspired by Britton Johnson, an [[African Americans|African-American]] [[teamster]] who ransomed his captured wife and children from the Comanches in 1865.<ref>"Brit Johnson, The Real Searcher", ''American History'' magazine, June 2007, p. 64; "Search for The Searchers", ''Wild West'' magazine, April 2009, p. 53.</ref> Afterward, Johnson made at least three trips to [[Indian Territory]]<!-- NOTE: This is the correct historical term, which is why it links to an article of that title; there was no such entity as "Native American Territory". --> and Kansas, relentlessly searching for another kidnapped girl, Millie Durgan (or Durkin), until [[Kiowa]] raiders killed him in 1871.<ref name="Brit Johnson">{{cite web|url= http://www.forttours.com/pages/brit.asp |title="Negro Brit Johnson, Dennis Cureton & Paint Crawford" on |publisher= Fort Tour Systems, Inc. |access-date= 2009-05-28}}</ref>
+
+Several film critics have suggested that ''The Searchers'' was inspired by the [[Fort Parker massacre|1836 kidnapping]] of nine-year-old [[Cynthia Ann Parker]] by Comanche warriors, who raided her family's home at Fort Parker, Texas.<ref>{{cite book|last=Eckstein|first=Arthur M.|author2=Peter Lehman |title=The Searchers: Essays and Reflections on John Ford's Classic Western|publisher=Wayne State University Press|year=2004|isbn=0-8143-3056-8}}</ref><ref>John Milius also makes this point in a documentary about the production, although film historian Edward Buscombe observes in ''The Searchers'' (London: British Film Institute, 2000), p.71., that Milius "gives no evidence for this assertion".</ref> She spent 24 years with the Comanches, married a war chief, and had three children (one of whom was the famous Comanche Chief [[Quanah Parker]]), only to be rescued against her will by Texas Rangers.<ref>{{Cite book |last=Jackson |first=Grace |url=https://books.google.com/books?id=y8rBDwAAQBAJ |title=Cynthia Ann Parker |date=2019-11-22 |publisher=Pickle Partners Publishing |isbn=978-1-83974-042-8 |language=en}}</ref> James W. Parker, Cynthia Ann's uncle, spent much of his life and fortune in what became an obsessive search for his niece, much like Ethan Edwards in the film.
+
+In addition, the rescue of Cynthia Ann, during a Texas Ranger attack known as the [[Battle of Pease River]], resembles the rescue of Debbie Edwards when the Texas Rangers attack Scar's village. Parker's story was only one of 64 real-life cases of 19th-century child abductions in Texas in which author Alan Le May studied the [[captivity narrative]]s while researching the novel on which the film was based.
+
+The ending of Le May's novel contrasts to the film's, with Debbie running from the white men and the Native Americans. Marty, in one final leg of his search, finds her days later, only after she has fainted from exhaustion.
+
+In the film, Scar's Comanche group is referred to as the Nawyecka, correctly the ''Noyʉhka'' or ''Nokoni'',<ref>''Taa Nʉmʉ Tekwapʉ?ha Tʉboopʉ (Our Comanche Dictionary)'', Comanche Language and Cultural Preservation Committee, 2010.</ref> the same band that kidnapped Cynthia Ann Parker. Some film critics{{Specify|date=June 2011}} have speculated that the historical model for the cavalry attack on a Comanche village, resulting in Look's death and the taking of Comanche prisoners to a military post, was the [[Battle of the Washita River]], November 27, 1868, when [[George Armstrong Custer|Lt. Col. George Armstrong Custer]]'s [[7th Cavalry Regiment|7th U.S. Cavalry]] attacked [[Black Kettle]]'s Cheyenne camp on the [[Washita River]] (near present-day [[Cheyenne, Oklahoma]]).<ref>Beulah Archuletta (1909-1969), who played Look, was [[Maricopa people|Pee-Posh (Maricopa)]] from the [[Gila River Indian Community]]. {{cite web |url=http://www.gricnews.org/index.php/grin-articles/2021-articles/august-20-2021-articles/in-the-golden-age-of-hollywood-a-local-pee-posh-woman-makes-her-mark-on-the-silverscreen |title=In the Golden Age of Hollywood, a Local Pee-Posh Woman Makes Her Mark on the Silver Screen |first1=Angela |last1=Aleiss |work=Gila River Indian News |date=August 20, 2021 |access-date=August 24, 2021}}</ref> The sequence also resembles the 1872 [[Battle of the North Fork of the Red River]], in which the [[4th Cavalry Regiment (United States)|4th Cavalry]] captured 124 Comanche women and children and imprisoned them at [[Fort Concho]].
+
+== Reception ==
+=== Contemporaneous reviews ===
+[[File:Monument Valley 10.jpg|thumb|upright 1.5|Although the film was set in the flat [[Llano Estacado]] of Texas, it was filmed in [[Monument Valley]] in [[Utah]].]]
+
+Upon the film's release, [[Bosley Crowther]] of ''[[The New York Times]]'' called it a "ripsnorting Western" (in spite of the "excessive language in its ads"); he credits Ford's "familiar corps of actors, writers, etc., [who help] to give the gusto to this film. From Frank S. Nugent, whose screenplay from the novel of Alan LeMay is a pungent thing, right on through the cast and technicians, it is the honest achievement of a well-knit team."<ref name="nyt56bc">{{cite web | title= The Searchers| date= May 31, 1956| first= Bosley |last= Crowther | url= https://www.nytimes.com/1956/05/31/archives/screen-the-searchers-find-action-entertaining-western-opens-at.html | author-link= Bosley Crowther | work=The New York Times | access-date=2011-06-25}}</ref> Crowther noted "two faults of minor moment":<ref name="nyt56bc" />
+* "Episode is piled upon episode, climax upon climax, and corpse upon corpse... The justification for it is that it certainly conveys the lengthiness of the hunt, but it leaves one a mite exhausted, especially with the speed at which it goes.
+* "The director has permitted too many outdoor scenes to be set in the obviously synthetic surroundings of the studio stage... some of those campfire scenes could have been shot in a sporting-goods store window."
+''Variety'' called it "handsomely mounted and in the tradition of ''[[Shane (film)|Shane]]''", yet "somewhat disappointing" due to its length and repetitiveness; "The John Ford directorial stamp is unmistakable. It concentrates on the characters and establishes a definite mood. It's not sufficient, however, to overcome many of the weaknesses of the story."<ref>{{cite magazine| title= The Searchers | date= March 13, 1956 | url= https://www.variety.com/review/VE1117794702?printerfriendly=true | magazine= Variety | access-date= 2011-06-25}}</ref>
+
+The ''[[New York Herald Tribune]]'' termed the movie "distinguished"; ''Newsweek'' deemed it "remarkable". ''Look'' described ''The Searchers'' as a "Homeric odyssey". ''The New York Times'' praised Wayne's performance as "uncommonly commanding".<ref name=Hoberman /> ''The [[Monthly Film Bulletin]]'' wrote, "Though it does not consistently achieve the highest Ford standards, ''The Searchers'' is surely the best Western since ''Shane''."<ref>{{cite journal |date=August 1956 |title=The Searchers |journal=[[The Monthly Film Bulletin]] |volume=23 |issue=271 |page=100 }}</ref>
+
+The film earned rentals of $4.8 million in the US and Canada during its first year of release.<ref>"The Top Box-Office Hits of 1956", ''Variety Weekly'', January 2, 1957</ref>
+
+The film helped revive the career of Jeffrey Hunter.<ref name="hunter">{{cite magazine|first=Stephen|last=Vagg|magazine=Filmink|access-date=12 May 2025|date=12 May 2025|title=Not Quite Movie Stars: Jeffrey Hunter|url=https://www.filmink.com.au/not-quite-movie-stars-jeffrey-hunter/}}</ref>
+
+=== Later assessments ===
+In 2001, critic [[Roger Ebert]] found Wayne's character, Ethan Edwards, "one of the most compelling characters Ford and Wayne ever created". Ebert writes: "''The Searchers'' indeed seems to be two films. The Ethan Edwards story is stark and lonely, a portrait of obsession, and in it we can see [[Paul Schrader|Schrader]]'s inspiration for Travis Bickle of ''[[Taxi Driver]]''. [...] The film within this film involves the silly romantic subplot and characters hauled in for comic relief, including the Swedish neighbor Lars Jorgensen (John Qualen), who uses a vaudeville accent, and Mose Harper (Hank Worden), a half-wit treated like a mascot. [...] This second strand is without interest, and those who value ''The Searchers'' filter it out, patiently waiting for a return to the main story line."<ref name="Review of The Searchers" />
+
+''The Searchers'' has been cited as one of [[List of films voted the best|the greatest films of all time]], such as in the BFI's decennial ''[[Sight & Sound]]'' polls. In 1972, ''The Searchers'' was ranked 18th; in 1992, 5th; in 2002, 11th; in 2012, 7th. In a 1959 ''[[Cahiers du Cinéma]]'' essay, [[Jean-Luc Godard]] compared the movie's ending to the reuniting of [[Odysseus]] with [[Telemachus]] in [[Homer]]'s ''[[Odyssey]]''<ref name=Hoberman /> and wrote: <blockquote>How can I hate […] John Wayne, who supports [[Barry Goldwater|Goldwater]], and love him tenderly when he suddenly takes Natalie Wood in his arms in the penultimate reel of The Searchers?<ref>{{Citation |last=Morrey |first=Douglas |chapter=Jean-Luc Godard |date=2016-03-31 |title=Cinema and Media Studies |chapter-url=https://doi.org/10.1093/obo/9780199791286-0245 |access-date=2025-11-04 |publisher=Oxford University Press |isbn=978-0-19-979128-6}}</ref></blockquote>In 1963, he ranked ''The Searchers'' as the fourth-greatest American movie of the sound era, after ''[[Scarface (1932 film)|Scarface]]'' (1932), ''[[The Great Dictator]]'' (1940), and ''[[Vertigo (film)|Vertigo]]'' (1958).<ref>A Young Jean-Luc Godard Picks the 10 Best American Films Ever Made (1963). [http://www.openculture.com/2013/12/a-young-jean-luc-godard-picks-the-best-american-films-1963.html open culture.com]. Retrieved October 14, 2014.</ref> The 1998 [[American Film Institute]] [[AFI's 100 Years...100 Movies (10th Anniversary Edition)|100 greatest American films]] list ranked ''The Searchers'' in 96th place, and the 2007 iteration of the list ranked it in 12th place. In 1998, ''[[TV Guide]]'' ranked it 18th.<ref>{{cite web|url=http://www.oocities.org/aaronbcaldwell/tvguide.html|title=Top 100 Movie Lists – TV Guide's 50 Greatest Movies|work=oocities.org|access-date=10 March 2016}}</ref> In 2008, the American Film Institute named ''The Searchers'' as the greatest Western of all time.<ref>{{cite news | author = American Film Institute | title = AFI Crowns Top 10 Films in 10 Classic Genres | work = ComingSoon.net | date = 2008-06-17 | url = https://www.comingsoon.net/news/movienews.php?id=46072 | access-date = 2008-06-18 | author-link = American Film Institute | archive-date = June 19, 2008 | archive-url = https://web.archive.org/web/20080619034738/http://www.comingsoon.net/news/movienews.php?id=46072 | url-status = dead }}</ref> In 2010, [[Richard Corliss]] noted the film was "now widely regarded as the greatest Western of the 1950s, the genre's greatest decade" and characterized it as a "darkly profound study of obsession, racism, and heroic solitude".<ref>{{cite magazine| url= http://www.time.com/time/specials/packages/article/0,28804,1958245_1958244_1958222,00.html | archive-url= https://web.archive.org/web/20100205075739/http://www.time.com/time/specials/packages/article/0,28804,1958245_1958244_1958222,00.html | url-status= dead | archive-date= February 5, 2010 | title= Best Director: John Ford, ''The Searchers'' (1956)| date= February 1, 2010| magazine= Time| first= Richard |last= Corliss| author-link= Richard Corliss | access-date= 2011-06-25}}</ref>
+
+The film currently maintains an 87% rating on the [[review aggregator|review aggregate]] website [[Rotten Tomatoes]] based on 98 reviews, with an average rating of 9.1/10. The site's critics' consensus reads: "''The Searchers'' is an epic John Wayne Western that introduces dark ambivalence to the genre that remains fashionable today."<ref>{{Cite web|url=https://www.rottentomatoes.com/m/searchers/|title=The Searchers (1956)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date=March 25, 2024}}</ref> On [[Metacritic]], the film has a score of 94 out of 100 based on reviews from 15 critics, indicating "universal acclaim".<ref>{{cite web|url=https://www.metacritic.com/movie/the-searchers|title=The Searchers Reviews|website=[[Metacritic]]|publisher=[[CBS Interactive]]|accessdate=January 14, 2022}}</ref>
+
+The film has been recognized multiple times by the [[American Film Institute]]:
+* [[AFI's 100 Years...100 Movies]] – #96
+* [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – #12
+* [[AFI's 10 Top 10]] – #1 Western Film
+
+On "They Shoot Pictures Don't They", a site which numerically calculates critical reception for any given film, ''The Searchers'' has been recognized as the ninth-most acclaimed movie ever made.<ref>{{cite web|url=http://www.theyshootpictures.com/gf1000_all1000films_table.php|title=1,000 Greatest Films (Full List)|access-date=April 6, 2017}}</ref> Members of the [[Western Writers of America]] chose its title song as one of the top 100 Western songs of all time.<ref name="Top100">{{Cite web|title=The Top 100 Western Songs|author=Western Writers of America|year=2010|author-link=Western Writers of America|publisher=American Cowboy|url=http://www.americancowboy.com/culture/top-100-western-songs|archive-url=https://web.archive.org/web/20101019002745/http://americancowboy.com/culture/top-100-western-songs|archive-date=19 October 2010|url-status=dead}}</ref>
+
+Scott McGee stated in 2002, "... more than just making a social statement like other Westerns of the period were apt to do, Ford instills in ''The Searchers'' a visual poetry and a sense of melancholy that is rare in American films and rarer still to Westerns."<ref name=McGee />
+
+In 2006, the [[Writers Guild of America West]] ranked the film's screenplay 97th in its list of 101 Greatest Screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-01 |language=en}}</ref> [[Glenn Frankel]]'s 2013 study of the film calls it "the greatest Hollywood film that few people have seen".<ref name="Hoberman">As cited in {{cite news |last=Hoberman |first=J. |title=American Obsession 'The Searchers', by Glenn Frankel |url=https://www.nytimes.com/2013/02/24/books/review/the-searchers-by-glenn-frankel.html?smid=pl-share |access-date=23 February 2013 |newspaper=New York Times |date=February 22, 2013}}</ref>
+
+== Critical interpretations ==
+
+=== Race relations ===
+[[File:The searchers Ford Trailer screenshot (9).jpg|thumb|Ethan angrily confronts Clayton after being interrupted while gunning down retreating Native Americans.]]
+A major theme of the film is the historical attitude of white settlers toward Native Americans. Ford was not the first to attempt this examination cinematically, but his depiction of harshness toward Native Americans was startling, particularly to later generations of viewers; Roger Ebert wrote, "I think Ford was trying, imperfectly, even nervously, to depict racism that justified genocide."<ref name="Review of The Searchers">{{cite web |url=https://www.rogerebert.com/reviews/great-movie-the-searchers-1956 |first=Roger |last=Ebert |title=The Searchers (1956) |work=Chicago Sun-Times |date=November 25, 2001}}</ref> At the heart of ''The Searchers'' is Wayne's performance as the angry, vengeful Ethan Edwards. From the beginning of his quest, he is quite clearly less interested in rescuing Debbie than in wreaking vengeance on the Comanches for the slaughter of his brother's family.<ref name="frankel">{{cite news |url=https://www.washingtonpost.com/lifestyle/style/the-searchers-was-influential-film-in-its-day-and-still-resonates-today/2013/07/04/8b6d5e48-dffb-11e2-b2d4-ea6d8f477a01_story.html |last=Frankel |first=Glenn |title=''The Searchers'' was influential film in its day and still resonates today |work=The Washington Post |date=July 4, 2013}}</ref>
+
+In a 1964 interview with ''[[Cosmopolitan (magazine)|Cosmopolitan]]'', Ford said,
+
+{{blockquote|There's some merit to the charge that the Indian hasn't been portrayed accurately or fairly in the Western, but again, this charge has been a broad generalization and often unfair. The Indian didn't welcome the white man&nbsp;... and he wasn't diplomatic&nbsp;... If he has been treated unfairly by whites in films, that, unfortunately, was often the case in real life. There was much racial prejudice in the West.<ref name="Race, Racism and the Fear of Miscegenation" />}}
+
+Film scholar Ed Lowry writes, "[W]hile the Comanches are depicted as utterly ruthless, Ford ascribes motivations for their actions, and lends them a dignity befitting a proud civilization. Never do we see the Indians commit atrocities more appalling than those perpetrated by the white man."<ref name="McGee" /> "Wayne is plainly [[Captain Ahab|Ahab]]", wrote cultural critic [[Greil Marcus]]. "He is the good American hero driving himself past all known limits and into madness, his commitment to honor and decency burned down to a core of vengeance."<ref name="frankel" /> For Brenton Priestley, Ford indicates that Scar's cruelty is also motivated by revenge ("Two sons killed by white men. For each son, I take many... scalps.")<ref name="Race, Racism and the Fear of Miscegenation">{{cite web |last=Priestley |first=Brenton |url=http://www.brentonpriestley.com/writing/searchers.htm |title=Race, Racism and the Fear of Miscegenation in ''The Searchers'' |website=BrentonPriestley.com |access-date=2012-10-14}}</ref>
+
+==== Miscegenation ====
+[[File:The searchers Ford Trailer screenshot (18-crop).jpg|thumb|[[Natalie Wood]] as Debbie]]
+
+The theme of [[miscegenation]] also runs through the film. Many critical analyses of ''The Searchers'' highlight Ethan's view of Debbie as having been "contaminated" through her abduction and implied rape.<ref>{{cite magazine |last=Henderson |first=Brian |title='The Searchers': An American Dilemma |magazine=Film Quarterly |volume=34 |issue=2 |year=1980 |page=5}}</ref><ref>{{cite journal |last=Eckstein |first=Arthur M. |title=Darkening Ethan: John Ford’s 'The Searchers' (1956) from Novel to Screenplay to Screen |journal=Cinema Journal |volume=38 |issue=1 |year=1998 |page=4}}</ref><ref>{{cite journal |last=Sharrett |first=Christopher |title=Through a Door Darkly: A Reappraisal of John Ford's 'The Searchers' |journal=Cinéaste |volume=31 |issue=4 |year=2006 |page=6}}</ref>
+
+The rape of captive white women by the Comanche is an unspoken theme. No actual rape scene is depicted, but [[Alexandra Heller-Nicholas]] in her study of ''Rape-Revenge Films'' says, "the abduction, captivity, and implied rape of Debbie (Natalie Wood)&nbsp;... drives the narrative";<ref>{{cite book |first=Alexandra |last=Heller-Nicholas |url=https://books.google.com/books?id=gSbejiCmJ-UC&pg=PA71 |title=Rape-Revenge Films: A Critical Study |date=2011 |publisher=McFarland |isbn=9780786486922 |page=71}}</ref> and Edward Buscombe points out a scene in which "[Ethan] turns off the trail to penetrate a narrow crevice in the rocks, and when he emerges, his savage stabbing with his knife seems to mimic a violent sexual act, drawing us 'a picture' of the act of rape which obsesses him."<ref>{{cite book |author=Edward Buscombe |url=https://archive.org/details/searchers00busc |title=The Searchers |publisher=British Film Institute |year=2000 |isbn=9780851708201 |page=[https://archive.org/details/searchers00busc/page/29 29] |url-access=registration}}</ref> Glenn Frankel writes that in real life, "Rape was a fact of life for many captives, although it was seldom discussed by those women who escaped or were ransomed back to the white world."<ref>{{cite book |first=Glenn |last=Frankel |url=https://archive.org/details/searchersmakingo0000fran |title=The Searchers: The Making of an American Legend |publisher=Bloomsbury USA |year=2014 |page=[https://archive.org/details/searchersmakingo0000fran/page/41 41] |url-access=registration}}</ref>
+
+Early on, Martin earns a sour look from Ethan when he admits to being [[Blood quantum laws|one-eighth Cherokee]]. Ethan says repeatedly that he will kill his niece rather than have her live "with a buck", that "living with the Comanche ain't living". Even one of the film's gentler characters, Vera Miles's Laurie, tells Martin when he explains he must protect his adoptive sister, "Ethan will put a bullet in her brain. I tell you Martha would want him to." This outburst makes it clear that even the supposedly gentler characters hold the same fear of miscegenation.<ref name="Race, Racism and the Fear of Miscegenation" />
+
+Randy Roberts and James Olson write that Ethan Edwards
+
+{{blockquote|is also an obsessed maniac. White settlers are not simply the advanced vanguard of civilization; they are racists. Indians are not just noble savages; they are savage killers. The frontier is not a place of opportunity; it is a wasteland.&nbsp;... In the character of Ethan Edwards, John Wayne had extended the Western hero to the border of evil.<ref>{{cite book |first1=Randy |last1=Roberts |first2=James S. |last2=Olson |title=John Wayne: American |year=1995 |page=423}}</ref>}}
+
+=== Ethan and Martha ===
+[[File:The searchers Ford Trailer screenshot (12-crop).jpg|thumb|The unspoken love between Wayne's Ethan and his brother's wife Martha and his obsession with avenging her drive the film.]]
+
+An important plot undercurrent is the obvious mutual attraction between Ethan Edwards and his brother's wife, Martha. Although no dialogue alludes to it, many visual references to their relationship are seen throughout the film.<ref>Studlar, Gaylyn. "What Would Martha Want?  Captivity, Purity, and Feminine Values in ''The Searchers''". In {{harvnb|Eckstein|Lehman|2004|pages=179–182}}.</ref><ref>Eckstein, Arthur M.  "Incest and Miscegenation in ''The Searchers'' (1956) and ''The Unforgiven'' (1959)". In {{harvnb|Eckstein|Lehman|2004|pages=200}}.</ref><ref>Lehman, Peter. {{"'}}You Couldn't Hit It on the Nose': The Limits of Knowledge in and of ''The Searchers''". In {{harvnb|Eckstein|Lehman|2004|pages=248, 263}}.</ref> Some critics have suggested that this unspoken passion implies that Debbie—who is specifically described as eight years old, as Ethan returns from an eight-year absence—may be Ethan's daughter. Such a situation would add further layers of nuance to Ethan's obsessive search for Debbie, his revulsion at the thought that she might be living as a Native American, and his ultimate decision to bring her home—and then walk away. Beyond the ostensible motivations, it might depict a guilt-ridden father's need to save the daughter he made by cuckolding his brother, then abandoned.<ref>{{cite web  | url= http://hereandnow.wbur.org/2011/03/29/searchers-john-ford | title= After 55 Years, 'The Searchers' Legacy Still Up For Debate | date= March 29, 2011 | work=[[Here and Now (Boston)|Here & Now]] | publisher= Trustees of [[Boston University]] | access-date= 2011-06-25  | archive-date= April 1, 2011 | archive-url= https://web.archive.org/web/20110401000805/http://hereandnow.wbur.org/2011/03/29/searchers-john-ford  | url-status= dead  }}</ref>
+
+== Influence ==
+''The Searchers'' has influenced many films. [[David Lean]] watched the film repeatedly while preparing for ''[[Lawrence of Arabia (film)|Lawrence of Arabia]]'' to help him get a sense of how to shoot a landscape.<ref name=arabia>{{cite news |last=Snider |first=Eric |date=11 May 2011 |title=What's the Big Deal?: Lawrence of Arabia (1962) |url=http://www.mtv.com/news/2766224/whats-the-big-deal-lawrence-of-arabia-1962/ |archive-url=https://web.archive.org/web/20160809004515/http://www.mtv.com/news/2766224/whats-the-big-deal-lawrence-of-arabia-1962/ |url-status=dead |archive-date=August 9, 2016 |publisher=MTV |access-date=12 July 2016 }}</ref> The entrance of Ethan Edwards in ''The Searchers'', across a vast prairie, is echoed in the across-the-desert entrance of Sherif Ali in ''Lawrence of Arabia''. [[Sam Peckinpah]] referenced the aftermath of the massacre and the funeral scene in ''[[Major Dundee]]'' (1965), and according to a 1974 review by [[Jay Cocks]], Peckinpah's ''[[Bring Me the Head of Alfredo Garcia]]'' contains dialogue with "direct tributes to such classics as [[John Huston]]'s ''[[The Treasure of the Sierra Madre (film)|The Treasure of the Sierra Madre]]'' and John Ford's ''The Searchers''."<ref>{{cite book|last=Matheson|first=Sue|date=18 February 2016|title=The Westerns and War Films of John Ford|url=https://books.google.com/books?id=bMZ4CwAAQBAJ&q=major+dundee+searchers&pg=PA316|publisher=Rowman & Littlefield Publishers|isbn=978-1-4422-6105-1}}</ref><ref>{{cite magazine| url= http://www.time.com/time/magazine/article/0,9171,908672,00.html | archive-url= https://web.archive.org/web/20081222070345/http://www.time.com/time/magazine/article/0,9171,908672,00.html | url-status= dead | archive-date= December 22, 2008 | title= Bring Me the Head of Alfredo Garcia | date= September 16, 1974 | magazine= Time| first= Jay |last= Cocks| author-link= Jay Cocks | access-date=2011-06-25}}</ref>
+
+[[Martin Scorsese]]'s 1967 film ''[[Who's That Knocking at My Door]]'' features a sequence in which the two primary characters discuss ''The Searchers'',<ref>''Who's That Knocking at My Door'' motion picture, 1967, Trimod Films, Joseph Brenner Associates</ref> and in his 1973 film ''[[Mean Streets]]'', three characters attend a screening of ''The Searchers''.<ref>[https://moviesinothermovies.com/2019/11/01/the-searchers-and-the-tomb-of-ligeia-in-mean-streets/ "'The Searchers' and 'The Tomb of Ligeia' in ‘Mean Streets’"]. MoviesInOtherMovies.com, November 1, 2019, Accessed November 6, 2025.</ref> In 2012, in a ''Sight & Sound'' poll, Scorsese listed ''The Searchers'' as one of his all-time favorite films.<ref>{{cite web|url=http://www.miramax.com/subscript/scorseses-favorite-films|title=Scorsese's 12 favorite films|publisher=Miramax.com|access-date=25 December 2013|url-status=dead|archive-url=https://web.archive.org/web/20131226091025/http://www.miramax.com/subscript/scorseses-favorite-films|archive-date=26 December 2013}}</ref><ref>{{cite web |last=Chitwood |first=Adam |date=23 August 2012 |title=Check Out the Sight & Sound Top 10 Lists from Quentin Tarantino, Edgar Wright, Martin Scorsese, Guillermo del Toro, Woody Allen and More |url=https://collider.com/sight-sound-directors-list-quentin-tarantino/ |website=Collider |access-date=12 July 2016 }}</ref>
+
+Scott McGee, writing for [[Turner Classic Movies]], notes "[[Steven Spielberg]], Martin Scorsese, [[John Milius]], [[Paul Schrader]], [[Wim Wenders]], Jean-Luc Godard, and [[George Lucas]] have all been influenced and paid some form of homage to ''The Searchers'' in their work."<ref name=McGee>{{cite web | last=McGee | first=Scott | title=The Searchers (1956) | website=Turner Classic Movies | date=2002-10-30 | url=https://www.tcm.com/articles/afi-top-100/1093/the-searchers-1956 | access-date=2026-05-04}}</ref> Wenders' [[Palme d'Or]]-winning 1984 film ''[[Paris, Texas (film)|Paris, Texas]]'' in particular has been cited for similarities.<ref>{{cite book |last=Jones |first=Stan |chapter=Wenders' Paris, Texas and the 'European Way of Seeing' |title=European Identity in Cinema |location=Bristol and Portland, Oregon |publisher=Intellect Books |date=2005 |isbn=1-84150-916-7 |page=52}}</ref><ref>{{cite book |last=Adam |first=Thomas |title=Germany and the Americas: O-Z |location=Santa Barbara, California, Denver and Oxford |publisher=ABC-CLIO |date=2005 |isbn=1-85109-628-0 |page=1133}}</ref>
+
+The film influenced several aspects of George Lucas' film saga ''[[Star Wars]]''.<ref name=arabia /> The scene in which Ethan Edwards discovers the flaming wreckage of his family homestead is reflected in 1977's ''[[Star Wars (film)|Star Wars]]'', wherein the character [[Luke Skywalker]] finds that his homestead has been burned and destroyed by [[Stormtrooper (Star Wars)|Imperial Stormtroopers]].<ref name=star>{{cite news |last=Young |first=Bryan |date=27 April 2015 |title=The Cinema Behind ''Star Wars'': ''The Searchers'' |url=https://www.starwars.com/news/the-cinema-behind-star-wars-the-searchers |publisher=StarWars.com |access-date=11 July 2016 }}</ref><ref name=tech>{{cite news |last=Serafino |first=Jason |date=1 October 2015 |title=The Films That Inspired The 'Star Wars' Saga |url=http://www.techtimes.com/articles/88089/20151001/star-wars-origins-classic-films-inspired-george-lucas-intergalactic-vision.htm |publisher=Tech Times |access-date=12 July 2016 }}</ref><ref>{{cite news |last=Robey |first=Tim |date=14 December 2015 |title=10 films that influenced Star Wars |url=https://www.telegraph.co.uk/film/star-wars--a-new-hope/movies-influences-george-lucas/ |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/film/star-wars--a-new-hope/movies-influences-george-lucas/ |archive-date=January 12, 2022 |url-access=subscription |url-status=live |publisher=The Telegraph UK |access-date=12 July 2016 }}{{cbignore}}</ref> ''The Searchers'' was also an influence on the 2002 prequel film in the series, ''[[Star Wars: Episode II – Attack of the Clones]]''. In the film, [[Darth Vader|Anakin Skywalker]] learns that one of his family members has been abducted by a group of [[Tusken Raiders]] (though the character's mother is kidnapped, rather than a niece). Anakin massacres the kidnappers in vengeance, much like ''The Searchers''' climactic battle in the Comanche camp.<ref name=star /><ref name=tech /> The opening scenes of ''[[Rogue One]]'' mirror those of ''The Searchers'': the pig-tailed character of [[Jyn Erso|Jyn]] is hidden by her parents when their homestead is attacked in the same way little Debbie is saved by her parents when they are attacked by the Comanches.
+
+[[Douglas Gordon]]'s 1995 artwork, ''5 Year Drive-By'', stretches out ''The Searchers'' from the original 119-minute runtime to five years (reflecting the events of the movie taking place over a timespan of five years), playing at a speed of one frame every 24 minutes.<ref>{{Cite web |date=2018-02-23 |title=Douglas Gordon |url=https://gagosian.com/quarterly/2018/02/23/douglas-gordon/ |access-date=2023-07-11 |website=Gagosian Quarterly |language=en}}</ref><ref>{{Cite web |title=Douglas Gordon. Back and Forth and Forth and Back - Exhibition at Gagosian Gallery {{!}} New York {{!}} West 21st Street in New York |url=https://www.artrabbit.com/events/douglas-gordon-back-and-forth-and-forth-and-back |access-date=2023-07-11 |website=ArtRabbit |language=en}}</ref><ref>{{Cite web |title=Douglas Gordon - 5 year drive-by; proposal for a public artwork. |url=https://aup.e-flux.com/project/douglas-gordon/ |access-date=2023-07-11 |language=en-US}}</ref>
+
+The 2007 film ''[[Searchers 2.0]]'' by [[Alex Cox]] includes many discussions of ''The Searchers'' as well as other revenge films. In the film, the characters attend a screening of a remake of ''The Searchers'' directed by [[Ted Post]] and starring [[James Mitchum]] as Ethan Edwards and [[Telly Savalas]] as Chief Cicatriz (Scar), though no such remake was ever made in reality (Ted Post had actually directed a remake of John Ford's ''[[Stagecoach (1939 film)|Stagecoach]]'').
+
+''[[Breaking Bad]]'' creator [[Vince Gilligan]] stated that the ending to the show's final episode, "[[Felina (Breaking Bad)|Felina]]", was influenced by the film.<ref>{{cite web | url = http://insidetv.ew.com/2013/09/30/breaking-bad-finale-vince-gilligan/ | archive-url = https://web.archive.org/web/20131003023917/http://insidetv.ew.com/2013/09/30/breaking-bad-finale-vince-gilligan/ | archive-date = 2013-10-03 | title = 'Breaking Bad': Creator Vince Gilligan explains series finale | first= Dan | last = Snierson | date= September 30, 2013 | publisher = [[Entertainment Weekly]]}}</ref>
+
+The 2016 Canadian film ''[[Searchers (film)|Searchers]]'' is a partial remake of the film, in which an [[Inuit|Inuk]] man in 1913 finds his wife and daughter have been kidnapped. However, co-director [[Zacharias Kunuk]] discarded the original's plot about conflicts between [[white people]] and [[Indigenous peoples of the Americas|indigenous peoples]], instead using only Inuit characters. Kunuk explained racism was not an intended theme of his film.<ref name="Taylor">{{Cite web|url=https://www.theglobeandmail.com/arts/film/two-of-canadas-top-films-look-to-preserve-the-inuit-way-of-life/article33601570/ |title=Two of Canada's top films look to preserve the Inuit way of life |last=Taylor |first=Kate |date=12 January 2017 |access-date=28 January 2017 |work=[[The Globe and Mail]]}}</ref> Kunuk said he watched Western films in the [[Igloolik]] community hall as a boy, and declared ''The Searchers'' star John Wayne "was our hero".<ref>{{Cite web|url=http://www.cbc.ca/radio/q/schedule-for-friday-january-20-2017-1.3941380/zacharias-kunuk-reimagines-the-classic-western-in-his-new-film-searchers-1.3943144 |title=Zacharias Kunuk reimagines the classic Western in his new film Searchers |last=Power |first=Tom |date=20 January 2017 |access-date=28 January 2017 |work=[[CBC Radio]]}}</ref>
+
+John Wayne's repeatedly used line "that'll be the day" inspired [[Buddy Holly]] to write the song "[[That'll Be the Day]]" after seeing the film in a theater in Lubbock, Texas.<ref>{{cite web|url=https://www.chicagotribune.com/news/ct-xpm-1999-08-16-9908160065-story.html|publisher=[[Chicago Tribune]]|title=WANT SOME NEWS TO MAKE YOU GRIN?|date=August 16, 1999 |access-date=2020-05-06}}</ref>
+
+The title of the novel ''[[The Searcher (novel)|The Searcher]]'' by [[Tana French]] is an allusion to the film.<ref name=":0" /><ref name=":1" />
+
+== Home media ==
+''The Searchers'' was first released on home video on [[VHS]] and [[Betamax]] in 1980, followed by releases on [[LaserDisc]] in 1984 and [[DVD]] in 1997. It was released by the [[Warner Archive Collection]] on [[Blu-ray]], [[HD DVD]] and a remastered DVD in 2006 for the film's 50th anniversary.<ref>{{Cite web |title=Blu-ray News and Reviews {{!}} High Def Digest |url=https://bluray.highdefdigest.com/489/searchers.html |access-date=2025-06-13 |website=bluray.highdefdigest.com}}</ref> The film was released on [[Ultra HD Blu-ray]] and a remastered Blu-ray on December 17, 2024, by the Warner Archive Collection as the label's first 4K release, featuring a remaster from its original VistaVision camera negative.<ref>{{Cite web |last=Fraser |first=Kevin |date=2024-11-05 |title=The Searchers: One of the greatest Westerns of all time is getting a 4K Ultra HD release |url=https://www.joblo.com/the-searchers-4k-blu-ray-release/ |access-date=2025-06-13 |website=JoBlo |language=en-US}}</ref>
+
+== Comic book adaptation ==
+* [[Dell Comics]] published an adaptation of ''The Searchers'' in ''[[Four Color|Dell Four Color]]'' #709 (June 1956), written by [[Leo Dorfman]] and drawn by [[Mike Roy]]. The comic book downplays Ethan's racism and omits the final iconic scene of the film.<ref>{{gcdb issue|id=12906|title=Dell Four Color #709}}</ref><ref>{{comicbookdb|type=issue|id=313401|title=Dell Four Color #709}}</ref>
+
+== See also ==
+{{Portal|Film}}
+* [[John Ford filmography]]
+* [[John Wayne filmography]]
+* [[List of American films of 1956]]
+* [[List of cult films]]
+* [[List of films voted the best]]
+
+== References ==
+{{Reflist|30em}}
+
+== Bibliography ==
+* {{cite journal |last1=Alvis |first1=J. David |first2=John E. |last2=Alvis |title=Heroic Virtue and the Limits of Democracy in John Ford's ''The Searchers'' |journal=Perspectives on Political Science |volume=38 |issue=2 |year=2009 |pages=69–78 |doi=10.3200/PPSC.38.2.69-78 |s2cid=144615334 }}
+* {{cite journal |last=Clauss |first=James J. |title=Descent into Hell: Mythic Paradigms in ''The Searchers'' |journal=Journal of Popular Film and Television |volume=27 |issue=3 |year=1999 |pages=2–17 |doi=10.1080/01956059909602804 }}
+* {{cite journal |last=Cohen |first=Hubert I. |title=''Red River'' and ''The Searchers'': Deception in the Modern Western |journal=Film Criticism |volume=35 |issue=1 |year=2010 |pages=82–102 |jstor=44019396 }}
+* {{cite journal |last=Day |first=Kirsten |title='What Makes a Man to Wander?': The Searchers as a Western Odyssey |journal=Arethusa |volume=41 |issue=1 |year=2008 |pages=11–49 |doi=10.1353/are.2008.0010 |s2cid=162446780 }}
+* {{cite book | author = Day, Kirsten. |title = Cowboy Classics: The Roots of the American Western in the Epic Tradition | publisher = Edinburgh University Press | year = 2016 | isbn = 978-1-4744-0246-0}}
+* {{cite journal |last=Eckstein |first=Arthur M. |title=Darkening Ethan: John Ford's ''The Searchers'' (1956) from Novel to Screenplay to Screen |journal=Cinema Journal |year=1998 |volume=38 |issue=1 |pages=3–24 |doi=10.2307/1225733 |jstor=1225733 |url=http://www.historyteacher.net/HistoryThroughFilm/FilmReadings/DarkeningEthan--JohnFordTheSearchers.pdf }}
+* {{cite book |editor-last=Eckstein |editor-first=Arthur M. |editor-first2=Peter |editor2-last=Lehman |year=2004 |title=The Searchers: Essays and Reflections on John Ford's Classic Western |publisher=Wayne State University Press }}
+* {{cite book | author = Frankel, Glenn |title = The Searchers: The Making of an American Legend | url = https://archive.org/details/searchersmakingo0000fran_f6c0 | url-access = registration | location = New York | publisher = Bloomsbury | year = 2013 | isbn = 978-1-60819-105-5}} [https://www.amazon.com/Searchers-Making-American-Legend/dp/1608191052/ Excerpt and text search].
+* {{cite journal |last=Freedman |first=Jonathan |title=The Affect of the Market: Economic and Racial Exchange in ''The Searchers'' |journal=American Literary History |year=2000 |volume=12 |issue=3 |pages=585–599 |doi=10.1093/alh/12.3.585 |jstor=490222 |s2cid=144193286 }}
+* {{cite book | author = Pippin, Robert B. |title = Hollywood Westerns and American Myth: The Importance of Howard Hawks and John Ford for Political Philosophy | publisher = Yale University Press | year = 2012 | isbn = 978-0-300-17206-5}}
+
+=== Primary sources ===
+* [http://www.weeklyscript.com/Searchers,%20The.txt ''The Searchers: Screenplay''], by Frank S Nugent, Alan Le May, John Ford. Published by Warner Bros, 1956.
+
+== External links ==
+{{Commons category|The Searchers (film)}}
+{{Wikiquote|The Searchers}}
+* {{IMDb title|0049730}}
+* {{TCMDb title|16113}}
+* {{AFI film|53577}}
+* {{Deprecated archive|url=https://archive.today/20131030093339/http://mitteleuropa.x10.mx/filmlocations_searchers.html|title=Filming Locations for ''The Searchers''|sec=el}}
+* [https://gutenberg.ca/ebooks/lemaya-thesearchers/lemaya-thesearchers-00-h.html Original novel by Alan LeMay]
+* {{Mojo title|searchers}}
+* {{rotten-tomatoes|searchers}}
+
+{{John Ford}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Searchers}}
+[[Category:1956 Western (genre) films]]
+[[Category:American Western (genre) epic films]]
+[[Category:Revisionist Western (genre) films]]
+[[Category:American Indian Wars films]]
+[[Category:Comanche in popular culture]]
+[[Category:Films about kidnapping]]
+[[Category:Films about missing people]]
+[[Category:Films about revenge]]
+[[Category:Films adapted into comics]]
+[[Category:Films directed by John Ford]]
+[[Category:Films scored by Max Steiner]]
+[[Category:Films set in Texas]]
+[[Category:Films set in the 1860s]]
+[[Category:Films set in the 1870s]]
+[[Category:Films set in the American frontier]]
+[[Category:Films shot in Arizona]]
+[[Category:Films shot in California]]
+[[Category:Films shot in Colorado]]
+[[Category:Films shot in Edmonton]]
+[[Category:Films shot in Monument Valley]]
+[[Category:Films shot in Utah]]
+[[Category:United States National Film Registry films inducted in 1989]]
+[[Category:Warner Bros. films]]
+[[Category:1956 English-language films]]
+[[Category:1956 American films]]
+[[Category:English-language Western (genre) films]]
+[[Category:VistaVision films]]
+[[Category:Works featuring villain protagonists]]
+[[Category:Articles containing video clips]]

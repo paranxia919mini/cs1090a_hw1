@@ -1,0 +1,256 @@
+{{Use dmy dates|date=September 2019}}
+{{Infobox film
+| name           = One Cut of the Dead
+| image          = Kamera-o-tomeru-na-japanese-movie-poster-md.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = Shin'ichirō Ueda
+| producer       = Koji Ichihashi
+| screenplay     = Shin'ichirō Ueda
+| based_on = {{based_on|Ghost in the Box!|Ryoichi Wada}}
+| starring       = {{plainlist|
+* Takayuki Hamatsu
+* [[Yuzuki Akiyama]]
+* Kazuaki Nagaya
+* Harumi Syuhama
+* Manabu Hosoi 
+* Hiroshi Ichihara
+* Shuntaro Yamazaki
+* Shinichiro Osawa 
+}}
+| music          = {{plainlist|
+* Nobuhiro Suzuki
+* Kailu Nagai}}
+| cinematography = Tsuyoshi Sone
+| editing        = Shin'ichirō Ueda
+| studio         = Enbu Seminar
+| distributor    = [[Asmik Ace]]
+| released       = {{Film date|df=yes|2017|11|4|Japan}}
+| runtime        = 97 minutes
+| country        = Japan
+| language       = Japanese
+| budget         = {{JPY|3 million|link=yes}}<br />([[US dollar|$]]25,000)
+| gross          = {{JPY|3.12 billion}} (Japan)<br>$31.2 million (worldwide)
+}}
+
+{{nihongo|'''''One Cut of the Dead'''''|カメラを止めるな!|Kamera o Tomeru na!|{{translation}} ''Don't Stop the Camera!''|lead=yes}} is a 2017 Japanese [[Independent film|independent]] [[Satire|satirical]] [[zombie comedy film|zombie comedy]] film written and directed by Shin'ichirō Ueda. Based primarily on the stage play ''Ghost in the Box!'' by Ryoichi Wada, it follows a film crew who are tasked with making ''One Cut of the Dead'', a [[zombie film|zombie horror]] film for live television that must be [[One-shot film|shot in a single take]]; the film initially depicts ''One Cut of the Dead'' as a [[Story within a story|film within the film]], then goes back in time to show the origins and production of the project from the perspective of the cast and crew.<ref name="kerr-hw">{{cite web|last=Kerr|first=Elizabeth|date=20 March 2018|title='One Cut of the Dead': Film Review|url=https://www.hollywoodreporter.com/review/one-cut-dead-film-review-filmart-2018-1095805|access-date=22 October 2018|work=[[The Hollywood Reporter]]|archive-date=22 October 2018|archive-url=https://web.archive.org/web/20181022113416/https://www.hollywoodreporter.com/review/one-cut-dead-film-review-filmart-2018-1095805|url-status=live}}</ref><ref name="kuipers" />
+
+Made with a [[Low-budget film|low budget]] of {{JPY|3 million}} ([[US dollar|$]]25,000) with a cast of unknown actors, ''One Cut of the Dead'' opened in a small cinema in Japan for a six-day run. Following its international success upon its screening at the Udine Film Festival, the film received a [[wide release]], including a re-release in Japan.
+
+The film grossed $27.93 million ({{JPY|3.12 billion|link=yes}}) in Japan and {{US$|{{#expr:27.814924+1.602855+0.90953+0.154123+0.00285 round 1}} million|long=no}} worldwide, making box office history by earning over 1,000 times its budget. It received acclaim from critics, who praised its originality, writing, and humor. It was ranked by [[Rotten Tomatoes]] as the best [[Found footage (film technique)|found footage]] film ever made, and is the only found footage film to have received a [[List of films with a 100% rating on Rotten Tomatoes|rating of 100%]] on Rotten Tomatoes as of July 2025.<ref>{{Cite web |title=100 Best Found Footage Movies |url=https://editorial.rottentomatoes.com/guide/best-found-footage-movies/ |access-date=2025-03-31 |website=editorial.rottentomatoes.com |language=en-US}}</ref>
+
+==Plot==
+In the first section of the film, the cast and crew of a low-budget [[zombie film]] called ''True Fear'' are shooting at an abandoned water filtration plant. Director Higurashi, desperate for film success due to mounting debts and frustrated at the actors' work, arranges for a blood [[pentagram]] to be painted to revive real zombies per the plant's haunted past. The cameraman turns into a zombie and bites assistant director Kasahara, turning him into one as well. Actress Chinatsu, actor Ko, and makeup artist Nao lock the zombies out of the plant. Higurashi insists they continue filming using the real zombies. The sound engineer rushes out of the plant and is infected. Higurashi brings the zombified sound engineer back in for more footage, throwing him at the actors. Nao decapitates the zombified sound engineer and is splattered with zombie blood.
+
+Chinatsu, Ko, and Nao attempt to escape, but Higurashi facilitates an attack by zombified Kasahara while he films. Chinatsu is confronted by the zombies and saved by Ko. They reunite with Nao, who suspects that Chinatsu is infected. Nao attempts to kill Chinatsu and chases her, dispatching the zombies in the process. Chinatsu escapes to a roof, with Nao and Ko following. Offscreen, Ko kills Nao with an axe to save Chinatsu. Chinatsu thinks she is infected and runs away to a building with a pentagram painted on the outside wall. An unidentified zombie approaches Chinatsu and leaves. Chinatsu also exits the building, finding an axe before seeing Ko wandering on the roof. She approaches Ko to find that he has been zombified. Chinatsu confronts zombified Ko in a scene similar to the start of the film, and after being briefly interrupted by a mysteriously revived Nao, Chinatsu decapitates zombified Ko. Higurashi berates Chinatsu for going off script. Chinatsu kills Higurashi, and she ends the first section by standing on the blood pentagram in a trance-like state.
+
+The second section of the film is a flashback involving the personal lives of the fictional cast and crew of a production called ''One Cut of the Dead,'' a film-within-the-film of the same title (thus making ''True Fear'' a film-within-the-film within another film-within-the-film). Takayuki Higurashi, director of a TV drama starring alcoholic actor Manabu Hosoda, is approached by network executives to direct a low-budget zombie film in one take to launch the new Zombie Channel. He is initially reluctant, but accepts in hopes of reconnecting with his daughter Mao, a horror movie fanatic. Actors cast for ''One Cut of the Dead'' include idol Aika Matsumoto as Chinatsu, cynical actor Kazuaki Kamiya as Ko, Shunsuke Yamagoe as the sound engineer, and Hosoda as the cameraman. The ''One Cut of the Dead'' movie-within-the-movie is also revealed to be a live show, so no reshoots or delays are possible.
+
+The third section of the film depicts the chaotic shooting of ''One Cut of the Dead'' from behind the scenes. The actors cast as director and makeup artist could not make filming, forcing Takayuki and his wife Harumi to step in to fill their respective roles. During the shooting, Takayuki overacts his first scene by physically accosting Matsumoto. Hosoda passes out drunk and later vomits. Yamagoe's [[diarrhea]] leads to his character leaving the plant off-script. Dealing with these forces Takayuki and the other actors to start to improvise and make small talk. The main cameraman suffers a back injury and has to be replaced. Harumi goes off-script and attacks various real cast and crew during the scene of Nao chasing Chinatsu, forcing Takayuki to choke her out and later forcibly remove her from interrupting the ending scene between Chinatsu and Ko after she abruptly wakes up. The zombie who did not attack Chinatsu turns out to be a crew member giving instructions. The camera crane accidentally gets broken, forcing the real cast and crew to form a [[human pyramid]] in order to mimic a [[crane shot]] for the final shot, with Mao having to hold the camera standing atop Takayuki's shoulders. The faux-crane shot is successful, and the real cast and crew are elated at the successful filming.
+
+The final credits are shown over footage of the real-life filming by the ''One Cut of the Dead'' crew, including the faux-crane shot being taken from the top of a stepladder.
+
+==Cast==
+*Takayuki Hamatsu as Takayuki Higurashi
+*[[Yuzuki Akiyama]] as Aika Matsumoto / Chinatsu
+*Kazuaki Nagaya as Kazuaki Kamiya / Ko / Ken
+*Harumi Shuhama as Harumi Higurashi / Nao
+*Manabu Hosoi as Manabu Hosoda
+*Hiroshi Ichihara as Hiroshi Yamanouchi
+*Shuntaro Yamazaki as Shunsuke Yamagoe
+*Shinichiro Osawa as Shinichiro Furusawa
+*Yoshiko Takehara (Donguri) as Yoshiko Sasahara
+*Sakina Asamori as Saki Matsuura
+*Miki Yoshida as Miki Yoshino
+*Ayana Goda as Ayana Kurihara
+*Mao as Mao Higurashi
+
+==Production==
+[[File:Casts & Film director from "ONE CUT OF THE DEAD" at CINECITTA' Kawasaki (2018-07-14).jpg|thumb|The cast and director of ''One Cut of the Dead'' in July 2018]]
+Filmmaker Shin'ichirō Ueda directed, edited, and wrote the script for ''One Cut of the Dead''.<ref name=":3" /> An [[independent film]]maker, Ueda had previously made several short films.<ref name=":0">{{Cite web|last=Hernon|first=Matthew|date=2020-05-08|title='One Cut of the Dead' director Shinichiro Ueda brings teleworking to Japan's film industry|url=https://www.japantimes.co.jp/culture/2020/05/08/films/shinichiro-ueda-telework-movie/|access-date=2020-07-05|website=The Japan Times|language=en-US}}</ref> The film was largely based on the stage play ''Ghost in the Box!'' by Ryoichi Wada, which Ueda had seen five years prior.<ref name=":3">{{Cite web|last=Blair|first=Gavin J.|date=2018-08-21|title=The $27,000 Zombie Film That Refuses to Die at the Japanese Box Office|url=https://www.hollywoodreporter.com/heat-vision/one-cut-dead-zombie-movie-becomes-a-big-hit-japan-1136288|access-date=2020-07-05|website=[[The Hollywood Reporter]]|language=en|archive-date=9 November 2020|archive-url=https://web.archive.org/web/20201109031707/https://www.hollywoodreporter.com/heat-vision/one-cut-dead-zombie-movie-becomes-a-big-hit-japan-1136288|url-status=live}}</ref> Wada, a playwright and theater director, presented ''Ghost in the Box!'' from 2011 to 2014.<ref name=":4">{{Cite web|last=Frater|first=Patrick|date=2019-03-20|title=Japanese Sleeper Hit 'One Cut of the Dead' Heads for English Remake (EXCLUSIVE)|url=https://variety.com/2019/film/news/japan-sleeper-hit-one-cut-of-the-dead-english-remake-1203167733/|access-date=2020-07-05|website=Variety|language=en|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108021630/https://variety.com/2019/film/news/japan-sleeper-hit-one-cut-of-the-dead-english-remake-1203167733/|url-status=live}}</ref>
+
+To make his film, Ueda worked with the Enbu Seminar drama school in Tokyo. Enbu Seminar not only produced the film, but also hosted the acting workshops that Ueda used to help cast its actors, most of them unknowns.<ref name=":0" /> According to actress [[Yuzuki Akiyama]], the workshop lasted for two months.<ref name=":2">{{Cite web|last=Sahani|first=Alaka|date=2019-01-16|title=A Cut Above the Rest|url=https://indianexpress.com/article/entertainment/entertainment-others/a-cut-above-the-rest-japanese-movie-one-cut-from-the-dead-5540397/|access-date=2020-07-05|website=The Indian Express|language=en|archive-date=5 July 2020|archive-url=https://web.archive.org/web/20200705211631/https://indianexpress.com/article/entertainment/entertainment-others/a-cut-above-the-rest-japanese-movie-one-cut-from-the-dead-5540397/|url-status=live}}</ref> She had previously worked with Ueda on his 2011 short film, ''Dreaming Novelist''.<ref name=":1">{{Cite web|last=Hernon|first=Matthew|date=2019-01-11|title="One Cut of the Dead" Star Yuzuki Akiyama on the Movie's Surprise Mega-Success|url=https://www.tokyoweekender.com/2019/01/one-cut-of-the-dead-star-yuzuki-akiyama-on-the-movies-surprise-mega-success/|access-date=2020-07-05|website=Tokyo Weekender|language=en-US|archive-date=6 July 2020|archive-url=https://web.archive.org/web/20200706173701/https://www.tokyoweekender.com/2019/01/one-cut-of-the-dead-star-yuzuki-akiyama-on-the-movies-surprise-mega-success/|url-status=live}}</ref>
+
+Filming for ''One Cut of the Dead'' took place over the course of eight days in June 2017.<ref name=":1" /> It was shot at an abandoned water filtration plant in [[Mito, Ibaraki]].<ref name=":0" /> Akiyama described the filming process as "very enjoyable but also pretty exhausting" due to the pressure to get a [[long take]] right.<ref name=":1" /> One long take in particular, a 37-minute-long continuous shot of the zombie film, took six takes.<ref name=":2" />
+
+''One Cut of the Dead'' was made for {{JPY|3 million|link=yes}} (approximately $25,000 at the time),<ref name=":3" /> and was partially [[Crowdfunding|crowdfunded]].<ref>{{Cite web|last=Schilling|first=Mark|date=2018-05-31|title=Japan Debates the Ethics of Making Films on the Cheap|url=https://variety.com/2018/film/asia/japan-ethics-of-making-cheap-films-1202825001/|access-date=2020-07-05|website=Variety|language=en|archive-date=6 July 2020|archive-url=https://web.archive.org/web/20200706025231/https://variety.com/2018/film/asia/japan-ethics-of-making-cheap-films-1202825001/|url-status=live}}</ref> After the eight days of shooting, it took four months for Ueda to edit the film.<ref name=":2" />
+
+==Release==
+Producer and Enbu Seminar president Koji Ichihashi said that the initial target for the film to break even was 5,000 admissions.<ref name=":0" /><ref>{{Cite web|last=Schilling|first=Mark|date=2018-10-23|title='One Cut of the Dead' Passes 2 Million Admissions Mark|url=https://variety.com/2018/film/news/one-cut-of-the-dead-box-office-1202989390/|access-date=2020-07-05|website=Variety|language=en|archive-date=5 July 2020|archive-url=https://web.archive.org/web/20200705222622/https://variety.com/2018/film/news/one-cut-of-the-dead-box-office-1202989390/|url-status=live}}</ref> ''One Cut of the Dead'' opened in Japan in an 84-seat Tokyo art house theater with an initial theatrical run of six days.<ref name=":3" /> The film began garnering international attention after it became the runner-up in the audience vote at the Udine [[Far East Film Festival]].<ref name="kuipers">{{cite web|url=https://variety.com/2018/film/reviews/one-cut-of-the-dead-review-1202800409/|work=[[Variety (magazine)|Variety]]|title=Film Review: 'One Cut of the Dead'|last=Kuipers|first=Richard|access-date=22 October 2018|date=5 May 2018|archive-date=22 October 2018|archive-url=https://web.archive.org/web/20181022113426/https://variety.com/2018/film/reviews/one-cut-of-the-dead-review-1202800409/|url-status=live}}</ref> Of the films screening at [[Udine]], it received a standing ovation and the Audience Award at the Udine Far East Film Festival in year 2018.<ref name=":3" />
+
+After receiving positive reviews outside of Japan, the film was released in three cinemas in Tokyo in June with discounts for an audience in [[zombie]] costumes to help the film gain attention.<ref name=":3" /> [[Asmik Ace]] stepped in to co-distribute the film, giving it a wider release in July. It was showing at around 200 screens in Japan by March 2018 where it had officially grossed {{JPY|800 million}}.<ref name=":3" />
+
+==Reception==
+===Box office===
+In Japan, the film sold 2,149,449 tickets and grossed {{JPY|3,040,246,069}} in 136 days.<ref>{{cite web|url= https://www.bunkatsushin.com/news/article.aspx?id=153011|title= 『カメ止め』30億円突破、サラダパンとタイア|access-date= 8 November 2018|work= Bunka Tsūshin|archive-date= 4 March 2022|archive-url= https://web.archive.org/web/20220304075557/https://www.bunkatsushin.com/news/article.aspx?id=153011|url-status= live}}</ref> It became the seventh highest-grossing [[List of Japanese films of 2018|domestic film of 2018]], grossing {{JPY|3.12 billion}} ({{US$|28.3 million|long=no}}) at the Japanese box office.<ref>{{cite web |title=2018 |url=http://www.eiren.org/boxoffice_e/index.html |website=Eiren |publisher=[[:ja:日本映画製作者連盟|Motion Picture Producers Association of Japan]] |access-date=2 March 2019 |archive-date=25 March 2019 |archive-url=https://web.archive.org/web/20190325215257/http://www.eiren.org/boxoffice_e/index.html |url-status=live }}</ref><ref>{{cite news |last1=Pineda |first1=Rafael Antonio |title=Top 10 Grossing Domestic Japanese, Foreign Films of 2018 Listed |url=https://www.animenewsnetwork.com/news/2018-12-31/top-10-grossing-domestic-japanese-foreign-films-of-2018-listed/.141496 |access-date=13 May 2020 |work=[[Anime News Network]] |date=2018-12-31 |language=en |archive-date=19 June 2019 |archive-url=https://web.archive.org/web/20190619170903/https://www.animenewsnetwork.com/news/2018-12-31/top-10-grossing-domestic-japanese-foreign-films-of-2018-listed/.141496 |url-status=live }}</ref> It made box office history by earning over a thousand times its budget.<ref name=Hanh>{{cite news |last1=Nguyen |first1=Hanh |title='One Cut of the Dead': A Bootleg of the Japanese Zombie Comedy Mysteriously Appeared on Amazon |url=https://www.indiewire.com/2018/12/amazon-one-cut-of-the-dead-zombie-bootleg-movie-pirated-1202031415/ |access-date=2 March 2019 |work=[[IndieWire]] |date=31 December 2018 |archive-date=26 October 2021 |archive-url=https://web.archive.org/web/20211026101608/https://www.indiewire.com/2018/12/amazon-one-cut-of-the-dead-zombie-bootleg-movie-pirated-1202031415/ |url-status=live }}</ref>
+
+Overseas, the film grossed NT$53{{nbsp}}million ({{US$|{{To USD|53|TWN}} million|long=yes}}) in Taiwan,<ref>{{cite web |title=一屍到底-票房收入 |url=http://dorama.info/drama/pfd_boxoffice.php?num=23633 |website=Dorama |access-date=2 March 2019 |archive-date=6 March 2019 |archive-url=https://web.archive.org/web/20190306044544/http://dorama.info/drama/pfd_boxoffice.php?num=23633 |url-status=live }}</ref> {{HK$|7.06 million}} ({{US$|{{To USD|7060000|HKG|round=yes}}|long=yes}}) in Hong Kong,<ref>{{cite web |title=One Cut of the Dead (2018) |url=http://english.entgroup.cn/681417/ |website=EntGroup |access-date=2 March 2019 |archive-date=4 March 2022 |archive-url=https://web.archive.org/web/20220304075556/http://english.entgroup.cn/681417/ |url-status=live }}</ref> $154,123 in South Korea,<ref>{{cite web |title=One Cut of the Dead - Financial Information South Korea |url=https://www.the-numbers.com/movie/Kamera-o-tomeru-na-(Japan)-(2018)/South-Korea |website=[[The Numbers (website)|The Numbers]] |access-date=2 March 2019 |archive-date=6 March 2019 |archive-url=https://web.archive.org/web/20190306044456/https://www.the-numbers.com/movie/Kamera-o-tomeru-na-(Japan)-(2018)/South-Korea |url-status=live }}</ref> $52,406 in the United States and Canada, and $2,903 in Iceland,<ref>{{cite web |title=One Cut of the Dead |url=https://www.boxofficemojo.com/title/tt7914416/ |website=[[Box Office Mojo]] |date=October 2019 |access-date=13 May 2020 |archive-date=27 July 2023 |archive-url=https://web.archive.org/web/20230727202204/https://www.boxofficemojo.com/title/tt7914416/ |url-status=live }}</ref> for a worldwide total of {{US$|{{#expr:28300000+1760000+909530+154123+52406+2903}}|long=no}}.
+
+===Critical reception===
+On [[Rotten Tomatoes]], the film holds [[List of films with a 100% rating on Rotten Tomatoes|a 100% approval rating]] based on 98 reviews, with an average rating of 8.6/10. The site's critical consensus states, "Brainy and bloody in equal measure, ''One Cut of the Dead'' reanimates the moribund zombie genre with a refreshing blend of formal daring and clever satire."<ref>{{cite web|url=https://www.rottentomatoes.com/m/one_cut_of_the_dead|title=One Cut of the Dead (Kamera o tomeru na!) (2017)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media]]|language=en|access-date=23 December 2025|archive-date=30 May 2024|archive-url=https://web.archive.org/web/20240530232910/https://www.rottentomatoes.com/m/one_cut_of_the_dead|url-status=live}}</ref> [[Metacritic]] reports an 86 out of 100 score, based on 14 reviews.<ref>{{cite web|url=https://www.metacritic.com/movie/one-cut-of-the-dead|title=One Cut of the Dead (Kamera o tomeru na!) (2017)|website=[[Metacritic]]|publisher=[[CBS Interactive]]|language=en|access-date=28 March 2020|archive-date=5 June 2020|archive-url=https://web.archive.org/web/20200605093025/https://www.metacritic.com/movie/one-cut-of-the-dead|url-status=live}}</ref>
+
+Writing for [[Variety (magazine)|''Variety'']], Richard Kuipers declared the film to be a "marvelously inventive horror-comedy [that] breathes new life into the zombie genre", and attributed its success to "its irresistibly bouncy spirit [...] it positively sparkles with the infectious "C'mon everyone, let's put on a show!" enthusiasm that’s served the movies so well since the days of [[Andy Hardy]]".<ref name="kuipers" /> Elizabeth Kerr of ''[[The Hollywood Reporter]]'' found the film to be "a breezy and often laugh-out-loud hilarious zombie comedy", noting that although the film "sags in the second act as it sets up the third, it's not so much that it loses all the steam it generated out of the gate".<ref name="kerr-hw" /> David Ehrlich of ''[[IndieWire]]'' opined that the film was "so heartfelt and hilarious that it's easy to forgive the contrivances that hold it together, and to overlook how transparently Ueda reverse-engineers most of his best gags. Seemingly unimportant details in the film's sluggish middle section blossom into killer jokes some 30 minutes later".<ref>{{cite web|url=https://www.indiewire.com/2018/08/one-cut-of-the-dead-review-zombie-comedy-fantasia-fest-1201990760/|work=[[Indiewire]]|title='One Cut of the Dead' Review: The Best Zombie Comedy Since 'Shaun of the Dead' — Fantasia 2018|first=David|last=Ehrlich|date=3 August 2018|access-date=22 October 2018|archive-date=7 August 2018|archive-url=https://web.archive.org/web/20180807032936/https://www.indiewire.com/2018/08/one-cut-of-the-dead-review-zombie-comedy-fantasia-fest-1201990760/|url-status=live}}</ref>
+
+=== Alleged plagiarism ===
+In August 2018, Ryoichi Wada gave an interview in which he stated that ''One Cut of the Dead'' was an adaptation of ''Ghost in the Box'', and that he was consulting with his legal representatives.<ref name=":5">{{Cite web|last=Schilling|first=Mark|date=2018-08-23|title=Zombie Comedy 'One Cut of the Dead' Attracts Crowds and Controversy|url=https://variety.com/2018/film/asia/japan-zombie-comedy-one-cut-of-the-dead-crowds-and-controversy-1202915106/|access-date=2020-07-05|website=Variety|language=en|archive-date=5 July 2020|archive-url=https://web.archive.org/web/20200705230118/https://variety.com/2018/film/asia/japan-zombie-comedy-one-cut-of-the-dead-crowds-and-controversy-1202915106/|url-status=live}}</ref> The month before, Wada had remarked on social media that he enjoyed the film.<ref name=":3" /> Ueda acknowledged that ''Ghost in the Box'' was an inspiration for his film, but denied that he plagiarized the play.<ref name=":5" /><ref>{{Cite web|last=Schilling|first=Mark|date=2018-12-19|title=As two rule breakers gave the Japanese film world hope in 2018, elsewhere eyes turned to China|url=https://www.japantimes.co.jp/culture/2018/12/19/films/two-rule-breakers-gave-japanese-film-world-hope-2018-elsewhere-eyes-turned-china/|access-date=2020-07-05|website=The Japan Times|language=en-US|archive-date=31 October 2020|archive-url=https://web.archive.org/web/20201031163448/https://www.japantimes.co.jp/culture/2018/12/19/films/two-rule-breakers-gave-japanese-film-world-hope-2018-elsewhere-eyes-turned-china/|url-status=live}}</ref> Both Ueda and Wada eventually came to an agreement, crediting Wada and acknowledging ''Ghost in the Box'' in ''One Cut of the Dead''{{'}}s credits.<ref name=":4" />
+
+===Awards===
+{| class="wikitable sortable"
+|-
+! Award
+! Category
+! Nominee
+! Result
+|-
+| rowspan="4"|43rd [[Hochi Film Award]]s<ref>{{cite web|url= https://natalie.mu/eiga/news/312678|title= 「カメ止め」報知映画賞の特別賞に、上田慎一郎をキャストが祝福|access-date= 21 December 2018|work= Natalie|archive-date= 4 March 2022|archive-url= https://web.archive.org/web/20220304075602/https://natalie.mu/eiga/news/312678|url-status= live}}</ref>
+| Best Picture 
+| rowspan="2"|''One Cut of the Dead''
+| {{nom}}
+|-
+| Special Award
+| {{won}}
+|-
+| Best Director 
+| rowspan="2"|Shinichiro Ueda
+| {{nom}}
+|-
+| Best New Artist 
+| {{nom}}
+|-
+| rowspan="4"|31st [[Nikkan Sports Film Award]]s<ref>{{cite web|url= https://www.nikkansports.com/entertainment/news/201808120000383.html|title= 「カメラを止めるな！」石原裕次郎賞受賞記念特集|access-date= 21 December 2018|work= Nikkan Sports|archive-date= 18 March 2022|archive-url= https://web.archive.org/web/20220318224114/https://www.nikkansports.com/entertainment/news/201808120000383.html|url-status= live}}</ref>
+| [[Nikkan Sports Film Award for Best Film|Best Film]]
+| rowspan="2"|''One Cut of the Dead''
+| {{nom}}
+|-
+|[[Nikkan Sports Film Award for Yūjirō Ishihara Award|Yūjirō Ishihara Award]]
+| {{won}}
+|-
+|[[Nikkan Sports Film Award for Best Director|Best Director]]
+| rowspan="2"|Shinichiro Ueda
+| {{nom}}
+|-
+| [[Nikkan Sports Film Award for Best Newcomer|Best Newcomer]] 
+| {{nom}}
+|-
+| [[40th Yokohama Film Festival]]<ref>{{cite web|url= http://yokohama-eigasai.o.oo7.jp/40-2018/40_2018_shou.html|title= 『第４０回ヨコハマ映画祭 2018年日本映画個人賞|access-date= 21 December 2018|work= Yokohama eigasai|archive-date= 10 February 2023|archive-url= https://web.archive.org/web/20230210134131/http://yokohama-eigasai.o.oo7.jp/40-2018/40_2018_shou.html|url-status= live}}</ref>
+| Special Jury Prize
+| ''One Cut of the Dead''
+| {{won}}
+|-
+| rowspan="2"|73rd [[Mainichi Film Awards]]<ref>{{cite web|url= https://www.oricon.co.jp/news/2128013/full/|title= 柄本佑&安藤サクラ、主演賞を"夫婦独占" 『第73回 毎日映画コンクール』|access-date= 23 January 2019|work= Oricon|archive-date= 4 March 2022|archive-url= https://web.archive.org/web/20220304075644/https://www.oricon.co.jp/news/2128013/full/|url-status= live}}</ref>
+| [[Mainichi Film Award for Best Director|Best Director]]
+| rowspan="2"|Shinichiro Ueda
+| {{won}}
+|-
+| [[Mainichi Film Award for Best Screenplay|Best Screenplay]]
+| {{nom}}
+|-
+| rowspan="2"|61st [[Blue Ribbon Awards]]<ref>{{cite web|url= https://www.hochi.co.jp/entertainment/20190120-OHT1T50235.html|title= ブルーリボン賞決定 舘ひろし、門脇麦らが受賞 作品賞は「カメ止め」 受賞者作品一覧|access-date= 21 January 2019|work= Sports Hōchi|date= 21 January 2019|archive-date= 21 January 2019|archive-url= https://web.archive.org/web/20190121064719/https://www.hochi.co.jp/entertainment/20190120-OHT1T50235.html|url-status= live}}</ref>
+| [[Blue Ribbon Awards for Best Film|Best Film]]
+| ''One Cut of the Dead''
+| {{won}}
+|-
+| [[Blue Ribbon Awards for Best Director|Best Director]]
+| Shinichiro Ueda
+| {{nom}}
+|-
+| rowspan="5"|28th [[Tokyo Sports Film Award]]s<ref>{{cite web|url= https://natalie.mu/eiga/news/317974|title= たけしが選ぶ東スポ映画大賞で「万引き家族」4冠！新人賞はしゅはまはるみ|access-date= 31 January 2019|work= Natalie|archive-date= 1 December 2021|archive-url= https://web.archive.org/web/20211201203258/https://natalie.mu/eiga/news/317974|url-status= live}}</ref>
+| [[Tokyo Sports Film Award for Best Film|Best Film]]
+| ''One Cut of the Dead''
+| {{nom}}
+|-
+| [[Tokyo Sports Film Award for Best Director|Best Director]]
+| Shinichiro Ueda
+| {{won}}
+|-
+| [[Tokyo Sports Film Award for Best Actor|Best Actor]]
+| Takayuki Hamatsu
+| {{nom}}
+|-
+| [[Tokyo Sports Film Award for Best Supporting Actress|Best Supporting Actress]]
+| rowspan="2"|Harumi Shuhama 
+| {{nom}}
+|-
+| [[Tokyo Sports Film Award for Best Newcomer|Best Newcomer]]
+| {{won}}
+|-
+| rowspan="8"|[[42nd Japan Academy Prize]]<ref>{{cite web|url= https://natalie.mu/eiga/news/322211|title= 【日本アカデミー賞全リスト】「万引き家族」最多8冠！孤狼の血、カメ止めにも栄誉|access-date= 3 March 2019|work= Natalie|archive-date= 4 March 2022|archive-url= https://web.archive.org/web/20220304075558/https://natalie.mu/eiga/news/322211|url-status= live}}</ref>
+| [[Japan Academy Prize for Picture of the Year|Picture of the Year]]
+| ''One Cut of the Dead''
+| {{nom}}
+|-
+| [[Japan Academy Prize for Director of the Year|Best Director]]
+| Shinichiro Ueda
+| {{nom}}
+|-
+| [[Japan Academy Prize for Outstanding Performance by an Actor in a Leading Role|Best Actor]]
+| Takayuki Hamatsu
+| {{nom}}
+|-
+| Best Screenplay
+| Shinichiro Ueda
+| {{nom}}
+|-
+| Best Music 
+| Nobuhiro Suzuki, Shōma Itō, and Kyle Nagai
+| {{nom}}
+|-
+| Best Cinematography 
+| Takeshi Sone
+| {{nom}}
+|-
+| Best Sound Recording 
+| Kōkichi Komoda
+| {{nom}}
+|-
+| [[Japan Academy Prize for Best Film Editing|Best Film Editing]]
+| Shinichiro Ueda 
+| {{won}}
+|-
+| [[13th Asian Film Awards]]
+| Best New Director 
+| Shinichiro Ueda
+| {{nom}}
+|}
+
+== Sequels ==
+'''''One Cut of the Dead Spin-Off'': ''In Hollywood''''' <ref>{{Citation|last=Nakaizumi|first=Yûya|title=Kamera o tomeru na! supin-ofu: Hariuddo daisakusen!|date=2019-03-02|url=https://www.imdb.com/title/tt10188260/|type=Comedy, Horror|others=Mao, Takayuki Hamatsu, Yuzuki Akiyama, Sakina Asamori|publisher=CyberAgent, ENBU Seminar, St'Blue Co.|access-date=2021-02-16|archive-date=26 May 2021|archive-url=https://web.archive.org/web/20210526130600/https://www.imdb.com/title/tt10188260/|url-status=live}}</ref> (<small>カメラを止めるな！スピンオフ ハリウッド大作戦！</small>, ''Kamera o Tomeru na! Supin-ofu: Hariuddo daisakusen!'', transl. "Don't Stop the Camera! Spin-Off : World-Wide") is a 59-minute feature that was made in 2019 for TV in Japan. Instead of Takayuki Higurashi, this film is about how his daughter Mao Higurashi makes a film just like he did in ''One Cut of the Dead.''
+
+During the 2020 [[COVID-19 pandemic in Japan]], Ueda decided to create a short film '''''One Cut of the Dead Mission: Remote''''' <ref>{{Cite web|title=One Cut of the Dead Mission: Remote {{!}} A japanese short film completely made remotely!! - YouTube|url=https://www.youtube.com/watch?v=5QGi6Y6NZLI&feature=youtu.be|access-date=2021-02-16|website=www.youtube.com}}</ref> (<small>カメラを止めるな！リモート大作戦！</small>, ''Kamera o Tomeru na! Rimōto dai sakusen!'', transl. "Don't Stop the Camera! Remote Operation!") that would act as a sequel to ''One Cut of the Dead''. The filmmaker wanted to create something that would lighten the mood during the pandemic, stating, "I started to wonder if there was anything positive I could do to try to put a smile on people’s faces through some light form of entertainment."<ref name=":0" /> After contacting the actors to confirm they would be able to reprise their role, Ueda wrote the script in one night, and gave the actors instructions via [[Videotelephony|video conference]]. The actors were instructed to take [[selfie]] footage while in-character, then send the footage to the director via a smartphone [[Messaging apps|messaging app]].<ref name=":0" /> In addition, Ueda asked people on social media to upload video of themselves dancing to include in the movie.<ref name=":0" /><ref name=":6">{{Cite web|last=Sato|first=Misuzu|date=2020-06-02|title='One Cut of the Dead' sequel captures climate of coronavirus|url=http://www.asahi.com/ajw/articles/13394151|access-date=2020-07-05|website=The Asahi Shimbun|language=en|archive-date=6 July 2020|archive-url=https://web.archive.org/web/20200706190344/http://www.asahi.com/ajw/articles/13394151|url-status=live}}</ref>
+
+The overall production of ''One Cut of the Dead Mission: Remote'' took place in around a month. It was uploaded to [[YouTube]] for people to watch for free on 1 May 2020.<ref name=":6" />
+
+==Remake==
+A French-language remake titled ''[[Final Cut (2022 film)|Final Cut]]'', directed by [[Michel Hazanavicius]] and starring [[Romain Duris]] and [[Bérénice Bejo]], began its production in April 2021.<ref>{{cite news|last=Goodfellow|first=Melanie|date=30 April 2021|url=https://www.screendaily.com/news/michel-hazanavicius-final-cut-begins-shoot-in-paris-berenice-bejo-joins-cast-exclusive/5159280.article|title=Michel Hazanavicius' 'Final Cut' begins shoot in Paris, Bérénice Bejo joins cast (exclusive)|work=Screen Daily|access-date=30 April 2021|archive-date=30 April 2021|archive-url=https://web.archive.org/web/20210430081846/https://www.screendaily.com/news/michel-hazanavicius-final-cut-begins-shoot-in-paris-berenice-bejo-joins-cast-exclusive/5159280.article|url-status=live}}</ref> It was shown as the opening film at the [[2022 Cannes Film Festival]].<ref>{{cite news|language=fr|url=https://www.festival-cannes.com/fr/festival/actualites/articles/coupez-lhommage-de-michel-hazanavicius-aux-forcats-des-tournages|title=Coupez !, l'hommage de Michel Hazanavicius aux forçats des tournages|date=17 May 2022|access-date=28 May 2022|archive-date=28 May 2022|archive-url=https://web.archive.org/web/20220528082905/https://www.festival-cannes.com/fr/festival/actualites/articles/coupez-lhommage-de-michel-hazanavicius-aux-forcats-des-tournages|url-status=live}}.</ref>
+
+A Vietnamese-language remake titled {{ill|Đại tiệc trăng máu 8|lt=''Đại tiệc trăng máu 8''|vi}} (''Blood Moon Rite 8''), starring Vân Sơn, Lê Khánh, Liên Bỉnh Phát, Miu Lê,  was released on 24 April 2026.{{Citation needed|date=April 2026}}
+
+==See also==
+*''[[Everybody Dies by the End]]''
+*''[[Dead Set]]''
+*''[[Noises Off]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|7914416}}
+
+{{Nikkan Sports Film Award for Yūjirō Ishihara Award}}
+{{Blue Ribbon Award for Best Film}}
+{{Livingdead}}
+
+[[Category:One Cut of the Dead| ]]
+[[Category:2017 Japanese films]]
+[[Category:2017 Japanese-language films]]
+[[Category:2017 comedy horror films]]
+[[Category:2017 films]]
+[[Category:2017 independent films]]
+[[Category:Films about filmmaking]]
+[[Category:Films shot in Japan]]
+[[Category:Found footage horror films]]
+[[Category:Japanese comedy horror films]]
+[[Category:Japanese independent films]]
+[[Category:Japanese satirical films]]
+[[Category:Zombie comedy films]]
+[[Category:2010s zombie films]]

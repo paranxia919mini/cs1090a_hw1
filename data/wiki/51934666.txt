@@ -1,0 +1,61 @@
+{{Short description|1966 Japanese film}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox film
+| name           = Captive's Island
+| image          = Captive's Island Poster.jpg
+| caption        = Film Poster
+| native_name    = 処刑の島
+| director       = [[Masahiro Shinoda]]
+| producer       = {{ubl|[[Shintarō Ishihara]]|Akira Yoneyama|Masayuki Nakajima}}
+| writer         = 
+| screenplay     = {{ubl|[[Shintarō Ishihara]] (screenplay)|[[Taijun Takeda]] (novel)}}
+| narrator       = 
+| starring       = {{ubl|[[Shima Iwashita]] | [[Rentarō Mikuni]] | [[Kei Satō]] | Hosei Komatsu | [[Taiji Tonoyama]]}}
+| music          = [[Tōru Takemitsu]]
+| cinematography = [[Tatsuo Suzuki (cinematographer)|Tatsuo Suzuki]]
+| editing        = Masahiro Shinoda
+| studio         = 
+| distributor    = [[Daiei Film]]
+| released       = {{Film date|df=y|1966|07|02|Japan|ref1=<ref name="Kinenote">{{cite web|url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=21928 |title=処刑の島 |publisher=[[Kinema Junpo]] |language=ja |access-date=2 November 2019}}</ref><ref name="jmdb">{{cite web|url=http://www.jmdb.ne.jp/1966/cp002590.htm |title=処刑の島 |publisher=Japanese Movie Database |language=ja |access-date=14 August 2023}}</ref>}}
+| country        = Japan
+| language       = Japanese
+}}
+{{nihongo|'''''Captive's Island'''''|処刑の島|Shokei no shima|lit. ''Execution Island''|lead=yes}}, also known as '''''Punishment Island,''''' is a 1966 Japanese [[Drama (film and television)|drama film]] directed by [[Masahiro Shinoda]]. The screenplay by [[Shintarō Ishihara]] was based on the novel ''Ryujinjima ni nite'' by [[Taijun Takeda]].<ref name="Kinenote" /><ref>{{Cite book|url=https://books.google.com/books?id=hoCTsg63E5EC&q=Captive%27s+Island+film+1966&pg=PA285|title=Time Frames: Japanese Cinema And the Unfolding of History |last=Nygren |first=Scott |year=2007 |publisher=University of Minnesota Press |isbn=9781452909233}}</ref><ref name="Kotobank">{{cite web|url=https://kotobank.jp/word/%E5%87%A6%E5%88%91%E3%81%AE%E5%B3%B6-752832 |title=処刑の島 |publisher=Kotobank |language=ja |access-date=2 November 2019}}</ref> The film probes deep into the damaging effects of the [[Empire of Japan|Japanese Imperial system]] on individuals. It concerns the story of a young man who travels to an island to punish the man who had murdered his family and brutalized him twenty years prior, but he develops feelings for the man's daughter which tests his resolve to carry out his revenge. The film makes extensive use of flashbacks, cutting forward and backwards in a free-form multilayered structure, to illustrate how the past casts a shadow over the present.<ref name=":0">{{Cite web |last=Johnson |first=Albert |date=2006 |title=Captive's Island {{!}} San Francisco Film Festival |url=https://history.sffs.org/films/film_details.php?id=800&searchfield= |access-date=17 October 2024 |website=history.sffs.org}}</ref> 
+
+==Plot==
+A young man in the guise of a salesman travels to an island and asks the ship’s captain, Nomoto, for lodging. This man's name is Saburo, and he was on the island 20 years prior. Saburo's father, Genichiro Nishihara, had been an anarchist, and as a result, Saburo's parents and brother were brutally murdered by Sergeant Otake, a military police officer. The military sent the young Saburo to the island (''[[Shimanagashi]])'' to cover up this atrocity. Saburo didn't know that Otake had also been sent to the same island. Otake, who kept cattle and goats in the island, was given charge of reforming juvenile delinquents and continued to brutalize Saburo. Saburo tried to escape several times, but each time he was beaten to the point of bleeding. His companion Matsui betrayed Saburo, and his teacher Kuroki was a sympathetic but fearful bystander. One day, Saburo is thrown into the sea by Otake and left for dead. 
+
+Saburo, who was rescued by a fisherman, has reappeared on the island 20 years later. Matsui is now the president of a construction company. A young woman, Aya, is nearly attacked by three men but Saburo saves her. Aya is Otake's daughter and had met Saburo when she was a little girl. Saburo has feelings for Aya, which complicates his revenge plans.<ref name="Kinenote" />
+
+==Themes & Reception==
+The film explores the effects of violence on both the body and the character’s psyche. Scenes of men beating children and one another are numerous, attacks are carried out with crutches, whips, and live eels, and Shinoda is keen to show this brutality in close ups. Bruised and bloodied bodies contrast sharply with the physical beauty of the island’s greenery and the surrounding ocean. Shinoda also emphasizes violent physicality by muting the soundtrack during some of the most violent moments.<ref>{{Cite web |last=Cutler |first=Aaron |date=26 September 2010 |title=New York Film Festival 2010: Elegant Elegies: The Films of Masahiro Shinoda |url=https://www.slantmagazine.com/film/new-york-film-festival-2010-elegant-elegies-the-films-of-masahiro-shinoda/ |archive-url=https://web.archive.org/web/20210731084823/https://www.slantmagazine.com/film/new-york-film-festival-2010-elegant-elegies-the-films-of-masahiro-shinoda/ |archive-date=31 July 2021 |access-date=20 October 2024 |website=Slant Magazine |language=en-US}}</ref>
+
+Film scholar Albert Johnson praised the film as one of the best Japanese films of 1966. He praised the evocativeness and beauty of the nature photography and wrote that it was "a dispassionate, moving statement on the nature of evil and the hopelessness of vengeful satisfaction.<ref name=":0" /> 
+
+==Cast==
+* Akira Nitta as Saburo
+* [[Shima Iwashita]] as Aya
+* [[Rentarō Mikuni]] as Otake
+* [[Kei Satō]] as Matsui
+* Hosei Komatsu as Tsuneki
+* [[Taiji Tonoyama]] as boatman
+* [[Kinzō Shin]] as Kuroki
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0060867}}
+
+{{Masahiro Shinoda}}
+
+[[Category:Films directed by Masahiro Shinoda]]
+[[Category:1966 drama films]]
+[[Category:Japanese drama films]]
+[[Category:Works by Shintaro Ishihara]]
+[[Category:1966 Japanese films]]
+[[Category:Films scored by Toru Takemitsu]]
+[[Category:Films based on Japanese novels]]
+
+
+{{1960s-Japan-film-stub}}

@@ -1,0 +1,340 @@
+{{Short description|1995 film by Kathryn Bigelow}}
+{{Use American English|date=September 2026}}
+{{Use list-defined references|date=September 2026}}
+{{Use mdy dates|date=September 2026}}
+{{Good article}}
+{{Infobox film
+| image          = Strangedays.jpeg
+| caption        = Theatrical release poster
+| director       = [[Kathryn Bigelow]]
+| screenplay     = {{Plainlist|
+* [[James Cameron]]
+* [[Jay Cocks]]
+}}
+| story          = James Cameron
+| producer       = {{Plainlist|
+* James Cameron
+* [[Steven-Charles Jaffe]]
+}}
+| starring       = {{plainlist|
+* [[Ralph Fiennes]]
+* [[Angela Bassett]]
+* [[Juliette Lewis]]
+* [[Tom Sizemore]]
+* [[Vincent D'Onofrio]]
+* [[Michael Wincott]]
+}}
+| cinematography = [[Matthew F. Leonetti]]
+| editing        = Howard Smith{{efn|[[James Cameron]] had performed extensive editing, but wasn't eligible for a credit as he wasn't yet a part of the [[Motion Picture Editors Guild]].<ref name="Cinephilia"/>}}
+| music          = [[Graeme Revell]]
+| studio         = [[Lightstorm Entertainment]]
+| distributor    = {{Plainlist|
+* [[20th Century Fox]] (United States, Canada, France and Italy)
+* [[Universal Pictures]] (through [[United International Pictures]], international)
+}}
+| released       = {{Film date|1995|10|07|New York Film Festival|1995|10|13|United States}}
+| runtime        = 145 minutes
+| country        = United States
+| language       = English
+| budget         = $42&nbsp;million
+| gross          = $17&nbsp;million<ref name=ww>{{cite magazine|magazine=[[Screen International]]|date=September 5, 1997|pages=16–17|title=International Star Chart}}</ref>
+}}
+
+'''''Strange Days''''' is a 1995 American [[science fiction thriller film]] directed by [[Kathryn Bigelow]], from a screenplay by [[James Cameron]] and [[Jay Cocks]] based on a story by Cameron. The film stars [[Ralph Fiennes]], [[Angela Bassett]], [[Juliette Lewis]], [[Tom Sizemore]], [[Michael Wincott]], [[Brigitte Bako]], and [[Vincent D'Onofrio]]. Set in a [[dystopia]]n version of [[Los Angeles]] on the last two days of 1999, the film follows Lenny Nero (Fiennes), a black marketeer of an electronic device that allows a user to experience the recorded memories and physical sensations of other people, and Lornette "Mace" Mason (Bassett), a bodyguard and limousine driver, as they are drawn into a criminal conspiracy involving Nero's ex-girlfriend Faith Justin (Lewis) and friend Iris (Bako).
+
+Blending science fiction with [[film noir]] conventions, ''Strange Days'' explores themes such as [[racism]], [[abuse of power]], [[rape]] and [[voyeurism]]. Although Cameron began work on the story around 1986, the film incorporates high-profile incidents from the early 1990s, such as the police violence against [[Rodney King]] and the [[1992 Los Angeles riots]]. [[Principal photography]] began in Los Angeles on June 6, 1994, and concluded on October 14. Several of the film's scenes, which offer a [[point-of-view shot]], required multi-faceted cameras and considerable technical preparation.
+
+A major commercial failure, ''Strange Days'' nearly derailed Bigelow's career, grossing only $17 million against its $42 million budget. The film polarized critics upon release; while some praised the cinematography, visual style, and performances of the cast, others criticized its portrayal of rape and violence. Its critical standing has improved over the years, gaining a [[cult following]]. At the [[22nd Saturn Awards]], where the film received five nominations, Bassett won [[Saturn Award for Best Actress|Best Actress]] and Bigelow became the first woman to win [[Saturn Award for Best Director|Best Director]].
+
+==Plot==
+As 1999 nears its end, [[Los Angeles]] has become a dangerous war zone. A Chinese restaurant is robbed by a group of criminals, with one recording the event with a SQUID (Superconducting QUantum Interference Device), an illegal electronic device that records memories and physical sensations directly from the wearer's [[cerebral cortex]] onto a [[MiniDisc]]-like storage device.
+
+Lenny Nero, a former [[Los Angeles Police Department|LAPD]] officer turned black marketeer of SQUID recordings, buys the robbery clip from his main supplier Tick. Elsewhere, Iris, a prostitute and former friend of Faith Justin (Lenny's ex-girlfriend), is chased by LAPD officers Burton Steckler and Dwayne Engelman. Iris escapes on a [[rapid transit|subway car]], but Engelman pulls off her wig, revealing a SQUID recorder headset.
+
+Lenny pines for Faith and relies on emotional support from his two best friends—Max Peltier, a private investigator, and Lornette "Mace" Mason, a bodyguard and [[limousine]] driver. Mace has unrequited feelings for Lenny from when he was still a cop and acted as a father figure for her son after her boyfriend was arrested on drug charges, but disapproves of his SQUID-dealing business. While Lenny and Max are drinking at a bar, Iris drops a SQUID disc through the sunroof of Lenny's car before it is towed away. Mace picks Lenny up and takes him to a nightclub where Faith is going to sing. There, Lenny receives a SQUID disc from an anonymous contact and unsuccessfully tries to get Faith away from her new boyfriend, Philo Gant. Philo is a music industry mogul who managed the recently murdered rapper Jeriko One.
+
+While in the car with Mace, Lenny plays the disc the contact gave him and watches as Iris is brutally raped and murdered by an attacker at the Sunset Regent hotel. As they approach the hotel, Iris's body is taken out on a stretcher. The next day, they take the disc to Tick, who cannot identify the source of the recording, but recalls that Iris was looking for Lenny. Deducing Iris may have left something in Lenny's car, Mace and Lenny go to the impound and find Iris's disc. Steckler and Engelman appear and demand the disc at gunpoint, but Lenny and Mace escape in her bullet-resistant car before being forced to stop at a dock. Steckler pours gasoline on the car and sets it on fire, but Mace drives it into the harbor, extinguishing the flames. When they reach the surface, the cops have left.
+
+Mace takes Lenny to her brother's house, and they watch Iris's disc, showing Iris was with Jeriko One when Steckler and Engelman pulled him over and murdered him, because his anti-police lyrics and activism incited protests against the LAPD. The two return to Tick, who Max explains has been rendered brain-dead from forceful exposure to amplified SQUID signals. Lenny fears Iris's attacker covered his tracks by "killing" Tick and will come after Faith. Back at the nightclub, Lenny and Mace confront Faith, who reveals that Philo is afraid Iris's disc would reveal that he kept his artists under surveillance. Lenny and Mace disagree over whether to trade the disc to Philo for Faith's freedom or release it publicly, which could incite a citywide riot. As midnight approaches, Lenny and Mace sneak into a private party that Philo is hosting at the [[Westin Bonaventure Hotel]] for the city's wealthy elite. Lenny has a change of heart and tells Mace to give the disc to deputy police commissioner Palmer Strickland.
+
+In Philo's penthouse suite, Lenny finds Philo brain-dead on the floor and another disc, revealing Faith's affair with Max, who "fried" Philo's brain with an amplified recording of them feigning rape. Pointing a gun at Lenny, Max explains that Philo hired him to kill Iris, but when Philo wanted Faith dead as part of the coverup, he decided to frame Lenny for the murders. Lenny and Max struggle in a fight, Faith intervenes and pulls off Max's wig with a SQUID inside - assuring a confession - and Max stabs Lenny in the back. The fight culminates with Lenny on the balcony with Max hanging over; Lenny pulls the knife from his back to cut his necktie and drop Max to his death. Lenny goes downstairs to find Mace, leaving Faith standing alone on the balcony.
+
+Meanwhile, on the crowded streets, Mace subdues Steckler and Engelman with baton and taser, but other officers take down Mace. The crowd moves in, in support of Mace, and a major riot seems inevitable. Strickland, who has viewed Iris's disc, arrives and orders Mace's release and the arrest of Steckler and Engelman for murder. Engelman commits [[suicide]]; Steckler threatens Mace, but the officers gun him down. Lenny finds Mace, and the two share a hug before she gets in Strickland's car. Then Lenny drags her out, and they share a kiss as the crowd [[Millennium celebrations|celebrates the turn of the new millennium]].
+
+==Cast==
+<!--- [[MOS:FILMCAST]] [[WP:NOTDATABASE]] - cast and order per Main Cast closing tombstone stand-alone credits, roles per closing credits scroll --->
+{{Cast listing|
+* [[Ralph Fiennes]] as Lenny Nero
+* [[Angela Bassett]] as Lornette "Mace" Mason
+* [[Juliette Lewis]] as Faith Justin
+* [[Tom Sizemore]] as Max Peltier
+* [[Michael Wincott]] as Philo Gant
+* [[Vincent D'Onofrio]] as Burton Steckler
+* [[Glenn Plummer]] as Jeriko One
+* [[Brigitte Bako]] as Iris
+* [[Richard Edson]] as Tick
+* [[William Fichtner]] as Dwayne Engelman
+* [[Josef Sommer]] as Palmer Strickland
+}}
+
+==Production==
+===Development===
+[[File:James Cameron.jpg|thumb|upright|right|Producer [[James Cameron]] began work on the story of ''Strange Days'' around 1985.]]
+Producer [[James Cameron]] began work on the story of ''Strange Days'' around 1985.<ref>{{Cite web| title=Strange days - Scriptment | author=James Cameron | format=TXT | url=https://www.scifiscripts.com/scripts/StrangeDays_Scriptment.txt | archive-url=https://web.archive.org/web/20020305033050/http://scifiscripts.com:80/scripts/StrangeDays_Scriptment.txt | archive-date=2002-03-05}}</ref><ref name="JC Interviews"/>{{Verify source|date=March 2025|reason=Bigelow's artforum.com interview gives potentially different timeline. 1986 not mentioned in available section of cited work.}} He wrote with [[Kathryn Bigelow]] in mind to direct the film,<ref name="JC Interviews"/> and when he presented it to her she "thought it was tremendous".<ref name="ArtForum"/> According to her, "These two characters on the eve of the millennium, with one character trying to get the woman who loves him to help him save the woman he loves. It's this great emotional matrix."<ref name="ArtForum"/> After a series of dialogues, Cameron and Bigelow developed the film's political elements. Cameron focused more on the romantic side, while Bigelow centered more on "the edginess, the grit" part of the film.<ref name="ArtForum"/> Cameron later wrote a 90-page [[Film treatment|treatment]] based on these dialogues,<ref name="Hollywood Reporter"/> stating that it was "practically a novel, but it was unwieldy; it needed structure".<ref name="JC Interviews"/> The treatment was then presented to screenwriter [[Jay Cocks]], who turned it into a script.<ref name="JC Interviews"/> Cameron felt that the resulting script was very well structured and only did a dialogue polish on top of it.<ref name="JC Interviews"/> The script was completed in 1992.<ref name="JC Interviews"/>
+
+Bigelow's work on ''Strange Days'' was influenced by the [[1992 Los Angeles riots]] that followed the [[Rodney King]] verdict.<ref name="ArtForum" /> She noted, "I was involved in the downtown cleanup, and I was very moved by that experience. You got a palpable sense of the anger and frustration and economic disparity in which we live."<ref name="CS Monitor"/> She worked with Jay Cocks, co-writer of the script with James Cameron, in particular on the development of the character of Mace and on the "complexity of the rape sequences".<ref name="KB Cinema 6" /> Both ''Strange Days'' and Cameron's 1994 action film ''[[True Lies]]'' were part of a multimillion-dollar production deal between [[Lightstorm Entertainment]] and [[20th Century Fox]]. However, the financing was unevenly divided between the two films, with ''Strange Days'' being initially budgeted at $30 million and ''True Lies'' at $70 million.<ref name="KB Cinema 1"/>
+
+===Casting===
+Angela Bassett was attached to the film from its early stages, after Bigelow sent her the [[Film treatment|treatment]] document and Bassett accepted the role.<ref name="NY Film Festival"/> In January 1994, it was reported that [[Andy Garcia]] was close to being cast as Lenny.<ref name="KB Cinema 1"/> However, on February 3, 1994, ''[[The Hollywood Reporter]]'' revealed that Ralph Fiennes had been cast instead and that he was wrapping up negotiations to play the role.<ref name="Bono awaits"/> Fiennes' breakthrough role in ''[[Schindler's List]]'', for which he was nominated for the [[Academy Award for Best Supporting Actor]] just days later, impressed Bigelow enough to cast him as Lenny. She stated that the role "required somebody who had a tremendous amount of intelligence, complexity, depth, a series of qualities that I really felt only Ralph could supply".<ref name="KB Cinema 1"/> Cameron, however, initially felt that a "glibber and slicker" actor would be better for the role, but admitted that Fiennes made Lenny "a sexier character — a guy you can care about very much".<ref name="KB Cinema 1"/>
+
+''The Hollywood Reporter'' also announced that [[Bono]] was expected to join Fiennes and Bassett in the role of Faith's love interest and manager Philo Gant.<ref name="Bono awaits"/> In March 1994, columnist [[Army Archerd]] reported in ''[[Variety (magazine)|Variety]]'' that Bono was still being sought for the role,<ref name="Variety miracle"/> which would eventually be played by Michael Wincott. In May 1994, Juliette Lewis, was cast alongside Fiennes and Bassett.<ref name="KB Cinema 1"/> The fact that Lewis was able to sing was important because the producers wanted to avoid [[Lip sync|lip-synching]].<ref name="KB Cinema 1"/>
+
+===Filming===
+Filming of ''Strange Days'' was originally slated to begin on May 12, 1994, but that date was delayed to June 6, as the cast needed to be finalized.<ref name="KB Cinema 1"/> Bigelow said that the [[Murder trial of O. J. Simpson|O. J. Simpson murder trial]] "[echoed] the film events", adding that ''Strange Days'' was filmed during the summer and fall of that year.<ref name="The Morning Call"/> The film was entirely shot in Los Angeles over a period of 77 nights.<ref name="KB Cinema 1"/><ref name="NY Film Festival"/> Producer [[Steven-Charles Jaffe]] said that the city was generally very cooperative, except for the subway scene, as the team only had four hours a night to film it.<ref name="NY Film Festival"/> Jaffe, however, remarked that Bigelow "was so well prepared that what would have taken another director several weeks to do, she did in a matter of days".<ref name="NY Film Festival"/> The production team also received permission from the West Hollywood film commission to film on [[Sunset Boulevard]] for a two-day period, which required the shutdown of several lanes of traffic.<ref name="KB Cinema 1"/>
+
+The scene where the crowd celebrates the turn of the new millennium at the end of the film was shot at the corner of the 5th and Flower streets, between the [[Westin Bonaventure Hotel]] and the [[Los Angeles Public Library]].<ref name="LAT Rave Party"/> Over 50 off-duty police officers were hired to control an assembled crowd of 10,000 people, who had to pay $10 in advance to attend the event.<ref name="KB Cinema 1"/><ref name="LAT Rave Party"/> The filmmakers also hired [[rave]] promoters Moss Jacobs and Philip Blaine to produce performances featuring [[Aphex Twin]], [[Deee-Lite]], as well as "all the cyber-techno bands they could garner".<ref name="KB Cinema 1"/> It was reported that a total of $750,000 was spent on the event, which included the rental of half of the 1,300 rooms in the Bonaventure.<ref name="LAT Rave Party"/> The event started at 9{{nbsp}}p.m. on Saturday, September 17, 1994, and ended shortly before its scheduled end at 4{{nbsp}}a.m. the next morning, as five people were hospitalized for suffering overdoses of [[MDMA|ecstasy]].<ref name="KB Cinema 1"/><ref name="LAT Rave Party"/>
+
+The film's SQUID scenes, which offer a [[point-of-view shot]], required multi-faceted cameras and considerable technical preparation.<ref name="KB Cinema 1"/> A full year was spent building a specialized camera that could reproduce the effect of looking through someone else's eyes.<ref name="KB Cinema 1"/> Bigelow described it as "a stripped-down [[Arri]] that weighed much less than the smallest [[Eyemo|EYMO]] and yet it would take all the [[prime lens]]es".<ref name="KB Cinema 2"/> Cinematographer [[Matthew F. Leonetti]] was also hired to help Bigelow film the scenes, which were choreographed weeks in advance.<ref name="KB Cinema 1"/> The opening sequence, which features a 16-foot jump between two buildings by a [[stunt performer]] without a [[safety harness]], took two years to coordinate and has hidden cuts.<ref name="KB Cinema 1"/><ref name="KB Cinema 2"/> For example, the jump was filmed with a [[helmet camera]], while the run up a staircase required a [[Steadicam]].<ref name="KB Cinema 2"/> According to Cameron, "We designed transitions that would work seamlessly. It was a very technical scene that doesn't look technical."<ref name="JC Interviews"/> The sequence where Iris runs in front of a speeding freight train was shot backwards, with the train backing up. The footage was then reversed during editing.<ref name="KB Cinema 2"/>
+
+===Music===
+[[World music]] was chosen as the primary music style of ''Strange Days'', due to its variety of sounds and instruments.<ref name="KB Cinema 1"/> According to music supervisor Randy Gerston, who had previously worked on ''True Lies'', this type of music helped the filmmakers create a futuristic atmosphere, noting that "the world is shrinking and people are getting acclimated to strange languages being part of the pop vernacular".<ref name="KB Cinema 1"/> [[Michael Kamen]] was the first composer hired to create a score for the film.<ref name="Torn Music"/> [[Michel Sanchez (musician)|Michel Sanchez]] and Éric Mouquet, the French duo known as [[Deep Forest]], were then hired to replace Kamen's work. In addition to their score, Deep Forest teamed up with [[Peter Gabriel]] to write an original song for the film's end credits, titled "[[While the Earth Sleeps]]".<ref name="Mouquet interview"/> New Zealand composer [[Graeme Revell]], fresh off writing the score for ''[[The Crow (1994 film)|The Crow]]'', was then hired to replace most of Deep Forest's work.<ref name="Torn Music"/> Revell also worked with singer-songwriter [[Lori Carson]] on an original song that appears over the film's final scene, titled "Fall in the Light".<ref name="Unsettling The Score"/>
+
+Bigelow was a fan of English musician [[PJ Harvey]] and chose two of her songs, "Rid of Me" and "Hardly Wait", to be performed onscreen by Lewis.<ref name="LAT Lewis"/> British [[alternative rock]] band [[Skunk Anansie]] appeared in the film, performing at the New Year's Eve party, and they were encouraged to [[Jam session|jam]] between takes so Bigelow could record them live and give the rave a greater sense of authenticity.<ref name="KB Cinema 1"/> Although the band would have a live sound on the film, they ultimately had to [[lip sync]].<ref name="KB Cinema 1"/> The American industrial punk band [[Season to Risk]] performed the song "Undone" live in the nightclub scene, selected for their sound and stage presence. Other musicians featured on the soundtrack included British [[trip hop]] artist [[Tricky (musician)|Tricky]], Belgian electronic group [[Lords of Acid]], and the American heavy metal band [[Prong (band)|Prong]]. A soundtrack album was released on October 3, 1995.<ref name="OST AllMusic review"/> In addition, 60,000 promotional [[CD-ROM]]s, which contained production material from the film and music clips from the soundtrack, were made available only through the "College Special" issue of ''[[Rolling Stone]]'' magazine that was sold at record stores.<ref name="KB Cinema 1"/>
+
+{{Track listing
+| headline = ''Strange Days (Music from the Motion Picture)'' track listing<ref name="OST AllMusic review"/>
+| total_length = 52:50
+| extra_column = Performer(s)
+| extra1 = [[Skunk Anansie]]
+| title1 = [[Selling Jesus]]
+| writer1 = [[Skin (musician)|Skin]], [[Len Arran]]
+| length1 = 3:43
+| extra2 = [[Lords of Acid]]
+| title2 = The Real Thing
+| writer2 = [[Praga Khan]], Jade 4 U, Oliver Adams
+| length2 = 3:33
+| extra3 = [[Tricky (musician)|Tricky]]
+| title3 = [[Karmacoma|Overcome]]
+| length3 = 4:31
+| writer3 = Tricky, Skip Fahey, [[Marcella Detroit]]
+| extra4 = [[Deep Forest]]
+| title4 = Coral Lounge
+| writer4 = Eric Mouquet, [[Michel Sanchez (musician)|Michel Sanchez]]
+| length4 = 3:28
+| extra5 = Strange Fruit
+| title5 = No White Clouds
+| writer5 = Morrylien Jenkins, Ngozi L. Inyama, Tara Thierry
+| length5 = 6:02
+| extra6 = [[Juliette Lewis]]
+| title6 = [[4-Track Demos|Hardly Wait]]
+| length6 = 3:13
+| writer6 = [[PJ Harvey]]
+| extra7 = [[Me Phi Me|ME PHI ME]]/[[Glenn Plummer|Jeriko One]]
+| title7 = HereWEcome
+| length7 = 4:56
+| writer7 = Chris Cuben-Tatum, ME PHI ME
+| extra8 = Skunk Anansie
+| title8 = Feed
+| length8 = 2:43
+| writer8 = Skin, Richard "Cass" Lewis, Martin "Ace" Kent
+| extra9 = [[Prong (band)|Prong]] feat. [[Ray Manzarek]]
+| title9 = [[Strange Days (The Doors song)|Strange Days]]
+| length9 = 4:22
+| writer9 = [[The Doors]]
+| extra10 = [[Satchel (band)|Satchel]]
+| title10 = Walk in Freedom
+| length10 = 3:32
+| writer10 = The Satchel Partnership
+| extra11 = Kate Gibson
+| title11 = [[Dance Me to the End of Love (song)|Dance Me to the End of Love]]
+| length11 = 4:27
+| writer11 = [[Leonard Cohen]]
+| extra12 = [[Lori Carson]] & [[Graeme Revell]]
+| title12 = Fall in the Light
+| length12 = 4:22
+| writer12 = Graeme Revell, Lori Carson
+| extra13 = [[Peter Gabriel]] and Deep Forest
+| title13 = [[While the Earth Sleeps]]
+| length13 = 3:52
+| writer13 = Mouquet, Sanchez, Peter Gabriel
+}}
+
+==Themes==
+Although ''Strange Days'' is generally classified as a [[science fiction film|science fiction thriller]], the film uses multiple narrative elements such as [[film noir]] conventions like the [[femme fatale]].<ref name="KB Cinema 1"/><ref name="The Future of Flesh"/> The terms "[[techno-thriller]]", "[[tech-noir]]", and "futuristic erotic thriller" have also been used.<ref name="ArtForum"/><ref name="KB Cinema 1"/><ref name="CT review"/> In 2001, cultural critic [[Steven Shaviro]] compared ''Strange Days'' to Cameron's earlier films, stating that the film "has characters that the viewer is supposed to identify with, and a plot full of thrills, exciting action sequences and unexpected twists. But at the same time, ''Strange Days'' is very much an experimental film, one that questions and inverts the traditional and Hollywood structures of identification and involvement, in ways that are consonant with the ideas that have been put forward by feminist film criticism over the last thirty years."<ref name="KB Cinema 4"/> The film's dystopian society and use of SQUID technology, which has been compared to the "simstim" technology in [[William Gibson]]'s 1984 novel ''[[Neuromancer]]'', were also considered [[cyberpunk]] concepts.<ref name="ArtForum"/><ref name="The Future of Flesh"/>
+
+The film explores controversial themes such as [[abuse of power]], [[racism]], and [[rape]].<ref name="CS Monitor"/><ref name="The independent"/> [[Voyeurism]] is also a major element due to the protagonist's extensive use of SQUID technology.<ref name="The independent"/> The fact that the film was directed by a woman was even more controversial,<ref name="The independent"/> with film critic Michael Mirasol noting that had ''Strange Days'' been directed by a man, these scenes would likely have been criticized as [[Sexism|sexist]] and [[Misogyny|misogynistic]].<ref name="Michael Mirasol"/> Nevertheless, Bigelow insisted that the film does not glorify violence and that it has a positive purpose.<ref name="CS Monitor"/><ref name="The Morning Call"/> According to her, "I wanted to treat 'the system' fairly, because if it's the enemy, then we're the enemy, since by not changing it we're reproducing it... The film ends in a strong insistence on hope. Ultimately it's humanity - not technology - that takes us into the next century and the next millennium."<ref name="CS Monitor"/> In 2015, ''[[The Washington Post]]'' editor Sonny Bunch felt that ''Strange Days'' was still relevant, comparing the imagery captured by the SQUID units to that of [[first-person shooters]] or cellphone videos on [[YouTube]]. He added that events such as Jeriko One's murder and the subsequent coverup of the crime by the two police officers contribute to activist movements like [[Black Lives Matter]], and that their media documentation amplifies their reception and consequences.<ref name="Still relevant"/>
+
+Mace was seen as a strong yet very feminine character, as she often rescues Lenny in dire situations and shows maternal concern for him.<ref name="Michael Mirasol"/> Both characters represent a significant contrast: Mace is the film's [[hero]] and moral center, whereas Lenny is the [[antihero]]; Mace is [[Black people|black]] and Lenny is [[White people|white]]; and finally, Mace represents the "hard-edged, reality-based" component, while Lenny is dominated by fantasies.<ref name="ArtForum"/> This is especially notable when Mace yells to Lenny, "This is your life! Right here! Right now! It's real time, you hear me? Real time, time to get real, not playback!"<ref name="The Future of Flesh"/> The film's white characters also tend to be nihilistically concerned with the present, while the black characters are generally future revolutionaries.<ref name="ArtForum"/> Bigelow considered ''Strange Days'' her most personal film, claiming that "It's a synthesis of all the different tracks I've been exploring, either deliberately or unconsciously, ever since I started making art."<ref name="KB Interviews"/>
+
+==Release==
+[[File:Hand prints in Leicester Square, London - Ralph Fiennes (4039281033).jpg|right|thumb|250px|Ralph Fiennes' handprints in [[Leicester Square]] from the film's [[London]] premiere]]
+
+===Box office===
+''Strange Days'' premiered at the [[New York Film Festival]] on October 7, 1995, the same day it opened in [[limited release]] at the [[Ziegfeld Theatre (1969)|Ziegfeld Theatre]] in Manhattan, where it grossed $31,062 in its first weekend.<ref name="NYT review"/><ref name="Box Office Mojo"/> One week later, on October 13, it entered wide release, opening in 1,691 theaters and grossing $3.7 million that weekend.<ref name="Box Office Mojo"/> The film's poor performance at the box office was compared to ''[[Jade (1995 film)|Jade]]'' and ''[[The Scarlet Letter (1995 film)|The Scarlet Letter]]'', which opened at the same time and had a similar budget.<ref name="Big-Budget Flops"/> Overall, the film went on to make $8 million in the United States and Canada, little more than a sixth of its $42&nbsp;million production cost.<ref name="Box Office Mojo"/>  As a result, ''Strange Days'' was considered a commercial failure, due in part to the poor marketing strategy and lack of audience understanding.<ref name="KB Cinema 1"/> The film almost derailed Bigelow's career, as five years would pass before she directed her next film, ''[[The Weight of Water (film)|The Weight of Water]]''.<ref name="KB Interviews"/> Internationally, ''Strange Days'' was distributed by [[United International Pictures]] where it grossed $9 million for a worldwide total of $17 million.<ref name=ww/><ref name="BBFC"/><ref name="ACB"/><ref name="DFI"/>
+
+===Critical reception===
+Upon release, ''Strange Days'' polarized film critics. [[Roger Ebert]], who gave the film four out of four stars, described it as "a technical tour de force" and highlighted the film's astute use of SQUID technology, stating that "Bigelow is able to exploit the idea of what is happening; she forces her audience to deal with the screen reality, instead of allowing us to process it as routine 'action.'"<ref name="Ebert review"/> The film's technical aspects were also praised by ''[[Variety (magazine)|Variety]]'' editor [[Todd McCarthy]], who remarked that no other film since ''[[Lady in the Lake]]'' in 1947 had "experimented so extensively with the subjective camera".<ref name="Variety review"/> In a mixed review, [[Owen Gleiberman]] of ''[[Entertainment Weekly]]'' gave the film a "B−" rating, concluding that ''Strange Days'' "has a dazzling atmosphere of [[grunge]] futurism, but beneath its dark satire of audiovisual decadence lurks a naggingly conventional underworld thriller."<ref name="EW review"/> Edward Guthmann of the ''[[San Francisco Chronicle]]'' criticized the film for failing to commentate its violence, saying that "Bigelow's style is so visceral [...] that her movie reminds us of a [[snuff film]], rather than a well-reasoned cautionary tale about our animal instincts."<ref name="SFGate review"/> ''[[New York (magazine)|New York]]'' magazine writer [[David Denby]] called the rape scene "the sickest sequence in modern movies".<ref name="NYM review"/>
+
+The performances of the lead characters were highlighted very positively.<ref name="NYT review"/><ref name="RS review"/><ref name="CT review"/> Writing for ''[[Chicago Tribune]]'', film critic Michael Wilmington praised Fiennes' performance because it captures "the weaselly, pleading side of Lenny", while noting "the slight formality of his diction", which he felt gives the character depth.<ref name="CT review"/> Similarly, in her review for ''[[The New York Times]]'', [[Janet Maslin]] said that Fiennes "gleefully captures Lenny's sleaziness while also showing there is something about this schlockmeister that is worth saving, despite much evidence to the contrary."<ref name="NYT review"/> As for Bassett, she felt that the character "looks great and radiates inner strength even without the bone-crunching physical feats to which she is often assigned."<ref name="NYT review"/> [[Peter Travers]] of ''[[Rolling Stone]]'' called ''Strange Days'' Bigelow's "[[magnum opus]]" and credited Bassett's "standout" performance, describing her as "fierce, funny and heart rending".<ref name="RS review"/> In contrast, Sizemore and Lewis were considered miscast in their roles.<ref name="Empire review"/><ref name="AV Club review"/> At the [[22nd Saturn Awards]], Bassett won [[Saturn Award for Best Actress|Best Actress]] and Bigelow became the first woman to win the [[Saturn Award for Best Director|Best Director]] award.<ref name="Saturn Awards"/>
+
+Retrospectively, the film's critical standing has improved. Roger Ebert's correspondent Michael Mirasol felt that ''Strange Days'' had some obvious weaknesses, including a dialogue that is too polished for its setting, but nevertheless judged its "devotion to its characters, its remarkable use of POVs to create its consistent atmosphere of apprehension and excitement, and most of all, its fearlessness."<ref name="Michael Mirasol"/> In 2009, Drew Morton of the Pajiba website considered ''Strange Days'' an "extremely underappreciated film" and "the best piece of cyberpunk to grace celluloid since [[Ridley Scott]]'s ''[[Blade Runner]]''."<ref name="Pajiba review"/> ''Strange Days'' also garnered a small [[cult following]], who felt that the film has been overlooked by a casual mass audience and misguided critics.<ref name="KB Cinema 5"/>
+
+On [[Rotten Tomatoes]], the film has an approval rating of 71% with an average rating of 7/10, based on reviews from 58 critics. The website's consensus states: "''Strange Days'' struggles to make the most of its futuristic premise, but what's left remains a well-directed, reasonably enjoyable sci-fi fantasy."<ref name="Rotten Tomatoes" /> On [[Metacritic]], it holds a [[Weighted arithmetic mean|weighted average]] score of 66 of out 100, based on 30 reviews, indicating "generally favorable reviews".<ref>{{Cite web |title=Strange Days Reviews |url=https://www.metacritic.com/movie/strange-days |access-date=January 24, 2023 |website=[[Metacritic]] |publisher=[[Fandom, Inc.]]}}</ref> Audiences surveyed by [[CinemaScore]] gave the film a grade "B" on a scale of A+ to F.<ref name="Cinemascore" />
+
+===Home media===
+''Strange Days'' was released on [[VHS]] in the United States by [[20th Century Fox Home Entertainment]] on April 2, 1996.<ref name="VHS release"/> A special widescreen [[THX]] certified [[LaserDisc]] was released in the United States on May 22, 1996. The LaserDisc's special features included a one-hour lecture about how the opening scene was filmed, two [[deleted scene]]s, a music video for "[[Selling Jesus]]" directed by Kathryn Bigelow, the original teaser and theatrical [[Trailer (promotion)|trailers]], and photo galleries of storyboards and production stills.<ref name="LD release"/> On September 28, 1999, the film was released on [[DVD]] in the United States,<ref name="DVD release"/> containing all the features from the LaserDisc version except for the music video and photo galleries.<ref name="DVD review"/> The film was released on [[Blu-ray]] in Germany on April 23, 2015, by [[Koch Media]], containing all the features from the LaserDisc version except the photo galleries.<ref>{{Citation |title=Strange Days: 20th Anniversary Blu-ray Edition |url=https://www.blu-ray.com/news/?id=16358 |website=Blu-ray.com|date=March 23, 2015|access-date=September 4, 2023}}</ref> The Blu-ray was released in the United Kingdom on September 25, 2017, by Mediumrare Entertainment.<ref>{{Citation |title=Strange Days Blu-ray |url=https://www.blu-ray.com/news/?id=21723 |website=Blu-ray.com|date=July 19, 2017|access-date=September 4, 2023}}</ref>
+
+==In popular culture==
+* A line from this film, "Right here! Right now!" was sampled by [[Fatboy Slim]] for his single "[[Right Here, Right Now (Fatboy Slim song)|Right Here, Right Now]]".<ref>{{Cite news |last=Thompson |first=Sophie |date=May 16, 2023 |title=Film buffs are just noticing an iconic Angela Bassett line is sampled in a huge song &#124; indy100 |url=https://www.indy100.com/showbiz/fatboy-slim-strange-days-angela-bassett |access-date=October 18, 2024 |work=Indy100}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|refs=
+
+<ref name="Cinephilia">{{cite web |last1=Mikulec |first1=Sven |title=‘Strange Days’ at 30: Kathryn Bigelow’s Thrilling Sci-Fi that Doesn’t Feel As Strange As It Should |url=https://cinephiliabeyond.org/strange-days-kathryn-bigelows-thrilling-sci-fi-doesnt-feel-strange/ |website=Cinephilia & Beyond |access-date=3 September 2026}}</ref>
+
+<ref name="JC Interviews">{{Cite book |title=James Cameron: Interviews |editor=Brent Dunham |date=November 2011 |publisher=[[University Press of Mississippi]] |pages=xxii, 73, 102–103 |isbn=978-1617031311 |url=https://books.google.com/books?id=W1-D-Zv3V4oC |access-date=May 26, 2016}}</ref>
+
+<ref name="KB Cinema 1">{{Cite book |title=The Cinema of Kathryn Bigelow: Hollywood Transgressor |author=Will Brooker |editor1=Deborah Jermyn |editor2=Sean Redmond |date=January 2003 |publisher=[[Wallflower Press]] |isbn=978-1903364420 |chapter=Strange Days: A Case History of Production and Distribution in Hollywood |pages=144–158 |chapter-url=https://books.google.com/books?id=PtShseOVCe4C&pg=PA144 |access-date=May 27, 2016}}</ref>
+
+<ref name="KB Cinema 2">{{Cite book |title=The Cinema of Kathryn Bigelow: Hollywood Transgressor |author=Gavin Smith |editor1=Deborah Jermyn |editor2=Sean Redmond |date=January 2003 |publisher=[[Wallflower Press]] |isbn=978-1903364420 |chapter='Momentum and Design': Interview with Kathryn Bigelow |pages=20–31 |url=https://books.google.com/books?id=PtShseOVCe4C |access-date=May 27, 2016}}</ref>
+
+<!--
+<ref name="KB Cinema 3">{{Cite book |title=The Cinema of Kathryn Bigelow: Hollywood Transgressor |author1=Deborah Jermyn |author2=Sean Redmond |date=January 2003 |publisher=[[Wallflower Press]] |isbn=978-1903364420 |chapter=Introduction |pages=1–19 |url=https://books.google.com/books?id=PtShseOVCe4C |access-date=May 27, 2016}}</ref>
+-->
+
+<ref name="KB Cinema 4">{{Cite book |title=The Cinema of Kathryn Bigelow: Hollywood Transgressor |author=Steven Shaviro |editor1=Deborah Jermyn |editor2=Sean Redmond |date=January 2003 |publisher=[[Wallflower Press]] |isbn=978-1903364420 |chapter=Straight From the Cerebral Cortex: Vision and Affect in Strange Days |pages=159–177 |url=https://books.google.com/books?id=PtShseOVCe4C |access-date=May 27, 2016}}</ref>
+
+<ref name="KB Cinema 5">{{Cite book |title=The Cinema of Kathryn Bigelow: Hollywood Transgressor |author=Will Brooker |editor1=Deborah Jermyn |editor2=Sean Redmond |date=January 2003 |publisher=[[Wallflower Press]] |isbn=978-1903364420 |chapter=Rescuing Strange Days: Fan Reaction to a Critical and Commercial Failure |pages=198–219 |url=https://books.google.com/books?id=PtShseOVCe4C |access-date=May 27, 2016}}</ref>
+
+<ref name="KB Cinema 6">{{Cite book |title=The Cinema of Kathryn Bigelow: Hollywood Transgressor |author=Christina Lane |editor1=Deborah Jermyn |editor2=Sean Redmond |date=January 2003 |publisher=[[Wallflower Press]] |isbn=978-1903364420 |chapter=The Strange Days of Kathryn Bigelow and James Cameron |pages=178–197 |url=https://books.google.com/books?id=PtShseOVCe4C |access-date=May 27, 2016}}</ref>
+
+<ref name="The Future of Flesh">{{Cite book |title=The Future of Flesh: A Cultural Survey of the Body |author1=Katerina Kitsi-Mitakou |author2=Zoe Detsi-Diamanti |date=May 2009 |publisher=[[Palgrave Macmillan]] |isbn=978-0230613478 |chapter=Fleshing Out Virtual Bodies: White Heterosexual Masculinity in Contemporary Cyberfantasy Cinema |pages=181–198 |url=https://books.google.com/books?id=CfTGAAAAQBAJ |access-date=June 8, 2016}}</ref>
+
+<ref name="KB Interviews">{{Cite book |title=Kathryn Bigelow: Interviews |editor=Peter Keough |date=August 30, 2013 |publisher=[[University Press of Mississippi]] |isbn=978-1617037740 |chapter=Introduction |pages=IX–XVIII |url=https://books.google.com/books?id=Mk02URYEtOcC |access-date=June 8, 2016}}</ref>
+
+<ref name="Torn Music">{{Cite book |title=Torn Music: Rejected Film Scores, a Selected History |editor=Gergely Hubai |date=February 2012 |publisher=Silman-James Press |pages=280–281 |isbn=978-1935247050}}</ref>
+
+<ref name="Hollywood Reporter">{{Cite magazine |title=The Need for Speed, a James Cameron Interview |magazine=[[The Hollywood Reporter]] |date=March 1995 |author=Paula Parisi}}</ref>
+
+<ref name="NYM review">{{Cite magazine |title=People Are Strange |magazine=[[New York (magazine)|New York]] |date=October 16, 1995 |author=David Denby |author-link=David Denby |pages=60–61 |url=https://books.google.com/books?id=6OQCAAAAMBAJ&pg=PA60 |access-date=June 21, 2016}}</ref>
+
+<ref name="Bono awaits">{{Cite magazine |title='Strange Days' await Fiennes, Bassett, Bono |magazine=[[The Hollywood Reporter]] |date=February 3, 1994 |last=Parker |first=Donna}}</ref>
+
+<ref name="CS Monitor">{{Cite web |url=https://www.csmonitor.com/1995/1120/20132.html |title='Strange Days' Probes Import Of Vicarious Living |website=[[The Christian Science Monitor]] |author=David Sterritt |author-link=David Sterritt |date=November 20, 1995 |access-date=May 26, 2016 |archive-url=https://web.archive.org/web/20160518202903/http://www.csmonitor.com/1995/1120/20132.html |archive-date=May 18, 2016 |url-status=live}}</ref>
+
+<ref name="NY Film Festival">{{Cite web |url=http://www.filmscouts.com/SCRIPTs/interview.cfm?File=2767 |title=Strange Days Press Conference at the 1995 New York Film Festival |website=Filmscouts.com |author=Henri Béhar |author-link=Henri Béhar |date=1995 |access-date=May 26, 2016 |archive-url=https://web.archive.org/web/20151015070158/http://www.filmscouts.com/SCRIPTs/interview.cfm?File=2767 |archive-date=October 15, 2015 |url-status=live}}</ref>
+
+<ref name="ArtForum">{{Cite web |url=http://artforum.com/film/id=25103 |title=Reality Bytes |website=[[Artforum]] |author=Andrew Hultkrans |date=March 13, 2010 |access-date=May 26, 2016 |archive-url=https://web.archive.org/web/20150405102959/http://artforum.com/film/id%3D25103 |archive-date=April 5, 2015 |url-status=live}}</ref>
+
+<ref name="The Morning Call">{{Cite web |url=https://www.mcall.com/1995/10/14/strange-days-reflects-directors-unique-point-of-view/ |title=Strange Days Reflects Director's Unique Point Of View |website=[[The Morning Call]] |author=Paul Willistein |date=October 14, 1994 |access-date=May 26, 2016 |archive-url=https://web.archive.org/web/20160517210809/http://articles.mcall.com/1995-10-14/entertainment/3068852_1_strange-days-director-kathryn-bigelow-movie-theaters |archive-date=May 17, 2016 |url-status=live}}</ref>
+
+<ref name="LAT Rave Party">{{Cite web |url=https://www.latimes.com/archives/la-xpm-1994-09-19-ca-40393-story.html |title=Rave Party Extras Are 'Deee-Lited': Drug overdoses mar otherwise orderly concert for 10,000 who also are filmed for movie scene |website=[[Los Angeles Times]] |author=Steve Hochman |date=September 19, 1994 |access-date=May 27, 2016 |archive-url=https://web.archive.org/web/20160316133637/http://articles.latimes.com/1994-09-19/entertainment/ca-40393_1_party-extras |archive-date=March 16, 2016 |url-status=live}}</ref>
+
+<ref name="LAT Lewis">{{Cite web |url=https://www.latimes.com/archives/la-xpm-1995-10-01-ca-51930-story.html |title=The Big Picture: Another actor who... |website=[[Los Angeles Times]] |author=Steve Hochman |date=October 1, 1995 |access-date=May 19, 2019 |archive-url=https://web.archive.org/web/20190519103400/https://www.latimes.com/archives/la-xpm-1995-10-01-ca-51930-story.html |archive-date=May 19, 2019 |url-status=live}}</ref>
+
+<ref name="Variety miracle">{{Cite web |url=https://variety.com/1994/voices/columns/spielberg-blesses-attenborough-s-miracle-1117862439/ |title=Spielberg blesses Attenborough's 'Miracle' |website=[[Variety (magazine)|Variety]] |last=Archerd |first=Army |date=March 2, 1994 |access-date=April 7, 2022 |archive-url=https://web.archive.org/web/20220408181511/https://variety.com/1994/voices/columns/spielberg-blesses-attenborough-s-miracle-1117862439/ |archive-date=April 8, 2022 |url-status=live}}</ref>
+
+<ref name="OST AllMusic review">{{Cite web |url=https://www.allmusic.com/album/strange-days-original-soundtrack-mw0000177150 |title=Strange Days [Original Soundtrack] |website=[[AllMusic]] |author=Tom Demalon |access-date=May 28, 2016 |archive-url=https://web.archive.org/web/20160508182032/http://www.allmusic.com/album/strange-days-original-soundtrack-mw0000177150 |archive-date=May 8, 2016 |url-status=live}}</ref>
+
+<ref name="Michael Mirasol">{{Cite web |url=https://www.rogerebert.com/far-flung-correspondents/kathryn-bigelows-uncanny-strange-days-by-michael-mirasol-of-the-philippines |title=Kathryn Bigelow's uncanny 'Strange Days', by Michael Mirasol of the Philippines |website=Rogerebert.com |author=Michael Mirasol |date=January 21, 2010 |access-date=June 7, 2016 |archive-url=https://web.archive.org/web/20150326021027/http://www.rogerebert.com/far-flung-correspondents/kathryn-bigelows-uncanny-strange-days-by-michael-mirasol-of-the-philippines |archive-date=March 26, 2015 |url-status=live}}</ref>
+
+<ref name="Still relevant">{{Cite news |url=https://www.washingtonpost.com/news/act-four/wp/2015/09/03/strange-days-is-a-20-year-old-flop-perfectly-in-tune-with-our-time/ |title='Strange Days' is a 20-year-old flop perfectly in tune with our time |newspaper=[[The Washington Post]] |author=Sonny Bunch |date=September 3, 2015 |access-date=March 17, 2019 |archive-url=https://web.archive.org/web/20190317151441/https://www.washingtonpost.com/news/act-four/wp/2015/09/03/strange-days-is-a-20-year-old-flop-perfectly-in-tune-with-our-time/ |archive-date=March 17, 2019 |url-status=live}}</ref>
+
+<ref name="The independent">{{Cite web |url=https://www.independent.co.uk/arts-entertainment/film-lights-camera-lots-of-action-1320997.html |title=FILM: Lights, camera, lots of action |website=[[The Independent]] |author=Sarah Gristwood |date=February 25, 1996 |access-date=June 7, 2016 |archive-url=https://web.archive.org/web/20160607212028/http://www.independent.co.uk/arts-entertainment/film-lights-camera-lots-of-action-1320997.html |archive-date=June 7, 2016 |url-status=live}}</ref>
+
+<ref name="Box Office Mojo">{{Cite web |url=https://www.boxofficemojo.com/movies/?id=strangedays.htm |title=Strange Days |website=[[Box Office Mojo]] |access-date=June 11, 2016 |archive-url=https://web.archive.org/web/20160306155953/http://www.boxofficemojo.com/movies/?id=strangedays.htm |archive-date=March 6, 2016 |url-status=live}}</ref>
+
+<ref name="Big-Budget Flops">{{Cite web |url=https://www.nytimes.com/1995/10/17/movies/dismay-over-big-budget-flops.html |title=Dismay Over Big-Budget Flops |website=[[The New York Times]] |date=October 17, 1995 |author=Bernard Weinraub |author-link=Bernard Weinraub |access-date=June 12, 2016 |archive-url=https://web.archive.org/web/20150526144838/http://www.nytimes.com/1995/10/17/movies/dismay-over-big-budget-flops.html |archive-date=May 26, 2015 |url-status=live}}</ref>
+
+<ref name="Ebert review">{{Cite web |url=https://www.rogerebert.com/reviews/strange-days-1995 |title=Strange Days |website=Rogerebert.com |author=Roger Ebert |author-link=Roger Ebert |date=October 13, 1995 |access-date=June 21, 2016 |archive-url=https://web.archive.org/web/20130607153644/http://www.rogerebert.com/reviews/strange-days-1995 |archive-date=June 7, 2013 |url-status=live}}</ref>
+
+<ref name="RS review">{{Cite magazine |url=https://www.rollingstone.com/movies/reviews/strange-days-19951013 |title=Strange Days |magazine=[[Rolling Stone]] |author=Peter Travers |author-link=Peter Travers |date=October 13, 1995 |access-date=June 16, 2016 |archive-url=https://web.archive.org/web/20141004120042/http://www.rollingstone.com/movies/reviews/strange-days-19951013 |archive-date=October 4, 2014 |url-status=live}}</ref>
+
+<ref name="CT review">{{Cite web |url=https://www.chicagotribune.com/news/ct-xpm-1995-10-13-9510130005-story.html |title=L.A. Lawless |website=[[Chicago Tribune]] |author=Michael Wilmington |date=October 13, 1995 |access-date=March 20, 2019 |archive-url=https://web.archive.org/web/20190320202544/https://www.chicagotribune.com/news/ct-xpm-1995-10-13-9510130005-story.html |archive-date=March 20, 2019 |url-status=live}}</ref>
+
+<ref name="Variety review">{{Cite web |url=https://variety.com/1995/film/reviews/strange-days-2-1200443047/ |title=Strange Days |website=[[Variety (magazine)|Variety]] |author=Todd McCarthy |author-link=Todd McCarthy |date=October 13, 1999 |access-date=September 4, 2016 |archive-url=https://web.archive.org/web/20190320225804/https://variety.com/1995/film/reviews/strange-days-2-1200443047/ |archive-date=March 20, 2019 |url-status=live}}</ref>
+
+<ref name="EW review">{{Cite magazine |url=https://www.ew.com/article/1995/10/13/strange-days |title=Strange Days |magazine=[[Entertainment Weekly]] |last=Gleiberman |first=Owen |author-link=Owen Gleiberman |date=October 13, 1995 |access-date=June 21, 2016 |archive-url=https://web.archive.org/web/20160109232048/http://www.ew.com/article/1995/10/13/strange-days |archive-date=January 9, 2016 |url-status=dead}}</ref>
+
+<ref name="NYT review">{{Cite web |url=https://www.nytimes.com/movie/review?_r=1&res=990CEFD61739F935A35753C1A963958260&oref=slogin |title=Film Festival Review; New, Improved Virtual Reality, 1999 |website=[[The New York Times]] |author=Janet Maslin |author-link=Janet Maslin |date=October 6, 1995 |access-date=June 19, 2016 |archive-url=https://web.archive.org/web/20141109111230/http://www.nytimes.com/movie/review?_r=1&res=990CEFD61739F935A35753C1A963958260&oref=slogin |archive-date=November 9, 2014 |url-status=dead}}</ref>
+
+<ref name="SFGate review">{{Cite web |url=http://www.sfgate.com/movies/article/MOVIE-REVIEW-Virtual-Reality-Run-Amok-In-3021354.php |title=Movie Review / Virtual Reality Run Amok In 'Strange' Thriller / Fiennes, Bassett film goes by like a hurricane |website=[[SFGate]] |author=Edward Guthmann |date=October 13, 1995 |access-date=June 17, 2016 |archive-url=https://web.archive.org/web/20160109232047/http://www.sfgate.com/movies/article/MOVIE-REVIEW-Virtual-Reality-Run-Amok-In-3021354.php |archive-date=January 9, 2016 |url-status=live}}</ref>
+
+<ref name="Pajiba review">{{Cite web |url=http://www.pajiba.com/film_reviews/strange-days-review.php |title=Forget The Hurt Locker, I'll Take Strange Days |website=Pajiba.com |author=Drew Morton |date=July 20, 2009 |access-date=June 19, 2016 |archive-url=https://web.archive.org/web/20111103114151/http://www.pajiba.com/film_reviews/strange-days-review.php |archive-date=November 3, 2011 |url-status=live}}</ref>
+
+<ref name="Saturn Awards">{{Cite web |url=http://www.saturnawards.org/past.html |title=Past Award Winners |website=[[Saturn Awards]] |access-date=January 3, 2007 |archive-url=https://web.archive.org/web/20070103172623/http://www.saturnawards.org/past.html |archive-date=January 3, 2007 |url-status=dead}}</ref>
+
+<ref name="Rotten Tomatoes">{{Cite web |url=https://www.rottentomatoes.com/m/strange_days/ |title=Strange Days |website=[[Rotten Tomatoes]] |access-date=June 19, 2016 |archive-url=https://web.archive.org/web/20160312121924/http://www.rottentomatoes.com/m/strange_days/ |archive-date=March 12, 2016 |url-status=live}}</ref>
+
+<ref name="AV Club review">{{Cite web |url=https://www.avclub.com/article/my-year-of-flops-case-file-76-istrange-daysi-10435 |title=My Year Of Flops Case File # 76 Strange Days |website=[[The A.V. Club]] |author=Nathan Rabin |date=October 16, 2007 |access-date=June 21, 2016 |archive-url=https://web.archive.org/web/20150215211104/http://www.avclub.com/article/my-year-of-flops-case-file-76-istrange-daysi-10435 |archive-date=February 15, 2015 |url-status=live}}</ref>
+
+<ref name="Empire review">{{Cite web |url=https://www.empireonline.com/movies/strange-days/review/ |title=Strange Days Review |website=[[Empire (magazine)|Empire]] |author=William Thomas |date=January 1, 2000 |access-date=June 21, 2016 |archive-url=https://web.archive.org/web/20160617215521/http://www.empireonline.com/movies/strange-days/review/ |archive-date=June 17, 2016 |url-status=live}}</ref>
+
+<ref name="Mouquet interview">{{Cite web |url=http://www.musicunplugged.in/interviews/interviews_info/31/20 |title='I want to get into the deep of India'. Deep Forest's Eric Mouquet |website=Musicunplugged.in |author=Verus Ferreira |date=January 16, 2015 |access-date=May 16, 2019 |archive-url=https://web.archive.org/web/20190516173510/http://www.musicunplugged.in/interviews/interviews_info/31/20 |archive-date=May 16, 2019 |url-status=live}}</ref>
+
+<ref name="Unsettling The Score">{{Cite web |url=https://www.pantograph-punch.com/post/unsettling-the-score-graeme-revell-from-spk-to-hollywood |title=Unsettling The Score: Graeme Revell, from SPK to Hollywood |website=Pantograph-punch.com |author=Joe Nunweek |date=February 3, 2014 |access-date=May 16, 2019 |archive-url=https://web.archive.org/web/20190103163537/https://www.pantograph-punch.com/post/unsettling-the-score-graeme-revell-from-spk-to-hollywood |archive-date=January 3, 2019 |url-status=live}}</ref>
+
+<ref name="VHS release">{{Cite web |url=http://www.45worlds.com/dvd/disc/strange-days |title=Strange Days |website=45worlds.com |access-date=May 15, 2019 |archive-url=https://web.archive.org/web/20190515171811/http://www.45worlds.com/dvd/disc/strange-days |archive-date=May 15, 2019 |url-status=live}}</ref>
+
+<ref name="LD release">{{Cite web |url=https://dadons-laserdiscs.com/strange-days-ac-3-thx-ws-rare-laserdisc-fiennes-bassett-lewis-sci-fi |title=Strange Days AC-3 THX WS Rare LaserDisc Fiennes Bassett Lewis Sci-Fi |website=Dadons-laserdiscs.com |access-date=May 15, 2019 |archive-url=https://web.archive.org/web/20190515172042/https://dadons-laserdiscs.com/strange-days-ac-3-thx-ws-rare-laserdisc-fiennes-bassett-lewis-sci-fi |archive-date=May 15, 2019 |url-status=live}}</ref>
+
+<ref name="DVD release">{{Cite web |url=http://www.mecone.com/dvdprofiler/index.php?mediaid=086162104251&action=show |title=Strange Days |website=Mecone.com |access-date=May 15, 2019 |archive-url=https://web.archive.org/web/20190515172623/http://www.mecone.com/dvdprofiler/index.php?mediaid=086162104251&action=show |archive-date=May 15, 2019 |url-status=live}}</ref>
+
+<ref name="DVD review">{{Cite web |url=https://www.dvdtalk.com/reviews/2541/strange-days/ |title=Strange Days |date=August 18, 2001 |author=Aaron Beierle |website=[[DVD Talk]] |access-date=August 31, 2017 |archive-url=https://web.archive.org/web/20130119095053/http://www.dvdtalk.com/reviews/2541/strange-days/ |archive-date=January 19, 2013 |url-status=live}}</ref>
+
+<ref name="Cinemascore">{{Cite web |url=https://www.cinemascore.com/publicsearch/index/title/ |title=Cinemascore |website=[[CinemaScore]] |archive-url=https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date=December 20, 2018 |url-status=dead}}</ref>
+
+<ref name="BBFC">{{Cite web |url=https://www.bbfc.co.uk/release/strange-days-q29sbgvjdglvbjpwwc0zndyzotq |title=Strange Days |website=[[British Board of Film Classification]] |access-date=September 15, 2021 |archive-url=https://web.archive.org/web/20210915055956/https://www.bbfc.co.uk/release/strange-days-q29sbgvjdglvbjpwwc0zndyzotq |archive-date=September 15, 2021 |url-status=live}}</ref>
+
+<ref name="ACB">{{Cite web |url=https://www.classification.gov.au/titles/strange-days |title=Strange Days |website=[[Australian Classification Board]]|access-date=September 15, 2021 |archive-url=https://web.archive.org/web/20210916033349/https://www.classification.gov.au/titles/strange-days |archive-date=September 16, 2021 |url-status=live}}</ref>
+
+<ref name="DFI">{{cite web |url=https://www.dfi.dk/en/viden-om-film/filmdatabasen/film/strange-days |title=Strange Days |website=[[Danish Film Institute]] |access-date=September 28, 2021 |archive-url=https://web.archive.org/web/20210928150857/https://www.dfi.dk/en/viden-om-film/filmdatabasen/film/strange-days |archive-date=September 28, 2021 |url-status=live}}</ref>
+
+}}
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title}}
+
+{{Kathryn Bigelow}}
+{{James Cameron}}
+{{Authority control}}
+{{Portal bar|1990s|Film|United States|Speculative fiction/Science fiction|20th Century Studios}}
+
+[[Category:1995 science fiction thriller films]]
+[[Category:1990s dystopian films]]
+[[Category:20th Century Fox films]]
+[[Category:American dystopian films]]
+[[Category:American science fiction thriller films]]
+[[Category:Fiction about brain–computer interface]]
+[[Category:Cyberpunk films]]
+[[Category:1995 English-language films]]
+[[Category:Fictional portrayals of the Los Angeles Police Department]]
+[[Category:Fiction featuring the turn of the 3rd millennium]]
+[[Category:Films about technological impact]]
+[[Category:Films about telepresence]]
+[[Category:Films about virtual reality]]
+[[Category:Films about snuff films]]
+[[Category:Films about rape in the United States]]
+[[Category:Films adapted into comics]]
+[[Category:Films directed by Kathryn Bigelow]]
+[[Category:Films produced by James Cameron]]
+[[Category:Films produced by Steven-Charles Jaffe]]
+[[Category:Films scored by Graeme Revell]]
+[[Category:Films set around New Year]]
+[[Category:Films set in 1999]]
+[[Category:Films set in 2000]]
+[[Category:Films set in Los Angeles]]
+[[Category:Films set in the future]]
+[[Category:Films shot in Los Angeles]]
+[[Category:Films with screenplays by James Cameron]]
+[[Category:Films with screenplays by Jay Cocks]]
+[[Category:Lightstorm Entertainment films]]
+[[Category:Universal Pictures films]]
+[[Category:1995 American films]]
+[[Category:English-language science fiction thriller films]]
+[[Category:Saturn Award–winning films]]
+[[Category:1995 films]]

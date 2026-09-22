@@ -1,0 +1,50 @@
+{{short description|Non-fiction book by Bernie Chowdhury about a double wreck diving fatality }}
+{{More citations needed|date=June 2009}}
+{{Infobox book
+| name          = The Last Dive: A Father and Son's Fatal Descent into the Ocean's Depths
+| title_orig    = 
+| translator    = 
+| image         = The Last Dive.jpg| caption = 
+| author        = [[Bernie Chowdhury]]
+| illustrator   = 
+| cover_artist  = [[Wes Skiles]]/Karst Productions, Bradford Foltz
+| country       = United States
+| language      = English
+| series        = 
+| subject       = 
+| genre         = [[Non-fiction]] [[adventure]]
+| publisher     = [[HarperCollins Publishers]], [[Harper Perennial]]
+| pub_date      = 2000, 2002
+| english_pub_date = 
+| media_type    = Print ([[Hardcover|Hardback]] & [[Paperback]])
+| pages         = 356 pp (hardback)
+| isbn =  0-06-019462-6 |isbn_note= (hardback), {{ISBN|0-06-093259-7}} (paperback)
+| dewey         = 363.14, 797.23
+| congress      = 00-033426
+| oclc          = 
+| preceded_by   = 
+| followed_by   = 
+}}
+'''''The Last Dive: A Father and Son's Fatal Descent into the Ocean's Depths''''' (2000)<ref>{{cite book|author=Chowdhury, Bernie|title= The Last Dive: A Father and Son's Fatal Descent into the Ocean's Depths |publisher=HarperCollins|isbn=9780060194628|date=2000}}</ref> is a [[non-fiction]] book written by [[Scuba diving|diver]] [[Bernie Chowdhury]] and published by [[HarperCollins]]. It documents the fatal dive of Chris Rouse, Sr. and Chris "Chrissy" Rouse, Jr., a father-son team who perished off the New Jersey coast in 1992. The author is a dive expert and was a friend of the Rouses.<ref name="depth">{{cite news|first=Laura|last=Miller|url=https://www.nytimes.com/glogin?URI=https://www.nytimes.com/books/00/10/29/reviews/001029.29mill.html&OQ=_rQ3D2&OP=2527b9f4Q2FYtQ51Q5EYLkQ5BhMkk,YQ5EkkghYPPY9PYvQ2BYMQ51Q3CbQ51thYPP9PvQ2BQ5DvQ2BQ3DbQ2FQ2FQ5Df,Q3DQ2F|title=Out of Their Depth: The story of father-and-son divers who died off the New Jersey coast in 1992.|date=October 29, 2000|newspaper=[[The New York Times]]|access-date=July 26, 2013}}</ref>
+
+The author is a technical diver who, according to writer Neal Matthews' review of [[Robert Kurson]]'s book ''[[Shadow Divers]]'' (2004), "was among the first to adapt cave-diving principles to deep-water wrecks".<ref name="charge">{{cite news|first=Neal|last=Matthews|url=http://www.signonsandiego.com/uniontrib/20040711/news_lz1v11divers.html|title=Depth charge: 'Shadow Divers' gives the glossy treatment to a true adventure tale, and dive-bombs its credibility|date=July 11, 2004|newspaper=[[San Diego Union Tribune]]|access-date=July 26, 2013}}</ref> Also according to Matthews, "His book documents how the clashes of equipment philosophy between cave divers and wreck divers mirrored the clash of diving subcultures."<ref name="charge"/>
+
+== Synopsis ==
+The Rouses were exploring a German U-boat in {{convert|230|ft}} of water off the coast of New Jersey, which was subsequently identified as [[German_submarine_U-869|''U-869'']].  The pair had set out to retrieve the [[captain's log]] book from the so-called ''U-Who'' to "fulfill their dream of diving into fame."{{Citation needed|date=January 2026}} Although experienced in using [[technical diving]] gas mixtures such as "trimix" (adding helium gas to the nitrogen and oxygen found in air) which is recommended for extreme depths, the Rouses were diving on just compressed air to save costs.<ref name="depth" /><ref name="charge"/>
+
+The younger Rouse developed nitrogen narcosis and was trapped inside the U-boat, and though he was rescued by his father, the two had exhausted their air supplies. They were forced to make an uncontrolled ascent from extreme depths, without making the necessary stops to let the nitrogen in their blood safely dissolve, resulting in decompression sickness, or "the bends", which killed them.<ref>{{cite magazine|last=Slater|first=Nick|title=The Allure of Shipwrecks|url=https://www.currentaffairs.org/news/2021/10/the-allure-of-shipwrecks|magazine=[[Current Affairs (magazine)|Current Affairs]]|date=January–February 2021|access-date=18 April 2026}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web|url=http://www.harpercollins.com/books/9780060932596/The_Last_Dive/index.aspx|title=The Last Dive: A Father and Son's Fatal Descent into the Ocean's Depths by Bernie Chowdhury|website=[[HarperCollins Publishers]]|access-date=July 26, 2013}} Publisher's write-up on ''The Last Dive''
+
+{{Underwater diving|hisdiv}}
+{{DEFAULTSORT:Last Dive, The}}
+[[Category:Underwater diving books]]
+[[Category:1992 in New Jersey]]
+[[Category:Technical diving]]
+[[Category:Underwater diving deaths]]
+[[Category:Books about sportspeople]]
+{{authority control}}

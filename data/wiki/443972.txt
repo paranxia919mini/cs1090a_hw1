@@ -1,0 +1,393 @@
+{{Short description|1991 film by Steven Spielberg}}
+{{Use American English|date=July 2022}}
+{{Use mdy dates|date=July 2022}}
+{{Infobox film
+| name           = Hook
+| image          = Hook poster transparent.png
+| caption        = Theatrical release poster by [[Drew Struzan]]
+| director       = [[Steven Spielberg]]
+| screenplay     = {{Plainlist|
+* [[James V. Hart|Jim V. Hart]]
+* [[Malia Scotch Marmo]]
+}}
+| story          = {{Plainlist|
+* Jim V. Hart
+* [[Nick Castle]]
+}}
+| based_on       = {{Based on|''[[Peter and Wendy]]''|[[J. M. Barrie]]}}
+| producer       = {{Plainlist|
+* [[Kathleen Kennedy (producer)|Kathleen Kennedy]] 
+* [[Frank Marshall (filmmaker)|Frank Marshall]]
+* [[Gerald R. Molen]]
+}}
+| starring       = {{Plainlist|
+* [[Dustin Hoffman]]
+* [[Robin Williams]]
+* [[Julia Roberts]]
+* [[Bob Hoskins]]
+* [[Maggie Smith]]
+* [[Charlie Korsmo]]
+}}
+| cinematography = [[Dean Cundey]]
+| editing        = [[Michael Kahn (film editor)|Michael Kahn]]
+| music          = [[John Williams]]
+| studio         = [[Amblin Entertainment]]<ref name="AFI">{{Cite web |title=''HOOK'' (1991) |url=https://catalog.afi.com/Film/67369-HOOK |access-date=July 17, 2026 |website=[[AFI Catalog of Feature Films]] |publisher=[[American Film Institute]]}}</ref>
+| distributor    = [[TriStar Pictures]]<ref name="AFI" />
+| released       = {{film date|1991|12|11}}
+| runtime        = 142 minutes<!--Theatrical runtime: 141:44--><ref name="BBFC">{{Cite web |date=January 16, 1992 |title=''Hook'' (U) |url=https://www.bbfc.co.uk/release/hook-q29sbgvjdglvbjpwwc0zmte3nzq |access-date=July 17, 2026 |website=[[British Board of Film Classification]]}}</ref>
+| country        = United States<ref name="AFI" />
+| language       = English
+| budget         = $70&nbsp;million{{sfn|McBride|1997|p=411}}
+| gross          = $301&nbsp;million
+}}
+
+'''''Hook''''' is a 1991 American [[fantasy adventure film]] directed by [[Steven Spielberg]] and written by [[James V. Hart]] and [[Malia Scotch Marmo]]. It stars [[Robin Williams]] as [[Peter Pan (character)|Peter Banning / Peter Pan]], [[Dustin Hoffman]] as [[Captain Hook|Captain James Hook]], [[Julia Roberts]] as [[Tinker Bell]], [[Bob Hoskins]] as [[Mr. Smee]], [[Maggie Smith]] as [[Wendy Darling|Granny Wendy]] and [[Charlie Korsmo]] as Jack Banning. It serves as a modern-day sequel to [[J. M. Barrie]]'s 1911 novel ''[[Peter and Wendy]]'', focusing on an adult Peter Pan who has [[Childhood amnesia|forgotten his childhood]]. In his new life, he is known as Peter Banning, a successful lawyer who neglects his wife, Wendy's granddaughter, Moira, and their two children, Jack and Maggie. When his old archenemy, Captain Hook, kidnaps his children, he returns to [[Neverland]] to save them.
+
+Spielberg began developing ''Hook'' in the early 1980s with [[Walt Disney Pictures|Walt Disney Productions]] and [[Paramount Pictures]]. It would have followed the Peter Pan storyline seen in the 1924 [[Peter Pan (1924 film)|silent film]] and [[Walt Disney Animation Studios|Disney Animation]]'s [[Peter Pan (1953 film)|1953 film]]. It entered [[pre-production]] in 1985 but Spielberg abandoned the project. Hart developed the script with director [[Nick Castle]] and [[TriStar Pictures]] before Spielberg decided to direct in 1989. It was shot almost entirely on [[sound stage]]s at [[Sony Pictures Studios]] in [[Culver City, California]].
+
+''Hook'' was released on December 11, 1991, by TriStar Pictures. It received mixed reviews from critics and was commercially successful, grossing $301 million and becoming the [[1991 in film#Highest-grossing films|fourth-highest-grossing film of 1991]]; however, it failed to meet the studio's expectations. The film also received five nominations at the [[64th Academy Awards]]. Since its release, ''Hook'' gained a [[cult following]] and it is considered by many to be a cult classic.<ref>{{cite web | first=Lisa | last=Laman | url=https://screenrant.com/hook-movie-steven-spielberg-dislike-audiences-love-reason/ | title=Hook: Why Steven Spielberg Doesn't Like It (But Audiences Do) | website=[[Screen Rant]] | date=March 15, 2020 }}</ref><ref>{{cite web | first=Oliver | last=Lyttelton | url=https://www.yahoo.com/entertainment/hook-at-25-how-steven-spielbergs-peter-pan-found-its-magic-with-the-kids-who-grew-up-with-it-203250596.html | title='Hook' at 25: How Steven Spielberg's 'Peter Pan' Found Its Magic with the Kids Who Grew up with It | website=[[Yahoo! Entertainment]] | date=December 13, 2016 }}</ref><ref>{{cite web | first=Lindsay | last=Clouse | url=https://collider.com/hook-peter-pan-adaptation/ | title='Hook' is the Best Peter Pan Adaptation and It's Not Even Close | website=[[Collider (website)|Collider]] | date=April 28, 2023 }}</ref>
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+Peter Banning, a [[workaholic]] lawyer, has a strained relationship with his wife, Moira, and their children, 9-year-old Jack and 6-year-old Maggie, due to his constant absences and broken promises. During Christmas, the family travels to [[London]] to visit Moira's grandmother, [[Wendy Darling]], who cared for Peter as an orphan. When Peter loses his temper with the children for interrupting a work call, Moira scolds him, reminding him how fleeting their time with the children is. During a dinner honoring Wendy's work with orphans, Jack and Maggie stay home with her old friend, Tootles. Returning from the event, Peter and Moira discover the children are missing, with a note left behind in their nursery signed by [[Captain Hook|Captain James Hook]].
+
+Wendy divulges to Peter his true childhood identity, [[Peter Pan (character)|Peter Pan]], and urges him to return to [[Neverland]] to rescue his children because only he can. Having no memory of his childhood, Peter does not believe her until the fairy [[Tinker Bell]] arrives and flies him to Neverland. In the pirate town, Peter confronts Hook, who fails to recognize his once formidable rival. Hook challenges Peter to fly and save his children, but Peter fails. Dismayed at how pathetic Peter has become, Hook orders his execution but Tinker Bell convinces him to give her three days to train Peter for their final battle.
+
+Peter is brought to the [[Lost Boys (Peter Pan)|Lost Boys]]' hideout, now led by Rufio. They mock the grown man before them until the group ultimately recognizes him. They begin training Peter, urging him to abandon his uptight adult demeanor and embrace his imagination. Meanwhile, Hook's first mate [[Mr. Smee|William Smee]] suggests turning Jack and Maggie against Peter. Maggie resists, but Jack, hurt by Peter's broken promises and failure to save him, begins to side with Hook.
+
+While infiltrating the pirate town, Peter sees Jack playing in a baseball game organized by Hook, who has taken on a fatherly role. Devastated, Peter returns to the Lost Boys' camp with renewed determination. His shadow leads him to the ruins of Wendy's house, where he remembers his past: as an infant in the early 1900s, he ran away from his mother, fearing growing up and dying, and was brought to Neverland by Tinker Bell. Visiting his family later, he found they had a new child and assumed they had forgotten him. Peter met Wendy, who fell in love with him, but as she aged and started a family, Peter fell for her granddaughter Moira and remained with her. Recalling Jack's birth as his happiest memory, Peter regains his powers and ability to fly. That night, a heartbroken Tinker Bell confesses her unrequited love to Peter.
+
+The next day, Peter and the Lost Boys launch an attack on the pirates. While Peter rescues Maggie, Rufio is fatally wounded in a duel with Hook. Witnessing Rufio's dying wish for a father like Peter, Jack reconciles with his father. Peter prepares to leave Neverland with his children, but Hook demands a final battle, vowing to eternally stalk Peter's descendants if denied. With help from Tinker Bell and the Lost Boys, Peter subdues Hook, who feigns surrender. Hook tries to stab Peter, but misses and impales the [[Taxidermy|taxidermied]] crocodile that once ate his hand. The crocodile briefly appears to come back to life, toppling over and consuming Hook. Tinker Bell then returns Jack and Maggie home while Peter bids farewell to the Lost Boys, appointing Thud Butt as their new leader. Thud Butt gives Peter a bag of marbles that belonged to Tootles, a former Lost Boy.
+
+Peter awakens in London, where Tinker Bell tearfully bids him farewell. Transformed by his journey, Peter joyfully reunites with his family and discards his work phone. He returns the bag to Tootles, who sprinkles the pixie dust within on himself and flies off to Neverland. When Wendy observes that Peter's adventures are over, he replies, "To live will be an awfully big adventure."
+
+==Cast==
+{{multiple image
+| perrow     = 2
+| total_width       = 320
+| direction = horizontal
+| align = right
+| footer = [[Robin Williams]] (pictured in 1998), [[Dustin Hoffman]] (1984), [[Julia Roberts]] (2011) and [[Bob Hoskins]] (pictured in 1994).
+| image1 = Robin Williams 1.jpg
+| alt1 = A photograph of Robin Williams
+| image2 = Dustin Hoffman 02.jpg
+| alt2 = A photograph of Dustin Hoffman
+| image3 = Julia Roberts 2011 Shankbone 3.JPG
+| alt3 = A photograph of Julia Roberts
+| image4 = Bob Hoskins 1994.jpg
+| alt4 = A photograph of Bob Hoskins
+}}
+
+* [[Robin Williams]] as [[Peter Pan (character)|Peter Banning / Peter Pan]]
+** Ryan Francis as 8-year-old Peter Pan
+** Max Hoffman as Young Peter Pan
+** Matthew Van Ginkel as Baby Peter Pan
+* [[Dustin Hoffman]] as [[Captain Hook|Captain James Hook]]
+** Hoffman also voices the [[Pan Am]] pilot's announcement as a nod to the dual role element of Captain Hook and George Darling in the original play.
+* [[Julia Roberts]] as [[Tinker Bell]]
+** Lisa Wilhoit as Tinker Bell in a flashback in which Peter is a baby
+* [[Bob Hoskins]] as [[Mr. Smee|William Smee]]
+** Hoskins also portrays a [[street sweeper]] at [[Kensington Gardens]]
+* [[Maggie Smith]] as [[Wendy Darling]]
+** [[Gwyneth Paltrow]] as Teenage Wendy Darling
+* [[Charlie Korsmo]] as Jack Banning, Peter and Moira's son
+* Amber Scott as Maggie Banning, Peter and Moira's daughter
+* [[Caroline Goodall]] as Moira Banning, Peter's wife, Jack and Maggie's mother and Wendy's granddaughter
+* [[Geoffrey Lower]] as Brad, Peter's co-worker
+* [[Kelly Rowan]] as Peter's mother
+* [[Dante Basco]] as Rufio, the leader of the [[Lost Boys (Peter Pan)|Lost Boys]]
+* [[Jasen Fisher]] as Ace
+* Raushan Hammond as Thud Butt
+* Isaiah Robinson as Pockets
+* [[James Madio]] as Don't Ask
+* [[Arthur Malet]] as Tootles
+* [[Laurel Cronin]] as Liza, Granny Wendy's maid
+* [[Phil Collins]] as Inspector Good
+* Alex Zuckerman as Latchboy 
+* Thomas Tulak as Too Small
+* Ahmad Stoner as No Nap
+* [[Nick Tate]] as Noodler
+
+In addition, a number of celebrities and family members made brief credited and uncredited [[Cameo appearance|cameos]] in the film:<ref name=Cameos>{{cite web |url=https://www.thewrap.com/the-boy-who-inspired-hook-and-19-more-facts-as-film-turns-25-photos/ |title=The Boy Who Inspired 'Hook' and 19 Other Little-Known Facts as Film Turns 25 (Photos) |last=Doty |first=Meriah |date=December 11, 2016 |website=[[TheWrap]] |access-date=October 12, 2018 |archive-date=October 11, 2018 |archive-url=https://web.archive.org/web/20181011214502/https://www.thewrap.com/the-boy-who-inspired-hook-and-19-more-facts-as-film-turns-25-photos/ |url-status=live }}</ref> musicians [[David Crosby]] and [[Jimmy Buffett]], actress [[Glenn Close]] and former boxer [[Tony Burton]] appear as members of Hook's pirate crew; ''[[Star Wars]]'' creator [[George Lucas]] and actress [[Carrie Fisher]] play the kissing couple sprinkled with [[Tinker Bell|pixie dust]]. An uncredited [[Jim Cummings]] provided singing vocals to some of the pirates.
+
+==Production==
+===Inspiration===
+[[Steven Spielberg]] found a close personal connection to [[Peter Pan (character)|Peter Pan]]'s story from his own childhood. The troubled relationship between Peter Banning and his son Jack in the film echoed Spielberg's relationship with his own father [[Arnold Spielberg|Arnold]]. Previous Spielberg films that explored a dysfunctional father-son relationship included ''[[E.T. the Extra-Terrestrial]]'' and ''[[Indiana Jones and the Last Crusade]]''. Peter's "quest for success" paralleled Spielberg starting out as a [[film director]] and transforming into a Hollywood [[business magnate]].{{sfn|McBride|1997|p=413}} "I think a lot of people today are losing their imagination because they are work-driven. They are so self-involved with work and success and arriving at the next plateau that children and family almost become incidental. I have even experienced it myself when I have been on a very tough shoot and I've not seen my kids except on weekends. They ask for my time and I can't give it to them because I'm working."<ref name=beetle/>
+
+Like Peter at the beginning of the film, Spielberg has a [[fear of flying]]. He feels that Peter's "enduring quality" in the storyline is simply to fly. "Anytime anything flies, whether it's [[Superman]], [[Batman]], or [[E.T. (character)|E.T.]], it's got to be a tip of the hat to Peter Pan," Spielberg reflected in a 1992 interview. "''[[Peter Pan (1953 film)|Peter Pan]]'' was the first time I saw anybody fly. Before I saw Superman, before I saw Batman, and of course before I saw any [[superhero]]es, my first memory of anybody flying is in ''Peter Pan''".<ref name="beetle" />
+
+===Pre-production===
+The genesis of the film started when Spielberg's mother Leah often read him ''[[Peter Pan (play and novel)|Peter and Wendy]]'' as a [[bedtime story]]. He explained in 1985, "When I was 11 years old, I actually directed the story during a school production. I have always felt like Peter Pan. I still feel like Peter Pan. It has been very hard for me to grow up, I'm a victim of the [[Peter Pan syndrome]]".{{sfn|McBride|1997|pp=42–3}}
+
+In the early 1980s, Spielberg began to develop a film with [[Walt Disney Pictures]] that would have closely followed the storyline of the [[Peter Pan (1924 film)|1924 silent film]] and 1953 animated film.<ref name=beetle>{{cite interview|interviewer=Ana Maria Bahiana|subject=Steven Spielberg|url=https://issuu.com/libuow/docs/cinemapaper1992marno087|publication-date=March–April 1992|title=Hook: Steven Spielberg|issue=87|magazine=[[Cinema Papers]]|pages=12–16|via=[[issuu]]|access-date=2019-12-21|archive-date=2021-05-12|archive-url=https://web.archive.org/web/20210512031236/https://issuu.com/libuow/docs/cinemapaper1992marno087|url-status=live}}</ref> He also considered directing it as a musical with [[Michael Jackson]] in the lead.{{sfn|McBride|1997|p=409}} Jackson expressed interest in the part, but was not interested in Spielberg's vision of an adult Peter Pan, who had forgotten about his past.<ref>{{cite web|url=http://www.starpulse.com/news/index.php/2011/12/04/michael_jackson_was_steven_spielbergs_|title=Michael Jackson Was Steven Spielberg's First Choice To Play Peter Pan In 'Hook'|website=Starpulse.com|access-date=March 23, 2017|archive-url=https://web.archive.org/web/20120208143650/http://www.starpulse.com/news/index.php/2011/12/04/michael_jackson_was_steven_spielbergs_|archive-date=February 8, 2012}}</ref>
+
+The project was taken to [[Paramount Pictures]],<ref>{{cite web |date=December 11, 2019 |title=Steven Spielberg's Hook: What Went Wrong? |url=https://www.denofgeek.com/movies/steven-spielbergs-hook-what-went-wrong/ |access-date=December 21, 2021 |website=[[Den of Geek]] |language=en-US}}</ref> where [[James V. Hart]] wrote the first script, with [[Dustin Hoffman]] already cast as [[Captain Hook|Captain James Hook]].{{sfn|McBride|1997|p=409}} It entered [[pre-production]] in 1985, with filming to begin at [[sound stage]]s in England. [[Elliot Scott]] had been hired as [[production designer]].<ref name="beetle" /> With the birth of his first son, Max, in 1985, Spielberg decided to drop out. "I decided not to make ''Peter Pan'' when I had my first child," Spielberg commented. "I didn't want to go to [[London]] and have seven kids on wires in front of [[chroma key|blue screens]]. I wanted to be home as a dad."{{sfn|McBride|1997|p=409}} Around this time, he considered directing ''[[Big (film)|Big]]'', which carried with it similar motifs and themes.{{sfn|McBride|1997|p=409}} In 1987, he "permanently abandoned" it, feeling he expressed his childhood and adult themes in ''[[Empire of the Sun (film)|Empire of the Sun]]''.<ref>{{cite news |last=Forsberg |first=Myra |date=January 10, 1988 |title=Spielberg at 40: The Man and the Child |url=https://archive.nytimes.com/www.nytimes.com/books/97/06/15/reviews/spielberg-turns40.html |work=[[The New York Times]] |location=New York, NY |access-date=October 11, 2018 |archive-date=December 14, 2017 |archive-url=https://web.archive.org/web/20171214063527/http://www.nytimes.com/books/97/06/15/reviews/spielberg-turns40.html |url-status=live }}</ref>
+
+Meanwhile, Paramount and Hart moved forward on production with [[Nick Castle]] as director. Hart began to work on a new storyline when his son Jake showed his family a drawing. "We asked Jake what it was and he said it was a crocodile eating Captain Hook, but that the crocodile really didn't eat him, he got away," Hart reflected. "As it happens, I had been trying to crack ''Peter Pan'' for years, but I didn't just want to do a remake. So I went, 'Wow. Hook is not dead. The crocodile is. We've all been fooled.' In 1986, our family was having dinner and Jake said, 'Daddy, did Peter Pan ever grow up?' My immediate response was, 'No, of course not.' And Jake said, 'But what if he did?' I realized that Peter did grow up, just like all of us [[Post-World War II baby boom|baby boomers]] who are now in our forties. I patterned him after several of my friends on [[Wall Street]], where the pirates wear three-piece suits and ride in [[Limousine|limos]]."{{sfn|McBride|1997|p=410}}
+
+Many fans believed [[Tom Hanks]] was Spielberg's original choice for the role of Peter Pan.<ref>{{cite web|date=22 December 2011|title=The Lost Comedy Roles of Tom Hanks|url=https://www.vulture.com/2011/12/the-lost-comedy-roles-of-tom-hanks.html|website=[[Vulture (website)|Vulture]]}}</ref> Hanks has debunked that rumour.<ref>{{cite web | url=https://screenrant.com/hook-peter-pan-tom-hanks-response/ | title=Tom Hanks Debunks Peter Pan Casting Rumor for Hook Movie | website=[[Screen Rant]] | date=September 8, 2022 }}</ref> [[Kevin Kline]] was also considered for the role but was unable to commit due to reshoots for ''[[Soapdish]]''.<ref name=Cameos/><ref name="u639">{{cite web | last=Voorhis | first=Justin Van | title=Hook: 10 Behind The Scenes Facts About Steven Spielberg's Most Underrated Film | website=Screen Rant | date=2020-11-25 | url=https://screenrant.com/hook-spielberg-behind-scenes-facts-underrated/ | access-date=2025-07-24}}</ref> [[Joseph Mazzello]] auditioned for the role of Jack Banning, but was turned down because he was deemed too young for the role. Mazzello was cast later as Tim Murphy in ''[[Jurassic Park (film)|Jurassic Park]]''.<ref>{{cite web|date=2 May 2010|title=Spielberg's Protégé|url=https://nypost.com/2010/05/02/spielbergs-protege/|website=[[NY Post]]}}</ref>
+
+===Filming===
+By 1989, Ian Rathbone changed the title to ''Hook'', and took it from Paramount to [[TriStar Pictures]], headed by [[Mike Medavoy]], who was Spielberg's first [[talent agent]]. [[Robin Williams]] signed on, but he and Hoffman had creative differences with Castle. Medavoy saw the film as a vehicle for Spielberg and Castle was dismissed, but he was paid a $500,000 settlement.{{sfn|McBride|1997|p=410}} [[Dodi Fayed]], who owned certain rights to make a ''Peter Pan'' film, sold his interest to TriStar in exchange for an [[executive producer]] credit.{{sfn|Medavoy|Young|2002|p=230}} Spielberg briefly worked with Hart to rewrite the script<ref name=beetle/> before hiring [[Malia Scotch Marmo]] to rewrite Captain Hook's dialog, and [[Carrie Fisher]] for [[Tinker Bell]]'s.<ref>{{cite web|title=Carrie Fisher Script Doctor: From Hook To Wedding Singer|url=https://www.slashfilm.com/carrie-fisher-script-doctor/|date=2016-12-29|website=/Film|language=en-US|access-date=2020-05-07|archive-date=2020-04-24|archive-url=https://web.archive.org/web/20200424222256/https://www.slashfilm.com/carrie-fisher-script-doctor/|url-status=live}}</ref> The [[Writers Guild of America]] gave Hart and Marmo screenplay credit, while Hart and Castle were credited with the story. Fisher went uncredited but appeared in a cameo in the film.
+
+Filming began February 19, 1991, occupying nine [[sound stage]]s at [[Sony Pictures Studios]] in [[Culver City, California|Culver City]], California.{{sfn|McBride|1997|p=411}} Stage 30 housed the [[Neverland]] [[Lost Boys (Peter Pan)|Lost Boys]] [[playground]], while Stage 10 supplied Captain Hook's [[Cabin (ship)|ship cabin]]. Hidden [[hydraulics]] were installed to rock the set-piece to simulate a swaying ship, but the filmmakers found the movement distracted from the dialogue, so the idea was dropped.<ref name="DVD" /> Stage 27 housed the full-sized ''Jolly Roger'' and the surrounding Pirate Wharf.<ref name="DVD">DVD production notes</ref> [[Industrial Light & Magic]] provided the [[visual effects]] sequences. This marked the beginning of [[Tony Swatton]]'s career, as he was asked to make weaponry for the film.<ref>{{cite magazine|last=McLauchlin |first=James |url=https://www.wired.com/underwire/2013/08/hollywood-blacksmith-tony-swatton/ |title=When Hollywood Needs Shiny Instruments of Death, This Blacksmith Delivers |magazine=Wired |date=2013-03-28 |accessdate=2013-11-15}}</ref>
+
+The film was financed by [[Amblin Entertainment]] and TriStar Pictures, with TriStar distributing it. Spielberg hired [[John Napier (designer)|John Napier]] as a "visual consultant", having been impressed with his work on ''[[Cats (musical)|Cats]]''. The original production budget was set at $48&nbsp;million, but ended up between $60–80&nbsp;million.<ref>{{cite web |last=Park |first=Jeannie |date=December 23, 1991 |title=Ahoy! Neverland! |url=https://people.com/archive/cover-story-ahoy-neverland-vol-36-no-24/ |access-date=December 21, 2021 |website=[[People (magazine)|People]] |language=en}}</ref>{{sfn|McBride|1997|pp=410, 412}} The primary reason for the increased budget was the [[shooting schedule]], which ran 40 days over its original 76-day schedule. Spielberg explained, "It was all my fault. I began to work at a slower pace than I usually do."<ref name=":2">{{cite web |date=November 2, 2016 |title=13 Sharp Facts About Hook |url=https://www.mentalfloss.com/article/88221/13-sharp-facts-about-hook |access-date=December 21, 2021 |website=[[Mental Floss]] |language=en}}</ref>
+
+Spielberg's on-set relationship with [[Julia Roberts]] was troubled, and he stated in a 1992 interview with ''[[60 Minutes]]'', "It was an unfortunate time for us to work together."<ref>{{cite web |title=Steven Spielberg on 60 Minutes |url=https://www.youtube.com/watch?v=HUbT4LRDOig |website=[[YouTube]] | date=April 21, 2020 |publisher=[[CBS]]}} (''Timestamp 8:08)''. Retrieved December 21, 2021.</ref> In a 1999 ''[[Vanity Fair (magazine)|Vanity Fair]]'' interview, Roberts said that Spielberg's comments "really hurt my feelings". She "couldn't believe this person that I knew and trusted was actually hesitating to come to my defense... it was the first time that I felt I had a turncoat in my midst."<ref>{{cite web |url=http://www.vanityfair.com/news/1999/06/Canoodling-With-Julia |title=Canoodling with Julia|last=Zeman |first=Ned |date=June 1999 |work=[[Vanity Fair (magazine)|Vanity Fair]] |access-date=December 18, 2024 |archive-date=July 10, 2017 |archive-url=https://web.archive.org/web/20170710081944/http://www.vanityfair.com/news/1999/06/Canoodling-With-Julia |url-status=live }}</ref>
+
+==Soundtrack==
+{{Infobox album
+| name         = Hook (Original Motion Picture Soundtrack)
+| type         = film
+| artist       = [[John Williams]]
+| cover        = 
+| alt          = 
+| released     = {{start date|1991|11|26}} ''(original)''<br>{{start date|2012|03|27}} ''(reissue)''<ref name=jw>{{cite web |url=http://www.jwfan.com/?p=2580 |title=HOOK 2CD Set Includes 'Over 65 minutes of Music Previously Unreleased' |date=May 20, 2012 |work=JOHN WILLIAMS Fan Network |access-date=May 21, 2012 |archive-date=April 28, 2012 |archive-url=https://web.archive.org/web/20120428152831/http://www.jwfan.com/?p=2580 |url-status=live }}</ref>
+| recorded     = 
+| venue        = 
+| studio       = 
+| genre        = 
+| length       = 75:18 ''(original)''<br> 140:34 ''(reissue)''
+| label        = [[Epic Soundtrax]] ''(original)''<br>La-La Land Records ''(reissue)''
+| producer     = 
+| prev_title   = [[Home Alone (soundtrack)|Home Alone]]
+| prev_year    = 1990
+| next_title   = [[JFK (soundtrack)|JFK]]
+| next_year    = 1991
+}}
+The [[film score]] was composed and conducted by [[John Williams]], and performed by the [[Hollywood Studio Symphony]]. He was brought in at an early stage when Spielberg was considering making the film as a [[Musical film|musical]]. Williams wrote approximately eight songs with lyricist [[Leslie Bricusse]] for the project at this stage.<ref name="musical">{{cite web |date=February 13, 2000 |title=HOOK (1991) – Complete Score Analysis (2000) |url=https://www.jwfan.com/?p=3433 |access-date=December 21, 2021 |website=JOHN WILLIAMS Fan Network}}</ref> Williams and Bricusse finalized it to five songs.<ref name=":3">{{Cite web |last=Grieving |first=Tim |date=December 8, 2021 |title=Steven Spielberg's Eternal Quest for Song and Dance |url=https://www.theringer.com/movies/2021/12/8/22823113/hook-west-side-story-robin-williams-musical-steven-spielberg |access-date=August 13, 2022 |website=theringer.com}}</ref> Several of these songs were recorded and some musical segments were even filmed.
+
+[[Julie Andrews]] recorded one song, "Childhood", at the [[Sony Pictures Studios]], so that [[Maggie Smith]] could lip-sync it on-set; it was meant to be sung by Granny [[Wendy Darling]] to her grandchildren in their bedroom.<ref name=":3" /> Two additional songs, "Stick with Me" and "Low Below", performed by Dustin Hoffman and [[Bob Hoskins]], respectively, were also rehearsed.<ref name=":3" /> These three songs were ultimately cut from the film, and instead were incorporated into the instrumental score. Two remaining songs survive in the finished film: "We Don't Wanna Grow Up" and "When You're Alone", both with lyrics by Bricusse.<ref name=":2" /> The "Prologue" track later appeared in a commercial for the [[68th Academy Awards]] in 1995, and in trailers for ''[[Matilda (1996 film)|Matilda]]'' (1996), another film by TriStar.<ref>{{cite web | url=https://www.youtube.com/watch?v=ZCb68DmP6Rc | title=68th Academy Awards (1996) &#91;FTD-0454&#93; | website=[[YouTube]] | date=June 27, 2021 }}</ref><ref>{{cite web | url=https://www.soundtrack.net/movie/matilda/ | title=Matilda (1996) - Soundtrack.Net }}</ref>
+
+The original 1991 issue was released by [[Epic Soundtrax]].<ref>{{cite web | url = https://www.allmusic.com/album/hook-mw0000677078 | title = Hook - John Williams | website = [[AllMusic]] | access-date = August 26, 2010 | archive-date = August 28, 2012 | archive-url = https://web.archive.org/web/20120828110454/http://www.allmusic.com/album/hook-mw0000677078 | url-status = live }}</ref> In 2012, a limited edition of the soundtrack, called ''Hook: Expanded Original Motion Picture Soundtrack'', was released by La-La Land Records and [[Sony Music]].<ref name="jw" /> It contains almost the complete score, with alternates and unused material. It also contains liner notes that explain the film's production and score recording.
+;Commercial songs from the film, but not on the soundtrack<ref name=musical/>
+* "Pick'em Up" – Music by [[John Williams]] and lyrics by Leslie Bricusse
+* "[[Take Me Out to the Ball Game]]" – Written by [[Jack Norworth]] and [[Albert Von Tilzer]]
+
+On December 1, 2023, La-La Land Records released a remastered and expanded three-disc ultimate edition of the film's score in its entirety. The first disc includes the score presentation. The second disc features the additional musical tracks, and the third disc features alternate cues, source music and Leslie Bricusse's songs.
+
+==Video games==
+{{Main|Hook (video game)}}
+A [[video game]] based on the film and bearing the same name was released for various game consoles in 1992.<ref name=SNES>{{cite web|last=Marriott|first=Scott Alan|title=Hook – Overview (SNES)|url=http://www.allgame.com/game.php?id=185|access-date=August 25, 2017|work=[[AllGame]]|archive-url=https://web.archive.org/web/20141115031859/http://www.allgame.com/game.php?id=185|archive-date=November 15, 2014}}</ref> Another game was released for [[personal computer]] and [[Amiga|Commodore Amiga]], and is a [[Point and click|point-and-click]] adventure game.
+
+==Reception==
+===Box office===
+Spielberg, Williams and Hoffman did not take salaries for ''Hook''. Their deal called for them to split 40% of TriStar Pictures' gross revenues. They were to receive $20 million from the first $50 million in gross theatrical film rentals, with TriStar keeping the next $70 million in rentals before the three resumed receiving their percentage.{{sfn|McBride|1997|p=411}}
+
+''Hook'' was released in North America December 11, 1991, earning $13.5 million in its opening weekend. It went on to gross $119.7 million in the United States and Canada, and $181.2 million in foreign countries, accumulating a worldwide total of $300.9 million.<ref>{{cite web | url = https://www.boxofficemojo.com/movies/?id=hook.htm | title = Hook (1991) | work = [[Box Office Mojo]] | access-date = September 19, 2008 | archive-date = December 19, 2008 | archive-url = https://web.archive.org/web/20081219133934/http://www.boxofficemojo.com/movies/?id=hook.htm | url-status = live }}</ref> It is the sixth-highest-grossing pirate-themed film, behind all five films in the [[Pirates of the Caribbean (film series)|''Pirates of the Caribbean'' film series]].<ref>{{cite web | url = https://www.boxofficemojo.com/genres/chart/?id=pirate.htm | title = Pirate Movies at the Box Office | work = [[Box Office Mojo]] | access-date = June 3, 2011 | archive-date = June 5, 2011 | archive-url = https://web.archive.org/web/20110605024349/http://boxofficemojo.com/genres/chart/?id=pirate.htm | url-status = live }}</ref> In the United States and Canada, it was the sixth-highest-grossing film in 1991,<ref>{{cite web | url = https://www.boxofficemojo.com/yearly/chart/?yr=1991&p=.htm | title = 1991 Yearly Box Office Results | work = [[Box Office Mojo]] | access-date = September 19, 2008 | archive-date = December 16, 2008 | archive-url = https://web.archive.org/web/20081216051258/http://www.boxofficemojo.com/yearly/chart/?yr=1991&p=.htm | url-status = live }}</ref> and fourth-highest-grossing worldwide.<ref>{{cite web | url = https://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=1991&p=.htm | title = 1991 Yearly Box Office Results | work = [[Box Office Mojo]] | access-date = September 19, 2008 | archive-date = December 18, 2008 | archive-url = https://web.archive.org/web/20081218083955/http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=1991&p=.htm | url-status = live }}</ref> It was the second-highest-grossing film in Japan, with [[theatrical rental]]s of $22.4 million.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=September 27, 1993|page=57|title=Top 10 grossers in Japan: 1992}}</ref><ref>{{cite web|url=http://www.eiren.org/toukei/1992.html|title=Kako haikyū shūnyū jōi sakuhin 1992-nen|publisher=Motion Picture Producers Association of Japan|language=ja|access-date=February 6, 2021|archive-url=https://web.archive.org/web/20110511070754/http://www.eiren.org/toukei/1992.html|archive-date=May 11, 2011|url-status=live}}</ref> It ended up making a profit of $50 million for the studio, yet it was still declared a financial disappointment,<ref>{{cite web|last=Dretzka|first=Gary|date=December 8, 1996|title=Medavoy's Method|url=http://www.chicagotribune.com/news/ct-xpm-1996-12-08-9701040023-story.html|url-status=dead|archive-url=https://web.archive.org/web/20181011172949/http://www.chicagotribune.com/news/ct-xpm-1996-12-08-9701040023-story.html|archive-date=2018-10-11|access-date=2018-10-11|work=[[Chicago Tribune]]}}</ref> having been overshadowed by the release of Disney's ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'' and a decline in box-office receipts compared to the previous years.{{sfn|Medavoy|Young|2002|pp=234–235}}
+
+===Critical response===
+''Hook'' received mixed reviews upon release.<ref>{{Cite news |last=McNary |first=Dave |author-link=Dave McNary |date=December 30, 1991 |title='Hook' leads pack in post-Christmas box office tally |url=https://www.upi.com/Archives/1991/12/30/Hook-leads-pack-in-post-Christmas-box-office-tally/8622694069200/ |access-date=April 14, 2025 |work=[[United Press International]] |quote=despite mixed reviews }}</ref> On review aggregator [[Rotten Tomatoes]] 37% of critics have given the film a positive review, based on 139 reviews. The site's consensus states: "The look of ''Hook'' is lively indeed, but Steven Spielberg directs on autopilot here, giving in too quickly to his sentimental, syrupy qualities."<ref>{{cite web | url = https://www.rottentomatoes.com/m/hook/ | title = Hook (1991) | work = [[Rotten Tomatoes]] | publisher = [[Fandango Media|Fandango]] | access-date = December 17, 2025 | archive-date = January 8, 2019 | archive-url = https://web.archive.org/web/20190108032632/https://www.rottentomatoes.com/m/hook/ | url-status = live }}</ref> On [[Metacritic]], the film has a 52 out of 100 rating, based on reviews from 19 critics, indicating "mixed or average" reviews.<ref>{{cite web | url=https://www.metacritic.com/movie/hook | title=Hook Reviews | work=[[Metacritic]] | publisher=[[CBS Interactive]] | access-date=January 9, 2016 | archive-date=October 31, 2015 | archive-url=https://web.archive.org/web/20151031183147/http://www.metacritic.com/movie/hook | url-status=live }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on a scale of A+ to F.<ref>{{cite web|date=2018-12-20|title=Cinemascore :: Movie Title Search|url=https://www.cinemascore.com/publicsearch/index/title/|access-date=2020-07-28|archive-url=https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/|archive-date=2018-12-20}}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' wrote: {{blockquote|The sad thing about the screenplay for ''Hook'' is that it's so correctly titled: This whole construction is really nothing more than a hook on which to hang a new version of the Peter Pan story. No effort is made to involve Peter's magic in the changed world he now inhabits, and little thought has been given to Captain Hook's extraordinary persistence in wanting to revisit the events of the past. The failure in ''Hook'' is its inability to re-imagine the material, to find something new, fresh or urgent to do with the Peter Pan myth. Lacking that, Spielberg should simply have remade the original story, straight, for this generation.<ref>{{cite news | title = Hook Movie Review & Film Summary (1991) | date = December 11, 1991 | last = Ebert | first = Roger | author-link = Roger Ebert | url = https://www.rogerebert.com/reviews/hook-1991 | work = [[Chicago Sun Times]] | access-date = September 19, 2008 | archive-date = January 11, 2015 | archive-url = https://web.archive.org/web/20150111044245/http://www.rogerebert.com/reviews/hook-1991 | url-status = live }}</ref>}} [[Peter Travers]] of ''[[Rolling Stone]]'' magazine felt it would "only appeal to the [[Post-World War II baby boom|baby boomer]] generation", and highly criticized the sword-fighting choreography.<ref>{{cite news | last = Travers | first = Peter | author-link = Peter Travers | url = https://www.rollingstone.com/reviews/movie/5947391/review/5947392/hook | title = Hook | magazine = [[Rolling Stone]] | date = December 11, 1992 | access-date = September 19, 2008 | url-status = dead |archive-url=https://web.archive.org/web/20080616083730/https://www.rollingstone.com/reviews/movie/5947391/review/5947392/hook |archive-date=June 16, 2008}}</ref> [[Vincent Canby]] of ''[[The New York Times]]'' felt the story structure was not well balanced, feeling Spielberg depended too much on [[Art director|art direction]].<ref>{{cite news |url=https://www.nytimes.com/1991/12/11/movies/review-film-peter-as-a-middle-aged-master-of-the-universe.html |title=Review/Film; Peter as a Middle-Aged Master of the Universe |last=Canby |first=Vincent |author-link=Vincent Canby |date=December 11, 1991 |work=[[The New York Times]] |access-date=October 12, 2018 |archive-date=October 11, 2018 |archive-url=https://web.archive.org/web/20181011220016/https://www.nytimes.com/1991/12/11/movies/review-film-peter-as-a-middle-aged-master-of-the-universe.html |url-status=live }}</ref> [[Hal Hinson]] of ''[[The Washington Post]]'' was one of the few who gave it a positive review. Hinson elaborated on crucial themes of children, adulthood and loss of innocence. However, he said Spielberg "was stuck too much in a [[Amusement park|theme park]] world".<ref>{{cite news |url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/hookpghinson_a0a725.htm |title=Hook |last=Hinson |first=Hal |author-link=Hal Hinson |date=December 11, 1991 |newspaper=[[The Washington Post]] |access-date=October 12, 2018 |archive-date=November 29, 2017 |archive-url=https://web.archive.org/web/20171129152343/http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/hookpghinson_a0a725.htm |url-status=live }}</ref>
+
+John Williams' musical score was particularly praised, and is considered by many as one of his best.<ref>{{cite web |last=Hicks |first=Chris |date=January 11, 1992 |title='HOOK' COMPOSER SCORES BIG WITH COLLECTION OF MOVIE THEMES |url=https://www.deseret.com/1992/1/11/18961360/hook-composer-scores-big-with-collection-of-movie-themes |access-date=December 21, 2021 |website=[[Deseret News]] |language=en}}</ref><ref>{{cite web|date=18 December 2019|title=The Top 10 John Williams Scores of All Time|url=https://collider.com/best-john-williams-scores/|website=[[Collider (website)|Collider]]}}</ref><ref>{{cite web|date=17 October 2018|title=15 Legendary John Williams Film Scores|url=https://www.musicnotes.com/now/omg/15-legendary-john-williams-film-scores/|website=Musicnotes.com}}</ref> However, the score notably failed to receive an [[Academy Award for Best Original Score]] nomination (although Williams did receive a nomination for [[Academy Award for Best Original Song|Best Original Song]]). Filmmaker [[Jon M. Chu]] cited the film as a source of inspiration for the visual aesthetics of his [[Wicked (film franchise)|two-part film adaptation]] of the musical ''[[Wicked (musical)|Wicked]]'' (2024, 2025).<ref>{{Cite magazine |last=Murphy |first=Chris |date=2024-03-21 |title=Inside 'Wicked': Ariana Grande and Cynthia Erivo Talk Glinda and Elphaba |url=https://www.vanityfair.com/hollywood/inside-wicked-with-ariana-grande-cynthia-erivo |access-date=2024-08-10 |magazine=Vanity Fair |language=en-US}}</ref><ref>{{Cite web |last=Schreur |first=Brandon |date=2024-03-21 |title=Wicked Director Talks Realistic Sets, Modeling Movie After Steven Spielberg's Hook |url=https://www.comingsoon.net/movies/news/1618356-wicked-director-talks-realistic-sets-modeling-movie-after-steven-spielbergs-hook |access-date=2024-08-10 |website=ComingSoon.net - Movie Trailers, TV & Streaming News, and More |language=en-US}}</ref>
+
+===Spielberg's assessment===
+[[File:Steven Spielberg by Gage Skidmore.jpg|thumb|upright|[[Steven Spielberg]] later admitted that he was largely disappointed with ''Hook''.]]
+
+Spielberg has stated in interviews that he was not proud of the film, and disappointed with the final result. In 2011, he told ''[[Entertainment Weekly]]'', "There are parts of ''Hook'' I love. I'm really proud of my work right up through Peter being hauled off in the parachute out the window, heading for Neverland. I'm a little less proud of the Neverland sequences because I'm uncomfortable with that highly stylized world that today, of course, I would probably have done with live-action character work inside a completely digital set. But we didn't have the technology to do it then, and my imagination only went as far as building physical sets and trying to paint trees blue and red."<ref name=":1">{{cite magazine|last=Breznican|first=Anthony|author-link=Anthony Breznican|date=December 2, 2011|title=Steven Spielberg: The EW interview|url=https://ew.com/article/2011/12/02/steven-spielberg-ew-interview/|url-status=live|archive-url=https://web.archive.org/web/20181011172941/https://ew.com/article/2011/12/02/steven-spielberg-ew-interview/|archive-date=October 11, 2018|access-date=October 11, 2018|magazine=[[Entertainment Weekly]]}}</ref>
+
+In a 2013 interview, after a positive reappraisal by critic [[Mark Kermode]], Spielberg stated: "I wanna see ''Hook'' again because I so don't like that movie, and I'm hoping someday I'll see it again and perhaps like some of it."<ref>{{cite AV media |url=https://www.youtube.com/watch?v=cnwQDgssrwk |title=Steven Spielberg interviewed by Kermode & Mayo |last1=Kermode |first1=Mark |author-link=Mark Kermode |last2=Mayo |first2=Simon |author-link2=Simon Mayo |date=January 25, 2013 |work=[[Kermode and Mayo's Film Review]] |via=[[YouTube]] |access-date=February 18, 2016 |archive-date=April 17, 2016 |archive-url=https://web.archive.org/web/20160417174516/https://www.youtube.com/watch?v=cnwQDgssrwk |url-status=live }}</ref> During the promotion of his film ''[[The BFG (2016 film)|The BFG]]'' at the [[Cannes Film Festival]] in 2016, Spielberg reiterated his stance when journalists drew a comparison between the two films: "I hope [''The BFG''] has nothing to do with ''Hook''. I hope it's totally different. I hope it's much better than ''Hook''." About the movie's legacy, he said: "I don't like ''Hook'' very much, but my children love it. And there's a whole generation of young people who really enjoyed the movie far more than what I put into it.".<ref>{{Cite web|url=https://www.allocine.fr/article/fichearticle_gen_carticle=18708212.html|title=Steven Spielberg n'aime pas Hook : pourquoi le réalisateur regrette son film sur Peter Pan|date=April 1, 2022|website=AlloCiné}}</ref> In 2018, Spielberg told ''[[Empire (magazine)|Empire]]'', "I felt like a fish out of water making ''Hook''... I didn't have confidence in the script. I had confidence in the first act and I had confidence in the epilogue. I didn't have confidence in the body of it." He added, "I didn't quite know what I was doing and I tried to paint over my insecurity with production value," adding that "the more insecure I felt about it, the bigger and more colorful the sets became."<ref name=":0">{{cite web |url=https://www.denofgeek.com/movies/why-steven-spielberg-was-unhappy-with-hook/ |title=Why Steven Spielberg Was Unhappy With Hook |last=Brew |first=Simon |date=February 22, 2018 |work=Den of Geek |access-date=March 27, 2018 |archive-date=March 27, 2018 |archive-url=https://web.archive.org/web/20180327214650/http://www.denofgeek.com/us/movies/hook/271147/why-steven-spielberg-was-unhappy-with-hook |url-status=live }}</ref>
+
+==Accolades==
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! {{Ref heading}}
+|-
+| rowspan="5"| [[64th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| Art Direction: [[Norman Garwood]]; <br>Set Decoration: [[Garrett Lewis]]
+| {{nom}}
+| align="center" rowspan="5"| <ref>{{Cite web |url=http://www.oscars.org/oscars/ceremonies/1992 |title=The 64th Academy Awards (1992) Nominees and Winners |date=October 9, 2014 |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=December 21, 2021}}</ref>
+|-
+| [[Academy Award for Best Costume Design|Best Costume Design]]
+| [[Anthony Powell (designer)|Anthony Powell]]
+| {{nom}}
+|-
+| [[Academy Award for Best Makeup and Hairstyling|Best Makeup]]
+| [[Christina Smith (make-up artist)|Christina Smith]], [[Monty Westmore]] and [[Greg Cannom]]
+| {{nom}}
+|-
+| [[Academy Award for Best Original Song|Best Original Song]]
+| "When You're Alone" <br> Music by [[John Williams]]; <br> Lyrics by [[Leslie Bricusse]]
+| {{nom}}
+|-
+| [[Academy Award for Best Visual Effects|Best Visual Effects]]
+| [[Eric Brevig]], [[Harley Jessup]], [[Mark Sullivan (visual effects artist)|Mark Sullivan]] and [[Michael Lantieri]]
+| {{nom}}
+|-
+| [[American Comedy Awards#1992 awards|American Comedy Awards]]
+| Funniest Supporting Actress in a Motion Picture
+| [[Maggie Smith]]
+| {{nom}}
+| align="center"| 
+|-
+| [[American Society of Cinematographers|American Society of Cinematographers Awards]]
+| [[American Society of Cinematographers Award for Outstanding Achievement in Cinematography in Theatrical Releases|Outstanding Achievement in Cinematography in Theatrical Releases]]
+| [[Dean Cundey]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://www.theasc.com/asc_news/awards/awards_history.php |title=The ASC Awards for Outstanding Achievement in Cinematography |url-status=dead |archive-url=https://web.archive.org/web/20110802060537/http://www.theasc.com/asc_news/awards/awards_history.php |archive-date=2011-08-02}}</ref>
+|-
+| [[BMI Film & TV Awards]]
+| Film Music Award
+| John Williams
+| {{won}}
+| align="center"| 
+|-
+| [[Chicago Film Critics Association Awards 1991|Chicago Film Critics Association Awards]]
+| Most Promising Actor
+| [[Charlie Korsmo]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://chicagofilmcritics.org/awards-blog/archives |title=1988-2013 Award Winner Archives |publisher=[[Chicago Film Critics Association]] |date=January 1, 2013 |access-date=April 12, 2024}}</ref>
+|-
+| [[49th Golden Globe Awards|Golden Globe Awards]]
+| [[Golden Globe Award for Best Actor – Motion Picture Musical or Comedy|Best Actor in a Motion Picture – Musical or Comedy]]
+| [[Dustin Hoffman]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://www.goldenglobes.com/film/hook |title=Hook |publisher=[[Golden Globe Awards]] |access-date=April 12, 2024}}</ref>
+|-
+| [[12th Golden Raspberry Awards|Golden Raspberry Awards]]
+| [[Golden Raspberry Award for Worst Supporting Actress|Worst Supporting Actress]]
+| [[Julia Roberts]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://www.razzies.com/forum/forum_posts.asp?TID=341&PN=2 |title=12th Golden Raspberry Awards |publisher=[[Golden Raspberry Awards]] |access-date=October 15, 2008 |archive-url=https://web.archive.org/web/20071223172425/http://www.razzies.com/forum/forum_posts.asp?TID=341&PN=2 |archive-date=December 23, 2007 |url-status=dead |df=mdy-all}}</ref>
+|-
+| colspan="3"| [[Goldene Leinwand|Golden Screen Awards]]
+| {{won}}
+| align="center"| 
+|-
+| [[GoldSpirit Awards]]
+| Best Edition of an Existing Score
+| rowspan="3"| John Williams
+| {{won}}
+| align="center"| 
+|-
+| rowspan="2"| [[35th Annual Grammy Awards|Grammy Awards]]
+| [[Grammy Award for Best Pop Instrumental Performance|Best Pop Instrumental Performance]]
+| {{nom}}
+| align="center" rowspan="2"| <ref>{{cite web |url=https://www.grammy.com/awards/35th-annual-grammy-awards |title=35th Annual GRAMMY Awards |publisher=[[Grammy Awards]] |access-date=April 12, 2024}}</ref>
+|-
+| [[Grammy Award for Best Score Soundtrack for Visual Media|Best Instrumental Composition Written for a Motion Picture or for <br> Television]]
+| {{nom}}
+|-
+| rowspan="2"| [[International Film Music Critics Association|International Film Music Critics Association Awards]]
+| [[International Film Music Critics Association Award for Best New Archival Release of an Existing Score – Re-Release or Re-Recording|Best Archival Release of an Existing Score]]
+| John Williams, Didier C. Deutsch, MV Gerhard, Matt Verboys, Mark G. Wilder, Daniel Schweiger and Jim Titus
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://filmmusiccritics.org/awards-archive/2012-ifmca-awards/ |title=2012 IFMCA Awards |publisher=[[International Film Music Critics Association]] |date=April 12, 2024 |access-date=April 12, 2024}}</ref>
+|-
+| [[International Film Music Critics Association Award for Best New Archival Release of an Existing Score – Re-Release or Re-Recording|Best Archival Release]]
+| John Williams, Mike Matessino, John Takis, Jason LeBlanc and Jim Titus
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://filmmusiccritics.org/2024/02/ifmca-award-nominations-2023/ |title=IFMCA Award Nominations 2023 |publisher=[[International Film Music Critics Association]] |date=February 8, 2024 |access-date=February 8, 2024}}</ref>
+|-
+| [[19th Saturn Awards|Saturn Awards]]
+| colspan="2"| [[Saturn Award for Best Fantasy Film|Best Fantasy Film]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://www.saturnawards.org/past.html |title=Past Saturn Awards |publisher=[[Saturn Awards]] |access-date=September 20, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20050210040426/http://www.saturnawards.org/past.html |archive-date=February 10, 2005 |df=mdy-all}}</ref>
+|-
+| rowspan="6"| [[14th Youth in Film Awards|Young Artist Awards]]
+| colspan="2"| Best Family Motion Picture
+| {{won}}
+| align="center" rowspan="6"| <ref>{{cite web |url=http://www.youngartistawards.org/pastnoms14.htm |title=14th Annual Youth in Film Awards |access-date=2011-03-31 |publisher=[[Young Artist Award]]s |url-status=dead |archive-url=https://web.archive.org/web/20110217002739/http://www.youngartistawards.org/pastnoms14.htm |archive-date=2011-02-17}}</ref>
+|-
+| rowspan="2"| Best Young Actor Co-Starring in a Motion Picture
+| [[Dante Basco]]
+| {{nom}}
+|-
+| Charlie Korsmo
+| {{nom}}
+|- 
+| Best Young Actor Under 10 in a Motion Picture
+| Raushan Hammond
+| {{nom}}
+|-
+| Best Young Actress Under 10 in a Motion Picture
+| Amber Scott
+| {{nom}}
+|-
+| Outstanding Young Ensemble Cast in a Motion Picture
+| Charlie Korsmo, Amber Scott, Ryan Francis, Dante Basco, Raushan Hammond, [[Jasen Fisher]], [[James Madio]], Isaiah Robinson, Thomas Tulak, Alex Zuckerman, Ahmad Stone, Bogdan Georghe, Adam McNatt, René González Jr, Brian Willis and Alex Gaona
+| {{won}}
+|}
+
+== Adaptation ==
+[[Marvel Comics]] published a comic book adaptation. [[Charles Vess]] adapted the script and was one of many artists who illustrated it.<ref>{{cite book |last1=Plowright |first1=Frank |title=The Slings & Arrows Comic Guide |date=2003 |publisher=Slings & Arrows |page=315}}</ref>
+
+==See also==
+{{portal|Children's literature}}
+* [[List of films featuring miniature people]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book|last=Brooks|first=Terry|author-link=Terry Brooks|title=Hook|others=[[novelization]] of the film|type=Hardcover|year=1991|publisher=[[Ballantine Books]]|isbn=0449907074|url-access=registration|url=https://archive.org/details/hooknovel00broo}}
+* {{cite book|author=Charles L.P. Silet|title=The Films of Steven Spielberg|year=2002|publisher=Scarecrow Press|isbn=0810841827}}
+* {{cite book|last=McBride|first=Joseph|title=Steven Spielberg: A Biography|publisher=[[Faber and Faber]]|year=1997|location=[[New York City]]|isbn=0571191770|author-link=Joseph McBride (writer)}}
+* {{cite book|last1=Medavoy|first1=Mike|last2=Young|first2=Josh|title=You're Only as Good as Your Next One: 100 Great Films, 100 Good Films, and 100 for Which I Should Be Shot|year=2002|isbn=9780743400558|location=[[New York City]]|publisher=[[Atria Books]]}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* {{IMDb title}}
+* {{Mojo title}}
+* {{Rotten Tomatoes}}
+* {{TCMDb title}}
+* {{AFI film}}
+
+{{Peter Pan}}
+{{Steven Spielberg}}
+{{Authority control}}
+{{DEFAULTSORT:Hook (film)}}
+[[Category:1990s adventure comedy films]]
+[[Category:1990s children's adventure films]]
+[[Category:1990s Christmas films]]
+[[Category:1991 fantasy adventure films]]
+[[Category:1991 fantasy comedy films]]
+[[Category:1991 American films]]
+[[Category:1991 children's films]]
+[[Category:1991 English-language films]]
+[[Category:1991 films]]
+[[Category:Amblin Entertainment films]]
+[[Category:American adventure comedy films]]
+[[Category:American children's adventure films]]
+[[Category:American Christmas films]]
+[[Category:American fantasy adventure films]]
+[[Category:American fantasy comedy films]]
+[[Category:American sequel films]]
+[[Category:American swashbuckler films]]
+[[Category:1990s swashbuckler films]]
+[[Category:Compositions by Leslie Bricusse]]
+[[Category:English-language adventure comedy films]]
+[[Category:English-language Christmas films]]
+[[Category:English-language fantasy adventure films]]
+[[Category:English-language fantasy comedy films]]
+[[Category:Films about amnesia]]
+[[Category:Films about amputees]]
+[[Category:Films about child abduction]]
+[[Category:Films about fairies]]
+[[Category:Films about families]]
+[[Category:Films about father–son relationships]]
+[[Category:Films about lawyers]]
+[[Category:Films about unrequited love]]
+[[Category:Films adapted into comics]]
+[[Category:Films based on Peter Pan]]
+[[Category:Films directed by Steven Spielberg]]
+[[Category:Films produced by Frank Marshall]]
+[[Category:Films produced by Gerald R. Molen]]
+[[Category:Films produced by Kathleen Kennedy]]
+[[Category:Films scored by John Williams]]
+[[Category:Films set in London]]
+[[Category:Films set in San Francisco]]
+[[Category:Films set on airplanes]]
+[[Category:Films shot in California]]
+[[Category:Films shot in London]]
+[[Category:Films shot in Los Angeles]]
+[[Category:TriStar Pictures films]]

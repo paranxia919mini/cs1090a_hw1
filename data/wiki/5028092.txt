@@ -1,0 +1,324 @@
+{{Short description|1974 British mystery film by Sidney Lumet}}
+{{Use British English|date=November 2020}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox film
+| name           = Murder on the Orient Express
+| image          = Murder on the Orient Express - UK poster.png
+| caption        = Original British quad format film poster
+| director       = [[Sidney Lumet]]
+| producer       = [[John Knatchbull, 7th Baron Brabourne|John Brabourne]]<br/>[[Richard Goodwin (producer)|Richard Goodwin]]
+| screenplay     = [[Paul Dehn]]
+| based_on       = {{based on|''[[Murder on the Orient Express]]''<br>1934 novel|[[Agatha Christie]]}}
+| starring       = 
+{{plainlist|
+* [[Lauren Bacall]]
+* [[Martin Balsam]]
+* [[Ingrid Bergman]]
+* [[Jacqueline Bisset]]
+* [[Jean-Pierre Cassel]]
+* [[Sean Connery]]
+* [[Albert Finney]]
+* [[John Gielgud]]
+* [[Wendy Hiller]]
+* [[Anthony Perkins]]
+* [[Vanessa Redgrave]]
+* [[Rachel Roberts (actress)|Rachel Roberts]]
+* [[Richard Widmark]]
+* [[Michael York]]
+* [[George Coulouris]]
+* [[Denis Quilley]]
+* [[Colin Blakely]]
+}}
+| music          = [[Richard Rodney Bennett]]
+| cinematography = [[Geoffrey Unsworth]]
+| editing        = [[Anne V. Coates]]
+| studio         = G.W. Films Limited<br>[[EMI Films]]
+| distributor    = [[Anglo-EMI Film Distributors]]
+| released       = {{film date|df=y|1974|11|21|UK}}
+| runtime        = 128 minutes<ref>[https://catalog.afi.com/Catalog/moviedetails/55159 ''Murder on the Orient Express''], AFI (American Film Institute) Catalog. {{webarchive |url=https://web.archive.org/web/20201129162556/https://catalog.afi.com/Catalog/moviedetails/55159 |date=29 November 2020}}. Retrieved 27 April 2020.</ref>
+| country        = United Kingdom<ref>{{cite web |title=LUMIERE : Film #61364 : Murder on the Orient Express |url=http://lumiere.obs.coe.int/web/film_info/?id=61364 |url-status=live |access-date=18 November 2019 |archive-url=https://web.archive.org/web/20191024032335/http://lumiere.obs.coe.int/web/film_info/?id=61364 |archive-date=24 October 2019}}</ref>
+| language       = English
+| budget         = $1.4 million<ref name="walker"/>
+| gross          = $37.7 million<ref>"Boost for studios", ''[[The Guardian]]'', 9 July 1975: 5.</ref><!-- Only put in a global figure, rather than just the US please. As per the MOS, all citations should be in the article text, not the infobox, which is supposed to reflect the article. -->
+}}
+'''''Murder on the Orient Express''''' is a 1974 British [[mystery film]] directed by [[Sidney Lumet]], produced by [[John Brabourne]] and [[Richard Goodwin (producer)|Richard Goodwin]], and based on the 1934 [[Murder on the Orient Express|novel of the same name]] by [[Agatha Christie]].
+
+The film has an [[Ensemble cast|all-star cast]], and features the Belgian detective [[Hercule Poirot]] ([[Albert Finney]]), who is asked by a railway director ([[Martin Balsam]]) to investigate the murder of an American business tycoon ([[Richard Widmark]]) aboard the [[Orient Express]] train. The various suspects are portrayed by [[Lauren Bacall]], [[Ingrid Bergman]], [[Sean Connery]], [[John Gielgud]], [[Jean-Pierre Cassel]], [[Vanessa Redgrave]], [[Michael York]], [[Rachel Roberts (actress)|Rachel Roberts]], [[Jacqueline Bisset]], [[Anthony Perkins]], [[Denis Quilley]], [[Colin Blakely]], and [[Wendy Hiller]]. The screenplay is by [[Paul Dehn]].
+
+The film was a commercial and critical success. Bergman won the [[Academy Award for Best Supporting Actress]], and the film received five other nominations at the [[47th Academy Awards]]: [[Academy Award for Best Actor|Best Actor]] (Finney), [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]], [[Academy Award for Best Original Score|Best Original Score]], [[Academy Award for Best Cinematography|Best Cinematography]], and [[Academy Award for Best Costume Design|Best Costume Design]].
+
+==Plot==
+<!--- per Wikipedia:Manual of Style/Film#Plot, plot summaries for feature films should be between 400 and 700 words - an overview of the film's main events, not a detailed scene-by-scene breakdown with each nuance of who said what to whom. This is a little over 700 due to the extensive character list  --->
+In 1930, toddler Daisy Armstrong, daughter of British Army Colonel Hamish Armstrong and his American wife Sonia, is kidnapped and murdered.
+
+In December 1935, [[Hercule Poirot]] travels from Istanbul to London on the [[Orient Express]]. His old friend, Signor Bianchi, a director of the [[Compagnie Internationale des Wagons-Lits|company that owns the rail line]], arranges Poirot's accommodation after all the first-class compartments are unusually sold out during the off-season. Other passengers include American socialite Harriet Belinda Hubbard; English governess Mary Debenham; Swedish missionary Greta Ohlsson; American businessman Samuel Ratchett, with his secretary/translator Hector McQueen and English valet Edward Beddoes; Italian-American car salesman Antonio "Gino" Foscarelli; elderly Russian Princess Natalia Dragomiroff and her German maid Hildegarde Schmidt; Hungarian Count Rudolf Andrenyi and his wife Elena; British Army Colonel John Arbuthnott; and American theatrical agent Cyrus B. Hardman.
+
+The day after the train's departure, Ratchett requests to hire Poirot as a bodyguard as he has received death threats, but Poirot declines despite a very generous fee. When the train stops in [[Belgrade]], Bianchi gives Poirot his compartment and shares a coach with Greek physician Stavros Constantine. During the night, a snowdrift in [[Kingdom of Yugoslavia|Yugoslavia]] strands the train, while Poirot is awakened by a moan from Ratchett's compartment. Conductor Pierre Michel is told through the door that it was just a nightmare. Ratchett is dead the next morning; drugged and stabbed twelve times.
+
+Poirot finds a charred letter fragment revealing Ratchett's true identity: American gangster Lanfranco Cassetti, who along with an accomplice, had carried out Daisy Armstrong's kidnapping and murder. Cassetti had betrayed his accomplice and fled the country with the ransom money. Mrs. Armstrong then died giving premature birth to a stillborn baby, and Colonel Armstrong committed suicide. A French maidservant Paulette, suspected of complicity in the kidnapping, also committed suicide before being found innocent. Bianchi feels that there is justice in Cassetti's death.
+
+Poirot finds Cassetti's broken watch showing 1:15, and concludes that Cassetti was murdered at that time when the moaning was heard. Hubbard says that she found a Wagon-Lit conductor's button in her compartment and a bloodied knife in her makeup bag. Foscarelli says that he knew Cassetti was "Mafioso", and theorizes that he was killed in a Mafia feud.
+
+Interviewing Pierre and the passengers individually, Poirot learns McQueen is the son of the [[District Attorney]] from the kidnapping case and knew Mrs. Armstrong; Beddoes was a British Army [[Batman (military)|batman]]; Greta Ohlsson has been to America; Countess Andrenyi's maiden name is Grünwald (German for "Greenwood", Mrs. Armstrong's maiden name); Conductor Pierre's daughter died five years earlier of [[scarlet fever]]; Colonel Arbuthnott and Miss Debenham will marry once he has divorced his philandering wife; and Princess Dragomiroff was Sonia's godmother. He also learns that the Armstrong household had a butler, a secretary, a cook, a chauffeur, and a nursemaid. Poirot tricks Schmidt into revealing she had been a cook. Foscarelli denies having been a chauffeur, while Hardman claims to actually be Cassetti's bodyguard.
+
+Poirot assembles the suspects and describes two solutions to the murder: the first that Cassetti's murder was a Mafia revenge killing - someone disguised as a Wagon-Lit conductor entered the train at Belgrade and later stabbed Cassetti, discarded the dagger in Hubbard's makeup bag, then escaped when the train was stopped by the snowdrift. Bianchi and Dr. Constantine reject this scenario as absurd, but Poirot says they might reconsider that opinion.
+
+The second solution links together all the suspects. In addition to the incriminating revelations Poirot extracted from Hardman, McQueen, Schmidt, and the Princess, Poirot deduces that:
+* Countess Andrenyi is Mrs. Armstrong's younger sister, Helena
+* Debenham was the Armstrongs' secretary
+* Beddoes was the Armstrongs' butler
+* Ohlsson was Daisy's nursemaid
+* Arbuthnott was Colonel Armstrong's close friend
+* Foscerrelli was the Armstrongs’ chauffeur
+* Pierre was Paulette's father
+* Hardman was not Cassetti's bodyguard, as Ratchett had tried to hire Poirot for that job. He was actually a former policeman who had fallen in love with Paulette.
+* Hubbard is revealed to be Linda Arden, mother of Sonia Armstrong and Helena Andrenyi, and the organizer of this "extraordinary revenge".
+
+McQueen drugged Cassetti, allowing the conspirators to execute him jointly, each with a stab to the chest totalling 12, the Andrenyis stabbing Cassetti together. They killed Cassetti at 2:00 am while Poirot was asleep. The moan and broken watch were to convince Poirot that the murder occurred at a time when the suspects had alibis.
+
+Poirot asks Bianchi to choose one solution before the train is freed from the snowdrift, saying the Yugoslav police would probably prefer the simpler first solution of the Mafia feud. Bianchi chooses the first scenario. Dr. Constantine and Poirot concur, although Poirot struggles with his conscience. The snowdrift is cleared and the train resumes its journey.
+
+==Cast==
+{{div col}}
+* [[Albert Finney]] as [[Hercule Poirot]]
+* [[Lauren Bacall]] as Mrs. Harriet Belinda Hubbard/Linda Arden
+* [[Martin Balsam]] as Bianchi
+* [[Ingrid Bergman]] as Greta Ohlsson
+* [[Jacqueline Bisset]] as Countess Helena Andrenyi
+* [[Jean-Pierre Cassel]] as Pierre Paul Michel
+* [[Sean Connery]] as Lt. Colonel John Arbuthnott, British Indian Army
+* [[John Gielgud]] as Edward Beddoes
+* [[Wendy Hiller]] as Princess Natalia Dragomiroff
+* [[Anthony Perkins]] as Hector McQueen
+* [[Vanessa Redgrave]] as Mary Debenham
+* [[Rachel Roberts (actress)|Rachel Roberts]] as Hildegarde Schmidt 
+* [[Richard Widmark]] as Ratchett/Lanfranco Cassetti
+* [[Michael York]] as Count Rudolf Andrenyi
+* [[Colin Blakely]] as Cyrus B. Hardman
+* [[George Coulouris]] as Dr. Stavros Constantine
+* [[Denis Quilley]] as Antonio "Gino" Foscarelli
+* [[Vernon Dobtcheff]] as Concierge
+* [[Jeremy Lloyd]] as A.D.C.
+* [[John Moffatt (actor)|John Moffatt]] as Chief Attendant
+{{div col end}}
+
+==Production==
+===Development===
+Dame [[Agatha Christie]] had been quite displeased with some film adaptations of her works made in the 1960s, and accordingly was unwilling to sell any more film rights. When [[Nat Cohen]], chairman of [[EMI Films]], and producer [[John Brabourne]] attempted to get her approval for this film, they felt it necessary to have [[Louis Mountbatten, 1st Earl Mountbatten of Burma|Lord Mountbatten of Burma]] (of the [[British royal family]] and also Brabourne's father-in-law) help them broach the subject. In the end, according to Christie's husband, Sir [[Max Mallowan]], "Agatha herself has always been allergic to the adaptation of her books by the cinema, but was persuaded to give a rather grudging appreciation to this one." According to one report, Christie gave approval because she liked the previous films of the producers, ''[[Romeo and Juliet (1968 film)|Romeo and Juliet]]'' and ''[[Tales of Beatrix Potter]]''.<ref name="only">Mills, Nancy. The case of the vanishing mystery writer: Christie liked only two of the 19 movies made from her books. ''Chicago Tribune'', 30 October 1977: h44.</ref>
+
+===Casting===
+[[File:Ingrid Bergman Holding Oscar.jpg|thumb|Ingrid Bergman received her third [[47th Academy Awards|Academy Award]] for her performance in ''Murder on the Orient Express'']]
+Christie's biographer Gwen Robyns quoted her as saying, "It was well made except for one mistake. It was [[Albert Finney]], as my detective [[Hercule Poirot]]. I wrote that he had the finest mustache in England — but he didn't in the film. I thought that a pity—why shouldn't he?"<ref>Sanders, Dennis, and Len Lovallo (1984). [https://books.google.com/books?id=lrfyAAAAMAAJ&q=Albert+Finney ''The Agatha Christie Companion: The Complete Guide to Agatha Christie's Life and Work''], pp. 438–441. Subscription required {{ISBN|978-0425118450}}.</ref>
+
+Cast members eagerly accepted upon first being approached. Lumet went to [[Sean Connery]] first, who admitted that he had been "stupidly flattered" by Lumet saying that if you get the biggest star, the rest will come along. Bergman was initially offered the role of Princess Dragomiroff, but instead requested to play Greta Ohlsson. Lumet said:
+
+{{blockquote|She had chosen a small part, and I couldn't persuade her to change her mind. She was sweetly stubborn. But stubborn she was{{nbsp}}... Since her part was so small, I decided to film her one big scene, where she talks for almost five minutes, straight, all in one long take. A lot of actresses would have hesitated over that. She loved the idea and made the most of it. She ran the gamut of emotions. I've never seen anything like it.<ref name=Chandler>{{cite book |last=Chandler |first=Charlotte |title=Ingrid: Ingrid Bergman, A Personal Biography |url=https://books.google.com/books?id=PyDOIThaF0EC&q=orient+express |publisher=Simon & Schuster |location=New York |date=February 20, 2007 |pages=19, 21, 294 |isbn=978-1416539148}}</ref>{{rp|246–247}}}}
+
+Bergman won an [[Academy Award for Best Supporting Actress]] for the portrayal.
+
+The entire budget was provided by EMI. The cost of the cast came to £554,100.<ref name="nat">{{cite news|last=Bell|first=Brian|title=Can film-makers Carry On?|newspaper=[[The Observer]]|date=11 August 1974|page=11}}</ref>{{better source needed|Adjusted for the 9/24/2024 rate of 13.06 British pounds per 1974 pound, that figure comes to just L7.2 million, a suspect figure for such a large and distinguished cast.|date=September 2024}}
+
+===Filming===
+Unsworth shot the film with [[Panavision]] cameras. Interiors were filmed at [[Elstree Studios (Shenley Road)|Elstree Studios]]. Exterior shooting was mostly done in France in 1973, with a railway workshop near [[Paris]] standing in for [[Istanbul Sirkeci railway station|Istanbul station]]. The scenes of the train proceeding through [[Central Europe]] were filmed in the [[Jura Mountains]] on the then-recently closed railway line from [[Pontarlier]] to [[Gilley, Doubs|Gilley]], with the scenes of the train stuck in snow being filmed in a cutting near [[Montbenoît]].<ref>''Trains Oubliés Vol.2: Le PLM'' by José Banaudo, p. 54 (French). Editions du Cabri, Menton, France</ref> There were concerns about a lack of snow in the weeks preceding the scheduled shooting of the snowbound train, and plans were made to truck in large quantities of snow at considerable expense. However, heavy snowfall the night before the shooting made the extra snow unnecessary—just as well, as the snow-laden backup trucks had themselves become stuck in the snow.<ref>DVD documentary "Making Murder on the Orient Express: The Ride"</ref>
+
+===Music===
+[[Richard Rodney Bennett]]'s ''Orient Express'' theme has been reworked into an orchestral suite and performed and recorded several times. It was performed on the original soundtrack album by the [[Royal Opera House|Orchestra of the Royal Opera House, Covent Garden]] under [[Marcus Dods (musician)|Marcus Dods]]. The piano soloist was the composer himself.
+
+==Reception==
+===Box office===
+''Murder on the Orient Express'' was released theatrically in the UK on 22 November 1974 and in the USA on 24 November 1974. [[Paramount Pictures]] handled the films North American release. The film was a success at the box office, given its tight budget of $1.4 million,<ref name="walker">[[Alexander Walker (critic)|Alexander Walker]], ''National Heroes: British Cinema in the Seventies and Eighties'', Harrap, 1985 p. 130</ref>{{request quotation|date=October 2024}} earning $36 million in North America,<ref name="walker"/><ref name="numbers">{{cite web |url=http://www.the-numbers.com/movies/1974/0MOOE.php |publisher=The Numbers |title=Murder on the Orient Express, Box Office Information |access-date=5 January 2012 |archive-date=13 April 2012 |archive-url=https://web.archive.org/web/20120413225311/http://www.the-numbers.com/movies/1974/0MOOE.php |url-status=live}}</ref> making it the [[1974 in film|11th highest-grossing film of 1974]]. [[Nat Cohen]] claimed it was the first film completely financed by a British company to make the top of the weekly US box office charts in ''[[Variety (magazine)|Variety]]''.<ref>{{cite news |title=Murder on the Orient Express' tops US charts |newspaper=[[The Times]] |location=London |date=11 February 1975 |page=7}}</ref> The movie - which was Cohen's idea - is considered one of the great triumphs of his career.<ref name="five">{{cite magazine|magazine=Filmink|first=Stephen|last=Vagg|url=https://www.filmink.com.au/forgotten-british-film-moguls-nat-cohen-part-five-1971-1988/|access-date=5 February 2025|date=5 February 2025|title=Forgotten British film moguls – Nat Cohen: Part Five (1971-1988)}}</ref> The success of the movie prompted the Rank Organisation to re-enter the filmmaking space.<ref name="timing">{{cite magazine|first=Stephen|last=Vagg|magazine=Filmink|date=1 September 2025|access-date=1 September 2025|url=https://www.filmink.com.au/forgotten-british-film-studios-the-rank-organisation-1978-81/|title=Forgotten British Film Studios: The Rank Organisation 1978-81}}</ref>
+
+===Critical response===
+On [[Rotten Tomatoes]] the film holds an approval rating of 89% based on 46 reviews. The website's critics consensus reads, "Murder, intrigue, and a star-studded cast make this stylish production of ''Murder on the Orient Express'' one of the best Agatha Christie adaptations to see the silver screen."<ref>[http://www.rottentomatoes.com/m/murder_on_the_orient_express/ Movie Reviews for ''Murder on the Orient Express''] {{Webarchive|url=https://web.archive.org/web/20100315163123/http://www.rottentomatoes.com/m/murder_on_the_orient_express/ |date=15 March 2010}}. Rotten Tomatoes. Retrieved 5 December 2025.</ref> On [[Metacritic]] it has a weighted average score of 63 out of 100, based on 8 critics, indicating "generally favorable reviews".<ref>{{Cite web|url=https://www.metacritic.com/movie/murder-on-the-orient-express-1974?ftag=MCD-06-10aaa1c|title = Murder on the Orient Express| website=[[Metacritic]]}}</ref>
+
+[[Roger Ebert]] gave the film three stars out of four, writing that it "provides a good time, high style, a loving salute to an earlier period of filmmaking".<ref>[http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19740101/REVIEWS/401010318#watchit-frame-urlhttp://ebert.gowatchit.com/watchitwidget?origin_url=http%3A%2F%2Frogerebert.suntimes.com%2Fapps%2Fpbcs.dll%2Farticle%3FAID%3D%2F19740101%2FREVIEWS%2F401010318 Roger Ebert reviews ''Murder on the Orient Express'']. ''[[Chicago Sun-Times]]''. Retrieved 23 September 2012.</ref> ''[[The New York Times]]''{{'}}s chief critic of the era, [[Vincent Canby]], wrote
+
+<blockquote>[...] had Dame Agatha Christie's ''Murder on the Orient Express'' been made into a movie 40 years ago (when it was published here as ''Murder on the Calais Coach''), it would have been photographed in black-and-white on a back lot in [[Burbank, California|Burbank]] or [[Culver City]], with one or two stars and a dozen character actors and studio contract players. Its running time would have been around 67 minutes and it could have been a very respectable [[B movie|B-picture]]. ''Murder on the Orient Express'' wasn't made into a movie 40 years ago, and after you see the Sidney Lumet production that opened yesterday at the Coronet, you may be both surprised and glad it wasn't. An earlier adaptation could have interfered with plans to produce this terrifically entertaining super-valentine to a kind of whodunit that may well be one of the last fixed points in our inflationary universe.<ref>{{cite news |last=Canby |first=Vincent |author-link=Vincent Canby |title=Crack 'Orient Express' Clicks as Film |url=https://www.nytimes.com/movie/review?res=9D01EED7133BE63BBC4D51DFB767838F669EDE |url-status=live |newspaper=The New York Times |date=25 November 1974 |access-date=1 June 2016 |archive-url=https://web.archive.org/web/20160701044856/http://www.nytimes.com/movie/review?res=9D01EED7133BE63BBC4D51DFB767838F669EDE |archive-date=1 July 2016}}</ref></blockquote>
+
+===Agatha Christie===
+Christie, who died fourteen months after the release of the film, stated that ''Murder on the Orient Express'' and ''[[Witness for the Prosecution (1957 film)|Witness for the Prosecution]]'' were the only [[movie adaptation]]s of her books that she liked although she expressed disappointment with Poirot (Finney)'s moustache, which was far from the fabulous [[hirsute]] creation she had detailed in her mysteries.<ref name="only"/>
+
+==Awards and nominations==
+
+{| class="wikitable" width="95%"
+|-
+! width="5%"| Year
+! width="25%"| Award ceremony
+! width="40%"| Category
+! width="20%"| Nominee
+! width="10%"| Result
+|-
+| 2005
+|[[9th Golden Satellite Awards|Satellite Awards]]
+|[[Satellite Award for Best Classic DVD|Best Classic DVD]]
+|''Murder on the Orient Express''
+|{{nom}}
+|-
+| 1976
+|[[18th Annual Grammy Awards|Grammy Awards]]
+|[[Grammy Award for Best Score Soundtrack for Visual Media|Album of Best Original Score<br>Written for a Motion Picture or a Television Special]]
+|[[Richard Rodney Bennett]]
+|{{nom}}
+|-
+| rowspan="22"|1975
+|rowspan=6|[[47th Academy Awards|Academy Awards]]
+|[[Academy Award for Best Actor|Best Actor]]
+|[[Albert Finney]]
+|{{nom}}
+|-
+|[[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+|[[Ingrid Bergman]]
+|{{won}}
+|-
+|[[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+|[[Paul Dehn]]
+|{{nom}}
+|-
+|[[Academy Award for Best Cinematography|Best Cinematography]]
+|[[Geoffrey Unsworth]]
+|{{nom}}
+|-
+|[[Academy Award for Best Costume Design|Best Costume Design]]
+|[[Tony Walton]]
+|{{nom}}
+|-
+|[[Academy Award for Best Original Score|Best Original Score]]
+|Richard Rodney Bennett
+|{{nom}}
+|-
+|rowspan=10|[[28th British Academy Film Awards|BAFTA Awards]]
+|[[BAFTA Award for Best Film|Best Film]]
+|[[John Brabourne]], [[Richard Goodwin (producer)|Richard Goodwin]]
+|{{nom}}
+|-
+|[[BAFTA Award for Best Actor in a Leading Role|Best Actor]]
+|Albert Finney
+|{{nom}}
+|-
+|[[BAFTA Award for Best Direction|Best Direction]]
+|[[Sidney Lumet]]
+|{{nom}}
+|-
+|[[BAFTA Award for Best Actor in a Supporting Role|Best Supporting Actor]]
+|[[John Gielgud]]
+|{{won}}
+|-
+|[[BAFTA Award for Best Actress in a Supporting Role|Best Supporting Actress]]
+|Ingrid Bergman
+|{{won}}
+|-
+|[[BAFTA Award for Best Cinematography|Best Cinematography]]
+|Geoffrey Unsworth
+|{{nom}}
+|-
+|[[BAFTA Award for Best Editing|Best Editing]]
+|[[Anne V. Coates]]
+|{{nom}}
+|-
+|[[BAFTA Award for Best Film Music|Anthony Asquith Award for Film Music]]
+|Richard Rodney Bennett
+|{{won}}
+|-
+|[[BAFTA Award for Best Production Design|Best Production Design]]
+|Tony Walton
+|{{nom}}
+|-
+|[[BAFTA Award for Best Costume Design|Best Costume Design]]
+|Tony Walton
+|{{nom}}
+|-
+|[[27th Directors Guild of America Awards|Directors Guild of America Awards]]
+|Outstanding Directorial Achievement in Motion Pictures
+|Sidney Lumet
+|{{nom}}
+|-
+|[[Edgar Award]]
+|[[List of Edgar Allan Poe Award for Best Motion Picture Screenplay winners|Best Motion Picture Screenplay]]
+|Paul Dehn
+|{{nom}}
+|-
+|rowspan=3|[[Evening Standard British Film Awards]]
+|Best Film
+|Sidney Lumet
+|{{won}}
+|-
+|Best Actor
+|Albert Finney
+|{{won}}
+|-
+|Best Actress
+|[[Wendy Hiller]]
+|{{won}}
+|-
+|[[Writers' Guild of Great Britain|Writers' Guild of Great Britain Awards]] 
+|Best British Screenplay
+|Paul Dehn
+|{{won}}
+|-
+| 1974
+|[[National Board of Review Awards 1974|National Board of Review Awards]]
+|[[National Board of Review: Top Ten Films|Top Ten Films]]
+|''Murder on the Orient Express''
+|{{won}}
+|-
+|}
+
+== See also ==
+* [[List of Agatha Christie's Poirot episodes#Series 12 (2010–11)|"Murder on the Orient Express" (2010)]] episode of ''[[Agatha Christie's Poirot]]''
+* [[Murder on the Orient Express (2017 film)|''Murder on the Orient Express'' (2017 film)]], directed by and starring [[Kenneth Branagh]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title|0071877|Murder on the Orient Express}}
+* {{TCMDb title|4721|Murder on the Orient Express}}
+* {{AFI film|id=55159|title=Murder on the Orient Express}}
+* {{screenonline title | id= 451390}}
+* {{mojo title|murderontheorientexpress|Murder on the Orient Express}}
+* {{rotten-tomatoes|murder_on_the_orient_express|Murder on the Orient Express}}
+
+{{Hercule Poirot}}
+{{Sidney Lumet}}
+{{Authority control}}
+
+{{DEFAULTSORT:Murder On The Orient Express (1974 Film)}}
+[[Category:1974 films]]
+[[Category:1974 crime drama films]]
+[[Category:1974 independent films]]
+[[Category:1974 English-language films]]
+[[Category:1974 mystery films]]
+[[Category:1974 British films]]
+[[Category:British crime drama films]]
+[[Category:British detective films]]
+[[Category:British independent films]]
+[[Category:British murder mystery films]]
+[[Category:EMI Films films]]
+[[Category:English-language crime drama films]]
+[[Category:English-language independent films]]
+[[Category:English-language mystery films]]
+[[Category:Fiction about child murder]]
+[[Category:Films about murder]]
+[[Category:Films based on crime novels]]
+[[Category:Films based on Hercule Poirot books]]
+[[Category:Films directed by Sidney Lumet]]
+[[Category:Films featuring a Best Supporting Actress Academy Award–winning performance]]
+[[Category:Films produced by John Knatchbull, 7th Baron Brabourne]]
+[[Category:Films produced by Richard Goodwin (producer)]]
+[[Category:Films scored by Richard Rodney Bennett]]
+[[Category:Films set in 1930]]
+[[Category:Films set in 1935]]
+[[Category:Films set in Belgrade]]
+[[Category:Films set in Istanbul]]
+[[Category:Films set in Yugoslavia]]
+[[Category:Films set on the Orient Express]]
+[[Category:Films set on trains]]
+[[Category:Films shot at EMI-Elstree Studios]]
+[[Category:Films shot in England]]
+[[Category:Films shot in France]]
+[[Category:Films shot in Turkey]]
+[[Category:Films with screenplays by Paul Dehn]]
+[[Category:Lord Mountbatten]]
+[[Category:Paramount Pictures films]]
+[[Category:Works based on Murder on the Orient Express]]

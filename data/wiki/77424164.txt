@@ -1,0 +1,117 @@
+{{Short description|2024 documentary directed by Wang Bing}}
+{{Italic title|all=yes}}
+{{Infobox film
+| name           = Youth (Homecoming)
+| image          = Youth (Homecoming) 2024 film poster.jpg
+| alt            = 
+| caption        = Promotional release poster
+| native_name    = {{Infobox name module|Chinese|青春：归}}
+| director       = [[Wang Bing (director)|Wang Bing]]
+| producer       = {{Plainlist|
+* Sonia Buchman
+* Mao Hui
+* Nicolas R. de la Mothe
+* Vincent Wang
+}}
+| cinematography = {{Plainlist|
+* Shan Xiaohui
+* Song Yang
+* Ding Bihan
+* Liu Xianhui
+* Maeda Yoshitaka
+* Wang Bing
+}}
+| editing        = {{Plainlist|
+* Dominique Auvray
+* Xu Bingyuan
+* Liyo Gong
+}}
+| studio         = {{Plainlist|
+* House on Fire
+* Gladys Glover
+* CS Production
+* [[Arte France Cinéma]]
+* Les Films Fauves
+* Volya Films
+* Eastern-Lion Pictures and Culture Media Co.
+* Beijing Contemporary Art Foundation
+* Le Fresnoy
+}}
+| distributor    = Pyramide (Worldwide)
+| released       = {{Film date|df=y|2024|9|6|[[Venice International Film Festival|Venice]]}}
+| runtime        = 152 minutes
+| country        = {{Plainlist|
+* China
+* France
+* Luxembourg
+* Netherlands
+}}
+| language       = Mandarin
+| italic_title   = no<!-- The following line ensures that "(Spring)" appears in italic font. This is the correct typesetting in this case, because "(Homecoming)" is actually part of the film title...not an editorial note. -->
+}}
+'''''Youth (Homecoming)''''' ({{lang-zh|c=青春：归|p=Qīngchūn: Gui}}) is a 2024 internationally co-produced [[documentary film]] directed by [[Wang Bing (director)|Wang Bing]]. It's the third installment in the director's ''Youth'' trilogy, about young Chinese [[textile industry]] workers, following 2023's ''[[Youth (Spring)]]'' and 2024's ''[[Youth (Hard Times)]]''.<ref name="ffl">{{cite web |title=Youth (Homecoming) |url=https://www.filmfund.lu/film-catalogue/films/youth-homecoming |website=Film Fund Luxembourg |access-date=24 July 2024}}</ref><ref name="youth">{{cite news |last1=Balaga |first1=Marta |title=Wang Bing Talks Continuing 'Youth,' Finally Feeling 'Satisfied' With His Films: 'You Learn to Respect Them' |url=https://variety.com/2023/film/asia/wang-bing-youth-idfa-1235789343/ |access-date=24 July 2024 |agency=Variety}}</ref>
+
+The film had its world premiere at the [[81st Venice International Film Festival]], where it was the only documentary competing for the [[Golden Lion]].<ref name="pov">{{cite web |last1=Cuevas |first1=David |title=Venice Announces Documentary Lineup: Wang Bing, Alex Ross Perry, and Elizabeth Lo to Compete |url=https://povmagazine.com/venice-announces-documentary-lineup-wang-bing-alex-ross-perry-and-elizabeth-lo-to-compete/ |website=POV Magazine |date=23 July 2024 |access-date=24 July 2024}}</ref>
+
+== Premise ==
+Textile workshops in Zhili slow their operation for the New Year's holiday, with many workers returning home. Shi Wei and Fang Lingping both get married over the break, with the latter's new husband, an [[information technology]] specialist, planning to join his new bride in Zhili.<ref>{{cite web |title=Youth (Homecoming) |url=https://seenl.arqive.nl/artikel/20240723-youth-homecoming |website=See NL |access-date=24 July 2024}}</ref>
+
+== Release ==
+''Youth (Homecoming)'' premiered in September 2024 as a main competition entry at that year's [[Venice Film Festival]]. It follows the release of the prior films in the trilogy; ''[[Youth (Spring)]]'' debuted at the [[2023 Cannes Film Festival]], while ''[[Youth (Hard Times)]]'' premiered at the [[77th Locarno Film Festival]] in August 2024.<ref name="pov" />
+
+== Reception ==
+=== Critical response ===
+{{Rotten Tomatoes prose|94||17|consensus=|ref=yes|access-date=6 September 2025}}
+[[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 81 out of 100, based on 7 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''Youth'' |url=https://www.metacritic.com/movie/youth-homecoming |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=12 November 2024 |archive-url= |archive-date= |url-status=}}</ref>
+
+=== Accolades ===
+{| class="wikitable sortable plainrowheaders"
+! scope="col" | Award
+! scope="col" | Ceremony date
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable"| {{Refh}}
+|-
+! scope="row" | [[Venice Film Festival]]
+| [[81st Venice International Film Festival|7 September 2024]]
+| [[Golden Lion]]
+| ''Youth (Homecoming)''
+| {{Nominated}}
+| align="center" | <ref name="pov" />
+|-
+! scope="row" | [[Asia Pacific Screen Awards]]
+| [[17th Asia Pacific Screen Awards|30 November 2024]]
+| [[Asia Pacific Screen Award for Best Documentary Film|Best Documentary Film]]
+| Wang Bing, Sonia Buchman, Mao Hui, Nicolas R De La Mothe, Vincent Wang
+| {{nom}}
+| align="center" | <ref>{{Cite web |date=16 October 2024 |title=17th ASIA PACIFIC SCREEN AWARDS NOMINATIONS ANNOUNCED |url=https://www.asiapacificscreenawards.com/news-events/17th-asia-pacific-screen-awards-nominations-announced |access-date=17 October 2024 |website=[[Asia Pacific Screen Awards]] |language=en-US}}</ref>
+|-
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|tt33029375|Youth (Homecoming)}}
+
+{{Wang Bing}}
+{{Portal bar|China|France|Luxembourg|Netherlands|Film|2020s}}
+
+[[Category:2024 films]]
+[[Category:2024 Chinese films]]
+[[Category:2024 French films]]
+[[Category:2024 Luxembourgian films]]
+[[Category:2024 Dutch films]]
+[[Category:2024 documentary films]]
+[[Category:2024 Mandarin-language films]]
+[[Category:Films directed by Wang Bing]]
+[[Category:Chinese documentary films]]
+[[Category:French documentary films]]
+[[Category:Luxembourgian documentary films]]
+[[Category:Dutch documentary films]]
+[[Category:Films about labour]]
+[[Category:Films about social issues]]
+[[Category:Films set in factories]]
+[[Category:Arte France Cinéma films]]
+[[Category:Films shot in Zhejiang]]

@@ -1,0 +1,71 @@
+{{Short description|2024 documentary film}}
+{{Use mdy dates|date=July 2024}}
+{{Infobox film
+| name           = Eno
+| image          = 
+| alt            = 
+| caption        = 
+| native_name    = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = [[Gary Hustwit]]
+| writer         = 
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{Based on|title of the original work|creator of the original work|additional creator(s), if necessary}} -->
+| producer       = Gary Hustwit<br />[[Jessica Edwards]]
+| starring       = 
+| narrator       = 
+| cinematography = Mary Farbrother
+| editing        = Marley Mcdonald<br />Maya Tippett
+| music          = 
+| studio         = {{Plainlist|
+* Film First Co.
+* Tigerlily Productions
+}}
+| distributor    = 
+| released       = {{Film date|2024|01|18|[[2024 Sundance Film Festival|Sundance]]}}
+| runtime        = 100 minutes
+| country        = {{Plainlist|
+* United States
+* United Kingdom
+}}
+| language       = English
+| budget         = 
+| gross          = $646,235<ref name=BOM>{{cite web|title=Eno|work=[[Box Office Mojo]]|url=https://www.boxofficemojo.com/release/rl2289664001/?ref_=bo_we_table_31|access-date=July 15, 2024|archive-date=June 2, 2024|archive-url=https://web.archive.org/web/20240602024224/https://www.boxofficemojo.com/release/rl2289664001/?ref_=bo_we_table_31 |url-status=live}}</ref>
+}}
+'''''Eno''''' is a 2024 [[Musical film|musical]] [[documentary film]] about the musician and [[Record producer|producer]] [[Brian Eno]] produced and directed by [[Gary Hustwit]]. It premiered at the [[Sundance Film Festival]] on January 18, 2024.<ref name=":0">{{Cite web|url=https://variety.com/2024/film/reviews/eno-review-brian-eno-sundance-1235876569/|title='Eno' Review: A Compelling Portrait of Music Visionary Brian Eno Is Different Each Time You Watch It|first=Owen|last=Gleiberman|date=January 19, 2024|work=[[Variety (magazine)|Variety]]}}</ref> 
+
+== Production == 
+The film uses a computer program ([[pseudorandom number generator]]<ref name="indiewire/1234946184">{{cite news |last1=Adlakha |first1=Siddhant |title=‘Eno’ Review: A Generative Music Doc That Misfires at Random |url=https://www.indiewire.com/criticism/movies/eno-review-ai-sundance-documentary-1234946184/ |access-date=27 June 2026 |work=IndieWire |date=20 January 2024}}</ref>) to select footage ([[Episode#Segment (radio and television)|Segments]]) and present the film so that a different version is shown each time it is screened.<ref>{{Cite web|url=https://www.latimes.com/entertainment-arts/movies/story/2024-01-18/brian-eno-gary-hustwit-ai-artificial-intelligence-sundance|title=Brian Eno on AI (he's a fan) and the Sundance documentary that bears his name|date=January 18, 2024|website=Los Angeles Times}}</ref><ref>{{Cite web |last=Forristal |first=Lauren |date=2024-02-28 |title=Anamorph's generative technology reorders scenes to create unlimited versions of one film |url=https://techcrunch.com/2024/02/28/anamorphs-generative-technology-reorders-scenes-to-create-unlimited-versions-of-one-film/ |access-date=2024-03-18 |website=TechCrunch |language=en-US}}</ref> The film draws from 30 hours of interviews with [[Brian Eno]] and 500 hours of footage from Eno’s archive.<ref>{{cite web | url=https://www.nytimes.com/2024/07/12/movies/brian-eno-documentary.html | title=This Documentary About Brian Eno is Never the Same Twice | work=The New York Times | date=July 12, 2024 | last1=Tannenbaum | first1=Rob }}</ref>
+
+Alongside Hustwit, artist Brendan Dawes<ref name="S&S/eno-2024">{{cite web |title=Eno review: rearranging Brian Eno |url=https://www.bfi.org.uk/sight-and-sound/reviews/eno-fascinating-unguarded-portrait-brian-eno-that-changes-with-each-watch |website=[[Sight and Sound]] |publisher=[[British Film Institute]] |access-date=27 June 2026 |language=en |date=11 July 2024}}</ref> designed the ''Brain One'' software (an anagram of Brian Eno), the generative technology which powers the film.<ref>{{Cite web |date=2024-08-20 |title=New with Every View: Eno and the Generative Algorithm Shaking up Movie-Making|url=https://www.ibc.org/features/new-with-every-view-eno-and-the-generative-algorithm-shaking-up-movie-making/11252.article.| access-date=2024-11-23 |website=IBC |language=en-US}}</ref> For live screenings of the film, Swedish technology company [[Teenage Engineering]] designed ''B-1'', a hardware version of the generative software.<ref>{{cite web|date=May 31, 2024|url=https://teenage.engineering/now#B-1|title=B–1 and the first generative feature film.|access-date=2024-11-22 |website=Teenage Engineering}}</ref> In July 2024, ''[[The New York Times]]'' estimated that 52 [[quintillion]]<ref name="nytimes/eno-52">{{cite news |last1=Wilkinson |first1=Alissa |title=‘Eno’ Review: Creativity, 52 Billion Billion Ways |url=https://www.nytimes.com/2024/07/11/movies/eno-review-creativity-52-billion-billion-ways.html |access-date=27 June 2026 |work=The New York Times |date=11 July 2024}}</ref> versions of the film could be generated by ''Brain One''.<ref>{{cite news|url=https://theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview|last=Nguyen|first=Kevin|title=The making of Eno, the first generative feature film|date=2024-07-13|accessdate=2024-07-14|work=[[The Verge]]}}</ref><ref>[https://www.youtube.com/watch?v=qv86Gp6YUG8 'Eno': The Film That Evolves Every Time You Watch It–Why There'll Never Be a Director's Cut – Indiewire on official YouTube channel]</ref>
+
+== Release ==
+As of 2026, ''Eno'' is currently available to stream on [[The Criterion Channel]], with a new version of the film being featured each month.<ref>{{cite web|url=https://www.criterionchannel.com/eno |title= ''Eno'' on The Criterion Channel|access-date=15 September 2026}}</ref>
+
+== Reception ==
+{{Rotten Tomatoes prose|96|8.4|28}}<ref>{{cite web|url=https://www.rottentomatoes.com/m/eno|title=Eno|website=[[Rotten Tomatoes]]|access-date=December 28, 2024}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 74 out of 100, based on 12 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Eno'' |url=https://www.metacritic.com/ |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{cite web|url=https://www.metacritic.com/movie/eno/|title=Eno|website=[[Metacritic]]|access-date=August 20, 2024}}</ref>
+
+[[Owen Gleiberman]] of [[Variety (magazine)|''Variety'']] wrote that "the film conjures a wholehearted and accessible experience within an experimental veneer."<ref name=":0" /> David Fear of ''[[Rolling Stone]]'' described it as "a singular experience, impossible to replicate and uninterested in being definitive on anything, much like the gent at the center of it all."<ref>{{Cite magazine|url=https://www.rollingstone.com/tv-movies/tv-movie-reviews/eno-review-sundance-doc-brian-eno-ai-remix-1234942023/|title='Eno' Remixes the Music Doc -- and Brian Eno's Entire Career|first=David|last=Fear|magazine=[[Rolling Stone]] |date=January 19, 2024}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{IMDb title|tt19854690}}
+*[https://www.youtube.com/watch?v=R89DFlUqaTI Official trailer]
+
+{{Gary Hustwit}}
+{{Brian Eno}}
+
+[[Category:2024 documentary films]]
+[[Category:2024 films]]
+[[Category:American musical documentary films]]
+[[Category:British musical documentary films]]
+[[Category:2024 English-language films]]
+[[Category:English-language documentary films]]
+[[Category:Brian Eno]]
+[[Category:2024 American films]]
+[[Category:2024 British films]]
+[[Category:Films directed by Gary Hustwit]]
+[[Category:American collage films]]
+[[Category:British collage films]]

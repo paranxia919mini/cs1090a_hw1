@@ -1,0 +1,384 @@
+{{short description|1978 musical romantic comedy film by Randal Kleiser}}
+{{Use American English|date=October 2023}}
+{{Use mdy dates|date=October 2023}}
+{{Infobox film
+| name           = Grease
+| image          = Grease ver2.jpg
+| caption        = Theatrical release poster
+| director       = [[Randal Kleiser]]
+| producer       = {{plainlist|
+* [[Robert Stigwood]]
+* Allan Carr
+}}
+| based_on       = {{based on|''[[Grease (musical)|Grease]]''|[[Jim Jacobs]]|[[Warren Casey]]}}
+| screenplay     = [[Bronté Woodard]]
+{{Infobox|decat=yes|child=yes|label1=Adaptation by|data1=[[Allan Carr]]}}
+| starring       = {{plainlist|
+* [[John Travolta]]
+* [[Olivia Newton-John]]
+* [[Stockard Channing]]
+* [[Eve Arden]]
+* [[Frankie Avalon]]
+* [[Joan Blondell]]
+* [[Edd Byrnes]]
+* [[Sid Caesar]]
+* [[Alice Ghostley]]
+* [[Dody Goodman]]
+* [[Sha Na Na]]
+}}
+| music          = [[Michael Gibson (musician)|Michael Gibson]]
+| cinematography = [[Bill Butler (cinematographer)|Bill Butler]]
+| editing        = [[John F. Burnett]]
+| studio         = {{plainlist|
+* Allan Carr Enterprises<ref name="AFI">{{cite web|url=https://catalog.afi.com/Film/55211-GREASE?sid=b19eff53-07a3-4940-8af1-a3514cd44fae&sr=23.704868&cp=1&pos=0|title=Grase|work=[[American Film Institute]]|access-date=February 10, 2022}}</ref>
+* Stigwood Group<ref name ="AFI" />
+}}
+| distributor    = [[Paramount Pictures]]<ref name ="AFI" />
+| released       = {{film date|1978|6|16}}
+| runtime        = 110 minutes
+| country        = United States
+| language       = English
+| budget         = $6 million<ref name="boxoffmojo"/>
+| gross          = $396.3 million<ref name="boxoffmojo">{{mojo title|grease|Grease}}</ref>
+}}
+
+'''''Grease''''' is a 1978 American [[Musical film|musical]] [[romantic comedy]] film directed by [[Randal Kleiser]] (in his feature directorial debut) from a screenplay by [[Bronté Woodard]] and an adaptation by co-producer [[Allan Carr]].  The movie is based on the 1971 stage musical [[Grease (musical)|of the same name]] by [[Jim Jacobs]] and [[Warren Casey]].<ref>{{cite web |url=http://www.history.com/this-day-in-history/grease-movie-soundtrack-earns-its-second-1-hit |title=Grease movie soundtrack earns its second #1 hit |date=November 13, 2009 |publisher=History.com |access-date=October 30, 2012 |archive-date=November 2, 2012 |archive-url=https://web.archive.org/web/20121102033411/http://www.history.com/this-day-in-history/grease-movie-soundtrack-earns-its-second-1-hit |url-status=live}}</ref> The plot follows a [[Greaser (subculture)|greaser]], Danny Zuko ([[John Travolta]]), and Sandy Olsson ([[Olivia Newton-John]]), an Australian transfer student, through their summer romance and its aftermath.
+
+''Grease'' was released in the United States on June 16, 1978, by [[Paramount Pictures]]. The film was successful both critically and commercially, becoming the [[1978 in film|highest-grossing film of 1978]] and the [[List of highest-grossing musical films#Highest-grossing musical films|highest-grossing musical film]] at the time.<ref name=Carr>{{cite book |last=Hofler |first=Robert |title=Party Animals: A Hollywood Tale of Sex, Drugs, and Rock 'N' Roll Starring the Fabulous Allan Carr |publisher=ReadHowYouWant.com |year=2010 |isbn=9781459600072 |page=[https://books.google.com/books?id=iqRezpQzUcAC&pg=PA145 145] |quote=Despite the fact that Grease was well on its way to becoming the highest-grossing movie musical in the world, and eventually grossed over $341&nbsp;million...}}</ref> Its [[Grease: The Original Soundtrack from the Motion Picture|soundtrack album]] ended 1978 as the [[List of best-selling albums by year in the United States#1970s|second-best-selling album of the year in the United States]], only behind the [[Saturday Night Fever (soundtrack)|soundtrack]] of the 1977 film ''[[Saturday Night Fever]]'', which also starred Travolta.<ref name="bboard78"/> In addition, the song from the Grease soundtrack, "[[Hopelessly Devoted to You]]" was nominated for an [[Academy Award for Best Original Song]] at the [[51st Academy Awards]]. The film also received five nominations at the [[36th Golden Globe Awards]], including for [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]] and two for [[Golden Globe Award for Best Original Song|Best Original Song]], for "[[Grease (song)|Grease]]" and "[[You're the One that I Want]]". In 2020, ''Grease'' was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref>{{cite web |url=https://variety.com/2020/film/news/dark-knight-shrek-grease-blues-brothers-national-film-registry-1234852610/ |title='Dark Knight,' 'Shrek,' 'Grease,' 'Blues Brothers' Added to National Film Registry |first=Dave |last=McNary |author-link=Dave McNary | date = December 14, 2020 | access-date = December 14, 2020 | work = [[Variety (magazine)|Variety]] }}</ref><ref>{{cite web |last=Alter |first=Rebecca |title=Shrek Has Been Inducted Into the National Film Registry |website=Vulture |date=December 14, 2020 |url=https://www.vulture.com/2020/12/national-film-registry-2020-dark-knight-grease-and-shrek.html |access-date=December 14, 2020 |archive-date=December 14, 2020 |archive-url=https://web.archive.org/web/20201214210600/https://www.vulture.com/2020/12/national-film-registry-2020-dark-knight-grease-and-shrek.html |url-status=live}}</ref>
+
+A sequel, ''[[Grease 2]]'', was released on June 11, 1982, starring [[Maxwell Caulfield]] and [[Michelle Pfeiffer]] as a newer class of greasers. Few of the original cast members reprised their roles, and the film was critically panned. In 2023, a short-lived [[prequel]] television series, ''[[Grease: Rise of the Pink Ladies]]'', debuted on [[Paramount+]], lasting for only one season.<ref>{{cite web |title='Grease: Rise of the Pink Ladies', 'Star Trek: Prodigy', 'The Game' & 'Queen of the Universe' Canceled At Paramount+ As Streamer Pulls Shows From Service & Takes Content Write-Down |website=[[Deadline Hollywood]] |first=Peter |last=White |date=23 June 2023 |access-date=23 June 2023|url=https://deadline.com/2023/06/grease-rise-of-the-pink-ladies-star-trek-prodigy-the-game-queen-of-the-universe-canceled-paramount-1235423451/ |archive-date=June 23, 2023 |archive-url=https://web.archive.org/web/20230623184132/https://deadline.com/2023/06/grease-rise-of-the-pink-ladies-star-trek-prodigy-the-game-queen-of-the-universe-canceled-paramount-1235423451/ |url-status=live}}</ref>
+
+==Plot==
+<!-- PER WP:FILMPLOT, PLOT SUMMARIES SHOULD BE 400-700 WORDS. -->
+
+During the summer of 1958, greaser Danny Zuko and straitlaced Australian girl Sandy Olsson fall in love at the beach. As Sandy prepares to return home, she worries that she will never see Danny again, but he comforts her by saying that the summer is "only the beginning" for them.
+
+On the first day of his [[Senior (education)|senior]] year at Rydell High School, Danny reconnects with the members of his greaser gang the T-Birds: Sonny, Putzie, Doody, and his best friend Kenickie. Sandy arrives at Rydell and is introduced to girls' gang The Pink Ladies—Marty, Jan and leader Betty Rizzo—by mutual friend Frenchy. At lunch, Danny and Sandy each separately describe their summer, unaware of the other's presence until Sandy mentions Danny's name, which the Pink Ladies recognize.
+
+At a pep rally, Sandy, now a [[cheerleader]], flirts with Tom, a football player. Kenickie arrives in "Greased Lightnin{{'"}}, a heavily used car he plans on restoring in order to [[drag race]] it at Thunder Road. Rizzo and the Pink Ladies surprise Sandy by reuniting her with a shocked Danny. Sandy is thrilled, but Danny makes fun of her to maintain his tough image, upsetting her. Frenchy invites her to a sleepover with the other Pink Ladies that night to make her feel better.
+
+At the sleepover, Rizzo makes fun of Sandy's good-girl image, and Frenchy announces she is dropping out of Rydell to go to beauty school. The T-Birds crash the party, and Rizzo leaves with Kenickie to have sex in Greased Lightnin' at a nearby [[Lovers' lane|make-out spot]]. While the couple is there, rival greasers Leo and Cha-Cha interrupt them.
+
+Danny motivates the T-Birds to work on the car by saying it will win them both girls and races. Later, he sees Sandy on a date with Tom and tries to apologize for his attitude at the pep rally, but she is unconvinced. Danny tries several sports in order to impress Sandy, eventually succeeding at [[track and field]]. Sandy, bored with Tom, agrees to be Danny's date to an upcoming dance at which the television show ''[[American Bandstand|National Bandstand]]'' will do a live broadcast from the Rydell gym. Rizzo and Kenickie break up after a fight. After a disastrous beauty class, Frenchy reluctantly decides to return to Rydell to complete her high school education.
+
+At the dance, Rizzo and Kenickie bring Leo and Cha-Cha as their respective dates out of spite. In a ribald dance contest that ends with the T-Birds [[mooning]] the cameras, Danny begins the contest with Sandy before Sonny pushes Sandy off the floor and Cha-Cha cuts in. Danny and Cha-Cha win as Sandy storms off.
+
+To make it up to her, Danny takes Sandy to a [[drive-in movie]] and asks her to wear his [[Class ring|ring]]. She accepts, but when he tries to make out with her, she flees the drive-in, leaving Danny hurt. Meanwhile, Rizzo fears that she may be pregnant, and tells Marty. When word reaches Kenickie, he offers to help, but she denies that he is the father.
+
+At Thunder Road, Kenickie is injured when his head collides with his own car door, leaving him concussed. Danny takes his place behind the wheel and beats Leo in the race. Sandy decides to change her image and asks Frenchy for help.
+
+At Rydell's graduation carnival, Rizzo discovers that she is not pregnant, and she and Kenickie get back together. Danny shocks the T-Birds by becoming a [[Letterman (sports)|letterman]], and Sandy shocks everyone with a new leather, "greaser"-style outfit. She and Danny reconcile and the whole gang vows to "always be together". Danny and Sandy drive off into the sky while their friends wave goodbye.
+
+==Cast==
+===Principal cast===
+;Protagonists
+* [[John Travolta]] as Danny Zuko
+* [[Olivia Newton-John]] as Sandy Olsson
+
+;T-Birds
+* [[Jeff Conaway]] as Kenickie
+* [[Barry Pearl]] as Doody
+* [[Michael Tucci]] as Sonny LaTierri
+* [[Kelly Ward]] as Putzie
+
+;Pink Ladies
+* [[Stockard Channing]] as Betty Rizzo
+* [[Didi Conn]] as Frenchy  
+* [[Jamie Donnelly]] as Jan
+* [[Dinah Manoff]] as Marty Maraschino
+
+===Secondary cast===
+;Students
+* [[Eddie Deezen]] as Eugene Felsnic
+* [[Susan Buckner]] as Patty Simcox
+* [[Lorenzo Lamas]] as Tom Chisum
+* [[Dennis Stewart]] as Balmudo
+* [[Annette Charles]] as "Cha-Cha" DiGregorio
+
+;School staff
+* [[Eve Arden]] as Principal McGee
+* [[Dody Goodman]] as Blanche Hodel
+* [[Sid Caesar]] as Coach Calhoun
+* [[Alice Ghostley]] as Mrs. Murdock
+* [[Darrell Zwerling]] as Mr. Lynch
+* Dick Patterson as Mr. Rudie
+* [[Fannie Flagg]] as Nurse Wilkins
+
+;Others
+* [[Joan Blondell]] as Vi
+* [[Frankie Avalon]] as Teen Angel
+* [[Edd Byrnes]] as Vince Fontaine
+* [[Sha Na Na]] as Johnny Casino & The Gamblers
+* [[Ellen Travolta]] as a Frosty Palace waitress
+
+==Production==
+The film rights to the musical ''Grease'' were originally acquired by producer [[Steve Krantz]] in 1974, who planned to make it into an animated feature to be directed by [[Robert Taylor (animator)|Robert Taylor]].<ref name="sarasota">{{cite news |title='Grease' Makes Movie Debut as Cartoon |url=https://news.google.com/newspapers?id=mj0gAAAAIBAJ&sjid=5mYEAAAAIBAJ&pg=7436%2C604234 |access-date=2026-08-09 |work=[[Sarasota Herald-Tribune]] |date=17 July 1974}}</ref> Krantz commented, "[A]s a spoof of the 1950's which doesn't take itself too seriously, it is, I'm convinced, a property that lends itself best to the cartoon film form."<ref name="sarasota"/> However, Krantz's option expired after two years, after which producers [[Robert Stigwood]] and [[Allan Carr]] purchased the rights<ref>{{AFI film|55211}}</ref> in order to make the musical into a live-action film.
+
+The director, [[Randal Kleiser]], took numerous liberties with the original source material, most notably moving the setting from an urban Chicago setting (based on [[William Howard Taft High School (Chicago)|William Howard Taft High School]]<ref>{{cite web|last=WOULFE|first=MOLLY|title='Grease' has deep, dark Chicago roots|url=https://www.nwitimes.com/entertainment/columnists/molly-woulfe/grease-has-deep-dark-chicago-roots/article_4ca30af9-cb0c-575a-b834-db637918bb3d.html|access-date=October 20, 2021|website=nwitimes.com|date=January 2, 2009}}</ref>), as the original musical had been, to a more suburban locale, reflecting his own teenage years at [[Radnor High School]] in the suburbs of Philadelphia. The writer [[Warren Casey]] was said to have based the high school on [[Gorton High School]] in [[Yonkers, New York]].<ref>{{cite news |date=1990-06-10 |title=THEATER; 'Grease' Played Straight in Darien Production (Published 1990) |work=The New York Times |url=https://www.nytimes.com/1990/06/10/nyregion/theater-grease-played-straight-in-darien-production.html |archive-url=https://web.archive.org/web/20241207050256/https://www.nytimes.com/1990/06/10/nyregion/theater-grease-played-straight-in-darien-production.html |archive-date=2024-12-07 |access-date=2024-12-20 |last=Klein |first=Alvin}}</ref><ref name=radnor>{{cite web |url=https://www.inquirer.com/entertainment/movies/grease-rydell-high-hbo-max-streaming-summer-loving-radnor-high-school-20191017.html |title='Grease's' Rydell High, inspired by Radnor High School, is getting an HBO Max series |author=Nick Vadala |date=October 17, 2019 |access-date=February 21, 2020 |archive-date=May 25, 2020 |archive-url=https://web.archive.org/web/20200525080836/https://www.inquirer.com/entertainment/movies/grease-rydell-high-hbo-max-streaming-summer-loving-radnor-high-school-20191017.html |url-status=live}}</ref> He had little control over the musical aspects of the film; his choice of theme song, a composition by [[Charles Fox (composer)|Charles Fox]] and [[Paul Williams (songwriter)|Paul Williams]], was overruled when [[Robert Stigwood]] and [[Allan Carr]] commissioned a song from Stigwood's client [[Barry Gibb]] at the last minute.<ref>{{cite book |last=Fox |first=Charles |title=Killing Me Softly: My Life in Music |year=2010 |publisher=Scarecrow Press |location=Lanham, MD |isbn=9780810869929 |oclc=678101101}}</ref><ref name="time">{{Cite web|url=http://www.columbia.edu/~brennan/beegees/78.html |title=Gibb Songs: 1978 |website=www.columbia.edu}}</ref>
+
+===Casting===
+John Travolta had previously worked with Stigwood on ''[[Saturday Night Fever]]'', recorded the top-10 hit "[[Let Her In]]" in 1976, and appeared as Doody in a touring production of the stage version of ''Grease''. As part of a three-picture deal with Stigwood, Travolta was given the lead role after [[Henry Winkler]] (then starring as [[Fonzie|Arthur "Fonzie" Fonzarelli]] in [[Paramount Television|Paramount]]'s TV series ''[[Happy Days]]'') turned down the role for fear of becoming [[typecast]] as a greaser character.<ref name=vanity/><ref name="people.com">{{cite web | url=https://people.com/henry-winkler-opens-up-about-rejecting-grease-exclusive-8382699 |title=Henry Winkler Opens up About Rejecting Grease: 'I Spent Most of My Adult Life Being Frightened' (Exclusive)}}</ref> (Winkler would later regret the decision.)<ref name=vanity/><ref>{{cite web |url=https://www.newsweek.com/henry-winkler-interview-french-dispatch-turning-down-snl-grease-1639341 |title=Henry Winkler on 'Barry,' 'The French Dispatch' and some of his missed career chances |website=[[Newsweek]] |date=October 15, 2021}}</ref><ref name="people.com"/> Director Randal Kleiser had never directed a theatrical feature before this but had directed Travolta in the 1976 telefilm ''[[The Boy in the Plastic Bubble]]''; Kleiser helped Travolta maintain focus as he grieved the death of [[Diana Hyland]] (his girlfriend at the time and his on-screen mother in ''Bubble'').<ref name=vanity/>
+
+Before Newton-John was hired, [[Allan Carr]] was considering numerous names such as [[Carrie Fisher]],<ref>{{cite web |url=https://www.nydailynews.com/entertainment/carrie-fisher-played-sandy-grease-article-1.2511804?outputType=amp |title=Carrie Fisher could have played Sandy in 'Grease' |work=New York Daily News |last=Hood |first=Micaela |date=January 27, 2016 |access-date=October 27, 2021}}</ref><ref>{{cite web |url=https://www.independent.co.uk/arts-entertainment/films/news/carrie-fisher-almost-played-sandy-grease-a6838681.html |title=Carrie Fisher almost played Sandy in Grease |author=Loughrey, Clarisse |website=The Independent |date=January 28, 2016 |access-date=June 25, 2021}}</ref> [[Ann-Margret]], [[Deborah Raffin]],<ref>{{cite magazine |url=https://ew.com/article/2016/01/27/grease-movie-history-vanity-fair/ |title=Grease: 10 things you didn't know about the 1978 hit film |magazine=Entertainment Weekly |last=Falcone |first=Dana Rose |date=January 27, 2016 |access-date=October 27, 2021}}</ref> [[Susan Dey]] and [[Marie Osmond]] for the lead role. Fisher, who had recently finished ''[[Star Wars (film)|Star Wars]]'', was ultimately rejected because neither Stigwood nor Carr knew if she could sing.<ref name=vanity/> Osmond almost took the role before she realized the extent to which the character transformed into a rebel; she turned it down<ref name=greasefacts/> to instead star in ''[[Goin' Coconuts]]''. Carr eventually chose Newton-John after a chance encounter at a soireé hosted by [[Helen Reddy]].<ref name="autogenerated1">{{cite web |url=http://www.people.com/people/archive/article/0,,20071391,00.html |title=Ohh Sandy! – Olivia Newton-John |work=[[People (magazine)|People]] |first=Robert |last=Windeler |date=July 31, 1978 |access-date=November 10, 2008 |archive-date=December 2, 2008 |archive-url=https://web.archive.org/web/20081202163225/http://www.people.com/people/archive/article/0,,20071391,00.html |url-status=live}}</ref> Newton-John had done little acting; before this film she had only two film credits, both of which predated her singing breakthrough (1965's ''[[Funny Things Happen Down Under]]'' and the little-seen 1970 film ''[[Toomorrow (film)|Toomorrow]]''), and she requested a screen test prior to accepting the role.<ref name="autogenerated1"/> She thought that she was not going to be cast, for she was 28 years old.<ref>{{cite web |url=https://www.telegraph.co.uk/women/life/olivia-newton-john-grease-john-travolta-29-old-play-high-school/ |title=Olivia Newton-John on Grease with John Travolta: 'At 29, was I too old to play a high-school girl?' |work=The Telegraph |date=January 7, 2017 |last=McPherson |first=Douglas}}</ref> She agreed to a reduced asking price in exchange for star billing and the ability to rewrite the script, which included changing her character's origin to an Australian immigrant (to avoid having to simulate an American accent) and making her less passive.<ref name="autogenerated1"/> In a case of life imitating art, Newton-John's own musical career would undergo a transformation similar to that of the Sandy Olsson character; her next album after ''Grease'', the provocatively titled ''[[Totally Hot]]'', featured a much more sexual and pop-oriented approach, with Newton-John appearing on the album cover in all-leather attire and teased hair similar to those her character affects late in ''Grease''.<ref name="google3">{{cite book |url=https://books.google.com/books?id=7Mo7xm-X1r4C&pg=PA334 |title=All music guide to country: the ... |isbn=9780879304751 |access-date=August 13, 2010 |last=Erlewine |first=Michael |year=1997 |publisher=Hal Leonard Corporation |archive-date=April 27, 2021 |archive-url=https://web.archive.org/web/20210427041851/https://books.google.com/books?id=7Mo7xm-X1r4C&pg=PA334 |url-status=live}}</ref>
+
+[[Lorna Luft]] (who would later be cast in ''Grease 2'') and [[Lucie Arnaz]] both auditioned for the part of Rizzo, but a talent client of Carr, [[Stockard Channing]], was cast, several years after her last major film role and debut in ''[[The Fortune]]''.<ref name="vanity">{{cite magazine |author=Callahan, Michael |date=January 26, 2016 |title=How ''Grease'' Beat the Odds and Became the Biggest Movie Musical of the 20th Century |url=https://www.vanityfair.com/hollywood/2016/01/grease-movie-musical-john-travolta-olivia-newton-john |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20160127093627/https://www.vanityfair.com/hollywood/2016/01/grease-movie-musical-john-travolta-olivia-newton-john |archive-date=2016-01-27 |access-date=June 4, 2021 |magazine=Vanity Fair}}</ref> At 33 she was the oldest cast member to play a high school student, and Kleiser made her and the other actors playing students take a "crow's feet test" to see whether they could pass for younger in close-ups.<ref name=vanity/> Softer focus was used on some of the older actors' faces.<ref name=greasefacts/> Channing lobbied heavily to keep the [[Eleven o'clock number|climactic song]] "There Are Worse Things I Could Do" in the score over Carr's objections.<ref name=greasefacts/>
+
+[[Elvis Presley]] was considered for the role of The Teen Angel but died before production.<ref name=greasefacts>{{cite web |url=https://abcnews.go.com/Entertainment/grease-facts/story?id=36550893 |title=7 'Grease' Facts You May Not Have Known |publisher=ABC News}}</ref> Marie Osmond's [[The Osmonds|brother]] and [[Donny and Marie Osmond discography|duet partner]] [[Donny Osmond]] was another potential Teen Angel before Avalon was cast,<ref name=greasefacts/> as was [[Frankie Valli]], who had been given the choice of either singing the theme or appearing as the Teen Angel (he chose the former, believing the theme to be a better song and more likely hit).<ref name="Robins">{{cite magazine |url=http://www.billboard.com/articles/news/5680100/frankie-valli-qa-looking-back-at-50-years-of-the-four-seasons |title = Frankie Valli Q&A: Looking Back at 50 Years of The Four Seasons |magazine=[[Billboard (magazine)|Billboard]] |date=September 3, 2013 |first=Wayne |last=Robins |access-date=October 12, 2019}}</ref> [[Fabian Forte|Fabian]] was noted as the inspiration for the role in the musical's script notes, but he and Allan Carr had fallen out after Carr's brief attempt at managing Fabian's stage act in 1974, as Carr determined Fabian's talent was limited to headlining a [[Lounge music|lounge act]].<ref>{{cite news |author=Clifford, Terry |date=October 13, 1974 |title=Allan Carr, counselor to the stars |work=Chicago Tribune |page=j18}}</ref> Fabian stated in 2025 that he had been offered the role but had to decline it because he was overseas when the scene was to be filmed.<!-- https://www.facebook.com/OFFICIALFABIANFORTE/posts/pfbid02wYYB5Puk5p51cHb9L62vpU7NBZGFHXirpEFwkQFRPtk6BwVK9urxEwsBUUEPJyAl "Same thing happened with “GREASE” as I was out of the country... yes I was offered the Teen Angel role." --> The role would revive Avalon's career on the nostalgia circuit,<ref>{{cite magazine|first=Stephen|last=Vagg|magazine=Filmink|title=The movie stardom of Frankie Avalon|url=https://www.filmink.com.au/the-movie-stardom-of-frankie-avalon/|date=28 December 2024|access-date=28 December 2024}}</ref> with Valli noting that both Frankies benefited from their appearances despite "Beauty School Dropout" not being released as a single.<ref name="Robins"/>
+
+[[Jeff Conaway]], like Travolta, had previously appeared in the stage version of ''Grease''; he had played Danny Zuko during the show's run on Broadway. He did not get to perform Kenickie's featured number "[[Greased Lightnin' (song)|Greased Lightnin']]{{-"}} due to Travolta's influence and desire to have that song for himself.<ref name=greasefacts/> [[Jamie Donnelly]] reprised her role as Jan from the Broadway show, the only cast member to do so; as her hair had begun to gray by this point, she had to dye her hair to resemble her stage character.<ref name=people98>Gliatto, Tom; and O'Neill Anne-Marie. [http://www.people.com/people/archive/article/0,,20124959,00.html "Grease Is the Word: Twenty Years Later, the Stars Are Still True to Their School"] {{Webarchive|url=https://web.archive.org/web/20180930145414/https://people.com/people/archive/article/0,,20124959,00.html |date=September 30, 2018 }}, ''[[People (magazine)|People]]'', April 13, 1998. Accessed September 13, 2011.</ref>
+
+[[Lorenzo Lamas]] was a last-minute replacement for [[Steven Ford]], who developed [[stage fright]] shortly before filming and backed out, and [[Mark Fidrych]], who ran into conflicts with his full-time career as a baseball player. His role contained no spoken dialogue and required Lamas to bleach his hair to avoid looking like one of the T-Birds.<ref name=people98/><ref name=greasefacts/>
+
+The adult film star [[Harry Reems]] was originally signed to play Coach Calhoun; however, executives at Paramount rejected the idea, concerned that his reputation as a porn star would hinder box office returns in the [[Southern United States]],<ref>{{cite web|url=http://nymag.com/nymetro/movies/features/10988|title=The Afterlife of a Porn Star|publisher=New York Media, LLC|work=New York Magazine|date=May 21, 2005|access-date=May 8, 2011|author=Itzkoff, Dave|archive-date=October 1, 2011|archive-url=https://web.archive.org/web/20111001144955/http://nymag.com/nymetro/movies/features/10988/|url-status=live}}</ref> and producers cast [[Sid Caesar]] instead.<ref>{{cite book|last=Hofler|first=Robert |title=Party Animals: A Hollywood Tale of Sex, Drugs, and Rock 'n' Roll Starring the Fabulous Allan Carr|year=2010|publisher=Da Capo Press|isbn=978-0-306-81655-0|page=66}}</ref> Caesar was one of several veterans of 1950s television ([[Eve Arden]], [[Frankie Avalon]], [[Joan Blondell]], [[Edd Byrnes]], [[Alice Ghostley]], [[Dody Goodman]]) to be cast in supporting roles; [[Paul Lynde]] was considered for the role Arden ultimately filled,<ref name=greasefacts/> with a scene conceived for Lynde that would have had him in a [[Carmen Miranda]] outfit.<ref name=vanity/> Coincidentally, Frankie Avalon and Randal Kleiser had both appeared in 1966's ''[[Fireball 500]]'', the latter as an extra.<ref>{{Cite web |last=Oates |first=Barb |date=2025-06-16 |title=Why Frankie Avalon Didn't Want to Star in 'Grease' & His New Release of 'Beauty School Dropout' (Exclusive) |url=https://www.remindmagazine.com/article/31123/frankie-avalon-grease-1978-interview-beauty-school-dropout/ |access-date=2025-07-27 |website=Remind}}</ref>
+
+===Filming locations===
+The opening beach scene was shot at Malibu's [[Leo Carrillo State Park|Leo Carrillo State Beach]], making explicit reference to ''[[From Here to Eternity]]''. The exterior Rydell scenes, including the front parking lot scenes, the auto shop, the "Summer Nights" bleachers number, Rizzo's "There Are Worse Things I Can Do" number, the basketball, baseball, and track segments, and the interior of the gymnastics gym, were shot at [[Venice High School (Los Angeles)|Venice High School]] in [[Venice, Los Angeles|Venice, California]], during the summer of 1977. The Rydell interiors, including the high school dance, were filmed at [[Huntington Park High School]]. The sleepover was shot at a private house in [[East Hollywood, Los Angeles|East Hollywood]]. The Paramount Pictures studio lot was the location of the scenes that involve Frosty Palace and the musical numbers "Greased Lightnin'" and "Beauty School Dropout." The drive-in movie scenes were shot at the Burbank Pickwick Drive-In (it was closed and torn down in 1989 and a shopping center took its place). The race was filmed at the [[Los Angeles River]], between the First and Seventh Street Bridges, where many other films have been shot.<ref>{{cite web |url=http://www.movie-locations.com/movies/g/grease.html |title=Film locations for Grease (1978) |publisher=Movie-locations.com |access-date=October 30, 2012 |archive-date=November 16, 2012 |archive-url=https://web.archive.org/web/20121116170703/http://www.movie-locations.com/movies/g/grease.html |url-status=dead }}</ref> The final scene where the carnival took place used [[John Marshall High School (Los Angeles)|John Marshall High School]] in [[Los Feliz]].<ref>{{cite web |url=http://www.seeing-stars.com/locations/grease.shtml |title=Grease Filming Locations {{ndash}} part 1 |publisher=Seeing-stars.com |access-date=October 9, 2011 |archive-date=October 21, 2011 |archive-url=https://web.archive.org/web/20111021234103/http://www.seeing-stars.com/locations/grease.shtml |url-status=live }}</ref> Furthermore, owing to budget cuts, a short scene was filmed at [[Hazard Park]] in Los Angeles.
+
+===Post-production===
+Scenes inside the Frosty Palace contain obvious blurring of various [[Coca-Cola]] signs.<ref>{{cite web |url=http://scenesteal.com/html/grease |title=Grease |publisher=Scenesteal.com |access-date=August 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110309185814/http://scenesteal.com/html/grease |archive-date=March 9, 2011 }}</ref> Prior to the film's release, the producer, Allan Carr, had made a [[product placement]] deal with Coca-Cola's main competitor [[Pepsi]] (for example, a Pepsi logo can be seen in the animated opening sequence, created by [[John David Wilson]] at [[Fine Arts Films]]<ref>{{cite web|url=http://www.hollywoodreporter.com/news/animator-john-david-wilson-grease-dies-578125 |title=Famed Animator John David Wilson Dies at 93 |date=July 2013 |publisher=The Hollywood Reporter |access-date=July 3, 2013}}</ref>). When Carr saw the footage of the scene with Coca-Cola products and signage, he ordered director Randal Kleiser to either reshoot the scene with Pepsi products or [[product displacement|remove the Coca-Cola logos from the scene]]. As reshoots were deemed too expensive and time-consuming, optical mattes were used to cover up or blur out the Coca-Cola references. The 'blurring' covered up trademarked menu signage and a large wall poster, but a red cooler with the logo could not be sufficiently altered so was left unchanged. According to Kleiser, "We just had to hope that Pepsi wouldn't complain. They didn't."<ref>{{cite web|url=http://archives.stupidquestion.net/sq102600.html |title=Stupid Question |publisher=Archives.stupidquestion.net |date=October 26, 2000 |access-date=August 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20071130071914/http://archives.stupidquestion.net/sq102600.html |archive-date=November 30, 2007 }}</ref><ref>{{cite web |url= http://www.dvdtalk.com/dvdsavant/s70grease.html |title= DVD Savant: GREASE and the Curse of Product Placement |publisher= Dvdtalk.com |date= August 18, 1998 |access-date= August 16, 2010 |archive-date= October 26, 2009 |archive-url= https://web.archive.org/web/20091026134626/http://www.dvdtalk.com/dvdsavant/s70grease.html |url-status= live }}</ref>
+
+Because of an editing error, a closing scene in which Danny and Sandy kiss was removed from the finished print and lost before its theatrical release. The scene was preserved only in black-and-white; Kleiser attempted to have the existing footage [[Film colorization|colorized]] and restored to the film for the film's re-release in 1998 but was dissatisfied with the results. The scene is included as an extra on the 40th anniversary home video release, and Kleiser hopes to make another attempt at colorizing the footage that is effective enough for the footage to be inserted into the film as he originally intended by the time the film's 50th anniversary comes in 2028.<ref>{{cite web|url=https://www.usatoday.com/story/life/movies/2018/05/21/grease-anniversary-danny-sandy-finally-get-their-movie-ending-kiss/625512002/|title=Danny and Sandy finally get their movie-ending 'Grease' kiss, 40 years after it was cut|first=Bryan|last=Alexander|work=USA Today|date=May 21, 2018|access-date=May 23, 2018|archive-date=May 22, 2018|archive-url=https://web.archive.org/web/20180522072601/https://www.usatoday.com/story/life/movies/2018/05/21/grease-anniversary-danny-sandy-finally-get-their-movie-ending-kiss/625512002/|url-status=live}}</ref>
+
+==Soundtrack==
+{{Main|Grease (1978 soundtrack)}}
+
+The [[Grease (1978 soundtrack)|soundtrack album]] ended 1978 as the [[List of best-selling albums by year in the United States#1970s|second-best-selling album of the year in the United States]], exceeded only by [[Saturday Night Fever (soundtrack)|another soundtrack album]], from the film ''[[Saturday Night Fever]]'', which also starred Travolta.<ref name="bboard78">{{cite web |url=http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=The+Billboard+200&g=Year-end+Albums&year=1978 |title=Year End Charts—Year-end Albums—The Billboard 200 |publisher= [[Billboard (magazine)|Billboard.com]] |access-date=December 20, 2010 |archive-url = https://web.archive.org/web/20071211064005/http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=The+Billboard+200&g=Year-end+Albums&year=1978 |archive-date = December 11, 2007}}</ref> The song "Hopelessly Devoted to You" was nominated for an [[Academy Award for Best Original Song#1970s|Academy Award for Best Music – Original Song]]. The song "You're the One That I Want" was released as a single prior to the film's release and became an immediate chart-topper, despite not being in the stage show or having been seen in the film at that time.<ref>VH1's "Behind the Music: Grease"</ref> Additionally, the dance number to "You're the One That I Want" was nominated for TV Land's award for "Movie Dance Sequence You Reenacted in Your Living Room" in 2008.<ref>{{Cite web |url=https://www.imdb.com/title/tt0077631/awards |title=Grease - IMDb |website=[[IMDb]] |access-date=July 1, 2018 |archive-date=February 6, 2017 |archive-url=https://web.archive.org/web/20170206134307/http://www.imdb.com/title/tt0077631/awards |url-status=live }}</ref> In the United Kingdom, the two Travolta/Newton-John duets, "You're the One That I Want" and "Summer Nights", were both number one hits and {{as of|2018|lc=y}} were still among the 30 best-selling singles of all time (at Nos. 5 and 28, respectively).<ref name="Dec 2017">{{cite news|url=http://www.officialcharts.com/chart-news/the-uks-biggest-selling-singles-of-all-time__21298/|title=The UK's biggest selling singles of all time|last=Myers|first=Justin|date=June 14, 2018|publisher=[[Official Charts Company]]|access-date=April 26, 2021|archive-date=June 24, 2018|archive-url=https://web.archive.org/web/20180624234820/http://www.officialcharts.com/chart-news/the-uks-biggest-selling-singles-of-all-time__21298/|url-status=live}}</ref> The film's title song was also a number-one hit single for [[Frankie Valli]].<ref>{{cite web|url={{BillboardURLbyName|artist=frankie valli|chart=all}}|title=''Billboard'' Hot 100|publisher=Billboard|access-date=April 27, 2012}}</ref>
+
+The song "Look at Me, I'm Sandra Dee" refers to [[Sal Mineo]] in the original stage version. Mineo was stabbed to death a year before filming, so the line was changed to refer to [[Elvis Presley]] instead. The references to [[Troy Donahue]], [[Doris Day]], [[Rock Hudson]] and [[Annette Funicello]] are from the original stage version. Coincidentally, this scene as well as the scene before and the scene after it were filmed on August 16, 1977, the date of Presley's death.<ref>{{cite news|url=http://www.nypost.com/p/entertainment/movies/tales_of_ancient_grease_c9DsjHTfLgATW1VPqpizZP|title=Tales of Ancient 'Grease'|work=[[New York Post]]|access-date=April 27, 2012|first=Larry|last=Getlen|date=July 4, 2010|archive-date=May 5, 2012|archive-url=https://web.archive.org/web/20120505015232/http://www.nypost.com/p/entertainment/movies/tales_of_ancient_grease_c9DsjHTfLgATW1VPqpizZP|url-status=live}}</ref>
+
+Some of the songs were not present in the film; songs that appear in the film but not in the soundtrack are "[[La Bamba (song)|La Bamba]]" by Ritchie Valens, "[[Whole Lotta Shakin' Goin' On]]" by [[Jerry Lee Lewis]], "Alma Mater," "Alma Mater Parody," and "Rydell Fight Song." "Alone at a Drive-in Movie (Instrumental)," "Mooning," and "Freddy My Love" are not present in the film, although all three are listed in the end credits in addition to being on the soundtrack. (Both "Mooning" and "Rock'n'Roll Party Queen," the latter of which was played in the film as background music, were written in the musical for a character named Roger who was written out of the film, replaced by the non-singing Putzie. In general, the songs in the stage musical that were performed by characters other than Danny, Rizzo, Sandy, Johnny Casino, or the Teen Angel were either taken out of the film or given to other characters, including Marty Maraschino's number "Freddy My Love", Kenickie's "Greased Lightnin{{'"}}, and Doody's "Those Magic Changes".) Two songs from the musical, "Shakin' at the High School Hop" and "All Choked Up", were left off both the film and the soundtrack.
+
+The songs appear in the film in the following order:
+{{div col}}
+# "[[Love Is a Many-Splendored Thing (song)|Love Is a Many-Splendored Thing]]"
+# "[[Grease (song)|Grease]]"
+# "Alma Mater"
+# "[[Summer Nights (Grease song)|Summer Nights]]" – Danny, Sandy, Pink Ladies and T-Birds
+# "Rydell Fight Song" – Rydell Marching Band
+# "[[Look at Me, I'm Sandra Dee]]" – Rizzo and Pink Ladies
+# "[[Hopelessly Devoted to You]]" – Sandy
+# "[[Greased Lightnin' (song)|Greased Lightnin']]{{-"}} – Danny and T-Birds
+# "[[La Bamba (song)|La Bamba]]"
+# "It's Raining on Prom Night"
+# "[[Whole Lotta Shakin' Goin' On]]"
+# "[[Beauty School Dropout]]" – Teen Angel and Female Angels
+# "[[Rock n' Roll Party Queen]]"
+# "[[Rock and Roll Is Here to Stay]]"
+# "[[Those Magic Changes]]" – Johnny Casino and the Gamblers; Danny sings along onscreen
+# "[[Tears on My Pillow]]" – Johnny Casino and the Gamblers
+# "[[Hound Dog (song)|Hound Dog]]" – Johnny Casino and the Gamblers
+# "[[Born to Hand Jive]]" – Johnny Casino and the Gamblers
+# "[[Blue Moon (1934 song)|Blue Moon]]" – Johnny Casino and the Gamblers
+# "[[Sandy (Grease song)|Sandy]]" – Danny
+# "There Are Worse Things I Could Do" – Rizzo
+# "Look at Me, I'm Sandra Dee" (Reprise) – Sandy
+# "Alma Mater Parody" (Instrumental)
+# "[[You're the One That I Want]]" – Danny, Sandy, Pink Ladies, and T-Birds
+# "We Go Together" <!-- There is no article for this song. Wiki-linking this phrase will lead to the album by George Jones and Tammy Wynette. Putting (song) as a dab will lead to the present article.) -->– Cast
+# "Grease" (Reprise)
+{{div col end}}
+
+==Release==
+''Grease'' was originally released in the United States on June 16, 1978, and was an immediate box-office success. In its opening weekend, the film grossed $8,941,717 in 862 theaters in the United States and Canada, ranking at number 2 (behind ''[[Jaws 2]]'') at the box office for the weekend<ref>{{Cite web |url=http://www.boxofficemojo.com/weekend/chart/?yr=1978&wknd=24&p=.htm |title=Week June 16-18, 1978 |access-date=February 10, 2013 |archive-date=July 5, 2015 |archive-url=https://web.archive.org/web/20150705080128/http://www.boxofficemojo.com/weekend/chart/?yr=1978&wknd=24&p=.htm |url-status=live }}</ref> and with the all-time opening weekend records.<ref>{{cite web |url=http://www.boxofficemojo.com/alltime/weekends/pastrecords.htm |title=Weekend Records Through the Years |publisher=[[Box Office Mojo]] |access-date=March 24, 2018 |archive-date=March 7, 2018 |archive-url=https://web.archive.org/web/20180307172557/http://www.boxofficemojo.com/alltime/weekends/pastrecords.htm |url-status=live }}</ref> Despite losing the opening weekend, it topped the box office the following weekend with a gross of $7,867,000 and set a record gross in its first 19 days, with $40,272,000.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|title='Jaws 2', 'Grease', Get Hot Rival, 'Cheap Detective'|date=June 28, 1978|page=6}}</ref><ref>{{Cite magazine|  title ='Superman' adds more records to his collection | magazine = [[Daily Variety]] | date = January 3, 1979 | page = 1}}</ref> After 66 days, it had grossed $100 million to become Paramount's second-highest-grossing film, behind ''[[The Godfather]]'', and ended its initial run with a gross of $132,472,560,<ref name=reissue>{{Cite magazine|  title =Par's Biggest-Ever Saturation Due For 'Grease' Re-Release | magazine = [[Daily Variety]] | date = May 9, 1979 | page = 4}}</ref><ref name=reissueWV>{{Cite magazine|  title ='Grease,' $4,500,000, In 1,248 Situations For Re-Re-Runs| magazine = [[Variety (magazine)|Variety]] | date = May 23, 1979 | page = 27}}</ref> which made it the [[1978 in film#Highest-grossing films (U.S.)|highest-grossing film in 1978]].<ref>{{Cite magazine|  title =Travolta's 'Grease' Smasheroo; 'Encounters' 2d |last=Frederick|first=Robert B.| magazine = [[Variety (magazine)|Variety]] | date = January 3, 1979 | page = 17}}</ref>
+
+In the United States and globally, it became the [[List of highest-grossing musicals|highest-grossing musical ever]] at the time, eclipsing the 13-year-old record held by ''[[The Sound of Music (film)|The Sound of Music]],'' with a worldwide gross of $341 million.<ref name=Carr/>
+
+In the United Kingdom, it opened with a record $2.2 million in its first eight days.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=September 27, 1978|page=18|title='Grease' Big In U.K.}}</ref> It went on to become the [[List of highest-grossing films in the United Kingdom|highest-grossing film in the UK]], with a gross of £14.7 million.<ref>{{cite book |title=BFI Statistical Yearbook |year=2013 |edition=2012 |publisher=[[British Film Institute]] |location=London |url=https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2013.pdf |pages=[http://www.emagcloud.com/incorporatedesign/BFI_Statisitical_Yearbook_2013_Digital02/pubData/source/BFI%20Statisitical%20Yearbook%202013%20Digital.pdf#page=22 22] |access-date=July 11, 2022 |archive-url=https://web.archive.org/web/20131228060414/http://www.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2013.pdf |archive-date=December 28, 2013 |url-status=live }}</ref>
+
+It was re-released May 18, 1979, in 1,248 theatres in the United States and Canada (except for the New York City area, where it opened a week later), Paramount's biggest ever saturation release at the time, grossing $4.5 million in its opening weekend.<ref name=reissue/><ref name=reissueWV/> The film played for four weeks and was then paired with the [[PG-Rating|PG-rated]] version of ''[[Saturday Night Fever]]'' in late June.<ref name=reissueWV/> During the reissue, it overtook ''The Godfather'' as [[Paramount Pictures]]' highest-grossing film.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=October 7, 1981|page=6|title='Ark' Tops 'Grease'}}</ref> It was re-released in March 1998 for its 20th anniversary, where it grossed a further $28 million in the United States and Canada.<ref name="boxoffmojo"/>
+
+It remained the highest-grossing live-action musical until 2012 when it was overtaken by ''[[Les Misérables (2012 film)|Les Misérables]]'',<ref name=Forbes/> and it remained the US champion until 2017 when it was surpassed by ''[[Beauty and the Beast (2017 film)|Beauty and the Beast]]'', and again in 2024 with ''[[Wicked (2024 film)|Wicked]]'', the first installment of that musical's two-part adaptation.<ref>{{cite web|url=https://www.boxofficemojo.com/genres/chart/?id=musical.htm|title=Musical|website=[[Box Office Mojo]]|access-date=July 6, 2019|archive-url=https://web.archive.org/web/20190706234750/https://www.boxofficemojo.com/genres/chart/?id=musical.htm|archive-date=July 6, 2019|url-status=dead}}</ref> Discounting inflation, ''Grease'' is now the seventh-highest-grossing live-action musical worldwide.<ref name=Forbes>{{cite web|url=https://www.forbes.com/sites/travisbean/2019/06/19/aladdin-is-actually-the-second-most-successful-musical-ever/#4cfce8123fb9|title=Aladdin Is Actually The Second-Most Successful Musical Ever|work=Forbes|access-date=June 19, 2019|archive-date=June 19, 2019|archive-url=https://web.archive.org/web/20190619170217/https://www.forbes.com/sites/travisbean/2019/06/19/aladdin-is-actually-the-second-most-successful-musical-ever/#4cfce8123fb9|url-status=live}}</ref><ref>{{Cite web |last=Rubin |first=Rebecca |date=2024-12-01 |title=Thanksgiving Box Office Record: 'Moana 2' Scores Dazzling $225 Million Debut, 'Wicked' Adds Huge $118 Million |url=https://variety.com/2024/film/box-office/moana-2-box-office-thanksgiving-wicked-massive-second-weekend-1236231692/ |access-date=2024-12-20 |website=Variety}}</ref>
+
+A further re-issue for its 40th anniversary in 2018 grossed $1 million.<ref name="boxoffmojo"/> To date, ''Grease'' has grossed $189,969,103 domestically and $206.2 million internationally, totaling $396 million worldwide.<ref name="boxoffmojo"/> Another re-issue took place in select [[AMC Theatres]] locations in August 2022 to honor Olivia Newton-John following her death earlier that month, with $1 per sold ticket and the proceeds going to [[breast cancer research]], through a donation by AMC Cares.<ref>{{cite web|url=https://variety.com/2022/film/news/grease-olivia-newton-john-amc-theaters-1235345038/|title='Grease' Returning to AMC Theatres for Charity, in Honor of Olivia Newton-John|work=Variety|date=August 18, 2022 |access-date=August 18, 2022}}</ref> Similarly, in the UK, selected [[Merlin Cinemas]] venues also reissued the film during August, but partnered with [[Macmillan Cancer Support]], with a contribution of £1 per ticket sold.
+
+==Reception==
+''Grease'' is considered by many as one of the best films of 1978.<ref>{{cite web |url=http://www.filmsite.org/1978.html |title=Greatest Films of 1978 |website=[[Filmsite.org]] |access-date=August 16, 2010 |archive-date=December 10, 2005 |archive-url=https://web.archive.org/web/20051210070316/http://www.filmsite.org/1978.html |url-status=live }}</ref><ref>{{cite web |url=http://www.film.com/features/story/10-best-movies-of-1978/14955431 |title=The 10 Best Movies of 1978 |website=Film.com |date=June 1, 2007 |access-date= August 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100701173433/http://www.film.com/features/story/10-best-movies-of-1978/14955431 |archive-date=July 1, 2010}}</ref><ref>{{cite web |url=http://www.films101.com/y1978r.htm |title=The Best Movies of 1978 by Rank |work=Films101 |access-date=August 16, 2010 |archive-date=March 22, 2016 |archive-url=https://web.archive.org/web/20160322213531/http://www.films101.com/y1978r.htm |url-status=live }}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 70 out of 100, based on 15 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Grease'' |url=https://www.metacritic.com/movie/grease |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=May 5, 2024 |archive-url= |archive-date= |url-status=}}</ref><ref name="metacritic1">{{cite web |url=http://www.metacritic.com/movie/grease |title=Grease Reviews |work=[[Metacritic]] |access-date=August 16, 2010 |archive-date=September 22, 2010 |archive-url=https://web.archive.org/web/20100922085016/http://www.metacritic.com/movie/grease |url-status=live }}</ref> On [[Rotten Tomatoes]], the film holds a 65% approval rating based on 158 reviews. The website's critical consensus reads, "Word is, ''Grease'' stars an electrifying John Travolta while serving up some '50s kitsch in a frenetic adaptation that isn't always the one that we want."<ref>{{cite web |date=July 7, 1978 |title=Grease (1978) |url=http://www.rottentomatoes.com/m/grease/ |url-status=live |archive-url=https://web.archive.org/web/20141010193749/http://www.rottentomatoes.com/m/grease/ |archive-date=October 10, 2014 |access-date=July 15, 2025 |work=[[Rotten Tomatoes]] |publisher=[[Fandango Media]]}}</ref>
+
+First reviews were mixed.<ref>{{Cite news |last=Kalia |first=Ammar |date=2023-04-05 |title='John Travolta was sizzling hot!': an oral history of Grease |url=https://www.theguardian.com/film/2023/apr/05/john-travolta-was-sizzling-hot-an-oral-history-of-grease |access-date=2024-05-06 |work=The Guardian |issn=0261-3077}}</ref><ref>{{Cite news |last=Rosenfeld |first=Jordana |title=Grease |url=https://www.britannica.com/topic/Grease-film-by-Kleiser |access-date=October 22, 2025 |publisher=[[Britannica.com]] |quote=Although Grease initially received mixed reviews}}</ref> ''[[The New York Times]]''{{'}} [[Vincent Canby]] called the film "terrific fun", describing it as a "contemporary fantasy about a 1950s teen-age musical&mdash;a larger, funnier, wittier and more imaginative-than-Hollywood movie with a life that is all its own". Canby compared ''Grease'' to ''[[Don't Knock the Rock]]'' (1956) and ''[[Beach Party]]'' (1963), calling it a "multimillion-dollar evocation" of these "B-picture quickies".<ref>{{cite news | url=https://www.nytimes.com/1978/06/16/archives/screen-a-slick-version-of-greasefantasy-of-the-50s.html | title= A Slick Version of 'Grease': Fantasy of the 50s | first= Vincent | last= Canby | author-link= Vincent Canby | date= June 16, 1978 | work= [[The New York Times]] | access-date= December 20, 2010 | archive-date= April 27, 2021 | archive-url= https://web.archive.org/web/20210427041852/https://www.nytimes.com/1978/06/16/archives/screen-a-slick-version-of-greasefantasy-of-the-50s.html | url-status= live }}</ref> [[Gene Siskel]] gave the film three stars out of four, calling it "exciting only when John Travolta is on the screen" but still recommending it to viewers, adding, "Four of its musical numbers are genuine showstoppers that should bring applause."<ref>[[Gene Siskel|Siskel, Gene]] (June 16, 1978). "Travolta cuts through flaws in suburbanized 'Grease{{'"}}. ''[[Chicago Tribune]]''. Section 3, p. 1.</ref> ''[[Variety (magazine)|Variety]]'' praised the "zesty choreography and very excellent new plus revived music", and thought Travolta and Newton-John "play together quite well."<ref>"Film Reviews: Grease". ''[[Variety (magazine)|Variety]]''. June 7, 1978. 28.</ref>
+
+[[Charles Champlin]] of the ''[[Los Angeles Times]]'' was negative, writing, "I didn't see ''Grease'' onstage, but on the testimony of this strident, cluttered, uninvolving and unattractive movie, it is the '50s—maybe the last innocent decade allowed to us—played back through a grotesquely distorting '70s consciousness."<ref>[[Charles Champlin|Champlin, Charles]] (June 16, 1978). {{"'}}50s as Seen Through 'Grease{{'"}}. ''[[Chicago Tribune]]''. Part IV, p. 30.</ref> Gary Arnold of ''[[The Washington Post]]'' also panned the film, writing, "Despite the obvious attempts to recall bits from [[Stanley Donen]] musicals or [[Elvis Presley]] musicals or [[Frankie Avalon|Frankie]]-and-[[Annette Funicello|Annette]] musicals, the spirit is closer to the New Tastelessness exemplified by [[Ken Russell]], minus Russell's slick visual style [...] I've never seen an uglier large-scale musical."<ref>Arnold, Gary (June 17, 1978). {{"'}}Grease': Grin and Grimace". ''[[The Washington Post]]''. B5.</ref> [[David Ansen]] of ''[[Newsweek]]'' wrote, "Too often, ''Grease'' is simply mediocre, full of broad high-school humor, flat dramatic scenes and lethargic pacing. Fortunately, there's nothing flat about John Travolta [;...] when he's on screen you can't watch anyone else."<ref>[[David Ansen|Ansen, David]] (June 12, 1978). "Greasy Kid Stuff". ''[[Newsweek]]''. 92.</ref>
+
+In a 1998 retrospective review, [[Roger Ebert]] gave the film 3 out of 4 stars, calling it "an average musical, pleasant and upbeat and plastic." He found John Travolta's Elvis Presley–inspired performance to be the highlight, but felt that ''Grease'' "sees the material as silly [[Camp (style)|camp]]."<ref>{{cite web|url=https://www.rogerebert.com/reviews/grease-1998|title=Grease movie review & film summary (1998)|publisher=RogerEbert.com|date=March 27, 1998|access-date=January 31, 2020|archive-date=December 2, 2019|archive-url=https://web.archive.org/web/20191202160846/https://www.rogerebert.com/reviews/grease-1998|url-status=live}}</ref> In 2018, [[Peter Bradshaw]] from ''[[The Guardian]]'' gave it 5 out of 5 stars, saying "It's still a sugar-rush of a film."<ref>{{cite web|url=https://www.theguardian.com/film/2018/apr/18/grease-review-john-travolta-olivia-newton-john|title=Grease review - Travolta and Newton-John's summer lovin' still a blast|work=The Guardian|date=April 18, 2018|access-date=January 31, 2020|archive-date=February 19, 2020|archive-url=https://web.archive.org/web/20200219101103/https://www.theguardian.com/film/2018/apr/18/grease-review-john-travolta-olivia-newton-john|url-status=live}}</ref> ''Grease'' was voted the best musical ever on [[Channel 4]]'s 100 greatest musicals in <!-- Earliest Internet Archive save was in April 2004. -->2004.<ref>{{cite web |title=100 Greatest Musicals: Channel 4 Film |url=http://www.channel4.com/film/newsfeatures/microsites/M/musicals/results_5to1.html |archive-url=https://web.archive.org/web/20090519084313/http://www.channel4.com/film/newsfeatures/microsites/M/musicals/results_5to1.html |archive-date=May 19, 2009 |access-date=March 29, 2017 |publisher=Channel4.com}}</ref>  The film was ranked number 21 on ''[[Entertainment Weekly]]''{{'}}s list of the 50 Best High School Movies.<ref>{{cite web |title=Entertainment Weekly's The 50 Best High School Movies |url=http://www.filmsite.org/50besthsfilms2.html |url-status=live |archive-url=https://web.archive.org/web/20101112142042/http://www.filmsite.org/50besthsfilms2.html |archive-date=November 12, 2010 |access-date=July 27, 2010 |work=[[Filmsite.org]] |publisher=[[AMC Networks]]}}</ref><ref>{{cite web |title=''Entertainment Weekly's'' 50 Best High School Movies (25-1) |url=https://www.amazon.com/Entertainment-Weeklys-Best-School-Movies/lm/R301DE1BM2HTIQ |url-status=live |archive-url=https://web.archive.org/web/20101021004304/http://www.amazon.com/Entertainment-Weeklys-Best-School-Movies/lm/R301DE1BM2HTIQ |archive-date=October 21, 2010 |access-date=July 27, 2010 |publisher=[[Amazon (company)|Amazon]]}}</ref>
+
+In recent years, the film has been reassessed for what some critics have deemed as discriminatory and problematic content.<ref name=":0">{{Cite web |last=Hall |first=Katy |date=2022-08-12 |title=Yes, Grease was deeply problematic – but it was ahead of its time, too |url=https://www.smh.com.au/culture/movies/yes-grease-was-deeply-problematic-but-it-was-ahead-of-its-time-too-20220811-p5b94n.html |access-date=2024-05-05 |website=The Sydney Morning Herald}}</ref> Bryn Gelbart from ''[[Business Insider]]'' wrote that the film had not aged well, describing it as preaching an "unfortunate message" with aspects that could be "considered regressive by today's standards".<ref>{{Cite web |last=Gelbart |first=Bryn |title=11 of your favorite movies that haven't aged well |url=https://www.businessinsider.com/11-racist-sexist-transphobic-old-movies-2019-9 |access-date=2024-05-23 |website=Business Insider}}</ref> Kristen Baldwin of ''[[Entertainment Weekly]]'' wrote that the ending of the film was "decidedly un-[[feminism|feminist]]".<ref>{{Cite web |title='Grease: Rise of the Pink Ladies' delivers an uneven origin story |url=https://ew.com/tv/tv-reviews/grease-rise-of-the-pink-ladies-review-paramount-plus/ |access-date=2024-05-08 |website=EW.com}}</ref> Katy Hall of ''[[The Sydney Morning Herald]]'' said that the film was "deeply problematic" but also "ahead of its time."<ref name=":0" /> Joe Hildebrand of [[News.com.au]] defended the film, saying that it "isn't horribly sexist and offensive, it's just that its characters say and do horrible, sexist and offensive things [...] In short, they're a lot like, well, people."<ref>{{Cite web |last=Hildebrand |first=Joe |date=June 15, 2018 |title=40 years on, Grease is copping it — for all the wrong reasons |url=https://www.news.com.au/entertainment/movies/40-years-on-grease-is-copping-it-for-all-the-wrong-reasons/news-story/bbd10d7f703051a7619edb702e238cd2 |access-date=May 5, 2024 |website=[[News.com.au]]}}</ref> A 2020 showing of film on the [[BBC]] drew complaints from viewers and renewed criticism.<ref>{{Cite web |last=Knight |first=Lewis |date=2021-01-04 |title=Grease viewers cringe over 'rapey and sexist' scenes - but slam ban debate |url=https://www.mirror.co.uk/tv/tv-news/grease-viewers-cringe-over-rapey-23257362 |access-date=2024-05-06 |website=The Mirror}}</ref> Olivia Newton-John responded to the criticism, calling the comments "silly" and saying that the film isn't meant "to be taken so seriously."<ref>{{Cite web |date=2021-02-05 |title=Olivia Newton-John says people criticizing 'Grease' for being problematic 'need to relax a little bit' |url=https://www.yahoo.com/entertainment/olivia-newton-john-says-people-161447615.html |access-date=2024-05-06 |website=Yahoo News}}</ref>
+
+===Awards and nominations===
+{| class="wikitable"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| [[51st Academy Awards|Academy Awards]]
+| [[Academy Award for Best Original Song|Best Original Song]]
+| "[[Hopelessly Devoted to You]]" <br /> Music and Lyrics by [[John Farrar]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://www.oscars.org/oscars/ceremonies/1979 |title=The 51st Academy Awards (1979) Nominees and Winners |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=October 31, 2011 |archive-date=October 17, 2014 |archive-url=https://web.archive.org/web/20141017075832/http://www.oscars.org/oscars/ceremonies/1979 |url-status=live}}</ref>
+|-
+| rowspan="5"| [[36th Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]]
+| {{nom}}
+| align="center" rowspan="5"| <ref>{{cite web |url=https://www.goldenglobes.com/film/grease/ |title=Grease |publisher=[[Golden Globe Awards]] |access-date=August 12, 2021}}</ref>
+|-
+| [[Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy|Best Actor in a Motion Picture – Musical or Comedy]]
+| [[John Travolta]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy|Best Actress in a Motion Picture – Musical or Comedy]]
+| [[Olivia Newton-John]]
+| {{nom}}
+|-
+| rowspan="2"| [[Golden Globe Award for Best Original Song|Best Original Song – Motion Picture]]
+| "[[Grease (song)|Grease]]" <br /> Music and Lyrics by [[Barry Gibb]]
+| {{nom}}
+|-
+| "[[You're the One That I Want]]" <br /> Music and Lyrics by John Farrar
+| {{nom}}
+|-
+| colspan="3"| [[Goldene Leinwand|Golden Screen Awards]]
+| {{won}}
+| align="center"| 
+|-
+| rowspan="2"| [[Jupiter Award (film award)#1st Jupiter Award / 1979|Jupiter Awards]]
+| Best International Actor
+| John Travolta
+| {{nom}}
+| align="center" rowspan="2"| 
+|-
+| Best International Actress
+| Olivia Newton-John
+| {{nom}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |title=Complete National Film Registry Listing |publisher=[[Library of Congress]] |access-date=December 16, 2015}}</ref>
+|-
+| rowspan="5"| [[5th People's Choice Awards|People's Choice Awards]]
+| colspan="2"| Favorite Overall Motion Picture
+| {{won}}
+| align="center" rowspan="5"| 
+|-
+| colspan="2"| Favorite Musical Motion Picture
+| {{won}}
+|-
+| Favorite Male Musical Performer
+| John Travolta
+| {{nom}}
+|-
+| Favorite Female Musical Performer
+| Olivia Newton-John
+| {{won}}
+|-
+| Favorite Motion Picture Supporting Actress
+| [[Stockard Channing]]
+| {{won}}
+|-
+| [[11th Satellite Awards|Satellite Awards]]
+| colspan="2"| [[Satellite Award for Best Classic DVD|Best Classic DVD]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://www.pressacademy.com/satawards/awards2006.shtml |title=International Press Academy website – 2006 11th Annual SATELLITE Awards |publisher=[[International Press Academy]] |archive-url=https://web.archive.org/web/20080201175700/http://www.pressacademy.com/satawards/awards2006.shtml |archive-date=February 1, 2008}}</ref>
+|-
+| [[TV Land Award]]s
+| Movie Dance Sequence You Reenacted in Your Living Room
+| "You're the One That I Want"
+| {{nom}}
+| align="center"| 
+|}
+
+===American Film Institute recognition===
+* [[AFI's 100 Years...100 Passions]]—No. 97
+* [[AFI's 100 Years...100 Songs]]—No. 70 for "[[Summer Nights (Grease song)|Summer Nights]]"
+* [[AFI's Greatest Movie Musicals]]—No. 20
+
+==Home media==
+''Grease'' was released in the US on [[VHS]] by [[Paramount Home Media Distribution|Paramount Home Video]] in 1979, 1982, 1989, 1992 and 1994; the last VHS release was on June 23, 1998, and was titled the ''20th Anniversary Edition'' following a theatrical re-release that March.<ref name="BeatTheHeat">{{cite news |last=Bossave |first=Roy |url=https://www.newspapers.com/article/the-miami-herald-beat-the-heat-by-watchi/98855157/ |title=Beat the heat by watching old summer films
+|archive-url=https://web.archive.org/web/20240829172623/https://www.newspapers.com/article/the-miami-herald-beat-the-heat-by-watchi/98855157/ |date=June 23, 1998 |access-date=August 29, 2024 |archive-date=August 29, 2024 |page=112 |work=Herald Staff Writer |publisher=[[The Miami Herald]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> This one was [[THX]] certified and consisted of widescreen and [[pan and scan]] fullscreen versions.<ref name="BeatTheHeat" />
+
+On September 24, 2002, it was released on [[DVD]] for the first time. On September 19, 2006, it was re-released on DVD as the ''Rockin' Rydell Edition'', which came with a black Rydell High T-Bird jacket cover, a white Rydell "R" letterman's sweater cover, or the [[Target Corporation|Target]]-exclusive Pink Ladies cover. It was released on [[Blu-ray]] Disc on May 5, 2009.
+
+On March 12, 2013, ''Grease'' and ''Grease 2'' were packaged together in a double feature DVD set from [[Warner Home Video]].
+
+In connection with the film's 40th anniversary, Paramount released ''Grease'' on 4K [[Ultra HD Blu-ray]], Blu-ray and DVD on April 24, 2018.<ref>{{Cite web|url=https://ultrahd.highdefdigest.com/56637/grease4kultrahdbluray.html|title=Grease: 40th Anniversary Edition - 4K Ultra HD Blu-ray Ultra HD Review |website=High Def Digest |access-date=May 4, 2018|archive-date=May 4, 2018|archive-url=https://web.archive.org/web/20180504225633/https://ultrahd.highdefdigest.com/56637/grease4kultrahdbluray.html|url-status=live}}</ref>
+
+== Sing-along version ==
+{{anchor|Grease Sing-A-Long}} On July 8, 2010, a sing-along version of ''Grease'' was released to selected theaters around the U.S.<ref>{{cite web |date=May 21, 2010 |title=Wanna Sing-A-Long with Grease? With Lyrics?!? |url=http://screencrave.com/2010-05-21/wanna-sing-a-long-with-grease-with-lyrics/ |url-status=dead |archive-url=https://web.archive.org/web/20100522020741/http://screencrave.com/2010-05-21/wanna-sing-a-long-with-grease-with-lyrics/ |archive-date=May 22, 2010 |access-date=August 16, 2010 |publisher=Screencrave.com}}</ref> The film was shown for two weekends only; additional cities lobbied by fans from the Paramount official website started a week later and screened for one weekend.<ref>{{cite web |title=Grease Sing-A-Long (2010) &#124; Trailer & Official Movie Site |url=http://www.greasemovie.com |url-status=live |archive-url=https://web.archive.org/web/20150510141541/http://www.greasemovie.com/ |archive-date=May 10, 2015 |access-date=August 16, 2010 |website=Greasemovie.com}}</ref> [[CBS]] aired this version of the film on June 7, 2020.<ref>{{cite web |last=Topel |first=Fred |date=May 15, 2020 |title='Grease Sing-A-Long' airing June 7 on CBS |url=https://www.upi.com/Entertainment_News/Movies/2020/05/15/Grease-Sing-A-Long-airing-June-7-on-CBS/1731589563409/ |url-status=live |archive-url=https://web.archive.org/web/20200515183916/https://www.upi.com/Entertainment_News/Movies/2020/05/15/Grease-Sing-A-Long-airing-June-7-on-CBS/1731589563409/ |archive-date=May 15, 2020 |access-date=May 15, 2020 |work=UPI}}</ref>
+
+==Legacy==
+{{Further|Grease (franchise)}}
+
+===Sequel===
+''[[Grease 2]]'' (1982) stars [[Maxwell Caulfield]] and [[Michelle Pfeiffer]]. While several of the Rydell High staff characters reprise their roles, the sequel focused on the latest class of graduating seniors, hence most of the principals from ''Grease'' did not appear. [[Patricia Birch]], the original film's choreographer, directed the sequel. The original musical's cocreator [[Jim Jacobs]], who was not involved in the making of ''Grease 2'', has disowned the film.
+
+===Prequel===
+In March 2019, it was announced that a prequel, called ''Summer Lovin''', was in development from [[Paramount Players]]. The project would be a joint-production collaboration with [[Temple Hill Entertainment|Temple Hill Productions]] and [[Picturestart]]. [[John August]] signed on to serve as screenwriter.<ref name="prequel">{{cite web|url=https://www.hollywoodreporter.com/news/grease-prequel-summer-loving-works-1200358|title='Grease' Prequel 'Summer Lovin{{'-}}' in the Works With John August Writing (Exclusive)|first=Borys|last=Kit|work=The Hollywood Reporter|date=April 9, 2019|access-date=April 9, 2019|archive-date=April 10, 2019|archive-url=https://web.archive.org/web/20190410142350/https://www.hollywoodreporter.com/news/grease-prequel-summer-loving-works-1200358|url-status=live}}</ref> As of August 2024, there has been no further word on the project.
+
+===Television===
+{{main|Somos tú y yo|Grease Live!}}
+On August 17, 2009, a [[Somos tú y yo|television series]] inspired by the film premiered in Venezuela. The series was produced and directed by Vladimir Perez. The show explores and expands on the characters and story from the film.<ref>{{cite news|title=Venevisión estrena 'Somos tú y yo, un nuevo día, inspirada en Grease'|url=http://www.todotvnews.com/news/Venevision-estrena-serie-Somos-T-y-Yo-Un-Nuevo-Da.html|access-date=July 30, 2016|archive-url=https://web.archive.org/web/20170622190035/http://www.todotvnews.com/news/Venevision-estrena-serie-Somos-T-y-Yo-Un-Nuevo-Da.html|archive-date=June 22, 2017|url-status=dead}}</ref><ref>{{cite news|title=De regreso a los años 50 con el musical 'Grease'|url=http://www.eluniverso.com/vida-estilo/2015/09/25/nota/5145359/regreso-anos-50-musical-grease|access-date=July 30, 2016|archive-date=October 5, 2015|archive-url=https://web.archive.org/web/20151005165747/http://www.eluniverso.com/vida-estilo/2015/09/25/nota/5145359/regreso-anos-50-musical-grease|url-status=live}}</ref>
+
+On January 31, 2016, [[Fox Broadcasting Company|Fox]] aired a [[Grease Live!|live television-adapted special]] of the musical, using components from both the 1978 film and the original Broadway show. Starring [[Julianne Hough]], [[Aaron Tveit]], and [[Vanessa Hudgens]], the adaptation received positive reviews, especially for Hudgens, and ten [[Emmy]] nominations.<ref>{{cite web |title=About Grease: Live |url=https://www.fox.com/grease-live/ |website=Fox |access-date=November 24, 2018 |archive-date=November 24, 2018 |archive-url=https://web.archive.org/web/20181124055235/https://www.fox.com/grease-live/ |url-status=live }}</ref>
+
+On October 15, 2019, it was announced that a [[Grease: Rise of the Pink Ladies|musical television series]] based on ''Grease'', titled ''Grease: Rydell High'', was given a straight-to-series order by [[HBO Max]].<ref>{{Cite web|url=https://deadline.com/2019/10/grease-spinoff-series-rydell-high-ordered-hbo-max-1202760477/|title='Grease' Spinoff Series 'Rydell High' Ordered By HBO Max|website=[[Deadline Hollywood]]|first=Denise|last=Petski|date=October 15, 2019|access-date=September 4, 2020|archive-date=April 17, 2020|archive-url=https://web.archive.org/web/20200417092208/https://deadline.com/2019/10/grease-spinoff-series-rydell-high-ordered-hbo-max-1202760477/|url-status=live}}</ref> Annabel Oakes is set to write the pilot episode and act as executive producer for the series.<ref>{{Cite web|url=https://deadline.com/2020/04/grease-rydell-high-annabel-oakes-write-ep-new-hbo-max-series-grease-offshoot-spinoff-1202905342/|title='Grease: Rydell High': Annabel Oakes To Write & EP HBO Max Spinoff Series|website=Deadline Hollywood|first=Nellie|last=Andreeva|date=April 10, 2020|access-date=September 4, 2020|archive-date=April 13, 2020|archive-url=https://web.archive.org/web/20200413130053/https://deadline.com/2020/04/grease-rydell-high-annabel-oakes-write-ep-new-hbo-max-series-grease-offshoot-spinoff-1202905342/|url-status=live}}</ref> In 2020, the series' title was changed to ''[[Grease: Rise of the Pink Ladies]]''. It premiered on [[Paramount+]]<ref>{{cite web|url=https://www.comingsoon.net/tv/news/1151876-grease-prequel-series-shifting-gears-from-hbo-max-to-paramount|title=Grease Prequel Series Shifting Gears from HBO Max to Paramount+|work=[[Mandatory (company)#Owned or associated websites|ComingSoon]].net|last=Hermanns|first=Grant|date=October 14, 2020|access-date=October 14, 2020|archive-date=October 23, 2020|archive-url=https://web.archive.org/web/20201023220751/https://www.comingsoon.net/tv/news/1151876-grease-prequel-series-shifting-gears-from-hbo-max-to-paramount|url-status=live}}</ref> April 6, 2023. Filming began in January 2022, and the series' cast was announced at the end of the month.<ref>{{cite web |last=Mitovich |first=Matt Webb |title=Grease Prequel Series Sets Cast, With Jackie Hoffman as Vice Principal |url=https://www.tvline.com/casting-news/grease-prequel-series-cast-paramount-plus-pink-ladies-origin-story-1234784315/ |website=TVLine |access-date=January 31, 2022 |date=January 31, 2022}}</ref> ''Rise of the Pink Ladies'' released ten episodes in spring 2023 before the series was cancelled and withdrawn from public availability in June.<ref>{{cite web|title='Grease: Rise of the Pink Ladies', 'Star Trek: Prodigy', 'The Game' & 'Queen of the Universe' Canceled At Paramount+ As Streamer Pulls Shows From Service & Takes Content Write-Down|website=[[Deadline Hollywood]]|first=Peter|last=White|date=June 23, 2023|access-date=June 23, 2023|url=https://deadline.com/2023/06/grease-rise-of-the-pink-ladies-star-trek-prodigy-the-game-queen-of-the-universe-canceled-paramount-1235423451/}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* {{IMDb title|0077631}}
+* {{Mojo title|grease}}
+* {{Rotten Tomatoes|grease}}
+* {{TCMDb title|4603}}
+* {{AFI film|55211}}
+
+{{Grease}}
+{{Randal Kleiser}}
+{{Yearly highest-grossing US films}}
+
+[[Category:1978 films]]
+[[Category:1978 directorial debut films]]
+[[Category:1970s dance films]]
+[[Category:1970s high school films]]
+[[Category:1970s musical comedy films]]
+[[Category:1978 romantic comedy films]]
+[[Category:1970s romantic musical films]]
+[[Category:1978 romance films]]
+[[Category:1970s teen comedy films]]
+[[Category:1970s teen romance films]]
+[[Category:1978 American films]]
+[[Category:American auto racing films]]
+[[Category:American dance films]]
+[[Category:American high school films]]
+[[Category:American musical comedy films]]
+[[Category:American rock musicals]]
+[[Category:American romantic comedy films]]
+[[Category:American romantic musical films]]
+[[Category:American teen comedy films]]
+[[Category:American teen musical films]]
+[[Category:American teen romance films]]
+[[Category:1978 English-language films]]
+[[Category:Films about proms]]
+[[Category:Films adapted into television shows]]
+[[Category:Films based on musicals]]
+[[Category:Films directed by Randal Kleiser]]
+[[Category:Films set in the 1950s]]
+[[Category:Films set in 1958]]
+[[Category:Films set in 1959]]
+[[Category:Films shot in Los Angeles]]
+[[Category:Films with screenplays by Allan Carr]]
+[[Category:Films with screenplays by Bronte Woodard]]
+[[Category:Drag racing]]
+[[Category:Fiction about flying cars]]
+[[Category:Grease (musical)]]
+[[Category:Paramount Pictures films]]
+[[Category:United States National Film Registry films inducted in 2020]]
+[[Category:Films produced by Allan Carr]]
+[[Category:English-language romantic comedy films]]
+[[Category:English-language romantic musical films]]
+[[Category:English-language musical comedy films]]
+[[Category:1978 musical films]]
+[[Category:English-language teen comedy films]]

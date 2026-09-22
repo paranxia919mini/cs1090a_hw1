@@ -1,0 +1,544 @@
+{{Short description|2022 film by Edward Berger}}
+{{Use American English|date=October 2021}}
+{{Use mdy dates|date=October 2021}}
+{{Infobox film
+| image          = All quiet on the western front (2022 film).jpg
+| caption        = Official release poster
+| alt            = German Poster for All Quiet on the Western Front (2022)
+| director       = [[Edward Berger]]
+| screenplay     = {{Plainlist|
+* Edward Berger
+* [[Lesley Paterson]]
+* Ian Stokell
+}}
+| story          =
+| based_on       = {{based on|''[[All Quiet on the Western Front]]''|[[Erich Maria Remarque]]}}
+| producer       = {{Plainlist|
+* [[Malte Grunert]]
+* Daniel Dreifuss
+* Edward Berger
+}}
+| music          = [[Hauschka|Volker Bertelmann]]
+| starring       = {{Plainlist|
+* [[Felix Kammerer]]
+* [[Albrecht Schuch]]
+* [[Daniel Brühl]]
+}}
+| cinematography = [[James Friend]]
+| editing        = Sven Budelmann
+| studio         = Amusement Park
+| runtime        = 147 minutes<ref name="TIFF">{{cite web|url=https://www.tiff.net/events/all-quiet-on-the-western-front|title=''All Quiet on the Western Front''|website=[[Toronto International Film Festival]]|access-date=July 28, 2022|archive-date=July 28, 2022|archive-url=https://web.archive.org/web/20220728144120/https://tiff.net/events/all-quiet-on-the-western-front|url-status=live}}</ref>
+| distributor    = [[Netflix]]
+| country        = Germany
+| released       = {{Film date|2022|9|12|[[2022 Toronto International Film Festival|TIFF]]|2022|10|28|Netflix}}
+| language       = German
+| budget         = US$20 million<ref name="welt"/>
+}}
+
+'''''All Quiet on the Western Front''''' ({{langx|de|Im Westen nichts Neues||Nothing New in the West}}) is a 2022 German epic [[List of anti-war films|anti-war film]] based on [[All Quiet on the Western Front|the 1929 novel]] of the same name by [[Erich Maria Remarque]]. It is the third film adaptation of the book, after the [[All Quiet on the Western Front (1930 film)|1930]] and [[All Quiet on the Western Front (1979 film)|1979]] versions. Co-written, directed and co-produced by [[Edward Berger]], it stars [[Felix Kammerer]], [[Albrecht Schuch]], [[Daniel Brühl]], Sebastian Hülk, [[Aaron Hilmer]], Edin Hasanovic, and [[Devid Striesow]].
+
+Set during [[World War I]], it follows the life of an idealistic young German soldier named Paul Bäumer.{{efn|[[Paul Bäumer]] was also the name of another World War I soldier, who did not inspire the events of the book or film.}} After enlisting in the German Army with his friends, Bäumer finds himself exposed to the realities of war, shattering his early hopes of becoming a hero as he does his best to survive. The film adds a parallel storyline not found in the book, which follows [[Armistice of 11 November 1918|the armistice]] negotiations to end the war.
+
+''All Quiet on the Western Front'' premiered at the [[2022 Toronto International Film Festival|Toronto International Film Festival]] on September 12, 2022, and was released to streaming on [[Netflix]] on October 28.<ref name=variety /> The film received positive reviews for its artistry and relevant anti-war message;<ref>{{cite news|url=https://www.nytimes.com/2022/10/28/movies/all-quiet-on-the-western-netflix.html|title=In a German ''All Quiet on the Western Front'', History Has a Starring Role|work=New York Times|date=October 28, 2022|last1=Schuetze|first1=Christopher F.|access-date=October 31, 2022|archive-date=October 31, 2022|archive-url=https://web.archive.org/web/20221031105218/https://www.nytimes.com/2022/10/28/movies/all-quiet-on-the-western-netflix.html|url-status=live}}</ref> however, German and Anglophone critics disagreed over the film's faithfulness to Remarque's source material.<ref name="german critics"/> It received a leading 14 nominations at the [[76th British Academy Film Awards]] (winning seven, including [[BAFTA Award for Best Film|Best Film]]) and nine at the [[95th Academy Awards]], including [[Academy Award for Best Picture|Best Picture]], and won four: [[Academy Award for Best International Feature Film|Best International Feature]], [[Academy Award for Best Cinematography|Best Cinematography]], [[Academy Award for Best Original Score|Best Original Score]], and [[Academy Award for Best Production Design|Best Production Design]]. The four wins tied ''All Quiet on the Western Front'' with ''[[Fanny and Alexander]]'' (1982), ''[[Crouching Tiger, Hidden Dragon]]'' (2000), and ''[[Parasite (2019 film)|Parasite]]'' (2019) as the most-awarded non-English language film in the Oscars' history.<ref>{{cite web |title=2023 {{!}} Oscars.org {{!}} Academy of Motion Picture Arts and Sciences |url=https://www.oscars.org/oscars/ceremonies/2023 |website=oscars.org|access-date=January 24, 2023 |archive-date=January 24, 2023 |archive-url=https://web.archive.org/web/20230124173734/https://www.oscars.org/oscars/ceremonies/2023 |url-status=live }}</ref> It was nominated in twelve categories for the 2023 [[German Film Award]]s,<ref>{{cite web|title=Die Nominierungen 2023 |url=https://www.deutscher-filmpreis.de/preisverleihung/2023/|website=deutscher-filmpreis.de|language=de|access-date=27 March 2023|archive-date=March 24, 2023|archive-url=https://web.archive.org/web/20230324104205/https://www.deutscher-filmpreis.de/preisverleihung/2023/|url-status=live}}</ref> and won eight, including Silver Award.<ref>{{cite web|title=Die Preisträger:innen 2023 |url=https://www.deutscher-filmpreis.de/preisverleihung/2023/|access-date=12 May 2023|language=de|archive-date=March 24, 2023|archive-url=https://web.archive.org/web/20230324104205/https://www.deutscher-filmpreis.de/preisverleihung/2023/|url-status=live}}</ref>
+
+==Plot==
+In 1917, three years into [[World War I]], 17-year-old Paul Bäumer enthusiastically enlists in the [[Imperial German Army]] alongside schoolmates Albert Kropp, Franz Müller, and Ludwig Behm. They hear a patriotic speech by a school official and unknowingly receive recycled uniforms from soldiers killed in a previous battle. After they are deployed in northern France near [[La Malmaison]], they are befriended by an older and more experienced soldier, Stanislaus "Kat" Katczinsky. Their romantic view of the war is shattered by the brutal realities of [[trench warfare]] on the [[Western Front (World War I)|Western Front]] and Ludwig is killed by [[artillery]] on the first night. 
+
+Eighteen months later, on November 7, 1918, German State Secretary [[Matthias Erzberger]], weary of mounting losses, meets with the [[Oberste Heeresleitung|German High Command]] to persuade them to begin [[armistice]] talks with the [[Allies of World War I|Allied powers]]. Meanwhile, Paul and Kat steal a goose from a farm to share with Albert, Franz, and another veteran, Tjaden Stackfleet, with whom they have grown close behind the front in [[Champagne (province)|Champagne]]. Kat, who is illiterate, gets Paul to read him a letter from his wife and worries that he will be unable to reintegrate into peacetime society. Franz spends the night with a local French woman and brings back her scarf as a souvenir.
+
+On November 9, General Friedrichs drives Erzberger and the German delegation to a train bound for the [[Forest of Compiègne]] for ceasefire negotiations. Paul and his friends are sent on a mission to find 60 missing recruits who were sent to reinforce their unit and discover that they were killed by [[Chemical weapons in World War I|gas]] after taking their [[Gas mask|masks]] off too soon. Friedrichs, who opposes the armistice talks, orders an attack before French reinforcements arrive. That night, Erzberger's delegation reaches Compiègne, while Paul's regiment is sent to the front to prepare to attack the French lines.
+
+On November 10, [[Supreme Allied Commander]] [[Ferdinand Foch]] gives the Germans 72 hours to accept the non-negotiable Allied terms. Meanwhile, the German attack takes the French front line after savage hand-to-hand fighting but is routed by a [[combined arms]] counterattack in which the French use [[Saint-Chamond (tank)|Saint-Chamond tanks]]. Franz is separated from the group, and Albert is killed trying to surrender when he is set on fire with a [[flamethrower]]. Trapped in a crater in [[no man's land]] with a French soldier, Paul stabs him and watches him die slowly, becoming remorseful and begging for forgiveness from the dead body.
+
+Erzberger learns of [[Abdication of Wilhelm II|Kaiser Wilhelm II's abdication]] and receives instructions from field marshal [[Paul von Hindenburg]] to accept the Allied terms. Paul returns to his unit and sees them celebrating the war's imminent end. He finds a wounded Tjaden, who gives him Franz's souvenir scarf – indicating Franz has been killed. Paul and Kat bring him food, but Tjaden, knowing his leg will be amputated, fatally stabs himself in the throat with a fork.
+
+On November 11, Erzberger's delegation signs an [[Armistice of 11 November 1918|armistice set to take effect at 11:00 AM]]. After learning of the ceasefire, Paul and Kat steal from the farm one last time, but Kat is shot by the farmer's son and quietly dies while Paul carries him to an infirmary. Friedrichs, who wants a final German battlefield victory before the war ends in defeat, orders an attack to start at 10:45 AM. Paul kills multiple French soldiers before being bayoneted from behind just seconds before 11:00 AM. He dies as the fighting stops.
+
+A short time later, a newly-arrived German recruit that Paul had earlier saved in the battle finds his mud-caked body and picks up Franz's scarf, but not the [[dog tag]] that acts as the identifier of dead soldiers. As a result, [[Missing in action|Paul's death is not recorded.]]
+
+==Cast==
+{{Multiple image
+| perrow            = 3
+| total_width       = 380
+| image1            = 
+| image2            = Albrecht Schuch-1050.jpg
+| image3            = MJK 68238 Daniel Brühl (Berlinale 2020).jpg
+| footer            = Two of the film stars [[Albrecht Schuch]] and [[Daniel Brühl]]
+}}
+{{Cast listing|
+* [[Felix Kammerer]] as Paul Bäumer
+* [[Albrecht Schuch]] as Stanislaus "Kat" Katczinsky
+* [[Daniel Brühl]] as [[Matthias Erzberger]]
+* [[Aaron Hilmer]] as Albert Kropp
+* [[Moritz Klaus]] as Franz Müller
+* {{interlanguage link|Adrian Grünewald|de|Adrian Grünewald}} as Ludwig Behm
+* {{interlanguage link|Edin Hasanović|de}} as Tjaden Stackfleet
+* [[Thibault de Montalembert]] as General [[Ferdinand Foch]]
+* [[Devid Striesow]] as General Friedrichs
+* {{interlanguage link|Andreas Döhler|de|Andreas Döhler}} as Lieutenant Hoppe
+* {{interlanguage link|Sebastian Hülk|de|Sebastian Hülk}}<ref>{{cite web |url=https://www.nerdsandbeyond.com/2021/05/04/first-look-photos-and-cast-revealed-for-netflixs-german-film-all-quiet-on-the-western-front/ |title=First Look Photos and Cast Revealed for Netflix's German Film ''All Quiet on the Western Front'' |work=Nerds & Beyond|date=May 4, 2021 |access-date=December 10, 2021 |url-status=live|archive-url=https://web.archive.org/web/20210504210536/https://www.nerdsandbeyond.com/2021/05/04/first-look-photos-and-cast-revealed-for-netflixs-german-film-all-quiet-on-the-western-front/ |archive-date=May 4, 2021 }}</ref> as Major Von Brixdorf
+}}
+
+=== English dubbing ===
+The English version was produced by [[Liquid Violet]] in [[London]]. [[James Daniel Wilson]] adapted the script and directed the dubbing.
+{| class="wikitable"
+|+
+|-
+! Role !! Actor !! Voice actor<ref>Dubbing credits on Netflix</ref>
+|-
+| Paul Bäumer || Felix Kammerer || [[George Blagden]]
+|-
+| Stanislaus "Kat" Katczinsky || Albrecht Schuch || [[Andrew Whipp]]
+|-
+| Albert Kropp || Aaron Hilmer || [[Harry McEntire]]
+|-
+| Franz Müller || Moritz Klaus || [[Rory Alexander]]
+|-
+| Ludwig Behm || Adrian Grünewald || [[Gerran Howell]]
+|-
+| Tjaden Stackfleet || Edin Hasanović || [[Oliver Walker]]
+|-
+| Matthias Erzberger || Daniel Brühl || [[Kevin Howarth]]
+|-
+| General Friedrichs || Devid Striesow || [[Alistair Petrie]]
+|-
+| Lieutenant Hoppe || Andreas Döhler || [[Rupert Holliday-Evans]]
+|-
+| Major Von Brixdorf || Sebastian Hülk || [[James Doherty (actor)|James Doherty]]
+|}
+
+==Production ==
+===Development===
+[[File:MJK 12711 Edward Berger (The Terror, Berlinale 2018).jpg|thumb|upright|Director, co-producer and co-writer [[Edward Berger]]]]
+Writers [[Lesley Paterson]] and Ian Stokell spent 16 years bringing their film project to fruition. They initially obtained an option for the film rights to the book in 2006 but faced challenges in securing funding for both the film's production and the annual option renewal, which cost between $10,000 and $15,000. In a resourceful attempt to raise funds, Paterson participated in [[XTERRA Triathlon|XTERRA triathlons]] starting in 2011, ultimately winning the top prize of $20,000. This allowed her to maintain the option by winning five triathlon world championships over the years. Paterson and Stokell estimated that they spent approximately $200,000 to preserve the option during the 16-year period.<ref>{{Cite news|last1=Hattenstone|first1=Simon|url=https://www.theguardian.com/film/2023/feb/13/the-screenwriter-who-would-not-quit-how-lesley-paterson-funded-her-16-year-oscar-dream-by-winning-triathlons |title='Obsessive? This is who I am!' How Lesley Paterson funded her 16-year Oscar dream – by winning triathlons |date=February 13, 2023 |work=[[The Guardian]] |archive-date=February 13, 2023|archive-url=https://web.archive.org/web/20230213063408/https://www.theguardian.com/film/2023/feb/13/the-screenwriter-who-would-not-quit-how-lesley-paterson-funded-her-16-year-oscar-dream-by-winning-triathlons|url-status=live}}</ref> The film was eventually announced in February 2020 with [[Edward Berger]] directing and [[Daniel Brühl]] as part of the ensemble cast.<ref>{{cite web |url=https://deadline.com/2020/02/all-quiet-on-the-western-front-timely-german-language-version-of-wwi-classic-heads-to-efm-with-edward-berger-daniel-bruhl-rocket-science-1202860007/ |first=Andreas |last=Wiseman |title=''All Quiet on the Western Front'': Timely German-Language Version of WWI Classic Heads to EFM with Edward Berger, Daniel Bruhl & Rocket Science |website=[[Deadline Hollywood]] |date=February 14, 2020 |access-date=October 8, 2021 |url-status=live|archive-url=https://web.archive.org/web/20200215171141/https://deadline.com/2020/02/all-quiet-on-the-western-front-timely-german-language-version-of-wwi-classic-heads-to-efm-with-edward-berger-daniel-bruhl-rocket-science-1202860007/ |archive-date=February 15, 2020 }}</ref>
+
+===Filming===
+[[Principal photography]] began on 9 March 2021 in [[Prague]], Czech Republic, and lasted 55 days.<ref name=variety>{{cite web |last1=Ramchandran|first1=Naman|url=https://variety.com/2021/streaming/global/netflix-all-quiet-on-the-western-front-shoot-1234965913/ |title=Netflix's ''All Quiet on the Western Front'' Shoot Underway in Prague, New Cast Members Join |website=[[Variety (magazine)|Variety]] |date=May 4, 2021 |access-date=October 8, 2021 |url-status=live|archive-url=https://web.archive.org/web/20210504082652/https://variety.com/2021/streaming/global/netflix-all-quiet-on-the-western-front-shoot-1234965913/ |archive-date=May 4, 2021 }}</ref><ref>{{cite web|url=https://about.netflix.com/en/news/all-quiet-on-the-western-front-shooting-for-german-netflix-film-directed-by |title=''All Quiet on the Western Front'': Shooting for German Netflix Film Directed by Edward Berger Has Begun |website=[[Netflix]] |date=May 4, 2021|access-date=October 8, 2021|url-status=live|archive-url=https://web.archive.org/web/20210504235925/https://about.netflix.com/en/news/all-quiet-on-the-western-front-shooting-for-german-netflix-film-directed-by |archive-date=May 4, 2021 }}</ref> The film cost $20 million.<ref name=welt>{{Cite news|last1=Rodek|first1=Hanns-Georg|url=https://www.welt.de/kultur/kino/article240682817/Im-Westen-nichts-Neues-Was-Netflix-mit-dem-Oscar-Kandidaten-plant.html |title=Die erste Verfilmung störte Goebbels mit Stinkbomben und weißen Mäusen |date=August 25, 2022 |work=[[Die Welt]] |url-status=live |archive-url=https://web.archive.org/web/20230202030344/https://www.welt.de/kultur/kino/article240682817/Im-Westen-nichts-Neues-Was-Netflix-mit-dem-Oscar-Kandidaten-plant.html |archive-date=February 2, 2023|language=de}}</ref>
+
+Cinematographer [[James Friend]] worked closely with another DP, wildlife cameraman Rob Hollingworth, in order to capture the fox sequence in the beginning of the film. "We had to essentially put a pregnant fox in a purpose-built den that was designed for shooting with camera traps. The fox then gave birth to the cubs in this den and that turned into what you saw on camera...The only way to get those shots is basically to raise the cubs in the environment in which you're filming them, so the mother and the cubs feel completely at home. Then, if a probe lens comes in to get a closeup of a cub or the mom, they're already used to it by that stage. Essentially, we wanted it to look like a [[David Attenborough]] piece and not like a movie."<ref>{{Cite web |last=Mulcahey |first=Matt |date=2023-03-04 |title="...A 7mm Difference Between Lenses is Actually Quite a Huge Amount...": DP James Friend on ''All Quiet on the Western Front''|url=https://filmmakermagazine.com/120031-interview-dp-james-friend-all-quiet-on-the-western-front/ |access-date=2023-04-12 |work=[[Filmmaker (magazine)|Filmmaker]]|archive-date=March 4, 2023|archive-url=https://web.archive.org/web/20230304163951/https://filmmakermagazine.com/120031-interview-dp-james-friend-all-quiet-on-the-western-front/|url-status=live}}</ref>
+
+==Soundtrack==
+{{Main|All Quiet on the Western Front (soundtrack){{!}}''All Quiet on the Western Front'' (soundtrack)}}
+
+==Release==
+''All Quiet on the Western Front'' premiered at the [[47th Toronto International Film Festival]] on September 12, 2022. It played exclusively at the [[Paris Theater (Manhattan)|Paris Theater]] in [[New York City|New York]] on October 7 before expanding to other theatres from October 14.<ref>{{cite web|url=https://www.theguardian.com/film/2022/oct/12/all-quiet-on-the-western-front-review-anti-war-nightmare-of-bloodshed-and-chaos|title=''All Quiet on the Western Front'' review – anti-war nightmare of bloodshed and chaos|first=Peter|last=Bradshaw|authorlink=Peter Bradshaw|website=[[The Guardian]]|date=October 12, 2022|access-date=October 14, 2022|archive-date=October 13, 2022|archive-url=https://web.archive.org/web/20221013195839/https://amp.theguardian.com/film/2022/oct/12/all-quiet-on-the-western-front-review-anti-war-nightmare-of-bloodshed-and-chaos|url-status=live}}</ref> It launched on [[Netflix]], which acquired distribution rights prior to production,<ref>{{Cite news |last=Ravindran |first=Manori |date=December 10, 2020 |title=Netflix Snaps Up Big-Budget ''All Quiet on the Western Front'' Adaptation |work=Variety |url=https://variety.com/2020/film/global/all-quiet-on-the-western-front-netflix-daniel-bruhl-1234849611/ |access-date=March 7, 2023 |archive-date=February 26, 2023 |archive-url=https://web.archive.org/web/20230226160655/https://variety.com/2020/film/global/all-quiet-on-the-western-front-netflix-daniel-bruhl-1234849611/ |url-status=live }}</ref> worldwide on October 28.<ref>{{Cite web |last=Longmire |first=Becca |date=September 6, 2022 |title=Netflix Drops Teaser Trailer for ''All Quiet on the Western Front'' Ahead Of TIFF World Premiere |url=https://etcanada.com/news/926181/netflix-drops-teaser-trailer-for-all-quiet-on-the-western-front-ahead-of-tiff-world-premiere/ |access-date=September 22, 2022 |website=ET Canada |archive-date=September 23, 2022 |archive-url=https://web.archive.org/web/20220923080921/https://etcanada.com/news/926181/netflix-drops-teaser-trailer-for-all-quiet-on-the-western-front-ahead-of-tiff-world-premiere/ |url-status=dead }}</ref> From its release on Netflix to March 3, 2023, the film logged over 150 million hours viewed worldwide. Viewership tripled after the film's Oscar and BAFTA nominations, and was on the global Top 10 Non-English Film list for 14 weeks and in the Top 10 Films in 91 countries.<ref>{{Cite web |last= Tangcay |first= Jazz |date= March 3, 2023 |title= Netflix's ''All Quiet on the Western Front'' Clocks More Than 150 Million Hours Viewed Since Release (EXCLUSIVE) |url= https://variety.com/2023/awards/news/all-quiet-on-the-western-front-hours-viewed-1235542190/ |access-date= March 4, 2023 |website= Variety |archive-date= March 3, 2023 |archive-url= https://web.archive.org/web/20230303215508/https://variety.com/2023/awards/news/all-quiet-on-the-western-front-hours-viewed-1235542190/ |url-status= live }}</ref>
+
+A making-of documentary called ''Making All Quiet on the Western Front'' was released on Netflix globally on February 20, 2023.<ref>{{Cite web |last=Moore |first=Kasey |date=2023-02-14 |title=''All Quiet on the Western Front'' Making-of Documentary Sets Netflix Release Date |url=https://www.whats-on-netflix.com/news/making-of-documentary-for-all-quiet-on-the-western-front-sets-netflix-release-date/ |access-date=2023-02-15 |website=What's on Netflix |archive-date=February 15, 2023 |archive-url=https://web.archive.org/web/20230215203036/https://www.whats-on-netflix.com/news/making-of-documentary-for-all-quiet-on-the-western-front-sets-netflix-release-date/ |url-status=live }}</ref> A Collector's Edition Blu-ray was released on March 28, 2023, in the United States and April 24, 2023, in the United Kingdom.<ref>{{Cite web |last=Moore |first=Kasey |date=2023-02-26 |title=''All Quiet on the Western Front'' Blu-ray Release Date Set for March and April 2023 |url=https://www.whats-on-netflix.com/news/all-quiet-on-the-western-front-blu-ray-release-date-set-for-march-and-april-2023/ |access-date=2023-02-27 |website=What's on Netflix |archive-date=February 27, 2023 |archive-url=https://web.archive.org/web/20230227105950/https://www.whats-on-netflix.com/news/all-quiet-on-the-western-front-blu-ray-release-date-set-for-march-and-april-2023/ |url-status=live }}</ref>
+
+==Reception==
+===Critical reception===
+{{Multiple image
+| perrow            = 2
+| total_width       = 330
+| image1            = James Friend 30Jun2023 FilmFest Munich Germany.jpg
+| image2            = Volker Bertelmann Nochtspeicher (cropped).jpg
+| footer            = [[James Friend]]'s cinematography and [[Volker Bertelmann]]'s score received widespread praise and earned them numerous accolades, including the awards for [[Academy Award for Best Cinematography|Best Cinematography]] and [[Academy Award for Best Original Score|Best Original Score]], respectively, at the [[95th Academy Awards]].
+}}
+
+{{Rotten Tomatoes prose|90|8.2|176|consensus=Both timely and timeless, ''All Quiet on the Western Front'' retains the power of its classic source material by focusing on the futility of war.|ref=yes|access-date=14 March 2023}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 76 out of 100, based on 37 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''All Quiet on the Western Front'' |url=https://www.metacritic.com/movie/all-quiet-on-the-western-front-2022 |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=28 October 2022 |archive-url= |archive-date= |url-status=}}</ref>
+
+Ben Kenigsberg, writing for ''[[The New York Times]]'', found the film to be less impressive than [[All Quiet on the Western Front (1930 film)|the 1930 version]], but appreciated the pounding soundtrack. He also praised the addition of a parallel plot tracking the armistice, even if it diverged from the [[first person narrative]] of the novel. He found the tweaked fate of the characters to be narratively powerful.<ref>{{Cite news |last=Kenigsberg |first=Ben |date=October 27, 2022 |title=''All Quiet on the Western Front'' Review: The Spectacle of War |work=[[The New York Times]] |url=https://www.nytimes.com/2022/10/27/movies/all-quiet-on-the-western-front-review.html |access-date=October 31, 2022 |issn=0362-4331 |archive-date=October 31, 2022 |archive-url=https://web.archive.org/web/20221031000123/https://www.nytimes.com/2022/10/27/movies/all-quiet-on-the-western-front-review.html/ |url-status=live }}</ref> [[Jamelle Bouie]] in ''The New York Times'' said the 2022 version missed the essence of the novel, which is not just antiwar, but also portrays the alienation and terrible toll even on those who come home. "Remarque is not as interested in the war and [[geopolitics]] as he is in the war as human absurdity made manifest." In a sequence of the 1930 film, omitted from the 2022 film, Paul comes home on leave and can't relate to former teachers and other adults. "You still think [[Dulce et decorum est pro patria mori|it's beautiful and sweet to die for your country]], don't you?" says Paul. "The first bombardment taught us better." According to Bouie, "The inclusion of this political subplot and the exclusion of Paul's return home transforms ''All Quiet on the Western Front'' from a psychological examination of the soldier's experience and a condemnation of war into a much simpler story of virtuous soldiers and cynical leaders who betrayed them."<ref name="NYT Bouie">{{cite news
+| author = Jamelle Bouie
+| title = When Filmmakers Don't Understand the Assignment
+| newspaper = The New York Times
+| date = December 17, 2022
+| url = https://www.nytimes.com/2022/12/17/opinion/all-quiet-on-the-western-front.html
+| access-date = December 18, 2022
+| archive-date = December 18, 2022
+| archive-url = https://web.archive.org/web/20221218042123/https://www.nytimes.com/2022/12/17/opinion/all-quiet-on-the-western-front.html
+| url-status = live
+}}</ref>
+
+[[Mark Kermode]] says that, although it is on Netflix, there is an excellent reason to see it in cinemas because it is "visually very, very impressive, overwhelming, and gruelling." "It is harrowing of course ... and it should be."<ref>{{Cite web |url=https://www.youtube.com/watch?v=FPXWuctU2DU |title=Mark Kermode reviews ''All Quiet on the Western Front'' – Kermode and Mayo's Take |website=[[YouTube]] |date=October 14, 2022 |access-date=January 19, 2023 |archive-date=January 19, 2023 |archive-url=https://web.archive.org/web/20230119093824/https://www.youtube.com/watch?v=FPXWuctU2DU |url-status=live }}</ref> Cultural historian Bethany Wyatt makes a case for its being the "finest First World War film to date". She claims that it "is faithful to the spirit of Remarque's novel".<ref name="historyextra.com">{{Cite web |first=Bethany |last=Wyatt |title=''All Quiet on the Western Front'' historian's review: An ambitious, visceral exploration of life and loss in WW1 |url=https://www.historyextra.com/period/first-world-war/all-quiet-on-the-western-front-film-historians-review/ |access-date=2023-01-23 |website=HistoryExtra |language=en |archive-date=January 19, 2023 |archive-url=https://web.archive.org/web/20230119094121/https://www.historyextra.com/period/first-world-war/all-quiet-on-the-western-front-film-historians-review/ |date=28 October 2022 |url-status=live }}</ref> Wyatt says "it is difficult to match the power of the 1930 ''All Quiet on the Western Front''{{'}}s conclusion," ... "but the 2022 adaptation succeeds in crafting its own elegy for the men who did not return home."<ref name="historyextra.com"/>
+
+Journalist Martin Schwickert of the [[RedaktionsNetzwerk Deutschland|RND]] media group called the film "frighteningly current" in light of the [[Russian invasion of Ukraine]], saying it "made plain what war means for those who have to fight it".<ref>{{cite news |title=Anti-war novel All Quiet On The Western Front revived through German eyes |url=https://www.straitstimes.com/life/entertainment/anti-war-novel-all-quiet-on-the-western-front-revived-through-german-eyes |work=The Straits Times |date=2 October 2022 |archive-date=October 2, 2022|archive-url=https://web.archive.org/web/20221002072520/https://www.straitstimes.com/life/entertainment/anti-war-novel-all-quiet-on-the-western-front-revived-through-german-eyes|url-status=live}}</ref> Producer [[Malte Grunert]] said the film tells the "story of a young man who falls prey to right-wing [[Nationalism|nationalist]] [[propaganda]] – believing that war is an adventure, and that they are on the right side. It is a timeless story, that we now see played out live in Ukraine."<ref>{{cite news |last1=Daunt |first1=Tina |title='All Quiet on the Western Front' Producer Sees Parallels With Young Russian Conscripts Sent to Ukraine as 'Cannon Fodder' |url=https://www.thewrap.com/all-quiet-on-the-western-front-parallels-russian-conscripts/ |work=[[TheWrap]] |date=6 March 2023|archive-date=March 7, 2023|archive-url=https://web.archive.org/web/20230307000011/https://www.thewrap.com/all-quiet-on-the-western-front-parallels-russian-conscripts/|url-status=live}}</ref>
+
+Filmmaker [[Kimberly Peirce]] praised Berger's direction, saying that he "captures the humanity of his narrative by depicting the devastating transformation of our protagonist from a godly beautiful innocent eager-to-fight young soldier to a grunt following every order still unable to stop the cascading loss of his friends, to a man unleashed, echoing the monster he was set to slay."<ref>{{cite news |title=Directors on Directors: Filmmakers Praise 2022 Favorites Including ‘Elvis,’ ‘White Noise’ and ‘Tár’ |url=https://variety.com/lists/directors-best-films-2022-wes-anderson-guillermo-del-toro-white-noise-elvis/ |work=[[Variety (magazine)|Variety]] |date=6 March 2025|archive-date=December 19, 2022|archive-url=https://web.archive.org/web/20221219170543/https://variety.com/lists/directors-best-films-2022-wes-anderson-guillermo-del-toro-white-noise-elvis/|url-status=live}}</ref> Filmmaker [[Rob Marshall]] and actress [[Dolly de Leon]] have both cited the film as among their favorites of the 21st century.<ref>{{cite web | url=https://www.nytimes.com/interactive/2025/movies/votes-movies-21st-century.html | title=Pedro Almódovar, Sofia Coppola and 121 Other Famous Names Share Their Top Movies of the 21st Century | work=The New York Times | date=June 25, 2025 |archive-date=June 23, 2025 |archive-url=https://web.archive.org/web/20250623014038/https://www.nytimes.com/interactive/2025/movies/votes-movies-21st-century.html|url-status=live}}</ref>
+
+Many German critics praised the action sequences but found fault with the film's considerable deviations from the book,<ref name="german critics"/><ref>{{cite news |url=https://www.theguardian.com/commentisfree/2023/feb/27/germans-all-quiet-on-the-western-front-novel-film |title=Germans are right to be incensed by ''All Quiet on the Western Front'': It paints them as the good guys |newspaper=The Guardian |date=27 February 2023 |last1=Barber |first1=Nicholas |access-date=2 March 2023 |archive-date=March 2, 2023 |archive-url=https://web.archive.org/web/20230302162917/https://www.theguardian.com/commentisfree/2023/feb/27/germans-all-quiet-on-the-western-front-novel-film |url-status=live }}</ref> which is required reading in many German schools.<ref>{{cite web |first=Eugen |last=Epp |date=6 November 2022 |work=[[Stern (magazine)|Stern]] |access-date=2 March 2023 |language=de |url=https://www.stern.de/kultur/tv/netflix--diese-szene-hat-den-regisseur-von--im-westen-nichts-neues--am-meisten-bewegt-32879700.html |title=Regisseur von ''Im Westen nichts Neues'' über eine Szene, die ihn besonders bewegt hat |archive-date=March 2, 2023 |archive-url=https://web.archive.org/web/20230302162919/https://www.stern.de/kultur/tv/netflix--diese-szene-hat-den-regisseur-von--im-westen-nichts-neues--am-meisten-bewegt-32879700.html |url-status=live }}</ref> As Britain's ''[[New Statesman]]'' summarised, "...in Germany, it is seen as shallow, cynical and 'horny for Oscars{{'"}}.<ref>{{Cite web |last=Cliffe |first=Jeremy |date=2023-02-20 |title=On the "war kitsch" of ''All Quiet on the Western Front'' |url=https://www.newstatesman.com/culture/film/2023/02/war-kitsch-all-quiet-on-the-western-front |access-date=2023-03-03 |website=New Statesman |archive-date=March 3, 2023 |archive-url=https://web.archive.org/web/20230303213852/https://www.newstatesman.com/culture/film/2023/02/war-kitsch-all-quiet-on-the-western-front |url-status=live }}</ref> Hubert Wetzel, writing in ''[[Süddeutsche Zeitung]]'', criticized the film's alterations to the book stating that "you have to ask yourself whether director Berger has even read Remarque's novel". He also criticizes that Berger added characters at will, omitted central characters and scenes, and changed the ending so that the title and content no longer had any connection to each other.<ref>{{cite web |url=https://www.sueddeutsche.de/kultur/im-westen-nichts-neues-netflix-roman-1.5683370 |title=''Im Westen nichts Neues'' bei Netflix: Schlammschlacht |newspaper=[[Süddeutsche Zeitung]] |date=29 October 2022 |first=Hubert |last=Wetzel |access-date=2 March 2023 |language=de |quote=...fragt man sich zuweilen, ob Regisseur Berger Remarques Roman überhaupt gelesen hat. |trans-title=''All Quiet on the Western Front'' on Netflix: A Mud Fight |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312042424/https://www.sueddeutsche.de/kultur/im-westen-nichts-neues-netflix-roman-1.5683370 |url-status=live }}</ref> The film also received negative reviews from ''[[Frankfurter Allgemeine Zeitung]]''.<ref>{{cite news |date=28 September 2022 |url=https://www.faz.net/aktuell/feuilleton/kino/im-westen-nichts-neues-kinofilm-will-geschichte-ohne-helden-sein-18346648.html |language=de |title=''Im Westen nichts Neues'': Ein Krieg aus dem Katalog |trans-title=''All Quiet on the Western Front'': A War from the Catalog |newspaper=[[Frankfurter Allgemeine Zeitung]] |access-date=2 March 2023 |last1=Kilb |first1=Andreas |archive-date=March 8, 2023 |archive-url=https://web.archive.org/web/20230308161314/https://www.faz.net/aktuell/feuilleton/kino/im-westen-nichts-neues-kinofilm-will-geschichte-ohne-helden-sein-18346648.html |url-status=live }}</ref> Military historian [[Sönke Neitzel]] praised the battle scenes as being more historically accurate than the previous adaptations but criticized the film for depicting soldiers being shot to prevent desertion, as only 48 German soldiers were officially executed for all causes during the war.<ref name="german critics">{{Cite news |first=Philip |last=Oltermann |url=https://www.theguardian.com/film/2023/jan/27/oscar-all-quiet-on-the-western-front-germany-critics |title=German critics pan Oscar-nominated ''All Quiet on the Western Front'' |date=January 27, 2023 |work=[[The Guardian]] |url-status=live |archive-url=https://web.archive.org/web/20230202025456/https://www.theguardian.com/film/2023/jan/27/oscar-all-quiet-on-the-western-front-germany-critics |archive-date=February 2, 2023}}</ref>
+
+==Legacy==
+In 2023, ''[[Collider (website)|Collider]]'' ranked it as the "Best Historical Epic of All Time".<ref>{{Cite web |last=Morgan |first=Chance |date=2023-03-29 |title=The 15 Best Historical Epics of All Time |url=https://collider.com/northman-to-gladiator-the-best-historical-epics/ |access-date=2024-01-14 |website=Collider |archive-date=May 14, 2022 |archive-url=https://web.archive.org/web/20220514225751/https://collider.com/northman-to-gladiator-the-best-historical-epics/|url-status=live}}</ref> ''[[MovieWeb]]'' ranked it at number 7 on its list of "The Best Anti-War Movies Ever Made".<ref>{{cite web | url=https://movieweb.com/best-anti-war-movies-ever-made/#all-quiet-on-the-western-front-2022 | title=The Best Anti-War Movies Ever Made | date=June 18, 2023 |archive-date=June 24, 2023 |archive-url=https://web.archive.org/web/20230624173034/https://movieweb.com/best-anti-war-movies-ever-made/#all-quiet-on-the-western-front-2022|url-status=live}}</ref><ref>{{cite web | url=https://movieweb.com/best-war-movies-last-10-years | title=Best War Movies from the Last 10 Years | date=November 8, 2023 |archive-date=October 21, 2025|archive-url=https://web.archive.org/web/20251021035331/https://movieweb.com/best-war-movies-last-10-years|url-status=live}}</ref> In 2025, it was one of the films voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century", finishing outside of the top hundred at number 310.<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |access-date=2 July 2025 |archive-date=July 2, 2025 |archive-url=https://web.archive.org/web/20250702200131/https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html|url-status=live|quote=Plus, for fun, here are the next 400 movies, as ranked by our readers.{{nbsp}}... 310. All Quiet on the Western Front}}</ref>
+
+==Accolades==
+Despite the film's positive reception, some German critics and diversity advocates criticized its deviations from the source material, accusing [[Netflix]] of producing it as "[[Oscar bait]]". The film faced strong competition from ''[[Decision to Leave]]'' and ''[[Everything Everywhere All at Once]]'' but managed to outperform them in major categories at the [[BAFTA Awards|BAFTA]] and [[Academy Awards]], while guild and critics' awards favored other contenders. Some critics also took issue with the director's alterations and omissions of key elements from the novel, arguing that these changes were made to increase the film's chances during awards season.<ref>{{Cite web |last=Tensley |first=Brandon |date=2023-03-07 |title=The Most Overrated Movie of This Oscars Season |url=https://www.theatlantic.com/culture/archive/2023/03/all-quiet-on-the-western-front-war-movie-2023-oscars/673305/ |access-date=2024-08-15 |website=The Atlantic |archive-date=March 7, 2023 |archive-url=https://web.archive.org/web/20230307222654/https://www.theatlantic.com/culture/archive/2023/03/all-quiet-on-the-western-front-war-movie-2023-oscars/673305/|url-status=live}}</ref><ref>{{Cite news |last=Schuman |first=Rebecca |date=2023-02-01 |title=Germans Are Right to Hate All Quiet on the Western Front |url=https://slate.com/culture/2023/02/all-quiet-western-front-netflix-movie-oscars.html |access-date=2024-08-15 |work=Slate |language=en-US |issn=1091-2339 |archive-date=February 1, 2023 |archive-url=https://web.archive.org/web/20230201220705/https://slate.com/culture/2023/02/all-quiet-western-front-netflix-movie-oscars.html|url-status=live}}</ref><ref>{{Cite web |date=2023-03-12 |title=No one noticed All Quiet on the Western Front. Now it's Netflix's best shot at Oscars |url=https://www.independent.co.uk/arts-entertainment/films/features/all-quiet-on-the-western-front-oscar-b2299097.html |access-date=2024-08-15 |website=The Independent |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312151037/https://www.independent.co.uk/arts-entertainment/films/features/all-quiet-on-the-western-front-oscar-b2299097.html|url-status=live}}</ref><ref>{{Cite web |last=Miftari |first=Gentrit |date=2022-11-02 |title=All Quiet on the Western Front is Exhaustive Oscar Bait |url=https://youthtimemag.com/all-quiet-on-the-western-front-is-exhaustive-oscar-bait/ |access-date=2024-08-15 |website=Youth Time Magazine: News that Inspires, Updates that Matter |archive-date=February 7, 2023 |archive-url=https://web.archive.org/web/20230207120930/https://youthtimemag.com/all-quiet-on-the-western-front-is-exhaustive-oscar-bait/|url-status=live}}</ref>
+{| class="wikitable sortable plainrowheaders" style="width: 100%;"
+|-
+! scope="col"| Award
+! scope="col"| Date of ceremony
+! scope="col"| Category
+! scope="col"| Recipient(s)
+! scope="col"| Result
+! scope="col" class="unsortable"| {{ref heading|multi=no}}
+|-
+! rowspan="2" scope="row" | [[National Board of Review]]
+| rowspan="2" | [[National Board of Review Awards 2022|December 8, 2022]]
+| [[National Board of Review: Top Five Foreign Language Films|Top Five Foreign Language Films]]
+| ''All Quiet on the Western Front''
+| {{won}}
+| align="center" rowspan="2" | <ref>{{cite web|url=https://www.indiewire.com/2022/12/2022-national-board-of-review-winners-top-gun-maverick-1234789853/|title=2022 National Board of Review Winners: 'Top Gun: Maverick' Takes Top Honor|website=[[IndieWire]]|first=Marcus|last=Jones|date=December 8, 2022|access-date=December 8, 2022|archive-date=December 8, 2022|archive-url=https://web.archive.org/web/20221208190829/https://www.indiewire.com/2022/12/2022-national-board-of-review-winners-top-gun-maverick-1234789853/|url-status=live}}</ref>
+|-
+| [[National Board of Review Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| [[Edward Berger]], [[Lesley Paterson]] and Ian Stokell
+| {{won}}
+|-
+! rowspan="2" scope="row" | [[European Film Awards]]
+| rowspan="2" | [[35th European Film Awards|December 10, 2022]]
+| [[European Film Award for Best Makeup and Hairstyling|Best Makeup and Hairstyling]]
+| Heike Merker
+| {{won}}
+| align="center" rowspan="2" | <ref>{{cite web|title=Congratulation to the winners of the Excellence Awards 2022!|url=https://europeanfilmawards.eu/en_EN/https%3A%2F%2Feuropeanfilmawards.eu%2Fen_EN%2Fexcellence-awards|access-date=23 November 2022|website=[[European Film Awards]]|archive-date=November 23, 2022|archive-url=https://web.archive.org/web/20221123095731/https://europeanfilmawards.eu/en_EN/https:%2F%2Feuropeanfilmawards.eu%2Fen_EN%2Fexcellence-awards|url-status=live}}</ref>
+|-
+| [[European Film Award for Best Visual Effects|Best Visual Effects]]
+| Frank Petzold, Viktor Müller and Markus Frank
+| {{won}}
+|-
+! scope="row" | [[Washington D.C. Area Film Critics Association]]
+| [[Washington D.C. Area Film Critics Association Awards 2022|December 12, 2022]]
+| [[Washington D.C. Area Film Critics Association Award for Best Foreign Language Film|Best International/Foreign Language Film]]
+| rowspan="3" | ''All Quiet on the Western Front''
+| {{nom}}
+| align="center" | <ref>{{cite web|url=https://awardswatch.com/washington-dc-film-critics-nominations-everything-everywhere-all-at-once-the-fabelmans-lead/|title=Washington DC Film Critics nominations: 'Everything Everywhere All At Once,' 'The Fabelmans' lead|website=AwardsWatch|first=Erik|last=Anderson|date=December 10, 2022|access-date=December 10, 2022|archive-date=December 21, 2022|archive-url=https://web.archive.org/web/20221221183143/https://awardswatch.com/washington-dc-film-critics-nominations-everything-everywhere-all-at-once-the-fabelmans-lead/|url-status=live}}</ref>
+|-
+! scope="row" | [[St. Louis Gateway Film Critics Association]]
+| [[St. Louis Gateway Film Critics Association Awards 2022|December 18, 2022]]
+| Best International Film
+| {{nom}}
+| align="center" | <ref>{{cite web|url=https://nextbestpicture.com/the-2022-st-louis-film-critics-association-stlfca-nominations/|title=The 2022 St. Louis Film Critics Association (StLFCA) Nominations|website=Next Best Picture|first=Matt|last=Neglia|date=December 11, 2022|access-date=December 11, 2022|archive-date=December 12, 2022|archive-url=https://web.archive.org/web/20221212033302/https://nextbestpicture.com/the-2022-st-louis-film-critics-association-stlfca-nominations/|url-status=live}}</ref>
+|-
+! scope="row" | [[Dallas–Fort Worth Film Critics Association]]
+| [[Dallas–Fort Worth Film Critics Association Awards 2022|December 19, 2022]]
+| Best Foreign Language Film
+| {{draw|4th place}}
+| align="center" | <ref>{{cite web|url=https://nextbestpicture.com/the-2022-dallas-fort-worth-film-critics-association-dfwfca-winners/|title=The 2022 Dallas Fort-Worth Film Critics Association (DFWFCA) Winners|website=Next Best Picture|first=Matt|last=Neglia|date=December 19, 2022|access-date=December 20, 2022|archive-date=December 20, 2022|archive-url=https://web.archive.org/web/20221220122714/https://nextbestpicture.com/the-2022-dallas-fort-worth-film-critics-association-dfwfca-winners/|url-status=live}}</ref>
+|-
+! scope="row" rowspan="2" | [[Alliance of Women Film Journalists]]
+| rowspan="2" | January 5, 2023
+| Best Screenplay, Adapted
+| Edward Berger, Lesley Paterson, Ian Stokell
+| {{nom}}
+| align="center" rowspan="2" | <ref>{{cite web |title=2022 EDA AWARDS NOMINEES |url=https://awfj.org/eda-awards-2/2022-eda-awards-categories/2022-eda-awards-nominees/ |access-date=December 23, 2022 |publisher=[[Alliance of Women Film Journalists]] |archive-date=December 23, 2022 |archive-url=https://web.archive.org/web/20221223170245/https://awfj.org/eda-awards-2/2022-eda-awards-categories/2022-eda-awards-nominees/ |url-status=live }}</ref>
+|-
+| Best Non-English Language Film
+| ''All Quiet on the Western Front''
+| {{nom}}
+|-
+! rowspan="3" scope="row" | [[San Diego Film Critics Society]]
+| rowspan="3" | [[San Diego Film Critics Society Awards 2022|January 6, 2023]]
+| [[San Diego Film Critics Society Award for Best Director|Best Director]]
+| Edward Berger
+| {{nom}}
+| align="center" rowspan="3" | <ref>{{cite web|url=https://www.sdfcs.org/2022-nominations/|title=2022 San Diego Film Critics Society Nominations|website=[[San Diego Film Critics Society]]|date=January 3, 2023|access-date=January 4, 2023|archive-date=January 3, 2023|archive-url=https://web.archive.org/web/20230103234434/https://www.sdfcs.org/2022-nominations/|url-status=live}}</ref>
+|-
+| [[San Diego Film Critics Society Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Edward Berger, Lesley Paterson and Ian Stokell
+| {{won}}
+|-
+| [[San Diego Film Critics Society Award for Best Foreign Language Film|Best International Film]]
+| rowspan="7" | ''All Quiet on the Western Front''
+| {{won}}
+|-
+! scope="row" | [[San Francisco Bay Area Film Critics Circle]]
+| [[San Francisco Bay Area Film Critics Circle Awards 2022|January 9, 2023]]
+| [[San Francisco Bay Area Film Critics Circle Award for Best Foreign Language Film|Best International Feature Film]]
+| {{nom}}
+| align="center" | <ref>{{cite web |url=https://nextbestpicture.com/the-2022-san-francisco-bay-area-film-critics-circle-sfbafcc-nominations/ |title=The 2022 San Francisco Bay Area Film Critics Circle (SFBAFCC) Nominations |last=Neglia |first=Matt |website=Next Best Picture |date=January 6, 2023 |access-date=January 6, 2023 |archive-date=January 6, 2023 |archive-url=https://web.archive.org/web/20230106230139/https://nextbestpicture.com/the-2022-san-francisco-bay-area-film-critics-circle-sfbafcc-nominations/ |url-status=live }}</ref>
+|-
+! scope="row" | [[Golden Globe Awards]]
+| [[80th Golden Globe Awards|January 10, 2023]]
+| [[Golden Globe Award for Best Foreign Language Film|Best Motion Picture – Foreign Language]]
+| {{nom}}
+| align="center" | <ref>{{cite web|url=https://variety.com/2022/tv/awards/golden-globes-nominations-list-nominees-2-1235455667/|title=Golden Globes 2023: Complete Nominations List|website=[[Variety (magazine)|Variety]]|first1=Brent|last1=Lang|first2=Jordan|last2=Moreau|date=December 12, 2022|access-date=December 12, 2022|archive-date=December 12, 2022|archive-url=https://web.archive.org/web/20221212183159/https://variety.com/2022/tv/awards/golden-globes-nominations-list-nominees-2-1235455667/|url-status=live}}</ref>
+|-
+! scope="row" | [[Georgia Film Critics Association]]
+| January 13, 2023
+| Best International Film
+| {{nom}}
+| align="center" | <ref>{{cite web|url=https://awardswatch.com/2022-georgia-film-critics-association-gafca-nominations/|title=2022 Georgia Film Critics Association (GAFCA) nominations|website=AwardsWatch|first=Erik|last=Anderson|date=January 7, 2023|access-date=January 7, 2023|archive-date=January 7, 2023|archive-url=https://web.archive.org/web/20230107172454/https://awardswatch.com/2022-georgia-film-critics-association-gafca-nominations/|url-status=live}}</ref>
+|-
+! scope="row" | [[Critics' Choice Movie Awards]]
+| [[28th Critics' Choice Awards|January 15, 2023]]
+| [[Critics' Choice Movie Award for Best Foreign Language Film|Best Foreign Language Film]]
+| {{nom}}
+| align="center" | <ref>{{cite web |last=Verhoeven |first=Beatrice |date=December 14, 2022 |title=''Everything Everywhere All At Once'' Leads 2023 Critics Choice Awards Film Nominations |url=https://www.hollywoodreporter.com/movies/movie-news/critics-choice-awards-2023-film-nominations-list-1235281602/ |url-status=live |archive-url=https://web.archive.org/web/20221214202755/https://www.hollywoodreporter.com/movies/movie-news/critics-choice-awards-2023-film-nominations-list-1235281602/ |archive-date=December 14, 2022 |access-date=December 14, 2022 |website=[[The Hollywood Reporter]]}}</ref>
+|-
+! scope="row" | [[Seattle Film Critics Society]]
+| [[2022 Seattle Film Critics Society Awards|January 17, 2023]]
+| Best Film Not in the English Language
+| {{nom}}
+| align="center" | <ref>{{cite web|url=https://seattlefilmcritics.com/2023/01/09/sfcs-2022-nominations/|title="Everything Everywhere All At Once" Leads the 2022 Seattle Film Critics Society Nominations|website=[[Seattle Film Critics Society]]|date=January 9, 2023|access-date=January 10, 2023|archive-date=January 14, 2023|archive-url=https://web.archive.org/web/20230114053845/http://seattlefilmcritics.com/2023/01/09/sfcs-2022-nominations/|url-status=live}}</ref>
+|-
+! scope="row" | [[Online Film Critics Society]]
+| [[Online Film Critics Society Awards 2022|January 23, 2023]]
+| [[Online Film Critics Society Award for Best Foreign Language Film|Best Film Not in the English Language]]
+| {{nom}}
+| align="center" | <ref>{{cite web |url=https://nextbestpicture.com/the-2022-online-film-critics-society-ofcs-winners/ |title=The 2022 Online Film Critics Society (OFCS) Winners |first=Matt |last=Neglia |website=Next Best Picture |date=January 23, 2023 |access-date=January 23, 2023 |archive-date=January 23, 2023 |archive-url=https://web.archive.org/web/20230123170624/https://nextbestpicture.com/the-2022-online-film-critics-society-ofcs-winners/ |url-status=live }}</ref>
+|-
+! scope="row"| [[British Society of Cinematographers]]
+| February 11, 2023
+| [[British Society of Cinematographers Award for Best Cinematography in a Theatrical Feature Film|Cinematography in a Feature Film]]
+| [[James Friend]]
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web |url=https://bscine.com/news?id=475 |title=Winners Announced for the 67th British Society of Cinematographers Awards |publisher=[[British Society of Cinematographers]] |date=14 February 2023 |access-date=15 February 2023 |archive-date=March 1, 2023 |archive-url=https://web.archive.org/web/20230301001740/https://bscine.com/news?id=475 |url-status=live }}</ref>
+|-
+! scope="row" | [[Vancouver Film Critics Circle]]
+| [[Vancouver Film Critics Circle Awards 2022|February 13, 2023]]
+| [[Vancouver Film Critics Circle Award for Best Foreign Language Film|Best Foreign Language Film]]
+| rowspan="2" | ''All Quiet on the Western Front''
+| {{Won}}
+| align="center" | <ref>{{cite web |url=https://nextbestpicture.com/the-2022-vancouver-film-critics-circle-vfcc-nominations/ |title=The 2022 Vancouver Film Critics Circle (VFCC) Nominations |last=Neglia |first=Matt |website=Next Best Picture |date=January 22, 2023 |access-date=January 23, 2023 |archive-date=January 22, 2023 |archive-url=https://web.archive.org/web/20230122174048/https://nextbestpicture.com/the-2022-vancouver-film-critics-circle-vfcc-nominations/ |url-status=live }}</ref>
+|-
+! scope="row" | [[Houston Film Critics Society]]
+| [[Houston Film Critics Society Awards 2022|February 18, 2023]]
+| Best Foreign Language Feature
+| {{nom}}
+| align="center" | <ref>{{cite web |url=https://preview.houstonchronicle.com/movies-tv/houston-film-critics-nominations-17708296 |title='Everything Everywhere,' 'Banshees of Inisherin' top list of Houston critics' nominations |last=Darling |first=Cary |website=[[Houston Chronicle]] |date=January 10, 2023 |access-date=January 11, 2023 |archive-date=January 12, 2023 |archive-url=https://web.archive.org/web/20230112214128/https://preview.houstonchronicle.com/movies-tv/houston-film-critics-nominations-17708296 |url-status=live }}</ref>
+|-
+! scope="row" | [[Art Directors Guild Awards]]
+| [[Art Directors Guild Awards 2022|February 18, 2023]]
+| [[Art Directors Guild Award for Excellence in Production Design for a Period Film|Excellence in Production Design for a Period Film]]
+| [[Christian M. Goldbeck]]
+| {{nom}}
+| align="center" | <ref>{{cite web|url=https://variety.com/2023/artisans/awards/art-directors-guild-2023-nominations-1235481698/|title='Elvis', 'Babylon', 'Avatar: The Way of Water' Lead Art Directors Guild 2023 Nominations|website=[[Variety (magazine)|Variety]]|first=Jazz|last=Tangcay|date=January 9, 2023|access-date=January 9, 2023|archive-date=January 9, 2023|archive-url=https://web.archive.org/web/20230109143052/https://variety.com/2023/artisans/awards/art-directors-guild-2023-nominations-1235481698/|url-status=live}}</ref>
+|-
+! rowspan="14" scope="row" | [[British Academy Film Awards]]
+| rowspan="14" | [[76th British Academy Film Awards|February 19, 2023]]
+| [[BAFTA Award for Best Film|Best Film]]
+| Malte Grunert
+| {{Won}}
+| align="center" rowspan="14" | <ref>{{Cite web |last1=Ravindran |first1=Manori |last2=Yossman |first2=K. J. |date=February 19, 2023 |title=''All Quiet on the Western Front'' Dominates BAFTA Awards With Record-Breaking Seven Wins |url=https://variety.com/2023/film/global/bafta-film-awards-2023-winners-1235528454/ |url-status=live |archive-url=https://web.archive.org/web/20230219220613/https://variety.com/2023/film/global/bafta-film-awards-2023-winners-1235528454/ |archive-date=February 19, 2023 |access-date=February 19, 2023 |website=[[Variety (magazine)|Variety]]}}</ref>
+|-
+| [[BAFTA Award for Best Direction|Best Director]]
+| Edward Berger
+| {{won}}
+|-
+| [[BAFTA Award for Best Actor in a Supporting Role|Best Actor in a Supporting Role]]
+| [[Albrecht Schuch]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Edward Berger, Lesley Paterson, Ian Stokell
+| {{won}}
+|-
+| [[BAFTA Award for Best Film Not in the English Language|Best Film Not in the English Language]]
+| Edward Berger, Malte Grunert
+| {{won}}
+|-
+| [[BAFTA Award for Best Casting|Best Casting]]
+| Simone Bär
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| [[James Friend]]
+| {{won}}
+|-
+| [[BAFTA Award for Best Costume Design|Best Costume Design]]
+| Lisy Christl
+| {{nom}}
+|-
+| [[BAFTA Award for Best Editing|Best Editing]]
+| Sven Budelmann
+| {{nom}}
+|-
+| [[BAFTA Award for Best Makeup and Hair|Best Make Up & Hair]]
+| Heike Merker
+| {{nom}}
+|-
+| [[BAFTA Award for Best Original Music|Best Original Score]]
+| [[Volker Bertelmann]]
+| {{won}}
+|-
+| [[BAFTA Award for Best Production Design|Best Production Design]]
+| Christian M. Goldbreck, Ernestine Hipper
+| {{nom}}
+|-
+| [[BAFTA Award for Best Sound|Best Sound]]
+| Lars Ginzsel, Frank Kruse, Viktor Prášil, Markus Stemler
+| {{won}}
+|-
+| [[BAFTA Award for Best Special Visual Effects|Best Special Visual Effects]]
+| Markus Frank, Kamil Jafar, Viktor Müller, Frank Petzoid
+| {{nom}}
+|-
+! scope="row" | [[Hollywood Critics Association|Hollywood Critics Association Awards]]
+| [[6th Hollywood Critics Association Film Awards|February 24, 2023]]
+| Best International Film
+| ''All Quiet on the Western Front''
+| {{nom}}
+| align="center" | <ref>{{cite web |url=https://awardswatch.com/6th-hollywood-critics-association-film-awards-nominations-everything-everywhere-all-at-one-the-banshees-of-inisherin-lead/ |title=6th Hollywood Critics Association Film Awards nominations: 'Everything Everywhere All At One', 'The Banshees of Inisherin' lead |first=Erik |last=Anderson |website=AwardsWatch |date=December 15, 2022 |access-date=December 16, 2022 |archive-date=December 15, 2022 |archive-url=https://web.archive.org/web/20221215224130/https://awardswatch.com/6th-hollywood-critics-association-film-awards-nominations-everything-everywhere-all-at-one-the-banshees-of-inisherin-lead/ |url-status=live }}</ref>
+|-
+! scope="row" | [[Motion Picture Sound Editors#Golden Reel Awards|Golden Reel Awards]]
+| [[Golden Reel Awards 2022|February 26, 2023]]
+| [[Golden Reel Award for Outstanding Achievement in Sound Editing – Sound Effects, Foley, Dialogue and ADR for Foreign Language Feature Film|Outstanding Achievement in Sound Editing – Foreign Language Feature]]
+| Frank Kruse, Markus Stemler, Alexander Buck, Benjamin Hörbe, Alexander Buck, Thomas Kalbér, Moritz Hoffmeister, Kuen Il Song, Carsten Richter, Daniel Weis
+| {{won}}
+| align="center" | <ref>{{cite web|url=https://variety.com/2023/artisans/awards/mpse-golden-reel-awards-nominations-2023-1235481720/|title='Everything Everywhere All At Once' Leads Sound Editors' Golden Reel Nominations|website=[[The Hollywood Reporter]]|first=Carolyn|last=Giardina|date=January 9, 2023|access-date=January 9, 2023|archive-date=January 9, 2023|archive-url=https://web.archive.org/web/20230109170102/https://variety.com/2023/artisans/awards/mpse-golden-reel-awards-nominations-2023-1235481720/|url-status=live}}</ref>
+|-
+! scope="row" | [[Cinema Audio Society Awards]]
+| [[Cinema Audio Society Awards 2022|March 4, 2023]]
+| [[Cinema Audio Society Award for Outstanding Achievement in Sound Mixing for a Motion Picture – Live Action|Outstanding Achievement in Sound Mixing for a Motion Picture – Live Action]]
+| Viktor Prášil, Lars Ginzel, Stefan Korte, Daniel Kresco, Jan Meyerdierks, Hanse Warns
+| {{nominated}}
+| align="center" | <ref>{{cite web|url=https://deadline.com/2023/01/cas-awards-nominations-2023-avatar-the-way-of-water-top-gun-maverick-elvis-1235215538/|title=Cinema Audio Society Awards Nominations Set: 'Avatar: The Way Of Water', 'Top Gun: Maverick', 'Elvis' & More|website=[[Deadline Hollywood]]|first=Erik|last=Pedersen|date=January 10, 2023|access-date=January 10, 2023|archive-date=January 10, 2023|archive-url=https://web.archive.org/web/20230110183021/https://deadline.com/2023/01/cas-awards-nominations-2023-avatar-the-way-of-water-top-gun-maverick-elvis-1235215538/|url-status=live}}</ref>
+|-
+! scope="row" | [[Cinema for Peace awards|Cinema for Peace Awards]]
+|February 24, 2023
+|The Most Valuable Film of The Year
+|Edward Berger
+|{{Won}}
+|<ref>{{Cite web |title=Cinema for Peace Nominations 2023 |url=https://www.cinemaforpeace-foundation.org/awards-2023|archive-date=May 25, 2023|archive-url=https://web.archive.org/web/20230525184901/https://www.cinemaforpeace-foundation.org/awards-2023|url-status=live}}</ref>
+|-
+! rowspan="9" scope="row" | [[Academy Awards]]
+| rowspan="9" | [[95th Academy Awards|March 12, 2023]]
+| [[Academy Award for Best Picture|Best Picture]]
+| Malte Grunert
+| {{nom}}
+| align="center" rowspan="9" | <ref name="oscarnoms">{{cite web |date=January 24, 2023 |title=95th Academy Awards Nominees |url=https://www.oscars.org/oscars/ceremonies/2023 |access-date=January 24, 2023 |publisher=[[Academy of Motion Picture Arts and Sciences]] |archive-date=January 24, 2023 |archive-url=https://web.archive.org/web/20230124140323/https://www.oscars.org/oscars/ceremonies/2023 |url-status=live }}</ref><ref name="oscarwins">{{cite web|url=https://www.theguardian.com/film/2023/mar/12/oscars-winners-2023-list-in-full-latest-awards-actor-best-picture|title=Oscars 2023: the full list of winners|work=[[The Guardian]]|date=March 12, 2023|accessdate=February 13, 2024|archive-date=March 13, 2023|archive-url=https://web.archive.org/web/20230313004207/https://www.theguardian.com/film/2023/mar/12/oscars-winners-2023-list-in-full-latest-awards-actor-best-picture|url-status=live}}</ref>
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| [[Edward Berger]], [[Lesley Paterson]] and Ian Stokell
+| {{nom}}
+|-
+| [[Academy Award for Best International Feature Film|Best International Feature Film]]
+| [[Germany]]
+| {{won}}
+|-
+| [[Academy Award for Best Original Score|Best Original Score]]
+| [[Volker Bertelmann]]
+| {{Won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Viktor Prášil]], [[Frank Kruse]], Markus Stemler, Lars Ginzel and Stefan Korte
+| {{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Production Design]]
+| [[Christian M. Goldbeck]] and Ernestine Hipper
+| {{Won}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[James Friend]]
+| {{Won}}
+|-
+| [[Academy Award for Best Makeup and Hairstyling|Best Makeup and Hairstyling]]
+| Heike Merker and Linda Eisenhamerová
+| {{Nominated}}
+|-
+| [[Academy Award for Best Visual Effects|Best Visual Effects]]
+| Frank Petzold, Viktor Müller, Markus Frank and Kamil Jafar
+| {{Nom}}
+|-
+!scope="row" rowspan="12"|[[German Film Award]]
+| rowspan="12"|May 12, 2023
+| [[German Film Award for Best Fiction Film|Best Film]]
+| Malte Grunert
+| {{nom}} (won Silver award)
+| rowspan="12"|<ref name="lolanoms">{{Cite web |last=Roxborough |first=Scott |date=March 24, 2023 |title=Oscar Winner 'All Quiet on the Western Front' Leads German Film Awards Nominations With 12 |url=https://www.hollywoodreporter.com/movies/movie-news/all-quiet-on-the-western-2023-german-film-awards-nominations-1235359877/ |website=[[The Hollywood Reporter]] |access-date=March 25, 2023 |archive-date=March 25, 2023 |archive-url=https://web.archive.org/web/20230325052206/https://www.hollywoodreporter.com/movies/movie-news/all-quiet-on-the-western-2023-german-film-awards-nominations-1235359877/ |url-status=live}}</ref><ref name="lolawins">{{cite web|url=https://www.hollywoodreporter.com/movies/movie-news/the-teachers-lounge-2023-german-film-awards-winners-list-1235485457/|title='The Teachers' Lounge' Takes Top Prize at 2023 German Film Awards, Beating Oscar Winner 'All Quiet on the Western Front'|last=Roxborough |first=Scott |date=May 12, 2023|website=[[The Hollywood Reporter]] |access-date=February 13, 2024|archive-date=May 12, 2023 |archive-url=https://web.archive.org/web/20230512211602/https://www.hollywoodreporter.com/movies/movie-news/the-teachers-lounge-2023-german-film-awards-winners-list-1235485457/|url-status=live}}</ref>
+|-
+| [[German Film Award for Best Director|Best Director]]
+| Edward Berger
+| {{nom}}
+|-
+| Best Actor
+| [[Felix Kammerer]]
+| {{Won}}
+|-
+| Best Supporting Actor
+| Albrecht Schuch
+| {{Won}}
+|-
+| Best Cinematography
+| James Friend
+| {{Won}}
+|-
+| Best Editing
+| Sven Budelmann
+| {{nom}}
+|-
+| Best Sound Design
+| Frank Kruse, Markus Stemler, Viktor Prášil, Lars Ginzel, Alexander Buck
+| {{Won}}
+|-
+| Best Score
+| Volker Bertelmann
+| {{Won}}
+|-
+| Best Set Design
+| [[Christian M. Goldbeck]] 
+| {{Won}}
+|-
+| Best Costume Design
+| Lisy Christl
+| {{nom}}
+|-
+| Best Hair and Make-Up
+| Heike Merker
+| {{Won}}
+|-
+| Best Visual Effects
+| Frank Petzold, Viktor Müller
+| {{Won}}
+|-
+! scope="row"| [[Location Managers Guild Awards]]
+| August 25, 2023
+| Outstanding Locations in a Period Film
+| Petr Růčka, Marek Řídel, Jan Ondrovčák
+| {{won}}
+| style="text-align:center;"| <ref>{{cite news |last1=Anderson |first1=Erik |title=10th Location Managers Guild International Awards Winners: 'John Wick 4,' 'All Quiet on the Western Front,' '1923,' 'The Last of Us,' 'The White Lotus' |url=https://awardswatch.com/10th-location-managers-guild-international-awards-winners-john-wick-4-all-quiet-on-the-western-front-1923-the-last-of-us-the-white-lotus/ |publisher=Awards Watch |date=August 27, 2023|archive-date=August 27, 2023 |archive-url=https://web.archive.org/web/20230827175123/https://awardswatch.com/10th-location-managers-guild-international-awards-winners-john-wick-4-all-quiet-on-the-western-front-1923-the-last-of-us-the-white-lotus/|url-status=live}}</ref>
+|-
+|}
+
+==See also==
+* [[List of submissions to the 95th Academy Awards for Best International Feature Film]]
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title}}
+* {{Netflix title}}
+* [https://deadline.com/wp-content/uploads/2023/01/All-Quiet-On-The-Western-Front-Read-The-Screenplay.pdf Official screenplay] (in English)
+{{Wikiquote}}
+
+
+{{All Quiet on the Western Front}}
+{{Edward Berger}}
+{{German submission for Academy Awards}}
+{{Navboxes
+|title = Awards for ''All Quiet on the Western Front''
+|list =
+{{Academy Award Best Foreign Language Film}}
+{{BAFTA Best Film}}
+{{BAFTA Best Foreign Language Film}}
+{{IFTA Award for Best International Film}}
+{{San Diego Film Critics Society Award for Best Foreign Language Film}}
+{{Vancouver Film Critics Circle Award for Best Foreign Language Film}}}}
+
+[[Category:2022 films]]
+[[Category:2022 German films]]
+[[Category:2022 German-language films]]
+[[Category:2022 historical drama films]]
+[[Category:2022 war drama films]]
+[[Category:All Quiet on the Western Front]]
+[[Category:Anti-war films about World War I]]
+[[Category:Best Film BAFTA Award winners]]
+[[Category:Best International Feature Film Academy Award winners]]
+[[Category:Best Foreign Language Film BAFTA Award winners]]
+[[Category:Films based on German novels]]
+[[Category:Films based on works by Erich Maria Remarque]]
+[[Category:Films scored by Volker Bertelmann]]
+[[Category:Films directed by Edward Berger]]
+[[Category:Films set in 1917]]
+[[Category:Films set in 1918]]
+[[Category:Films shot in Prague]]
+[[Category:Films that won the Best Original Score Academy Award]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:German historical drama films]]
+[[Category:German-language war films]]
+[[Category:Netflix original films]]
+[[Category:German war drama films]]
+[[Category:German World War I films]]
+[[Category:World War I films set on the Western Front]]

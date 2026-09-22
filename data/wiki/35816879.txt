@@ -1,0 +1,781 @@
+{{Short description|2013 film by Bong Joon Ho}}
+{{About|the film|the graphic novels|Snowpiercer (graphic novel series){{!}}''Snowpiercer'' (graphic novel series)|the TV series|Snowpiercer (TV series){{!}}''Snowpiercer'' (TV series)}}
+{{Use American English|date=August 2024}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox film
+| native_name    = {{Infobox Korean film name|hangul=^설국@열차<!-- Do NOT change this; @ because pronounced [설궁녈차] -->|hanja=雪國列車}}
+| image          = Snowpiercer poster.jpg
+| alt            = The main protagonist appearing with other supporting characters.
+| caption        = US theatrical release poster
+| director       = [[Bong Joon Ho]]
+| screenplay     = {{Plainlist|
+* Bong Joon Ho
+* [[Kelly Masterson]]
+}}
+| story          = Bong Joon Ho
+| based_on       = {{Based on|''[[Le Transperceneige]]''|[[Jacques Lob]]|{{quad}}Benjamin Legrand|{{quad}}[[Jean-Marc Rochette]]}}
+| producer       = {{Plainlist|
+* Jeong Tae-sung
+* Steven Nam
+* [[Park Chan-wook]]
+* Lee Tae-hun
+}}
+| starring       = {{Plainlist|
+* [[Chris Evans (actor)|Chris Evans]]
+* [[Song Kang-ho]]
+* [[Tilda Swinton]]
+* [[Jamie Bell]]
+* [[Octavia Spencer]]
+* [[Ewen Bremner]]
+* [[Go Ah-sung]]
+* [[John Hurt]]
+* [[Ed Harris]]
+<!--- Per billing block --->
+}}
+| cinematography = [[Hong Kyung-pyo]]
+| editing        = {{Plainlist|
+* Steve M. Choe
+* [[Kim Chang-ju (film editor)|Kim Chang-ju]]
+}}
+| music          = [[Marco Beltrami]]
+| production_companies = {{Plainlist|
+* [[CJ Entertainment]]<ref name="THRreview"/>
+* Moho Film<ref name="THRreview"/>
+* Opus Pictures<ref name="THRreview"/>
+* [[Stillking Films]]<ref name="THRreview"/>
+}}
+| distributor    = {{Plainlist|
+* CJ Entertainment (South Korea)
+* [[Radius-TWC]] (United States)
+* [[Le Pacte]] and Wild Side Films (France)<ref>{{cite web |last=Lee |first=Hyo-won |title=South Korea's 'Snowpiercer' Blazes Through French Box Office |url=https://www.hollywoodreporter.com/news/general-news/south-koreas-snowpiercer-blazes-french-653747/ |website=[[The Hollywood Reporter]] |publisher=[[Penske Media Corporation]] |access-date=21 August 2024 |date=5 November 2013}}</ref>
+* [[Bontonfilm]] (Czech Republic)}}
+| released       = {{Film date|df=yes|2013|07|29|[[Times Square (shopping mall)|Times Square]]|2013|8|1|South Korea|2013|10|30|France|2014|6|27|United States|2016|4|27|Czech Republic}}
+| runtime        = 126 minutes
+| country        = {{Plainlist|
+* South Korea<ref name="VarietyReview">{{cite web |last=Foundas |first=Scott |title=Film Review: 'Snowpiercer' |url=https://variety.com/2013/film/reviews/snowpiercer-review-1200565998/ |website=[[Variety (magazine)|Variety]] |publisher=[[Penske Media Corporation]] |access-date=21 August 2024 |date=22 July 2013}}</ref><ref name="LePacte">{{cite web |title=Snowpiercer, Le Transperceneige |url=https://le-pacte.com/france/film/snowpiercer-le-transperceneige |website=[[Le Pacte]] |date=30 October 2013 |access-date=21 August 2024}}</ref>
+* United States<ref name="VarietyReview"/><ref name="LePacte"/>
+* France<ref name="VarietyReview"/><ref name="LePacte"/>
+* Czech Republic<ref name="lumiere">{{cite web|url=http://lumiere.obs.coe.int/web/film_info/?id=43266|title=Snowpiercer|work=LUMIERE|publisher=[[European Audiovisual Observatory]]|access-date=24 May 2016}}</ref><ref name="LePacte"/>
+}}
+| language       = {{Plainlist|
+* English<ref>{{cite web |url=https://www.bbfc.co.uk/releases/snowpiercer-vod |archive-url=https://web.archive.org/web/20190118171153/http://www.bbfc.co.uk/releases/snowpiercer-vod |url-status=dead |archive-date=18 January 2019 |title=SNOWPIERCER|publisher=[[British Board of Film Classification]]|access-date=10 April 2020}}</ref>
+* Korean<ref name="koreanfilm" />
+}}
+| budget         = $40 million<ref>{{cite news|title=What The Economics Of 'Snowpiercer' Say About The Future Of Film|url=https://www.forbes.com/sites/dorothypomerantz/2014/09/08/what-the-economics-of-snowpiercer-say-about-the-future-of-film/|access-date=9 June 2014|newspaper=[[Forbes]]|date=9 June 2014|url-status=live|archive-url=https://web.archive.org/web/20140910030008/http://www.forbes.com/sites/dorothypomerantz/2014/09/08/what-the-economics-of-snowpiercer-say-about-the-future-of-film/|archive-date=10 September 2014 |quote=roughly $40 million }}</ref>
+| gross          = $86.8 million<ref>{{cite news|title=Snowpiercer (2014)|url=https://www.boxofficemojo.com/movies/?id=snowpiercer.htm|date=1 August 2013|newspaper=[[Box Office Mojo]]|access-date=21 December 2014|url-status=live|archive-url=https://web.archive.org/web/20150104110618/http://www.boxofficemojo.com/movies/?id=snowpiercer.htm|archive-date=4 January 2015}}</ref>
+}}
+'''''Snowpiercer''''' ({{Korean/auto|hangul=^설국@열차<!-- Do NOT change this; @ because pronounced [설궁녈차] -->|hanja=雪國列車|rr=yes}}) is a 2013 [[Apocalyptic and post-apocalyptic fiction|post-apocalyptic]] [[action thriller film]] based on the French [[climate fiction]] graphic novel ''[[Le Transperceneige]]'' by [[Jacques Lob]], Benjamin Legrand and [[Jean-Marc Rochette]].<ref name="fba-review">{{cite web |url=http://www.filmbiz.asia/reviews/snowpiercer |work=[[Film Business Asia]] |title=Snowpiercer |author=Elley, Derek |access-date=3 February 2014 |date=2 February 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140221011401/http://www.filmbiz.asia/reviews/snowpiercer |archive-date=21 February 2014}}</ref> The film was directed by [[Bong Joon Ho]]<ref>{{cite web|author=Young-gyo, Kim |title=Film adaptation of French dystopian comic to go global: Bong |url=http://english.yonhapnews.co.kr/Features/2008/05/27/93/0801000000AEN20080526006100315F.HTML |work=[[Yonhap]] |date=27 May 2008 |access-date=11 October 2012 |url-status=live |archive-url=https://web.archive.org/web/20120209085122/http://english.yonhapnews.co.kr/Features/2008/05/27/93/0801000000AEN20080526006100315F.HTML |archive-date=9 February 2012}}</ref><ref>{{cite web|url=https://collider.com/exclusive-bong-joon-ho-talks-about-his-next-film-snow-piercer/ |title=Exclusive: Bong Joon-ho Talks About His Next Film SNOW PIERCER |author=Weintraub, Steve |date=12 October 2009 |work=Collider.com |url-status=live |archive-url=https://web.archive.org/web/20120122010921/http://collider.com/exclusive-bong-joon-ho-talks-about-his-next-film-snow-piercer/9141/ |archive-date=22 January 2012 |access-date=30 June 2011}}</ref> and written by Bong and [[Kelly Masterson]]. An international co-production, the film marks Bong's English-language debut; almost 85% of the film's dialogue is in English.<ref>{{cite web|last=Paquet |first=Darcy |title=What SNOWPIERCER Means to the Korean Film Industry: PART 1&nbsp;– The summit of KOREAN Film's ambition |url=http://koreanfilm.or.kr/webzine/sub/news.jsp?mode=A_VIEW&wbSeq=218 |work=Korean Cinema Today |access-date=7 June 2013 |date=30 April 2013 |url-status=live |archive-url=https://web.archive.org/web/20131013221629/http://koreanfilm.or.kr/webzine/sub/news.jsp?mode=A_VIEW&wbSeq=218 |archive-date=13 October 2013}}</ref><ref name="koreanfilm2">{{cite web|last=Bechervaise |first=Jason |title=BONG Joon-ho, Director of SNOWPIERCER: PART 2&nbsp;– INTERVIEW "I wanted to make a very exciting train and sci-fi movie" |url=http://koreanfilm.or.kr/webzine/sub/interview.jsp?mode=A_VIEW&wbSeq=45 |work=Korean Cinema Today |access-date=7 June 2013 |date=30 April 2013 |url-status=live |archive-url=https://web.archive.org/web/20131012005645/http://koreanfilm.or.kr/webzine/sub/interview.jsp?mode=A_VIEW&wbSeq=45 |archive-date=12 October 2013}}</ref>
+
+The film stars [[Chris Evans (actor)|Chris Evans]], [[Song Kang-ho]], [[Tilda Swinton]], [[Jamie Bell]], [[Octavia Spencer]], [[Go Ah-sung]], [[John Hurt]], and [[Ed Harris]], with [[Park Chan-wook]] and Lee Tae-hun among the film's producers. It takes place aboard the ''Snowpiercer'' train as it travels a globe-encircling track, carrying the last remnants of humanity after a failed attempt at [[climate engineering]] to stop [[global warming]] has created a new [[Snowball Earth]]. Evans stars as Curtis Everett, leader of the lower-class tail-section passengers, as they rebel against the elite of the front of the train. Filming took place at [[Barrandov Studios]] in Prague, using train car sets mounted on [[gimbal]]s to simulate the train's motion.
+
+''Snowpiercer'' received critical acclaim and appeared on many film critics' top ten lists of 2014 after its international release, with praise for its vision, direction, and performances, particularly by Evans and Swinton. In the United States, the film was initially planned for a limited-screen showing, but the critical response prompted [[The Weinstein Company]] to expand the showing to more theaters and to digital streaming services. With a budget of $40 million, it remains one of the most expensive South Korean productions ever.<ref>{{cite web|url=https://www.hollywoodreporter.com/news/south-koreas-polarizing-film-market-865018 |title=South Korea's Polarizing Film Market: Can Mid-Budget Genre Movies Survive? |author=Lee Hyo-won |work=[[The Hollywood Reporter]] |date=13 February 2016 |access-date=14 February 2016 |url-status=live |archive-url=https://web.archive.org/web/20160214220037/http://www.hollywoodreporter.com/news/south-koreas-polarizing-film-market-865018 |archive-date=14 February 2016}}</ref><ref>{{cite web|date=2020-09-21|title=The 7 most expensive K-drama shows to ever hit your screens|url=https://www.scmp.com/magazines/style/news-trends/article/3102331/most-expensive-k-drama-ever-netflixs-king-criminal|access-date=2020-12-31|website=South China Morning Post|language=en}}</ref> The fourth volume of the original ''Snowpiercer'' graphic novel series, ''[[Snowpiercer (graphic novel series)#Terminus|Snowpiercer: Terminus]]'', published in 2019, serves as a sequel to the film, establishing it as being set in the same continuity as the original graphic novels. The film was also the basis for a [[Snowpiercer (TV series)|television series]] set in a different continuity that aired from 2020 to 2024, with Bong, Park and Lee serving as executive producers.
+
+{{TOC limit|3}}
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films are 400 to 700 words only. -->
+In 2031, 17 years after an attempt to stop [[climate change]] via [[stratospheric aerosol injection]] with the compound CW-7 catastrophically backfired, creating a new [[ice age]] that destroyed life on Earth, the remnants of humanity shelter in a state-of-the-art self-sustaining circumnavigational train, the ''Snowpiercer'', run by reclusive transportation magnate Wilford. The passengers on the train are segregated, with the elite in the extravagant front cars and the poor crammed into squalid tail compartments overseen by armed guards. 
+
+Urged by his mentor Gilliam, Curtis Everett and his second-in-command, Edgar, lead the tail passengers in a revolt. They discover that the guards have no ammunition and overwhelm them, freeing Namgoong Minsoo, a captive security specialist. For his assistance, they bribe him with Kronole, an addictive drug made from industrial waste. Namgoong also insists that his clairvoyant daughter, Yona, be freed. Curtis and his fellow revolutionaries discover that the protein bars they were being fed were made of dead [[Cockroach|cockroaches]]. Namgoong helps the tail mob advance, but they face guards armed with melee weapons and overseen by Minister Mason. Edgar is held hostage, but Curtis allows him to be killed to capture Mason, forcing her to order the remaining guards to surrender. The tail mob stays back, holding the guards captive, while Curtis takes Mason, Namgoong, Yona, skilled fighter Grey, and Tanya and Andrew (two parents who had their children taken from them) towards the front of the train.
+
+Curtis's group travels through several opulent cars. Namgoong and Yona recognize a landmark outside and speculate that the ice may be thawing more and more with every passing year. The group reaches a schoolroom, where a teacher is indoctrinating the children on Wilford's greatness. A bald man brings eggs for the children to celebrate the train's eighteenth circumnavigation of the Earth. Then the bald man goes to the tail army and shoots them with automatic firearms hidden under the eggs. The captured guards are freed, as is Mason's henchman, Franco. The teacher, who received a gun from the bald man, kills Andrew before Grey kills her. Franco broadcasts to the classroom his execution of Gilliam, which prompts Curtis to execute Mason in turn. Curtis's group moves on, but Franco catches up with them, killing Grey and Tanya. Franco is then seemingly killed by Curtis and Namgoong.
+
+In the last compartment before the engine, Namgoong reveals that he collected the Kronole to use it as an explosive to escape the train with Yona, believing they can now survive outside, pointing out the melting ice. Curtis explains that in the early days of the train, the tail section resorted to cannibalism. Edgar was an infant when Curtis killed his mother, and Curtis was going to eat him when Gilliam offered his severed arm instead, stopping the bloodshed. Curtis wants to confront Wilford for causing such horrors. Wilford's assistant, Claude, emerges from behind the engine room door to invite Curtis inside.
+
+Curtis meets Wilford and, to his shock, learns that he and Gilliam conspired to stage Curtis's rebellion to reduce the tail section's population to sustainable levels. After ordering the execution of most of the tail section residents, Wilford offers Curtis his position leading the train. Curtis appears ready to accept as Yona overpowers Claude, rushes in, and asks for a match. In desperation, she pulls open a floorboard to reveal Tanya's son, Timmy, who has been enslaved to work as a replacement for a broken machine part. Appalled, Curtis pummels Wilford and rescues Timmy from the machinery, losing his arm in the process. Andy, Andrew's missing son, crawls out of a nook and climbs into the engine core despite Curtis's pleas. Curtis gives Yona the match to light the fuse for the Kronole bomb, while Namgoong fights and kills Franco, who followed them. Damaged by the fighting, the door to the engine room cannot be closed, forcing Curtis and Namgoong to use their bodies to protect Yona and Timmy from the blast.
+
+The explosion triggers an avalanche that derails the train and wrecks it. Curtis and Namgoong are unresponsive, so Yona and Timmy escape the wreckage. They see a polar bear in the distance, indicating that life exists outside the train and has not died out, as they were always led to believe.
+
+== Cast ==
+* [[Chris Evans (actor)|Chris Evans]] as Curtis Everett: <br> The leader of the revolution.<ref name="slashfilm.com"/><ref name="ReferenceB"/><ref name="RADiUS-TWC Snowpiercer Press Notes">{{cite news|title=RADiUS-TWC Snowpiercer Press Notes |url=http://andy-bailey.net/wp-content/uploads/2014/06/SNOWPIERCER-Press-Notes-FINAL.pdf |access-date=25 June 2014 |newspaper=[[RADiUS-TWC]] |date=25 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20141006092136/http://andy-bailey.net/wp-content/uploads/2014/06/SNOWPIERCER-Press-Notes-FINAL.pdf |archive-date=6 October 2014}}</ref> About the character of Curtis, Evans said, "I mean, for me, the tail section is, I think that's Curtis. I think that's who he is. The tail section is hard; it's grinding; it's tough; it's real. So that's where I had the most fun. Back there."<ref>{{cite news|title=Comic-Con: Chris Evans and Co-Producer Dooho Choi Talk SNOWPIERCER, Elaborate Fight Scenes, the Distribution Model, and More |url=https://collider.com/chris-evans-snowpiercer-interview/ |access-date=31 July 2014 |newspaper=Collider |date=31 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140802195402/http://collider.com/chris-evans-snowpiercer-interview |archive-date=2 August 2014}}</ref> Casting directors suggested Evans to Bong, who initially had misconceptions of Evans before they met due to the "caricature of the American all muscle", but quickly departed from that notion and described Evans as "actually very sensitive and has a quiet and introverted side. He's a very, very smart person, and he's a director."<ref>{{cite news|title=Deauville 2013: The director of "Transperceneige" had "prejudiced against Chris Evans" |url=http://www.allocine.fr/article/fichearticle_gen_carticle=18626766.html |access-date=7 September 2013 |newspaper=Allocine |date=7 September 2013 |url-status=live |archive-url=https://web.archive.org/web/20130909055757/http://www.allocine.fr/article/fichearticle_gen_carticle%3D18626766.html |archive-date=9 September 2013}}</ref> Bong was introduced to the films ''[[Puncture (film)|Puncture]]'' and ''[[Sunshine (2007 film)|Sunshine]]'' where he described Evans's performances as showing his "sensitive acting abilities". Bong and Evans spent months talking about the dialogue, and Bong received help from the cast and crew including Evans due to it being his first English language film.<ref name="collider.com">{{cite news|title=Bong Joon-ho Talks SNOWPIERCER, Casting Chris Evans, Being a "Control Freak", His Desire to Return to Smaller Budget Movies, and More |url=https://collider.com/bong-joon-ho-snowpiercer-interview/ |access-date=26 June 2014 |newspaper=Collider |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140625092208/http://collider.com/bong-joon-ho-snowpiercer-interview/ |archive-date=25 June 2014}}</ref> Bong said that for the role of Curtis, hiding Evans's muscular physique was the most difficult thing about working with the actor, explaining, "He's supposed to be in the poor tail section for 17 years, eating only protein blocks, and it was tricky to hide all of that muscle mass with costume and make-up."<ref>{{cite news|title=Bong Joon-ho Talks SNOWPIERCER, Casting Chris Evans, Being a "Control Freak", His Desire to Return to Smaller Budget Movies, and More |url=https://collider.com/bong-joon-ho-snowpiercer-interview/ |access-date=25 June 2014 |newspaper=Collider |date=25 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140625092208/http://collider.com/bong-joon-ho-snowpiercer-interview/ |archive-date=25 June 2014}}</ref> On whether he was surprised by the fan response, Evans said, "I've been surprised about everything about this movie. Every movie you make, you hope people will enjoy it, but this movie has surpassed all of my expectations across the board."<ref>{{cite news|title=Chris Evans talks 'Snowpiercer' controversy and inspiration at SDCC more |url=http://www.hypable.com/2014/07/26/chris-evans-snowpiercer-controversy-sdcc/ |access-date=26 July 2014 |newspaper=Hypable |date=26 July 2014 |url-status=live |archive-url=https://archive.today/20140927152411/http://www.hypable.com/2014/07/26/chris-evans-snowpiercer-controversy-sdcc/ |archive-date=27 September 2014}}</ref><ref>{{cite news|title=Comic-Con 2014: Chris Evans Talking About 'Snowpiercer' |url=http://www.latino-review.com/news/comic-con-2014-chris-evans-talking-about-snowpiercer |access-date=31 July 2013 |newspaper=Latino Review |date=31 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140806203328/http://www.latino-review.com/news/comic-con-2014-chris-evans-talking-about-snowpiercer |archive-date=6 August 2014}}</ref>
+* [[Song Kang-ho]] as Namgoong Minsoo: <br> The specialist who designed the security features on the train.<ref name="slashfilm.com">{{cite news|title=Character Passports Introduce the Inhabitants of Bong Joon-ho's 'Snowpiercer' |url=https://www.slashfilm.com/character-passports-introduce-the-inhabitants-of-bong-joon-hos-snowpiercer/ |access-date=5 April 2013 |newspaper=SlashFilm |date=5 April 2013 |url-status=live |archive-url=https://web.archive.org/web/20130408074352/http://www.slashfilm.com/character-passports-introduce-the-inhabitants-of-bong-joon-hos-snowpiercer/ |archive-date=8 April 2013}}</ref><ref name="ReferenceB">{{cite news|title=Snowpiercer Press Notes |url=http://andy-bailey.net/portfolio/snowpiercer-press-notes |access-date=25 June 2014 |newspaper=Andy Bailey |date=25 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20141006093831/http://andy-bailey.net/portfolio/snowpiercer-press-notes |archive-date=6 October 2014}}</ref><ref name="RADiUS-TWC Snowpiercer Press Notes" /> On taking the role, Song said, "This was the third time I worked with director Bong, and working with director Bong is a wonderful experience.... [T]his time around, working with the wonderful cast members was a tremendous experience."<ref name="ReferenceC">{{cite news|title=Song Kang Ho and Ko Asung Talk SNOWPIERCER, Working with Director Bong Joon Ho, Reuniting to Play Father and Daughter & Working with Hollywood Stars |url=https://collider.com/song-kang-ho-ko-asung-snowpiercer-interview/ |access-date=29 June 2014 |newspaper=Collider |date=29 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140701051900/http://collider.com/song-kang-ho-ko-asung-snowpiercer-interview/ |archive-date=1 July 2014}}</ref><ref>{{cite news|title=Fright Exclusive Interview with Snowpiercer's Song Kang-ho and Ko Ah-sung!! |url=http://iconsoffright.com/2014/06/26/fright-exclusive-interview-with-snowpiercers-song-kang-ho-and-ko-asung/ |access-date=26 June 2014 |newspaper=Icons of Fright |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140709085239/http://iconsoffright.com/2014/06/26/fright-exclusive-interview-with-snowpiercers-song-kang-ho-and-ko-asung/ |archive-date=9 July 2014}}</ref> Describing Namgoong, Bong said, "He sets up the ending, because he has a vision about this world that's different from Curtis's. He has a desire to go outside of the train."<ref name="esquire.com">{{cite news|title=The Man Behind the Greatest Thriller of the Summer |url=http://www.esquire.com/blogs/culture/bong-joon-ho-snowpiercer-interview |access-date=27 June 2014 |newspaper=[[Esquire (magazine)|Esquire]] |date=27 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140628044700/http://www.esquire.com/blogs/culture/bong-joon-ho-snowpiercer-interview |archive-date=28 June 2014}}</ref> On the name of the character, Bong stated, "I was looking for a name that would be most difficult for foreigners to pronounce. Namgoong ... it is difficult. There are some name-related jokes in the film."<ref>{{cite news|title=Bong Joon-ho "may Nam Gung Min, deliberately sought hard to name"|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=108&aid=0002230922|access-date=4 July 2013|newspaper=[[Naver]]|date=4 July 2013}}</ref> Song plays a character who only speaks Korean, and although as difficult as it was, he said, "at the same time, it was very refreshing and fun to do".<ref name="ReferenceC" />
+* [[Ed Harris]] as Wilford: <br> The creator and caretaker of the engine.<ref name="slashfilm.com" /><ref name="ReferenceB" /> [[Dustin Hoffman]] was considered for the role.<ref>{{cite news|title=40 Trivia of Snowpiercer |url=http://bj.bendibao.com/live/2014310/138645_2.shtm |access-date=8 April 2014 |newspaper=Bendibao |date=8 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20141009200538/http://bj.bendibao.com/live/2014310/138645_2.shtm |archive-date=9 October 2014}}</ref> About the character, Harris said, "He's so built up, who this guy is, and then there's this big thing open, and he's just this old guy making dinner with his robe on, but director Bong really wanted him to be matter-of-fact and very mundane, and simple, and kind of freaky that way."<ref name="iconsoffright.com">{{cite news|title=Fright Exclusive Interview with Snowpiercer Star Ed Harris! |url=http://iconsoffright.com/2014/06/24/fright-exclusive-interview-with-ed-harris/ |access-date=24 June 2014 |newspaper=Icons of Fright |date=24 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140625101057/http://iconsoffright.com/2014/06/24/fright-exclusive-interview-with-ed-harris/ |archive-date=25 June 2014}}</ref> Harris also added that the character is "probably a coagulation of various folks".<ref name="iconsoffright.com" /> The role of Wilford was the last to be cast, and it was friend and fellow filmmaker [[Park Chan-Wook]] who suggested Harris for the role.<ref>{{cite news|title=Ed Harris Talks PHANTOM, Working in an Actual Submarine, Plus PAIN & GAIN, SNOWPIERCER and 4 ½ MINUTES |url=https://collider.com/ed-harris-phantom-snowpiercer-interview/ |access-date=2 March 2013 |newspaper=Collider |date=2 March 2013 |url-status=live |archive-url=https://web.archive.org/web/20130304133733/http://collider.com/ed-harris-phantom-snowpiercer-interview/ |archive-date=4 March 2013}}</ref> Bong stated that Wilford needed to be played by someone with "tremendous presence and performance from the first moment that he appeared in order to convince the audience", adding that "[Harris] turned Wilford into a lively and ironic character with added appeal."<ref name="RADiUS-TWC Snowpiercer Press Notes" /> On taking the role of Wilford, Harris mentioned, "When I was sent this script, I was told director Bong is a Korean director, and that he'd made some other films, but I had never seen any of them ... I thought they were wonderfully accomplished films, which really made me want to work with the guy. I'm a big fan of his."<ref name="collider">{{cite news|title=Ed Harris Talks SNOWPIERCER, Joining the Film, Being a Fan of Bong Joon Ho and His Unusual Shooting Style, Editing While Shooting, and Working with Chris Evans |url=https://collider.com/ed-harris-snowpiercer-interview/ |access-date=26 June 2014 |newspaper=Collider |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140629214644/http://collider.com/ed-harris-snowpiercer-interview/ |archive-date=29 June 2014}}</ref> Harris praised Bong very highly, especially his tendency of editing the piece whilst shooting.<ref name="collider"/> Since the film's release, Bong has revealed background information about the character, such as Wilford being [[bisexual]], "He slept with Claude, the Egghead, Mason, and the pregnant teacher. Yet, his 'the One' is the Engine."<ref name="'설국열차' 봉준호 감독 인터뷰 - 익스트림무">{{cite news|script-title=ko:'설국열차' 봉준호 감독 인터뷰 – 익스트림무|url=http://www.extmovie.com/xe/article/2230577|access-date=6 August 2013|newspaper=Extreme Movie|date=6 August 2013|archive-date=9 August 2013|archive-url=https://web.archive.org/web/20130809071046/http://www.extmovie.com/xe/article/2230577|url-status=dead}}</ref> Tyler John Williams portrays a young Wilford.<ref>{{cite news|title=Snowpiercer (2013) |url=http://subcultureentertainment.com/2014/07/snowpiercer-2013/ |access-date=26 July 2014 |newspaper=Subculture Media |date=26 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20141010003801/http://subcultureentertainment.com/2014/07/snowpiercer-2013/ |archive-date=10 October 2014}}</ref>
+* [[John Hurt]] as Gilliam: <br> The spiritual leader of the tail section.<ref name="slashfilm.com" /><ref name="ReferenceB" /> Bong first saw Hurt in ''[[The Elephant Man (1980 film)|The Elephant Man]]'' while at middle-school, which made him curious about the actor; for the part of Gilliam he wanted an older actor, though one with the ability to "exude the ambience of spirituality".<ref name="RADiUS-TWC Snowpiercer Press Notes" /> On the character of Gilliam, Hurt said, "He is certainly shadowy, but he is shadowy for a reason. Even though I still am not entirely certain what the reason is," adding, "as far as Gilliam is concerned, he believes in the status quo, but he also sees himself as a true humanitarian. I mean he has literally given his limbs to these people."<ref name="filmoria.co.uk">{{cite news|title=Interview: John Hurt on 'Snowpiercer' |url=http://www.filmoria.co.uk/2014/07/interview-john-hurt-on-snowpiercer/ |access-date=3 July 2014 |newspaper=Filmoria |date=3 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140715134412/http://www.filmoria.co.uk/2014/07/interview-john-hurt-on-snowpiercer/ |archive-date=15 July 2014}}</ref> Hurt stated that the role of Gilliam was physically challenging one at that, because "the fact that I had one leg strapped behind me, trying to stagger around on those not very easy-to-use crutches... and having to make it look like as though I'd been doing it for years."<ref>{{cite news|title=Q&A: John Hurt on His Futuristic Trip in "SNOWPIERCER" |url=http://www.fangoria.com/new/qa-john-hurt-on-his-futuristic-trip-in-snowpiercer/ |access-date=27 June 2014 |newspaper=[[Fangoria]] |date=27 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140712231001/http://www.fangoria.com/new/qa-john-hurt-on-his-futuristic-trip-in-snowpiercer/ |archive-date=12 July 2014}}</ref> He too acknowledged Bong's encouragement of collaboration in allowing the cast and crew to "interpret things as we want, as we see fit" as well as adding pointers to the act.<ref name="filmoria.co.uk" /> Hurt said of Bong, "I just fell in love with him. He was wonderful. I hadn't seen anything. I hadn't seen ''Mother'' or anything, which I immediately did when I got home. I went, 'Wow, that's the chap I was talking to.' Thank God instinct has left me completely. I adored him then, I adored him ever since."<ref>{{cite news|title=Acting Legend John Hurt And Co-Writer Kelly Masterson Talk SNOWPIERCER |url=http://twitchfilm.com/2014/07/acting-legend-john-hurt-and-co-writer-kelly-masterson-talk-snowpiercer.html |access-date=9 July 2014 |newspaper=Twitch Film |date=9 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140811091603/http://twitchfilm.com/2014/07/acting-legend-john-hurt-and-co-writer-kelly-masterson-talk-snowpiercer.html |archive-date=11 August 2014}}</ref><ref>{{cite news|title=Interview: John Hurt gushes about his 'Snowpiercer' director Bong Joon-ho |url=http://www.metro.us/newyork/entertainment/movies-entertainment/2014/06/26/interview-john-hurt-gushes-snowpiercer-director-bong-joon-ho/ |access-date=26 June 2014 |newspaper=[[Metro New York]] |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140628205811/http://www.metro.us/newyork/entertainment/movies-entertainment/2014/06/26/interview-john-hurt-gushes-snowpiercer-director-bong-joon-ho/ |archive-date=28 June 2014}}</ref> as well as previously adding, "He is quite different but technically, he is as clever as [[Hitchcock]]. That's saying something.... He is one of the best directors I've worked with. I absolutely adore working with him."<ref>{{cite news|title=Snow business = John Hurt on Snowpiercer and his long career. |url=http://www.eyeforfilm.co.uk/feature/2014-06-26-interview-with-john-hurt-about-snowpiercer-feature-story-by-anne-katrin-titze |access-date=26 June 2014 |newspaper=Eye For Film |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140702190842/http://www.eyeforfilm.co.uk/feature/2014-06-26-interview-with-john-hurt-about-snowpiercer-feature-story-by-anne-katrin-titze |archive-date=2 July 2014}}</ref>
+* [[Tilda Swinton]] as Minister Mason: <br> Wilford's right hand, the second in command on the train and the spokesperson for Wilford for the past 17 years.<ref name="RADiUS-TWC Snowpiercer Press Notes" /><ref name="slashfilm.com" /><ref name="ReferenceB" /> About the character, Swinton said, "Mason is a pretty monstrous construct so we felt we were dealing with extremes, but the truth was that we didn't have to go that far. Look at Hitler with his dyed black hair and Gaddafi with handmade medals stuck on his jacket."<ref name="koreanfilm">{{cite news|title=Tilda Swinton, Actress of SNOWPIERCER |url=http://koreanfilm.or.kr/webzine/sub/interview.jsp?mode=A_VIEW&wbSeq=66 |access-date=29 August 2013 |newspaper=Korean Cinema |date=29 August 2013 |url-status=live |archive-url=https://web.archive.org/web/20141010104203/http://koreanfilm.or.kr/webzine/sub/interview.jsp?mode=A_VIEW&wbSeq=66 |archive-date=10 October 2014}}</ref> Swinton prepared for the role by studying clowning politicians throughout history, and Mason is, in Swinton's words, "a complete smash cut of all the monstrous, maniacal, political clowns". Swinton added that the character is a mix of [[Margaret Thatcher]], [[Muammar Gaddafi]], [[Adolf Hitler]], and [[Silvio Berlusconi]].<ref>{{cite news|title=Has the reluctant Oscar winner finally found comfort in Hollywood? |url=http://www.hitfix.com/in-contention/snowpiercer-to-amy-schumer-to-the-coens-tilda-swinton-is-having-another-moment |access-date=24 June 2014 |newspaper=[[Hitfix]] |date=24 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140626081025/http://www.hitfix.com/in-contention/snowpiercer-to-amy-schumer-to-the-coens-tilda-swinton-is-having-another-moment |archive-date=26 June 2014}}</ref><ref>{{cite news|title=Interview: Tilda Swinton based her 'Snowpiercer' villain in part on Thatcher |url=http://www.metro.us/newyork/entertainment/movies-entertainment/2014/06/24/interview-tilda-swinton-based-snowpiercer-villain-part-thatcher/ |access-date=24 June 2014 |newspaper=[[Metro New York]] |date=24 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140703010711/http://www.metro.us/newyork/entertainment/movies-entertainment/2014/06/24/interview-tilda-swinton-based-snowpiercer-villain-part-thatcher/ |archive-date=3 July 2014}}</ref> The [[Yorkshire dialect|Yorkshire accent]] Swinton uses is based on someone from her early life who had the accent and to her, "was an early example of authority".<ref name="koreanfilm" /> Tilda and Bong met at the [[Cannes Film Festival]] when ''[[We Need to Talk About Kevin (film)|We Need to Talk About Kevin]]'' played and both wanted to work together. In one original scenario, Mason was a middle-aged man and first mentioned as "peaceful", so Bong changed it and offered it to Swinton. Bong added, "I originally talked to [[John C. Reilly]] about playing Mason."<ref>{{cite news|title=Tilda Swinton on Why She Doesn't Consider Herself an Actor |url=https://variety.com/2014/film/news/tilda-swinton-on-why-she-doesnt-consider-herself-an-actress-1201157011/ |access-date=15 April 2014 |newspaper=[[Variety (magazine)|Variety]] |date=15 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20140417220914/http://variety.com/2014/film/news/tilda-swinton-on-why-she-doesnt-consider-herself-an-actress-1201157011/ |archive-date=17 April 2014}}</ref><ref>{{cite news|title=Interview with Bong Joon-Ho, and the Snowpiercer Rolling Roadshow |url=http://cinapse.co/2014/06/27/interview-with-bong-joon-ho-and-the-snowpiercer-rolling-roadshow/ |access-date=27 June 2014 |work=[[Cinapse]] |date=27 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140707084620/http://cinapse.co/2014/06/27/interview-with-bong-joon-ho-and-the-snowpiercer-rolling-roadshow/ |archive-date=7 July 2014}}</ref> On Mason's appearance, Bong stated, "Tilda actually wanted to take the look further and I had to pull her back. She at the time really wanted to transform herself and look different than she ever looked before. I was all for it. Obviously, there was something that started the whole look." Additionally, Swinton stated, "As we were playing, we had these ideas, like fantastic pendulous breasts... And [[Jamie Bell]] loved wearing them of course. We have a picture of him. Our crew picture involves [Bell] wearing Mason's breasts."<ref>{{cite news|title=Is That Snaggletoothed Bureaucrat Really Tilda Swinton? |url=http://www.edgedenver.com/entertainment/movies/Features//162023/is_that_snaggletoothed_bureaucrat_really_tilda_swinton? |access-date=8 July 2014 |newspaper=Edge Denver |date=8 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20141010023512/http://www.edgedenver.com/entertainment/movies/Features//162023/is_that_snaggletoothed_bureaucrat_really_tilda_swinton |archive-date=10 October 2014}}</ref><ref>{{cite news|title=Tilda Swinton Talks SNOWPIERCER, Creating Her Outrageous Character, Playing a Character Originally Written as a Man & the Film's International Production |url=https://collider.com/tilda-swinton-snowpiercer-interview/ |access-date=23 June 2014 |newspaper=Collider |date=23 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140627042327/http://collider.com/tilda-swinton-snowpiercer-interview |archive-date=27 June 2014}}</ref> Bong was inspired by a photo Ondřej Nekvasil found of a lady inside the [[National Museum of Natural History]], and he showed the image to Tilda who "loved it".<ref>{{cite news|title=Piercing vision |url=http://www.eyeforfilm.co.uk/feature/2014-06-27-interview-with-bong-joo-ho-about-snowpiercer-feature-story-by-anne-katrin-titze |access-date=27 June 2014 |newspaper=Eye For Film |date=27 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140711105052/http://www.eyeforfilm.co.uk/feature/2014-06-27-interview-with-bong-joo-ho-about-snowpiercer-feature-story-by-anne-katrin-titze |archive-date=11 July 2014}}</ref><ref>{{cite news|title=Snowpiercer: Q&A with Costume Designer Catherine George |url=http://clothesonfilm.com/snowpiercer-qa-with-costume-designer-catherine-george/35353/ |access-date=1 August 2014 |newspaper=Clothes On Film |date=1 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20140827201143/http://clothesonfilm.com/snowpiercer-qa-with-costume-designer-catherine-george/35353/ |archive-date=27 August 2014}}</ref> The appearance of Mason was based on [[Roxie Collie Laybourne]].<ref>{{cite news|title=Piercing vision |url=http://www.eyeforfilm.co.uk/images/newsite/Role_model_for_Tilda_Swintons_Mason_in_Snowpiercer.jpg |access-date=27 June 2014 |newspaper=Eye For Film |date=27 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20141009110821/http://www.eyeforfilm.co.uk/images/newsite/Role_model_for_Tilda_Swintons_Mason_in_Snowpiercer.jpg |archive-date=9 October 2014}}</ref>
+* [[Jamie Bell]] as Edgar: <br> Curtis's second-in-command.<ref name="RADiUS-TWC Snowpiercer Press Notes" /><ref name="slashfilm.com" /><ref name="ReferenceB" /> On taking the role, Bell said, "The reason why I wanted to be a part of the film was because of what Director Bong had to say about it; it was his vision that he brought to the table and I thought what it stood for was important to me."<ref name="youtube.com">{{cite news|script-title=ko:[설국열차] 제이미 벨 인터뷰 SNOWPIERCER Interview with Jamie Bell |url=https://www.youtube.com/watch?v=7Z4-cy_G4gE |access-date=21 July 2013 |newspaper=YouTube |date=21 July 2013 |url-status=live |archive-url=https://web.archive.org/web/20160305093949/https://www.youtube.com/watch?v=7Z4-cy_G4gE |archive-date=5 March 2016}}</ref> When asked of performances that were interpreted differently onscreen from the screenplay, writer Masterson stated, "[Bell] is very impish and mischievous as Edgar, which I didn't predict from his character. That might just be Jamie."<ref>{{cite news|title=Interview: 'Snowpiercer' Co-Writer Kelly Masterson |url=http://www.filmoria.co.uk/2014/06/interview-snowpiercer-co-writer-kelly-masterson/ |access-date=20 June 2014 |newspaper=Filmoria |date=20 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140709084953/http://www.filmoria.co.uk/2014/06/interview-snowpiercer-co-writer-kelly-masterson/ |archive-date=9 July 2014}}</ref> and of his performance, "I think [Bell]'s performance, a lot of it is improvised, and quite brilliantly."<ref>{{cite news|title=Fright Exclusive Interview with Snowpiercer Screenwriter Kelly Masterson! |url=http://iconsoffright.com/2014/06/24/fright-exclusive-interview-with-snowpiercer-screenwriter-kelly-masterson/ |access-date=24 June 2014 |newspaper=Icons of Fright |date=24 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140625143512/http://iconsoffright.com/2014/06/24/fright-exclusive-interview-with-snowpiercer-screenwriter-kelly-masterson/ |archive-date=25 June 2014}}</ref> On relating to the character, Bell said, "You know, I come from a very working-class background myself. There was the sense that I had to overcome something and really test myself. So, in a way Edgar is very similar, he genuinely doesn't have anything and he's the lowest of the low of these people."<ref name="youtube.com" />
+* [[Octavia Spencer]] as Tanya: <br> A determined mother who is set on getting her son back.<ref name="slashfilm.com" /><ref name="ReferenceB" /> Despite not possessing the qualities of a fighter, she nonetheless takes part in the rebellion and speaks for the people of the tail section.<ref name="RADiUS-TWC Snowpiercer Press Notes" /> The film marks Spencer's first time working in the [[science fiction|science-fiction]] genre. Spencer described Bong as "an [[auteur]]" and expressed sadness at the studio's proposal to cut the film.<ref>{{cite news|title=Octavia Spencer on Diablo Cody's Paradise, Sowing Her Wild Oats, and Singing Radiohead |url=https://www.vulture.com/2013/10/octavia-spencer-on-paradise-singing-radiohead.html |access-date=17 October 2013 |newspaper=[[New York (magazine)|Vulture]] |date=17 October 2013 |url-status=live |archive-url=https://web.archive.org/web/20131017205029/http://www.vulture.com/2013/10/octavia-spencer-on-paradise-singing-radiohead.html |archive-date=17 October 2013}}</ref> On imagery from the history base of references, Bong said, "When [Spencer]'s character is being beaten by the soldier, it's meant to remind people, somewhat, of the [[Rodney King]] incident."<ref name="esquire.com" /> On the message of the film, Spencer said, "We are all covered in smoke and dirt from years and years of not washing and particles in the air, and we are all the same color if you look at it."<ref name="esquire.com" />
+* [[Ewen Bremner]] as Andrew: <br> A helpless father whose only wish is to protect his son.<ref name="slashfilm.com" /><ref name="ReferenceB" /><ref>{{cite news|title='Snow Piercer': Ewan Bremner joins new thriller |url=http://www.digitalspy.co.uk/movies/news/a368212/snow-piercer-ewan-bremner-joins-new-thriller.html#~oQSPHowC4yT98i |access-date=28 February 2012 |newspaper=[[Digital Spy]] |date=28 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120302125105/http://www.digitalspy.co.uk/movies/news/a368212/snow-piercer-ewan-bremner-joins-new-thriller.html |archive-date=2 March 2012}}</ref> On taking the role, Bremner said, "I watched director Bong's film ''[[Mother (2009 film)|Mother]]'' which I was really knocked out by. He has a much adventurous sense of a character and he's a rare director in his route to cast actors that he really likes."<ref name="RADiUS-TWC Snowpiercer Press Notes" /> Despite the weak and frail imagery of the character of Andrew, Bong needed an actor who was able to convey the raw emotion of the character to the audience directly.<ref name="RADiUS-TWC Snowpiercer Press Notes" /> Bong became a fan of Bremner's after watching his appearance in ''[[Naked (1993 film)|Naked]]''. On Bremner, Bong said, "He would become an actor like [[Byun Hee-bong]] one day."<ref name="RADiUS-TWC Snowpiercer Press Notes" />
+* [[Go Ah-sung]] (credited as Ko Asung) as Namgoong Yona: <br> The 17-year-old daughter of Namgoong Minsoo.<ref name="slashfilm.com" /><ref name="ReferenceB" /> On taking the role, Go said, "It was like going back to where it all started. Director Bong gave instructions and Mr. Song gave me advice or guidance, so it felt like I had returned to being on my first film, ''[[The Host (2006 film)|The Host]]''."<ref name="RADiUS-TWC Snowpiercer Press Notes" /> About her character's name, Go said, "[Bong] couldn't think of any name for Yona; he just left her as "The Inuit Girl".<ref name="ReferenceC" /> I gave him [[Nastyona]]'s album, and he went "This is it!" adding, "It also matches the Biblical figure Jonah [pronounced Yona in some languages, including Korean] and had a right feel to it." She added that she spoke with a mixed accent of the United States, Philippines and India, and spoke to fellow cast member Ewen Bremner for advice on her English pronunciation.<ref>{{cite news|title=Goahseong, "It is a little bit different 'snowy train" I think "(Interview) |url=http://tenasia.hankyung.com/archives/163152 |access-date=13 August 2013 |newspaper=Ten Asia |date=13 August 2013 |url-status=live |archive-url=https://web.archive.org/web/20130816012256/http://tenasia.hankyung.com/archives/163152 |archive-date=16 August 2013}}</ref> Go described Yona as being, "someone who was completely indifferent to Minsoo's ambition. Even if she knew, she wouldn't have cared."<ref>{{cite news|title=Ko Ah-sung on the role of Yona in Snowpiercer |url=http://fyeahsnowpiercer.tumblr.com/post/93381183778/ko-ah-sung-on-the-role-of-yona-in-snowpiercer |access-date=31 July 2014 |newspaper=[[Tumblr]] |date=31 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20141006095749/http://fyeahsnowpiercer.tumblr.com/post/93381183778/ko-ah-sung-on-the-role-of-yona-in-snowpiercer |archive-date=6 October 2014}}</ref> Of Yona's background, Bong revealed, "Yona's mother was the leader of the Frozen Seven's revolution—because she was an Inuit. She was confident that she could endure the coldness. However, she went out too early."<ref>{{cite news|title="I wanted to move in the heat of emotion, 'completely different world'" Snowpiercer director Bong Joon-ho|url=http://weekly.khan.co.kr/khnm.html?mode=view&code=116&artid=201308061124581|access-date=13 August 2013|newspaper=Weekly Khan|date=13 August 2013}}</ref>
+* [[Alison Pill]] as Teacher: <br> Found teaching a classroom of young students, towards the front of the ''Snowpiercer''.<ref>{{cite news|title=Alison Pill slices and slings through 'Snowpiercer' |url=https://www.usatoday.com/experience/weekend/entertainment/alison-pill-slices-and-slings-through-snowpiercer/11410707/ |access-date=26 June 2014 |newspaper=[[USA Today]] |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140707110302/http://www.usatoday.com/experience/weekend/entertainment/alison-pill-slices-and-slings-through-snowpiercer/11410707/ |archive-date=7 July 2014}}</ref><ref>{{cite news|title=Snowpiercer is hell on wheels and a glorious head trip |url=https://www.thestar.com/entertainment/movies/2014/07/17/snowpiercer_is_hell_on_wheels_and_a_glorious_head_trip_review.html |access-date=17 July 2014 |newspaper=[[Toronto Star]] |date=17 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20141009150049/http://www.thestar.com/entertainment/movies/2014/07/17/snowpiercer_is_hell_on_wheels_and_a_glorious_head_trip_review.html |archive-date=9 October 2014}}</ref>
+* [[Vlad Ivanov]] as Franco the Elder: <br> A seemingly indestructible henchman working for Minister Mason.<ref>{{cite news|title=Interview with Vlad Ivanov "Snowpiercer is about setting humanity |url=http://www.digi-film.ro/stiri/interviuri/Interviu+Vlad+Ivanov |access-date=15 March 2014 |newspaper=Digi Film |date=15 March 2014 |url-status=live |archive-url=https://web.archive.org/web/20140317095258/http://www.digi-film.ro/stiri/interviuri/Interviu%20Vlad%20Ivanov |archive-date=17 March 2014}}</ref><ref>{{cite news|title=This train makes stops at bleak political allegory, elaborately choreographed ax battles, and goofy comic pratfalls. All aboard! |url=http://www.slate.com/articles/arts/movies/2014/06/snowpiercer_directed_by_bong_joon_ho_reviewed.html |access-date=27 June 2014 |newspaper=[[Slate (magazine)|Slate]] |date=27 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140628005733/http://www.slate.com/articles/arts/movies/2014/06/snowpiercer_directed_by_bong_joon_ho_reviewed.html |archive-date=28 June 2014}}</ref>
+* [[Luke Pasqualino]] as Grey: <br> Gilliam's bodyguard, a muscular, agile, fast-moving warrior who is handy with knives.<ref>{{cite news|title='Snowpiercer (2014): Rip Humanity Up, Start Again |url=http://www.auldfangsyne.com/snowpiercer-2014-rip-humanity-up-start-again/ |access-date=7 July 2014 |newspaper=Auld Fang Syne |date=7 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141010191939/http://www.auldfangsyne.com/snowpiercer-2014-rip-humanity-up-start-again/ |archive-date=10 October 2014}}</ref><ref name="nerdlikeyou.com">{{cite news|title='Snowpiercer: All Aboard The Film Of 2014 (Warning: Contains Mild Spoilers) |url=http://www.nerdlikeyou.com/snowpiercer-aboard-film-2014/ |access-date=15 July 2014 |newspaper=Nerd Like You |date=15 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140820123041/http://www.nerdlikeyou.com/snowpiercer-aboard-film-2014/ |archive-date=20 August 2014}}</ref> On taking the role of Grey, Pasqualino said, "I got to work with a dream cast and [Bong] who I think is frankly a genius. I feel very lucky and privileged to be given the opportunity".<ref>{{cite news|title=Interview: Young Bill Adama – A Chat With 'Battlestar Galactica: Blood & Chrome' Star Luke Pasqualino |url=http://geek-news.mtv.com/2012/12/03/interview-young-bill-adama-a-chat-with-battlestar-galactica-blood-chrome-star-luke-pasqualino/ |access-date=3 December 2012 |newspaper=[[MTV]] |date=3 December 2012 |url-status=dead |archive-url=https://web.archive.org/web/20131016003132/http://geek-news.mtv.com/2012/12/03/interview-young-bill-adama-a-chat-with-battlestar-galactica-blood-chrome-star-luke-pasqualino |archive-date=16 October 2013}}</ref> Grey has various tattoos on his body, each seeming having a specific story, including Gilliam's name tattooed on the heart side of his chest.<ref name="nerdlikeyou.com" /><ref>{{cite news|title=Director Bong Joon-Ho on Gilliam and Grey's relationship in Snowpiercer (and More) |url=http://fyeahsnowpiercer.tumblr.com/post/92516972051/director-bong-joon-ho-on-gilliam-and-greys |access-date=22 July 2014 |newspaper=[[Tumblr]] |date=22 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20141011194433/http://fyeahsnowpiercer.tumblr.com/post/92516972051/director-bong-joon-ho-on-gilliam-and-greys |archive-date=11 October 2014}}</ref> After the film's release Bong revealed background information, "There are homosexual relationships among the men. Gilliam and Grey seem like a couple with a large age gap. Gilliam is someone whom Grey admires deeply, of course, but one could imagine they sleep together too. And Gilliam sends Grey to Curtis."<ref name="'설국열차' 봉준호 감독 인터뷰 - 익스트림무" />
+
+Additionally, [[Adnan Hasković]] as Franco the Younger, an executor of the army led by Mason;<ref>{{cite news|title=Interview Tilda Swinton and me on shooting SNOWPIERCER |url=https://twitter.com/adnanhaskovic/status/379302967729717248/photo/1 |access-date=15 September 2013 |newspaper=Twitter |date=15 September 2013 |url-status=live |archive-url=https://web.archive.org/web/20150606082212/https://twitter.com/adnanhaskovic/status/379302967729717248/photo/1 |archive-date=6 June 2015}}</ref><ref>{{cite news|title=Adnan Hasković and Tilda Swinton in 'Snowpiercer' |url=http://www.sarajevotimes.com/adnan-haskovic-and-tilda-swinton-in-snowpiercer |access-date=7 June 2013 |newspaper=Sarajevo Times |date=7 June 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130618163145/http://www.sarajevotimes.com/adnan-haskovic-and-tilda-swinton-in-snowpiercer/ |archive-date=18 June 2013}}</ref> [[Clark Middleton]] as the Painter, who is often seen drawing other passengers or key events visually chronicling underclass life and death;<ref>{{cite news|title='Snowpiercer' artist Jean-Marc Rochette talks English comic, film |url=http://herocomplex.latimes.com/books/snowpiercer-artist-jean-marc-rochette-talks-english-comic-film |access-date=23 January 2014 |newspaper=[[Los Angeles Times]] |date=23 January 2014 |url-status=live |archive-url=https://web.archive.org/web/20140126085147/http://herocomplex.latimes.com/books/snowpiercer-artist-jean-marc-rochette-talks-english-comic-film/ |archive-date=26 January 2014}}</ref> Emma Levie as Claude, Wilford's assistant who may have a relationship with Wilford;<ref>{{cite news|title='Snowpiercer': How Hungry Are You? |url=http://www.btchflcks.com/2014/07/snowpiercer-how-hungry-are-you.html#.VCUgRWddXQU |access-date=4 July 2014 |newspaper=Bitch Flicks |date=4 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140717063205/http://www.btchflcks.com/2014/07/snowpiercer-how-hungry-are-you.html |archive-date=17 July 2014}}</ref><ref>{{cite news|title=Snowpiercer |url=http://www.filmfreaks.nl/media/persmapSnowpiercer.pdf |access-date=3 April 2014 |newspaper=Film Freaks |date=3 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20141009145547/http://www.filmfreaks.nl/media/persmapSnowpiercer.pdf |archive-date=9 October 2014}}</ref><ref>{{cite news|title=Dutch actress Emma Levie shines in Snowpiercer |url=https://curiosityquills.com/snowpiercer-review/ |access-date=1 August 2014 |newspaper=Curiosity Quills |date=1 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20140804010240/http://curiosityquills.com/snowpiercer-review/ |archive-date=4 August 2014}}</ref><ref name="destentor.nl">{{cite news|title=Dutch actress Emma Levie shines in Snowpiercer |url=http://www.destentor.nl/algemeen/show/nederlandse-actrice-emma-levie-schittert-in-snowpiercer-1.4297826 |access-date=29 September 2011 |newspaper=deStentor |date=29 September 2011 |url-status=live |archive-url=https://web.archive.org/web/20141009074932/http://www.destentor.nl/algemeen/show/nederlandse-actrice-emma-levie-schittert-in-snowpiercer-1.4297826 |archive-date=9 October 2014}}</ref><ref>{{cite news|title=Review: 'Lena' |url=https://variety.com/2011/film/reviews/lena-1117946268/ |access-date=29 September 2011 |newspaper=[[Variety (magazine)|Variety]] |date=29 September 2011 |url-status=live |archive-url=https://web.archive.org/web/20141213103437/http://variety.com/2011/film/reviews/lena-1117946268/ |archive-date=13 December 2014}}</ref> [[Tómas Lemarquis]] as Egg-head, one of Wilford's agents that aids in the New Year celebration massacre;<ref>{{cite news|title=Bong Joon-ho's film Snowpiercer – all of it – inches closer to our cinemas, enfin! |url=http://blogs.montrealgazette.com/2014/02/07/bong-joon-hos-film-snowpiercer-all-of-it-inches-closer-to-our-cinemas-enfin |access-date=27 September 2014 |newspaper=[[The Gazette (Montreal)|Montreal Gazette]] |date=7 February 2014 |url-status=live |archive-url=https://web.archive.org/web/20141016035518/http://blogs.montrealgazette.com/2014/02/07/bong-joon-hos-film-snowpiercer-all-of-it-inches-closer-to-our-cinemas-enfin/ |archive-date=16 October 2014}}</ref><ref>{{cite news |title=SNOWPIERCER |url=http://www.filmbiz.asia/reviews/snowpiercer |access-date=2 February 2014 |newspaper=Film Business Asia |date=2 February 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140221011401/http://www.filmbiz.asia/reviews/snowpiercer |archive-date=21 February 2014}}</ref> [[Steve Park (comedian)|Steve Park]] as Fuyu, a regimented assistant to Mason;<ref>{{cite news|title=Actor Steve Park & Kelly Park at SNOWPIERCER movie premiere at LA Film Fest 2014! |url=https://www.youtube.com/watch?v=rsSKTc-NLlo |access-date=22 June 2014 |newspaper=YouTube |date=22 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20160306054223/https://www.youtube.com/watch?v=rsSKTc-NLlo |archive-date=6 March 2016}}</ref><ref>{{cite news|title=Review: 'Snowpiercer' |url=https://variety.com/2013/film/reviews/snowpiercer-review-1200565998 |access-date=22 July 2013 |newspaper=[[Variety (magazine)|Variety]] |date=22 July 2013 |url-status=live |archive-url=https://web.archive.org/web/20130723134254/http://variety.com/2013/film/reviews/snowpiercer-review-1200565998/ |archive-date=23 July 2013}}</ref> and [[Paul Lazar]] as Paul, one of the rebels in Curtis's army who makes the protein blocks.<ref>{{cite news|title=Snowpiercer |url=http://www.tucsonweekly.com/tucson/snowpiercer/Film?oid=4767858 |access-date=4 July 2014 |newspaper=[[Tucson Weekly]] |date=4 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140816223205/http://www.tucsonweekly.com/tucson/snowpiercer/Film?oid=4767858 |archive-date=16 August 2014}}</ref><ref>{{cite news|title=Watch Big Dance Theatre's co-director Paul Lazar in Snowpiercer! |url=https://twitter.com/BigDanceTheater/status/492395105249026049 |access-date=24 July 2014 |newspaper=Twitter |date=24 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20150606082202/https://twitter.com/BigDanceTheater/status/492395105249026049 |archive-date=6 June 2015}}</ref> The creators of the graphic novel, [[Jean-Marc Rochette]] and Benjamin Legrand, have cameo appearances in the film.<ref>{{cite news|title=Minds of 'Snowpiercer' see 'miracle' on film |url=http://www.koreaherald.com/view.php?ud=20130815000156 |access-date=15 August 2013 |newspaper=[[The Korea Herald]] |date=15 August 2013 |url-status=live |archive-url=https://web.archive.org/web/20130815102539/http://www.koreaherald.com/view.php?ud=20130815000156 |archive-date=15 August 2013}}</ref><ref>{{cite news|title='Snowpiercer' Creators Explain the Long Journey from French Graphic Novel to Korean Chris Evans Movie |url=http://proto.mtv.ca/snowpiercer-creators-explain-the-long-journey-from-french-graphic-novel-to-korean-chris-evans-movie |access-date=27 June 2014 |newspaper=[[MTV]] |date=27 June 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141016093430/http://proto.mtv.ca/snowpiercer-creators-explain-the-long-journey-from-french-graphic-novel-to-korean-chris-evans-movie/ |archive-date=16 October 2014}}</ref><ref>{{cite news|title=Lob, Legrand & Rochette's "Snowpiercer" Arrives in America |url=http://www.comicbookresources.com/?page=article&id=49516 |access-date=9 December 2013 |newspaper=[[Comic Book Resources]] |date=9 December 2013 |url-status=dead |archive-url=https://web.archive.org/web/20140610020700/http://www.comicbookresources.com/?page=article&id=49516 |archive-date=10 June 2014}}</ref>
+
+== Production ==
+=== Development ===
+{{quote box|align=right|width=35%|quote=When I first came across ''Transperceneige'', the first thing that grabbed my attention was the unique cinematic space of a train. Hundreds of metal pieces moving like a snake carrying people squirming inside gripped my heart. And the people were fighting against each other. They were not equal in this [[Noah's Ark|Noah's ark]] that held the last survivors as they were divided into cars.|source=—[[Bong Joon Ho]], speaking on what captivated him to the story<ref name="andy-bailey.net">{{cite news|title=Snowpiercer Press Notes |url=http://andy-bailey.net/wp-content/uploads/2014/06/SNOWPIERCER-Press-Notes-FINAL.pdf |access-date=6 August 2014 |newspaper=Snowpiercer |date=6 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20141006092136/http://andy-bailey.net/wp-content/uploads/2014/06/SNOWPIERCER-Press-Notes-FINAL.pdf |archive-date=6 October 2014 }}</ref>}}
+In the winter of 2005, Bong found Jean-Marc Rochette's French graphic novel series ''[[Le Transperceneige]]'' at a [[comic book shop]] near [[Hongik University]] and finished reading the entire series while standing in front of the bookshelf where he found it.<ref>{{cite news|title=Snowpiercer: Speak, Memory, Occupy |url=https://lareviewofbooks.org/essay/snowpiercer-speak-memory-occupy |access-date=8 August 2014 |newspaper=Los Angeles Review of Books |date=8 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20140813065239/http://lareviewofbooks.org/essay/snowpiercer-speak-memory-occupy |archive-date=13 August 2014 }}</ref><ref>{{cite news|title=Snowpiercer 2013 |url=http://www.joykdrama.com/movie/Snowpiercer//#.VCCbQ5RdXQU |access-date=1 August 2014 |newspaper=JoyKDrama |date=1 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20141129092952/http://www.joykdrama.com/movie/Snowpiercer// |archive-date=29 November 2014 }}</ref> He was fascinated by ideas of people struggling on the train for survival, and how every section is classified in [[social stratification]]. Bong showed the series to his friends, fellow director [[Park Chan-wook]] and producer Lee Tae-hun, who loved it as well.<ref>{{cite news|title="Snowpiercer" Is The Best-Selling Korean Movie Ever Shown In France |url=http://www.kdramastars.com/articles/12080/20131113/snowpiercer-is-the-best-selling-korean-movie-ever-shown-in-france.htm |access-date=13 November 2013 |work=KDrama Stars |date=13 November 2013 |url-status=live |archive-url=https://web.archive.org/web/20131126023853/http://www.kdramastars.com/articles/12080/20131113/snowpiercer-is-the-best-selling-korean-movie-ever-shown-in-france.htm |archive-date=26 November 2013 }}</ref>{{Unreliable source?|reason=See reliable sources list on [[WP:KO/RS]]|date=March 2025}} Although Bong praised the original graphic novel, he soon realized that a film like ''Snowpiercer'' needed an original take. Bong stated, "... I had to come up with a completely new story and new characters in order to create a new, dynamic ''Snowpiercer'' that was packed with cinematic exhilaration."<ref name="Snowpiercer Press Notes">{{cite news|title=Snowpiercer Press Notes |url=http://andy-bailey.net/wp-content/uploads/2014/06/SNOWPIERCER-Press-Notes-FINAL.pdf |access-date=25 June 2014 |newspaper=[[RADiUS-TWC]] |date=25 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20141006092136/http://andy-bailey.net/wp-content/uploads/2014/06/SNOWPIERCER-Press-Notes-FINAL.pdf |archive-date=6 October 2014 }}</ref>
+
+In the following year, Park's production company Moho Film acquired the copyrights to the original story of ''Snowpiercer'' for Bong, and in 2007 the copyrights to the story extended. The first draft of the screenplay for ''Snowpiercer'' was completed on 15 September 2010, and in December, the second draft of screenplay was completed and modified.<ref name="straight.com">{{cite news|title=VIFF 2010: Korean director Bong Joon-Ho eyeing Canada for Le Transperceneige |url=https://www.straight.com/movies/viff-2010-korean-director-bong-joon-ho-eyeing-canada-le-transperceneige |access-date=5 October 2010 |newspaper=Cinetirol |date=5 October 2010 |url-status=live |archive-url=https://web.archive.org/web/20141006074452/http://www.straight.com/movies/viff-2010-korean-director-bong-joon-ho-eyeing-canada-le-transperceneige |archive-date=6 October 2014 }}</ref> On 4 October 2010, Bong, whilst at the [[Vancouver International Film Festival]], had initially entertained the idea of shooting the film in Canada due to it having "... a great infrastructure for filmmaking, and Korean expatriates are involved in the film industry a lot."<ref name="straight.com" /> Bong wanted a film studio with a 75- to 100-meter-long space to fill with four train cars connected together. The production team travelled to Europe for studio scouting and ended up with two studio choices: [[Barrandov Studios]] in Czech Republic and [[Korda Studios]] in Hungary. In August 2011, a Czech producer hired by the production team began negotiations with two film studios for availability; Barrandov Studios was eventually chosen as the film studio and production service provider of ''Snowpiercer''.<ref>{{cite web |url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=428&aid=0000000026 |script-title=ko:[김혜리칼럼] 길면 기차, 그리고 긴 인터뷰 (1) : <설국열차>에 이미 탑승한 관객을 위한 봉준호 감독의 코멘터리 |author=김혜리 |date=18 August 2013 |work=[[Naver Corporation]] News |language=ko|access-date=19 April 2014}}</ref><ref>{{cite web|url=http://koreanfilm.or.kr/webzine/sub/feature.jsp?mode=A_VIEW&wbSeq=15 |title=Four leading Korean directors working on overseas projects |author=Ju Sung Chul |date=11 September 2011 |work=Korea Cinema Today |url-status=live |archive-url=https://web.archive.org/web/20120425052053/http://koreanfilm.or.kr/webzine/sub/feature.jsp?mode=A_VIEW&wbSeq=15 |archive-date=25 April 2012|language=ko|access-date=19 April 2014}}</ref>
+
+On 18 January 2012, [[Kelly Masterson]] was hired to rewrite the script before it went into production due to Bong seeing his screenplay work on ''[[Before the Devil Knows You're Dead]]'' and being impressed with the tonality of darkness and acuity in the story.<ref>{{cite news|title=Masterson puts polish to 'Piercer' |url=https://variety.com/2012/film/news/masterson-puts-polish-to-piercer-1118048849/ |access-date=18 January 2012 |newspaper=[[Variety (magazine)|Variety]] |date=18 January 2012 |url-status=live |archive-url=https://web.archive.org/web/20131012103923/http://variety.com/2012/film/news/masterson-puts-polish-to-piercer-1118048849/ |archive-date=12 October 2013 }}</ref><ref>{{cite news|title=Interview with SNOWPIERCER Screenwriter Kelly Masterson |url=http://www.screencraft.org/blog/interview-snowpiercer-screenwriter-kelly-masterson/ |access-date=7 September 2014 |newspaper=Screen Craft |date=7 September 2014 |url-status=live |archive-url=https://web.archive.org/web/20140908022203/http://www.screencraft.org/blog/interview-snowpiercer-screenwriter-kelly-masterson/ |archive-date=8 September 2014 }}</ref> Bong and Masterson had originally envisioned a romantic story for the protagonist; however they jettisoned that idea in subsequent drafts of the screenplay.<ref>{{cite web|title=Interview with SNOWPIERCER Screenwriter Kelly Masterson |url=http://www.screencraft.org/blog/interview-snowpiercer-screenwriter-kelly-masterson/ |access-date=7 September 2014 |newspaper=Screen Craft |date=7 September 2014 |url-status=live |archive-url=https://web.archive.org/web/20140908022203/http://www.screencraft.org/blog/interview-snowpiercer-screenwriter-kelly-masterson/ |archive-date=8 September 2014 }}</ref> On 8 October 2013, at the [[Busan International Film Festival]], Bong acknowledged the challenges in adapting such a story to fit the apparent constraints of cinema, to which had to omit certain scenes from the graphic novel, "... I had to capture that long story in a two-hour film, so rather than cut out some scenes from the comic, I just rewrote the whole story to fit this time frame."<ref name="thenational.ae">{{cite news|title=VIFF 2010: Korean director Bong Joon-Ho eyeing Canada for Le Transperceneige |url=https://www.thenationalnews.com/arts-culture/life-derailed-1.266670/ |access-date=23 April 2014 |newspaper=The National |date=23 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20140424160546/http://www.thenational.ae/arts-culture/film/tilda-swinton-film-snowpiercer-is-about-post-apocalyptic-class-warfare |archive-date=24 April 2014 }}</ref><ref>{{cite news|title=BIFF 2013: Snowpiercer the Transperceneige Bong Joon-h=Ho |url=http://www.arte.tv/sites/fr/olivierpere/2013/10/10/biff-2013-snowpiercer-le-transperceneige-de-bong-joon-ho/ |access-date=10 October 2013 |newspaper=Arte |date=10 October 2013 |url-status=live |archive-url=https://archive.today/20131013135636/http://www.arte.tv/sites/fr/olivierpere/2013/10/10/biff-2013-snowpiercer-le-transperceneige-de-bong-joon-ho/ |archive-date=13 October 2013 }}</ref>
+
+On 13 January 2012, [[Chris Evans (actor)|Chris Evans]] began negotiations to star in the film adaptation, and was later confirmed as the film's male lead.<ref>{{cite news|title=Chris Evans warms to 'Snow Piercer' |url=https://variety.com/2012/film/news/chris-evans-warms-to-snow-piercer-1118048637/ |access-date=13 January 2012 |newspaper=[[Variety (magazine)|Variety]] |date=13 January 2012 |url-status=live |archive-url=https://web.archive.org/web/20131004214920/http://variety.com/2012/film/news/chris-evans-warms-to-snow-piercer-1118048637/ |archive-date=4 October 2013 }}</ref> On 17 January 2012, [[Tilda Swinton]] and [[Jamie Bell]] were confirmed to be in talks to join the project.<ref>{{cite news|title=Swinton, Bell in talks for 'Snow Piercer' |url=https://variety.com/2012/film/news/swinton-bell-in-talks-for-snow-piercer-1118048784/ |access-date=17 January 2012 |newspaper=[[Variety (magazine)|Variety]] |date=17 January 2012 |url-status=live |archive-url=https://web.archive.org/web/20130515100831/http://variety.com/2012/film/news/swinton-bell-in-talks-for-snow-piercer-1118048784/ |archive-date=15 May 2013 }}</ref> Swinton first met Bong at the [[2011 Cannes Film Festival|Cannes Film Festival]], where she was of the mind that she did not want to make any other films, a decision she takes after each film: "And that one (and only) condition in which I will make another film is that I will have some fun.<ref>{{cite news|title=Tilda Swinton: Making 'Snowpiercer' was like 'being in kindergarten' Part I |url=http://news.asiaone.com/news/showbiz/tilda-swinton-making-snowpiercer-was-being-kindergarten?page=0%2C0 |access-date=30 July 2013 |newspaper=Asia One |date=30 July 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131012053900/http://news.asiaone.com/news/showbiz/tilda-swinton-making-snowpiercer-was-being-kindergarten?page=0%2C0 |archive-date=12 October 2013 }}</ref> So we started to play with the idea of what would amuse us about this." Bong and Swinton experimented with voices, mannerisms and the general appearance of the character of Mason.<ref>{{cite news|title=Tilda Swinton: Making 'Snowpiercer' was like 'being in kindergarten' Part II |url=http://news.asiaone.com/news/showbiz/tilda-swinton-making-snowpiercer-was-being-kindergarten?page=0%2C1 |access-date=30 July 2013 |newspaper=Asia One |date=30 July 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131012040647/http://news.asiaone.com/news/showbiz/tilda-swinton-making-snowpiercer-was-being-kindergarten?page=0%2C1 |archive-date=12 October 2013 }}</ref> On 18 January 2012, [[John Hurt]] was confirmed to have been cast, with Hurt stating, "All the film crew refer to [Bong], with great reverence, as 'Director Bong'. I love the fact that I am working for Director Bong."<ref>{{cite news|title=John Hurt: Your life is your own property |url=https://www.telegraph.co.uk/culture/film/oscars/9020666/John-Hurt-Your-life-is-your-own-property.html |access-date=18 January 2013 |newspaper=[[The Daily Telegraph]] |date=18 January 2013 |url-status=dead |archive-url=https://web.archive.org/web/20120624031505/http://www.telegraph.co.uk/culture/film/oscars/9020666/John-Hurt-Your-life-is-your-own-property.html |archive-date=24 June 2012 }}</ref> On 2 February 2012, Octavia Spencer had joined the cast of Bong's project in the role of a "passenger on the train who joins the revolt in order to save her son."<ref>{{cite news|title=Oscar Frontrunner Octavia Spencer to Star in Sci-Fi Thriller 'Snow Piercer' (Exclusive) |url=https://www.hollywoodreporter.com/heat-vision/oscar-frontrunner-octavia-spencer-star-286682 |access-date=2 February 2012 |newspaper=[[The Hollywood Reporter]] |date=2 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120205034237/http://www.hollywoodreporter.com/heat-vision/oscar-frontrunner-octavia-spencer-star-286682 |archive-date=5 February 2012 }}</ref> [[Ed Harris]] spoke of his love of Bong Joon-ho's films and wanted to work with him, "I want to do this. I don't care what he's asking me to do because he's a really great filmmaker."<ref>{{cite news|title=Ed Harris Talks PHANTOM, Working in an Actual Submarine, Plus PAIN & GAIN, SNOWPIERCER and 4 ½ MINUTES |url=https://collider.com/ed-harris-phantom-snowpiercer-interview/ |access-date=3 March 2013 |newspaper=Collider |date=3 March 2013 |url-status=live |archive-url=https://web.archive.org/web/20130304133733/http://collider.com/ed-harris-phantom-snowpiercer-interview/ |archive-date=4 March 2013 }}</ref> On 27 February 2012, Ewen Bremner had joined the cast of Bong's film.<ref>{{cite news|title=Ewen Bremner Boards Snow Piercer |url=https://www.empireonline.com/news/story.asp?NID=33247 |access-date=27 February 2012 |newspaper=[[Empire (magazine)|Empire]] |date=27 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20141010120550/http://www.empireonline.com/news/story.asp?NID=33247 |archive-date=10 October 2014 }}</ref><ref>{{cite news|title='Trainspotting' Star Ewan Bremner Joins Chris Evans & Octavia Spencer In Bong Joon-Ho's 'Snow Piercer' |url=http://blogs.indiewire.com/theplaylist/trainspotting-star-ewan-bremner-joins-chris-evans-octavia-spencer-in-bong-joon-hos-snow-piercer |access-date=27 February 2012 |newspaper=[[Indiewire]] |date=27 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20130715202601/http://blogs.indiewire.com/theplaylist/trainspotting-star-ewan-bremner-joins-chris-evans-octavia-spencer-in-bong-joon-hos-snow-piercer |archive-date=15 July 2013 }}</ref><ref>{{cite news|title=Bremner finds his way in the 'Snow' |url=https://variety.com/2012/film/news/bremner-finds-his-way-in-the-snow-1118050735/ |access-date=27 February 2012 |newspaper=[[Variety (magazine)|Variety]] |date=27 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20130314074453/http://variety.com/2012/film/news/bremner-finds-his-way-in-the-snow-1118050735/ |archive-date=14 March 2013 }}</ref> On 3 April 2012, [[Luke Pasqualino]] was confirmed to have joined the cast.<ref>{{cite news|title=Luke Pasqualino |url=https://twitter.com/LucaPasqualino/status/187089566816145408 |access-date=3 April 2012 |newspaper=Twitter |date=3 April 2012 |url-status=live |archive-url=https://web.archive.org/web/20150606082207/https://twitter.com/LucaPasqualino/status/187089566816145408 |archive-date=6 June 2015 }}</ref><ref>{{cite news|title=Agenda: Topshop; Luke Pasqualino; Little Noise Sessions; Rebus Returns; Pin-Up Cats |url=https://www.independent.co.uk/life-style/fashion/features/agenda-topshop-luke-pasqualino-little-noise-sessions-rebus-returns-pinup-cats-8269624.html |access-date=4 November 2012 |newspaper=[[The Independent]] |date=4 November 2012 |url-status=live |archive-url=https://web.archive.org/web/20121105030441/http://www.independent.co.uk/life-style/fashion/features/agenda-topshop-luke-pasqualino-little-noise-sessions-rebus-returns-pinup-cats-8269624.html |archive-date=5 November 2012 }}</ref>
+
+Bong states that it took four years to develop the project, with an additional three to produce with Park.<ref name="collider.com" /> Stating, "Today, I feel I have overcome a terrible disease, like cancer cells had occupied my body during that time," as well as expressing an interest in making smaller films in the future.<ref>{{cite news|title="The Transperceneige" topped the box office even before its Korean cinema release|url=http://www.20minutes.fr/cinema/1194413-20130731-le-transperceneige-prend-tete-box-office-coreen-avant-sortie-salle|access-date=31 July 2013|newspaper=20 Minutes|date=31 July 2013}}</ref> The film's production countries include the Czech Republic, France, South Korea, and the United States.
+
+=== Filming ===
+[[File:Bong Joon-ho Deauville 2013.jpg|thumb|upright|Director [[Bong Joon-ho]] promoting the film at the [[2013 Deauville American Film Festival]]]]
+
+In August 2011, the studio was determined as the shooting location, and in October 2011, Bong and his production team moved to the Czech Republic.<ref>{{cite news|title=The Host stars join Bong Joon-ho's international sci-fi thriller by javabeans |url=http://www.dramabeans.com/2012/03/the-host-stars-join-bong-joon-hos-international-sci-fi-thriller/ |access-date=19 March 2012 |newspaper=DramaBeans |date=19 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20120321141703/http://www.dramabeans.com/2012/03/the-host-stars-join-bong-joon-hos-international-sci-fi-thriller/ |archive-date=21 March 2012 }}</ref><ref>{{cite news|title=The Host stars join Bong Joon-ho's international sci-fi thriller by javabeans |url=http://twitchfilm.com/2012/05/bong-joon-hos-snow-piercer-rumbles-to-life-1.html |access-date=13 May 2012 |newspaper=TwitchFilm |date=13 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20120919011204/http://twitchfilm.com/2012/05/bong-joon-hos-snow-piercer-rumbles-to-life-1.html |archive-date=19 September 2012 }}</ref><ref>{{cite news|title=Snowpiercer ... in production|url=http://www.stillking.com/news/snowpiercer-in-production/|access-date=13 May 2012|newspaper=StillKing|date=16 April 2012}}</ref> During the period of November 2011 to April 2012, the key members of the crew were secured and confirmed, those being: Ondřej Nekvasil, Eric Durst, Julian Spencer and Marco Beltrami. The preparatory production began in [[Tyrol (state)|Tyrol]], Austria during mid-March for one day to shoot some snowy scenery on the [[Hintertux Glacier]], which made for excellent conditions and perfect weather.<ref>{{cite news|title=Snowpiercer in Tirol|url=http://www.cinetirol.com/en/home/snowpiercer-in-tirol-1664477.html|access-date=1 March 2012|newspaper=Cinetirol|url-status=dead|archive-url=https://web.archive.org/web/20121015155415/http://www.cinetirol.com/en/home/snowpiercer-in-tirol-1664477.html|archive-date=15 October 2012}}</ref><ref>{{cite news|title=The glaciers win in "Snowpiercer", but at what cost? |url=http://glacierhub.org/2014/07/10/the-glaciers-win-in-snowpiercer-but-at-what-cost/ |access-date=10 July 2014 |newspaper=Cinetirol |date=10 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140829020705/http://glacierhub.org/2014/07/10/the-glaciers-win-in-snowpiercer-but-at-what-cost/ |archive-date=29 August 2014 }}</ref> On 3 April 2012, [[principal photography]] had officially begun in [[Prague]], Czech Republic, at the Barrandov Studios on [[gimbal]]s on its interconnected sound-stages after preparatory filming in the production occurred at the end of March, with a said budget near to $42 million, which was the largest film budget of all time for any film with Korean investors.<ref name="koreanfilm.or.kr">{{cite news|url=http://koreanfilm.or.kr/webzine/sub/feature.jsp?mode=A_VIEW&wbSeq=62|title=The Big 4 Goes Global – BONG JOON-HO|date=14 May 2012|newspaper=Korean Film|access-date=14 May 2012|url-status=live|archive-url=https://web.archive.org/web/20120626151506/http://koreanfilm.or.kr/webzine/sub/feature.jsp?mode=A_VIEW&wbSeq=62|archive-date=26 June 2012}}</ref>
+
+Bong filmed ''Snowpiercer'' with [[35mm movie film|35mm]] film in a [[1.85:1]] aspect ratio.<ref>{{cite news|url=http://cromeyellow.com/film-review-snowpiercer/|title=Film Review: 'Snowpiercer'|date=4 July 2014|newspaper=Chrome Yellow|access-date=4 July 2014|url-status=usurped|archive-url=https://web.archive.org/web/20141004021826/http://cromeyellow.com/film-review-snowpiercer/|archive-date=4 October 2014}}</ref><ref>{{cite news|url=https://twitter.com/eug/status/482336944073236480|title=The last Korean film shot in 35&nbsp;mm.|date=26 June 2014|newspaper=Eugene Hernandez|access-date=26 June 2014|url-status=live|archive-url=https://web.archive.org/web/20150611025111/https://twitter.com/eug/status/482336944073236480|archive-date=11 June 2015}}</ref> Roughly ninety percent of the film was shot on set. Bong's original wish was to shoot the film entirely in Korea, but a studio large enough to accommodate a set of such scale was difficult to find, thus Barrandov Studio was used instead, requiring the construction of a 100-meter replica of the title train.<ref name="koreanfilm.or.kr" /><ref>{{cite news|title=Snowpiercer director Bong Joon-Ho Discusses the Film |url=http://www.denofgeek.us/movies/snowpiercer/236721/snowpiercer-director-bong-joon-ho-discusses-the-film |access-date=24 May 2014 |newspaper=DenOfGeek |date=24 May 2014 |url-status=live |archive-url=https://web.archive.org/web/20140628112118/http://www.denofgeek.us/movies/snowpiercer/236721/snowpiercer-director-bong-joon-ho-discusses-the-film |archive-date=28 June 2014 }}</ref> In choosing Barrandov Studio, Bong explained, "All the artwork, huge train sets and the gimbal were greatly completed and fully operational. Shooting at Barrandov Studios will never stop with a perpetual engine."<ref>{{cite news|title=PRODUCTION GUIDE SHOOTING WITH BARRANDOV STUDIOS |url=http://www.barrandov.cz/UserFiles/file/Production%20Guide%20to%20Barrandov%20Studios%202013.pdf |access-date=19 March 2012 |newspaper=[[Barrandov Studios]] |date=19 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20141020100731/http://www.barrandov.cz/UserFiles/file/Production%20Guide%20to%20Barrandov%20Studios%202013.pdf |archive-date=20 October 2014 }}</ref> Bong's usage of the studio allowed him and his team to carry out meticulous experiments to contrive perpetual movement by staging the film on a giant gyroscopic gimbal, which can roll from side to side or bend realistically, to give three-dimensional feel to the train.<ref>{{cite news|title=Revolt on the Polar Express |url=http://www.nybooks.com/blogs/nyrblog/2014/jul/01/revolt-polar-express-snowpiercer/ |access-date=1 July 2014 |newspaper=NY Books |date=1 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140704205422/http://www.nybooks.com/blogs/nyrblog/2014/jul/01/revolt-polar-express-snowpiercer/ |archive-date=4 July 2014 }}</ref> Nearly all the shots within the train are filmed so that the tail sections are left of the characters on-screen, and the engine to the right; this was a "discipline" that Bong wanted to "maintain that energy, and give the audience a sense that whichever way the shot is moving, that's where the characters are going".<ref>{{cite web|url=https://www.vulture.com/2014/06/director-bong-joon-ho-talks-snowpiercers-ending.html |title=Director Bong Joon-ho Breaks Down Snowpiercer's Ending |first=Simon |last=Abrams |date=29 June 2014 |access-date=27 April 2015 |work=[[Vulture (magazine)|Vulture]] |url-status=live |archive-url=https://web.archive.org/web/20150423114252/http://www.vulture.com/2014/06/director-bong-joon-ho-talks-snowpiercers-ending.html |archive-date=23 April 2015 }}</ref>
+
+Flash SFX, the team involved in the construction of the gimbal stated, "The main challenge of physical effects work was that of inventing and developing a system that would perfectly simulate movements of train in motion. We managed to create a massive gimbal system supporting train cars with a total weight close to 100 tons. It was capable of simulating all sideway motions and vibrations of the train, including perfect make-believe curves of railroad tracks."<ref>{{cite news|title=Snowpiercer |url=http://www.flash-sfx.cz/en/mdl/event/snowpiercer |access-date=16 February 2013 |newspaper=FlashSFX |date=16 February 2013 |url-status=live |archive-url=https://web.archive.org/web/20130301045506/http://www.flash-sfx.cz/en/mdl/event/snowpiercer |archive-date=1 March 2013 }}</ref>
+
+On 14 July 2012, principal photography officially wrapped in the Barrandov Studios after a 72-day shoot,<ref>{{cite news|title=Bong Joon Ho, Snowpiercer |url=http://www.screendaily.com/features/interviews/bong-joon-ho-snowpiercer/5059479.article |access-date=29 August 2013 |newspaper=ScreeDaily |date=29 August 2013 |url-status=live |archive-url=https://web.archive.org/web/20131006112254/http://www.screendaily.com/features/interviews/bong-joon-ho-snowpiercer/5059479.article |archive-date=6 October 2013 }}</ref><ref name="screendaily.com">{{cite news|title=Bong Joon Ho wraps Snowpiercer in Prague |url=http://www.screendaily.com/news/asia-pacific/bong-joon-ho-wraps-snow-piercer-in-prague/5044425.article |access-date=17 July 2013 |newspaper=ScreeDaily |date=17 July 2013 |url-status=live |archive-url=https://web.archive.org/web/20131004213743/http://www.screendaily.com/news/asia-pacific/bong-joon-ho-wraps-snow-piercer-in-prague/5044425.article |archive-date=4 October 2013 }}</ref> with [[post-production]] carried out in South Korea, and Bong started editing the film for its release.<ref name="screendaily.com" />
+
+=== Visual effects ===
+The visual effects company [[Scanline VFX]] worked on ''Snowpiercer''.<ref name="The Visual Effects of Snowpiercer">{{cite news|title=The Visual Effects of Snowpiercer |url=http://cinefex.com/blog/snowpiercer/ |access-date=17 July 2014 |newspaper=[[Cinefex]] |date=17 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140811122302/http://cinefex.com/blog/snowpiercer/ |archive-date=11 August 2014 }}</ref> The company worked primarily on the exterior shots of the film: the frozen city, the Yekaterina Bridge, the Frozen Harbour landscape in the sushi lounge, the "Frozen Seven" sequence, the industrial park in the shoot-out sequence, and the avalanche and post crash environment at the end of the film.<ref name="artofvfx.com">{{cite news|title=SNOWPIERCER: Michel Mielke – VFX Supervisor – Scanline VFX |url=http://www.artofvfx.com/?p=6002 |access-date=12 June 2014 |newspaper=[[Cinefex]] |date=12 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140625115557/http://www.artofvfx.com/?p=6002 |archive-date=25 June 2014 }}</ref> Already having multiple designs, storyboards and basic concepts of the train cars, it set in motion the development of over 60 different versions of the various wagons for the train ''Snowpiercer''. Thus, visual effects supervisor Michel Mielke said "... we [had] a good idea of the vision of director Bong, we saw what he liked, and what did not work for the movie."<ref name="artofvfx.com" />
+
+Visual effects designer Eric Durst spoke of the Aquarium Car being an intriguing challenge of lighting, with the differentiation of a water-based environment on one side and a frozen-based landscape at the other. Durst and his team, including director of photography Alex Hong, had light "travel through water trays on top of the aquarium structure."<ref name="The Visual Effects of Snowpiercer" /> Durst added that "These refracted the light spilling on the actors, replicating the way light would react in an actual aquarium environment." In the task of creating that world, Mark Breakspear and his team in Vancouver spent a great amount of time at the [[Vancouver Aquarium]] to study "the fish, the lighting environments, the way the light refracted through the water and glass, along with how it distorted the fish as they passed."<ref name="The Visual Effects of Snowpiercer" />
+
+Among the most challenging effects on the train was the length of the train and the number of cars that needed to be handled. Mielke had a "very complex rig" created and built to provide the animators involved in the creating process with enough capability as was possible. He stated, "The rig managed that the train automatically followed the rails, that the motion of the wagons where simulated depending on the rails, that the wagons could be changed easily and so on."<ref name="artofvfx.com" />
+
+Parallel to principal photography in Prague, the first designs of visuals spanned from May 2012 up until the final shots of early March 2013, with a team of over 70 artists developing over 186 VFX-shots with almost 50 being full of [[computer-generated imagery]].<ref name="artofvfx.com" />
+
+=== Design ===
+==== Costume design ====
+[[Costume designer]] Catherine George explained that Mason was initially inspired by a Smithsonian photograph that production designer Ondřej Nekvasil had found of an older lady amongst a room full of dead birds at the [[National Museum of Natural History|Museum of Natural History]], who was a real person from Swinton's childhood.<ref name="Radish">{{cite interview |date=25 June 2014 |author=Christina Radish |website=Collider |title=Tilda Swinton Talks SNOWPIERCER, Creating Her Outrageous Character, Playing a Character Originally Written as a Man & the Film's International Production |url=https://collider.com/tilda-swinton-snowpiercer-interview/ |access-date=April 1, 2024 |url-status=live |archive-url=https://web.archive.org/web/20140627042327/http://collider.com/tilda-swinton-snowpiercer-interview |archive-date=27 June 2014 }}</ref> In designing Mason's costume, George found images of women from their late sixties and early seventies, adding that, "... a certain type that I remembered growing up who would wear their fur to go into town and scoff at people who were less better off, a bit of a [[Margaret Thatcher]] type, really."<ref name="clothesonfilm.com">{{cite news|title=Snowpiercer: Q&A with Costume Designer Catherine George |url=http://clothesonfilm.com/snowpiercer-qa-with-costume-designer-catherine-george/35353/ |access-date=1 August 2014 |newspaper=Clothes on Film |date=1 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20140827201143/http://clothesonfilm.com/snowpiercer-qa-with-costume-designer-catherine-george/35353/ |archive-date=27 August 2014 }}</ref> George also designed Minister Mason's suit to look "a typical conservative politician shape and style" with the purple adding a royal quality to the attire.<ref name="clothesonfilm.com" /> She had "collected pictures of dictators wearing elaborate uniforms and crazy hand-made medals" to experiment with the designs of such a character.<ref name="hellotailor.blogspot.co.uk">{{cite news|title=Interview: "Snowpiercer" costume designer Catherine George. |url=http://hellotailor.blogspot.co.uk/2014/07/interview-with-snowpiercer-costume.html |access-date=29 July 2014 |newspaper=Hello, Tailor |date=29 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20141027000213/http://hellotailor.blogspot.co.uk/2014/07/interview-with-snowpiercer-costume.html |archive-date=27 October 2014 }}</ref> George later admitted to the similarities to [[Ayn Rand]], although not intentional.<ref name="hellotailor.blogspot.co.uk" /> George and Bong travelled to Swinton's home in Scotland with "a couple of suitcases of clothes, wigs, glasses and teeth" and played with costuming ideas for Swinton's Minister Mason character.<ref name="Radish" />
+
+On creating individuality for the passengers in the tail section, George had the designs come from random materials they would use to fashion practical clothing, "The tail section clothing was pieced together from different garments and repairs were made on top of that. They had to improvise with any materials that were left on the train."<ref name="clothesonfilm.com" /> For the design of Curtis, Bong and George wanted him to be anonymous but at the same time recognizable. The design was difficult as George had to conceal Evans's muscular physique and muscle mass thus, "We had to cut out the sleeves of his under layers to help him look leaner."<ref>{{cite news|title=Everything you need to know about 'Snowpiercer,' this summer's best post-apocalyptic comedy-horror fairy tale |url=http://insidemovies.ew.com/2014/06/26/snowpiercer-bong-chris-evans-weinstein/ |access-date=26 June 2014 |newspaper=[[Entertainment Weekly]] |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140626181425/http://insidemovies.ew.com/2014/06/26/snowpiercer-bong-chris-evans-weinstein/ |archive-date=26 June 2014 }}</ref>
+
+George personally designed the costumes for Nam and Yona, who wear the "darker-coloured intense black".<ref name="hellotailor.blogspot.co.uk" /> Taking inspiration from photographs of train engineers from an early industrial period and vintage French railway jackets, it was designed while she looked at utilitarian clothes due to Nam previously being a train engineer before his imprisonment. George also designed many of the tail section costumes, including Nam's, using Japanese [[Boro (textile)|Boro]] fabric.<ref name="clothesonfilm.com" />
+
+In creating Claude's yellow coat and dress, George was mindful of the fact it was the first colour of brightness in the tail section scene, as well as the property of yellow being the most luminous colour in the spectrum.<ref name="clothesonfilm.com" /> She expressed, "It's the colour that captures our attention more than any other and in [[colour psychology]] yellow is non-emotional and lacking compassion." Camera testing occurred before deciding the final colours as well as observing how they'd interact, with the back drop of darker costume colours.<ref name="clothesonfilm.com" />
+
+==== Production design ====
+Bong and his illustrators created various pieces of [[concept art]] for the train cars of ''Snowpiercer'', led by Czech [[production designer]] Ondřej Nekvasil, who was brought onto the production team to help realize those visions.<ref name="Snowpiercer Press Notes" /><ref name="nytimes.com">{{cite news|title=A Train to Nowhere in a New Ice Age – Designing the Train Sections for Bong Joon-ho's 'Snowpiercer' |url=https://www.nytimes.com/2014/06/15/movies/designing-the-train-sections-for-bong-joon-hos-snowpiercer.html |access-date=13 June 2014 |newspaper=[[The New York Times]] |date=13 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140615192049/http://www.nytimes.com/2014/06/15/movies/designing-the-train-sections-for-bong-joon-hos-snowpiercer.html |archive-date=15 June 2014 }}</ref> Nekvasil approached the atmosphere of the tail section it as if it were a "dark, monochromatic ... life", emphasising poor living arrangements, to which he found inspiration from poor areas of Hong Kong and elsewhere to put in the set designs. In order to make the colours appear "used" and "dirty", Nekvasil and company started with colourful props that were subsequently washed out and forcibly aged to create a feeling of "really used property and space", while creating a back story to justify the appearance.<ref name="nytimes.com" />
+
+When designing the train, Nekvasil and Bong hit upon the idea of the train not being designed by one man in one specific moment; the idea that "these various train cars were built in different periods of Wilford's life".<ref>{{cite news|title=The Mary Sue Exclusive Interview: Snowpiercer Director Bong Joon Ho |url=http://www.themarysue.com/bong-joon-ho-snowpiercer-interview/ |access-date=27 June 2014 |newspaper=The Mary Sue |date=27 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140628051438/http://www.themarysue.com/bong-joon-ho-snowpiercer-interview/ |archive-date=28 June 2014 }}</ref><ref name="Vice.com">{{cite news|title=We Talked To Snowpiercer's Production Designer About Building A World Inside A Train |url=https://www.vice.com/en/article/we-talked-to-snowpiercers-production-designer-about-building-a-world-inside-a-train/ |access-date=7 August 2014 |newspaper=The Creators Project |date=7 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20140811061519/http://thecreatorsproject.vice.com/en_uk/blog/we-talked-to-snowpiercers-production-designer-about-building-a-world-inside-a-train |archive-date=11 August 2014 }}</ref> Another idea was the logical scale of the train itself, though Bong entertained the notion of it being beyond a logical scale, Nekvasil stated, " ... if it's {{convert|20|ft|m|0|disp=sqbr}} wide, it'll no longer seem like a train."<ref name="Vice.com" /> Dimensions and sizes were discussed, and the design sized finalised was "slightly bigger than a typical train", though enough to allow space for camera movement inside the train. The design was difficult due to distance limitations, as Nekvasil said, "... the biggest stage we had, which was about {{convert|300|ft|m|-1|disp=sqbr}} long, was not big enough to fit everything."<ref name="Vice.com" />
+
+Instead of overly relying on CGI, Nekvasil's production design team constructed twenty-six individual train cars and used a giant gyroscopic gimbal in Prague's Barrandov Studios to simulate the movement of an actual train when shooting.<ref name="Revolt on the Polar Express">{{cite news|title=Revolt on the Polar Express|url=http://tonightatthemovies.com/indexhold/?p=23675|access-date=26 June 2014|newspaper=NY Books|date=26 June 2014|archive-date=3 September 2014|archive-url=https://web.archive.org/web/20140903000827/http://tonightatthemovies.com/indexhold/?p=23675|url-status=dead}}</ref><ref>{{cite news|title=Revolt on the Polar Express |url=http://www.nybooks.com/blogs/nyrblog/2014/jul/01/revolt-polar-express-snowpiercer/ |access-date=19 March 2012 |newspaper=NY Books |date=1 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140704205422/http://www.nybooks.com/blogs/nyrblog/2014/jul/01/revolt-polar-express-snowpiercer/ |archive-date=4 July 2014 }}</ref> Bong stated that the gimbal was used on the third day of shooting, explaining, "Sometimes we felt carsick on set," due to the realistic effects of the gimbal.<ref name="Revolt on the Polar Express" />
+
+==== Sound design ====
+[[Sound engineer]]s [[Anna Behlmer]], [[Terry Porter (sound engineer)|Terry Porter]] and Mark Holding [[sound mixing|mixed the sound]] for ''Snowpiercer'', supervised by sound editor Taeyoung Choi.<ref>{{cite news|title=Snowpiercer (2013) |url=https://www.nytimes.com/movies/movie/467835/Snowpiercer/cast |access-date=27 July 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141215232653/http://www.nytimes.com/movies/movie/467835/Snowpiercer/cast |department=Movies & TV Dept. |work=[[The New York Times]] |date=2014 |archive-date=15 December 2014 }}</ref>
+
+=== Music and soundtrack ===
+{{Main|Snowpiercer (soundtrack){{!}}''Snowpiercer'' (soundtrack)}}
+In May 2012, [[Marco Beltrami]] was hired to compose the incidental music for ''Snowpiercer''.<ref>{{cite web|url=http://filmmusicreporter.com/2012/05/04/marco-beltrami-to-score-snowpiercer-and-warm-bodies/ |title=Marco Beltrami to score "Snowpiercer" and "Warm Bodies" |author=Film Music Reporter |date=4 May 2012 |work=Film Scoring Assignments |url-status=live |archive-url=https://web.archive.org/web/20120517112848/http://filmmusicreporter.com/2012/05/04/marco-beltrami-to-score-snowpiercer-and-warm-bodies/ |archive-date=17 May 2012 |access-date=7 May 2012}}</ref> In January 2013, a song titled ''Yona Lights'' was released on the film's official website in South Korea.<ref>{{cite web |author=Young, Al |date=13 January 2013 |title=Listen To A Track From Bong Joon-ho's SNOWPIERCER Soundtrack, Plus Concept Art |url=http://twitchfilm.com/2013/01/listen-to-a-track-from-joon-ho-bongs-snowpiercer-soundtrack-plus-two-concept-art.html |url-status=dead |archive-url=https://web.archive.org/web/20140814193137/http://twitchfilm.com/2013/01/listen-to-a-track-from-joon-ho-bongs-snowpiercer-soundtrack-plus-two-concept-art.html |archive-date=14 August 2014 |work=[[Twitch Film]] |access-date=8 March 2014}}</ref> In July 2013, during the 007 Fimucité at [[Tenerife International Film Music Festival]] in the [[Canary Islands]], a few pieces of the three films composed by Beltrami (''Snowpiercer'', ''[[Soul Surfer (film)|Soul Surfer]]'' and ''[[The Wolverine (film)|The Wolverine]]'') were selected for the performance.<ref>{{cite web |title=2013: September 9: Snowpiercer OST released |url=http://www.fimucite.com/f7/index.php/en/programa-4/concerts/271-viernes-12-de-julio-2014 |url-status=dead |archive-url=https://web.archive.org/web/20141027025846/http://www.fimucite.com/f7/index.php/en/programa-4/concerts/271-viernes-12-de-julio-2014 |archive-date=27 October 2014 |work=[[Tenerife International Film Music Festival]] |access-date=12 May 2014}}</ref>
+
+The film's official soundtrack was released in August 2013 in South Korea and the international release date was on 9 September 2013.<ref>{{cite web|url=http://marco-beltrami.com/news.htm |title=Friday July 12th 2013 |work=Marco Beltrami |url-status=live |archive-url=https://web.archive.org/web/20140714195059/http://marco-beltrami.com/news.htm |archive-date=14 July 2014 |access-date=12 May 2014}}</ref>
+
+== Release ==
+''Snowpiercer'' premiered at the [[Times Square (Seoul)|Times Square]] on 29 July 2013 in Seoul, South Korea,<ref>{{cite news|title=Snowpiercer VIP premiere to be held on July 28 |url=https://ph.celebrity.yahoo.com/news/snowpiercer-vip-premiere-to-be-held-on-july-031303090.html |access-date=30 July 2013 |newspaper=[[Yahoo]] |date=30 July 2013 |url-status=live |archive-url=https://web.archive.org/web/20141027000731/https://ph.celebrity.yahoo.com/news/snowpiercer-vip-premiere-to-be-held-on-july-031303090.html |archive-date=27 October 2014 }}</ref> before screening at the [[2013 Deauville American Film Festival|Deauville American Film Festival]] as the closing film on 7 September 2013,<ref>{{cite news|title=Deauville American Film Festival Adds 'Snowpiercer' as Closing Film |url=https://www.hollywoodreporter.com/news/deauville-american-film-festival-adds-609669 |access-date=20 August 2014 |newspaper=[[The Hollywood Reporter]] |date=20 August 2014 |url-status=live |archive-url=https://web.archive.org/web/20140714120537/http://www.hollywoodreporter.com/news/deauville-american-film-festival-adds-609669 |archive-date=14 July 2014 }}</ref> the [[Berlin International Film Festival]] as the part of Berlin's Forum sidebar on 7 February 2014,<ref>{{cite news|title=Berlin: Boong Joon-ho's 'Snowpiercer' Gets Forum Special Screening |url=https://www.hollywoodreporter.com/news/berlin-boong-joon-hos-snowpiercer-673432 |access-date=9 July 2014 |newspaper=[[The Hollywood Reporter]] |date=23 January 2014 |url-status=live |archive-url=https://web.archive.org/web/20140901080653/http://www.hollywoodreporter.com/news/berlin-boong-joon-hos-snowpiercer-673432 |archive-date=1 September 2014 }}</ref> opening the [[Los Angeles Film Festival]] on 11 June 2014,<ref>{{cite news|title='Snowpiercer' to Open Los Angeles Film Festival |url=https://www.hollywoodreporter.com/news/snowpiercer-open-los-angeles-film-692624 |access-date=9 July 2014 |newspaper=[[The Hollywood Reporter]] |date=1 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20140608235509/http://www.hollywoodreporter.com/news/snowpiercer-open-los-angeles-film-692624 |archive-date=8 June 2014 }}</ref> and the [[Edinburgh International Film Festival]] on 22 June 2014.<ref>{{cite news|title=Snowpiercer |url=http://www.edfilmfest.org.uk/films/2014/snowpiercer |access-date=22 June 2014 |newspaper=[[Edinburgh International Film Festival]] |date=22 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140704101340/http://www.edfilmfest.org.uk/films/2014/snowpiercer |archive-date=4 July 2014 }}</ref>
+
+=== Cutting request ===
+On 9 November 2012, [[The Weinstein Company]] acquired the distribution rights to ''Snowpiercer'' from [[CJ Entertainment]] based on the script and some completed footage, with a plan for [[wide release]] in North America, as well as throughout the United Kingdom, Australia, New Zealand and South Africa.<ref>{{cite news|url=https://deadline.com/2012/11/afm-weinstein-co-acquires-snow-piercer-thriller-stars-avengers-chris-evans-367513/ |title=AFM: Weinstein Co Acquires ''Snow Piercer''; Thriller Stars ''Avengers'' Chris Evans |access-date=9 November 2013 |newspaper=Deadline |date=9 November 2013 |url-status=live |archive-url=https://web.archive.org/web/20140918010009/http://deadline.com/2012/11/afm-weinstein-co-acquires-snow-piercer-thriller-stars-avengers-chris-evans-367513/ |archive-date=18 September 2014 }}</ref> It was released in the United States on 27 June 2014 in just eight theaters in selected cities.<ref>{{cite news|url=https://www.boxofficemojo.com/news/?id=3862&p=.htm |title=Forecast: Fourth 'Transformers' to Fight Off Franchise's 'Extinction' This Weekend |author=Ray Subers |access-date=4 July 2014 |publisher=[[Box Office Mojo]] |date=26 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140705025525/http://boxofficemojo.com/news/?id=3862&p=.htm |archive-date=5 July 2014 }}</ref> This delay was caused by [[Harvey Weinstein]], an owner of The Weinstein Company, requesting 25 minutes of footage be cut, asking for less dialogue and more action,<ref name=jung /> and a voice-over sequence at the end of the film.<ref name=vineyard>{{cite web |last=Vineyard |first=Jennifer |title=Director Bong Joon-Ho Explains Harvey Weinstein's Problem With Snowpiercer |url=https://www.vulture.com/2013/11/whats-weinsteins-problem-with-snowpiercer.html |website=vulture.com |date=6 November 2013 |publisher=[[Vulture.com|Vulture]] |access-date=12 February 2021}}</ref> The fish-gutting scene was one that Weinstein was adamant about removing, but Bong lied to Weinstein, claiming his father was a fisherman and the scene was in tribute to his father, to get Weinstein to agree to keep it.<ref name=jung/> Weinstein screened his cut to a test audience of around 250 members. In response to the poor score given by the test audience, Weinstein said to Bong they needed to cut more.<ref name=jung>{{cite web |last1=Jung |first1=E. Alex |title=Korean Director Bong Joon-ho on His New Film 'Parasite' |url=https://www.vulture.com/2019/10/bong-joon-ho-parasite.html |website=vulture.com |date=7 October 2019 |publisher=[[Vulture.com|Vulture]] |access-date=12 February 2021}}</ref> In a later test screening of Bong's original cut of the film, the audience's score was "much higher".<ref name=vineyard /> Following the news of the cut, a ''Free Snowpiercer'' petition campaign demanding the director's cut of the film to be released in the US was created by cinema activist Denise Heard-Bashur,<ref>{{cite news|url=http://www.classicalite.com/articles/5138/20140113/chris-evans-new-movie-snowpiercer-release-plea-captain-america-death.htm/|title=Chris Evans New Movie 'Snowpiercer' Release Plea After Captain America Death Rumors|author=James Knight|access-date=8 July 2014|publisher=Classicalite|date=13 January 2014}}</ref> with support from the film's stars Tilda Swinton and John Hurt.<ref name=jung /> Bong's uncut version of the film was eventually released,<ref>{{cite news|url=https://www.slashfilm.com/snowpiercer-cut/ |title=There Is Only One Cut of 'Snowpiercer,' Which Opens Wide This Week |author=Russ Fischer |access-date=4 July 2014 |publisher=[[/Film|Slash Film]] |date=1 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140702102242/http://www.slashfilm.com/snowpiercer-cut/ |archive-date=2 July 2014 }}</ref> but with the caveat that the film switched distributors to Radius-TWC, resulting in a limited release in art house cinemas.<ref name=jung /> On 3 July 2014, it was announced that thanks to positive reviews, ''Snowpiercer'' would get a wider US release and play in over 150 theaters.<ref>{{cite news|url=https://www.bostonglobe.com/arts/movies/2014/06/28/harvey-weinstein-and-saga-snowpiercer/XOoYjxsOisSUhgut1dSfmJ/story.html |title=Harvey Weinstein and the saga of 'Snowpiercer' |author=Ty Burr |access-date=4 July 2014 |newspaper=[[The Boston Globe]] |date=28 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140706154101/http://www.bostonglobe.com/arts/movies/2014/06/28/harvey-weinstein-and-saga-snowpiercer/XOoYjxsOisSUhgut1dSfmJ/story.html |archive-date=6 July 2014 }}</ref><ref>{{cite news|url=http://www.blastr.com/2014-7-2/snowpiercer-finally-getting-wide-release-and-heres-where-its-playing |title=Snowpiercer is FINALLY getting a wide release (and here's where it's playing)' |author=Trent Moore |access-date=4 July 2014 |publisher=Blastr |date=2 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140706210221/http://www.blastr.com/2014-7-2/snowpiercer-finally-getting-wide-release-and-heres-where-its-playing |archive-date=6 July 2014 }}</ref>
+
+=== Home media ===
+The film was released on DVD and Blu-ray in various countries, including France and Korea, over Q3 and Q4 first, before the movie was finally debuted in North American theaters. The film was eventually released on home media in North America by [[Starz]]'s [[Anchor Bay Entertainment]] through The Weinstein Company Home Entertainment on 21 October 2014,<ref>{{cite web|url=http://www.blu-ray.com/movies/Snowpiercer-Blu-ray/79120/ |title=Snowpiercer Blu-ray |access-date=2 October 2014 |url-status=live |archive-url=https://web.archive.org/web/20141006083609/http://www.blu-ray.com/movies/Snowpiercer-Blu-ray/79120/ |archive-date=6 October 2014 }}</ref> and became available on [[Netflix]] for streaming on 1 November 2014.{{citation needed|date=April 2015}} It did not get a genuine UK release until November 2018, when it was made available digitally via [[Amazon Prime Video]] and was released on DVD & Blu-ray in 2020. A 4K restoration of the film was released on Blu-ray and digitally on January 14, 2025, by [[Lionsgate Films|Lionsgate]].<ref>{{cite web |url= https://www.blu-ray.com/movies/Snowpiercer-4K-Blu-ray/376264/|title=Snowpiercer 4K Blu-ray|access-date=5 December 2024|work= Blu-ray.com}}</ref>
+
+== Reception ==
+
+=== Box office ===
+Between its South Korean opening on 27 June 2014 and 23 October 2014, the film earned [[United States dollar|US$]]86.7 million worldwide.<ref>{{cite web|url=https://www.boxofficemojo.com/movies/?id=snowpiercer.htm |title=Snowpiercer |url-status=live |archive-url=https://web.archive.org/web/20150104110618/http://www.boxofficemojo.com/movies/?id=snowpiercer.htm |archive-date=4 January 2015 }}</ref> {{As of|April 2014}}, it was the tenth highest-grossing domestic film in South Korea with 9.35 million admissions. The film holds the domestic record for the fastest movie (domestic and foreign) to reach four million admissions, which it achieved in its fifth day after premiere, and another record for the highest weekend figure (from Friday to Sunday) for a Korean film, with 2.26 million viewers.<ref>{{cite web|url=http://www.koreanfilm.or.kr/jsp/news/reports.jsp?pageIndex=2&blbdComCd=601008&seq=257&mode=VIEW |title=Box Office: July 25 – August 7, 2013 |access-date=12 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20150102221639/http://www.koreanfilm.or.kr/jsp/news/reports.jsp?pageIndex=2&blbdComCd=601008&seq=257&mode=VIEW |archive-date=2 January 2015 }}</ref> The film took in $171,000 on its US opening weekend, averaging around $21,400 per theater.<ref name="BOM">{{cite web|url=https://www.boxofficemojo.com/movies/?id=snowpiercer.htm |title=Snowpiercer (2014) |publisher=IMDb |work=[[Box Office Mojo]] |access-date=7 September 2014 |url-status=live |archive-url=https://web.archive.org/web/20140909024021/http://boxofficemojo.com/movies/?id=snowpiercer.htm |archive-date=9 September 2014}}</ref> The film grossed US$59.8 million in South Korea and its largest international market was China, with $11.1 million.<ref>{{cite web|url=https://www.boxofficemojo.com/movies/?page=intl&id=snowpiercer.htm |title=SNOWPIERCER Foreign |access-date=22 December 2014 |work=[[Box Office Mojo]] |url-status=live |archive-url=https://web.archive.org/web/20141018042043/http://boxofficemojo.com/movies/?page=intl&id=snowpiercer.htm |archive-date=18 October 2014 }}</ref>
+
+=== Critical response ===
+Film review aggregation website [[Rotten Tomatoes]] reports that {{RT data|score}} of critics gave the film a positive rating, based on {{RT data|count}} reviews with an average score of {{RT data|average}}. The website's critical consensus states, "''Snowpiercer'' offers an audaciously ambitious action spectacle for filmgoers numb to effects-driven blockbusters."<ref>{{cite web|title=Snowpiercer (2014)|url=https://www.rottentomatoes.com/m/snowpiercer |access-date=20 November 2022 |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |url-status=live |archive-url=https://web.archive.org/web/20140625081455/http://www.rottentomatoes.com/m/snowpiercer/ |archive-date=25 June 2014 }}</ref> [[Metacritic]] assigned the film a weighted average score of 84 out of 100, based on 38 reviews from mainstream critics, considered to be "universal acclaim".<ref>{{cite web|title=Snowpiercer Reviews |url=https://www.metacritic.com/movie/snowpiercer |access-date=27 June 2014 |website=[[Metacritic]] |publisher=[[CBS Interactive]] |url-status=live |archive-url=https://web.archive.org/web/20140626151427/http://www.metacritic.com/movie/snowpiercer |archive-date=26 June 2014 }}</ref>
+
+Chris Nashawaty of ''[[Entertainment Weekly]]'' gave the piece an "A" rating, stating, "''Snowpiercer'' sucks you into its strange, brave new world so completely, it leaves you with the all-too-rare sensation that you've just witnessed something you've never seen before ... and need to see again."<ref>{{cite news|title=Snowpiercer |url=https://ew.com/article/2014/07/09/snowpiercer-movie/ |access-date=9 July 2014 |newspaper=[[Entertainment Weekly]] |date=9 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140627150739/http://www.ew.com/ew/article/0%2C%2C20829348%2C00.html |archive-date=27 June 2014 }}</ref>
+
+[[A. O. Scott]] wrote, in his review for ''[[The New York Times]]'', "Planetary destruction and human extinction happen a half-dozen times every summer. It's rarely this refreshing, though."<ref>{{cite news |date=26 June 2014 |title=Stuck in Steerage for the Postapocalypse |url=https://www.nytimes.com/2014/06/27/movies/in-snowpiercer-the-train-trip-to-end-all-train-trips.html?partner=rss&emc=rss&_r=0 |access-date=26 June 2014 |newspaper=[[The New York Times]]}}</ref> Andrew Pulver of ''[[The Guardian]]'' scored the film most positively, writing, "''Snowpiercer'' works brilliantly, the sum of extremely disparate parts that adds up to cinematic excellence."<ref>{{cite news |date=20 June 2014 |title=Snowpiercer: first look review – something of absurdist theatre, Terry Gilliam meets Samuel Beckett |url=https://www.theguardian.com/film/2014/jun/20/snowpiercer-first-look-review-edinburgh-2014 |url-status=live |archive-url=https://web.archive.org/web/20140622010552/http://www.theguardian.com/film/2014/jun/20/snowpiercer-first-look-review-edinburgh-2014 |archive-date=22 June 2014 |access-date=20 June 2014 |newspaper=[[The Guardian]]}}</ref> Joshua Rothkopf of ''[[Time Out New York]]'' scored the film five out of five stars, writing, "Sprung from a 1982 French graphic novel and bearing its era's trickle-down tensions, ''Snowpiercer'' is a headlong rush into conceptual lunacy—but you'll love it anyway." Rothkopf praises Joon-ho, stating, "... Bong grabs onto the grungy conventions of postapocalyptic adventure with relish. He serves up claustrophobic action scenes (one largely shot in the dark) and ominous, messianic overtones as the band of rebels makes its way forward."<ref>{{cite news|title=Snowpiercer (R) |url=https://www.timeout.com/us/film/snowpiercer-2013 |access-date=24 June 2014 |newspaper=[[Time Out New York]] |date=24 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140628092702/http://www.timeout.com/us/film/snowpiercer-2013 |archive-date=28 June 2014 }}</ref>
+
+[[Lou Lumenick]] of ''[[The New York Post]]'' gave the film high acclaim, writing, "Don't miss it—this is enormously fun visionary filmmaking, with a witty script and a great international cast." He added, "The beautifully designed train is one of the most memorable in screen history ..."<ref>{{cite news|title=Visionary epic 'Snowpiercer' is a sci-fi thrill ride |url=https://nypost.com/2014/06/25/visionary-epic-snowpiercer-is-a-sci-fi-thrill-ride/ |access-date=25 June 2014 |newspaper=[[The New York Post]] |date=25 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140625231343/http://nypost.com/2014/06/25/visionary-epic-snowpiercer-is-a-sci-fi-thrill-ride/ |archive-date=25 June 2014 }}</ref> [[David Denby]] of ''[[The New Yorker]]'' spoke highly of the piece, stating it to be, "Violent, often absurd, but full of brilliant surprises, while Bong keeps the center of the action moving toward the front of the train, a considerable feat of camera placement, choreographed mayhem, and cohesive editing", and praising Nekvasil's production design, "Bong and [Nekvasil], provide them with a series of [[wikt:sybaritic|sybaritic]] astonishments."<ref>{{cite news|title=Endgames |url=https://www.newyorker.com/magazine/2014/07/07/endgames |access-date=7 July 2014 |newspaper=[[The New Yorker]] |date=7 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140730193340/http://www.newyorker.com/magazine/2014/07/07/endgames |archive-date=30 July 2014 }}</ref>
+
+[[Clarence Tsui]] of ''[[The Hollywood Reporter]]'' wrote a highly positive review, commenting, "''Snowpiercer'' is still an intellectually and artistically superior vehicle to many of the end-of-days futuristic action thrillers out there." Speaking highly of Bong's film-making, Tsui wrote, "Bong's vivid depictions—aided by Ondřej Nekvasil's production design, Hong Kyung-pyo's cinematography and Steve M. Choe's editing—are exceptional."<ref name="THRreview">{{cite news|last=Tsui |first=Clarence |author-link=Clarence Tsui|title=Snowpiercer: Film Review |url=https://www.hollywoodreporter.com/review/snowpiercer-film-review-591020 |access-date=23 July 2014 |newspaper=[[The Hollywood Reporter]] |date=23 July 2013|url-status=live |archive-url=https://web.archive.org/web/20140703212359/http://www.hollywoodreporter.com/review/snowpiercer-film-review-591020 |archive-date=3 July 2014 }}</ref> [[David Thomson (film critic)|David Thomson]] of ''[[The New Republic]]'' remarked that "The most bracing and liberating thing about Joon-ho Bong's ''Snowpiercer'' is not just its lyrical forward motion, but the exuberance with which the film revels in its plot predicament." He furthers praises Nekvasil's "progression of design set-pieces" and Tilda Swinton's performance, saying "She is the life and soul of this riotous party, and you will be sad to see her disposed of, no matter that Mason's ghastly manner has earned it."<ref>{{cite news|title='Snowpiercer' is a Post-Apocalyptic Action Movie That's Actually Fun |url=https://newrepublic.com/article/118322/snowpiercer-review-joon-ho-bongs-exuberant-disaster-film |access-date=24 June 2014 |newspaper=[[The New Republic]] |date=24 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140626183226/http://www.newrepublic.com/article/118322/snowpiercer-review-joon-ho-bongs-exuberant-disaster-film |archive-date=26 June 2014 }}</ref> Scott Foundas of ''[[Variety (magazine)|Variety]]'' wrote, "An enormously ambitious, visually stunning and richly satisfying futuristic epic from the gifted Korean genre director Bong Joon-ho." Foundas added that Beltrami's original score was "among the generally impeccable craft contributions [to the film]".<ref>{{cite news|title=Film Review: 'Snowpiercer' |url=https://variety.com/2013/film/reviews/snowpiercer-review-1200565998/ |access-date=22 July 2014 |newspaper=[[The New Republic]] |date=22 July 2014 |url-status=live |archive-url=https://web.archive.org/web/20140715071707/http://variety.com/2013/film/reviews/snowpiercer-review-1200565998/ |archive-date=15 July 2014 }}</ref>
+
+James Rocchi of [[Film.com]] wrote that, "If the film has one element that never flags or falters, it's Evans."<ref>{{cite news|title=Review: 'Snowpiercer' |url=http://www.film.com/movies/review-snowpiercer |access-date=19 June 2014 |newspaper=[[The New Republic]] |date=19 June 2014 |url-status=live |archive-url=https://web.archive.org/web/20140623150416/http://www.film.com/movies/review-snowpiercer |archive-date=23 June 2014}}</ref>
+
+Some were more critical of the film. Jordan Adler of ''We've Got This Covered'' wrote "We leave ''Snowpiercer'' more exhausted with questions than invigorated by its unique vision and style. It is a formidable example of directorial control bogged down by poor writing, half-finished effects work and a rather thin exploration of a fascinating dystopian universe."<ref>{{Cite web|url=https://wegotthiscovered.com/movies/snowpiercer-review/|title=Snowpiercer Review|date=31 March 2014|website=We Got This Covered|language=en-US|access-date=23 January 2020}}</ref> [[Ann Hornaday]] of ''[[The Washington Post]]'' found otherwise potentially good acting to be "virtually lost in a tonal mishmash that can never decide between thoughtful political metaphor, lightheartedness and pulverizing violence" and went on to describe the director's "tiresome, slow-motion fetishism, mixing costumes and weaponry in an effort to distract from the scenes' sheer repetitiveness."<ref>{{cite news|url=https://www.washingtonpost.com/goingoutguide/movies/snowpiercer-movie-review-all-aboard-a-cold-train-to-nowhere/2014/07/01/69b9d924-012a-11e4-8fd0-3a663dfa68ac_story.html|title='Snowpiercer' movie review: All aboard a cold train to nowhere|newspaper=[[The Washington Post]]|date=July 1, 2014}}</ref>
+
+=== Critics' top ten lists ===
+In 2020, ''Snowpiercer'' was ranked by ''The Guardian'' number 8 among the classics of modern South Korean Cinema.<ref>{{cite news |last=Bradshaw|first=Peter|title=Classics of modern South Korean cinema – ranked! |url=https://www.theguardian.com/film/2020/feb/13/classics-of-modern-south-korean-cinema-ranked |website=The Guardian |date=13 February 2020 |access-date=16 March 2020}}</ref> The film appeared on several critics' lists of the top ten best films of 2014.<ref>{{cite web|url=https://www.metacritic.com/feature/film-critic-top-10-lists-best-movies-of-2014 |title=Best of 2014: Film Critic Top Ten Lists |publisher=[[Metacritic]] |access-date=6 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20141227042842/http://www.metacritic.com/feature/film-critic-top-10-lists-best-movies-of-2014 |archive-date=27 December 2014 }}</ref>
+
+== Accolades ==
+{| class="wikitable sortable plainrowheaders"
+|-
+|+ style="background: LightSteelBlue;" | Awards and nominations
+|-
+! Award
+! Date of ceremony
+! Category
+! Recipients
+! Result
+|-
+| [[Alliance of Women Film Journalists]]<ref>{{cite web|url=http://awfj.org/eda-awards-2/2014-awfj-eda-awards-nominees/ |title=2014 EDA Awards Nominees |publisher=[[Alliance of Women Film Journalists]] |access-date=8 January 2015 |date=8 January 2015 |url-status=live |archive-url=https://web.archive.org/web/20170215063508/http://awfj.org/eda-awards-2/2014-awfj-eda-awards-nominees/ |archive-date=15 February 2017 }}</ref>
+| [[Alliance of Women Film Journalists|12 January 2015]]
+| Best Supporting Actress
+| [[Tilda Swinton]]
+| {{won}}
+|-
+| rowspan="7" | [[Asia-Pacific Film Festival]]<ref>{{cite news|url=https://www.hollywoodreporter.com/news/south-koreas-snowpiercer-gets-7-661433 |title=South Korea's 'Snowpiercer' Gets 7 Nominations at Asia Pacific Film Fest |newspaper=[[The Hollywood Reporter]] |access-date=3 December 2013 |date=3 December 2013 |url-status=live |archive-url=https://web.archive.org/web/20131205113748/http://www.hollywoodreporter.com/news/south-koreas-snowpiercer-gets-7-661433 |archive-date=5 December 2013 }}</ref>
+| rowspan="7" | [[Asia-Pacific Film Festival|13 December 2013]]
+| Best Director
+| [[Bong Joon-ho]]
+| {{won}}
+|-
+| Best Supporting Actor
+| [[Song Kang-ho]]
+| {{nominated}}
+|-
+| Best Supporting Actress
+| Tilda Swinton
+| {{nominated}}
+|-
+| Best Cinematography
+| Hong Kyung-pyo
+| {{nominated}}
+|-
+| Best Editing
+| Steve M. Choe, Changju Kim
+| {{nominated}}
+|-
+| Best Production Design
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| Best Sound Design
+| Choi Tae-young
+| {{nominated}}
+|-
+| rowspan="5" | [[Asian Film Awards]]<ref>{{cite news|url=https://variety.com/2014/film/news/grandmaster-snowpiercer-top-asian-film-awards-nominations-1201097450/ |title=South Korea's 'Snowpiercer' Gets 7 Nominations at Asia Pacific Film Fest |newspaper=[[Variety (magazine)|Variety]] |access-date=11 February 2014 |date=11 February 2014 |url-status=live |archive-url=https://web.archive.org/web/20140211152849/http://variety.com/2014/film/news/grandmaster-snowpiercer-top-asian-film-awards-nominations-1201097450/ |archive-date=11 February 2014 }}</ref>
+| rowspan="5" | [[Asian Film Awards|27 March 2014]]
+| Best Film
+| [[Park Chan-wook]], Lee Tae-hun, Jeong Tae-sung, Steven Nam
+| {{nominated}}
+|-
+| Best Director
+| Bong Joon-ho
+| {{nominated}}
+|-
+| Best Screenwriter
+| Bong Joon-ho, [[Kelly Masterson]]
+| {{nominated}}
+|-
+| Best Production Design
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| Best Costume Designer
+| Catherine George
+| {{nominated}}
+|-
+| [[Austin Film Critics Association Awards]]<ref>{{cite web|url=http://www.hitfix.com/in-contention/austin-critics-love-boyhood-single-out-joe-star-gary-poulter |title=Austin critics love 'Boyhood,' single out 'Joe' star Gary Poulter |work=[[HitFix]] |access-date=17 December 2014 |date=17 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141218214307/http://www.hitfix.com/in-contention/austin-critics-love-boyhood-single-out-joe-star-gary-poulter |archive-date=18 December 2014 }}</ref>
+| [[Austin Film Critics Association|17 December 2014]]
+| Top 10 Films
+|
+| {{Runner-up}}
+|-
+| rowspan="4" | [[Baeksang Arts Awards]]<ref>{{cite web|url=http://www.dramabeans.com/2014/04/nominees-announced-for-baeksang-arts-awards/ |title=Nominees announced for Baeksang Arts Awards |publisher=DramaBeans |access-date=28 April 2014 |date=28 April 2014 |url-status=live |archive-url=https://web.archive.org/web/20140429194925/http://www.dramabeans.com/2014/04/nominees-announced-for-baeksang-arts-awards/ |archive-date=29 April 2014 }}</ref>
+| rowspan="4" | [[50th Paeksang Arts Awards|27 May 2014]]
+| Best Film
+|
+| {{nominated}}
+|-
+| Best Director
+| Bong Joon-ho
+| {{won}}
+|-
+| Best Supporting Actress
+| [[Go Ah-sung]]
+| {{nominated}}
+|-
+| Most Popular Actress
+| Go Ah-sung
+| {{nominated}}
+|-
+| [[Black Reel Awards]]<ref>{{cite web|url=http://www.hitfix.com/in-contention/dear-white-people-selma-lead-15th-annual-black-reel-awards-nominations-2 |title='Dear White People,' 'Selma' lead 15th annual Black Reel Awards nominations |work=[[HitFix]] |access-date=17 December 2014 |date=17 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20141218072239/http://www.hitfix.com/in-contention/dear-white-people-selma-lead-15th-annual-black-reel-awards-nominations-2 |archive-date=18 December 2014 }}</ref>
+| [[Black Reel Awards of 2015|22 February 2015]]
+| [[Black Reel Award for Best Supporting Actress|Outstanding Supporting Actress]]
+| [[Octavia Spencer]]
+| {{nom}}
+|-
+| rowspan="7" | [[Blue Dragon Film Awards]]<ref>{{cite web|url=http://wftrok.com/2013/11/13/the-blue-dragon-film-awards-2013-nominations/ |title=The Blue Dragon Film Awards 2013 Nominations |work=Word From The R.O.K |publisher=Word from the ROK |access-date=13 November 2013 |date=13 November 2013 |url-status=live |archive-url=https://web.archive.org/web/20131113080739/http://wftrok.com/2013/11/13/the-blue-dragon-film-awards-2013-nominations/ |archive-date=13 November 2013 }}</ref>
+| rowspan="7" | [[34th Blue Dragon Film Awards|22 November 2013]]
+| Best Film
+|
+| {{nominated}}
+|-
+| Best Director
+| Bong Joon-ho
+| {{won}}
+|-
+| Best Supporting Actress
+| Go Ah-sung
+| {{nominated}}
+|-
+| Best Cinematography
+| Kyung-pyo Hong
+| {{nominated}}
+|-
+| Best Production Design
+| Ondřej Nekvasil
+| {{won}}
+|-
+| Best Technical Aspect (Editing)
+| Steve M. Choe, Changju Kim
+| {{nominated}}
+|-
+| Best Technical Aspect (Special Effects)
+| Eric Durst
+| {{nominated}}
+|-
+| rowspan="3" | Boston Online Film Critics Association<ref name="Variety">{{cite web
+ |url=http://www.hitfix.com/in-contention/snowpiercer-named-best-picture-by-boston-online-critics
+ |title='Snowpiercer' named best picture by Boston online critics
+ |work=[[Hitfix]]
+ |access-date=6 December 2014
+|date=6 December 2014
+|url-status=dead
+ |archive-url=https://web.archive.org/web/20141207083127/http://www.hitfix.com/in-contention/snowpiercer-named-best-picture-by-boston-online-critics
+ |archive-date=7 December 2014
+}}</ref>
+| rowspan="3" | 6 December 2014
+| Best Picture
+|
+| {{won}}
+|-
+| Top 10 Films
+|
+| {{won}}
+|-
+| Best Supporting Actress
+| Tilda Swinton
+| {{won}}
+|-
+| [[Busan Film Critics Awards]]<ref>{{cite news|url=https://variety.com/2014/film/news/tilda-swinton-bennett-miller-to-receive-tributes-at-2014-gotham-awards-1201319699/ |title=Tilda Swinton, Bennett Miller to Receive Tributes at 2014 Gotham Awards |newspaper=[[Variety (magazine)|Variety]] |access-date=2 October 2014 |date=2 October 2014 |url-status=live |archive-url=https://web.archive.org/web/20141008054148/http://variety.com/2014/film/news/tilda-swinton-bennett-miller-to-receive-tributes-at-2014-gotham-awards-1201319699/ |archive-date=8 October 2014 }}</ref>
+| [[Busan Film Critics Awards|1 November 2013]]
+| Best Screenplay
+| Bong Joon-ho, Kelly Masterson
+| {{won}}
+|-
+| rowspan="4" | Central Ohio Film Critics Association<ref>{{cite news|url=http://www.dispatch.com/content/blogs/the-movie-blog/2015/01/Central-Ohio-Film-Critics-Association-awards.html |title=Nominees announced for Central Ohio Film Critics Association awards |newspaper=[[The Columbus Dispatch]] |access-date=4 January 2015 |date=2 January 2015 |url-status=live |archive-url=https://web.archive.org/web/20150104195912/http://www.dispatch.com/content/blogs/the-movie-blog/2015/01/Central-Ohio-Film-Critics-Association-awards.html |archive-date=4 January 2015 }}</ref>
+| rowspan="4" | 8 January 2015
+| Best Film
+|
+| {{Runner-up}}
+|-
+| Best Screenplay
+| Bong Joon-ho, Kelly Masterson
+| {{Runner-up}}
+|-
+| Best Supporting Actress
+| Tilda Swinton
+| {{won}}
+|-
+| Actor of the Year
+| Tilda Swinton {{small|(also for ''[[The Grand Budapest Hotel]]'', ''[[Only Lovers Left Alive]]'', and ''[[The Zero Theorem]]'')}}
+| {{Runner-up}}
+|-
+| [[Chicago Film Critics Association]]<ref>{{cite web
+ |url=http://www.chicagofilmcritics.org/awards/130-birdman-leads-2014-cfca-nominations
+ |title="Birdman" Leads 2014 CFCA Nominations
+ |publisher=[[Chicago Film Critics Association]]
+ |access-date=12 December 2014
+|date=12 December 2014
+|url-status=dead
+ |archive-url=https://web.archive.org/web/20151127051249/http://www.chicagofilmcritics.org/awards/130-birdman-leads-2014-cfca-nominations
+ |archive-date=27 November 2015
+}}</ref>
+| [[Chicago Film Critics Association|15 December 2014]]
+| [[Chicago Film Critics Association Awards 2014|Best Art Direction]]
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| rowspan="3" | [[Critics' Choice Movie Awards]]<ref>{{cite web|url=http://www.criticschoice.com/movie-awards/ |title="Birdman" Leads the 20th Annual Critics' Choice Move Awards Nominations with Thirteen" |publisher=[[Critics' Choice Movie Awards]] |access-date=15 December 2014 |date=15 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20121215082305/http://www.criticschoice.com/movie-awards/ |archive-date=15 December 2012 }}</ref>
+| rowspan="3" | [[Critics' Choice Movie Awards|15 January 2015]]
+| [[Critics' Choice Movie Awards|Best Sci-Fi/Horror Movie]]
+|
+| {{nominated}}
+|-
+| [[Critics' Choice Movie Award for Best Supporting Actress|Best Supporting Actress]]
+| Tilda Swinton
+| {{nominated}}
+|-
+| [[Critics' Choice Movie Award for Best Art Direction|Best Art Direction]]
+| Ondřej Nekvasil, Beatrice Brentnerova
+| {{nominated}}
+|-
+| [[Detroit Film Critics Society]]<ref>{{cite web|url=http://detroitfilmcritics.com/the-2014-detroit-film-critics-society-awards-nominations/ |title=This year's Best Director |publisher=[[Detroit Film Critics Society]] |access-date=11 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20141213014735/http://detroitfilmcritics.com/the-2014-detroit-film-critics-society-awards-nominations/ |archive-date=13 December 2014 }}</ref>
+| [[Director's Cut Awards|19 December 2014]]
+| Best Supporting Actress
+| Tilda Swinton
+| {{nominated}}
+|-
+| [[Director's Cut Awards]]<ref>{{cite web|url=http://movie.naver.com/movie/bi/fi/prize.nhn?code=156&ins=1|title=This year's Best Director|publisher=[[Director's Cut Awards]]|access-date=15 August 2014|date=15 August 2014}}</ref>
+| [[Director's Cut Awards|15 August 2014]]
+| Best Director
+| Bong Joon-ho
+| {{won}}
+|-
+| rowspan="2" | [[Dorian Awards|Gay and Lesbian Entertainment Critics Association]]<ref>{{cite web|url=https://www.thewrap.com/boyhood-transparent-lead-dorian-awards/ |title='Boyhood,' 'Transparent' Lead Dorian Awards |publisher=[[TheWrap]] |access-date=20 January 2015 |date=20 January 2015 |url-status=live |archive-url=https://web.archive.org/web/20160803171006/http://www.thewrap.com/boyhood-transparent-lead-dorian-awards/ |archive-date=3 August 2016 }}</ref>
+| rowspan="2" | [[Dorian Awards|1 March 2015]]
+| Unsung Film of the Year
+|
+| {{nominated}}
+|-
+| Visually Striking Film of the Year
+|
+| {{nominated}}
+|-
+| rowspan="4" | Georgia Film Critics Association<ref>{{cite web|url=http://www.georgiafilmcritics.org/p/2014-awards.html |title=Georgia Film Critics Association 2014 Nominations |publisher=Georgia Film Critics Association |access-date=7 January 2015 |date=7 January 2015 |url-status=live |archive-url=https://web.archive.org/web/20150114010531/http://www.georgiafilmcritics.org/p/2014-awards.html |archive-date=14 January 2015 }}</ref>
+| rowspan="4" | 9 January 2015
+| Best Picture
+|
+| {{nominated}}
+|-
+| Best Supporting Actress
+| Tilda Swinton
+| {{won}}
+|-
+| Best Adapted Screenplay
+| Bong Joon-ho, Kelly Masterson, [[Jacques Lob]], Benjamin Legrand, [[Jean-Marc Rochette]]
+| {{nominated}}
+|-
+| Best Production Design
+| Ondřej Nekvasil, Catherine George
+| {{nominated}}
+|-
+| rowspan="2" | [[Rotten Tomatoes|Golden Tomato Awards]]<ref>{{cite web|url=http://www.marketwired.com/press-release/rotten-tomatoes-announces-2014-golden-tomato-award-winners-boyhood-wins-best-reviewed-1980783.htm |title=Rotten Tomatoes™ Announces 2014 Golden Tomato Award Winners; Boyhood Wins for Best Reviewed Wide Release |publisher=[[Rotten Tomatoes]] |access-date=6 January 2015 |date=6 January 2015 |url-status=live |archive-url=https://web.archive.org/web/20150109194549/http://www.marketwired.com/press-release/rotten-tomatoes-announces-2014-golden-tomato-award-winners-boyhood-wins-best-reviewed-1980783.htm |archive-date=9 January 2015 }}</ref>
+| rowspan="2" | [[Rotten Tomatoes|6 January 2015]]
+| Best Limited Release Film
+|
+| {{Runner-up}}
+|-
+| Best Comic Book/Graphic Novel Film
+|
+| {{won}}
+|-
+| [[Gotham Awards]]<ref name="Variety" />
+| [[Gotham Independent Film Awards 2014|1 December 2014]]
+| Tribute Award
+| Tilda Swinton {{small|(also for ''Only Lovers Left Alive'', and ''The Grand Budapest Hotel'')}}
+| {{won}}
+|-
+| rowspan="7" | [[Grand Bell Awards]]<ref>{{cite web|url=http://www.soompi.com/2013/11/02/the-face-reader-sweeps-the-50th-grand-bell-awards-by-winning-six-awards-including-best-film/ |title="The Face Reader" Sweeps the 50th Grand Bell Awards By Winning Six Awards Including Best Film |work=Soompi |publisher=[[Soompi]] |access-date=2 November 2013 |date=2 November 2013 |url-status=live |archive-url=https://web.archive.org/web/20131103201328/http://www.soompi.com/2013/11/02/the-face-reader-sweeps-the-50th-grand-bell-awards-by-winning-six-awards-including-best-film/ |archive-date=3 November 2013 }}</ref>{{Unreliable source?|reason=See reliable sources list on [[WP:KO/RS]]|date=March 2025}}
+| rowspan="7" | [[Grand Bell Awards|1 November 2013]]
+| Best Film
+|
+| {{nominated}}
+|-
+| Best Director
+| Bong Joon-ho
+| {{nominated}}
+|-
+| Best Screenplay
+| Bong Joon-ho, Kelly Masterson
+| {{nominated}}
+|-
+| Best Supporting Actress
+| Go Ah-sung
+| {{nominated}}
+|-
+| Best Cinematography
+| Hong Kyung-pyo
+| {{nominated}}
+|-
+| Best Editing
+| Steve M. Choe, Changju Kim
+| {{won}}
+|-
+| Best Art Direction
+| Ondřej Nekvasil
+| {{won}}
+|-
+| Iowa Film Critics<ref>{{cite news
+ |url=http://siouxcityjournal.com/blogs/bruceblog/bruceblog-boyhood-tops-iowa-film-critics-awards/article_6c609d11-96d3-5dc5-9c13-93ce2a3b1750.html
+ |title=BRUCEBLOG: 'Boyhood' tops Iowa Film Critics Awards
+ |newspaper=[[Sioux City Journal]]
+ |access-date=6 January 2015
+|date=6 January 2015
+|url-status=live
+ |archive-url=https://web.archive.org/web/20150114001507/http://siouxcityjournal.com/blogs/bruceblog/bruceblog-boyhood-tops-iowa-film-critics-awards/article_6c609d11-96d3-5dc5-9c13-93ce2a3b1750.html
+ |archive-date=14 January 2015
+}}</ref>
+| [[Houston Film Critics Society|6 January 2015]]
+| Best Supporting Actress
+| Tilda Swinton
+| {{Runner-up}}
+|-
+| [[Houston Film Critics Society]]<ref>{{cite web
+ |url=http://www.hitfix.com/in-contention/birdman-and-usual-critical-darling-suspects-lead-houston-critics-nominations
+ |title='Birdman' and usual critical darling suspects lead Houston critics' nominations
+ |work=[[HitFix]]
+ |access-date=16 December 2014
+|date=16 December 2014
+|url-status=dead
+ |archive-url=https://web.archive.org/web/20160303213442/http://www.hitfix.com/in-contention/birdman-and-usual-critical-darling-suspects-lead-houston-critics-nominations
+ |archive-date=3 March 2016
+}}</ref>
+| [[Houston Film Critics Society|23 December 2014]]
+| Best Supporting Actress
+| Tilda Swinton
+| {{nominated}}
+|-
+| International Cinephile Society Awards<ref>{{cite web|url=http://icsfilm.org/our-yearly-awards/2014-ics-award-winners/ |title=Inside Llewyn Davis, Blue Is the Warmest Color Honored at 11th ICS Awards |publisher=IcsFilm |access-date=11 January 2014 |date=11 January 2014 |url-status=live |archive-url=https://web.archive.org/web/20141108064525/http://icsfilm.org/our-yearly-awards/2014-ics-award-winners/ |archive-date=8 November 2014 }}</ref>
+| 23 February 2014
+| Best Picture Not Released In 2013
+|
+| {{won}}
+|-
+| rowspan="3" | International Cinephile Society Awards<ref>{{cite web|url=http://www.ioncinema.com/news/film-award-prize-news/2015-ics-award-nominees-guiraudies-stranger-by-the-lake-leads-pack |title=2015 ICS Award Nominees: Guiraudie's Stranger by the Lake Leads Pack |publisher=IonCinema |access-date=3 February 2015 |date=3 February 2015 |url-status=live |archive-url=https://web.archive.org/web/20150208211929/http://www.ioncinema.com/news/film-award-prize-news/2015-ics-award-nominees-guiraudies-stranger-by-the-lake-leads-pack |archive-date=8 February 2015 }}</ref>
+| rowspan="3" | 20 February 2015
+| Best Supporting Actress
+| Tilda Swinton
+| {{Runner-up}}
+|-
+| Best Adapted Screenplay
+| Bong Joon-ho, Kelly Masterson
+| {{nominated}}
+|-
+| Best Production Design
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| rowspan="2" | Las Vegas Film Critics Society Awards<ref>{{cite web
+ |url=http://www.hitfix.com/in-contention/birdman-and-genre-love-from-las-vegas-film-critics
+ |title='Birdman' and genre love from Las Vegas film critics
+ |work=[[HitFix]]
+ |access-date=18 December 2014
+|url-status=dead
+ |archive-url=https://web.archive.org/web/20141219022540/http://www.hitfix.com/in-contention/birdman-and-genre-love-from-las-vegas-film-critics
+ |archive-date=19 December 2014
+}}</ref>
+| rowspan="2" | 18 December 2014
+| Top 10 Films
+|
+| {{won}}
+|-
+| Best Supporting Actress
+| Tilda Swinton
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association]]<ref>{{cite magazine|url=https://www.billboard.com/articles/news/6385939/la-film-critics-awards-jonny-greenwood-mica-levi-tie-in-best-music-score |title=L.A. Film Critics Awards: Jonny Greenwood & Mica Levi Tie in Best Music Score Category |magazine=[[Billboard (magazine)|Billboard]] |access-date=7 December 2014 |date=1 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20141231202243/http://www.billboard.com/articles/news/6385939/la-film-critics-awards-jonny-greenwood-mica-levi-tie-in-best-music-score |archive-date=31 December 2014 }}</ref>
+| [[Los Angeles Film Critics Association|7 December 2014]]
+| Best Production Design
+| Ondřej Nekvasil
+| {{Runner-up}}
+|-
+| [[National Board of Review Awards]]<ref>{{cite web|url=http://www.nationalboardofreview.org/2014/12/national-board-review-announces-2014-award-winners/ |title=National Board of Review Announces 2014 Award Winners |publisher=[[National Board of Review]] |access-date=1 December 2014 |date=1 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20141208155322/http://www.nationalboardofreview.org/2014/12/national-board-review-announces-2014-award-winners/ |archive-date=8 December 2014 }}</ref>
+| [[National Board of Review Awards 2014|6 January 2015]]
+| [[National Board of Review|Top 10 Independent Films]]
+|
+| {{won}}
+|-
+| rowspan="2" | North Carolina Film Critics Association<ref>{{cite web|url=http://www.ncfilmcritics.org/2014/12/2014-ncfca-award-nominees/ |title=2014 NCFCA Award Nominees |publisher=North Carolina Film Critics Association |access-date=29 December 2014 |date=29 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20141230204005/http://www.ncfilmcritics.org/2014/12/2014-ncfca-award-nominees/ |archive-date=30 December 2014 }}</ref>
+| rowspan="2" | 5 January 2015
+| Best Supporting Actress
+| Tilda Swinton
+| {{nominated}}
+|-
+| Best Adapted Screenplay
+| Bong Joon-ho, Kelly Masterson
+| {{nominated}}
+|-
+| rowspan="2" | [[Online Film Critics Society]]<ref>{{cite web|url=http://www.hitfix.com/in-contention/boyhood-grand-budapest-lead-with-2014-online-film-critics-nominations |title='Boyhood,' 'Grand Budapest' lead with 2014 online film critics nominations |work=[[HitFix]] |access-date=8 December 2014 |date=8 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160419003442/http://www.hitfix.com/in-contention/boyhood-grand-budapest-lead-with-2014-online-film-critics-nominations |archive-date=19 April 2016 }}</ref>
+| rowspan="2" | [[Online Film Critics Society|15 December 2014]]
+| [[Online Film Critics Society Award for Best Supporting Actress|Best Supporting Actress]]
+| Tilda Swinton
+| {{nominated}}
+|-
+| [[Online Film Critics Society Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Bong Joon-ho, Kelly Masterson
+| {{nominated}}
+|-
+| rowspan="3" | Online Film & Television Association<ref>{{cite web|url=http://ofta.cinemasight.com/Awards/Film/2014.html |title=2014: THE YEAR OF Birdman |publisher=CinemaSight |access-date=8 February 2015 |date=8 February 2015 |url-status=live |archive-url=https://archive.today/20160128174112/http://www.cinemasight.com/ofta/tv-19th-annual-television-award-winners/ |archive-date=28 January 2016 }}</ref>
+| rowspan="3" | 8 February 2015
+| Best Supporting Actress
+| Tilda Swinton
+| {{nominated}}
+|-
+| Best Adapted Screenplay
+| Bong Joon-ho, Kelly Masterson
+| {{nominated}}
+|-
+| Best Production Design
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| rowspan="2" | Phoenix Film Critics Society<ref>{{cite web|url=http://phoenixfilmcriticssociety.org/2014-award-nominations/ |title=Phoenix Film Critics Society 2014 Award Nominations |publisher=Phoenix Film Critics Society |access-date=9 December 2014 |date=9 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20150206042837/http://phoenixfilmcriticssociety.org/2014-award-nominations/ |archive-date=6 February 2015 }}</ref>
+| rowspan="2" | 16 December 2014
+| Overlooked Film of the Year
+|
+| {{nominated}}
+|-
+| Best Production Design
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| rowspan="3" | [[San Francisco Film Critics Circle]]<ref>{{cite web|url=http://awardswatch.com/forums/showthread.php?36738-San-Francisco-Film-Critics-Circle-Nominations |title=San Francisco Film Critics Circle Nominations |publisher=Awards Watch |access-date=12 December 2014 |date=12 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20150404073424/http://awardswatch.com/forums/showthread.php?36738-San-Francisco-Film-Critics-Circle-Nominations |archive-date=4 April 2015 }}</ref>
+| rowspan="3" | [[San Francisco Film Critics Circle|14 December 2014]]
+| [[San Francisco Film Critics Circle Award for Best Supporting Actress|Best Supporting Actress]]
+| Tilda Swinton
+| {{nominated}}
+|-
+| [[San Francisco Film Critics Circle Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Bong Joon-ho, Kelly Masterson
+| {{nominated}}
+|-
+| [[San Francisco Film Critics Circle|Best Production Design]]
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| rowspan="3" | [[Satellite Awards]]<ref>{{cite web|url=https://www.thewrap.com/birdman-leads-satellite-awards-nominations/ |title='Birdman' Leads Satellite Awards Nominations |publisher=[[TheWrap]] |access-date=1 December 2014 |date=1 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20151231040710/http://www.thewrap.com/birdman-leads-satellite-awards-nominations/ |archive-date=31 December 2015 }}</ref>
+| rowspan="3" | [[Satellite Awards|15 February 2015]]
+| [[Satellite Award for Best Supporting Actress – Motion Picture|Best Actress in a Supporting Role]]
+| Tilda Swinton
+| {{nom}}
+|-
+| [[Satellite Award for Best Sound|Best Sound]]
+| [[Anna Behlmer]], Mark Holding, Taeyoung Choi, [[Terry Porter (sound engineer)|Terry Porter]]
+| {{nom}}
+|-
+| [[Satellite Award for Best Visual Effects|Best Visual Effects]]
+| Eric Durst
+| {{nom}}
+|-
+| [[Saturn Awards]]
+| [[41st Saturn Awards|25 June 2015]]
+| [[Saturn Award for Best Action or Adventure Film|Best Action or Adventure Film]]
+|
+| {{nom}}
+|-
+| rowspan="2" | Southeastern Film Critics Association<ref>{{cite web|url=https://collider.com/sefca-grand-budapest-hotel-best-film-2014/ |title=Southeastern Film Critics Association Picks The Grand Budapest Hotel as Best Film of 2014; Selma Misses the Top 10 List |publisher=Collider |access-date=22 December 2014 |date=11 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20141223022427/http://collider.com/sefca-grand-budapest-hotel-best-film-2014/ |archive-date=23 December 2014 }}</ref>
+| rowspan="2" | 23 December 2014
+| Top 10 Films
+|
+| {{won}}
+|-
+| Best Supporting Actress
+| Tilda Swinton
+| {{Runner-up}}
+|-
+| [[St. Louis Gateway Film Critics Association]]<ref>{{cite web|url=http://www.hitfix.com/in-contention/birdman-grand-budapest-lead-st-louis-film-critics-nominations |title='Birdman,' 'Grand Budapest' lead St. Louis film critics nominations |work=[[HitFix]] |access-date=11 December 2014 |date=11 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160303203500/http://www.hitfix.com/in-contention/birdman-grand-budapest-lead-st-louis-film-critics-nominations |archive-date=3 March 2016 }}</ref>
+| [[Satellite Awards|15 December 2014]]
+| [[St. Louis Gateway Film Critics Association|Best Art Direction]]
+| Ondřej Nekvasil
+| {{nominated}}
+|-
+| [[Toronto Film Critics Association]]<ref>{{cite web|url=http://www.hitfix.com/in-contention/toronto-film-critics-association-name-boyhood-its-best-film-of-2014 |title=Toronto Film Critics Association names 'Boyhood' 2014's best film |work=[[HitFix]] |access-date=16 December 2014 |date=16 December 2014 |url-status=dead |archive-url=https://web.archive.org/web/20160304042800/http://www.hitfix.com/in-contention/toronto-film-critics-association-name-boyhood-its-best-film-of-2014 |archive-date=4 March 2016 }}</ref>
+| [[Toronto Film Critics Association|16 December 2014]]
+| [[Toronto Film Critics Association Award for Best Supporting Actress|Best Supporting Actress]]
+| Tilda Swinton
+| {{Runner-up}}
+|-
+| rowspan="3" | [[Korean Association of Film Critics Awards|South Korean Film Critics Awards]]<ref>{{cite news|url=https://www.hollywoodreporter.com/news/snowpiercer-wins-big-at-south-656869 |title='Snowpiercer' Wins Big at South Korean Film Critics Awards |newspaper=[[The Hollywood Reporter]] |access-date=18 November 2013 |date=18 November 2013 |url-status=live |archive-url=https://web.archive.org/web/20131121023627/http://www.hollywoodreporter.com/news/snowpiercer-wins-big-at-south-656869 |archive-date=21 November 2013 }}</ref>
+| rowspan="3" | [[Korean Association of Film Critics Awards|18 November 2013]]
+| Best Film
+|
+| {{won}}
+|-
+| Best Director
+| Bong Joon-ho
+| {{won}}
+|-
+| Best Cinematography
+| Hong Kyung-pyo
+| {{won}}
+|-
+| [[Sydney Film Festival]]<ref>{{cite news|url=https://www.hollywoodreporter.com/news/sydney-film-fest-rover-robert-701926 |title=Sydney Film Fest: 'The Rover' With Robert Pattinson, Richard Linklater's 'Boyhood' to Compete |newspaper=[[The Hollywood Reporter]] |access-date=7 May 2014 |date=7 May 2014 |url-status=live |archive-url=https://web.archive.org/web/20140609224602/http://www.hollywoodreporter.com/news/sydney-film-fest-rover-robert-701926 |archive-date=9 June 2014 }}</ref>
+| [[Sydney Film Festival|15 June 2014]]
+| Best Film
+|
+| {{nominated}}
+|-
+| rowspan="2" | Utah Film Critics Association<ref>{{cite news|url=http://www.sltrib.com/home/1963489-155/birdman-takes-best-picture-from-utah |title='Birdman' takes Best Picture from Utah Film Critics Association |newspaper=[[The Salt Lake Tribune]] |access-date=17 December 2014 |date=17 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20141218155321/http://www.sltrib.com/home/1963489-155/birdman-takes-best-picture-from-utah |archive-date=18 December 2014 }}</ref>
+| rowspan="2" | 17 December 2014
+| Best Supporting Actress
+| Tilda Swinton
+| {{Runner-up}}
+|-
+| Best Adapted Screenplay
+| Bong Joon-ho, Kelly Masterson {{small|(tied with [[Paul Thomas Anderson]] for ''[[Inherent Vice (film)|Inherent Vice]]'')}}
+| {{won}}
+|-
+| rowspan="2" | [[Washington D.C. Area Film Critics Association Awards]]<ref>{{cite web|url=http://www.wafca.com/awards/ |title=The 2014 WAFCA Awards |publisher=[[Washington D.C. Area Film Critics Association Awards]] |access-date=6 December 2014 |date=6 December 2014 |url-status=live |archive-url=https://web.archive.org/web/20160131082335/http://www.wafca.com/awards/ |archive-date=31 January 2016 }}</ref>
+| rowspan="2" | [[Washington D.C. Area Film Critics Association|8 December 2014]]
+| [[Washington D.C. Area Film Critics Association Award for Best Supporting Actress|Best Supporting Actress]]
+| Tilda Swinton
+| {{nominated}}
+|-
+| [[Washington D.C. Area Film Critics Association Award for Best Art Direction|Best Art Direction]]
+| Ondřej Nekvasil, Beatrice Brentnerova
+| {{nominated}}
+|-
+| [[World Soundtrack Awards]]<ref>{{cite web|url=http://www.worldsoundtrackawards.com/en/music-blog/first-wave-of-nominees-for-world-soundtrack-awards-released/12-08-2014/2034|archive-url=https://archive.today/20140915203444/http://www.worldsoundtrackawards.com/en/music-blog/first-wave-of-nominees-for-world-soundtrack-awards-released/12-08-2014/2034|url-status=dead|archive-date=15 September 2014|title=Sydney Film Fest: 'The Rover' With Robert Pattinson, Richard Linklater's 'Boyhood' to Compete|publisher=[[World Soundtrack Awards]]|access-date=12 August 2014|date=12 August 2014}}</ref>
+| [[World Soundtrack Awards|25 October 2014]]
+| Film Composer of the Year
+| [[Marco Beltrami]]
+| {{nominated}}
+|-
+| [[Village Voice Film Poll]]<ref>{{cite web|url=http://www.villagevoice.com/filmpoll/cat/supporting_actress/2014/ |title=Village Voice Film Poll – Supporting Actress |newspaper=[[The Village Voice]] |access-date=8 February 2015 |date=8 February 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150217124537/http://www.villagevoice.com/filmpoll/cat/supporting_actress/2014/ |archive-date=17 February 2015 }}</ref>
+| [[Village Voice Film Poll|8 February 2015]]
+| Best Supporting Actress
+| Tilda Swinton
+| {{Runner-up}}
+|}
+
+== Television series ==
+{{Main|Snowpiercer (TV series){{!}}''Snowpiercer'' (TV series)}}
+The film, along with the original French graphic novel, was adapted into an American television show by Tomorrow Studios, and premiered on [[TNT (American TV network)|TNT]] on May 17, 2020, in the United States.<ref>{{cite web | url = https://www.ign.com/articles/2019/07/20/snowpiercer-trailer-revealed-at-comic-con-2019 | title =  Snowpiercer Trailer Revealed at Comic Con 2019 | first = Adam | last =Bankhurst | date = 20 July 2019 | access-date = 21 July 2019 | work =[[IGN]] }}</ref><ref name="variety netflix">{{cite web | url = https://variety.com/2018/tv/asia/netflix-snowpiercer-series-1202882278/ | title = Netflix Boards TNT's 'Snowpiercer' Series | first = Sonia | last = Kil | date = 25 July 2018 | access-date = 25 July 2018 | work = [[Variety (magazine)|Variety]] }}</ref>  The show stars [[Jennifer Connelly]] and [[Daveed Diggs]], among others, and takes place in a rebooted narrative of the film, with events on the train starting about seven years after the global catastrophe.<ref>{{cite news |url=https://hollywoodreporter.com/live-feed/snowpiercer-being-adapted-tv-josh-83122|title='Snowpiercer' Being Adaptaed for TV Writer Josh Friedman (Exclusive)|newspaper=The Hollywood Reporter|last=Goldberg|first=Lesley|date=11 November 2015}}</ref><ref>{{cite news|url=https://variety.com/2016/tv/news/snowpiercer-tv-series-tnt-1201923475/ |title=TNT Orders 'Snowpiercer' Pilot From Tomorrow Studios |newspaper=Variety |last=Schwindt |first=Oriana |date=21 November 2016 |url-status=live |archive-url=https://web.archive.org/web/20161122071725/http://variety.com/2016/tv/news/snowpiercer-tv-series-tnt-1201923475/ |archive-date=22 November 2016 }}</ref>
+
+== See also ==
+* ''[[The Day After Tomorrow]]''
+* ''[[Soylent Green]]''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IMDb title|1706620}}
+* {{Mojo title|snowpiercer}}
+* {{Rotten Tomatoes|snowpiercer}}
+* {{KMDb film|13349}}
+
+{{Snowpiercer}}
+{{Bong Joon-ho}}
+{{Buil Film Awards for Best Film}}
+{{Portal bar|2010s|Film|South Korea|United States|France|Czech Republic|Speculative fiction/Science fiction|Comics}}
+{{DEFAULTSORT:Snowpiercer}}
+[[Category:Snowpiercer]]
+[[Category:2013 films]]
+[[Category:2013 science fiction action films]]
+[[Category:2013 multilingual films]]
+[[Category:South Korean science fiction action films]]
+[[Category:English-language South Korean films]]
+[[Category:2013 Korean-language films]]
+[[Category:Films adapted into television shows]]
+[[Category:South Korean multilingual films]]
+[[Category:Films directed by Bong Joon Ho]]
+[[Category:Films scored by Marco Beltrami]]
+[[Category:Films about revolutions]]
+[[Category:Films based on French comics]]
+[[Category:Films set around New Year]]
+[[Category:Films set in 2031]]
+[[Category:Films set on trains]]
+[[Category:Films shot in Austria]]
+[[Category:Films shot in the Czech Republic]]
+[[Category:Films with screenplays by Bong Joon Ho]]
+[[Category:South Korean post-apocalyptic films]]
+[[Category:Films about climate change]]
+[[Category:Live-action films based on comics]]
+[[Category:Films about social class]]
+[[Category:American multilingual films]]
+[[Category:Czech science fiction action films]]
+[[Category:2010s dystopian films]]
+[[Category:Films about cannibalism]]
+[[Category:Stillking Films films]]
+[[Category:English-language Czech films]]
+[[Category:Fictional trains]]
+[[Category:Czech post-apocalyptic films]]
+[[Category:Czech multilingual films]]
+[[Category:Films about avalanches]]
+[[Category:Films about railway accidents and incidents]]
+[[Category:2013 English-language films]]
+[[Category:2013 South Korean films]]
+[[Category:English-language science fiction action films]]
+[[Category:Fiction about mass murder]]
+[[Category:Fiction about child abuse]]
+[[Category:Fiction about terrorism]]

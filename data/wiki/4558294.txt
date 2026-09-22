@@ -1,0 +1,534 @@
+{{Short description|1980 film by John Landis}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=March 2016}}
+{{Infobox film
+| name           = The Blues Brothers
+| image          = Bluesbrothersmovieposter.jpg
+| alt            = Movie poster with two of the main characters on the right side of the image: They are both wearing black suits, hats, and sunglasses and facing forward. The man on the right is resting his arm on the shoulder of the man on the left. A police car is present on the left side of the image behind them. At the top of the image is the tagline, "They'll never get caught. They're on a mission from God." At the bottom of the poster is the title of the film, cast names, and production credits.
+| caption        = Theatrical release poster
+| director       = [[John Landis]]
+| producer       = [[Robert K. Weiss]]
+| writer         = {{Plainlist|
+* [[Dan Aykroyd]]
+* John Landis
+}}
+| starring       = {{Plainlist|
+* [[John Belushi]]
+* [[Dan Aykroyd]]
+* [[James Brown]]
+* [[Cab Calloway]]
+* [[Ray Charles]]
+* [[Carrie Fisher]]
+* [[Aretha Franklin]]
+* [[Henry Gibson]]<!-- per poster billing block -->
+}}<!--Do not add a composer. There is no "Music by" credit on this film. Per Template:Infobox film guideline, only the composer(s) of the original score should be listed.-->
+| cinematography = [[Stephen M. Katz (cinematographer)|Stephen M. Katz]]
+| editing        = [[George Folsey Jr.]]
+| distributor    = [[Universal Pictures]]
+| released       = {{Film date|1980|06|20}}
+| runtime        = 133 minutes<!--Theatrical runtime: 132:39--><ref>{{cite web | url=https://www.bbfc.co.uk/releases/blues-brothers-1970-5 | title=''THE BLUES BROTHERS'' (AA) | work=[[British Board of Film Classification]] | date=July 8, 1980 | access-date=January 27, 2013 | archive-date=August 13, 2020 | archive-url=https://web.archive.org/web/20200813060727/https://www.bbfc.co.uk/releases/blues-brothers-1970-5 | url-status=dead }}</ref>
+| country        = United States
+| language       = English
+| budget         = $27.5 million<ref name="Vanity Fair 2013"/>
+| gross          = $115.2 million<ref name="BOM">{{cite web | title=The Blues Brothers | work=[[Box Office Mojo]] | publisher=[[Internet Movie Database]] | url=https://www.boxofficemojo.com/movies/?id=bluesbrothers.htm | access-date=December 16, 2008 | archive-date=July 7, 2019 | archive-url=https://web.archive.org/web/20190707115719/https://www.boxofficemojo.com/movies/?id=bluesbrothers.htm | url-status=live }}</ref>
+}}
+
+'''''The Blues Brothers''''' is a 1980 American [[musical film|musical]] [[action comedy film]] directed by [[John Landis]].<ref name="The Blues Brothers">{{cite web|url=https://www.tcm.com/tcmdb/title/19422/the-blues-brothers|title=The Blues Brothers|work=[[Turner Classic Movies]]|publisher=[[Turner Broadcasting System]] ([[Time Warner]])|location=[[Atlanta]]|access-date=March 27, 2016|archive-date=July 27, 2020|archive-url=https://web.archive.org/web/20200727202350/http://www.tcm.com/tcmdb/title/19422/Blues-Brothers-The/|url-status=dead}}</ref> It stars [[John Belushi]] as "Joliet" Jake Blues and [[Dan Aykroyd]] as his brother Elwood, characters developed from the recurring musical sketch "[[The Blues Brothers]]" on [[NBC]]'s variety series ''[[Saturday Night Live]]''. The script is set in and around [[Chicago]], Illinois, where it was filmed, and the screenplay is by Aykroyd and Landis. It features musical numbers by singers [[James Brown]], [[Cab Calloway]], [[Aretha Franklin]], [[Ray Charles]] and [[John Lee Hooker]]. It features non-musical supporting performances by [[Carrie Fisher]] and [[Henry Gibson]].
+
+The story is a tale of redemption for [[Parole|paroled]] convict Jake and his brother Elwood, who set out on "a mission from God" to prevent the [[foreclosure]] of the [[Roman Catholic]] [[orphanage]] in which they were raised. To do so, they must reunite their [[rhythm and blues]] (R&B) band and organize a performance to earn the $5,000 needed to pay the orphanage's [[property tax]] bill. Along the way, they are targeted by a homicidal "mystery woman", [[neo-Nazis]] and a [[Country music|country and western]] band—all while being relentlessly pursued by the police.
+
+[[Universal Pictures]], which won the bidding war for the film, was hoping to take advantage of Belushi's popularity in the wake of ''Saturday Night Live'', the film ''[[Animal House]]'', and the Blues Brothers' musical success; it soon found itself unable to control production costs. The start of filming was delayed when Aykroyd, who was new to film screenwriting, took six months to deliver a long and unconventional script that Landis had to rewrite before production, which began without a final budget. On location in Chicago, Belushi's partying and drug use caused lengthy and costly delays that, along with the destructive car chases depicted onscreen, made the film one of the most expensive comedies ever produced.
+
+Owing to concerns that the film would fail, its initial bookings were less than half of those similar films normally received. Released in the United States on June 20, 1980, it received mostly positive reviews from critics and grossed over $115 million in theaters worldwide before its release on home video, and has become a [[cult film|cult classic]] over the years. A sequel, ''[[Blues Brothers 2000]]'', was released in 1998 and failed to match the critical and commercial success of the original film. In 2020, ''The Blues Brothers'' was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as "culturally, historically, or aesthetically significant".<ref>{{cite web | last=Alter | first=Rebecca | title=Shrek Has Been Inducted Into the National Film Registry | website=Vulture | date=2020-12-14 | url=https://www.vulture.com/2020/12/national-film-registry-2020-dark-knight-grease-and-shrek.html | access-date=2020-12-14 | archive-date=December 14, 2020 | archive-url=https://web.archive.org/web/20201214210600/https://www.vulture.com/2020/12/national-film-registry-2020-dark-knight-grease-and-shrek.html | url-status=live }}</ref>
+
+==Plot==
+<!-- Per WP:FILMPLOT, film plot summaries should be between 400 and 700 words. Please check the word count before making any additions. Please go to the talk page before making any major changes. -->
+Jake Blues, a blues vocalist and petty criminal, is paroled from [[Joliet Correctional Center|Joliet Prison]] after serving three years of a five-year sentence for armed robbery and is picked up by his brother Elwood in a battered former police car. Jake complains that Elwood is driving a police car, and Elwood demonstrates its capabilities by jumping an open [[drawbridge]]. They visit the [[Roman Catholic|Catholic]] orphanage where they were raised, and learn from Sister Mary Stigmata that it will be closed unless it pays $5,000 in [[property tax]]es. At the suggestion of their friend Curtis, they attend a sermon by the Reverend Cleophus James at the Triple Rock [[Southern Baptist Convention|Baptist Church]], where Jake has an [[Epiphany (feeling)|epiphany]]: they can reform their band, [[the Blues Brothers]], which disbanded while Jake was in prison, and raise the money to save the orphanage.
+
+That night, state troopers attempt to arrest Elwood for driving with a suspended license due to dozens of parking tickets and moving violations. The brothers escape after a car chase through the [[Dixie Square Mall]]. As they arrive at the [[flophouse]] where Elwood lives, a mysterious woman fires a [[rocket launcher]] at them but misses. The next morning, as the police arrive at the flophouse, the same woman detonates a bomb that demolishes the building but leaves Jake and Elwood unharmed, saving them from arrest.
+
+Jake and Elwood begin tracking down members of the band. Five of them are performing as Murph and the Magic Tones at a deserted [[Holiday Inn]] lounge and quickly rejoin. Their trumpeter Mr. Fabulous turns them down as he is the [[maître d'hôtel|maître d']] at an expensive restaurant but relents when the brothers dine with poor manners and threaten to become regular patrons. On their way to meet the final two members, the brothers find the road through [[Jackson Park (Chicago)|Jackson Park]] blocked by a neo-Nazi demonstration on a bridge; Elwood runs them off the bridge into the East Lagoon. The neo-Nazis swear revenge. The brothers find Matt "Guitar" Murphy, who now runs a [[soul food]] restaurant on [[Maxwell Street]] with his wife and "Blue Lou" Marini. Murphy's wife advises him against rejoining the band, to no avail. The group obtains instruments and equipment from Ray's Music Exchange, and Ray, "as usual", takes an [[IOU]].
+
+As Jake attempts to book a gig, the mystery woman blows up his phone booth; once again, he is miraculously unhurt. The band stumbles onto a gig at Bob's Country Bunker, a [[honky-tonk]] in [[Kokomo, Indiana]], by impersonating the [[Country music|country and western]] band booked. They win over the rowdy crowd, but run up a bar tab higher than their pay, and infuriate the Good Ole Boys, the band they impersonated.
+
+Realizing they need a big show to raise the necessary money, the brothers manage to book the Palace Hotel Ballroom, north of [[Chicago]]. They drive around Chicago promoting the concert, alerting the police, the neo-Nazis and the Good Ole Boys of their whereabouts. The ballroom is packed with fans, police officers and the Good Ole Boys. Jake and Elwood perform two songs, then sneak offstage, as the tax deadline rapidly approaches. A record company executive offers them a $10,000 cash advance on a recording contract - more than enough to pay off the orphanage's taxes and the IOU - and tells them how to slip out of the building unnoticed. As they escape through a service tunnel, they are confronted by the mystery woman: Jake's vengeful ex-[[fiancée]]. After her volley of [[M16 rifle]] bullets leaves them once again miraculously unharmed, Jake offers a series of ridiculous excuses that she rejects. When she looks into his eyes, though, she takes interest in him again and becomes distracted long enough for the brothers to escape in their car.
+
+Jake and Elwood race back toward Chicago, with dozens of state and local police and the Good Ole Boys and the Nazis in pursuit. They elude them all with a series of improbable maneuvers, including a miraculous gravity-defying escape from the neo-Nazis. Finally arriving at the [[Chicago City Hall]] building, they rush inside, followed by hundreds of law enforcement officers, firefighters and the [[Illinois Army National Guard|National Guard]]. The brothers find the [[Cook County, Illinois|Cook County]] Assessor's office and successfully pay the tax bill but are arrested by the mob of law officers immediately after. In prison, the band plays "[[Jailhouse Rock (song)|Jailhouse Rock]]" for the inmates.
+
+==Cast==
+{{see also|#Cameos and minor appearances}}
+{{div col|colwidth=20em}}
+* [[John Belushi]] as "Joliet" Jake Blues, a former blues singer, paroled from prison after three years<ref name="RT2"/>
+* [[Dan Aykroyd]] as Elwood J. Blues, Jake's [[blood brother]], also a former blues singer<ref name="RT2"/>
+* [[James Brown]] as the Reverend Cleophus James, pastor of the Triple Rock Baptist Church. His musical sermon "[[Let Us Go Back to the Old Landmark|The Old Landmark]]" causes Jake to have an epiphany<ref name="RT2"/>
+* [[Cab Calloway]] as Curtis, orphanage janitor and an old friend/father figure of the brothers, who suggests they visit the church, and helps them advertise the show and performs "[[Minnie the Moocher]]" for the audience<ref name="RT2"/>
+* [[Ray Charles]] as Ray, a blind music store owner, who performs "[[Shake a Tail Feather]]" to demonstrate the effectiveness of the instruments he sells<ref name="RT2"/>
+* [[Aretha Franklin]] as Mrs. Murphy, Matt Murphy's wife, who owns a soul food restaurant with him. She performs "[[Think (Aretha Franklin song)|Think]]" to persuade him not to join the band<ref name="RT2"/>
+* [[Steve Cropper|Steve "The Colonel" Cropper]] – [[lead guitar]]; a member of Murph and the Magic Tones<ref name="RT2"/>
+* [[Donald "Duck" Dunn]] – [[bass guitar]]; a member of Murph and the Magic Tones<ref name="RT2"/>
+* [[Murphy Dunne]] ("Murph") – [[Keyboard instrument|keyboards]]; lead singer of Murph and the Magic Tones<ref name="RT2"/>
+* [[Willie Hall (drummer)|Willie "Too Big" Hall]] – [[drum kit|drums]]; a member of Murph and the Magic Tones<ref name="RT2"/>
+* [[Tom Malone (musician)|Tom "Bones" Malone]] – [[trombone]], [[saxophone]]; a member of Murph and the Magic Tones<ref name="RT2"/>
+* [[Lou Marini|"Blue Lou" Marini]] – [[saxophone]]; the dishwasher at the soul food restaurant<ref name="RT2"/>
+* [[Matt "Guitar" Murphy]] – [[lead guitar]]; the cook at the soul food restaurant<ref name="RT2"/>
+* [[Alan Rubin|"Mr. Fabulous" Alan Rubin]] – [[trumpet]]; the maitre d' at the Chez Paul restaurant
+* [[Carrie Fisher]] as the Mystery Woman, Jake's former fiancée, who tries to kill him for leaving her at the altar<ref name="RT2"/>
+* [[John Candy]] as Burton Mercer, Jake's parole officer assisting the police in their hunt for the Blues Brothers<ref name="RT2"/>
+* [[Henry Gibson]] as the Head Nazi, the leader of a local American National Socialist White People's Party<ref name="RT2"/>
+* [[Twiggy]] as girl waiting at the gas station<ref name="RT2"/>
+* [[John Lee Hooker]] as Street Slim, a man singing "[[Boom Boom (John Lee Hooker song)|Boom Boom]]" together with a small band on [[Maxwell Street]]
+* [[Kathleen Freeman]] as Sister Mary Stigmata, AKA "The Penguin", the nun who leads the orphanage where the brothers grew up<ref name="RT2"/>
+* [[Steve Lawrence]] as Maury Sline, the agent who organized and booked many of the Blues Brothers' performances before Jake was sent to jail<ref>{{cite news |first=Chris |last=Koseluk |date=March 7, 2024 |url=https://www.hollywoodreporter.com/news/music-news/steve-lawrence-dead-singer-1235845675/ |title=Steve Lawrence, Grammy-Winning Pop Stylist and Actor, Dies at 88 |work=The Hollywood Reporter |access-date=March 8, 2024 |quote=Many will remember Lawrence for his portrayal of manager Maury Sline in ''The Blues Brothers'' (1980).... He reprised the character in the 1998 sequel, ''Blues Brothers 2000''.}}</ref>
+* [[Frank Oz]] as the corrections officer who returns Jake's possessions to him at the beginning of the film<ref name="RT2"/>
+* [[Jeff Morris (actor)|Jeff Morris]] as Bob, the owner of Bob's Country Bunker
+* [[Charles Napier (actor)|Charles Napier]] as Tucker McElroy, lead singer and [[Winnebago Industries|Winnebago]] driver of the Good Ole Boys
+* [[Steven Williams]] as Trooper Mount, one of the cops who follows Jake and Elwood from the start<ref name="RT2"/>
+* Armand Cerami as Trooper Daniel, one of the cops who follows Jake and Elwood from the start
+* [[John Landis]] as Trooper La Fong, a cop who chases the Bluesmobile at the mall<ref name="RT2"/>
+{{div col end}}
+
+==Production==
+
+===Origins===
+{{See also|The Blues Brothers}}
+
+[[John Belushi]] and [[Dan Aykroyd]] created the characters Jake and Elwood Blues in performances on ''[[Saturday Night Live]]''. The name [[The Blues Brothers]] was [[Howard Shore]]'s idea. Aykroyd developed the Blues Brothers' backstory and character sketches in collaboration with Ron Gwynne, who is credited as a story consultant for the film. As related in the liner notes of the band's debut album, ''[[Briefcase Full of Blues]]'', the brothers grew up in an orphanage, learned the blues from a janitor named Curtis, and sealed their brotherhood by cutting their middle fingers with a steel string said to have come from [[Elmore James]]'s guitar.<ref name="Bio">{{cite web | title=Fortune City-Blues Brothers | work=Biography of the Blues Brothers-From their album, A Briefcase Full of Blues | url=http://www.fortunecity.com/tinpan/fitzgerald/12/bio.html | access-date=December 16, 2008 | archive-date=October 7, 2008 | archive-url=https://web.archive.org/web/20081007024814/http://www.fortunecity.com/tinpan/fitzgerald/12/bio.html | url-status=dead }}</ref>
+
+Belushi had become a star in 1978 as a result of both the Blues Brothers' musical success and his role in ''[[Animal House|National Lampoon's Animal House]]''. At one point, he managed the triple feat of being the star of the week's top-grossing film and top-rated television series and singing on the [[Billboard 200|''Billboard'' 200]] #1 album within a year. When Aykroyd and Belushi decided they could make a Blues Brothers film, the bidding war was intense. [[Universal Pictures|Universal Studios]] narrowly beat [[Paramount Pictures]] for the project. [[John Landis]], who had directed Belushi in ''Animal House'', was aboard as director.<ref name="Vanity Fair 2013">{{cite news|last=Zeman|first=Ned|title=Soul Men: The Making of The Blues Brothers|url=https://www.vanityfair.com/hollywood/2013/01/making-of-blues-brothers-budget-for-cocaine|newspaper=Vanity Fair|date=January 2013|access-date=December 18, 2012|archive-date=January 17, 2021|archive-url=https://web.archive.org/web/20210117121815/https://www.vanityfair.com/hollywood/2013/01/making-of-blues-brothers-budget-for-cocaine|url-status=live}}</ref>
+
+The project had neither a budget nor a script. Universal head [[Lew Wasserman]] thought the film could be made for $12 million; the filmmakers wanted $20 million. It was impossible to settle on an amount without a screenplay to review, and after [[Mitch Glazer]] declined to help him, Aykroyd wrote one on his own.<ref name="Vanity Fair 2013" /> Aykroyd had never written a screenplay before, as he admitted in the 1998 documentary ''Stories Behind the Making of The Blues Brothers'', or even read one, and he was unable to find a writing partner. He put together a very detailed volume that explained the characters' origins and how the band members were recruited. His final draft was 324 pages, three times longer than a standard screenplay, written not in a standard [[Screenplay#Format and style|screenplay format]], but more like [[free verse]].<ref name="Vanity Fair 2013" /> To soften the impact, Aykroyd made a joke of the thick script and had it bound with the cover of the [[Los Angeles]] Yellow Pages directory when he turned it in to producer [[Robert K. Weiss]]. He titled it ''The Return of the Blues Brothers'', and credited it to "Scriptatron GL-9000".<ref name="Vanity Fair 2013" /> Landis was tasked with editing the script into a usable screenplay,<ref name="DVD doc">''Stories Behind the Making of The Blues Brothers'', documentary feature on 1998 DVD and 25th Anniversary DVD (2005).</ref> which took him about two weeks.<ref name="Vanity Fair 2013" />
+
+===Casting===
+At Aykroyd's demand, [[Soul music|soul]] and [[Rhythm and blues|R&B]] stars [[James Brown]], [[Cab Calloway]], [[Ray Charles]] and [[Aretha Franklin]] were cast in speaking parts to support musical numbers built around them. This later caused friction in the production between Landis and Universal, as its costs far exceeded the original budget. Since none of them except Charles had had any hits in recent years, the studio wanted Landis to replace them with—or add performances by—younger acts, such as [[Rose Royce]], whose "[[Car Wash (song)|Car Wash]]" had made them [[disco]] stars after its use in [[Car Wash (film)|the 1976 film of that name]].<ref name="Vanity Fair 2013"/> The character portrayed by Cab Calloway is named Curtis as an [[Homage (arts)|homage]] to [[Curtis Salgado]], an [[Portland, Oregon|Oregon]] [[blues]] musician who inspired Belushi while he was in that area filming ''Animal House''.<ref name="CS">{{cite web|title=Biography|work=Curtis Salgado|url=http://www.curtissalgado.com/biography.html|access-date=December 16, 2008|archive-url=https://web.archive.org/web/20081017164459/http://www.curtissalgado.com/biography.html <!--Added by H3llBot-->|archive-date=October 17, 2008}}</ref>
+
+Other musicians in the cast include [[Big Walter Horton]], [[Pinetop Perkins]] and [[John Lee Hooker]] (who performs "[[Boom Boom (John Lee Hooker song)|Boom Boom]]" during the [[Maxwell Street]] scene). The members of the Blues Brothers Band were themselves notable. [[Steve Cropper]] and Donald Dunn are architects of the [[Stax Records]] sound (Cropper plays guitar at the start of the [[Sam & Dave]] song "[[Soul Man (song)|Soul Man]]") and were half of [[Booker T. & the M.G.'s]]. Horn players [[Lou Marini]], [[Tom Malone (musician)|Tom Malone]] and [[Alan Rubin]] had all played in [[Blood, Sweat & Tears]] and the [[Saturday Night Live Band|house band]] on ''Saturday Night Live''. Drummer [[Willie Hall (drummer)|Willie Hall]] had played in [[the Bar-Kays]] and backed [[Isaac Hayes]]. [[Matt "Guitar" Murphy]] was a veteran blues guitarist who played with [[Memphis Slim]] and [[Howlin' Wolf]]. As the band developed at ''Saturday Night Live'', pianist [[Paul Shaffer]] was part of the act and cast in the film, but owing to contractual obligations with ''SNL'', he was unable to participate, so actor-musician [[Murphy Dunne]] (whose father, [[George Dunne]], was the [[President of the Cook County Board of Commissioners]]) was hired to take his role.<ref name="DVD doc"/>
+
+Over 500 extras were used for the next-to-last scene, the blockade of the building at [[Richard J. Daley Center]], including 200 [[National Guard (United States)|National Guardsmen]], 100 state and city police officers, with 15 horses for the [[mounted police]] (and three each [[M4 Sherman|Sherman tanks]], [[helicopter]]s, and [[Fire apparatus|fire engines]]).<ref name="HappyRam"/><ref name="Chicago Sun-Times3">{{cite news|title=Blues Brothers 25th Anniversary|newspaper=[[Chicago Sun-Times]]| url=http://www.suntimes.com/special_sections/bluebros/| archive-url=https://web.archive.org/web/20050721084943/http://www.suntimes.com/special_sections/bluebros/| archive-date=July 21, 2005|access-date=December 16, 2008}}</ref>
+
+==== Cameos and minor appearances ====
+
+The film has a number of cameo appearances by established celebrities and entertainment industry figures, including [[Steve Lawrence]] as  booking agent Maury Sline, [[Twiggy]] as a "chic lady" in a [[Jaguar E-Type|Jaguar convertible]] whom Elwood propositions at a gas station, [[Steven Spielberg]] as the [[Cook County, Illinois|Cook County]] Assessor's clerk, Landis as a state trooper in the mall chase, [[Joe Walsh]] as the first prisoner to jump up on a table in the final scene and [[Chaka Khan]] as the soloist in the Triple Rock choir. [[The Muppets|Muppet]] performer [[Frank Oz]] plays a [[Prison officer|corrections officer]], and in the scene where the brothers crash into [[Toys "R" Us]], the customer who asks for a [[Miss Piggy]] doll is played by stunt coordinator [[Gary McLarty]]. Singer/songwriter [[Stephen Bishop (singer)|Stephen Bishop]] is an Illinois state trooper who complains that Jake and Elwood broke his watch (a result of the car chase in the mall). Makeup artist [[Layne Britton|Layne "Shotgun" Britton]] is the old card player who asks Elwood, "Did you get me my [[Cheez Whiz]], boy?"<ref>{{Cite web |title=Frank Sinatra, qualified |url=https://clayrussell.com/musing/frank-sinatra-qualified/ |last=Russell |first=Clay |website=Clay Russell |publisher= |date=May 6, 2014 |access-date=October 20, 2025}}</ref> Prior to becoming well known for the character [[Pee-wee Herman]], [[Paul Reubens]] had a role as a Chez Paul waiter with one spoken line ("We have a [[Dom Pérignon]] '71 at $120.")<ref>{{Cite news |first=Larry |last=Hawley |date=2023-08-02 |title=Paul Reubens had a quick moment in an iconic Chicago movie |url=https://wgntv.com/news/deans-list/paul-reubens-had-a-quick-moment-in-an-iconic-chicago-movie/ |access-date=2024-01-09 |website=WGN-TV |language=en-US}}</ref><ref>{{Cite news |last=Guerrasio |first=Jason |title=9 movies you probably didn't know Pee-wee Herman creator Paul Reubens appeared in |url=https://www.insider.com/paul-reubens-movie-appearances-pee-wee-herman-2023-8 |access-date=2024-01-09 |website=Insider |language=en-US}}</ref>
+
+===Filming===
+[[Principal photography]] began in July 1979, with the film's budget still not settled. For the first month, things ran smoothly on and off the set. When Weiss saw the supposedly final $17.5 million budget, he reportedly joked, "I think we've spent that much already."<ref name="Vanity Fair 2013" />
+
+In the next month, the production began falling behind schedule. Much of the delay was due to Belushi's partying and carousing. When not on set, he went out to his familiar [[Chicago]] haunts such as [[Wrigley Field]] and the [[Old Town Ale House, Chicago|Old Town Ale House]]. People often recognized him and slipped him cocaine, a drug he was already using heavily on his own, hoping to use it with him. "Every [[Blue-collar worker|blue-collar]] Joe wants his John Belushi story," said Smokey Wendell, who was eventually hired to keep it away from the star. As a result of his late nights and drug and alcohol use, Belushi often missed unit calls (the beginning of a production day) or went to his trailer after them to sleep, wasting hours of production time. One night, Aykroyd found him crashing on the sofa of a nearby house, where Belushi had already helped himself to food in the refrigerator.<ref name="Vanity Fair 2013" />
+
+Cocaine was already so prevalent on the set (like many other film productions of that era) that Aykroyd, who used far less than Belushi, claims a section of the budget was actually set aside for purchases of the drug during night shooting. The stars had a private bar, the Blues Club, built on the set, for themselves, crew, and friends. [[Carrie Fisher]], Aykroyd's girlfriend at the time, said that most of the bar's staff doubled as dealers, procuring any drug patrons desired.<ref name="Vanity Fair 2013" />
+
+The movie's original budget was quickly surpassed, and Wasserman grew increasingly frustrated. He was regularly confronting [[Ned Tanen]], the executive in charge of production for Universal, over the costs. [[Sean Daniel]], another studio executive, was not reassured when he came to Chicago and saw the production had set up a special facility for the 70 cars used in the chase sequences. Filming there, which was supposed to have concluded in the middle of September, continued into late October.<ref name="Vanity Fair 2013" />
+
+On the set, Belushi's drug use worsened. Fisher, who herself later struggled with cocaine addiction, said Landis told her to keep Belushi away from the drug. Wendell was hired to clear any drugs from the places Belushi visited off-camera. Nevertheless, at one point, Landis found Belushi with what he described as a "mountain" of cocaine on a table in his trailer, which led to a tearful confrontation in which Belushi admitted his addiction and feared it could eventually kill him.<ref name="Vanity Fair 2013" />
+
+After Aykroyd and Belushi's wife [[Judith Belushi-Pisano|Judy]] talked to Belushi, the production returned to [[Los Angeles]]. Filming there again ran smoothly until it came time to shoot the final sequence at the [[Hollywood Palladium]]. Just beforehand, Belushi fell off a borrowed skateboard and seriously injured his knee, making it unlikely he could shoot the scene, which required him to sing, dance and do cartwheels. Wasserman persuaded the city's top [[orthopedic surgery|orthopedic surgeon]] to postpone his weekend plans long enough to [[anesthetic|anesthetize]] Belushi's knee, and the scene was filmed as intended.<ref name="Vanity Fair 2013" />
+
+====Locations====
+Much of ''The Blues Brothers'' was shot on location in and around Chicago between July and October 1979, including [[Joliet Correctional Center]] in nearby [[Joliet, Illinois]], and [[Wauconda, Illinois]], where the car crashes into the side of Route 12.<ref name="BBC">{{cite web | title=Blues Brothers Central | work=The Blues Brothers : About The Movie | url=http://www.bluesbrotherscentral.com/movies/the-blues-brothers/ | access-date=December 16, 2008 | archive-date=April 30, 2009 | archive-url=https://web.archive.org/web/20090430104249/http://www.bluesbrotherscentral.com/movies/the-blues-brothers/ | url-status=live }}</ref> Made with the cooperation of Mayor [[Jane Byrne|Jane M. Byrne]], it is credited for putting Chicago on the map as a venue for filmmaking.<ref>{{cite web |url=http://chicago.straightdope.com/sdc20091015.php |title=Were no movies made in Chicago while Richard J. Daley was mayor? |first=Cecil |last=Adams |date=October 15, 2009 |work=Straight Dope Chicago |publisher=Chicago Reader |access-date=October 30, 2009 |archive-date=October 19, 2009 |archive-url=https://web.archive.org/web/20091019095316/http://chicago.straightdope.com/sdc20091015.php |url-status=live }}</ref> In an article written to mark the film's 25th anniversary DVD release, Aykroyd told the ''[[Chicago Sun-Times]]'': "Chicago is one of the stars of the movie. We wrote it as a tribute."<ref name="Chicago Sun-Times">{{cite news|last=Newbart|first=Dave|title=They 'were on a mission from God'|newspaper=[[Chicago Sun-Times]]|url=http://www.suntimes.com/output/news/cst-nws-bbintro20.html|archive-url=https://web.archive.org/web/20050825134024/http://www.suntimes.com/output/news/cst-nws-bbintro20.html|archive-date=August 25, 2005|date=June 20, 2005|access-date=December 16, 2008}}</ref>
+
+[[File:Blues Brothers car chase.JPG|thumb|alt=Film screenshot showing a police car driving through a shopping mall: Scattered items are present on the floor and people are running away from the vehicle. Stores visible in the mall include Toys "R" Us and Jewel.|The Bluesmobile races through the mall while being chased by state troopers in a scene of the film.]]
+
+The first traffic stop was in [[Park Ridge, Illinois]]. The shopping mall car chase was filmed in the real, albeit shuttered, [[Dixie Square Mall]], in [[Harvey, Illinois]].<ref name="CLUI">{{cite web|title=The CLUI Land Use Database-Dixie Square Mall|work=The Center for Land Use Interpretation|url=http://www.clui.org/clui_4_1/ludb/sites/IL6020.html | access-date=December 16, 2008|archive-url = https://web.archive.org/web/20080120004258/http://www.clui.org/clui_4_1/ludb/sites/IL6020.html |archive-date = January 20, 2008|url-status=dead}}</ref> The bridge jump was filmed on an actual drawbridge, the 95th Street bridge over the [[Calumet River]], on Chicago's southeast side. The main entrance to [[Wrigley Field]] (and its sign reading "Save lives Drive safely Prevent fires") makes a brief appearance when the Illinois Nazis visit it after Elwood registers the ballpark's address, 1060 West Addison, as his home address on his driver's license. (Elwood's Illinois driver's license number is an almost-valid encoded number, with Aykroyd's own birth date embedded.) Jake's final confrontation with his girlfriend was filmed in a replica of a section of the [[Chicago Tunnel Company|abandoned Chicago freight tunnel system]]. The other chase scenes included lower [[Wacker Drive]], [[Lake Street (Chicago)|Lake Street]] and Richard J. Daley Center.<ref name="KF1">{{cite web|title=The Blues Brothers - Chicago Filming Locations|work=Locations in the Blues Brothers|url=http://kevinforsyth.net/film/blues.htm|access-date=December 16, 2008|archive-url = https://web.archive.org/web/20080524050219/http://kevinforsyth.net/film/blues.htm |archive-date = May 24, 2008|url-status=dead}}</ref>
+
+In the final car chase scene, the production actually dropped a [[Ford Pinto]], representing the one driven by the Illinois Nazis, from a helicopter at an altitude of about 1,200 feet—and had to gain a [[Special Airworthiness Certificate]] from the [[Federal Aviation Administration]] to do it.<ref name="DVDLaser">{{cite web|title=The Blues Brothers|work=DVD Laser|url=http://dvdlaser.com/search/detail.cfm?id=22868|archive-url=https://web.archive.org/web/20071014070914/http://dvdlaser.com/search/detail.cfm?id=22868|archive-date=October 14, 2007|access-date=December 16, 2008}}</ref><ref>{{cite book|url=https://books.google.com/books?id=0jcUXYAGbbEC&pg=PT30|title=Hollywood on Lake Michigan: 100+ Years of Chicago and the Movies|first1=Michael|last1=Corcoran|first2=Arnie|last2=Bernstein|date=June 1, 2013|publisher=Chicago Review Press|isbn=9781613745786}}</ref> The FAA was concerned that the car could prove too [[aerodynamic]] in a high-altitude drop and pose a threat to nearby buildings.<ref>{{cite book|url=https://books.google.com/books?id=QBvuAAAAMAAJ|title=Cult Movies|first1=Karl|last1=French|first2=Philip|last2=French|date=January 1, 2000|publisher=Billboard Books|isbn=9780823079162|access-date=June 17, 2016|archive-date=December 24, 2016|archive-url=https://web.archive.org/web/20161224235723/https://books.google.com/books?id=QBvuAAAAMAAJ|url-status=live}}</ref> The shot leading up to the car drop, where the Illinois Nazis drive off a freeway ramp, was shot in [[Milwaukee, Wisconsin]], near the [[Hoan Bridge]] on [[Interstate 794]]. The [[Interstate 794|Lake Freeway (North)]] was a planned but not completed six-lane freeway and I-794 contained an unfinished ramp off which the Nazis drove.<ref>{{cite web|url=http://www.wisconsinhighways.org/milwaukee/lake.html|title=Milwaukee Freeways: Lake Freeway|first=Christopher|last=Bessert|access-date=December 16, 2008|publisher=Wisconsin Highways|archive-date=March 3, 2009|archive-url=https://web.archive.org/web/20090303160505/http://www.wisconsinhighways.org/milwaukee/lake.html|url-status=live}}</ref> Several Milwaukee skyscrapers are visible in the background as the [[Bluesmobile]] flips over, notably the [[U.S. Bank Center (Milwaukee)|U.S. Bank Center]].
+[[Image:Daley Plaza 060716.jpg|thumb|Richard J. Daley Center is Chicago's premier civic center and features a massive sculpture by [[Pablo Picasso]].]]
+The Palace Hotel Ballroom, where the band performs their climactic concert, was at the time of filming a country club, but later became the [[South Shore Cultural Center]], named after the Chicago neighborhood where it is located. The interior concert scenes were filmed in the Hollywood Palladium.<ref name="EI">{{cite web|title=Chicago-The Blues Brothers|work=Onscreen Illinois|url=http://www.enjoyillinois.com/movies/region-chicago.html|access-date=December 16, 2008|archive-url = https://web.archive.org/web/20080403230610/http://www.enjoyillinois.com/movies/region-chicago.html |archive-date = April 3, 2008|url-status=dead}}</ref>
+
+The filming in [[Chicago Loop|downtown Chicago]] was conducted on Sundays during the summer of 1979, and much of downtown was cordoned off from the public. Costs for filming the largest scene in the city's history totaled $3.5 million.<ref name="HappyRam">{{cite news|last1=Newbart|first1=Dave|first2=Abdon|last2=Pallasch|title=Happy to have Bluesmobile ram Daley Center—County Building's doors harder to pry open|newspaper=[[Chicago Sun-Times]]|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&p_theme=cstb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=10B5811C111BC6A8&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|url-access=registration|date=June 24, 2005|access-date=June 2, 2009|archive-date=October 19, 2012|archive-url=https://web.archive.org/web/20121019090751/http://nl.newsbank.com/nl-search/we/Archives?p_product=CSTB&p_theme=cstb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=10B5811C111BC6A8&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|url-status=live}}</ref> Permission was given after Belushi and Aykroyd offered to donate $50,000 to a charity after filming.<ref name="HappyRam"/> Although the Bluesmobile was allowed to be driven through the Daley Center lobby, special breakaway panes were temporarily substituted for the normal glass in the building.<ref name="HappyRam"/><ref name="50Greatest">{{cite news|last=Jevens |first=Darel |title=The 50 Greatest Chicago Moments |newspaper=[[Chicago Sun-Times]] |url=http://www.suntimes.com/chicago/best/325489,CST-FTR-film_moments04.article |access-date=June 2, 2009 |date=April 4, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20081010195057/http://www.suntimes.com/chicago/best/325489%2CCST-FTR-film_moments04.article |archive-date=October 10, 2008 }}</ref> The speeding car caused $7,650 in damage to 35 granite paver stones and a bronze air grille in the building.<ref name="HappyRam"/> Interior shots of the elevator, staircase, and assessor's office were all recreated in a film set for filming.<ref name="HappyRam"/>
+
+===Bluesmobile===
+{{Main|Bluesmobile}}
+
+The film used 13 different cars bought at auction from the [[California Highway Patrol]] to depict the retired 1974 [[Mount Prospect, Illinois]], [[Dodge Monaco]] patrol car. The vehicles were outfitted by the studio to do particular driving chores: some were customized for speed and others for jumps, depending on the scene. For the large car chases, filmmakers purchased 60 police cars at $400 each, and most were destroyed at the completion of the filming.<ref name="Chicago Sun-Times2">{{cite news|last=Newbart|first=Dave|title=Incredible stunt driving: "That was all real"|newspaper=[[Chicago Sun-Times]]|url=http://www.suntimes.com/output/news/cst-nws-bbcarchase23.html|archive-url=https://web.archive.org/web/20050728125722/http://www.suntimes.com/output/news/cst-nws-bbcarchase23.html|archive-date=July 28, 2005|date=June 23, 2005|access-date=December 16, 2008}}</ref> More than 40 stunt drivers were hired, and the crew kept a 24-hour body shop to repair cars.<ref name="Chicago Sun-Times2" />[[File:Rusty-s TV and Movie Car Museum Jackson TN 018.jpg|thumb|Reproduction of the "Bluesmobile" at Rusty's TV & Movie Car Museum, Jackson, Tennessee]]
+
+For the scene when the brothers finally arrive at the Richard J. Daley Center, a mechanic took several months to rig the car to fall apart.<ref name="Chicago Sun-Times2"/> At the time of its release, ''The Blues Brothers'' held the world record for the most cars destroyed in one film.<ref name="Chicago Sun-Times2" />
+
+===Post-production===
+Landis' difficulties continued even after principal photography ended. The first cut of ''The Blues Brothers'' lasted two and a half hours, with an intermission. After one early screening, Wasserman demanded it be shortened and 20 minutes were cut. The film's final budget was $27.5 million (equivalent to ${{Inflation|US|27.5|1980}} million in {{Inflation-year|US}}), $10 million over its original budget.<ref name="Vanity Fair 2013"/>
+
+Prospects for a successful release did not look good. Aykroyd and Belushi had left ''SNL'' at the end of [[Saturday Night Live season 4|the fourth season]], reducing their [[Bankable star|bankability]]. Belushi's fame had taken a further hit after the critical failure of Spielberg's film ''[[1941 (film)|1941]]'' at the end of the year. One day after the editing was done, Wasserman invited Landis up to his office to speak with [[Ted Mann]], head of the [[Mann Theatres]] chain, which dominated film exhibition in the [[Western United States]]. He told Landis that he would not book the film at any theaters in predominantly white neighborhoods, such as [[Westwood, Los Angeles|Westwood]]. Not only did Mann not want black patrons going there to see the film, but he also surmised that white viewers were unlikely to see a film featuring older black musical stars.<ref name="Vanity Fair 2013"/> Ultimately, the film got less than half the bookings nationwide for its initial release than a typical big-budget studio film of the era, which did not bode well for its box-office success.<ref name="Vanity Fair 2013" />
+
+==Reception==
+
+===Box office===
+''The Blues Brothers'' opened on June 20, 1980, in 594 theaters. It took in $4,858,152, ranking second for that week (after ''[[The Empire Strikes Back]]''). The film in total grossed $57,229,890 domestically and $58,000,000 in foreign box office for a total of $115,229,890. It ranked 10th at the domestic box office for the year.<ref name="BOM"/> By genre, it is the ninth-highest-grossing musical and the 10th-highest earner among comedy [[road movie]]s. It ranks second, between ''[[Wayne's World (film)|Wayne's World]]'' and ''[[Wayne's World 2]]'', among [[List of Saturday Night Live feature films|films adapted from ''Saturday Night Live'' sketches]].<ref name="BOM"/> Landis claimed ''The Blues Brothers'' was also the first American film to gross more money overseas than it did in the U.S. Over the years, the film has retained a [[cult following]] and earned additional revenue through television, home video, and cinema reruns.<ref name="Chicago Sun-Times"/>
+
+===Critical reception===
+''The Blues Brothers'' received mostly positive reviews from critics. On [[Rotten Tomatoes]], it has a 72% rating, based on 92 reviews, with an average rating of 7.50/10. The site's critical consensus reads: "Too over the top for its own good, but ultimately rescued by the cast's charm, director John Landis' grace, and several soul-stirring musical numbers."<ref name="RT2">{{cite web|title=The Blues Brothers (1980)|work=[[Rotten Tomatoes]]|date=June 18, 1980 |publisher=[[Flixster]]|url=https://www.rottentomatoes.com/m/blues_brothers/|access-date=May 10, 2024|archive-date=January 25, 2021|archive-url=https://web.archive.org/web/20210125150134/http://www.rottentomatoes.com/m/blues_brothers|url-status=live}}</ref> It won the [[Golden Reel Award for Outstanding Achievement in Sound Editing – Sound Effects and Foley for Feature Film]],<ref name="Envelope">{{cite news|title=The Envelope |work=Every show, every winner, every nominee-Blues Brothers |url=http://theenvelope.latimes.com/factsheets/awardsdb/env-awards-db-search,0,7169155.htmlstory?searchtype=all&query=The+Blues+Brothers&x=0&y=0 |archive-url=https://archive.today/20130128091436/http://theenvelope.latimes.com/factsheets/awardsdb/env-awards-db-search,0,7169155.htmlstory?searchtype=all&query=The+Blues+Brothers&x=0&y=0 |url-status=dead |archive-date=January 28, 2013 |access-date=December 16, 2008 }}</ref>{{cbignore}} is 14th on ''[[Total Film]]'' magazine's "List of the 50 Greatest Comedy Films of All Time,"{{Citation needed|date=March 2020}} 20th on ''[[Empire (film magazine)|Empire]]'''s list of "The 50 Greatest Comedies",<ref>{{cite web|url=https://www.empireonline.com/movies/features/best-comedies/|author=Team Empire|title=The 50 Greatest Comedies|work=Empireonline|date=November 1, 2016|access-date=May 31, 2021|archive-date=December 27, 2016|archive-url=https://web.archive.org/web/20161227045149/https://www.empireonline.com/movies/features/best-comedies/|url-status=live}}</ref> and 69th on [[Bravo (US TV channel)|Bravo's]] "100 Funniest Movies" list.<ref name="Manroom">{{cite web|title=Bravo's 100 Funniest Movies List is Laughable|work=Manroom Magazine|url=http://www.livemanly.com/?p=132|access-date=December 16, 2008|archive-date=December 8, 2008|archive-url=https://web.archive.org/web/20081208111533/http://www.livemanly.com/?p=132|url-status=live}}</ref> [[Metacritic]] gave the film a score of 60 based on 12 reviews.<ref>{{cite web|title=The Blues Brothers Reviews|url=https://www.metacritic.com/movie/the-blues-brothers|website=Metacritic|access-date=January 26, 2020|archive-date=November 12, 2020|archive-url=https://web.archive.org/web/20201112014901/https://www.metacritic.com/movie/the-blues-brothers|url-status=live}}</ref> 
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave ''The Blues Brothers'' three out of four, praising its energetic musical numbers and "incredible" car chases. Ebert wrote, "Belushi and Aykroyd come over as hard-boiled city guys, total cynics with a world-view of sublime simplicity, and that all fits perfectly with the movie's other parts. There's even room, in the midst of the carnage and mayhem, for a surprising amount of grace, humor, and whimsy."<ref name="RE">{{cite news|last=Ebert|first=Roger|author-link=Roger Ebert|title=The Blues Brothers|newspaper=[[Chicago Sun-Times]]|url=https://www.rogerebert.com/reviews/the-blues-brothers-1980|date= January 1, 1980|access-date=September 10, 2022}}</ref> [[Gene Siskel]] of the ''[[Chicago Tribune]]'' gave the film a "rare four-star rating", calling it "one of the all-time great comedies" and "the best movie ever made in Chicago". He called the film "technically superb", praised it for "countering every explosion with a quiet moment", and said it "is at once a pure exercise in physical comedy as well as a marvelous tribute to the urban blues sound".<ref name="Siskel">{{cite news|last=Siskel|first=Gene|author-link=Gene Siskel|title='Blues' a funny, smashing medley of sights, sounds|newspaper=[[Chicago Tribune]]|url=https://www.newspapers.com/clip/65560099/the-blues-brothers/|date=June 20, 1980|access-date=May 25, 2021}}</ref> He ranked it eighth on his list of the ten best films of 1980.<ref name="SiskelTopTen">{{cite web|url=https://www.chicagotribune.com/news/ct-xpm-1999-10-15-9910200020-story.html|title=TOP TEN MOVIES: 1969–1998 |website=Chicagotribune.com |date=October 15, 1999 |access-date=2020-06-27|archive-url= https://web.archive.org/web/20190105043457/https://www.chicagotribune.com/news/ct-xpm-1999-10-15-9910200020-story.html|archive-date=2019-01-05|url-status=live}}</ref> Richard Corliss wrote in ''[[Time (magazine)|Time]]'', "''The Blues Brothers'' is a demolition symphony that works with the cold efficiency of a [[Moog synthesizer]] gone sadistic."<ref name="Corliss">{{cite magazine |last=Corliss |first=Richard |author-link=Richard Corliss |title=A Great Rock-'n'-Roll Caravan |magazine=[[Time (magazine)|Time]] |url=https://time.com/archive/6698397/cinema-a-great-rock-n-roll-caravan/ |date=July 7, 1980|archive-date=May 28, 2008|archive-url=https://web.archive.org/web/20080528171007/http://www.time.com/time/magazine/article/0,9171,952710-1,00.html|url-status=dead |access-date=July 1, 2024 }}</ref>
+
+In his review for ''[[The Washington Post]]'', Gary Arnold said Landis "has engorged the frail plot of ''The Blues Brothers'' with car chases and crack-ups, filmed with such avid, humorless starkness on the streets of Chicago that comic sensations are virtually obliterated".<ref name="Arnold">{{cite news|last=Arnold|first=Gary|title=Oh, Brothers!|newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/archive/lifestyle/1980/06/21/oh-brothers/1222874e-22c3-4481-9af9-4a2e1d84ec22/|date=June 21, 1980|access-date=May 25, 2021}}</ref> [[Janet Maslin]] of ''[[The New York Times]]'' criticized ''The Blues Brothers'' for shortchanging viewers on details about Jake and Elwood's affinity for African-American culture. She also took Landis to task for "distracting editing", mentioning the Soul Food diner scene in which saxophonist Marini's head is out of shot most of the time as he dances on the counter.<ref name="JM">{{cite news|last=Maslin|first=Janet|author-link=Janet Maslin|title=The Blues Brothers (1980)|newspaper=The New York Times|url=https://movies.nytimes.com/movie/review?res=9C05E6D61638F933A15755C0A966948260|access-date=December 16, 2008|date=June 20, 1980|archive-date=October 3, 2011|archive-url=https://web.archive.org/web/20111003072316/http://movies.nytimes.com/movie/review?res=9C05E6D61638F933A15755C0A966948260|url-status=live}}<!--Link isn't dead, login is required--></ref> In the documentary, ''Stories Behind the Making of The Blues Brothers'', Landis acknowledges the criticism, and says, "Everybody has his opinion", and Marini recalls the dismay he felt at watching the scene.
+
+[[Kim Newman]], writing for ''Empire'' in 2013, called ''The Blues Brothers'' "an amalgam of urban sleaze, automobile crunch and blackheart rhythm and blues" with "better music than any film had had for many years". He noted that Belushi and Aykroyd pack in their heroes: "Aretha storming through '[[Think (Aretha Franklin song)|Think]]', Cab Calloway cruising through '[[Minnie the Moocher]]', John Lee Hooker boogying through 'Boom Boom' and Ray Charles on electric piano", and observed that "the picture had revived the careers of virtually all the musicians that appeared in it", concluding, "it still sounds great and looks as good as ever through [[Ray-Ban|Ray Bans]]".<ref>{{cite web|url=https://www.empireonline.com/movies/blues-brothers/review/|first=Kim|last=Newman|title=The Blues Brothers Review|work=Empireonline|date=January 1, 2013|access-date=April 28, 2020|archive-date=September 24, 2018|archive-url=https://web.archive.org/web/20180924182005/https://www.empireonline.com/movies/blues-brothers/review/|url-status=live}}</ref>
+
+On the 30th anniversary of the film's release, ''[[L'Osservatore Romano]]''<ref>{{cite news |url=http://liveshots.blogs.foxnews.com/2010/06/18/vatican-blesses-blues-brothers/ |title=Vatican Calls The Blues Brothers "Catholic" |work=Fox News |first=Greg |last=Burke |date=June 18, 2010 |access-date=November 1, 2010 |archive-url=https://web.archive.org/web/20110106061435/http://liveshots.blogs.foxnews.com/2010/06/18/vatican-blesses-blues-brothers/ |url-status=dead |archive-date=January 6, 2011}}</ref> (the daily newspaper of [[Vatican City State]]) wrote that the film is filled with positive symbolism and moral references that can be related to Catholicism, adding that ''The Blues Brothers'' "is a memorable film, and, judging by the facts, a Catholic one".<ref>{{cite news | first=Paul | last=Casciato | title=Vatican beatifies Blues Brothers ... well almost | url=https://www.reuters.com/article/idUSTRE65H1RQ20100618 | work=Reuters | date=June 18, 2010 | access-date=November 1, 2010 |archive-url=https://web.archive.org/web/20100722071311/http://www.reuters.com/article/idUSTRE65H1RQ20100618 | url-status=live |archive-date=July 22, 2010}}</ref>
+
+===Cult-film status===
+''The Blues Brothers'' has become a staple of late-night cinema, even slowly morphing into an audience-participation show in its regular screenings at the [[Valhalla Cinema, Melbourne|Valhalla Cinema]], in [[Melbourne]], Australia.<ref name="The Age">{{cite news|last=Coslovich|first=Gabriella|title=A mission from God nears its end|newspaper=[[The Age]]|url=http://www.theage.com.au/articles/2003/02/10/1044725733610.html|access-date=December 16, 2008|location=Melbourne|date=February 11, 2003|archive-date=December 27, 2008|archive-url=https://web.archive.org/web/20081227033715/http://www.theage.com.au/articles/2003/02/10/1044725733610.html|url-status=live}}</ref> Landis acknowledged the support of the cinema and the fans by a phone call he made to the cinema at the 10th-anniversary screening, and later invited regular attendees to make cameo appearances in ''[[Blues Brothers 2000]]''. The fans act as the members of the crowd during the performance of "[[(Ghost) Riders in the Sky: A Cowboy Legend|Ghost Riders in the Sky]]".<ref name="ROTBB">{{cite web|title=The Melbourne Blues Brothers go global!|work=The Return of the Blues Brothers|url=http://blues.squidly.org/ | access-date=December 16, 2008 |archive-url=https://web.archive.org/web/20020720111421/http://blues.squidly.org/ |archive-date=July 20, 2002}}</ref>
+
+In August 2005, a 25th-anniversary celebration for ''The Blues Brothers'' was held at [[Grauman's Chinese Theatre]] in Los Angeles.<ref name="Blues Brothers Central">{{cite web|title=Blues Brothers 25th Anniversary DVD Launch|work=Blues Brothers Central|url=http://www.bluesbrotherscentral.com/movies/the-blues-brothers/anniversary/|access-date=April 27, 2009|archive-date=April 29, 2009|archive-url=https://web.archive.org/web/20090429223358/http://www.bluesbrotherscentral.com/movies/the-blues-brothers/anniversary/|url-status=live}}</ref> Attendees included Landis, former Universal Studios executive [[Thom Mount]], film editor [[George Folsey Jr.]], and cast members James Brown, [[Henry Gibson]], [[Charles Napier (actor)|Charles Napier]], Steve Cropper and Stephen Bishop. It featured a press conference, a panel discussion Aykroyd joined by satellite, and a screening of the film's original theatrical version. The panel discussion was broadcast directly to many other cinemas around the country.
+
+The [[Cult film|cult-like popularity]] of ''The Blues Brothers'' has also spread to non-English-language markets such as Japan; it was an inspiration for Japanese companies [[Studio Hibari]] and [[Aniplex]], which led to the creation of the manga and anime franchise ''[[Nerima Daikon Brothers]]'', which contain heavy references to the film.
+
+===American Film Institute===
+* [[AFI's 100 Years...100 Laughs]] – nominated<ref>{{Cite web|url=http://www.afi.com/Docs/100Years/laughs500.pdf|archiveurl=https://web.archive.org/web/20151220152415/http://afi.com/Docs/100Years/laughs500.pdf|title=AFI's 100 Years...100 Laughs Nominees|archivedate=December 20, 2015}}</ref>
+* [[AFI's 100 Years...100 Songs]]:
+** "Think" – nominated<ref>{{Cite web|url=http://www.afi.com/Docs/100Years/songs400.pdf|archiveurl=https://web.archive.org/web/20150221030634/http://www.afi.com/Docs/100Years/songs400.pdf|title=AFI's 100 Years...100 Songs Nominees|archivedate=February 21, 2015}}</ref>
+* [[AFI's 100 Years...100 Movie Quotes]]:
+** "We're on a mission from God." – nominated<ref>{{Cite web|url=http://www.afi.com/Docs/100Years/quotes400.pdf|archiveurl=https://web.archive.org/web/20110628043426/http://www.afi.com/Docs/100Years/quotes400.pdf|title=AFI's 100 Years...100 Movie Quotes Nominees|archivedate=June 28, 2011}}</ref>
+
+==Home media==
+The film was first released on [[LaserDisc]] in 1980.<ref>{{Cite web |title=LaserDisc Database - Blues Brothers, The [16-020] on LD LaserDisc |url=https://www.lddb.com/laserdisc/28290/16-020/Blues-Brothers-The |access-date=2025-01-21 |website=www.lddb.com}}</ref>  In 1983, it was released on [[Capacitance Electronic Disc|CED]],<ref>{{Cite web |title=LaserDisc Database - Blues Brothers, The [RCA 13310] on CED Capacitance Electronic Disc |url=https://www.lddb.com/ced/00212/RCA-13310/Blues-Brothers-The |access-date=2025-01-21 |website=www.lddb.com}}</ref> [[VHS]] and [[Betamax]] by [[Universal Pictures Home Entertainment|MCA Home Video]].  It was then re-released on VHS, Laserdisc and Betamax in 1985 from MCA Home Video and again in 1990 from MCA/Universal Home Video. It was also released in a two-pack VHS box set with ''Animal House''.
+
+When ''The Blues Brothers'' was first screened for a preview audience, a producer demanded that Landis cut 25 minutes.<ref name="Home Theater">{{cite web |last=Chiarella |first=Chris |date=October 14, 2005 |title=John Landis, Uncensored |url=http://www.hometheatermag.com/news/101305landis/ |url-status=live |archive-url=https://web.archive.org/web/20071229045752/http://www.hometheatermag.com/news/101305landis/ |archive-date=December 29, 2007 |access-date=December 16, 2008 |work=Home Theater}}</ref>  After trimming 15 minutes, it was released in theaters at 132 minutes. The original 148-minute length was restored for the collector's edition DVD and a special edition VHS and LaserDisc release in 1998. The DVD and Laserdisc versions included a 56-minute documentary, ''The Stories Behind the Making of The Blues Brothers''. Produced and directed by JM Kenny (who also produced the collector's edition DVD of ''Animal House'' that year), it included interviews with Landis, Aykroyd, members of the Blues Brothers Band, producer Robert K. Weiss, editor [[George Folsey Jr.]] and others involved with the film. The DVD version also includes production photographs, the theatrical trailer, production notes, and cast and filmmaker bios. The 25th anniversary DVD release in 2005 included both the theatrical cut and the extended version.
+
+''The Blues Brothers'' was released on [[Blu-ray]] on July 26, 2011, with the same basic contents as the 25th anniversary DVD. In a March 2011 interview with [[Ain't It Cool News|Ain't it Cool News]], Landis said he had approved the Blu-ray's remastered transfer. On May 19, 2020, the movie was given a [[4K resolution|4K]] [[Ultra-high-definition television|UHD]] release in both digital and [[Ultra HD Blu-ray|4K Blu-ray]]; it has a new 4K remaster from the original theatrical negative, and the extended footage was remastered from the same archived print as well.<ref>{{Citation|title=The Blues Brothers 4K Blu-ray Release Date May 19, 2020|url=https://www.blu-ray.com/movies/The-Blues-Brothers-4K-Blu-ray/265098/|access-date=2020-10-05|archive-date=September 8, 2020|archive-url=https://web.archive.org/web/20200908023631/https://www.blu-ray.com/movies/The-Blues-Brothers-4K-Blu-ray/265098/|url-status=live}}</ref>
+
+==Soundtrack==
+{{Infobox album
+| name       = The Blues Brothers: Original Soundtrack Recording
+| type       = Soundtrack
+| artist     = [[the Blues Brothers]]
+| cover      = The-Blues-Brothers-Original-Soundtrack-Recording-LP.jpg
+| alt        = Elwood and Jake, sitting on the hood of their car
+| released   = June 20, 1980
+| recorded   = 1980
+| venue      =
+| studio     = *[[Universal Recording Corporation|Universal]] (Chicago)
+*[[Record Plant]] (Los Angeles)
+| genre      = [[Blues]], [[blues rock]], [[blue-eyed soul]]
+| length     = 40:27
+| label      = [[Atlantic Records|Atlantic]]
+| producer   = [[Bob Tischler]]
+| prev_title = [[Briefcase Full of Blues]]
+| prev_year  = 1978
+| next_title = [[Made in America (Blues Brothers album)|Made in America]]
+| next_year  = 1980
+}}
+{{Music ratings
+| rev1      = [[AllMusic]]
+| rev1Score = {{Rating|3|5}}<ref name="AllmusicReview">{{cite web|last=Adams|first=Bret|title=The Blues Brothers &#91;Original Soundtrack&#93;|website=[[Allmusic]]|url={{AllMusic|class=album|id=r187590|pure_url=yes}}|access-date=July 23, 2009}}</ref>
+}}
+
+'''''The Blues Brothers: Original Soundtrack Recording''''' (later rereleased as '''''The Blues Brothers: Music from the Soundtrack''''') is the Blues Brothers Band's second album. Released on June 20, 1980, it was a followup to their debut live album, ''Briefcase Full of Blues''. The band toured the same year to promote the film, later releasing a second live album, ''[[Made in America (Blues Brothers album)|Made in America]]'', which featured the [[Billboard Hot 100|''Billboard'' Hot 100]] top 40 track "[[Who's Making Love]]".<ref name="Top40Hits" />
+
+The soundtrack was recorded in Chicago at [[Universal Recording Corporation]] at the same time the movie was being filmed, with the exception of "[[Gimme Some Lovin'#Blues Brothers cover|Gimme Some Lovin{{'-}}]]", which was recorded at [[Record Plant|the Record Plant]] in Los Angeles, and "[[Let Us Go Back to the Old Landmark|The Old Landmark]]", which was recorded live on a Universal Studios sound stage on the [[West Coast of the United States|West Coast]], with overdubs later recorded at a studio in [[New York City]].<ref name="BuskinR">{{cite magazine|last=Buskin|first=Richard|title=Classic Tracks: The Blues Brothers 'Everybody Needs Somebody To Love'|url=https://www.soundonsound.com/techniques/classic-tracks-blues-brothers-everybody-needs-somebody-love|magazine=Sound On Sound|publisher=SOS Publications Group|date=May 2014|access-date=19 April 2022}}</ref>
+
+The songs on the soundtrack album are a noticeably different [[audio mixing (recorded music)|audio mix]] than in the film, with a prominent [[baritone saxophone]] in the horn line (also heard in the film during "[[Shake a Tail Feather]]", though no baritone sax is present), and female backing vocals on "[[Everybody Needs Somebody to Love]]", though the band had no other backup singers, besides Jake and/or Elwood, in the film. A number of regular band members, including saxophonist [[Tom Scott (saxophonist)|Tom Scott]] and drummer [[Steve Jordan (drummer)|Steve Jordan]], perform on the album but are not in the film.
+
+According to Landis in ''The Stories Behind the Making of 'The Blues Brothers{{'}}'', filmed musical performances by Aretha Franklin and James Brown took more effort, as neither artist was accustomed to lip-synching their performances. Franklin required several takes, and Brown simply rerecorded his performance live on a [[Universal Studios Hollywood|Universal Studios]] sound stage during filming of the holy roller church scene, with overdubs later recorded at a studio in New York City.<ref name=BuskinR/> Calloway had wanted to perform a disco variation on his signature tune, "Minnie the Moocher", having done the song in several styles in the past but Landis insisted that the song be done in an original big-band arrangement. Calloway was initially angry with Landis over this decision but was later pleased with the positive reception his performance received from audiences and fans of the film.
+
+"Gimme Some Lovin{{'-}}" was a top 20 Hot 100 hit for the Blues Brothers, peaking at number 18.<ref name="Top40Hits">{{cite book |title=The Billboard book of top 40 hits |last=Whitburn |first=Joel |year=2004 |publisher=Billboard Books |isbn=0-8230-7499-4 |page=70 |url=https://books.google.com/books?id=tjQeP-BHy78C&q=billboard%20blues%20brothers%20%22gimme%20some%20lovin%22&pg=PA70 |access-date=November 1, 2010}}</ref> The album sold more than a million copies.<ref>{{cite news |last=Newbart |first=Dave |year=2020 |website=[[Chicago Sun-Times]] |title=How 'The Blues Brothers' helped fuel a blues boom in Chicago and beyond |url=https://chicago.suntimes.com/movies-and-tv/2020/6/22/21296493/blues-brothers-movie-40th-anniversary-chicago-blues-scene |accessdate=16 September 2022}}</ref>
+
+{{Track listing
+| extra_column  = Artist
+| title1        = [[She Caught the Katy]]
+| writer1       = [[Taj Mahal (musician)|Taj Mahal]], [[Yank Rachell]]
+| extra1        = The Blues Brothers with lead vocals by Jake Blues
+| length1       = 4:10
+| title2        = [[Peter Gunn (song)|Peter Gunn Theme]]
+| writer2       = [[Henry Mancini]]
+| extra2        = The Blues Brothers Band
+| length2       = 3:46
+| title3        = [[Gimme Some Lovin'#Blues Brothers cover|Gimme Some Lovin{{'-}}]]
+| writer3       = [[Steve Winwood]], [[Muff Winwood]], [[Spencer Davis]]
+| extra3        = The Blues Brothers with lead vocals by Jake Blues
+| length3       = 3:06
+| title4        = [[Shake a Tail Feather]]
+| writer4       = Otha Hayes, [[Andre Williams (musician)|Andre Williams]], Verlie Rice
+| extra4        = Ray Charles with the Blues Brothers (Jake and Elwood, backing vocals)
+| length4       = 2:48
+| title5        = [[Everybody Needs Somebody to Love]]
+| writer5       = [[Jerry Wexler]], [[Bert Berns]], [[Solomon Burke]]
+| extra5        = The Blues Brothers (Jake Blues, lead vocals; Elwood Blues, harmonica and vocals)
+| length5       = 3:21
+| title6        = [[The Old Landmark]]
+| writer6       = Adeline M. Brunner
+| extra6        = James Brown and the Rev. [[James Cleveland]] Choir (additional choir vocals by [[Chaka Khan]] credited in the film)
+| length6       = 2:56
+| title7        = [[Think (Aretha Franklin song)|Think]]
+| writer7       = Teddy White, [[Aretha Franklin]]
+| extra7        = Aretha Franklin and the Blues Brothers with backing vocals by Brenda Corbett, Margaret Branch, [[Carolyn Franklin]], Jake and Elwood
+| length7       = 3:13
+| title8        = [[Rawhide (song)|Theme from Rawhide]]
+| writer8       = [[Dimitri Tiomkin]], [[Ned Washington]]
+| extra8        = Elwood, Jake and the Blues Brothers Band
+| length8       = 2:37
+| title9        = [[Minnie the Moocher]]
+| writer9       = [[Cab Calloway]], [[Irving Mills]]
+| extra9        = Cab Calloway with the Blues Brothers Band
+| length9       = 3:23
+| title10       = [[Sweet Home Chicago]]
+| writer10      = [[Robert Johnson (musician)|Robert Johnson]]
+| extra10       = The Blues Brothers with lead vocals by Jake Blues
+| length10      = 7:48
+| title11       = [[Jailhouse Rock (song)|Jailhouse Rock]]
+| writer11      = [[Jerry Leiber]], [[Mike Stoller]]
+| extra11       = Jake Blues and the Blues Brothers (Over the closing credits in the film, verses are sung by James Brown, Cab Calloway, Ray Charles, Aretha Franklin and "crew")
+| length11      = 3:19
+}}
+
+===Personnel===
+
+Partial credits from Richard Buskin and [[Bob Tischler]].<ref name="SoundOnSound">{{cite web |last1=Buskin |first1=Richard |title=Classic Tracks: The Blues Brothers 'Everybody Needs Somebody to Love; |url=https://www.soundonsound.com/techniques/classic-tracks-blues-brothers-everybody-needs-somebody-love |website=SoundOnSound |publisher=Sound On Sound}}</ref> Additional credits from the album's liner notes.<ref name=liner>{{cite AV media notes |title=The Blues Brothers (Soundtrack) |author=[[The Blues Brothers]] |year=1980|type=booklet |url=http://albumlinernotes.com/Briefcase_Full_Of_Blues.html}}</ref> According to Buskin and producer/engineer Tischler, Murphy Dunne, who plays pianist Murph in the film, could play piano but not well enough to play on the soundtrack.<ref name="SoundOnSound"/> It is unclear whether Dunne plays tambourine on the soundtrack version of "Shake a Tail Feather", as he is portrayed doing in the film.
+
+'''The Blues Brothers'''
+* "Joliet" Jake Blues ([[John Belushi]]) – lead vocals, backing vocals on "Shake a Tail Feather" and "Think"
+* Elwood Blues ([[Dan Aykroyd]]) – backing vocals, harmonica, lead vocals on "Theme from Rawhide"
+* [[Paul Shaffer]] <!-- (uncertain) – [[Hammond organ]], [[Wurlitzer electric piano]], [[piano|acoustic piano]], backing vocals, [[musical director]] --> - backing vocal arrangements ("Everybody Needs Somebody to Love")
+* [[Steve Cropper|Steve "The Colonel" Cropper]] – guitar
+* [[Matt Murphy (blues guitarist)|Matt "Guitar" Murphy]] – guitar
+* [[Donald "Duck" Dunn]] – bass guitar
+* [[Steve Jordan (drummer)|Steve Jordan]] – drums
+* [[Willie Hall (drummer)|Willie "Too Big" Hall]] – drums
+* [[Lou Marini|Lou "Blue Lou" Marini]] – [[Saxophone|tenor and alto saxophones]], backing vocals
+* [[Alan Rubin|Alan "Mr. Fabulous" Rubin]] – trumpet, backing vocals
+* [[Tom Scott (saxophonist)|Tom "Triple Scale" Scott]] – tenor and alto saxophones, backing vocals
+* [[Tom Malone (musician)|Tom "Bones" Malone]] – tenor and baritone saxophones, [[trombone]], trumpet, backing vocals, horn arrangements
+
+'''Special guests'''
+* [[Ray Charles]] – lead vocals on "Shake a Tail Feather" and "Jailhouse Rock," [[Rhodes piano|Fender Rhodes electric piano]] on "Shake a Tail Feather"
+* [[James Brown]] – lead vocals on "The Old Landmark" and "Jailhouse Rock"
+* [[Chaka Khan]] – additional vocals on "The Old Landmark"
+* [[Aretha Franklin]] – lead vocals on "Think" and "Jailhouse Rock," piano on "Think"
+* [[Cab Calloway]] – lead vocals on "Minnie the Moocher"
+* [[John Lee Hooker]] - Guitar and lead vocals on "Boom Boom"
+
+'''Additional musicians'''
+* "The Crew" (of the film) – lead vocals on "Jailhouse Rock"
+* Brenda Corbett, Margaret Branch, [[Carolyn Franklin]] – backing vocals on "Think"
+* Rev. James Cleveland Choir – backing vocals on "The Old Landmark"
+* Patty Austin, Vivian Cherry, Ullanda McCullough – backing vocals on "Everybody Needs Somebody to Love"
+* Elliott Randall – guitar
+* Keiv Ginsberg – guitar
+* Hiram Bullock – guitar
+* David Weston – bass
+* Larry Willis – piano
+* [[Bill Payne]] – piano
+* John Springer – piano
+* John Hason – piano
+* Terry Fryer – piano
+* Richard T. Bear – piano
+* Arthur Dickson – drums
+* Lewis Del Gatto – horn
+
+'''Production and technical staff'''
+* Bob Tischler – producer, engineer
+* Jay Krugman – engineer
+* Jim Scheffler – engineer
+* Tom Miller – assistant engineer
+* Steve Marcantonio – assistant engineer
+* Eddie Garcia – assistant engineer
+* Ira Newborn – conductor, musical supervision
+* Peter Sorel – front cover photography
+* Bob Defrin – art direction
+* Judith Jacklin – design
+* Joe Brescio – mastering
+
+'''Recording studios'''
+* "Original recording": Universal Recording, Chicago
+* "Additional recording": Record Plant, Los Angeles; Record Plant, New York City; Soundmixers, New York City
+* Record Plant, NYC – mix location
+* The Master Cutting Room – mastering location
+
+===Charts===
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+!Chart (1980–2015)
+!Peak<br/>position
+|-
+!scope="row"|Australian Albums ([[Kent Music Report]])<ref name=aus>{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=283}}</ref>
+| 10
+|-
+{{album chart|Austria|51|artist=Soundtrack / The Blues Brothers|album=The Blues Brothers|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|Canada|20|chartid=0233a|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|Netherlands|2|artist=Soundtrack / The Blues Brothers|album=The Blues Brothers|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|Germany|69|id=9758|artist=Soundtrack / The Blues Brothers|album=The Blues Brothers|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|Italy|75|artist=Soundtrack / The Blues Brothers|album=The Blues Brothers|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|New Zealand|12|artist=Soundtrack / The Blues Brothers|album=The Blues Brothers|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|Norway|21|artist=Soundtrack / The Blues Brothers|album=The Blues Brothers|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|Sweden|18|artist=Soundtrack / The Blues Brothers|album=The Blues Brothers|rowheader=true|accessdate=April 15, 2025}}
+|-
+{{album chart|UK2|59|date=19880918|rowheader=true|accessdate=April 15, 2025}}
+|-
+!scope="row"|US [[Billboard 200|''Billboard'' 200]]<ref>{{cite web|url=https://elpee.jp/album/The%20Blues%20Brothers/Blues%20Brothers/|title=Album / Blues Brothers / The Blues Brothers|website=Billboard Database|accessdate=April 15, 2025}}</ref>
+| 13
+|}
+
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+! scope="col"| Chart (2025–2026)
+! scope="col"| Peak<br /> position
+|-
+! scope="row"| Greek Albums ([[IFPI Greece|IFPI]])<ref>{{cite web|url=http://www.ifpi.gr/charts_en.html|title=Official IFPI Charts Top-75 Albums Sales Chart (Combined) – Εβδομάδα: 40/2025|publisher=[[IFPI Greece]]|access-date=October 8, 2025|lang=el|archive-url=https://web.archive.org/web/20251008054730/https://www.ifpi.gr/charts_el.html|archive-date=October 8, 2025|url-status=deviated}}</ref>
+| 97
+|-
+{{album chart|BillboardBlues|14|artist=Blues Brothers|rowheader=true|access-date=July 14, 2026}}
+|}
+
+===Certifications===
+{{certification Table Top}}
+{{certification Table Entry|type=album|region=Australia|artist=Blues Brothers|title=The Blues Brothers OST|award=Platinum|number=6|certyear=2000|relyear=1980}}
+{{certification Table Entry|type=album|region=France|artist=Blues Brothers|title=BOF BLUES BROTHERS|award=Platinum|number=2|certyear=1999|relyear=1980}}
+{{certification Table Entry|type=album|region=Germany|artist=Soundtrack|title=Blues Brothers|award=Platinum|certyear=1998|relyear=1980|number=2}}
+{{certification Table Entry|type=album|region=Italy|artist=Blues Brothers|award=Gold|certyear=2016|relyear=1989|access-date=11 December 2018}}
+{{certification Table Entry|type=album|region=Netherlands|artist=Soundtrack|title=Blues Brothers|award=Gold|certyear=1989|relyear=1980}}
+{{certification Table Entry|type=album|region=New Zealand|artist=Blues Brothers|award=Platinum|id=1986-10-24|source=newchart|access-date=2024-11-20|relyear=1989}}
+{{certification Table Entry|type=album|region=Switzerland|artist=Soundtrack|title=Blues Brothers|award=Platinum|number=2|certyear=1993|relyear=1980}}
+{{certification Table Entry|type=album|region=United Kingdom|artist=Original Soundtrack|title=Blues Brothers - Ost|award=Platinum|number=2|certyear=1990|relyear=1980|id=975-1140-2}}
+{{certification Table Entry|type=album|region=United States|artist=Soundtrack|title=Blues Brothers|award=Platinum|certyear=1998|relyear=1980}}
+{{Certification Table Bottom}}
+
+==Other songs in the film==
+The film's score includes "God Music" (instrumental with choir vocalise) by [[Elmer Bernstein]], who had worked with Landis on ''National Lampoon's Animal House''. Other songs in the film include:
+
+{{Track listing
+| extra_column  = Artist
+| title1        = [[Somebody Loan Me a Dime#Track listing|Somebody Loan Me a Dime]]
+| writer1       = [[Fenton Robinson]]
+| extra1        = Fenton Robinson (plays in the beginning of the film when Jake is escorted from his prison cell at [[Joliet Correctional Center|Joliet]])
+| length1       = 2:59
+| title2        = [[Shake Your Moneymaker (song)|Shake Your Moneymaker]]
+| writer2       = [[Elmore James]]
+| extra2        = Elmore James (plays during the Brothers' visit with Curtis at the orphanage)
+| length2       = 2:35
+| title3        = Soothe Me/[[Hold On, I'm A Comin'|Hold On! I'm Comin']]
+| writer3       = [[Sam Cooke]]/[[Isaac Hayes]] and [[David Porter (musician)|David Porter]]
+| extra3        = [[Sam & Dave]] (both tracks playing on the Bluesmobile's [[8-track tape|8-track player]]. The former when Jake and Elwood get pulled over by the police; latter when they are then chased after [[resisting arrest]])
+| length3       = 5:06
+| title4        = [[I Can't Turn You Loose]]
+| writer4       = [[Otis Redding]]
+| extra4        = The Blues Brothers band (their theme song; plays during the smashing of the Mall and again when they are introduced at the Palace Hotel Ballroom, incorporating "[[Time Is Tight]]" by Booker T. and the M.G.'s)
+| length4       = 1:18
+| title5        = [[Let the Good Times Roll (Louis Jordan song)|Let the Good Times Roll]]
+| writer5       = [[Louis Jordan]]
+| extra5        = [[Louis Jordan]] (plays on the record player in Elwood's corner of the flophouse)
+| length5       = 2:49
+| title6        = [[Anema e core (1950 song)|Anema e core]] (Until)
+| writer6       = [[:it:Salve d'Esposito|Salve d'Esposito]]
+| extra6        = [[Ezio Pinza]] (plays when Jake and Elwood investigate Tom Malone and Lou Marini's old home)
+| length6       = 2:15
+| title7        = [[Quando quando quando|Quando Quando Quando (When When When)]]
+| writer7       = [[Tony Renis]], [[Alberto Testa (lyricist)|Alberto Testa]]
+| extra7        = Five members of the Blues Brothers band (as "Murph & the Magic Tones", Murphy "Murph" Dunne, vocals and piano; Steve "The Colonel" Cropper, guitar; Willie "Too Big" Hall, drums; Donald "Duck" Dunn, bass; Tom "Bones" Malone, trombone) (plays in the Holiday Inn scene).
+| title8        = [[Just the Way You Are (Billy Joel song)|Just the Way You Are]]
+| writer8       = [[Billy Joel]]
+| extra8        = Murph & the Magic Tones (instrumental plays while the Magic Tones discuss "putting the band back together" with Jake and Elwood)
+| title9        = [[Joseph Lanner#Works|Die Romantiker]] (The Romantics)
+| writer9       = [[Joseph Lanner]]
+| extra9        = The waltz played during the restaurant scene at the Chez Paul
+| title10       = [[Boom Boom (John Lee Hooker song)|Boom Boom]]
+| writer10      = [[John Lee Hooker]]
+| extra10       = John Lee Hooker (as "Street Slim"), vocals and guitar; [[Big Walter Horton]] (as "Tampa Pete"), harmonica; [[Pinetop Perkins]] (as "Luther Jackson"), [[electric piano]]; [[Willie "Big Eyes" Smith]], drums; [[Luther "Guitar Junior" Johnson]], guitar; [[Calvin "Fuzz" Jones]], bass (plays in the Maxwell Street scene, short version in the theatrical cut, full-length in the extended cut). This was a live take.
+| title11       = Mama Lawdy"/"[[Boogie Chillen']]
+| writer11      = John Lee Hooker
+| extra11       = John Lee Hooker (plays in the film twice; first when Jake tries to phone Maury Sline, again when the band go to Bob's Country Bunker)
+| length11      = 2:35
+| title12       = [[Horst-Wessel-Lied]] (a.k.a:  "Die Fahne Hoch")
+| writer12      = [[Horst Wessel]] (lyrics by Wessel), melody of a song composed in 1865 by [[Peter Cornelius]] as the "Urmelodie" (source-melody).
+| extra12       = Plays during the scene where the Head Illinois Nazi learns about "traffic menace" Elwood's address 1060 West Addison from a subordinate, before they drive to that address ([[Wrigley Field]]).
+| length12      = 3:23
+| title13       = [[Your Cheatin' Heart]]
+| writer13      = [[Hank Williams]]
+| extra13       = [[Kitty Wells]] (performed as the Blues Brothers enter Bob's Country Bunker)
+| length13      = 2:38
+| title14       = [[Stand by Your Man]]
+| writer14      = [[Tammy Wynette]] and [[Billy Sherrill]]
+| extra14       = The Blues Brothers (performed while at Bob's Country Bunker)
+| title15       = [[I'm Walkin'|I'm Walkin{{'-}}]]
+| writer15      = [[Fats Domino]] together with frequent collaborator [[Dave Bartholomew]]
+| extra15       = Fats Domino (plays during the scenes where Jake, Elwood and the orphans promote the concert)
+| length15      = 2:05
+| title16       = [[Ride of the Valkyries]]
+| writer16      = [[Richard Wagner]]
+| extra16       = [[Pittsburgh Symphony Orchestra]], conducted by [[William Steinberg]] (plays during the scene where the Illinois Nazis chase the Blues Brothers up an unfinished bridge near the end of the film)
+| length16      = 4:40
+| title17       = [[The Girl From Ipanema]]
+| writer17      = [[Antônio Carlos Jobim]]
+| extra17       = Played in the elevator as the Blues Brothers ride up to the 11th floor
+}}
+
+==Sequel==
+{{Main|Blues Brothers 2000}}
+
+The 1998 sequel, ''Blues Brothers 2000'', had similar traits to the original, including large car-chase scenes and musical numbers. Landis returned to direct the film and Aykroyd reprised his role, joining [[John Goodman]], [[Joe Morton]] and 10-year-old [[J. Evan Bonifant]] as the new Blues Brothers. Franklin and Brown were among the celebrities returning from the first film. John Belushi's memory was dedicated in the film as his character was [[killing off|killed off]]. There were also musical performances by [[Sam Moore]], [[Wilson Pickett]], Paul Shaffer, [[B.B. King]] and [[Eric Clapton]], among others. Dozens of artists were packed into an all-star band called the Louisiana Gator Boys. Even with many returning cast members, the film was considered a [[box-office failure]], generating a little over $14 million in ticket sales, and critics' reviews were mostly negative.<ref name="BOM2">{{cite web|title=Blues Brothers 2000|work=Box Office Mojo|url=https://boxofficemojo.com/movies/?id=bluesbrothers2000.htm|access-date=December 16, 2008|archive-date=December 19, 2008|archive-url=https://web.archive.org/web/20081219124107/http://www.boxofficemojo.com/movies/?id=bluesbrothers2000.htm|url-status=live}}</ref>
+
+== Other works in the franchise ==
+In 1980, the book ''Blues Brothers: Private'' was published, designed to help flesh out the universe in which the film takes place. ''Private'' was written and designed by Belushi's wife, Judith Jacklin, and [[Tino Insana]], a friend of Belushi's from their days at [[The Second City]].
+
+The video game ''[[The Blues Brothers (video game)|The Blues Brothers]]'' was released in 1991. It is a platform game in which the object is to evade police and other vigilantes to get to a blues concert.
+
+In the 1990s, [[Film Roman]] was putting an animated series based on this film in the works, which was scheduled to be released in fall 1997. The brothers of Aykroyd and Belushi ([[Peter Aykroyd|Peter]] and [[Jim Belushi|Jim]]) were set to take their roles as the titled characters.<ref>{{Cite web|url=http://www.bluesbrotherscentral.com/tv/animated/|title=Blues Brothers - The Animated Series :: Blues Brothers Central|date=April 29, 2009|archive-url=https://web.archive.org/web/20090429085647/http://www.bluesbrotherscentral.com/tv/animated/ |archive-date=April 29, 2009 }}</ref> The series was ultimately canceled because of casting complications. 
+
+==See also==
+* [[Minnie the Moocher]]
+* [[List of cult films]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote|The Blues Brothers}}
+* {{Official website|https://www.uphe.com/movies/the-blues-brothers}}
+* {{IMDb title|0080455|The Blues Brothers}}
+* {{TCMDb title|19422|The Blues Brothers}}
+* {{AFI film|56373|The Blues Brothers}}
+* {{Mojo title|bluesbrothers|The Blues Brothers}}
+* {{Rotten Tomatoes|blues_brothers|The Blues Brothers}}
+
+{{The Blues Brothers}}
+{{John Landis}}
+{{Saturday Night Live}}
+
+{{DEFAULTSORT:Blues Brothers (film)}}
+[[Category:The Blues Brothers]]
+[[Category:1980 films]]
+[[Category:1980 action comedy films]]
+[[Category:1980s adventure comedy films]]
+[[Category:1980s buddy comedy films]]
+[[Category:1980 comedy films]]
+[[Category:1980s chase films]]
+[[Category:1980s musical comedy films]]
+[[Category:American action comedy films]]
+[[Category:American adventure comedy films]]
+[[Category:American buddy comedy films]]
+[[Category:American chase films]]
+[[Category:American musical comedy films]]
+[[Category:Blues films]]
+[[Category:1980 English-language films]]
+[[Category:Fictional film duos]]
+[[Category:Films set in 1980]]
+[[Category:Films about brothers]]
+[[Category:Films about Catholic nuns]]
+[[Category:Films about musical groups]]
+[[Category:Films about orphans]]
+[[Category:Films directed by John Landis]]
+[[Category:Films set in Chicago]]
+[[Category:Films set in Illinois]]
+[[Category:Films set in Indiana]]
+[[Category:Films shot in Chicago]]
+[[Category:Films shot in Illinois]]
+[[Category:Films shot in Wisconsin]]
+[[Category:Jukebox musical films]]
+[[Category:Films about neo-Nazism]]
+[[Category:Saturday Night Live films]]
+[[Category:Saturday Night Live in the 1980s]]
+[[Category:Films with screenplays by Dan Aykroyd]]
+[[Category:Films with screenplays by John Landis]]
+[[Category:Universal Pictures films]]
+[[Category:Films produced by George Folsey Jr.]]
+[[Category:United States National Film Registry films inducted in 2020]]
+[[Category:Films produced by Robert K. Weiss]]
+[[Category:1980 American films]]
+[[Category:Films set in orphanages]]
+[[Category:English-language action comedy films]]
+[[Category:English-language action thriller films]]
+[[Category:English-language musical comedy films]]
+[[Category:English-language adventure comedy films]]
+[[Category:English-language buddy comedy films]]
+[[Category:1980 musical films]]

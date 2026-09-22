@@ -1,0 +1,299 @@
+{{short description|1962 film by Stanley Kubrick}}
+{{More citations needed|date=March 2024}}
+{{Use American English|date=June 2024}}
+{{Use mdy dates|date=June 2024}}
+{{Infobox film
+| name           = Lolita
+| image          = Lolita (1962 film poster).jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Stanley Kubrick]]
+| producer       = [[James B. Harris]]
+| screenplay     = [[Vladimir Nabokov]]<ref name="vice/0000340-v21n6">{{cite news |last1=Bailey |first1=Blake |title=Vladimir Nabokov's Unpublished 'Lolita' Screenplay Notes |url=https://www.vice.com/en/article/ragged-odds-and-ends-0000340-v21n6/ |access-date=September 1, 2023 |work=Vice |date=June 11, 2014}}</ref><ref name="isbn=978-0-679-77255-2">{{cite book |last1=Nabokov |first1=Vladimir |title=Lolita: A Screenplay |date=August 26, 1997 |publisher=Knopf Doubleday Publishing Group |isbn=978-0-679-77255-2}}</ref>
+| based_on       = {{based on|''[[Lolita]]''|Vladimir Nabokov}}
+| starring       = {{Plainlist|
+* [[James Mason]]
+* [[Shelley Winters]]
+* [[Peter Sellers]]
+* [[Sue Lyon]]
+}}
+| cinematography = [[Oswald Morris]]
+| editing        = [[Anthony Harvey]]
+| music          = [[Nelson Riddle]]
+{{Infobox|decat=yes|child=yes|label1=Theme song by|data1=[[J. Robert Harris|Bob Harris]]}}
+| production_companies = {{Plainlist|
+* [[Seven Arts Productions|Seven Arts]]
+* Harris Kubrick Pictures<ref name="archives.arts.ac.uk/SK">{{cite web |title=SK – Stanley Kubrick Archive |url=https://archives.arts.ac.uk/Calmview/Record.aspx?src=CalmView.Catalog&id=SK |website=archives.arts.ac.uk |publisher=University of the Arts London |access-date=September 1, 2023 |quote=Lolita (production Harris Kubrick Pictures, A.A. Productions, distributor Metro-Goldwyn-Mayer Inc.) followed in 1962, a time when content of the film still had the potential to offend censorship boards. Kubrick was acutely aware of this and its potential to damage commercial success and so the film was carefully crafted to avoid this. Lolita was also the first of Kubrick's films to be made in England, it was mainly filmed at MGM studios in Borehamwood. Initially Kubrick's move to the UK was financial, MGM had money that they had to spend on a UK film production.}}<!-- ?: https://www.slashfilm.com/1166096/stanley-kubrick-was-forced-to-leave-america-to-find-funding-for-lolita/  --></ref>
+* A.A. Productions, Ltd.<ref name="archives.arts.ac.uk/DS/UK/384">{{cite web |title=DS/UK/384 |url=https://archives.arts.ac.uk/CalmView/Record.aspx?src=CalmView.Persons&id=DS%2fUK%2f384 |website=archives.arts.ac.uk |access-date=September 1, 2023 |quote=Kubrick company, only did Lolita}}</ref><ref name="AFI" />
+* Anya Pictures
+* Transworld Pictures<ref>{{cite news |url=https://movies.nytimes.com/movie/29846/Lolita/credits|archive-url=https://web.archive.org/web/20121103051153/http://movies.nytimes.com/movie/29846/Lolita/credits|url-status=dead|archive-date=November 3, 2012|access-date=October 3, 2010 |department=Movies & TV Dept. |work=[[The New York Times]] |date=2012 |title=Lolita (1962)}}</ref>
+}}
+| distributor    = [[Metro-Goldwyn-Mayer]]
+| released       = {{Film date|1962|06|13|United States}}
+| runtime        = 152 minutes<ref>{{cite web |url=https://www.tcm.com/tcmdb/title/282/lolita |archive-url=https://web.archive.org/web/20110803090941/http://www.tcm.com/tcmdb/title/282/Lolita/ |url-status=dead |archive-date=August 3, 2011 |title=Lolita (1962) |work=[[Turner Classic Movies]]|access-date=November 27, 2020}}</ref>
+| country        = {{Plainlist|
+* United Kingdom
+* United States
+}}
+| language       = English
+| budget         = $1.5–2 million<ref name="AFI">{{cite web |url=https://catalog.afi.com/Catalog/moviedetails/22908 |title=Lolita |work=Catalog – [[American Film Institute]]|access-date=November 27, 2020}}</ref><ref name="numbers">[http://www.the-numbers.com/movies/1962/0LLT.php Box Office Information for ''Lolita''] {{Webarchive|url=https://web.archive.org/web/20140205180717/http://www.the-numbers.com/movies/1962/0LLT.php |date=February 5, 2014 }}. [[The Numbers (website)|The Numbers]]. Retrieved June 13, 2013.</ref>
+| gross          = $9.2 million<ref name="numbers" />
+}}
+'''''Lolita''''' is a 1962 [[black comedy]]<ref>{{Cite web |last=cinephiliabeyond |date=2025-07-13 |title=Filming the Unfilmable and Achieving the Unimaginable: How Kubrick's 'Lolita' Eventually Won Critics Over and Established Itself as an Acclaimed Sardonic Black Comedy • Cinephilia & Beyond |url=https://cinephiliabeyond.org/lolita/ |access-date=2025-09-28}}</ref><ref>{{Cite thesis |last=Lochem |first=D. van |title=A Study of Two Quiltys: On Kubrick's Adaptation of Lolita into a Black Comedy |date=2016 |degree=Bachelor Thesis |url=https://studenttheses.uu.nl/handle/20.500.12932/26054}}</ref><ref>{{Cite web |title=The Boar |url=https://theboar.org/2022/03/the-subversive-brilliance-of-kubricks-lolita/ |access-date=2025-09-28 |website=theboar.org}}</ref>-[[psychological drama film]] directed by [[Stanley Kubrick]], based on [[Lolita|the 1955 novel]] by [[Vladimir Nabokov]]. The [[black-and-white film]] follows a middle-aged literature professor who develops an infatuation with an adolescent. It stars [[James Mason]] as Humbert Humbert, [[Shelley Winters]] as Mrs. Haze, [[Peter Sellers]] as Quilty, and [[Sue Lyon]] (in her film debut) as Dolores "Lolita" Haze.
+
+The novel was considered "[[Unfilmability|unfilmable]]" when Kubrick acquired the rights around the time of its U.S. publication. Owing to restrictions imposed by the [[Hays Code]] (1934–68), Kubrick and producer [[James B. Harris]] were compelled to tone down the pedophilic elements that were central to the novel's narrative.<ref>Kolker and Abrams, 2024 p. 178: "...the pair had to work carefully to get the novel made into a film. They began immediately downplaying the paedophilic aspects of the novel."</ref> Sue Lyon was 14 years old at the time filming began.<ref>Kolker and Abrams, 2024 p. 184: "Lyon was fourteen when filming started and fifteen when it finished...Lolita was twelve and a half in the book; Sue Lyon [her character] was thirteen."</ref>
+
+== Plot ==
+Humbert Humbert, a middle-aged European professor of [[French literature]], arrives in Ramsdale, [[New Hampshire]], searching for summer accommodation before his professorship begins at Beardsley College, [[Ohio]]. Charlotte Haze, a sexually frustrated [[widow]], offers him a room to rent at her house. Initially uninterested, Humbert changes his mind when he sees Charlotte's young daughter Dolores, nicknamed "Lolita", and is immediately smitten with her.
+
+Wanting Humbert's time for herself, Charlotte sends Dolores to an all-girl summer camp. After the Hazes depart for camp, the maid gives Humbert a love confession letter from Charlotte demanding that he vacate immediately, unless he reciprocates and marries her. Despite laughing while reading the letter, Humbert stays and marries Charlotte.
+
+In Lolita's absence, Humbert becomes withdrawn, and Charlotte grows unfulfilled and upset. She discovers Humbert's diary detailing his passion for Dolores and his contempt for Charlotte. Distraught, she runs outside, is hit by a car and dies. Humbert is visited by Charlotte's friends, who mistake his apathy with suicidal ideation and reveal that she had little time left anyway, since [[nephritis]] affected her [[Renal agenesis|single kidney]].
+
+Humbert picks up Dolores from camp, telling her that Charlotte is sick in a hospital. They stay overnight in a hotel hosting police convention attendees, and attract the attention of another guest.{{efn|name=fn1|Unlike in the novel, it is visible to the audience early on that this ubiquitous character is Clare Quilty, who was first introduced in Dolores' school summer dance.}} While Dolores sleeps upstairs, this stranger insinuates himself upon Humbert, presenting himself as a policeman and cryptically steering the conversation to Humbert and Dolores. The next morning, Dolores suggests to Humbert that they play a "game" she learned at camp, and it is implied that they have sex. Humbert later confesses to Dolores that her mother is dead. Grief-stricken, she stays with Humbert. The two commence a trip cross country, acting publicly as father and daughter.
+
+In the fall, Humbert initiates his position at Beardsley College and enrolls Dolores in high school there. A jealous Humbert worries about her involvement with male classmates and the [[Leading actor|lead]] she has been offered in the school play, and people grow curious about his protectiveness. One night, he returns home to find a stranger{{efn|name=fn1}} in his darkened living room. Claiming to be Dr. Zempf, the psychologist from Dolores's school, he inquires about her knowledge of "[[Adolescent sexuality|the facts of life]]" and coerces Humbert into allowing her to participate in the school play.
+
+During a performance of the play, Humbert learns that Dolores has been lying about spending Saturday afternoons at piano practice. They have an argument and Humbert decides to take Dolores on the road again. Dolores objects at first, but seemingly changes her mind after making a surreptitious phone call. Once on the road, Humbert realizes that they are being followed by a car. Dolores falls ill and he takes her to the hospital. One night, a mysterious call to his motel room prompts Humbert to visit the hospital in order to discharge Dolores, but he is told that she already left with a man claiming to be her uncle. Humbert is devastated.
+
+Three years later, he receives a letter from Dolores, now pregnant, married to an unemployed and half-deaf mechanic, and in need of money. Humbert visits her and asks who had kidnapped her from the hospital. She says that it was Clare Quilty, a famous playwright and the intrusive stranger who kept crossing their path all along, disguising himself as a policeman and later Dr. Zempf. Dolores was infatuated with Quilty ever since his fling with Charlotte years ago, and carried on an affair with him at Beardsley. She left the hospital with him when he promised her a Hollywood contract. Instead, he secluded her in a [[Guest ranch|dude ranch]] near [[Santa Fe, New Mexico|Santa Fe]] and demanded that she join his depraved lifestyle and act in his [[child pornography]], which she refused.
+
+Humbert begs Dolores to leave with him. She refuses, on account of her new predicament, but apologizes for cheating. Humbert gives Dolores $13,000, her money from the sale of Charlotte's house. He then leaves to confront Quilty in his mansion at gunpoint.{{efn|Contrary to chronological order, this scene is shown at the start of the film.}} A drunk Quilty tries to dodge the situation with bizarre offers (including an invitation to attend executions{{efn|It is unclear whether by "not many people know that the chair is painted yellow" Quilty refers to the [[electric chair]] or, instead, implies that he complements his child pornography with the filming and distribution of [[snuff films]]}}), but is shot dead by Humbert. A postscript reveals that Humbert later died of [[coronary thrombosis]] awaiting trial for Quilty's murder.
+
+==Cast==
+{{See also|List of recurring cast members in Stanley Kubrick films}}
+{{castlist|
+* [[James Mason]] as Humbert "Hum" Humbert
+* [[Shelley Winters]] as Charlotte Haze-Humbert
+* [[Sue Lyon]] as Dolores "Lolita" Haze
+* [[Peter Sellers]] as Clare Quilty / Dr. Zempf
+* Gary Cockrell as Richard "Dick" Schiller
+* Jerry Stovin as John Farlow, Ramsdale Lawyer
+* [[Diana Decker]] as Jean Farlow
+* [[Lois Maxwell]] as Nurse Mary Lore
+* [[Cec Linder]] as Dr. Keegee
+* Susanne Gibbs as Mona
+* Bill Greene as George Swine, The Hotel Night Manager In Bryceton
+* [[Shirley Douglas]] as Mrs. Starch, The Piano Teacher In Ramsdale
+* [[Marianne Stone]] as Vivian Darkbloom, Quilty's Companion
+* Marion Mathie as Miss Lebone
+* [[James Dyrenforth]] as Frederick Beale Sr.
+* Maxine Holden as Miss Fromkiss, The Hospital Receptionist
+* John Harrison as Tom
+* [[Colin Maitland]] as Charlie Sedgewick
+* [[C. Denier Warren]] as Potts
+* [[Ed Bishop]] as Ambulance Attendant
+}}
+
+==Production==
+[[File:Ontario Theatre Ad - 6 July 1962, NW, Washington, D.C.png|thumb|Theatrical advertisement from 1962]]
+Stanley Kubrick and James Harris acquired the right to Vladimir Nabokov's ''[[Lolita]]'', a novel considered unfilmable, several years after it was first published in September 1955 in Paris by [[Olympia Press]], which specialized in pornographic literature. Initially considered a "dirty book" in an era when literary censorship meant jail time and fines for publishers, ''Lolita'' was not published in the United States until August 1958 by [[G.P. Putnam's Sons]], after it had gradually established its literary reputation.<ref>Kolker and Abrams, 2024 p. 158</ref>
+
+When [[Marlon Brando]] fired Kubrick from ''[[One-Eyed Jacks]]'' in November 1958, the director issued a press release saying that he was resigning from Brando's picture "with deep regret" so that he could "commence work on ''Lolita''".<ref>{{cite book |last1=Hughes |first1=David |title=The Complete Kubrick |date=2013 |publisher=Vrigin Pub |location=London |isbn=978-0-7535-1272-2 |page=Paperback |url=https://books.google.com/books?id=zf9BYv5DiCwC&dq=brando+fires+kubrick+one+eyed+jacks&pg=PT201 |access-date=August 3, 2023}}</ref> Kubrick was hired by [[Kirk Douglas]] to replace director [[Anthony Mann]] on the epic ''[[Spartacus (1960 film)|Spartacus]]''; he and Harris did not put ''Lolita'' into production until 1960. Kubrick directed [[Laurence Olivier]] and [[Peter Ustinov]] in ''[[Spartacus (film)|Spartacus]]'', both of whom he considered for roles in his ''Lolita'' adaptation. It was filmed, in part, in Great Britain, and in Albany, New York.<ref name="AFI" />
+
+===Direction===
+With Nabokov's consent, Kubrick changed the order in which events unfolded by moving what was the novel's ending to the start of the film.{{Citation needed|date=March 2025}} Kubrick determined that while this sacrificed a great ending, it helped maintain interest, as he believed that interest in the novel sagged after Humbert "seduced" Lolita halfway through.<ref name="kubrick">"[http://www.visual-memory.co.uk/amk/doc/0069.html An Interview with Stanley Kubrick (1969)]" by Joseph Gelmis. Excerpted from ''The Film Director as Superstar'' (Garden City, N.Y.: Doubleday, 1970).</ref>
+
+While the novel was set in the 1940s, Kubrick gave it a contemporary setting, shooting many of the exterior scenes in England with some back-projected scenery shot in the United States, including upstate eastern New York, along [[NY 9N]] in the eastern Adirondacks, and a hilltop view of [[Albany, New York|Albany]] from [[Rensselaer, New York|Rensselaer]], on the east bank of the Hudson.{{Citation needed|date=March 2024}} Kubrick had to film in England, as much of the money to finance the film was raised there, with the condition that it also be spent there.<ref name="kubrick" />. This can be seen towards the end of the film, when Humbert is viewed driving around an [[Midwestern United States|'American mid-west town']] on his way to find Lolita, when in fact the scene is filmed on Grover Road in [[Oxhey|Oxhey Village]] near [[Watford]], England.<ref>{{cite web|title=Hollywood comes to Grover Road|url=https://oveg.org/oxhey-village-history/hollywood-lolita-film-grover-road/|publisher=Oxhey Village Environment Group|access-date=24 January 2026}}</ref>
+
+In addition, Kubrick had been living in England since 1961 and suffered from a deathly [[aerophobia|fear of flying]].<ref>Rose, Lloyd. [https://www.washingtonpost.com/wp-srv/style/movies/features/kubrick1987.htm "Stanley Kubrick, at a Distance"] ''[[Washington Post]]'' (June 28, 1987)</ref> [[Hilfield Castle]] is featured in the film as Quilty's "Pavor Manor".
+
+Some of the minor parts were played by Canadian and American actors, such as [[Cec Linder]], [[Lois Maxwell]], Jerry Stovin and Diana Decker, who were based in England at the time.
+
+===Casting===
+[[James Mason]] was the first choice of Kubrick and producer Harris for the role of Humbert Humbert, but he initially declined due to a Broadway engagement while recommending his daughter, [[Portland Mason|Portland]], for the role of Lolita.<ref>{{cite news |url=https://www.independent.co.uk/news/obituaries/portland-mason-6168675.html| archive-url=https://web.archive.org/web/20121103201019/http://www.independent.co.uk/news/obituaries/portland-mason-6168675.html| url-status=dead| archive-date=November 3, 2012 |title=Portland Mason| access-date=March 5, 2015}}</ref> [[Laurence Olivier]], who co-starred in Kubrick's ''[[Spartacus (1960 film)|Spartacus]]'', was offered the part but turned it down, apparently on the advice of his agents who also represented Kubrick.{{Citation needed|date=March 2024}}
+
+Kubrick then considered [[Peter Ustinov]], who won an [[Academy Award for Best Supporting Actor|Oscar]] for ''Spartacus'',  but decided against him. Harris suggested [[David Niven]], who accepted the part but withdrew for fear that the sponsors of his TV show, ''[[Four Star Playhouse]]'' (1952), would object to the subject matter. [[Noël Coward]] and [[Rex Harrison]] were also considered.<ref>{{Cite web |url=https://www.filmsite.org/loli.html |title=Lolita (1962)}}</ref>
+
+Mason got the part of Humbert Humbert when he withdrew from the play.{{Citation needed|date=March 2024}}
+
+The role of Clare Quilty was greatly expanded from that in the novel and Kubrick allowed Sellers to adopt a variety of disguises throughout the film. Early on in the film, Quilty appears as himself: a conceited, [[avant-garde]] playwright with a superior manner. Later he is an inquisitive policeman on the porch of the hotel, where Humbert and Lolita are staying. Next he is the intrusive Beardsley High School psychologist, Doctor Zempf. He persuades Humbert to give Lolita more freedom in her after-school activities.<ref name="land">[http://www.visual-memory.co.uk/amk/doc/0106.html "Kubrick in Nabokovland"] by Thomas Allen Nelson. Excerpted from ''Kubrick: Inside a Film Artist's Maze'' (Bloomington: Indiana University Press, 2000, pp 60–81)</ref> He is seen as a photographer backstage at Lolita's play. Later in the film, he is an anonymous phone caller conducting a survey.
+
+[[Jill Haworth]] was asked to take the role of Lolita but she was under contract to [[Otto Preminger]] and he said "no."<ref name=LisantiT-2001-p71>{{citation |title=Fantasy Femmes of Sixties Cinema: Interviews with 20 Actresses from Biker, Beach, and Elvis Movies |author=Lisanti, Tom |year=2001 |publisher=McFarland |page=71 |isbn=978-0-7864-0868-9}}</ref> [[Hayley Mills]] was offered the role but her parents refused permission.<ref>{{cite magazine |magazine=Filmink |url=https://www.filmink.com.au/movie-star-cold-streaks-hayley-mills/ |title=Movie Star Cold Streaks: Hayley Mills |first=Stephen |last=Vagg |date=March 19, 2022}}</ref> [[Joey Heatherton]], [[Sandra Dee]], and [[Tuesday Weld]] also were potential candidates for the role.{{Citation needed|date=March 2024}}
+
+Although Nabokov originally thought that Sue Lyon was the right selection to play Lolita, years later, Nabokov said that the ideal Lolita would have been [[Catherine Demongeot]], a French actress four years younger than Lyon.<ref>{{ cite book | last=Boyd | first=Brian | title=Vladimir Nabokov: the American years | year=1991 | publisher=Princeton University Press | location=Princeton NJ | isbn=978-0-691-02471-4 | page=415 | url=https://books.google.com/books?id=C8lF4iqAgRQC&q=Catherine+Demongeot+lolita&pg=PA415 | access-date=August 30, 2013 }}</ref>
+
+===Lyon's age===
+Producer James Harris explained that 14-year-old Sue Lyon was cast because "we knew we must make [Lolita] a sex object [...] where everyone in the audience could understand why everyone would want to jump on her."<ref>{{Cite web |title=The troubling legacy of the Lolita story, 60 years on |url=https://www.bbc.com/culture/article/20220617-the-troubling-legacy-of-the-lolita-story-60-years-on |access-date=May 29, 2024 |website=www.bbc.com |date=June 20, 2022}}</ref> Commentary from the time complained that Lyon was matronly at the age of 17.<ref name=":0">{{Cite web |title=The Age of Movies: Selected Writings of Pauline Kael (paperback) |url=https://www.loa.org/books/348-the-age-of-movies-selected-writings-of-pauline-kael-paperback/ |access-date=2025-10-06 |website=Library of America}}</ref> He also said, in a 2015 ''[[Film Comment]]'' interview, "We made sure when we cast her that she was a definite sex object, not something that could be interpreted as being perverted."<ref>{{Cite web |title=Interview: James B. Harris (Part One) |url=https://www.filmcomment.com/interview-james-b-harris-part-one/ |access-date=May 29, 2024 |website=Film Comment}}</ref>
+
+Harris said that he and Kubrick, through casting, changed Nabokov's book as "we wanted it to come off as a love story and to feel very sympathetic with Humbert."<ref>{{cite web |last1=Green |first1=Steph |title=The troubling legacy of the Lolita story, 60 years on |url=https://www.bbc.com/culture/article/20220617-the-troubling-legacy-of-the-lolita-story-60-years-on |website=bbc.com |date=June 20, 2022 |publisher=British Broadcasting Corp. |access-date=August 3, 2023}}</ref>
+
+===Censorship===
+[[File:KubrickLolita2.jpg|thumb|Lolita kisses Humbert goodnight as he plays chess with her mother. His line in the scene is "I take your Queen." Chess, a recurring motif in Nabokov's novels, was also a favorite pastime of director Stanley Kubrick.]]
+At the time the film was released, the [[Motion Picture Association of America film rating system|ratings system]] was not in effect and the [[Hays Code]], dating back to the 1930s, governed film production. The censorship of the time inhibited Kubrick's direction; Kubrick later commented that, "because of all the pressure over the Production Code and the [[Catholic Legion of Decency]] at the time, I believe I didn't sufficiently dramatize the erotic aspect of Humbert's relationship with Lolita. If I could do the film over again, I would have stressed the erotic component of their relationship with the same weight Nabokov did."<ref name="kubrick" /> Kubrick hinted at the nature of their relationship indirectly, through [[double entendre]] and visual cues such as Humbert painting Lolita's toes. In a 1972 ''[[Newsweek]]'' interview (after the ratings system had been introduced in late 1968), Kubrick said that he "probably wouldn't have made the film" had he realized in advance how difficult the censorship problems would be.<ref>{{cite web |url=http://www.cnn.com/SPECIALS/books/1999/nabokov/lolita.sociological.essay/ |title='Lolita': Complex, often tricky and 'a hard sell' |website=[[CNN]]| archive-url=https://web.archive.org/web/20050103092340/http://www.cnn.com/SPECIALS/books/1999/nabokov/lolita.sociological.essay/| archive-date=January 3, 2005| access-date=March 6, 2015}}</ref>
+
+The film is deliberately vague over Lolita's age. Kubrick commented, "I think that some people had the mental picture of a nine-year-old, but Lolita was twelve and a half in the book; Sue Lyon was thirteen." Lyon was 14 by the time filming started and 15 when it finished.<ref name="Vickers2008">{{cite book |author=Graham Vickers |title=Chasing Lolita: How Popular Culture Corrupted Nabokov's Little Girl All Over Again |url=https://archive.org/details/chasinglolitahow00vick|url-access=registration |date=August 1, 2008 |publisher=Chicago Review Press |isbn=978-1-55652-968-9 |pages=[https://archive.org/details/chasinglolitahow00vick/page/127 127]–}}</ref> Although passed without cuts, ''Lolita'' was rated "X" by the [[British Board of Film Censors]] when released in 1962, meaning no one under 16 years of age was permitted to watch.<ref>{{cite web |url= https://www.bbfc.co.uk/release/lolita-q29sbgvjdglvbjpwwc0znde2mdy|title=''Lolita'' (15) |publisher=British Board of Film Classification|access-date=July 27, 2024}}</ref>
+
+===Voice-over narration===
+Humbert uses the term "nymphet" to describe Lolita, which he explains and uses in the novel; it appears twice in the film and its meaning is left undefined.<ref>"[http://www.filmsite.org/loli.html Lolita (1962)]" A Review by Tim Dirks—A comprehensive review containing extensive dialogue quotes. These quotes include other details of Humbert's narration.</ref> In a [[voice-over]] on the morning after the Ramsdale High School dance, Humbert confides in his diary, "What drives me insane is the twofold nature of this nymphet, of every nymphet perhaps, this mixture in my Lolita of tender, dreamy childishness and a kind of eerie vulgarity. I know it is madness to keep this journal, but it gives me a strange thrill to do so. And only a loving wife could decipher my microscopic script."
+
+===Screenplay adaptation===
+{{See also|Lolita}}
+The screenplay is credited to Nabokov, although very little of what he provided (later published in a shortened version<ref name="vice/0000340-v21n6" /><ref name="isbn=978-0-679-77255-2" />) was used in the film itself.<ref>''[[Leonard Maltin's Movie Guide]] 2013 Edition'' (edited by [[Leonard Maltin]], a Signet Books paperback published by [[New American Library]], a division of [[Penguin Group]]), p. 834: "Screenplay for this genuinely strange film is credited to Vladimir Nabokov, who wrote the novel of the same name, but bears little relation to his actual script, later published"</ref> Nabokov, following the success of the novel, moved out to Hollywood and penned a script for a film adaptation between March and September 1960. The first draft was extremely long—over 400 pages. As producer Harris remarked, "You couldn't make it. You couldn't ''lift'' it".<ref>{{cite book |title=On Kubrick |first=James |last=Naremore |year=2019 |publisher=Bloomsbury |isbn=978-1-83871-746-9}}</ref> Nabokov remained polite about the film in public but in a 1962 interview before seeing the film, commented that it may turn out to be "the swerves of a scenic drive as perceived by the horizontal passenger of an ambulance".<ref>Nabokov, ''Strong Opinions'', Vintage International Edition, pp. 6–7</ref>
+
+==Music==
+The music for the film was composed by [[Nelson Riddle]] and [[J. Robert Harris|Bob Harris]] (the main theme was solely by Bob Harris), and performed by [[Orchestra under the Direction of Nelson Riddle|Riddle's orchestra]].<!-- https://web.archive.org/web/20070828085424/https://www.the-mill.co.uk/ron/RecordingSessions.html --> The recurring dance number first heard on the radio when Humbert meets Lolita in the garden later became a hit single under the name "Lolita Ya Ya" with Sue Lyon credited with the singing on the single version.<ref>{{cite web |url=http://www.endlessgroove.com/issue1/kubrick.htm |title=SOUNDTRACKS TO THE FILMS OF STANLEY KUBRICK |author=Tony Maygarden |publisher=The Endless Groove |access-date=December 7, 2010 |archive-url=https://web.archive.org/web/20150109194133/http://www.endlessgroove.com/issue1/kubrick.htm |archive-date=January 9, 2015 |url-status=usurped}}</ref> The flip side was a 60s-style light rock song called "Turn off the Moon" penned by Harris and [[Al Stillman]] and also sung by Sue Lyon. There is also a version released as a single credited to Nelson Riddle on the "B-side" of his Route 66 Theme (Capitol 4741). "Lolita Ya Ya" was later recorded by other bands; it was also a 1962 hit single for [[The Ventures]], reaching 61 on the ''Billboard'' Hot 100.<ref>{{cite web |url=https://billboard.elpee.jp/single/Lolita%20Ya-Ya/The%20Ventures/ |website=Billboard Database |title=Lolita Ya-Ya |accessdate=February 26, 2022}}</ref> A review in ''Billboard'' stated, "There've been a number of versions of the title tune from the hit film ''Lolita'' but this figures the strongest to date. The usual Ventures guitar sound is neatly augmented with voices."<ref>{{cite magazine |magazine=Billboard |url=https://books.google.com/books?id=lRcEAAAAMBAJ&dq=lolita+ya+ya+the+ventures+chart&pg=PT7 |date=July 14, 1962 |accessdate=February 26, 2022 |title=Singles Reviews}}</ref>
+
+==Reception==
+[[File:Lolita Trailer (1962).webm|thumb|Original trailer for ''Lolita'']]
+''Lolita'' premiered on June 13, 1962, in New York City (the copyright date onscreen is 1961). It performed fairly well with little advertising, relying mostly on word-of-mouth; many critics seemed uninterested or dismissive of the film while others gave it glowing reviews. However, the film was very controversial, due to the [[hebephilia]]-related content.<ref>{{cite journal |last1=PAI RAIKAR |first1=RAMNATH N |title=Lolita: The girl who knew too much |journal=Navhind Times |date=August 8, 2015 |url=http://www.navhindtimes.in/lolita-the-girl-who-knew-too-much/|access-date=November 29, 2016}}</ref><ref>{{cite news |title=Lolita (película de 1997) |url=http://www1.helpes.eu/01107075/Lolita(peliculaDe1997)|access-date=November 29, 2016 |agency=Helpes.eu |language=es|archive-date=August 2, 2018|archive-url=https://web.archive.org/web/20180802131921/http://www1.helpes.eu/01107075/Lolita(peliculaDe1997)|url-status=dead}}</ref> The ''Observer'' called it the "Lolita fiasco."<ref name=":0" /> 
+
+Among the positive reviews, [[Bosley Crowther]] of ''[[The New York Times]]'' wrote that the film was "conspicuously different" from the novel and had "some strange confusions of style and mood", but nevertheless had "a rare power, a garbled but often moving push toward an off-beat communication."<ref>{{cite journal |last=Crowther |first=Bosley |author-link=Bosley Crowther |date=June 14, 1962 |title=Screen: 'Lolita,' Vladimir Nabokov's Adaptation of His Novel |journal=[[The New York Times]] |page=23}}</ref> [[Richard L. Coe]] of ''[[The Washington Post]]'' called it "a peculiarly brilliant film", with a tone "not of hatred, but of mocking true. Director and author have a viewpoint on modern life that is not flattering but it is not despising, either. It is regret for the human comedy."<ref>{{cite news |last=Coe |first=Richard L. |author-link=Richard L. Coe |date=June 29, 1962 |title='Lolita' Still Is Provocative |newspaper=[[The Washington Post]] |page=C5}}</ref> Philip K. Scheuer of the ''[[Los Angeles Times]]'' declared that the film "manages to hit peaks of comedy shrilly dissonant but on an adult level, that are rare indeed, and at the same time to underline the tragedy in human communication, human communion, between people who've got their signals hopelessly crossed."<ref>Scheuer, Philip K. (June 17, 1962) "'Lolita,' Naughty but Nicer, Arrives as Movie". ''[[Los Angeles Times]]''. Calendar, p. 8.</ref> ''[[The Monthly Film Bulletin]]'' wrote that the primary themes of the film were "obsession and incongruity", and since Kubrick was "an intellectual director with little feeling for erotic tension ... one is the more readily disposed to accept Kubrick's alternative approach as legitimate."<ref>{{cite journal |date=October 1962 |title=Lolita |journal=[[The Monthly Film Bulletin]] |volume=29 |issue=345 |page=137}}</ref> In a generally positive review for ''[[The New Yorker]]'', [[Brendan Gill]] wrote that "Kubrick is wonderfully self-confident; his camera having conveyed to us within the first five minutes that it can perform any wonders its master may require of it, he proceeds to offer us a succession of scenes broadly sketched and broadly acted for laughs, and laugh we do, no matter how morbid the circumstances."<ref>{{cite magazine |last=Gill |first=Brendan |author-link=Brendan Gill |date=June 23, 1962 |title=The Current Cinema |magazine=[[The New Yorker]] |page=90}}</ref> [[Arlene Croce]] in ''[[Sight & Sound]]'' wrote that "''Lolita'' is—in its way—a good film." She found Nabokov's screenplay "a model of adaptation" and the cast "near-perfect", though she described Kubrick's attempts at eroticism as "perfunctory and misguided" and thought his "gift for visual comedy is as faint as his depiction of sensuality."<ref>{{cite journal |last=Croce |first=Arlene |author-link=Arlene Croce |date=Autumn 1962 |title=Film Reviews: Lolita |journal=[[Sight & Sound]] |volume=31 |issue=4 |page=191}}</ref>
+
+''[[Variety (magazine)|Variety]]'' had a mixed assessment, calling the film "occasionally amusing but shapeless", and likening it to "a bee from which the stinger has been removed. It still buzzes with a sort of promising irreverence, but it lacks the power to shock and eventually makes very little point either as comedy or satire."<ref>{{cite journal |date=June 13, 1962 |title=Lolita |journal=[[Variety (magazine)|Variety]] |page=6}}</ref> ''[[Harrison's Reports]]'' was negative, writing, "You don't have to be an emulating, prissyish uncle from Dubuque to say that the film leaves you with a feeling that is repulsively disgusting in much of its telling," adding that "even if the exhibitor makes a dollar on the booking, he may feel a sense of shame as he plods his weary way down to the bank."<ref>{{cite journal |date=June 23, 1962 |title=Film Review: Lolita |journal=[[Harrison's Reports]] |page=94}}</ref> [[Stanley Kauffmann]] of ''[[The New Republic]]'' called Lolita "tantalizingly unsatisfactory".<ref>{{cite book |title=A world on Film |last1=Kaufmann |first1=Stanley |publisher=Delta Books |year=1968 |page=17}}</ref>
+
+Film critic Pauline Kael acknowledged that the film was not consistently good, but what made it worth watching was how delightful it was, a new take on a comedic chase.<ref name=":0" />
+
+The film has been re-appraised by critics over time and currently has a score of 89% on [[review aggregator]] website [[Rotten Tomatoes]] based on 46 reviews and with an [[Weighted arithmetic mean|average rating]] of 7.9/10. The critical consensus reads: "Kubrick's ''Lolita'' adapts its seemingly unadaptable source material with a sly comedic touch and a sterling performance by James Mason that transforms the controversial novel into something refreshingly new without sacrificing its essential edge."<ref>{{rotten-tomatoes|1012611-lolita|Lolita}}</ref> [[Metacritic]] gives the film a score of 79 out of 100, based on reviews by 14 critics, indicating "generally favorable" reviews.<ref>{{cite web |url=https://www.metacritic.com/movie/lolita-1969 |title=Lolita (1962) Reviews |work=[[Metacritic]]|access-date=November 28, 2020}}</ref> Filmmaker [[David Lynch]] has said that ''Lolita'' is his favorite Kubrick film.<ref>{{Cite web |url=https://www.youtube.com/watch?v=exHvm8yXndQ| archive-url=https://ghostarchive.org/varchive/youtube/20211118/exHvm8yXndQ| archive-date=November 18, 2021 | url-status=live |title=David Lynch on Stanley Kubrick |date=May 13, 2017 |publisher=[[YouTube]]|access-date=December 28, 2019}}{{cbignore}}</ref>
+Sofia Coppola has also cited ''Lolita'' as one of her favorite films,<ref>{{cite web |url=https://faroutmagazine.co.uk/sofia-coppola-love-stanley-kubrick-lolita/ |title=Sofia Coppola names her favourite Stanley Kubrick movie |last=Ferrier |first=Aimee |date=April 20, 2024 |website=Far Out|access-date=May 25, 2024}}</ref> as has Paul Thomas Anderson.<ref>{{cite web |url=https://faroutmagazine.co.uk/paul-thomas-anderson-favourite-stanley-kubrick-movies/ |title=Paul Thomas Anderson on his favourite Stanley Kubrick movies |last=Ferrier |first=Aimee |date=September 22, 2022 |website=Far Out|access-date=May 25, 2024}}</ref>
+
+The film was a commercial success. Produced on a budget of around $2 million, ''Lolita'' grossed $9,250,000 domestically.<ref name="AFI" /><ref name="numbers" /> During its initial run, the film earned an estimated $4.5 million in North American [[Gross rental|rentals]].<ref>{{cite news |title=All-Time Top Grossers |newspaper=[[Variety (magazine)|Variety]] |date=January 8, 1964 |page=69}}</ref>
+
+Years after the film's release it has been re-released on VHS, [[Laserdisc]], DVD, and [[Blu-ray]].
+
+In 2026, it was announced that ''Lolita'' was to be released by [[The Criterion Collection]] on 4K Blu-Ray for the first time alongside Kubrick's entire filmography as part of a special 4K UHD Blu-Ray box set titled ''The Complete Kubrick''. The release will feature new and archival supplements, and is due to be released in October 2026.<ref>{{Cite web |title=The Complete Kubrick |url=https://www.criterion.com/boxsets/9000-the-complete-kubrick |access-date=August 23, 2026 |website=The Criterion Collection |language=en}}</ref>
+
+===Awards and honors===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+|-
+| [[35th Academy Awards|Academy Awards]]<ref name="Oscars1963">{{Cite web |url=http://www.oscars.org/oscars/ceremonies/1963 |title=The 35th Academy Awards (1963) Nominees and Winners |access-date=August 23, 2011 |work=oscars.org}}</ref>
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay – Based on Material from Another Medium]]
+| [[Vladimir Nabokov]]
+| {{nom}}
+|-
+| [[16th British Academy Film Awards|British Academy Film Awards]]<ref>{{cite web |url=http://awards.bafta.org/award/1963/film |title=BAFTA Awards: Film in 1963 |website=[[BAFTA]] |year=1963 |access-date=September 16, 2016 |ref={{harvid|BAFTA|1963}}}}</ref>
+| [[BAFTA Award for Best Actor in a Leading Role|Best British Actor]]
+| [[James Mason]]
+| {{nom}}
+|-
+| [[15th Directors Guild of America Awards|Directors Guild of America Awards]]<ref>{{cite web |url=https://www.dga.org/Awards/History/1960s/1962.aspx?value=1962 |title=15th DGA Awards |website=[[Directors Guild of America Awards]] |access-date=July 5, 2021}}</ref>
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| [[Stanley Kubrick]]
+| {{nom}}
+|-
+| rowspan="5"| [[20th Golden Globe Awards|Golden Globe Awards]]<ref>{{cite web |url=https://www.goldenglobes.com/film/lolita |title=Lolita – Golden Globes |website=[[HFPA]] |access-date=July 5, 2021 |ref={{harvid|HFPA|1963}}}}</ref>
+| [[Best Actor in a Motion Picture – Drama]]
+| James Mason
+| {{nom}}
+|-
+| [[Best Actress in a Motion Picture – Drama]]
+| [[Shelley Winters]]
+| {{nom}}
+|-
+| [[Best Supporting Actor – Motion Picture]]
+| [[Peter Sellers]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Director – Motion Picture|Best Director – Motion Picture]]
+| Stanley Kubrick
+| {{nom}}
+|-
+| [[Golden Globe Award for New Star of the Year – Actress|Most Promising Newcomer – Female]]
+| [[Sue Lyon]]
+| {{won}}
+|-
+| [[38th Saturn Awards|Saturn Awards {{small|(2011)}}]]
+| [[Saturn Award for Best DVD or Blu-ray Collection|Best DVD Collection]]
+| ''Lolita'' {{small|(As part of ''Stanley Kubrick: The Essential Collection'')}}
+| {{won}}
+|-
+| [[41st Saturn Awards|Saturn Awards {{small|(2014)}}]]
+| [[Saturn Award for Best DVD or Blu-ray Collection|Best DVD or Blu-ray Collection]]
+| ''Lolita'' {{small|(As part of ''Stanley Kubrick: The Masterpiece Collection'')}}
+| {{nom}}
+|-
+| [[23rd Venice International Film Festival|Venice International Film Festival]]
+| [[Golden Lion]]
+| Stanley Kubrick
+| {{nom}}
+|}
+
+==Controversy==
+A 2020 article by journalist [[Sarah Weinman]] alleges that Harris, the producer of the film, had sex with Lyon during the shooting of the film when she was 14 years old. Although Lyon had remained silent regarding the rumors for many years, when asked for a statement on the planned remake of the film in 1996, she had stated:<ref>{{cite magazine |url=https://airmail.news/issues/2020-10-24/the-dark-side-of-lolita |title=The Dark Side of Lolita |last=Weinman |first=Sarah |date=October 24, 2020 |magazine=[[Air Mail (magazine)|Air Mail]] |issue=67 |access-date=July 7, 2024 |archive-url=https://web.archive.org/web/20220120112608/https://airmail.news/issues/2020-10-24/the-dark-side-of-lolita |archive-date=January 20, 2022}}</ref>
+
+<blockquote>"My destruction as a person dates from that film. ''Lolita'' exposed me to temptations no girl of that age should undergo. I defy any pretty girl who is rocketed to stardom at 14 in a sex nymphet role to stay on a level path thereafter."</blockquote>
+
+==Alternate versions==
+* The scene where Lolita first "seduces" Humbert as he lies on the cot is approximately 10 seconds longer in the British and Australian cut of the film. In the U.S. edition, the shot fades as she whispers the details of the "game" she played with Charlie at camp. In the UK/Australian print, the shot continues as Humbert mumbles that he is not familiar with the game. She then bends down again to whisper more details. Kubrick then cuts to a closer shot of Lolita's face as she says "Well, alrighty then" and then fades as she begins to descend onto Humbert on the cot. The latter cut of the film was used for the Region 1 DVD release. It is also the version aired on [[Turner Classic Movies|Turner Classic films]] in the U.S.{{Citation needed|date=March 2024}}
+* The [[The Criterion Collection|Criterion]] [[LaserDisc]] release is the only one to use a transfer approved by Stanley Kubrick. This transfer alternates between a 1.33 and a 1.66 aspect ratio (as does the Kubrick-approved ''Strangelove'' transfer). All subsequent releases to date have been 1.66 (which means that all the 1.33 shots are slightly matted).{{Citation needed|date=March 2024}}
+
+==Other film adaptations==
+{{Main|Lolita (1997 film)}}
+''Lolita'' was filmed again in 1997, directed by [[Adrian Lyne]], starring [[Jeremy Irons]] as Humbert, [[Melanie Griffith]] as Charlotte and [[Dominique Swain]] as Lolita. The film was widely publicized as being more faithful to Nabokov than the Kubrick film. Although many observed this was the case (such as [[Erica Jong]] writing in ''[[The New York Observer]]''),<ref>{{cite web |title=Erica Jong Screens Lolita With Adrian Lyne |url=http://www.observer.com/node/40591 |archive-url=https://web.archive.org/web/20091004200336/http://www.observer.com/node/40591 |date=May 31, 1998 |work=[[The New York Observer ]]| archive-date=October 4, 2009 | url-status=dead | access-date=May 11, 2009}}</ref> the film was not as well received as Kubrick's version, and was a major [[box office bomb]], first shown on the [[Showtime (TV network)|Showtime]] cable network, then released theatrically, grossing only $1 million at the US box office based on a $62 million budget.
+
+== See also ==
+* [[List of American films of 1962]]
+
+== Notes ==
+{{notelist}}
+
+==Footnotes==
+{{reflist}}
+
+==Sources==
+*[[Robert P. Kolker|Kolker, Robert P.]] and Abrams, Nathan. 2024. Kubrick: An Odyssey. ''Pegasus Books,'' New York. {{ISBN   |9781639368761}}
+
+== Further reading ==
+* {{cite book |title=Lolita |last=Corliss |first=Richard |year=1994 |publisher=British Film Institute |isbn=0-85170-368-2}}
+* {{cite book |first=David |last=Hughes |title=The Complete Kubrick |publisher=Virgin Publishing |year=2000 |isbn=0-7535-0452-9}}
+* {{cite journal |last1=Fenwick |first1=James |title=The exploitation of Sue Lyon: Lolita (1962), archival research, and questions for film history |journal=Feminist Media Studies |date=May 19, 2023 |volume=23 |issue=4 |pages=1786–1801 |doi=10.1080/14680777.2021.1996422 |s2cid=240267605 |doi-access=free}}
+* {{cite journal |last1=Trubikhina |first1=Julia |title=Struggle for the Narrative: Nabokov and Kubrick's Collaboration on the "Lolita" Screenplay |journal=Ulbandus Review |date=2007 |volume=10 |pages=149–172 |jstor=25748170 |url=https://www.jstor.org/stable/25748170 |issn=0163-450X}}
+*{{cite journal |last1=Keller |first1=Cote |title=Stanley Kubrick & The Evolution of Critical Consensus |journal=Global Tides |date=May 2, 2018 |volume=12 |issue=1 |url=https://digitalcommons.pepperdine.edu/globaltides/vol12/iss1/3 |access-date=September 1, 2023}}
+* {{cite news |last1=Southern |first1=Terry |author1-link=Terry Southern |title=An Interview with Stanley Kubrick, Director of Lolita |url=https://www.archiviokubrick.it/english/words/interviews/1962southern.html |work=Esquire |date=1962 |archive-url=https://web.archive.org/web/20080412035600/https://www.archiviokubrick.it/english/words/interviews/1962southern.html |archive-date=April 12, 2008 |quote=unpublished}}
+:* {{cite news |last1=Southern |first1=Terry |last2=Southern |first2=Nile |author1-link=Terry Southern |title=Check-Up With Dr. Strangelove |url=https://filmmakermagazine.com/archives/issues/fall2004/line_items/strangelove.php |work=Filmmaker Magazine |date=Fall 2004}}
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title}}
+* [https://web.archive.org/web/20190402111933/https://www.allmovie.com/movie/lolita-v29846 ''Lolita''] at [[AllMovie]]
+* {{AFI film}}
+* {{TCMDb title}}
+
+{{Lolita}}
+{{Stanley Kubrick}}
+{{James B. Harris}}
+
+{{Authority control}}
+
+[[Category:Lolita]]
+[[Category:1962 films]]
+[[Category:1962 American films]]
+[[Category:1962 British films]]
+[[Category:1962 English-language films]]
+[[Category:1962 romantic drama films]]
+[[Category:1960s psychological drama films]]
+[[Category:American black comedy films]]
+[[Category:American black-and-white films]]
+[[Category:American nonlinear narrative films]]
+[[Category:American psychological drama films]]
+[[Category:Articles containing video clips]]
+[[Category:British black comedy films]]
+[[Category:British black-and-white films]]
+[[Category:British nonlinear narrative films]]
+[[Category:British psychological drama films]]
+[[Category:Censored films]]
+[[Category:English-language black comedy films]]
+[[Category:English-language romantic drama films]]
+[[Category:Films about child sexual abuse]]
+[[Category:Films about educators]]
+[[Category:Films about juvenile sexuality]]
+[[Category:Films about orphans]]
+[[Category:Films about pedophilia]]
+[[Category:Films based on American novels]]
+[[Category:Films based on works by Vladimir Nabokov]]
+[[Category:Films directed by Stanley Kubrick]]
+[[Category:Films scored by Nelson Riddle]]
+[[Category:Films set in the 1950s]]
+[[Category:Films set in New Hampshire]]
+[[Category:Films set in Ohio]]
+[[Category:Films shot at Associated British Studios]]
+[[Category:Metro-Goldwyn-Mayer films]]
+[[Category:Obscenity controversies in film]]
+[[Category:Rating controversies in film]]
+[[Category:Saturn Award–winning films]]
+[[Category:Warner Bros. films]]

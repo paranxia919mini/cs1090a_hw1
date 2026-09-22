@@ -1,0 +1,273 @@
+{{Short description|1985 Japanese film by Akira Kurosawa}}
+{{Infobox film
+| name           = Ran
+| image          = Kuroran.jpg
+| caption        = Theatrical release poster
+| director       = [[Akira Kurosawa]]
+| producer       = {{Plain list|
+* Katsumi Furukawa
+* Masato Hara
+* [[Serge Silberman]]
+}}
+| screenplay     = {{Plain list|
+* Akira Kurosawa
+* [[Hideo Oguni]]
+* [[Masato Ide]]
+}}
+| based_on       = {{based on|''[[King Lear]]''|[[William Shakespeare]]}}
+| starring       = {{Plain list|
+* [[Tatsuya Nakadai]]
+* [[Akira Terao]]
+* [[Jinpachi Nezu]]
+* [[Daisuke Ryu]]
+* [[Mieko Harada]]
+* Yoshiko Miyazaki
+* [[Mansai Nomura]]
+* [[Hisashi Igawa]]
+* [[Peter (actor)|Peter]]
+* Masayuki Yui
+}}
+| music          = [[Toru Takemitsu]]
+| cinematography = {{Plain list|
+* [[Takao Saito (cinematographer)|Takao Saito]]
+* [[Shoji Ueda (cinematographer)|Shoji Ueda]]
+* [[Asakazu Nakai]]
+}}
+| editing        = Akira Kurosawa
+| production_companies = {{Plain list|
+* [[Asmik Ace|Herald Ace]]
+* [[Nippon Herald Films]]
+* Greenwich Film Productions
+}}
+| distributor    = {{Plain list|
+* [[Toho]] (Japan)
+* Acteurs Auteurs Associés (France)
+}}
+| released       = {{Film date|1985|05|31|[[Tokyo International Film Festival|Tokyo]]|1985|06|01|Japan|1985|09|18|France}}<!-- ONLY THE FIRST AND COUNTRY OF ORIGIN RELEASES PER WP:FILMRELEASE -->
+| runtime        = 162 minutes
+| country        = {{Plain list|
+* Japan<ref name="BFI">{{cite web|title=Ran (1985) |url=http://explore.bfi.org.uk/4ce2b75f4052d |archive-url=https://web.archive.org/web/20120711145605/http://explore.bfi.org.uk/4ce2b75f4052d  |archive-date=July 11, 2012 |publisher=[[British Film Institute]] |access-date=June 13, 2017 }}</ref>
+* France<ref name="BFI"/>
+}}
+| language       = Japanese
+| budget         = {{USD|11–12 million|long=no}}
+| gross          = {{US$|19 million|long=no}} ({{estimation}})
+}}
+
+{{Nihongo|'''''Ran'''''|[[wikt:乱|乱]]||{{literal translation|''chaos'' or ''tumult''}}|lead=yes}} is a 1985 [[Epic film|epic historical]] [[action drama]] film directed, co-written, and edited by [[Akira Kurosawa]]. The plot derives from [[William Shakespeare]]'s ''[[King Lear]]'' and includes segments based on legends of the ''[[daimyō]]'' [[Mōri Motonari]]. The film stars [[Tatsuya Nakadai]] as Hidetora Ichimonji, an aging ''[[Sengoku period|Sengoku]]''-period [[warlord]] who decides to [[abdication|abdicate]] as ruler in favor of his three sons.
+
+Like most of Kurosawa's work in the 1970s and 80s, ''Ran'' is an international production, in this case a Japanese-French venture produced by [[Asmik Ace|Herald Ace]], [[Nippon Herald Films]], and Greenwich Film Productions. Production planning went through a long period of preparation. Kurosawa conceived the idea of ''Ran'' in the mid-1970s, when he read about Motonari, who was famous for having three highly loyal sons. Kurosawa devised a plot in which the sons become antagonists of their father. Although the film became heavily inspired by Shakespeare's play ''King Lear'', Kurosawa began using it only after he had started preparations for ''Ran''. Following these preparations, Kurosawa filmed ''[[Dersu Uzala (1975 film)|Dersu Uzala]]'' in 1975, followed by ''[[Kagemusha]]'' in the early 1980s, before securing financial backing to film ''Ran''.
+
+''Ran'' was Kurosawa's third encounter with Shakespeare during his career. In 1957, Kurosawa directed ''[[Throne of Blood]]'', based on Shakespeare's ''[[Macbeth]]''. In 1960, he directed the film ''[[The Bad Sleep Well]]'', based on ''[[Hamlet]]''. All three films have received critical acclaim.
+
+As Kurosawa's last [[Epic Film|epic]], ''Ran'' has often been cited as among his finest achievements and is widely regarded as one of [[List of films considered the best|the greatest films ever made]]. With a budget of {{USD|11–12 million|long=no}}, it was among the most expensive films in the history of [[Cinema of Japan|Japanese cinema]] upon its release. ''Ran'' was previewed on<!-- ONLY THE FIRST AND COUNTRY OF ORIGIN RELEASES -->  May 31, 1985, at the [[Tokyo International Film Festival]] before its release on June 1, 1985, in Japan. The film was hailed for its powerful images and use of color;  [[costume design]]er [[Emi Wada]] won an [[Academy Award for Best Costume Design]] for her work on ''Ran'', and Kurosawa received his only career nomination for [[Academy Award for Best Director|Best Director]]. The distinctive [[film score]], inspired by [[Gustav Mahler]], was composed by [[Toru Takemitsu]].
+
+==Plot==
+Hidetora Ichimonji, a powerful but elderly [[daimyo]], decides to divide his domain among his three sons. Taro, the eldest, will receive the prestigious First Castle and become leader of the Ichimonji clan, though Hidetora will retain the title of Great Lord. Second and third sons Jiro and Saburo are to support Taro and will be given the Second and Third Castles. However, Saburo is exiled after criticizing his father's lecture about unity. Hidetora's retainer Tango is also exiled for defending Saburo.
+
+Taro's wife Lady Kaede urges him to take full control of the clan. When Taro demands Hidetora renounce his title, a furious Hidetora leaves and travels to Jiro's castle, only to discover that Jiro is only interested in using him as a pawn. As Hidetora and his retinue wander, he decides to take over the Third Castle, which had become deserted after Saburo's exile.
+
+Later, the Third Castle is attacked by Taro and Jiro's combined forces, and all of Hidetora's retinue are either killed or commit ritual suicide. Jiro's general Kurogane takes advantage of the confusion and shoots Taro dead with an [[arquebus]]. Hidetora succumbs to madness and is allowed to leave. Tango and court [[jester|fool]] Kyoami, still loyal to Hidetora, accompany him as he wanders across the land, haunted by visions of the people he killed in the past. They take refuge in a peasant's home only to discover that the occupant is Tsurumaru, the brother of Lady Sue, Jiro's wife. Hidetora had blinded Tsurumaru after massacring his family and left him impoverished.
+
+With Taro dead, Jiro becomes the Great Lord of the Ichimonji clan, and moves into the First Castle. Tango, learning that Jiro is considering sending assassins after Hidetora, rides off to alert Saburo. Lady Kaede seduces Jiro, and demands that he kill Lady Sue and marry her instead. Jiro orders Kurogane to do the deed, but he refuses, seeing through Kaede's perfidy. Kurogane then warns Sue and Tsurumaru to flee. 
+
+Saburo's army enters Jiro's territory to find Hidetora, forcing Jiro to hastily mobilize his army. A brief truce is reached and Saburo rides off after learning of Hidetora's whereabouts. Tsurumaru and Sue arrive at the ruins of the family castle. Sue leaves to retrieve the flute Tsurumaru has inadvertently left behind, giving him a picture of [[Amitābha|Amida Buddha]] for protection before she departs. She never returns. Jiro breaks the truce and attacks Saburo's remaining forces, suffering significant losses, and is forced to retreat when informed that the armies of the neighbouring lords are marching on the First Castle. Saburo tracks down Hidetora, who has partially recovered his sanity, and the two reconcile. However, Saburo is shot and killed by one of Jiro's assassins. Overcome with grief, Hidetora dies on his son's body. 
+
+As the First Castle is besieged, Kurogane learns of Sue's death, and confronts Kaede. After confessing that her plot was revenge against the entire Ichimonji clan for massacring her family, Kaede is beheaded by Kurogane. Jiro, Kurogane and all Jiro's men subsequently die in battle. A funeral procession is held for Saburo and Hidetora. Meanwhile, left alone in the castle ruins, Tsurumaru trips, dropping the Amida Buddha image that Sue had given to him.
+
+==Cast==
+{| class="wikitable sortable"
+|-
+! Actor !! Character !! ''[[King Lear]]'' analogue
+|-
+| [[Tatsuya Nakadai]] || {{nihongo|Ichimonji Hidetora|一文字 秀虎}} || [[Leir of Britain|King Lear]]
+|-
+| [[Akira Terao]] || {{nihongo|Ichimonji "Taro" Takatora|一文字 太郎 孝虎}} || [[Goneril]]
+|-
+| [[Jinpachi Nezu]] || {{nihongo|Ichimonji "Jiro" Masatora|一文字 次郎 正虎}} || [[Regan (King Lear)|Regan]]
+|-
+| [[Daisuke Ryu]] || {{nihongo|Ichimonji "Saburo" Naotora|一文字 三郎 直虎}} || [[Cordelia (King Lear)|Cordelia]]
+|-
+| [[Mieko Harada]] || {{nihongo|Lady Kaede|楓の方}} || [[Edmund (King Lear)|Edmund]]
+|-
+| Yoshiko Miyazaki || {{nihongo|Lady Sue|末の方}} || Albany
+|-
+| [[Mansai Nomura]] || {{nihongo|Tsurumaru|鶴丸}} || Gloucester
+|-
+| [[Hisashi Igawa]] || {{nihongo|Kurogane|鉄}} || Oswald
+|-
+| [[Peter (actor)|Peter]] || {{nihongo|Kyoami|狂阿弥}} || [[Shakespearean fool|Fool]]
+|-
+| Masayuki Yui || {{nihongo|Hirayama Tango|平山 丹後}} || Kent
+|-
+| Kazuo Kato || {{nihongo|Ikoma Kageyu|生駒 勘解由}} || 
+|-
+| [[Jun Tazaki]] || {{nihongo|Ayabe Seiji|綾部 政治}} || Duke of Burgundy
+|-
+| [[Hitoshi Ueki]] || {{nihongo|Fujimaki Nobuhiro|藤巻 信弘}} || King of France
+|}
+
+==Production==
+[[File:Ran storyboards.jpg|thumb|left|Prior to filming, Kurosawa spent ten years storyboarding every shot in the film as paintings. This is the Third Castle upon Hidetora's arrival.|200x200px]]<!-- FAIR USE of RAN STORYBOARDS.jpg: see image description page at http://en.wikipedia.org/wiki/Image:Ran storyboards.jpg for rationale -->
+
+''Ran'' was Kurosawa's last epic film and by far his most expensive. At the time, its budget of {{USD|11–12 million|long=no}} made it the most expensive Japanese film in history, leading to its distribution in 1985 exceeding the budget of $7.5 million for his previous film ''Kagemusha''.<ref name="Hagopian">{{cite web |last=Hagopian |first=Kevin |url=http://www.albany.edu/writers-inst/fns98n7.html |title= New York State Writers Institute Film Notes – Ran |archive-url=https://web.archive.org/web/20070312000702/http://www.albany.edu/writers-inst/fns98n7.html |archive-date=2007-03-12 |access-date=2017-06-08}}</ref><ref>{{cite news | first=Vincent | last=Canby | title=Film View: 'Ran' Weathers the Seasons | date=1986-06-22 | work=[[The New York Times]] | url=https://www.nytimes.com/movie/review?res=9b00eedb1539f934a1575ac0a963948260 | archive-date=2018-01-28 | access-date=2017-09-10 | archive-url=https://web.archive.org/web/20180128021307/http://www.nytimes.com/movie/review?res=9b00eedb1539f934a1575ac0a963948260 | url-status=live }}</ref><ref>{{Cite web |last=Mathews |first=Jack |date=December 11, 1985 |title=SNUB AND BE SNUBBED AS 'RAN' MISSES OSCAR BID |url=https://www.latimes.com/archives/la-xpm-1985-12-11-ca-1016-story.html |access-date=February 23, 2024 |website=[[The Los Angeles Times]] |language=en-US}}</ref> It is a Japanese-French venture<ref name="BFI"/> produced by [[Asmik Ace|Herald Ace]], [[Nippon Herald Films]], and Greenwich Film Productions. Filming started in 1983.<ref name="auto">{{Harvnb|Galbraith|2002|pp=569–576}}</ref> The 1,400 uniforms and suits of armor used for the extras were designed by [[costume design]]er [[Emi Wada]] and Kurosawa, and were handmade by master tailors, taking three years.<ref name="jclarkreview" /> The film also used 200 [[horse]]s. Kurosawa loved filming in lush and expansive locations, and most of ''Ran'' was shot amidst the mountains and plains of [[Mount Aso]], Japan's largest active volcano. Kurosawa was granted permission to shoot at two of the country's most famous landmarks, the ancient castles at [[Kumamoto Castle|Kumamoto]] and [[Himeji Castle|Himeji]]. For the castle of Lady Sue's family, he used the ruins of the custom-constructed Azusa castle, made by Kurosawa's production crew near [[Mount Fuji]].<ref name=Positif/><ref>{{Cite news |last=Bourne |first=Mark |date=April 22, 2008 |title=Happy 444th Birthday, William Shakespeare, Screenwriter |url=http://www.mtv.com/news/2759127/happy-444th-birthday-william-shakespeare-screenwriter/ |archive-url=https://web.archive.org/web/20180201135344/http://www.mtv.com/news/2759127/happy-444th-birthday-william-shakespeare-screenwriter/ |archive-date=2018-02-01 |access-date=2026-01-09 |work=MTV News |language=en}}</ref><ref>Soundtrack of ''Ran''. Azusa Castle listed as individual track on soundtrack release [https://www.amazon.com/Tsurumarus-Flute-Azusa-Castle-Ruins/dp/B01LD1CO0I] {{Webarchive|url=https://web.archive.org/web/20231215153253/https://www.amazon.com/Tsurumarus-Flute-Azusa-Castle-Ruins/dp/B01LD1CO0I |date=2023-12-15 }}.</ref> Hidetora's third castle, which was burned to the ground, was a real building which Kurosawa built on the slopes of Mount Fuji. No miniatures were used for that segment, and Tatsuya Nakadai had to do the scene where Hidetora flees the castle in one take.<ref name=Positif/> Kurosawa also filmed a scene that required an entire field to be sprayed gold, but cut it out of the final film during editing. The documentary ''[[A.K. (film)|A.K.]]'' shows the filming of the scene.
+
+Kurosawa often shot scenes with three cameras simultaneously, each using different lenses and angles. Many [[Long shot|long-shots]] were employed and very few [[close-up]]s. On several occasions, Kurosawa used static cameras and suddenly brought the action into frame, rather than using the camera to track the action. He also used [[jump cut]]s to progress certain scenes, changing the pace of the action for filmic effect.<ref name="jclarkreview">{{Cite web |title=Kurosawa's RAN |url=http://jclarkmedia.com/film/filmreviewran.html |archive-url=https://web.archive.org/web/20060322081409/http://jclarkmedia.com/film/filmreviewran.html |archive-date=2006-03-22 |access-date=2026-01-09 |website=Jim's Reviews}}</ref>
+
+Akira Kurosawa's wife of 39 years, [[Yōko Yaguchi]], died during the production of the film. He halted filming for one day to mourn before resuming work. His regular recording engineer [[Fumio Yanoguchi]] also died late in production in January 1985.{{sfn|Kurosawa|2008|p=128}}
+
+=== Crew ===
+{{Div col}}
+* [[Akira Kurosawa]] – director, co-writer
+* [[Ishirō Honda]] – associate director
+* Kunio Nozaki – assistant director
+* Ichiro Yamamoto – assistant director
+* Okihiro Yoneda – assistant director
+* [[Teruyo Nogami]] – production manager
+* Takeji Sano – lighting
+* Yoshiro Muraki – production design
+* Shinobu Muraki – production design
+* [[Emi Wada]] – costume design
+* Ichiro Minawa – sound effects
+{{Div col end}}
+
+Personnel taken from [[The Criterion Collection]].<ref name="Criterion">{{cite web|title=Ran (1985) – The Criterion Collection|url=https://www.criterion.com/films/754-ran|url-status=live|archive-url=https://web.archive.org/web/20210427222121/https://www.criterion.com/films/754-ran|archive-date=April 27, 2021|access-date=November 14, 2021|work=Criterion}}</ref>
+
+===Development===
+Kurosawa conceived of the idea that became ''Ran'' in the mid-1970s, when he read a parable about the [[Sengoku period|Sengoku-period]] warlord [[Mōri Motonari]]. Motonari was famous for having three sons, all incredibly loyal and talented. Kurosawa began imagining what would have happened had they been bad.<ref name=Peary>{{cite news | first=Gerald | last=Peary | title=Akira Kurosawa | date=July 1986 | newspaper=[[Boston Herald]] | url=http://www.geraldpeary.com/interviews/jkl/kurosawa.html| archive-url=https://web.archive.org/web/20020424070639/http://www.geraldpeary.com/interviews/jkl/kurosawa.html| url-status=usurped| archive-date=April 24, 2002}}</ref> Although the film eventually became heavily inspired by [[Shakespeare]]'s play ''[[King Lear]]'', Kurosawa became aware of the play only after he had started pre-planning.<ref name=Sragow>{{cite news | first=Michael | last=Sragow | title=Lear meets the energy vampire | date=September 21, 2000 | work=[[Salon.com]] | url=http://www.salon.com/2000/09/21/kurosawa/ | archive-date=June 11, 2012 | access-date=May 24, 2012 | archive-url=https://web.archive.org/web/20120611020049/http://www.salon.com/2000/09/21/kurosawa/ | url-status=live }}</ref>{{failed verification|date=May 2026}} According to him, the stories of Mōri Motonari and Lear merged in a way he was never fully able to explain. He wrote the script shortly after filming ''[[Dersu Uzala (1975 film)|Dersu Uzala]]'' in 1975, and then "let it sleep" for seven years.<ref name="Positif">{{Cite journal |author=Watanabe |first=Kiyoshi |date=October 1985 |title=Interview with Akira Kurosawa on Ran |journal=Positif |volume=296}}</ref> During this time, he painted [[storyboard]]s of every shot in the film (later included with the screenplay and available on the [[The Criterion Collection|Criterion Collection]] [[DVD]] release) and then continued searching for funding. Following his success with 1980's ''[[Kagemusha]]'', which he later considered a "dress rehearsal" or "dry run" for ''Ran'', Kurosawa was finally able to secure backing from French producer [[Serge Silberman]].<ref>{{cite web |title=Ran Press Kit |url=https://cinefiles.bampfa.berkeley.edu/catalog/23367 |website=CineFiles |publisher=Orion Classics |access-date=15 August 2022 |pages=10, 17 |date=1985 |quote=He now regards KAGEMUSHA as a sort of "dress rehearsal" for RAN, an attempt to work out themes and ideas and perhaps even to demonstrate the viability of a grand-scale period film. ... Kurosawa regards KAGEMUSHA as a "dry run" for the more richly conceived, the more deeply personal RAN. |archive-date=23 November 2020 |archive-url=https://web.archive.org/web/20201123174411/https://cinefiles.bampfa.berkeley.edu/catalog/23367 |url-status=live }}</ref>
+
+Kurosawa once said "Hidetora is me", and there is evidence in the film that Hidetora serves as a stand-in for Kurosawa.<ref name=AKData>{{cite web | title=Ran | work=Flicks kicks off with a Lear-inspired epic | url=https://www.usq.edu.au/news-events/news/2015/03/artsworx-flicks | access-date=2017-06-09 | archive-date=2015-04-18 | archive-url=https://web.archive.org/web/20150418141854/http://usq.edu.au/news-events/news/2015/03/artsworx-flicks | url-status=dead }}</ref> Roger Ebert agrees, arguing that ''Ran'' "may be as much about Kurosawa's life as Shakespeare's play".<ref name=":0">{{Cite news |last=Ebert |first=Roger |date=October 1, 2000 |title=Ran |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20001001%2FREVIEWS08%2F10010301%2F1023 |archive-url=https://web.archive.org/web/20121003111019/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20001001%2FREVIEWS08%2F10010301%2F1023 |archive-date=October 3, 2012 |work=Chicago Sun-Times |via=RogerEbert.com}}</ref> ''Ran'' was the final film of Kurosawa's "third period" (1965–1985), a time when he had difficulty securing support for his pictures, and was frequently forced to seek foreign financial backing. While he had directed over twenty films in the first two decades of his career, he directed just four in these two decades. After directing ''[[Red Beard]]'' (1965), Kurosawa discovered that he was considered old-fashioned and did not work again for almost five years. He also found himself competing against television, which had reduced Japanese film audiences from a high of 1.1 billion in 1958 to under 200 million by 1975. In 1968, he was fired from the [[20th Century Fox]] epic ''[[Tora! Tora! Tora!]]'' over what he described as creative differences, but others said was a perfectionism that bordered on [[insanity]]. Kurosawa tried to start an independent production group with three other directors, but his 1970 film ''[[Dodes'ka-den]]'' was a box-office flop and bankrupted the company.<ref>{{Harvnb|Prince|1999|p=5}}</ref> Many of his younger rivals boasted that he was finished. A year later, unable to secure any domestic funding and plagued by ill health, Kurosawa attempted [[suicide]] by slashing his wrists. Though he survived, his misfortune continued to plague him until the late 1980s. According to Stephen Prince, medical treatment and Mosfilm's offer to make a film in Russia (''[[Dersu Uzala (1975 film)|Dersu Uzala]]'') helped Kurosawa's eventual "spiritual recovery."<ref>{{Cite book |last=Prince |first=Stephen |title=The warrior's camera: the cinema of Akira Kurosawa |date=1991 |publisher=Princeton University Press |isbn=978-0-691-03160-6 |location=Princeton, N.J |pages=260–261}}</ref>
+
+Kurosawa was influenced by the [[William Shakespeare]] play ''[[King Lear]]'' and borrowed elements from it.<ref name=Sragow/> Both depict an aging warlord who decides to divide up his kingdom among his children. Hidetora has three sons – Taro, Jiro, and Saburo – who correspond to Lear's daughters [[Goneril]], [[Regan]], and [[Queen Cordelia|Cordelia]]. In both, the warlord foolishly banishes anyone who disagrees with him as a matter of pride – in Lear it is the Earl of [[Kent]] and Cordelia; in ''Ran'' it is Tango and Saburo. The conflict in both is that two of the lord's children ultimately turn against him, while the third supports him, though Hidetora's sons are far more ruthless than Goneril and Regan. Both ''King Lear'' and ''Ran'' end with the death of the entire family, including the lord.
+
+There are some crucial differences between the two stories. ''King Lear'' is a play about undeserved suffering, and Lear himself is at worst a fool. Hidetora, by contrast, has been a cruel warrior for most of his life: a man who ruthlessly murdered men, women, and children to achieve his goals.<ref>{{Harvnb|Prince|1999|p=287}}</ref> In ''Ran'', Lady Kaede, Lady Sue, and Tsurumaru were all victims of Hidetora. Whereas in ''King Lear'' the character of Gloucester had his eyes gouged out by Lear's enemies, in ''Ran'' it was Hidetora himself who gave the order to blind Tsurumaru. The role of the Fool has been expanded into a major character (Kyoami).<ref name=JimReview>[http://jclarkmedia.com/filmreviewran.html Kurosawa's RAN] {{Webarchive|url=https://web.archive.org/web/20060322081409/http://jclarkmedia.com/film/filmreviewran.html |date=2006-03-22 }}. ''Jim's Reviews''.</ref> Kurosawa was concerned that Shakespeare gave his characters no past, and he wanted to give his version of ''King Lear'' a history.<ref name=AsktheExpert>{{cite AV media | chapter=Ask the Experts Q&A | title=Great Performances. Kurosawa | oclc=49757477 |type=DVD}}</ref>
+
+The complex and variant etymology for the word ''Ran'' used as the title has been variously translated as "chaos", "rebellion", or "revolt"; or to mean "disturbed" or "confused".
+
+===Filming===
+The filming of ''Ran'' began in 1983.<ref name="auto"/> The development and conception of the filming of the war scenes in the film were influenced by Kurosawa's opinions on [[nuclear warfare]]. According to Michael Wilmington, Kurosawa told him that much of the film was a metaphor for nuclear warfare and the anxiety of the post-[[Atomic bombings of Hiroshima and Nagasaki|Hiroshima]] age.<ref>{{cite news | first=Michael | last=Wilmington | title=Apocalypse Song | date=December 19, 2005 | publisher=Criterion Collection | url=http://www.criterion.com/asp/release.asp?id=316&eid=452&section=essay | archive-date=September 29, 2007 | access-date=April 25, 2007 | archive-url=https://web.archive.org/web/20070929100115/http://www.criterion.com/asp/release.asp?id=316&eid=452&section=essay | url-status=live }}</ref> He believed that, despite all of the technological progress of the 20th century, all people had learned was how to kill each other more efficiently.<ref name=Bock>{{cite news |first=Audie |last=Bock |page=21 |title=Kurosawa on His Innovative Cinema |date=1981-10-04 |work=[[The New York Times]] |url=https://www.nytimes.com/1981/10/04/movies/kurosawa-on-his-innovative-cinema.html |archive-date=2018-01-28 |access-date=2017-02-12 |archive-url=https://web.archive.org/web/20180128021255/http://www.nytimes.com/1981/10/04/movies/kurosawa-on-his-innovative-cinema.html |url-status=live }}</ref> In ''Ran'', the vehicle for [[apocalypse|apocalyptic]] destruction is the [[arquebus]], an early firearm that was introduced to Japan in the 16th century. Arquebuses revolutionized [[samurai]] warfare. Kurosawa had already dealt with this theme in his previous film ''[[Kagemusha]]'', in which the Takeda cavalry is destroyed by the arquebuses of the [[Oda clan|Oda]] and [[Tokugawa clan]]s.
+
+In ''Ran'', the battle of Hachiman Field is an illustration of this new kind of warfare. Saburo's arquebusiers annihilate Jiro's cavalry and drive off his infantry by engaging them from the woods, where the cavalry are unable to venture. Similarly, Taro and Saburo's assassination by a sniper also shows how individual heroes can be easily disposed of on a modern battlefield. Kurosawa also illustrates this new warfare with his camera. Instead of focusing on the warring armies, he frequently sets the focal plane beyond the action, so that in the film they appear as abstract entities.<ref>{{cite video | people=Prince, Stephen (Commentary) | date=2005 | title=Ran | medium=Film | location=North America | publisher=Criterion Collection}}</ref>
+
+===Casting===
+The description of Hidetora in the first script was originally based on [[Toshiro Mifune]].<ref name=AsktheExpert/> However, the role was cast to [[Tatsuya Nakadai]], an actor who had played several supporting and major characters in previous Kurosawa films, such as Shingen and his double in ''[[Kagemusha]]''. Other Kurosawa veterans in ''Ran'' were Masayuki Yui (Tango), Jinpachi Nezu (Jiro) and [[Daisuke Ryu]] (Saburo), all of whom were in ''Kagemusha''. For [[Akira Terao]] (Taro) and [[Mieko Harada]] (Lady Kaede), ''Ran'' was their first Kurosawa film, but they would go on to work with him again in ''[[Dreams (1990 film)|Dreams]]''. [[Hisashi Igawa]] (Kurogane), who had previously been in Kurosawa's ''[[Dodes'ka-den]]'', would reappear in both ''Dreams'' and ''[[Rhapsody in August]]''. Kurosawa also hired two popular entertainers for supporting roles: singer-dancer [[Peter (actor)|Shinnosuke "Peter" Ikehata]] as Hidetora's loyal fool Kyoami and comedian-musician [[Hitoshi Ueki]] as rival warlord Nobuhiro Fujimaki. About 1,400 [[Extra (acting)|extras]] were employed.<ref>Conrad, David A. (2022). ''Akira Kurosawa and Modern Japan'', p198-200, McFarland & Co.</ref>
+
+===Acting style===
+{{Unreferenced section|date=May 2026}}
+While most of the characters in ''Ran'' are portrayed by conventional acting techniques, three performances are reminiscent of Japanese [[Noh]] theatre. Noh is a form of Japanese traditional theatre requiring highly trained actors and musicians where emotions are primarily conveyed by stylized conventional gestures. The heavy, ghost-like make-up worn by [[Tatsuya Nakadai]]'s character, Hidetora, resembles the emotive masks worn by traditional Noh performers. The body language exhibited by the same character is also typical of Noh theatre: long periods of static motion and silence, followed by an abrupt, sometimes violent, change in stance. The characters of Lady Kaede and Tsurumaru are also Noh-influenced. The Noh treatment emphasizes the ruthless, passionate, and single-minded natures of these two characters.
+
+=== Music ===
+Craig Lysy, writing for ''Movie Music UK'', commented on the strengths of the film soundtrack's composer for Kurosawa's purposes: "[[Tōru Takemitsu]] was Japan's preeminent film score composer and Kurosawa secured his involvement in 1976, during the project's early stages. Their initial conception of the score was to use tategoe, a "shrill-voice" chant style without instrumentation. Over the intervening years, Kurosawa's conception of the score changed dramatically. As they began production his desire had changed 180 degrees, now insisting on a powerful [[Gustav Mahler|Mahleresque]] orchestral score. Takemitsu responded with what many describe as his most romantic effort, one that achieved a perfect blending of Oriental and Occidental sensibilities."<ref>{{cite video|title=Music for the Movies: Toru Takemitsu|date=1995|publisher=Sony Classical Essential Classics|medium=DVD}}</ref><ref name="Lysy">{{cite web |last=Lysy |first=Craig |url=https://moviemusicuk.us/2016/10/10/ran-toru-takemitsu/ |title=''Movie Music UK'' |access-date=2017-06-08 |archive-date=2016-12-20 |archive-url=https://web.archive.org/web/20161220230456/https://moviemusicuk.us/2016/10/10/ran-toru-takemitsu/ |url-status=dead }}</ref>
+
+Takemitsu has stated that he was significantly influenced by the Japanese [[karma|karmic]] concept of ''[[Ma (negative space)|ma]]'', interpreted as a surplus of energy surrounding an abundant void. As Lysy stated: "Takemitsu was guided in his efforts best summed up in the Japanese word ''ma'', which suggests the incongruity of a void abounding with energy. He related: 'My music is like a garden, and I am the gardener. Listening to my music can be compared with walking through a garden and experiencing the changes in light, pattern and texture.{{'"}}<ref name="Lysy" />
+
+The project was the second of two which allowed Kurosawa and Takemitsu to collaborate, the first being ''[[Dodes'ka-den]]'' in 1970. Lysy summarized the second project stating: "the collaboration between Kurosawa and the temperamental Takemitsu was rocky. Kurosawa constantly sent Takemitsu notes, which only served to infuriate him, so he frequently visited the set to gain a direct sensual experience. Takemitsu actually resigned... Fortunately, producer Masato Hara intervened, made peace, and Takemitsu returned to the film. Years later, Takemitsu would relate: "Overall, I still have this feeling of&nbsp;... 'Oh, if only he'd left more up to me'&nbsp;... But seeing it now&nbsp;... I guess it's fine the way it is.{{'"}}<ref name="Lysy" />
+
+Kurosawa originally had wanted the [[London Symphony Orchestra]] to perform the score for ''Ran'', but upon meeting conductor [[Hiroyuki Iwaki]] of the [[Sapporo Symphony Orchestra]], he engaged Iwaki and the orchestra to record it.<ref name="Yomiuri">{{cite web|url=http://www.yomiuri.co.jp/e-japan/hokkaido/kikaku/121/8.htm|script-title=ja:巨匠が認めた札響の力|language=ja|date=July 1, 2007|work=Yomiuri Shimbun|access-date=June 14, 2017|archive-date=December 4, 2012|archive-url=https://web.archive.org/web/20121204183038/http://www.yomiuri.co.jp/e-japan/hokkaido/kikaku/121/8.htm|url-status=live}}</ref> Kurosawa had the orchestra play up to 40 takes of the music.<ref name="Yomiuri" /> The running time of the soundtrack is just over an hour and was re-released in 2016 after its original release in 1985 by Silva Screen Productions. It was produced by Reynold da Silva and David Stoner.<ref name="Lysy" />
+
+==Reception==
+===Box office===
+Released on June 1, 1985, the film was modestly successful financially in Japan. It earned {{¥|2.51 billion|link=yes}} ($12 million) in Japan, just enough to break even.<ref>{{cite web|url=http://www.tohokingdom.com/box_office/ran.htm |title=Ran|website=tohokingdom.com|access-date=16 June 2017}}</ref> In France, where it released on 18 September 1985, the film sold 813,081 tickets,<ref>{{cite web |title=Ran (1985) |url=http://www.jpbox-office.com/fichfilm.php?id=6436 |website=JP's Box-Office |access-date=22 May 2020 |archive-date=6 August 2020 |archive-url=https://web.archive.org/web/20200806151530/http://www.jpbox-office.com/fichfilm.php?id=6436 |url-status=live }}</ref> grossing an estimated {{formatnum:{{#expr:813081*30}}|}}{{nbsp}}[[French franc|F]] ({{US$|{{#expr:813081*3}}|long=no}}).<ref>{{cite journal |last1=Singleton |first1=Patricia A. |title=Travel: A Film Buff's Guide To Paris |journal=[[Black Enterprise]] |date=September 1985 |volume=16 |issue=2 |page=72 |url=https://books.google.com/books?id=jV8EAAAAMBAJ&pg=PA72 |publisher=Earl G. Graves, Ltd. |issn=0006-4165}}</ref>
+
+In the United States, where it released in December 1985, the film grossed $3,763,760 in its first four weeks of release.<ref>{{cite news |last1=McLellan |first1=Joseph |title=Kurosawa's film 'Ran' is Japanese version of 'King Lear' |url=https://www.newspapers.com/image/613725397/ |access-date=19 April 2022 |work=[[The Salt Lake Tribune]] |via=[[Newspapers.com]] |date=12 February 1986 |page=12A |url-access=subscription |archive-date=19 April 2022 |archive-url=https://web.archive.org/web/20220419021743/https://www.newspapers.com/image/613725397/ |url-status=live }}</ref> Later re-releases between 2000 and 2016 grossed $528,357 in the United States and Canada,<ref name="BOM">{{cite web |title=Ran |url=https://www.boxofficemojo.com/title/tt0089881/ |website=[[Box Office Mojo]] |access-date=22 May 2020 |archive-date=6 August 2020 |archive-url=https://web.archive.org/web/20200806161505/https://www.boxofficemojo.com/title/tt0089881/ |url-status=live }}</ref> bringing its total North American gross to {{US$|{{#expr:3763760+528357}}|long=no}}.
+
+In Germany, where it released in 1986, the film sold 222,862 tickets,<ref>{{cite web |title=Ran (1985) - Europe |url=http://www.jpbox-office.com/fichfilm.php?id=6436&view=4 |website=JP's Box-Office |access-date=23 May 2020 |archive-date=6 August 2020 |archive-url=https://web.archive.org/web/20200806140751/http://www.jpbox-office.com/fichfilm.php?id=6436&view=4 |url-status=live }}</ref> grossing an estimated {{Currency|{{#expr:222862*3.3 round -1}}|code=Euro|linked=no}}<ref>{{cite book |chapter=Cinema market |title=Cinema, TV and radio in the EU: Statistics on audiovisual services (Data 1980-2002) |date=2003 |publisher=[[Office for Official Publications of the European Communities]] |isbn=92-894-5709-0 |issn=1725-4515 |pages=31–64 (61) |edition=2003 |chapter-url=https://ec.europa.eu/eurostat/documents/3217494/5648553/KS-BT-03-001-EN.PDF/3758081d-5ae4-4e21-9d78-fca7bcc68d5c#page=67 |access-date=23 May 2020 |archive-date=7 June 2020 |archive-url=https://web.archive.org/web/20200607084819/https://ec.europa.eu/eurostat/documents/3217494/5648553/KS-BT-03-001-EN.PDF/3758081d-5ae4-4e21-9d78-fca7bcc68d5c#page=67 |url-status=live }}</ref> ($714,912).<ref>{{cite web |title=Historical exchange rates from 1953 with graph and charts |url=https://fxtop.com/en/historical-exchange-rates.php?A=735440&C1=EUR&C2=USD&YA=1&DD1=01&MM1=01&YYYY1=1986&B=1&P=&I=1&DD2=31&MM2=12&YYYY2=1986 |website=fxtop.com |year=1986 |access-date=23 May 2020 |archive-date=6 August 2020 |archive-url=https://web.archive.org/web/20200806143430/https://fxtop.com/en/historical-exchange-rates.php?A=735440&C1=EUR&C2=USD&YA=1&DD1=01&MM1=01&YYYY1=1986&B=1&P=&I=1&DD2=31&MM2=12&YYYY2=1986 |url-status=live }}</ref> The film also grossed $18,692 in the United Kingdom,<ref>{{cite web |title=Ran (2016 Re-release) |url=https://www.boxofficemojo.com/releasegroup/gr1679774213/ |website=Box Office Mojo |access-date=22 May 2020 |archive-date=6 August 2020 |archive-url=https://web.archive.org/web/20200806143522/https://www.boxofficemojo.com/releasegroup/gr1679774213/ |url-status=live }}</ref> and $16,215 in Portugal,<ref>{{cite web |title=Ran, Os Senhores Da Guerra - Portugal |url=https://www.the-numbers.com/movie/Ran/Portugal |website=[[The Numbers (website)|The Numbers]] |access-date=22 May 2020 |archive-date=6 August 2020 |archive-url=https://web.archive.org/web/20200806155438/https://www.the-numbers.com/movie/Ran/Portugal |url-status=live }}</ref> bringing the film's total estimated gross to approximately {{US$|{{#expr:12000000+2439243+4292117+714912+18692+16215}}|long=no|year=1985|round=-6}} worldwide.
+
+===Critical reviews===
+
+''Ran'' was critically acclaimed upon its premiere.{{sfn|Lupton|2005|p=165}} On [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 96%, based on 94 reviews, and an average rating of 9.3/10. The website's critical consensus reads, "Akira Kurosawa's sprawling, epic take on ''King Lear'' should be required viewing for fans of westerns, war movies, or period films in general."<ref>{{cite web |url=https://www.rottentomatoes.com/m/ran |title=Ran (1985) |work=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |access-date=March 29, 2021 |archive-date=April 16, 2021 |archive-url=https://web.archive.org/web/20210416120706/https://www.rottentomatoes.com/m/ran |url-status=live }}</ref> On [[Metacritic]], the film has a weighted average score of 97 out of 100, based on 21 critics, indicating "universal acclaim".<ref>{{cite web |url=http://www.metacritic.com/movie/ran |title=Ran Reviews |work=[[Metacritic]] |publisher=[[CBS Interactive]] |access-date=April 10, 2018 |archive-date=June 7, 2018 |archive-url=https://web.archive.org/web/20180607170808/http://www.metacritic.com/movie/ran |url-status=live }}</ref>
+
+Shawn Levy, of the ''Portland Oregonian'' wrote, "In many respects, it's Kurosawa's most sumptuous film, a feast of color, motion and sound: Considering that its brethren include ''[[Kagemusha]]'', ''[[Seven Samurai]]'' and ''[[Dersu Uzala (1975 film)|Dersu Uzala]]'', the achievement is extraordinary."<ref>Shawn Levy, Review of ''Ran'', ''Portland Oregonian'', 1 Dec 2000, p.26.</ref> Writing for the ''Chicago Sun-Times'', [[Roger Ebert]] said, "''Ran'' is a great, glorious achievement."<ref>{{cite news | first=Roger | last=Ebert | title=Film View: 'Ran' | date=1985-12-25 | work=[[Chicago Sun-Times]] | url=http://www.rogerebert.com/reviews/ran-1985 | archive-date=2017-06-10 | access-date=2017-06-05 | archive-url=https://web.archive.org/web/20170610123636/http://www.rogerebert.com/reviews/ran-1985 | url-status=live }}</ref> In the ''San Francisco Examiner'', G. Allen Johnson stated: "Kurosawa pulled out all the stops with ''Ran'', his obsession with loyalty and his love of expressionistic film techniques allowed to roam freely."<ref>G. Allen Johnson. Review of ''Ran'', ''San Francisco Examiner''.</ref>
+
+Writing for the ''[[San Francisco Chronicle]]'', Bob Graham stated: "In ''Ran'', the horrors of life are transformed by art into beauty. It is finally so moving that the only appropriate response is silence."<ref>{{cite news | first=Bob | last=Graham | title=Film Review: 'Ran' | date=2000-09-29 | work=[[San Francisco Chronicle]] | url=http://www.sfgate.com/movies/article/REPEAT-PERFORMANCES-Beauty-Terror-in-2703769.php | archive-date=2017-05-17 | access-date=2017-06-05 | archive-url=https://web.archive.org/web/20170517152525/http://www.sfgate.com/movies/article/REPEAT-PERFORMANCES-Beauty-Terror-in-2703769.php | url-status=live }}</ref> [[Gene Siskel]], writing for the ''Chicago Tribune'', wrote: "The physical scale of ''Ran'' is overwhelming. It's almost as if Kurosawa is saying to all the cassette buyers of America, in a play on Clint Eastwood's phrase, 'Go ahead, ruin your night' – wait to see my film on a small screen and cheat yourself out of what a movie can be."<ref>{{cite news | first=Gene | last=Siskel | title=Film Review: 'Ran' | date=1985-12-25 | work=[[Chicago Tribune]] | url=https://www.chicagotribune.com/1985/12/25/ran-a-mighty-triumph-from-a-master-storyteller/}}</ref> [[Vincent Canby]], writing for ''The New York Times'', stated: "Though big in physical scope and of a beauty that suggests a kind of drunken, barbaric lyricism, ''Ran'' has the terrible logic and clarity of a morality tale seen in tight close-up, of a myth that, while being utterly specific and particular in its time and place, remains ageless, infinitely adaptable."<ref>{{cite news | first=Vincent | last=Canby | title=Film Review: 'Ran' Weathers the Seasons | date=1986-06-22 | work=[[The New York Times]] | url=https://www.nytimes.com/1986/06/22/movies/film-view-ran-weathers-the-seasons.html | archive-date=2021-07-27 | access-date=2021-07-27 | archive-url=https://web.archive.org/web/20210727231709/https://www.nytimes.com/1986/06/22/movies/film-view-ran-weathers-the-seasons.html | url-status=live }}</ref>
+
+Roger Ebert awarded the film four out of four stars, with extended commentary, "Kurosawa (while directing ''Ran'') often must have associated himself with the old lord as he tried to put this film together, but in the end he has triumphed, and the image I have of him, at 75, is of three arrows bundled together."<ref>{{cite news | first=Roger | last=Ebert | title=Film Review: 'Ran' | date=1985-12-25 | work=[[Chicago Sun-Times]] | url=http://www.rogerebert.com/reviews/ran-1985 | archive-date=2017-06-10 | access-date=2017-06-05 | archive-url=https://web.archive.org/web/20170610123636/http://www.rogerebert.com/reviews/ran-1985 | url-status=live }}</ref> In 2000, it was inducted into Ebert's [[The Great Movies|Great Movies]] list.
+
+Notoriously acerbic critic [[John Simon (critic)|John Simon]] of the ''[[National Review]]'' wrote, "I find it as an almost total failure by a genius in his old age".<ref>{{cite book |title=John Simon on Film: Criticism 1982-2001|last1=Simon|first1=John |publisher=Applause Books |year=2005 |page=123}}</ref>
+
+Michal Sragow, writing for ''Salon'' in 2000, summarized the Shakespearean origins of the play: "Kurosawa's Lear is a 16th century warlord who has three sons and a career studded with conquests. Kurosawa's genius is to tell his story so that every step suggests how wild and savage a journey it has been. At the start, this bold, dominating figure, now called Hidetora, is a sacred monster who wants to be a sort of warlord emeritus. He hopes to bequeath power to his oldest son while retaining his own entourage and emblems of command. He hasn't reckoned with the ambition of his successor or the manipulative skill of his heir's wife, who goes for the sexual and political jugular of anyone who invades her sphere."<ref name=Sragow/> In 2009, the film was voted at No. 59 on the list of ''The Greatest Japanese Films of All Time'' by Japanese film magazine [[Kinema Junpo]].<ref>{{cite web|url=http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version|title=Greatest Japanese films by magazine Kinema Junpo (2009 version)|access-date=2011-12-26|archive-url=https://archive.today/20120711021342/http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version|archive-date=July 11, 2012}}</ref>
+
+===Accolades===
+''Ran'' was completed too late to be entered at Cannes and had its premiere at Japan's first [[Tokyo International Film Festival]].<ref>{{cite news|url=https://www.nytimes.com/1985/06/01/movies/tokyo-festival-opens-with-a-kurosawa-film.html|title=Tokyo Festival Opens With a Kurosawa Film|last=AP|website=[[The New York Times]]|date=June 1985|archive-date=2012-11-11|access-date=2018-03-23|archive-url=https://web.archive.org/web/20121111011147/https://www.nytimes.com/1985/06/01/movies/tokyo-festival-opens-with-a-kurosawa-film.html|url-status=live}}</ref> Kurosawa skipped the film's premiere, angering many in the Japanese film industry. As a result, it was not submitted as Japan's entry for the Best Foreign Language Film category of the Oscars. Serge Silberman tried to get it nominated as a French co-production but failed. However, American director [[Sidney Lumet]] helped organize a campaign to have Kurosawa nominated as [[Academy Award for Best Director|Best Director]].<ref>{{cite book|title=黒澤明|date=26 October 2018|oclc = 49757477}}</ref>
+
+''Ran'' was nominated for the [[58th Academy Awards|Academy Awards]] for [[Academy Award for Best Production Design|art direction]], [[Academy Award for Best Cinematography|cinematography]], [[Academy Award for Best Costume Design|costume design]] (which it won), and [[Academy Award for Best Director|Kurosawa's direction]]. It was also nominated for a [[Golden Globe]] for [[Golden Globe Award for Best Foreign Language Film|Best Foreign Language Film]]. In Japan, ''Ran'' was conspicuously not nominated for "Best Picture" at the [[Japanese Academy Awards|Awards of the Japanese Academy]]. However, it won two prizes, for best art direction and best music score, and received four other nominations, for best cinematography, best lighting, best sound, and best supporting actor (Hitoshi Ueki, who played Saburo's patron, Lord Fujimaki). ''Ran'' won two awards from the [[British Academy of Film and Television Arts]], for [[BAFTA Award for Best Film Not in the English Language|best foreign language film]] and best make-up artist, and was nominated for best cinematography, best costume design, best production design, and best screenplay–adapted. Despite its limited commercial success at the time of its release, the film's accolades have improved greatly, and it is now regarded as one of Kurosawa's masterpieces.<ref name=Ebert>Ebert, Roger. "[http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20001001%2FREVIEWS08%2F10010301%2F1023 Ran (1985)] {{Webarchive|url=https://web.archive.org/web/20121003111019/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20001001%2FREVIEWS08%2F10010301%2F1023 |date=2012-10-03 }}". Roger Ebert's Great Movies, October 1, 2000.</ref><ref name=":0" />
+
+''Ran'' won Best Director and Best Foreign Film awards from the [[National Board of Review]],<ref>{{cite web|title=1985 National Board of Review Awards|url=http://www.nbrmp.org/awards/past.cfm?year=1985|website=NBR|archive-url = https://web.archive.org/web/20070927000048/http://www.nbrmp.org/awards/past.cfm?year=1985|archive-date = 2007-09-27}}</ref> a Best Film award and a Best Cinematography award (Takao Saitō, Shōji Ueda, and Asakazu Nakai) from the [[National Society of Film Critics]], a Best Foreign Language Film award from the [[New York Film Critics Circle]], a Best Music award (Toru Takemitsu) and a Best Foreign Film award from the [[Los Angeles Film Critics Association]], a Best Film award and a Best Cinematography award from the [[Boston Society of Film Critics]], a Best Foreign Feature award from the [[Amanda Award]]s from Norway, a [[Blue Ribbon Awards|Blue Ribbon Award]] for Best Film, a Best European Film award from the [[Bodil Awards]], a Best Foreign Director award from the [[David di Donatello]] Awards, a [[Joseph Plateau Award]] for Best Artistic Contribution, a Director of the Year award and a Foreign Language Film of the Year award from the [[London Critics Circle]] Film Awards, a Best Film, a Best Supporting Actor (Hisashi Igawa) and a Best Director from the [[Mainichi Film Concours]], and an OCIC award from the [[San Sebastian Film Festival]].<ref>{{cite news | title=Ran | date=1985-06-01 | publisher=Awards and Nominations | url=https://www.imdb.com/title/tt0089881/awards?ref_=tt_awd | archive-date=2017-03-11 | access-date=2018-07-01 | archive-url=https://web.archive.org/web/20170311214304/http://www.imdb.com/title/tt0089881/awards?ref_=tt_awd | url-status=live }}</ref><ref>{{cite news | first=Nick | last=Newman | title=Kurosawa's ''Ran'' and Chaplin's ''The Great Dictator'' Get Restored In New Trailers | date=2016-01-06 | publisher=The Film Stage |url=http://thefilmstage.com/trailer/trailers-for-restorations-of-ran-and-the-great-dictator/}}</ref>
+
+In the [[British Film Institute]]'s 2002 ''[[Sight & Sound]]'' polls of the greatest films ever made, ''Ran'' ranked 41st in director's poll.<ref>{{cite web|title=Sight & Sound Top Ten Poll 2002 The Rest of Director's List|url=http://old.bfi.org.uk/sightandsound/polls/topten/poll/directors-long.html|website=old.bfi.org.uk|access-date=2021-05-12|archive-date=2017-02-01|archive-url=https://web.archive.org/web/20170201155933/http://old.bfi.org.uk/sightandsound/polls/topten/poll/directors-long.html}}</ref> In 2007, the film was ranked at No. 28 by ''[[The Guardian]]''{{'}}s readers' poll on its list of "40 greatest foreign films of all time".<ref>{{cite web|title=As chosen by you...the greatest foreign films of all time|url=https://www.theguardian.com/film/2007/may/11/1|website=[[The Guardian]]|date=11 May 2007|access-date=21 July 2021|archive-date=21 July 2021|archive-url=https://web.archive.org/web/20210721174107/https://www.theguardian.com/film/2007/may/11/1|url-status=live}}</ref> The film was selected in [[BBC]]'s [[BBC's 100 Greatest Foreign-Language Films|list of 100 greatest foreign language films]] by 209 critics of 43 countries around the world in 2018.<ref>{{cite web|title=the 100 greatest foreign language films|url=https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films|website=bbc.com published 27 October 2018|access-date=27 October 2020|archive-date=25 December 2020|archive-url=https://web.archive.org/web/20201225005824/https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films|url-status=live}}</ref>
+
+==See also==
+* [[List of historical drama films of Asia]]
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* {{cite book| last=Conrad|first=David A.|title=Akira Kurosawa and Modern Japan|year=2022|publisher=McFarland & Co.|isbn=978-1-4766-8674-5}}
+* <!-- Galbraith 2002 --> {{Cite book |last=Galbraith |first=Stuart IV |author-link=Stuart Galbraith IV |title=[[The Emperor and the Wolf: The Lives and Films of Akira Kurosawa and Toshiro Mifune]] |publisher=[[Faber and Faber]] |year=2002 |isbn=978-0-571-19982-2 |edition=1st |location=London}}
+* {{cite book|last=Kurosawa |first=Akira |title=Akira Kurosawa: Interviews |year=2008 |publisher=University Press of Mississippi |isbn=978-1-57806-997-2 }}
+* {{cite book|last=Lupton |first=Catherine |url=https://books.google.com/books?id=Be7RpIhiUfQC&pg=PA165 |title=Chris Marker: Memories of the Future |page=165 |publisher=Reaktion Books|date=2005 |isbn=1-86189-223-3}}
+* {{cite book|last=Prince|first=Stephen|title=The Warrior's Camera: The Cinema of Akira Kurosawa|edition=2nd, revised |year=1999|publisher=Princeton University Press|isbn= 0-691-01046-3 }}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title|0089881}}
+* ''[http://www.jmdb.ne.jp/1985/di001530.htm Ran]'' {{in lang|ja}} at the [[Japanese Movie Database]]
+* [http://www.script-o-rama.com/movie_scripts/r/ran-script-transcript-akira-kurosawa.html Ran Script – Dialogue Transcript]: A transcript of film from Drew's Script-O-Rama.
+* {{rotten-tomatoes|ran}}
+* {{Mojo title|ran}}
+* [https://www.criterion.com/current/posts/402-ran-apocalypse-song ''Ran: Apocalypse Song''] an essay by Michael Wilmington at the [[Criterion Collection]]
+
+{{Akira Kurosawa}}
+{{King Lear}}
+{{Navboxes
+|title = Awards for ''Ran''
+|list =
+{{BAFTA Best Foreign Language Film}}
+{{Blue Ribbon Award for Best Film}}
+{{Boston Society of Film Critics Award for Best Film}}
+{{London Film Critics Circle Award for Foreign Language Film of the Year}}
+{{Los Angeles Film Critics Association Award for Best Foreign Language Film}}
+{{Mainichi Film Award for Best Film}}
+{{National Board of Review Award for Best Foreign Language Film}}
+{{National Society of Film Critics Award for Best Film}}
+{{New York Film Critics Circle Award for Best Foreign Language Film}}
+}}
+
+{{Authority control}}
+
+[[Category:1985 films]]
+[[Category:1985 action drama films]]
+[[Category:Japanese action drama films]]
+[[Category:1985 Japanese-language films]]
+[[Category:Jidaigeki films]]
+[[Category:1980s samurai films]]
+[[Category:Action films based on actual events]]
+[[Category:Films based on King Lear]]
+[[Category:Films directed by Akira Kurosawa]]
+[[Category:Films set in castles]]
+[[Category:Films with screenplays by Akira Kurosawa]]
+[[Category:Films with screenplays by Hideo Oguni]]
+[[Category:Best Foreign Language Film BAFTA Award winners]]
+[[Category:Films that won the Best Costume Design Academy Award]]
+[[Category:Orion Pictures films]]
+[[Category:Films set in 16th-century Sengoku period]]
+[[Category:French epic films]]
+[[Category:Films produced by Serge Silberman]]
+[[Category:Films based on multiple works]]
+[[Category:Films scored by Toru Takemitsu]]
+[[Category:Japanese films based on plays]]
+[[Category:National Society of Film Critics Award for Best Film winners]]
+[[Category:1985 Japanese films]]
+[[Category:1985 French films]]
+[[Category:Japanese war drama films]]
+[[Category:Historical epic films]]
+[[Category:Japanese epic films]]
+[[Category:Films about father–son relationships]]
+[[Category:Films about brothers]]
+[[Category:Films about kings]]
+[[Category:Films about inheritances]]
+[[Category:War epic films]]
+[[Category:Films about warlords]]
+[[Category:Films shot in Himeji]]
+[[Category:Toho films]]

@@ -1,0 +1,77 @@
+{{Short description|2019 German comedy film}}
+{{Infobox film
+| name           = The Goldfish
+| image          = The Goldfish Poster.png
+| alt            = 
+| caption        = Theatrical release poster
+| director       = Alireza Golafshan
+| writer         = Alireza Golafshan
+| producer       = {{plainlist|
+* Justyna Muesch
+* Max Wiedemann
+* Quirin Berg
+}}
+| starring       = {{plainlist|
+* [[Tom Schilling]]
+* [[Jella Haase]]
+* [[Axel Stein]]
+* [[Kida Khodr Ramadan]]
+* [[Birgit Minichmayr]]
+* [[Jan Henrik Stahlberg]]
+* Luisa Wöllish
+}}
+| cinematography = Matthias Fleischer
+| editing        = Denis Bachter
+| music          = {{plainlist|
+* Carlos Cipa
+* Sophia Jani
+}}
+| studio         = {{plainlist|
+* [[Columbia Pictures|Deutsche Columbia Pictures Filmproduktion]]
+* [[Wiedemann & Berg Film Production|Wiedemann & Berg Film]]
+* SevenPictures Film
+}}
+| distributor    = [[Sony Pictures Releasing|Sony Pictures Releasing GmbH]]
+| released       = {{Film date|df=yes|2019|03|21}}
+| runtime        = 112 minutes
+| country        = Germany
+| language       = German
+| budget         = 
+| gross          = $5,961,121<ref name="BOM">{{Cite Box Office Mojo |id=7689310|title=The Goldfish (2019)|access-date=11 October 2024}}</ref> 
+}}
+
+'''''The Goldfish''''' ({{langx|de|'''Die Goldfische'''}}) is a 2019 German comedy film written and directed by Alireza Golafshan.<ref>{{cite web|url=https://cineuropa.org/en/film/387450/|title=The Goldfish|work=[[Cineuropa]]|access-date=11 October 2024}}</ref>
+
+It was released by the German division of [[Columbia Pictures]] on 21 March 2019. The film received mixed reviews from critics and grossed over $5 million at the box office.<ref>{{cite news|url=https://www.filmstarts.de/kritiken/261188/kritik.html|last=Becher|first=Björn |title=Die Goldfische.|language=German|work=Filmstarts|access-date=11 October 2024}}</ref><ref>{{cite news|url=https://www.prisma.de/filme/Die-Goldfische-Das-B-Team-ist-bruellend-komisch,22133769|last=Günther|first=Andreas|title=Filmkritik, B wie brüllend komisch|language=German|work=prisma|access-date=11 October 2024}}</ref><ref name="BOM"/>
+
+== Plot ==
+Banker and portfolio manager Oliver lives only for his work. To make a deadline, he speeds past a traffic jam on a country road, causing a serious accident. The resulting spinal cord injury leaves him wheelchair-bound and in a rehabilitation clinic. There he meets Laura, who manages a group home for people with disabilities. While searching for Wi-Fi, Oliver ends up at this very group home, known as "The Goldfish." Its residents include Magda, who is blind; Rainman and Michi, who are autistic; and Franzi, who has Down syndrome.
+
+He learns that the Swiss tax authorities are inspecting safe deposit boxes for undeclared funds and, as someone directly affected, devises a plan to protect his money. Oliver treats the group to camel therapy in Switzerland.  Meanwhile, he secretly travels to Zurich with his caregiver, Eddy, to withdraw his undeclared cash from the bank. Oliver's plan is to smuggle the money across the border in the disabled group's bus, as it won't arouse suspicion. Laura learns of the plan by chance and forces Oliver to bring the money back.
+
+Once back in Zurich, Laura is separated from the group, and Oliver persuades Rainman and then Magda to drive the bus across the border. Oliver stuffs his undeclared cash under Michi's clothing. At the border, Laura rejoins the group, but Michi has now disappeared. The group finds him in an amusement park, where he is getting into a bungee ball. As he is launched into the air, he loses the undeclared cash attached to him, which is scattered across the park and caught by visitors.
+
+Back at the rehabilitation clinic, the director, Ingeborg Zschetzsche, encourages the group to travel to Luxembourg as a professional smuggling gang in the future, to transport the black money of businessmen across the border in exchange for donations to the clinic.
+
+==Cast==
+* [[Tom Schilling]] as Oliver Overrath
+* [[Jella Haase]] as Laura Ferber
+* [[Axel Stein]] as Rainer ‘Rainman’ Schnellinger
+* [[Kida Khodr Ramadan]] as Eddy Patzke
+* [[Birgit Minichmayr]] as Magda Grabowski
+* [[Jan Henrik Stahlberg]] as Michael ‘Michi’ Wolter
+* Luisa Wöllish as Franzi Maier
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|7689310}}
+* {{rotten-tomatoes|the_goldfish}}
+* [https://www.filmportal.de/film/die-goldfische_4126d92813804b088330667772b8b059''Die Goldfische''] at [[filmportal.de]] (in German)
+
+{{DEFAULTSORT:Goldfish}}
+[[Category:2019 German films]]
+[[Category:2019 German-language films]]
+[[Category:Films about disability]]
+[[Category:Columbia Pictures films]]

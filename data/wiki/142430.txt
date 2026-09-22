@@ -1,0 +1,545 @@
+{{Short description|Film by Joel and Ethan Coen}}
+{{Good article}}
+{{Use American English|date=February 2024}}
+{{Use mdy dates|date=November 2025}}
+{{Infobox film
+| image          = Fargo.jpg
+| alt            = A man lies in snow in a pool of blood with an upturned car lies beyond him. The words title "Fargo" and the tagline "a homespun murder story" are printed above.
+| caption        = Theatrical release poster
+| director       = [[Joel Coen]]<ref name="BFI"/><ref name="AFI"/>{{efn|Although the [[Coen brothers]] co-directed this film, Joel received sole credit due to [[Directors Guild of America]] regulations}}
+| writer         = {{Plainlist|
+* [[Ethan Coen]]
+* Joel Coen
+}}
+| producer       = Ethan Coen<ref name="BFI"/><ref name="AFI"/>
+| starring       = {{Plainlist|
+* [[Frances McDormand]]
+* [[William H. Macy]]
+* [[Steve Buscemi]]
+* [[Harve Presnell]]
+* [[Peter Stormare]]
+}}
+| cinematography = [[Roger Deakins]]
+| editing        = [[Roderick Jaynes]]{{efn|Roderick Jaynes is the shared pseudonym used by the Coen brothers for their editing.}}
+| music          = [[Carter Burwell]]
+| studio         = [[Working Title Films]]
+| distributor    = {{Plainlist|
+* [[Gramercy Pictures]] (United States and Canada)
+* [[PolyGram Filmed Entertainment]] (International)<ref name=bbfc/>
+}}<!-- Original theatrical distributors only -->
+| released       = {{Film date|1996|3|8|United States|1996|5|31|United Kingdom}}
+| runtime        = 98 minutes<ref name=bbfc>{{cite web |title=Fargo |url=https://www.bbfc.co.uk/release/fargo-q29sbgvjdglvbjpwwc0zmtkynjq |website=[[British Board of Film Classification]]|archive-url=https://web.archive.org/web/20200731072503/https://www.bbfc.co.uk/releases/fargo-1970-9|archive-date=July 31, 2020|url-status=live}}</ref>
+| country        = {{Plainlist|
+* United States<ref name="BFI">{{cite web |title=Fargo (1995) |url=http://explore.bfi.org.uk/4ce2b7deca58c |archive-url=https://web.archive.org/web/20120714060722/http://explore.bfi.org.uk/4ce2b7deca58c |url-status=dead |archive-date=July 14, 2012 |publisher=[[British Film Institute]]}}</ref><ref name="AFI">{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/60219|title=Fargo|publisher=[[American Film Institute]]|access-date=June 19, 2020|archive-date=December 24, 2020|archive-url=https://web.archive.org/web/20201224132801/https://catalog.afi.com/Catalog/moviedetails/60219|url-status=live}}</ref><ref name="lumiere">{{cite web|url=https://lumiere.obs.coe.int/web/film_info/?id=67|title=Fargo|publisher=[[Lumiere (database)|Lumiere]]|access-date= June 24, 2021}}</ref>
+* United Kingdom<ref name="BFI"/><ref name="AFI"/><ref name="lumiere"/>
+}}
+| language       = English
+| budget         = $7 million<ref name="Mojo">{{cite web |title=Fargo (1996) |url=https://www.boxofficemojo.com/title/tt0116282/|website=[[Box Office Mojo]]|archive-url=https://web.archive.org/web/20201013130115/https://www.boxofficemojo.com/title/tt0116282/|archive-date=October 13, 2020|url-status=live}}</ref>
+| gross          = $60.6 million<ref name="Mojo"/>
+}}
+
+'''''Fargo''''' is a 1996 [[black comedy]] [[crime film]] written, directed, produced and edited by [[Joel and Ethan Coen]]. It stars [[Frances McDormand]], [[William H. Macy]], [[Steve Buscemi]], [[Harve Presnell]], and [[Peter Stormare]]. The film follows a pregnant police chief (McDormand), who investigates after a car salesman (Macy) hires two dimwitted criminals (Buscemi and Stormare) to kidnap his wife to extort a ransom from her wealthy father.
+
+Filmed in the United States in early 1995, ''Fargo'' premiered at the [[1996 Cannes Film Festival]], where it competed for the [[Palme d'Or]]. Joel Coen won the festival's ''[[Cannes Film Festival Award for Best Director|Prix De La Mise En Scène]]'' (Best Director Award). The film was a critical and commercial success, earning particular acclaim for the Coens' screenplay and direction and the performances of McDormand, Macy and Buscemi. ''Fargo'' received seven [[Academy Awards|Oscar]] nominations at the [[69th Academy Awards]], including [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]], and [[Academy Award for Best Supporting Actor|Best Supporting Actor]] for Macy, winning two: [[Academy Award for Best Actress|Best Actress]] for McDormand and [[Best Original Screenplay]] for the Coens.
+
+In 1998, the [[American Film Institute]] named ''Fargo'' one of the [[AFI's 100 Years...100 Movies|100 greatest American films]], the most recent film on that list; but it was omitted from [[AFI's 100 Years...100 Movies (10th Anniversary Edition)|its 2007 list]]. In 2006, it was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as "culturally, historically, or aesthetically significant".<ref>{{cite web|url=https://abcnews.go.com/WNT/story?id=2754999|title='Fargo,' 'Blazing Saddles' Added to National Film Registry|date=December 27, 2006|website=[[ABC News (United States)|ABC News]]|archive-url=https://web.archive.org/web/20201014121659/https://abcnews.go.com/WNT/story?id=2754999|archive-date=October 14, 2020|url-status=live}}</ref><ref name="National Film Registry"/> An [[FX (TV channel)|FX]] television series based on the film, ''[[Fargo (TV series)|Fargo]]'', premiered in 2014.<ref>{{cite web |last=Goldberg |first=Lesley |url=https://www.hollywoodreporter.com/live-feed/fxs-fargo-cast-eps-film-671050 |title=FX's 'Fargo' Cast, EPs on Film Comparisons, Anthology Format, Courting Billy Bob Thornton |magazine=[[The Hollywood Reporter]] |date=January 14, 2014|archive-url=https://web.archive.org/web/20201014121935/https://www.hollywoodreporter.com/live-feed/fxs-fargo-cast-eps-film-671050|archive-date=October 14, 2020|url-status=live}}</ref>
+
+==Plot==
+In 1987, Jerome "Jerry" Lundegaard<ref>{{cite web |date=1996 |title=FARGO: A screenplay by Ethan Coen and Joel Coen |url=https://www.dailyscript.com/scripts/fargo.html |website=Daily Script.com |publisher=The Daily Script |access-date=29 December 2025 |quote="Voice: Jerome Lundegaard? Jerry: Yah! Voice: This is Reilly Deifenbach at GMAC. Sir, I have not yet received those vehicle IDs you promised me."}}</ref> is the executive sales manager of a [[Minneapolis]] car dealership owned by his father-in-law, Wade Gustafson. Desperate for money, Jerry plans to have his wife, Jean, kidnapped. On the recommendation of dealership mechanic and parolee Shep Proudfoot, Jerry meets Gaear Grimsrud and Carl Showalter at a bar in [[Fargo, North Dakota]]. Gaear and Carl agree to kidnap Jean in exchange for a new [[Oldsmobile Cutlass Ciera]] and half of the $80,000 ransom Jerry intends to extort from Wade.
+
+Believing he has secured a $750,000 loan from Wade for a lucrative real estate deal, Jerry unsuccessfully tries to call off the kidnapping. Wade and his accountant Stan Grossman inform Jerry that they never intended Jerry to handle the $750,000 deal, offering him only a modest finder's fee. Carl and Gaear kidnap Jean and transport her to a remote cabin in [[Moose Lake Township, Cass County, Minnesota|Moose Lake]]. A [[Minnesota State Patrol|state trooper]] stops them near [[Brainerd, Minnesota|Brainerd]] for not displaying [[Vehicle registration plate#Temporary registration plates|temporary registration tags]] on the new Oldsmobile. The trooper rejects Carl's clumsy bribe attempt and orders Carl out of the car. When the trooper hears Jean whimpering in the back seat, Gaear shoots him dead, then hunts down and kills two passersby who witnessed the scene.
+
+Brainerd police chief Marge Gunderson, who is seven months pregnant, begins investigating. She correctly infers that the dead trooper was ticketing a car with [[vehicle registration plates of the United States#General registration license plates|dealer plates]]. She later learns that two men driving a dealership vehicle checked into a nearby motel with two call girls and placed a call to Shep. Marge visits Wade's dealership, where Shep feigns ignorance and Jerry nervously insists no cars are missing.  While in Minneapolis, Marge reconnects with Mike Yanagita, a high school classmate, who awkwardly tries to romance Marge before breaking down, saying that his wife has died.
+
+Jerry tells Wade the kidnappers have demanded $1 million and will deal only through him. In light of the three murders, Carl demands that Jerry hand over the $80,000 he believes is the entire ransom. Shep finds Carl with a call girl in Shep's Minneapolis apartment and beats him in retaliation for bringing Shep to the police's attention. Carl angrily calls Jerry and demands that he bring the money immediately. Wade insists on delivering the ransom and meets Carl at a parking garage. Wade refuses to hand over the money without seeing his daughter, so Carl shoots him. Wade fires back, wounding Carl in the jaw. Carl kills Wade and a garage attendant, then drives away with the ransom.
+
+On the way to Moose Lake, Carl discovers the briefcase contains $1 million. He takes out $80,000 to split with Gaear and buries the rest in the snow alongside the highway. Marge learns from a friend that Yamagata does not have a wife and is mentally ill. Reflecting on the lies, Marge returns to Wade's dealership, where an agitated Jerry again insists no cars are missing and tells Marge he will double-check the inventory. Marge sees Jerry driving off the lot and calls the state police.
+
+At the cabin, Carl finds that Gaear killed Jean because she would not stay quiet. Carl says they should split up and leave immediately, and they argue over who will keep the Ciera. Carl insults Gaear and attempts to leave with the car, but Gaear kills him with an axe. Marge drives to Moose Lake, tipped off by a local bartender who overheard a customer brag about killing someone. She sees the Ciera, then discovers Gaear feeding Carl's body into a woodchipper. Gaear attempts to flee, but Marge shoots him in the leg and arrests him. Shortly after, Jerry is arrested by state troopers at a motel outside [[Bismarck, North Dakota]].
+
+Marge's husband, Norm, tells her the [[United States Postal Service|Postal Service]] has selected his painting of a [[mallard]] for a 3-cent [[postage stamp]] and complains that the [[Hautman brothers]] painting won the competition for a 29-cent stamp.<ref>{{cite magazine |last=McGlashen |first=Andy |date=Fall 2025 |title=For The Hautman Brothers, the Secret to Duck Stamp Dominance Is All in the Family |url=https://www.audubon.org/magazine/hautman-brothers-secret-duck-stamp-dominance-all-family |magazine=Audubon |location=New York |publisher=National Audubon Society |access-date=17 December 2025}}</ref> Marge reminds him that smaller denomination stamps make up the difference between the face value of old stamps and the new cost of first-class postage. Norm is reassured, and the couple happily anticipates the birth of their child.
+
+==Cast==
+{{castlist|
+* [[Frances McDormand]] as Marge Gunderson
+* [[William H. Macy]] as Jerry Lundegaard
+* [[Steve Buscemi]] as Carl Showalter
+* [[Harve Presnell]] as Wade Gustafson
+* [[Peter Stormare]] as Gaear Grimsrud
+* [[Kristin Rudrüd]] as Jean Lundegaard
+* [[Tony Denman]] as Scotty Lundegaard
+* [[Steve Reevis]] as Shep Proudfoot
+* [[Larry Brandenburg]] as Stan Grossman
+* [[John Carroll Lynch]] as Norm Gunderson
+* [[Steve Park (comedian)|Steve Park]] as Mike Yanagita
+* Bruce Bohne as Officer Lou Getchell
+* Cliff Rakerd as Officer Olson
+}}
+Other actors in smaller roles include [[Bain Boehlke]] as Mr. Mohra, Michelle Hutchison as a [[call girl]], Larissa Kokernot and [[Melissa Peterman]] as the truck stop prostitutes, James Gaulke as the [[Minnesota State Trooper]] Gaear kills, [[J. Todd Anderson]] (the film's storyboard artist) and Michelle Suzanne LeDoux as the witnesses Gaear kills, Gary Houston as Jerry's irate customer and Sally Wingert as his wife.
+
+[[KSTP-TV]] morning show hosts Steve and Sharon Edelman appear as themselves. [[Warren Keith]] has a voiceover role as [[Ally Financial|GMAC]] representative Reilly Diefenbach. Singer [[José Feliciano]] has a [[cameo appearance]] as himself. [[Bruce Campbell]] has an uncredited appearance via footage from ''Generations'', a Michigan-area [[soap opera]] he appeared on during the mid-1980s.<ref>{{cite news |url=http://tvline.com/2015/03/24/bruce-campbell-ronald-reagan-fargo-season-2-cast/ |title=Fargo Elects Bruce Campbell to Play Ronald Reagan in Season 2 |work=TVLine |last=Ausiello |first=Michael |date=March 24, 2015 |access-date=March 25, 2015 |archive-date=February 22, 2017 |archive-url=https://web.archive.org/web/20170222130736/http://tvline.com/2015/03/24/bruce-campbell-ronald-reagan-fargo-season-2-cast/ |url-status=dead }}</ref>
+
+==Production==
+===Casting===
+The Coens initially considered [[William H. Macy]] for a smaller role, but they were so impressed by his reading that they asked him to read for the role of Jerry. According to Macy, he was persistent in getting the role, saying: "I found out that they [the Coen brothers] were auditioning in New York still, so I got my jolly, jolly [[Lutheran]] ass on an airplane and walked in and said, 'I want to read again because I'm scared you're going to screw this up and hire someone else.' I actually said that. You know, you can't play that card too often as an actor. Sometimes it just blows up in your face, but I said, 'Guys, this is my role. I want this.{{'"}}<ref>{{cite magazine |author=Sullivan |first=Kevin P. |date=March 8, 2016 |title=Fargo at 20: William H. Macy recalls his wonderful wintry freakout |url=https://www.ew.com/article/2016/03/08/fargo-20th-anniversary-william-h-macy |url-status=live |magazine=[[Entertainment Weekly]] |archive-url=https://web.archive.org/web/20200805185304/https://ew.com/article/2016/03/08/fargo-20th-anniversary-william-h-macy/ |archive-date=August 5, 2020}}</ref> Ethan Coen later said, "I don't think either of us [Coen brothers] realised what a tough acting challenge we were handing Bill Macy with this part. Jerry's a fascinating mix of the completely ingenuous and the utterly deceitful. Yet he's also guileless; even though he set these horrible events in motion, he's surprised when they go wrong."<ref>{{cite web |author=Floyd |first=Nigel |date=May 31, 1996 |title=Snow blind |url=https://archive.list.co.uk/the-list/1996-05-31/21/ |url-status=dead |archive-url=https://web.archive.org/web/20201014123543/https://archive.list.co.uk/the-list/1996-05-31/21/ |archive-date=October 14, 2020 |access-date=July 7, 2019 |website=The List}}</ref>
+
+[[Frances McDormand]] learned how to use and fire a gun, spent days talking with a pregnant police officer and developed a backstory for her character along with [[John Carroll Lynch]], who played her husband. She said she may have modeled Marge on her sister, a chaplain at a women's maximum-security prison.<ref>{{cite web |author=Fuller |first=Graham |date=March 17, 1996 |title=How Frances McDormand Got Into 'Minnesota Nice' |url=https://www.nytimes.com/1996/03/17/movies/how-frances-mcdormand-got-into-minnesota-nice.html |url-status=live |archive-url=https://web.archive.org/web/20200922233820/https://www.nytimes.com/1996/03/17/movies/how-frances-mcdormand-got-into-minnesota-nice.html |archive-date=September 22, 2020 |website=[[The New York Times]]}}</ref>
+
+===Filming===
+''Fargo'' was filmed during the winter of 1995, mainly in the [[Minneapolis-St. Paul area]] and around [[Pembina County, North Dakota]].<ref>{{Cite news |last=Dwyer |first=Michael |date=May 31, 1996 |title=Lepage Leaps Into the Limelight |page=11 |newspaper=[[The Irish Times]] |url=https://www.irishtimes.com/culture/lepage-leaps-into-the-limelight-1.54276 |url-status=live |access-date=May 14, 2023 |archive-url=https://archive.today/20230514004232/https://www.irishtimes.com/culture/lepage-leaps-into-the-limelight-1.54276 |archive-date=May 14, 2023}}</ref><ref name="Probst-1996">{{Cite magazine |last=Probst |first=Christopher |date=March 1996 |title=Fargo: Cold-Blooded Scheming |url=https://theasc.com/articles/fargo-cold-blooded-scheming |access-date=May 14, 2023 |magazine=[[American Cinematographer]] |archive-date=May 14, 2023 |archive-url=https://web.archive.org/web/20230514011251/https://theasc.com/articles/fargo-cold-blooded-scheming |url-status=live }}</ref> Due to unusually low snowfall totals in central and southern Minnesota, scenes requiring snow-covered landscapes had to be shot in northern Minnesota and northeastern North Dakota, though not near the cities of Fargo and Brainerd.<ref>{{Cite news |last=Ebert |first=Roger |date=October 18, 1996 |title='Sleepers' Casts Faith to Wind |page=23 |work=[[Chicago Sun-Times]]}}</ref> Cinematographer [[Roger Deakins]] used an [[Arriflex 35BL|Arriflex 35 BL-4]] camera.<ref name="Probst-1996" />
+
+[[File:Movie Fargo Paul Bunyan.jpg|thumb|Original [[Paul Bunyan]] sculpture created by [[Rick Heinrichs]]]]
+Jerry's initial meeting with Carl and Gaear was shot at a pool hall and bar called the King of Clubs on Central Avenue in northeast Minneapolis.<ref>{{cite web |url=http://www.cgstock.com/894 |title=Stock photo with location |publisher=Cgstock.com|archive-url=https://web.archive.org/web/20201014125924/http://www.cgstock.com/894|archive-date=October 14, 2020|url-status=live}}</ref> It was demolished in 2003 and replaced by [[low-income housing]].<ref>{{cite web |last=Peterson |first=Susan |date=September 24, 2005 |title=At last, a real home |url=http://www.ccht.org/At_last_a_real_home.html |url-status=dead |archive-url=https://web.archive.org/web/20070927094703/http://www.ccht.org/At_last_a_real_home.html |archive-date=September 27, 2007 |access-date=February 28, 2010 |website=[[Star Tribune]] |via=Ccht.org}}</ref> Wade's car dealership was filmed at Wally McCarthy Oldsmobile in [[Richfield, Minnesota]], a southern suburb of Minneapolis, a site now occupied by [[Best Buy]]'s national corporate headquarters. The 24-foot [[Paul Bunyan]] statue was built for the film (and subsequently dismantled) on Pembina County Highway 1, four miles west of [[Bathgate, North Dakota]], near the Canadian border.<ref name="loc" /> The Blue Ox truckstop was Stockmen's Truck Stop in [[South St. Paul]], which is still in business. Ember's, the restaurant where Jerry discusses the ransom drop with Gustafson, was located in [[St. Louis Park]], the Coens' hometown; the building now houses a medical outpatient treatment center.<ref name="loc" />
+
+The strip club where Marge interviews the two call girls was two separate locations. Its exterior was the Lakeside Club in [[Mahtomedi, Minnesota]], and interior the Loch Ness Lounge in [[Houlton, Wisconsin]]. The kidnappers' Moose Lake hideout stood on the shore of [[Square Lake (Washington County, Minnesota)|Square Lake]], near [[May Township, Cass County, Minnesota|May, Minnesota]]. The cabin was relocated to [[Barnes, Wisconsin]], in 2002. The [[Edina, Minnesota|Edina]] police station where the interior police headquarters scenes were filmed is still in operation but has been completely rebuilt. The Carlton Celebrity Room was an actual venue in [[Bloomington, Minnesota]], and [[José Feliciano]] did once appear there, but it had been closed for almost ten years when filming began. The Feliciano scene was shot at the Chanhassen Dinner Theatre in [[Chanhassen]], near Minneapolis.<ref name="loc">{{cite web|url=http://www.movie-locations.com/movies/f/Fargo.html|title=Fargo|website=movie-locations.com|archive-url=https://web.archive.org/web/20161006063408/http://www.movie-locations.com/movies/f/Fargo.html|archive-date=October 6, 2016|url-status=dead}}</ref> The ransom drop was filmed in two adjacent parking garages on South 8th Street in downtown Minneapolis. Scenes in the Lundegaards' kitchen were shot in a private home on Pillsbury Avenue in Minneapolis,<ref>{{cite web |author=Pinkley |first=J. |date=April 28, 2003 |title=Kitchen of Kemp, Melroe home |url=http://www.startribune.com/1641/story/70938.html |url-status=dead |archive-url=https://web.archive.org/web/20071014084018/http://www.startribune.com/1641/story/70938.html |archive-date=October 14, 2007 |access-date=February 28, 2011 |newspaper=[[Star Tribune]]}}</ref> and the house where Mr. Mohra describes the "funny looking little guy" to police is in [[Hallock, Minnesota|Hallock]], in northwest Minnesota. The motel "outside of Bismarck", where the police finally catch up with Jerry, is the Hitching Post Motel in [[Forest Lake, Minnesota|Forest Lake]], north of Minneapolis.<ref name="loc"/> While none of ''Fargo'' was filmed in Fargo, the Fargo-Moorhead Convention & Visitors Bureau exhibits original script copies and several props used in the film, including the wood chipper prop.<ref name="loc" />
+
+===Music===
+As with most Coen brothers films, the score was composed by [[Carter Burwell]].<ref name="Soundtrack Collector">{{cite web|url=http://www.soundtrackcollector.com/catalog/soundtrackdetail.php?movieid=45147|title=Fargo - Soundtrack details|website=SoundtrackCollector.com|archive-url=https://web.archive.org/web/20200731040852/http://www.soundtrackcollector.com/catalog/soundtrackdetail.php?movieid=45147|archive-date=July 31, 2020|url-status=live}}</ref> The main [[motif (music)|motif]] is based on a Norwegian folk song, "The Lost Sheep" ({{langx|no|Den bortkomne sauen}}).<ref>{{cite web |author=Broxton |first=Jonathan |title=Fargo/Barton Fink |url=http://www.moviemusicuk.us/fargocd.htm |archive-url=https://web.archive.org/web/20070928000011/http://www.moviemusicuk.us/fargocd.htm |archive-date=September 28, 2007 |access-date=October 11, 2007 |website=www.moviemusicuk.us}}</ref> The soundtrack was released in 1996 on [[TVT Records]], combined with selections from the score to ''[[Barton Fink]]''.<ref name="Soundtrack Collector" />
+
+===Claims of factual basis===
+The film opens with the following text:
+{{blockquote|This is a true story. The events depicted in this film took place in Minnesota in 1987. At the request of the survivors, the names have been changed. Out of respect for the dead, the rest has been told exactly as it occurred.}}
+The Coen brothers said that they based their script on an actual criminal event, but wrote a fictional story around it. Joel said: "We weren't interested in that kind of fidelity. The basic events are the same as in the real case, but the characterizations are fully imagined&nbsp;... If an audience believes that something's based on a real event, it gives you permission to do things they might otherwise not accept."<ref>{{cite web |author=Heitmueller |first=Karl |date=April 11, 2005 |title=Rewind: What Part Of 'Based On' Don't You Understand? |url=https://www.mtv.com/news/1499898/rewind-what-part-of-based-on-dont-you-understand/ |url-status=dead |archive-url=https://web.archive.org/web/20201014122542/https://www.mtv.com/news/1499898/rewind-what-part-of-based-on-dont-you-understand/ |archive-date=October 14, 2020 |website=[[MTV]]}}</ref> In 1996, Joel Coen told a reporter that—contrary to the opening graphic—the actual murders were not committed in Minnesota.<ref>{{cite news |author=O'Rourke |first=Mike |date=February 11, 1997 |title=Reaction to 'Fargo' nomination |newspaper=[[Brainerd Dispatch]] |url=http://www.brainerddispatch.com/fargo/fargoacdmynom.shtml |archive-url=https://web.archive.org/web/20021231145342/http://www.brainerddispatch.com/fargo/fargoacdmynom.shtml |archive-date=December 31, 2002}}</ref><ref name="We're ready for our close-up, Mr. Coen(s)">{{cite news |author=Smetanka |first=Mary Jane |date=August 8, 2008 |title=We're ready for our close-up, Mr. Coen(s) |newspaper=[[Star Tribune]] |url=http://www.startribune.com/local/west/26437374.html |url-status=live |archive-url=https://web.archive.org/web/20201014122840/https://www.startribune.com/we-re-ready-for-our-close-up-mr-coen-s/26437374/ |archive-date=October 14, 2020}}</ref> Many Minnesotans speculated that the story was inspired by [[T. Eugene Thompson]], a [[Saint Paul, Minnesota|St. Paul]] attorney who was convicted of hiring a man to murder his wife in 1963, near the Coens' hometown of [[St. Louis Park]]; but the Coens said that they had never heard of Thompson. After Thompson's death in 2015, Joel Coen changed the explanation again: "[The story was] completely made up. Or, as we like to say, the only thing true about it is that it's a story."<ref>{{cite news |author=Roberts |first=Sam |date=September 6, 2015 |title=T. Eugene Thompson Dies at 88; Crime Stunned St. Paul |newspaper=The New York Times |url=https://www.nytimes.com/2015/09/06/us/t-eugene-thompson-dies-at-88-crime-stunned-st-paul.html |url-status=live |archive-url=https://web.archive.org/web/20201014123107/https://www.nytimes.com/2015/09/06/us/t-eugene-thompson-dies-at-88-crime-stunned-st-paul.html |archive-date=October 14, 2020}}</ref>
+
+The special edition DVD contains an account that ''Fargo'' was inspired by the 1986 [[murder of Helle Crafts]], a Danish–American flight attendant from [[Connecticut]] at the hands of her husband, Richard, who disposed of her body through a wood chipper.<ref>{{cite web |author=Gado |first=Mark |date=November 18, 1986 |title=All about the Woodchipper Murder Case |url=http://www.crimelibrary.com/notorious_murders/family/woodchipper_murder/index.html |url-status=dead |archive-url=https://web.archive.org/web/20080512005217/http://www.crimelibrary.com/notorious_murders/family/woodchipper_murder/index.html |archive-date=May 12, 2008 |website=[[Crime Library]]}}</ref> In a 1998 article, the fact-checking website ''[[Snopes]]'' concluded that the "true story" claim was a prank of the kind the Coen brothers often inserted in their films. Snopes said that doubters should note that a [[fictitious persons disclaimer]], used in works of fiction, is at the end of the film.<ref>{{cite web |date=June 8, 1998 |title=Was 'Fargo' Based on a True Story? |url=https://www.snopes.com/fact-check/fargo/ |url-status=live |archive-url=https://web.archive.org/web/20201117164329/https://www.snopes.com/fact-check/fargo/ |archive-date=November 17, 2020 |access-date=October 14, 2020 |website=[[Snopes]]}}</ref>
+
+===Accent===
+The film's illustrations of "[[Minnesota nice]]" and distinctive [[North-Central American English|regional accents]] and expressions made a lasting impression on audiences; years later, locals reported continuing to field tourist requests to say "Yah, you betcha", and other lines from the films.<ref name="ND">{{cite news |author=McMacken |first=Robin |date=May 9, 2004 |title=North Dakota: Where the accent is on friendship |newspaper=[[St. Petersburg Times]] |url=http://www.sptimes.com/2004/05/09/Travel/North_Dakota__Where_t.shtml |url-status=dead |archive-url=https://web.archive.org/web/20080311094023/http://www.sptimes.com/2004/05/09/Travel/North_Dakota__Where_t.shtml |archive-date=March 11, 2008}}</ref> Dialect coach Liz Himelstein said that "the accent was another character". She coached the cast using audiotapes and field trips.<ref>{{cite news |author=Randall |first=Laura |date=March 26, 2004 |title=She Accentuates Film Performances |newspaper=[[The Christian Science Monitor]] |url=https://www.csmonitor.com/2004/0326/p13s03-almo.html |url-status=live |archive-url=https://web.archive.org/web/20040603155209/https://www.csmonitor.com/2004/0326/p13s03-almo.html |archive-date=June 3, 2004}}</ref> Another dialect coach, Larissa Kokernot (who also played one of the prostitutes), noted that the "small-town, Minnesota accent is close to the sound of the Nords and the Swedes", which is "where the musicality comes from". She taught McDormand "Minnesota nice" and the characteristic head-nodding to show agreement.<ref>{{cite news |author=Hewitt |first=Chris |date=October 19, 2005 |title=Forget 'Fargo' – actors put accent on Minnesota realism |newspaper=[[St. Paul Pioneer Press]] |url=http://www.accessmylibrary.com/coms2/summary_0286-31663962_ITM |url-status=dead |archive-url=https://web.archive.org/web/20081210151930/http://www.accessmylibrary.com/coms2/summary_0286-31663962_ITM |archive-date=December 10, 2008}}</ref> The strong accent spoken by Macy's and McDormand's characters, which was exaggerated for effect, is less common in the [[Twin Cities]] area, where over 60% of the state's population lives. The Minneapolis and St. Paul dialect is characterized by the [[Northern Cities Vowel Shift]], which is also found in other places in the Northern United States as far east as [[Rochester, New York]].<ref name="ND"/>
+
+==Release==
+[[File:The film Fargo being projected on the Radisson Hotel in Fargo, ND.jpg|thumb|''Fargo'' projected on the Radisson Hotel in Fargo, North Dakota]]
+
+''Fargo'' premiered at the [[1996 Cannes Film Festival]], where it was nominated for the competition's highest honor, the [[Palme d'Or]]. Joel Coen won the top directorial award, the ''[[Prix de la mise en scène]]''. Subsequent notable screenings included the [[Pusan International Film Festival]] in [[South Korea]], the [[Karlovy Vary International Film Festival]] in the [[Czech Republic]], and the [[Naples]] Film Festival.<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/4685/year/1996.html |title=Festival de Cannes: Fargo |work=Festival de Cannes |access-date=September 16, 2009 |publisher=[[Cannes Film Festival]]|archive-url=https://web.archive.org/web/20201013125528/https://www.festival-cannes.com/en/films/fargo|archive-date=October 13, 2020|url-status=live}}</ref> In 2006, the sixth annual [[Fargo Theatre|Fargo Film Festival]] marked ''Fargo''{{'}}s tenth anniversary by projecting the movie on the north side of Fargo's then tallest building, the [[Radisson Hotel]].<ref>{{cite web|url=https://www.inforum.com/content/fargo-anniversary-highlights-fest-film-festival-lights-night-showing-film-building|title='Fargo' anniversary highlights fest: Film festival lights up the night by showing film on building|date=February 4, 2006|website=[[The Forum of Fargo-Moorhead]]|archive-url=https://web.archive.org/web/20201013123419/https://www.inforum.com/content/fargo-anniversary-highlights-fest-film-festival-lights-night-showing-film-building|archive-date=October 13, 2020|url-status=live}}</ref>
+
+Released theatrically in the United States on March 8, 1996, ''Fargo'' launched in 36 theaters, and grossed $1,024,137 in its first week.<ref>{{cite web|url=https://www.boxofficemojo.com/weekly/1996W10/|title=Domestic 1996 Week 10|website=[[Box Office Mojo]]|archive-url=https://web.archive.org/web/20201013125629/https://www.boxofficemojo.com/weekly/1996W10/|archive-date=October 13, 2020|url-status=live}}</ref> In the film's third week, ''Fargo'' was released in 412 theaters, and generated a total box office gross of $5,998,890.<ref>{{cite web|url=https://www.boxofficemojo.com/weekly/1996W12/|title=Domestic 1996 Week 12|website=[[Box Office Mojo]]|archive-url=https://web.archive.org/web/20201013125717/https://www.boxofficemojo.com/weekly/1996W12/|archive-date=October 13, 2020|url-status=live}}</ref> Overall it grossed $24,281,860 in the United States and Canada.<ref>{{cite web|url=https://www.boxofficemojo.com/weekly/1997W12/|title=Domestic 1997 Week 12|website=[[Box Office Mojo]]|archive-url=https://web.archive.org/web/20201013125804/https://www.boxofficemojo.com/weekly/1997W12/|archive-date=October 13, 2020|url-status=live}}</ref> Internationally, ''Fargo'' was released in Canada on April 5, 1996; in the United Kingdom on May 31, 1996, grossing $2.3 million; in Australia on June 6, 1996, grossing $1.5 million; in Spain on June 20, 1996, grossing $1.8 million; in France on September 4, 1996, grossing $3.9 million; and in Germany on November 14, 1996, grossing $2.4 million.<ref name=grosses>{{cite magazine|title=Cannes Retrospective|magazine=[[Screen International]]|date=May 2, 1997|page=24}}</ref> Overall, the film's international gross was an estimated $36 million for a worldwide total of $60.6 million.<ref name="Mojo"/>
+
+== Reception ==
+On the [[review aggregator]] website [[Rotten Tomatoes]], ''Fargo'' holds an approval rating of 95% based on 111 reviews, with an average rating of 8.8/10. The critical consensus reads: "Violent, quirky, and darkly funny, ''Fargo'' delivers an original crime story and a wonderful performance by McDormand."<ref>{{cite web|title=Fargo (1996)|url=https://www.rottentomatoes.com/m/fargo|url-status=live|archive-url=https://web.archive.org/web/20201014133308/https://www.rottentomatoes.com/m/fargo|archive-date=October 14, 2020|access-date=May 12, 2022|website=[[Rotten Tomatoes]]}}</ref> At [[Metacritic]], the film has a weighted average score of 88 out of 100, based on 26 critics, indicating "universal acclaim".<ref>{{cite web|title=Fargo Reviews|url=https://www.metacritic.com/movie/fargo|url-status=live|archive-url=https://web.archive.org/web/20201014133402/https://www.metacritic.com/movie/fargo|archive-date=October 14, 2020|website=[[Metacritic]]}}</ref> Audiences polled by [[CinemaScore]] gave it an average grade of "B+" on an A+ to F scale.<ref>{{cite web|title=Find CinemaScore|url=https://www.cinemascore.com|url-status=live|archive-url=https://web.archive.org/web/20180102130540/https://www.cinemascore.com/|archive-date=January 2, 2018|access-date=November 4, 2020|publisher=[[CinemaScore]]|format=Type "Fargo" in the search box}}</ref>
+[[File:Frances_McDormand_2015_(cropped).jpg|thumb|[[Frances McDormand]]'s performance garnered critical acclaim, earning her the [[Academy Award for Best Actress]].]]
+Arnold Wayne Jones, writing for the ''[[Dallas Observer]]'', called ''Fargo'' an "illuminating amalgam of emotion and thought", praising the directing and writing.<ref>{{cite web |author=Jones |first=Arnold Wayne |date=March 7, 1996 |title=The perfect crime |url=https://www.dallasobserver.com/issues/1996-03-07/film.html |archive-url=https://web.archive.org/web/20010510054803/https://www.dallasobserver.com/issues/1996-03-07/film.html |archive-date=May 10, 2001 |website=[[Dallas Observer]]}}</ref> In ''[[Entertainment Weekly]]'', [[Lisa Schwarzbaum]] praised McDormand and said the film was "dizzily rich, witty, and satisfying".<ref>{{cite magazine |author=Schwarzbaum |first=Lisa |author-link=Lisa Schwarzbaum |date=March 29, 1996 |title=Fargo |url=https://ew.com/article/1996/03/29/fargo-2/ |url-status=live |magazine=[[Entertainment Weekly]] |archive-url=https://web.archive.org/web/20010715043156/http://www.ew.com/ew/archive/0,1798,1%7C17500%7C0%7Cfargo,00.html |archive-date=July 15, 2001}}</ref> In ''[[The New Yorker]]'', [[Anthony Lane]] also praised McDormand: "Her character—seven months pregnant, polite to a fault, smart yet slow—is only a breath away from caricature, yet McDormand unearths a surprising decency there, and in the process she pretty well rescues the film."<ref>{{Cite magazine |last=Lane |first=Anthony |author-link=Anthony Lane |date=March 18, 1996 |title=Republicans with Guns |url=https://www.newyorker.com/magazine/1996/03/25/republicans-with-guns |url-status=live |magazine=[[The New Yorker]] |archive-url=https://web.archive.org/web/20201117164315/https://www.newyorker.com/magazine/1996/03/25/republicans-with-guns |archive-date=November 17, 2020 |access-date=November 10, 2020}}</ref> ''[[USA Today]]'' journalist Mike Clark also praised the performance of McDormand:
+
+{{Blockquote|McDormand's uproariously sly-spry performance connects with Roger Deakins' bleakly beautiful photography to create one of the Coens' most consistently successful outings, albeit one that plays it even closer to the vest than usual. [...] For a nifty bit of nastiness from two of our most dependably provocative filmmakers, ''Fargo'' will fill the bill.<ref>{{cite news|url=https://usatoday30.usatoday.com/life/enter/movies/lef195.htm|title=Bleak, funny 'Fargo' is classic Coen|date=December 1, 1998|first=Mike |last=Clark|work=[[USA Today]]|archive-url=https://web.archive.org/web/20201009185126/https://usatoday30.usatoday.com/life/enter/movies/lef195.htm|archive-date=October 9, 2020|url-status=live}}</ref>}}
+
+The ''[[Time (magazine)|Time]]'' critic [[Richard Corliss]] criticized ''Fargo'' for its accents: "After some superb mannerist films, the Coens are back in the deadpan realist territory of ''[[Blood Simple]]'', but without the cinematic elan."<ref>{{cite magazine |author=Corliss |first=Richard |author-link=Richard Corliss |date=March 18, 1996 |title=Swede 'N' Sour |url=https://time.com/time/magazine/archive/1996/dom/960318/cinema.fargo.html |url-status=dead |magazine=[[Time (magazine)|Time]] |archive-url=https://web.archive.org/web/20010418115618/https://time.com/time/magazine/archive/1996/dom/960318/cinema.fargo.html |archive-date=April 18, 2001 |access-date=October 9, 2020}}</ref> Conversely, [[Janet Maslin]], in ''[[The New York Times]]'', deemed ''Fargo'' "much more stylish and entertaining" than ''Blood Simple''.<ref>{{Cite news|title=Film Review; Deadly Plot by a Milquetoast Villain|newspaper=The New York Times|date=March 8, 1996|url=https://www.nytimes.com/1996/03/08/movies/film-review-deadly-plot-by-a-milquetoast-villain.html|url-status=live|archive-url=https://web.archive.org/web/20201116090433/https://www.nytimes.com/1996/03/08/movies/film-review-deadly-plot-by-a-milquetoast-villain.html|archive-date=November 16, 2020|access-date=November 10, 2020|last1=Maslin|first1=Janet}}</ref> [[James Berardinelli]], writing for ''ReelThoughts'', gave the film three out of five, writing that it was "easy to admire what the Coens are trying to do in ''Fargo'', but more difficult to actually like the film".<ref>{{cite web |author=Berardinelli |first=James |author-link=James Berardinelli |date=March 8, 1996 |title=Fargo |url=http://movie-reviews.colossus.net/movies/f/fargo.html |archive-url=https://web.archive.org/web/19980116145608/http://movie-reviews.colossus.net/movies/f/fargo.html |archive-date=January 16, 1998 |website=ReelThoughts}}</ref> [[John Simon (critic)|John Simon]] of the ''[[National Review]]'' wrote that "the Coen brothers' ''Fargo'' is their best film so far, which isn't saying very much ... ''Fargo'' could have been a nice little film noir if they hadn't compounded it with black comedy, absurdism, and folksy farce: Scandinavian–American midwesterners up, or down, to their hickish shenanigans. Some of this surprisingly, works, some of it ranges from the unpalatable to the indigestible".<ref>{{cite book |title=John Simon on Film: Criticism 1982-2001|last1=Simon|first1=John |publisher=Applause Books |year=2005 |pages=493–494}}</ref>
+
+[[Gene Siskel]] and [[Roger Ebert]] said ''Fargo'' was the best film of 1996,<ref>{{cite episode |title=Memo to the Academy - 1997 |series=[[At the Movies (1986 TV program)|Siskel & Ebert]] |date=January 18, 1997 |season=11 |number=20 |network=ABC Television |url=https://www.youtube.com/watch?v=V_wEV0D-Bk8 |access-date=May 15, 2023 |archive-date=May 15, 2023 |archive-url=https://web.archive.org/web/20230515231244/https://www.youtube.com/watch?v=V_wEV0D-Bk8&gl=US&hl=en |url-status=live }}</ref> with Ebert later ranking it fourth on his list of the best films of the 1990s.<ref>{{cite web |author=Ebert |first=Roger |author-link=Roger Ebert |date=March 8, 1996 |title=Fargo |url=https://www.rogerebert.com/reviews/fargo-1996 |url-status=live |archive-url=https://web.archive.org/web/20200410024630/https://www.rogerebert.com/reviews/fargo-1996 |archive-date=April 10, 2020 |website=[[RogerEbert.com]]}}</ref> ''Fargo'' was added to the [[National Film Registry]] for preservation by the [[National Film Preservation Board]] on December 27, 2006.<ref name="National Film Registry" /> In 2010, the [[Independent Film & Television Alliance]] selected the film as one of its "30 Most Significant Independent Films" of the last 30 years.<ref>{{cite web|first=William |last=Yelles|date=September 8, 2010|title=IFTA Picks 30 Most Significant Indie Films|url=https://www.thewrap.com/ifta-picks-30-most-significant-indie-films-20686/|url-status=live|archive-url=https://web.archive.org/web/20200818085416/https://www.thewrap.com/ifta-picks-30-most-significant-indie-films-20686/|archive-date=August 18, 2020|website=[[TheWrap]]}}</ref> In 2006, the [[Writers Guild of America]] ranked the film's screenplay the 32nd greatest ever.<ref>{{cite web|title=101 Greatest Screenplays|url=http://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list|access-date=March 8, 2017|publisher=Writers Guild of America|archive-date=November 22, 2016|archive-url=https://archive.today/20161122211118/http://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list|url-status=live}}</ref> Future North Dakota governor [[Doug Burgum]], whose company [[Great Plains Software]] had its [[initial public offering]] during the film's release, recalled that during investor meetings "100 percent of the first question was about the movie. We had no paper shredders in our office, only woodchippers, we'd answer with a straight face. They'd say: 'Really?!'"<ref name="martin20240630">{{Cite magazine |last=Martin |first=Jonathan |date=June 30, 2024 |title=How Dakota Politicians Learned to Manage Trump |url=https://www.politico.com/news/magazine/2024/06/30/dakotas-republican-party-future-00164899 |access-date=June 30, 2024 |magazine=Politico}}</ref> The February 2020 issue of ''[[New York Magazine]]'' lists ''Fargo'' as among "The Best Movies That Lost Best Picture at the Oscars."<ref>{{cite news|title=The Best Movies That Lost Best Picture at the Oscars|url=https://www.vulture.com/article/best-oscar-best-picture-losers.html|magazine=[[New York Magazine]]|access-date=March 17, 2025}}</ref>
+
+===Accolades===
+{| class="wikitable"
+!Award⁣
+!Date of ceremony⁣
+!Category⁣
+!Recipients⁣
+!Result⁣
+!{{Abbr|Ref.|References}}⁣
+|-⁣
+|rowspan=7| [[Academy Awards]]⁣
+|rowspan=7| [[69th Academy Awards|March 24, 1997]]⁣
+| [[Academy Award for Best Picture|Best Picture]]⁣
+| Ethan Coen
+| {{nom}}⁣
+| rowspan=7| <ref>{{cite web|url=https://www.oscars.org/oscars/ceremonies/1997|title=The 69th Academy Awards {{!}} 1997|website=[[Academy of Motion Picture Arts and Sciences]]|date=October 5, 2014 |archive-url=https://web.archive.org/web/20201009125122/https://www.oscars.org/oscars/ceremonies/1997|archive-date=October 9, 2020|url-status=live}}</ref>⁣
+|-⁣
+| [[Academy Award for Best Director|Best Director]]⁣
+| Joel Coen⁣
+| {{nom}}
+|-⁣
+| [[Academy Award for Best Actress|Best Actress]]⁣
+| [[Frances McDormand]]⁣
+| {{won}}⁣
+|-⁣
+| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]⁣
+| [[William H. Macy]]⁣
+| {{nom}}⁣
+|-⁣
+| [[Best Original Screenplay]]⁣
+| [[Joel and Ethan Coen]]⁣
+| {{won}}⁣
+|-⁣
+| [[Academy Award for Best Cinematography|Best Cinematography]]⁣
+| [[Roger Deakins]]⁣
+| {{nom}}⁣
+|-⁣
+| [[Academy Award for Best Film Editing|Best Film Editing]]⁣
+| [[Roderick Jaynes]]⁣
+| {{nom}}⁣
+|-
+| [[American Cinema Editors]]
+| 1996
+| [[American Cinema Editors Award for Best Edited Feature Film – Dramatic|Best Edited Feature Film]]
+| Roderick Jaynes
+| {{nom}}
+|
+|-
+| [[American Society of Cinematographers]]
+| 1996
+| [[American Society of Cinematographers Award for Outstanding Achievement in Cinematography in Theatrical Releases|Outstanding Achievement in Cinematography]]
+| Roger Deakins
+| {{nom}}
+|
+|-
+|rowspan=6| [[BAFTA Film Awards]]
+|rowspan=6| [[50th British Academy Film Awards|April 29, 1997]]
+| [[BAFTA Award for Best Direction|Best Direction]]
+| Joel Coen
+| {{won}}
+|rowspan=6| <ref>{{cite web|url=http://awards.bafta.org/award/1997/film|title=Film in 1997|website=[[British Academy Film Awards]]|archive-url=https://web.archive.org/web/20201009132142/http://awards.bafta.org/award/1997/film|archive-date=October 9, 2020|url-status=live}}</ref>
+|-
+| [[BAFTA Award for Best Film|Best Film]]
+| ''Fargo''
+| {{nom}}
+|-
+| [[BAFTA Award for Best Actress in a Leading Role|Best Actress in a Leading Role]]
+| Frances McDormand
+| {{nom}}
+|-
+| [[BAFTA Award for Best Original Screenplay|Best Original Screenplay]]
+| Joel and Ethan Coen
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| Roger Deakins
+| {{nom}}
+|-
+| [[BAFTA Award for Best Editing|Best Editing]]
+| Roderick Jaynes
+| {{nom}}
+|-
+| [[Belgian Film Critics Association]]
+| 1997
+| [[Grand Prix (Belgian Film Critics Association)|Grand Prix]]
+| ''Fargo''
+| {{nom}}
+|
+|-
+|rowspan=2| [[Cannes Film Festival]]
+|rowspan=2| [[1996 Cannes Film Festival|May 1996]]
+| [[Cannes Film Festival Award for Best Director|Best Director]]
+| Joel Coen
+| {{won}}
+| rowspan="2" |<ref name="festival-cannes.com" />
+|-
+| [[Palme d'Or]]
+| ''Fargo''
+| {{nom}}
+|-
+|rowspan=2| [[Critics' Choice Awards]]
+|rowspan=2| [[2nd Critics' Choice Awards|January 20, 1997]]
+| [[Critics' Choice Movie Award for Best Picture|Best Picture]]
+| ''Fargo''
+| {{won}}
+| rowspan="2" |<ref>{{cite web |url=http://www.bfca.org/ccawards/1996.php |title=The BFCA Critics' Choice Awards :: 1996 |publisher=[[Broadcast Film Critics Association]] |archive-url=https://web.archive.org/web/20081212034358/http://www.bfca.org/ccawards/1996.php |url-status=dead |archive-date=December 12, 2008}}</ref>
+|-
+| [[Critics' Choice Movie Award for Best Actress|Best Actress]]
+| Frances McDormand
+| {{won}}
+|-
+|rowspan=4| [[Golden Globe Awards]]
+|rowspan=4| [[54th Golden Globe Awards|January 19, 1997]]
+| [[Best Motion Picture – Musical or Comedy]]
+| ''Fargo''
+| {{nom}}
+|rowspan=4| <ref>{{cite news|url=https://www.goldenglobes.com/winners-nominees/1997|title=Winners & Nominees 1997|website=[[Golden Globe Awards]]|archive-url=https://web.archive.org/web/20201009134434/https://www.goldenglobes.com/winners-nominees/1997|archive-date=October 9, 2020|url-status=live}}</ref>
+|-
+| [[Golden Globe Award for Best Director|Best Director]]
+| Joel Coen
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Actress – Motion Picture Comedy or Musical|Best Actress – Motion Picture Comedy or Musical]]
+| Frances McDormand
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay]]
+| Joel and Ethan Coen
+| {{nom}}
+|-
+| rowspan=7| [[Golden Satellite Awards]]
+| rowspan=7| [[1st Golden Satellite Awards|January 15, 1997]]
+| [[Satellite Award for Best Film|Best Film]]
+| ''Fargo''
+| {{won}}
+|rowspan=7| <ref>{{cite web |author=Errico |first=Marcus |date=January 15, 1997 |title=Cruise Tops Golden Satellite Awards |url=https://www.eonline.com/news/33966/cruise-tops-golden-satellite-awards |url-status=live |archive-url=https://web.archive.org/web/20201009143621/https://www.eonline.com/news/33966/cruise-tops-golden-satellite-awards |archive-date=October 9, 2020 |website=[[E!]]}}</ref>
+|-
+| [[Satellite Award for Best Director|Best Director]]
+| Joel Coen
+| {{won}}
+|-
+| [[Satellite Award for Best Actress – Motion Picture|Best Actress – Drama]]
+| Frances McDormand
+| {{won}}
+|-
+| [[Satellite Award for Best Actor – Motion Picture|Best Actor - Drama]]
+| William H. Macy
+| {{nom}}
+|-
+| [[Satellite Award for Best Supporting Actor – Motion Picture|Best Supporting Actor – Drama]]
+| [[Steve Buscemi]]
+| {{nom}}
+|-
+| [[Satellite Award for Best Editing|Best Editing]]
+| Roderick Jaynes
+| {{nom}}
+|-
+| [[Satellite Award for Best Original Screenplay|Best Original Screenplay]]
+| Joel and Ethan Coen
+| {{nom}}
+|-
+|rowspan=6| [[Independent Spirit Awards]]
+|rowspan=6| [[12th Independent Spirit Awards|March 22, 1997]]
+| [[Independent Spirit Award for Best Film|Best Film]]
+| ''Fargo''
+| {{won}}
+|rowspan=6| <ref>{{cite web |author=Dretzka |first=Gary |date=March 24, 1997 |title='Fargo' Big Winner Among Independents |url=https://www.chicagotribune.com/news/ct-xpm-1997-03-24-9703240054-story.html |url-status=dead |archive-url=https://web.archive.org/web/20200228225440/https://www.chicagotribune.com/news/ct-xpm-1997-03-24-9703240054-story.html |archive-date=February 28, 2020 |access-date=October 9, 2020 |website=[[Chicago Tribune]]}}</ref>
+|-
+| [[Independent Spirit Award for Best Director|Best Director]]
+| Joel Coen
+| {{won}}
+|-
+| [[Independent Spirit Award for Best Male Lead|Best Male Lead]]
+| William H. Macy
+| {{won}}
+|-
+| [[Independent Spirit Award for Best Female Lead|Best Female Lead]]
+| Frances McDormand
+| {{won}}
+|-
+| [[Independent Spirit Award for Best Screenplay|Best Screenplay]]
+| Joel and Ethan Coen
+| {{won}}
+|-
+| [[Independent Spirit Award for Best Cinematography|Best Cinematography]]
+| Roger Deakins
+| {{won}}
+|-
+|rowspan=4| [[Los Angeles Film Critics Association Awards]]
+|rowspan=4| [[1996 Los Angeles Film Critics Association Awards|December 1996]]
+| [[Los Angeles Film Critics Association Award for Best Film|Best Film]]
+| ''Fargo''
+| {{Runner-up}}
+|rowspan=4| <ref>{{cite news|url=http://www.lafca.net/years/1996.html|title=LAFCA|website=[[Los Angeles Film Critics Association]]|archive-url=https://web.archive.org/web/20160304113125/http://www.lafca.net/years/1996.html|archive-date=March 4, 2016|url-status=live}}</ref>
+|-
+| [[Los Angeles Film Critics Association Award for Best Director|Best Director]]
+| Joel Coen
+| {{Runner-up}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Actress|Best Actress]]
+| Frances McDormand
+| {{Runner-up}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Screenplay|Best Screenplay]]
+| Joel and Ethan Coen
+| {{won}}
+|-
+| rowspan=3| [[National Board of Review]]
+| rowspan=3| [[National Board of Review Awards 1996|1996]]
+| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| ''Fargo''
+| {{draw|3rd place}}
+|
+|-
+| [[National Board of Review Award for Best Director|Best Director]]
+| Joel Coen
+| {{won}}
+| <ref>{{cite web|url=https://nationalboardofreview.org/award-names/best-director/|title=Best Director|website=[[National Board of Review]]|archive-url=https://web.archive.org/web/20201009140822/https://nationalboardofreview.org/award-names/best-director/|archive-date=October 9, 2020|url-status=live}}</ref>
+|-
+| [[National Board of Review Award for Best Actress|Best Actress]]
+| Frances McDormand
+| {{won}}
+| <ref>{{cite web|url=https://nationalboardofreview.org/award-names/best-actress/|title=Best Actress|website=[[National Board of Review]]|archive-url=https://web.archive.org/web/20201009140918/https://nationalboardofreview.org/award-names/best-actress/|archive-date=October 9, 2020|url-status=live}}</ref>
+|-
+| [[National Film Preservation Board]]
+| December 27, 2006
+| [[National Film Registry]]
+| ''Fargo''
+| {{won|Added}}
+| <ref name="National Film Registry">{{cite web |author=Cannady |first=Sheryl |date=December 27, 2006 |title=Librarian of Congress Adds Home Movie, Silent Films and Hollywood Classics to Film Preservation List |url=https://www.loc.gov/item/prn-06-234/ |url-status=live |archive-url=https://web.archive.org/web/20201009141255/https://www.loc.gov/item/prn-06-234/ |archive-date=October 9, 2020 |website=[[Library of Congress]]}}</ref>
+|-
+| rowspan=2| [[New York Film Critics Circle]]
+| rowspan=2| [[1996 New York Film Critics Circle Awards|January 5, 1997]]
+| [[New York Film Critics Circle Award for Best Film|Best Film]]
+| ''Fargo''
+| {{won}}
+| rowspan=2| <ref>{{cite web |author=Maslin |first=Janet |date=December 13, 1996 |title=Critics Choose 'Fargo' As the Best Film of 1996 |url=https://www.nytimes.com/1996/12/13/movies/critics-choose-fargo-as-the-best-film-of-1996.html |url-status=live |archive-url=https://web.archive.org/web/20201009142431/https://www.nytimes.com/1996/12/13/movies/critics-choose-fargo-as-the-best-film-of-1996.html |archive-date=October 9, 2020 |website=[[The New York Times]]}}</ref>
+|-
+| Best Actress
+| Frances McDormand
+| {{nom}}
+|-
+| [[Producers Guild of America Awards]]
+| [[8th Golden Laurel Awards|March 12, 1997]]
+| [[Producers Guild of America Award for Best Theatrical Motion Picture|Outstanding Producer of Theatrical Motion Pictures]]
+| Ethan Coen
+| {{nom}}
+| <ref>{{cite web |title=The 1997 Golden Laurel Awards |url=http://producersguild.com/gla.html |website=Point of View Online |archive-url=https://web.archive.org/web/19990501230436/http://producersguild.com/gla.html |archive-date=May 1, 1999 |access-date=May 5, 2025|url-status=dead}}</ref>
+|-
+| rowspan=3| [[Saturn Awards]]
+| rowspan=3| [[23rd Saturn Awards|July 23, 1997]]
+| [[Saturn Award for Best Action or Adventure Film|Best Action or Adventure Film]]
+| ''Fargo''
+| {{won}}
+| rowspan=3| <ref>{{Cite web |date=July 28, 1997 |title=Ishmael' set to shoot in Florida |url=https://www.tampabay.com/archive/1997/07/28/ishmael-set-to-shoot-in-florida/ |access-date=May 14, 2023 |website=[[Tampa Bay Times]] |language=en}}</ref>
+|-
+| [[Saturn Award for Best Actress|Best Actress]]
+| Frances McDormand
+| {{nom}}
+|-
+| [[Saturn Award for Best Director|Best Director]]
+| Joel Coen
+| {{nom}}
+|-
+| rowspan=2| [[Screen Actors Guild Awards]]
+| rowspan=2| [[3rd Screen Actors Guild Awards|February 22, 1997]]
+| [[Outstanding Performance by a Female Actor in a Leading Role]]
+| Frances McDormand
+| {{won}}
+| rowspan=2| <ref>{{cite web|url=https://www.sagawards.org/awards/nominees-and-recipients/3rd-annual-screen-actors-guild-awards|title=The 3rd Annual Screen Actors Guild Awards|website=[[Screen Actors Guild Awards]]|archive-url=https://web.archive.org/web/20201009144715/https://www.sagawards.org/awards/nominees-and-recipients/3rd-annual-screen-actors-guild-awards|archive-date=October 9, 2020|url-status=live}}</ref>
+|-
+| [[Outstanding Performance by a Male Actor in a Supporting Role]]
+| William H. Macy
+| {{nom}}
+|-
+| [[Writers Guild of America Awards]]
+| [[49th Writers Guild of America Awards|March 16, 1997]]
+| [[Writers Guild of America Award for Best Original Screenplay|Best Original Screenplay]]
+| Joel and Ethan Coen
+| {{won}}
+| <ref>{{cite web |author=Durka |first=Elaine |date=March 17, 1997 |title='Fargo,' 'Sling Blade' Win Top Writers Guild Honors |url=https://www.latimes.com/archives/la-xpm-1997-03-17-ca-39138-story.html |url-status=live |archive-url=https://web.archive.org/web/20201009145116/https://www.latimes.com/archives/la-xpm-1997-03-17-ca-39138-story.html |archive-date=October 9, 2020 |website=[[Los Angeles Times]]}}</ref>
+|-
+|rowspan=4|[[London Film Critics Circle]]
+|rowspan=4|[[London Film Critics Circle Awards 1996|March 2, 1997]]
+|[[London Film Critics Circle Award for Film of the Year|Film of the Year]]
+| ''Fargo''
+| {{Won}}
+|<ref>{{Cite web |title=Critics' Circle Film Awards |url=https://criticscircle.org.uk/film/critics-circle-film-awards/ |access-date=September 25, 2022 |website=criticscircle.org.uk}}</ref>
+|-
+| [[London Film Critics Circle Award for Director of the Year|Director of the Year]]
+| Joel Coen
+| {{Won}}
+|
+|-
+| [[London Film Critics' Circle Award for Screenwriter of the Year|Screenwriter of the Year]]
+| Joel and Ethan Coen
+| {{Won}}
+|
+|-
+| [[London Film Critics Circle Award for Actress of the Year|Actress of the Year]]
+| Frances McDormand
+| {{Won}}
+|
+|-
+| [[Bodil Awards]]
+| 1997
+| [[Bodil Award for Best American Film|Best American Film]]
+| Joel Coen
+| {{Won}}
+|   <ref>{{Cite web |title=1997 – Bodilprisen |url=https://www.bodilprisen.dk/aar-for-aar/1997-2/ |access-date=May 14, 2023 |website=bodilprisen.dk |language=da-DK}}</ref>
+|}
+
+==== Best-of lists ====
+The film is recognized by [[American Film Institute]] in these lists:
+
+* 1998: [[AFI's 100 Years...100 Movies]] - #84<ref>{{cite web|url=https://www.afi.com/afis-100-years-100-movies/|title=AFI's 100 Years...100 Movies (1998 edition)|website=[[American Film Institute]]|archive-url=https://web.archive.org/web/20201009124534/https://www.afi.com/afis-100-years-100-movies/|archive-date=October 9, 2020|url-status=live}}</ref>
+* 2000: [[AFI's 100 Years...100 Laughs]] - #93<ref>{{cite web|url=https://www.afi.com/afis-100-years-100-laughs/|title=AFI's 100 Years...100 Laughs|website=[[American Film Institute]]|archive-url=https://web.archive.org/web/20201009124238/https://www.afi.com/afis-100-years-100-laughs/|archive-date=October 9, 2020|url-status=live}}</ref>
+* 2003: [[AFI's 100 Years...100 Heroes & Villains]] - Marge Gunderson - #33 Hero<ref>{{cite web|url=https://www.afi.com/afis-100-years-100-heroes-villians/|title=AFI's 100 Years...100 Heroes & Villains|website=[[American Film Institute]]|archive-url=https://web.archive.org/web/20201009123717/https://www.afi.com/afis-100-years-100-heroes-villians/|archive-date=October 9, 2020|url-status=live}}</ref>
+
+==Home media==
+''Fargo'' has been released in several formats: [[VHS]], [[LaserDisc]], [[DVD]], [[Blu-ray]], and [[iTunes Store|iTunes]] download.<ref>{{cite web |title=Fargo |date=March 8, 1996 |url=https://itunes.apple.com/au/movie/fargo-1996/id341289724 |publisher=[[iTunes]] |access-date=September 22, 2013 |archive-date=October 8, 2013 |archive-url=https://web.archive.org/web/20131008220537/https://itunes.apple.com/au/movie/fargo-1996/id341289724 |url-status=live }}</ref> The first home video release of the film was on October 1, 1996, on a [[pan and scan]] cassette.<ref>{{cite news |last=King |first=Susan |url=https://www.newspapers.com/clip/107891272/letterbox-brings-wide-screen-home/ |title='Letterbox' Brings Wide Screen Home |archive-url=https://web.archive.org/web/20230311215357/https://www.newspapers.com/clip/107891272/letterbox-brings-wide-screen-home/ |date=August 16, 1996 |access-date=March 11, 2023 |archive-date=March 11, 2023 |page=96 |work=Times Staff Writer |publisher=[[Los Angeles Times]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> A collector's edition widescreen VHS was also released and included a [[snow globe]] that depicted the woodchipper scene which, when shaken, stirred up both snow and "blood".<ref>{{cite news |newspaper=The New York Times |url=https://www.nytimes.com/1999/05/02/movies/summer-films-synergy-a-few-words-in-defense-of-swag.html |title=Summer Films: Synergy; A Few Words in Defense of Swag |date=May 2, 1999 |author=Burr, Ty |author-link=Ty Burr|archive-url=https://web.archive.org/web/20200911003718/https://www.nytimes.com/1999/05/02/movies/summer-films-synergy-a-few-words-in-defense-of-swag.html|archive-date=September 11, 2020|url-status=live}}</ref> [[PolyGram Video]] released ''Fargo'' on DVD on June 25, 1997.<ref name="AllMovie">{{Cite web |title=Fargo - Releases |url=https://www.allmovie.com/movie/fargo-vm422651/releases |access-date=May 14, 2023 |website=[[AllMovie]]}}</ref> In 2001, [[Metro-Goldwyn-Mayer]] (MGM), who acquired the rights to the film through their purchase of PolyGram's pre-March 31, 1996, library, released the film on VHS as part of its "Contemporary Classics" series.<ref>{{Cite book |title=Fargo [VHS] | isbn=0792842081 }}</ref> A "Special Edition" DVD was released on September 30, 2003, by [[MGM Home Entertainment]], which featured minor changes to the film, particularly with its subtitles.<ref>{{Cite web |last=Powell |first=James W. |date=September 6, 2003 |title=Fargo: Special Edition DVD |url=https://www.dvdtalk.com/reviews/review/7490 |access-date=May 14, 2023 |website=DVD Talk}}</ref> The opening titles stating "This is a true story" have been changed in this edition from the actual titles on the film print to digitally inserted titles. Also, the subtitle preceding Lundegaard's arrest "Outside of Bismarck, North Dakota" has been inserted digitally and moved from the bottom of the screen to the top. The special edition of ''Fargo'' was repackaged in several Coen brothers box sets and also as a double feature DVD with other MGM releases.<ref name="AllMovie" />
+
+A Blu-ray version was released on May 12, 2009,<ref>{{Cite web |title=Fargo Blu-ray |url=https://www.blu-ray.com/movies/Fargo-Blu-ray/4352/ |access-date=May 14, 2023 |website=blu-ray.com}}</ref> and later in a DVD combo pack in 2010.<ref>{{Cite web |title=Fargo (Two-Disc Blu-ray/DVD Combo in Blu-ray Packaging) |url=https://www.amazon.com/Fargo-Two-Disc-Blu-ray-Combo-Packaging/dp/B003O7I6ZM |access-date=May 14, 2023 |website=Amazon}}</ref> On April 1, 2014, in commemoration for the 90th anniversary of MGM, the film was remastered in [[4K resolution|4K]] and reissued again on Blu-ray.<ref>{{Cite web |title=Fargo Blu-ray (Remastered) |url=https://www.blu-ray.com/movies/Fargo-Blu-ray/94654/ |access-date=May 14, 2023 |website=blu-ray.com}}</ref> On May 3, 2017, [[Shout! Factory]] announced a 20th anniversary collector's [[Optical disc packaging|Steelbook]] edition on Blu-ray, limited to 10,000 copies, which was released on August 8, 2017.<ref>{{cite web|url=https://www.shoutfactory.com/blog/limited-edition-fargo-20th-anniversary-edition-steelbook/|title=Limited Edition Fargo 20th Anniversary Edition Steelbook|access-date=May 3, 2017|website=[[Shout! Factory]]|archive-url=https://web.archive.org/web/20201013130955/https://www.shoutfactory.com/blog/limited-edition-fargo-20th-anniversary-edition-steelbook/|archive-date=October 13, 2020|url-status=live}}</ref> On November 7, 2023, Shout! Factory released the film in a [[Ultra HD Blu-ray|4K Ultra HD]] and Blu-ray combo pack.<ref>{{cite web|url=https://shoutfactory.com/products/fargo-deluxe-limited-edition|title=Fargo [Deluxe Limited Edition]|access-date=April 23, 2024|website=[[Shout! Factory]]|archive-url=https://web.archive.org/web/20240320233232/https://shoutfactory.com/products/fargo-deluxe-limited-edition|archive-date=March 20, 2024|url-status=live}}</ref>
+
+==Television series==
+{{Main|Fargo (TV series){{!}}''Fargo'' (TV series)}}
+
+In 1997, a [[pilot episode|pilot]] was filmed for an intended television series based on the film. Set in Brainerd shortly after the events of the film, it starred [[Edie Falco]] as Marge Gunderson and Bruce Bohne reprising his role as Officer Lou. It was directed by [[Kathy Bates]] and featured no involvement from the Coen brothers. The episode aired in 2003 during [[Trio (TV network)|Trio]]'s ''Brilliant But Cancelled'' series of failed TV shows.<ref>{{cite news |last=Nussbaum |first=Emily |author-link=Emily Nussbaum |date=August 31, 2003 |title=Television: Reruns; Edie Falco in 'Fargo,' and Other Gems You Never Saw |newspaper=The New York Times |url=https://www.nytimes.com/2003/08/31/arts/television-reruns-edie-falco-in-fargo-and-other-gems-you-never-saw.html |url-status=live |archive-url=https://web.archive.org/web/20150528000743/https://www.nytimes.com/2003/08/31/arts/television-reruns-edie-falco-in-fargo-and-other-gems-you-never-saw.html |archive-date=May 28, 2015}}</ref>
+
+A follow-up [[Fargo (TV series)|TV series]] inspired by the film, with the Coens as executive producers, debuted on [[FX (TV channel)|FX]] in April 2014.<ref>{{cite web |first=Nellie |last=Andreeva|url=https://deadline.com/2012/09/fx-teams-with-joel-ethan-coen-and-noah-hawley-for-series-adaptation-of-fargo-342737/ |title=FX Teams With Joel & Ethan Coen And Noah Hawley For Series Adaptation Of 'Fargo' |magazine=[[Deadline Hollywood]] |date=September 21, 2012|archive-url=https://web.archive.org/web/20130604060826/https://www.deadline.com/2012/09/fx-teams-with-joel-ethan-coen-and-noah-hawley-for-series-adaptation-of-fargo/|archive-date=June 4, 2013|url-status=live}}</ref> The [[Fargo (season 1)|first season]] received acclaim from both critics and audiences.<ref>{{cite web |title=Fargo: Season 1 |publisher=Metacritic|url=https://www.metacritic.com/tv/fargo/season-1 |archive-url=https://web.archive.org/web/20151127234636/http://www.metacritic.com/tv/fargo |archive-date=November 27, 2015 |url-status=live }}</ref><ref>{{cite web |url=https://www.rottentomatoes.com/tv/fargo/s01/ |title=Fargo: Season 1 (2014) |publisher=Rotten Tomatoes |archive-url=https://web.archive.org/web/20140730012739/http://www.rottentomatoes.com/tv/fargo/s01/ |archive-date=July 30, 2014 |url-status=live }}</ref><ref>{{cite web |url=https://www.ign.com/articles/2014/06/25/fargo-season-1-review |title=Fargo: Season 1 Review |publisher=IGN |first=Roth |last=Cornet |date=June 25, 2014 |archive-url=https://web.archive.org/web/20140912025127/http://www.ign.com/articles/2014/06/25/fargo-season-1-review |archive-date=September 12, 2014 |url-status=live }}</ref><ref>{{cite web |url=https://www.avclub.com/article/best-tv-shows-2014-part-2-212571 |title=The best TV shows of 2014 (part 2) |work=[[The A.V. Club]] |first=Myles |last=McNutt |date=December 11, 2014 |archive-url=https://archive.today/20141211063004/http://www.avclub.com/article/best-tv-shows-2014-part-2-212571 |archive-date=December 11, 2014 |url-status=live }}</ref> Existing in the same [[fictional universe|fictional continuity]] as the film, each season features a different story, cast, and timespan. The episode "[[Eating the Blame]]" from the first season reintroduced the buried ransom money for a minor three-episode subplot.<ref>{{cite news |author=Ray |first=Amber |date=May 7, 2014 |title='Fargo' episode 4: The Easter egg that connects the series to the film |magazine=[[Entertainment Weekly]] |url=http://popwatch.ew.com/2014/05/07/fargo-episode-4-coen-brothers-easter-egg/ |url-status=live |archive-url=https://web.archive.org/web/20150415224940/https://ew.com/article/2014/05/07/fargo-episode-4-coen-brothers-easter-egg/ |archive-date=April 15, 2015}}</ref><ref>{{cite news |last=Nguyen |first=Hanh |date=May 6, 2014 |title=''Fargo'' Boss Breaks Down That (Very Familiar) Money Shot |magazine=[[TV Guide]] |url=https://www.tvguide.com/news/fargo-movie-crossover-noah-hawley-1081378.aspx |url-status=live |archive-url=https://web.archive.org/web/20140714182041/https://www.tvguide.com/news/fargo-movie-crossover-noah-hawley-1081378.aspx |archive-date=July 14, 2014}}</ref> Additional seasons have been made; [[Fargo (season 2)|the second]] was released on October 12, 2015; [[Fargo (season 3)|the third]], on April 19, 2017; [[Fargo (season 4)|the fourth]], on September 27, 2020;<ref>{{cite web |author=Andreeva |first=Nellie |date=August 10, 2020 |title='Fargo' Sets New Premiere Date For Chris Rock-Starring Season 4 As FX Series Heads Back To Production |url=https://deadline.com/2020/08/fargo-sets-new-premiere-date-chris-rock-star-season-4-fx-series-heads-back-production-restart-1203008584/ |url-status=live |archive-url=https://web.archive.org/web/20201008160950/https://deadline.com/2020/08/fargo-sets-new-premiere-date-chris-rock-star-season-4-fx-series-heads-back-production-restart-1203008584/ |archive-date=October 8, 2020 |access-date=October 8, 2020 |website=[[Deadline Hollywood]]}}</ref> and the [[Fargo (season 5)|fifth season]] premiered on November 21, 2023.<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=August 17, 2023 |title='Fargo' Season 5 Gets Premiere Date; Plot Details & First Images Unveiled |url=https://deadline.com/2023/10/fargo-fifth-season-premiere-date-first-images-trailer-1235521371/ |access-date=September 18, 2023 |website=Deadline |language=en-US |archive-date=August 17, 2023 |archive-url=https://web.archive.org/web/20230817142020/https://deadline.com/2023/08/fargo-fifth-season-premiere-date-first-images-1235521371/ |url-status=live }}</ref>
+
+==See also==
+* ''[[Kumiko, the Treasure Hunter]]''—a film about a young Japanese woman who becomes obsessed with ''Fargo'', believing the events it depicts to be real.
+* [[Suicide of Takako Konishi]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book |title=The Coen Brothers' ''Fargo'' |editor1-last=Luhr |editor1-first=William |editor1-link=William Luhr |publisher=[[Cambridge University Press]] |year=2004 |oclc=51752419 |isbn=9780521808859 |url=https://books.google.com/books?id=_cV8OI89FAcC}} A collection of scholarly essays by several authors about the film and related subjects.
+
+==External links==
+{{Wikiquote|Fargo (film)}}
+* {{IMDb title}}
+* {{TCMDb title|id=300505}}
+* ''Fargo'' essay by Daniel Eagan in America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry, A&C Black, 2010 {{ISBN|0826429777}}, pages 817-818 [https://books.google.com/books?id=deq3xI8OmCkC]
+
+{{Fargo}}
+{{Coen brothers}}
+{{Navboxes
+|title = Awards for ''Fargo''
+|list =
+{{Chicago Film Critics Association Award for Best Film}}
+{{Broadcast Film Critics Association Award for Best Film}}
+{{Dallas–Fort Worth Film Critics Association Award for Best Film}}
+{{Florida Film Critics Circle Award for Best Film}}
+{{Independent Spirit Award for Best Film}}
+{{London Film Critics Circle Award for Film of the Year}}
+{{New York Film Critics Circle Award for Best Film}}
+{{San Diego Film Critics Society Award for Best Film}}
+{{Satellite Award Best Motion Picture}}
+{{Saturn Award for Best Action or Adventure Film}}
+}}
+
+{{Authority control}}
+
+[[Category:1996 films]]
+[[Category:1996 black comedy films]]
+[[Category:1996 comedy-drama films]]
+[[Category:1996 crime drama films]]
+[[Category:1996 crime thriller films]]
+[[Category:1996 independent films]]
+[[Category:1996 American films]]
+[[Category:1996 British films]]
+[[Category:1996 crime comedy films]]
+[[Category:1996 English-language films]]
+[[Category:American black comedy films]]
+[[Category:American crime comedy films]]
+[[Category:American independent films]]
+[[Category:American neo-noir films]]
+[[Category:American pregnancy films]]
+[[Category:BAFTA winners (films)]]
+[[Category:British black comedy films]]
+[[Category:British crime comedy films]]
+[[Category:British independent films]]
+[[Category:British neo-noir films]]
+[[Category:British pregnancy films]]
+[[Category:English-language black comedy films]]
+[[Category:English-language independent films]]
+[[Category:English-language crime drama films]]
+[[Category:English-language crime comedy films]]
+[[Category:English-language crime thriller films]]
+[[Category:Fargo| ]]
+[[Category:Fargo, North Dakota]]
+[[Category:Fargo–Moorhead metropolitan area]]
+[[Category:Films about kidnapping in the United States]]
+[[Category:Films adapted into television shows]]
+[[Category:Films directed by the Coen brothers]]
+[[Category:Films featuring a Best Actress Academy Award–winning performance]]
+[[Category:Films scored by Carter Burwell]]
+[[Category:Films set in 1987]]
+[[Category:Films set in Minnesota]]
+[[Category:Films set in Minneapolis]]
+[[Category:Films set in North Dakota]]
+[[Category:Films shot in Minnesota]]
+[[Category:Films shot in North Dakota]]
+[[Category:Films whose director won the Best Direction BAFTA Award]]
+[[Category:Films whose writer won the Best Original Screenplay Academy Award]]
+[[Category:Films with screenplays by the Coen brothers]]
+[[Category:Gramercy Pictures films]]
+[[Category:Best Film Independent Spirit Award winners]]
+[[Category:PolyGram Filmed Entertainment films]]
+[[Category:Satellite Award–winning films]]
+[[Category:Saturn Award–winning films]]
+[[Category:TVT Records soundtracks]]
+[[Category:United States National Film Registry films inducted in 2006]]
+[[Category:Working Title Films films]]

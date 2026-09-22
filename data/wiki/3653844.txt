@@ -1,0 +1,65 @@
+{{short description|1962 film by Pier Paolo Pasolini}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox film
+| name           = Mamma Roma
+| image          = Mammaroma.jpg
+| caption        = Theatrical poster
+| director       = [[Pier Paolo Pasolini]]
+| writer         = Pier Paolo Pasolini
+| producer       = [[Alfredo Bini]]
+| starring       = {{ubl|[[Anna Magnani]]|Ettore Garofolo|[[Franco Citti]]}}
+| music          = Antonio Vivaldi
+| cinematography = [[Tonino Delli Colli]]
+| editing        = [[Nino Baragli]]
+| studio         = Arco Film
+| distributor    = [[Cineriz]]
+| released       = {{Film date|1962|08|31|Italy|df=y}}
+| runtime        = 106 minutes
+| country        = Italy
+| language       = Italian
+}}{{Expand Italian|topic=cult}}
+'''''Mamma Roma''''' is a 1962 Italian [[Drama (film and television)|drama film]] written and directed by [[Pier Paolo Pasolini]], starring [[Anna Magnani]], Ettore Garofolo, and [[Franco Citti]].<ref name="Siciliano">{{cite book|last=Siciliano |first=Enzo |title=Pasolini: Leben und Werk |publisher=Fischer Taschenbuch Verlag |location=Frankfurt am Main |language=de |year=1985}}</ref><ref name="Schwarz">{{cite book|last = Schwarz |first = Barth David |title = Pasolini Requiem |publisher = Pantheon Books |date = 2017 |location = New York |edition=2 |isbn = 9780226335025}}</ref>
+
+==Synopsis==
+After her pimp Carmine marries, prostitute Mamma Roma starts a new life as a marketer in [[Rome]] to enable her 16-year-old son Ettore a better life. She finds him a job as a waiter by blackmailing a trattoria owner and tries to draw him away from his thieving friends and occasional streetwalker Bruna. When Mamma Roma is forced back into prostitution by Carmine and Ettore finds out about it, he returns to his previous habits. Caught during a theft in a hospital, Ettore dies in jail from a fever, leaving behind his grieving, desperate mother.
+
+==Cast==
+* [[Anna Magnani]] as Mamma Roma
+* Ettore Garofolo as Ettore
+* [[Franco Citti]] as Carmine
+* Silvana Corsini as Bruna
+* Luisa Loiano as Biancofiore
+* Paolo Volponi as Priest
+* Luciano Gonini as Zacaria
+
+==Production and release==
+Pasolini based his screenplay for ''Mamma Roma'' on the true case of Marcello Elisei, who had died in prison.<ref name="Siciliano" /> Shooting began on 9 April 1962,<ref name="Schwarz" /> with a cast that largely consisted of non-professionals.<ref>{{cite book|title=The Italian Cinema Book |editor-first=Peter |editor-last=Bondanella |year=2014 |isbn=9781844574049 |publisher=British Film Institute}}</ref> Pasolini, unhappy with Magnani's interpretation of the title role, expanded Citti's role of Carmine, but the production was temporarily halted when Citti was arrested for a petty crime.<ref name="Schwarz" /> Filming took place in the [[Parco degli Acquedotti]] on the ancient [[Appian Way]]; the dome of [[San Giovanni Bosco in Via Tuscolana]] is seen prominently in several scenes.<ref>{{Cite web|url=https://pasoliniblog.wordpress.com/2015/09/26/mamma-roma-1962-locations/|title=Mamma Roma (1962) Locations|date=26 September 2015}}</ref><ref>{{Cite web|url=https://www.italyformovies.com/film-serie-tv-games/detail/7052/mamma-roma|title=Mamma Roma &#124; The locations of the movie on Italy for Movies|website=www.italyformovies.com}}</ref>
+
+On 31 August 1962, ''Mamma Roma'' premiered at the [[Venice Film Festival]].<ref name="Schwarz" /> On the same day, a police complaint was filed, claiming that the film was "offensive to good morals" and "contrary to public decency" for the language used, but the complaint was turned down by a magistrate five days later.<ref name="Schwarz" /> On the night of the film's release in the Quattro Fontane Cinema in Rome on 22 September 1962, Pasolini was confronted with protesting [[neo-fascism|neo-fascists]] and got involved in a scuffle.<ref name="Siciliano" /><ref name="Schwarz" /> ''Mamma Roma'' also met with criticism from the [[Left-wing politics|left]],<ref>{{cite web|url=https://www.criterion.com/current/posts/1088-pasolini-mamma-roma-and-la-ricotta |title=Pasolini, Mamma Roma, and La Ricotta |first=Gary |last=Indiana |author-link=Gary Indiana (writer) |website=The Criterion Collection |access-date=23 January 2023|date=21 June 2004}}</ref>{{Why|date=May 2026}} and its domestic box office was a humble 168 million [[italian lira|lira]].<ref name="Schwarz" />
+
+==Reception==
+On the [[review aggregator]] website [[Rotten Tomatoes]], 95% of 20 critics' reviews are positive.<ref>{{Cite web |title=Mamma Roma |url=https://www.rottentomatoes.com/m/mamma_roma |access-date=2026-05-10 |website=Rotten Tomatoes |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0056215}}
+* {{tcmdb title|id=82520}}
+* {{Rotten Tomatoes|mamma_roma}}
+
+{{Pier Paolo Pasolini|state=expanded}}
+
+{{Authority control}}
+
+[[Category:1962 drama films]]
+[[Category:Italian black-and-white films]]
+[[Category:Films about prostitution in Italy]]
+[[Category:Films directed by Pier Paolo Pasolini]]
+[[Category:Films set in Rome]]
+[[Category:Italian independent films]]
+[[Category:Italian drama films]]
+[[Category:1962 independent films]]
+[[Category:1962 films]]
+[[Category:1962 Italian-language films]]
+[[Category:1962 Italian films]]

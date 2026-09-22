@@ -1,0 +1,182 @@
+{{short description|1961 film by Alain Resnais}}
+{{Use dmy dates|date=April 2023}}
+{{Infobox film
+| name           = Last Year at Marienbad
+| image          = Marienbadposter.jpg
+| caption        = French theatrical release poster
+| native_name    = {{Infobox name module|fr|L'Année dernière à Marienbad}}
+| director       = [[Alain Resnais]]
+| writer         = [[Alain Robbe-Grillet]]
+| producer       = {{Plainlist|
+* Pierre Courau
+* [[Raymond Froment]]
+}}
+| starring       = <!-- in order on the poster -->{{Plainlist|
+* [[Delphine Seyrig]]
+* [[Giorgio Albertazzi]]
+* [[Sacha Pitoëff]]
+}}
+| cinematography = [[Sacha Vierny]]
+| editing        = {{Plainlist|
+* [[Henri Colpi]]
+* Jasmine Chasney
+}}
+| music          = Francis Seyrig
+| studio         = {{Plainlist|
+* Terra Film
+* Société Nouvelle des Films Cormoran
+* Precitel
+* Como Films
+* Argos Films
+* Les Films Tamara
+* Cinétel
+* Silver Films
+* [[Cineriz]]
+}}
+| distributor    = {{Plainlist|
+* [[Cocinor]] (France)
+* Cineriz (Italy)
+}}
+| released       = {{Film date|df=yes|1961|8|29|[[22nd Venice International Film Festival|Venice]]|1961|9|29|France|1961|11|1|Italy}}
+| runtime        = 94 minutes
+| country        = {{Plainlist|
+* France
+* Italy
+}}
+| language       = French
+| budget         =
+}}
+'''''Last Year at Marienbad''''' ({{langx|fr|L'Année dernière à Marienbad}}), released in the United Kingdom as '''''Last Year in Marienbad''''', is a 1961 [[French New Wave]] [[Experimental film|avant-garde]] [[psychological drama]] film directed by [[Alain Resnais]] and written by [[Alain Robbe-Grillet]].{{efn|According to Thomas Beltzer of ''[[Senses of Cinema]]'', the film's script may have been based in part on ''[[The Invention of Morel]]'', a science fiction novel published in 1940 by Argentine writer [[Adolfo Bioy Casares]]. ''The Invention of Morel'' is about a fugitive hiding out on a deserted island who one day awakens to discover the island miraculously filled with anachronistically dressed people who "dance, stroll up and down, and swim in the pool, as if this were a summer resort like Los Teques or Marienbad." He later learns they are creations of an inventor, Morel, whose recording machine captured the exact likenesses of a group of friends, which are "played" over and over again.<ref>{{cite magazine |last=Beltzer |first=Thomas |url=http://sensesofcinema.com/2000/10/marienbad/ |title=''Last Year at Marienbad'': An Intertextual Meditation |magazine=[[Senses of Cinema]] |date=November 2000 |access-date=21 October 2012}}</ref> Although Alain Robbe-Grillet acknowledged familiarity with the novel, Alain Resnais had not read the book at the time of making the film.{{sfn|Benayoun|1980|p=98}} Later, both a French television film, ''L'invention de Morel'' (1967), and an Italian film, ''[[Morel's Invention (film)|L'Invenzione di Morel]]'' (1974), were produced as explicit adaptations of Bioy Casares' work.}} 
+
+Set in a palace in a park that has been converted into a luxury hotel, the film stars [[Delphine Seyrig]] and [[Giorgio Albertazzi]] as a woman and a man who may have met the year before and may have contemplated or begun an affair, with [[Sacha Pitoëff]] as a second man who may be the woman's husband. The characters are unnamed.
+
+The film won the [[Golden Lion]] at [[22nd Venice International Film Festival]].
+
+==Plot==
+In an ornate [[Baroque architecture|baroque]] hotel populated by wealthy individuals and couples who socialize with one another, a man approaches a woman and claims they met the previous year at a similar resort (possibly Frederiksbad, Karlstadt, [[Mariánské Lázně|Marienbad]], or Baden-Salsa) and had an affair. He asserts that she responded to his request to run away together by asking him to wait a year. The woman, however, insists she has never met the man. He attempts to remind her of their shared past, while she rebuffs him and contradicts his accounts. Between interactions with the woman, a second man, who may be her husband, asserts his dominance over the first by repeatedly defeating him in a game of [[Nim]].
+
+Through ambiguous flashbacks and disorienting shifts in time and location, the film explores the relationships among the three characters. Conversations and events are repeated in different parts of the building and grounds, accompanied by numerous tracking shots of the hotel's corridors with ambiguous and repetitive [[voice-over]]s. The film offers no definitive conclusion regarding what is real and what is imagined, but by the end, the woman relents and leaves the hotel with the first man.
+
+==Cast==
+<!-- in order in the film's credits -->
+* [[Giorgio Albertazzi]] as the man
+* [[Delphine Seyrig]] as the woman
+* [[Sacha Pitoëff]] as the second man, who may be the woman's husband
+
+Although the characters are unnamed in the film, in Robbe-Grillet's published "ciné-novel" of the screenplay, the first man is referred to as "X", the woman as "A", and the second man as "M".
+
+==Production==
+''Last Year at Marienbad'' was created out of an unusual collaboration between writer [[Alain Robbe-Grillet]] and director [[Alain Resnais]]. Robbe-Grillet described its basis:
+{{blockquote|Alain Resnais and I were able to collaborate only because we saw the film in the same way from the start; and not just in the same general outlines but exactly, in the construction of the least detail as in its total architecture. What I wrote might have been what was already in his mind; what he added during the shooting was what I might have written. ... [P]aradoxically enough, and thanks to this perfect identity of our conceptions, we almost always worked separately.{{sfn|Robbe-Grillet|1962|p=8}}}}
+
+The screenplay Robbe-Grillet wrote was very detailed, specifying not only the dialogue and gestures and décor, but also the placement and movement of the camera and the sequencing of shots in the editing. Resnais filmed the script with great fidelity, and when Robbe-Grillet, who was not present during the filming, saw the rough cut, he said he found the film just as he had intended it, while recognizing how much Resnais had added to make it work on the screen and fill out what was absent from the script. Robbe-Grillet published his screenplay, illustrated by shots from the film, calling it a "''ciné-roman''" (ciné-novel).{{sfn|Robbe-Grillet|1962|pages=9–10}}
+
+Despite the close correspondence between the written and filmed works, numerous differences between them have been identified. Two notable examples are the choice of music in the film (Francis Seyrig's score introduces extensive use of a solo organ), and a scene near the end of the film in which the screenplay explicitly describes a rape, whereas the film substitutes a series of repeated [[Exposure (photography)#Overexposure and underexposure|overexposed]] [[tracking shot]]s moving towards the smiling woman.{{sfn|Leutrat|2000|pages=52–60}} In statements by the two authors of the film in the decades after its release, it was partly acknowledged that they did not entirely share the same vision of it. According to Resnais, Robbe-Grillet used to insist that it was he who wrote ''Marienbad'', without question, and that Resnais's filming of it was a betrayal—but that, since he found it very beautiful, he did not blame Resnais for it.{{sfn|Benayoun|1980|p=103}}
+
+Filming took place, using black-and-white film and the [[List of anamorphic format trade names|Dyaliscope widescreen process]], over a period of ten weeks between September and November 1960. Most of [[Delphine Seyrig]]'s dresses in the film were designed by [[Chanel]].{{sfn|Leutrat|2000|p=70}}{{sfn|Wilson|2006|p=73}} The locations used for most of the interiors and the gardens were the palaces of [[Schleissheim Palace|Schleissheim]] and [[Nymphenburg Palace|Nymphenburg]] (including the [[Amalienburg]] hunting lodge) and the Antiquarium of the [[Munich Residenz]], all in [[Munich]]. Additional interior scenes were filmed in the Photosonore-Marignan-Simo studios in [[Paris]]. No filming was done in [[Mariánské Lázně]] (Marienbad), nor does the film clarify which scenes, if any, are supposed to be set there.{{sfn|Monaco|1978|pages=57–9}}{{sfn|Leutrat|2000|p=70}}<ref>{{cite news |last=Baecque |first=Antoine de |author-link=Antoine de Baecque |url=http://next.liberation.fr/cinema/2004/08/27/ce-lieu-reel-n-existe-pas-ou-si-peu_490428 |title="Ce lieu réel n'existe pas, ou si peu..." |newspaper=[[Libération]] |language=fr |date=27 August 2004 |access-date=10 October 2015}}</ref> 
+
+===Style===
+[[File:last year marienbad.jpg|thumb|left|Still from ''Last Year at Marienbad''. In this surreal image, the people cast long shadows, but the trees do not, because the shadows were painted and the scene shot on an overcast day.]]
+
+In determining the visual appearance of the film, Resnais said he wanted to recreate "a certain style of silent cinema", which he sought to produce through his direction as well as the actors' make-up;{{sfn|Armes|1968|p=105}} he even asked [[Eastman Kodak]] if they could supply an old-fashioned film stock that would "bloom" or "halo" to create the look of a silent film, but they could not.{{sfn|Monaco|1978|p=55}} Resnais showed his costume designer photographs from [[Marcel L'Herbier]]'s ''[[L'Inhumaine]]'' (1924) and ''[[L'Argent (1928 film)|L'Argent]]'' (1928), for which great fashion designers of the 1920s had created the costumes, and asked members of his team to look at other silent films, particularly [[G. W. Pabst]]'s ''[[Pandora's Box (1929 film)|Pandora's Box]]'' (1929), as he wanted Seyrig's appearance and manner to resemble that of [[Louise Brooks]] in that film.<ref>Renais interview on Criterion supplemental DVD</ref> The style of silent films is also suggested by the manner in which the characters who populate the hotel are mostly seen in artificial poses rather than behaving naturalistically.{{sfn|Monaco|1978|p=64}}
+
+The film creates ambiguity in the spatial and temporal aspects of what it shows and creates uncertainty in the mind of the spectator about the causal relationships between events. This is achieved through editing by giving apparently incompatible information in consecutive shots, or within a single shot that seems to show impossible juxtapositions, or by means of repetitions of events in different settings. These ambiguities are matched by contradictions in the narrator's voice-over commentary.<ref>{{cite book |last1=Bordwell |first1=David |author-link1=David Bordwell |last2=Thompson |first2=Kristin |author-link2=Kristin Thompson |url=https://archive.org/details/filmartintroduct00bord_0/page/390/mode/2up |title=Film Art: An Introduction |edition=4th |location=New York |publisher=[[McGraw-Hill]] |year=1993 |pages=391–6 |isbn=978-0-0711-2943-5 |url-access=registration}}</ref> Among the notable images in the film is a scene in which two characters (and the camera) rush out of the château and are faced with a tableau of figures arranged in a geometric garden; although the people cast long dramatic shadows (which were painted on the ground), the trees in the garden do not (and are, in fact, not real trees, but constructions).
+
+The manner in which the film is edited creates a highly [[nonlinear narrative]].{{sfn|Monaco|1978|p=53}} It allowed the themes of time and the mind and the interaction of past and present to be explored in an original way.{{sfn|Armes|1968|p=185}} As the methods of filming and editing destroyed spatial and temporal continuity, the film offers instead a "mental continuity", a continuity of thought.{{sfn|Brunius|1962|p=123}}
+
+While films that immediately preceded and followed ''Marienbad'' in Resnais's career showed a political engagement with contemporary issues, ''Marienbad'' focused principally on style.{{sfn|Monaco|1978|p=53}} Commenting on this departure, Resnais said: "I was making this film at a time when I think, rightly, that one could not make a film, in France, without speaking about the [[Algerian War]]. Indeed I wonder whether the closed and stifling atmosphere of ''L'Année'' does not result from those contradictions."{{sfn|Wilson|2006|loc=p. 84: "Et faire ce film au moment où je crois, justement, qu'on ne peut faire de film, en France, sans parler de la guerre d'Algérie. D'ailleurs, je me demande si l'atmosphère close et étouffante de ''L'Année'' ne résulte pas de ces contradictions."}}
+
+==Reception==
+===Critical response===
+Contemporary critical response to the film was polarized.{{sfn|Benayoun|1980|pages=84–5}}{{sfn|Leutrat|2000|pages=7–8}} The controversy was fueled when Robbe-Grillet and Resnais appeared to give contradictory answers when asked whether the man and woman had actually met at Marienbad last year or not, as this was used as a means of attacking the film by those who disliked it.{{sfn|Brunius|1962|p=122}}
+
+In 1963, filmmaker and writer [[Adonis A. Kyrou|Ado Kyrou]] declared the film a total triumph in his book ''Le Surréalisme au cinéma'', recognizing the ambiguous environment and obscure motives within the film as representing many of the concerns of [[surrealism]] in narrative cinema.<ref>{{cite book |last=Kyrou |first=Ado |author-link=Adonis A. Kyrou |title=Le Surréalisme au cinéma |language=fr |edition=updated |location=Paris |publisher=Le Terrain Vague |year=1963 |page=206}}</ref> Another early supporter, actor and surrealist [[Jacques B. Brunius|Jacques Brunius]], declared that "''Marienbad'' is the greatest film ever made".{{sfn|Brunius|1962|pages=122–7, 153}}
+
+Less reverently, film critic [[Pauline Kael]] called ''Marienbad'' "the high-fashion experimental film, the snow job at the ice palace ... back at the no-fun party for non-people".<ref>{{cite book |last=Kael |first=Pauline |author-link=Pauline Kael |url=https://archive.org/details/ilostitatmovies0000kael/page/186/mode/2up |title=I Lost It at the Movies |location=Boston |publisher=[[Atlantic Monthly Press]] |year=1965 |page=186 |url-access=registration}}</ref> The film was included in ''[[The Fifty Worst Films of All Time]]'' (1978), in which authors Harry Medved and Randy Dreyfuss lampooned its surrealistic style and quoted numerous critics who found it to be pretentious or incomprehensible.<ref>{{cite book |last1=Medved |first1=Harry |last2=Dreyfuss |first2=Randy |url=https://archive.org/details/fiftyworstfilmso0000medv/page/142/mode/2up |title=The Fifty Worst Films of All Time (and How They Got That Way) |location=New York |publisher=[[Popular Library]] |year=1978 |pages=143–6 |isbn=978-7-0273-5805-5 |url-access=registration}}</ref>
+
+Although it remains disparaged by some critics, ''Last Year at Marienbad'' has come to be regarded by many as one of Resnais's greatest works. [[Review aggregation]] website ''They Shoot Pictures, Don't They'' has determined it to be the 83rd most acclaimed film in history,<ref>{{cite web |title=1,000 Greatest Films (Full List) |url=http://www.theyshootpictures.com/gf1000_all1000films_table.php |access-date=18 January 2016 |website=They Shoot Pictures, Don't They}}</ref> and it received 23 votes in the [[British Film Institute]]'s decennial ''[[Sight and Sound]]'' polls.<ref>{{cite web |url=http://explore.bfi.org.uk/sightandsoundpolls/2012/film/4ce2b6bfecaeb |title=''Last Year at Marienbad'' (1961) |publisher=[[British Film Institute]] |access-date=18 January 2016 |archive-url=https://web.archive.org/web/20120820040912/http://explore.bfi.org.uk/sightandsoundpolls/2012/film/4ce2b6bfecaeb |archive-date=20 August 2012}}</ref> Japanese filmmaker [[Akira Kurosawa]] cited it as one of his 100 favorite films.<ref>{{cite magazine |last=Thomas-Mason |first=Lee |title=From Stanley Kubrick to Martin Scorsese: Akira Kurosawa once named his top 100 favourite films of all time |url=https://faroutmagazine.co.uk/akira-kurosawa-100-favourite-films-list/ |magazine=Far Out |date=15 June 2023 |access-date=10 June 2021}}</ref><ref>{{cite web |title=Akira Kurosawa's Top 100 Movies! |url=http://wildgrounds.com/index.php/2009/01/17/akira-kurosawas-top-100-movies/ |website=Wildgrounds |access-date=10 June 2021 |archive-url=https://web.archive.org/web/20100327124349/http://wildgrounds.com/index.php/2009/01/17/akira-kurosawas-top-100-movies/ |archive-date=27 March 2010}}</ref> 
+
+On the [[review aggregator]] website [[Rotten Tomatoes]], ''Last Year at Marienbad'' holds an approval rating of 93% based on 57 reviews, with an average rating of 8.2/10. The website's critics consensus reads: "Elegantly enigmatic and dreamlike, this work of essential cinema features exquisite cinematography and an exploration of narrative still revisited by filmmakers today."<ref>{{cite web|url=https://www.rottentomatoes.com/m/last_year_at_marienbad|title=Last Year at Marienbad|website=[[Rotten Tomatoes]]|access-date=20 September 2023}}</ref> 
+
+===Accolades===
+The film was refused entry to the [[Cannes Film Festival]], reportedly because Resnais had signed [[Jean-Paul Sartre]]'s [[Manifesto of the 121]] against the [[Algerian War]],<ref>{{Cite web |url=https://www.critic.de/film/letztes-jahr-in-marienbad-2001/ |title=Letztes Jahr in Marienbad |last=Steinlein |first=Almut |website=Critic.de |date=12 January 2010 |language=de |access-date=6 November 2011}}</ref> but it won the [[Golden Lion]] at the [[22nd Venice International Film Festival]] in 1961. In 1962, it was chosen as the best French film of the previous year by the [[French Syndicate of Cinema Critics]]. It was selected as the French entry for [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[34th Academy Awards]] in 1962 and, though it was not chosen as one of the five nominees for that award,<ref>Margaret Herrick Library, Academy of Motion Picture Arts and Sciences.</ref> Robbe-Grillet was nominated for the [[Academy Award for Best Original Screenplay]] the [[35th Academy Awards|following year]] for his work on the film.<ref name="Oscars1963">{{Cite web |url=https://www.oscars.org/oscars/ceremonies/1963 |title=The 35th Academy Awards {{!}} 1963 |access-date=29 October 2011 |publisher=[[Academy of Motion Picture Arts and Sciences]]}}</ref> The film was also nominated for a [[Hugo Award]] in the [[Hugo Award for Best Dramatic Presentation|Best Dramatic Presentation]] category.<ref>{{cite web |url=https://www.thehugoawards.org/hugo-history/1963-hugo-awards/ |title=1963 Hugo Awards |date=26 July 2007 |publisher=[[World Science Fiction Society]] |access-date=5 September 2023}}</ref>
+
+==Interpretations==
+Numerous explanations of the film's events have been put forward, among them: that it is a version of the [[Orpheus#Death of Eurydice|Orpheus and Eurydice]] myth, that it represents the relationship between patient and psychoanalyst, that it all takes place in the woman's mind,{{sfn|Armes|1968|p=184}} that it all takes place in the man's mind and depicts his refusal to acknowledge he has killed the woman he loved,<ref>{{cite book |last=Ward |first=John |title=Alain Resnais, or the Theme of Time |location=London |publisher=[[Secker & Warburg]] |year=1968 |page=39 |isbn=978-0-4360-9867-3}}</ref> and that the characters are ghosts or dead souls in limbo.{{sfn|Leutrat|2000|pages=28–30}} Some have noted the film has the atmosphere and the form of a dream, and claim the structure of the film may be understood by the analogy of a recurring dream,{{sfn|Brunius|1962|pages=124–6}} or even that the man's meeting with the woman is the memory (or dream) of a dream.{{sfn|Benayoun|1980|pages=99–100}}
+
+Others have heeded, at least as a starting point, the indications given by Robbe-Grillet in the introduction to his "ciné-novel" of the screenplay: "Two attitudes are then possible: either the spectator will try to reconstitute some 'Cartesian' scheme—the most linear, the most rational he can devise—and this spectator will certainly find the film difficult if not incomprehensible; or else the spectator will let himself be carried along by the extraordinary images in front of him ... and to this spectator, the film will seem the 'easiest' he has ever seen: a film addressed exclusively to his sensibility, to his faculties of sight, hearing, feeling."{{sfn|Robbe-Grillet|1962|p=14}} As a suggestion of how one might view the work, he offered, "The whole film, as a matter of fact, is the story of a persuasion: it deals with a reality which the hero creates out of his own vision, out of his own words."{{sfn|Robbe-Grillet|1962|p=10}}
+
+Resnais, for his part, gave a more abstract explanation of the film's purpose: "For me this film is an attempt, still very crude and very primitive, to approach the complexity of thought, of its processes."{{sfn|Benayoun|2008|loc=pp. 105–106: "Ce film est pour moi une tentative, encore très grossière and très primitive, d'approcher la complexité de la pensée, de son mécanisme."}}
+
+==Influence==
+The impact of ''Last Year at Marienbad'' upon other filmmakers has been widely recognized and variously illustrated, extending from French directors such as [[Agnès Varda]], [[Marguerite Duras]], and [[Jacques Rivette]] to international figures such as [[Ingmar Bergman]] and [[Federico Fellini]].{{sfn|Benayoun|2008|p=106}} [[Stanley Kubrick]]'s ''[[The Shining (film)|The Shining]]'' (1980)<ref>{{cite web |last=Polizzotti |first=Mark |url=https://www.criterion.com/current/posts/1177-last-year-at-marienbad-which-year-at-where |title=''Last Year at Marienbad'': Which Year at Where? |publisher=[[The Criterion Collection]] |date=22 June 2009 |access-date=11 November 2011}}</ref> and [[David Lynch]]'s ''[[Inland Empire (film)|Inland Empire]]'' (2006)<ref>{{cite news |last=Harris |first=Mark |author-link=Mark Harris (journalist) |url=https://www.nytimes.com/2008/01/13/movies/13harr.html |title='Marienbad' Returns, Unsettling as Ever |newspaper=[[The New York Times]] |date=13 January 2008 |access-date=5 September 2023 |url-access=limited |archive-url=https://web.archive.org/web/20180624150516/https://www.nytimes.com/2008/01/13/movies/13harr.html |archive-date=24 June 2018 |url-status=live}}</ref> are often cited as showing the influence of ''Marienbad''. [[Terence Young (director)|Terence Young]] stated that he styled the [[Pre-credit|pre-credits sequence]] of the [[List of James Bond films|''James Bond'' film]] ''[[From Russia with Love (film)|From Russia with Love]]'' (1963) after ''Marienbad''.<ref>{{cite book |last=Rubin |first=Steven Jay |url=https://archive.org/details/jamesbondfilmsbe0000rubi/page/26/mode/2up |title=The James Bond Films: A Behind the Scenes History |location=Westport, Connecticut |publisher=[[Arlington House Publishers|Arlington House]] |year=1981 |page=27 |isbn=978-0-87000-524-4 |url-access=registration}}</ref> [[Peter Greenaway]] said the film had been the most important influence upon his own filmmaking (and he himself would go on to establish a close working relationship with its cinematographer, [[Sacha Vierny]]).<ref>{{cite news |last=Whitley |first=John |url=https://www.telegraph.co.uk/culture/film/filmmakersonfilm/3618933/Film-makers-on-film-Peter-Greenaway.html |title=Film-makers on film: Peter Greenaway |newspaper=[[The Daily Telegraph]] |date=14 June 2004 |access-date=11 November 2011 |url-access=subscription |archive-url=https://web.archive.org/web/20180428185610/https://www.telegraph.co.uk/culture/film/filmmakersonfilm/3618933/Film-makers-on-film-Peter-Greenaway.html |archive-date=28 April 2018 |url-status=live}}</ref>
+
+The film's visual style has been imitated in many TV commercials and fashion photography.<ref>{{cite news |last=French |first=Philip |author-link=Philip French |url=https://www.theguardian.com/theobserver/2007/apr/22/1 |title=Last Year in Marienbad |newspaper=[[The Observer]] |date=22 April 2007 |access-date=11 November 2011}}</ref> The music video for English rock group [[Blur (band)|Blur]]'s 1994 single "[[To the End (Blur song)|To the End]]" parodies the film, with frontman [[Damon Albarn]] as X and guitarist [[Graham Coxon]] as M.<ref>{{cite web |last=Snider |first=Eric |url=https://www.mtv.com/news/8ejfkd/whats-the-big-deal-last-year-at-marienbad-1961 |archive-url=https://web.archive.org/web/20230906013400/https://www.mtv.com/news/8ejfkd/whats-the-big-deal-last-year-at-marienbad-1961 |url-status=dead |archive-date=6 September 2023 |title=What's the Big Deal?: Last Year at Marienbad (1961) |publisher=[[MTV News]] |date=26 July 2010 |access-date=5 September 2023}}</ref>
+
+The film inspired a brief craze for the variation of [[Nim]] played by the characters.<ref>{{cite magazine |url=http://www.time.com/time/magazine/article/0,9171,829129,00.html |title=Games: Two on a Match |magazine=[[Time (magazine)|Time]] |date=23 March 1962 |access-date=23 November 2011 |archive-url=https://web.archive.org/web/20110219062106/http://www.time.com/time/magazine/article/0%2C9171%2C829129%2C00.html |archive-date=19 February 2011}}</ref>
+
+''Marienbad'' served as the main inspiration for [[Karl Lagerfeld]]'s [[Chanel]] spring–summer 2011 collection, as [[Coco Chanel]] designed the costumes for the film.<ref>{{cite news |last=Menkes |first=Suzy |author-link=Suzy Menkes |url=https://www.nytimes.com/2010/10/06/fashion/06iht-rchanel.html |title=Chanel's Year in Marienbad |newspaper=The New York Times |date=5 October 2010 |access-date=11 November 2011 |url-access=limited |archive-url=https://web.archive.org/web/20181025072650/https://www.nytimes.com/2010/10/06/fashion/06iht-rchanel.html |archive-date=25 October 2018 |url-status=live}}</ref> The setting for Lagerfeld's show consisted of a fountain and a modern replica of the film's garden.<ref>{{cite magazine |last=Blanks |first=Tim |author-link=Tim Blanks |url=https://www.vogue.com/fashion-shows/spring-2011-ready-to-wear/chanel |title=Chanel Spring 2011 Ready-to-Wear |magazine=[[Vogue (magazine)|Vogue]] |date=4 October 2010 |access-date=5 September 2023}}</ref><ref>{{cite news |last=Horyn |first=Cathy |author-link=Cathy Horyn |url=https://archive.nytimes.com/runway.blogs.nytimes.com/2010/10/05/casting-elegant-shadows-in-chanels-garden/ |title=Casting Elegant Shadows in Chanel's Garden |newspaper=The New York Times |date=5 October 2010 |access-date=5 September 2023}}</ref> For Chanel's spring–summer 2023 collection, designer [[Virginie Viard]] reused Lagerfeld's idea of basing a collection around the film.<ref>{{cite magazine |last=Holgate |first=Mark |url=https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/chanel |title=Chanel Spring 2023 Ready-to-Wear Collection |magazine=Vogue |date=4 October 2022 |access-date=5 September 2023}}</ref><ref>{{cite news |last=Cartner-Morley |first=Jess |author-link=Jess Cartner-Morley |url=https://www.theguardian.com/fashion/2022/oct/04/we-prefer-a-dream-over-controversy-chanel-at-paris-fashion-week |title='We prefer a dream over controversy': Chanel at Paris fashion week |newspaper=[[The Guardian]] |date=4 October 2022 |access-date=7 October 2022}}</ref>
+
+==Home media and restoration==
+On 23 June 2009, [[The Criterion Collection]] released ''Last Year at Marienbad'' in the United States, on both Region 1 [[DVD]] and [[Blu-ray]].<ref>{{cite web |last=Mathews |first=Jeremy |url=https://www.dvdtalk.com/reviews/review/37683 |title=Last Year at Marienbad |website=[[DVD Talk]] |date=22 June 2009 |access-date=5 September 2023}}</ref><ref>{{cite web |url=https://www.amazon.com/Last-Marienbad-Criterion-Collection-Blu-ray/dp/B001WLMOHI/ |title=Last Year at Marienbad (The Criterion Collection) [Blu-ray] |website=[[Amazon (company)|Amazon]] |access-date=2 February 2013}}</ref> [[Alain Resnais]] participated in this release, and he insisted it include an unrestored soundtrack in addition to the restored one, saying:
+
+{{Blockquote
+|text=Sound recording and reproduction techniques have changed a lot over the decades. If one remasters a film so as to tailor it to the standards of 2009, there is a danger of altering drastically the balance of the voices, the sound effects, and the music. By correcting so-called flaws, one can lose the style of a film altogether. It is better to respect the sound characteristics of the time, especially as in most cases they do not disturb the viewer anymore after two minutes.<ref>{{cite web |last=Barrett |first=Michael |title=Remember LAST YEAR? Are you sure? |url=https://www.filmscoremonthly.com/daily/article.cfm/articleID/6278/Remember-LAST-YEAR-Are-you-sure/ |website=Film Score Daily |date=21 June 2009 |access-date=25 August 2018}}</ref>
+}}
+
+The Criterion packaging of the film went out of print in March 2013.<ref>{{cite web |url=https://www.criterion.com/current/posts/2711-out-of-print-announcement |title=Out of Print Announcement |publisher=The Criterion Collection |date=29 March 2023 |access-date=2 February 2013}}</ref>
+
+In July 2018, a restored version of ''Last Year at Marienbad'' was selected to be screened in the Venice Classics section of the [[75th Venice International Film Festival]].<ref>{{cite web |url=https://www.labiennale.org/en/news/restored-films-venezia-classici |title=The restored films of Venezia Classici |publisher=[[Venice Biennale]] |date=1 September 2018 |orig-date=13 July 2018 |access-date=22 July 2018}}</ref> The restored version was released theatrically in France on 19 September 2018 by Tamasa Distribution, followed by a DVD and Blu-ray release on 25 September by [[StudioCanal]].<ref>{{cite web |url=http://www.studiocanal.com/en/news/latest-news/4606/last-year-at-marienbad-in-official-selection-at-venice-mostra-in-an-exclusive-restored-version |title=Last Year at Marienbad in official selection at Venice Mostra in an exclusive restored version |publisher=[[StudioCanal]] |date=17 July 2018 |access-date=21 December 2020 |archive-url=https://web.archive.org/web/20191104222210/http://www.studiocanal.com/en/news/latest-news/4606/last-year-at-marienbad-in-official-selection-at-venice-mostra-in-an-exclusive-restored-version |archive-date=4 November 2019}}</ref> In the United States, it was released on DVD and Blu-ray on 25 August 2019 by [[Kino Classics]].<ref>{{cite web |url=https://www.amazon.com/Last-Year-Marienbad-Delphine-Seyrig/dp/B07T2LX57H |title=Last Year at Marienbad [DVD] |website=Amazon |access-date=5 September 2023}}</ref><ref>{{cite web |url=https://www.amazon.com/Last-Year-at-Marienbad-Blu-ray/dp/B07T2LX57J |title=Last Year at Marienbad [Blu-ray] |website=Amazon |access-date=5 September 2023}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+{{Refbegin}}
+* {{cite book |last=Armes |first=Roy |title=The Cinema of Alain Resnais |series=International Film Guide Series |location=London / New York |publisher=[[A. Zwemmer]] / [[A. S. Barnes & Co.]] |year=1968}}
+* {{cite book |last=Benayoun |first=Robert |author-link=Robert Benayoun |title=Alain Resnais: arpenteur de l'imaginaire |language=fr |location=Paris |publisher=[[Stock (publishing house)|Stock]]/Cinéma |year=1980 |isbn=978-2-234-01358-2}}
+* {{cite book |last=Benayoun |first=Robert |title=Alain Resnais: arpenteur de l'imaginaire |language=fr |location=Paris |publisher=[[Ramsay (publishing house)|Ramsay]] |year=2008 |isbn=978-2-841-14928-5}}
+* {{cite magazine |last=Brunius |first=Jacques |author-link=Jacques Brunius |url=https://archive.org/details/Sight_and_Sound_1962_07_BFI_GB/page/n23/mode/2up |title=Every Year in Marienbad |magazine=[[Sight and Sound]] |volume=31 |number=3 |date=Summer 1962 |issn=0037-4806}}
+* {{cite book |last=Leutrat |first=Jean-Louis |url=https://archive.org/details/lanneedernieream0000leut |title=L'Année dernière à Marienbad |series=BFI Film Classics |translator-last=Hammond |translator-first=Paul |location=London |publisher=[[British Film Institute]] |year=2000 |isbn=978-0-85170-821-8 |url-access=registration}}
+* {{cite book |last=Monaco |first=James |author-link=James Monaco |url=https://archive.org/details/alainresnais00mona_0 |title=Alain Resnais |location=New York |publisher=[[Oxford University Press]] |year=1978 |isbn=978-0-1952-0037-9 |url-access=registration}}
+* {{cite book |last=Robbe-Grillet |first=Alain |author-link=Alain Robbe-Grillet |url=https://archive.org/details/lastyearatmarien00robb |title=Last Year at Marienbad |translator-last=Howard |translator-first=Richard |translator-link=Richard Howard |location=New York |publisher=[[Grove Press]] |year=1962 |isbn=978-0-3941-7234-7 |url-access=registration}}
+* {{cite book |last=Wilson |first=Emma |author-link=Emma Wilson |title=Alain Resnais |series=French Film Directors |publisher=[[Manchester University Press]] |year=2006 |isbn=978-0-7190-6406-7}}
+{{Refend}}
+
+==Further reading==
+* {{cite book |editor-last1=Grunenberg |editor-first1=Christoph |editor-last2=Fischer-Hausdorf |editor-first2=Eva |title=Last Year in Marienbad: A Film as Art |location=Cologne |publisher=Wienand Verlag |year=2016}}
+* {{cite journal |last=Hays |first=David L. |url=https://journals.openedition.org/polysemes/3438?lang=en |title=Knowing and Not Knowing, Moving and Not Moving, in Alain Resnais's ''L'Année dernière à Marienbad'' (1961) |journal=Polysèmes |issue=19 |year=2018 |doi=10.4000/polysemes.3438 |doi-access=free}}
+* {{cite book |last=Powell |first=Dilys |editor-last=Cook |editor-first=Christopher |title=The Dilys Powell Film Reader |location=Manchester |publisher=[[Carcanet Press|Carcanet]] |year=1991 |pages=372–3 |isbn=978-0-8563-5912-5}}
+
+==External links==
+* {{IMDb title}}
+* {{Rotten Tomatoes}}
+* [http://www.neugraphic.com/marienbad/index.html ''Last Year at Marienbad''] – comprehensive collection of articles, production information, bibliography, gallery and script details, at Neugraphic
+* [https://www.criterion.com/current/posts/1177-last-year-at-marienbad-which-year-at-where ''Last Year at Marienbad: Which Year at Where?''] – an essay by Mark Polizzotti at [[The Criterion Collection]]
+
+{{Alain Resnais}}
+{{Golden Lion}}
+{{French submission for Academy Awards}}
+
+[[Category:1961 films]]
+[[Category:1960s avant-garde and experimental films]]
+[[Category:1961 French films]]
+[[Category:1961 French-language films]]
+[[Category:1961 Italian films]]
+[[Category:1960s psychological drama films]]
+[[Category:Films directed by Alain Resnais]]
+[[Category:Films produced by Anatole Dauman]]
+[[Category:Films produced by Robert Dorfmann]]
+[[Category:Films set in hotels]]
+[[Category:Films shot in Munich]]
+[[Category:French avant-garde and experimental films]]
+[[Category:French black-and-white films]]
+[[Category:French nonlinear narrative films]]
+[[Category:French-language Italian films]]
+[[Category:Golden Lion winners]]
+[[Category:Italian avant-garde and experimental films]]
+[[Category:Italian black-and-white films]]
+[[Category:Italian nonlinear narrative films]]

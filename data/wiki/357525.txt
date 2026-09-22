@@ -1,0 +1,327 @@
+{{short description|1971 film by Robert Stevenson}}
+{{Use mdy dates|date=March 2025}}
+{{Use American English|date=January 2025}}
+{{Infobox film
+| name           = Bedknobs and Broomsticks
+| image          = Bedknobs and Broomsticks poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Robert Stevenson (director)|Robert Stevenson]]
+| screenplay     = {{Plainlist|
+* [[Bill Walsh (producer)|Bill Walsh]]
+* [[Don DaGradi]]
+}}
+| based_on       = {{Based on|''[[The Magic Bedknob]]'' &<br />''[[Bonfires and Broomsticks]]''|[[Mary Norton (author)|Mary Norton]]}}
+| producer       = Bill Walsh
+| starring       = {{Plainlist|
+* [[Angela Lansbury]]
+* [[David Tomlinson]]
+* [[Roddy McDowall]]
+* [[Sam Jaffe]]
+* [[John Ericson]]
+}}
+| cinematography = [[Frank V. Phillips]]
+| editing        = [[Cotton Warburton]]
+| music          = {{ubl|
+* '''Songs:'''
+* [[Robert B. Sherman]]
+* [[Richard M. Sherman]]
+* '''Score:'''
+* [[Irwin Kostal]]
+}}
+| studio         = [[Walt Disney Pictures|Walt Disney Productions]]<br/>[[Walt Disney Animation Studios|Walt Disney Cartoons]]
+| distributor    = [[Buena Vista Distribution]]
+| released       = {{Film date|1971|10|7|United Kingdom|1971|12|13|United States}}
+| runtime        = 117 minutes (1971 original version)<!--Theatrical runtime: 117:4--><ref>{{Cite web |date=August 11, 1971 |title=''Bedknobs And Broomsticks'' (U) |url=https://www.bbfc.co.uk/release/bedknobs-and-broomsticks-q29sbgvjdglvbjpwwc0yodcwndq |access-date=June 24, 2026 |publisher=[[British Board of Film Classification]] |language=en}}</ref><br />139 minutes (1996 reconstruction version)
+| country        = United States<ref>{{cite web | url=https://catalog.afi.com/Catalog/moviedetails/54025 | website=[[American Film Institute]] | title=Bedknobs and Broomsticks | access-date=November 28, 2017 | archive-date=December 1, 2017 | archive-url=https://web.archive.org/web/20171201203455/https://catalog.afi.com/Catalog/moviedetails/54025 | url-status=live}}</ref><ref>{{cite web | url=http://www.bfi.org.uk/films-tv-people/4ce2b6a4e6cf6 | website=[[British Film Institute]] | title=Bedknobs and Broomsticks | access-date=November 28, 2017 | archive-date=December 1, 2017 | archive-url=https://web.archive.org/web/20171201073437/http://www.bfi.org.uk/films-tv-people/4ce2b6a4e6cf6 | url-status=dead}}</ref>
+| language       = English
+| budget         = $6.3 million<ref>{{cite news | last=Smith | first=Cecil | url=https://www.newspapers.com/newspage/166050539/ | title=Disney studios: it's a hardly a Mickey Mouse operation | newspaper=[[Los Angeles Times]] | url-access=subscription | date=March 22, 1970 | access-date=July 17, 2018 | via=[[Newspapers.com]] | archive-date=June 20, 2021 | archive-url=https://web.archive.org/web/20210620221120/https://www.newspapers.com/newspage/166050539/ | url-status=live}}</ref>
+| gross          = $17.9 million<ref>{{cite web | url=http://www.the-numbers.com/movies/1971/0BNAB.php | website=The Numbers | title=Bedknobs and Broomsticks, Box Office Information | access-date=January 12, 2012 | archive-date=August 15, 2012 | archive-url=https://web.archive.org/web/20120815191604/http://www.the-numbers.com/movies/1971/0BNAB.php | url-status=live}}</ref>
+}}
+'''''Bedknobs and Broomsticks''''' is a 1971 American [[Musical film|musical]] [[fantasy comedy]] film directed by [[Robert Stevenson (director)|Robert Stevenson]] from a screenplay by [[Bill Walsh (producer)|Bill Walsh]] and [[Don DaGradi]] and with songs written by [[the Sherman Brothers]]. It was produced by Walsh for [[Walt Disney Pictures|Walt Disney Productions]] and [[Walt Disney Animation Studios|Walt Disney Cartoons]]. It is based upon the books ''[[The Magic Bedknob]]'' (1943) and ''[[Bonfires and Broomsticks]]'' (1947) by English author [[Mary Norton (author)|Mary Norton]]. It combines [[Live-action animation|live action and animation]], and stars [[Angela Lansbury]], [[David Tomlinson]], [[Roddy McDowall]], [[Sam Jaffe]], and [[John Ericson]].
+
+During the early 1960s, the [[Live-action animation|live-action animated]] film entered development when the negotiations for the film rights to ''[[Mary Poppins (film)|Mary Poppins]]'' (1964) were placed on hold. When the rights were acquired, the film was shelved repeatedly because of its similarities to ''Mary Poppins'' until it was revived in 1969. Originally at a length of 139 minutes, it was edited down to almost two hours before its premiere at [[Radio City Music Hall]].
+
+The film was released on December 13, 1971, to mixed reviews from film critics, some of whom praised the live-action/animated sequence. It received five [[Academy Awards]] nominations, winning one for [[Academy Award for Best Visual Effects|Best Special Visual Effects]]. It was the last film released before the death of [[Walt Disney]]'s surviving brother, [[Roy O. Disney]], who died one week later. It was also the last theatrical film [[Reginald Owen]] appeared in before his death the following year on November 5, 1972; his last two acting credits were for television. It was also the last film work of screenwriter [[Don DaGradi]] before his retirement in 1970 and death on August 4, 1991.
+
+In 1996, the film was restored with most of the deleted material re-inserted back into it. A [[Bedknobs and Broomsticks (musical)|stage musical adaptation]] of it had its world premiere at the [[Theatre Royal, Newcastle|Theatre Royal]] in [[Newcastle upon Tyne]] on 14 August 2021 before embarking on a UK and Ireland tour until May 2022.<ref>{{Cite web|date=2021-05-10|title=Bedknobs & Broomsticks Musical UK Tour – Bedknobs & Broomsticks Tickets 2021|url=https://britishtheatre.com/bedknobs-and-broomsticks-musical-uk-tour/|access-date=2021-06-04|website=British Theatre|language=en-GB}}</ref>
+
+==Plot==
+<!--Per WP:FILMPLOT, plot summaries should be between 400-700 words. Current summary is 696 words.-->
+In August 1940, during [[the Blitz]], three orphans named Charles, Carrie, and Paul Rawlins are [[Evacuations of civilians in Britain during World War II|evacuated]] from [[London]] to Pepperinge Eye near the [[Dorset]] coast, where they are placed in the reluctant care of Miss Eglantine Price, who is secretly a witch. She agrees to a temporary arrangement. The children attempt to run back to London, but they change their minds after observing Miss Price flying on a broomstick. Revealing that she is learning witchcraft through a [[Distance education|correspondence school]] with hopes of using her magic spells in the [[United Kingdom|British]] war effort against the [[Wehrmacht|German Army]], Miss Price offers the children a traveling spell on the bedknob in exchange for their silence, which they accept. Later, she receives a letter from the school announcing its imminent closure, thus preventing her from learning the final spell. Miss Price convinces the children to use the bedknob to head for London and locate her teacher Professor Emelius Browne.
+
+Mr. Browne turns out to be a charismatic street magician, who created the course from an old book as a joke, only to be shocked to learn that the spells work. He gives the book to Miss Price, who is disappointed to discover the final spell called Substitutiary Locomotion is missing the key pages. The group travels to [[Portobello Road#Portobello Road Market|Portobello Road]] to locate the old bookseller who sold Browne the book; the missing pages reveal that the spell is not in the book. Instead, it is engraved on the Star of Astoroth, a medallion that belonged to the sorcerer of that name. The bookseller explains that Astoroth experimented with magic on certain animals before [[anthropomorphism]] drove the animals to kill the wizard, take the medallion, and flee to a distant island called Naboombu. According to the book's final notation, a 17th-century [[lascar]] had claimed to have seen Naboombu, but the bookseller never found it. Paul confirms its existence by revealing a picture storybook that he found in Mr. Browne's townhouse.
+
+The group travels to Naboombu and lands in the lagoon, where Mr. Browne and Miss Price enter a dance contest and win first prize. However, the bed gets fished out by a bear, who informs the group that humans are forbidden on the island by royal decree. They are brought before the ruler King Leonidas, who is revealed to be wearing the Star of Astoroth. Mr. Browne acts as referee in a [[Association football|soccer match]] in order to appease King Leonidas and the animals' desire for the game. The chaotic match ends in King Leonidas' self-proclaimed victory, but Mr. Browne swaps the medallion with his referee whistle. The group manages to escape back to Miss Price's house.
+
+Miss Price exercises the Substitutiary Locomotion spell, which imbues inanimate objects with life. Unfortunately, they quickly go out of control. When she is informed that the children can be moved to another home, she decides to let them stay, realizing she has come to care for them and vice versa. The children even beg Mr. Browne to become their father so they can become a family, but Mr. Browne later bids farewell to the group, and then sleeps at the train depot so that he can catch a train back to London in the morning.
+
+A platoon of German commandos land on the coast via [[U-boat]], invading Miss Price's house to use as their headquarters for a fear-spreading raid, while imprisoning her and the children at the local museum. At the train station, Mr. Browne subdues two German soldiers and heads back to Miss Price's house. There, he turns himself into a white rabbit to avoid the soldiers. Reuniting with Miss Price and the children at the museum, Mr. Browne inspires Miss Price to use the Substitutiary Locomotion spell to enchant the exhibits into an army. The army of knights' armor and military uniforms chases the German commandos away, but not before destroying Miss Price's workshop, breaking the spell and ending her career as a witch. Despite this, Miss Price is glad to learn that she played a small part in the war effort.
+
+Afterwards, Miss Price decides to adopt the children with Mr. Browne. He departs with the [[Home Guard (United Kingdom)|Home Guard]] he previously enlisted in. While the soldiers leave for duty, the children become despondent their lives will not be as eventful anymore, but Paul reminds them he still has the magical bedknob, hinting at more adventures to come.
+
+==Cast==
+<!-- in the same order as the film's closing credits -->
+* [[Angela Lansbury]] as Miss Eglantine Price. Miss Price is initially a somewhat reclusive woman, reluctant to take in children from London as she believes they will get in the way of her witchcraft, which she prefers to keep secret but hopes to use to bring the nascent World War II to an end. However, she bonds with the children and falls in love with Mr. Browne during their journey. She becomes the adoptive mother to the Rawlins siblings at the end of the film.
+* [[David Tomlinson]] as Mr. Emelius Browne. Introduced as "Professor Browne", the title by which Miss Price knows him, he is running a Correspondence College of Witchcraft based on what he believes to be "nonsense words" found in an old book. When Miss Price and the children find him in London, he is revealed to be a street performer and con artist, and not a very good one. He is, however, a smooth talker, which proves useful on the group's adventures, and believes in doing everything "with a flair". As the adventures unfold, he finds himself developing an attachment to Miss Price and the children, a feeling he struggles with; Browne becomes the adoptive father to the Rawlins siblings at the end of the film and enlists himself in the military, while promising his new family that he will return.
+* [[Roddy McDowall]] as Mr. Rowan Jelk, the local clergyman. Deleted scenes reveal Mr. Jelk to be interested in marrying Miss Price, largely for her property.
+* [[Sam Jaffe]] as Bookman, a mysterious criminal also in pursuit of the Substitutiary Locomotion spell. It is implied that there is some history and bad blood between him and Mr. Browne.
+* [[John Ericson]] as Colonel Heller, leader of the German raiding party which comes ashore at Pepperinge Eye.
+* [[Bruce Forsyth]] as Swinburne, a [[spiv]] and associate of the Bookman's who acts as his muscle.
+* [[Cindy O'Callaghan]] as Carrie Rawlins. Slightly younger than Charlie, she takes on a motherly attitude toward her brothers, especially Paul. She is the first to encourage a friendly relationship between Miss Price and the children. 
+* Roy Snart as Paul Rawlins. Paul is about six; his possession of the bedknob and the Isle of Naboombu children's book lead to the group's adventures as well as the eventual solution to the quest for the Substitutiary Locomotion spell. Paul is prone to blurting out whatever is on his mind, which occasionally leads to trouble.
+* Ian Weighill as Charles "Charlie" Rawlins. Charlie is the eldest of the orphaned Rawlins children; eleven, going on twelve, according to Carrie, an age which Miss Price calls "The Age of Not Believing". Accordingly, he is initially cynical and disbelieving of Miss Price's magical efforts, but comes around as time goes on; it is at his initial suggestion that Ms. Price uses the Substitutiary Locomotion spell on the museum artifacts.
+* [[Tessie O'Shea]] as Mrs. Jessica "Jessie" Hobday, the local postmistress of Pepperinge Eye and chairman of the War Activities Committee.
+* [[Arthur Gould-Porter]] as Captain Ainsley Greer, a British Army captain who comes from HQ in London to inspect the Home Guard and becomes lost in the area. He is constantly running into locals who suspect him of being a Nazi in disguise.
+* [[Reginald Owen]] as Major General Sir Brian Teagler, commander of the local Home Guard.
+* [[Cyril Delevanti]] as Elderly Farmer
+* [[Hank Worden]] as Old Home Guardsman (uncredited)
+
+===Voices===
+* [[Bob Holt (actor)|Bob Holt]] as Codfish, a denizen of the Naboombu lagoon who judges the underwater dance contest.
+* [[Lennie Weinrib]] as King Leonidas, a [[lion]] who is the ruler of the Isle of Naboombu. He is a devoted soccer player with a fearsome temper, as well as a notorious cheat who is known to make up the rules as he goes along, according to Paul's book. Leonidas' voice is based on [[Robert Newton]]'s interpretation of [[Long John Silver]] from Disney's [[Treasure Island (1950 film)|live-action adaptation]] of ''[[Treasure Island]]''.
+** Weinrib also voices [[Secretary bird|Secretary Bird]], a prim and proper type who is King Leonidas's secretary, and often bears the brunt of the King's outbursts.
+* [[Dallas McKennon]] as Bear, a [[brown bear]] who is a sailor and fisherman on the Isle of Naboombu. He is the one who pulls the bed, with Miss Price's group on it, out of the lagoon with his fishing pole, and takes them to see the King after warning them of his temper.
+
+==Production==
+English author [[Mary Norton (writer)|Mary Norton]] published her first children's book, ''[[The Magic Bedknob|The Magic Bed-Knob]]'', in 1943. In August 1945, Walt Disney purchased the film rights to the book. Norton then published ''[[Bonfires and Broomsticks]]'' in 1947, and the two children's books were then combined into ''Bed-Knob and Broomstick'' in 1957. In 1961, Disney was in negotiations for the film rights to ''[[Mary Poppins (book series)|Mary Poppins]]'' with [[P. L. Travers]]; a film adaptation of ''Bedknobs and Broomsticks'' was suggested as an alternative project in case the rights were refused. During the meantime, Disney instructed [[Sherman Brothers|Robert and Richard Sherman]] to begin development on the project.{{sfn|Koenig|1997|pp=145–146}} Sometime later, the Sherman Brothers held a story conference with producer [[Bill Walsh (producer)|Bill Walsh]] and screenwriter [[Don DaGradi]], in which the Shermans sang a demo version of the song "Eglantine". During the conference, Disney fell asleep in his chair, a moment DaGradi later immortalized in a sketch. Richard Sherman explained, "[Disney] might have been tired that day..."<ref>{{cite interview |last=Noyer |first=Jérémie |url=http://animatedviews.com/2009/richard-m-sherman-on-bedknobs-and-broomsticks-a-solid-songwriter/ |title=Richard M. Sherman on Bedknobs And Broomsticks: a Solid Songwriter! |website=Animated Views |date=September 21, 2009 |access-date=July 17, 2018 |archive-date=July 18, 2018 |archive-url=https://web.archive.org/web/20180718055148/http://animatedviews.com/2009/richard-m-sherman-on-bedknobs-and-broomsticks-a-solid-songwriter/ |url-status=live}}</ref> When Disney purchased the rights to ''Mary Poppins'', the ''Bedknobs'' project was shelved.{{sfn|Koenig|1997|pp=145–146}}{{sfn|Sherman|Sherman|1998|p=162}}
+
+In April 1966, the project (re-titled as ''The Magic Bedpost'') was placed back into development, with the Sherman Brothers and [[Irwin Kostal]] set to resume their musical collaboration.<ref>{{cite magazine |url=https://archive.org/details/sim_variety_1966-04-13_242_8/page/4/mode/1up |title=Disney Evokes Fantasy A La 'Poppins'; Repeat Talent in 'Magic Bed' |magazine=Variety |page=4 |date=April 13, 1966 |access-date=November 17, 2022 |via=Internet Archive}}</ref> However, the project was shelved again because of its similarities to ''[[Mary Poppins (film)|Mary Poppins]]'' (1964). As the Sherman Brothers' contract with the Disney studios was set to expire in 1968, they were contacted by Bill Walsh in their office to start work on the film. Then, Walsh, DaGradi, and the Sherman Brothers re-assembled to work on the storyline for several months. Although there was no plan to place the film into production at the time, Walsh promised the Shermans that he would call them back to the studio and finish the project. He eventually did in November 1969.{{sfn|Sherman|Sherman|1998|p=162}} 
+
+Throughout 1970 and 1971, the Sherman Brothers reworked their musical compositions for the film. The song "[[The Beautiful Briny]]" was originally written for ''Mary Poppins'', for a sequence where Mary sends the Banks children to several exotic locations by spinning a compass, but the sequence was deleted. The song was ultimately used in ''Bedknobs and Broomsticks'' instead.{{sfn|Koenig|1997|p=146}}{{sfn|Sherman|Sherman|1998|p=166}}
+
+===Casting===
+[[Leslie Caron]], [[Lynn Redgrave]], [[Judy Carne]], and [[Julie Andrews]] were all considered for the role of Eglantine Price.{{sfn|Maltin|1995|p=262}} Andrews was initially offered the part, but hesitated, afraid of being typecast. Walsh later contacted [[Angela Lansbury]], who signed onto the role on Halloween: October 31, 1969. Shortly after, Andrews, feeling she owed Disney for her film career, contacted Walsh to accept the role, only to learn that Lansbury had been cast.<ref>{{cite book|last=Stirling|first=Richard|title=Julie Andrews: An Intimate Biography|year=2009|page=240|publisher=[[St. Martin's Press]]|isbn=978-0-312-56498-8}}</ref><ref name="Witch'sBrew">{{cite web |url=https://d23.com/a-witchs-brew-of-a-perfect-movie/ |title=A Witch's Brew of a Perfect Movie |date=11 November 2009 |website=[[D23 (Disney)|D23]] |access-date=July 17, 2018 |archive-date=April 14, 2021 |archive-url=https://web.archive.org/web/20210414150940/https://d23.com/a-witchs-brew-of-a-perfect-movie/ |url-status=live}}</ref> Although [[Peter Ustinov]] was considered,<ref name="Witch'sBrew" /> [[Ron Moody]] accepted the role as Emelius Browne. However, Moody dropped out of the project before filming began.<ref name="Witch'sBrew" /> He was replaced by ''Mary Poppins'' alumnus [[David Tomlinson]].{{sfn|Koenig|1997|p=146}}{{sfn|Maltin|1995|p=262}}
+
+The three Rawlins children—Charlie, Carrie, and Paul—were played by Ian Weighill, [[Cindy O'Callaghan]], and Roy Snart respectively. Weighill had previously dropped out of school and began his acting career in an uncredited role as a schoolboy in ''[[David Copperfield (1969 film)|David Copperfield]]'' (1969). He auditioned before Disney talent scouts for one of the child roles in ''Bedknobs and Broomsticks'' in London, and was cast as Charlie. Before ''Bedknobs'', Snart was a child actor appearing in numerous commercials, and was cast as Paul for his "impish, cheeky look".<ref name="ThreeEnglishChildren">{{cite news |url=https://www.newspapers.com/article/press-and-sun-bulletin-3-english-childre/63648756/ |title=3 English Children Get Big Break from Disney |work=[[Press & Sun-Bulletin]] |page=8 |via=Newspapers.com |date=March 25, 1972 |access-date=October 11, 2018 |archive-date=June 20, 2021 |archive-url=https://web.archive.org/web/20210620221109/https://www.newspapers.com/clip/63648756/3-english-children-get-big-break-from/ |url-status=live}} {{Open access}}</ref> For the part of Carrie, O'Callaghan had previously acted in television commercials and later made her stage debut as Wendy in a production of ''[[Peter and Wendy|Peter Pan]]'' at the [[Scala Theatre]]. There, she caught the attention of Disney's talent scouts.<ref name="ThreeEnglishChildren" />
+
+===Filming===
+[[Principal photography|Filming]] took place at the Disney studios in [[Burbank, California|Burbank]], [[California]], from early March to June 10, 1970.<ref>{{cite web | last=LoBianco | first=Lorraine | url=https://www.tcm.com/this-month/article/188901 | title=Bedknobs and Broomsticks | website=[[Turner Classic Movies]] | access-date=July 17, 2018 | archive-date=July 18, 2018 | archive-url=https://web.archive.org/web/20180718055141/http://www.tcm.com/this-month/article/188901%7C0/Bedknobs-and-Broomsticks.html | url-status=dead}}</ref> The coastal scenes featuring German soldiers were shot on location at a nearby California beach. The opening village scenes which features [[Corfe Castle (village)|Corfe Castle]] and long shots of Miss Price (Lansbury) on her motorbike were created using [[matte painting]]s by artist [[Alan Maley]].<ref>{{Cite web |last=Jeffrey |date=2009-11-11 |title=A Witch's Brew of a Perfect Movie |url=https://d23.com/a-witchs-brew-of-a-perfect-movie/ |access-date=2024-08-30 |website=D23 |language=en-US}}</ref> Filming lasted fifty-seven days while the animation and special effects required five months each to complete.<ref>{{cite news|last=Warga|first=Wayne|title=Mr. Success, Spelled W-A-C-K-Y, of Disney's Fantasy Factory|url=https://www.newspapers.com/newspage/385575490/|work=[[Los Angeles Times]]|page=32|url-access=subscription|date=December 5, 1971|access-date=July 17, 2018|via=Newspapers.com|archive-date=July 18, 2018|archive-url=https://web.archive.org/web/20180718055053/https://www.newspapers.com/newspage/385575490/|url-status=live}}</ref>
+
+For the Naboombu soccer sequence, the [[sodium vapor process]] was used, which was developed by [[Petro Vlahos]] in the 1960s.<ref>{{cite book|title=The Green Screen Handbook: Real-World Production Techniques|last=Foster|first=Jeff|edition=2nd|year=2014|publisher=[[Routledge]]|pages=11–13|isbn=978-1-138-78033-0}}</ref> Animator and director [[Ward Kimball]] served as the animation director over the sequence.<ref>{{cite news|url=https://www.newspapers.com/clip/63542983/clipped-from-the-daily-herald/|title=Bedknobs and Broomsticks Feature Wonderland|work=[[The Daily Herald (Utah)|The Daily Herald]]|page=TV11|via=Newspapers.com|date=September 27, 1971|access-date=October 11, 2018|archive-date=June 20, 2021|archive-url=https://web.archive.org/web/20210620221111/https://www.newspapers.com/clip/63542983/clipped-from-the-daily-herald/|url-status=live}} {{Open access}}</ref> Directing animator [[Milt Kahl]] had designed the characters, but he was angered over the inconsistencies in the character animation. This prompted Kimball to send a memo dated on September 17, 1970, to adhere to animation cohesiveness to the animation staff.<ref>{{cite web | last=Deja | first=Andreas | url=http://andreasdeja.blogspot.com/2012/07/bedknobs-broomsticks.html | title=Bedknobs & Broomsticks | website=Deja View | via=[[Blogger (service)|Blogger]] | date=July 4, 2012 | access-date=October 11, 2018 | archive-date=October 12, 2018 | archive-url=https://web.archive.org/web/20181012134811/http://andreasdeja.blogspot.com/2012/07/bedknobs-broomsticks.html | url-status=live}}</ref> Because of the heavy special effects, the entire film had to be storyboarded in advance, shot for shot, which Lansbury later said resulted in her acting being "very by the numbers".<ref>{{cite AV media | publisher=[[Archive of American Television]] | url=https://m.youtube.com/watch?v=BtyXu_xSbIc | title=Angela Lansbury discusses "Bedknobs and Broomsticks" | time=0:54 | format=Video | website=[[YouTube]] | date=July 17, 2018}}</ref>
+
+==Release==
+''Bedknobs and Broomsticks'' had an original runtime of 141 minutes, and was scheduled to premiere at [[Radio City Music Hall]]. However, in order to accommodate for the theater's elaborate stage show, the film had to be trimmed down to under two hours, and 23 minutes were ultimately removed from the film. The removed scenes included a minor subplot involving [[Roddy McDowall]]'s character (which was reduced to one minute) and three entire musical sequences, titled "A Step in the Right Direction", "With a Flair", and "Nobody's Problems".{{sfn|Sherman|Sherman|1998|p=167}} Additionally, almost three minutes were removed from the "Portobello Road" sequence, and the song "Eglantine" was also shortened.{{sfn|Arnold|2013|p=104}}<ref name="BedknobsRestoration">{{cite news | last=King | first=Susan | title=Unveiling a Polished-Up 'Bedknobs' | url=https://www.latimes.com/archives/la-xpm-1998-aug-07-ca-10791-story.html | work=Los Angeles Times | date=August 7, 1998 | access-date=July 17, 2018 | archive-date=June 20, 2021 | archive-url=https://web.archive.org/web/20210620221114/https://www.latimes.com/archives/la-xpm-1998-aug-07-ca-10791-story.html | url-status=live}}</ref>
+
+When the film was reissued theatrically on April 13, 1979, an additional twenty minutes of footage were deleted.<ref name="BedknobsRestoration" />
+
+===1996 restoration===
+Intrigued with Lansbury's song "[[A Step in the Right Direction]]" on the original soundtrack album, Scott MacQueen, then-senior manager of Disney's library restoration, set out to restore the film in conjunction with the film's 25th anniversary.<ref name="Witch'sBrew" /> Most of the deleted film material was found, but some segments of "Portobello Road" had to be reconstructed from work prints with digital re-coloration to match the film quality of the main content.<ref name="BedknobsRestoration" /> The footage for "A Step in the Right Direction" was unrecoverable,<ref name="BedknobsRestoration" /> but the sequence was reconstructed for inclusion as a supplemental feature on home media releases of the film by linking the original music track up to existing production stills. The edit included several newly discovered songs, including "Nobody's Problems", performed by Lansbury. The number had been cut before the premiere of the film. Lansbury had only made a demo recording, singing with a solo piano because the orchestrations would have been added when the picture was scored. When the song was cut, the orchestrations had not yet been added; therefore, it was finally orchestrated and put together when it was placed back into the film.
+
+The soundtrack for some of the spoken tracks was unrecoverable. Therefore, Lansbury and McDowall re-dubbed their parts, while other actors made [[Dubbing (filmmaking)|ADR dubs]] for those who were unavailable. Voice actor [[Jeff Bennett]] recorded ADR for Mr. Browne, as health issues prevented Tomlinson from participating in recording.<ref name="BedknobsRestoration" />
+
+The restored version of the film premiered on September 27, 1996, at the Motion Picture Academy of Arts and Sciences in Beverly Hills, California, where it was attended by Lansbury, the Sherman Brothers, Roddy McDowall, [[Ward Kimball]], and special effects artist [[Danny Lee (special effects artist)|Danny Lee]].<ref name="Witch'sBrew" /> It was later broadcast on [[Disney Channel]] on August 9, 1998.<ref name="BedknobsRestoration" />
+
+===Home media===
+In 1980, Disney partnered with [[Fotomat|Fotomat Corporation]] on a trial distribution deal,<ref>{{cite magazine | url=https://books.google.com/books?id=dxYEAAAAMBAJ&q=the+black+hole+fotomat&pg=PA136 | title=Quips: Invite Mickey Into Your Home | magazine=[[Orange Coast Magazine]] | date=February 1981 | publication-date=February 1981 | access-date=August 28, 2018 | via=[[Google Books]] | archive-date=June 20, 2021 | archive-url=https://web.archive.org/web/20210620221112/https://books.google.com/books?id=dxYEAAAAMBAJ&q=the+black+hole+fotomat&pg=PA136 | url-status=live}}</ref> in which ''Bedknobs and Broomsticks'' was released on VHS and [[LaserDisc]] on March 4, 1980. By October 1982, Disney partnered with [[RCA Corporation|RCA]] to release nine of their films on the [[Capacitance Electronic Disc|CED]] videodisc format,<ref>{{cite magazine | url=https://books.google.com/books?id=giQEAAAAMBAJ&q=Disney%2C+RCA+Extend+Pact&pg=PT68 | title=Disney, RCA Extend Pact | magazine=[[Billboard (magazine)|Billboard]] | volume=94 | issue=39 | page=42 | date=October 2, 1982 | access-date=October 11, 2018 | via=Google Books | archive-date=June 20, 2021 | archive-url=https://web.archive.org/web/20210620221148/https://books.google.com/books?id=giQEAAAAMBAJ&q=Disney%2C+RCA+Extend+Pact&pg=PT68 | url-status=live}}</ref> and ''Bedknobs and Broomsticks'' was re-released later that year. The film was issued on VHS on October 23, 1989.<ref>{{cite news | last=Zad | first=Martie | url=https://www.washingtonpost.com/archive/lifestyle/tv/1989/09/24/bambi-released-into-video-woods/764630cf-15c7-4d6d-b63b-5869c4ab3a5a/ | title='Bambi' Released in Video Woods | newspaper=[[The Washington Post]] | date=September 27, 1989 | access-date=July 17, 2018 | archive-date=August 20, 2018 | archive-url=https://web.archive.org/web/20180820105557/https://www.washingtonpost.com/archive/lifestyle/tv/1989/09/24/bambi-released-into-video-woods/764630cf-15c7-4d6d-b63b-5869c4ab3a5a/ | url-status=live}}</ref> It was released on VHS as an installment in the Walt Disney Masterpiece Collection on October 28, 1994.<ref>{{cite web | archive-url=https://web.archive.org/web/20000608171612/http://www.disney.go.com/DisneyVideos/masterpiece/shelves/bedknobsandbroomsticks/index.html | title=Bedknobs and Broomsticks | url=http://www.disney.go.com:80/DisneyVideos/masterpiece/shelves/bedknobsandbroomsticks/index.html | website=Walt Disney Video | archive-date=June 8, 2000 | access-date=July 17, 2018 | url-status=dead}}</ref>
+
+The restored version of the film was released on laserdisc in 1997, then a subsequent VHS and DVD release with this version followed on March 20, 2001, as part of the Walt Disney Gold Classic Collection, to commemorate the 30th anniversary of the film.<ref>{{cite press release|url=https://www.thefreelibrary.com/Imagination+for+a+Lifetime+--+Disney+Titles+All+the+Time%3B+Walt+Disney...-a058460870|archive-url=https://web.archive.org/web/20180522180912/https://www.thefreelibrary.com/Imagination+for+a+Lifetime+--+Disney+Titles+All+the+Time%3B+Walt+Disney...-a058460870|title=Imagination for a Lifetime – Disney Titles All the Time; Walt Disney Home Video Debuts the Gold Classic Collection; An Animated Masterpiece Every Month in 2000.|url-status=dead|location=Burbank, California|agency=[[Business Wire]]|via=TheFreeLibrary|archive-date=May 22, 2018|date=January 6, 2000|access-date=July 17, 2018}}</ref> The reconstruction additionally marked the first time the film was presented in [[stereophonic sound]]. Along with the film, the DVD included a twenty-minute making-of featurette with the Sherman brothers, a recording session with David Tomlinson singing the ending of "Portebello Road", a scrapbook containing thirteen pages of concept art, publicity, and merchandising stills, and a Film Facts supplement about the film's production history.<ref>{{cite web | last=Cedeno | first=Kevin | url=http://www.ultimatedisney.com/bedknobs.htm | title=''Bedknobs and Broomsticks'' 30th Anniversary Edition DVD Review | website=UltimateDisney.com | access-date=July 17, 2018 | archive-date=June 4, 2011 | archive-url=https://web.archive.org/web/20110604040602/http://www.ultimatedisney.com/bedknobs.htm | url-status=live}}</ref>
+
+A new edition called ''Bedknobs and Broomsticks: Enchanted Musical Edition'' was released on DVD on September 8, 2009. This new single-disc edition retained the restored version of the film and most of the bonus features from the 2001 DVD release.<ref name=DVDizzy.com>{{cite web | url=http://www.dvdizzy.com/bedknobsandbroomsticks.html | title=Bedknobs and Broomsticks: Enchanted Musical Edition DVD Review | website=DVDizzy.com | access-date=2013-09-14 | archive-date=2013-09-16 | archive-url=https://web.archive.org/web/20130916054126/http://www.dvdizzy.com/bedknobsandbroomsticks.html | url-status=live}}</ref> The film was released on Special Edition [[Blu-ray]], DVD, and Digital HD on August 12, 2014, in its original 117-minute version, with the deleted scenes used in the previous reconstructed version presented in a separate section on the Blu-ray disc.
+
+==Reception==
+===Box office===
+By January 1974, the film had grossed $8.25 million in box office rentals from the United States and Canada,<ref>{{cite news|title=Big Rentals of 1973|work=[[Variety (magazine)|Variety]]|date=January 9, 1974|page=19}}</ref> with its final domestic rentals totaling $8.5 million.<ref>{{cite news|title=All-Time Film Rental Champs|work=Variety|date=January 7, 1976|page=44}}</ref> The 1979 re-release increased its North American rentals to $11.4 million.<ref>{{cite magazine|title=All-Time Film Rental Champs|magazine=Variety|date=January 14, 1981|page=54}}</ref>
+
+===Critical reaction===
+[[Vincent Canby]] of ''[[The New York Times]]'' wrote that the film is a "tricky, cheerful, aggressively friendly Walt Disney fantasy for children who still find enchantment for pop-up books, plush animals by [[Steiff]] and dreams of independent flight." He further highlighted the Naboombu live-action/animated sequence as "the best of Disney, going back all the way to the first ''[[Silly Symphonies]]''".<ref>{{cite news|url=https://www.nytimes.com/1971/11/12/archives/angela-lansbury-in-bedknobs-and-broomsticks.html|last=Canby|first=Vincent|title=Angela Lansbury in 'Bedknobs and Broomsticks'|work=The New York Times|page=54|date=November 12, 1971|access-date=July 17, 2018|archive-date=July 18, 2018|archive-url=https://web.archive.org/web/20180718031037/https://www.nytimes.com/1971/11/12/archives/angela-lansbury-in-bedknobs-and-broomsticks.html|url-status=live}}</ref> ''[[Variety (magazine)|Variety]]'' wrote that "what it may lack in the charm of [''Mary Poppins''] it more than measures in inventiveness. Indeed, it is doubtful if special effects or animation have been ever bettered or used to greater advantage. Alone they are a reason for seeing the film", and the reviewer praised the Naboombu sequence as containing "not only sheer delights but technical masterpieces."<ref>{{cite news | url=https://archive.org/details/sim_variety_1971-10-13_264_9/page/16/mode/1up | title=Film Reviews: Bedknobs and Broomsticks | work=Variety | page=16 | date=October 13, 1971 |via=Internet Archive}}</ref> [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' awarded the film two-and-a-half stars out of four, claiming that, while the film has the "same technical skill and professional polish" as ''Mary Poppins'', it "doesn't have much of a heart...and toward the end you wonder why the ''Poppins'' team thought kids would like it much."<ref>{{cite news | last=Ebert | first=Roger | url=https://www.rogerebert.com/reviews/bedknobs-and-broomsticks-1971 | title=Bedknobs and Broomsticks | work=[[Chicago Sun-Times]] | via=[[RogerEbert.com]] | date=November 24, 1971 | access-date=July 17, 2018 | archive-date=July 18, 2018 | archive-url=https://web.archive.org/web/20180718055121/https://www.rogerebert.com/reviews/bedknobs-and-broomsticks-1971 | url-status=live}}</ref> [[Gene Siskel]] of the ''[[Chicago Tribune]]'' gave ''Bedknobs'' two stars out of four, calling the film "a mishmash of story ideas and film styles". He further added that the live action/animated sequence was "one bright spot in the story", but felt "the difference between scenes of sea horses and storm troopers is so great that probably no story could manage it. ''Bedknobs'' tries and fails."<ref>{{cite news |last=Siskel |first=Gene |url=https://www.newspapers.com/article/chicago-tribune-gene-siskel-movie-review/43706088/ |title=Knobs and Sticks |work=Chicago Tribune |at= Section 2, p. 5 |date=November 24, 1971 |archive-url=https://web.archive.org/web/20210620221140/https://www.newspapers.com/clip/43706088/gene-siskel-movie-reviewbedknobs-and/ |archive-date=June 20, 2021 |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref>
+
+[[Pauline Kael]] of ''[[The New Yorker]]'' panned the film, writing that there is "no logic in the style of the movie. It tries to integrate early-period Silly Symphony animation (climaxed here in a frenzied—and, I thought, ugly—animal soccer game) with a story that dribbles on so long that it exhausts the viewer before the final magical battle begins."<ref>{{cite magazine |last=Kael |first=Pauline |url=https://www.newyorker.com/magazine/1971/12/11/peter-brooks-night-of-the-living-dead |title=The Current Cinema |magazine=The New Yorker |pages=138–139 |date=December 11, 1971 |archive-url=https://web.archive.org/web/20260701152506/https://www.newyorker.com/magazine/1971/12/11/peter-brooks-night-of-the-living-dead |archive-date=July 1, 2026 |url-status=live}}</ref> [[Charles Champlin]] of the ''[[Los Angeles Times]]'' wrote that the film was "pleasant enough and harmless enough. It is also long (almost two hours) and slow. The songs are perfunctory (nothing supercalifragi-whatever) and the visual trickeries, splendid as they are, are sputtery to get the picture truly airborne. By the standards Disney has set for itself, it's a disappointing endeavor."<ref>{{cite news |last=Champlin |first=Charles (November 19, 1971). |url=https://www.newspapers.com/article/59217021/charles-champlins-review-of-bedknobs/ |title=Mary Poppins on a Broomstick |work=Los Angeles Times |at=Part IV, p. 2 |archive-url=https://web.archive.org/web/20210620221113/https://www.newspapers.com/clip/59217021/charles-champlins-review-of-bedknobs/ |archive-date=June 20, 2021 |via=Newspapers.com |url-status=live}} {{Open access}}</ref>
+
+On [[review aggregator]] website [[Rotten Tomatoes]], the film has an approval rating of {{RT data|score}} based on {{RT data|count}} reviews, with an average score of {{RT data|average}}; the site's "critics consensus" reads: "''Bedknobs and Broomsticks'' often feels like a pale imitation of a certain magical guardian and her wards, but a spoonful of Angela Lansbury's witty star power helps the derivativeness go down."<ref>{{cite web| url=https://www.rottentomatoes.com/m/bedknobs_and_broomsticks/| title=Bedknobs and Broomsticks (1971)| website=Rotten Tomatoes| access-date=September 15, 2020| archive-date=October 27, 2020| archive-url=https://web.archive.org/web/20201027092736/https://www.rottentomatoes.com/m/bedknobs_and_broomsticks| url-status=live}}</ref> On [[Metacritic]], the film has a score of 59 out of 100 based on 11 reviews, indicating "mixed or average" reviews.<ref>{{cite web |url=https://www.metacritic.com/movie/bedknobs-and-broomsticks |title=Bedknobs and Broomsticks |work=Metacritic |access-date=November 18, 2020 |archive-date=October 28, 2020 |archive-url=https://web.archive.org/web/20201028172409/https://www.metacritic.com/movie/bedknobs-and-broomsticks |url-status=live}}</ref>
+
+===Accolades===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Date of ceremony
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| rowspan="5"| [[Academy Awards]]
+| rowspan="5"| [[44th Academy Awards|April 10, 1972]]
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| Art Direction: [[John B. Mansbridge]] and [[Peter Ellenshaw]]; <br> Set Decoration: [[Emile Kuri]] and [[Hal Gausman]]
+| {{nom}}
+| align="center" rowspan="5"| <ref>{{Cite web |url=http://www.oscars.org/oscars/ceremonies/1972 |title=The 44th Academy Awards (1972) Nominees and Winners |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=December 6, 2011 |url-status=live |archive-url=https://web.archive.org/web/20141111072026/http://www.oscars.org/oscars/ceremonies/1972 |archive-date=November 11, 2014}}</ref> <br>{{sfn|Arnold|2013|p=104}}
+|-
+| [[Academy Award for Best Costume Design|Best Costume Design]]
+| [[Bill Thomas (costume designer)|Bill Thomas]]
+| {{nom}}
+|-
+| [[Academy Award for Best Original Score|Best Scoring: Adaptation and Original Song Score]]
+| Song Score by [[Richard M. Sherman]] and [[Robert B. Sherman]]; <br> Adaptation Score by [[Irwin Kostal]]
+| {{nom}}
+|-
+| [[Academy Award for Best Original Song|Best Song – Original for the Picture]]
+| "[[The Age of Not Believing]]" <br> Music and Lyrics by Richard M. Sherman and Robert B. Sherman
+| {{nom}}
+|-
+| [[Academy Award for Best Visual Effects|Best Special Visual Effects]]
+| [[Alan Maley]], [[Eustace Lycett]], and [[Danny Lee (special effects artist)|Danny Lee]]
+| {{won}}
+|-
+| [[Golden Globe Awards]]
+| [[29th Golden Globe Awards|February 6, 1972]]
+| [[Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy|Best Actress in a Motion Picture – Musical or Comedy]]
+| [[Angela Lansbury]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://www.goldenglobes.com/film/bedknobs-and-broomsticks/ |title=Bedknobs and Broomsticks |publisher=[[Golden Globe Awards]] |access-date=November 16, 2024}}</ref>
+|}
+
+==Music==
+===The original cast soundtrack===
+{{Infobox album
+| name       = Bedknobs and Broomsticks
+| type       = soundtrack
+| artist     = [[Richard M. Sherman]], [[Robert B. Sherman]] and [[Irwin Kostal]]
+| cover      =
+| alt        =
+| released   = 1971/2002
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     =
+| label      = [[Walt Disney Records|Walt Disney]]
+| producer   = [[Richard M. Sherman]]{{·}}[[Robert B. Sherman]]{{·}}[[Irwin Kostal]]
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+The [[film score|musical score]] for ''Bedknobs and Broomsticks'' was composed and adapted by [[Irwin Kostal]], with all songs written by [[Richard M. Sherman]] and [[Robert B. Sherman]]. This was the Shermans' third collaboration with Kostal, with the others being [[Mary Poppins (film)|''Mary Poppins'']] (1964), ''[[Chitty Chitty Bang Bang]]'' (1968), [[Charlotte's Web (1973 film)|''Charlotte's Web'']] (1973), and ''[[The Magic of Lassie]]'' (1978). A soundtrack album was released by [[Walt Disney Records|Buena Vista Records]] in 1971.<ref>[https://archive.org/details/lp_bedknobs-and-broomsticks_angela-lansbury-david-tomlinson original LP sleeve]</ref><ref>[https://cartoonresearch.com/index.php/flying-with-disneys-bedknobs-and-broomsticks-soundtrack/ About the album] (Cartoon Research)</ref> While the film was released in mono sound, the musical score was recorded in stereo, and the soundtrack album was released in stereo. An expanded soundtrack album was released on CD on August 13, 2002.
+
+"[[The Age of Not Believing]]" received a nomination for the [[Academy Award for Best Original Song]]. "With a Flair", "Don't Let Me Down", and "Nobody's Problems" were cut out in 1971, but are present in the reconstructed version of the film. The footage for "[[A Step in the Right Direction]]" is lost. "Solid Citizen" and "The Fundamental Element" had been cut out before the production: the former was replaced by the soccer match, while parts of the latter were incorporated into "Don't Let Me Down".
+
+The songs include:
+
+{{Track listing
+| all_writing = 
+| all_lyrics = 
+| all_music = 
+| extra_column = Performer(s)
+| title1 = Overture/The Old Home Guard
+| extra1 = [[Reginald Owen]]
+| title2 = [[The Age of Not Believing]]
+| extra2 = [[Angela Lansbury]]
+| title3 = With a Flair
+| extra3 = [[David Tomlinson]]
+| title4 = [[A Step in the Right Direction]]
+| extra4 = Lansbury
+| title5 = Eglantine/Don't Let Me Down/Reprise: Eglantine
+| extra5 = Lansbury, Tomlinson
+| title6 = [[Portobello Road (song)|Portobello Road]]
+| extra6 = Street Vendors, Tomlinson
+| title7 = Portebello Street Dance
+| extra7 = Tomlinson
+| title8 = [[The Beautiful Briny]]
+| extra8 = Tomlinson & Lansbury
+| title9 = Substitutiary Locomotion
+| extra9 = Tomlinson, Lansbury, Ian Weighill, [[Cindy O'Callaghan]] & Roy Snart
+| title10 = Reprises: Eglantine/Portebello Road
+| extra10 = Tomlinson & Lansbury
+| title11 = Finale
+| extra11 = Home Guardsmen
+| title12 = Nobody's Problems (Demo) (2002 bonus track)
+| extra12 = Lansbury
+| title13 = Solid Citizen (Demo) (2002 bonus track)
+| extra13 = Richard M. Sherman
+| title14 = The Fundamental Element (Demo) (2002 bonus track)
+| extra14 = Richard M. Sherman
+}}
+
+===Cover versions===
+Other 1971 recordings include:
+*"Songs from Walt Disney Productions’ Bedknobs and Broomsticks" ([[Mike Sammes]], Judy Carne, The Mike Sammes Singers; the so-called "second cast" recording):<ref>[https://archive.org/details/lp_songs-from-walt-disney-productions-bedk_various-mike-sammes-mike-sammes-singers Original LP sleeve]</ref><ref name="About the album">[https://cartoonresearch.com/index.php/disneys-bedknobs-broomsticks-storyteller-records/ About the album] (Cartoon Research)</ref> "The Old Home Guard", "A Step in the Right Direction", "The Age of Not Believing", "With a Flair", "Eglantine", "Portobello Road", "The Beautiful Briny", "Substitutiary Locomotion", "The Old Home Guard (Reprise)" 
+*"From Walt Disney Productions’ Bedknobs and Broomsticks: The Story and Songs" (the songs are same as the previous)<ref>[https://archive.org/details/lp_bedknobs-and-broomsticks-the-story-an_various-mike-sammes Original LP sleeve]</ref><ref name="About the album"/>
+*"Bedknobs And Broomsticks" (Beryl Reid, Hugh Paddick, The Rita Williams Singers):<ref>[https://www.discogs.com/ru/release/1663753-Beryl-Reid-Hugh-Paddick-And-The-Rita-Williams-Singers-Bedknobs-And-Broomsticks?srsltid=AfmBOop-ZhH32vtAX5UvoyTggB51gliSDOSTtDKD28-vo5ydsBz7P7Ga About the album] (discogs.org)</ref><ref>[https://archive.org/details/06-pbedknobs-and-broomsticks archive.org]</ref> Overture, "The Old Home Guard", "The Age of Not Believing", "With a Flair", "Don't Let Me Down", "Portobello Road", "The Beautiful Briny", "A Step in the Right Direction", "Eglantine", "Substitutiary Locomotion", "Finale" (Reprises: Eglantine/Portobello Road/The Old Home Guard)
+
+==Stage musical adaptation==
+{{Main|Bedknobs and Broomsticks (musical)}}
+A stage musical adaptation of ''Bedknobs and Broomsticks'' features the songs from the film by [[the Sherman Brothers]], with additional music and lyrics by [[Neil Bartram]], and a book by [[Brian Hill (author)|Brian Hill]]. The original production, which was directed by Candice Edmunds and Jamie Harrison, opened at the [[Theatre Royal, Newcastle]], in August 2021, before embarking on a UK and Ireland tour until May 2022.<ref>{{Cite web|date=2021-05-10|title=Bedknobs & Broomsticks Musical UK Tour – Bedknobs & Broomsticks Tickets 2021|url=https://britishtheatre.com/bedknobs-and-broomsticks-musical-uk-tour/|access-date=2024-04-09|website=British Theatre|language=en-GB}}</ref> It was produced by Michael Harrison, by special arrangement with [[Disney Theatrical Productions]].
+
+==See also==
+* [[List of American films of 1971]]
+* [[List of films with live action and animation]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book | last=Arnold | first=Mark | title=Frozen in Ice: The Story of Walt Disney Productions, 1966–1985 | year=2013 | publisher=BearManor Media | isbn=978-1-593-93751-5}}
+* {{cite book | last=Koenig | first=David | title=Mouse Under Glass: Secrets of Disney Animation & Theme Parks | publisher=Bonaventure Press | isbn=978-0-964-06051-7 | year=1997 | url=https://archive.org/details/mouseunderglasss0000koen |url-access=registration}}
+* {{cite book | last=Maltin | first=Leonard | author-link=Leonard Maltin | title=The Disney Films | publisher=Disney Editions | isbn=978-0-786-88527-5 | year=1995 |url=https://archive.org/details/disneyfilms0000malt}}
+* {{cite book | last1=Sherman | first1=Robert | last2=Sherman | first2=Richard | title=[[Walt's Time|Walt's Time: from before to beyond]] | publisher=Camphor Tree Publishers | year=1998 | isbn=978-0-964-60593-0}}
+
+==External links==
+{{Wikiquote}}
+* {{Official website|http://movies.disney.com/bedknobs-and-broomsticks}}
+* {{IMDb title|0066817}}
+* {{TCMDb title|68329}}
+* {{rottentomatoes|bedknobs_and_broomsticks}}
+
+{{Robert Stevenson}}
+{{Ward Kimball}}
+{{Disney theatrical animated features}}
+{{Walt Disney Animation Studios}}
+{{Sherman Brothers}}
+{{Academy Award Best Visual Effects}}
+{{Portal bar|Disney|Cartoon|Film}}
+
+{{DEFAULTSORT:Bedknobs And Broomsticks}}
+[[Category:1971 films]]
+[[Category:1971 children's films]]
+[[Category:1971 musical films]]
+[[Category:1970s children's adventure films]]
+[[Category:1970s children's animated films]]
+[[Category:1970s children's fantasy films]]
+[[Category:1971 English-language films]]
+[[Category:1970s fantasy adventure films]]
+[[Category:1970s musical fantasy films]]
+[[Category:1971 American films]]
+[[Category:American World War II films]]
+[[Category:American children's adventure films]]
+[[Category:American children's fantasy films]]
+[[Category:American fantasy adventure films]]
+[[Category:American films with live action and animation]]
+[[Category:American musical fantasy films]]
+[[Category:Animated films about bears]]
+[[Category:Animated films about birds]]
+[[Category:Animated films about fish]]
+[[Category:Animated films about lions]]
+[[Category:Animated films about talking animals]]
+[[Category:Animated films based on children's books]]
+[[Category:Films about the Battle of Britain]]
+[[Category:English-language fantasy adventure films]]
+[[Category:English-language musical fantasy films]]
+[[Category:English-language war films]]
+[[Category:Films about the British Army]]
+[[Category:Films about cats]]
+[[Category:Films about magic (supernatural)]]
+[[Category:Films about orphans]]
+[[Category:Films about shapeshifting]]
+[[Category:Films about witchcraft]]
+[[Category:Films adapted into plays]]
+[[Category:Films based on British novels]]
+[[Category:Films based on children's books]]
+[[Category:Films based on multiple works of a series]]
+[[Category:Films directed by Robert Stevenson]]
+[[Category:Films with screenplays by Don DaGradi]]
+[[Category:Films with screenplays by Bill Walsh (producer)]]
+[[Category:Films produced by Bill Walsh (producer)]]
+[[Category:Films scored by Irwin Kostal]]
+[[Category:Musicals by the Sherman Brothers]]
+[[Category:Films set in 1940]]
+[[Category:Films set in England]]
+[[Category:Films set in London]]
+[[Category:Films set in Dorset]]
+[[Category:Films shot in Dorset]]
+[[Category:Films set in the United Kingdom]]
+[[Category:Films shot in Los Angeles County, California]]
+[[Category:Films that won the Best Visual Effects Academy Award]]
+[[Category:Musicals about World War II]]
+[[Category:Walt Disney Pictures films]]
+[[Category:World War II films based on actual events]]
+[[Category:Films based on works by Mary Norton]]

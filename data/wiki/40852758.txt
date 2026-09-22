@@ -1,0 +1,385 @@
+{{Short description|1995 film by Iain Softley}}
+{{Use American English|date=March 2026}}
+{{Use mdy dates|date=February 2026}}
+{{for|the 2016 crime thriller loosely based on real events|Hacker (film){{!}}''Hacker'' (film)}}
+{{Infobox film
+| name           = Hackers
+| image          = Hackersposter.jpg
+| caption        = Theatrical release poster
+| director       = [[Iain Softley]]
+| writer         = [[Rafael Moreu]]
+| producer       = {{Plainlist|
+* Michael Peyser
+* [[Ralph Winter (producer)|Ralph Winter]]
+}}
+| starring       = {{Plainlist|
+* [[Jonny Lee Miller]]
+* [[Angelina Jolie]]
+* [[Fisher Stevens]]
+* [[Lorraine Bracco]]
+}}
+| cinematography = [[Andrzej Sekuła]]
+| editing        = {{Plainlist|
+* Christopher Blunden
+* [[Martin Walsh (film editor)|Martin Walsh]]
+}}
+| music          = [[Simon Boswell]]
+| studio         = [[United Artists]]
+| distributor    = {{Plainlist|
+* [[MGM/UA Distribution Co.]] (United States)
+* [[United International Pictures]] (international)
+}}
+| released       = {{Film date|1995|9|15}}
+| runtime        = 105 minutes
+| country        = United States
+| language       = English
+| budget         = $20 million<ref>{{cite magazine |last=Jensen |first=K. Thor |title=25 Years Ago, 'Hackers' Introduced Movie Audiences to the Internet |url=https://www.pcmag.com/news/25-years-ago-hackers-introduced-movie-audiences-to-the-internet |magazine=[[PCMag]] |date=September 15, 2020 |access-date=2020-09-16}}</ref>
+| gross          = $7.6 million<ref name="mojo">{{cite web |url=https://www.boxofficemojo.com/title/tt0113243/ |title=Hackers (1995) |website=[[Box Office Mojo]] |access-date=March 21, 2026}}</ref>
+}}
+
+'''''Hackers''''' is a 1995 American [[crime thriller film]] directed by [[Iain Softley]] and starring [[Jonny Lee Miller]], [[Angelina Jolie]], [[Fisher Stevens]], and [[Lorraine Bracco]], with [[Jesse Bradford]], [[Matthew Lillard]], [[Laurence Mason]], and [[Renoly Santiago]]. The film follows a group of high school [[Security hacker|hackers]] and their involvement in an attempted theft. Made in the mid-1990s when the [[Internet]] was just starting to become popular among the general public, it reflects the ideals laid out in the [[Hacker Manifesto]] quoted in the film: "This is our world now... the world of the electron and the switch... We exist without skin color, without nationality, without religious bias... and you call us criminals... Yes, I am a criminal. My crime is that of curiosity."
+
+The film received mixed reviews from critics, and underperformed at the box office upon release, but has gone on to achieve [[cult classic]] status.<ref>{{cite web |date=2012-04-12 |last=Tobias |first=Scott |title=Hackers may have been of its time, but it was also ahead of it |url=https://www.avclub.com/hackers-may-have-been-of-its-time-but-it-was-also-ahea-1798230815 |website=[[The A.V. Club]]}}</ref><ref name="ViceCult"/><ref name="Ungerleider"/>
+
+==Plot==
+<!-- Per [[WP:FILMPLOT]], plot summaries for feature films should be between 400 to 700 words. -->
+In 1988, 11-year-old Dade "Zero Cool" Murphy is banned from owning or operating computers and telephones until his 18th birthday, after his family is fined {{US$|45000|link=yes}}{{efn|{{Inflation|US|45000|1988|fmt=eq|r=-3}}}} for his crashing of 1,507 computer systems, causing a seven-point drop in the [[New York Stock Exchange]].
+
+On his 18th birthday, Dade has moved to New York City with his mother, and his ban is lifted. While he hacks into a local TV station, another hacker by the [[Nickname#Computing|handle]] of "Acid Burn" counters Dade's attack and eventually kicks him out. At school, Dade joins a group of hackers: Ramon "The Phantom Phreak" Sanchez, Emmanuel "Cereal Killer" Goldstein, Paul "Lord Nikon" Cook, Joey Pardella (a novice hacker without an alias and the youngest member), and Kate "Acid Burn" Libby—the hacker who kicked him out of the TV station earlier.
+
+Joey, out to prove his skills, breaks into a "Gibson" [[supercomputer]] owned by the Ellingson Mineral Corporation. While he is downloading a [[Trash (computing)|garbage file]] as proof of his feat, his mother disconnects his computer, leaving him with a fragmented file. {{Anchor|belford}}His intrusion has been noticed and brought to the attention of computer security officer Eugene "The Plague" Belford, a former hacker. Plague realizes that the downloaded garbage file is a [[Computer worm|worm]] he himself inserted to defraud Ellingson. Claiming the file is the code to the "Da Vinci" [[computer virus]] that will capsize the company's [[oil tanker]] fleet, and pretending the hackers are to blame, he enlists the [[U.S. Secret Service]] to recover the file. In fact, Plague had inserted the "Da Vinci" virus as a [[red herring]] to cover for his worm.
+
+Joey is arrested and his computer is searched, but he had hidden the disk containing the file. Dade and Kate make a bet: Dade chooses a date with Kate if he wins, and Kate has Dade be her slave if she does.{{anchor|gill}} The hacking duel targets Secret Service Agent Richard Gill, who was involved in Joey's arrest. After various hacks, including canceling Gill's credit cards, fabricating a criminal record, and changing his payroll status to "deceased", the duel remains a tie.
+
+Released on bail, Joey reveals the disk to Phreak, who is arrested the next day, and informs Kate that the disk is hidden in a bathroom at school. Dade refuses to help Kate and Cereal Killer as he has a record, but copies the disk so they have untampered evidence. Determining that Dade did not hack into Ellingson, Plague sends him a powerful laptop and asks Dade to join him. He later threatens to have Dade's mother incarcerated with a manufactured criminal record, forcing Dade to deliver a copy of the disk.
+
+Kate, Lord Nikon, Cereal Killer, and Dade learn that the code is a worm designed to [[Salami slicing tactics|steal]] $25{{nbsp}}million{{efn|Equivalent to ${{Inflation|US|25|1995|r=1}}{{nbsp}}million in {{Inflation/year|US}}}} from Ellingson transactions, and that the Da Vinci virus is set to capsize the oil tanker fleet the next day to provide cover and distract from the worm. Dade confesses that he gave Plague a copy of the disk and reveals his hacking history as "Zero Cool".
+
+Dade and Kate seek out Razor and Blade, producers of ''Hack the Planet'', a hacker-themed TV show. Lord Nikon and Cereal Killer learn that warrants for their arrest are to be executed at 9 a.m. the next day.
+
+The next morning, Dade, Kate, Nikon, and Cereal roller-blade from [[Washington Square Park]], evading the Secret Service by hacking the traffic lights. Meeting up with Joey at [[Grand Central Terminal]], they use payphones and [[acoustic coupler]]s to hack the Gibson. At first, their attempts are easily rebuffed by Plague, who calls Dade to taunt him. Razor and Blade have contacted hackers around the world, who lend their support and distract Plague long enough for Joey to download the file.
+
+After crashing the Gibson, Dade and company are arrested. Dade cryptically informs Cereal Killer that he has tossed the disk in a trash can. As Dade and Kate are being interrogated, Razor and Blade jam TV signals and broadcast live video of Cereal Killer revealing the plot and Plague's complicity. Plague is arrested by Gill on board a flight while attempting to flee to Japan. Their names cleared, Dade and Kate begin a relationship.
+
+==Cast==
+<!--- [[MOS:FILMCAST]] [[WP:NOTDATABASE]] - cast and order per Main Cast [[Motion picture credits#Opening credits]], roles per closing credits scroll --->
+{{Cast listing|
+* [[Jonny Lee Miller]] as Dade Murphy {{aka}} Zero Cool/Crash Override
+* [[Angelina Jolie]] as Kate Libby aka Acid Burn
+* [[Fisher Stevens]] as Eugene Belford aka The Plague
+* [[Jesse Bradford]] as Joey Pardella
+* [[Matthew Lillard]] as Emmanuel Goldstein aka Cereal Killer
+* [[Laurence Mason]] as Paul Cook aka Lord Nikon
+* [[Renoly Santiago]] as Ramόn Sánchez aka The Phantom Phreak
+* [[Wendell Pierce]] as Secret Service Agent Richard "Dick" Gill
+* [[Alberta Watson]] as Lauren Murphy
+* [[Lorraine Bracco]] as Margo Wallace
+* [[Penn Jillette]] as Hal<!--- Jillette is given a unique standalone billing at start of closing credits --->
+}}
+
+In addition, Darren Lee and Peter Y. Kim appear as Razor and Blade, respectively, while singer [[Marc Anthony]] plays Secret Service Agent Ray.
+
+==Production==
+===Screenplay===
+The screenplay, written by [[Rafael Moreu]], is highly inspired by the [[Hacker (programmer subculture)|hacker]] and [[cyberpunk]] subcultures.<ref name="Booklet"/> He saw the film as more than just about computer hacking but something much larger: "In fact, to call hackers a counterculture makes it sound like they're a transitory thing; I think they're the next step in human evolution."<ref name="McClellan">{{cite news | last=McClellan | first=Jim | title=Cyberspace: The Hack Pack | newspaper=[[The Observer]] | date=January 8, 1995}}</ref>  He had been interested in hacking since the early 1980s. After the crackdown in the United States during 1989 and 1990, he decided to write a script about the subculture. For research, Moreu went to a meeting organized by the New York–based hacker magazine ''[[2600: The Hacker Quarterly]]''. There, he met Phiber Optik, a.k.a. [[Mark Abene]], a 22-year-old hacker who spent most of 1994 in prison on hacking charges.<ref name="McClellan"/> Moreu also hung out with other young hackers being harassed by the government and began to figure out how it would translate into a film. He remembered, "One guy was talking about how he'd done some really interesting stuff with a laptop and payphones and that cracked it for me, because it made it cinematic".<ref name="McClellan"/> Moreu named the film's Ellingson Mineral Corporation for his father-in-law, Chet Ellingson, who had bought Moreu his first computer.<ref>{{cite news |last=Miele |first=Frank |date=1995-09-14 |title=Cyberpunk movie thriller has Flathead roots |url=https://www.newspapers.com/image/1073980864/ |newspaper=[[The Daily Inter Lake]] |page=A1 |access-date=2025-02-14}}</ref> The character Eugene Belford uses Babbage as a pseudonym at the end of the film, a reference to [[Charles Babbage]], an inventor of an early form of the computer. The fictional computer mainframe named the "Gibson" is an homage to cyberpunk author [[William Gibson]] and originator of the term "cyberspace", first in his 1982 short story "[[Burning Chrome]]" and later in his 1984 book ''[[Neuromancer]]''.
+
+The novelization of the film, written by [[David Bischoff]] and based on Moreu's screenplay, was released on July 11, 1995, two months before the film's release.<ref>{{cite book |title=Worldcat Library Catalog |oclc=34243134}}</ref>
+
+===Pre-production===
+The cast spent three weeks getting to know each other and learning how to type and rollerblade. They studied computers and met with actual computer hackers, including [[Tristan Louis]], [[Kevin Mitnick]], and [[Nicholas Jarecki]]. Jarecki served as a technical consultant and credits his experience on ''Hackers'' as inspiring his later career as the screenwriter and director.<ref>{{cite magazine |date=30 July 2002 |last=McCallan |first=Steve |title=Breaking In: How 20 Film Directors Got Their Start |url=https://variety.com/2002/more/reviews/breaking-in-how-20-film-directors-got-their-start-1200547048/ |magazine=[[Variety (magazine)|Variety]]}}</ref><ref name="Empire">{{cite magazine | title=Jonny Lee Miller and Angelina Jolie – The Happy Couple | magazine=[[Empire (magazine)|Empire]] | date=June 1996}}</ref> Actor Jonny Lee Miller even attended a hackers' convention.<ref name="Penfold">{{cite news | date=May 3, 1996 | last=Penfold | first=Phil | title=Good Work If You Can Hack It | newspaper=[[The Herald (Glasgow)|The Herald]] |url=https://www.heraldscotland.com/news/12060781.good-work-if-you-can-hack-it/}}</ref>
+
+===Casting===
+According to Fisher Stevens, [[Quentin Tarantino]] was considered for the role of The Plague.<ref>{{cite AV media |url=https://www.youtube.com/watch?v=AfucIiS1jbk&t=148 |title=HACKERS: Fisher Stevens A.K.A. The Plague Interview |via=YouTube}}</ref>
+
+===Production===
+The school scenes were filmed in [[Stuyvesant High School]] and the surrounding areas in the [[TriBeCa]], [[Battery Park City]], and [[East Village, Manhattan|East Village]] neighborhoods of Manhattan in November 1994. In several exterior scenes, the viewer can see the [[Brookfield Place (New York City)|World Financial Center]]. Many scenes included real school seniors as extras.<ref name="Ungerleider">{{cite magazine |date=2015-11-12 |last=Ungerleider |first=Neal |title=What It Was Like To Attend "Hacker High" When They Filmed "Hackers" At My High School|url=https://www.fastcompany.com/3052994/what-it-was-like-to-attend-hacker-high-when-they-filmed-hackers-at-my-hig |access-date=2020-07-25 |magazine=[[Fast Company]] |quote=The author was a freshman at Stuyvesant in 1995. Then Angelina Jolie, Jonny Lee Miller, and the cult film's crew showed up.}}</ref><ref>{{cite web|url=http://www.shsaa.org/index.php?option=com_content&task=view&id=25&Itemid=54 |title=Stuyvesant High School Alumni Association, Inc. - SHS &#124; Stuyvesant High School |publisher=SHSAA |date=2006-05-06 |access-date=2010-04-16}}</ref>
+
+The interior scenes for the Cyberdelia nightclub were filmed at the disused [[Brentford Baths|Brentford Public Baths]],<ref>{{cite web |title=Hackers (1995) filming location – Cyberdelia nightclub interiors |url=http://www.british-film-locations.com/scene-22b/Hackers-1995 |website=british-film-locations.com |access-date=10 November 2017 |archive-url=https://web.archive.org/web/20131116135337/http://www.british-film-locations.com/scene-22b/Hackers-1995 |archive-date=November 16, 2013 |url-status=dead}}</ref> on the outskirts of [[London]]. Producer Ralph Winter noted, "We never knew why, but the pool was designated a historic landmark, so great care had to be taken not to damage anything and to return it to its original state."<ref>{{cite web |title=Hackers (1995) history: production |url=https://ibiblio.org/team/history/hack/prod.html |website=[[ibiblio]] |access-date=10 November 2017}}</ref> The exterior set was filmed in [[Downtown Manhattan]].
+
+The scenes for Ellingson Mineral Corporation were filmed on a soundstage, but the establishing shots of the company's headquarters used [[One Liberty Plaza]] and took inspiration from that building to create the hardware behind "The Kernel". In the final shot of the building, Softley digitally added a swimming pool on the rooftop of the building. Additionally, establishing shots of the [[World Trade Center (1973–2001)|World Trade Center]] and [[Empire State Building]] were used to occasionally give the viewer a visual reminder of the city the film was set in.
+
+===Post-production===
+Softley did not use [[computer-generated imagery|CGI]] for any of the sequences in cyberspace. He said they used "more-conventional methods of [[Motion control photography|motion control]], animation, models, and [[rotoscoping]] to create a real, three-dimensional world, because... [[Computer-generated imagery|computer graphics]] alone can sometimes lend a more flat, sterile image."<ref name="Booklet"/> Video game developer [[Psygnosis]] created the CGI for the ''[[Wipeout (video game)|Wipeout]]'' [[arcade game]] sequence.<ref>{{cite web |url=https://www.eurogamer.net/articles/2013-03-22-wipeout-the-rise-and-fall-of-sony-studio-liverpool |title=WipEout: The rise and fall of Sony Studio Liverpool |last=Yin-Poole |first=Wesley |date=22 March 2013 |website=[[Eurogamer]] |access-date=22 March 2013}}</ref>
+
+Shortly after the filming ended, Jonny Lee Miller and Angelina Jolie were married.<ref>{{cite news |date=25 August 1996 |last=Bandon |first=Alexandra |title=Following, Ambivalently, in Mom or Dad's Footsteps |url=https://www.nytimes.com/1996/08/25/movies/following-ambivalently-in-mom-or-dad-s-footsteps.html?pagewanted=all |newspaper=[[The New York Times]]}}</ref> They separated after a year and divorced in 1999, and remain good friends.<ref>{{cite web |date=2 February 2017 |last=Walden |first=Celia |title=Jonny Lee Miller: 'I'm still friends with my ex-wife Angelina' |url=https://www.stuff.co.nz/entertainment/tv-radio/88884161/jonny-lee-miller-im-still-friends-with-my-exwife-angelina |website=[[Stuff.co.nz]] |quote=Yeah – we're still friends}}</ref>
+
+===Marketing===
+MGM/UA set up a website for ''Hackers'' that soon afterwards was allegedly hacked by a group called the "Internet Liberation Front". A photograph of the film's stars Angelina Jolie and Jonny Lee Miller was doodled upon, and the words "this is going to be an entertaining fun promotional site for a movie", were replaced with "this is going to be a lame, cheesy promotional site for a movie!" The studio maintained the site during the theatrical run of the film in its altered form.<ref name="Booklet">Hackers MGM DVD 8-page booklet featuring trivia, production notes and a revealing look at the making of the film.</ref><ref>{{cite web |url=http://www.mgm.com/hackers/inventory/hacked/index.html |title=Hacked website |access-date=2017-03-22 |url-status=dead |archive-url=https://web.archive.org/web/19970330044906/http://www.mgm.com/hackers/inventory/hacked/index.html |archive-date=March 30, 1997 }} - Original MGM/UA website after defacement by the Internet Liberation Front</ref><ref>{{cite web |url=http://www.mgm.com/hackers/ |title=Original MGM/UA website |access-date=2017-03-22 |url-status=dead |archive-url=https://web.archive.org/web/19970619004553/http://www.mgm.com/hackers/ |archive-date=June 19, 1997}}</ref>
+
+The film poster shows Acid Burn and Crash Override with various words and ASCII symbols superimposed on their faces,<ref name="impawards">{{cite web |url=http://www.impawards.com/1995/hackers_ver1.html |title=Hackers Poster IMP Awards Gallery |website=impawards.com |access-date=2010-07-08}}</ref> with the words:
+* Lord Nikon, Acid Burn, and Crash Override
+* God, Sex, Love, and Secret
+* [[Phreaking|Phreak]]
+The text references the main characters in the film, the most commonly used passwords, and the type of user who specializes in telecommunication hacking.
+
+==Soundtrack==
+Softley said that he wanted the film's music to be dreamlike and reflect the aspects of data and technology being shown on screen. He compiled tracks from various artists, while taking suggestions from assistant Gala Wright and music supervisor Bob Last.<ref>{{cite web |date=September 15, 2020 |title="Hack The Planet!" An Oral History Of Hackers' Soundtrack & Score|url=https://www.grammy.com/news/hack-planet-oral-history-hackers-soundtrack-score|publisher=[[Grammy Awards]]}}</ref>
+
+The music soundtrack combines [[electronica]], pulsating [[Polyrhythm|tribal rhythms]] and [[techno]]/[[house music]] of early hardcore groups like [[The Prodigy|Prodigy]], [[Underworld (band)|Underworld]] and [[Orbital (band)|Orbital]]; it was released in three separate volumes over three years. The first volume was composed entirely of music featured in the film (with the exception of [[Carl Cox]]'s "Phoebus Apollo"), while the second and third are a mix of music "inspired by the film" as well as music actually in the film. The most featured song in the film is "[[Voodoo People]]" by [[The Prodigy]].
+
+Most of the music in the film, including much of the techno and electronic music, was composed and performed by UK film composer Simon Boswell.
+
+===''Original Motion Picture Soundtrack''===
+{{track listing
+| headline = ''Hackers: Their Only Crime Was Curiosity: Original Motion Picture Soundtrack''
+| extra_column = Artist(s)
+| title1 = Original Bedroom Rockers
+| length1 = 6:07
+| extra1 = [[Kruder & Dorfmeister]]
+| title2 = [[Cowgirl (Underworld song)|Cowgirl]]
+| length2 = 8:56
+| extra2 = [[Underworld (band)|Underworld]]
+| title3 = [[Voodoo People]]
+| length3 = 4:08
+| extra3 = [[The Prodigy]]
+| title4 = [[Open Up (Leftfield song)|Open Up]]
+| length4 = 6:54
+| extra4 = [[Leftfield]] (featuring [[John Lydon]])
+| title5 = Phoebus Apollo
+| length5 = 3:40
+| extra5 = [[Carl Cox]]
+| title6 = The Joker
+| length6 = 5:01
+| extra6 = [[Josh G Abrahams|Josh Abrahams]]
+| title7 = [[Halcyon (Orbital song)|Halcyon + On + On]]
+| length7 = 9:29
+| extra7 = [[Orbital (band)|Orbital]]
+| title8 = Communicate
+| note8= Headquake Hazy Cloud Mix
+| length8 = 6:25
+| extra8 = Plastico
+| title9 = [[One Love (The Prodigy song)|One Love]]
+| length9 = 3:54
+| extra9 = The Prodigy
+| title10 = [[Connected (Stereo MCs song)|Connected]]
+| length10 = 4:01
+| extra10 = [[Stereo MC's]]
+| title11 = Eyes, Lips, Body
+| note11 = Mekon Vocal Mix
+| length11 = 5:21
+| extra11 = [[Ramshackle]]
+| title12 = Good Grief
+| length12 = 4:31
+| extra12 = [[Urban Dance Squad]]
+| title13 = Richest Junkie Still Alive
+| note13 = Sank Remix
+| length13 = 4:12
+| extra13 = [[Machines of Loving Grace]]
+| title14 = [[Heaven Knows (Squeeze song)|Heaven Knows]]
+| length14 = 4:35
+| extra14 = [[Squeeze (band)|Squeeze]]
+}}
+
+===''Hackers<sup>2</sup>''===
+{{track listing
+| headline = ''Hackers<sup>2</sup>: Music from and Inspired by the Original Motion Picture "Hackers"''
+| extra_column = Artist(s)
+| title1 = [[Firestarter (The Prodigy song)|Firestarter]]
+| note1 = Empirion Mix
+| length1 = 7:49
+| extra1 = [[The Prodigy]]
+| title2 = [[Toxygene]]
+| length2 = 5:17
+| extra2 = [[The Orb]]
+| title3 = [[Little Wonder (David Bowie song)|Little Wonder]]
+| note3 = Danny Saber Dance Mix
+| length3 = 5:30
+| extra3 = [[David Bowie]]
+| title4 = [[Fire (Scooter song)|Fire]]
+| length4 = 3:31
+| extra4 = [[Scooter (band)|Scooter]]
+| title5 = Narcotic Influence 2
+| length5 = 5:55
+| extra5 = [[Empirion]]
+| title6 = Remember
+| length6 = 8:00
+| extra6 = [[BT (musician)|BT]]
+| title7 = [[Go (Moby song)|Go]]
+| length7 = 3:59
+| extra7 = [[Moby]]
+| title8 = Inspection (Check One)
+| length8 = 6:29
+| extra8 = [[Leftfield]]
+| title9 = Cherry Pie
+| length9 = 8:19
+| extra9 = [[Underworld (band)|Underworld]]
+| title10 = To Be Loved
+| note10 = Disco Citizens R+D Edit
+| length10 = 3:48
+| extra10 = Luce Drayton
+| title11 = Speed Freak
+| note11 = Moby Remix
+| length11 = 5:41
+| extra11 = [[Orbital (band)|Orbital]]
+| title12 = [[Get Ready to Bounce]]
+| note12 = Radio Attack
+| length12 = 3:34
+| extra12 = [[Brooklyn Bounce]]
+| title13 = [[Offshore (song)|Offshore]]
+| note13 = Disco Citizens Edit
+| length13 = 3:09
+| extra13 = [[Chicane (musician)|Chicane]]
+| title14 = [[Original (Leftfield song)|Original]]
+| length14 = 6:24
+| extra14 = Leftfield
+}}
+
+===''Hackers<sup>3</sup>''===
+{{track listing
+| headline = ''Hackers<sup>3</sup>: Music from and Inspired by the Original Motion Picture "Hackers"''
+| extra_column = Artist(s)
+| title1 = Why Can't It Stop
+| length1 = 5:52
+| extra1 = [[Moby]]
+| title2 = Godspeed
+| note2 = BT Edit Mix
+| length2 = 5:34
+| extra2 = [[BT (musician)|BT]]
+| title3 = Absurd
+| note3 = Whitewash Mix
+| length3 = 5:59
+| extra3 = [[Fluke (band)|Fluke]]
+| title4 = Quiet Then
+| length4 = 4:21
+| extra4 = Cloak
+| title5 = I Am Fresh
+| length5 = 4:51
+| extra5 = [[Jon Carter|Monkey Mafia]]
+| title6 = Phuture 2000
+| note6 = Radio Edit
+| length6 = 3:49
+| extra6 = [[Carl Cox]]
+| title7 = An Fhomhair
+| length7 = 6:58
+| extra7 = [[Orbital (band)|Orbital]]
+| title8 = Fashion
+| note8 = Ian Pooley Mix
+| length8 = 7:13
+| extra8 = Phunky Data
+| title9 = Psychopath
+| note9 = Leftfield Mix
+| length9 = 4:21
+| extra9 = [[John Lydon]]
+| title10 = Stop & Panic
+| length10 = 7:18
+| extra10 = [[Cirrus (band)|Cirrus]]
+| title11 = Strong in Love
+| length11 = 7:49
+| extra11 = [[Chicane (musician)|Chicane]]
+| title12 = Hack the Planet
+| length12 = 4:17
+| extra12 = [[Brooklyn Bounce]]
+| title13 = Diskette
+| length13 = 2:05
+| extra13 = [[Simon Boswell]]
+| title14 = Launch DiVinci
+| length14 = 2:59
+| extra14 = Simon Boswell
+}}
+
+===25th Anniversary Edition===
+In 2020, to celebrate the 25th anniversary of the film, the soundtrack was released for the first time on vinyl, in a two-disc set.<ref>{{cite web |title=RSD '20 Special Release: Various Artists - Hackers (Original Motion Picture Soundtrack) |url=https://recordstoreday.com/SpecialRelease/12210 |publisher=[[Record Store Day]]}}</ref> A new soundtrack album by [[Varèse Sarabande]] was also released.<ref>{{cite web |date=March 9, 2020 |title='Hackers' 25th Anniversary Soundtrack Album Announced |url=https://filmmusicreporter.com/2020/03/09/hackers-25th-anniversary-soundtrack-album-announced/ |website=Film Music Reporter}}</ref>
+
+==== Disk 1 ====
+# "[[Halcyon (Orbital song)|Halcyon + On + On]]" – [[Orbital (band)|Orbital]]
+# "[[Open Up (Leftfield song)|Open Up]]" – [[Leftfield]] (featuring [[John Lydon]])
+# "[[Cowgirl (Underworld song)|Cowgirl]]" – [[Underworld (band)|Underworld]]
+# "[[Voodoo People]]" – [[The Prodigy]]
+# "[[Connected (Stereo MCs song)|Connected]]" – [[Stereo MCs]]
+# "[[One Love (The Prodigy song)|One Love]]" – The Prodigy
+# "Original Bedroom Rockers" – [[Kruder & Dorfmeister]]
+# "Good Grief" – [[Urban Dance Squad]]
+# "[[Heaven Knows (Squeeze song)|Heaven Knows]]" – [[Squeeze (band)|Squeeze]]
+
+==== Disk 2 ====
+# "[[Protection (Massive Attack song)|Protection]]" – performed by [[Massive Attack]]
+# "One Combination" – performed by [[Guy Pratt]]
+# "Grand Central Station" – performed by [[Guy Pratt]] featuring [[David Gilmour]]
+# "Hackers Suite" – [[Simon Boswell]]
+# "Diskette" – Simon Boswell
+# "City of Data" – Simon Boswell
+# "Ellingson HQ" – Simon Boswell
+# "Cereal's Speech" – Simon Boswell
+# "Kernel" – Simon Boswell
+# "Date Night" – Simon Boswell
+
+===Additional information===
+Songs featured in the film but not appearing on any soundtracks:
+* "[[Wild One (Johnny O'Keefe song)|Real Wild Child]]" – written by [[Johnny O'Keefe]], Johnny Greenan and 'Dave Owen (VIII)' (as Dave Owens)
+
+==Reception==
+===Box office===
+The film was released September 15, 1995. It opened in 1,812 theaters and earned $3.2 million in its opening weekend, finishing in 4th place.<ref>{{cite news |date=19 September 1995 |last=Dutka |first=Elaine |title=Weekend Box Office : 3 New Films Open Quietly |url=https://www.latimes.com/archives/la-xpm-1995-09-19-ca-47454-story.html |newspaper=[[Los Angeles Times]]}}</ref> The film ended its run with a domestic box office gross of $7.6 million.<ref name="mojo"/><ref name="numbers">{{cite web |title=Hackers (1995) – Financial Information |url=https://www.the-numbers.com/movie/Hackers#tab=summary |website=[[The Numbers (website)|The Numbers]]}}</ref>
+
+===Critical response===
+On the [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 34% based on reviews from 47 critics. The website's critics consensus reads, "''Hackers'' has a certain stylish appeal, but its slick visuals and appealing young cast can't compensate for a clichéd and disappointingly uninspired story."<ref>{{cite web |title= Hackers (1995) |url= https://www.rottentomatoes.com/m/hackers/ |website= [[Rotten Tomatoes]] |access-date= 2025-10-30}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 46 out of 100, based on 14 critics, indicating "mixed or average" reviews.<ref name="Metacritic">{{cite web |title=''Hackers'' |url=https://www.metacritic.com/movie/hackers |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{cite web |title= Hackers |url= https://www.metacritic.com/movie/hackers |website= [[Metacritic]] |access-date= 2020-07-10}}</ref> Audiences surveyed by [[CinemaScore]] gave the film a grade B on scale of A to F.<ref>{{cite web |url= https://www.cinemascore.com/publicsearch/index/title/ |title= Hackers (1995) B |publisher=[[CinemaScore]] |url-status= dead |archive-url= https://web.archive.org/web/20180206073531/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= February 6, 2018}}</ref>
+
+Critics praised the film for its stylish visuals but criticized its unconvincing look at hackers and their subculture. [[Roger Ebert]] gave the film three out of four stars and wrote, "The movie is smart and entertaining, then, as long as you don't take the computer stuff very seriously. I didn't. I took it approximately as seriously as the [[archeology]] in ''[[Indiana Jones]]''{{-"}}.<ref name="ebert">{{cite news |date=September 15, 1995 |first=Roger |last=Ebert |author-link=Roger Ebert |title=Hackers |newspaper=[[Chicago Sun-Times]] |url=https://www.rogerebert.com/reviews/hackers-1995 |access-date=2021-01-01 |via=[[RogerEbert.com]]}}</ref> On the show ''[[Siskel & Ebert]]'', Ebert gave the film thumbs up while [[Gene Siskel]] gave the film thumbs down, saying, "I didn't find the characters that interesting and I really didn't like the villain in this piece. I thought Fisher Stevens was not very threatening... The writing is so arch."<ref>{{cite video |people=[[Gene Siskel]] & [[Roger Ebert]] |title=Siskel & Ebert At The Movies: ''Hackers'' |url=http://bventertainment.go.com/tv/buenavista/atm/reviews.html?sec=6&subsec=Hackers |location=Chicago, IL |medium=Television Production |publisher=Buena Vista Television |date=September 15, 1995 |access-date=2010-04-23 }}{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+
+Peter Stack of the ''[[San Francisco Chronicle]]'', wrote "Want a believable plot or acting? Forget it. But if you just want knockout images, unabashed eye candy and a riveting look at a complex world that seems both real and fake at the same time, ''Hackers'' is one of the most intriguing movies of the year."<ref name="stack">{{cite news |date=September 15, 1995 |last=Stack |first=Peter |title=''Hackers'' Computes Visually |newspaper=[[San Francisco Chronicle]] |url=https://www.sfgate.com/movies/article/MOVIE-REVIEW-Hackers-Computes-Visually-3023888.php |access-date=2021-01-01}}</ref> ''[[USA Today]]'' gave the film three out of four stars and Mike Clark wrote, "When a movie's premise repels all rational analysis, speed is the make-or-break component. To its credit, ''Hackers'' recalls the pumped-up energy of ''[[Pump Up the Volume (film)|Pump Up the Volume]]'', as well as its casting prowess."<ref name="clark">{{cite news |last=Clark |first=Mike |title=''Hackers'' accesses thrills |newspaper=[[USA Today]] |pages= 4D |date=September 15, 1995}}</ref> In his review for the ''[[Toronto Star]]'', Peter Goddard wrote, "''Hackers'' joy-rides down the same back streets [[Marlon Brando]] did in ''[[The Wild One]]'', or [[Bruce Springsteen]] does in ''[[Born To Run]]''. It gives all the classic kicks of the classic B-flicks, with more action than brains, cool hair and hot clothes, and all the latest tech revved to the max."<ref name="goddard">{{cite news |last=Goddard |first=Peter |title=Great road movie for info highway |newspaper=[[Toronto Star]] |pages=C8 |date=September 16, 1995}}</ref> ''[[Chicago Reader]]'' critic Jonathan Rosenbaum noted that, "Without being any sort of miracle, this is an engaging and lively exploitation fantasy-thriller about computer hackers, anarchistic in spirit, that succeeds at just about everything ''[[The Net (1995 film)|The Net]]'' failed to—especially in representing computer operations with some visual flair."<ref>{{cite news |date=2004 |last=Rosenbaum |first=Jonathan |author-link=Jonathan Rosenbaum |title=Hackers Capsule |url=http://onfilm.chicagoreader.com/movies/capsules/12953_HACKERS |newspaper=[[Chicago Reader]] |archive-url=https://web.archive.org/web/20040501052138/http://onfilm.chicagoreader.com/movies/capsules/12953_HACKERS |archive-date=2004-05-01 |url-status=dead}}</ref>
+
+The ''[[Los Angeles Times]]''{{'}}s David Kronke wrote, "imagination of Rafael Moreu, making his feature screenwriting debut, and director Iain Softley...piles on the attitude and stylized visuals, no one will notice just how empty and uninvolving the story really is."<ref name="kronke">{{cite news |last=Kronke |first=David |title=''Hackers'': World of Hip Computer Nerds |newspaper=[[Los Angeles Times]] |date=September 15, 1995 |url=https://www.latimes.com/archives/la-xpm-1995-09-15-ca-46090-story.html |access-date = 2009-09-02}}</ref> In his review for ''[[The Washington Post]]'', [[Hal Hinson]] wrote, "As its stars, Miller and Jolie seem just as one-dimensional—except that, in their case, the effect is intentional."<ref name="hinson">{{cite news |last=Hinson |first=Hal |title=''Hackers'' |newspaper=[[The Washington Post]] |date=September 15, 1995 |url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/hackersrhinson_c02d40.htm |access-date=2009-09-02}}</ref> ''[[Entertainment Weekly]]'' gave the film a "D" rating and [[Owen Gleiberman]] wrote, "the movie buys in to the computer-kid-as-elite-rebel mystique currently being peddled by magazines like ''[[Wired (magazine)|Wired]]''."<ref name="Gleiberman">{{cite magazine |last=Gleiberman |first=Owen |author-link=Owen Gleiberman |title=''Hackers'' |magazine=[[Entertainment Weekly]] |date=October 6, 1995 |url=https://ew.com/article/1995/09/29/hackers-2/ |access-date=2010-05-25 |archive-date=2011-06-06 |archive-url=https://web.archive.org/web/20110606232428/http://www.ew.com/ew/article/0,,298989,00.html |url-status=live}}</ref>
+
+=== Cult status ===
+Although ''Hackers'' was a box-office disappointment, grossing US$7.6&nbsp;million on an estimated US$20&nbsp;million budget,<ref name="mojo"/> the film went on to develop a strong cult following.
+
+Within hacker culture, the film is celebrated for its flamboyant depiction of cyberpunk aesthetics, its electronic-heavy soundtrack, and its tongue-in-cheek approach to the subject matter. In a retrospective feature, several information security professionals described it as "possibly the single greatest hacker film known to hackerkind," praising its style, humor, and its enduring quotability.<ref name="ViceCult">{{cite magazine |last=Schwartz |first=Oscar |title=Real Hackers Tell Us Why They Love the Movie 'Hackers' |url=https://www.vice.com/en/article/real-hackers-tell-us-why-they-love-the-movie-hackers |magazine=[[Vice (magazine)|Vice]] |date=September 15, 2015 |access-date=14 August 2025}}</ref>
+
+The film's dialogue, including lines such as "Hack the planet!" and "Mess with the best, die like the rest", has become iconic among fans, often chanted during midnight screenings and fan gatherings.<ref>{{cite web |title='Hackers' Anniversary: Why the 1995 Film Endures |url=https://www.inverse.com/entertainment/hackers-movie-anniversary |website=[[Inverse (website)|Inverse]] |date=September 14, 2020 |access-date=14 August 2025}}</ref> Its visual style of rollerblading characters in cyber-goth attire, neon-lit cityscapes, and stylized computer graphics continues to influence nostalgic depictions of 1990s hacker culture.<ref>{{cite web |title=Watching 'Hackers' in 2017: Where Did the Anarchy Go? |url=https://www.dazeddigital.com/science-tech/article/37873/1/watching-hackers-in-2017-where-did-the-anarchy-go |website=[[Dazed Digital]] |date=October 3, 2017 |access-date=14 August 2025}}</ref>
+
+==Home media==
+''Hackers'' was released by [[MGM Home Entertainment|MGM/UA Home Video]] on [[VHS]] and [[LaserDisc]] on February 20 1996,<ref>{{cite news|title=Video releases |newspaper=Arizona Republic|page=74| date=February 2, 1996}}</ref> and on [[DVD]] on August 25, 1998, as a Region 1 widescreen DVD. The Region 2 DVD was released in 2001; it allowed selection between PAL and 16:9 Widescreen, with Dolby Digital.<ref>{{cite AV media |title=Hackers |publisher=MGM Studios |date=2001 |id={{EAN|5050070000122}}}}</ref> On October 25, 2005, it was released in UMD format, playable on the Sony PSP.<ref>{{cite web |last=Softley |first=Iain |title=Hackers |website=Amazon |url=https://www.amazon.com/dp/B000AWYOH8 |access-date=2022-06-23}}</ref>
+
+[[Shout! Factory]] released a 20th anniversary [[Blu-ray]] on August 18, 2015.<ref>{{cite web |title=Hackers [20th Anniversary Edition] - Blu-ray |url=https://www.shoutfactory.com/product/hackers-20th-anniversary-edition |publisher=Shout! Factory  |access-date=2015-09-11}}</ref> Blu-ray.com gave the film a 4/5 for both video and audio.<ref>{{cite web |title=Hackers Blu-ray (20th Anniversary Edition) |url=https://www.blu-ray.com/movies/Hackers-Blu-ray/74871/ |access-date=2022-06-23}}</ref> ''DVDTalk.com'' noted the Blu-ray only includes a [[DTS, Inc.|DTS]]-HD Master Audio stereo audio track, while the packaging lists a [[5.1 surround sound|5.1 mix]] as an option, and the previous DVD release includes a 5.1 mix.<ref>{{cite web |title=DVD Talk |url=https://www.dvdtalk.com/reviews/68589/hackers/ |access-date=2022-06-23 |publisher=www.dvdtalk.com}}</ref> Shout! Factory released an [[Ultra HD Blu-ray]] collector's edition on August 22, 2023, which includes a DTS-HD Master Audio 5.1 track.<ref>{{cite web | url=https://www.blu-ray.com/movies/Hackers-4K-Blu-ray/339047/ | title=Hackers 4K Blu-ray (Collector's Edition)}}</ref>
+
+==Discussion of a sequel==
+In a September 2020 interview for ''[[Collider (website)|Collider]]'' to commemorate the 25th anniversary of the film, Softley said that there were active discussions regarding a sequel.<ref>{{cite web | url=https://collider.com/hackers-director-interview-iain-softley-25th-anniversary/ | title=Hackers Director Iain Softley Looks Back on Angelina Jolie, the Soundtrack | website=[[Collider (website)|Collider]] | date=30 September 2020}}</ref><ref>{{cite web | url=https://screenrant.com/hackers-2-movie-reboot-discussions-iain-softley/ | title=Hackers 2 Being Actively Discussed by Original Director | website=[[Screen Rant]] | date=29 September 2020}}</ref>
+
+==See also==
+* [[List of films featuring surveillance]]
+* [[Cyberpunk]]
+* ''[[Antitrust (film)|Antitrust]]''
+* ''[[Killswitch (film)|Killswitch]]''
+* [[Net neutrality]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* [https://web.archive.org/web/19981202015756/http://mgmua.com/hackers/index.html Official website] (1998)
+* {{IMDb title}}
+* {{Mojo title}}
+* {{Rotten Tomatoes}}
+
+{{Iain Softley}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hackers (Film)}}
+[[Category:1995 films]]
+[[Category:1995 American films]]
+[[Category:1995 crime thriller films]]
+[[Category:1995 English-language films]]
+[[Category:1995 teen films]]
+[[Category:American crime thriller films]]
+[[Category:American techno-thriller films]]
+[[Category:1990s techno-thriller films]]
+[[Category:American teen films]]
+[[Category:English-language crime thriller films]]
+[[Category:Fiction about malware]]
+[[Category:Films about computer hacking]]
+[[Category:Films directed by Iain Softley]]
+[[Category:Films produced by Ralph Winter]]
+[[Category:Films scored by Simon Boswell]]
+[[Category:Films set in 1988]]
+[[Category:Films set in 1995]]
+[[Category:Films set in New York City]]
+[[Category:Films set in Washington (state)]]
+[[Category:Films shot at Pinewood Studios]]
+[[Category:Films shot in New York City]]
+[[Category:Teen crime films]]
+[[Category:Teen thriller films]]
+[[Category:United Artists films]]

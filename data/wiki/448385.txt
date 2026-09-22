@@ -1,0 +1,320 @@
+{{short description|1966 film by Michelangelo Antonioni}}
+{{About|the 1966 film|the mathematical operation|Blowing up|other uses|Blow up (disambiguation){{!}}Blow up}}
+{{Use dmy dates|date=November 2022}}
+{{Use British English|date=February 2024}}
+{{Infobox film
+| name           = Blowup
+| image          = Blowup poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Michelangelo Antonioni]]
+| screenplay     = {{Plainlist|
+* Michelangelo Antonioni
+* [[Tonino Guerra]]
+}}
+{{Infobox | decat = yes | child = yes
+    | label1= Dialogue by
+    | data1 = [[Edward Bond]]
+}}
+| story          = Michelangelo Antonioni
+| based_on       = {{based on|"[[Blow-Up (short story)|Las babas del diablo]]"|[[Julio Cortázar]]}}
+| producer       = [[Carlo Ponti]]
+| starring       = {{Plainlist|
+* [[Vanessa Redgrave]]
+* [[David Hemmings]]
+* [[Sarah Miles]]
+}}
+| cinematography = [[Carlo Di Palma]]
+| editing        = [[Frank Clarke (editor)|Frank Clarke]]
+| music          = [[Herbie Hancock]]<br>[[The Yardbirds]]
+| production_companies = {{Plainlist|
+* [[Metro-Goldwyn-Mayer]]
+* Carlo Ponti Productions
+* Bridge Films
+}}
+| distributor    = [[Metro-Goldwyn-Mayer|Premier Productions]] (United States)<br>[[Metro-Goldwyn-Mayer]] (worldwide)
+| released       = {{Film date|1966|12|18|United States|1967|03|16|United Kingdom|1967|9|27|Italy|df=y}}
+| runtime        = 111 minutes
+| country        = {{Plainlist|
+* United Kingdom<ref name = BFI>{{cite web|url=https://www.bfi.org.uk/films-tv-people/4ce2b6f695fc4|archive-url=https://web.archive.org/web/20160211223552/http://www.bfi.org.uk/films-tv-people/4ce2b6f695fc4|url-status=dead|archive-date=11 February 2016|title = Blowup (1967)|publisher = [[British Film Institute]]|access-date = 17 July 2018}}</ref>
+* Italy<ref name = BFI />
+}}
+| language       = English
+| budget         = $1.8&nbsp;million<ref name="time">[[Richard Corliss|Corliss, Richard]] (5 August 2007). {{Deprecated archive|url=https://archive.today/20130105002703/http://www.time.com/time/printout/0,8816,1649984,00.html|title="When Antonioni Blew Up the Movies"}}. ''[[Time (magazine)|Time]]''. Retrieved 21 February 2011.</ref>
+| gross          = $20&nbsp;million<ref name="time" />
+}}
+'''''Blowup''''' (also styled '''''Blow-Up''''') is a 1966 [[Psychological thriller|psychological]] [[Mystery film|mystery]]<ref>{{Cite web |title=Blow-Up |url=https://www.criterion.com/films/28694-blow-up}}</ref> film directed by [[Michelangelo Antonioni]], co-written by Antonioni, [[Tonino Guerra]] and [[Edward Bond]]<ref>{{Cite news |date=21 January 2008 |title=Best of Bond |url=https://www.theguardian.com/arts/gallery/2008/jan/21/edwardbond |access-date=28 October 2018 |newspaper=[[The Guardian]]}}</ref> and produced by [[Carlo Ponti]]. It is Antonioni's first entirely English-language film and stars [[David Hemmings]], [[Vanessa Redgrave]] and [[Sarah Miles]]. Model [[Veruschka von Lehndorff]] is featured as herself, and [[Jane Birkin]] makes her first film appearance. The film's non-[[diegetic music]] was [[Film score|scored]] by American jazz pianist [[Herbie Hancock]], and the English rock group [[The Yardbirds]] are seen performing "Stroll On". The cinematographer was [[Carlo di Palma]].
+
+The plot was inspired by Argentine-French writer [[Julio Cortázar]]'s 1958 short story "[[Blow-Up (short story)|Las babas del diablo]]", which was later retitled "Blow-Up" to tie in with the film.<ref name="Beltzer">{{cite magazine | first=Thomas | last=Beltzer | title=''La Mano Negra'': Julio Cortázar and His Influence on Cinema | url=http://archive.sensesofcinema.com/contents/05/35/cortazar.html | magazine=[[Senses of Cinema]] | date=15 April 2005 | access-date=21 February 2011 | url-status=dead | archive-url=https://web.archive.org/web/20101028102449/http://archive.sensesofcinema.com/contents/05/35/cortazar.html | archive-date=28 October 2010 }}</ref> Set within the contemporary [[Mod (subculture)|mod subculture]] of [[Swinging Sixties|Swinging London]], the film follows a fashion photographer (Hemmings) who believes he has unwittingly captured a murder on film.<ref name="nyt" />
+
+In the main competition of the [[1967 Cannes Film Festival]], ''Blowup'' won the [[Palme d'Or]], the festival's highest honour. The American release of the [[counterculture of the 1960s|counterculture-era]] film<ref>{{cite web |last=Ryce |first=Walter |date=27 November 2013 |title=Ethan Russell's seminal '60s rock photos dazzle at Winfield Gallery in Carmel |url=http://www.montereycountyweekly.com/archives/2013/1127/article_ed48ac38-56d6-11e3-8750-001a4bcf6878.html |access-date=29 April 2014 |website=montereycountyweekly.com}}</ref> with its [[sex in film|explicit sexual content]] defied Hollywood's [[Hays Code|Production Code]], and its subsequent critical and commercial success influenced the abandonment of the code in 1968 in favour of the [[Motion Picture Association film rating system|MPAA film rating system]].<ref name="valenti">{{cite web|title=Re: The MPAA|url=http://www.skepticfiles.org/en001/mpaarate.htm|website=The Skeptic Tank|access-date=1 August 2012|author=vbcsc03l@vax.csun.edu (snopes)|date=25 May 1993|archive-url=https://web.archive.org/web/20170818092954/http://www.skepticfiles.org/en001/mpaarate.htm|archive-date=18 August 2017|url-status=dead}}</ref> At the [[39th Academy Awards]], the film was nominated for [[Academy Award for Best Director|Best Director]] and [[Academy Award for Best Original Screenplay|Best Original Screenplay]]. The film was also nominated for three [[British Academy Film Awards|BAFTA Awards]], including [[BAFTA Award for Outstanding British Film|Outstanding British Film]].
+
+''Blowup'' has influenced subsequent films including [[Francis Ford Coppola]]'s ''[[The Conversation]]'' (1974) and [[Brian De Palma]]'s ''[[Blow Out]]'' (1981). It was also an inspiration for the Indian movie ''[[Jaane Bhi Do Yaaro]]'' (1983).<ref name="Houston">{{cite news |last=Ebiri |first=Bilge |title=The Mysteries of Antonioni's ''Blow-Up'', a Half Century on |url=https://www.houstonpress.com/film/antonionis-blow-up-remains-a-wide-open-mystery-a-half-century-on-9640980 |newspaper=[[Houston Press]] |date=28 July 2017 |access-date=25 August 2019 |archive-url=https://web.archive.org/web/20170728030537/http://www.houstonpress.com/film/antonionis-blow-up-remains-a-wide-open-mystery-a-half-century-on-9640980 |archive-date=28 July 2017}}</ref> In 2012, it was ranked No. 144 in the ''[[Sight and Sound]]'' critics' poll of the greatest films of all time and No. 59 in the directors' poll.<ref>{{cite web|url=http://www.bfi.org.uk/films-tv-people/4ce2b6f695fc4/sightandsoundpoll2012 |archive-url=https://web.archive.org/web/20170202071506/http://www.bfi.org.uk/films-tv-people/4ce2b6f695fc4/sightandsoundpoll2012 |url-status=dead |archive-date=2 February 2017 |title=Votes for Blowup (1967) |publisher=British Film Institute |access-date=22 January 2017}}</ref>
+
+==Plot==
+[[File:Blow-Up, 1966, Vanessa Redgrave and David Hemmings.jpg|thumb|Vanessa Redgrave and David Hemmings 1966]]
+After spending the night at a [[flophouse|doss house]], where he has taken pictures for a book of art photographs, photographer Thomas is late for a [[photo shoot]] with model [[Veruschka von Lehndorff|Veruschka]] at his studio, which in turn makes him late for a shoot with other models later in the morning. He grows bored and frustrated with the models and walks off, leaving them and the production staff in the lurch. As he leaves the studio, two teenage aspiring models ask to speak to him, but he brushes them off and drives off to visit an antique shop near [[Maryon Park]].
+
+Wandering into the park, Thomas furtively takes photographs of two lovers, an older man in his 60s and a lady in her 30s. He follows them in a secluded area in the park. Then, he leaves, but the woman, Jane, is furious at being photographed and pursues Thomas, demanding his film and attempting to take his camera. He refuses, and continues to photograph her as she runs away. Thomas then meets his agent Ron for lunch and notices a man following him and looking into his car. Thomas returns to his studio to find Jane, who asks desperately for the film. They have a conversation and flirt, but he deliberately hands her a different roll of film. She, in turn, gives him a false telephone number.
+
+Thomas makes several [[Enlarger|blow-ups]] of the film of Jane and her lover, which reveal Jane appearing to look worriedly at a person lurking in the trees with a pistol. Thomas returns to the darkroom to blow up the photograph repeatedly, until the coarsening grain suggests a body lying in the undergrowth. Thomas excitedly calls Ron, claiming that his impromptu photo session may have saved a man's life. He is then disturbed by a knock on the door from the teenage girls. They have a sexual encounter in the studio before he falls asleep. After awakening, he learns that the girls hope he will photograph them, but is distracted by a detail in one of his blow-ups. He tells them to leave, saying, "Tomorrow! Tomorrow!"
+
+Thomas examines a blurred figure on the ground under a bush in the blow-up, which he suspects is the dead body of a man shot by the gunman. As evening falls, he goes back to the park without his camera and finds the body, but is scared off by the sound of a twig breaking. He returns to his studio to find it ransacked, with all of the negatives and prints gone except for one very grainy blow-up of what is possibly the body.
+
+After driving into town, he sees Jane and follows her into the [[Ricky-Tick]] club, where [[the Yardbirds]] are performing the song "Stroll On". A buzzing noise in guitarist [[Jeff Beck]]'s amplifier angers him so much that he smashes his guitar and throws its neck into the crowd. The crowd, previously disengaged, fights over the guitar neck. Thomas grabs the neck and runs out of the club, with much of the crowd chasing after him; once he is away from the crowd, he tosses the neck away and walks on. A passer-by picks up the neck and examines it, but also discards it.
+
+At a drug-drenched party in a house on the Thames, Thomas asks a [[Cannabis (drug)|cannabis]]-addled Ron to come to the park as a witness, but cannot convince him of what has happened. Instead, Thomas joins the party at Ron's insistence and wakes up in the house at sunrise. He then returns to the park alone, only to find that the body is gone.
+
+Thomas watches a [[Mime artist|mime]] troupe perform a mock-tennis match at the park, and picks up the imaginary ball and throws it back to the two players when asked. As he watches the mimes continue to play, the sound of the ball being played is heard. His image then fades away, leaving only the grass.
+
+==Cast==
+{{castlist|
+* [[David Hemmings]] as Thomas
+* [[Vanessa Redgrave]] as Jane
+* [[Sarah Miles]] as Patricia
+* [[John Castle]] as Bill
+* [[Jane Birkin]] as blonde girl
+* [[Gillian Hills]] as brunette girl
+* [[Peter Bowles]] as Ron, Thomas's agent
+* [[Veruschka von Lehndorff]] as herself
+* [[Julian Chagrin|Julian]] and Claude Chagrin as mimes
+}}
+Uncredited members of the cast include [[Ronan O'Casey]] as Jane’s lover/victim in park,<ref>{{cite news |last1=O'Casey |first1=Matt |title=Ronan O'Casey obituary |url=https://www.theguardian.com/tv-and-radio/2012/may/09/ronan-o-casey-obituary |access-date=16 March 2026 |work=The Guardian |date=9 May 2012}}</ref> [[Susan Brodrick]] as the [[antiquarian]],<ref>{{cite book |last1=Cotter |first1=Robert Michael |title=The Women of Hammer Horror: A Biographical Dictionary and Filmography |date=10 January 2014 |publisher=McFarland |isbn=978-1-4766-0201-1 |pages=32−33 }}</ref> and [[Tsai Chin (actress)|Tsai Chin]] as Thomas's receptionist.<ref>{{cite book |last1=Aros |first1=Andrew A. |title=An Actor Guide to the Talkies, 1965 Through 1974 |date=1977 |publisher=Scarecrow Press |isbn=978-0-8108-1052-5 |page=47 }}</ref>  [[Jill Kennington]], [[Peggy Moffitt]] and [[Donyale Luna]] appear as Thomas' models.<ref>{{cite book |last1=Huss |first1=Roy |title=Focus on Blow-up |date=1971 |publisher=Englewood Cliffs, N.J., Prentice-Hall |isbn=978-0-13-077784-3 |page=145}}</ref><ref name="vogue.co.uk">{{Cite web|url=https://www.vogue.co.uk/article/donyale-luna-model-vogue|title=Remembering Donyale Luna, The First Woman Of Colour Ever To Appear On The Cover Of Vogue|website=British Vogue|date=April 19, 2019}}</ref> [[The Yardbirds]] ([[Jeff Beck]], [[Jimmy Page]], [[Chris Dreja]], [[Jim McCarty]], and [[Keith Relf]]) appear as themselves.<ref>{{cite book |last1=Power |first1=Martin |title=No Quarter: the Three Lives of Jimmy Page |date=2016 |publisher=Omnibus Press |isbn=9781783235360 |chapter=10, Stroll On}}</ref>
+
+[[Piers Gough]] and [[Janet Street-Porter]] appear as uncredited [[Extra (acting)|extras]] in the nightclub sequence.{{Citation needed|date=March 2026}} [[Julio Cortázar]], the author of the source short story, makes a [[cameo appearance]] as a homeless man.<ref>{{cite web |last1=McGlone |first1=Neil |title=Seventy Years of Cannes: ''Blow-Up'' in 1967 |url=https://www.criterion.com/current/posts/4578-seventy-years-of-cannes-blow-up-in-1967 |website=Criterion|date=
+May 23, 2017}}</ref> Real-life photographer Reg Wilkins, who was one of the inspirations for Thomas' character, appears as his assistant.<ref>{{Cite web |date=January 17, 2023|title=On blowing up, with Reg Wilkins |url=https://darklight-digital.com/profile/on-blowing-up-with-reg-wilkins/ |access-date=January 24, 2025 |website=Darklight Digital |language=en}}</ref>
+
+==Themes==
+Antonioni's screenplay for ''Blowup'' is a "[[Thriller (genre)|thriller]]-suspense" story revolving around the efforts of a young and successful fashion photographer in his struggle to determine whether a series of photographs he takes at a public park contain evidence of a murder. As Thomas persists, his quest leads him initially to question his technical mastery over the "hidden truth" recorded by his camera, then toward a confrontation with the realities of his life of "material advantages, gained at the expense of ideals". Finally, he questions the reality of his own existence.<ref>Gow, 1968 p. 100: See here for Gow's profile of the Thomas character both socially and sexually, emphasizing Thomas' cynicism-misanthropy, and "at the same time reaching out rather blindly for toward spiritual fulfillment".</ref> Film historian Gordon Gow identifies the object in Antonioni's use of suspense: 
+ 
+{{blockquote|In the case of Blow-up, the mystery [i.e. whether a murder took place] is relevant to the film, but the solution of it is not. Indeed, the absence of a solution is part of the point: life's uncertainty&nbsp;... the true suspense resides not in the mystery of the photographic blow-ups, but in the instability of Thomas himself.<ref>Gow, 1968 p. 99</ref>}}
+
+In an interview at the time of the film's release, Antonioni stated that the film "is not about man's relationship with man, it is about man's relationship with reality".<ref name="thrills" /> According to Gow, "a mystery without a solution is instrumental to the theme of disorientation" which is sustained until the final moments of the film, in which Thomas fails to resolve the contradictions and ambiguities that arise from his investigations and his own life.<ref>Gow, 1968 p. 98</ref><ref>Gow, 1968 p. 100: Thomas fails to "redress the [im]balance" And: p. 104: Thomas fails to "maintain equilibrium" between his "creative world" and the "ulcerated area of materialism and fact".</ref> Thomas' fate is known and the audience's suspense is resolved, but Antonioni leaves the meaning of the film open to speculation.<ref>Gow, 1968 p. 104: "...&nbsp;as in the case of many films of depth...interpretation rests with the spectator&nbsp;..."</ref>
+
+Gow considers two interpretations for the ending:
+
+{{blockquote|Since ''Blow-Up'' is not resolved happily, but rather in a total surrender to fantasy and consequently to oblivion, we can take it either as an exhortation to come to terms with reality, or as a cautionary tale in which the pursuit of material gain is a threat to humanity.<ref>Gow, 1968 p. 104</ref>}}
+
+==Production==
+===Inspirations and influences===
+The plot of ''Blowup'' was inspired by Argentine-French writer [[Julio Cortázar]]'s 1959 short story "Las babas del diablo", collected in ''[[Blow-up and Other Stories|End of the Game and Other Stories]]'', which in turn was based on a story told to Cortázar by photographer [[Sergio Larraín]].<ref>{{cite web|last1=Forn|first1=Juan|title=El rectángulo en la mano|url=https://www.pagina12.com.ar/diario/contratapa/13-187760-2012-02-17.html|website=[[Página 12]]|access-date=11 August 2017|language=es}}</ref> The short story was subsequently retitled "Blow-up" to connect it with the film.<ref name="Beltzer" /> The life of [[Swinging Sixties|Swinging London]] photographer [[David Bailey]] was also an influence on the plot.<ref>{{cite book|first1=Brigitte|last1=Tast|first2=Hans-Jürgen|last2=Tast|title=light room – dark room. Antonionis 'Blow-up' und der Traumjob Fotograf|publisher=Kulleraugen|location=Schellerten|date=2014|isbn=978-3-88842-044-3}}</ref>
+
+===Casting===
+Several people were offered the role of the protagonist, including [[Sean Connery]] (who declined when Antonioni refused to show him the script), David Bailey, and [[Terence Stamp]], who was replaced shortly before filming began after Antonioni saw David Hemmings in a stage production of [[Dylan Thomas]]' ''Adventures in the Skin Trade''.<ref name="McGlone">{{cite web |last1=McGlone |first1=Neil McGlone |title=Seventy Years of Cannes: Blow-up in 1967 |url=https://www.criterion.com/current/posts/4578-seventy-years-of-cannes-blow-up-in-1967 |website=Criterion Collection |access-date=15 July 2020}}</ref>
+
+Jane Birkin made her film debut as the blonde girl.<ref name="birkin">{{cite web |title=Mort de Jane Birkin |url=https://www.francetvinfo.fr/culture/mort-de-jane-birkin/mort-de-jane-birkin-l-angleterre-se-souvient-d-elle-pour-les-scandales-blow-up-et-je-t-aime-moi-non-plus-et-pour-un-accessoire-de-mode_5953928.html |access-date=15 July 2023 |website=francetvinfo}}</ref>
+
+===Filming===
+[[File:Maryon2.JPG|thumb|right|[[Maryon Park]]]]
+Most of ''Blowup'' was shot on location throughout London. The film's opening scene was filmed on the Plaza of ''[[The Economist]]'' Building in [[St James's Street|St. James's Street]], [[City of Westminster|Westminster]], a project by '[[Brutalist architecture|New Brutalist]]' architects [[Alison and Peter Smithson]] that was constructed between 1959 and 1964.<ref>{{cite book|first=Simon R. H.|last=James|author-link=Simon R. H. James|title=London Film Location Guide|title-link=London Film Location Guide|publisher=[[Anova Books|Batsford]] (London)|year=2007|page=87|isbn=978-0-7134-9062-6}}</ref> The park scenes were filmed at [[Maryon Park]] in [[Charlton, London|Charlton]]; the park has changed little since the film was shot, although Antonioni painted the grass green to meet his requirements.<ref>James (2007) p. 181.</ref><ref>{{Cite web|title=Michelangelo Antonioni's plot development – Film|url=https://www.the-tls.co.uk/articles/swinging-sixties-focus/|access-date=2021-04-28|website=TLS|language=en-GB}}</ref> Photographer [[John Cowan (photographer)|John Cowan]] leased his studio at 39 Princes Place in [[Notting Hill]] to Antonioni for much of the interior and exterior filming, and Cowan's own photographic murals are featured in the film.<ref>{{cite web|date=10 September 2006|url=https://www.independent.co.uk/travel/uk/on-the-trail-of-the-swinging-sixties-415444.html|title=On the Trail of the Swinging Sixties – 'Blow-up', Antonioni's Cult Film, Hit Our Screens 40 Years Ago. Robert Nurden Goes in Search of the Places Used for Filming, from Notting Hill to a Neglected Park in a Little-Known Corner of South-East London|website=[[The Independent]]|access-date=21 February 2011}}</ref><ref>[http://johnhootonphotography.wordpress.com/2010/06/20/blow-up/ "Blow-up"]. ''John Hooton's Photography Blog''. Retrieved 3 April 2011.</ref>{{sps|date=December 2024}} Other locations included [[Heddon Street]]<ref>James (2007) p. 38.</ref> (where the cover of [[David Bowie]]'s album ''[[The Rise and Fall of Ziggy Stardust and the Spiders from Mars]]'' would later be photographed)<ref>[http://www.5years.com/Gall173.htm "Heddon Street, London"]. ''The Ziggy Stardust Companion''. Retrieved 25 December 2009.</ref> and [[Cheyne Walk]] in [[Chelsea, London|Chelsea]].{{fact|date=February 2025}}
+
+The scene in which the Yardbirds perform "Stroll On" – a modified version of "[[Train Kept A-Rollin']]" with new lyrics – was filmed in a replica of the [[Ricky-Tick]] club at [[MGM-British Studios|Elstree Studios]] in [[Borehamwood]], [[Hertfordshire]] from 12 to 14 October 1966.<ref>{{cite book| last = Birnbaum| first = Larry| title = Before Elvis: The Prehistory of Rock 'n' Roll| year = 2012| publisher = Scarecrow Press| isbn = 978-0-8108-8629-2}}</ref> [[Janet Street-Porter]] appears in the scene as an extra.{{Citation needed|date=June 2024}}
+
+[[File:Rolls Royce Silver Cloud 3.jpg|thumb|An example of a rare 'Chinese Eye' Silver Cloud III DHC as used in the film]]
+Actor [[Ronan O'Casey]] claimed that the film's mysterious nature is the product of an "unfinished" production. In a 1999 letter to [[Roger Ebert]], O'Casey wrote that scenes that would have "depict[ed] the planning of the murder and its aftermath – scenes with Vanessa, Sarah Miles, and Jeremy Glover, Vanessa's new young lover who plots with her to murder me – were never shot because the film went seriously over budget."<ref name="rogerebert">{{cite web| first=Roger |last=Ebert |author-link=Roger Ebert | url=http://www.rogerebert.com/rogers-journal/corpse-from-blow-up-speaks | title=Antonioni's Corpse from 'Blow-up' speaks! | date=10 February 1999 | access-date=8 April 2015}}</ref> O'Casey had previously told this story to ''[[Der Spiegel]]'' in 1967, where he stated that [[Dyson Lovell]] played the part of the murderous lover.<ref>Der Spiegel (July 1967). [https://www.spiegel.de/kultur/nach-der-sinnflut-a-941d2d6e-0002-0001-0000-000046251853?context=issue "Nach der Sinflut"]. {{in lang|de}}</ref> Two scenes appear to give credence to this: first when Lovell is seen apparently tampering with Thomas' car, and later when he and Jane are seen following Thomas in a [[Rover P6|Rover 2000]].<ref>[http://movie-dude.com/Dyson%20Lovell.htm "Dyson Lovell"]. ''Movie-Dude.com''</ref>
+
+===Thomas' car===
+Thomas drives a [[Rolls-Royce Silver Cloud#Silver Cloud III|Rolls-Royce Silver Cloud III 'Chinese Eye' Mulliner Park Ward Drophead Coupé]] owned by DJ and television presenter [[Jimmy Savile]]. The car was originally painted white, then painted black by the production. Only about one hundred coach built Silver Clouds IIIs were made with the unique slanted headlights, and it remains an iconic element of the film.<ref name="Rolls Royce">{{cite web |last1=Bolton |first1=Ian |title=The Car |url=https://sites.google.com/a/blowupthenandnow.com/blowup-then-now/car-rolls-royce |website=Blow-up: Then and Now}}</ref><ref name="Goodwood 2018">{{cite web |last1=Baker |first1=Erin |title=Step into Rolls‑Royce's 1960s showroom |url=https://www.goodwood.com/grr/event-coverage/goodwood-revival/2018/9/step-into-rolls-royces-1960s-showroom/ |website=Goodwood Road and Racing}}</ref>
+
+==Release and reception==
+''Blowup'' premiered at the Coronet Theater on [[Third Avenue]] in New York City on 18 December 1966.<ref>{{Cite news |last=Sheward |first=Virginia |date=1966-12-19 |title=A Few Friends Take In a Movie |url=https://www.newspapers.com/article/newsday-suffolk-edition-blow-up-premie/136236831/ |access-date=2025-01-15 |newspaper=[[Newsday]] |location=Suffolk |pages=1B}}</ref>
+
+MGM did not gain approval for the film under the [[Motion Picture Association|MPAA]]'s [[Hays Code|Production Code]] in the United States.<ref name="nyt" /> The film was condemned by the [[List of films condemned by the Legion of Decency|National Legion of Decency]]. MGM released the film through a subsidiary distributor, [[Metro-Goldwyn-Mayer|Premier Productions]], and it was shown widely in North American cinemas. The film's critical and commercial success played a major role in the abolition of the Production Code and its replacement with the [[Motion Picture Association film rating system|MPAA rating system]] shortly thereafter.<ref name="valenti" />
+
+===Box office===
+Film writer [[Richard Corliss]] stated in 2007 that the film grossed $20 million (about ${{Inflation|US-GDP|20|1967|fmt=c}} million in {{Inflation-year|US-GDP}}) on a $1.8 million budget and "helped liberate Hollywood from its puritanical prurience" in the process.<ref name="time" />
+
+The film earned $5.9 million (about ${{Format price|{{Inflation|US-GDP|5900000|1967}}}} in {{Inflation-year|US-GDP}}) in the United States and Canada in 1967.<ref>{{cite magazine|title=Big Rental Films of 1967|magazine=[[Variety (magazine)|Variety]]|date=3 January 1968|page=25}}</ref>
+
+===Critical reception===
+Critic [[Andrew Sarris]] called the film "a mod masterpiece.” In ''[[Playboy]]'' magazine, film critic [[Arthur Knight (film critic)|Arthur Knight]] wrote that ''Blowup'' would come to be considered "as important and seminal a film as ''[[Citizen Kane]]'', ''[[Rome, Open City|Open City]]'', and ''[[Hiroshima mon amour|Hiroshima, Mon Amour]]'' – perhaps even more so".<ref name="focus">{{cite web | publisher=filminfocus.com | url=http://www.filminfocus.com/article/antonioni___s__em_blowup__em__defines_cool | title=Antonioni's ''Blowup'' Defines Cool | date=18 December 2008 | access-date=25 December 2009 | url-status=dead | archive-url=https://web.archive.org/web/20100113054725/http://www.filminfocus.com/article/antonioni___s__em_blowup__em__defines_cool | archive-date=13 January 2010}}</ref> ''[[Time (magazine)|Time]]'' magazine called the film a "far-out, uptight and vibrantly exciting picture" that represented a "screeching change of creative direction" for Antonioni; the magazine predicted it would "undoubtedly be by far the most popular movie Antonioni has ever made".<ref>{{cite magazine|date=30 December 1966|url=http://www.time.com/time/printout/0,8816,901936,00.html|archive-url=https://archive.today/20120919182313/http://www.time.com/time/printout/0,8816,901936,00.html|url-status=dead|archive-date=19 September 2012|title=Cinema: The Things Which Are Not Seen|magazine=[[Time (magazine)|Time]]|access-date=21 February 2011}}</ref>
+
+Conversely, [[Pauline Kael]] found ''Blowup'' to be vague and vacuously symbolic. She argued that these aspects led audiences to find the film artistic and intellectual.<ref>{{cite book|last=Kael|first=Pauline|year=2011|chapter=Tourist in the City of Youth|editor-last=Schwartz|editor-first=Sanford|title=The Age of Movies: Selected Writings of Pauline Kael|publisher=The Library of America|isbn=978-1-59853-109-1|quote=Antonioni’s new mixture of suspense with vagueness and confusion seems to have a kind of numbing fascination for them that they associate with art and intellectuality, and they are responding to it as their film—and hence as a masterpiece. [...] They feel they understand Blow-Up, but when they can’t explain it, or why they feel as they do, they use that as the grounds for saying the movie is a work of art.}}</ref> In that regard, she likened it to ''[[Last Year at Marienbad]]''.
+
+[[Bosley Crowther]], film critic of ''[[The New York Times]]'', called it a "fascinating picture",<ref name="nyt">{{cite news|last=Crowther|first=Bosley|author-link=Bosley Crowther|date=19 December 1966|title=''Blow-Up''|newspaper=[[The New York Times]]|url=https://movies.nytimes.com/movie/review?res=EE05E7DF1739E361BC4152DFB467838D679EDE|url-status=dead|access-date=21 February 2011|archive-url=https://web.archive.org/web/20170706154056/http://www.nytimes.com/movie/review?res=EE05E7DF1739E361BC4152DFB467838D679EDE|archive-date=6 July 2017}}</ref> but expressed reservations, describing the "usual Antonioni passages of seemingly endless wanderings" as "redundant and long"; nevertheless, he called ''Blowup'' a "stunning picture – beautifully built up with glowing images and color compositions that get us into the feelings of our man and into the characteristics of the [[mod (subculture)|mod world]] in which he dwells".<ref name="nyt" /> Even director [[Ingmar Bergman]], who generally disliked Antonioni's work, called the film a masterpiece.<ref>Interview published in ''[[Sydsvenska Dagbladet]]''. [http://zakka.dk/euroscreenwriters/interviews/ingmar_bergman_03.htm "Bergman on Film Directors"] {{Webarchive|url=https://web.archive.org/web/20160826082557/http://zakka.dk/euroscreenwriters/interviews/ingmar_bergman_03.htm |date=26 August 2016 }} at zakka.dk. Retrieved 25 December 2009.</ref>
+{{quote box|width=30em|fontsize=100%|salign=left|quote=The conscience of Thomas in ''Blow-Up'' is not troubled by any sense of obligation or responsibility to the girl [Vanessa Redgrave as Jane] he has photographed in the park. Human relationships do not go very deep with Thomas. Selfish and self-tormented, he draws what confidence he can from the mastery he has over his camera. Yet his blow-ups of the pictures from the park disclose that the camera has possibly functioned independently [of him], in the sense that there is more in the photographs than Thomas realized when he took them. Thus his mastery is called into question.|source= —Film historian Gordon Gow, ''Suspense in the Cinema'' (1968)<ref>Gow, 1968 p. 100</ref>}}
+Anthony Quinn, writing for ''[[The Guardian]]'' in 2017 for the film's fiftieth anniversary, described ''Blowup'' as "a picture about perception and ambiguity", suggesting an association between elements of the film and the [[Zapruder film]] capturing the 1963 [[assassination of John F. Kennedy]].<ref name="thrills">{{cite web |last1=Quinn |first1=Anthony |title=Freedom, revolt and pubic hair: why Antonioni's Blow-up thrills 50 years on|url=https://www.theguardian.com/film/2017/mar/10/antonioni-blow-up-50-years-movie-photographer-murder |website=[[The Guardian]]|date=10 March 2017|access-date=25 August 2019}}</ref>
+
+According to author Thomas Beltzer, the film explores the "inherently alienating" qualities of mass media, where "the camera has turned us into passive voyeurs, programmable for predictable responses, ultimately helpless and even inhumanly dead".<ref name="Beltzer" /> Bilge Eberi of ''[[Houston Press]]'' notes the contrast between "the sinewy movements of the girls, their psychedelic jumpsuits and slinky dresses and multicolored minis", and "the blurred, frozen, inchoate unknowability of the death contained within [Thomas'] image", which "is a glimpse of the eternal and elemental&nbsp;... that completely reorders, or rather disorders, Thomas's world. As an artist, he can't capture it or understand it or do anything with it. As an individual, he can't possess it or consume it."<ref name="Houston" />
+
+[[Roger Ebert]] described the film as "a hypnotic conjuring act, in which a character is awakened briefly from a deep sleep of bored alienation and then drifts away again. This is the arc of the film. Not 'Swinging London.' Not existential mystery. Not the parallels between what Hemmings does with his photos and what Antonioni does with Hemmings. But simply the observations that we are happy when we are doing what we do well, and unhappy seeking pleasure elsewhere. I imagine Antonioni was happy when he was making this film."<ref>{{cite book|last=Ebert|first=Roger|title=The Great Movies|year=2002|publisher=Broadway Books|isbn=0-7679-1038-9|pages=78}}</ref>
+
+In his commentary for the DVD edition of the film, [[Peter Brunette]] connects it to the [[Existentialism|existentialist]] tenet that actions and experiences have no inherent meaning, but are given a meaning within a particular context. According to Brunette, this is demonstrated by the scene in which Thomas takes Jeff Beck's guitar neck out onto the street: "He's rescued the object, this intensely meaningful object. Yet, out of the context, it's just a broken piece of a guitar [...] the important point here being that meaning, and the construction we put on reality, is always a group social function. And it's contextual."<ref>Commentary track by Peter Brunette on the 2005 DVD edition of Blow-up</ref>
+
+On the [[review aggregator]] website [[Rotten Tomatoes]], the film holds an 87% approval rating based on 54 reviews from film critics, with an average rating of 8.3/10.<ref>{{Cite web |title=Blow-up |url=https://www.rottentomatoes.com/m/blow_up_1966 |access-date=28 September 2022 |website=Rotten Tomatoes |publisher=[[Fandango Media]]}}</ref> On [[Metacritic]], the film has a weighted average score of 82 out of 100, based on reviews from 15 critics.<ref>{{Cite web |title=Blow-up Reviews |url=https://www.metacritic.com/movie/blow-up |access-date=28 September 2022 |website=Metacritic |publisher=[[CBS Interactive]]}}</ref>
+
+American director [[Martin Scorsese]] included ''Blowup'' on his list of "39 Essential Foreign Films for a Young Filmmaker".<ref>{{cite web|url=http://www.openculture.com/2014/10/scorseses-list-of-39-essential-foreign-films.html |title=Martin Scorsese Creates a List of 39 Essential Foreign Films for a Young Filmmaker |publisher=Open Culture |date=15 October 2014 |access-date=1 February 2015 |url-status=live |archive-url=https://web.archive.org/web/20150207201938/http://www.openculture.com/2014/10/scorseses-list-of-39-essential-foreign-films.html |archive-date=7 February 2015 }}</ref>
+
+Films such as ''[[The Conversation]]'', ''[[Deep Red]]'', ''[[Blow Out]]'', ''[[Jaane Bhi Do Yaaro]]'' and ''[[Enemy of the State (film)|Enemy of the State]]'' have been inspired by ''Blowup''.<ref name="Houston" />
+
+===Awards and honours===
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col"| Institution
+! scope="col"| Year
+! scope="col"| Category
+! scope="col"| Recipient(s)
+! scope="col"| Result
+! scope="col" class="unsortable"| {{Abbr|Ref(s)|Reference(s)}}
+|-
+!scope="row" rowspan=2| [[Academy Awards]]
+| rowspan="2" | [[39th Academy Awards|1967]]
+| [[Academy Award for Best Director|Best Director]]
+| [[Michelangelo Antonioni]]
+| {{nom}}
+| rowspan="2" |<ref>{{Cite web|url=http://www.oscars.org/oscars/ceremonies/1967 |title=THE 39TH ACADEMY AWARDS |date=2015 |access-date=11 June 2017 |publisher=[[Academy of Motion Picture Arts and Sciences]]}}</ref>
+|-
+| [[Academy Award for Best Original Screenplay|Best Original Screenplay]]
+| Michelangelo Antonioni, [[Tonino Guerra]], [[Edward Bond]]
+| {{nom}}
+|-
+!scope="row" rowspan=3| [[British Academy Film Awards]]
+| rowspan="3" | [[21st British Academy Film Awards|1968]]
+| [[BAFTA Award for Best British Film|Best British Film]]
+| Michelangelo Antonioni
+| {{nom}}
+| rowspan="3" |<ref>{{Cite web|url=http://awards.bafta.org/award/1968/film? |title=Film in 1968 |access-date=11 June 2017 |publisher=[[British Academy of Film and Television Arts]]}}</ref>
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography, Colour]]
+| [[Carlo Di Palma]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Art Direction|Best Art Direction, Colour]]
+| [[Assheton Gorton]]
+| {{nom}}
+|-
+! scope="row"| [[Cannes Film Festival]]
+| rowspan="1" | [[1967 Cannes Film Festival|1967]]
+| [[Palme d'Or|Grand Prix du Festival International du Film]]
+| rowspan="2" | Michelangelo Antonioni
+| {{won}}
+| rowspan="1" |<ref>{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/2801/year/1967.html |title=Festival de Cannes: ''Blowup'' |access-date=8 March 2009|publisher=festival-cannes.com}}</ref><ref>{{cite magazine|title= People: May 19, 1967 | url=http://www.time.com/time/printout/0,8816,840897,00.html | archive-url=https://archive.today/20130204090935/http://www.time.com/time/printout/0,8816,840897,00.html | url-status=dead | archive-date=4 February 2013 | date= 19 May 1967 | access-date=21 February 2011| magazine=[[Time (magazine)|Time]]}}</ref>
+|-
+! scope="row"| [[French Syndicate of Cinema Critics]]
+| rowspan="1" | 1968
+| Best Foreign Film
+| {{won}}
+| rowspan="1" |<ref name="Passafiume">{{Cite web|url=https://www.tcm.com/tcmdb/title/69187/blow-up#articles-reviews |archive-url=https://web.archive.org/web/20110812005554/http://www.tcm.com/tcmdb/title/69187/Blow-Up/#articles-reviews |url-status=dead |archive-date=12 August 2011 |title=Blow-up (1966), AWARDS AND HONORS |last=Passafiume |first=Andrea |access-date=11 June 2017 |publisher=[[Turner Classic Movies]]}}</ref>
+|-
+! scope="row"| [[Golden Globe Awards|Golden Globes]]
+| rowspan="1" | [[24th Golden Globe Awards|1967]]
+| [[Golden Globe Award for Best English-Language Foreign Film|Best English-Language Foreign Film]]
+| ''Blowup''
+| {{nom}}
+| rowspan="1" |<ref>{{Cite web|url=http://www.goldenglobes.com/film/blow |title=Blow-up |access-date=11 June 2017 |publisher=[[Hollywood Foreign Press Association]]}}</ref>
+|-
+! scope="row"| [[Nastro d'Argento]]
+| rowspan="1" | 1968
+| Best Foreign Director
+| Michelangelo Antonioni
+| {{won}}
+| rowspan="1" |<ref name="Passafiume" />
+|-
+!scope="row" rowspan=2| [[National Society of Film Critics]]
+| rowspan="2" | [[1966 National Society of Film Critics Awards|1967]]
+| [[National Society of Film Critics Award for Best Film|Best Film]]
+| ''Blowup''
+| {{won}}
+| rowspan="2" |<ref>{{Cite web|url=https://nationalsocietyoffilmcritics.com/about-2/ |title=Past Awards |date=19 December 2009 |access-date=11 June 2017 |publisher=[[National Society of Film Critics]]}}</ref>
+|-
+| [[National Society of Film Critics Award for Best Director|Best Director]]
+| Michelangelo Antonioni
+| {{won}}
+|-
+|}
+
+===Home media release===
+[[Warner Home Video]] released a [[region lockout|Region 1]] DVD of the film in 2004.<ref>{{cite web|website=[[Slant Magazine]]|url=https://www.slantmagazine.com/dvd/blowup/|date=16 February 2004|title=DVD Review: Michelangelo Antonioni's Blow-up on Warner Home Video|last=Gonzalez|first=Ed|url-status=live|archive-url=https://archive.today/20201220013416/https://www.slantmagazine.com/dvd/blowup/|archive-date=20 December 2020}}</ref> In 2017, the [[The Criterion Collection|Criterion Collection]] issued the film on [[Blu-ray]] and DVD, featuring a [[4K resolution|4K remaster]] from the original camera negatives, in addition to new bonus materials.<ref>{{cite web|website=Slant Magazine|url-status=live|url=https://www.slantmagazine.com/dvd/blow-up-bd/|last=Bowen|first=Chuck|archive-url=https://archive.today/20201220013609/https://www.slantmagazine.com/dvd/blow-up-bd/|archive-date=20 December 2020|title=Review: Michelangelo Antonioni's Blow-up on Criterion Blu-ray|date=30 March 2017}}</ref>{{portal|1960s|Film|London}}
+
+*
+
+== See also ==
+
+* [[Michelangelo Antonioni filmography]]
+
+* [[1966 in film]]
+* [[BFI Top 100 British films]]
+* ''[[Blow Out]]''
+* [[Blow-Up (soundtrack)|''Blow-Up'' (soundtrack)]]
+* [[List of cult films]]
+* [[List of films featuring surveillance]]
+* [[Mod (subculture)]]
+* [[Swinging Sixties]]
+
+==Notes==
+# {{note|1}} Several people known in 1966 are in the film; others became famous later. The most widely noted cameo was by [[The Yardbirds]] who perform "[[Train Kept A-Rollin'|Stroll On]]" in the last third. [[Michelangelo Antonioni]] first asked [[Eric Burdon]] to play that scene, but he turned it down. In an interview [[Sterling Morrison]] of [[The Velvet Underground]] claimed that Antonioni had also asked the Velvet Underground to appear in the film, and the band members were "more than willing", but due to the expense of flying the Velvets over from the US, Antonioni instead decided on an English group.<ref>Bockris, Victor; Malanga, Gerard (2009) [1983]. Uptight: The Velvet Underground Story. London: Omnibus Press. {{ISBN|978-0-85712-003-8}}</ref> As [[Keith Relf]] sings, [[Jimmy Page]] and [[Jeff Beck]] play to either side along with [[Chris Dreja]] and [[Jim McCarty]].
+# {{note|2}} After [[Jeff Beck]]'s guitar amplifier fails, he bashes his guitar to bits as [[The Who]] did at the time. [[Michelangelo Antonioni]] had wanted [[The Who]] in ''Blowup'' as he was fascinated by [[Pete Townshend]]'s [[guitar-smashing]] routine.<ref>Platt, John; [[Chris Dreja]]; [[Jim McCarty]] (1983). ''Yardbirds''. [[Sidgwick and Jackson]] (London). {{ISBN|978-0-283-98982-7}}.</ref>
+# {{note|3}} [[Steve Howe (guitarist)|Steve Howe]] of [[Tomorrow (band)|Tomorrow]] recalled and wrote "We went on the set and started preparing for that [[guitar-smashing]] scene in the club. They even went as far as making up a bunch of [[Gibson ES-175|Gibson 175]] replicas and then we got dropped for [[The Yardbirds]] who were a bigger name. That's why you see [[Jeff Beck]] smashing my guitar rather than his!"<ref>[[Pete Frame|Frame, Pete]] (1993). ''[[Rock Family Trees|The Complete Rock Family Trees]]''. [[Omnibus Press]] (London; New York City). p. 55. {{ISBN|978-0-711-90465-1}}.</ref> 
+# {{note|4}} [[Janet Street-Porter]] can be seen dancing in a silver coat and red and yellow striped [[Carnaby Street]] trousers during the scene inside the nightclub.<ref name=DH>{{cite book|last=Hemmings|first=David|title=Blow-up and other exaggerations|year=2004|page=23|publisher=Robson |isbn=978-1-86105-789-1|url=https://books.google.com/books?id=gF2PSGW701oC&q=%22street-porter%22%20blow-up&pg=PA23}}</ref> A pre-[[Monty Python]] [[Michael Palin]] can also be seen in the motionless crowd watching [[The Yardbirds]].<ref>{{cite web|url=https://www.theguardian.com/film/filmblog/2011/nov/23/my-favourite-film-blow-up|title=My favourite film: Blow-up|last=Dennis|first=Jon|date=24 November 2011|newspaper=[[The Guardian]]|access-date=19 March 2018}}</ref>
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+{{Refbegin}}
+* Brunette, Peter (2005). DVD Audio Commentary (Iconic Films).
+* Gow, Gordon. 1968. ''Suspense in the Cinema.'' Castle Books, New York. The Tanvity Press and A. S. Barnes & Co. Inc. Library of Congress Catalog Card No: 68-15196.
+* Hemmings, David (2004). ''Blow-up… and Other Exaggerations – The Autobiography of David Hemmings''. [[Robson Books]] (London). {{ISBN|978-1-861-05789-1}}.
+* {{cite book |editor1-first= Roy|editor1-last= Huss|title= Focus on Blow-up|url= https://archive.org/details/focusonblowup0000huss|url-access= registration|series= Film Focus|year= 1971|publisher= Prentice-Hall|location= New Jersey|isbn=978-0-13-077776-8|page= [https://archive.org/details/focusonblowup0000huss/page/171 171]}} Includes a translation of Cortázar's original short story.
+{{Refend}}
+
+==External links==
+{{Wikiquote|Blow-up}}
+* {{IMDb title}}
+* {{Rotten Tomatoes}}
+* [https://web.archive.org/web/20160211223552/http://www.bfi.org.uk/films-tv-people/4ce2b6f695fc4 ''Blowup''] at the [[British Film Institute]]{{better source needed|reason=Help request: a live link can be searched for at https://collections-search.bfi.org.uk/web/search/expert - if available, replace the archive URL with the live link. Or if none found, remove this 'better source needed' template. | date=October 2023}}
+* {{TCMDb title}}
+* [http://www.wheredidtheyfilmthat.co.uk/film.php?film_id=369 Where Did They Film That? – film entry]
+* [https://www.theguardian.com/film/2005/jun/24/features Peter Bowles on making of ''Blowup'']
+* [http://www.blowupthenandnow.com/ ''Blow-up Then & Now'' website]
+* [http://hooton.photo/?p=1109 On the set of Antonioni's Blow-Up and how this film about a '60s fashion photographer compared to the real thing.]
+* [https://www.criterion.com/current/posts/4478-blow-up-in-the-details ''Blow-up: In the Details''] – an essay by [[David Forgacs]] at [[The Criterion Collection]]
+* [http://www.neugraphic.com/blow-up/index.html ''Blowup''] Comprehensive collection of articles, production information, bibliography, and photo gallery, at [http://www.neugraphic.com/ Neugraphic.com].
+* {{YouTube|id=Ul-HYtbnh3M|title=''Kubrick's A Clockwork Orange pays homage to Antonioni''}}
+* ''[https://www.reelstreets.com/films/blow-up-2/ Blow-up]'' locations at [https://www.reelstreets.com Reelstreets]
+
+{{Navboxes
+|title = Awards for ''Blowup''
+|list =
+{{Palme d'Or 1960–1979}}
+{{National Society of Film Critics Award for Best Film}}
+}}
+{{Michelangelo Antonioni}}
+
+{{Authority control}}
+
+[[Category:1966 drama films]]
+[[Category:1966 films]]
+[[Category:1966 British films]]
+[[Category:1966 English-language films]]
+[[Category:1966 Italian films]]
+[[Category:1960s mystery drama films]]
+[[Category:1966 mystery films]]
+[[Category:1960s mystery thriller films]]
+[[Category:1960s psychological thriller films]]
+[[Category:British mystery drama films]]
+[[Category:British mystery thriller films]]
+[[Category:British psychological thriller films]]
+[[Category:Counterculture of the 1960s]]
+[[Category:English-language Italian films]]
+[[Category:English-language mystery drama films]]
+[[Category:English-language mystery thriller films]]
+[[Category:Existentialist films]]
+[[Category:Films about fashion in the United Kingdom]]
+[[Category:Films about fashion photographers]]
+[[Category:Films based on short fiction]]
+[[Category:Films based on works by Julio Cortázar]]
+[[Category:Films directed by Michelangelo Antonioni]]
+[[Category:Films produced by Carlo Ponti]]
+[[Category:Films scored by Herbie Hancock]]
+[[Category:Films set in London]]
+[[Category:Films shot at MGM-British Studios]]
+[[Category:Films shot in London]]
+[[Category:Films with screenplays by Edward Bond]]
+[[Category:Films with screenplays by Tonino Guerra]]
+[[Category:Italian mystery drama films]]
+[[Category:Italian mystery thriller films]]
+[[Category:Italian psychological thriller films]]
+[[Category:Metro-Goldwyn-Mayer films]]
+[[Category:National Society of Film Critics Award for Best Film winners]]
+[[Category:Palme d'Or winners]]
+[[Category:English-language psychological thriller films]]

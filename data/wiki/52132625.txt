@@ -1,0 +1,57 @@
+{{Short description|2016 film by Hong Sang-soo}}
+{{Infobox film
+|name           = Yourself and Yours
+|image          = 
+|caption        = 
+|director       = [[Hong Sang-soo]]
+|writer         = Hong Sang-soo
+|producer = Hong Sang-soo
+|starring       = [[Kim Joo-hyuk]]<br>[[Lee Yoo-young]]
+|music          = [[Dalpalan]]
+|cinematography = Park Hong-yeol
+|editing        = Hahm Sung-won
+|studio         = Jeonwonsa Film Company
+|distributor    = [[The Cinema Guild]]
+|released       = {{film date|2016|9|12}}
+|runtime        = 86 minutes
+|country        = South Korea
+|language       = Korean
+|gross          = {{USD|132,980}}<ref>{{cite web|title=Yourself and Yours (2016)|url=https://www.koreanfilm.or.kr/eng/films/index/filmsView.jsp?movieCd=20169730|website=Korean Film Biz Zone|publisher=[[Korean Film Council]]|accessdate=2021-07-23}}</ref>
+}}
+
+'''''Yourself and Yours''''' ({{langx|ko|당신자신과 당신의 것}}) is a 2016 South Korean drama film directed by [[Hong Sang-soo]]. The film was screened at the [[2016 Toronto International Film Festival]].
+
+==Plot==
+The plot revolves around the couple Yeong-soo (played by [[Kim Joo-hyuk]]) and Min-jeong (played by [[Lee Yoo-young]]). After a fight between them, they decide to take a break in their relationship. The next day, Min-jeong vanishes without a trace. Instead a woman shows up looking exactly like Min-jeong. She seems interested in looking for "Mr. Right" and dating every man in the town where they live. One day Min-jeong returns.
+
+==Cast==
+*[[Kim Joo-hyuk]] as Yeong-soo
+*[[Lee Yoo-young]] as Min-jeong
+*[[Kim Eui-sung]] as Joong-haeng
+*[[Kwon Hae-hyo]] as Jae-young
+
+==Reception==
+On [[review aggregator]] website [[Rotten Tomatoes]], the film has a 94% approval rating based on 32 reviews, with an [[Weighted arithmetic mean|average rating]] of 7.5/10. The site's consensus states "Yourself and Yours uses one couple's ups and downs to playfully interrogate the thrills and pitfalls of romantic relationships".<ref>{{cite web|accessdate=2021-07-23|url=https://www.rottentomatoes.com/m/yourself_and_yours|title=Yourself and Yours|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media]]}}</ref> On [[Metacritic]], ''Yourself and Yours'' holds 75 out of a 100 rank based on 11 critics, indicating "generally favorable reviews".<ref>{{cite web|url=https://www.metacritic.com/movie/yourself-and-yours|title=Yourself and Yours|website=[[Metacritic]]|publisher=[[CBS Interactive]]|accessdate=2021-07-23}}</ref>
+
+In his review for ''[[Variety (magazine)|Variety]]'', Scott Tobias described the plot as an "inspired reversal" of the film ''[[That Obscure Object of Desire]]''.<ref>{{cite news |url=https://variety.com/2016/film/festivals/yourself-and-yours-review-hong-sang-soo-1201861136/|title=Film Review: 'Yourself and Yours'|first=Scott|last=Tobias|magazine=[[Variety (magazine)|Variety]]|date=2016-09-14}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{kmdb film|15634}}
+*{{IMDb title|5907916}}
+*{{hancinema drama|Yourself_and_Yours}}
+
+{{Hong Sang-soo}}
+
+[[Category:2016 drama films]]
+[[Category:2016 films]]
+[[Category:Films directed by Hong Sang-soo]]
+[[Category:South Korean drama films]]
+[[Category:2016 Korean-language films]]
+[[Category:2016 South Korean films]]
+
+
+{{2010s-drama-film-stub}}
+{{2010s-SouthKorea-film-stub}}

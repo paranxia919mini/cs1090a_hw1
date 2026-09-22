@@ -1,0 +1,597 @@
+{{Short description|1992 film by Clint Eastwood}}
+{{about|the 1992 film}}
+{{redirect|William Munny|the villain in ''Preacher'' comics|Saint of Killers}}
+{{Use mdy dates|date=February 2025}}
+{{Use American English|date=February 2025}}
+{{Infobox film
+| name           = Unforgiven
+| image          = Unforgiven 2.jpg
+| caption        = Theatrical release poster by [[Bill Gold]]
+| director       = [[Clint Eastwood]]
+| producer       = Clint Eastwood
+| writer         = [[David Peoples|David Webb Peoples]]
+| starring       = {{Plainlist|
+* Clint Eastwood
+* [[Gene Hackman]]
+* [[Morgan Freeman]]
+* [[Richard Harris]]
+}}
+| music          = Clint Eastwood<br>[[Lennie Niehaus]]
+| cinematography = [[Jack N. Green]]
+| editing        = [[Joel Cox]]
+| studio         = [[Malpaso Productions]]
+| distributor    = [[Warner Bros. Pictures|Warner Bros.]]
+| released       = {{Film date|1992|08|03|[[Fox Bruin Theater|Mann Bruin Theater]]|1992|08|07|United States}}
+| runtime        = 130 minutes<ref>{{Cite web |title=Unforgiven |url=http://www.bbfc.co.uk/releases/unforgiven-1970-0 |access-date=January 13, 2015 |website=[[British Board of Film Classification]] |archive-date=March 5, 2016 |archive-url=https://web.archive.org/web/20160305071127/http://www.bbfc.co.uk/releases/unforgiven-1970-0 |url-status=dead}}</ref><ref>{{Cite web |title=''Unforgiven'' (1992) |url=https://www.rottentomatoes.com/m/1041911_unforgiven? |access-date=June 2, 2023 |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |archive-date=November 12, 2020 |archive-url=https://web.archive.org/web/20201112042547/https://www.rottentomatoes.com/m/1041911_unforgiven |url-status=live}}</ref>
+| country        = United States
+| language       = English
+| budget         = $14.4&nbsp;million<ref name="Numbers">{{Cite news |title=Unforgiven (1992) - Financial Information |work=[[The Numbers (website)|The Numbers]] |url=http://www.the-numbers.com/movie/Unforgiven#tab=summary |access-date=January 13, 2015 |archive-date=March 11, 2015 |archive-url=https://web.archive.org/web/20150311100949/http://www.the-numbers.com/movie/Unforgiven#tab=summary |url-status=live}}</ref>
+| gross          = $159&nbsp;million<ref name="Numbers" />
+}}
+'''''Unforgiven''''' is a 1992 American [[revisionist Western]]<ref name=":0" /><ref>{{Cite web |last=Costello |first=Jacob |date=2022-05-09 |title=Quintessential revisionist western "Unforgiven" holds up well |url=https://depauliaonline.com/58099/artslife/film-tv/quintessential-revisionist-western-unforgiven-holds-up-well/ |access-date=2025-02-18 |website=The DePaulia}}</ref> film produced and directed by [[Clint Eastwood]] from a screenplay by [[David Peoples|David Webb Peoples]]. It stars Eastwood as William Munny, an aging outlaw and killer who takes on one more job years after he turned to farming. The film co-stars [[Gene Hackman]], [[Morgan Freeman]], and [[Richard Harris]].
+
+''Unforgiven'' premiered at the [[Fox Bruin Theater|Mann Bruin Theater]] on August 3, 1992, before being released by [[Warner Bros. Pictures|Warner Bros.]] on August 7, 1992. It grossed over $159&nbsp;million on a budget of $14.4&nbsp;million and received widespread critical acclaim, with praise for the acting (particularly from Eastwood and Hackman), directing, editing, themes, and cinematography. The film won four [[Academy Awards]]: [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]] for Eastwood, [[Academy Award for Best Supporting Actor|Best Supporting Actor]] for Hackman, and [[Academy Award for Best Film Editing|Best Film Editing]] for [[Joel Cox]]. Eastwood was nominated for the [[Academy Award for Best Actor]] for his performance, but lost to [[Al Pacino]] for ''[[Scent of a Woman (1992 film)|Scent of a Woman]]''.<ref name="OscarNight">{{cite news |last=Weinrub |first=Bernald |url=https://www.newspapers.com/article/the-orlando-sentinel-oscars-night-start/123764249/ |title=Oscar's night started at noon in Hollywood |archive-url=https://web.archive.org/web/20230429231955/https://www.newspapers.com/article/the-orlando-sentinel-oscars-night-start/123764249/ |date=March 30, 1993 |access-date=April 29, 2023 |archive-date=April 29, 2023 |page=9 |work=The New York Times |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> The film was the third Western to win Best Picture,<ref>{{Cite news |last=Canfield |first=David |date=April 16, 2015 |title=The 11 Best Modern Westerns |language=en-US |work=IndieWire |url=https://www.indiewire.com/2015/04/the-11-best-modern-westerns-2-63019/ |access-date=October 28, 2018 |archive-date=July 23, 2018 |archive-url=https://web.archive.org/web/20180723003659/https://www.indiewire.com/2015/04/the-11-best-modern-westerns-2-63019/ |url-status=live}}</ref> following ''[[Cimarron (1931 film)|Cimarron]]'' (1931) and ''[[Dances With Wolves]]'' (1990). Eastwood dedicated the film to directors and mentors [[Sergio Leone]] and [[Don Siegel]].
+
+In 2004, ''Unforgiven'' was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being deemed "culturally, historically, or aesthetically significant".<ref name="loc.gov">{{Cite web |title=Librarian of Congress Adds 25 Films to National Film Registry |url=https://www.loc.gov/item/prn-04-215/films-added-to-national-film-registry-for-2004/2004-12-28/ |access-date=February 2, 2021 |website=Library of Congress |archive-date=April 7, 2020 |archive-url=https://web.archive.org/web/20200407183706/https://www.loc.gov/item/prn-04-215/films-added-to-national-film-registry-for-2004/2004-12-28/ |url-status=live}}</ref>
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for featured film articles should be 400-700 words. -->
+In 1880, in the fictional town of Big Whiskey, [[Wyoming Territory|Wyoming]], a cowboy named Quick Mike slashes prostitute Delilah Fitzgerald's face with a knife over an insult, permanently disfiguring her. As punishment, [[Sheriff]] "Little Bill" Daggett orders Mike and his associate who was with him at the brothel, Davey Bunting, to turn over several of their ponies to Delilah's employer, Skinny DuBois, for his loss of revenue. Outraged, the prostitutes offer a $1,000 [[bounty (reward)|bounty]] for the cowboys' deaths.
+
+In [[Hodgeman County, Kansas|Hodgeman County]], [[Kansas]], a boastful young man visits Will Munny's hog farm. He calls himself the "[[Smith_%26_Wesson_Model_3#Schofield_revolver|Schofield]] Kid" and claims to be an experienced bounty hunter looking for help pursuing the cowboys. Formerly a notorious outlaw and murderer, Will is now a repentant widower raising two children. After initially refusing to help, Will realizes that his farm is failing and his children's future is in jeopardy. He recruits his friend Ned Logan, another retired outlaw, and they catch up with the Kid, who they discover is severely [[Myopia|near-sighted]].
+
+Back in Big Whiskey, British-born [[gunfighter]] "English" Bob, an old acquaintance and rival of Little Bill's, arrives in town with his biographer W.W. Beauchamp, seeking the bounty. Enforcing the town's antigun law, Little Bill, with his deputies, disarms Bob and beats him savagely to discourage others from attempting to claim the bounty. Bob, humiliated, is banished from town the next morning, but Beauchamp stays out of a fascination with the sheriff, who debunks many of the romantic notions Beauchamp has about the [[Wild West]]. Little Bill explains to Beauchamp that the best attribute for a gunslinger is to be cool-headed under fire rather than to have the quickest draw, and to always kill the best shooter first.
+
+Will, Ned, and the Kid arrive in town during a rainstorm and enter Skinny's saloon. While Ned and the Kid meet with the prostitutes upstairs, Little Bill confronts a feverish Will. Not realizing Will's identity, but correctly guessing that he wants the bounty, Bill confiscates his weapon and beats him. Ned and the Kid escape through a back window and take Will to an unoccupied barn outside of town, where they and the prostitutes nurse him back to health. A few days later, the trio ambush Davey. After missing Davey and shooting his horse, Ned falters and Will shoots Davey instead. Ned decides to quit and return to Kansas.
+
+Ned is later captured and flogged to death by Little Bill to learn the whereabouts of Will and the Kid. Will takes the Kid with him to the cowboys' ranch, directing him to ambush Quick Mike in the [[outhouse]] and shoot him. After they escape, a distraught Kid drunkenly confesses he had never killed anyone before. Little Sue arrives with the reward and tells them about Ned's fate. Shocked by the news, Will begins drinking and demands the Kid's revolver. The Kid hands it over, saying that he no longer wants to be a killer, and Will sends him back to Kansas to distribute the reward.
+
+That night Will finds Ned's corpse displayed in a coffin outside Skinny's saloon. Inside, Little Bill and his deputies are organizing a [[Posse comitatus|posse]]. Will walks in brandishing a shotgun and kills Skinny for displaying Ned's corpse. He then aims at Little Bill, but the shotgun misfires. In the ensuing gunfight, Will shoots Little Bill and several other members of the posse with the revolver. He then orders the rest of the men out. Beauchamp lingers briefly to ask how Will survived. Will replies that it was luck and scares him away. Little Bill tries and fails to take another shot at Will while lying on the floor, then bemoans his fate and curses Will, who shoots him dead. Will shouts threats as he mounts his horse and rides out of town.
+
+A closing title card states that Will's mother-in-law found his farm abandoned years later, Will having possibly moved to San Francisco with the children. She remained at a loss to understand why her daughter married such a notorious outlaw and murderer.
+
+== Cast ==
+{{Cast listing|
+* [[Clint Eastwood]] as William "Will" Munny
+* [[Gene Hackman]] as Sheriff "Little Bill” Daggett
+* [[Morgan Freeman]] as Ned Logan
+* [[Richard Harris]] as English Bob
+* [[Jaimz Woolvett]] as the Schofield Kid
+* [[Saul Rubinek]] as W.W. Beauchamp
+* [[Frances Fisher]] as Strawberry Alice
+* [[Anna Thomson]] as Delilah Fitzgerald
+* David Mucci as Quick Mike
+* [[Rob Campbell]] as Davey Bunting
+* [[Anthony James (actor)|Anthony James]] as Skinny Dubois
+* Tara Dawn Frederick as Little Sue
+* Beverley Elliott as Silky
+* [[Liisa Repo-Martell]] as Faith
+* Josie Smith as Crow Creek Kate
+* Cherrilene Cardinal as Sally Two Trees
+* [[Shane Meier]] as William Munny Jr.
+* Aline Levasseur as Penny Munny
+* [[Ron White (actor)|Ron White]] as Deputy Clyde Ledbetter
+* [[Jeremy Ratchford]] as Deputy Andy Russell
+* [[John Pyper-Ferguson]] as Deputy Charley Hecker
+* Jefferson Mappin as Deputy Fatty Rossiter
+* Mina E. Mina as Muddy Chandler
+* Henry Kope as German Joe Schultz
+* Larry Joshua as Bucky
+* Ben Cardinal as Johnny Foley
+* [[Frank C. Turner]] as Fuzzy
+* [[Lochlyn Munro]] as Texas Slim
+* Philip Hayes as Lippy MacGregor
+}}
+
+==Production==
+
+=== Development ===
+The film was written by [[David Peoples|David Webb Peoples]], who had written the Oscar-nominated film ''[[The Day After Trinity]]'' and co-written ''[[Blade Runner]]'' with [[Hampton Fancher]].{{sfn|McGilligan|1999|p=467}} The concept for the film dated to 1976, when it was developed under the titles ''The Cut-Whore Killings'' and ''The William Munny Killings''.{{sfn|McGilligan|1999|p=467}} The script was originally optioned by [[Francis Ford Coppola]], who failed to raise the money to develop the project any further.<ref>{{cite web | url=https://cinephiliabeyond.org/unforgiven-clint-eastwoods-eulogy-man-no-name-anti-western-masterpiece/ |first=Sven |last=Mikulec| title='Unforgiven': Clint Eastwood's Eulogy for the Man with No Name in His Anti-Western Masterpiece • Cinephilia & Beyond | date=September 12, 2017 }}</ref><ref>{{cite web | url=https://www.latimes.com/archives/la-xpm-1992-10-05-ca-512-story.html | title=Q&A; WITH DAVID WEBB PEOPLES : A Reluctant Hollywood Hero |first=Elaine|last=Dutka|website=[[Los Angeles Times]] | date=October 5, 1992 }}</ref>
+
+By Eastwood's own recollection, he was given the script in the "early 80s", although he did not immediately pursue it, because according to him, "I thought I should do some other things first".<ref>{{Cite news |last=Whittey |first=Stephen |date=June 13, 2014 |title=Clint Eastwood on 'Jersey Boys,' taking risks and a life well lived |work=[[NJ.com]] |url=http://www.nj.com/entertainment/index.ssf/2014/06/jersey_boys_clint_eastwood_director_four_seasons.html |access-date=October 10, 2015 |archive-date=December 8, 2015 |archive-url=https://web.archive.org/web/20151208194123/http://www.nj.com/entertainment/index.ssf/2014/06/jersey_boys_clint_eastwood_director_four_seasons.html |url-status=live}}</ref> In 1984, Sonia Chernus, Eastwood's long-time story editor at Malpaso Productions, sent him a scathing memo after reading the script stating that "it doesn't deserve my time or yours" and is "an insult to this company" and that Eastwood should "get rid of it FAST".<ref>{{Cite web |last=Archive |first=Clint's |date=2021-09-25 |title=The Clint Eastwood Archive: Internal memo from January 1984 concerning Unforgiven |url=https://theclinteastwoodarchive.blogspot.com/2021/09/internal-memo-from-january-1984.html |access-date=2025-02-19 |website=The Clint Eastwood Archive}}</ref><ref>{{Cite web |date=2024-12-12 |title=The career-defining movie Clint Eastwood was told not to make |url=https://faroutmagazine.co.uk/career-defining-movie-clint-eastwood-told-not-make/|first=Michael |last=Gordon |access-date=2025-02-19 |website=faroutmagazine.co.uk |language=en-US}}</ref>
+
+=== Casting ===
+Eastwood personally phoned Harris to offer him the role of English Bob, and later said Harris was watching Eastwood's 1973 movie ''[[High Plains Drifter]]'' at the time of the phone call, leading to Harris thinking it was a prank.<ref>{{cite web |url=https://www.hollywood.com/general/richard-harris-was-watching-eastwood-film-when-director-offered-him-unforgiven-role-60238377/ |title=Richard Harris was watching Eastwood film when director offered him Unforgiven role |date=March 17, 2015 |access-date=October 7, 2021 |work=[[Hollywood.com]]}}</ref>
+
+Gene Hackman was hesitant to play Bill Daggett, as his daughters were upset that he was starring in too many violent films, but his agent and Eastwood convinced him to do it.<ref>{{cite web |title=CNN.com Transcripts |url=https://transcripts.cnn.com/show/lkl/date/2004-07-07/segment/01 |website=CNN.com |access-date=28 February 2025|archive-date=February 28, 2025|archive-url=https://web.archive.org/web/20250228013928/https://transcripts.cnn.com/show/lkl/date/2004-07-07/segment/01|url-status=live}}</ref><ref>{{cite web | url=https://www.nydailynews.com/2017/07/30/gene-hackman-initially-turned-down-unforgiven-which-turns-25-on-thursday/ | title=Gene Hackman initially turned down Unforgiven,' which turns 25 on Thursday | website=[[New York Daily News]] | date=July 30, 2017 }}</ref>
+
+=== Filming ===
+Filming took place between August 26, 1991, and November 12, 1991.<ref>{{Cite web |title=Miscellaneous Notes |url=https://www.tcm.com/tcmdb/title/18386/unforgiven#notes |access-date=September 20, 2015 |website=Turner Classic Movies |publisher=A Time Warner Company |archive-date=February 25, 2018 |archive-url=https://web.archive.org/web/20180225205809/http://www.tcm.com/tcmdb/title/18386/Unforgiven/misc-notes.html |url-status=dead}}</ref> Much of the film was shot in [[Alberta]] in August 1991 by director of photography [[Jack N. Green|Jack Green]].{{sfn|McGilligan|1999|p=469}} Production designer [[Henry Bumstead]], who had worked with Eastwood on ''High Plains Drifter'', was hired to create the "drained, wintry look" of the Western.{{sfn|McGilligan|1999|p=469}} The railroad scenes were filmed on the [[Sierra Railroad]] in [[Tuolumne County, California]].<ref>{{cite book | last =Jensen | first =Larry | authorlink = | title =Hollywood's Railroads: Sierra Railroad | publisher =Cochetopa Press | series = | volume = Two| edition = | date =2018 | location =Sequim, Washington | pages =2–65 | language = | url =https://books.google.com/books?id=c-RNswEACAAJ&q=Hollywood%27s+Railroads | doi = | id = | isbn =9780692064726 | mr = | zbl = | jfm = }}</ref>
+
+==Themes==
+Like other [[revisionist Western]]s, ''Unforgiven'' is primarily concerned with deconstructing the morally black-and-white vision of the American West, which was established by traditional works in the genre, as the script is saturated with unnerving reminders of the now teetotaling Munny's own horrific past as a drunken murderer and gunfighter, who is haunted by the lives he has taken,<ref name=":0">{{Cite web |title=How Unforgiven laid the classic movie western to rest |url=https://lwlies.com/articles/unforgiven-clint-eastwood-revisionist-western/ |access-date=October 1, 2020 |website=Little White Lies |language=en |archive-date=August 12, 2020 |archive-url=https://web.archive.org/web/20200812145238/https://lwlies.com/articles/unforgiven-clint-eastwood-revisionist-western/ |url-status=live}}</ref> while the film as a whole "reflects a reverse image of classical Western tropes"; the protagonists, rather than avenging a God-fearing innocent, are hired to collect a bounty offered by a group of prostitutes. Men who claim to be fearless killers are variously exposed as being either cowards, weaklings, or self-promoting liars, while others find that they no longer have it in them to take yet another life. A writer with no concept of the harshness and cruelty of frontier life publishes stories which glorify common criminals as infallible men of honor. The law is represented by a pitiless and cynical former gun-slinger whose idea of justice is often swift and without mercy, and while the main protagonist initially tries to resist his own violent impulses, the murder of his old friend drives him to become the same cold-blooded killer he once was, suggesting that a Western hero is not necessarily "the good guy", but is instead "just the one who survived".<ref>{{Cite web |title=Unforgiven (1992) |url=https://deepfocusreview.com/definitives/unforgiven/ |access-date=October 1, 2020 |website=Deep Focus Review |date=March 11, 2012 |archive-date=September 23, 2020 |archive-url=https://web.archive.org/web/20200923003504/https://deepfocusreview.com/definitives/unforgiven/ |url-status=live}}</ref>{{self-published inline|date=April 2021}}
+
+Film scholar Allen Redmon describes Munny's role as an antihero by stating he is "a virtuous or an injured hero [who] overcomes all obstacles to see that evil is eradicated, using whatever means necessary".<ref>{{Cite journal |url=https://doi.org/10.1111/j.1537-4726.2004.00139.x |title=Mechanisms of Violence in Clint Eastwood's 'Unforgiven' and 'Mystic River' |first=Allen |last=Redmon |date=October 7, 2004 |journal=The Journal of American Culture |volume=27 |issue=3 |pages=315–328 |doi=10.1111/j.1537-4726.2004.00139.x |access-date=April 18, 2021 |archive-date=May 16, 2021 |archive-url=https://web.archive.org/web/20210516203525/https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1537-4726.2004.00139.x |url-status=live|url-access=subscription }}</ref>
+
+Critic Sven Mikulec called the film Eastwood's "eulogy to the [[Man with No Name]] character that made him immortal."<ref>{{Cite web |last=Mikulec |first=Sven |date=2017-09-12 |title='Unforgiven': Clint Eastwood's Eulogy for the Man with No Name in His Anti-Western Masterpiece • Cinephilia & Beyond |url=https://cinephiliabeyond.org/unforgiven-clint-eastwoods-eulogy-man-no-name-anti-western-masterpiece/ |access-date=2025-02-18 |website=Cinephilia & Beyond |language=en-US}}</ref>
+
+==Reception==
+===Box office===
+The film debuted at the top position in its opening weekend.<ref>{{Cite news |last=Fox |first=David J. |date=August 18, 1992 |title=Weekend Box Office: Eastwood Still Tall in the Saddle |work=[[The Los Angeles Times]] |url=https://www.latimes.com/archives/la-xpm-1992-08-18-ca-5744-story.html |access-date=December 1, 2010 |archive-date=April 2, 2011 |archive-url=https://web.archive.org/web/20110402055245/http://articles.latimes.com/1992-08-18/entertainment/ca-5744_1_weekend-box-office |url-status=live}}</ref><ref>{{Cite news |last=Fox |first=David J. |date=August 25, 1992 |title=Weekend Box Office: 'Unforgiven' at Top for Third Week |work=[[The Los Angeles Times]] |url=https://www.latimes.com/archives/la-xpm-1992-08-25-ca-6052-story.html |access-date=December 1, 2010 |archive-date=April 2, 2011 |archive-url=https://web.archive.org/web/20110402055251/http://articles.latimes.com/1992-08-25/entertainment/ca-6052_1_weekend-box-office |url-status=live}}</ref> Its earnings of $15&nbsp;million ($7,252 average from 2,071 theaters) in its opening weekend was the best-ever opening for a Clint Eastwood film at that time.{{sfn|McGilligan|1999|p=473}} This was also the highest August opening weekend, holding that record until it was surpassed a year later by ''[[The Fugitive (1993 film)|The Fugitive]]''.<ref>{{cite news |url=https://www.newspapers.com/clip/109292457/the-fugitive-leads-at-box-office/ |title='The Fugitive' leads at box office |archive-url=https://web.archive.org/web/20220914190918/https://www.newspapers.com/clip/109292457/the-fugitive-leads-at-box-office/ |date=August 9, 1993 |access-date=September 14, 2022 |archive-date=September 14, 2022 |page=19 |publisher=[[The Oshkosh Northwestern]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> It spent a total of three weeks as the number-one film in North America. In its 35th weekend (April 2–4, 1993), capitalizing on its Oscar wins, the film returned to the top 10 (spending another three weeks in total there), ranking at number eight with a gross of $2.5&nbsp;million ($2,969 average from 855 theaters), an improvement of 197% over the weekend before, when it made $855,188 ($1,767 average from 484 theaters). The film closed on July 15, 1993, having spent nearly a full year in theaters (343 days / 49 weeks), having earned $101&nbsp;million in North America, and another $58&nbsp;million internationally for a total of $159&nbsp;million worldwide.{{sfn|McGilligan|1999|p=476}}
+
+===Critical response===
+Review aggregator [[Rotten Tomatoes]] reports an approval rating of 96% based on 109 reviews, and an average rating of 8.80/10. The website's critical consensus states: "As both director and star, Clint Eastwood strips away decades of Hollywood varnish applied to the Wild West, and emerges with a series of harshly eloquent statements about the nature of violence."<ref>{{Cite web |title=''Unforgiven'' (1992) |url=https://www.rottentomatoes.com/m/1041911_unforgiven? |access-date=June 2, 2023 |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |archive-date=November 12, 2020 |archive-url=https://web.archive.org/web/20201112042547/https://www.rottentomatoes.com/m/1041911_unforgiven |url-status=live}}</ref> [[Metacritic]] gave the film a score of 85 out of 100 based on 34 critics, indicating "universal acclaim".<ref>{{Cite web |title=''Unforgiven'' Reviews |url=http://www.metacritic.com/movie/unforgiven |access-date=March 1, 2018 |website=[[Metacritic]] |publisher=[[CBS Interactive]] |archive-date=March 14, 2018 |archive-url=https://web.archive.org/web/20180314070359/http://www.metacritic.com/movie/unforgiven |url-status=live}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "B+" on an A+ to F scale.<ref>{{cite web|url=https://www.cinemascore.com|title=Find CinemaScore|format=Type "Unforgiven" in the search box|publisher=[[CinemaScore]]|access-date=June 12, 2022}}</ref>
+
+Jack Methews of the ''[[Los Angeles Times]]'' described ''Unforgiven'' as "the finest classical Western to come along since perhaps [[John Ford]]'s 1956 ''[[The Searchers]]''." [[Richard Corliss]] in ''[[Time (magazine)|Time]]'' wrote that the film was "Eastwood's meditation on age, repute, courage, heroism—on all those burdens he has been carrying with such grace for decades."{{sfn|McGilligan|1999|p=473}} [[Gene Siskel]] and [[Roger Ebert]] criticized the work, though the latter gave it a positive vote, for being too long and having too many superfluous characters (such as Harris' English Bob, who enters and leaves without meeting the protagonists). Despite his initial reservations, Ebert eventually included the film in his "[[The Great Movies]]" list.<ref>{{Cite journal |last=Ebert |first=Roger |author-link=Roger Ebert |date=July 21, 2002 |title=Unforgiven |url=https://www.rogerebert.com/reviews/great-movie-unforgiven-1992 |journal=[[Rogerebert.com]] |publisher=Ebert Digital LLC |access-date=April 2, 2021 |archive-date=March 18, 2021 |archive-url=https://web.archive.org/web/20210318002134/https://www.rogerebert.com/reviews/great-movie-unforgiven-1992 |url-status=live}}</ref>
+
+''Unforgiven'' was named one of the 10 best films of the year on 76 critics' lists, according to a poll of the nation's top 106 film critics.<ref>{{Cite web |url=https://www.latimes.com/archives/la-xpm-1993-01-24-ca-2356-story.html |title=106 Doesn't Add Up |first=David |last=Rothman |date=January 24, 1993 |work=Los Angeles Times |access-date=May 9, 2020 |archive-date=August 1, 2020 |archive-url=https://web.archive.org/web/20200801200207/https://www.latimes.com/archives/la-xpm-1993-01-24-ca-2356-story.html |url-status=live}}</ref>
+
+===Accolades===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+|-
+| rowspan="9"| 20/20 Awards
+| Best Picture
+| rowspan="3"| [[Clint Eastwood]]
+| {{won}}
+|-
+| Best Director
+| {{nom}}
+|-
+| Best Actor
+| {{nom}}
+|-
+| Best Supporting Actor
+| [[Gene Hackman]]
+| {{nom}}
+|-
+| Best Original Screenplay
+| [[David Peoples|David Webb Peoples]]
+| {{nom}}
+|-
+| [[Best Art Direction]]
+| [[Henry Bumstead]]
+| {{nom}}
+|-
+| Best Cinematography
+| [[Jack N. Green]]
+| {{nom}}
+|-
+| Best Film Editing
+| [[Joel Cox]]
+| {{nom}}
+|-
+| colspan="2"| Best Sound Design
+| {{nom}}
+|-
+| rowspan="9"| [[65th Academy Awards|Academy Awards]]<ref name="Oscars1993">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/1993 |title=The 65th Academy Awards (1993) Nominees and Winners |access-date=October 22, 2011 |publisher=Academy of Motion Picture Arts and Sciences (AMPAS) |url-status=live |archive-url=https://web.archive.org/web/20141109220926/http://www.oscars.org/oscars/ceremonies/1993 |archive-date=November 9, 2014 }}</ref>
+| [[Academy Award for Best Picture|Best Picture]]
+| rowspan="3"| Clint Eastwood
+| {{won}}
+|-
+| [[Academy Award for Best Director|Best Director]]
+| {{won}}
+|-
+| [[Academy Award for Best Actor|Best Actor]]
+| {{nom}}
+|-
+| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]
+| Gene Hackman
+| {{won}}
+|-
+| [[Academy Award for Best Original Screenplay|Best Screenplay – Written Directly for the Screen]]
+| David Webb Peoples
+| {{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| Art Direction: Henry Bumstead; <br> Set Decoration: [[Janice Blackie-Goodine]]
+| {{nom}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| Jack N. Green
+| {{nom}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| Joel Cox
+| {{won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Les Fresholtz]], [[Vern Poore]], [[Dick Alexander]] and [[Rob Young (sound engineer)|Rob Young]]
+| {{nom}}
+|-
+| [[American Cinema Editors|American Cinema Editors Awards]]
+| [[American Cinema Editors Award for Best Edited Feature Film – Dramatic|Best Edited Feature Film]]
+| Joel Cox
+| {{won}}
+|-
+| ASECAN Awards
+| Best Foreign Film
+| rowspan="4"| Clint Eastwood
+| {{won}}
+|-
+| rowspan="12"| Awards Circuit Community Awards
+| Best Motion Picture
+| {{nom}}
+|-
+| Best Director
+| {{nom}}
+|-
+| Best Actor in a Leading Role
+| {{nom}}
+|-
+| Best Actor in a Supporting Role
+| Gene Hackman
+| {{nom}}
+|-
+| Best Original Screenplay
+| David Webb Peoples
+| {{nom}}
+|-
+| Best Cinematography
+| Jack N. Green
+| {{won}}
+|-
+| Best Costume Design
+| Glenn Wright, Valerie T. O'Brien, Joanne Hansen and Carla Hetland
+| {{nom}}
+|-
+| Best Film Editing
+| Joel Cox
+| {{won}}
+|-
+| Best Original Score
+| [[Lennie Niehaus]]
+| {{nom}}
+|-
+| Best Production Design
+| Henry Bumstead and Janice Blackie-Goodine
+| {{nom}}
+|-
+| Best Sound
+| Les Fresholtz, Vern Poore, Rick Alexander, Rob Young, [[Alan Robert Murray]] and Walter Newman
+| {{nom}}
+|-
+| colspan="2"| Best Cast Ensemble
+| {{nom}}
+|-
+| [[BMI Film & TV Awards]]
+| Film Music Award
+| Lennie Niehaus
+| {{won}}
+|-
+| rowspan="3"| [[Boston Society of Film Critics Awards 1992|Boston Society of Film Critics Awards]]<ref>{{cite web|url=https://bostonfilmcritics.org/past-winners-1990s/ |title=BSFC Winners: 1990s |website=[[Boston Society of Film Critics]] |date=July 27, 2018 |access-date=July 5, 2021}}</ref>
+| colspan="2"| [[Boston Society of Film Critics Award for Best Film|Best Film]]
+| {{won}}
+|-
+| [[Boston Society of Film Critics Award for Best Supporting Actor|Best Supporting Actor]]
+| Gene Hackman
+| {{won}}
+|-
+| [[Boston Society of Film Critics Award for Best Cinematography|Best Cinematography]]
+| Jack N. Green
+| {{won}}
+|-
+| rowspan="6"| [[46th British Academy Film Awards|British Academy Film Awards]]<ref>{{cite web |url=http://awards.bafta.org/award/1993/film |title=BAFTA Awards: Film in 1993 |website=[[BAFTA]] |year=1993 |access-date=September 16, 2016 |ref={{harvid|BAFTA|1993}}}}</ref>
+| [[BAFTA Award for Best Film|Best Film]]
+| rowspan="2"| Clint Eastwood
+| {{nom}}
+|-
+| [[BAFTA Award for Best Direction|Best Direction]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Actor in a Supporting Role|Best Actor in a Supporting Role]]
+| Gene Hackman
+| {{won}}
+|-
+| [[BAFTA Award for Best Original Screenplay|Best Original Screenplay]]
+| David Webb Peoples
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| John N. Green
+| {{nom}}
+|-
+| [[BAFTA Award for Best Sound|Best Sound]]
+| Alan Robert Murray, Walter Newman, Rob Young, Les Fresholtz, Vern Poore and Dick Alexander
+| {{nom}}
+|-
+| [[Cahiers du Cinéma]]
+| [[Cahiers du Cinéma's Annual Top 10 Lists|Best Film]]
+| Clint Eastwood
+| {{draw|4th place}}
+|-
+| rowspan="5"| [[Chicago Film Critics Association Awards 1992|Chicago Film Critics Association Awards]]<ref>{{cite web|url=https://chicagofilmcritics.org/awards-blog/archives |title=1988-2013 Award Winner Archives |website=[[Chicago Film Critics Association]] |date=January 2013 |access-date=August 24, 2021}}</ref>
+| colspan="2"| [[Chicago Film Critics Association Award for Best Film|Best Film]]
+| {{nom}}
+|-
+| [[Chicago Film Critics Association Award for Best Director|Best Director]]
+| rowspan="2"| Clint Eastwood
+| {{nom}}
+|-
+| [[Chicago Film Critics Association Award for Best Actor|Best Actor]]
+| {{nom}}
+|-
+| [[Chicago Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| Gene Hackman
+| {{nom}}
+|-
+| [[Chicago Film Critics Association Award for Best Screenplay|Best Screenplay]]
+| David Webb Peoples
+| {{nom}}
+|-
+| rowspan="4"| [[Dallas–Fort Worth Film Critics Association|Dallas–Fort Worth Film Critics Association Awards]]
+| colspan="2"| [[Dallas–Fort Worth Film Critics Association Award for Best Film|Best Film]]
+| {{won}}
+|-
+| [[Dallas–Fort Worth Film Critics Association Award for Best Director|Best Director]]
+| Clint Eastwood
+| {{won}}
+|-
+| [[Dallas–Fort Worth Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| Gene Hackman
+| {{won}}
+|-
+| [[Dallas–Fort Worth Film Critics Association Award for Best Cinematography|Best Cinematography]]
+| Jack N. Green
+| {{won}}
+|-
+| [[45th Directors Guild of America Awards|Directors Guild of America Awards]]<ref>{{cite web|url=https://www.dga.org/Awards/History/1990s/1992.aspx?value=1992|title=45th DGA Awards |website=[[Directors Guild of America Awards]] |access-date=July 5, 2021}}</ref>
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Clint Eastwood
+| {{won}}
+|-
+| [[Edgar Awards|Edgar Allan Poe Awards]]<ref>{{cite web |url=https://edgarawards.com/category-list-best-motion-picture/ |title=Category List – Best Motion Picture |website=[[Edgar Awards]] |access-date=August 15, 2021}}</ref>
+| [[List of Edgar Allan Poe Award for Best Motion Picture Screenplay winners|Best Motion Picture]]
+| David Webb Peoples
+| {{nom}}
+|-
+| [[Fotogramas de Plata]]
+| Best Foreign Film
+|  Clint Eastwood
+| {{won}}
+|-
+| rowspan="4"| [[50th Golden Globe Awards|Golden Globe Awards]]<ref>{{cite web|url=https://www.goldenglobes.com/film/unforgiven |title=Unforgiven – Golden Globes |website=[[HFPA]] |access-date=July 5, 2021 |ref={{harvid|HFPA|1993}}}}</ref>
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor – Motion Picture]]
+| Gene Hackman
+| {{won}}
+|-
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| Clint Eastwood
+| {{won}}
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay – Motion Picture]]
+| David Webb Peoples
+| {{nom}}
+|-
+| [[Hochi Film Award]]s
+| Best Foreign Language Film
+| Clint Eastwood
+| {{won}}
+|-
+| [[Japan Academy Film Prize]]
+| colspan="2"| [[Japan Academy Film Prize for Outstanding Foreign Language Film|Outstanding Foreign Language Film]]
+| {{nom}}
+|-
+| rowspan="3"| Kansas City Film Critics Circle Awards<ref>{{cite web |url=https://kcfcc.org/kcfcc-award-winners-1990-99/ |title=KCFCC Award Winners – 1990-99 |website=kcfcc.org |date=December 14, 2013 |access-date=May 15, 2021}}</ref>
+| colspan="2"| Best Film
+| {{won}}{{efn|Tied with ''[[The Player (1992 film)|The Player]]''.}}
+|-
+| Best Director
+| Clint Eastwood
+| {{won}}
+|-
+| Best Supporting Actor
+| Gene Hackman
+| {{won}}
+|-
+| [[Kinema Junpo|Kinema Junpo Awards]]
+| Best Foreign Language Film
+| Clint Eastwood
+| {{won}}
+|-
+| [[London Film Critics Circle Awards 1992|London Film Critics Circle Awards]]
+| colspan="2"| [[London Film Critics' Circle Award for Film of the Year|Film of the Year]]
+| {{won}}
+|-
+| rowspan="6"| [[1992 Los Angeles Film Critics Association Awards|Los Angeles Film Critics Association Awards]]<ref>{{cite web |url=http://www.lafca.net/Years/1992.php |title=The Annual 18th Los Angeles Film Critics Association Awards |website=[[Los Angeles Film Critics Association]] |access-date=August 24, 2021}}</ref>
+| colspan="2"| [[Los Angeles Film Critics Association Award for Best Film|Best Film]]
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Director|Best Director]]
+| rowspan="2"| Clint Eastwood
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Actor|Best Actor]]
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| Gene Hackman
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Screenplay|Best Screenplay]]
+| David Webb Peoples
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Cinematography|Best Cinematography]]
+| Jack N. Green
+| {{Runner-up}}
+|-
+| [[Mainichi Film Awards]]
+| [[Mainichi Film Award for Foreign Film Best One Award|Best Foreign Language Film]]
+| rowspan="2"| Clint Eastwood
+| {{won}} 
+|-
+| [[Nastro d'Argento]]
+| Best Foreign Director
+| {{nom}}
+|-
+| [[National Board of Review Awards 1992|National Board of Review Awards]]<ref>{{cite web|url=https://nationalboardofreview.org/award-years/1992/ |title=1992 Award Winners |website=[[National Board of Review]] |access-date=July 5, 2021}}</ref>
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{draw|6th place}}
+|-
+| [[National Film Preservation Board]]<ref name="loc.gov"/>
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+|-
+| rowspan="6"| [[1992 National Society of Film Critics Awards|National Society of Film Critics Awards]]<ref>{{cite web|url=https://nationalsocietyoffilmcritics.com/about-2/ |title=Past Awards |website=[[National Society of Film Critics]] |date=December 19, 2009 |access-date=July 5, 2021}}</ref>
+| colspan="2"| [[National Society of Film Critics Award for Best Film|Best Film]]
+| {{won}}
+|-
+| [[National Society of Film Critics Award for Best Director|Best Director]]
+| rowspan="2"| Clint Eastwood
+| {{won}}
+|-
+| [[National Society of Film Critics Award for Best Actor|Best Actor]]
+| {{draw|2nd place}}
+|-
+| [[National Society of Film Critics Award for Best Supporting Actor|Best Supporting Actor]]
+| Gene Hackman
+| {{won}}
+|-
+| [[National Society of Film Critics Award for Best Screenplay|Best Screenplay]]
+| David Webb Peoples
+| {{won}}
+|-
+| [[National Society of Film Critics Award for Best Cinematography|Best Cinematography]]
+| Jack N. Green
+| {{draw|3rd place}}
+|-
+| rowspan="4"| [[1992 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]<ref>{{cite web|url=https://www.nyfcc.com/awards/?awardyear=1992 |title=1992 New York Film Critics Circle Awards |website=[[New York Film Critics Circle]] |access-date=July 5, 2021}}</ref>
+| colspan="2"| [[New York Film Critics Circle Award for Best Film|Best Film]]
+| {{Runner-up}}
+|-
+| [[New York Film Critics Circle Award for Best Director|Best Director]]
+| Clint Eastwood
+| {{Runner-up}}
+|-
+| [[New York Film Critics Circle Award for Best Supporting Actor|Best Supporting Actor]]
+| Gene Hackman
+| {{won}}
+|-
+| [[New York Film Critics Circle Award for Best Screenplay|Best Screenplay]]
+| David Webb Peoples
+| {{Runner-up}}
+|-
+| [[Nikkan Sports Film Award]]s
+| colspan="2"| [[Nikkan Sports Film Award for Best Foreign Film|Best Foreign Film]]
+| {{won}}
+|-
+| Online Film & Television Association Awards<ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame Inductees: Productions |website=Online Film & Television Association |access-date=August 15, 2021}}</ref>
+| colspan="2"| Hall of Fame – Motion Picture
+| {{won|Inducted}}
+|-
+| [[4th Golden Laurel Awards|Producers Guild of America Awards]]<ref>{{cite news|last1=Ayscough|first1=Suzan|title=PGA reveals nominees|url=https://variety.com/1993/film/news/pga-reveals-nominees-103664/|access-date=October 16, 2017|work=Variety|date=February 3, 1993}}</ref>
+| [[Producers Guild of America Award for Best Theatrical Motion Picture|Outstanding Producer of Theatrical Motion Pictures]]
+| rowspan="2"| Clint Eastwood
+| {{nom}}
+|-
+| [[Sant Jordi Awards]]
+| Best Foreign Film
+| {{won}}
+|-
+| [[Turkish Film Critics Association|Turkish Film Critics Association Awards]]
+| colspan="2"| Best Foreign Film
+| {{draw|3rd place}}
+|-
+| [[Western Heritage Awards]]<ref>{{cite web |url=https://nationalcowboymuseum.org/heritage-awards/435no-title/ |title=Unforgiven |website=National Cowboy & Western Heritage Museum |access-date=May 15, 2021}}</ref>
+| colspan="2"| Theatrical Motion Pictures
+| {{won}}
+|-
+| [[Western Writers of America|Western Writers of America Awards]]<ref>{{cite web |url=https://westernwriters.org/winners/ |title=Winners – Western Writers of America |website=[[Western Writers of America]] |date=May 12, 2012 |access-date=June 24, 2022 |archive-date=February 4, 2021 |archive-url=https://web.archive.org/web/20210204024706/https://westernwriters.org/winners/ |url-status=dead }}</ref>
+| Best Movie Script
+| rowspan="2"| David Webb Peoples
+| {{won}}
+|-
+| [[45th Writers Guild of America Awards|Writers Guild of America Awards]]<ref>{{cite web|url=http://www.wga.org/awards/awardssub.aspx?id=1551|title=Awards Winners|work=wga.org|publisher=Writers Guild of America|archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551|archive-date=December 5, 2012|access-date=June 6, 2010}}</ref>
+| [[Writers Guild of America Award for Best Original Screenplay|Best Screenplay – Written Directly for the Screen]]
+| {{nom}}
+|}
+
+''' American Film Institute recognition '''
+
+In June 2008, ''Unforgiven'' was listed as the fourth best American film in the [[Western (genre)|Western]] genre (behind ''[[The Searchers]]'', ''[[High Noon]]'', and ''[[Shane (film)|Shane]]'') in the [[American Film Institute]]'s "[[AFI's 10 Top 10]]" list.<ref>{{Cite news |url=http://www.comingsoon.net/news/movienews.php?id=46072 |title=AFI Crowns Top 10 Films in 10 Classic Genres |date=June 17, 2008 |work=[[Comingsoon.net]] |access-date=June 18, 2008 |archive-date=August 18, 2008 |archive-url=https://web.archive.org/web/20080818100312/http://www.comingsoon.net/news/movienews.php?id=46072 |url-status=live}}</ref><ref>{{Cite web |title=Top 10 Western |url=http://www.afi.com/10top10/western.html |archive-url=https://web.archive.org/web/20131020155122/http://www.afi.com/10top10/western.html |archive-date=October 20, 2013 |access-date=June 18, 2008 |website=[[American Film Institute]]}}</ref>
+* [[AFI's 100 Years...100 Movies]] – No. 98<ref>{{Cite web |title=American Film Institute's list of the 100 Greatest Movies |url=http://connect.afi.com/site/DocServer/movies100.pdf?docID=264 |archive-url=https://web.archive.org/web/20100214191259/http://connect.afi.com/site/DocServer/movies100.pdf?docID=264 |archive-date=2010-02-14 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+* [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – No. 68<ref>{{Cite web |title=AFI's 100 YEARS...100 MOVIES - 10TH ANNIVERSARY EDITION |url=http://connect.afi.com/site/DocServer/100Movies.pdf?docID=301 |archive-url=https://web.archive.org/web/20090407071354/http://connect.afi.com/site/DocServer/100Movies.pdf?docID=301 |archive-date=2009-04-07 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+
+==Legacy==
+The music for the ''Unforgiven'' film trailer, which appeared in theaters and on some of the DVDs, was composed by Randy J. Shams and Tim Stithem in 1992. The main theme song, "Claudia's Theme", was composed by Clint Eastwood.<ref>{{Cite web |last=Cameron |date=February 24, 2015 |title=Not Dead Yet: Ten Best Modern Westerns |url=http://thefilmbox.org/top-10/ten-best-modern-westerns/10/ |access-date=November 15, 2015 |website=The Film Box |page=10 |archive-date=November 17, 2015 |archive-url=https://web.archive.org/web/20151117025403/http://thefilmbox.org/top-10/ten-best-modern-westerns/10/ |url-status=live}}</ref>
+
+In 2006, the [[Writers Guild of America, West|Writers Guild of America]] ranked Peoples' script for ''Unforgiven'' as the 30th-greatest ever written.<ref>{{Cite web |year=2013 |title=101 Greatest Screenplays |url=http://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |access-date=September 14, 2016 |website=[[Writers Guild of America West]] |archive-date=November 22, 2016 |archive-url=https://archive.today/20161122211118/http://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |url-status=live}}</ref>
+
+==Home media==
+''Unforgiven'' was released as premium home video, on [[DVD]] and [[VHS]], on September 24, 2002.<ref>{{Cite web |last=Indvik |first=Kurt |date=July 3, 2002 |title=Warner Bows First Premium Video Line |url=http://www.hive4media.com/news/html/product_article.cfm?article_id=3395 |archive-url=https://web.archive.org/web/20020828195253/http://www.hive4media.com/news/html/product_article.cfm?article_id=3395 |archive-date=August 28, 2002 |access-date=September 13, 2019 |website=hive4media.com |url-status=live}}</ref> It was released on [[Blu-ray]] Book (a Blu-ray Disc with book packaging) on February 21, 2012. Special features include an audio commentary by Clint Eastwood biographer Richard Schickel; four documentaries including "All on Accounta Pullin' a Trigger", "Eastwood & Co.: Making ''Unforgiven''", "Eastwood...A Star", and "Eastwood on Eastwood", and more.<ref>{{Cite journal |last=Newman |first=Gene |title=Unforgiven [Blu-ray Book] |url=http://www.maxim.com/movies/unforgiven-blu-ray-book |journal=[[Maxim.com]] |publisher=Alpha Media Group Inc. |archive-url=https://web.archive.org/web/20130502195755/http://www.maxim.com/movies/unforgiven-blu-ray-book |archive-date=May 2, 2013 |access-date=April 2, 2012}}</ref> ''Unforgiven'' was released on 4K UHD Blu-ray on May 16, 2017.<ref>{{Cite web |title=Unforgiven 4K Blu-ray |website=blu-ray.com |url=http://www.blu-ray.com/movies/Unforgiven-4K-Blu-ray/165822/ |access-date=April 27, 2018 |archive-date=April 26, 2018 |archive-url=https://web.archive.org/web/20180426134007/http://www.blu-ray.com/movies/Unforgiven-4K-Blu-ray/165822/ |url-status=live}}</ref>
+
+==Remake==
+{{main|Unforgiven (2013 film)|l1 = ''Unforgiven'' (2013 film)}}
+
+A Japanese adaptation of ''Unforgiven'', directed by [[Lee Sang-il (film director)|Lee Sang-il]] and starring [[Ken Watanabe]], was released in 2013. The plot of the 2013 version is very similar to the original, but it takes place in [[Japan]] during the [[Meiji (era)|Meiji period]], with the main character being a [[samurai]] instead of a bandit.
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book |last=Hughes |first=Howard |title=Aim for the Heart |publisher=[[I.B. Tauris]] |year=2009 |isbn=978-1-84511-902-7 |location=London}}
+* {{cite book |last=McGilligan |first=Patrick |url=https://books.google.com/books?id=xhNDNAEACAAJ |title=Clint: The Life and Legend |publisher=[[HarperCollins]] |year=1999 |isbn=0-00-638354-8 |location=London |pages=612 |author-link=Patrick McGilligan (biographer) |access-date=September 13, 2020 |archive-date=May 16, 2021 |archive-url=https://web.archive.org/web/20210516203528/https://books.google.com/books?id=xhNDNAEACAAJ |url-status=live}}
+
+==External links==
+* {{IMDb title|0105695}}
+* {{TCMDb title|18386}}
+* {{AFI film|67274}}
+* {{Metacritic film}}
+* {{cite web |url=http://www.filmsite.org/unfo.html |title=Movie Review: Unforgiven (1992) |first=Tim |last=Dirks |website=[[Filmsite.org]]}}
+* {{cite web |url=http://www.artsandfaith.com/t100/2005/entry.php?film=91 |title=Top 100 Spiritually Significant Films: Unforgiven (1992) |first=Alan |last=Thomas |website=Arts & Faith |url-status=dead |archive-url=https://web.archive.org/web/20060422151447/http://www.artsandfaith.com/t100/2005/entry.php?film=91 |archive-date=April 22, 2006}}
+* {{cite journal |url=http://www.americanpopularculture.com/journal/articles/spring_2004/motley.htm |title='It's a Hell of a Thing to Kill a Man': Western Manhood in Clint Eastwood's 'Unforgiven' |first=Clay |last=Motley |date=2004 |journal=Americana: The Journal of American Popular Culture |volume=3 |issue=1}}
+* {{cite web |url=http://internationalpsychoanalysis.net/2009/11/29/unforgiven-identification-with-death/ |title='Unforgiven': Identification with Death |date=November 29, 2009 |website=International Psychoanalysis |url-status=dead |archive-url=https://web.archive.org/web/20140909031159/http://internationalpsychoanalysis.net/2009/11/29/unforgiven-identification-with-death/ |archive-date=September 9, 2014}}
+* {{cite book |chapter-url=http://iceberg.arts.ualberta.ca/filmstudies/Unforgiven.htm |chapter=Unforgiven: Anatomy of a Murderer |title=Persistence of Double Vision: Essays on Clint Eastwood |first=William |last=Beard |date=2000 |location=Edmonton |publisher=University of Alberta Press |url-status=dead |archive-url=https://web.archive.org/web/20090411122922/http://iceberg.arts.ualberta.ca/filmstudies/Unforgiven.htm |archive-date=April 11, 2009}}
+
+{{Clint Eastwood}}
+{{David Peoples}}
+{{Navboxes 
+|title = Awards for ''Unforgiven''
+|list =
+{{AcademyAwardBestPicture 1981-2000}}
+{{Boston Society of Film Critics Award for Best Film}}
+{{Dallas–Fort Worth Film Critics Association Award for Best Film}}
+{{London Film Critics Circle Award for Film of the Year}}
+{{Los Angeles Film Critics Association Award for Best Film}}
+{{Mainichi Film Award for Foreign Film Best One Award}}
+{{National Society of Film Critics Award for Best Film}}
+{{Nikkan Sports Film Award for Best Foreign Film}}
+{{Cahiers du Cinéma Award for Best Film}}}}
+{{Authority control}}
+
+[[Category:1992 American films]]
+[[Category:1992 English-language films]]
+[[Category:1992 films]]
+[[Category:1992 Western (genre) films]]
+[[Category:American films about revenge]]
+[[Category:American Western (genre) films]]
+[[Category:BAFTA winners (films)]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:English-language Western (genre) films]]
+[[Category:Existentialist films]]
+[[Category:Films about atonement]]
+[[Category:Films about bounty hunters]]
+[[Category:Films about outlaws]]
+[[Category:Films about prostitution in the United States]]
+[[Category:Films directed by Clint Eastwood]]
+[[Category:Films featuring a Best Supporting Actor Academy Award–winning performance]]
+[[Category:Films featuring a Best Supporting Actor Golden Globe winning performance]]
+[[Category:Films produced by Clint Eastwood]]
+[[Category:Films scored by Lennie Niehaus]]
+[[Category:Films set in 1881]]
+[[Category:Films set in Kansas]]
+[[Category:Films set in the 1880s]]
+[[Category:Films set in the American frontier]]
+[[Category:Films set in Wyoming]]
+[[Category:Films shot in Calgary]]
+[[Category:Films shot in California]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose director won the Best Director Golden Globe]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:Films with screenplays by David Peoples]]
+[[Category:Malpaso Productions films]]
+[[Category:National Society of Film Critics Award for Best Film winners]]
+[[Category:Revisionist Western (genre) films]]
+[[Category:United States National Film Registry films inducted in 2004]]
+[[Category:Warner Bros. films]]

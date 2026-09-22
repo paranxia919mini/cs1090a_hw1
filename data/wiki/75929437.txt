@@ -1,0 +1,73 @@
+{{Short description|2024 film by Hong Sang-soo}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox film
+| name           = A Traveler's Needs
+| native_name    = {{Infobox Korean film name
+| hangul         = ^여행자의 필요
+}}
+| image          = A Traveler's Needs (international poster).jpg
+| director       = [[Hong Sang-soo]]
+| producer       = Hong Sang-soo
+| writer         = Hong Sang-soo
+| starring       = {{ubl|[[Isabelle Huppert]]|[[Lee Hye-young (actress, born 1962)|Lee Hye-young]]|[[Kwon Hae-hyo]]}}
+| music          = Hong Sang-soo
+| cinematography = Hong Sang-soo
+| editing        = Hong Sang-soo
+| studio         = {{Plainlist|
+*Jeonwonsa Film Company
+}}
+| distributor    = 
+| released       = {{Film date|2024|2|19|[[74th Berlin International Film Festival|Berlinale]]|2024|4|24|South Korea|2024|11|22|United States|df=y}}
+| runtime        = 90 minutes<ref>{{cite web|url=https://www.berlinale.de/en/2024/programme/202408802.html/|title=A Traveler's Needs|publisher=[[Berlin International Film Festival]]|language=en|access-date=16 February 2024}}</ref>
+| country        = {{ubl|South Korea}}
+| language       = {{ubl|English|French|Korean}}
+| budget         = 
+| gross          = 
+}}
+
+'''''A Traveler's Needs''''' ({{Korean|여행자의 필요}}) is a 2024 South Korean [[drama film]] written and directed by [[Hong Sang-soo]], starring [[Isabelle Huppert]].<ref>{{cite web|url=https://variety.com/2024/film/news/berlin-isabelle-huppert-hong-sang-soo-a-travelers-needs-1235881584/|title=Isabelle Huppert-Starring Berlin Competition Film 'A Traveler's Needs' Picked Up by Finecut|date=22 January 2024 |publisher=Variety}}</ref> It is the third collaboration between the director and the star, following ''[[In Another Country (film)|In Another Country]]'' and ''[[Claire's Camera]]''.
+
+The film had its world premiere in the Main Competition of the [[74th Berlin International Film Festival]], where it won the [[Silver Bear Grand Jury Prize]].<ref>{{cite web|url=https://www.koreaherald.com/view.php?ud=20240123000527|title=Hong Sang-soo's 'A Traveler's Needs' invited to 74th Berlinale|date=23 January 2024 |publisher=The Korea Herald}}</ref><ref>{{cite web|url=https://www.screendaily.com/news/finecut-picks-up-hong-sangsoos-berlin-competition-drama-a-travelers-needs/5189705.article|title=Finecut picks up Hong Sangsoo's Berlin Competition drama 'A Traveler's Needs'|publisher=screendaily.}}</ref>
+
+== Premise ==
+A French woman ([[Isabelle Huppert]]), who initially played a child's recorder in a park and faced financial struggles, eventually became a French teacher for two women, finding solace in lying down on rocks and relying on [[makgeolli]] for comfort.<ref>{{Citation |title=A Traveler's Needs (2024) |url=https://letterboxd.com/film/a-travelers-needs/ |access-date=22 February 2024 |language=en}}</ref>
+
+== Cast ==
+{{Cast listing|
+* [[Isabelle Huppert]]<ref>{{Cite web |title=Yeohaengjaui pilyo {{!}} A Traveler's Needs |url=https://www.berlinale.de/en/2024/programme/202408802.html |access-date=27 January 2024 |website=www.berlinale.de |language=en}}</ref>
+* [[Lee Hye-young (actress, born 1962)|Lee Hye-young]]
+* [[Kwon Hae-hyo]]
+* Cho Yun-hee
+* Ha Seong-guk
+* Kim Seung-yoon
+}}
+
+==Release==
+
+It was also selected in Icons at the [[29th Busan International Film Festival]] to be screened on 4 October 2024.<ref>{{Cite web|url=https://www.biff.kr/eng/html/program/prog_all_list.asp?allYear=2024 |title= The 29th Busan International Film Festival: Selection List |website=Busan International Film Festival|date=3 September 2024|access-date=6 September 2024|language=en}}</ref> It has been selected for the [[MAMI Mumbai Film Festival 2024]] under the World Cinema section.<ref>{{Cite web |author=Scroll Staff |date=9 October 2024 |title=MAMI Mumbai Film Festival will open with Payal Kapadia's 'All We Imagine as Light' |url=https://scroll.in/reel/1074218/mami-mumbai-film-festival-will-open-with-payal-kapadias-all-we-imagine-as-light |access-date=11 October 2024 |website=Scroll.in |language=en}}</ref>
+
+[[The Cinema Guild|Cinema Guild]] released the film in the United States on 22 November 2024.<ref>{{Cite news |last=Kenigsberg |first=Ben |date=21 November 2024 |title='A Traveler's Needs' Review: Language Lessons |url=https://www.nytimes.com/2024/11/21/movies/a-travelers-needs-review.html |access-date=3 March 2025 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|tt31015344}}
+
+{{Hong Sang-soo}}
+{{Silver Bear for Jury Grand Prix}}
+
+{{DEFAULTSORT:Traveler's Needs, A}}
+[[Category:2024 drama films]]
+[[Category:2024 films]]
+[[Category:Films directed by Hong Sang-soo]]
+[[Category:French drama films]]
+[[Category:2024 French-language films]]
+[[Category:2024 Korean-language films]]
+[[Category:English-language South Korean films]]
+[[Category:South Korean drama films]]
+[[Category:2024 English-language films]]
+[[Category:2024 French films]]
+[[Category:2024 South Korean films]]
+[[Category:South Korean independent films]]
+[[Category:English-language drama films]]

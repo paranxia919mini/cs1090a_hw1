@@ -1,0 +1,245 @@
+{{short description|2007 film by Juan Carlos Fresnadillo}}
+{{good article}}
+{{Use British English|date=April 2026}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox film
+| image          = 28 Weeks Later poster.jpg
+| alt            = Film poster for 28 Weeks Later: a large white biohazard symbol looms over a dark, ruined London skyline as two figures run through a bleak landscape crowded with silhouettes of the Infected, with the text "THERE IS NO ESCAPE", "28 WEEKS LATER", and "IT'S BACK. EVERYWHERE MAY 11".
+| caption        = Theatrical release poster
+| director       = [[Juan Carlos Fresnadillo]]
+| screenplay     = {{plainlist|
+* [[Rowan Joffé]]
+* Juan Carlos Fresnadillo
+* [[Enrique López Lavigne|E. L. Lavigne]]
+* Jesús Olmo
+}}
+| producer       = {{plainlist|
+* Enrique López Lavigne
+* [[Andrew Macdonald (producer)|Andrew Macdonald]]
+* Allon Reich
+}}
+| starring       = {{plainlist|
+* [[Robert Carlyle]]
+* [[Rose Byrne]]
+* [[Jeremy Renner]]
+* [[Harold Perrineau]]
+* [[Catherine McCormack]]
+* Mackintosh Muggleton
+* [[Imogen Poots]]
+* [[Idris Elba]]
+}}
+| cinematography = [[Enrique Chediak]]
+| editing        = Chris Gill
+| music          = [[John Murphy (composer)|John Murphy]]
+| production_companies = {{Plainlist|
+* [[Fox Atomic]]
+* [[DNA Films]]
+* Figment Films
+* [[Sogecine]]
+* Koan Films<ref name="elley"/>
+}}
+| distributor    = {{Plainlist|
+* [[20th Century Fox]] (United Kingdom)
+* Fox Atomic (United States)<ref name="elley"/>
+}}
+| released       = {{film date|2007|04|26|London|2007|05|11|United Kingdom/United States|2007|06|29|Spain}}
+| runtime        = 99 minutes<ref name="AFI">{{cite web |title=28 Weeks Later (2007) |url=https://catalog.afi.com/Catalog/moviedetails/64527 |publisher=[[American Film Institute]] |access-date=19 October 2018 |archive-date=19 October 2018 |archive-url=https://web.archive.org/web/20181019122125/https://catalog.afi.com/Catalog/moviedetails/64527 |url-status=live}}</ref>
+| country        = {{Plainlist|
+* United Kingdom
+* United States
+* Spain<ref name="AFI"/>
+}}
+| language       = English
+| budget         = $15 million<ref>{{cite web |url=https://www.the-numbers.com/movie/28-Weeks-Later |title=28 Weeks Later (2007) – Financial Information |website=[[The Numbers (website)|The Numbers]] |access-date=27 September 2015 |archive-date=11 August 2014 |archive-url=https://web.archive.org/web/20140811183807/http://www.the-numbers.com/movies/2007/28WLT.php |url-status=live}}</ref>
+| gross          = $72.3 million<ref name="bom1"/>
+}}
+'''''28 Weeks Later''''' is a 2007 <!--PLEASE DON'T WRITE THE THREE COUNTRIES OF PRODUCTION HERE --> [[action horror film]] directed by [[Juan Carlos Fresnadillo]], who co-wrote it with [[Rowan Joffé]], [[Enrique López Lavigne]], and Jesús Olmo. It is a [[standalone sequel]] to ''[[28 Days Later]]'' (2002) and the second instalment in its [[28 Days Later (film series)|series]]. The film stars [[Robert Carlyle]], [[Rose Byrne]], [[Jeremy Renner]], [[Harold Perrineau]], [[Catherine McCormack]], Mackintosh Muggleton, [[Imogen Poots]], and [[Idris Elba]]. Set six months after the earlier Rage Virus outbreak, it follows the US-led [[NATO]] forces' attempt to establish a safe zone in [[London]], the consequences of two young siblings breaking protocol, and the virus's reintroduction into Britain.
+
+On a $15 million budget, principal photography began in August 2006 and ran for ten weeks. [[Danny Boyle]] and [[Alex Garland]] returned as executive producers, and Boyle also contributed [[second-unit]] footage that includes parts of the opening sequence. Promotion included the release of a [[28 Days Later: The Aftermath|graphic novel tie-in]] and a projected biohazard warning staged on the [[White Cliffs of Dover]] ahead of the film's general release.
+
+The film was released theatrically on 11 May 2007 and is a co-production involving the United Kingdom, United States, and Spain, with distribution handled by [[20th Century Fox]] (in the UK) and [[Fox Atomic]] (in the US). It earned $72.3 million worldwide and generally positive reviews from critics, who largely praised it as a tense, well-crafted militarised disaster horror with a standout opening and set pieces, while noting uneven originality, clarity, and plausibility compared with its predecessor. Commentators also noted satirical critique of American militarised crisis management, particularly the [[Presidency of George W. Bush#Invasion of Iraq|Bush administration's 2003 invasion of Iraq]]. Major plot elements in the film have been [[Retroactive continuity|recontextualised]] in the third instalment, ''[[28 Years Later]]'', released in 2025.
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. Word count as of September 5, 2026: 415 -->
+
+During the initial Rage Virus outbreak in Britain,{{efn|As depicted in ''[[28 Days Later]]'' (2002)}} Don, his wife Alice, and four other survivors shelter in a cottage outside London. They hear a boy screaming and allow him inside, only to discover that a horde of Infected has followed him. As the Infected invade the cottage and kill the other survivors, Don urges Alice to leave the boy, but she refuses and is cornered by the Infected. Don flees and leaves on a boat.
+
+Twenty-eight weeks later, many Infected have died of starvation. US-led [[NATO]] forces bring settlers into a protected zone in London. Don and Alice's two children, Tammy and Andy, arrive among the settlers and are housed on District One, a heavily guarded safe zone on the [[Isle of Dogs]]. Tammy and Andy sneak out at dawn to their former home to retrieve family photographs and find Alice alive but ill. American soldiers capture the siblings and take them and Alice to an isolation unit, where the medical officer, Scarlet, discovers that Alice is an [[asymptomatic carrier]] of the disease. Don, consumed with guilt, visits Alice, kisses her, becomes infected, and kills her.
+
+As the newly infected Don goes on a rampage and spreads the virus, Scarlet concludes that the siblings' genetic makeup may be important for developing a cure or vaccine and helps them escape. With infected and uninfected people becoming difficult to distinguish in darkness, American troops are ordered to kill everyone. Doyle, a sniper, refuses to carry out the order and escapes with Scarlet and the siblings as the [[United States Air Force|US Air Force]] firebombs parts of London in an attempt to stop the spread.
+
+The group waits for a helicopter extraction arranged by Doyle's friend, Flynn, but Flynn insists on taking only Doyle. Doyle refuses to abandon the others, and they head toward [[Wembley Stadium]], where uninfected civilians have been ordered to assemble. They hide in a car as soldiers with [[flamethrower]]s arrive, intending to kill anyone who might be infected. When the car will not start, Doyle attempts to push-start it and is burned alive. In the confusion, Scarlet, Tammy, and Andy escape into a dark [[London Underground]] station. There, Don appears, kills Scarlet, and bites Andy. Tammy kills her father, but Andy becomes an asymptomatic carrier of the disease. Flynn finds the siblings and flies them to France. 
+
+Twenty-eight days later, a voice on the helicopter radio, speaking with a French accent, requests help. The final shot then shows a horde of Infected emerging from the [[Paris Métro]] and attacking [[Paris]]. <!-- Please do not include the implication of a spread in mainland Europe to accommodate the plot of the third film -->
+
+==Cast==
+<!--- [[MOS:FILMCAST]] [[WP:NOTDATABASE]] – cast and order per Main Cast closing tombstone stand-alone credits, roles per closing credits scroll --->
+{{main|List of characters in the 28 Days Later film series|l1=List of characters in the ''28 Days Later'' film series}}
+{{Cast listing|
+* [[Robert Carlyle]] as Don, Tammy and Andy's father
+* [[Rose Byrne]] as Scarlet, a US medical officer
+* [[Jeremy Renner]] as Doyle, a [[Delta Force]] sniper
+* [[Harold Perrineau]] as Flynn, a [[160th Special Operations Aviation Regiment (Airborne)|military helicopter]] pilot
+* [[Imogen Poots]] as Tammy, Don and Alice's daughter
+* Mackintosh Muggleton as Andy, Don and Alice's son
+* [[Catherine McCormack]] as Alice, Tammy and Andy's mother
+* [[Idris Elba]] as Stone, a US general overseeing District One
+}}
+
+==Production==
+===Development===
+{{Multiple image
+| image1            = Danny Boyle May 2019.jpg
+| alt1              = Man in a dark blazer and black collared shirt standing against a black event backdrop with partial white logos
+| image2            = 2024-03-14 Alex Garland SXSW Civil-War 3 (cropped).jpg
+| alt2              = Close-up of a man with short grey hair wearing a dark jacket and black shirt against a dark background.
+| image3            = Jcfresnadillo.jpg
+| alt3              = Black-and-white side-profile portrait of a seated person with messy hair, resting a hand on his chin
+| footer            = ''28 Days Later'' director [[Danny Boyle]] (left) and screenwriter [[Alex Garland]] (center) returned as executive producers on ''28 Weeks Later'', [[Juan Carlos Fresnadillo]] (right) was director.<ref name="rotten"/>
+| total_width       = 400
+}}
+
+Following the international success of ''[[28 Days Later]]'' (2002), the filmmakers began exploring a sequel and focused on a scenario set after the Rage Virus outbreak had been contained. The producers described the core question as what would happen once the disease had been eradicated and the quarantine lifted, including who would coordinate returning residents and how survivors would re-enter public life.<ref name="rotten">{{cite web|url=https://www.rottentomatoes.com/m/28_weeks_later/about.php |title=28 Weeks Later - Production Notes |website=[[Rotten Tomatoes]] |access-date=17 July 2007 |archive-url=https://web.archive.org/web/20070715183102/http://www.rottentomatoes.com/m/28_weeks_later/about.php |archive-date=15 July 2007 |url-status=dead}}</ref>
+
+[[Rowan Joffé]] was hired to produce a first screenplay draft, after which the filmmakers began searching for a director who could extend the series without replicating the first film's perspective on [[London]]. They stated that bringing in a director from outside the United Kingdom was intended to provide a new visual approach to the city.<ref name="rotten"/>
+
+[[Danny Boyle]] cited [[Juan Carlos Fresnadillo]]'s debut feature ''[[Intacto]]'' (2001) as a key reason for recommending him, and the producers approached Fresnadillo to direct after producer [[Andrew Macdonald (producer)|Andrew Macdonald]] and screenwriter [[Alex Garland]] responded to the film in the same terms. Fresnadillo accepted the invitation after discussions with the producing team, and his long-time producing partner [[Enrique López-Lavigne]] joined the project as well.<ref name="rotten"/> 
+
+Fresnadillo and López-Lavigne then worked with Spanish screenwriter Jesús Olmo to develop the screenplay, describing a process that took almost a year and that shaped the sequel around a family and the lasting consequences of earlier choices. Boyle and Garland returned as executive producers, with the production describing Garland as closely involved in story and script work.<ref name="rotten"/>
+
+===Pre-production===
+{{Multiple image
+| total_width       = 400
+| image1            = Robert Carlyle in 2017.jpg
+| image2            = Rose Byrne (Pic 2) (cropped).jpg
+| image3            = Jeremy Renner SDCC 2014 (cropped).jpg
+| footer            = The cast of ''28 Weeks Later'' includes [[Robert Carlyle]], [[Rose Byrne]], and [[Jeremy Renner]].
+}}
+
+The production assembled a film crew that included cinematographer [[Enrique Chediak]], production designer [[Mark Tildesley (production designer)|Mark Tildesley]], costume designer [[Jane Petrie]], make-up designer Konnie Daniel, and editor Chris Gill.<ref name="elley"/><ref name="stax">{{cite news |last1=Vejvoda |first1=Jim |title=28 Weeks Later Filming |website=[[IGN]] |url=https://www.ign.com/articles/2006/09/05/28-weeks-later-filming |access-date=8 February 2026 |date=17 May 2012}}</ref>{{efn|Chris Gill served as the editor of the film, even though editor Masahiro Hirakubo was reportedly involved at one point.<ref name="stax"/>}} 
+
+Casting was organised around a central family.<ref name="rotten"/> The filmmakers sought to cast actors who could sustain both intimate scenes and large-scale action beats, and they identified [[Robert Carlyle]] as someone who could anchor the story and work closely with the younger cast members.<ref name="rotten"/> Casting director [[Shaheen Baig (casting director)|Shaheen Baig]] expanded the search for child performers beyond conventional drama schools, inviting more than 600 children to workshops before selecting Mackintosh Muggleton. [[Imogen Poots]] was cast as Tammy after the filmmakers had auditioned hundreds of actresses, and [[Rose Byrne]] joined after earlier work with Boyle and Macdonald on ''[[Sunshine (2007 film)|Sunshine]]'' (2007).<ref name="rotten"/>
+
+Because the sequel featured a larger number of infected than the original film, the movement of the infected was treated as a core design element during preparation. Movement specialist [[Paul Kasey]] worked with Fresnadillo in pre-production on camera tests aimed at establishing the infected's look and performance style. Kasey then recruited performers with movement-intensive backgrounds, including dance, gymnastics, mime, and circus work, and led workshops to ensure consistent behaviour across the infected group.<ref name="rotten"/>
+
+===Filming and post-production===
+Principal photography began in August 2006 and ran for ten weeks. The production was based at [[3 Mills Studios]] in East London and included a week of rehearsal, nine weeks shooting in London, and a week on location in [[Hertfordshire]]. Boyle remained involved beyond executive producing, providing casting and crew support and shooting three days of [[second unit]] footage, including parts of the opening sequence.<ref name="rotten"/>
+[[File:HMS Tamar sailing past Canary Wharf as it leaves London September 2020..jpg|thumb|The film's District One setting was filmed in [[Canary Wharf]], pictured here on 16 September 2020.|alt=A grey naval patrol ship marked "P233" sails along a wide river in front of the Canary Wharf skyline, with modern glass skyscrapers and a partly cloudy blue sky in the background.]]
+For the film's military-controlled safe zone, District One, the production secured permission to shoot in [[Canary Wharf]], describing the location as advantageous because it is surrounded by water and connected to [[London City Airport|City Airport]] by an elevated rail line that could be framed as secure access within the story. To achieve the earlier film's desolate city imagery, the production filmed sequences in central London early in the morning with the assistance of local authority and police. Other reported locations included [[Tower Bridge]], [[Trafalgar Square]], [[Shaftesbury Avenue]], [[Regents Park]], [[Millennium Bridge, London|Millennium Bridge]], and [[Wembley Stadium]].<ref name="rotten"/>
+
+Fresnadillo said he pursued immediacy by shooting in a style he compared to a horror documentary, using [[Handheld camera|handheld work]] and [[Multiple-camera setup|multiple cameras]], and aligning performance and production design choices with that approach. [[Jeremy Renner]] described a shooting method that prioritised on-the-spot camera decisions over a rigid shot list.<ref name="rotten"/> The filmmakers used "[[day for night]]" photography for some of the later sequences to help sell a citywide blackout without extensive digital light removal, while still completing hundreds of [[Computer-generated imagery|computer-generated shots]] on a compressed post-production schedule. The [[Paris]] coda was a late addition, devised near the end of production and filmed quickly with a reduced crew using [[Digital camera|HD cameras]].<ref name="floss">{{cite news |last1=Hutchinson |first1=Sean |title=15 Raging Facts About 28 Weeks Later |url=https://www.mentalfloss.com/article/62250/15-raging-facts-about-28-weeks-later |website=Mental Floss |date=11 May 2017 |access-date=9 February 2020 |archive-date=8 September 2019 |archive-url=https://web.archive.org/web/20190908175410/http://mentalfloss.com/article/62250/15-raging-facts-about-28-weeks-later |url-status=live }}</ref>
+
+Carlyle said that infected make-up involved [[contact lens]]es and that he spent several days shooting in that state, adding that lens fit could affect comfort during takes.<ref name="fang">{{cite magazine |last=Salisbury |first=Mark |title=Home on the Rage |pages=31–34 |magazine=[[Fangoria (magazine)|Fangoria]] |volume=May 2007 |issue=263 |publisher=Starlog Group, Inc. |asin=B001QLDCPC}}</ref> Poots described the make-up process as extensive and visually overwhelming in proximity.<ref name="rotten"/> Hundreds of visual effects shots were completed within roughly two months.<ref name="floss"/> 
+
+===Music===
+{{Main|28 Weeks Later: Original Motion Picture Soundtrack{{!}}''28 Weeks Later: Original Motion Picture Soundtrack''}}
+
+[[File:John Murphy by Gage Skidmore.jpg|thumb|''28 Days Later'' composer [[John Murphy (composer)|John Murphy]] (pictured at the 2022 [[WonderCon]]) returned to score the sequel.|alt=Man speaking into a microphone at a panel table, gesturing with one hand in front of a WonderCon backdrop]]
+The score for ''28 Weeks Later'' was composed by [[John Murphy (composer)|John Murphy]] and was recorded at the [[Czech National Symphony Orchestra]] (CNSO) in [[Prague]]. Murphy said the creative discussions focused less on specific musical instructions and more on the emotions the film should produce. This approach gave him wide freedom to explore ideas that support mood and psychology rather than simply "matching" the action.<ref name="liner">{{cite AV media notes |last=Schweiger |first=Daniel |title=28 Weeks Later: Original Motion Picture Score |type=booklet |others=[[John Murphy (composer)|John Murphy]] |date=2007 |publisher=Chaos Music Publishing}}</ref>
+
+In describing his writing process, Murphy said he avoided simply repeating the feeling already provided by the visuals. He experimented with slow, gradual musical "builds" that begin almost invisibly, sometimes as little more than a low, filtered rumble, and he said this helped him create tension while leaving space for dialogue and sound effects. He said the goal was a sound that could feel large and heavy without becoming messy.<ref name="liner"/> Murphy also wanted the score to have its own personality, even while staying connected to earlier themes. He originally imagined bringing back the earlier film's main theme, "[[In the House – In a Heartbeat]]", later in the sequel, but after seeing it used in the opening, he said it created the right bridge between instalments. He then [[Arrangement|rearranged]] that theme so it would work naturally in the sequel's opening sequence. He also described a key cue for a quiet attic scene as mixing horror with grief and relief, and he said its exaggerated intensity led the team to nickname it the "Exorcist Theme".<ref name="liner"/>
+
+==Release==
+===Marketing===
+In July 2006, [[Fox Atomic Comics]] in association with publisher [[HarperCollins]] promoted the film with the publication, in early 2007, of ''[[28 Days Later: The Aftermath]]'', a [[graphic novel]] that bridges the gap between ''28 Days Later'' and ''28 Weeks Later''.<ref>{{cite news | first=Sandee | last=Roston | url=https://www.harpercollins.com/footer/release.aspx?id=474&year=2006 | title=HarperCollins Publishers and Fox Atomic Announce Graphic Novel Publishing Imprint | date=19 July 2006 | access-date=2 October 2006 |url-status = dead| archive-url=https://web.archive.org/web/20070929144030/http://www.harpercollins.com/footer/release.aspx?id=474&year=2006 | archive-date=29 September 2007}}</ref> On 13 April 2007, 28 days before the release of the film in UK cinemas, a huge [[Biological hazard|biohazard]] warning sign was also projected against the [[White Cliffs of Dover]].<ref>{{cite news |last= |first= |date=13 April 2007 |title='Biohazard' image on Dover cliffs |work=BBC News |url=http://news.bbc.co.uk/2/hi/uk_news/england/kent/6553503.stm |url-status=live |access-date=4 May 2007 |archive-url=https://web.archive.org/web/20070525112325/http://news.bbc.co.uk/1/hi/england/kent/6553503.stm |archive-date=25 May 2007}}</ref>
+
+===Box office===
+''28 Weeks Later'' was released theatrically on 11 May 2007, in the United Kingdom by [[20th Century Fox]], and in the United States by [[Fox Atomic]].<ref name="elley"/> It earned $9.8 million in its first weekend while playing in 2,303 theatres,<ref name="bom2">{{cite web |last=Gray |first=Brandon |url=https://www.boxofficemojo.com/article/ed4017685508/?ref_=bo_rl_ra |title='Spider-Man 3 Unravels but Rules |website=[[Box Office Mojo]] |access-date=14 February 2026 }}</ref> with $3.1 million in the UK, where it surpassed the original's opening weekend gross by 34 per cent.<ref>{{cite web |last1=Bresnan |first1=Connor |title=Around the World Roundup: 'Spider-Man 3' Spins More Gold |url=https://www.boxofficemojo.com/article/ed4000908292/?ref_=bo_tt_ra |website=[[Box Office Mojo]] |date=14 May 2007 |access-date=10 March 2026}}</ref> A pre-release commentary on [[Rotten Tomatoes]] had projected a start of roughly $13 million,<ref>{{cite news |last=Pandya |first=Gitesh |url=https://www.rottentomatoes.com/news/comments/?entryid=419864 |title=Box Office Guru Preview: "28 Weeks Later" and "Georgia Rule" To Battle For #2 Spot |website=Rotten Tomatoes |date=11 May 2007 |access-date=11 May 2007 |archive-url=https://web.archive.org/web/20070514040113/http://www.rottentomatoes.com/news/comments/?entryid=419864 |archive-date=14 May 2007 |url-status = dead}}</ref> but the actual opening weekend came in below that figure.<ref name="bom1">{{cite web|url=https://www.boxofficemojo.com/title/tt0463854/?ref_=bo_gr_ti |title=28 Weeks Later at Box Office Mojo|website=[[Box Office Mojo]] |access-date=14 February 2026}}</ref> The film ended its theatrical run grossing $28.6 million in the US and Canada, $43.7 million in other territories, and $72.3 million worldwide.<ref name="bom1"/>
+
+===Home media===
+On 9 October 2007, ''28 Weeks Later'' was released on [[DVD-Video|DVD]] and [[Blu-ray]] by [[20th Century Fox Home Entertainment]]. Both releases included supplemental features such as an [[audio commentary]] track by director Juan Carlos Fresnadillo and co-writer Enrique López Lavigne, deleted scenes with optional commentary, [[behind-the-scenes]] [[featurette]]s, and animated shorts.<ref>{{cite web |last1=McCutcheon |first1=David |title=28 Weeks Later in 3 Months |url=https://www.ign.com/articles/2007/07/10/28-weeks-later-in-3-months |website=[[IGN]] |date=15 May 2012 |access-date=14 February 2026}}</ref><ref>{{cite web |last1=Monfette |first1=Christopher |title=28 Weeks Later Blu-ray Review |url=https://www.ign.com/articles/2007/10/09/28-weeks-later-blu-ray-review |website=[[IGN]] |date=15 May 2012 |access-date=14 February 2026}}</ref>
+
+In a weekly DVD sales report dated 21 October 2007, [[The Numbers (website)|The Numbers]] listed ''28 Weeks Later'' among the top five titles for the week, reporting 336,000 units sold and $6.05 million in sales. The same report also cited sales for a two-film DVD pack comprising ''28 Weeks Later'' and ''28 Days Later'', which sold 65,000 units and earned $1.70 million.<ref name="thenumbers2">{{cite web |url=https://www.the-numbers.com/news/177420830-DVD-Sales-Evan-Finally-Proves-Mighty |title=DVD Sales - Evan Finally Proves Mighty |website=[[The Numbers (website)|The Numbers]] |access-date=14 February 2026 }}</ref> In the US, 1.3&nbsp;million DVD units have been sold, generating a revenue of $25.3&nbsp;million.<ref name="thenumbers1">{{cite web |url=https://www.the-numbers.com/movie/28-Weeks-Later#tab=video-sales |title=28 Weeks Later - DVD Sales |website=The Numbers |access-date=1 July 2010 |archive-date=24 November 2010 |archive-url=https://web.archive.org/web/20101124114706/http://www.the-numbers.com/movies/2007/28WLT-DVD.php |url-status=live }}</ref>
+
+On 2 June 2009, a limited-edition soundtrack of John Murphy's score was released by La-La Land Records, with 1,500 copies shipped.<ref>[https://lalalandrecords.com/28Weeks.html LA LA LAND RECORDS, 28 WEEKS LATER] {{webarchive|url=https://web.archive.org/web/20101102080831/http://lalalandrecords.com/28Weeks.html |date=2 November 2010 }}.</ref> The album was expanded with Murphy's five previously unreleased cues.<ref name="liner"/>
+
+==Reception==
+===Critical response===
+''28 Weeks Later'' was generally well received by critics, though it was seen as lacking the broader cultural influence of ''28 Days Later'', which is often credited with revitalising the zombie genre and offering a more empathetic portrayal of people confronting a sudden outbreak.<ref>{{cite book |last1=Holte |first1=James Craig |title=Pandemics in American Popular Culture |date=2025 |publisher=[[Bloomsbury Publishing]] |isbn=979-8-7651-1437-7 |page=231}}</ref> Across contemporary reviews, critics tended to frame ''28 Weeks Later'' as a sequel that scales the premise up from intimate survival horror into a militarised disaster narrative, with craft and intensity widely noted even when originality and plausibility were debated.{{efn|Attributed to multiple references:<ref name="schwarzbaum">{{cite news |title =28 Weeks Later (2007) |first = Lisa |last = Schwarzbaum |author-link =Lisa Schwarzbaum |url =http://www.ew.com/ew/article/0%2C%2C20038336%2C00.html |website = [[Entertainment Weekly]] |date = 9 May 2007 |access-date = 20 December 2009 |archive-date = 12 May 2007 |archive-url =https://web.archive.org/web/20070512041408/http://www.ew.com/ew/article/0,,20038336,00.html |url-status = dead }}</ref><ref name="scott">{{cite news |title = 28 Weeks Later Review |first = A. O. |last = Scott |author-link = A. O. Scott |url = https://movies.nytimes.com/2007/05/11/movies/11late.html |newspaper = [[The New York Times]] |date = 11 May 2007 |access-date = 20 December 2009 |archive-date = 9 July 2010 |archive-url = https://web.archive.org/web/20100709192643/http://movies.nytimes.com/2007/05/11/movies/11late.html |url-status =dead }}</ref><ref name="bennett">{{cite news |title = 28 Weeks Later Review |first =Bennett |last = Ray |url = http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&rid=9157 |newspaper = [[The Hollywood Reporter]] |date = 9 May 2007 |access-date = 20 December 2009 |archive-date = 13 May 2007 |archive-url =https://web.archive.org/web/20070513032727/http://www.hollywoodreporter.com/hr/film/reviews/article_display.jsp?&rid=9157 |url-status = dead }}</ref><ref name="chris">{{cite news |title = '28 Weeks' is less alive than its predecessor |first =Chris |last = Kaltenbach|url =http://www.baltimoresun.com/entertainment/movies/bal-to.later11may11%2C0%2C5787060.story?coll=bal-artslife-movies |newspaper = [[The Baltimore Sun]] |date = 11 May 2007 |access-date = 20 December 2009 |archive-date = 3 July 2007 |archive-url =https://web.archive.org/web/20070703063948/http://www.baltimoresun.com/entertainment/movies/bal-to.later11may11,0,5787060.story?coll=bal-artslife-movies |url-status = dead }}</ref><ref name="christopher">{{cite news |title = 28 Weeks Later |first =James |last = Christopher|url =http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/film_reviews/article1768037.ece |newspaper = [[The Times]] |date = 10 May 2007 |access-date = 20 December 2009 |archive-date = 30 August 2008 |archive-url =https://web.archive.org/web/20080830062445/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/film_reviews/article1768037.ece |url-status = dead }}</ref><ref name="gingold">{{cite magazine |first=Michael |last=Gingold |author-link=Michael Gingold |title = Review: 28 Wekks Later |url=https://www.fangoria.com/28-weeks-later-review/ |magazine= [[Fangoria]] |date = 8 May 2007 |access-date = 7 February 2026 }}</ref>}} They also repeatedly pointed to the film's creation of terror through camerawork, editing, and sound, the effectiveness of its opening sequence and action staging, and whether its political allegory and sequel mechanics sharpen or blunt what the earlier film achieved.{{efn|Attributed to multiple references:<ref name="schwarzbaum"/><ref name="scott"/><ref name="christopher"/><ref name="bbc">{{cite news |title = 28 Weeks Later (2007) |first = Paul |last = Arendt |url = https://www.bbc.co.uk/films/2007/05/07/28_weeks_later_2007_review.shtml |website = [[BBC News]] |date = 11 May 2007 |access-date = 20 December 2009 }}</ref><ref name="phillips">{{cite news |title =Movie review: '28 Weeks Later' |first =Michael |last = Phillips |author-link=Michael Phillips (critic) |url =http://metromix.chicagotribune.com/movies/mmx-070511-movies-review-later%2C0%2C5961694.story?coll=mmx-movies_top_heds |newspaper = [[Chicago Tribune]] |date = 11 May 2007 |access-date = 20 December 2009 |archive-date = 13 May 2007 |archive-url =https://web.archive.org/web/20070513032655/http://metromix.chicagotribune.com/movies/mmx-070511-movies-review-later,0,5961694.story?coll=mmx-movies_top_heds |url-status = dead }}</ref>}}
+
+Critics highlighted the sequel's ability to generate sustained tension through escalation, craft, and visceral set pieces, even when they held reservations about other elements.{{efn|Attributed to multiple references:<ref name="bennett"/><ref name="scott"/><ref name="phillips"/><ref name="bbc"/><ref name="gingold"/><ref name="chris"/><ref name="newman">{{cite news |title =28 Weeks Later |first = Kim |last = Newman |author-link =Kim Newman |url =http://www.empireonline.com/reviews/ReviewComplete.asp?FID=133187 |website = [[Empire (magazine)|Empire]] |date = 27 April 2007 |access-date = 20 December 2009 |archive-date = 2 May 2007 |archive-url =https://web.archive.org/web/20070502025305/http://www.empireonline.com/reviews/ReviewComplete.asp?FID=133187 |url-status = dead }}</ref>}} [[Michael Gingold]] of ''[[Fangoria]]'' presented the film as a rare follow-up that remains "scary and intense" while adopting a bleaker, less compromising tone than its predecessor.<ref name="gingold"/> ''[[Empire (magazine)|Empire]]''{{'s}} [[Kim Newman]] found it a worthy sequel that "extends the story in intelligent, suspenseful ways", even though its American characters are relatively underdeveloped and the helicopter action sequence is not as tense as the US troops' desperate attempts to contain another spread of the virus.<ref name="newman"/> [[Derek Elley]] for ''[[Variety (magazine)|Variety]]'' called it a "full-bore zombie romp" that asserts itself immediately through a strong opening sequence and then keeps pressure on through a succession of large-scale action beats.<ref name="elley">{{cite news |last1=Elley |first1=Derek |author-link=Derek Elley |title=28 Weeks Later |url=https://variety.com/2007/film/reviews/28-weeks-later-1200559380/ |website=[[Variety (magazine)|Variety]] |date=15 May 2007 |access-date=27 October 2019 |archive-date=27 October 2019 |archive-url=https://web.archive.org/web/20191027044755/https://variety.com/2007/film/reviews/28-weeks-later-1200559380/ |url-status=live }}</ref> For Ray Bennett, in ''[[The Hollywood Reporter]]'', it is "a ferociously entertaining thriller with sympathetic characters, stunning set pieces and pulsating excitement".<ref name="bennett"/> ''[[The New York Times]]'' critic [[A. O. Scott]] found it "bracingly smart and satisfying", even as he argued that its intensity can lean on aggressive stylistic techniques.<ref name="scott"/> A similar sentiment is expressed in the ''[[Chicago Tribune]]'' review by [[Michael Phillips (critic)|Michael Phillips]], who praised the film's grim imagination and commitment to its bleak vision while acknowledging how punishing the experience is.<ref name="phillips"/>
+
+Reviewers frequently treated the film's formal style as central to its impact, crediting its restless visuals with creating immediacy while also noting that the same choices could obscure clarity or emotional beats.{{efn|Attributed to multiple references:<ref name="scott"/><ref name="phillips"/><ref name="bbc"/><ref name="rickey">{{cite news |title = Mom is a zombie in '28 Weeks Later' |first =Carrie |last =Rickey |author-link=Carrie Rickey |url =http://www.philly.com/philly/entertainment/movies/20070511_Happy_undead_Mothers_Day.html |newspaper = [[The Philadelphia Inquirer]] |date = 11 May 2007 |access-date = 20 December 2009 |archive-date = 13 May 2007 |archive-url =https://web.archive.org/web/20070513041933/http://www.philly.com/philly/entertainment/movies/20070511_Happy_undead_Mothers_Day.html |url-status = dead }}</ref><ref name="meister">{{cite news |title =28 Weeks Later Movie Review  |first =Meister |last =Erin |url =http://www.boston.com/movies/display?display=movie&id=9377 |newspaper = [[Boston Globe]] |date = 11 May 2007 |access-date = 20 December 2009 |archive-date = 14 May 2007 |archive-url =https://web.archive.org/web/20070514034319/http://www.boston.com:80/movies/display?display=movie&id=9377 |url-status = dead }}</ref>}} In ''[[The Philadelphia Inquirer]]'', [[Carrie Rickey]] singled out the "sprinting camera" and the propulsive score as mechanisms that keep the audience physically keyed up, even suggesting the cinematography benefits from not lingering too long on gore.<ref name="rickey"/> By contrast, Erin Meister, writing for ''[[The Boston Globe]]'', praised director Juan Carlos Fresnadillo's use of darkness and shadow but cautioned that the shaky camera can become "[[nausea]]-inducing", particularly in quieter dramatic passages.<ref name="meister"/> Phillips similarly admired the handheld urgency while warning that some violence is staged and cut in ways that risk "visual unintelligibility". And the [[BBC News|BBC]] review, by Paul Arendt, called the sequel's "grimy, digital-video feel that's enhanced by delirious editing and a mind-boggling excess of gore" an effective genre mimicry of the template set by the earlier film.<ref name="bbc"/>
+
+A recurring structural judgement was that the film begins with unusually controlled suspense but shifts into a more conventional, and sometimes less convincing, escalation once the military response takes over.{{efn|Attributed to multiple references:<ref name="scott"/><ref name="christopher"/><ref name="chris"/><ref name="bbc"/>}} In ''[[The Times]]'', James Christopher praised the opening sequence for generating dread through understatement and carefully calibrated tension, then argued that later sections collapse into a thinner narrative, memorably likening its mid-to-late action to a videogame scenario and calling the plot "porridge".<ref name="christopher"/> ''[[The Baltimore Sun]]'' critic Chris Kaltenbach took a related view: he found the film undeniably exciting and fast-paced, but he faulted it for lack of logic and for relying on a "steady stream of violence and carnage" in place of the earlier film's ingenuity and restraint.<ref name="chris"/> Although Arendt recommended the film as a brisk horror ride, he said it "feels a tad redundant" to the original, as it did not set out to improve what Boyle could have done better.<ref name="bbc"/>
+
+Several critics read an overt layer of political commentary into the scenario of a US-led, security-heavy repopulation of London, though they disagreed about whether that satire felt sharp, subtle, or stale.{{efn|Attributed to multiple references:<ref name="scott"/><ref name="rickey"/><ref name="phillips"/><ref name="christopher"/><ref name="meister"/><ref name="schwarzbaum"/>}} Scott described the film as savagely satirising the [[war on terror]], tying its horror mechanics to contemporary geopolitics.<ref name="scott"/> Rickey made that subtext explicit, calling the film a political allegory of an American military occupation and pointing to its parallels with the [[Iraq War]].<ref name="rickey"/> Phillips argued that regardless of whether its plot had a "strong anti-American streak" or an "[[Public image of George W. Bush|anti-Bush]] streak" in light of "everything from present-day Iraq to the aftermath of [[Hurricane Katrina]]", the film just let the atmosphere and outcomes imply the critique.<ref name="phillips"/> Christopher, by contrast, treated the topical ambition as a missed opportunity, suggesting that whatever satire might have seemed pointed on the surface now plays crude, and that the "dig" at trigger-happy occupiers adds little illumination.<ref name="christopher"/> Meister characterised the commentary as "subtle but unmistakable", describing the troops less as villains than as frightened and desperate agents of harsh policy.<ref name="meister"/>
+
+===Retrospective assessments===
+{{RT film|73||200|While ''28 Weeks Later'' lacks the humanism that made ''28 Days Later'' a classic, it's made up with fantastic atmosphere and punchy direction.|ref=y|access-date=14 June 2025}} Even so, it is the lowest-rated instalment in the [[28 Days Later (film series)|''28 Days Later'' series]] ranked by Tomatometer, as of 2026.<ref>{{cite web |last1=Marrero |first1=Bryce |title=All 28 Days Later Movies Ranked By Tomatometer |url=https://editorial.rottentomatoes.com/guide/all-28-days-later-movies-ranked/ |website=Rotten Tomatoes |access-date=9 March 2026}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 78 out of 100, based on 34 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''28 Weeks Later'' |url=https://www.metacritic.com/movie/28-weeks-later |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=14 June 2025 |archive-url= |archive-date= |url-status=}}</ref> 
+
+The film won [[Empire Award for Best Horror|Best Horror]] at the [[13th Empire Awards|2008 Empire Awards]].<ref>{{cite web |title=Empire Awards 2008 - Best Horror |url=http://www.empireonline.com/awards2008/winners/horror.asp |website=[[Empire Awards]] |date=9 March 2008 |access-date=10 March 2026 |archive-url=https://web.archive.org/web/20080725032155/http://www.empireonline.com/awards2008/winners/horror.asp |archive-date=25 July 2008 |url-status=dead}}</ref> It has also made lists of the top zombie films by Rotten Tomatoes (no. 53),<ref>{{Cite web |title=100 Best Zombie Movies, Ranked by Tomatometer |url=https://editorial.rottentomatoes.com/guide/essential-zombie-movies/ |access-date=4 May 2025 |website=[[Rotten Tomatoes]] |language=en-US}}</ref> ''[[Paste (magazine)|Paste]]'' (no. 39),<ref>{{cite web |last1=Vorel |first1=Jim |title=The 50 Best Zombie Movies of All Time |url=https://www.pastemagazine.com/movies/the-zombies/the-50-best-zombie-movies-of-all-time |website=[[Paste (magazine)|Paste]] |date=7 October 2025 |access-date=9 March 2026}}</ref> and ''[[Screen Rant]]'' (no. 12),<ref>{{cite web |last1=Holland |first1=Stephen |title=The 15 Best Zombie Movies Of All Time, Ranked |url=https://screenrant.com/best-zombie-movies-ever-ranked/ |website=[[Screen Rant]] |date=4 November 2024 |access-date=9 March 2026}}</ref> as well as the best movie opening scenes{{em dash}}horror or otherwise{{em dash}}by Rotten Tomatoes (no. 15),<ref>{{cite web |title=The 20 Scariest Opening Scenes in Horror Movie History, Ranked |url=https://editorial.rottentomatoes.com/article/the-20-scariest-opening-scenes-in-horror-movie-history-ranked/ |website=[[Rotten Tomatoes]] |date=9 April 2018 |access-date=9 March 2026}}</ref> ''[[ComicBook.com]]'' (no. 2),<ref>{{cite web |last1=Young |first1=Kai |title=10 Most Iconic Horror Movie Opening Scenes |url=https://comicbook.com/movies/news/10-most-iconic-horror-movie-opening-scenes/ |website=[[ComicBook.com]] |date=30 May 2025 |access-date=9 March 2026}}</ref> and ''[[GQ]]'' (no. 4).<ref>{{cite web |last1=King |first1=Jack |title=The Best Movie Opening Scenes, Definitively Ranked |url=https://www.gq.com/story/the-best-movie-opening-scenes-definitively-ranked |website=[[GQ]] |access-date=9 March 2026 |archive-url=https://web.archive.org/web/20250726232452/https://www.gq.com/story/the-best-movie-opening-scenes-definitively-ranked |archive-date=26 July 2025 |url-status=live |url-access=limited}}</ref> ''[[Den of Geek]]'' places the film at no. 9 on its list of the best horror movie sequels.<ref>{{cite web |last1=Crow |first1=David |last2=Kaye |first2=Don |last3=Howard |first3=Kristen |last4=Saavedra |first4=John |last5=Fletcher |first5=Rosie |title=Best Horror Movie Sequels Ranked |url=https://www.denofgeek.com/movies/best-horror-movie-sequels-ranked/ |website=[[Den of Geek]] |date=22 January 2022 |access-date=9 March 2026}}</ref>
+
+In a 2025 interview with ''GQ'', Garland treated his experience with ''28 Weeks Later'' as an early lesson in the common industry expectation that a profitable success should be followed up quickly, regardless of whether the continuation emerges from the same creative impulse as the original.<ref>{{cite interview |date=15 April 2025 |title=Alex Garland Breaks Down His Most Iconic Films |url=https://www.youtube.com/watch?v=bVbt8qG7Fl8?t=380 |access-date=19 June 2025 |publisher=[[GQ]] |time=6:20|via=YouTube}}</ref>
+
+==Themes==
+[[File:Bush announces Operation Iraqi Freedom 2003.jpg|thumb|alt=A person in a dark suit and red tie sits at a desk in the Oval Office, hands folded, with US flags and framed photographs visible in the background|Critics note that ''28 Weeks Later'' draws on "[[Mission Accomplished speech|Mission Accomplished]]" symbolism and satirises militarised crisis management of the [[Presidency of George W. Bush#Invasion of Iraq|Bush administration's invasion of Iraq]]. Pictured here is US President [[George W. Bush]] announcing Operation Iraqi Freedom at the [[Oval Office]] in 2003.<ref name="schwarzbaum"/><ref name="rickey"/>]]
+In the book ''Diseased Cinema: Plagues, Pandemics and Zombies in American Movies'' (2024), authors Robert Alpert, Merle Eisenberg, and Lee Mordechai characterise ''28 Weeks Later'' as an example of a broader shift toward a more pessimistic view of infectious disease narratives. Rather than centering on a contained crisis that can be managed, the film emphasises on how quickly an outbreak can re-emerge during reconstruction, and how fragile efforts at resettlement and "return to normal" can be.<ref name="diseasedcinema">{{cite book |last1=Alpert |first1=Robert |last2=Eisenberg|first2=Merle |last3=Mordechai |first3=Lee |title=Diseased Cinema: Plagues, Pandemics and Zombies in American Movies |year=2024 |publisher=[[Edinburgh University Press]] |isbn=978-1-3995-2167-3 |pages=74–75}}</ref>
+
+A central theme highlighted by the authors is institutional breakdown, especially the failure of militarised control. They note that the film takes a darker approach than its predecessor by stressing that authorities are unable to stop the renewed spread or reliably protect civilians. Containment measures collapse, and the resulting escalation is framed as catastrophic, reinforcing the idea that large systems meant to provide safety can become ineffective under crisis conditions.<ref name="diseasedcinema"/> In addition, the authors present the virus and the occupation-style reconstruction as an allegory for contemporary geopolitics, explicitly linking the film's setting and military strategy to the US-led [[Iraq War]] and its reconstruction efforts. The comparison frames the fortified zone and its unravelling as reflecting the limits of imposed order, with early signs of control giving way to bloodshed and failure. They conclude that the film rejects consoling closure and instead underscores a bleak claim: the "new world" promised by recovery efforts may be unattainable, and the trajectory points toward large-scale, possibly global collapse.<ref name="diseasedcinema"/>
+
+Finally, the authors note the film's focus on family as both a symbol of hope and a catalyst for disaster, serving as the immediate route by which the infection returns at full scale. The intimate bonds, including attempts at reunion and forgiveness, become entangled with transmission and collapse the fragile stability of the "safe" zone.<ref name="diseasedcinema"/>
+
+==Sequel==
+{{Main|28 Years Later}}
+{{Further|28 Days Later (film series)}}
+
+Following the release of ''28 Weeks Later'', a third instalment [[Development hell|spent years in development]] as the unproduced ''28 Months Later'', with the project ultimately stalling amidst a combination of creative differences, scheduling conflicts, and later industry shifts, before being set aside.<ref name="polygon">{{cite web |last1=Patches |first1=Matt |title=Why 28 Months Later didn’t happen |url=https://www.polygon.com/horror/608237/why-28-months-later-skipped-28-years-later/ |website=[[Polygon (website)|Polygon]] |date=21 June 2025 |access-date=14 February 2026}}</ref> When Danny Boyle and Alex Garland returned to the series, they instead launched ''28 Years Later'' as the first entry in a new trilogy shaped more directly by the approach of the original film, rather than by the intervening sequel's specific plot directions.<ref name="polygon"/><ref name="digitalspy">{{cite web |last1=Mitchell |first1=Harriet |title=28 Years Later ignores one of the biggest reveals of 28 Weeks Later |url=https://www.digitalspy.com/movies/a65087685/28-years-later-danny-boyle-immunity-reveal/ |website=[[Digital Spy]] |date=17 June 2025 |access-date=14 February 2026}}</ref> In doing so, the third film [[Retroactive continuity|recontextualises]] major elements introduced in ''28 Weeks Later'', including the earlier sequel's revelation that some individuals may be naturally immune to the Rage Virus, an idea Boyle said the new film does not pursue.<ref name="digitalspy"/> It also reverses the prior sequel's closing suggestion that the outbreak had spread into mainland Europe by opening with on-screen context indicating that French forces drove the infection back across the [[English Channel]], restoring the narrative focus to an isolated Britain.<ref>{{cite web |last1=Stolworthy |first1=Jacob |title=28 Years Later brazenly changes 28 Weeks Later plot twist within seconds |url=https://www.independent.co.uk/arts-entertainment/films/news/28-years-later-movie-28-weeks-later-b2774714.html |website=[[The Independent]] |date=22 June 2025 |access-date=14 February 2026}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{sister project links|d=Q221102|c=no|n=no|b=no|v=no|voy=no|m=no|mw=no|s=no|wikt=no|species=no}}
+* {{IMDb title|0463854}}
+
+{{28 Days Later}}
+{{Juan Carlos Fresnadillo}}
+{{Empire Award for Best Horror}}
+{{Portal bar|2000s|Film|United Kingdom|United States|Spain|Speculative fiction|Horror|Viruses}}
+
+{{Authority control}}
+
+[[Category:2007 films]]
+[[Category:2007 American films]]
+[[Category:2007 British films]]
+[[Category:2007 English-language films]]
+[[Category:2007 science fiction horror films]]
+[[Category:20th Century Fox films]]
+[[Category:28 Days Later (film series)]]
+[[Category:American action horror films]]
+[[Category:American post-apocalyptic films]]
+[[Category:American science fiction horror films]]
+[[Category:American sequel films]]
+[[Category:American zombie films]]
+[[Category:2000s zombie films]]
+[[Category:Animal Logic films]]
+[[Category:British action horror films]]
+[[Category:British post-apocalyptic films]]
+[[Category:British science fiction horror films]]
+[[Category:British sequel films]]
+[[Category:British zombie films]]
+[[Category:DNA Films films]]
+[[Category:Dune Entertainment films]]
+[[Category:English-language science fiction horror films]]
+[[Category:English-language Spanish films]]
+[[Category:Films about uxoricide]]
+[[Category:Films about viral outbreaks]]
+[[Category:Films directed by Juan Carlos Fresnadillo]]
+[[Category:Films produced by Andrew Macdonald]]
+[[Category:Films scored by John Murphy (composer)]]
+[[Category:Films set in London]]
+[[Category:Films set in Paris]]
+[[Category:Films shot in Cardiff]]
+[[Category:Films shot in London]]
+[[Category:Films shot in Wales]]
+[[Category:Films with screenplays by Rowan Joffé]]
+[[Category:Fox Atomic films]]
+[[Category:Sogecine films]]
+[[Category:Spanish post-apocalyptic films]]
+[[Category:Spanish science fiction horror films]]
+[[Category:Spanish sequel films]]
+[[Category:Spanish zombie films]]

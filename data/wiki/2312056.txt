@@ -1,0 +1,610 @@
+{{Short description|British historical romantic drama film by Joe Wright}}
+{{Featured article}}
+{{Use British English|date=September 2020}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox film
+| name           = Pride & Prejudice
+| image          = prideandprejudiceposter.jpg
+| alt            =
+| caption        = UK theatrical release poster
+| director       = [[Joe Wright]]
+| producer       = {{Plainlist|
+* [[Tim Bevan]]
+* [[Eric Fellner]]
+* [[Paul Webster (producer)|Paul Webster]]
+}}
+| screenplay     = [[Deborah Moggach]]
+| based_on       = {{based on|''[[Pride and Prejudice]]''<br />1813 novel|[[Jane Austen]]}}
+| starring       = {{Plainlist|
+* [[Keira Knightley]]
+* [[Matthew Macfadyen]]
+* [[Brenda Blethyn]]
+* [[Donald Sutherland]]
+* [[Rosamund Pike]]
+* [[Jena Malone]]
+* [[Tom Hollander]]
+* [[Penelope Wilton]]
+* [[Judi Dench]]
+}}
+| cinematography = [[Roman Osin]]
+| music          = [[Dario Marianelli]]
+| editing        = Paul Tothill
+| studio         = {{Plainlist|
+* [[Universal Pictures]]
+* [[StudioCanal]]
+* [[Working Title Films]]
+* Scion Films<ref>{{cite web|title=Pride & Prejudice (2005)|work=[[AFI Catalog of Feature Films]]|url=http://catalog.afi.com/Film/63570-PRIDE-PREJUDICE?sid=9c50dd7a-58b8-4c94-bdeb-8804d1d22b5e&sr=7.3439465&cp=4&pos=4|access-date=13 February 2021|archive-date=23 June 2021|archive-url=https://web.archive.org/web/20210623004423/https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all|url-status=live}}</ref>
+}}
+| distributor    = {{Plainlist|
+* [[Focus Features]] (United States)
+* [[BAC Films|Mars Distribution]] (France)
+* [[United International Pictures]] (International)
+}}
+| released       = {{Film date|df=yes|2005|9|11|[[2005 Toronto International Film Festival|TIFF]]|2005|9|16|United Kingdom|2005|11|23|United States|2006|1|18|France}}
+| runtime        = 127 minutes<!--Theatrical runtime: 127:05--><ref>{{cite web|title=''Pride & Prejudice'' (U) |url=https://www.bbfc.co.uk/releases/pride-prejudice-2005-0 |work=[[United International Pictures]] |publisher=[[British Board of Film Classification]] |date=25 July 2005 |access-date=1 October 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131004215342/http://www.bbfc.co.uk/releases/pride-prejudice-2005-0 |archive-date= 4 October 2013 }}</ref>
+| country        = {{Plainlist|
+* United Kingdom
+* United States
+* France
+}}
+| language       = English
+| budget         = $28 million{{sfn|The Numbers}}
+| gross          = $131.9 million{{sfn|Box Office Mojo Profile}}
+}}
+
+'''''Pride & Prejudice''''' is a 2005 [[period film|period]] romance film directed by [[Joe Wright]], in his feature directorial debut, based on [[Jane Austen]]'s [[Pride and Prejudice|1813 novel of the same name]]. The film features five sisters from an English family of [[landed gentry]] as they deal with issues of marriage, morality, and misconceptions. [[Keira Knightley]] stars as [[Elizabeth Bennet]], while [[Matthew Macfadyen]] plays [[Mr Darcy]], who falls in love with her.
+
+Screenwriter [[Deborah Moggach]] initially attempted to make her script as faithful to the novel as possible, writing from Elizabeth's perspective while preserving much of the original dialogue. Wright encouraged greater deviation from the text, including changing the Bennet family dynamics. Wright and Moggach set the film in an earlier period and avoided depicting a "perfectly clean [[Regency period|Regency]] world", presenting instead a "muddy hem version" of the time. It was shot entirely on location in England on an 11-week schedule.{{sfn|Elley|2005}}{{sfn|Focus Features Production|2005}} Wright found casting difficult due to past performances of particular characters. The filmmakers had to balance who they thought was best for each role with the studio's desire for stars. Knightley was well known in part from her role in the ''[[Pirates of the Caribbean (film series)|Pirates of the Caribbean]]'' film series, while Macfadyen had no international name recognition.
+
+Produced by [[Working Title Films]] in association with [[StudioCanal]], ''Pride & Prejudice'' was released on 16 September 2005 in the United Kingdom and on 11 November in the United States. The film's themes emphasise realism, romanticism and family. It was marketed to a younger, mainstream audience; promotional items noted that it came from the producers of 2001's [[romantic comedy]] ''[[Bridget Jones's Diary]]'' before acknowledging its provenance as an Austen novel. Austen scholars opined that Wright's work created a new hybrid genre by blending traditional traits of the [[heritage film]] with "youth-oriented filmmaking techniques".{{sfn|Dole|2007}}
+
+''Pride & Prejudice'' was successful at the box office, grossing $131.9 million worldwide on a $28 million budget. It received positive reviews from critics, with praise for Knightley's performance. It received four nominations at the [[78th Academy Awards]], including [[Academy Award for Best Actress|Best Actress]] for the 20-year-old Knightley, making her the [[List of oldest and youngest Academy Award winners and nominees#Youngest nominees 3|third-youngest Best Actress]] nominee at the time.<ref>{{Cite web |last=Renfro |first=Kim |title=The 31 youngest Oscar nominees of all time |url=https://www.insider.com/youngest-oscar-nominees-2018-2 |url-status=live |archive-url=http://webarchive.loc.gov/all/20200212223412/https://www.insider.com/youngest-oscar-nominees-2018-2 |archive-date=12 February 2020 |access-date=2021-04-17 |website=Insider |language=en-US}}</ref><ref>{{Cite web |last=Evry |first=Max |title=The 25 Youngest Oscar Nominees of All Time |url=https://www.mtv.com/news/2802405/youngest-oscar-nominees-winners-of-all-time/ |url-status=dead |archive-url=https://web.archive.org/web/20210420163843/https://www.mtv.com/news/2802405/youngest-oscar-nominees-winners-of-all-time/|date=9 February 2011 |archive-date=20 April 2021 |access-date=2021-04-17 |website=MTV News |language=en}}</ref> The film received other accolades, including the [[BAFTA Award for Outstanding Debut by a British Writer, Director or Producer]] for Wright.
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summary should be 400-700 words. -->
+During the late 18th century in [[England]], Mr and Mrs Bennet and their daughters—Jane, [[Elizabeth Bennet|Elizabeth]], Mary, Kitty, and Lydia—live at Longbourn, their rural estate in [[Hertfordshire]]. Mrs Bennet, eager to secure suitable marriages for her daughters, is delighted when wealthy bachelor [[Charles Bingley]] moves into nearby Netherfield Hall.
+
+At an [[assembly rooms|assembly]] [[ball (dance)|ball]], Bingley, his sister Caroline, and his friend [[Mr Darcy]] meet the local society. Bingley and Jane are immediately taken with each other, while Elizabeth instantly dislikes the snobbish Darcy and overhears his dismissive remarks about her.
+
+Later, visiting the Bingleys, Jane falls ill and must stay to recuperate. While Elizabeth is visiting Jane at Netherfield, she verbally spars with the haughty Caroline and the aloof Darcy. Jane recovers and, soon after, Mr Bennet's cousin [[Mr William Collins|Mr Collins]], a pompous clergyman, visits the Bennets; as the closest male relative, Collins will inherit Longbourn as it is entailed on the male line.
+
+Mr Collins tells Mrs Bennet he intends to propose to Jane, but she says Jane will soon be engaged and suggests Elizabeth, whom Collins considers an agreeable alternative. The Bennet sisters also meet the handsome and charming soldier [[George Wickham]], whose father worked for the Darcy family. He wins Elizabeth's sympathy by telling her that Mr Darcy denied him his rightful inheritance.
+
+At the Netherfield ball, Elizabeth dances with Darcy, though the encounter is strained. The next day, Collins proposes to Elizabeth, who roundly rejects him; despite her mother's anger, her father supports her decision.
+
+Elizabeth is astonished when her close friend, Charlotte, fearing [[spinster]]hood, announces her engagement to Mr Collins. The Bingley party unexpectedly returns to [[London]]. Elizabeth urges Jane to visit their aunt and uncle, the Gardiners, who live in London, hoping she reconnects with Bingley.
+
+Months later, Elizabeth visits Charlotte and Mr Collins, who reside next to [[Lady Catherine de Bourgh]]'s estate in [[Kent]]. Elizabeth unexpectedly meets Darcy, who is Lady Catherine's nephew and visiting with his cousin, [[Colonel Fitzwilliam]]. Unaware that Jane is Elizabeth's sister, Fitzwilliam mentions that Darcy recently untangled Bingley from an imprudent match with an "unsuitable" family.
+
+Distraught, Elizabeth is then met by Darcy, who to her amazement proposes marriage, declaring his ardent love despite her inferior rank and family. Offended and angry, she refuses him. He defends separating Jane and Bingley, believing Jane indifferent to his friend, and criticises the other Bennets' occasional social impropriety. Elizabeth also cites his mistreating Wickham.
+
+Angry and heartbroken, Darcy delivers Elizabeth a letter describing Wickham's true character: Wickham squandered the bequest Darcy's father left him, then attempted to seduce Darcy's 15-year-old sister, Georgiana, into eloping to gain her fortune.
+
+Elizabeth returns home, as does Jane. Accompanying the Gardiners on a trip to the [[Peak District]], Elizabeth reluctantly tours [[Pemberley]], the grand Darcy estate in [[Derbyshire]]. She unexpectedly runs into Darcy, who invites her and the Gardiners to dine there. Darcy's manner has softened considerably, impressing the Gardiners, and Georgiana shares her brother's flattering reports about Elizabeth.
+
+An urgent letter from Jane reveals that Lydia has run off with Wickham. Darcy leaves abruptly, and Elizabeth returns home, certain she will never see Darcy again. Her mother fears Lydia's disgrace will ruin her other daughters' chances of good marriages.
+
+After a tense waiting period, Mr Gardiner sends news that Lydia and Wickham are now married, and the newlyweds return to Longbourn. Lydia lets slip to Elizabeth that it was Darcy who found them and paid for their wedding; he also purchased Wickham's [[purchase of commissions in the British Army|military commission]].
+
+Bingley and Darcy return to Netherfield and visit Longbourn. Bingley proposes to Jane, who accepts. Late that night, Lady Catherine arrives to see Elizabeth and demands she never become engaged to Darcy because, she claims, Darcy has been engaged to marry Lady Catherine's daughter, who has suffered poor health since infancy. Deeply insulted, Elizabeth orders her to leave.
+
+Walking early the next morning, Elizabeth encounters Darcy, who apologises for his aunt's intrusion. He professes his continued love and Elizabeth, her feelings radically altered, accepts his proposal. She tells her father the truth of Darcy's actions, and Mr Bennet gives Elizabeth his consent to marry, overjoyed she has found love.
+
+== Cast ==
+{{castlist|
+* [[Keira Knightley]] as [[Elizabeth Bennet]]
+* [[Matthew Macfadyen]] as [[Mr Darcy]]
+* [[Brenda Blethyn]] as [[Mrs Bennet]]
+* [[Donald Sutherland]] as [[Mr Bennet]]
+* [[Rosamund Pike]] as [[Jane Bennet]]
+* [[Jena Malone]] as [[Lydia Bennet]]
+* [[Tom Hollander]] as [[Mr. Collins|Mr Collins]]
+* [[Penelope Wilton]] as Mrs Gardiner
+* [[Judi Dench]] as [[Lady Catherine de Bourgh]]
+* [[Simon Woods]] as [[Charles Bingley]]
+* [[Carey Mulligan]] as [[Kitty Bennet|Catherine "Kitty" Bennet]]
+* [[Talulah Riley]] as [[Mary Bennet]]
+* [[Rupert Friend]] as [[George Wickham]]
+* [[Kelly Reilly]] as [[Caroline Bingley]]
+* [[Tamzin Merchant]] as [[Georgiana Darcy]]
+* [[Claudie Blakley]] as [[Charlotte Lucas (Pride and Prejudice)|Charlotte Lucas]]
+* Cornelius Booth as [[Colonel Fitzwilliam]]
+* [[Peter Wight (actor)|Peter Wight]] as Mr Gardiner
+* [[Roy Holder]] as Mr Hill
+* [[Pip Torrens]] as Netherfield Hall Butler
+* [[Meg Wynn Owen]] as Mrs Reynolds
+* [[Sinead Matthews]] as Mrs Betsy
+}}
+
+== Production ==
+=== Conception and adaptation ===
+As with several recent [[Jane Austen]] adaptations, ''Pride & Prejudice'' was an Anglo-American collaboration, between British studio [[Working Title Films]] (in association with French company [[StudioCanal]]) and its American parent company, [[Universal Pictures|Universal Studios]].{{sfn|Elley|2005}}{{sfn|Higson|2011|p = 170}} Working Title at the time was known for mainstream productions like ''[[Bridget Jones's Diary]]'' and ''[[Love Actually]]'' that drew international audiences,{{sfn|Durgan|2007}} not films in the historical drama genre.{{sfn|Troost|2007|p = 86}} Its co-chairman [[Tim Bevan]] said the studio wanted to "bring Austen's original story, concentrating on Lizzie, back in all its glory to the big screen for audiences everywhere to enjoy".{{sfn|Focus Features Production|2005}} Given a "relatively inexpensive" budget of £22 million ($28 million),{{sfn|British Film Institute}}{{sfn|The Numbers}} the film was expected to excel at the box office, particularly given the commercial success of ''[[Romeo + Juliet]]'' (1996) and ''[[Shakespeare in Love]]'' (1998), as well as the resurgence of interest in Austen.{{sfn|Andrew|2011|p = 31}}{{sfn|Higson|2011|p = 166}}
+
+[[File:Deborah Moggach.jpg|thumb|Screenwriter [[Deborah Moggach]] changed the film's period setting to the late 18th century partly out of concern that it would be overshadowed by the [[Pride and Prejudice (1995 TV series)|1995 BBC adaptation]].{{sfn|Cartmell|2010|p = 85}}]]
+Given little instruction from the studio, screenwriter [[Deborah Moggach]] spent over two years on the script. She had sole discretion at first, and wrote approximately ten drafts.{{sfn|Spunberg|2011}}{{sfn|Hanson|2005}} Realising it held "a perfect three-act structure",{{sfn|Hanson|2005}} Moggach attempted to be as faithful to the original novel as possible, calling it "so beautifully shaped as a story—the ultimate romance about two people who think they hate each other but who are really passionately in love. I felt, 'If it's not broken, don't fix it.{{'"}}{{sfn|Focus Features Production|2005}} While she could not reproduce the novel's "fiercely wonderful dialogue in its entirety", she sought to keep much of it.{{sfn|Focus Features Production|2005}}
+
+Moggach's first draft was closest to Austen's book, but later versions excised storylines and characters.{{sfn|Hanson|2005}} Moggach initially wrote all scenes from Elizabeth's point of view in keeping with the novel; she later set a few scenes from a male perspective, such as when Bingley practices his marriage proposal, to "show Darcy and Bingley being close" and to indicate Darcy was a "human being instead of being stuck up".{{sfn|Spunberg|2011}} Small details were inserted that acknowledged events outside the characters' circle, such as those then occurring in France.{{sfn|Focus Features Production|2005}} Moggach is the only credited screenwriter, but playwright [[Lee Hall (playwright)|Lee Hall]] provided early additions.{{sfn|Wells|2007}}{{sfn|Dawtrey|2004}}
+
+Director [[Joe Wright]], whose earlier work was in television, was hired in early 2004,{{sfn|Dawtrey|2004}} for his feature film directorial debut.{{sfn|Holden|2005}} He was considered a surprising choice for a film in the [[Romance film|romance]] [[Drama film|drama]] genre due to his past work with [[social realism]].{{sfn|Hoggard|2005}}{{sfn|Higson|2011|p = 171}} Wright's body of work had impressed the producers,{{sfn|Focus Features Production|2005}} who were looking for a fresh perspective;{{sfn|Durgan|2007}} they sent him a script even though Wright had not read the novel.{{sfn|Focus Features Production|2005}}{{sfn|DeGennaro|2005}} He stated in interview (with Sara Michelle Fetters of MovieFreak.com) that at the time, "I didn't know if I was really all that interested; I thought I was a little bit more mainstream than this, a bit more edgy. But then I read the script and I was surprised I was very moved by it".{{sfn|Fetters}} He went on to say that on reading the novel, he found it "an amazing piece of character observation [that] really seemed like the first piece of British Realism. It felt like it was a true story; had a lot of truth in it about understanding how to love other people, understanding how to overcome prejudices, understanding the things that separate us from other people&nbsp;... things like that".{{sfn|Fetters}}
+{{Quote box
+| quote="I wanted to make something that is about young people, about young people experiencing these emotions for the first time and not understanding the feelings they are having. If you have a 40-year-old man as your star not understanding the feeling he's having then it becomes a bit unbelievable and suspect, rather like ''[[The 40-Year-Old Virgin]]'' or something instead of ''Pride & Prejudice''".
+| source = — Director Joe Wright commenting on the ages of the actors in the 1940 adaptation{{sfn|Fetters}}
+| width = 30em
+| align = left
+| bgcolor = #FFFFF0
+}}
+Wright's interview goes on to disclose that the only adaptation of ''Pride and Prejudice'' that he had seen was the [[Pride and Prejudice (1940 film)|1940 production]], which was the last time the novel had been adapted into a feature film. He states that he purposely did not watch the [[Pride and Prejudice#Film, television and theatre|other productions]], both out of fear he would inadvertently steal ideas and because he wanted to be as original as possible.{{sfn|Fetters}} But he did watch other period films, including [[Ang Lee]]'s ''[[Sense and Sensibility (1995 film)|Sense and Sensibility]]'', [[Roger Michell]]'s ''[[Persuasion (1995 film)|Persuasion]]'', and [[John Schlesinger]]'s ''[[Far from the Madding Crowd (1967 film)|Far from the Madding Crowd]]''. Wright cited this last film as the greatest influence on his own adaptation, calling it "very real and very honest—and it is quite romantic as well".{{sfn|Haun|2005}} In trying to create an atmosphere of charged flirtation, Wright was also inspired by teen romance films such as ''[[Sixteen Candles]]''{{sfn|Austen|2008}} and ''[[The Breakfast Club]]''.{{sfn|Wright|2005|loc = 10:00–10:40}}
+
+Wright came on while Moggach was on her third draft.{{sfn|Hanson|2005}} Despite her desire to work closely with Austen's dialogue, Wright made an effort to not "be too reverential to [it]. I don't believe people spoke like that then; it's not natural."{{sfn|DeGennaro|2005}} While a few scenes, such as the discussion over accomplished women, align closely with Austen's dialogue, many others "substituted instead a mixture of modern idiom and archaic-sounding sentence structure".{{sfn|Wells|2007|}} One alteration concerned politeness; Wright noted that while Austen's work had characters waiting before speaking, he believed that "particularly in big families of girls, everyone tends to speak over each other, finishing each other's sentences, etc. So I felt that the Bennet family's conversations would be overlapping like that."{{sfn|Focus Features Production|2005}} ''Sense and Sensibility'' actress and screenwriter [[Emma Thompson]] aided in script development, though she opted to be uncredited. She advised the nervous Wright on adapting Austen for the screen and made dialogue recommendations, such as with parts of the Collins–Charlotte storyline.{{sfn|Hewitt|2005}}{{sfn|Wright|2005|loc = 55:30–55:44}}
+
+Citing the year Austen first wrote a draft of the novel,{{#tag:ref|Austen wrote a draft of ''First Impressions'' (later renamed ''Pride and Prejudice'') between October 1796 and August 1797.{{sfn|Silvers|Olsen|2011|p=191}}|group="note"}} Wright and Moggach changed the period setting from 1813 (the novel's publication date) to the late 18th century partly because Wright wanted to highlight the differences within an England influenced by the [[French Revolution]],{{sfn|Focus Features Production|2005}}{{sfn|DeGennaro|2005}} as he was fascinated that it had "caused an atmosphere among the British aristocracy of fear".{{sfn|Haun|2005}} Wright also chose the earlier period because he hated dresses with an [[empire silhouette]], which were popular in the later period.{{sfn|Focus Features Production|2005}}{{sfn|DeGennaro|2005}} The decision helped make the film visually distinct from other Austen adaptations.{{sfn|Austen|2008}} In comparison to the popular [[Pride and Prejudice (1995 TV series)|1995 BBC version]], which features [[Colin Firth]] and [[Jennifer Ehle]], producer [[Paul Webster (producer)|Paul Webster]] desired to make an adaptation that "doesn't conform to the television drama stereotypes of a perfect clean Regency world".{{sfn|Focus Features Production|2005}} Wright and Moggach opted for a "muddy hem version" of Longbourn, presenting a more rural setting than previous adaptations{{sfn|Cartmell|2010|p = 11}}{{sfn|Spunberg|2011}} out of a desire to depict the Bennets in "very close proximity to their rural life"{{sfn|DeGennaro|2005}} and to emphasise their relative poverty.{{sfn|Cartmell|2010|p = 86}} While the degree of poverty was criticised by some critics, Wright felt that the "mess adds to the drama of the predicament that the family were in", and helps contrast the Bennets, Darcys, and Bingleys.{{sfn|Woodworth|2007}}
+
+=== Casting ===
+Wright found casting the film difficult because he was very particular about "the types of people I wanted to work with".{{sfn|Fetters}} While interviewing to direct, he insisted that the actors match the ages of the characters in the novel.{{sfn|Haun|2005}} Wright specifically cast actors who had rapport on and off screen, and insisted that they partake in three weeks of rehearsal in improvisation workshops.{{sfn|Hanson|2005}} He also had to balance who he thought was best for each role with what the producers wanted—mainly a big name.{{sfn|Fetters}} Though Wright had not initially pictured someone as attractive as [[Keira Knightley]] as Elizabeth,{{sfn|Hoggard|2005}} he cast her after realising that she "is really a tomboy [and] has a lively mind and a great sense of humour".{{Sfn|Focus Features Production|2005}} On ''[[The Graham Norton Show]]'', Knightley said, "He initially thought I was too pretty, but then he met me and said "Oh, no, you're fine!".<ref>{{Cite news |last=Harrison |first=Lily |date=23 January 2014 |title=Keira Knightley Talks Pride and Prejudice: Director Thought I Was "Too Pretty" for Role |url=https://www.eonline.com/ca/news/502704/keira-knightley-talks-pride-and-prejudice-director-thought-i-was-too-pretty-for-role |access-date=19 February 2026 |publisher=[[E!]]}}</ref><ref>{{Cite news |last=Waters |first=Lowenna |date=23 January 2014 |title=Keira Knightley: 'my most exciting role was on The Bill' |url=https://www.telegraph.co.uk/culture/film/film-news/10589840/Keira-Knightley-my-most-exciting-role-was-on-The-Bill.html |url-access=subscription |archive-url=https://web.archive.org/web/20260103040034/https://www.telegraph.co.uk/culture/film/film-news/10589840/Keira-Knightley-my-most-exciting-role-was-on-The-Bill.html |archive-date=3 January 2026 |access-date=19 February 2026 |work=[[The Daily Telegraph]]}}</ref> Knightley at the time was known for ''[[Bend It Like Beckham]]'' and the ''[[Pirates of the Caribbean (film series)|Pirates of the Caribbean]]'' film series.{{sfn|Austen|2008}} She had been an Austen fan since the age of seven, but initially feared taking the role out of apprehension that she would be doing "an absolute copy of Jennifer Ehle's performance", which she deeply admired.{{sfn|Rojas Weiss|2005}} Knightley believed Elizabeth is "what you aspire to be: she's funny, she's witty and intelligent. She's a fully rounded and very much loved character."{{sfn|Lee|2005}} For the period, she studied etiquette, history and dancing, but ran into trouble when she acquired a short haircut while preparing for her role in the bounty hunter film ''[[Domino (2005 film)|Domino]]''.{{sfn|Rojas Weiss|2005}}
+
+[[File:Bust of Matthew Macfadyen as Fitzwilliam Darcy.jpg|thumb|upright|left|Bust of [[Mr Darcy]] played by [[Matthew Macfadyen]]. [[Keira Knightley]]'s name recognition allowed the casting of Macfadyen, who was little known internationally.]]
+Webster found casting Darcy especially hard due to the character's iconic status and because "Colin Firth cast a very long shadow".{{sfn|Alberge|2004}} Wright later said that casting Knightley allowed him to cast comparative unknown [[Matthew Macfadyen]], which would have been impossible had he chosen a lesser-known actress for Elizabeth.{{sfn|Fetters}} Macfadyen at the time was known for his role in the British television spy series ''[[Spooks (TV series)|Spooks]]'',{{sfn|Alberge|2004}} but had no recognition internationally.{{sfn|Austen|2008}} A fan of his television work,{{sfn|Haun|2005}} Wright called Macfadyen "a proper manly man&nbsp;... I didn't want a pretty boy kind of actor. His properties were the ones I felt I needed [for Darcy]. Matthew's a great big hunk of a guy."{{sfn|Fetters}}
+
+According to Wright, [[Rosamund Pike]] was cast as Jane "because I knew she wasn't going to play her as a nice, simple person. Jane has a real interior world, she has her heart broken".{{sfn|Hoggard|2005}} Despite being Pike's ex-boyfriend, [[Simon Woods]] was cast as her romantic interest, Mr Bingley.{{sfn|Hoggard|2005}} The other three Bennet sisters were played by [[Talulah Riley]], [[Carey Mulligan]], and [[Jena Malone]], the only American actress among them.{{sfn|Focus Features Production|2005}} Wright believed Malone had a "pretty faultless English accent".{{sfn|Wright|2005|loc = 4:10–4:35}} Mulligan heard about the casting call at a dinner hosted by [[Julian Fellowes]], to whom she had written a letter after failing to get into drama school; she won the part after three auditions.{{sfn|Hall|2010}} [[Tamzin Merchant]] appears as Georgiana Darcy; she was hired despite having no previous acting experience after she wrote a letter to the casting director.{{sfn|Focus Features Production|2005}} In addition to Merchant, ''Pride & Prejudice'' was the feature film debut of both Mulligan{{sfn|Roberts|2010}} and Riley.{{sfn|Sutherland|2005|loc = 3:10–3:20}}
+
+[[Donald Sutherland]] reminded Wright of his own father and was cast as Mr Bennet;{{sfn|Wright|2005|loc = 4:10–4:35}} Wright thought Sutherland had the "strength to handle those six women".{{sfn|Hoggard|2005}} [[Brenda Blethyn]] was hired to play Mrs Bennet, whom Moggach considered the film's unsung heroine;{{sfn|Cartmell|2010|p = 63}} he said it was "a tricky part, as she can be very annoying; you want to stop her chattering and shrieking. But Brenda has the humour and the heart to show the amount of love and care Mrs Bennet has for her daughters."{{sfn|Focus Features Production|2005}} Wright convinced [[Judi Dench]] to join the cast as Lady Catherine de Bourgh by writing her a letter that read "I love it when you play a bitch. Please come and be a bitch for me."{{sfn|Dole|2007}}{{sfn|Hoggard|2005}} Dench had only one week available to shoot her scenes, forcing Wright to make them his first days of filming.{{sfn|Hewitt|2005}}{{sfn|Wright|2005|loc = 1:00:05–1:00:15}}
+
+=== Costume design ===
+[[File:Pride & Prejudice (2005) Bennet sisters screenshot.jpg|right|thumb|[[Jacqueline Durran]] designed the Bennet sisters' costumes based on their characters' specific characteristics. From left: Mary, Elizabeth, Jane, Mrs Bennet, Kitty and Lydia.]]
+Known for her [[BAFTA Award]]-winning work on the 2004 film ''[[Vera Drake]]'', [[Jacqueline Durran]] was hired as the costume designer. She and Wright approached his film "as a difficult thing to tackle" because of their desire to distinguish it from the television adaptation. Due to Wright's dislike of the high waistline, Durran focused on later [[1795–1820 in fashion|18th-century fashions]] that often include a [[corset]]ed, natural waistline rather than an [[empire silhouette]] (which became popular after the 1790s).{{sfn|Robey|2006}} A generational divide was established: the older characters dress in mid-18th-century fashions while the young wear "a sort of proto-Regency style of hair and dress".{{sfn|Tandy|2007}}
+
+Durran's costumes also help emphasise the characters' social rank;{{sfn|Wright|2005|loc = 23:40–24:00}} Caroline Bingley, for instance, is introduced in an empire silhouetted dress, clothing that would have then been at the height of fashion.{{sfn|Wright|2005|loc = 7:30–7:40}} Durran said that all the women wear white at the Netherfield Ball due to its contemporary popularity, an idea that Wright credits as his reason for hiring her.{{sfn|Wright|2005|loc = 35:10–35:30}} Costumes and hairstyles were adjusted to appeal to contemporary audiences, sacrificing historical accuracy.{{sfn|Demory|2010|p = 134}}
+
+To help differentiate the Bennet sisters, Durran viewed Elizabeth as the "tomboy", clothing her in earthy colours because of her love of the countryside.{{sfn|Robey|2006}} Of the others, Durran said, "Jane was the most refined and yet it's still all a bit slapdash and homemade, because the Bennets have no money. One of the main things Joe wanted was for the whole thing to have a provincial feel. Mary is the bluestocking: serious and practical. And then Lydia and Kitty are a bit Tweedledum and Tweedledee in a kind of teenage way. I tried to make it so that they'd be sort of mirror images. If one's wearing a green dress, the other will wear a green jacket; so you always have a visual asymmetry between the two."{{sfn|Robey|2006}} In contrast to the 1940 film, the 2005 production clothes the Bennet sisters in worn-down but comfortable dresses.{{sfn|Cartmell|2010|p = 86}}
+
+Mr Darcy's costume went through a series of phases. Durran noted: {{Blockquote|The first time we see him he's at Meriton {{sic}}, where he has a very stiffly tailored jacket on and he's quite contained and rigid. He stays in that rigid form for the first part of the film. By the time we get to the proposal that goes wrong in the rain, we move to a similar cut, but a much softer fabric. And then later he's got a completely different cut of coat, not interlined and he wears it undone. The nth degree is him walking through the mist in the morning, completely undressed by 18th-century standards. It's absolutely unlikely, but then Lizzie's in her nightie, so what can you say?{{sfn|Robey|2006}} }}
+
+=== Filming ===
+[[File:Filming Pride and Prejudice in Stamford Lincolnshire - geograph.org.uk - 61717.jpg|upright|thumb|[[Stamford, Lincolnshire]] represented the fictional village of Meryton.{{sfn|Focus Features Locations|2005}} {{small|(Filming of the militia pictured)}}]]
+Moggach believed the novel was very filmable, "despite it containing no description and being a very unvisual book".{{sfn|Hanson|2005}} To Wright, many other period films had relied on paintings for inspiration rather than photographs, causing them to appear unreal. He thus used Austen's prose to give him "many visual references for the people in the story", including close-up shots of the characters.{{sfn|Focus Features Production|2005}} The filmmakers also changed several scenes to more romantic locales than those in the book. For instance, in the film, Darcy first proposes outdoors in a rainstorm at a building with [[neoclassical architecture]]; in the book, this scene takes place in a parsonage. In the film, his second proposal occurs on the misty moors as dawn breaks;{{sfn|Chan|2007}}{{sfn|Gymnich|Ruhl|Scheunemann|2010|p = 40}} in the book, he and Elizabeth are walking down a country lane in broad daylight.{{sfn|Austen|2006|pp = 392–96}} Wright has acknowledged that "there are a lot of period film clichés; some of them are in the film and some are not, but for me it was important to question them".{{sfn|Focus Features Production|2005}}
+[[File:Pride & Prejudice Exhibit (6319832859).jpg|left|thumb|''Pride & Prejudice'' exhibition in [[Basildon Park]], which was used as the location of Netherfield, home of George Bingley]]
+[[File:Groombridge Place 1.jpg|left|thumb|[[Groombridge Place]] served as the filming location of the Bennet family house]]
+During script development, the crew created a "constant going back and forth between script and location".{{sfn|Hanson|2005}} The film was shot entirely on location in England on an 11-week schedule{{sfn|Elley|2005}}{{sfn|Focus Features Production|2005}} during the 2004 summer.{{sfn|Knightley|2005|loc = 1:25–1:30}} Co-producer Paul Webster said, "it is quite unusual for a movie this size to be shot entirely on location. Part of Joe's idea was to try to create a reality which allows the actors to relax and feel at one with their environment."{{sfn|Focus Features Production|2005}} Working under [[production designer]] [[Sarah Greenwood]] and [[set decorator]] [[Katie Spencer]], the crew filmed on seven estates in six different counties. Because "nothing exists in the United Kingdom that is untouched by the twenty-first century", many of the sites required substantial work to make them suitable for filming.{{sfn|Whitlock|2010|p = 304}} Visual effects company [[Double Negative (VFX)|Double Negative]] digitally restored several locations to make them contemporaneous; they eradicated weeds, enhanced gold plating on window frames, and removed anachronisms such as gravel driveways and electricity pylons. Double Negative also developed the typeface used for the film's title sequence.{{sfn|Desowitz|2005}}
+
+Production staff selected particularly grand-looking residences to better convey certain characters' wealth and power.{{sfn|Silvers|Olsen|2011|p = 194}} Locations include [[Chatsworth House]] in [[Derbyshire]], the largest privately held country house in England, with rooms frescoed by [[Antonio Verrio]]. Many believe Chatsworth House to have been Austen's inspiration for [[Pemberley]].{{sfn|Dole|2007}}{{sfn|Cartmell|2010|p = 89}} Chatsworth and [[Wilton House]] in [[Salisbury]] stood in for it.{{sfn|Holden|2005}}{{sfn|Focus Features Locations|2005}} After a search of various sites in England, the moated manor house [[Groombridge Place]] in [[Kent]] was chosen for Longbourn.{{sfn|Wright|2005|loc = 4:50–4:55}} Location manager Adam Richards said Groombridge had an "immense charm" that was "untouched by post-17th Century development".{{sfn|BBC News|2004}} Reflecting Wright's choice of realism, Groombridge's interior was designed to be "[[shabby chic]]".{{sfn|Whitlock|2010|p = 305}} Representing Netherfield Park was the late-18th-century site [[Basildon Park]] in Berkshire, leading it to close for seven weeks for filming.{{sfn|McGhie|2005}} [[Burghley House]] in Lincolnshire{{Sfn|Holden|2005}}{{sfn|Cartmell|2010|p = 89}} stood in for Rosings, while the adjacent town of [[Stamford, Lincolnshire|Stamford]] served as Meryton. Other locations included [[Haddon Hall]] (for The Inn at Lambton), the Temple of Apollo and Palladian Bridge of [[Stourhead]] (for the Gardens of Rosings), Hunsford (for Collins' parsonage and church) and [[Peak District]] (for Elizabeth and the Gardiners' tour).{{sfn|Focus Features Locations|2005}} The first dance scenes were shot on a set in a potato warehouse in [[Lincolnshire]] with the employment of local townspeople as [[Extra (actor)|extras]];{{sfn|Hanson|2005}} this was the only set the crew built that was not already in existence.{{sfn|Wright|2005|loc = 5:00–5:14, 11:00–11:30}}
+
+=== Music ===
+{{further|Pride & Prejudice (soundtrack)}}
+Italian composer [[Dario Marianelli]] wrote the soundtrack. It is performed by the French pianist [[Jean-Yves Thibaudet]] accompanied by the [[English Chamber Orchestra]].
+
+The early [[piano sonata]]s of [[Ludwig van Beethoven]] "became a point of reference" and "starting point" for the score.{{sfn|Goldwasser|2006}} Some pieces were inspired by the film's period,{{sfn|O'Brien}} with the assumption that they could conceivably have been heard during that time and contained actual dance cues that befitted the late 18th century. Pieces that actors perform were composed first, before filming began.
+
+The soundtrack contains 17 instrumental tracks of music organised in a different way from the film.{{sfn|O'Brien}}
+
+=== Editing ===
+{{Quote box
+| quote = You have to be true to the integrity of the book and to Jane Austen, but then you also have to be quite ruthless. What you don't see, you don't miss&nbsp;... By focusing on Elizabeth Bennett and what's happening to her, and her gruelling and difficult journey, certain things slough off as you go along.
+| source = — Deborah Moggach on editing the film{{sfn|Hanson|2005}}
+| width = 30em
+| align = left
+| bgcolor = #FFFFF0
+}}
+In contrast to the five-hour BBC adaptation,{{sfn|Gilligan|2011}} Wright's film is two hours and nine minutes long.{{sfn|PRNewswire|2006}} He said the film is "obviously about Elizabeth and Darcy, following them, and anything that detracts or diverts you from that story is what you have to cut".{{sfn|Fetters}} Some of the most notable changes from the book include time compression of several major sequences, including the departure of Wickham and the militia, Elizabeth's visit to Rosings Park and Hunsford Parsonage, Elizabeth's visit to Pemberley, Lydia's elopement and subsequent crisis; the elimination of several supporting characters, including Mr and Mrs Hurst, Mr and Mrs Phillips,{{sfn|Spunberg|2011}} Lady and Maria Lucas, Mrs Younge, several of Lydia's friends (including Colonel and Mrs Forster) and various military officers and townspeople;{{sfn|Gilligan|2011}} and the elimination of several sections in which characters reflect or converse on events that have recently occurred—for example, Elizabeth's chapter-long change of mind after reading Darcy's letter.{{sfn|Monaghan|Hudelet|Wiltshire|2009|p = 88}}
+
+{{Anchor|American ending}}Moggach and Wright debated how to end the film, but knew they did not want to have a wedding scene "because we didn't want Elizabeth to come off as the girl who became a queen at this lavish wedding, or for it to be corny".{{sfn|Spunberg|2011}} Shortly before the North American release, the film was modified to include a final scene (not in the novel) of the married Darcys enjoying a romantic evening and passionate kiss at Pemberley{{sfn|Gymnich|Ruhl|Scheunemann|2010|pp = 40–41}}{{sfn|Higson|2011|pp = 172–73}} in an attempt to attract sentimental viewers;{{sfn|Spunberg|2011}} this became a source of complaint for the Jane Austen Society of North America (JASNA). After watching a preview of the film before its wide release, former JASNA president Elsa Solender said, "It has nothing at all of Jane Austen in it, is inconsistent with the first two-thirds of the film, insults the audience with its banality and ought to be cut before release".{{sfn|Wloszczyna|2005}} It had been removed from the British version after preview audiences found it unintentionally humorous,{{sfn|Brownstein|2011|pp = 53}} but later audiences complained that they were excluded from viewing this version, causing the film to be re-released in the UK and Ireland 10 weeks after the original UK premiere.{{sfn|Dawson Edwards|2008|p = 1}}{{sfn|Working Title Films|2005d}} The original British version ends with Mr Bennet's blessing upon Elizabeth and Darcy's union,{{sfn|Dole|2007}} circumventing the novel's last chapter, which summarises the lives of the Darcys and the other main characters over the next several years.{{sfn|Austen|2006|pp = 403–05}}
+
+== Major themes and analysis ==
+
+=== Romanticism and realism ===
+Film, literary, and Austen scholars noted the appearance of romance and [[romanticism]] in ''Pride & Prejudice'', especially in comparison to previous adaptations.{{sfn|Demory|2010|p = 132}} Sarah Ailwood marked the film as "an essentially Romantic interpretation of Austen's novel", citing as evidence Wright's attention to nature as a means to "position Elizabeth and Darcy as Romantic figures&nbsp;... Wright's ''Pride & Prejudice'' takes as its central focus Austen's concern with exploring the nature of the Romantic self and the possibilities for women and men to achieve individual self-fulfillment within an oppressive patriarchal social and economic order."{{sfn|Ailwood|2007}} Likewise, Catherine Stewart-Beer of [[Oxford Brookes University]] called Elizabeth's presence on the Derbyshire cliff a "stunning, magical evocation of Wright's strong stylistic brand of Postmodern Romanticism", but found this less like Austen and more reminiscent of [[Emily Brontë]]'s ''[[Wuthering Heights]]''.{{sfn|Stewart-Beer|2007}} In her analysis, [[University of Provence]] scholar Lydia Martin concluded that the "Romantic bias of the film is shown through the shifts in the characters' relationships, the soundtrack and the treatment of landscape".{{sfn|Martin|2007}}
+
+Realism is a prominent aspect of the film, as Wright confirmed in interviews as well as the DVD audio commentary.{{sfn|Paquet-Deyris|2007}} In a 2007 article, [[Ursinus College]] film studies professor Carole Dole argued that ''Pride & Prejudice'' is "a hybrid that embraces both an irreverent realism to which younger audiences are accustomed (and which reflects the director's realist aesthetic) and the classic [[heritage film]]'s reverence for country houses, attractive landscapes and authentic period detail". Such "irreverent realism" included the depiction of Longbourn as a working farm complete with chickens, cattle and pigs; as Dole explains, "The agricultural realities of 1790s England are equally evident in the enclosed yard with barn and hay where Lizzie twirls barefoot over the mud on a rope swing". Referring to adaptations such as 1999's gritty ''[[Mansfield Park (1999 film)|Mansfield Park]]'', Dole cited ''Pride & Prejudice'' as evidence that the heritage film is still around but has "been transformed into a more flexible genre".{{sfn|Dole|2007}} Jessica Durgan agreed with this assessment, writing that the film "simultaneously reject[s] and embrac[es] heritage to attract a larger audience".{{sfn|Durgan|2007}}
+
+=== Family ===
+Raised with three sisters, Moggach was particularly interested in the story's family dynamics.{{sfn|Focus Features Production|2005}} [[Brock University]] professor Barbara K. Seeber believed that in contrast to the novel, the film emphasises the familial over the romantic. Evidence of this can be seen in how ''Pride & Prejudice'' "significantly recast the Bennet family, in particular its patriarch, presenting Mr Bennet as a sensitive and kind father whose role in the family's misfortunes is continually downplayed."{{sfn|Seeber|2007}} Seeber further observed that the film is "the first to present Mrs Bennet in a sympathetic light", with Mr Bennet displayed as "an attentive husband as well as a loving father."{{sfn|Seeber|2007}}
+
+Stewart-Beer and Austen scholar Sally B. Palmer noted alterations of the depiction of the Bennet family;{{sfn|Palmer|2007}} Stewart-Beer wrote that while their family home "might be chaotic, in this version it is, at heart, a happy home—much happier and much less dysfunctional, than Austen's original version of Longbourn&nbsp;... For one, Mr and Mrs Bennet actually seem to like each other, even love each other, a characterisation which is a far cry from the source text."{{sfn|Stewart-Beer|2007}} Producer Paul Webster acknowledged the familial theme in the DVD featurette "A Bennet Family Portrait", saying, "Yes, it's a great love story between Elizabeth Bennet and Fitzwilliam Darcy, but underpinning it all is the kind of love that runs this family."{{sfn|Seeber|2007}}
+
+=== Depiction of Elizabeth Bennet ===
+Wright intended the film to be "as subjective as possible"; it introduces Darcy only when Elizabeth meets him.{{sfn|Wright|2005|loc = 6:40–6:55}} This focus on Elizabeth's perspective involves some dramatic changes from the novel. Knightley's Elizabeth has an "increasingly aloof and emotionally distant" relationship with her family, as can be seen in her gradual alienation from Jane; in the book, Elizabeth confides more of her feelings to Jane after difficult events.{{sfn|Stewart-Beer|2007}} Wright states in his audio commentary for the film that he wanted to create a "real" relationship between the two and have them grow apart, as he thought the book depicted them as too "syrupy."{{sfn|Wright|2005|loc = 14:00–14:30}} Moggach's intent was for Elizabeth to "keep secrets to herself. They are a great burden to her&nbsp;... As she keeps all this to herself, we feel for her more and more. The truest comedy, I believe, is born from pain."{{sfn|Focus Features Production|2005}}
+
+In her "feisty, impassioned" interactions with Darcy and "rebellious refusal to 'perform{{'"}} for Lady Catherine, Stewart-Beer sees Knightley's depiction as "far removed from Austen's original Elizabeth, who has a greater sense of grounded maturity, even though both Elizabeths have an occasional inclination to fluster, fun and giggles."{{sfn|Stewart-Beer|2007}} According to [[George Washington University]] professor Laurie Kaplan, Wright's focus on Elizabeth is consistent with the novel, but because the screenplay removes her line "Till this moment, I never knew myself", which Kaplan calls Elizabeth's "most important", it "violates not only the spirit and the essence of Austen's story but the viewer's expectations as well."{{sfn|Kaplan|2007}}
+
+== Release ==
+
+=== Marketing ===
+After a string of Jane Austen semi-adaptations in the late 1990s and early 2000s,{{#tag:ref|Recent Austen adaptations included ''[[Mansfield Park (1999 film)|Mansfield Park]]'' (1999), ''[[Bridget Jones's Diary]]'' (2001), ''[[Pride & Prejudice: A Latter-Day Comedy]]'' (2003), and ''[[Bride and Prejudice]]'' (2004).{{sfn|Higson|2011|pp=161–70}}|group="note"}} ''Pride & Prejudice'' was positioned to take audiences "back into the world of period drama and what many saw as a more authentic version of Austen."{{sfn|Higson|2011|p = 170}} While the novel was known to audiences, the large number of related productions required the film to distinguish itself.{{sfn|Dawson Edwards|2008|p = 4}} It was marketed to attract mainstream, young viewers,{{sfn|Troost|2007|p = 87}} with one observer calling it "the ultimate chick-flick romance" and "more commercial than previous big-screen Austen adaptations."{{sfn|Higson|2011|p = 172}} Another wrote that it brings "millennial girlhood to the megaplex&nbsp;... If Ehle's Lizzie is every forty-, or fifty-something's favorite independent, even 'mature,' Austen heroine, Knightley is every twenty-something's sexpot good girl."{{sfn|Sadoff|2010|p = 87}} An [[ampersand]] replaced the word "and" in the film title, similarly to the 1996 [[postmodern]] film ''Romeo + Juliet''.{{sfn|Dole|2007}}
+
+Already a star at the time of release, Knightley was featured in all the film's promotional materials (much like Colin Firth in the 1995 adaptation).{{sfn|Camden|2007}} Several commentators likened the main poster of ''Pride & Prejudice'' to that of 1995's ''Sense and Sensibility'', which was seen as an attempt to attract the same demographic.{{sfn|Cartmell|2010|p = 85}} Advertising noted that the film came "from the producers of ''Bridget Jones's Diary''", a 2001 romantic comedy film, before mentioning Austen.{{sfn|Dole|2007}} Leading up to the release, fans were allowed to download pictures and screensavers online, which emphasised the differences between ''Pride & Prejudice'' and previous adaptations.{{cn|date=May 2026}} Lydia Martin wrote that in contrast to past ''Pride and Prejudice'' productions, marketing materials downplayed the "suggested antagonism between the heroes" in favour of highlighting a "romantic relationship", as can be seen with the positioning of the characters as well as the tagline "Sometimes the last person on earth you want to be with is the one you can't be without."{{sfn|Martin|2007}}
+
+=== Box office ===
+On 11 September 2005, ''Pride & Prejudice'' [[premiered]] at the [[2005 Toronto International Film Festival|Toronto International Film Festival]] as a special Gala Presentation.{{sfn|MTV|2005}}{{sfn|Working Title Films|2005a}} The film was released in cinemas on 16 September in the United Kingdom and Ireland.{{sfn|Papamichael|2005}}{{sfn|Working Title Films|2005b}} It achieved the [[List of 2005 box office number-one films in the United Kingdom|number one spot]] in its first week, grossing £2.5 million ($4.6 million) while playing on 397 screens.{{sfn|Working Title Films|2005c}}{{sfn|Box Office Mojo International Box Office}}{{sfn|UK Film Council|}} The film stayed at the top for two more weeks, grossing by then a total of over £9 million at the UK box office. It was featured on 412 screens at its widest domestic release.{{sfn|UK Film Council}}
+
+In October 2005, the film opened at [[List of 2005 box office number-one films in Australia|number one in Australia]], with an opening weekend gross of $1.6 million.<ref>{{cite magazine|magazine=[[The Hollywood Reporter]]|page=8|title='Wallace' hopping at overseas b.o.|last=Murdoch|first=Blake|date=24 October 2005}}</ref>
+
+On 11 November 2005, the film debuted in the United States with an opening weekend of $2.9 million on 215 screens.{{sfn|Los Angeles Times|2005}} Two weeks later, it played on 1,299 screens and box office returns increased to $7.2 million; the film left cinemas the week of 24 February 2006 with a total US gross of $38,405,088.{{sfn|Box Office Mojo Profile}} Jack Foley, the president of distribution of [[Focus Features]], the film's US distributor, attributed ''Pride & Prejudice''{{'}}s success in America to Austen's appeal to "the [[boomer]] market" and its status as a known "brand".{{sfn|Gray|2005}}
+
+''Pride & Prejudice'' was released in 59 more countries between September 2005 and May 2006 by United International Pictures.{{sfn|Box Office Mojo International Box Office}} With a worldwide gross of $121,147,947, it was the 72nd-highest-grossing film of 2005 in the US and the 41st-highest internationally.{{sfn|Box Office Mojo Profile}}
+
+=== Home media ===
+In the US and UK, [[Universal Studios Home Entertainment]] released the standard [[Videocassette|VHS]] and [[DVD]] in February 2006 for both widescreen and fullframe; attached bonus features included [[audio commentary]] by director Joe Wright, a look into Austen's life and the ending scene of Elizabeth and Darcy kissing.{{sfn|PRNewswire|2006}}{{sfn|Box Office Mojo Profile}}{{sfn|Carrier|2006}} On 13 November 2007, Universal released the deluxe edition DVD to coincide with the theatrical arrival of Wright's 2007 film ''[[Atonement (2007 film)|Atonement]]''. The deluxe edition included both widescreen and fullscreen features, the original soundtrack CD, a collectible book and booklet, as well as a number of special features not included in the original DVD.{{sfn|PRNewswire|2007}} In the US, a Blu-ray version of the film was released by Universal on 26 January 2010, which also contained bonus features.{{sfn|McCutcheon|2009}}
+
+=== 2025 re-release ===
+For its 20th anniversary, film was re-released on 18 April 2025.<ref name=2025rerelease>{{cite web|url=https://www.the-numbers.com/movie/Pride-and-Prejudice-(2005)#tab=box-office|title=Pride & Prejudice (2005)#Box office|publisher=The Numbers.com|accessdate=28 April 2025}}</ref> In addition to the theatrical showing, the soundtrack was released on vinyl.[https://www.focusfeatures.com/article/pride-and-prejudice_20-anniversary_trailer_tickets] The re-release made $5 million by its second weekend.<ref>{{cite web |url=https://collider.com/pride-and-prejudice-theatrical-rerelease-5-million/|title='Pride & Prejudice's Theatrical Re-Release Passes a Modest Milestone|first=Rahul|last=Malhotra|publisher=Collider|date=28 April 2025|accessdate=28 April 2025}}</ref><ref name=2025rerelease />
+
+== Reception ==
+=== Critical response ===
+[[File:Pride and Prejudice 004 (7271339306).jpg|thumb|180px|left|[[Keira Knightley]]'s performance earned the 20-year-old her first nomination for the [[Academy Award for Best Actress]], becoming the [[List of oldest and youngest Academy Award winners and nominees#Youngest nominees 3|third-youngest Best Actress nominee]] at the time.]]
+
+''Pride & Prejudice'' was only the second film version after "the famed, but oddly flawed, black-and-white [[Pride and Prejudice (1940 film)|1940 adaptation]], starring [[Greer Garson]] and [[Laurence Olivier]]",{{sfn|Briscoe|2005}} and until 2005, ''[[The Times]]'' considered the [[Pride and Prejudice (1995 TV series)|1995 television adaptation]] "so dominant, so universally adored, [that] it has lingered in the public consciousness as a cinematic standard".{{sfn|Briscoe|2005}} Wright's film consequently met with some scepticism from Austen's admirers, especially in relation to plot changes and casting choices.{{sfn|Demory|2010|p = 129}} "Any resemblance to scenes and characters created by Miss Austen is, of course, entirely coincidental", mocked ''[[The New Yorker]]'s'' film critic.<ref>Lane, Anthony [https://www.newyorker.com/magazine/2005/11/14/parent-traps "Parent Traps"] {{Webarchive|url=https://web.archive.org/web/20210126185149/https://www.newyorker.com/magazine/2005/11/14/parent-traps |date=26 January 2021 }}, The New Yorker, 14 November 2005</ref> Given Austen's characters were landed gentry, especially criticised was the reimagining of the Bennets as country bumpkins, lacking even the basics of table manners, and their home "a barnyard".<ref>Lane, Anthony "Parent Traps", The New Yorker, 14 November 2005</ref>
+
+Comparing six major adaptations of ''Pride and Prejudice'' in 2005, ''[[The Daily Mirror]]'' gave the only marks of nine out of ten to the 1995 serial and the 2005 film, leaving the other adaptations with six or fewer points.{{sfn|Edwards|2005}} On the review aggregation website [[Rotten Tomatoes]], the film has an approval rating of 87% based on reviews from 186 critics, with an average rating of 7.7/10. The website's consensus reads: "Sure, it's another adaptation of cinema's fave Jane Austen novel, but key performances and a modern filmmaking sensibility make this familiar period piece fresh and enjoyable."{{sfn|Rotten Tomatoes}} On [[Metacritic]] the film has an average score of 82 out of 100, based on 37 reviews.{{sfn|Metacritic}}  Audiences surveyed by [[CinemaScore]] gave the film a grade "A−" on scale of A to F.<ref>{{cite web |url= https://www.cinemascore.com/publicsearch/index/title/ |title= PRIDE AND PREJUDICE (2005) A- |work= [[CinemaScore]] |archive-url= https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= 20 December 2018 }}</ref>
+
+Critics claimed the film's time constraints did not capture the depth and complexity of the television serials{{sfn|Holden|2005}} and called Wright's adaptation "obviously [not as] daring or revisionist" as the serial.{{sfn|Bradshaw|2005}} JASNA president Joan Klingel Ray preferred the young age of Knightley and Macfadyen, saying that Ehle had been "a little too 'heavy' for the role".{{sfn|Hastings|2005}} [[Peter Bradshaw]] of ''[[The Guardian]]'', while praising Knightley for an outstanding performance "which lifts the whole movie", considered the casting of the leads "arguably a little more callow than Firth and Ehle". But he added, "Only a snob, a curmudgeon, or someone with necrophiliac loyalty to the 1995 BBC version with Colin Firth and Jennifer Ehle could fail to enjoy [Knightley's] performance."{{sfn|Bradshaw|2005}} At the time, BBC film critic Stella Papamichael considered it Knightley's "best performance yet".{{sfn|Papamichael|2005}} ''The Daily Telegraph'' critic thought Knightley's acting skills slight, calling her "Someone who radiates little more than good-mannered perkiness", and wrote that between her and Macfadyen there was "little spark".<ref>Sandhu, Sukhdev "A jolly romp to nowhere", The Daily Telegraph (London), 16 September 2005</ref>
+
+Critics were divided about Macfadyen's portrayal of Darcy, expressing pleasant surprise,{{sfn|Hastings|2005}}{{sfn|Gleiberman|2005}} dislike for his lack of gradual emotional shift as in the novel,{{sfn|Hastings|2005}}{{sfn|Time Out|2005}} and praise for his matching the book character's insecurity and sensitivity better than Firth.{{sfn|Holden|2005}}
+
+Critics also drew attention to other aspects of the film. Writing for ''[[The Sydney Morning Herald]]'', [[Sandra Hall (writer)|Sandra Hall]] criticised Wright's attention to realism as "careless with the customs and conventions that were part of the fabric of Austen's world".{{sfn|Hall|2005}} ''[[Time Out (company)|Time Out]]'' magazine lamented the absence of Austen's "brilliant sense of irony", remarking that the film's "romantic melodrama's played up at the expense of her razor-sharp wit."{{sfn|Time Out|2005}} Derek Elley of ''[[Variety (magazine)|Variety]]'' magazine praised Wright and Moggach for "extracting the youthful essence" of the novel while also "providing a richly detailed setting" under Greenwood and Durran's supervision.{{sfn|Elley|2005}} Equally pleased with the film was the ''[[San Francisco Chronicle]]''{{'}}s Ruthe Stein, who wrote that Wright made a "spectacular feature film debut" that is "creatively reimagined and sublimely entertaining".{{sfn|Stein|2005}} Claudia Puig of ''[[USA Today]]'' called it "a stellar adaptation, bewitching the viewer completely and incandescently with an exquisite blend of emotion and wit".{{sfn|Puig|2005}}
+
+=== Accolades ===
+{| class="wikitable sortable" 
+|-
+! Award
+! Category
+! Recipients
+! Result
+|-
+| rowspan="4" | [[Academy Awards]]{{sfn|Academy of Motion Picture Arts and Sciences}}
+| [[Academy Award for Best Actress|Best Actress]]
+| [[Keira Knightley]]
+| {{Nom}}
+|-
+| [[Best Art Direction]]
+| [[Sarah Greenwood]], [[Katie Spencer]]
+| {{Nom}}
+|-
+| [[Academy Award for Best Costume Design|Best Costume Design]]
+| [[Jacqueline Durran]]
+| {{Nom}}
+|-
+| [[Academy Award for Best Original Score|Best Original Score]]
+| [[Dario Marianelli]]
+| {{Nom}}
+|-
+| [[American Cinema Editors]]{{sfn|Soares|2006a}}
+| Best Edited Feature Film – Comedy or Musical
+| Paul Tothill
+| {{Nom}}
+|-
+| [[Boston Society of Film Critics]]{{sfn|Kimmel|2005}}
+| Best New Filmmaker
+| [[Joe Wright]]
+| {{Won}}
+|-
+| rowspan="6" | [[British Academy Film Awards]]{{sfn|British Academy of Film and Television Arts}}{{sfn|Working Title Films|2006}}
+| [[BAFTA Award for Best British Film|Best British Film]]
+| ''Pride & Prejudice''
+| {{Nom}}
+|-
+| [[BAFTA Award for Best Actress in a Supporting Role|Best Actress in a Supporting Role]]
+| [[Brenda Blethyn]]
+| {{Nom}}
+|-
+| Most Promising Newcomer
+| Joe Wright
+| {{Won}}
+|-
+| [[BAFTA Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| [[Deborah Moggach]]
+| {{Nom}}
+|-
+| [[BAFTA Award for Best Costume Design|Best Costume Design]]
+| Jacqueline Durran
+| {{Nom}}
+|-
+| [[BAFTA Award for Best Makeup & Hair|Best Makeup & Hair]]
+| Fae Hammond
+| {{Nom}}
+|-
+| [[Broadcast Film Critics Association]]{{sfn|Broadcast Film Critics Awards 2006}}
+| Best Actress
+| Keira Knightley
+| {{Nom}}
+|-
+| rowspan="4" | [[Chicago Film Critics Association]]{{sfn|Soares|2006b}}
+| [[Chicago Film Critics Association Award for Best Actress|Best Actress]]
+| Keira Knightley
+| {{Nom}}
+|-
+| Best Cinematography
+| [[Roman Osin]]
+| {{Nom}}
+|-
+| [[Chicago Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Donald Sutherland]]
+| {{Nom}}
+|-
+| Most Promising Filmmaker
+| Joe Wright
+| {{Nom}}
+|-
+| rowspan="3" | [[Empire Awards]]{{sfn|Empire Awards 2006}}
+| [[Empire Award for Best Actress|Best Actress]]
+| Keira Knightley
+| {{Nom}}
+|-
+| Best British Film
+| ''Pride & Prejudice''
+| {{Won}}
+|-
+| [[Empire Award for Best Director|Best Director]]
+| Joe Wright
+| {{Nom}}
+|-
+| rowspan="3" | [[European Film Awards]]{{sfn|Soares|2006c}}
+| [[European Film Award for Best Cinematographer|Best Cinematographer]]
+| Roman Osin
+| {{Nom}}
+|-
+| [[European Film Award for Best Composer|Best Composer]]
+| Dario Marianelli
+| {{Nom}}
+|-
+| [[European Film Award for Best Film|Best Film]]
+| Joe Wright
+| {{Nom}}
+|-
+| rowspan="2" | [[Golden Globe Award]]s{{sfn|Hollywood Foreign Press Association|2005}}
+| [[Golden Globe Award for Best Actress – Motion Picture Musical or Comedy|Best Actress – Motion Picture Musical or Comedy]]
+| Keira Knightley
+| {{Nom}}
+|-
+| [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Film – Musical or Comedy]]
+| ''Pride & Prejudice''
+| {{Nom}}
+|-
+| rowspan="8" | [[London Film Critics' Circle]]{{sfn|Barraclough|2005}}
+| [[London Film Critics Circle Award for Actress of the Year|British Actress of the Year]]
+| Keira Knightley
+| {{Nom}}
+|-
+| [[London Film Critics Circle Award for Director of the Year|British Director of the Year]]
+| Joe Wright
+| {{Won}}
+|-
+| [[London Film Critics Circle Award for Film of the Year|British Film of the Year]]
+| ''Pride & Prejudice''
+| {{Nom}}
+|-
+| British Newcomer of the Year
+| [[Matthew Macfadyen]]
+| {{Nom}}
+|-
+| British Newcomer of the Year
+| Joe Wright
+| {{Nom}}
+|-
+| British Supporting Actor of the Year
+| [[Tom Hollander]]
+| {{Won}}
+|-
+| British Supporting Actress of the Year
+| Brenda Blethyn
+| {{Nom}}
+|-
+| British Supporting Actress of the Year
+| [[Rosamund Pike]]
+| {{Nom}}
+|}
+
+== Influence and legacy ==
+Three years after the release, Knightley was still associated with Elizabeth Bennet among a generation of young viewers who had not seen the 1995 production.{{sfn|Wells|2008|pp = 109–110}} Given the varied opinions about the film, [[The Jane Austen Society of North America]] (JASNA) published a special issue of its online journal, ''Persuasions On-Line'', in 2007 presenting the collaboration of 19 Austen scholars from six countries; the intent was to foster discussion and stimulate scholarly analysis.{{cn|date=May 2026}}<!--Which of the three citations following supports this sentence?--> JASNA had done this only once before, for the 1996 film ''[[Emma (1996 theatrical film)|Emma]]''.{{sfn|Camden|2007}}{{sfn|Camden|Ford|2007}}{{sfn|Copeland|McMaster|2011|p = 257}}
+
+''Pride & Prejudice'' influenced later productions in the costume drama and heritage film genres.{{cn|date=May 2026}}<!--This sentence not in Sabine; source it, and provide a quote, at least in the citation.--> Literary critics protested that Wright's adaptation effectively "popularized Austen's celebrated romance and brought her novel to the screen as an easy visual read for an undemanding mainstream audience".{{sfn|Sabine|2008}} Carole Dole wrote that the film's success "only made it more likely that future adaptations of Austen will feature, if not necessarily mud, then at least youthful and market-tested performers and youth-orientated filmmaking techniques balanced with the visual pleasures of the heritage film." She cited [[Anne Hathaway]] in the 2007 film ''[[Becoming Jane]]'' as an example.{{sfn|Dole|2007}} Jessica Durgan added that ''Pride & Prejudice'' conceived a new hybrid genre by rejecting the visual cues of the heritage film, which attracted "youth and mainstream audiences without alienating the majority of heritage fans".{{sfn|Durgan|2007}}
+
+Production of ''Pride & Prejudice'' began Wright's relationship with Working Title Films, the first of four collaborations.{{sfn|Working Title Films|2011}} Many members of the film's cast and crew joined Wright in his later efforts.{{says who|date=May 2026}}{{or|date=May 2026}} For his adaptation of ''Atonement'', which he viewed as "a direct reaction to ''Pride & Prejudice''",{{sfn|Wloszczyna|2007}} Wright hired Knightley, Blethyn, Marianelli, Thibaudet, Greenwood, and Durran.{{sfn|Wells|2008|p = 110}} ''Atonement'' has been noted to contain themes similar to Austen's, including the notion of a young writer living in "an isolated English country house" who "mixes up desires and fantasies, truths and fiction".{{sfn|Brownstein|2011|pp = 53}} Wright's 2009 film ''[[The Soloist]]'' included Hollander, Malone, and Marianelli,{{sfn|Monger}}{{sfn|Bradshaw|2009}}{{sfn|Pham|2010}} and Hollander was also featured in ''[[Hanna (film)|Hanna]]'' (2011).{{sfn|McCarthy|2011}} Wright's [[Anna Karenina (2012 film)|2012 adaptation]] of ''[[Anna Karenina]]'' features Knightley, Macfadyen, Marianelli, Durran, and Greenwood and is produced by Bevan, [[Eric Fellner]], and Webster.{{sfn|Working Title Films|2011}}
+
+<!--In December 2017, [[Netflix]] announced that a person from Chile watched ''Pride & Prejudice'' 278 times that year.{{sfn|Villa|2017}} It was later reported that the person was a 51-year-old woman, who declared herself "obsessed" with the film and saw Elizabeth Bennet as "a feminist icon".{{sfn|Gutiérrez|2017}}-->In July 2025, the film ranked fiftieth on the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century".<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |date=2 July 2025 |access-date=2 July 2025}}</ref>
+
+==See also==
+* [[Jane Austen in popular culture]]
+* [[Janeite]]
+* [[List of literary adaptations of Pride and Prejudice|List of literary adaptations of ''Pride and Prejudice'']]
+* [[2005 in film]]
+* [[List of British films of 2005]]
+* [[List of oldest and youngest Academy Award winners and nominees#Youngest nominees 3|List of oldest and youngest Academy Award winners and nominees – Youngest nominees for Best Actress in a Leading Role]]
+* [[78th Academy Awards]]
+* [[63rd Golden Globe Awards]]
+* [[59th British Academy Film Awards]]
+
+==Notes==
+{{Reflist|group="note"}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+===Books===
+{{Refbegin|30em}}
+* {{cite book |title=True to the Spirit: Film Adaptation and the Question of Fidelity |last=Andrew|first=Dudley |publisher=Oxford University Press |others=Colin MacCabe, Rick Warner, Kathleen Murray (editors) |year=2011 |isbn=978-0-19-537467-4|pages=27–40 |chapter=The Economies of Adaptation|author-link=Dudley Andrew }}
+* {{cite book|title=Jane Austen: Complete and Unabridged |last=Austen |first=Jane |publisher=Barnes & Noble Publishing, Inc |others=Sarah S.G. Frantz (editor) |year=2006 |isbn=0-7607-7401-3 |author-link=Jane Austen }}
+* {{cite book |url=https://books.google.com/books?id=obMP1xBBhh8C |title=''Pride and Prejudice'': A Penguin Enhanced e-Book Classic |last=Austen |first=Jane |publisher=Penguin Classics |others=Vivian Jones, Tony Tanner, Juliette Wells (editors) |year=2008 |isbn=978-0-14-143951-8 |author-link=Jane Austen |url-status=live |archive-url=https://web.archive.org/web/20140627142013/http://books.google.com/books?id=obMP1xBBhh8C&printsec=frontcover |archive-date=27 June 2014 }}
+* {{cite book |title=Why Jane Austen? |last=Brownstein |first=Rachel M. |publisher=Columbia University Press |year=2011 |isbn=978-0-231-15390-4 |url-access=registration |url=https://archive.org/details/whyjaneausten0000brow }}
+* {{cite book |url=https://books.google.com/books?id=J6TG62AsSJQC |title=Screen Adaptations: Jane Austen's ''Pride and Prejudice'': A Close Study of the Relationship between Text and Film |last=Cartmell |first=Deborah |publisher=A&C Black Publishers Ltd |year=2010 |isbn=978-1-4081-0593-1 |access-date=24 October 2020 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004425/https://books.google.com/books?id=J6TG62AsSJQC |url-status=live }}
+* {{cite book|title=The Cambridge Companion to Jane Austen |last2=McMaster |first2=Juliet |publisher=Cambridge University Press |year=2011 |isbn=978-0-521-74650-2 |first1=Edward | last1=Copeland }}
+* {{cite book |title=Corporate Fictions: Film Adaptation and Authorship in the Classical Hollywood Era |last=Dawson Edwards |first=Kyle |year=2008 |isbn=978-0-549-38632-2 }}
+* {{cite book |url=https://books.google.com/books?id=6ytXyIw7Lg4C |title=Adaptation Studies: New Approaches |last=Demory |first=Pamela |publisher=Rosemont Publishing & Printing Corp |others=Christa Albrecht-Crane, Dennis Cutchins (editors) |year=2010 |isbn=978-0-8386-4262-7 |pages=121–149 |chapter=Jane Austen and the Chick Flick in the Twenty-first Century |access-date=24 October 2020 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004425/https://books.google.com/books?id=6ytXyIw7Lg4C |url-status=live }}
+* {{cite book |url=https://books.google.com/books?id=VWcRp0Xy41IC&q=Lanedo+GmbH |title=Gendered (Re)Visions: Constructions of Gender in Audiovisual Media |last2=Ruhl |first2=Kathrin |last3=Scheunemann |first3=Klaus |publisher=Bonn University Press |year=2010 |isbn=978-3-89971-662-7 |pages=23–44 |chapter=Revisiting the Classical Romance: ''Pride and Prejudice'', ''Bridget Jones's Diary'' and ''Bride and Prejudice'' |last1=Gymnich |first1=Marion |access-date=24 October 2020 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004432/https://books.google.com/books?id=VWcRp0Xy41IC&q=Lanedo+GmbH |url-status=live }}
+* {{cite book|title=Film England: Culturally English Filmmaking Since the 1990s | last=Higson|first=Andrew|publisher=I.B. Tauris |year=2011 |isbn=978-1-84885-454-3 }}
+* {{cite book |url=https://books.google.com/books?id=0EPYqh8C2VgC |title=The Cinematic Jane Austen: Essays on the Filmic Sensibility of the Novels |last2=Hudelet |first2=Ariane |last3=Wiltshire |first3=John |publisher=McFarland & Company, Inc., Publishers |year=2009 |isbn=978-0-7864-3506-7 |first1=David |last1=Monaghan |access-date=24 October 2020 |archive-date=22 June 2021 |archive-url=https://web.archive.org/web/20210622233102/https://books.google.com/books?id=0EPYqh8C2VgC |url-status=live }}
+* {{cite book |title=Conjuring the Real: The Role of Architecture in Eighteenth- And Nineteenth-Century Fiction |last2=Olsen |first2=Toby D.|publisher=University of Nebraska Press |others=Rumiko Handa, James Potter (editors), [[Iain Borden]] (foreword) |year=2011 |isbn=978-0-8032-1743-0 |pages=191–214 |chapter=''Pride and Prejudice'': Establishing Historical Connections Among the Arts |last1=Silvers|first1=Josh}}
+* {{cite book |title=The Cambridge Companion to Literature on Screen |last=Troost|first=Linda V. |publisher=Cambridge University Press |others=Deborah Cartmell, Imelda Whelehan (editors) |year=2007 |isbn=978-0-521-61486-3|pages=75–89 |chapter=The Nineteenth-Century Novel on Film: Jane Austen}}
+* {{cite book|title=Designs on Film: A Century of Hollywood Art Direction | last=Whitlock|first=Cathy |publisher=HarperCollins Publishers |year=2010 |isbn=978-0-06-088122-1 }}
+{{Refend}}
+
+===Essays and journals===
+{{Refbegin|30em}}
+* {{cite journal |last=Ailwood |first=Sarah |date=Summer 2007 |title=What Are Men to Rocks and Mountains?' Romanticism in Joe Wright's ''Pride & Prejudice'' |url=http://www.jasna.org/persuasions/on-line/vol27no2/ailwood.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=10 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120125055355/http://www.jasna.org/persuasions/on-line/vol27no2/ailwood.htm |archive-date=25 January 2012}}
+* {{cite journal |last=Camden |first=Jen |date=Summer 2007 |title=Sex and the Scullery: The New ''Pride & Prejudice'' |url=http://www.jasna.org/persuasions/on-line/vol27no2/camden.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=11 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20110829231756/http://www.jasna.org/persuasions/on-line/vol27no2/camden.htm |archive-date=29 August 2011}}
+* {{cite journal |last2=Ford |first2=Susan Allen |date=Summer 2007 |title=Something new to be observed&nbsp;... for ever |url=http://www.jasna.org/persuasions/on-line/vol27no2/editors.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |last1=Camden |first1=Jen |access-date=3 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20110626001010/http://jasna.org/persuasions/on-line/vol27no2/editors.htm |archive-date=26 June 2011}}
+* {{cite journal |last=Chan |first=Mary |date=Summer 2007 |title=Location, Location, Location: The Spaces of ''Pride & Prejudice'' |url=http://www.jasna.org/persuasions/on-line/vol27no2/chan.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=27 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120614204131/http://www.jasna.org/persuasions/on-line/vol27no2/chan.htm |archive-date=14 June 2012}}
+* {{cite journal |last=Dole |first=Carole |date=Summer 2007 |title=Jane Austen and Mud: ''Pride & Prejudice'' (2005), British Realism and the Heritage Film |url=http://www.jasna.org/persuasions/on-line/vol27no2/dole.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=10 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20110626000953/http://jasna.org/persuasions/on-line/vol27no2/dole.htm |archive-date=26 June 2011}}
+* {{cite journal |last=Durgan |first=Jessica |date=Summer 2007 |title=Framing Heritage: The Role of Cinematography in ''Pride & Prejudice'' |url=http://www.jasna.org/persuasions/on-line/vol27no2/durgan.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=11 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20110822131300/http://www.jasna.org/persuasions/on-line/vol27no2/durgan.htm |archive-date=22 August 2011}}
+* {{cite journal |last=Gilligan |first=Kathleen E. |year=2011 |title=Jane Austen's Unnamed Character: Exploring Nature in ''Pride and Prejudice'' (2005) |url=http://www.studentpulse.com/articles/599/jane-austens-unnamed-character-exploring-nature-in-pride-and-prejudice-2005 |journal=Student Pulse |volume=3 |issue=12 |access-date=29 April 2012 |url-status=live |archive-url=https://web.archive.org/web/20121124230805/http://www.studentpulse.com/articles/599/jane-austens-unnamed-character-exploring-nature-in-pride-and-prejudice-2005 |archive-date=24 November 2012}}
+* {{cite journal |last=Kaplan |first=Laurie |date=Summer 2007 |title=Inside Out/Outside In: ''Pride & Prejudice'' on Film 2005 |url=http://www.jasna.org/persuasions/on-line/vol27no2/kaplan.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=27 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120120205652/http://www.jasna.org/persuasions/on-line/vol27no2/kaplan.htm |archive-date=20 January 2012}}
+* {{cite journal |last=Martin |first=Lydia |date=Summer 2007 |title=Joe Wright's ''Pride & Prejudice'': From Classicism to Romanticism |url=http://www.jasna.org/persuasions/on-line/vol27no2/kaplan.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=2 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20120120205652/http://www.jasna.org/persuasions/on-line/vol27no2/kaplan.htm |archive-date=20 January 2012}}
+* {{cite journal |last=Palmer |first=Sally B. |date=Summer 2007 |title=Little Women at Longbourn: The Re-Wrighting of ''Pride and Prejudice'' |url=http://www.jasna.org/persuasions/on-line/vol27no2/palmer.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=27 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20110626000929/http://jasna.org/persuasions/on-line/vol27no2/palmer.htm |archive-date=26 June 2011}}
+* {{cite journal |last=Paquet-Deyris |first=Anne-Marie |date=Summer 2007 |title=Staging intimacy and interiority in Joe Wright's ''Pride & Prejudice'' (2005) |url=http://www.jasna.org/persuasions/on-line/vol27no2/paquet-deyris.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=27 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20101126002510/http://jasna.org/persuasions/on-line/vol27no2/paquet-deyris.htm |archive-date=26 November 2010}}
+* {{cite journal |last=Sabine |first=Maureen |date=Fall 2008 |title=With My Body I Thee Worship: Joe Wright's Erotic Vision in ''Pride & Prejudice'' (2005) |url=https://www.usask.ca/relst/jrpc/art20-bodyworship.html |journal=[[Journal of Religion and Popular Culture]] |volume=20 |page=5 |doi=10.3138/jrpc.20.1.005 |access-date=12 March 2012 |archive-url=https://web.archive.org/web/20110921040811/http://www.usask.ca/relst/jrpc/art20-bodyworship.html |archive-date=21 September 2011 |url-access=subscription}}
+* {{cite journal |last=Sadoff |first=Dianne F. |date=Spring 2010 |title=Marketing Jane Austen at the Megaplex |journal=Novel: A Forum on Fiction |volume=43 |issue=1 |pages=83–92 |doi=10.1215/00295132-2009-067}}
+* {{cite journal |last=Seeber |first=Barbara K. |date=Summer 2007 |title=A Bennet Utopia: Adapting the Father in ''Pride and Prejudice'' |url=http://www.jasna.org/persuasions/on-line/vol27no2/seeber.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=10 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120108191929/http://www.jasna.org/persuasions/on-line/vol27no2/seeber.htm |archive-date=8 January 2012}}
+* {{cite journal |last=Stewart-Beer |first=Catherine |date=Summer 2007 |title=Style over Substance? ''Pride & Prejudice'' (2005) Proves Itself a Film for Our Time |url=http://www.jasna.org/persuasions/on-line/vol27no2/stewart-beer.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=26 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20110626000946/http://jasna.org/persuasions/on-line/vol27no2/stewart-beer.htm |archive-date=26 June 2011}}
+* {{cite journal |last=Tandy |first=Ann M. |date=Summer 2007 |title='Just What a Young Man Ought to Be': The 2005 ''Pride & Prejudice'' and Transitional Ideas of Gentility |url=http://www.jasna.org/persuasions/on-line/vol27no2/tandy.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=8 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20110626001035/http://jasna.org/persuasions/on-line/vol27no2/tandy.htm |archive-date=26 June 2011}}
+* {{cite journal |last=Wells |first=Juliette |date=Summer 2007 |title=A Fearsome Thing to Behold'? The Accomplished Woman in Joe Wright's 'Pride & Prejudice' |url=http://www.jasna.org/persuasions/on-line/vol27no2/wells.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=10 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20120516125558/http://www.jasna.org/persuasions/on-line/vol27no2/wells.htm |archive-date=16 May 2012}}
+* {{cite journal |last=Wells |first=Juliette |year=2008 |title=Shades of Austen in Ian McEwan's ''Atonement'' |url=http://www.jasna.org/persuasions/printed/number30/wells.pdf |journal=New Directions in Austen Studies |volume=30 |issue=2 |pages=101–112 |access-date=12 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20110625231718/http://jasna.org/persuasions/printed/number30/wells.pdf |archive-date=25 June 2011}}
+* {{cite journal |last=Woodworth |first=Megan |date=Summer 2007 |title='I am a gentleman's daughter'? Translating Class from Austen's Page to the Twenty-first-century Screen |url=http://www.jasna.org/persuasions/on-line/vol27no2/woodworth.htm |journal=Persuasions On-Line |publisher=Jane Austen Society of North America |volume=27 |issue=2 |access-date=8 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20110626000918/http://jasna.org/persuasions/on-line/vol27no2/woodworth.htm |archive-date=26 June 2011}}
+{{Refend}}
+
+===Interviews===
+{{Refbegin|30em}}
+* {{cite web |url=http://voices.yahoo.com/interview-pride-prejudice-director-joe-10916.html |title=Interview with New ''Pride and Prejudice'' Director Joe Wright |last=DeGennaro |first=Alexa |date=12 November 2005 |publisher=[[Yahoo!]] |access-date=16 January 2012 |archive-url=https://web.archive.org/web/20140205062247/http://voices.yahoo.com/interview-pride-prejudice-director-joe-10916.html |archive-date=5 February 2014}}
+* {{cite web |url=http://www.moviefreak.com/features/interviews/joewright.htm |title=It's Austen All Over Again |last=Fetters |first=Sara Michelle |publisher=MovieFreak.com |access-date=10 January 2012 |archive-url=https://web.archive.org/web/20120106195656/http://www.moviefreak.com/features/interviews/joewright.htm |archive-date=6 January 2012}}
+* {{cite web |url=http://www.soundtrack.net/features/article/?id=187 |title=Interview – Dario Marianelli |last=Goldwasser |first=Dan |date=March 2006 |publisher=[[Soundtrack.net]] |access-date=16 January 2012 |url-status=live |archive-url=https://web.archive.org/web/20100616232856/http://www.soundtrack.net/features/article/?id=187 |archive-date=16 June 2010}}
+* {{cite web |url=http://www.scriptfactory.co.uk/go/Training/Extract_282.html |title=A masterclass with Deborah Moggach & Joe Wright |last=Hanson |first=Briony |date=13 September 2005 |ref={{sfnRef|Hanson|2005}} |work=The Script Factory |author2=David Benedict |access-date=27 May 2012 |archive-url=https://web.archive.org/web/20100811031022/http://www.scriptfactory.co.uk/go/Training/Extract_282.html |archive-date=11 August 2010}}
+* {{cite news |title=Unlikely Director Brought New Approach to ''Pride & Prejudice'' |last=Hewitt |first=Chris |date=9 November 2005 |newspaper=[[Ottawa Citizen]] |id={{ProQuest|240921209}}}}
+* {{cite news |url=https://www.theguardian.com/film/2005/sep/11/features.review |title=Meet the puppet master |last=Hoggard |first=Liz |date=10 September 2005 |work=[[The Guardian]] |access-date=12 January 2012 |url-status=live |archive-url=https://web.archive.org/web/20140205081441/http://www.theguardian.com/film/2005/sep/11/features.review |archive-date=5 February 2014}}
+* {{cite web |url=https://www.bbc.co.uk/films/2005/09/14/keira_knightley_pride_and_prejudice_interview.shtml |title=BBC – Movies – interview – Keira Knightley |last=Lee |first=Alana |date=September 2005 |publisher=[[BBC]] |access-date=5 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20121104204230/http://www.bbc.co.uk/films/2005/09/14/keira_knightley_pride_and_prejudice_interview.shtml |archive-date=4 November 2012}}
+* {{cite news |url=https://www.telegraph.co.uk/culture/film/3649828/How-I-undressed-Mr-Darcy.html |title=How I undressed Mr Darcy |last=Robey |first=Tim |date=3 February 2006 |work=[[The Daily Telegraph]] |access-date=10 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120116082450/http://www.telegraph.co.uk/culture/film/3649828/How-I-undressed-Mr-Darcy.html |archive-date=16 January 2012}}
+* {{cite web |url=http://www.picktainment.com/blog/2011/04/scripting-pride-prejudice-with-deborah-moggach-part-i/ |title=Scripting ''Pride & Prejudice'' with Deborah Moggach |last=Spunberg |first=Adam |date=1 April 2011 |publisher=Picktainment.com |access-date=14 March 2012 |archive-url=https://web.archive.org/web/20120315145536/http://www.picktainment.com/blog/2011/04/scripting-pride-prejudice-with-deborah-moggach-part-i/ |archive-date=15 March 2012}}
+{{Refend}}
+
+===Newspaper and magazine articles===
+{{Refbegin|30em}}
+* {{cite news |title=Hunt for Darcy nets star of TV spy drama |last=Alberge |first=Dalya |date=11 June 2004 |work=[[The Times]] |id={{ProQuest|319106084}}}} {{subscription required}}
+* {{cite news |url=https://news.bbc.co.uk/2/hi/uk_news/england/kent/3906447.stm |title=Austen story filmed at old house |date=19 July 2004 |work=[[BBC News]] |ref={{sfnRef|BBC News|2004}} |access-date=3 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20140222030901/http://news.bbc.co.uk/2/hi/uk_news/england/kent/3906447.stm |archive-date=22 February 2014}}
+* {{cite news |url=https://variety.com/2005/film/awards/pride-of-crix-kudos-1117935025/ |title=''Pride'' of crix kudos |last=Barraclough |first=Leo |date=21 December 2005 |work=[[Variety (magazine)|Variety]] |access-date=25 April 2012 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004427/https://variety.com/2005/film/awards/pride-of-crix-kudos-1117935025/ |url-status=live}}
+* {{cite news |url=https://www.theguardian.com/culture/2005/sep/16/2 |title=Pride & Prejudice |last=Bradshaw |first=Peter |date=16 September 2005 |work=[[The Guardian]] |author-link=Peter Bradshaw |access-date=2 June 2008 |url-status=live |archive-url=https://web.archive.org/web/20080610033446/http://film.guardian.co.uk/News_Story/Critic_Review/Guardian_review/0%2C%2C1570740%2C00.html |archive-date=10 June 2008}}
+* {{cite news |url=https://www.theguardian.com/film/2009/sep/25/the-soloist-review |title=The Soloist |last=Bradshaw |first=Peter |date=25 September 2009 |work=[[The Guardian]] |author-link=Peter Bradshaw |access-date=29 April 2012 |url-status=live |archive-url=https://web.archive.org/web/20131008001750/http://www.theguardian.com/film/2009/sep/25/the-soloist-review |archive-date=8 October 2013}}
+* {{cite news |url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article549627.ece |title=A costume drama with muddy hems |last=Briscoe |first=Joanna |date=31 July 2005 |work=[[The Times]] |author-link=Joanna Briscoe |access-date=2 June 2008 |url-status=dead |archive-url=https://web.archive.org/web/20110615225939/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article549627.ece |archive-date=15 June 2011}}
+* {{cite news |url=http://0-www.lexisnexis.com.libus.csd.mu.edu/lnacui2api/api/version1/getDocCui?lni=4BGY-JV30-0006-73JR&csi=139224&hl=t&hv=t&hnsd=f&hns=t&hgn=t&oc=00240&perma=true |title=London Eye |last=Dawtrey |first=Adam |date=19 January 2004 |work=[[Variety (magazine)|Variety]] |access-date=11 June 2012 |archive-date=14 December 2012 |archive-url=https://archive.today/20121214215748/http://0-www.lexisnexis.com.libus.csd.mu.edu/lnacui2api/api/version1/getDocCui?lni=4BGY-JV30-0006-73JR&csi=139224&hl=t&hv=t&hnsd=f&hns=t&hgn=t&oc=00240&perma=true |url-status=live}}{{Subscription required}}
+* {{cite news |url=https://www.questia.com/read/1G1-135957209 |title=Pride and Passion |last=Edwards |first=David |date=9 September 2005 |work=[[Daily Mirror]] |access-date=4 June 2012 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004430/https://www.gale.com/databases/questia |url-status=live}}
+* {{cite news |url=https://www.variety.com/review/VE1117928133/ |title=''Pride & Prejudice'' (U.K.–U.S.) |last=Elley |first=Derek |date=11 September 2005 |work=[[Variety (magazine)|Variety]] |access-date=26 February 2012 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004429/https://variety.com/2005/film/awards/pride-prejudice-2-1200523317/ |url-status=live}}
+* {{cite magazine |url=https://www.ew.com/ew/article/0,,1127830,00.html |title=''Pride & Prejudice'' (2005) |last=Gleiberman |first=Owen |date=9 November 2005 |magazine=[[Entertainment Weekly]] |author-link=Owen Gleiberman |access-date=29 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120604015122/http://www.ew.com/ew/article/0%2C%2C1127830%2C00.html |archive-date=4 June 2012}}
+* {{cite news |url=https://www.smh.com.au/news/film-reviews/pride-and-prejudice/2005/10/20/1129775887559.html |title=Pride and Prejudice |last=Hall |first=Sandra |author-link=Sandra Hall (writer) |date=20 October 2005 |work=[[The Sydney Morning Herald]] |access-date=29 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20120630023034/http://www.smh.com.au/news/film-reviews/pride-and-prejudice/2005/10/20/1129775887559.html |archive-date=30 June 2012}}
+* {{cite news |url=https://www.telegraph.co.uk/news/uknews/1497098/Colin-Firth-was-born-to-play-Mr-Darcy.-So-can-anyone-else-shine-in-the-lead-role.html |title=Colin Firth was born to play Mr Darcy. So can anyone else shine in the lead role? |last=Hastings |first=Chris |date=8 August 2005 |work=[[The Daily Telegraph]] |access-date=3 June 2008 |url-status=live |archive-url=https://web.archive.org/web/20080627154836/http://www.telegraph.co.uk/news/uknews/1497098/Colin-Firth-was-born-to-play-Mr-Darcy.-So-can-anyone-else-shine-in-the-lead-role.html |archive-date=27 June 2008}}
+* {{cite journal |last=Haun |first=Harry |date=1 November 2005 |title=Austentatious Debut |url=http://www.filmjournal.com/filmjournal/esearch/article_display.jsp?vnu_content_id=1001349092 |journal=[[Film Journal International]] |access-date=14 March 2012 |archive-url=https://web.archive.org/web/20140205084611/http://www.filmjournal.com/filmjournal/esearch/article_display.jsp?vnu_content_id=1001349092 |archive-date=5 February 2014}}
+* {{cite news |url=https://movies.nytimes.com/2005/11/11/movies/11prid.html |title=Marrying Off Those Bennet Sisters Again, but This Time Elizabeth Is a Looker |last=Holden |first=Stephen |date=11 November 2005 |work=[[The New York Times]] |author-link=Stephen Holden |access-date=8 January 2012 |url-status=live |archive-url=https://archive.today/20120213153638/http://movies.nytimes.com/2005/11/11/movies/11prid.html |archive-date=13 February 2012}}
+* {{cite news |url=https://variety.com/2005/film/awards/boston-film-crix-hail-brokeback-capote-1117934415/ |title=Boston film crix hail ''Brokeback,'' ''Capote'' |last=Kimmel |first=Daniel M. |date=11 December 2005 |work=[[Variety (magazine)|Variety]] |author-link=Daniel M. Kimmel |access-date=11 May 2020 |archive-date=4 December 2020 |archive-url=https://web.archive.org/web/20201204091134/https://variety.com/2005/film/awards/boston-film-crix-hail-brokeback-capote-1117934415/ |url-status=live}}
+* {{cite news |url=https://www.telegraph.co.uk/property/3344239/A-house-in-want-of-a-fortune.html |title=A house in want of a fortune |last=McGhie |first=Caroline |date=24 August 2005 |work=[[The Daily Telegraph]] |access-date=3 March 2012 |archive-url=https://web.archive.org/web/20130623102757/http://www.telegraph.co.uk/property/3344239/A-house-in-want-of-a-fortune.html |archive-date=23 June 2013}}
+* {{cite news |url=https://www.bbc.co.uk/films/2005/08/19/pride_and_prejudice_2005_review.shtml |title=''Pride & Prejudice'' (2005) |last=Papamichael |first=Stella |date=16 September 2005 |publisher=[[BBC]] |access-date=25 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20110123072159/http://www.bbc.co.uk/films/2005/08/19/pride_and_prejudice_2005_review.shtml |archive-date=23 January 2011}}
+* {{cite news |url=https://www.latimes.com/archives/la-xpm-2010-jul-24-la-et-comic-con-sucker-punch-story.html |title=COMIC-CON 2010: Zack Snyder's ''Sucker Punch'' goes for grrrl power |last=Pham |first=Alex |date=24 July 2010 |work=[[Los Angeles Times]] |access-date=29 April 2012 |url-status=live |archive-url=https://web.archive.org/web/20121111111642/http://articles.latimes.com/2010/jul/24/entertainment/la-et-comic-con-sucker-punch |archive-date=11 November 2012}}
+* {{cite news |url=https://www.usatoday.com/life/movies/reviews/2005-11-10-pride_x.htm |title=This ''Pride'' does Austen proud |last=Puig |first=Claudia |author-link=Claudia Puig |date=10 November 2005 |work=[[USA Today]] |access-date=29 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20090519054507/http://www.usatoday.com/life/movies/reviews/2005-11-10-pride_x.htm |archive-date=19 May 2009}}
+* {{cite news |url=https://www.telegraph.co.uk/culture/culturenews/8205611/British-actresses-who-made-their-name-starring-in-Jane-Austen-adaptations.html |title=British actresses who made their name starring in Jane Austen adaptations |last=Roberts |first=Laura |date=16 December 2010 |work=[[The Daily Telegraph]] |access-date=11 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20110124034755/http://www.telegraph.co.uk/culture/culturenews/8205611/British-actresses-who-made-their-name-starring-in-Jane-Austen-adaptations.html |archive-date=24 January 2011}}
+* {{cite news |url=https://www.tvguide.com/news/keira-knightley-prejudice-37087.aspx |title=Keira Knightley Has Austen Power |last=Rojas Weiss |first=Sabrina |date=11 November 2005 |work=[[TV Guide]] |access-date=26 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20100812060252/http://www.tvguide.com/news/keira-knightley-prejudice-37087.aspx |archive-date=12 August 2010}}
+* {{cite news |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/11/DDGD1FLJTO1.DTL |title=Luscious new ''Pride & Prejudice'' updates the mating game |last=Stein |first=Ruthe |date=11 November 2005 |work=[[San Francisco Chronicle]] |access-date=29 May 2012 |url-status=dead |archive-url=https://web.archive.org/web/20090215021101/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F2005%2F11%2F11%2FDDGD1FLJTO1.DTL |archive-date=15 February 2009}}
+* {{cite news |url=https://www.timeout.com/film/reviews/82978/pride-prejudice.html |title=''Pride & Prejudice'' (2005) |date=14 September 2005 |work=[[Time Out (company)|Time Out]] |ref={{sfnRef|Time Out|2005}} |access-date=29 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20120815235235/http://www.timeout.com/film/reviews/82978/pride-prejudice.html |archive-date=15 August 2012}}
+* {{cite news |url=https://www.usatoday.com/life/movies/news/2005-11-13-pride-kiss_x.htm |title=It was the best kiss, it was the worst in ''Pride & Prejudice'' |last=Wloszczyna |first=Susan |date=13 November 2005 |work=[[USA Today]] |access-date=29 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20100728095140/http://www.usatoday.com/life/movies/news/2005-11-13-pride-kiss_x.htm |archive-date=28 July 2010}}
+* {{cite news |url=https://www.usatoday.com/life/movies/news/2007-09-05-toronto-fest-side_N.htm |title=Returning directors feel the warmth in fest spotlight |last=Wloszczyna |first=Susan |date=6 September 2007 |work=[[USA Today]] |access-date=14 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20081013134459/http://www.usatoday.com/life/movies/news/2007-09-05-toronto-fest-side_N.htm |archive-date=13 October 2008}}
+{{Refend}}
+
+===Online===
+{{Refbegin|30em}}
+* {{cite web |url=http://www.oscars.org/awards/academyawards/oscarlegacy/2000-2009/78nominees.html |title=Nominees & Winners for the 78th Academy Awards |publisher=[[Academy of Motion Picture Arts and Sciences]] |ref={{sfnRef|Academy of Motion Picture Arts and Sciences}} |access-date=26 February 2012 |archive-url=https://web.archive.org/web/20120309142120/http://www.oscars.org/awards/academyawards/oscarlegacy/2000-2009/78nominees.html |archive-date=9 March 2012}}
+* {{cite web |url=http://www.bafta.org/awards-database.html?award=false&category=Film&pageNo=3&year=2005 |title=Awards database |publisher=[[British Academy of Film and Television Arts]] |ref={{sfnRef|British Academy of Film and Television Arts}} |access-date=26 February 2012 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004433/https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js |url-status=live}}
+* {{cite web |url=https://boxofficemojo.com/movies/?page=intl&view=byweekend&id=prideandprejudice05.htm |title=''Pride and Prejudice'' (2005) – International Box Office Results |publisher=[[Box Office Mojo]] |ref={{sfnRef|Box Office Mojo International Box Office}} |access-date=26 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20140205050501/http://boxofficemojo.com/movies/?page=intl&view=byweekend&id=prideandprejudice05.htm |archive-date=5 February 2014}}
+* {{cite web |url=https://www.boxofficemojo.com/movies/?id=prideandprejudice05.htm |title=''Pride and Prejudice'' (2005) |publisher=[[Box Office Mojo]] |ref={{sfnRef|Box Office Mojo Profile}} |access-date=10 January 2012 |url-status=live |archive-url=https://web.archive.org/web/20120129062227/http://boxofficemojo.com/movies/?id=prideandprejudice05.htm |archive-date=29 January 2012}}
+* {{cite web |url=http://ftvdb.bfi.org.uk/sift/title/793891?view=synopsis |title=''Pride and Prejudice'' (2005) |publisher=[[British Film Institute]] |ref={{sfnRef|British Film Institute}} |access-date=10 July 2012 |archive-url=https://web.archive.org/web/20140205043552/http://ftvdb.bfi.org.uk/sift/title/793891?view=synopsis |archive-date=5 February 2014}}
+* {{cite web |url=http://bfca.org/ccawards/2005.php |title=The 11th Critics' Choice Movie Awards Winners and Nominees |publisher=[[Broadcast Film Critics Association]] |ref={{sfnRef|Broadcast Film Critics Awards 2006}} |access-date=16 May 2012 |archive-url=https://web.archive.org/web/20120826235307/http://www.bfca.org/ccawards/2005.php |archive-date=26 August 2012}}
+* {{cite web |url=http://www.dvdactive.com/reviews/dvd/pride-and-prejudice.html |title=''Pride & Prejudice'' (UK – DVD R2/5) |last=Carrier |first=Steven |date=24 January 2006 |publisher=DVDactive |access-date=29 February 2012 |url-status=usurped |archive-url=https://web.archive.org/web/20130721232956/http://www.dvdactive.com/reviews/dvd/pride-and-prejudice.html |archive-date=21 July 2013}}
+* {{cite web |url=http://www.awn.com/news/visual-effects/double-negative-does-vfx-pride-prejudice/page/2,1 |title=Double Negative Does VFX for ''Pride & Prejudice'' |last=Desowitz |first=Bill |date=22 September 2005 |publisher=[[Animation World Network]] |access-date=27 May 2012 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004444/https://www.awn.com/news/double-negative-does-vfx-pride-prejudice |url-status=live}}
+* {{cite web |url=https://www.empireonline.com/awards2006/winners/director.asp |title=Sony Ericsson Empire Awards 2006 |ref={{sfnRef|Empire Awards 2006}} |work=[[Empire (film magazine)|Empire]] |access-date=16 May 2012 |archive-url=https://web.archive.org/web/20130616185349/http://www.empireonline.com/awards2006/winners/director.asp |archive-date=16 June 2013}}
+* {{cite web |url=https://www.boxofficemojo.com/news/?id=1940&p=.htm |title=''Pride and Prejudice'' Impresses in Limited Bow |last=Gray |first=Brandon |date=14 November 2005 |publisher=[[Box Office Mojo]] |access-date=8 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20120213214625/http://www.boxofficemojo.com/news/?id=1940&p=.htm |archive-date=13 February 2012}}
+* {{cite web |url=http://www.goldenglobes.org/blog/2005/12/63rd-golden-globe-awards-nominations/ |title=63rd Golden Globe Awards Nominations |date=13 December 2005 |publisher=[[Hollywood Foreign Press Association]] |ref={{sfnRef|Hollywood Foreign Press Association|2005}} |access-date=16 May 2012 |archive-url=https://web.archive.org/web/20120527221853/http://www.goldenglobes.org/blog/2005/12/63rd-golden-globe-awards-nominations/ |archive-date=27 May 2012}}
+* {{cite web |url=https://www.huffingtonpost.com/2009/10/06/carey-mulligan-gets-an-ed_n_311477.html |title=Carey Mulligan Gets ''An Education'' In Movie Stardom |last=Hall |first=Katy |date=18 March 2010 |work=[[HuffPost]] |access-date=11 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20131206084452/http://www.huffingtonpost.com/2009/10/06/carey-mulligan-gets-an-ed_n_311477.html |archive-date=6 December 2013}}
+* {{cite web |url=https://www.latimes.com/archives/la-xpm-2005-nov-15-et-boxoffice15-story.html |title=Weekend box office |date=15 November 2005 |ref={{sfnRef|Los Angeles Times|2005}} |work=[[Los Angeles Times]] |access-date=3 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20140205092601/http://articles.latimes.com/2005/nov/15/entertainment/et-boxoffice15 |archive-date=5 February 2014}}
+* {{cite web |url=https://www.hollywoodreporter.com/review/hanna-movie-review-172453 |title=''Hanna'': Movie Review |last=McCarthy |first=Todd |author-link=Todd McCarthy |date=30 March 2011 |work=[[The Hollywood Reporter]] |access-date=12 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20111209134256/http://www.hollywoodreporter.com/review/hanna-movie-review-172453 |archive-date=9 December 2011}}
+* {{cite web |url=http://bluray.ign.com/articles/105/1056777p1.html |title=Pride Finds Prejudice |last=McCutcheon |first=David |date=21 December 2009 |publisher=[[IGN]] |access-date=29 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20120720145649/http://bluray.ign.com/articles/105/1056777p1.html |archive-date=20 July 2012}}
+* {{cite web |url=https://www.metacritic.com/film/titles/prideandprejudice?q=pride%20and%20prejudice |title=''Pride & Prejudice'' (2005 film): Reviews |publisher=[[Metacritic]] |ref={{sfnRef|Metacritic}} |access-date=13 March 2012 |url-status=live |archive-url=https://web.archive.org/web/20090224070200/http://www.metacritic.com/film/titles/prideandprejudice?q=pride%20and%20prejudice |archive-date=24 February 2009}}
+* {{cite web |url=https://www.allmusic.com/album/the-soloist-music-from-the-motion-picture-r1548506 |title='' The Soloist'' [Music from the Motion Picture&#93; |last=Monger |first=James Christopher |publisher=[[AllMusic]] |access-date=29 April 2012 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004431/https://www.allmusic.com/album/the-soloist-music-from-the-motion-picture-mw0000803519 |url-status=live}}
+* {{cite web |url=http://www.mtv.com/photos/keira-knightley-hits-the-red-carpet/1511252/1798183/photo.jhtml |title=Keira Knightley Hits The Red Carpet |date=10 October 2005 |publisher=[[MTV]] |ref={{sfnRef|MTV|2005}} |access-date=14 March 2012 |archive-url=https://web.archive.org/web/20140221192521/http://www.mtv.com/photos/keira-knightley-hits-the-red-carpet/1511252/1798183/photo.jhtml |archive-date=21 February 2014}}
+* {{cite web |url=https://www.allmusic.com/album/pride-prejudice-original-score-r806485 |title=''Pride & Prejudice'' [Original Score&#93; |last=O'Brien |first=Jon |publisher=[[AllMusic]] |access-date=11 May 2012 |archive-date=23 June 2021 |archive-url=https://web.archive.org/web/20210623004431/https://www.allmusic.com/album/pride-and-prejudice-music-from-the-motion-pictures-mw0000704072 |url-status=live}}
+* {{cite web |url=https://www.rottentomatoes.com/m/1153077-1153077-pride_and_prejudice/ |title=''Pride and Prejudice'' (2005) |publisher=[[Rotten Tomatoes]] |ref={{sfnRef|Rotten Tomatoes}} |access-date=2 June 2025 |url-status=live |archive-url=https://web.archive.org/web/20120107212653/http://www.rottentomatoes.com/m/1153077-1153077-pride_and_prejudice/ |archive-date=7 January 2012}}
+* {{cite magazine |url=https://www.billboard.com/album/soundtrack/pride-prejudice/746384#/album/dario-marianelli-jean-yves-thibaudet-english/pride-prejudice-original-score/746384/review |title=''Pride & Prejudice'' [Original Score&#93; Album Reviews |last=Ruhlmann |first=William |magazine=[[Billboard (magazine)|Billboard]] |access-date=11 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20110122215129/http://www.billboard.com/album/soundtrack/pride-prejudice/746384 |archive-date=22 January 2011}}
+* {{cite web |url=http://www.altfg.com/blog/awards/ace-awards-2005/ |title=American Cinema Editors Awards 2006 |last=Soares |first=Andre |date=19 February 2006 |publisher=Alt Film Guide |ref={{sfnRef|Soares|2006a}} |access-date=11 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20121001195015/http://www.altfg.com/blog/awards/ace-awards-2005/ |archive-date=1 October 2012}}
+* {{cite web |url=http://www.altfg.com/blog/awards/chicago-film-critics-awards-2005/ |title=Chicago Film Critics Awards 2005 |last=Soares |first=Andre |date=9 January 2006 |publisher=Alt Film Guide |ref={{sfnRef|Soares|2006b}} |access-date=16 May 2012 |archive-url=https://web.archive.org/web/20110823101654/http://www.altfg.com/blog/awards/chicago-film-critics-awards-2005/ |archive-date=23 August 2011}}
+* {{cite web |url=http://www.altfg.com/blog/awards/european-film-awards-2006/ |title=European Film Awards 2006 |last=Soares |first=Andre |date=2 December 2006 |publisher=Alt Film Guide |ref={{sfnRef|Soares|2006c}} |access-date=11 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20121005180504/http://www.altfg.com/blog/awards/european-film-awards-2006/ |archive-date=5 October 2012}}
+* {{cite web |url=https://www.the-numbers.com/movies/2005/PRDPJ.php |title=Pride and Prejudice |publisher=The Numbers |ref={{sfnRef|The Numbers}} |access-date=8 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20111219164150/http://www.the-numbers.com/movies/2005/PRDPJ.php |archive-date=19 December 2011}}
+* {{cite web |url=http://industry.bfi.org.uk/article/16415/UK-Box-Office-2005 |title=UK Box Office: 2005 |publisher=[[UK Film Council]] |ref={{sfnRef|UK Film Council}} |access-date=10 July 2012 |archive-url=https://web.archive.org/web/20120430232238/http://industry.bfi.org.uk/article/16415/UK-Box-Office-2005 |archive-date=30 April 2012}}
+* {{cite web |url=http://www.digitalspy.com/british-tv/tubetalk/a350476/pride-and-prejudice-tube-talk-gold.html |title=''Pride and Prejudice'': Tube Talk Gold |last=Wightman |first=Catriona |date=12 November 2011 |work=[[Digital Spy]] |access-date=3 May 2012 |url-status=live |archive-url=https://web.archive.org/web/20140205043050/http://www.digitalspy.com/british-tv/tubetalk/a350476/pride-and-prejudice-tube-talk-gold.html |archive-date=5 February 2014}}
+* {{cite web |last1=Villa |first1=Bernardita |title=Las series más vistas por los chilenos en Netflix |trans-title=The most watched TV series by chileans in Netflix |url=http://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2017/12/11/las-series-mas-vistas-por-los-chilenos-en-netflix.shtml |publisher=Bio-Bio |access-date=16 December 2017 |language=es |date=11 December 2017 |archive-date=17 December 2017 |archive-url=https://web.archive.org/web/20171217014808/http://www.biobiochile.cl/noticias/espectaculos-y-tv/cine-y-series/2017/12/11/las-series-mas-vistas-por-los-chilenos-en-netflix.shtml |url-status=live}}
+* {{cite web |last1=Gutiérrez |first1=Catalina |title=Me gusta Orgullo y Prejuicio porque es feminista |trans-title=I like Pride & Prejudice because is a feminist film |url=https://www.women-talk.com/news/me-gusta-orgullo-y-prejuicio-porque-es-feminista |publisher=Women Talk |access-date=16 December 2017 |language=es |date=14 December 2017 |archive-date=22 December 2017 |archive-url=https://web.archive.org/web/20171222195828/https://www.women-talk.com/news/me-gusta-orgullo-y-prejuicio-porque-es-feminista |url-status=live}}
+{{Refend}}
+
+===Press releases===
+{{Refbegin|30em}}
+* {{cite press release |title=''Pride & Prejudice'': The Locations |date=1 November 2005 |publisher=[[Focus Features]] |url=http://focusfeatures.com/article/pride___prejudice__the_locations?film=pride_and_prejudice |ref={{sfnRef|Focus Features Locations|2005}} |access-date=19 January 2012 |archive-url=https://archive.today/20130124072917/http://focusfeatures.com/article/pride___prejudice__the_locations?film=pride_and_prejudice |archive-date=24 January 2013}}
+* {{cite press release |title=''Pride & Prejudice'': The Production |date=1 November 2005 |publisher=[[Focus Features]] |url=http://focusfeatures.com/article/pride___prejudice__the_production?film=pride_and_prejudice |ref={{sfnRef|Focus Features Production|2005}} |archive-url=https://archive.today/20130123092712/http://focusfeatures.com/article/pride___prejudice__the_production?film=pride_and_prejudice |archive-date=23 January 2013 |access-date=19 January 2012}}
+* {{cite press release |title=Nominated for Four Academy Awards(R)* Including Best Actress Keira Knightley Universal Studios Home Entertainment Is Proud to Announce the DVD Release of Jane Austen's Ultimate Romance ''Pride & Prejudice'' |date=31 January 2006 |url=http://www.prnewswire.com/news-releases/nominated-for-four-academy-awardsr-including-best-actress-keira-knightley-universal-studios-home-entertainment-is-proud-to-announce-the-dvd-release-of-jane-austens-ultimate-romance-pride--prejudice-55202607.html |ref={{sfnRef|PRNewswire|2006}} |agency=PR Newswire |access-date=26 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20140205042744/http://www.prnewswire.com/news-releases/nominated-for-four-academy-awardsr-including-best-actress-keira-knightley-universal-studios-home-entertainment-is-proud-to-announce-the-dvd-release-of-jane-austens-ultimate-romance-pride--prejudice-55202607.html |archive-date=5 February 2014}}
+* {{cite press release |title=From Universal Studios Home Entertainment: ''Pride & Prejudice'' 2 Disc Deluxe Gift Set |date=20 September 2007 |url=http://www.prnewswire.com/news-releases/from-universal-studios-home-entertainment-pride--prejudice-2-disc-deluxe-gift-set-58156687.html |ref={{sfnRef|PRNewswire|2007}} |agency=PR Newswire |access-date=26 February 2012 |url-status=live |archive-url=https://web.archive.org/web/20140205042646/http://www.prnewswire.com/news-releases/from-universal-studios-home-entertainment-pride--prejudice-2-disc-deluxe-gift-set-58156687.html |archive-date=5 February 2014}}
+* {{cite press release |title=''Pride & Prejudice'' gala screening in Toronto |date=29 July 2005 |publisher=[[Working Title Films]] |url=http://www.workingtitlefilms.com/news/view/post/29 |ref={{sfnRef|Working Title Films|2005a}} |access-date=14 March 2012 |archive-url=https://web.archive.org/web/20111104031259/http://workingtitlefilms.com/news/view/post/29 |archive-date=4 November 2011}}
+* {{cite press release |title=''Pride & Prejudice'' released this weekend |date=15 September 2005 |publisher=[[Working Title Films]] |url=http://www.workingtitlefilms.com/news/view/post/37 |ref={{sfnRef|Working Title Films|2005b}} |access-date=14 March 2012 |archive-url=https://web.archive.org/web/20111104030636/http://workingtitlefilms.com/news/view/post/37 |archive-date=4 November 2011}}
+* {{cite press release |title=''Pride & Prejudice'' is a number 1 hit |date=19 September 2005 |publisher=[[Working Title Films]] |url=http://www.workingtitlefilms.com/news/view/post/40 |ref={{sfnRef|Working Title Films|2005c}} |access-date=26 February 2012 |archive-url=https://web.archive.org/web/20111104030854/http://workingtitlefilms.com/news/view/post/40 |archive-date=4 November 2011}}
+* {{cite press release |title=''Pride & Prejudice'' – US ending now on release in UK |date=25 November 2005 |publisher=[[Working Title Films]] |url=http://www.workingtitlefilms.com/news/view/post/57 |ref={{sfnRef|Working Title Films|2005d}} |access-date=14 March 2012 |archive-url=https://web.archive.org/web/20111104031008/http://workingtitlefilms.com/news/view/post/57 |archive-date=4 November 2011}}
+* {{cite press release |title=''Pride & Prejudice'' wins six Bafta nominations |date=19 January 2006 |publisher=[[Working Title Films]] |url=http://workingtitlefilms.com/news/view/post/66 |ref={{sfnRef|Working Title Films|2006}} |access-date=26 February 2012 |archive-url=https://web.archive.org/web/20111104031032/http://workingtitlefilms.com/news/view/post/66 |archive-date=4 November 2011}}
+* {{cite press release |title=Production Commences on ''Anna Karenina'' |date=3 October 2011 |publisher=[[Working Title Films]] |url=http://www.workingtitlefilms.com/news/view/post/210/production-commences-on-anna-karenina |ref={{sfnRef|Working Title Films|2011}} |access-date=12 March 2012 |archive-url=https://web.archive.org/web/20140205042239/http://www.workingtitlefilms.com/news/view/post/210/production-commences-on-anna-karenina |archive-date=5 February 2014}}
+{{Refend}}
+
+===Visual media===
+{{Refbegin}}
+* {{cite video |first=Keira |last=Knightley |author-link=Keira Knightley |others=[[Joe Wright]], [[Tim Bevan]], [[Deborah Moggach]], [[Brenda Blethyn]], [[Donald Sutherland]] |year=2005 |title=''Pride & Prejudice'': [[HBO]] First Look |medium=DVD |publisher=[[Universal Pictures|Universal Studios]] |location=Bonus Features}}
+* {{cite video |first=Donald |last=Sutherland |author-link=Donald Sutherland |others=[[Brenda Blethyn]], [[Tom Hollander]], [[Keira Knightley]], [[Matthew Macfadyen]], [[Talulah Riley]], [[Carey Mulligan]], [[Jena Malone]], [[Rosamund Pike]] |year=2005 |title=Behind-the-Scenes at the Ball |medium=DVD |publisher=[[Universal Pictures|Universal Studios]] |location=Bonus Features}}
+* {{cite video |first=Joe |last=Wright |author-link=Joe Wright |year=2005 |title=[[Audio commentary]] for ''Pride & Prejudice'' |medium=DVD |publisher=[[Universal Pictures|Universal Studios]] |location=Bonus Features}}
+{{Refend}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote|Pride and Prejudice (2005 film)}}
+* {{Official website}}
+* {{IMDb title}}
+* {{TCMDb title|581382}}
+* {{AFI film|63570}}
+
+{{Pride and Prejudice}}
+{{Joe Wright}}
+{{Navboxes
+|title = Awards for ''Pride & Prejudice''
+|list =
+{{Empire Award for Best British Film}}
+{{Washington D.C. Area Film Critics Association Award for Best Ensemble}}}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pride and Prejudice (2005 film)}}
+[[Category:2005 films]]
+[[Category:2000s historical romance films]]
+[[Category:2005 romantic drama films]]
+[[Category:American historical romance films]]
+[[Category:American romantic drama films]]
+[[Category:British historical romance films]]
+[[Category:British romantic drama films]]
+[[Category:2000s feminist films]]
+[[Category:Films based on Pride and Prejudice]]
+[[Category:Films directed by Joe Wright]]
+[[Category:Films produced by Tim Bevan]]
+[[Category:Films produced by Eric Fellner]]
+[[Category:Films scored by Dario Marianelli]]
+[[Category:Films set in country houses]]
+[[Category:Films shot in Berkshire]]
+[[Category:Films shot in Kent]]
+[[Category:Films shot in Wiltshire]]
+[[Category:English-language French films]]
+[[Category:French historical romance films]]
+[[Category:French romantic drama films]]
+[[Category:Romantic period films]]
+[[Category:StudioCanal films]]
+[[Category:Universal Pictures films]]
+[[Category:Working Title Films films]]
+[[Category:2005 directorial debut films]]
+[[Category:Films about sisters]]
+[[Category:Films shot in Derbyshire]]
+[[Category:2005 English-language films]]
+[[Category:2005 American films]]
+[[Category:2005 British films]]
+[[Category:2005 French films]]
+[[Category:Films set in the 18th century]]
+[[Category:English-language romantic drama films]]
+[[Category:English-language historical romance films]]

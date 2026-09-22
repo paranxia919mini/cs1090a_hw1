@@ -1,0 +1,224 @@
+{{Short description|1988 documentary directed by Errol Morris}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=August 2014}}
+{{Infobox film
+| name           = The Thin Blue Line
+| image          = The_Thin_Blue_Line_poster.jpg
+| caption        = Theatrical poster
+| director       = [[Errol Morris]]
+| producer       = Mark Lipson
+| writer         = Errol Morris
+| screenplay     =
+| narrator       =
+| music          = [[Philip Glass]]
+| story          =
+| based_on       =
+| starring       = {{Plainlist|
+* [[Randall Dale Adams|Randall Adams]]
+* David Ray Harris
+}}
+| cinematography = [[Robert Chappell]]<br />[[Stefan Czapsky]]
+| editing        =
+| studio         = [[American Playhouse]]
+| distributor    = [[Miramax|Miramax Films]]
+| released       = {{film date|1988|03|18|[[San Francisco Film Festival]]|1988|8|25|United States|}}
+| runtime        = 103 minutes
+| country        = United States
+| language       = English
+| budget         = <!-- N/A -->
+| gross          = [[US$]]1,209,846 <small>(US and Canada)</small><ref name="Mojo">{{cite web |url=http://www.boxofficemojo.com/movies/?id=thinblueline.htm |title=The Thin Blue Line (1988) |publisher=[[Box Office Mojo]] |access-date=2010-06-25}}</ref>
+}}
+
+'''''The Thin Blue Line''''' is a 1988 American [[documentary film]] by [[Errol Morris]], about the trial and conviction of [[Randall Dale Adams]] for the 1976 shooting of Dallas police officer Robert W. Wood. Morris became interested in the case while doing research for a film about Dr. [[James Grigson]], a psychiatrist known in Texas as "Dr. Death" for testifying with "100 percent certainty" of a defendant's [[recidivism]] in many trials, including that of Randall Adams.
+
+The film centers around the "inconsistencies, incongruities and loose ends" of the case, and Morris, through his investigation, not only comes to a different conclusion, but actually obtains an admission of Adams's innocence from the original suspect of the case, David Harris. The "[[thin blue line]]" in the title "refers to what Mr. Morris feels is an ironic, mythical image of a protective policeman on the other side of anarchy".<ref>{{Cite web |url=https://archive.nytimes.com/www.nytimes.com/ref/college/coll02film3.html?pagewanted=print |title=Film Dissects Murder and Justice |date=October 23, 1988 |first=Alvin |last=Klein |website=[[The New York Times]] |access-date=2020-04-15}}</ref>
+
+The film won many awards but was a controversial film among documentary film critics, who felt the use of reenactment had no place in the documentary format. For this reason, the film was not nominated for the [[Academy Award for Best Documentary Feature Film|Academy Award for Best Documentary Feature]], though it won several other awards for best documentary.<ref name="Musser">{{Cite web |url=https://www.criterion.com/current/posts/3500-the-thin-blue-line-a-radical-classic |title=The Thin Blue Line: A Radical Classic |last=Musser |first=Charles |publisher=[[The Criterion Collection]] |language=en |access-date=April 28, 2020}}</ref> Film critic [[Roger Ebert]] attributed its rejection to "the inability of [[Academy of Motion Picture Arts and Sciences|Academy]] voters to appreciate innovative filmmaking".<ref>{{Cite web |first=Jack |last=Mathews |url=https://www.latimes.com/archives/la-xpm-1989-03-12-ca-1026-story.html |title='The Thin Blue Line': Justice for All?: An inside look at why a documentary that had real-life impact didn't make the cut in the Oscar race |date=March 12, 1989 |website=[[Los Angeles Times]] |language=en-US |access-date=April 28, 2020}}</ref>
+
+In 2001, the film was selected by the [[Library of Congress]] for preservation in the United States [[National Film Registry]] as being "culturally, historically or aesthetically significant".
+
+== Background ==
+Prior to the conception of ''The Thin Blue Line'', Morris originally planned to film a documentary about prosecution [[psychiatrist]] Dr. [[James Grigson]], known as "Doctor Death",<ref>{{cite news |last=Gillespie |first=Pat |url=http://docs.newsbank.com/g/GooglePM/DM/lib00375,103386EA575FCA6A.html |title=Expert psychiatric witness was nicknamed Dr. Death |date=June 14, 2004 |access-date=March 21, 2009 |website=[[Dallas Morning News]]}}</ref><ref>{{cite news |last=Bell |first=Laura |url=http://www.ccadp.org/DrDeath.htm |title=Groups Expel Psychiatrist Known for Murder Cases; Witness nicknamed 'Dr. Death' says license won't be affected by allegations |date=July 26, 1995 |access-date=2009-03-21 |website=[[Dallas Morning News]] |archive-date=March 7, 2009 |archive-url=https://web.archive.org/web/20090307034749/http://ccadp.org/DrDeath.htm |url-status=dead}}</ref> who testified in more than 100 trials that resulted in death sentences.<ref>{{cite news |url=http://docs.newsbank.com/g/GooglePM/ST/lib00154,101B1DBE87233DDC.html |title=Study: State relies too much on 'killer shrinks' |date=March 31, 2004 |access-date=March 11, 2008 |website=[[Fort Worth Star-Telegram]]}}</ref> As an expert psychiatrist, Grigson made a name for himself by giving testimony in capital cases for the prosecution. Under the law in Texas, the death penalty can only be issued if the jury is convinced that the defendant is not just guilty, but will commit violent crimes in the future if not put to death. In almost every instance, Grigson would, after examining a defendant, testify that he had found the individual in question to be an incurable [[antisocial personality disorder|sociopath]], who he was "one hundred percent certain" would kill again.<ref>{{Cite web |url=http://www.errolmorris.com/content/profile/singer_predilections.html |title=Errol Morris: Profiles |website=Errolmorris.com |access-date=November 16, 2021}}</ref>
+
+In pursuit of creating this idea, Morris sought and received funding for the initial project from the [[Public Broadcasting Service]].<ref name=":0">{{Cite book |last=Resha |first=David |title=The cinema of Errol Morris |date=April 8, 2015 |isbn=978-0-8195-7535-7 |location=Middletown, Connecticut |oclc=904598386}}</ref> Morris also received funding from Endowment of Public Arts.<ref name=":4">{{Cite book |last=Resha |first=David |url=https://books.google.com/books?id=Nwv6BgAAQBAJ&dq=info:Uk2_u_yC-FMJ:scholar.google.com&pg=PP1 |title=The Cinema of Errol Morris |date=2015-04-08 |publisher=[[Wesleyan University Press]] |location=Middletown, Connecticut |isbn=978-0-8195-7535-7 |language=en}}</ref> Using this grant, Morris was able to initially interview Grigson.<ref name=":0" /> During this meeting, Grigson suggested to Morris that his research should begin with all the inmates he had testified against in court.<ref name=":0" /> It was during this preliminary research that Morris met Randall Dale Adams, and learned of his case.<ref name=":0" /> Grigson had told the jury that Adams would be an ongoing menace if kept alive, but Morris, after meeting Adams, became skeptical that he committed the crime.<ref name=":1">{{Cite book |last=Ferncase |first=Richard K. |title=Outsider features : American independent films of the 1980s |date=1996 |publisher=[[Greenwood Press]] |isbn=978-0-313-02936-3 |location=Westport, Connecticut |oclc=667291123}}</ref> Grigson's interviews often lasted less than an hour and were arbitrary at best, often asking inmates to copy doodles.<ref name=":4" />
+
+Morris later chose to refocus his research efforts into an investigation on the circumstances of Randall Dale Adams's conviction. Grigson does not appear in the final cut of the film.<ref name=":0" />
+
+==Synopsis==
+The film presents a series of interviews about the investigation of the shooting of Dallas police officer Robert Wood and a re-enactment of the crime based on the testimony and recollections of Adams, Harris (the actual murderer), the judge presiding over the case (Donald J. Metcalfe), and several witnesses (including Emily Miller and R. L. Miller), as well as detectives (including Gus Rose, Jackie Johnson, and Marshall Touchton). Two attorneys (Edith James and Dennis White) who represented Adams at the trial where he was convicted also appear; they suggest that Adams was charged with the crime despite the evidence against Harris because Harris was a juvenile at the time, whereas Adams, as an adult, could be [[Death penalty|sentenced to death]] under Texas law. The prosecutor (Douglas D. Mulder) does not appear in the film.
+
+The film's title comes from prosecutor Doug Mulder's phrase during his [[closing argument]] that the police are the "[[The Thin Blue Line (emblem)|thin blue line]]" separating society from "[[anarchy]]". This is a re-working of a line from [[Rudyard Kipling]]'s poem "[[Tommy (Kipling poem)|Tommy]]" in which he describes British soldiers (nicknamed "[[Tommy Atkins]]") as the "thin red line", from the color of their uniforms and their formation.
+
+== Style ==
+The film makes use of dramatic re-enactments, a composed score, and interview testimony that takes the place of a narrator.<ref name=":02">{{Cite book |last=Resha |first=David |title=The cinema of Errol Morris |date=April 8, 2015 |isbn=978-0-8195-7535-7 |location=Middletown, Connecticut |oclc=904598386}}</ref>
+
+Morris is often credited with re-purposing ''film noir'' aesthetic to the documentary format.<ref name=":14">{{Cite book |last=Ferncase, Richard K. |title=Outsider features : American independent films of the 1980s |date=1996 |publisher=Greenwood Press |isbn=978-0-313-02936-3 |location=Westport, Conn. |oclc=667291123}}</ref> Film scholar Charles Musser has credited Morris for using 'fiction film' techniques in ''The Thin Blue Line.''<ref name=":2">{{Cite web |url=https://www.criterion.com/current/posts/3500-the-thin-blue-line-a-radical-classic |title=The Thin Blue Line: A Radical Classic |last=Musser |first=Charles |website=The Criterion Collection |language=en |access-date=2020-04-14}}</ref> Morris himself has claimed all of his films are brazenly "anti-vérité" in style.<ref name=":22">{{Cite web |url=http://povmagazine.com/articles/view/errol-morris-speaks-out |title=Errol Morris Speaks Out! |website=povmagazine.com |date=April 4, 2005 |language=en |access-date=2020-04-14}}</ref> Morris presented the characters like in fiction films, not typical documentaries. He chose not to include official labels for the interviewees, allowing viewers to determine who is who throughout the film. He includes documents, but presents them artistically, ignoring authenticity signs. Philip Glass's musical score is played under interviewees' statements, which was unconventional in documentaries, but Morris used it as "movie music" to create a film-like experience''.''<ref name=":2" /> Morris has often associated ''The Thin Blue Line'' with film noir, further emphasizing its connection to the conventions of fiction filmmaking.<ref name=":2" />
+
+The film's re-enactment scenes were built carefully from witnesses' statements.<ref name="Play-It-Again2">{{cite news |last=Morris |first=Errol |authorlink=Errol Morris |url=http://morris.blogs.nytimes.com/2008/04/03/play-it-again-sam-re-enactments-part-one/index.html |title=Play It Again, Sam (Re-enactments, Part One) |date=April 3, 2008 |work=[[The New York Times]] |access-date=2008-03-11 |url-status=dead |archive-url=https://web.archive.org/web/20080407180427/http://morris.blogs.nytimes.com/2008/04/03/play-it-again-sam-re-enactments-part-one/index.html |archive-date=April 7, 2008 |df=mdy-all}}</ref> Morris is commonly credited with the invention of re-enactment scenes in documentary format, though this is untrue.<ref name=":02" /> Although the film recreates several versions of the shooting, it does not recreate one in which David Harris shoots the officer, the interpretation which it argues is true.
+
+== Production ==
+Prior to working on this film, Morris worked for several years as a private detective investigating fraudulent transactions on the stock market in New York City.<ref name=":4" /><ref name=":14"/> Once fascinated by the Adams/Harris case, he applied those skills to his research on the film.
+
+Harris was later tried, convicted, and executed for committing the unrelated murder of Mark Walker Mays on September 1, 1985.<ref>{{cite web |url=http://www.clarkprosecutor.org/html/death/US/harris916.htm |title=David Ray Harris |website=clarkprosecutor.org |publisher=Office of the Clark County (Indiana) Prosecuting Attorney |access-date=2017-10-20}}</ref> On the weekend of that murder, Morris had an interview scheduled with Harris. Morris remarked in an interview with James Hughes: "I often say it's my favorite excuse for missing an appointment: 'I'm sorry, I was off killing someone.'"<ref>{{Cite web |url=http://www.errolmorris.com/content/interview/stopsmiling0306.html |title=Errol Morris: Interview |website=Errolmorris.com |access-date=November 16, 2021}}</ref>
+
+Morris's interview style (that of the subject staring directly into the camera) led to a later invention that his wife termed "the Interrotron". It was first used in ''[[Fast, Cheap & Out of Control]]'' (1997), and places Morris behind a curtain staring into one camera, which feeds into a teleprompter-like device on the camera in front of the interviewee, which causes the interviewee to look at and talk to the image of Morris, and, therefore, the camera directly, rather than to a person sitting off to one side.<ref>{{Cite web |url=http://www.errolmorris.com/content/eyecontact/interrotron.html |title=Errol Morris: Eye Contact |website=Errolmorris.com |access-date=November 16, 2021}}</ref>
+
+The final scene, in which Morris and Harris are only heard, while shots of a tape recorder appear from various angles, was not originally planned. Morris's camera broke down on the day of the interview, forcing Morris to use a tape recorder to document the dialogue.<ref>{{cite journal|last=Curry|first=Renée R.|title=Errol Morris's Construction of Innocence in "The Thin Blue Line"|journal=Rocky Mountain Review of Language and Literature|publisher=Rocky Mountain Modern Language Association|location=Laramie, Wyoming|volume=49|issue=2|date=1995|pages=153-67}}</ref>
+
+The [[Corporation for Public Broadcasting]], [[National Endowment for the Arts]], Program Development Company Productions Inc., public television stations, and The Chubb Group of Insurance Companies funded the documentary.<ref>[https://www.imdb.com/title/tt0096257/combined The Thin Blue Line - Combined Details]. [[IMDb]]. Retrieved June 25th, 2010.</ref>
+
+== Soundtrack ==
+The film was scored by composer [[Philip Glass]].<ref name=":3">{{Cite web |url=https://philipglass.com/recordings/thin_blue_line-music_from/ |title=Thin Blue Line, Music From – Philip Glass |language=en-US |access-date=2020-04-14}}</ref> The original film soundtrack was published by Dunvagen Music Publishers, Inc.<ref name=":3" /> The music for the original film was produced by Kurt Munkacsi, and the performing orchestra conducted by Michael Riesman.<ref name=":3" />
+
+Morris has claimed that prior to Glass's involvement in the project, he personally edited ''The Thin Blue Line'' to a mix-tape of Glass's earlier works, including selections from ''Mishima'' and ''In the Upper Room and Glassworks.''<ref name=":22"/><ref>{{Cite web |url=https://philipglass.com/compositions/thin_blue_line/ |title=The Thin Blue Line – Philip Glass |language=en-US |access-date=2020-04-14}}</ref> In an interview with Marc Glassman of ''POV magazine'', Morris explained his rationale for seeking Glass to compose the score:<blockquote>I had the good fortune of actually convincing him [Philip Glass] to write the soundtrack himself. Someone asked me, 'Why Philip Glass?' And I said, 'because he does existential dread better than anybody. He's the master of existential dread.'<ref name=":22" /></blockquote>
+
+== Release ==
+=== Marketing ===
+Marketing the film was not an easy task, as Morris wished to avoid having the label of documentary attached to his film. Miramax, the film's distributor, had originally picked it up for its unconventional look, and used marketing hooks to make the film "transition from the arthouse to the multiplex".<ref>{{cite book |last1=Schatz |first1=Thomas |title=Hollywood (Critical Concepts in Media and Cultural Studies) |page=382}}</ref> [[Harvey Weinstein]], the former head of Miramax, declared: "Never has Miramax had a movie where a man's life hangs in the balance". The poster for the film gave it the feel of a [[whodunit]], with the tagline: "A [[softcore pornography|softcore]] movie, [[James Grigson|Dr. Death]], a chocolate milkshake, a nosy blonde and ''[[The Carol Burnett Show]]''. Solving this mystery is going to be murder."
+
+Weinstein even sent a note to Errol Morris pushing him to promote the film better during interviews. The note read, in part, "Heard your [[NPR]] interview and you were boring," and recommended the director sell the movie as a highly thrilling and emotional experience similar to watching thrillers or horror movies and that he adopt the usage of shorter and clearer sentences.<ref>{{Cite web |url=http://www.lettersofnote.com/2010/01/youre-boring.html |title=Letters of Note: You're boring |website=Lettersofnote.com |access-date=November 16, 2021}}</ref>
+
+===Box office===
+''The Thin Blue Line'' grossed $1,209,846 in the US and Canada.<ref name="Mojo"/> On its opening weekend, in only one theatre, it took in $17,814.<ref name="Mojo"/> Although the film is the 95th highest grossing documentary film released since 1982,<ref>{{cite web |url=http://www.boxofficemojo.com/genres/chart/?id=documentary.htm |title=Documentary Movies at the Box Office |publisher=Box Office Mojo |access-date=2011-07-30}}</ref> Morris says he lost money on the production.<ref>{{cite news |url=http://www.truthinjustice.org/adams.htm |title=Adams v. The Death Penalty |publisher=[[Columbus Alive]] |date=November 15, 2001 |first=Martin |last=Yant |access-date=2008-03-11}}</ref>
+
+===Home media===
+''The Thin Blue Line'' made its DVD premiere in July 2005 from MGM. In Australia, the film was released on DVD by Umbrella Entertainment in June 2007. The DVD includes Umbrella Entertainment trailers as special features.<ref name="Umbrella Entertainment">{{cite web |title=Umbrella Entertainment |url=http://www.umbrellaent.com.au/p-1863-thin-blue-line-the.aspx |access-date=21 May 2013 |archive-url=https://web.archive.org/web/20131016074905/http://www.umbrellaent.com.au/p-1863-thin-blue-line-the.aspx |archive-date=October 16, 2013 |url-status=dead |df=mdy-all}}</ref> A special edition Blu-ray of the film was released in North America by the [[Criterion Collection]] in March 2015. New features include interviews with Morris and filmmaker [[Joshua Oppenheimer]].<ref name="Criterion Collection">{{cite web |title=Criterion Collection |url=http://www.criterion.com/films/28355-the-thin-blue-line |access-date=10 January 2015}}</ref>
+
+== Reception and legacy ==
+
+===Critical response===
+On the review aggregator website [[Rotten Tomatoes]], 100% of 19 critics' reviews are positive.<ref>{{cite web |title=The Thin Blue Line |url=http://www.rottentomatoes.com/m/thin_blue_line |access-date=2026-01-06 |publisher=[[Rotten Tomatoes]]}}</ref> It has an average score of 79 out of 100 on [[Metacritic]], based on 12 critics, indicating "generally favorable reviews".<ref>{{cite web |title=The Thin Blue Line |url=https://www.metacritic.com/movie/the-thin-blue-line/ |access-date=July 2, 2024 |publisher=[[Metacritic]]}}</ref> [[Gene Siskel]], writing for the ''[[Chicago Tribune]]'', named it the 7th best film of 1988.<ref>{{cite web |url=http://www.innermind.com/misc/s_e_top.htm#SE1988 |title=Siskel and Ebert Top Ten Lists (1969-1998) -> 1988 |publisher=innermind.com |access-date=2010-06-25}}</ref> Kim Newman from ''[[Empire (film magazine)|Empire]]'' called the film "riveting and terrifying. Highly recommended testimony to the dangers of shoddy investigations."<ref>{{Cite web |url=https://www.empireonline.com/movies/reviews/thin-blue-line-review/ |title=The Thin Blue Line |date=2000-01-01 |website=Empire |language=en |access-date=2020-04-28}}</ref> [[Roger Ebert]] gave the film 3.5 out of 4 stars, and wrote that "Morris' visual style in ''The Thin Blue Line'' is unlike any conventional documentary approach. Although his interviews are shot straight on, head and shoulders, there is a way his camera has of framing his subjects so that we look at them very carefully, learning as much by what we see as by what we hear."<ref>{{Cite web |url=https://www.rogerebert.com/reviews/the-thin-blue-line-1988 |title=The Thin Blue Line movie review (1988) |last=Ebert |first=Roger |authorlink=Roger Ebert |website=[[Chicago Sun-Times]] |via=[[Rogerebert.com]] |date=September 16, 1988 |language=en |access-date=April 28, 2020}}</ref> [[Desson Thomson]] gave the film a perfect score, saying the film was "more like a waking nightmare than a docudrama. A true story of murder and justice evidently miscarried, wrapped in the fictional haze of a surrealistic whodunit, it will leave you in a trance for days."<ref>{{Citation |title=The Thin Blue Line (1988) - IMDb |url=http://www.imdb.com/title/tt0096257/criticreviews |access-date=2020-04-28}}</ref>
+
+''The Thin Blue Line'' was placed on more critics' top ten lists than any other film of 1988, edging out ''[[Bull Durham]]'' by one vote.<ref>{{Cite news |first1=Pat|last1=McGilligan|first2=Mark|last2=Rowland|url=https://www.latimes.com/archives/la-xpm-1989-01-08-ca-257-story.html |title=100 Film Critics Can't Be Wrong, Can They? : The critics' consensus choice for the 'best' movie of '88 is . . . a documentary! |date=January 8, 1989 |newspaper=[[Los Angeles Times]] |access-date=November 16, 2021}}</ref>
+
+===Awards===
+The film won several awards. The [[Academy of Motion Picture Arts and Sciences]] refused to consider it for [[Academy Award for Best Documentary Feature Film|Best Documentary]] because of its use of [[Docudrama|reenactments]].<ref name="Musser" />
+{| class="wikitable"
+! Year !! Group !! Award<ref name="Director">{{Citation |title=The Thin Blue Line - IMDb |url=http://www.imdb.com/title/tt0096257/awards |access-date=2020-04-13}}</ref>!! Result
+|-
+| rowspan="5" | 1988 ||[[International Documentary Association]]|| IDA Award || style="background: #ddffdd" | Won
+|-
+|Kansas City Film Critics Circle
+|Best Documentary || style="background: #ddffdd" | Won
+|-
+|[[Los Angeles Film Critics Association]]
+|Best Documentary/Non-Fiction Film || style="background: #ffdddd" | Nominated
+|-
+|[[National Board of Review]]|| Best Documentary || style="background: #ffdddd" | Nominated
+|-
+|[[New York Film Critics Circle]]
+|Best Documentary || style="background: #ddffdd" | Won
+|-
+| rowspan="8" |1989
+|[[American Cinema Editors]]
+|Best Edited Documentary || style="background: #ffdddd" | Nominated
+|-
+|[[Boston Society of Film Critics]]
+|Best Documentary || style="background: #ddffdd" | Won
+|-
+|[[Deauville American Film Festival|Deauville Film Festival]]
+|Critics Award || style="background: #ffdddd" | Nominated
+|-
+|[[Edgar Award|Edgar Allan Poe Awards]]
+|Best Motion Picture || style="background: #ddffdd" | Won
+|-
+| rowspan="2" |[[Film Independent Spirit Awards]]
+|Best Feature || style="background: #ffdddd" | Nominated
+|-
+|Best Director || style="background: #ffdddd" | Nominated
+|-
+|[[Golden Horse Film Festival and Awards|Golden Horse Film Festival]]
+|Best Foreign Film || style="background: #ddffdd" | Won
+|-
+|[[National Society of Film Critics]]
+|Best Documentary || style="background: #ddffdd" | Won
+|-
+|2001
+|[[National Film Preservation Board]]
+|National Film Registry || style="background: #ddffdd" | Won
+|-
+|2014
+|[[Cinema Eye Honors]]
+|The Influential Honors Award || style="background: #ddffdd" | Won
+|-
+|}
+
+Since the film was marketed as "nonfiction" rather than as a documentary, it was disqualified from being considered in the documentary category for an [[Academy Awards|Academy Award]].<ref name="Play-It-Again2"/>
+
+In a 2008 retrospective of documentaries, ''[[Variety (magazine)|Variety]]'' credited the film as "the most political work of cinema in the last 20 years".<ref>Anderson, John. "Op-Ed Films for the Ages." Variety 20 Feb. 2006: A2. Film & Television Literature Index with Full Text. Web. 26 Nov. 2010.</ref> The film has had a considerable influence on later television and documentary film, often credited with pioneering the style of modern crime-scene reenactments.<ref name="Play-It-Again2"/> In 2001, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref>{{cite web |url=https://www.loc.gov/film/nfrchron.html |title=Films Selected to The National Film Registry, Library of Congress 1989-2008 (National Film Preservation Board, Library of Congress) |publisher=Library of Congress |date=January 17, 2010 |access-date=2010-06-25}}</ref> Current TV placed the film 2nd on their list of [[50 Documentaries to See Before You Die]] in 2011. In a 2014 ''[[Sight and Sound]]'' poll, film critics voted ''The Thin Blue Line'' the fifth best documentary film of all time.<ref name="BBC-doc">{{cite news |url=https://www.bbc.co.uk/news/entertainment-arts-28602506 |title=Silent film tops documentary poll |access-date=1 August 2014 |work=BBC News |date=August 2014}}</ref>
+
+===In popular culture===
+The film was parodied in Season 1 of ''[[Documentary Now!#Season 1|Documentary Now!]]'' as "The Eye Doesn't Lie".<ref>{{Cite web |url=https://www.youtube.com/watch?v=EjEhCcU8jbw |title=Documentary Now! &#124; 5 Ways The Eye Doesn't Lie is Just Like Thin Blue Line &#124; IFC |date=September 11, 2015 |access-date=November 16, 2021 |publisher=[[YouTube]]}}</ref>
+
+==Aftermath==
+Morris's investigation suggested that five witnesses committed [[perjury]].<ref>{{cite news |url=http://www.errolmorris.com/film/tbl_5witnesses.html |title=Thin Blue Line: Five Key Witnesses |publisher=[[Errol Morris|ErrolMorris.com]] |first=Errol |last=Morris |access-date=2008-03-11}}</ref> As a result of publicity around the film, Adams (whose death sentence had been overturned by the [[U.S. Supreme Court]] in 1980 and subsequently commuted to life in prison by the Governor of Texas, [[Bill Clements]]) had his conviction overturned by the [[Texas Court of Criminal Appeals]],<ref>768 S.W.2d 281 (Tex. Ct. Crim. App. 1989) (''en banc''), at [https://scholar.google.com/scholar_case?q=%22768+S.W.2d+281%22&hl=en&as_sdt=4,44&case=17336843817044904927&scilh=0].</ref> and the case was returned to [[Dallas County, Texas|Dallas County]] for a retrial.<ref>''Ex parte Adams'', 768 S.W.2d 281 (Tex. Ct. Crim. App. 1989) (''en banc''), at [https://scholar.google.com/scholar_case?q=%22768+S.W.2d+281%22&hl=en&as_sdt=4,44&case=17336843817044904927&scilh=0].</ref> The district attorney's office declined to prosecute the case again,<ref>{{cite news |url=http://docs.newsbank.com/g/GooglePM/DM/lib00377,0ED3D061E4EC1AEE.html |title=DA DROPS MURDER CHARGE AGAINST ADAMS |website=[[Dallas Morning News]] |date=March 24, 1989 |first=Bobbi |last=Miller |access-date=2008-03-11}}</ref> and Adams was subsequently ordered released as a result of a ''[[habeas corpus]]'' hearing in 1989.
+
+After Adams' release from prison, he ended up in a legal battle with Morris concerning the rights to his story. The matter was settled out of court after Adams was granted sole use of anything written or made on the subject of his life.<ref>{{cite news |url=https://select.nytimes.com/gst/abstract.html?res=FA0717FB39590C758CDDA10894D1484D81 |archive-url=https://archive.today/20120716192720/http://select.nytimes.com/gst/abstract.html?res=FA0717FB39590C758CDDA10894D1484D81 |url-status=dead |archive-date=July 16, 2012 |title=Freed Inmate Settles Suit With Producer Over Rights to Story |website=[[Dallas Morning News]] |date=August 6, 1989 |access-date=March 11, 2008}}</ref> Adams himself said of the matter: "Mr. Morris felt he had the exclusive rights to my life story. I did not sue Errol Morris for any money or any percentages of ''The Thin Blue Line'', though the media portrayed it that way."<ref>{{cite news |url=http://www.rtis.com/touchstone/summer00/06execut.htm |title=Danny Yeager Interviews Randall Dale Adams |website=The Touchstone |volume=X, No. 3 |date=Summer 2000 |first=Danny |last=Yeager |access-date=2008-03-11 |archive-url=https://web.archive.org/web/20010222154607/http://www.rtis.com/touchstone/summer00/06execut.htm |archive-date=2001-02-22}}</ref>
+
+Morris, for his part, recalled: "When [Adams] got out, he became very angry at the fact that he had signed a release giving me rights to his life story. And he felt as though I had stolen something from him. Maybe I had, maybe I just don't understand what it's like to be in prison for that long, for a crime you hadn't committed. In a certain sense, the whole crazy deal with the release was fueled by my relationship with his attorney. And it's a long, complicated story, but I guess when people are involved, there's always a mess somewhere."<ref>{{cite news |url=http://www.wpr.org/news/errol%20morris%20iv.cfm |title=An Interview with Errol Morris |publisher=[[Wisconsin Public Radio]] |date=July 2, 2004 |first=Brian |last=Bull |access-date=2008-03-11 |archive-date=September 11, 2023 |archive-url=https://web.archive.org/web/20230911065354/https://www.wpr.org/news/errol%20morris%20iv.cfm |url-status=dead }}</ref>
+
+Despite being wrongly imprisoned for 12 years, Adams received no payment from the state of Texas. Had Adams been found to be wrongly convicted under today's law in Texas, he would get $80,000 for each year of incarceration. However, since Adams was released because his case was dismissed, and not because he was pardoned, he received no payment from the state after his release for his wrongful conviction.<ref name="DougMartin">{{cite news |url=https://www.nytimes.com/2011/06/26/us/26adams.html?_r=0 |title=Randall Adams, 61, Dies - Freed With Help of Film |work=[[The New York Times]] |date=June 25, 2011 |first=Douglas |last=Martin |access-date=December 27, 2012}}</ref> Adams later worked as an anti-[[death penalty]] [[Activism|activist]]. He died of [[brain cancer]] in October 2010 at the age of 61, but lived in such anonymity that his death was not discovered by the media until June 2011.<ref name="DougMartin"/>
+
+==Postmodernism==
+Some scholars believe that by calling the certainty of events surrounding the murder case into question, Morris positions the film as a [[postmodernist film|postmodern text]].<ref>{{Cite web |url=http://www.tasteofcinema.com/2016/10-great-postmodern-documentaries-that-are-worth-your-time/ |title=10 Great Postmodern Documentaries That Are Worth Your Time |first=Richard |last=Gallagher |website=Tasteofcinema.com |date=July 20, 2016 |access-date=November 16, 2021}}</ref> Referring to theorist [[Fredric Jameson]]'s framework, film critic [[Linda Williams (film scholar)|Linda Williams]] writes that documentaries that seek only to reveal the past support the notion of an "intensified nostalgia for a past that is already lost". Conversely, ''The Thin Blue Line'' suggests Adams' innocence by clouding a previously established history.<ref>{{cite journal|last=Williams|first=Linda|title=Mirrors without Memories: Truth, History, and the New Documentary|journal=[[Film Quarterly]]|publisher=[[University of California Press]]|location=Berkeley, California|volume=46|issue=3|date=Spring 1993|pages=9–21}}</ref>
+
+''[[Stanford Law Review]]'' author Richard Sherwin believes ''The Thin Blue Line'' actually presents two plots. He says Morris presents one plot through the construction and ordering of the non-linear story, revealing an easy-to-follow narrative implicating Harris instead of Adams, not unlike the story that implicated Adams in the first place, because it presents an easy-to-believe retelling of history. The other plot, Sherwin says, is an example of "postmodern skepticism". Within this notion Sherwin notes sociologist [[Jean Baudrillard]]'s interpretation of the postmodern media landscape as "flattening" meaning as well as the impossibility of the existence of "truth, authority, and history".
+
+Sherwin criticizes ''The Thin Blue Line'' for failing to resolve what he calls an "acausal" plot, referring to certain details about the case that were presented but remain unanswered, such as where Adams actually was the night of the crime (Adams himself answers this question by stating that he was watching TV in his motel room and fell asleep, but this is left without conclusive explanation, with Adams's brother, who was in the motel room at the time, not appearing in the movie to corroborate the explanation). Instead, the end of the film abandons the "acausal" plot by returning to the easy-to-believe narrative, that which paints Harris as the perpetrator. Sherwin argues that for the film to succeed as an affirmative postmodern work, it must contextualize the past events within a present narrative. He argues that it should take on the challenge, through the clouding of history, of resisting the lure of a narrative and fulfilling "their sworn duty to convict only in the absence of reasonable doubt."<ref>{{cite journal|last=Sherwin|first=Richard K. |title=Law Frames: Historical Truth and Narrative Necessity in a Criminal Case|journal=[[Stanford Law Review]]|publisher=[[Stanford Law School]]|location=Stanford, California|volume=47|issue=1|date=November 1994|page=39-83}}</ref>
+
+In an interview at the [[Museum of Modern Art]], Morris denied being postmodern in any way, and quipped: <blockquote>"I am no post-modernist. I live in [[Cambridge, Massachusetts]]. And one of the nice things about Cambridge, Massachusetts is that '[[Jean Baudrillard|Baudrillard]]' isn't in the phone book.
+
+To me, there's a physical world out there, pure and simple. There's a world where things actually happen. In ''The Thin Blue Line,'' it was of all-consuming importance to figure out who was driving that car; who pulled the gun out from underneath the seat, who shot the cop. Questions like these are not up for grabs."<ref>{{Cite web |url=http://www.errolmorris.com/content/interview/moma1999.html |title=Errol Morris: Interview |website=Errolmorris.com |access-date=November 16, 2021}}</ref> </blockquote>In a video interview for the ''[[Columbia Journalism Review]]'', Morris reiterates his view of an inherent value in truth, acknowledging that our view of history will always be flawed, but that truth should still be sought.<ref>{{Cite web |url=https://www.youtube.com/watch?v=OHNf4No5WtY |title=Recovering Reality: A Conversation with Errol Morris |date=March 4, 2008 |access-date=November 16, 2021 |publisher=[[YouTube]]}}</ref>
+
+==See also==
+* ''[[The Thin Blue Lie]]'', a television film about police brutality in Philadelphia under the mayorship of [[Frank Rizzo]]
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* Renée R. Curry: ''Errol Morris' Construction of Innocence in "The Thin Blue Line".'' In: Rocky Mountain Review of Language and Literature, Vol. 49, No. 2 (1995), pp.&nbsp;153–167.
+* Matthew Sorrento: ''[https://books.google.com/books?id=3eC1jgEACAAJ Documenting Crime: Genre, Verity, and Filmmaker as Avenger].'' In: Caroline Picart, et al. (eds.): ''Framing Law and Crime.'' Fairleigh Dickinson UP, 2016. {{ISBN|978-1-61147-705-4}}.
+* Linda Williams: ''Truth, History, and The Thin Blue Line.'' In: [[Barry Keith Grant]]/Jeannette Sloniowski (eds.): ''Documenting the documentary: close readings of documentary film and video.'' 1998. {{ISBN|978-0814326398}}
+
+== External links ==
+* {{IMDb title|0096257}}
+* [http://www.errolmorris.com/film/tbl.html ''The Thin Blue Line''] from [[Errol Morris|ErrolMorris.com]]
+* [https://www.youtube.com/watch?v=cwU4jwrRpIE Excerpt]
+* ''[https://mubi.com/films/the-thin-blue-line The Thin Blue Line]'' on [[MUBI]]
+
+{{Errol Morris|state=collapsed}}
+{{Philip Glass}}
+{{Navboxes
+|title = Awards for ''The Thin Blue Line''
+|list =
+{{Boston Society of Film Critics Award for Best Documentary Film}}
+{{National Board of Review Award for Best Documentary Film}}
+{{National Society of Film Critics Award for Best Non-Fiction Film}}
+{{New York Film Critics Circle Award for Best Non-Fiction Film}}
+}}
+{{Dallas Police Department|state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Thin Blue Line (1988 film), The}}
+[[Category:1988 films]]
+[[Category:1988 documentary films]]
+[[Category:American documentary films]]
+[[Category:American independent films]]
+[[Category:Dallas Police Department]]
+[[Category:Documentary films about miscarriage of justice in the United States]]
+[[Category:Documentary films about Texas]]
+[[Category:Edgar Award–winning works]]
+[[Category:Films scored by Philip Glass]]
+[[Category:Films directed by Errol Morris]]
+[[Category:Films set in Texas]]
+[[Category:United States National Film Registry films inducted in 2001]]
+[[Category:Films set in the 1970s]]
+[[Category:Documentary films about crime in the United States]]
+[[Category:American Playhouse]]
+[[Category:1988 independent films]]
+[[Category:1988 English-language films]]
+[[Category:1988 American films]]
+[[Category:English-language documentary films]]
+[[Category:English-language independent films]]
+[[Category:Penal system in Texas]]

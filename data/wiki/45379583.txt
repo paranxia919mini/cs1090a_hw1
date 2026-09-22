@@ -1,0 +1,532 @@
+{{Short description|Film by Robert Eggers}}
+{{Use American English|date=November 2022}}
+{{Use mdy dates|date=December 2023}}
+{{Infobox film
+| image          = The Witch poster.png
+| alt            = A silhouette of a naked woman's body walking into the woods, vignetted by a naturally shaped oval
+| caption        = Theatrical release poster
+| director       = [[Robert Eggers]]
+| writer         = Robert Eggers
+| producer       = {{Plainlist|
+* Jay Van Hoy
+* [[Lars Knudsen (producer)|Lars Knudsen]]
+* Jodi Redmond
+* [[Daniel Bekerman]]
+* [[Rodrigo Teixeira (producer)|Rodrigo Teixeira]]
+}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Anya Taylor-Joy]]
+* [[Ralph Ineson]]
+* [[Kate Dickie]]
+* [[Harvey Scrimshaw]]
+* Ellie Grainger
+* Lucas Dawson
+}}
+| cinematography = [[Jarin Blaschke]]
+| editing        = [[Louise Ford (film editor)|Louise Ford]]
+| music          = [[Mark Korven]]
+| studio         = {{Plainlist|
+* Parts and Labor
+* RT Features
+* Rooks Nest Entertainment
+* [[Chris Columbus (filmmaker)|Maiden Voyage Pictures]]
+* Mott Street Pictures
+* Code Red Productions
+* [[Scythia Films]]
+* Pulse Films
+* Special Projects
+}}
+| distributor    = {{Plainlist|
+* [[A24]] (United States)
+* [[Elevation Pictures]] (Canada)
+* [[Universal Pictures]] (International)
+}}
+| released       = {{Film date|2015|1|27|[[2015 Sundance Film Festival|Sundance]]|2016|2|19|United States}}
+| runtime        = 92 minutes<!--Theatrical runtime: 92:43--><ref>{{cite web |url=https://www.bbfc.co.uk/release/the-witch-q29sbgvjdglvbjpwwc00mdaxodk|title=''The Witch'' (15) |work=[[British Board of Film Classification]] |date=February 18, 2016 |access-date=February 18, 2016}}</ref>
+| country        = {{Plainlist|
+* United States<ref>{{cite web |url=https://www.sundance.org/projects/the-witch-c1ef65ab-4fce-45b5-9b7f-0db5e97da59b |title=The Witch |website=Sundance institute |access-date=February 18, 2020 |archive-date=February 7, 2022 |archive-url=https://web.archive.org/web/20220207182858/http://www.sundance.org/projects/the-witch-c1ef65ab-4fce-45b5-9b7f-0db5e97da59b |url-status=dead }}</ref>
+* Canada<ref>{{cite web |title=The Witch |url=https://www.screendaily.com/reviews/the-latest/the-witch/5082149.article |first=Tim |last=Grierson |date=January 24, 2015 |work=[[Screen Daily]] |access-date=May 8, 2016}}</ref><ref>{{cite web |url=https://www.telefilm.ca/en/news/releases/2015/01/14/record-breaking-year-canada-2015-sundance-film-festival-10-feature-films |title=Record-breaking year for Canada at the 2015 Sundance Film Festival |date=January 14, 2015 |website=[[Telefilm Canada]] |access-date=May 8, 2016 |archive-url=https://web.archive.org/web/20160816042835/https://www.telefilm.ca/en/news/releases/2015/01/14/record-breaking-year-canada-2015-sundance-film-festival-10-feature-films |archive-date=August 16, 2016 |url-status=dead }}</ref>
+* United Kingdom
+}}
+| language       = [[Early Modern English]]
+| budget         = $4 million<ref>{{Cite web |date=May 2017 |title=2016 Feature Film Study |url=https://www.filmla.com/wp-content/uploads/2017/05/2016_film_study_WEB.pdf |website=Film L.A. Inc. |access-date=June 29, 2017}}</ref>
+| gross          = $40.9 million<ref name="BOM">{{cite web |url=https://boxofficemojo.com/movies/?id=thewitch.htm |title=The Witch (2016) |website=Box Office Mojo |access-date=August 24, 2016}}</ref>
+}}
+'''''The Witch''''' (stylized as '''''The VVitch''''', and subtitled '''''A New-England Folktale''''') is a 2015 [[Gothic film|gothic]] [[folk horror]]<ref>{{cite news |last=Fleet |first=Adam |date=April 19, 2022 |title=The Witch: Robert Eggers' folk horror debut worms its way under your skin |url=https://www.theguardian.com/film/2022/apr/20/the-witch-robert-eggers-folk-horror-debut-worms-its-way-under-your-skin |work=[[The Guardian]] |location= |access-date=July 30, 2022}}</ref><ref>{{Cite web |last=Kate |first=One Take |date=2016-06-13 |title=The Witch movie review |url=https://onetakekate.com/the-witch-movie-review/ |access-date=2026-07-21 |website=One Take Kate |language=en-US}}</ref> film written and directed by [[Robert Eggers]] in his feature directorial debut. It stars [[Anya Taylor-Joy]] in her feature film debut, alongside [[Ralph Ineson]], [[Kate Dickie]], [[Harvey Scrimshaw]], Ellie Grainger, and Lucas Dawson. Set in 1630s New England, the narrative follows a [[Puritan migration to New England (1620–1640)|Puritan]] family who are preyed upon by an evil force in the woods beyond their farm. In fear and desperation, they turn upon one another even when the oldest daughter is suspected of being a witch.<ref>{{Cite web|url=https://slate.com/culture/2016/02/the-witch-director-robert-eggers-on-the-real-history-behind-the-movies-most-wtf-scenes.html|title=All The Witch's Most WTF Moments, Explained: A Spoiler-Filled Interview With the Director|last=Wickman|first=Forrest|date=February 23, 2016|website=[[Slate (magazine)|Slate]]|language=en|access-date=September 10, 2019}}</ref>
+
+An international co-production of the United States, the United Kingdom and Canada, the film premiered at the [[2015 Sundance Film Festival|Sundance Film Festival]] on January 27, 2015, and was [[wide release|widely released]] by [[A24]] on February 19, 2016. It was a critical and financial success, grossing $40 million against a $4 million budget,<ref name=BOM/> and is considered by some to be one of the best horror films of the 2010s and the 21st century.<ref>{{Cite web |last=Craig |first=Richard |date=July 4, 2022 |title=7 Must-Watch Folk Horror Movies, From Midsommar to The Witch |url=https://www.cbr.com/best-folk-horror-movies-midsommar-the-witch/ |access-date=July 23, 2022 |website=[[CBR.com|CBR]] |language=en-US}}</ref><ref>{{Cite web |date=October 20, 2019 |title=The Best Horror Movie of 2016: The Witch |url=https://www.pastemagazine.com/movies/horror-movies/best-horror-movie-of-2016-the-witch-robert-eggers/ |access-date=July 23, 2022 |website=pastemagazine.com |language=en}}</ref><ref>{{Cite web |last=Chitwood |first=Adam |date=February 19, 2016 |title=The Witch Review: The Scariest Horror Film in Years |url=https://collider.com/the-witch-review/ |access-date=July 23, 2022 |website=Collider |language=en-US}}</ref><ref name="Horror"/>
+
+==Plot==
+In 1630s [[New England Colonies|New England]], English settler William and his family—his wife Katherine, teenage daughter Thomasin, preteen son Caleb, and young fraternal twins Mercy and Jonas—are [[excommunication|banished]] from a [[Puritan]] settlement over a religious dispute. They build a farm near a large, secluded forest and Katherine bears her fifth child, Samuel. While under Thomasin's care, Samuel abruptly disappears. It is revealed that a [[witch]] has stolen and killed Samuel to use his body to make a [[flying ointment]] in order to induce [[Transvection (flying)|transvection]].<ref name="ATWMWTFME">{{cite magazine |url=http://www.slate.com/blogs/browbeat/2016/02/23/the_witch_director_robert_eggers_on_the_real_history_behind_the_movie_s.html |title=All The Witch's Most WTF Moments, Explained: A Spoiler-Filled Interview With the Director |last1=Wickman |first1=Forrest |last2=Eggers |first2=Robert |date=February 23, 2016 |magazine=[[Slate (magazine)|Slate]] |access-date=February 29, 2016}}</ref><ref>{{Cite web|first=Soren |last=Andersen|url=https://www.seattletimes.com/entertainment/movies/the-witch-a-holy-terror-set-in-1630/|title = 'The Witch': A holy terror, set in 1630|work=[[The Seattle Times]]|date = February 18, 2016}}</ref>
+
+Devastated by the loss, Katherine spends her days crying and praying. Insisting a wolf took the child, William takes Caleb hunting in the woods to find and kill it when Caleb wonders if the [[infant baptism|unbaptized]] Samuel went to [[Heaven]]. In response, William discloses that he secretly traded Katherine's prized silver cup for hunting supplies. At the farm, the twins play with the family's [[British Primitive goat|billy goat]] Black Phillip, who they both say talks to them. Katherine blames Thomasin for misplacing her silver cup and holds her responsible for the loss of Samuel. That night, the children overhear their parents arguing about their possible starvation and making plans to return to the settlement before sending Thomasin away to serve another family.
+
+The next morning, Thomasin and Caleb sneak into the forest to check a [[Trapping|trap]]. Their dog Fowler chases a [[hare]], with Caleb in pursuit; the hare frightens their horse, which throws Thomasin to the ground and knocks her unconscious. Caleb becomes lost and discovers Fowler's disemboweled body. Delving further into the thicket, he discovers a [[hut|hovel]] from which the witch, disguised as a seductive young woman, emerges and kisses him. Thomasin awakens and finds her way home by following William's voice. As Katherine berates Thomasin for taking Caleb into the woods, William defends Thomasin by reluctantly admitting that he sold the cup and he had first taken Caleb to the woods.
+
+That night, Caleb returns to the farm naked, delirious, and mysteriously ill. Katherine suggests that Caleb has fallen victim to witchcraft and prays for him. The next day, Caleb goes into violent convulsions and vomits a whole apple, before passionately proclaiming his love for [[Jesus|Christ]] and dying peacefully. The twins accuse Thomasin of [[Christian views on witchcraft|practicing witchcraft]], but she in turn accuses the two of them for their supposed conversations with Black Phillip and confronts their father on his intentions to send her away. Angered by his children's behavior, William locks them all in the goat house.
+
+In the middle of the night, the twins and Thomasin awake to find the witch, appearing as a naked old woman, drinking the blood of a [[nanny goat]]. She turns towards them and laughs, then attacks the twins offscreen as Thomasin watches in terror. In the house, Katherine has a [[hallucination|hallucinatory vision]] in which Caleb and Samuel have returned. She takes Samuel and nurses him; in reality, she has exposed her breasts to a [[raven]], which proceeds to peck away at her body. At dawn, William finds the goat stable destroyed, the goats [[disembowelment|eviscerated]], the twins missing, and an unconscious Thomasin with bloodied hands. As she stirs, Black Phillip gores and kills him. An unhinged Katherine blames Thomasin for everything that has happened and tries to strangle her, forcing Thomasin to tearfully kill her mother in self-defense with a [[billhook]].
+
+Now alone, Thomasin enters the goat house and urges Black Phillip to speak to her. The goat responds in a human voice and offers her the life she desires. When she accepts, he materializes into a [[Satan|handsome, black-clad man]], tells her to remove her clothes, and guides her hand to [[Deal with the Devil|sign her name in a book]]. Accompanied by Black Phillip in his goat form, a naked Thomasin enters the forest where she finds a [[coven]] of naked witches holding a [[Witches' Sabbath]] around a [[bonfire]]. The witches begin to levitate. Thomasin joins them, laughing hysterically as she ascends above the trees.
+
+==Cast==
+{{castlist|
+* [[Anya Taylor-Joy]] as Thomasin, the oldest daughter of a family. An uncredited body double from behind portrayed Thomasin in her nude scene.
+* [[Ralph Ineson]] as William, the patriarch of his family and the father of Thomasin
+* [[Kate Dickie]] as Katherine, the wife of William and mother of Thomasin
+* [[Harvey Scrimshaw]] as Caleb, the brother of Thomasin
+* Ellie Grainger as Mercy, the younger sister of Thomasin
+* Lucas Dawson as Jonas, the twin sibling of Mercy and younger brother of Thomasin
+* [[Julian Richings]] as the Governor
+* [[Bathsheba Garnett]] as The Witch
+** [[Sarah Stephens]] as The Witch (young)
+* [[Daniel Malik|Wahab Chaudhry]] as [[Satan|Black Phillip]] (both voice and human form)
+** [[Charlie (goat)|Charlie]] as Black Phillip (goat form)<ref>{{cite magazine |url=https://hollywoodreporter.com/news/black-phillip-real-story-behind-871974 |title=Black Phillip: The Real Story Behind the Breakout Goat From 'The Witch' |date=March 2, 2016 |last=Abramovitch |first=Seth |magazine=[[The Hollywood Reporter]] |access-date=February 12, 2017}}</ref>
+}}
+
+==Production==
+
+[[File:The Triall of VVitchcraft.png|thumb|A historical book using the "VVitch" spelling]]
+
+===Development===
+Eggers, who lived in New Hampshire, was inspired to write the film by his childhood fascination with [[witchcraft|witches]] and frequent visits to the [[Plimoth Patuxet|Plimoth Plantation]] as a schoolboy. After unsuccessfully pitching films that were "too weird, too obscure", Eggers realized that he would have to make a more conventional film.<ref name="Indiewire">{{cite web |url=https://indiewire.com/article/how-robert-eggers-combined-history-and-childhood-horrors-in-the-witch-20151021 |title=How Robert Eggers Combined History and Childhood Horrors in 'The Witch' |last1=Anielski |first1=Ryan |date=October 21, 2015 |website=[[IndieWire]] |access-date=February 9, 2016}}</ref> He said at a Q&A, "If I'm going to make a genre film, it has to be personal and it has to be good."<ref name="Indiewire"/> Director [[Alfonso Cuarón]] read the screenplay in 2013, saying it made him "more than anything, curious."<ref name="NewYorkerIssue">{{cite magazine|url=https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream |url-status=live |archive-url=https://web.archive.org/web/20220329132254/https://www.newyorker.com/magazine/2022/04/04/robert-eggerss-historical-visions-go-mainstream |archive-date=March 29, 2022 |url-access=limited|title=Robert Eggers's Historical Visions Go Mainstream|date=March 28, 2022|first=Sam|last=Knight|magazine=[[The New Yorker]]|access-date=March 29, 2022}}</ref> The production team worked extensively with British and American museums, as well as consulting experts on 17th-century British agriculture.<ref>{{cite magazine |last=Bitel |first=Anton |title=Voices of the Undead: Robert Eggers on The Witch |url=https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/interviews/robert-eggers-witch |date=March 11, 2016 |magazine=[[Sight & Sound]] |publisher=[[British Film Institute]] |access-date=April 17, 2016}}</ref> Eggers wanted the set constructed to be as historically accurate as possible, and therefore brought in a thatcher and a carpenter from Virginia and Massachusetts, respectively, who had the proper experience building in the style of the film's period.<ref>{{cite magazine |last=Crucchiola |first=Jordan |title=How The Witch's Director Made His Film So Terrifying |url=https://www.wired.com/2016/02/robert-eggers-set-design-how-he-made-the-witch-so-scary/ |magazine=Wired |date=February 20, 2016 |access-date=July 9, 2020}}</ref>
+
+Although Eggers wanted to film the picture on location in New England, he chose to film in Canada instead due to favorable [[tax incentive]]s.<ref name="Indiewire"/> This proved to be something of a problem for him, because he could not find the forest environment he was looking for in the country.<ref name="Indiewire"/> He eventually began scouting "off the map" and found a suitable location ([[Kiosk, Ontario]]) that was "extremely remote"; he said that the nearest town "made New Hampshire look like a metropolis".<ref name="Indiewire"/>
+
+The casting took place in England, as Eggers wanted authentic accents to represent a family newly arrived in colonial Plymouth.<ref name="vnews">{{cite news |last1=Smith |first1=Nicola |date=March 18, 2016 |title=New Hampshire Director Sifts His Home Soil |url=https://www.vnews.com/Archives/2016/03-Filler/EggersQandA-ns-vn-031816 |url-status=dead |archive-url=https://web.archive.org/web/20230131075708/https://www.vnews.com/Archives/2016/03-Filler/EggersQandA-ns-vn-031816 |archive-date=January 31, 2023 |access-date=July 22, 2018 |work=[[Valley News]]}}</ref>
+
+===Filming===
+To give the film an authentic look, Eggers shot only "with natural light and indoors, the only lighting was candles". He also chose to stylize the film's title as "''The VVitch''" (with two "V"s instead of a "W") in the title sequence and on posters, stating that he found this spelling in a [[Jacobean era|Jacobean-era]] pamphlet on witchcraft, among other period-texts.<ref>{{cite magazine |url=https://www.format.com/magazine/features/design/the-witch-robert-eggers-movie-interview |title=Designer-Turned-Director Robert Eggers Discusses His Horror Film 'The Witch' |last1=Bloom |first1=Jessica |date=March 15, 2016 |magazine=Format |access-date=September 26, 2016}}</ref>
+
+In December 2013, costume designer [[Linda Muir]] joined the crew, and consulted 35 books in the ''Clothes of the Common People in Elizabethan and Early Stuart England'' series to plan the costumes, which were made with wool, linen, and hemp. She also lobbied for a larger costume budget.<ref>{{Cite news |url=http://brightlightsfilm.com/dressing-witch-interview-costume-designer-linda-muir/# |title=Dressing The Witch: An Interview with Costume Designer Linda Muir |last=Ankenbauer |first=Sam |date=May 27, 2016 |work=[[Bright Lights Film Journal]] |access-date=March 24, 2017}}</ref>
+
+A troupe of [[Butoh]] dancers played the coven of witches at the end of the film, creating their own choreography.
+
+===Music===
+[[Mark Korven]] wrote the film's score, which aimed to be "tense and dissonant" while focusing on minimalism. Eggers vetoed the use of any electronic instruments and "didn't want any traditional harmony or melody in the score"; so Korven chose to create music with atypical instruments, including the [[nyckelharpa]] and [[waterphone]]. He knew the director liked to retain a degree of creative control, so he relied on loose play centered on improvisation "so that [Eggers] could move notes around whenever he wanted".<ref>{{cite web |url=https://bloody-disgusting.com/interviews/3381360/we-interviewed-composer-mark-korven-about-his-terrifying-score-for-the-witch/ |title=We Interviewed Composer Mark Korven About His Terrifying Score for 'The Witch' |last=Barkan |first=Jonathan |date=February 26, 2016 |work=[[Bloody Disgusting]] |access-date=July 24, 2017}}</ref><ref>{{cite web |url=https://nofilmschool.com/2016/09/mark-korven-composer-the-witch |title=How Mark Korven Avoided the Temptations of Temp Music to Score 'The Witch' |last=Fusco |first=Jon |date=September 16, 2016 |website=No Film School.com |access-date=August 5, 2017}}</ref>
+
+====Track listing====
+{{Track listing
+| total_length = 38:18
+| title1 = What Went We
+| length1 = 1:58
+| title2 = Banished
+| length2 = 1:52
+| title3 = A Witch Stole Sam
+| length3 = 2:13
+| title4 = Hare in The Woods
+| length4 = 1:30
+| title5 = I Am the Witch Mercy
+| length5 = 1:17
+| title6 = Foster The Children
+| length6 = 1:18
+| title7 = Caleb is Lost
+| length7 = 1:48
+| title8 = Caleb's Seduction
+| length8 = 3:05
+| title9 = Caleb's Death
+| length9 = 5:25
+| title10 = William And Thomasin
+| length10 = 2:39
+| title11 = William's Confession
+| length11 = 4:08
+| title12 = The Goat And The Mayhem
+| length12 = 3:28
+| title13 = Follow The Goat
+| length13 = 1:15
+| title14 = Witches Coven
+| length14 = 2:14
+| title15 = Isle Of Wight
+| length15 = 1:41
+| title16 = Standish
+| length16 = 2:27
+}}
+<ref>{{cite web|url=https://www.soundtrack.net/album/the-witch/|work=[[Soundtrack.net]] |title=The Witch (Original Motion Picture Soundtrack)}}</ref>
+
+==Themes==
+According to  analysts, the film's impact is delivered not through scares, but by the effect of ambience and [[scenography]].{{sfnp|Hart|2019|p=85}}{{sfnp|Parker|2020|p=180}} This is stylistically represented by the film's use of [[expressionist]] lighting, the use of different kinds of camera to draw thematic limits, the editing employed to hide horror from the main sight, and the soundtrack's sonic dissonance accompanying instrumental scenes.{{sfnp|Hart|2019|p=85-86}} Samuel's physically impossible disappearance at the beginning of the film introduces the viewer to the film's atmosphere.{{sfnp|Hart|2019|p=85}}
+[[File:Linda maestra.jpg|thumb|200px|''Linda maestra'' by [[Francisco de Goya]], 1799]]
+
+The film's plot orbits around a psychological conflict, using a [[Sexual repression|repressive]], [[patriarchal]] portrayal of [[Puritan]] society and the dark, [[murder]]ous liberation of the witches.{{sfnp|Hart|2019|p=87}} The main female character, Thomasin, harbors worldly desires that differ from those of her conventionally Christian family,{{sfnp|Bacon|2019|p=77, 78}} yearning for [[independence]],{{sfnp|Hart|2019|p=87}}{{sfnp|Parker|2020|p=182}} [[sexuality]],{{sfnp|Fry|2019|p=173-174}} [[acceptance]],{{sfnp|Bacon|2019|p=76}}{{sfnp|Fry|2019|p=173-174}} and [[Power (social and political)|power]].{{sfnp|Bacon|2019|p=76}}{{sfnp|Fry|2019|p=173-174}} While her father and the [[Christian God]] fail to fulfill her needs, [[Satan]] speaks personally to her, offering earthly satisfaction.{{sfnp|Bacon|2019|p=78}} Therefore, with the demise of her family and the rejection of the Puritan society, Thomasin joins Satan and the witches, her only alternative, in order to find her long desired control over her own life.{{sfnp|Fry|2019|p=174}} Her [[nudity]] in the last scene reflects her act of casting off the bonds of her previous society.{{sfnp|Parker|2020|p=182}}
+
+The difference between both options, nevertheless, is rendered blurred by an evocation of equal [[religious extremism]].{{sfnp|Bacon|2019|p=76, 78-79}}{{sfnp|Fry|2019|p=173-174}} This is first felt in the architecture of the family's own home, which ironically resembles an archetypal witch's cottage itself, hinting at the gradual reveal that evil is already instilled in them.{{sfnp|Parker|2020|p=182}} On the opposite side, Satan's temptation of Thomasin also acquires traits of [[ideological]] [[Grooming (child abuse)|grooming]], slowly alienating her from her family.{{sfnp|Bacon|2019|p=76}}{{sfnp|Fry|2019|p=173}} At the end, despite her newfound cause and ecstatic laugh at the coven, Thomasin has not escaped her previous religiosity, but merely changed its direction, turning to murder in exchange for freedom.{{sfnp|Parker|2020|p=182}}{{sfnp|Bacon|2019|p=79}}
+
+The symbolic conflict between [[civilization]] and [[nature]] is also present in all aspects of the film.{{sfnp|Parker|2020|p=181}} The family lives next to a dark forest, a place tied to witchcraft in their culture, which underlines the conflict between their civilized, patriarchal religion and the [[Gothic fiction|Gothic]], wild natural world that surrounds them.{{sfnp|Parker|2020|p=181-183}} The forest, as well as the state of nudity,{{sfnp|Parker|2020|p=182}} are associated with monstrosity, with the untamed wilderness where forbidden liberation and sexuality emerge.{{sfnp|Hart|2019|p=87}}{{sfnp|Parker|2020|p=181}}{{sfnp|Fry|2019|p=172}} Accordingly, Caleb returns nude after being seduced by the witch, the witches themselves perform their acts while [[Skyclad (Neopaganism)|naked]], and Thomasin eventually adopts this code upon joining them.{{sfnp|Parker|2020|p=182}} At the end of the film, nature triumphs over its adversary, with the [[Pan (god)|Pan]]-like Black Phillip goring the axe-wielding William in a metaphor for man being consumed by the wild.{{sfnp|Parker|2020|p=183}}
+
+==Release==
+The film had its world premiere on January 27, 2015, at the [[2015 Sundance Film Festival]].<ref>{{cite web |url=https://www.sundance.org/blogs/news/premiere-and-doc-premiere-films-and-special-events-announced-for-2015-festival |title=Sundance Institute Announces Films in Premieres and Documentary Premieres for 2015 Sundance Film Festival |date=December 8, 2014 |website=[[Sundance Institute]] |access-date=February 16, 2016}}</ref><ref>{{cite web |url=http://www.sundance.org/projects/the-witch-c1ef65ab-4fce-45b5-9b7f-0db5e97da59b |title=The Witch |website=Sundance Film Festival |access-date=February 16, 2016 |archive-date=September 5, 2015 |archive-url=https://web.archive.org/web/20150905192118/http://www.sundance.org/projects/the-witch-c1ef65ab-4fce-45b5-9b7f-0db5e97da59b |url-status=dead }}</ref> It was screened on September 18, 2015, in the Special Presentations section of the [[2015 Toronto International Film Festival]].<ref name="variety">{{cite magazine |url=https://variety.com/2015/film/news/sandra-bullocks-our-brand-tom-hiddlestons-i-saw-the-light-to-premiere-at-toronto-1201572271/ |title=Sandra Bullock's 'Our Brand Is Crisis,' Robert Redford's 'Truth' to Premiere at Toronto |last=Punter |first=Jennie |date=August 18, 2015 |magazine=Variety |access-date=September 28, 2015}}</ref><ref>{{cite web |url=http://tiff.net/festivals/festival15/specialpresentations/the-witch |title=The Witch |website=TIFF.net |access-date=February 16, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160124121232/http://tiff.net/festivals/festival15/specialpresentations/the-witch |archive-date=January 24, 2016 }}</ref>
+
+[[A24]] and [[DirecTV Cinema]] acquired the film's distribution rights.<ref>{{cite web |url=https://thewrap.com/sundance-a24-directv-nearing-deal-for-robert-eggers-the-witch/ |title=Sundance: A24, DirecTV Buy Robert Eggers' 'The Witch' (Updated) |first=Jeff|last=Sneider |date=January 24, 2015 |website=[[TheWrap]] |access-date=February 16, 2016}}</ref> As it received very positive reactions in advance screenings, the studios decided to give the film a [[Wide release|wide theatrical release]] in the United States, which occurred on February 19, 2016.<ref>{{cite magazine |url=https://variety.com/2016/film/box-office/deadpool-box-office-the-witch-1201708282/ |title=Box Office: 'Deadpool' Still a Juggernaut; 'The Witch' Generating Heat |first=Brent|last=Lang |date=February 17, 2016 |magazine=[[Variety (magazine)|Variety]] |access-date=February 27, 2016}}</ref><ref>{{cite magazine |url=https://deadline.com/2016/02/deadpool-risen-the-witch-race-weekend-box-office-1201705730/ |title='Deadpool' Destroying Rivals With $56M Weekend; 'Risen' Burning 'Witch' |first=Alexander|last=D'Alessandro |date=February 19, 2016 |magazine=Deadline Hollywood |access-date=February 20, 2016}}</ref>
+
+The film was released on [[Blu-ray]] and digital HD in the United States on May 17, 2016, by [[Lionsgate Home Entertainment]].<ref>{{cite web |url=https://www.dvdsreleasedates.com/movies/7681/the-witch |title=The Witch |website=DVDsReleaseDates.com |access-date=May 7, 2016}}</ref> Special features on the discs include outtakes, an audio commentary by Eggers, the making-of documentary short ''The Witch: A Primal Folktale'', and a 30-minute question-and-answer session featuring Eggers, Taylor-Joy, and historians Richard Trask and Brunonia Barry, which was filmed in [[Salem, Massachusetts]], after a screening of the film.<ref>{{cite web |url=https://www.techtimes.com/articles/159107/20160517/review-witch-blu-ray-adds-historical-context-one-unique-horror.htm |title=Review: 'The Witch' Blu-Ray Adds Historical Context To One Of The Most Unique Horror Films In Years |first=Jason |last=Serafino |date=May 17, 2016 |website=Tech Times |access-date=May 17, 2016}}</ref> A [[Ultra HD Blu-ray|4K Ultra HD Blu-ray]] of the film was released on April 23, 2019.<ref>{{Cite web|url=https://www.blu-ray.com/movies/The-Witch-4K-Blu-ray/231318/|title = The Witch 4K Blu-ray (4K Ultra HD + Blu-ray + Digital)}}</ref>
+
+==Reception==
+===Box office===
+''The Witch'' grossed $25.1 million in the United States and Canada and $15.3 million in other territories, for a worldwide total theatrical gross of $40.4 million.<ref name=BOM/>
+
+In the United States and Canada, the film was released alongside ''[[Risen (2016 film)|Risen]]'' and ''[[Race (2016 film)|Race]]'', and was projected to gross $5–7 million from 2,046 theaters in its opening weekend.<ref name="preview">{{cite web |url=https://deadline.com/2016/02/deadpool-race-risen-witch-box-office-preview-1201704419/ |title='Deadpool' Still Cool In Weekend 2 With Superhero Set To Pass $200M – Box Office Preview |first=Anthony |last=D'Alessandro |date=February 17, 2016 |work=Deadline Hollywood |access-date=July 31, 2019}}</ref> It made $3.3 million on its first day, and $8.8 million in its opening weekend, finishing fourth at the box office behind ''[[Deadpool (film)|Deadpool]]'' ($56.5 million), ''[[Kung Fu Panda 3]]'' ($12.5 million), and ''Risen'' ($11.8 million).<ref name="opening">{{cite web |url=https://deadline.com/2016/02/deadpool-risen-the-witch-race-weekend-box-office-1201705730/ |title='Deadpool' Strong With Second Weekend Of $55M; 'Risen' Takes $11.8M, 'Witch' At $8.7M |first=Anthony|last=D'Alessandro |date=February 21, 2016 |work=[[Deadline Hollywood]] |access-date=April 13, 2018}}</ref>
+
+===Critical response===
+{{RT prose|91|7.8|340|As thought-provoking as it is visually compelling, ''The Witch'' delivers a deeply unsettling exercise in slow-building horror that suggests great things for debuting writer-director Robert Eggers.|ref=y|access-date=April 19, 2026}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 84 out of 100, based on 46 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''The Witch'' |url=https://www.metacritic.com/movie/the-witch |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=March 19, 2016 |archive-url= |archive-date= |url-status=}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "C−" on an A+ to F scale, while [[PostTrak]] reported filmgoers gave it a 55% overall positive score and a 41% "definite recommend".<ref name=opening/>
+
+Writing in ''[[Variety (magazine)|Variety]]'', [[Justin Chang]] commented that "A fiercely committed ensemble and an exquisite sense of historical detail conspire to cast a highly atmospheric spell in ''The Witch'', a strikingly achieved tale of a mid-17th-century New England family's steady descent into religious hysteria and madness."<ref>{{cite magazine |url=https://variety.com/2015/film/reviews/sundance-film-review-the-witch-1201411310/ |title=Sundance Film Review: 'The Witch' |last=Chang |first=Justin |date=January 23, 2015 |magazine=[[Variety (magazine)|Variety]] |access-date=September 8, 2015}}</ref> Yohana Desta of ''[[Mashable]]'' stated that ''The Witch'' is a "stunningly crafted experience that'll have you seeking out a church as soon as you leave the theater".<ref>{{cite web |url=https://mashable.com/2016/02/16/the-witch-review/#aYJHIG06qiqu |title='The Witch' is a film so f*cked up, Satan would see it twice |last=Desta |first=Yohana |date=February 18, 2016 | website=[[Mashable]] |language=en |access-date=February 21, 2016}}</ref> [[Peter Travers]], in his ''[[Rolling Stone]]'' review, gave the film 3½ stars, and wrote of the film: "Building his film on the diabolical aftershocks of Puritan repression, Eggers raises ''The Witch'' far above the horror herd. He doesn't need cheap tricks. Eggers merely directs us to look inside."<ref>{{cite magazine |url=https://www.rollingstone.com/movies/reviews/the-witch-20160218 |title='The Witch' Movie Review |last=Travers |first=Peter |date=February 18, 2016 |magazine=[[Rolling Stone]] |access-date=April 26, 2016}}</ref> [[Stephanie Zacharek]] summarized the movie in ''[[Time (magazine)|Time]]'' as "a triumph of tone", writing that "Although Eggers is extremely discreet—the things you don't see are more horrifying than those you do—the picture's relentlessness sometimes feels like torment."<ref>{{cite magazine |url=https://time.com/4226147/review-the-witch-new-england-folktale/ |title='The Witch' Movie Review: A Supercreepy New England Folktale |first=Stephanie |last=Zacharek |date=February 16, 2016 |magazine=[[Time (magazine)|Time]]|access-date=April 26, 2016}}</ref> Gregory Wakeman, writing for CinemaBlend, gave it five out of five stars, writing that "[its] acting, lighting, music, writing, production design, cinematography, editing, and direction all immediately impress. While, at the same time, they combine to create an innately bewitching tale that keeps you on tenterhooks all the way up until its grandiose but enthralling finale."<ref>{{cite web |url=https://cinemablend.com/reviews/Witch-69327.html |title=The Witch |first=Gregory |last=Wakeman |date=January 2015 |website=Cinemablend |access-date=April 26, 2016}}</ref> [[Ann Hornaday]] wrote in ''[[The Washington Post]]'' that the film joins the ranks of horror films such as ''[[The Exorcist]]'', ''[[The Omen (1976 film)|The Omen]]'', and ''[[Rosemary's Baby (film)|Rosemary's Baby]]'', saying that ''The Witch'' "comports itself less like an imitator of those classics than their progenitor", which is "a tribute to a filmmaker who, despite his newcomer status, seems to have arrived in the full throes of maturity, in full control of his prodigious powers."<ref>{{cite news |url=https://www.washingtonpost.com/goingoutguide/movies/17th-century-horror-film-the-witch-creeps-you-out-long-after-credits-roll/2016/02/18/6b50732a-d4c7-11e5-b195-2e29a4e13425_story.html?tid=kp_google |title=17th-century horror film 'The Witch' creeps you out long after credits roll |last=Hornaday |first=Ann |date=February 18, 2015 |newspaper=[[The Washington Post]]|access-date=April 26, 2016}}</ref> Writing for Best of Netflix, Debiparna Chakraborty praised the narrative, saying "''The Witch'' is a mesmerising exploration of the mundane horrors often spawned by barren isolation and religious fervour."<ref>{{Cite web |date=July 1, 2023 |title=The occult splendour of Robert Eggers' 'The Witch' |url=https://best-of-netflix.com/netflix-flashback-the-occult-splendour-of-robert-eggers-the-witch/ |access-date=November 22, 2023 |website=best-of-netflix.com |language=en-US}}</ref> Independent filmmaker Jay Bauman of ''[[RedLetterMedia]]'' named it his favorite film of 2016, enthusiastically stating: "I love it, I think it's a masterpiece... It's a first-time filmmaker which is shocking to me...because it feels like it's made by someone who's been making movies for decades who's a master of their craft".<ref>{{cite episode |url=https://www.youtube.com/watch?v=uqFyvZN_XHU&t=220s/ |title=Half in the Bag Episode 120: 2016 Movie Catch-up |series=Half in the Bag |last=Stoklasa| first=Mike |last2=Bauman |first2=Jay |date=December 3, 2016 |website=Youtube | access-date=May 5, 2021}}</ref>
+
+However, some critics, as well as audiences, were less pleased with the film. Ethan Sacks of the ''[[New York Daily News]]'' wrote that the film does not suffer from the cinematography, acting, or setting, and early on it "seems that ''The Witch'' is tapping a higher metaphor for coming of age...or religious intolerance...or man's uneasy balance with nature...or something. It doesn't take long into the film's hour and a half running time, however, to break that spell."<ref>{{cite news |url=http://www.nydailynews.com/entertainment/movies/witch-casts-spell-critics-not-good-article-1.2529738 |title='The Witch' casts a spell on critics though it's not good |first=Ethan |last=Sacks |date=February 17, 2016 |newspaper=[[New York Daily News]] |access-date=April 26, 2016}}</ref> Critics noted that the film received backlash from audiences regarding its themes and slow approach to horror.<ref>{{cite web |url=http://moviepilot.com/posts/3789611 |title=Is The Witch Really a Horror Movie? |date=February 18, 2016 |website=MoviePilot.com |access-date=April 26, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20160304013735/https://moviepilot.com/posts/3789611 |archive-date=March 4, 2016}}</ref> Lesley Coffin criticized A24, saying it was "a huge mistake" to market ''The Witch'' as a terrifying horror film:
+{{blockquote|Not because it doesn't fit into the genre of horror, but because of the power of expectations. The less you know about this movie the better your experience will be, but everyone who saw it opening weekend probably walked in with too much knowledge and hype to really get as much out of it as they could have if the film had the veil of mystery.<ref>{{cite web |url=https://www.themarysue.com/the-witch-review-beware-of-high-expectations |title=The Witch Review: Beware of High Expectations |last=Coffin |first=Lesley |date=February 22, 2016 |website=The Mary Sue |access-date=April 26, 2016}}</ref>}}
+
+''[[HitFix]]'' writer Chris Eggertson blamed mainstream Hollywood more generally for the unenthusiastic response of some audiences, saying that ''The Witch'' "got under [his] skin profoundly, but it did not have the moment-to-moment, audience-pleasing shocks that moviegoers have become accustomed to thanks to movies like ''[[Sinister (film)|Sinister]]'' and ''[[The Purge (2013 film)|The Purge]]'' and ''[[Paranormal Activity (film)|Paranormal Activity]]'' and every other [[Blumhouse]] and [[Platinum Dunes]] title in the canon."<ref>{{cite web |url=https://uproxx.com/hitfix/why-do-so-many-horror-fans-hate-the-witch/ |title=Why do so many horror fans hate The Witch? |last=Eggertsen |first=Chris |date=February 22, 2016 |website=[[Uproxx]]|access-date=October 29, 2021 |archive-url=https://web.archive.org/web/20160302063432/http://www.hitfix.com/news/why-do-so-many-horror-fans-hate-the-witch |archive-date=March 2, 2016}}</ref>
+
+Horror authors [[Stephen King]] and [[Brian Keene]] both reacted positively to the film. King tweeted significant praise for the film, writing: "''The Witch'' scared the hell out of me. And it's a real movie, tense and thought-provoking as well as visceral."<ref>{{cite web |url=https://bloody-disgusting.com/news/3380009/stephen-king/ |title='The Witch' Scared the Hell Out of Stephen King! |first=Brad |last=Miska |date=February 16, 2016 |website=[[Bloody Disgusting]]|access-date=April 26, 2016}}</ref> On social media, Keene stated: "''The Witch'' is a gorgeous, thoughtful, scary horror film that 90% of the people in the theater with you will be too stupid to understand."<ref>{{cite tweet |user=BrianKeene |last=Keene |first=Brian |number=701391382275952641 |title=THE WITCH is a gorgeous, thoughtful, scary horror film that 90% of the people in the theater with you will be too stupid to understand. |date=February 21, 2016 |access-date=April 26, 2016}}</ref>
+
+In July 2025, it was one of the films voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century," finishing at number 136.<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |access-date=2 July 2025}}</ref> It also ranked number 11 on ''[[The Hollywood Reporter]]''{{'}}s list of the "25 Best Horror Movies of the 21st Century."<ref name="Horror">{{cite web |date=July 23, 2025 |title=25 Best Horror Movies of the 21st Century, Ranked|url=https://www.hollywoodreporter.com/lists/25-best-horror-movies-of-the-21st-century-ranked/sinners-2025/ |access-date=2025-08-02}}</ref>
+
+====Religious interpretation====
+Julia Alexander of ''[[Polygon (website)|Polygon]]'' wrote that ''The Witch'' "asks people to try and understand what life would have been like for a family of devout Christians living in solitude, terrified of what may happen if they go against the [[Bible|word of God]]".<ref name=Alexander2016>{{cite web |url=http://www.polygon.com/2016/2/17/11034540/the-witch-review-a-terrifying-tale-of-depravity |title=The Witch review: A terrifying tale of depravity |last=Alexander |first=Julia |date=February 17, 2016 |website=[[Polygon (website)|Polygon]] |language=en |access-date=February 23, 2016}}</ref> In ''[[The Atlantic]]'', Alissa Wilkinson stated that many films featured at the 2015 Sundance Film Festival, including ''The Witch'', reveal a "resurgence of interest in the religious".<ref>{{cite web |url=https://www.theatlantic.com/entertainment/archive/2015/03/not-your-typical-god-movie/385315/ |title=Can Indie Filmmakers Save Religious Cinema? |last=Wilkinson |first=Alissa |date=March 18, 2015 |work=[[The Atlantic]] |access-date=February 23, 2016 |quote=''[[Last Days in the Desert]]'' was the obvious "Bible film" at this year's Sundance. But the festival's lineup revealed a resurgence of interest in the religious: In ''[[Don Verdean]]'', an affectionately satirical comedy, [[Sam Rockwell]] stars as a "Biblical archaeologist" who becomes a pawn in a war between two rival local ministers. ''The Witch'', a pristine horror debut from writer/director Robert Eggers, is a chilling circa-1600 story of the devil taking over a devout, Scripture-quoting family. ''[[I Am Michael]]'', executive produced by [[Gus Van Sant]], tells the true story of Michael Glatze (played by James Franco), a former gay activist who denounced homosexuality and became a Christian pastor. Other films like ''[[Z for Zachariah (film)|Z for Zachariah]]'' and ''[[Me and Earl and the Dying Girl|Me, Earl, and the Dying Girl]]'' subtly draw on questions and motifs that animate Biblical narratives and questions.}}</ref> [[Eve Tushnet]] commented in an article in ''[[The American Conservative|TAC]]'', which was also published in ''[[First Things]]'', that ''The Witch''{{'}}s view of witchcraft is "not revisionist" and further said the film is "pervaded by the [[fear of God]]. There are occasional references to His [[mercy]] but only as something to beg for, not something to trust in".<ref>{{cite magazine |url=https://www.theamericanconservative.com/articles/out-in-the-fields-with-God/ |title=Out in the Fields with God |last=Tushnet |first=Eve |date=February 26, 2016 |magazine=[[The American Conservative]] |access-date=March 5, 2016}}</ref><ref>{{cite web |url=https://www.firstthings.com/blogs/firstthoughts/2016/03/first-links-3416 |title=First Links — 3.4.16 |last=Tushnet |first=Eve |date=March 4, 2016 |website=[[First Things]]|access-date=March 5, 2016}}</ref>
+
+A review by Adam R. Holz in ''Plugged In'', a publication of the [[Christian fundamentalism|conservative Christian]] organisation [[Focus on the Family]], heavily criticised the film, stating that "William is absolutely devoted to leading his family in holiness and the ways of the Lord, which should be a good thing. But the fruit of William's rigorous focus on dogmatic piety ... is deep fear and morbid meditations on hell, damnation and the forces of spiritual darkness."<ref>{{cite web |url=http://www.pluggedin.com/movie-reviews/the-witch-2016/ |title=The Witch Movie Review (2016) |year=2015 |website=[[Plugged In (publication)]] |access-date=February 28, 2016}}</ref> Josh Larsen of ''Think Christian'', however, offered a different Christian explanation of the conclusion of the film, writing: "When it comes to encountering evil, the family in the film veers wildly back and forth between 'triumphalism' and 'defeatism,' two theological extremes", and "in refusing to allow for [[Grace in Christianity|grace]], they become easy pickings for the witch."<ref>{{cite web |url=http://thinkchristian.reframemedia.com/should-christians-be-afraid-of-the-witch |title=Should Christians be afraid of The Witch? |last=Larsen |first=Josh |date=February 24, 2016 |website=Think Christian |access-date=February 28, 2016}}</ref>
+
+[[Emily VanDerWerff]] of [[Vox (website)|''Vox'']] wrote:
+{{blockquote|A24 could have just as easily courted the approval of, say, [[Christian theology|theologians]] who have a fondness for [[Calvinism]]. ''The Witch'' takes place in Colonial America, and it unfolds from the perspective of period Christians who genuinely believe the woods around their tiny farm contain some sort of evil, supernatural being—and are ultimately proved correct.<ref name=VanDerWerff>{{cite web |url=https://www.vox.com/2016/2/18/11049790/the-witch-satan-satanism |title=Why Satanists have given new horror movie The Witch their endorsement |last=VanDerWerff |first=Emily |date=February 18, 2016 |website=[[Vox (website)|Vox]] |language=en |access-date=February 23, 2016}}</ref>}}
+
+===Accolades===
+{| class="wikitable sortable" style="font-size:small"
+! colspan="6" style="background: LightSteelBlue;" | List of awards and nominations
+|-
+! Award
+! Date of ceremony
+! Category
+! Recipient(s)
+! Result
+! class="unsortable"| {{nowrap|{{Tooltip|Ref.|Reference(s)}}}}
+|-
+| rowspan="2"| [[Austin Film Critics Association]]
+| rowspan="2"| [[Austin Film Critics Association Awards 2016|December 28, 2016]]
+| Best First Film
+| ''The Witch''
+| {{won}}
+| rowspan="2" style="text-align:center;"| <ref>{{cite web |url=https://awardswatch.com/news/austin-film-critics-association-afca-nominations-the-handmaiden-lands-top-mentions-trevante-rhodes-double-nominated/ |title=Austin Film Critics Association (AFCA) Nominations: The Handmaiden Lands Top Mentions, Trevante Rhodes Double Nominated |first=Erik |last=Anderson |date=December 15, 2016 |website=AwardsWatch.com |access-date=December 15, 2016}}</ref><ref>{{cite web |url=https://medium.com/austin-film-critics-association/2016-nominations-5307a85b7c6a#.yjh64hs3i |title=2016 Austin Film Critics Awards Nominees, 'Moonlight' and 'Arrival' lead the way in AFCA's 2016 nominations |first=Neil |last=Miller |date=December 15, 2016 |website=Medium.com |access-date=December 15, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20170622043509/https://austinfilmcritics.org/2016-nominations-5307a85b7c6a?gi=99f3d4c637ab |archive-date=June 22, 2017}}</ref>
+|-
+| Breakthrough Artist Award
+| [[Anya Taylor-Joy]]
+| {{nom}}
+|-
+| [[Boston Society of Film Critics]]
+| [[Boston Society of Film Critics Awards 2016|December 11, 2016]]
+| [[Boston Society of Film Critics Award for Best New Filmmaker|Best New Filmmaker]]
+| [[Robert Eggers]]
+| {{won}}
+| style="text-align:center;"| <ref>{{Cite magazine |url=https://hollywoodreporter.com/news/la-la-land-named-best-picture-by-boston-society-film-critics-955066 |title='La La Land' Named Best Picture by Boston Society of Film Critics |first=Patrick |last=Shanley |date=December 11, 2016 |magazine=[[The Hollywood Reporter]] |access-date=December 11, 2016}}</ref>
+|-
+| [[Bram Stoker Awards]]
+| April 29, 2017
+| Superior Achievement in a Screenplay
+| Robert Eggers
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web |url=https://horrorworld.org/2016-bram-stoker-awards-final-ballot/ |title=2016 Bram Stoker Awards Final Ballot |first=Angela |last=Bennett |date=February 23, 2017 |website=Horror World |access-date=February 26, 2017}}</ref>
+|-
+| rowspan="2"| [[Chicago Film Critics Association]]
+| rowspan="2"| [[Chicago Film Critics Association Awards 2016|December 15, 2016]]
+| Best Art Direction
+| ''The Witch''
+| {{nom}}
+| rowspan="2" style="text-align:center;"| <ref>{{Cite web |url=http://www.chicagofilmcritics.org/component/content/article/148-cfca-nominees-2016 |title=The 2016 Chicago Film Critics Association Award Nominees |date=December 11, 2016 |website=[[Chicago Film Critics Association]] |access-date=December 12, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161220200944/http://www.chicagofilmcritics.org/component/content/article/148-cfca-nominees-2016 |archive-date=December 20, 2016 }}</ref>
+|-
+| Most Promising Filmmaker
+| Robert Eggers
+| {{won}}
+|-
+| [[Critics' Choice Movie Awards|Critics Choice Awards]]
+| [[22nd Critics' Choice Awards|December 11, 2016]]
+| [[Critics' Choice Movie Award for Best Sci-Fi/Horror Movie|Best Sci-Fi/Horror Movie]]
+| ''The Witch''
+| {{nom}}
+| style="text-align:center;"| <ref>{{cite web |url=http://www.criticschoice.com/critics-choice-awards |title=La La Land Leads with 12 Nominations for the 22nd Annual Critics' Choice Awards |date=December 1, 2016 |website=Critics' Choice |access-date=December 1, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161203144845/http://www.criticschoice.com/critics-choice-awards/ |archive-date=December 3, 2016}}</ref>
+|-
+| rowspan="2"| [[Empire Awards]]
+| rowspan="2"| [[22nd Empire Awards|March 19, 2017]]
+| [[Empire Award for Best Horror|Best Horror]]
+| ''The Witch''
+| {{won}}
+| rowspan="2" style="text-align:center;"| <ref>{{Cite web |url=https://empireonline.com/movies/news/three-empire-awards-2017-rogue-one-tom-hiddleston-patrick-stewart-win-big/ |title=Three Empire Awards 2017: Rogue One, Tom Hiddleston and Patrick Stewart Win Big |last=Nugent |first=John |date=March 19, 2017 |work=[[Empire (magazine)|Empire]] |access-date=March 19, 2017}}</ref>
+|-
+| [[Empire Award for Best Female Newcomer|Best Female Newcomer]]
+| Anya Taylor-Joy
+| {{won}}
+|-
+| rowspan="4"| [[Fangoria Chainsaw Awards|''Fangoria'' Chainsaw Awards]]
+| rowspan="4"| October 2, 2017<ref name="FANGORIA">{{cite web |url=http://www.fangoria.com/new/the-2017-fangoria-chainsaw-awards-winners-and-full-results/ |title=The 2017 Fangoria Chainsaw Awards Winners and Full Results! |date=October 2, 2017 |website=[[Fangoria]] |access-date=October 9, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20171214193332/http://www.fangoria.com/new/the-2017-fangoria-chainsaw-awards-winners-and-full-results/ |archive-date=December 14, 2017 }}</ref>
+| Best Film
+| ''The Witch''
+| {{Won}}
+| rowspan="4" style="text-align:center;"| <ref name="FANGORIA"/>
+|-
+| Best Actress
+| Anya Taylor-Joy
+| {{Won}}
+|-
+| Best Supporting Actor
+| [[Ralph Ineson]]
+| {{Nominated}}
+|-
+| Best Score
+| Mark Korven
+| {{Nominated}}
+|-
+| [[Rotten Tomatoes|Golden Tomato Awards]]
+| January 12, 2017
+| Best Horror Movie 2016
+| ''The Witch''
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web |url=https://editorial.rottentomatoes.com/guide/best-horror-movie-2016/ |title=Golden Tomato Awards - Best-Reviewed Horror Movies 2016 |website=[[Rotten Tomatoes]] |date=January 12, 2017}}</ref>
+|-
+| rowspan="3"| [[Golden Trailer Awards]]
+| rowspan="3"| May 4, 2016
+| Best Horror
+| "Family"
+| {{won}}
+| rowspan="3" style="text-align:center;"| <ref name="GTA17">{{cite web |url=http://www.goldentrailer.com/gta17_nominees/ |title=The 17th Annual Golden Trailer Award Nominees |work=Golden Trailer.com |access-date=October 27, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161110070412/http://www.goldentrailer.com/gta17_nominees/ |archive-date=November 10, 2016}}</ref>
+|-
+| Best Horror TV Spot
+| "Life"
+| {{nom}}
+|-
+| Best Sound Editing in a TV Spot
+| "Paranoia"
+| {{won}}
+|-
+| rowspan="2"| [[Gotham Awards]]
+| rowspan="2"| [[Gotham Independent Film Awards 2016|November 28, 2016]]
+| [[Gotham Independent Film Award for Breakthrough Actor|Breakthrough Actor]]
+| Anya Taylor-Joy
+| {{won}}
+| rowspan="2" style="text-align:center;"| <ref name="GothamAward">{{cite magazine |url=https://variety.com/2016/film/news/gotham-awards-nominations-2016-list-nominees-1201895205/?platform=hootsuite |title=Gotham Awards Nominations 2016: 'Manchester By The Sea' Leads with Four |last=Cox |first=Gordon |date=October 20, 2016 |magazine=Variety |access-date=October 20, 2016}}</ref>
+|-
+| [[Gotham Independent Film Award for Breakthrough Director|Bingham Ray Breakthrough Director Award]]
+| Robert Eggers
+| {{nom}}
+|-
+| rowspan="2"| [[Independent Spirit Awards]]
+| rowspan="2"| [[32nd Independent Spirit Awards|February 25, 2017]]
+| [[Independent Spirit Award for Best First Screenplay|Best First Screenplay]]
+| Robert Eggers
+| rowspan="2" {{won}}
+| rowspan="2" style="text-align:center;"| <ref>{{cite web |url=https://www.filmindependent.org/blog/film-independent-spirit-awards-nominations-announced/ |title=2017 Film Independent Spirit Awards Nominations Announced! |last=Warren |first=Matt |date=November 22, 2016 |website=[[Independent Spirit Awards]] |access-date=November 22, 2016}}</ref>
+|-
+| [[Independent Spirit Award for Best First Feature|Best First Feature]]
+| Robert Eggers, [[Daniel Bekerman]], Jay Van Hoy, Lars Knudsen, Jodi Redmond and Rodrigo Teixeira
+|-
+| [[London Film Critics' Circle]]
+| [[London Film Critics Circle Awards 2016|January 22, 2017]]
+| Young British/Irish Performer of the Year
+| Anya Taylor-Joy (also for ''[[Morgan (2016 film)|Morgan]]'' and ''[[Split (2016 American film)|Split]]'')
+| {{nom}}
+| style="text-align:center;"| <ref>{{cite magazine |url=https://variety.com/2016/film/awards/moonlight-love-and-friendship-lead-london-film-critics-circle-nominations-1201945718/ |title='Moonlight' and 'Love and Friendship' Lead London Film Critics' Circle Nominations |date=December 20, 2016 |magazine=Variety |access-date=December 20, 2016}}</ref>
+|-
+| [[BFI London Film Festival|London Film Festival]]
+| October 18, 2015
+| Sutherland Award
+| Robert Eggers
+| {{won}}
+| style="text-align:center;"| <ref>{{cite press release |url=https://www.bfi.org.uk/news/59th-bfi-london-film-festival-award-winners |title=59th BFI London Film Festival award winners |date=October 26, 2015 |publisher=BFI |access-date=October 27, 2015}}</ref>
+|-
+| [[Festival international du film fantastique de Gérardmer]]
+| January 31, 2016
+| Prix du jury SyFy
+| The Witch
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web | url=https://www.syfy.fr/news/gerardmer-2016-le-palmares | title=59th Le 23e Festival International du Film Fantastique |website=Syfy |language=fr}}</ref>
+|-
+| [[New York Film Critics Online]]
+| December 11, 2016
+| Best Debut Director
+| Robert Eggers
+| {{won}}
+| style="text-align:center;"| <ref name="NYFCO">{{cite magazine |url=https://hollywoodreporter.com/news/moonlight-named-best-picture-by-new-york-film-critics-online-association-955062 |title='Moonlight' Named Best Picture by New York Film Critics Online Association |date=December 11, 2016 |magazine=[[The Hollywood Reporter]] |access-date=December 11, 2016}}</ref>
+|-
+| [[Online Film Critics Society]]
+| [[Online Film Critics Society Awards 2016|January 3, 2017]]
+| [[Online Film Critics Society Award for Best Picture|Best Picture]]
+| ''The Witch''
+| {{nom}}
+| align=center| <ref>{{cite web |url=https://ofcs.org/awards/2016-awards-20th-annual/ |title=20th Annual Online Film Critics Society Awards Nominations |date=December 27, 2016 |website=[[Online Film Critics Society]] |access-date=December 27, 2016}}</ref>
+|-
+| [[San Diego Film Critics Society]]
+| [[San Diego Film Critics Society Awards 2016|December 12, 2016]]
+| Breakthrough Artist
+| Anya Taylor-Joy
+| {{nom}}
+| style="text-align:center;"| <ref name="SDiegoNom">{{cite web |url=http://www.sdfcs.org/san-diego-film-critics-society-nominations-2016/ |title=2016 Award Nominations |date=December 9, 2016 |website=San Diego Film Critics Society |access-date=December 9, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161214141651/http://www.sdfcs.org/san-diego-film-critics-society-nominations-2016/ |archive-date=December 14, 2016}}</ref><ref name="SDiegoWin">{{cite web |url=http://www.sdfcs.org/2016-award-winners/ |title=2016 Award Winners |date=December 12, 2016 |website=San Diego Film Critics Society |access-date=December 12, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161214100614/http://www.sdfcs.org/2016-award-winners/ |archive-date=December 14, 2016}}</ref>
+|-
+| [[San Francisco Film Critics Circle]]
+| [[San Francisco Film Critics Circle Awards 2016|December 11, 2016]]
+| Best Production Design
+| Craig Lathrop
+| {{nom}}
+| style="text-align:center;"| <ref name="SFrancisco">{{cite web |url=https://www.awardsdaily.com/2016/12/09/san-francisco-film-critics-circle-nominations/ |title=San Francisco Film Critics Circle Nominations! |first=Marshall |last=Flores |date=December 9, 2016 |website=AwardsDaily.com |access-date=December 10, 2016}}</ref><ref name="SFFCC2016">{{cite magazine |url=https://hollywoodreporter.com/news/moonlight-named-best-picture-by-san-francisco-film-critics-circle-955302 |title='Moonlight' Named Best Picture by San Francisco Film Critics Circle |first=Kimberly |last=Nordyke |date=December 12, 2016 |magazine=[[The Hollywood Reporter]] |access-date=December 12, 2016}}</ref>
+|-
+| rowspan="2"| [[Saturn Awards]]
+| rowspan="2"| [[43rd Saturn Awards|June 28, 2017]]
+| [[Saturn Award for Best Horror Film|Best Horror Film]]
+| ''The Witch''
+| {{nom}}
+| rowspan="2" style="text-align:center;"| <ref name="SaturnAwards">{{cite magazine |url=https://variety.com/2017/film/awards/saturn-awards-nominations-2017-rogue-one-walking-dead-1202000833/ |title=Saturn Awards Nominations 2017: 'Rogue One,' 'Walking Dead' Lead |last=McNary |first=Dave |date=March 2, 2017 |magazine=Variety |access-date=March 3, 2017}}</ref>
+|-
+| [[Saturn Award for Best Performance by a Younger Actor|Best Performance by a Younger Actor]]
+| Anya Taylor-Joy
+| {{nom}}
+|-
+| rowspan="7"| [[Seattle Film Critics Society]]
+| rowspan="7"| January 5, 2017
+| Best Picture of the Year
+| ''The Witch''
+| {{nom}}
+| rowspan="7" style="text-align:center;"| <ref>{{cite web |url=https://seattlefilmcritics.com/2016/12/21/the-2016-seattle-film-award-nominees/ |title=The 2016 Seattle Film Award Nominees |date=December 21, 2016 |website=[[Seattle Film Critics Society]] |access-date=December 21, 2016}}</ref><ref>{{cite web |url=https://seattlefilmcritics.com/2017/01/05/moonlight-awarded-best-picture-by-seattle-film-critics-society/ |title="Moonlight" Awarded Best Picture by Seattle Film Critics Society |date=January 5, 2017 |website=[[Seattle Film Critics Society]] |access-date=January 5, 2017}}</ref>
+|-
+| Best Director
+| Robert Eggers
+| {{nom}}
+|-
+| Best Cinematography
+| Jarin Blaschke
+| {{nom}}
+|-
+| Best Costume Design
+| [[Linda Muir]]
+| {{nom}}
+|-
+| rowspan="2"| Best Youth Performance
+| Anya Taylor-Joy
+| {{won}}
+|-
+| Harvey Scrimshaw
+| {{nom}}
+|-
+| Best Villain
+| [[Charlie (goat)|Charlie]] and [[Daniel Malik|Wahab Chaudary]] <small>(as Black Phillip)</small>
+| {{nom}}
+|-
+| [[St. Louis Gateway Film Critics Association]]
+| [[St. Louis Gateway Film Critics Association Awards 2016|December 18, 2016]]
+| Best Horror/Science-Fiction Film
+| ''The Witch''
+| {{won}}
+| style="text-align:center;"| <ref>{{cite web |url=http://www.stlfilmcritics.org/2016-stlfca-annual-award-winners |title=2016 StLFCA Annual Award Winners |date=December 12, 2016 |website=[[St. Louis Gateway Film Critics Association]] |access-date=December 12, 2016}}</ref>
+|-
+| rowspan="2"| [[Sundance Film Festival]]
+| rowspan="2"| [[2015 Sundance Film Festival|February 1, 2015]]
+| Directing Award
+| Robert Eggers
+| {{won}}
+| rowspan="2" style="text-align:center;"| <ref>{{cite news |url=http://twitchfilm.com/2015/02/sundance-2015-award-winners.html |last1=Umstead |first1=Ben |date=January 31, 2015 |title=Sundance 2015 Award Winners |website=[[Twitch Film]] |access-date=February 1, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151208160148/http://twitchfilm.com/2015/02/sundance-2015-award-winners.html |archive-date=December 8, 2015}}</ref>
+|-
+| Grand Jury Prize
+| Robert Eggers
+| {{nom}}
+|-
+| [[Toronto Film Critics Association]]
+| [[Toronto Film Critics Association Awards 2016|December 11, 2016]]
+| Best First Feature
+| ''The Witch''
+| {{won}}
+| style="text-align:center;"| <ref>{{cite magazine |url=https://hollywoodreporter.com/news/moonlight-named-best-film-by-toronto-film-critics-955058 |title='Moonlight' Named Best Film by Toronto Film Critics |last=Vlessing |first=Etan |date=December 12, 2016 |magazine=[[The Hollywood Reporter]] |access-date=December 12, 2016}}</ref>
+|-
+| rowspan="2"| [[Washington D.C. Area Film Critics Association]]
+| rowspan="2"| [[Washington D.C. Area Film Critics Association Awards 2016|December 5, 2016]]
+| [[Washington D.C. Area Film Critics Association Award for Best Breakthrough Performance|Best Youth Performance]]
+| Anya Taylor-Joy
+| {{nom}}
+| rowspan="2" style="text-align:center;"| <ref>{{cite web |url=http://www.wafca.com/awards/2016.htm |title=The 2016 WAFCA Awards |date=December 3, 2016 |website=The Washington, D.C. Area Film Critics Association |access-date=December 4, 2016 |archive-date=March 26, 2019 |archive-url=https://web.archive.org/web/20190326064213/http://www.wafca.com/awards/2016.htm |url-status=dead }}</ref>
+|-
+| [[Washington D.C. Area Film Critics Association Award for Best Art Direction|Best Art Direction]]
+| Craig Lathrop
+| {{nom}}
+|}
+
+== Related media ==
+
+=== Music ===
+In 2025, {{ill|King Mala|qid=Q102350200|short=yes}} released ''And You Who Drowned in the Grief of a Golden Thing'', an album referencing ''The Witch'' through lyrics and visual.<ref>{{Cite web |date=2025-05-22 |title=Goth pop star King Mala channels her inner 'desert witch' in new LP |url=https://www.latimes.com/delos/story/2025-05-22/king-mala-interview-troubadour-debut-album-us-tour |access-date=2026-02-20 |website=Los Angeles Times |language=en-US}}</ref> The track "SWEET LAMB"<ref>{{Citation |title=KiNG MALA – SWEET LAMB |url=https://genius.com/King-mala-sweet-lamb-lyrics |access-date=2026-02-20}}</ref> refers to the famous "Wouldst thou like the taste of butter? Wouldst thou like to live deliciously?".
+
+== See also ==
+* [[Witch trials in the early modern period]]
+
+{{Portal bar|Film|Reformed Christianity|Religion|New England}}
+
+==References==
+{{Reflist}}
+
+===Sources===
+
+{{refbegin}}
+* {{Cite book| last1 = Bacon| first1 = Simon|title = Dracula as Absolute Other: The Troubling and Distracting Specter of Stoker's Vampire on Screen| publisher = McFarland | year = 2019| isbn = 9781476675381}}
+* {{Cite book| last1 = Fry| first1 = Carol L.|title = Primal Roots of Horror Cinema: Evolutionary Psychology and Narratives of Fear| publisher = McFarland | year = 2019| isbn = 9781476635316}}
+* {{Cite book| last1 = Hart| first1 = Adam Charles|title = Monstrous Forms: Moving Image Horror Across Media| publisher = Oxford University Press| year = 2019 | isbn = 9780190916268}}
+* {{Cite book| last1 = Parker| first1 = Elizabeth|title = The Forest and the EcoGothic: The Deep Dark Woods in the Popular Imagination| publisher = Springer Nature| year = 2020| isbn = 9783030351540}}
+{{refend}}
+
+==Further reading==
+
+{{refbegin}}
+* {{Cite book| last1 = Grafius| first1 = Brandon|title = The Witch| publisher = Liverpool University Press | year = 2020| isbn = 9781800348059}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title}}
+* {{Metacritic film}}
+* {{Rotten Tomatoes}}
+
+{{Robert Eggers}}
+{{Empire Award for Best Horror}}
+{{Independent Spirit Award for Best First Feature}}
+{{Sutherland Trophy}}
+{{TFCA Award for Best First Feature}}
+
+{{DEFAULTSORT:Witch (2015 film)}}
+[[Category:2015 films]]
+[[Category:2010s demon films]]
+[[Category:2010s folk horror films]]
+[[Category:2010s historical horror films]]
+[[Category:2015 American films]]
+[[Category:2015 British films]]
+[[Category:2015 Canadian films]]
+[[Category:2015 directorial debut films]]
+[[Category:2015 independent films]]
+[[Category:2015 supernatural horror films]]
+[[Category:A24 (company) films]]
+[[Category:American dark fantasy films]]
+[[Category:American historical horror films]]
+[[Category:American independent films]]
+[[Category:American religious horror films]]
+[[Category:American supernatural horror films]]
+[[Category:British fantasy drama films]]
+[[Category:British historical horror films]]
+[[Category:British independent films]]
+[[Category:British religious horror films]]
+[[Category:British supernatural horror films]]
+[[Category:Canadian historical films]]
+[[Category:Canadian independent films]]
+[[Category:Canadian religious horror films]]
+[[Category:Canadian supernatural horror films]]
+[[Category:English-language Canadian films]]
+[[Category:Films about child abduction]]
+[[Category:Films about dysfunctional families]]
+[[Category:Films about matricide]]
+[[Category:Films about Satanism]]
+[[Category:Films about shapeshifting]]
+[[Category:Films about witchcraft]]
+[[Category:Films critical of Christianity and Christians]]
+[[Category:Films directed by Robert Eggers]]
+[[Category:Films produced by Lars Knudsen (producer)]]
+[[Category:Films scored by Mark Korven]]
+[[Category:Films set in 17th-century Thirteen Colonies]]
+[[Category:Films set in forests]]
+[[Category:Films set in Massachusetts]]
+[[Category:Films set in New England]]
+[[Category:Films set in the 1630s]]
+[[Category:Films set on farms]]
+[[Category:Films shot in Ontario]]
+[[Category:Films with screenplays by Robert Eggers]]
+[[Category:Sundance Film Festival award–winning films]]
+[[Category:The Devil in film]]
+[[Category:Universal Pictures films]]

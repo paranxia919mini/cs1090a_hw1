@@ -1,0 +1,230 @@
+{{short description|1941 film by John Huston}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox film
+| name           = The Maltese Falcon
+| image          = The Maltese Falcon (1941 film poster).jpg
+| caption        = Theatrical release poster
+| director       = [[John Huston]]
+| screenplay     = John Huston
+| based_on       = {{Based on|''[[The Maltese Falcon (novel)|The Maltese Falcon]]''|[[Dashiell Hammett]]}}
+| starring       = {{Plain list|
+* [[Humphrey Bogart]]
+* [[Mary Astor]]
+* [[Gladys George]]
+* [[Peter Lorre]]
+* [[Barton MacLane]]
+* [[Lee Patrick (actress)|Lee Patrick]]
+* [[Sydney Greenstreet]]
+}}
+| music          = [[Adolph Deutsch]]
+| cinematography = [[Arthur Edeson]]{{refn|name=Haller|group=N|[[Ernest Haller]] did reshoots for the opening scene.<ref name="AFI">{{Cite web|title=The Maltese Falcon (1941)|url=https://catalog.afi.com/Catalog/moviedetails/27025|access-date=February 22, 2022|website=[[American Film Institute]]}}</ref>}}
+| editing        = [[Thomas Richards (film editor)|Thomas Richards]]
+| studio         = [[Warner Bros. Pictures]]
+| distributor    = Warner Bros. Pictures
+| released       = {{Film date|1941|10|03|New York City|1941|10|18|United States}}
+| runtime        = 101 minutes
+| country        = United States
+| language       = English
+| budget         = $375,000<ref name="warners">Warner Bros financial information in The William Schaefer Ledger. See Appendix 1, ''Historical Journal of Film, Radio and Television'', (1995) 15:sup 1, 1–31 p. 22 {{doi|10.1080/01439689508604551}}</ref>{{refn|name=budget|group=N|The [[American Film Institute]] claims the budget was $381,000.<ref name="AFI"/>}}
+| gross          = $1.8 million<ref name="warners"/>
+}}
+
+'''''The Maltese Falcon''''' is a 1941 American [[film noir]] written and directed by [[John Huston]],<ref name=TCM>{{cite web|url=https://www.tcm.com/tcmdb/title/2805/the-maltese-falcon#credits|title=The Maltese Falcon|website=Turner Classic Movies|access-date=September 24, 2024|archive-date=September 25, 2024|archive-url=https://web.archive.org/web/20240925015400/https://www.tcm.com/tcmdb/title/2805/the-maltese-falcon#credits|url-status=dead}}
+</ref> marking Huston's directorial debut. It is the third film adaptation of [[Dashiell Hammett]]'s [[The Maltese Falcon (novel)|1930 novel]], following the [[The Maltese Falcon (1931 film)|1931 version]] directed by [[Roy Del Ruth]],<ref>{{cite book |title=The Maltese Falcon |first=Dashiell |last=Hammett |author-link=Dashiell Hammett |year=1992 |publisher=Vintage Crime/Black Lizard |location=New York City |isbn=978-0679722649}}</ref><ref>{{cite news |title=The Maltese Falcon |url=https://variety.com/1941/film/reviews/the-maltese-falcon-2-1200413694/
+ |newspaper=[[Variety (magazine)|Variety]] |date=September 30, 1941 |page=9 |access-date=January 6, 2020 |archive-date=July 27, 2020 |archive-url=https://web.archive.org/web/20200727033830/https://variety.com/1941/film/reviews/the-maltese-falcon-2-1200413694/
+ |url-status=live }}</ref><ref>''Harrison's Reports'' film review; October 4, 1941, p. 159.</ref> and the 1936 William Dieterle–directed ''[[Satan Met a Lady]]''.<ref>{{cite web |last=Tatara |first=Paul |title=Satan Met a Lady |url=https://www.tcm.com/articles/133174/satan-met-a-lady |date=April 20, 2006 |website=Turner Classic Movies |access-date=August 29, 2026}}</ref>
+
+The 1941 film stars [[Humphrey Bogart]] as the hard-boiled private detective [[Sam Spade]], in a role that would cement his status as a Hollywood icon, alongside [[Mary Astor]] as the enigmatic and manipulative ''[[femme fatale]]'' Brigid O'Shaughnessy. [[Peter Lorre]] and [[Sydney Greenstreet]] portray the memorable villains whose shifting alliances and hidden motives drive much of the story's tension. Set in [[San Francisco]], the plot revolves around the pursuit of a priceless, jewel-encrusted falcon statuette, with each character willing to resort to deceit, betrayal, and even murder to claim it.
+
+Premiering in [[New York City]] on October 3, 1941, the film was an immediate commercial and critical success. It remains widely considered a landmark of the [[film noir]] genre, and it is [[List of films voted the best|one of the greatest and most influential films of all time]]. It is frequently cited for its significant contributions to storytelling, character archetypes, and visual style in film noir. In 1989, the film was among the first 25 films selected by the [[Library of Congress]] for preservation in the [[National Film Registry]], recognized as "culturally, historically, or aesthetically significant".<ref>{{cite news|date=September 19, 1989|title=Entertainment: Film Registry Picks First 25 Movies|url=https://www.latimes.com/archives/la-xpm-1989-09-19-mn-347-story.html|work=
+[[Los Angeles Times]]|location=Washington, D.C.|access-date=April 22, 2020|archive-date=May 5, 2020|archive-url=https://web.archive.org/web/20200505082616/https://www.latimes.com/archives/la-xpm-1989-09-19-mn-347-story.html|url-status=live}}
+</ref><ref name="registry">{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/
+ |title=Complete National Film Registry |publisher=[[Library of Congress]] |access-date=January 7, 2020 |archive-date=October 31, 2016 |archive-url=https://archive.today/20161031213743/https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/
+ |url-status=live }}</ref>
+
+==Plot==
+{{quote box
+| quote = <div style="text-align: left; direction: ltr">"In 1539, the {{sic|Knight Templars|expected=Knights Templar}} of Malta, paid tribute to Charles V of Spain, by sending him a Golden Falcon encrusted from beak to claw with rarest jewels----- but pirates seized the galley carrying this priceless token and the fate of the Maltese Falcon remains a mystery to this day---"</div>
+| source = <div style="text-align: left; direction: ltr">—Introductory text appearing after the film's opening credits<ref>{{Cite book |last=Betancourt |first=Michael |url=https://books.google.com/books?id=BkpnDwAAQBAJ&dq=%22Figure+6.11%22&pg=PT180 |title=Title Sequences as Paratexts: Narrative Anticipation and Recapitulation |publisher=[[Routledge]] |year=2018 |isbn=978-1-351-32947-7 |location=New York and Abingdon |at=Figure 6.11 |language=en}}</ref>
+</div>
+| align = left
+| width = 33%
+| bgcolor = #CCDDFF
+| qalign = center
+| salign = center
+| border = 2px|
+}}
+
+In [[San Francisco]], [[private investigator]]s [[Sam Spade]] and Miles Archer meet prospective client Ruth Wonderly. She claims to be looking for her missing sister, who ran off from their home in New York and came to the city with a man named Floyd Thursby. Archer agrees to help get her sister back. However, later that night, the police inform Spade that Archer has been killed. Spade tries calling his client at her hotel to discover she has checked out. Back at his apartment, he is grilled by police detective Tom Polhaus and Lieutenant Dundy, who tell him that Thursby was murdered the same evening. Dundy suggests that Spade had the opportunity and motive to kill Thursby, who likely killed Archer.
+
+Later that morning, Spade meets Wonderly, now calling herself Brigid O'Shaughnessy. She confesses that her story was made up. She persuades Spade to investigate the murders and also reveals that Thursby was her partner. She suspects he took advantage of her and killed Archer but claims to have no idea who killed Thursby. At his office, Spade meets Joel Cairo, who offers him $5,000 to find a "black figure of a bird". When Spade is skeptical, Cairo pulls a gun on him and says he will search the room for it. Spade knocks Cairo out and goes through his belongings. When Cairo regains consciousness, he once again points his gun at Spade and says he'll search the room, to Spade's amusement.
+
+{{multiple image
+| align     = left
+| direction = vertical
+| width     = 220
+| image1    = GutmanCairoMaltFalc1941Trailer.jpg
+| alt1      = 
+| caption1  = Gutman and Cairo meet with Spade.
+| image2    = SamConfrontBrigMaltFalc1941Trailer.jpg
+| alt2      = 
+| caption2  = Spade confronts O'Shaughnessy.
+}}
+On his way to visit O'Shaughnessy later that evening, Spade is followed by a young man but manages to evade him. When he tells O'Shaughnessy about Cairo, her nervousness indicates she knows him. He arranges a meeting between the two at his apartment, where Cairo becomes agitated when O'Shaughnessy reveals that the "Fat Man" is in San Francisco. When Spade goes to Cairo's hotel in the morning, he spots Wilmer Cook, the young man who trailed him earlier. Wilmer works for Kasper Gutman, the "Fat Man". In his hotel suite, Gutman relates the [[Tribute of the Maltese Falcon|history of the Maltese Falcon]], then offers Spade his pick of either $25,000 for the statuette and another $25,000 after its sale, or a quarter of the proceeds from its sale.
+
+Spade's drink is spiked, and he passes out. Wilmer and Cairo come in from another room and leave with Gutman. When Spade regains consciousness, Spade searches the suite and finds a newspaper with the arrival time of the freighter ''La Paloma'' circled. He goes to the dock, only to find the ship on fire. Later, the ship's Captain Jacoby, who had been shot several times, staggers into Spade's office before dying. The bundle he was clutching contains the Maltese Falcon. O'Shaughnessy calls the office, gives an address, then screams before the line goes dead.
+
+Spade stashes the package at the bus terminal, then goes to the address he was given, which turns out to be an empty lot. He returns home to discover O'Shaughnessy hiding in a doorway. He takes her inside and finds Gutman, Cairo, and Wilmer waiting for him, guns drawn. Gutman gives Spade $10,000 for the Falcon, but Spade tells them that part of his price is someone he can turn over to the police for the murders of Thursby and Captain Jacoby, suggesting Wilmer. After some intense negotiation, Gutman and Cairo agree and Wilmer is knocked out and disarmed.
+
+Just after dawn, Spade calls his secretary, Effie Perine, to bring him the bundle. However, when Gutman inspects the statuette, he finds it is a fake, a copy made by the man from whom they stole it. Cairo lashes out at Gutman, and Wilmer escapes during the tumult. Recovering his composure, Gutman invites Cairo to return with him to [[Istanbul]] to continue their quest. After they leave, Spade calls the police and tells them where to pick up the pair, as well as Wilmer, who killed Thursby and Jacoby. Spade then angrily confronts O'Shaughnessy, telling her he knows she killed Archer to implicate Thursby, her unwanted accomplice. She confesses, but begs Spade not to turn her over to the police. Despite his feelings for her, Spade gives O'Shaughnessy up. He submits the statuette as evidence, describing it as "the stuff that dreams are made of".{{-}}
+
+==Cast==
+[[File:Maltese-Falcon-Tell-the-Truth-1941.jpg|thumb|A promotional still showing O'Shaughnessy and Cairo clashing in front of the police]]
+{{Div col|colwidth=20em}}
+* [[Humphrey Bogart]] as [[Sam Spade]]
+* [[Mary Astor]] as Ruth Wonderly/Brigid O'Shaughnessy
+* [[Gladys George]] as Iva Archer
+* [[Peter Lorre]] as Joel Cairo
+* [[Barton MacLane]] as Lieutenant Dundy
+* [[Lee Patrick (actress)|Lee Patrick]] as Effie Perine
+* [[Sydney Greenstreet]] as Kasper Gutman
+* [[Ward Bond]] as Detective Tom Polhaus
+* [[Jerome Cowan]] as Miles Archer
+* [[Elisha Cook Jr.]] as Wilmer Cook
+* [[James Burke (actor)|James Burke]] as Luke, [[hotel detective]]
+* [[Murray Alper]] as Frank Richman, taxi driver
+* [[John Hamilton (actor)|John Hamilton]] as District Attorney Bryan
+{{div col end}}
+
+==Production==
+[[File:The Maltese Falcon trailer(1941).webm|thumb|The film's trailer]]
+
+===Background===
+[[Dashiell Hammett]] had once worked as a private detective for the [[Pinkerton (detective agency)|Pinkerton Detective Agency]] in [[San Francisco]], and he used his birth name "Samuel" for the [[The Maltese Falcon (novel)|story]]'s protagonist [[Sam Spade]]. He wrote of the book's main character in 1934:
+
+<blockquote>Spade has no original. He is a dream man in the sense that he is what most of the private detectives I worked with would like to have been, and, in their cockier moments, thought they approached.</blockquote>
+
+Other characters in ''The Maltese Falcon'' were based on people whom Hammett met or worked with during that time.<ref name="intro">{{Cite web |url=http://www.thrillingdetective.com/trivia/triv244.html |title=Introduction to ''The Maltese Falcon'' (1934 edition) |access-date=January 7, 2025 |archive-date=April 15, 2012 |archive-url=https://web.archive.org/web/20120415115631/http://www.thrillingdetective.com/trivia/triv244.html |url-status=live }}</ref> The character of sinister "Fat Man" Kasper Gutman was based on [[Maundy Gregory]], an overweight British detective-entrepreneur who was involved in many sophisticated endeavors and capers, including a search for a long-lost treasure like the jeweled Falcon.<ref name="commentary" /> The character of Joel Cairo was based on a criminal whom Hammett arrested for forgery in [[Pasco, Washington]], in 1920.<ref name="intro"/>
+
+The novel was serialized in five parts in the [[pulp magazine]] ''[[Black Mask (magazine)|Black Mask]]'' during 1929 and 1930 before being published in book form in 1930 by [[Alfred A. Knopf]]. [[Warner Bros. Pictures]] quickly bought the film rights of the novel, and [[The Maltese Falcon (1931 film)|made an adaptation]] the following year starring [[Ricardo Cortez]] and [[Bebe Daniels]]. The film closely followed the novel, including its references to homosexuality and a scene of Spade strip-searching Ruth Wonderly for a missing $1,000 bill. These topics made the film unscreenable a few years later under the [[Hays Code|Motion Picture Production Code]], whose overseers refused to grant the studio a certificate when the studio tried to re-release it in 1935. The studio remade the story as the more Code-friendly ''[[Satan Met a Lady]]'' starring [[Bette Davis]] and [[Warren William]]. The film changed much of the novel's elements and became a comedy.<ref>{{cite book |title=An Open Book |url=https://archive.org/details/openbook00hust |url-access=registration |last=Huston |first=John |year=1980 |publisher=Alfred A. Knopf |location=New York |page=[https://archive.org/details/openbook00hust/page/78 78]|isbn=978-0394404653 }}</ref><ref name=NYT/> However, it was panned by critics and audiences alike, including Davis, who referred to it as "junk".
+
+===Pre-production===
+During his preparation for ''The Maltese Falcon'', his directorial debut, [[John Huston]] planned each second of the film to the last detail, tailoring the screenplay with instructions to himself for a shot-for-shot setup, with sketches for every scene, so filming could proceed fluently and professionally.<ref>{{cite book |author-link=Rudy Behlmer |last=Behlmer |first=Rudy |title=Behind the Scenes: The Making of... |location=Hollywood |publisher=Samuel French |year=1990 |page=144 |isbn=978-0573606007}}</ref> Huston was adamant the film be methodically planned, thus ensuring the production maintained a tight schedule within their budget. It was shot quickly and completed for less than $400,000.<ref>{{cite book |last=Thompson |first=David |title=Warner Bros: The Making of an American Movie Studio |publisher=Yale University Press |year=2017 |location=New Haven; London}}</ref>
+
+Such was the extent and efficacy of Huston's preparation of the script that almost no line of dialogue was eliminated in the final edit.<ref>Huston decided that the final scene of the novel (and the script), wherein Spade disgustedly returns to Iva Archer, would not be filmed. Huston believed the film should end the way it was, thus making Spade's character more honorable as the story progressed. [[Eric Lax|Lax, Eric]]. [[Audio commentary]] for Disc One of the 2006 three-disc DVD special edition of ''The Maltese Falcon''.</ref> Except for some exterior night shots, Huston shot the entire film in sequence,<ref>Behlmer, p. 145.</ref> which greatly helped his actors. Much of the dialogue from the original novel was retained. The only major section of the novel missing in the film is the story of a man named Flitcraft, which Spade tells to Brigid O'Shaughnessy while waiting in his apartment for Cairo to arrive.<ref>{{cite web |url=http://unfutz.blogspot.com/2006/11/3089898-hammett-flitcraft-story.html |title=Hammett: The Flitcraft Story |website=Ed Fitzgerald's Unfutz |date=November 29, 2006 |access-date=January 7, 2025 |archive-date=December 26, 2023 |archive-url=https://web.archive.org/web/20231226110154/https://unfutz.blogspot.com/2006/11/3089898-hammett-flitcraft-story.html |url-status=live }}</ref>
+
+Huston removed all references to sex that the Hays Office had deemed to be unacceptable. He was also warned not to show excessive drinking. The director fought the latter, on the grounds that Spade was a man who put away a half bottle of hard liquor a day and showing him completely abstaining from alcohol would mean seriously falsifying his character.<ref name="commentary">{{cite web |last=Mills |first=Michael |title=The Maltese Falcon |work=Palace Classic Films |publisher=moderntimes.com |year=1998 |url=http://www.moderntimes.com/palace/falcon/ |access-date=February 17, 2008 |archive-url=https://web.archive.org/web/20070126102600/http://www.moderntimes.com/palace/falcon/ |archive-date=January 26, 2007}}</ref>
+
+===Casting===
+[[File:WilmerMaltFalc1941Trailer.jpg|thumb|right|[[Elisha Cook Jr.|Wilmer]], the "gunsel"]]
+
+[[Humphrey Bogart]] was not the first choice to play Sam Spade; the role was originally offered to [[George Raft]]. Raft rejected the role because he did not want to work with an inexperienced director, and had a stipulation in his contract from making remakes.<ref name="AFI"/> Huston was grateful that Bogart had quickly accepted the role and the film helped consolidate their lifelong friendship and set the stage for collaboration on other films. Bogart's convincing interpretation became the archetype for a private detective in the [[film noir]] genre, providing him acclaim and solidifying his onscreen persona. [[Ingrid Bergman]] watched ''Maltese Falcon'' over and over again while preparing for ''[[Casablanca (film)|Casablanca]]'' in order to learn how to interact and act with Bogart.<ref name="commentary" />
+
+Bergman, [[Joan Bennett]], [[Geraldine Fitzgerald]], [[Paulette Goddard]], [[Rosalind Russell]], [[Ginger Rogers]], [[Janet Gaynor]], [[Olivia de Havilland]] and [[Loretta Young]] were all considered for the role of Brigid. Fitzgerald was offered the part, but she turned it down. [[Eve Arden]] was considered for the role of Effie Perine. [[Lee Patrick (actress)|Lee Patrick]] was initially considered for the role of Iva Archer, but she later received the part of Effie.<ref name="AFI"/> Having difficulty casting Kasper Gutman, Huston screen-tested stage actor [[Sydney Greenstreet]] on the suggestion of producer [[Hal B. Wallis|Hal Wallis]]. Greenstreet, who was 61 and weighed between 280 and 350 pounds, had not appeared on film before. However, he managed to impress Huston with his sheer size, distinctive abrasive laugh, bulbous eyes, and manner of speaking.<ref name="commentary" />
+
+===Filming===
+Principal photography took place on the [[Warner Bros. Studios Burbank|Warner Bros. backlot]] from June 9 to July 18, 1941, with some reshoots on August 8.<ref name="AFI"/> Following a preview screening on September 5, studio head [[Jack L. Warner]] ordered reshoots to simplify the opening scene. These reshoots took place on September 10 with [[Ernest Haller]] as cinematographer, since original cinematographer [[Arthur Edeson]] was unavailable.<ref name="AFI"/>
+
+===Cinematography===
+Director of photography Edeson, who had a background that included [[Universal Monsters|Universal's monster films]], used low-key lighting and arresting angles to emphasize the nature of the characters and their actions, such as the scene where Gutman explains the history of the Falcon to Spade, drawing out his story so that the knockout drops in Spade's drink will take effect.<ref name="commentary" /> [[Roger Ebert]] describes this scene as "an astonishing unbroken seven-minute take",<ref name="Ebert" /> and script supervisor Meta Wilde remarked of this scene:
+<blockquote>It was an incredible camera setup. We rehearsed two days. The camera followed Greenstreet and Bogart from one room into another, then down a long hallway and finally into a living room; there the camera moved up and down in what is referred to as a boom-up and boom-down shot, then panned from left to right and back to Bogart's drunken face; the next pan shot was to Greenstreet's massive stomach from Bogart's point of view. ... One miss and we had to begin all over again.<ref>{{cite book |last=Grobel |first=Lawrence |title=The Hustons |url=https://books.google.com/books?id=pyLnBAAAQBAJ&q=the+hustons |location=New York | publisher=Shyhorse |isbn=978-1629142890 |year=2014 |access-date=January 6, 2020}}</ref></blockquote>
+
+===Props===
+[[File:Artist Fred Sexton and director John Huston.jpg|thumb|[[Fred Sexton]] (right) and ''The Maltese Falcon'' director [[John Huston]], {{circa}} 1960]]
+
+[[Fred Sexton]], an American artist, sculpted the Maltese Falcon statuette prop for the film.<ref name="fortierinterview">{{cite web |title=Interview with Michele Fortier, Daughter of Maltese Falcon Prop Artist Fred Sexton | date=September 4, 2013 |url=https://www.youtube.com/watch?v=GrUoa1bUzOI | archive-url=https://ghostarchive.org/varchive/youtube/20211117/GrUoa1bUzOI| archive-date=2021-11-17 | url-status=live|publisher=YouTube |access-date=September 19, 2013}}{{cbignore}}</ref> It is modeled after a hawk perched on a rock and is encrusted with red garnets, amethysts, emeralds, and sapphires. As of 2004 it is owned by the [[Duke of Devonshire|Cavendish family]]<ref>{{cite web |url=http://www.prnewswire.co.uk/cgi/news/release?id=105159 |archive-url=https://archive.today/20120910135230/http://www.prnewswire.co.uk/cgi/news/release?id=105159 |url-status=dead |archive-date=September 10, 2012 |title=Bellagio Gallery of Fine Art to exhibit one of England's most famous private collections |publisher=[[Bellagio (resort)|Bellagio]] |via=[[PR Newswire]] |date=January 18, 2004 |access-date=October 30, 2011}}</ref> and is part of the collection at [[Chatsworth House]].<ref name=Roya>{{cite news |title=Treasures of Chatsworth House Unveiled Derbyshire's grand dame of a stately home shines forth after a glamorous £15million top-to-toe overhaul |first=Roya |last=Nikkhah |newspaper=[[The Daily Telegraph]] |date=February 27, 2010 |url=https://www.telegraph.co.uk/culture/culturenews/7332321/Treasures-of-Chatsworth-House-unveiled.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/culture/culturenews/7332321/Treasures-of-Chatsworth-House-unveiled.html |archive-date=January 12, 2022 |url-access=subscription |url-status=live |access-date=January 6, 2020}}{{cbignore}}</ref>
+
+Several {{convert|11.5|in|cm|adj=on}} tall falcon props were made for the film. One of the falcons was given to actor [[William Conrad]] by studio chief Jack L. Warner; it was auctioned in December 1994 for $398,500,<ref>{{cite news |title=Maltese Falcon Prop Sells For $398,500 At Auction |newspaper=[[Orlando Sentinel]] |date=December 7, 1994 |url=https://www.orlandosentinel.com/1994/12/07/maltese-falcon-prop-sells-for-398500-at-auction/}}</ref> the highest price paid for a film prop at that time.<ref>{{cite news |url=https://www.vanityfair.com/hollywood/2016/02/mystery-of-the-maltese-falcon |title=The Mystery of the Maltese Falcon, One of the Most Valuable Movie Props in History |last=Burrough |first=Bryan |work=[[Vanity Fair (magazine)|Vanity Fair]] |access-date=February 1, 2018 |language=en}}</ref> A 45-pound metal prop that appeared in the film was sold at auction on November 25, 2013, for over $4 million.<ref>{{cite news |author=<!--Staff writers; no by-line.--> |title='Maltese Falcon' Bird Statuette Sold for More Than $4 Million |url=https://www.pbs.org/newshour/nation/maltese-falcon-bird-statuette-up-for-auction |series=[[PBS NewsHour]] |date=November 25, 2013 |access-date=January 6, 2020 |work=[[PBS]]}}</ref>
+
+==Reception==
+===Critical===
+[[File:Falcon model.jpg|thumb|upright=.5|A model of the Maltese Falcon]]
+Following a preview in September 1941, ''[[Variety (magazine)|Variety]]'' called it "one of the best examples of actionful and suspenseful melodramatic story telling in cinematic form":
+
+<blockquote>Unfolding a most intriguing and entertaining murder mystery, picture displays outstanding excellence in writing, direction, acting and editing—combining in overall as a prize package of entertainment for widest audience appeal. Due for hefty grosses in all runs, it's textured with ingredients presaging numerous holdovers in the keys—and strong word-of-mouth will make the [[Box office|b.o.]] wickets spin.<ref>{{cite news| title=The Maltese Falcon |date=September 30, 1941 |url=https://www.variety.com/review/VE1117792895/| magazine=[[Variety (magazine)|Variety]] |access-date=September 24, 2024}}</ref></blockquote>
+
+Upon its release, [[Bosley Crowther]] described it as "the best mystery thriller of the year", saying "young Mr. Huston gives promise of becoming one of the smartest directors in the field ... "[T]he trick which Mr. Huston has pulled is a combination of American ruggedness with the suavity of the English crime school—a blend of mind and muscle—plus a slight touch of pathos."<ref name=NYT>{{cite news |title='The Maltese Falcon', a Fast Mystery-Thriller With Quality and Charm, at the Strand |first=Bosley |last=Crowther |author-link=Bosley Crowther |date=October 4, 1941 |url=https://movies.nytimes.com/movie/review?res=990DE4D7113FE13BBC4C53DFB667838A659EDE |newspaper=[[The New York Times]] |access-date=November 15, 2011}}</ref> The widely read [[trade paper]] ''[[The Film Daily]]'' agreed with Crowther's assessment of the film and focused special attention as well on Huston's directorial debut. In its 1941 review of the "beautifully made" production, the paper asserted: "John Huston's direction of his own screenplay is as brilliant as any of the jewels which are alleged to encrust the falcon whose possession is the crux of the story."<ref>{{cite news |url=https://archive.org/details/filmdaily80wids |title=The Maltese Falcon |newspaper=The Film Daily |location=New York City |date=September 30, 1941 |page=[https://archive.org/details/filmdaily80wids/page/n153 8] |access-date=January 13, 2019}}</ref> In 1950, in ''[[Life (magazine)|Life]]'' magazine, [[James Agee]] wrote about John Huston: "The first movie he directed, ''The Maltese Falcon'', is the best private-eye melodrama ever made."<ref>{{cite book |last1=Agee |first1=James |title=Agee on Film |volume=1 |date=1969 |place=New York |publisher=Grosset and Dunlap |page=321}}</ref>
+
+[[Pauline Kael]] lauded the film:
+
+<blockquote>Humphrey Bogart's most exciting role was Sam Spade, that ambiguous mixture of avarice and honor, sexuality and fear, who gave new dimension to the detective genre.{{nbsp}}... Huston used Hammett's plot design and economic dialogue in a hard, precise directorial style that brings out the full viciousness of characters so ruthless and greedy that they become comic. It is (and this is rare in American films) a work of entertainment that is yet so skillfully constructed that after many viewings it has the same brittle explosiveness—and even some of the same surprise—that it had in its first run.<ref>{{cite book |last1=Kael |first1=Pauline |title=5001 Nights at the Movies |date=1991 |place=New York |publisher=Holt |isbn=0-8050-1366-0 |page=454}}</ref></blockquote>
+
+In [[Allied-occupied Germany]] after [[World War II]], the [[Information Control Division]] quickly withdrew ''The Maltese Falcon'' from German theaters because it seemed to depict American police as inept and glorify gangsters.<ref name="ziemke1975">{{Cite book |last=Ziemke |first=Earl F. |url=http://www.history.army.mil/books/wwii/Occ-GY/index.htm |title=The US Army in the Occupation of Germany, 1944-1946 |publisher=Center of Military History, United States Army |year=1975 |location=Washington DC |pages=375–376 |lccn=75-619027 |archive-url=https://web.archive.org/web/20071213200328/http://www.history.army.mil/books/wwii/Occ-GY/index.htm |archive-date=2007-12-13}}</ref>
+
+As a measure of modern or more current reactions to the film, the [[Review aggregator|review-aggregation]] website [[Rotten Tomatoes]] reports ''The Maltese Falcon'' holds an approval rating of 99% based on 111 reviews, with an average rating of 9.20/10. The site's critics consensus reads: "Suspenseful, labyrinthine, and brilliantly cast, ''The Maltese Falcon'' is one of the most influential noirs—as well as a showcase for Humphrey Bogart at his finest."<ref name="RT">{{cite web |url=https://www.rottentomatoes.com/m/1013139_maltese_falcon |title=The Maltese Falcon |website=[[Rotten Tomatoes]] |access-date=February 21, 2026 |archive-date=February 18, 2021 |archive-url=https://web.archive.org/web/20210218152008/https://www.rottentomatoes.com/m/1013139_maltese_falcon |url-status=live }}</ref> On [[Metacritic]], the film has a weighted average score of 97 out of 100, based on 16 critics, indicating "universal acclaim".<ref>{{cite web|title=The Maltese Falcon Reviews |url= https://www.metacritic.com/movie/the-maltese-falcon?ftag=MCD-06-10aaa1c |website=[[Metacritic]]|access-date=February 21, 2026}}</ref> It is a part of Roger Ebert's series ''[[The Great Movies]]'' and was cited by ''Panorama du Film Noir Américain'' as the first major film noir.<ref name="Ebert">{{cite news |first=Roger |last=Ebert |author-link=Roger Ebert |url=https://www.rogerebert.com/reviews/great-movie-the-maltese-falcon-1941 |title=The Maltese Falcon (1941) |newspaper=[[Chicago Sun-Times]] |date=May 13, 2001 |access-date=December 8, 2020 |via=rogerebert.com |archive-date=November 27, 2020 |archive-url=https://web.archive.org/web/20201127092047/https://www.rogerebert.com/reviews/great-movie-the-maltese-falcon-1941 |url-status=live }}</ref><ref name="Sklar">{{cite book |first=Robert |last=Sklar |author-link=Robert Sklar |title=Film: An International History of the Medium |publisher=Prentice Hall |location=New York |date=1993 |isbn=978-0130340498 |url=https://books.google.com/books?id=zLkkAQAAMAAJ&q=maltese+falcon |page=305 |access-date=January 6, 2020 |archive-date=May 3, 2021 |archive-url=https://web.archive.org/web/20210503211316/https://books.google.com/books?id=zLkkAQAAMAAJ&q=maltese+falcon |url-status=live }}</ref> [[Eddie Muller]] listed it as one of his top 25 noir films.<ref>{{cite web |last1=Muller |first1=Eddie |title=Endless Night: 25 Noir Films That Will Stand the Test of Time |url=https://www.eddiemuller.com/top25noir.html |website=eddiemuller.com |access-date=August 21, 2025}}</ref>
+
+===Box office===
+According to Warner Bros.' records the film earned $967,000 domestically and $805,000 foreign.<ref name="warners"/>
+
+==Awards and honors==
+For the [[14th Academy Awards]], the film was nominated for [[Academy Award for Best Picture|Best Picture]], Greenstreet was nominated for [[Academy Award for Best Supporting Actor|Best Supporting Actor]], and Huston for [[Academy Award for Writing Adapted Screenplay|Best Adapted Screenplay]].
+
+It was one of the first 25 films selected by the [[Library of Congress]] for inclusion in the [[National Film Registry]] as "culturally, historically, or aesthetically significant".<ref>{{Cite web |title=Complete National Film Registry Listing {{!}} Film Registry {{!}} National Film Preservation Board {{!}} Programs {{!}} Library of Congress |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |access-date=2026-01-02 |website=Library of Congress, Washington, D.C. 20540 USA}}</ref> In 2006, [[Writers Guild of America West]] ranked its screenplay 47th in WGA's list of 101 Greatest Screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-02 |language=en}}</ref>
+
+The [[American Film Institute]] included it and a quote in the following lists:
+* 1998 – [[AFI's 100 Years...100 Movies]] – No. 23<ref>{{Cite web |title=American Film Institute's list of the 100 Greatest Movies |url=http://connect.afi.com/site/DocServer/movies100.pdf?docID=264 |archive-url=https://web.archive.org/web/20100214191259/http://connect.afi.com/site/DocServer/movies100.pdf?docID=264 |archive-date=2010-02-14 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+* 2001 – [[AFI's 100 Years...100 Thrills]] – No. 26<ref>{{Cite web |title=AFI's 100 YEARS...100 THRILLS |url=http://connect.afi.com/site/DocServer/thrills100.pdf?docID=250 |archive-url=https://web.archive.org/web/20110716072119/http://connect.afi.com/site/DocServer/thrills100.pdf?docID=250 |archive-date=2011-07-16 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+* 2005 – [[AFI's 100 Years...100 Movie Quotes]]:<ref>{{Cite web |title=AFI's 100 YEARS...100 MOVIE QUOTES |url=http://connect.afi.com/site/DocServer/quotes100.pdf?docID=242 |archive-url=https://web.archive.org/web/20090520174557/http://connect.afi.com/site/DocServer/quotes100.pdf?docID=242 |archive-date=2009-05-20 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+** "The stuff that dreams are made of." – No. 14. The expression is based on Act 4 of [[William Shakespeare]]'s play ''[[The Tempest]]'', wherein [[Prospero]] says, "We are such stuff / As dreams are made on".
+* 2007 – [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – No. 31<ref>{{Cite web |title=AFI's 100 YEARS...100 MOVIES - 10TH ANNIVERSARY EDITION |url=http://connect.afi.com/site/DocServer/100Movies.pdf?docID=301 |archive-url=https://web.archive.org/web/20090407071354/http://connect.afi.com/site/DocServer/100Movies.pdf?docID=301 |archive-date=2009-04-07 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+* 2008 – [[AFI's 10 Top 10]] – No. 6 Mystery Film<ref>{{Cite web |title=AFI's 10 TOP TEN |url=http://connect.afi.com/site/DocServer/TOP10.pdf?docID=441 |archive-url=https://web.archive.org/web/20090407071249/http://connect.afi.com/site/DocServer/TOP10.pdf?docID=441 |archive-date=2009-04-07 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+
+==Proposed sequel and adaptations==
+In the wake of the film's success, Warner Bros. immediately put a sequel tentatively titled ''The Further Adventures of the Maltese Falcon'' into development. Huston was set to direct the sequel, with Jack Warner approaching Dashiel Hammett to write a screenplay. However, Huston and Bogart's high demand and the studio's inability to agree on a salary with Hammett caused the plans to be dropped.<ref name="AFI"/><ref name="commentary" />
+
+The film was adapted for radio several times. The first was for the ''[[Silver Theater (radio program)|Silver Theater]]'' broadcast on the [[CBS]] radio network on February 1, 1942, with Bogart as star.<ref>{{cite news |title=On KFAB |url=https://www.newspapers.com/clip/2108785/st_maltese_falcon/ |newspaper=[[Lincoln Journal Star|The Lincoln Star]] |date=February 1, 1942 |page=32 |via=[[Newspapers.com]] |access-date=March 31, 2015 |archive-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150402121605/http://www.newspapers.com/clip/2108785/st_maltese_falcon/ |url-status=live }}</ref> ''[[Philip Morris Playhouse]]'' staged an adaptation August 14, 1942, with [[Edward Arnold (actor)|Edward Arnold]] starring.<ref>{{cite news |title=Arnold Is Playhouse Guest Star |url=https://www.newspapers.com/clip/3043646/harrisburg_telegraph/ |newspaper=Harrisburg Telegraph |date=August 8, 1942 |page=25 |via=Newspapers.com |access-date=August 18, 2015 |archive-date=March 4, 2016 |archive-url=https://web.archive.org/web/20160304133943/https://www.newspapers.com/clip/3043646/harrisburg_telegraph/ |url-status=live }}</ref> On February 8, 1943, ''[[Lux Radio Theatre]]'' presented a one-hour adaptation which featured [[Edward G. Robinson]] and [[Gail Patrick]] in the leading roles.<ref>{{cite news |url=https://news.google.com/newspapers?id=g8MwAAAAIBAJ&sjid=A2oDAAAAIBAJ&pg=2523%2C4751577&q=Maltese+Falcon+Edward+Robinson+Gail+Patrick |author=<!--Staff writer(s); no by-line.--> |title=Features Today |newspaper=Pittsburgh Post-Gazette |page=4 (Daily Magazine) |date=1943-02-08 |access-date=2025-11-28 }}</ref> CBS later created a 30-minute adaptation for ''[[The Screen Guild Theater]]'' with Bogart, [[Mary Astor]], Greenstreet and [[Peter Lorre]] all reprising their roles. This radio segment was originally released on September 20, 1943, and was played again on July 3, 1946.<ref name="radio">{{cite book |last=Terrace |first=Vincent |title=Radio Programs, 1924–1984: A Catalog of Over 1800 Shows |date=September 2, 2015 |url=https://books.google.com/books?id=EhOBCgAAQBAJ&q=Radio+Programs,+1924%E2%80%931984:+A+Catalog+of+Over+1800+Shows |publisher=McFarland |location=Jefferson, NC |isbn=978-1476605289}}</ref>
+
+==See also==
+*[[John Huston filmography]]
+*[[List of cult films]]
+
+== Notes ==
+{{reflist|group=N}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* [https://www.loc.gov/static/programs/national-film-preservation-board/documents/maltese_falcon.pdf ''The Maltese Falcon'' essay] by Richard T. Jameson on the [[National Film Registry]] website
+* {{IMDb title|0033870}}
+* {{TCMDb title|2805}}
+* {{AFI film|27025}}
+* {{rotten-tomatoes|1013139-maltese_falcon}}
+* {{Metacritic film|title=The Maltese Falcon}}
+* [http://film.virtual-history.com/film.php?filmid=387 Books about ''The Maltese Falcon''] from film.virtual-history.com
+
+===Streaming audio===
+* [https://archive.org/download/Lux08/Lux_1943-02-08_TheMalteseFalcon.mp3 ''The Maltese Falcon'']<!--From https://archive.org/details/Lux08--> on ''[[Lux Radio Theatre]]'': February 8, 1943
+* [https://archive.org/download/ScreenGuildTheater/Sgt_43-09-20_ep162_The_Maltese_Falcon.mp3 ''The Maltese Falcon'']<!--From https://archive.org/details/ScreenGuildTheater--> on ''[[Screen Guild Theater]]'': September 20, 1943
+
+{{Dashiell Hammett}}
+{{John Huston}}
+{{The Maltese Falcon}}
+{{Authority control}}
+
+{{DEFAULTSORT:Maltese Falcon (1941 film), The}}
+[[Category:1941 films]]
+[[Category:1941 English-language films]]
+[[Category:1941 crime films]]
+[[Category:1941 mystery films]]
+[[Category:American black-and-white films]]
+[[Category:American crime films]]
+[[Category:American detective films]]
+[[Category:American mystery films]]
+[[Category:Film noir]]
+[[Category:Films scored by Adolph Deutsch]]
+[[Category:Films directed by John Huston]]
+[[Category:Films set in San Francisco]]
+[[Category:Films with screenplays by John Huston]]
+[[Category:Films about treasure hunting]]
+[[Category:United States National Film Registry films inducted in 1989]]
+[[Category:Warner Bros. films]]
+[[Category:Films based on The Maltese Falcon (novel)]]
+[[Category:1941 directorial debut films]]
+[[Category:Remakes of American films]]
+[[Category:1941 American films]]
+[[Category:English-language crime films]]
+[[Category:English-language mystery films]]

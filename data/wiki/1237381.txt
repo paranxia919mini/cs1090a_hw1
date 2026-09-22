@@ -1,0 +1,171 @@
+{{Short description|1929 film by Alfred Hitchcock}}
+{{Use dmy dates|date=October 2020}}
+{{Use British English|date=June 2012}}
+{{Infobox film
+| name           = Blackmail
+| image          = Blackmail 1929 poster.jpg
+| alt            = 
+| caption        = UK trade advert
+| director       = [[Alfred Hitchcock]]
+| producer       = [[John Maxwell (producer)|John Maxwell]]
+| screenplay     = {{Plainlist|
+* Alfred Hitchcock
+* [[Benn W. Levy]]
+}}
+| based_on       = {{based on|''[[Blackmail (play)|Blackmail]]'' (play)|[[Charles Bennett (screenwriter)|Charles Bennett]]}}
+| starring       = {{Plainlist|
+* [[Anny Ondra]]
+* [[John Longden]]
+* [[Donald Calthrop]]
+* [[Cyril Ritchard]]
+}}
+| music          = [[Jimmy Campbell and Reg Connelly]]<br />[[Hubert Bath]] and Harry Stafford (arrangements)<br />[[Billy Mayerl]] (song: "Miss Up-to-Date")
+| cinematography = [[Jack E. Cox]]
+| editing        = [[Emile de Ruelle]]
+| studio         = [[Associated British Picture Corporation|British International Pictures]] (BIP)
+| distributor    = Wardour Films
+| released       = {{Film date|1929|07|28|UK|df=yes}}<ref name="Art & Hue" />
+| runtime        = 85 minutes {{small|(7136 ft sound)}}<br />76 minutes {{small|(6740 ft silent, 2012 restoration)}}
+| country        = United Kingdom
+| language       = English
+}}
+
+'''''Blackmail''''' is a 1929 British [[Thriller film#Crime thriller|crime thriller film]]<ref>{{cite book|title=Alfred Hitchcock and the British Cinema|last=Ryall|first=Tom|year=1996|publisher=Athlone Press|isbn=978-0-567-53416-3|page=117}}</ref> directed by [[Alfred Hitchcock]] and starring [[Anny Ondra]], [[John Longden]], [[Donald Calthrop]] and [[Cyril Ritchard]]. Based on the 1928 [[Blackmail (play)|play of the same name]] by [[Charles Bennett (screenwriter)|Charles Bennett]],<ref>{{cite magazine|url=https://www.filmink.com.au/a-brief-history-of-hitchcock-remakes/|first=Stephen|last=Vagg|magazine=Filmink|title=A Brief History of Hitchcock Remakes|date=March 25, 2023}}</ref> the film is about a London woman who is blackmailed after killing a man who tries to rape her.
+
+After starting production as a silent film, [[Associated British Picture Corporation|British International Pictures]] decided to adapt ''Blackmail'' into a separate sound film. It became the first successful European [[Sound film|talkie]]; a silent version was released for cinemas not equipped for sound (at 6,740 feet), with the sound version (7,136 feet) released at the same time.<ref>{{Cite web |title=Silent Era : Progressive Silent Film List |url=https://www.silentera.com/PSFL/data/B/Blackmail1929.html |access-date=2025-05-13 |website=www.silentera.com}}</ref> Both versions are held in the [[British Film Institute]] collection.<ref name="BFI Database entry">{{Cite web|url=https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150014521|title=Blackmail|access-date=26 October 2022}}</ref>
+
+''Blackmail'' is frequently cited as the first British [[Sound film#Transition: Europe|sound feature film]].<ref name="Time Out"/><ref name="Allen"/><ref name="Pierre"/> It was voted the best British film of 1929 in a UK poll the year it was released. In 2017 a poll of 150 actors, directors, writers, producers and critics for ''[[Time Out (magazine)|Time Out]]'' magazine ranked ''Blackmail'' as the 59th best British film ever.<ref name="Time Out">{{Cite news |title=Best British Movies {{!}} 100 Best British Films of All Time |url=https://www.timeout.com/london/film/100-best-british-films#tab_panel_4 |archive-url=https://web.archive.org/web/20211223132325/https://www.timeout.com/london/film/100-best-british-films |archive-date=2021-12-23 |access-date=2025-05-13 |work=Time Out London |language=en-GB}}</ref>
+
+On 1 January 2025, the film's copyright expired in the United States, and it is now in the public domain.
+
+==Plot==
+{{multiple image
+ | align = right
+ | total_width = 320
+ | image1 = Blackmail (silent version, 1929).webm
+ | thumbtime1 = 20
+ | image2 = Blackmail (sound version, 1929).webm
+ | thumbtime2 = 10
+ | footer = The silent (''left'') and sound (''right'') versions of ''Blackmail''
+}}
+On 26 April 1929, [[Scotland Yard]] Detective Frank Webber escorts his girlfriend Alice White  to a tea house. They have an argument and Frank storms out. While reconsidering his action, he sees Alice leave with Mr. Crewe, an artist she had earlier agreed to meet.
+
+Crewe persuades a reluctant Alice into coming up to see his studio. She admires a painting of a laughing clown, and uses his palette and brushes to paint a cartoonish drawing of a face; guiding her hand, he adds a few strokes of a naked feminine figure, and she signs the picture with her name. He gives her a dancer's outfit and Crewe sings and plays "Miss Up-to-Date" on the piano.
+
+Crewe steals a kiss, to Alice's disgust, but as she is changing and preparing to leave, he takes her dress from the changing area.  He attempts to rape her; her cries for help are not heard on the street below. In desperation, Alice grabs a nearby bread knife and kills him. <!-- Not "stabs". It happens off-screen but the examining doctor says the man's jugular was sliced. --> She angrily tears a hole in the painting of the clown, then leaves after attempting to remove any evidence of her presence in the flat, but accidentally leaves her gloves behind. She walks the streets of London all night in a daze.
+
+When the body is found, Frank is assigned to the case and finds one of Alice's gloves. He also recognizes the dead man, but conceals this from his superior. Taking the glove, he goes to see Alice at her father's tobacco shop, but she is too distraught to speak.
+
+As they speak privately in the shop's [[telephone booth]], a man named Tracy arrives. He had seen Alice go up to Crewe's flat, and he has one of the gloves
+. When he sees Frank with the other one, he attempts to blackmail them. His first demands are petty ones, and they accede. Frank learns by phone that Tracy is wanted for questioning: he was seen near the scene and has a criminal record. Frank sends for policemen and tells Tracy he will pay for the murder.
+
+Alice is apprehensive, but still does not speak up. The tension mounts. When the police arrive, Tracy's nerve finally breaks and he flees. The chase leads to the [[British Museum]], where he clambers onto the domed roof of the [[British Museum Reading Room|Reading Room]] and slips, crashing through a skylight and falling to his death inside. The police assume he was the murderer.
+
+Unaware of this, Alice feels compelled to give herself up and goes to see the Chief Inspector at [[New Scotland Yard]]. Before she can confess to him, the inspector receives a telephone call and asks Frank to deal with Alice. She finally tells Frank the truth—that it was self-defense against an attack she cannot bear to speak of—and they leave together. As they do, a policeman walks past, carrying the damaged painting of the laughing clown and the cartoon canvas where Alice painted over her name.
+
+==Cast==
+[[File:BlackmailUSWindowCardOndra.jpg|thumb|right|250px|alt=An advertisement for the movie ''Blackmail'' Surrounding text describes the film as "A Romance of Scotland Yard" and "The Powerful Talking Picture" |An advertisement]]
+[[File:BlackmailStill.jpg|thumb|right|Screenshot of the film featuring Ondra]]
+
+* [[Anny Ondra]] as Alice White
+** [[Joan Barry (British actress)|Joan Barry]] as Alice White (voice)
+* [[Sara Allgood]] as Mrs. White
+* [[Charles Paton]] as Mr. White
+* [[John Longden]] as Detective Frank Webber
+* [[Donald Calthrop]] as Tracy
+* [[Cyril Ritchard]] as Mr. Crewe, an artist
+* Hannah Jones as the landlady
+* [[Harvey Braban]] as the Chief Inspector (sound version)
+** [[Sam Livesey]] as the Chief Inspector (silent version)
+* Jacque Carter as boy
+* [[Johnny Butt]] as Sergeant
+* [[Phyllis Konstam]] as gossiping neighbour
+* [[Phyllis Monkman]] as gossip woman
+* [[Percy Parsons]] as crook
+
+==Production==
+The film began production as a [[silent film]]. To cash in on the new popularity of talkies, the film's producer, [[John Maxwell (producer)|John Maxwell]] of [[Associated British Picture Corporation|British International Pictures]], gave Hitchcock the go-ahead to film a portion of the movie in sound. Most sources state that Hitchcock thought the idea absurd and surreptitiously filmed almost the entire feature in sound, but in reality the silent version - which was largely completed - was cleverly used for several sequences with non-synchronous sound and dialogue where the actors faces were not visible. 
+
+The opening 6{{frac|1|2}} minutes of the sound version are silent, with musical accompaniment, as are numerous shorter scenes later, and the entire final chase sequence is from the silent version with occasional non-synchronized vocal interjections, including Donald Calthrop's last words on the dome of the British Museum's reading room. Thus it can be argued that the sound version of ''Blackmail'', despite BIP's publicity, is a "part-talkie". [[Gaumont-British]]'s ''[[High Treason (1929 British film)|High Treason]]'', directed by [[Maurice Elvey]] was also turned into a sound film mid-way during production. Much like ''Blackmail'', much of the silent footage in ''High Treason'' was maintained and dubbed over for the sound version, with Elvey himself voicing some of the minor characters.<ref>{{Cite web |date=August 22, 2016 |title=High Treason: Looking forward to 1940 or reaching back to the Great War? |url=https://www.southwestsilents.com/post/high-treason-looking-forward-to-1940-or-reaching-back-to-the-great-war |website=South West Silents}}</ref>
+
+''Blackmail'', marketed as one of Britain's earliest "all-talkie" feature films, was recorded in the [[RCA Photophone]] [[sound-on-film]] process. (The first U.S. all-talking film, ''[[Lights of New York (1928 film)|Lights of New York]]'', was released in July 1928 by [[Warner Brothers]] in their [[Vitaphone]] [[sound-on-disc]] process.) The film was shot at [[British and Dominions Imperial Studios]] soundstage in [[Borehamwood]], the first purpose-built sound studio in Europe.<ref name="Borehamwood Film Studios">{{cite web|last=Tomlinson|first=Richard|title=Borehamwood Film Studios: The British Hollywood|url=https://www.hertsmemories.org.uk/content/herts-history/leisure/cinema/borehamwood-film-studios|publisher=Herts Memories|access-date=26 October 2022}}</ref>
+
+Lead actress Anny Ondra was raised in [[Prague]] and had a pronounced [[Czechs|Czech]] accent that was felt unsuitable for the film. Sound was in its infancy at the time and it was not possible to [[Post-synchronization|post-dub]] her voice. Rather than replace her and reshoot her scenes, actress [[Joan Barry (British actress)|Joan Barry]] was hired to speak the dialogue off-camera while Ondra lip-synched her lines. This makes Ondra's performance seem slightly awkward.
+
+Hitchcock used several elements that would become Hitchcock "trademarks" including a beautiful blonde in peril and a famous landmark in the finale. Without informing the producers, Hitchcock used the [[Schüfftan process]] to film the scenes in the Reading Room of the [[British Museum]] since the light levels were too low for normal filming.
+
+The film was a critical and commercial hit. The sound was praised as inventive. A completed silent version of ''Blackmail'' was released in 1929 shortly after the talkie version hit theaters. The silent version of ''Blackmail'' actually ran longer in theaters and proved more popular, largely because most theaters in Britain were not yet equipped for sound. Despite the popularity of the silent version, history best remembers the landmark talkie version of ''Blackmail''. It is the version now generally available although some critics consider the silent version superior. Alfred Hitchcock filmed the silent version with Sam Livesey as the Chief Inspector and the sound version with Harvey Braban in the same role.
+
+===Hitchcock's cameo===
+[[File:Blackmail (1929) Hitchcock cameo.jpg|thumb|Alfred Hitchcock (''left'') in a cameo appearance]]
+[[List of cameo appearances by Alfred Hitchcock|Alfred Hitchcock's cameo]], a signature occurrence in many of Hitchcock's films, shows him being bothered by a small boy as he reads a book on the [[London Underground]]. This is probably the lengthiest of Hitchcock's cameo appearances and he appears around 10 minutes after the start. As the director became better known to audiences, especially when he appeared as the host of his own television series, he dramatically shortened his on-screen appearances.
+
+==Release and reception==
+First screened to press and cinema distributors on 21 June 1929 at the [[Odeon Marble Arch|Regal]] at [[Marble Arch]], the film premiered at the [[Odeon Haymarket|Capitol Cinema]] in London on 28 July 1929. ''Blackmail'' was one of the most successful releases of that year, and received critical praise.<ref name="Art & Hue">{{cite web|url=https://artandhue.com/shop/blackmail/|title= Blackmail |work=Art & Hue}}</ref>
+
+In a public poll, ''Blackmail'' was voted the best British film of 1929, largely on the basis of the silent version, which, as mentioned above, was more widely seen. In the same national UK poll, the best films of their respective years were ''[[The Constant Nymph (1928 film)|The Constant Nymph]]'' (1928), ''[[Rookery Nook (film)|Rookery Nook]]'' (1930), ''[[The Middle Watch (1930 film)|The Middle Watch]]'' (1931), and ''[[Sunshine Susie]]'' (1932).<ref>{{cite news |url=https://nla.gov.au/nla.news-article83406463 |title=SUNSHINE SUSIE |newspaper=[[Daily News (Perth, Western Australia)|Daily News]] |location=Perth, WA |date=19 August 1933 |access-date=4 March 2013 |page=19 |publisher=National Library of Australia}}</ref>
+
+Censors in Australia initially banned the film, but this was reversed by the Appeal board which permitted the film with a cut of approximately 200 feet consisting of the sequence with the stabbing.<ref>{{cite journal |title=Austin Censor Reversed |journal=[[Variety (magazine)|Variety]] |volume=97 |issue=7 |page=3 |publisher=Variety, Inc. |location=New York City |date=1929-11-27 |url=https://archive.org/details/variety97-1929-11/page/n226/mode/1up |access-date=14 February 2026}}</ref>
+
+==Legacy==
+As an early sound film, ''Blackmail'' frequently is cited by film historians as a landmark film,<ref>Rob White, Edward Buscombe, ''British Film Institute Film Classics Volume 1'', p. 111 Taylor & Francis, 2003</ref> and is often cited as the first truly British "all-talkie" feature film.<ref name="Allen">{{Cite book |last=Allen |first=Richard |url=https://books.google.com/books?id=cFEYI_wNKAcC&dq=Blackmail+(1929),+is+regarded+as+the+first+British+sound+feature,&pg=PR15 |title=Hitchcock: Past and Future |last2=Ishii-Gonzalès |first2=S. |date=2004 |publisher=Psychology Press |isbn=978-0-415-27525-5 |language=en}}</ref><ref name="Pierre">{{Cite book |last=Pierre |first=Paul Matthew St |url=https://books.google.com/books?id=AvxgFdRJ66kC&dq=blackmail+first+british+sound+film&pg=PA79 |title=Music Hall Mimesis in British Film, 1895-1960: On the Halls on the Screen |date=2009 |publisher=Associated University Presse |isbn=978-0-8386-4191-0 |pages=79 |language=en}}</ref> Two future directors worked on this production: [[Ronald Neame]] operated the [[clapperboard]] and [[Michael Powell]] took on-set publicity photographs.<ref name="BFI Database entry" />
+
+Earlier British part-sound films include:
+* ''The Gentleman'', a short film in the [[Phonofilm]] [[sound-on-film]] process, was an excerpt of ''The 9 to 11 Revue'', directed by William J. Elliott, and released in the UK in June 1925.
+* The part-sound ''[[The Clue of the New Pin (1929 film)|The Clue of the New Pin]]'', based on the novel by [[Edgar Wallace]], and filmed in British Phototone, a [[sound-on-disc]] system using 12-inch discs.
+* ''[[Der rote Kreis (1929 film)|The Crimson Circle]]'', a UK-German silent film, also based on a Wallace novel, dubbed after the fact with the Phonofilm sound-on-film process.
+* ''Black Waters'', a British-produced sound film shot in the US with an almost exclusively American cast and crew, and released on 6 April 1929.<ref>{{Citation |last=Neilan |first=Marshall |title=Black Waters |date=1929-04-06 |type=Crime, Drama, Mystery |url=https://www.imdb.com/title/tt0019700/ |access-date=2025-05-13 |others=James Kirkwood, Mary Brian, John Loder |publisher=Herbert Wilcox Productions, British & Dominions Film Corporation}}</ref>
+
+In March 1929, ''New Pin'' and ''Crimson Circle'' were trade-shown at the same screening for film exhibitors in London.
+
+The plot of ''[[Downton Abbey: A New Era]]'' (2022), produced by Ronald Neame's grandson [[Gareth Neame]], is partly inspired by ''Blackmail''.<ref>{{cite web|url=https://www.vanityfair.com/hollywood/2022/05/downton-abbey-a-new-era-movie|title=''Downton Abbey'': The Real-Life Hitchcock Saga That Inspired A New Era|website=[[Vanity Fair (magazine)|Vanity Fair]]|date=20 May 2022 }}</ref><ref>{{cite magazine|url=https://ew.com/movies/alfred-hitchcock-film-inspired-key-downton-abbey-a-new-era-plot-line/|title=An Alfred Hitchcock film inspired a key ''Downton Abbey: A New Era'' plot line|magazine=[[Entertainment Weekly]]}}</ref>
+
+==Preservation status and home media==
+A Laserdisc of the talkie version was released by the Criterion Collection in 1992.
+
+A restoration of ''Blackmail'''s silent version was completed in 2012, as part of the [[British Film Institute|BFI]]'s £2 million "Save the Hitchcock 9" project to restore all of the director's surviving silent films.
+
+At the beginning of 2025, ''Blackmail'' entered the [[public domain in the United States]].<ref>{{Cite web |last=Jenkins |first=Jennifer |title=Public Domain Day 2025 |url=https://web.law.duke.edu/cspd/publicdomainday/2025/ |access-date=2025-01-01 |website=Center for the Study of the Public Domain |publisher=Duke University}}</ref>
+
+==See also==
+* [[List of early sound feature films (1926–1929)]]
+* [[2025 in public domain]]
+
+==References==
+'''Notes'''
+{{reflist}}
+
+'''Bibliography'''
+* Ryall, Tom, ''Blackmail'' (London: [[British Film Institute]], 1993)
+
+==External links==
+{{commonscat}}
+{{wikisource|Blackmail (film)}}
+* {{IMDb title|0019702|Blackmail}}
+* [http://www.silentera.com/PSFL/data/B/Blackmail1929.html ''Blackmail'' at Silent Era]
+* {{rotten-tomatoes|id=1002540-blackmail|title=Blackmail}}
+* [https://www.youtube.com/watch?v=7Z8mSwzSQQk ''Blackmail'' sound test] on [[YouTube]]
+* {{Screenonline title|id=437722|title=Blackmail}}
+* {{TCMDb title|5899|Blackmail}}
+* [https://cocatalog.loc.gov/ Copyright Catalog] at [[Library of Congress]]; <small>select "Document number" and type "V8003P432"</small>
+*[https://archive.org/details/cunytv_CTCN0001 ''Cinema Then, Cinema Now: Blackmail''] (1990) film discussion hosted by Jerry Carlson of [[CUNY TV]]
+
+{{Alfred Hitchcock}}
+{{Authority control}}
+
+[[Category:1929 films]]
+[[Category:1929 thriller films]]
+[[Category:British thriller films]]
+[[Category:British black-and-white films]]
+[[Category:Transitional sound films]]
+[[Category:Films set in London]]
+[[Category:Films set in 1929]]
+[[Category:Films shot at British International Pictures Studios]]
+[[Category:Films directed by Alfred Hitchcock]]
+[[Category:British films based on plays]]
+[[Category:Early sound films]]
+[[Category:Film set at the British Museum]]
+[[Category:1929 English-language films]]
+[[Category:1929 British films]]
+[[Category:English-language thriller films]]
+[[Category:Articles containing video clips]]

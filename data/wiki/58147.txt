@@ -1,0 +1,279 @@
+{{about|the original 1962 film|the 2004 remake|The Manchurian Candidate (2004 film){{!}}''The Manchurian Candidate'' (2004 film)}}
+{{Use mdy dates|date=February 2026}}{{Short description|American thriller by John Frankenheimer}}
+{{Use American English|date=January 2025}}
+{{Infobox film
+| name           = The Manchurian Candidate
+| image          = The Manchurian Candidate (1962 poster).jpg
+| alt            =
+| caption        = Theatrical release poster
+| director       = [[John Frankenheimer]]
+| screenplay     = [[George Axelrod]]
+| based_on       = {{based on|''[[The Manchurian Candidate]]''<br />1959 novel|[[Richard Condon]]}}
+| producer       = {{Plainlist|
+* George Axelrod
+* John Frankenheimer}}
+| starring       = <!-- as per poster block-->
+{{Plainlist|
+* [[Frank Sinatra]]
+* [[Laurence Harvey]]
+* [[Janet Leigh]]
+* [[Angela Lansbury]]
+* [[Henry Silva]]
+* [[James Gregory (actor)|James Gregory]]
+}}
+| narrator       = [[Paul Frees]]<ref>{{cite book | url=https://books.google.com/books?id=3CrTCAAAQBAJ&q=Paul+Frees+Narrator+for+The+Manchurian+Candidate&pg=PA504 | title=Green Lantern History: An Unauthorised Guide to the DC Comic Book Series Green Lantern | first=Darran | last=Jordan | date=2015 | publisher=Eclectica Press | location=Sydney, Australia | isbn=978-1-326-13987-2 | access-date=April 2, 2017 | archive-url=https://web.archive.org/web/20170403121335/https://books.google.com/books?id=3CrTCAAAQBAJ&pg=PA504&lpg=PA504&dq=Paul+Frees+Narrator+for+The+Manchurian+Candidate&source=bl&ots=pmuSkKr5pA&sig=yxDnuVFL1tmjxEcDgr1cuOAj9qk&hl=en&sa=X&ved=0ahUKEwjYq6KwiYfTAhXF0RQKHQCwAyYQ6AEIOjAF#v=onepage&q=Paul%20Frees%20Narrator%20for%20The%20Manchurian%20Candidate&f=false | archive-date=April 3, 2017 | url-status=live | df=mdy-all }}</ref>
+| cinematography = [[Lionel Lindon]]
+| editing        = [[Ferris Webster]]
+| color_process  = [[Black and white]]
+| music          = [[David Amram]]
+| studio         = M.C. Productions
+| distributor    = [[United Artists]]
+| released       = {{film date|1962|10|24}}
+| runtime        = 126 minutes
+| country        = United States
+| language       = English
+| budget         = $2.2{{nbsp}}million
+| gross          = $3.3{{nbsp}}million ([[Box office#Distributor rentals|rentals]],{{efn|name=rentals}} original release)<br>$7.7{{nbsp}}million (gross, including re-releases)
+}}
+
+[[File:The Manchurian Candidate (1962) - Trailer.webm|thumb|The film's trailer]]
+'''''The Manchurian Candidate''''' is a 1962 American [[neo-noir]] [[political thriller film]] directed and produced by [[John Frankenheimer]]. The screenplay is by [[George Axelrod]], based on the 1959 [[Richard Condon]] novel ''[[The Manchurian Candidate]]''. The film's leading actors are [[Frank Sinatra]], [[Laurence Harvey]], and [[Janet Leigh]], with co-stars [[Angela Lansbury]], [[Henry Silva]], and [[James Gregory (actor)|James Gregory]].<ref name="SilverWard">{{cite book|author1-last=Macek|author1-first=Carl|author2-last=McGarry|author2-first=Eileen|editor1-last=Silver|editor1-first=Alain|editor2-last=Ward|editor2-first=Elizabeth|title=Film Noir: An Encyclopedic Reference to the American Style|location=New York City, Woodstock, NY & London|publisher=Overlook Press|year=1996|pages=183–84}}</ref>
+
+The plot centers on [[Korean War]] veteran Raymond Shaw, part of a prominent political family. Shaw is [[brainwashing|brainwashed]] by [[Communism|communists]] after his Army platoon is captured. He returns to civilian life in the United States, where he becomes an unwitting assassin in an international communist conspiracy. The group, which includes representatives of the [[China|People’s Republic of China]] and the [[Soviet Union]], plans to assassinate the presidential nominee of an American political party, with the death leading to the overthrow of the U.S. government.
+
+The film was released in the United States on October 24, 1962,<ref>[https://www.nytimes.com/1962/10/25/archives/screen-the-manchurian-candidatelaurence-harvey-and-frank-sinatra.html Screen: "'The Manchurian Candidate':Laurence Harvey and Frank Sinatra Star Brainwashing Is Theme of New Film"], by Bosley Crowther, ''The New York Times'', October 25, 1962 ("the film opened yesterday at the Astor, at the Trans-Lux 85th and at some 13 other theaters in the metropolitan area"</ref> at the height of [[Soviet Union–United States relations#Cold War (1947–1991)|U.S.–Soviet hostility]] during the [[Cuban Missile Crisis]]. It was widely acclaimed by Western critics and was nominated for two [[Academy Awards]]: [[Academy Award for Best Supporting Actress|Best Supporting Actress]] (Angela Lansbury) and [[Academy Award for Best Film Editing|Best Editing]]. Lansbury also won the [[Golden Globe Award for Best Supporting Actress – Motion Picture|Golden Globe Award for Best Supporting Actress]]. It was selected in 1994 for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref>{{Cite news |author=<!--not stated or generic "Staff"--> |title=25 Films Added to National Registry |work=[[The New York Times]] |department=Movies |date=November 15, 1994 |page=C30 |url=https://www.nytimes.com/1994/11/15/movies/25-films-added-to-national-registry.html |url-access=subscription |access-date=2025-03-22 |archive-url=https://web.archive.org/web/20210308143851/https://www.nytimes.com/1994/11/15/movies/25-films-added-to-national-registry.html |archive-date=March 8, 2021 |url-status=live}}</ref><ref>{{Cite web|url= https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing|title=Complete National Film Registry Listing|work=[[Library of Congress]]|access-date=November 15, 2022}}</ref>
+
+==Plot==
+During the [[Korean War]], Soviet and Chinese soldiers capture a [[U.S. Army]] platoon, taking them to [[China|communist China]]. Three days later, Sergeant Raymond Shaw and Captain Bennett "Ben" Marco return to [[United Nations|UN]] lines. Upon Marco's recommendation, Shaw is awarded the [[Medal of Honor]] for saving his soldiers' lives in combat, though two men were killed. Shaw returns to the United States, where his mother, Eleanor Iselin, exploits his heroism to further the political career of her husband, Senator John Iselin. When asked to describe Shaw, two soldiers in his unit uniformly respond that "he is the kindest, bravest, warmest, most wonderful human being [they] have ever known." In actuality, Shaw is a strict, cold, unsympathetic loner hated by his men.
+
+After Marco is promoted to major and assigned to [[Military Intelligence Corps (United States Army)|Army Intelligence]], he has a recurring nightmare: a hypnotized Shaw blithely murders two soldiers from his platoon before an assembly of communist military leaders to demonstrate their revolutionary brainwashing technique.
+
+[[File:Sinatra and Harvey in Manchurian Candidate NYWTS.jpg|thumb|upright|left|Shaw with Major Marco after jumping into a lake in [[Central Park]] when his programming was accidentally triggered]]
+Unbeknownst to him, during captivity, Shaw was programmed as a [[sleeper agent]], who obeys orders to kill and immediately forgets having done so. His heroism is a false memory implanted during the brainwashing. Agents trigger Shaw by suggesting he play [[Solitaire (card game)|solitaire]]; the [[queen of diamonds]] activates him. Meanwhile, Eleanor is masterminding John's political ascent with his baseless claims that communists work at the Defense Department (a clear parallel to the demagogic activities of Senator [[Joseph R. McCarthy]] in the early 1950s). To spite his mother and stepfather, Shaw takes a job at a newspaper published by Holborn Gaines, Iselin's harshest critic. Communist agents later have Shaw murder Gaines to confirm that his brainwashing still works.
+
+Chunjin, a North Korean agent who posed as a guide for Shaw's platoon, arrives at Shaw's apartment asking for work. The unsuspecting Shaw hires him as a valet and cook. Marco recognizes Chunjin when he visits Shaw; he violently attacks him and demands to know what happened during the platoon's captivity. After Marco is arrested for assault, Eugenie "Rosie" Cheyney, an attractive young woman he met on the train, posts his bail. Marco learns that Allen Melvin, a fellow soldier, has the same nightmare. When Melvin and Marco separately identify identical photos of the two male communist leaders from their dreams, Army Intelligence agrees to investigate.
+
+Shaw rekindles a romance with Jocelyn Jordan, the daughter of liberal Senator Thomas Jordan, the Iselins' chief political foe. Eleanor wants to garner Senator Jordan's support for Iselin's vice-presidential bid. Unswayed, Jordan insists he will oppose the nomination. After Jocelyn inadvertently triggers Shaw's programming by wearing a Queen of Diamonds costume at the Iselins' fancy-dress party, they elope. Furious at Senator Jordan's rebuff, Eleanor—who is Shaw's American "operator" (handler)—sends him to kill Senator Jordan at his home. Shaw also kills Jocelyn when she inadvertently happens upon the murder scene. Having no memory of the killing, Shaw is grief-stricken upon learning they are dead.
+
+After discovering the queen of diamonds card's role in Shaw's conditioning, Marco uses a [[Trick deck#Forcing decks|forcing deck]] to deprogram him, hoping to learn Shaw's next assignment. Eleanor primes Shaw to assassinate their party's presidential nominee during the convention so that Iselin, as the vice-presidential candidate, will become the nominee by default. In the uproar, he will seek emergency powers to establish a strict authoritarian regime. Eleanor tells Shaw that she had requested a programmed assassin, never knowing it would be her own son. When taking power, she vows revenge upon her superiors for choosing him.
+
+Disguised as a priest, Shaw enters [[Madison Square Garden (1925)|Madison Square Garden]], taking a sniper's position in a vacant overhead spotlight booth. Marco and his supervisor, Colonel Milt, race to the convention to stop Shaw. At the last moment, Shaw aims away from the presidential nominee and instead kills Senator Iselin and Eleanor. When Marco bursts into the booth, Shaw, wearing the Medal of Honor, says he was the only one who could stop his mother and stepfather, then kills himself. Later that evening with Rosie, Marco mourns Shaw's death.
+
+The title of the book and film thus refers not to the assassin Raymond but to Senator Iselin, a so-called anti-Communist whose political rise was actually engineered by means of a Communist plot originating in Manchuria, making Iselin the "Manchurian Candidate."  Author Richard Condon intended his book partially as an ironic comment on the anti-Communist hysteria of "[[McCarthyism]]," although this aspect of the story was played down somewhat in the film version.
+
+==Cast==
+<!--- [[MOS:FILMCAST]] [[WP:NOTDATABASE]] - cast and order per Main Cast [[opening credits]] --->
+{{Cast listing|
+* [[Frank Sinatra]] as Major Bennett Marco
+* [[Laurence Harvey]] as Raymond Shaw
+* [[Janet Leigh]] as Eugenie Rose Cheyney
+* [[Angela Lansbury]] as Eleanor Shaw Iselin
+* [[Henry Silva]] as Chunjin
+* [[James Gregory (actor)|James Gregory]] as Senator John Yerkes Iselin
+* [[Leslie Parrish]] as Jocelyn Jordan
+* [[John McGiver]] as Senator Thomas Jordan
+* [[Khigh Dhiegh]] as Dr. Yen Lo
+* [[James Edwards (actor)|James Edwards]] as Corporal Allen Melvin
+* [[Douglas Henderson (actor)|Douglas Henderson]] as Colonel Milt
+* [[Albert Paulsen]] as Zilkov
+* [[Barry Kelley]] as Secretary of Defense
+* [[Lloyd Corrigan]] as Holborn Gaines
+* [[Madame Spivy]] as Female Berezovo
+* [[Reggie Nalder]] as Gomel ''(uncredited)''<ref name=":5" />}}
+
+==Production==
+===Development===
+George Axelrod was friends with John Frankenheimer and they were looking for a project to make after Frankeheimer had been removed as director of ''Breakfast at Tiffany's''. Axelrod read a review of ''The Manchurian Candidate'' in the ''New Yorker'', bought the book and he and Frankenheimer decided to turn it into a movie. "There was a lot of resistance," recalled Axelrod. "It was everything the studios didn't want—political satire, worse than regular satire. It was not easy, but [Frank] Sinatra made it all possible. Sinatra agreed to play [Bennett] Marco, and that's the only way United Artists would let us do it."<ref>{{cite book|url=https://publishing.cdlib.org/ucpressebooks/view?docId=ft138nb0zm&chunk.id=d0e2422&toc.depth=1&toc.id=&brand=eschol|last=McGilligan|first= Patrick|title= Backstory 3: Interviews with Screenwriters of the 60s|chapter=George Axelrod: Irony! Interview by Pat McGilligan|location= Berkeley|publisher= University of California Press|year=1997|page=73}}</ref>
+
+Axelrod called the original book "a brilliant, wildly chaotic novel. Wonderful voice. To take the essence of that and try to make it so that it worked for a film was a challenge." He said the screenplay "breaks every single known rule. It's got dream sequences, flashbacks, narration out of nowhere. When we got in trouble, it had just a voice explaining stuff. Everything in the world that you're told not to do. But that was part of its genetic code, the secret of the crossword puzzle. It worked for this script."<ref>McGilligan p 74</ref>
+
+=== Casting ===
+Nearly half the film's $2.2 million production budget went to Frank Sinatra's salary for his performance.<ref>{{Cite news |last=Mann |first=Roderick |date=February 12, 1988 |title=The Return of 'The Manchurian Candidate': Classic Re-Released After Long Disputes |url=https://www.latimes.com/archives/la-xpm-1988-02-12-ca-28773-story.html |url-access=subscription |url-status=live |archive-url=https://web.archive.org/web/20231019160352/https://www.latimes.com/archives/la-xpm-1988-02-12-ca-28773-story.html |archive-date=2023-10-19 |access-date=April 11, 2021 |work=[[Los Angeles Times]]}}</ref>
+
+Frank Sinatra suggested [[Lucille Ball]] for the role of Eleanor Iselin, but Frankenheimer, who had worked with Lansbury in ''[[All Fall Down (1962 film)|All Fall Down]]'',<ref name="FrankenDVD" /> insisted that Sinatra watch her performance in that film before a final choice was made. Although Lansbury played Raymond Shaw's mother, she was, in fact, only three years older than her on-screen son [[Laurence Harvey]]. An early scene in which Shaw, recently decorated with the Medal of Honor, argues with his parents, was filmed in Sinatra's own private plane.<ref name="FrankenDVD" />
+
+[[Janet Leigh]] plays Marco's love interest. In a short biography of Leigh broadcast on [[Turner Classic Movies]], her daughter, actress [[Jamie Lee Curtis]], reveals that Leigh had been served divorce papers on behalf of her father, actor [[Tony Curtis]], the morning that the scene where Marco and her character first meet on a train was filmed.{{citation needed|date=April 2024}}
+
+Sinatra offered [[Jackie Gleason]] a role in the film, but he declined as he was in need of rest after shooting two films back-to-back.<ref name=":5">{{Cite web |title=AFI{{!}}Catalog |url=https://catalog.afi.com/Catalog/MovieDetails/24336 |access-date=2025-12-16 |website=catalog.afi.com}}</ref>
+
+=== Filming ===
+Principal photography took place on-location in [[New York City]] and at [[Samuel Goldwyn Studio]]s in Los Angeles. Notable scenes were shot in [[Madison Square Garden (1925)|Madison Square Garden]] and [[Central Park]].<ref name=":5" /> Axelrod said all Sinatra's scenes had to be shot first because he was leaving to go to Europe.<ref>McGilligan p 74-75</ref>
+
+In the scene where Marco attempts to deprogram Shaw in a hotel room opposite the convention, Sinatra is at times slightly out of focus. It was a first take, and Sinatra failed to be as effective in subsequent retakes, a common factor in his film performances.<ref name="first take">{{cite magazine |first=Glen |last=Lovell |title='Manchurian' revolt: Frankenheimer offers Sinatra revelations on DVD |magazine=[[Variety (magazine)|Variety]] |date=May 28, 1998  |url=https://variety.com/1998/scene/vpage/manchurian-revolt-1117471298/ |access-date=April 17, 2021 |archive-url=https://web.archive.org/web/20210417051316/https://variety.com/1998/scene/vpage/manchurian-revolt-1117471298/ |archive-date=April 17, 2021 |url-status=live}}</ref> In the end, Frankenheimer elected to use the out-of-focus take. Critics subsequently praised him for showing Marco from Shaw's distorted point of view.<ref name = FrankenDVD/><ref name="first take" />
+
+In the novel, Eleanor Iselin's father had sexually abused her as a child. Before the dramatic climax, she uses her son's brainwashing to have sex with him. Concerned with the reaction to even a reference to a taboo topic such as [[incest]] in a mainstream film at that time, the filmmakers instead had Eleanor kiss Shaw on the lips to imply her incestuous attraction to him.<ref name=FrankenDVD>Director John Frankenheimer's audio commentary, available on ''The Manchurian Candidate'' DVD</ref>
+
+The film's fight scene between Marco (Sinatra) and Chunjin (Silva) is notable as one of the earliest depictions of East Asian [[martial arts]] in a mainstream Hollywood film,<ref>{{Cite web |last=Willams |first=Joe |date=2023-07-29 |title=The first karate fight in an American movie |url=https://faroutmagazine.co.uk/first-karate-fight-in-an-american-film/ |access-date=2025-12-16 |website=faroutmagazine.co.uk |language=en-US}}</ref> with the last notable example occurring in 1945's ''[[Blood on the Sun]]''.<ref name=":5" /><ref>{{Cite web |date=2016-02-10 |title=1945 film fight scene using reality based real martial arts |url=https://mixedmartialarts.com/judo/1945-film-fight-scene/ |access-date=2025-12-16 |website=mixedmartialarts.com |language=en-US}}</ref> Sinatra broke his [[little finger]] while shooting the scene, and his refusal to properly bandage or cast his hand for the rest of filming would lead to chronic discomfort throughout his life.<ref>{{Cite web |date=2024-05-23 |title=The Manchurian Candidate: An Iconic Political Thriller - Solzy at the Movies |url=https://solzyatthemovies.com/2024/05/23/the-manchurian-candidate-an-iconic-political-thriller/ |access-date=2025-12-16 |website=solzyatthemovies.com |language=en-US}}</ref> According to Frankenheimer, Henry Silva had to train himself to fight right-handed (he was actually left-handed) for the scene.<ref>{{Cite web |last=Concannon |first=Philip |title=Commentary Tracks - The Manchurian Candidate |url=http://www.philonfilm.net/2017/09/commentary-tracks-manchurian-candidate.html |access-date=2025-12-16}}</ref>
+
+== Cold War ==
+''The Manchurian Candidate'' has been called one of the most "iconic" films of the [[Cold War]] period, especially in its discussion of "mind-control."<ref name=":0">{{Cite journal |last1=Marks |first1=Sarah |last2=Pick |first2=Daniel |date=2017 |title=Lessons on Mind Control from the 1950s |url=https://www.jstor.org/stable/45180792 |journal=The World Today |volume=73 |issue=1 |pages=12–17 |jstor=45180792 |access-date=October 29, 2023}}</ref> With one of the major plot points being the popular Cold War myth that China was brainwashing US soldiers for communist purposes during the [[Korean War]].<ref>{{Cite web |last=Hampton |first=Howard |date=March 15, 2016 |title=The Manchurian Candidate: Dread Center |url=https://www.criterion.com/current/posts/3970-the-manchurian-candidate-dread-center |access-date=October 29, 2023 |website=The Criterion Collection}}</ref> Political scientist [[Michael Rogin]] further cements the film in this time period by describing it as being "a [[Presidency of John F. Kennedy|Kennedy Administration]] film." Rogin cites Sinatra's character within the film as being a "lonely Kennedy Hero," who works within the army bureaucracy towards reform.<ref name=":1">{{Cite journal |last=Rogin |first=Michael |date=1984 |title=Kiss Me Deadly: Communism, Motherhood, and Cold War Movies |url=https://www.jstor.org/stable/2928536 |journal=Representations |issue=6 |pages=1–36 |doi=10.2307/2928536 |issn=0734-6018 |jstor=2928536|url-access=subscription }}</ref>
+
+=== Depiction of communists ===
+In the garden scene, pictures of [[Mao Zedong]] and [[Joseph Stalin]] are hung on the wall with a [[Soviet state|Soviet star]] in between them and the head of the Manchurian candidates standing beneath the star. This insinuates a collaboration between China and Russia with the goal to manipulate the US for communist world domination.<ref name=":3">{{Cite journal |last=Coates |first=Ivan |date=1993 |title=Enforcing the Cold War Consensus: McCarthyism, Liberalism and the "Manchurian Candidate" |url=https://www.jstor.org/stable/41053668 |journal=Australasian Journal of American Studies |volume=12 |issue=1 |pages=47–64 |jstor=41053668 |issn=1838-9554}}</ref> During their demonstration, the communist leaders refer to Raymond as "the mechanism" and "the weapon", which affirms the idea that communists only see people as gadgets that can be thrown away after their use.<ref name=":3" /> The film depicts communists as eager to give up their lives, which are expendable in their eyes anyway, for the cause of universal communism, which is a "less than essential end".<ref name=":3" />
+
+In ''The Manchurian Candidate'', communists are not peers, but instead relate to each other within the hierarchy of communist leaders. For example, there are rows of communist leaders who all look down upon the Manchurian Candidates in the garden scene.<ref name=":3" /> In addition, Raymond Shaw’s mother only uses those around her, such as her son and husband, as pawns in her communist ploy to gain a powerful position through her husband’s candidacy for Vice President of the US.<ref name=":1" /> This is juxtaposed with loving, trusting, and open relationships such as those between Shaw and Jocelyn Jordan, and Marco and Cheyney.<ref name=":3" />
+
+=== Conspiracy theories and US mind control ===
+''The Manchurian Candidate'' uses "science, the conditioned subject, and the moving image" to create a realistic framework for the existence of mind control.<ref>{{Cite journal |last=Killen |first=Andreas |date=2011 |title=Homo pavlovius: Cinema, Conditioning, and the Cold War Subject |url=https://www.jstor.org/stable/41342502 |journal=Grey Room |volume=45 |issue=45 |pages=42–59 |doi=10.1162/GREY_a_00049 |jstor=41342502 |s2cid=57562839 |issn=1526-3819|url-access=subscription }}</ref> Specifically, it plays on the idea of a "covert sphere" of communism within the US, mixing real life events with those out of [[science fiction]].<ref name=":4">{{Cite journal |last=Melley |first=Timothy |date=2008 |title=Brainwashed! Conspiracy Theory and Ideology in the Postwar United States |url=https://www.jstor.org/stable/27669224 |journal=New German Critique |volume=35 |issue=103 |pages=145–164 |doi=10.1215/0094033X-2007-023 |jstor=27669224 |issn=0094-033X|url-access=subscription }}</ref> This theme added to the growing suspicion of the US government, redirecting concerns of possible brainwashing toward the homefront.<ref name=":1" /> [[Janja Lalich]], a counter-cult sociologist,{{clarification needed|date=July 2025}} notes that the term "brainwashing" used by this counterculture movement{{dubious|date=July 2025}} was first made popular by ''The Manchurian Candidate''.<ref>{{Cite journal |last=Laycock |first=Joseph |date=2013 |title=Where Do They Get These Ideas? Changing Ideas of Cults in the Mirror of Popular Culture |url=https://www.jstor.org/stable/23357877 |journal=Journal of the American Academy of Religion |volume=81 |issue=1 |pages=80–106 |doi=10.1093/jaarel/lfs091 |jstor=23357877 |issn=0002-7189|url-access=subscription }}</ref>{{request quotation|date=July 2025}} The ever growing fear that anyone, even a decorated soldier like Raymond Shaw, could be coerced unwittingly by communists contributed to the United States’ expansion of their own mind control experiments.<ref name=":2">{{Cite journal |last=Grant |first=Brittanny |date=2015 |title=Was It All Just A Hallucination? The CIA's Secret LSD Experiments |url=https://scholarworks.arcadia.edu/cgi/viewcontent.cgi?article=1013&context=senior_theses |journal=ScholarWorks@Arcadia}}</ref> In 1975, a little over ten years after the release of ''The Manchurian Candidate'', the fear of a US-funded mind control scheme would come true with the reveal of [[Project MKULTRA|Project MKUltra]], in which the CIA looked to control human behavior through trauma programming and psychoactive drugs starting in the early 1950s and ending in 1973.<ref>{{Cite journal |last=Andriopoulos |first=Stefan |date=2011 |title=The Sleeper Effect: Hypnotism, Mind Control, Terrorism |url=https://www.jstor.org/stable/41342504 |journal=Grey Room |volume=45 |issue=45 |pages=88–105 |doi=10.1162/GREY_a_00051 |jstor=41342504 |s2cid=57570519 |issn=1526-3819|url-access=subscription }}</ref> According to the CIA, "historians have asserted that creating a 'Manchurian Candidate' subject through 'mind control' techniques was a goal of MK-ULTRA and related CIA projects."<ref>{{Cite web |last=CIA |date=December 2018 |title=(U) Project MK-ULTRA |url=https://www.cia.gov/readingroom/docs/project%20mk-ultra%5B15545700%5D.pdf |access-date=October 11, 2025 |website=Cia.gov}}</ref>
+
+Roger Ebert suggested that Leigh's character Rosie is intended as Marco's own controller, writing:<ref>{{Cite web |title=The Manchurian Candidate movie review (1962) {{!}} Roger Ebert |url=https://www.rogerebert.com/reviews/great-movie-the-manchurian-candidate-1962 |access-date=2025-12-16 |website=www.rogerebert.com |language=en-US}}</ref><ref>{{Cite web |title=The Manchurian Candidate movie review (1962) {{!}} Roger Ebert |url=https://www.rogerebert.com/reviews/the-manchurian-candidate-1988 |access-date=2025-12-16 |website=www.rogerebert.com |language=en-US}}</ref>
+
+<blockquote>They meet in the parlor car of a train, where Sinatra, shaking, cannot light a cigarette and knocks over the table with his drink on it. Leigh follows him to the space between cars, lights a cigarette for him and engages him in a very weird conversation, after which they fall in love and she quickly ditches her fiancé. What’s going on here? My notion is that Sinatra’s character is a Manchurian killer, too – one allowed to remember details of Harvey’s brainwashing because that would make him seem more credible. And Leigh? She is Sinatra’s controller. This possible scenario simply adds another level to a movie already rich in intrigue.</blockquote>
+
+==Reception==
+
+===Box office===
+In the United States and Canada, for its original release, ''The Manchurian Candidate'' netted $3.3{{nbsp}}million in [[Box office#Distributor rentals|distributor rentals]],{{efn|name=rentals|Please note these are [[Box office#Distributor rentals|distributor rentals]] only, their share of the box office gross after theatres take their cut of gross ticket sales}}<ref>{{cite magazine |author=<!--not stated or generic "Staff"--> |title=Big Rental Pictures of 1962 |magazine=[[Variety (magazine)|Variety]] |date=9 Jan 1963 |page=13 |url=https://archive.org/details/variety-1963-01/page/n69/mode/2up?q=1963 |access-date=2025-03-23 |url-access=limited |via=[[Internet Archive#Text collection|Internet Archive Book Reader]]}}</ref> against a budget of $2.2{{nbsp}}million.<ref>{{cite web |first=Jonathan |last=Llyr |author-link=Jonathan Llyr |title=The Manchurian Candidate Still Shocks After All These Years |work=[[Space (Canadian TV channel)|Space]] |date=2016-04-11
+|url=https://www.space.ca/the-manchurian-candidate-tiff-restored/ |access-date=2025-03-22 |archive-url=https://web.archive.org/web/20190804133438/https://www.space.ca/the-manchurian-candidate-tiff-restored/ |archive-date=2019-08-04 |url-status=dead}}</ref> After Sinatra{{snd}}who owned the film rights{{snd}}allowed re-release in 1988, followed by other theatrical re-releases, the film has grossed $7.7{{nbsp}}million.<ref name=NUM>{{Cite The Numbers |id=Manchurian-Candidate-The |access-date=2025-03-22}}</ref>
+
+===Critical response===
+''The Manchurian Candidate'' was praised by critics for its performances, direction, themes, satire, editing and visuals. {{RT data|prose|A classic blend of satire and political thriller that was uncomfortably prescient in its own time, ''The Manchurian Candidate'' remains distressingly relevant today.|ref=yes}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 94 out of 100, based on 20 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''The Manchurian Candidate'' |url=https://www.metacritic.com/movie/the-manchurian-candidate-1962 |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=2025-03-22 |archive-url= |archive-date= |url-status=}}</ref>
+
+Critic [[Pauline Kael]] attributed the strength of the film less to its directing than to the power of its script.<ref>{{Cite web |title=The Age of Movies: Selected Writings of Pauline Kael (paperback) |url=https://www.loa.org/books/348-the-age-of-movies-selected-writings-of-pauline-kael-paperback/ |access-date=2025-10-06 |website=Library of America |language=en-US}}</ref>
+
+Writing an extensive retrospective analysis in 2003, film critic [[Roger Ebert]] addressed the many elements that led him to rate ''The Manchurian Candidate'' one of the 'Great Movies'{{snd}}films he gave his maximum 4 stars out of 4; he declared it "inventive and frisky, takes enormous chances with the audience, and plays not like a 'classic', but as a work as alive and smart as when it was first released".<ref>{{cite web |title=''The Manchurian Candidate'' |first=Roger |last=Ebert |author-link=Roger Ebert |website=[[RogerEbert.com]] |date=December 7, 2003 |url=http://www.rogerebert.com/reviews/great-movie-the-manchurian-candidate-1962 |access-date=April 3, 2017 |archive-url=https://web.archive.org/web/20170427202225/http://www.rogerebert.com/reviews/great-movie-the-manchurian-candidate-1962 |archive-date=April 27, 2017 |url-status=live}}</ref>
+
+===Academic response===
+Scholars have used ''The Manchurian Candidate'' as a window into Cold War paranoia. Professor<!--https://sam.research.sc.edu/uscera/facultyExpertise/cv/30084--> Catherine Canino claimed that the film fulfilled the prophecies of "the imagined loss of cherished American autonomy and free will".<ref>{{Cite journal |last=Kim |first=Swan |date=2010 |title=The Color of Brainwashing: The Manchurian Candidate and the Cultural Logic of Cold War Paranoia |url=https://s-space.snu.ac.kr/handle/10371/88659 |journal=미국학 |language=en |volume=33 |issue=1 |pages=167–195 |doi=10.18078/amstin.2010.33.1.006 |issn=1229-4381|doi-access=free }}</ref> Political scientist [[Michael Rogin]] concluded that ''The Manchurian Candidate'' "aims to reawaken a lethargic nation to a communist menace".<ref name=":1" /> Humanities Center director<!--https://miamioh.edu/profiles/cas/timothy-melley.html--> [Timothy Melley] argued that "''The Manchurian Candidate''{{'}}s deepest worry is neither communism nor anticommunism but embattled human autonomy."<ref name=":4" />
+
+===Awards and honours===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+|-
+| rowspan="2"| [[35th Academy Awards|Academy Awards]]<ref name="Oscars1963">{{Cite web|url=http://www.oscars.org/oscars/ceremonies/1963 |title=The 35th Academy Awards (1963) Nominees and Winners |access-date=2011-08-23|work=oscars.org}}</ref>
+| [[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Angela Lansbury]]
+| {{nom}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Ferris Webster]]
+| {{nom}}
+|-
+| [[16th British Academy Film Awards|British Academy Film Awards]]<ref>{{cite web |url=http://awards.bafta.org/award/1963/film |title=BAFTA Awards: Film in 1963 |website=[[BAFTA]] |year=1963 |access-date=16 September 2016 |ref={{harvid|BAFTA|1963}}}}</ref>
+| colspan="2"| [[BAFTA Award for Best Film|Best Film from any Source]]
+| {{nom}}
+|-
+| [[15th Directors Guild of America Awards|Directors Guild of America Awards]]<ref>{{cite web|url=https://www.dga.org/Awards/History/1960s/1962.aspx?value=1962|title=15th DGA Awards |website=[[Directors Guild of America Awards]] |access-date=July 5, 2021}}</ref>
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| [[John Frankenheimer]]
+| {{nom}}
+|-
+| rowspan="2" |[[20th Golden Globe Awards|Golden Globe Awards]]<ref>{{cite web|url=https://www.goldenglobes.com/film/manchurian-candidate |title=The Manchurian Candidate – Golden Globes |website=[[HFPA]] |access-date=July 5, 2021 |ref={{harvid|HFPA|1963}}}}</ref>
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| John Frankenheimer
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Supporting Actress – Motion Picture|Best Supporting Actress – Motion Picture]]
+| Angela Lansbury
+| {{won}}
+|-
+| rowspan="3"| [[Laurel Awards]]
+| colspan="2"| Top Action Drama
+| {{nom}}
+|-
+| Top Action Performance
+| [[Frank Sinatra]]
+| {{nom}}
+|-
+| Top Female Supporting Performance
+| Angela Lansbury
+| {{nom}}
+|-
+| [[National Board of Review Awards 1962|National Board of Review Awards]]<ref>{{cite web|url=https://nationalboardofreview.org/award-years/1962/ |title=1962 Award Winners |website=[[National Board of Review]] |access-date=July 5, 2021}}</ref>
+| [[National Board of Review Award for Best Supporting Actress|Best Supporting Actress]]
+| Angela Lansbury <small>(Also for ''[[All Fall Down (1962 film)|All Fall Down]]'')</small>
+| {{won}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+|-
+| [[13th Producers Guild of America Awards|Producers Guild of America Awards]]
+| colspan="2"| PGA Hall of Fame – Motion Pictures
+| {{won}}
+|}
+
+In 1994, ''The Manchurian Candidate'' was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref>[https://www.nytimes.com/1994/11/15/movies/25-films-added-to-national-registry.html ''The Manchurian Candidate'', One of 25 Films Added to National Registry.] {{Webarchive|url=https://web.archive.org/web/20180326202726/https://www.nytimes.com/1994/11/15/movies/25-films-added-to-national-registry.html |date=March 26, 2018}} ''[[The New York Times]]''. Retrieved August 28, 2012.</ref> The film ranked 67th on the "[[AFI's 100 Years...100 Movies]]" when that list was first compiled in 1998, but a 2007 revised version excluded it. It was 17th on AFI's "[[AFI's 100 Years...100 Thrills]]" lists. In April 2007, Lansbury's character was selected by ''[[Time (magazine)|Time]]'' as one of the 25 greatest villains in cinema history.<ref>{{cite magazine|url=https://entertainment.time.com/2007/04/26/top-25-greatest-villains/slide/angela-lansbury-as-mrs-iselin/|title=Angela Lansbury as Mrs. Iselin|last=Corliss|first=Richard|date=April 25, 2007|magazine=[[Time (magazine)|Time]]|publisher=Time|access-date=May 19, 2018|archive-url=https://web.archive.org/web/20180622053715/http://entertainment.time.com/2007/04/26/top-25-greatest-villains/slide/angela-lansbury-as-mrs-iselin/|archive-date=June 22, 2018|url-status=live|df=mdy-all}}</ref>
+<!-- repeat of text above
+===American Film Institute recognition===
+* [[AFI's 100 Years...100 Movies]]—number 67
+* [[AFI's 100 Years...100 Thrills]]—number 17
+* [[AFI's 100 Years...100 Heroes and Villains]]: Mrs. Eleanor Iselin—number-21 villain
+ -->
+
+==Releases==
+A false rumor posited that Sinatra removed the film from distribution after [[John F. Kennedy assassination|John F. Kennedy's assassination]] on November 22, 1963. According to Michael Schlesinger, who was responsible for the film's 1988 reissue by [[Metro-Goldwyn-Mayer|MGM/UA]], the film was never removed.{{r|schlesinger20080127}} Newspaper display ads indicate that after the assassination, ''The Manchurian Candidate'' was rereleased less frequently or widely than other 1962 movies, but it was available. The movie played at a [[Brooklyn, New York|Brooklyn]] cinema in January 1964, and that same month in [[White Plains, New York]],<ref>"Movie Timetable." Tarrytown (NY) Daily News, 16 January 1964.</ref> and Jersey City, New Jersey.<ref>"Movie Time Table [sic]." Summit (NJ) Herald, 16 January 1964.</ref> It was televised nationwide on the ''[[CBS Thursday Night Movie]]'' on September 16, 1965.
+
+Sinatra's representatives acquired rights to the film in 1972 after the initial contract with [[United Artists]] expired.{{r|schlesinger20080127}} The film was rebroadcast on nationwide television in April 1974 on ''[[NBC Saturday Night at the Movies]]''.<ref>{{cite web | url=http://www.ultimate70s.com/seventies_history/19740427/television | title=Prime-time network TV listings for Saturday April 27, 1974 | publisher=Ultimate70s.com | access-date=April 2, 2017 | archive-url=https://web.archive.org/web/20180327084345/http://www.ultimate70s.com/seventies_history/19740427/television | archive-date=March 27, 2018 | url-status=live | df=mdy-all }}</ref> After a showing at the [[New York Film Festival]] in 1987 increased public interest in the film, the studio reacquired the rights and it became again available for theater and video releases.<ref name="schlesinger20080127">{{cite news |first=Michael |last=Schlesinger |title=A 'Manchurian' myth |url=https://www.latimes.com/archives/la-xpm-2008-jan-27-ca-pulloutletter27-story.html |newspaper=[[Los Angeles Times]] |date=2008-01-27 |access-date=January 28, 2008|archive-url=https://web.archive.org/web/20100109200705/http://articles.latimes.com/2008/jan/27/entertainment/ca-pulloutletter27 |archive-date=January 9, 2010 |url-status=live }}</ref><ref name="santopietro2009">{{cite book |title=Sinatra in Hollywood |publisher=Macmillan |url=https://books.google.com/books?id=0qUJ-JuSPdQC&pg=PA324 |author=Santopietro, Tom |year=2009 |pages=324–326 |isbn=9781429964746 |access-date=March 16, 2016|archive-url=https://web.archive.org/web/20140706155431/http://books.google.com/books?id=0qUJ-JuSPdQC&pg=PA324&hl=en&sa=X&ei=vDuoUJfYAqrwigLjo4DQDw&ved=0CEIQ6AEwBg#v=onepage&f=false |archive-date=July 6, 2014|url-status=live }}</ref>
+
+On March 15, 2016, The Criterion Collection issued a Blu-Ray of the film.<ref>{{Cite AV media |url=https://www.blu-ray.com/movies/The-Manchurian-Candidate-Blu-ray/145354/ |title=The Manchurian Candidate Blu-ray |access-date=2025-04-28 |via=www.blu-ray.com}}</ref> In June 2023, Kino Lorber issued a 4K Ultra HD Blu-Ray of the film.<ref>{{Cite AV media |url=https://www.blu-ray.com/movies/The-Manchurian-Candidate-4K-Blu-ray/311849/ |title=The Manchurian Candidate 4K Blu-ray (4K Ultra HD) |access-date=2025-04-28 |via=www.blu-ray.com}}</ref>
+
+==See also==
+* [[List of American films of 1962]]
+* [[List of assassinations in fiction]]
+* [[List of cult films]]
+* [[Conspiracy fiction]]
+* [[Hypnosis in works of fiction]]
+* [[Spy film]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{AFI film}}
+* {{IMDb title}}
+* {{TCMDb title}}
+* {{mojo title}}
+* [http://www.filmsite.org/manc.html ''The Manchurian Candidate''] at [[filmsite.org|AMC Filmsite]]. Background, detailed storyline, and key dialogue excerpts.
+* [http://www.jacknilan.com/senatorjoe/manchurian.html ''The Manchurian Candidate''] at [http://www.jacknilan.com/senatorjoe/index.html McCarthyism and the Movies]
+*[https://www.criterion.com/current/posts/3970-the-manchurian-candidate-dread-center ''The Manchurian Candidate: Dread Center''] an essay by Howard Hampton at the [[Criterion Collection]]
+
+{{John Frankenheimer}}
+{{Authority control}}
+
+{{DEFAULTSORT:Manchurian Candidate}}
+[[Category:1962 films]]
+[[Category:1962 spy films]]
+[[Category:1960s psychological thriller films]]
+[[Category:1960s political thriller films]]
+[[Category:American black-and-white films]]
+[[Category:American neo-noir films]]
+[[Category:American political thriller films]]
+[[Category:Cold War spy films]]
+[[Category:1962 English-language films]]
+[[Category:Films about memory erasure and alteration]]
+[[Category:Films about assassinations]]
+[[Category:Films about elections]]
+[[Category:Films about fictional presidents of the United States]]
+[[Category:Films about McCarthyism]]
+[[Category:Films about the United States Army]]
+[[Category:Films about veterans]]
+[[Category:Films based on American novels]]
+[[Category:Films based on mystery novels]]
+[[Category:Films critical of communism]]
+[[Category:Films directed by John Frankenheimer]]
+[[Category:Films featuring a Best Supporting Actress Golden Globe–winning performance]]
+[[Category:Films about hypnosis]]
+[[Category:Films scored by David Amram]]
+[[Category:Films set in New York City]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films shot in Washington, D.C.]]
+[[Category:Films with screenplays by George Axelrod]]
+[[Category:Korean War prisoner of war films]]
+[[Category:Films about matricide]]
+[[Category:Films about murder–suicide]]
+[[Category:United States National Film Registry films inducted in 1994]]
+[[Category:United States presidential nominating conventions in fiction]]
+[[Category:Films about uxoricide]]
+[[Category:Films about mind control]]
+[[Category:1962 American films]]
+[[Category:English-language thriller films]]
+[[Category:United Artists films]]

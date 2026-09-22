@@ -1,0 +1,12 @@
+{
+ "q6_requests": 8,
+ "q6_workers": 4,
+ "q6_serial_s": 1.19,
+ "q6_parallel_s": 0.27,
+ "q6_median_rt_s": 0.11,
+ "q7_requests": 3,
+ "q7_workers": 3,
+ "q7_serial_s": 1.5,
+ "q7_parallel_s": 0.75,
+ "q7_median_rt_s": 0.48
+}

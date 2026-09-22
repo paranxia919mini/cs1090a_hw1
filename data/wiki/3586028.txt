@@ -1,0 +1,454 @@
+{{Short description|Spaghetti Western film by Sergio Corbucci}}
+{{Infobox film
+| name           = Django
+| image          = Djangofilm.jpg
+| alt            = The upper left of the poster reads "Euro International Films presenta". To the left, a man, wearing a scarf, a black coat and a hat, is looking towards his left and holding a Colt Single Action Army. To the right, a pained women is tied to a wooden bridge, a Mexican lies dead on the ground, and another has been shot. On the bottom of the poster are the title (in large red lettering) and the credits.
+| caption        = Italian film poster by Rodolfo Gasparri<ref name=Hughes>Hughes, 2009</ref>
+| director       = [[Sergio Corbucci]]
+| producer       = {{plainlist|
+* Sergio Corbucci
+* Manolo Bolognini}}
+| screenplay     = {{plainlist|
+* Sergio Corbucci
+* [[Bruno Corbucci]]
+* [[Franco Rossetti]]
+* José Gutiérrez Maesso
+* [[Piero Vivarelli]]
+* [[Fernando Di Leo]]<ref name=sed>Giusti, 2007, pp. 144-146</ref> {{small|(uncredited)}}
+}}
+| story          = {{plainlist|
+* Sergio Corbucci
+* Bruno Corbucci}}
+| based_on       = {{based on|''[[Yojimbo (film)|Yojimbo]]''|[[Akira Kurosawa]]<br>[[Ryūzō Kikushima]]<br>{{small|(both uncredited)}}}}
+| starring       = {{plainlist|
+* [[Franco Nero]]
+* [[Loredana Nusciak]]
+* [[José Bódalo]]
+* [[Ángel Álvarez]]
+* [[Eduardo Fajardo]]}}
+| music          = [[Luis Bacalov]]
+| cinematography = [[Enzo Barboni]]
+| editing        = {{plainlist|
+* [[Nino Baragli]]
+* [[Sergio Montanari]]}}
+| studio         = {{ubl|
+* B.R.C. Produzione Film
+* Tecisa}}
+| distributor    = {{ubl|
+* Euro International Films (Italy)
+* 
+}}
+| released       = {{Film date|df=y|1966|04|06|Italy|1967|09|21|Spain}}
+| runtime        = 92 minutes
+| country        = {{plainlist|
+* Italy<ref name="lumiere">{{cite web|url=https://lumiere.obs.coe.int/movie/43469#|title=Django (1966)|access-date=29 January 2025|website=[[European Audiovisual Observatory]]}}</ref>
+* Spain<ref name="lumiere"/>
+}}
+| language       = 
+| budget         = 
+| gross          = {{plainlist|
+* [[Italian lira|₤]]1.026 billion {{small|(Italy)}}
+* 823,052 admissions {{small|(France)}}<ref name="box">{{cite web|url=http://www.boxofficestory.com/django-c22724777|work=Box Office Story|access-date=October 6, 2015|title=Django Box Office|archive-date=August 8, 2015|archive-url=https://web.archive.org/web/20150808143310/http://www.boxofficestory.com/django-c22724777|url-status=live}}</ref>
+* $25,916 {{small|(2012 re-release)}}<ref name=Mojo />}}
+}}
+
+'''''Django''''' ({{IPAc-en|ˈ|dʒ|æ|ŋ|ɡ|oʊ}} {{respell|JANG|goh}})<ref>The ''D'' is silent.</ref> is a 1966 [[spaghetti Western]] film directed, produced and co-written by [[Sergio Corbucci]]. It stars [[Franco Nero]] (in his [[breakthrough role]]) as [[Django (character)|the title character]], alongside [[Loredana Nusciak]], [[José Bódalo]], [[Ángel Álvarez]], and [[Eduardo Fajardo]].<ref>{{cite web |url=https://www.nytimes.com/2012/06/03/movies/a-spaghetti-western-roundup-at-film-forum.html |title=Once Upon a Time in Italy - A Spaghetti Western Roundup at Film Forum |work=[[The New York Times]] |date=2012-06-03 |access-date=2012-06-12 |archive-date=2012-06-09 |archive-url=https://web.archive.org/web/20120609211919/http://www.nytimes.com/2012/06/03/movies/a-spaghetti-western-roundup-at-film-forum.html |url-status=live }}</ref> The film follows a [[Union Army|Union soldier]]-turned-[[drifter (person)|drifter]] and his companion, a [[Multiracial people|mixed-race]] [[Prostitution|prostitute]], who become embroiled in a bitter, destructive feud between a gang of [[Confederate States of America|Confederate]] [[Red Shirts (United States)|Red Shirts]] and a band of Mexican [[revolutionaries]]. Intended to capitalize on and rival the success of [[Sergio Leone]]'s ''[[A Fistful of Dollars]]'', Corbucci's film is, like Leone's, considered to be a loose, unofficial adaptation of [[Akira Kurosawa]]'s ''[[Yojimbo (film)|Yojimbo]]''.<ref name=sed /><ref name="One">{{cite video
+  | title = Django (Django: The One and Only)
+  | medium = DVD
+  | publisher = [[Blue Underground]]
+  | location = Los Angeles, California
+  | date = 1966
+}}</ref><ref name=Cox>Cox, 2009</ref>
+
+The film earned a reputation as one of the most violent films ever made at the time, and was subsequently refused a certificate in the [[United Kingdom]] until 1993, when it was issued an [[18 (British Board of Film Classification)|18 certificate]] (the film was downgraded to a [[15 (British Board of Film Classification)|15 certificate]] in 2004). A commercial success upon release, ''Django'' has garnered a large [[cult following]] outside of Italy and is widely regarded as one of the [[List of films considered the best|best films of the Spaghetti Western genre]], with the direction, Nero's performance, and [[Luis Bacalov]]'s soundtrack most frequently being praised.
+
+Although the name is referenced in over 30 "sequels" from the time of the film's release until the early 1970s in an effort to capitalize on the success of the original, most of these films were unofficial, featuring neither Corbucci nor Nero. Nero reprised his role as Django in 1987's ''[[Django Strikes Again]]'', the only official sequel produced with Corbucci's involvement. Nero also made a [[cameo appearance]] in [[Quentin Tarantino]]'s 2012 film ''[[Django Unchained]]'', a homage to Corbucci's original. A [[Francesca Comencini]]-directed [[Django (TV series)|Italian-French TV series of the same name]], also featuring Nero, premiered in 2023.
+
+Retrospective critics and scholars of Corbucci's Westerns have also deemed ''Django'' to be the first in the director's "Mud and Blood" trilogy, which also includes ''[[The Great Silence]]'' and ''[[The Specialists (1969 film)|The Specialists]]''.<ref name="specialists">{{Cite AV media notes
+| title       = Western Excess: Sergio Corbucci and ''The Specialists''
+| year        = 2020
+| page        = 8
+| author      = Hughes, Howard
+| type        = booklet
+| publisher   = Eureka Entertainment
+| id          = EKA70382
+}}</ref>
+
+==Plot==
+On the [[Mexico–United States border]], Django, wearing a [[Union Army|Union]] uniform and dragging a [[coffin]], witnesses Mexican bandits tying a prostitute, María, to a bridge and whipping her. The bandits are killed by henchmen of Major Jackson – a racist ex-[[Confederate States of America|Confederate]] officer – who prepare to kill María by [[crucifixion|crucifying]] her atop a [[burning cross]]. [[Django (character)|Django]] shoots the men and offers María protection. The pair arrive in a town, populated by Nathaniel, a bartender, and five prostitutes. Nathaniel explains that the town is a [[Neutral zone (territorial entity)|neutral zone]] in a conflict between Jackson's [[Red Shirts (United States)|Red Shirts]] and General Hugo Rodríguez's [[revolutionaries]].
+
+[[File:Franco Nero (Django).jpg|thumb|left|Django confronts Major Jackson in the [[Western saloon|saloon]].]]
+Jackson and his henchmen arrive at the saloon to extort Nathaniel. Django confronts two henchmen when they harass a prostitute, and ridicules Jackson and his beliefs. Django shoots the men, and challenges Jackson to return with his accomplices. Afterwards, he seduces María.
+
+Jackson returns with his gang. Using the [[machine gun]] contained in his coffin, Django guns down most of them, allowing Jackson and a handful of men to escape. While helping Nathaniel bury the corpses, Django visits the grave of Mercedes Zaro, his former lover who was killed by Jackson. Hugo and his revolutionaries arrive and capture Jackson's spy, [[Brother (Christian)|Brother]] Jonathan. As punishment, Hugo cuts off Jonathan's ear, forces him to eat it, and shoots him. Later, Django proposes to Hugo, who he had once saved in prison, that they steal Jackson's gold from the [[Mexican Army]]'s [[Fort]] Charriba.
+
+Nathaniel, under the guise of bringing prostitutes for the soldiers, drives a [[Horse-drawn vehicle|horse cart]] containing Django, Hugo and four revolutionaries, two of whom are named Miguel and Ricardo, into the Fort, allowing them to massacre many of the soldiers – Miguel uses Django's machine gun, while Django, Hugo and Ricardo fight their way to the gold. As Django and the revolutionaries escape, Jackson gives chase, but is forced to stop when the thieves reach American territory. Django asks for his share of the gold, but Hugo, wanting to use it to fund his attacks on the [[Mexican Government]], promises to pay Django once he is in power.
+
+When Ricardo tries to rape María during the post-heist party, Django kills him. Hugo allows Django to spend the night with María, but he chooses another prostitute. The prostitute distracts the men guarding the gold, and Django enters the house via the chimney. Stashing the gold in his coffin and activating his machine gun as a diversion, Django loads the coffin onto a wagon. María implores Django to take her with him.
+
+Arriving at the bridge where they first met, Django tells María that they should part ways, but María begs him to abandon the gold so they can start a new life together. When María's rifle misfires, the coffin falls into the [[quicksand]] below. Django nearly drowns when he tries to recover the gold, and María is wounded by Hugo's men while trying to save him. Miguel crushes Django's hands as punishment for being a thief, and Hugo's gang leave for Mexico. Upon arrival, the revolutionaries are massacred by Jackson and the army. Django and María return to the saloon, finding only Nathaniel there, and Django tells them he must kill Jackson to prevent further bloodshed.
+
+Jackson learns that Django is waiting for him at Tombstone Cemetery and kills Nathaniel. Django, resting himself on the back of Zaro's cross, pulls the [[trigger guard]] off his revolver with his teeth and rests it against the cross, just as Jackson's gang arrive. Believing Django is praying but unable to make the [[sign of the cross]] with his mutilated hands, Jackson mockingly shoots the corners of Zaro's cross. Django kills Jackson and his men by pushing the trigger against the cross and [[Fanning (firearms)|fanning]] the gun. Leaving his revolver on Zaro's cross, Django staggers out of the cemetery.
+
+==Cast==
+{{castlist|
+* [[Franco Nero]] as [[Django (character)|Django]]
+** Nero's voice was [[dubbing (filmmaking)|dubbed]] in English by [[Tony Russel]], whom he had previously starred alongside in ''[[Wild, Wild Planet]]''.<ref>Taylor, 2015</ref>
+* [[José Bódalo]] as General Hugo Rodríguez
+* [[Loredana Nusciak]] as María
+* [[Ángel Álvarez]] as Nathaniel, the Bartender (known as "Nataniele" in the Italian original)
+* [[Eduardo Fajardo]] as Major Jackson
+* [[Gino Pernice]] (as Jimmy Douglas) as Brother Jonathan, Jackson's Spy
+* [[José Canalejas (actor)|José Canalejas]] as Hugo Gang Member
+* Simón Arriaga as Miguel, Hugo's Henchman
+* Giovanni Ivan Scratuglia as Leading Klansman at Bridge
+* [[Remo De Angelis]] (as Erik Schippers) as Ricardo, Hugo's Henchman
+* [[Rafael Albaicín]] as Hugo Gang Member
+* [[Lucio De Santis]] as Whipping Bandit
+* Silvana Bacci as Mexican Prostitute
+* Guillermo Méndez as Klansman watching Jackson's [[target practice]]
+* [[José Terrón (actor)|José Terrón]] as Ringo, Scarred Klansman
+* [[Luciano Rossi]] as Klansman in Saloon
+* Rafael Vaquero as Hugo Gang Member
+* [[Cris Huerta]] as Mexican Officer at Fort Charriba
+* Flora Carosello as Black Hair Saloon Girl
+* Rolando De Santis as Klan Member
+* Gilberto Galimberti as Klan Member
+* Alfonso Giganti as Klan Member
+* [[Giulio Maculani]] as Klan Member
+* [[Yvonne Sanson]] as Redhead Saloon Girl
+* Attilio Severini as Klan Member
+}}
+
+==Production==
+
+===Development and writing===
+During the production of ''[[Ringo and his Golden Pistol]]'', [[Sergio Corbucci]] was approached by Manolo Bolognini, an ambitious young producer who had previously worked as [[Pier Paolo Pasolini]]'s [[Unit production manager|production manager]] on ''[[The Gospel According to St. Matthew (film)|The Gospel According to St. Matthew]]'', to write and direct a [[Spaghetti Western]] that would recoup the losses of his first film as producer, ''[[The Possessed (1965 film)|The Possessed]]''. Corbucci immediately accepted Bolognini's offer. The director wanted to create a film inspired by [[Akira Kurosawa]]'s ''[[Yojimbo (film)|Yojimbo]]'', which he had seen two years prior on recommendation from his regular [[cinematographer]], [[Enzo Barboni]]. Corbucci also wanted to make a film that would rival the success of ''[[A Fistful of Dollars]]'', a ''Yojimbo'' adaptation directed by his friend [[Sergio Leone]].<ref name=sed /> According to [[Ruggero Deodato]], Corbucci's assistant director, the director borrowed the idea of a protagonist who dragged a [[coffin]] behind him from a comic magazine he found on a news-stand in [[Via Veneto]], [[Rome]].<ref name="One" />
+
+Bolognini gave Corbucci a very short schedule in which to write the film's screenplay. The first outlines of the story were written by Corbucci with his friend [[Piero Vivarelli]]; the pair wrote backwards from the final scene of the film. The destruction of the lead character's hands prior to the final showdown was influenced by Corbucci's previous film, ''[[Minnesota Clay]]'', which depicted a blind protagonist who attempts to overcome his disability.<ref name=sed /> It was also from this that the name "Django" was conceived for the hero – according to [[Alex Cox]], Django's name is "a sick joke on the part of Corbucci and his screenwriter-brother [[Bruno Corbucci|Bruno]]" referencing Belgian jazz guitarist [[Django Reinhardt]], who was known for his exceptional musicianship in spite of the fourth and fifth fingers on his left hand being paralysed.<ref name=Cox /><ref name="Moviedrome">{{cite AV media | url = http://www.youtube.com/watch?v=pbIsfCErfG4 | title = Moviedrome - Django | access-date = 2011-09-03 | via = [[YouTube]] | archive-date = 2014-04-16 | archive-url = https://web.archive.org/web/20140416122425/http://www.youtube.com/watch?v=pbIsfCErfG4 | url-status = live }}</ref> Additionally, because Corbucci was a [[left-wing]] "[[Political cinema|political director]]", Cox suggests that the [[plot device]] of Django's [[machine gun]] being contained in a coffin, along with the cemetery-buried gold hunted by the lead characters of ''[[The Good, the Bad and the Ugly]]'', may have been inspired by rumours surrounding the [[anti-Communist]] [[Operation Gladio|Gladio]] terrorists, who hid many of their 138 weapons caches in cemeteries. Major Jackson's use of Mexican [[peons]] as target practice also has historical precedence – [[Indigenous peoples in Brazil|Indigenous Brazilians]] had been used as target practice by white [[History of slavery|slavers]] as late as the 1950s.<ref name=Cox /> Corbucci is also alleged to have studied [[newsreel]] footage of the [[Ku Klux Klan]] while writing scenes featuring Major Jackson and his men, who wear red hoods and scarves in the film.<ref name=sed />
+
+Corbucci and Vivarelli's outline was then revised by [[Franco Rossetti]].<ref name=sed /> By the time filming began, Corbucci was directing from a "''scaletta'' [...] like a synopsis, but more detailed, [yet] still not a full screenplay".<ref name="guardian1">{{cite news | url = https://www.theguardian.com/film/2011/may/26/franco-nero-django | title = Franco Nero: No escaping Django | access-date = 2011-09-03 | work = The Guardian | location = London | first = Phelim | last = O'Neill | date = 2011-05-26 | archive-date = 2013-11-13 | archive-url = https://web.archive.org/web/20131113195553/http://www.theguardian.com/film/2011/may/26/franco-nero-django | url-status = live }}</ref> Further screenplay contributions and revisions were made throughout production, namely by José Gutiérrez Maesso and [[Fernando Di Leo]] (who was not credited for his work on the script) and especially by Bruno Corbucci.<ref name=sed /> Actor [[Mark Damon]] has also claimed to have collaborated with Corbucci on the story prior to the film's production.<ref name="Cox" /> Italian prints credit the Corbucci brothers with "story, screenplay & dialogue", while Rossetti, Maesso and Vivarelli are credited as "screenplay collaborators". English prints do not list Maesso, and credit [[Geoffrey Copleston]] for the English-language script.<ref name="Argent">{{cite video
+  | title = Django
+  | medium = DVD
+  | publisher = Argent Films
+  | location = London, United Kingdom
+  | date = 1966
+}}</ref>
+
+===Casting===
+Corbucci originally wanted to cast Mark Damon (who had played the title character of ''Ringo and his Golden Pistol'') as Django, but Damon experienced a conflict in his scheduling and had to withdraw. Bolognini considered either [[Franco Nero]] or [[Peter Martell]] for the role, and eventually decided to have Fulvio Frizza, the head of Euro International Films (the film's distributor), choose the actor based on photographs of the three men. Frizza chose Nero, who was reluctant to appear in the film because he wanted to perform roles in more "serious" films. He was eventually persuaded by his agent, Paola Petri, and her husband, director [[Elio Petri]], to accept the role on the grounds that he would have "nothing to lose".<ref name="One" /><ref name="guardian1" /><ref name ="Discuss">{{cite AV media | url = https://www.youtube.com/watch?v=V214NE-0jx0 | title = FRANCO NERO - Interview discussing the making of DJANGO (1966) | access-date = 2016-02-01 | via = [[YouTube]] | archive-date = 2015-09-30 | archive-url = https://web.archive.org/web/20150930124102/https://www.youtube.com/watch?v=V214NE-0jx0 | url-status = live }}</ref> Nero was 23 when he was cast; to give the impression of an older, [[Clint Eastwood]]-type persona, he grew out his stubble, wore fake [[wrinkles]] around his eyes, and had his voice [[Dubbing (filmmaking)|dubbed]] in [[post-production]] by actor [[Nando Gazzolo]].<ref>{{cite web | url = http://www.antoniogenna.net/doppiaggio/film1/django.htm | title = Django | access-date = 2016-02-01 | website = Il mondo dei doppiatori, AntonioGenna.net | archive-date = 2016-03-04 | archive-url = https://web.archive.org/web/20160304122930/http://www.antoniogenna.net/doppiaggio/film1/django.htm | url-status = live }}</ref> He also asked Corbucci to have his character dressed in a black [[Union Army]] uniform as a reference to his family name (Nero means "black").<ref name ="Discuss" /> During filming, Corbucci invited Sergio Leone to meet Nero, who felt that the young actor would become successful.<ref name="One" />
+
+===Filming===
+Filming began in December 1965<ref name="guardian1"/> at the Tor Caldara [[nature reserve]], near [[Lavinio]] in Italy. Most interior and exterior shots were filmed on the Elios Film set outside of Rome, which included a dilapidated Western town renovated by [[Carlo Simi]], a veteran of both Corbucci and Leone's films.<ref name=sed /> Corbucci was at first dissatisfied with the muddy street of the Elios set (he initially wanted the film to be set in snowy locations, foreshadowing his work on ''[[The Great Silence]]''), but was eventually persuaded by Bolognini and his wife, Nori Corbucci, to use the muddy locations.<ref name=sed /> Production halted several days after filming began to allow the Corbucci brothers to polish the script, while Bolognini secured extra financial backing from the Spanish production company Tescia.<ref name ="Discuss" /> Filming restarted in January, with several exteriors being filmed in [[Colmenar Viejo]] and [[La Pedriza]] of [[Manzanares el Real]], near [[Madrid]].<ref name ="Discuss" /> The final gunfight between Django and Jackson's men was filmed in Canalone di Tolfa, near the Roman [[Lazio]] area.<ref name=sed /> Filming concluded by late February 1966.<ref name="guardian1" /> Unlike most Spaghetti Westerns, which were filmed in [[Aspect ratio (image)|2.39:1]] [[Techniscope]] and printed in [[Technicolor]], ''Django'' was filmed in the standard European [[widescreen]] (1.66:1) format and printed in [[Eastmancolor]].<ref name="Cox" />
+
+In an interview for ''Segno Cinema'' magazine, Barboni explained that during the two weeks of shooting at the Elios Film set, filming was made problematic by the low amount of available sunlight. Grey and heavy clouds covered the sky nearly permanently, making it extremely difficult for the crew to choose the right light. Many scenes turned out to be [[Camera exposure|underexposed]], but the type of [[film negative]] that was used permitted this, and the crew was enthusiastic about the visual effects created.<ref name=sed /> Deodato believes that as a result of the limitations imposed by the cold weather and the low budget, as well as the craftsmanship of production members such as costumer Marcella De Marchis (the wife of [[Roberto Rossellini]]), the film has a [[neorealism (art)|neorealistic]] aesthetic comparable to the works of Rossellini and [[Gualtiero Jacopetti]].<ref name="One" /> Nero has noted that Corbucci displayed a keen sense of [[black humour]] throughout production, which once resulted in the director and his crew abandoning Nero during the shooting of the film's opening titles as a joke.<ref name="guardian1" />
+
+==Soundtrack==
+{{Infobox album
+| name       = Django
+| type       = Soundtrack
+| artist     = [[Luis Bacalov]]
+| cover      =
+| alt        =
+| released   = 1985<br />2 April 2013 {{small|(re-release)}}
+| recorded   = 1966
+| venue      =
+| studio     =
+| genre      = [[Music of Latin America|Latin]], [[Orchestral music|Orchestral]], [[Rock music|Rock]]
+| length     = 40:16 {{small|(1985)}}<br />1:16:34 {{small|(2013)}}
+| label      = [[Generalmusic]] {{small|(1985)}}<br />GDM Music {{small|(2013)}}
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+{{Music ratings
+| rev1      = [http://www.movie-wave.net/ Movie Wave]
+| rev1Score = {{Rating|5|5}} [http://www.movie-wave.net/django/ link]
+| rev2      = [http://www.sputnikmusic.com/ Sputnikmusic]
+| rev2Score = {{Rating|4|5}} [https://www.sputnikmusic.com/review/61544/Luis-Bacalov-Django/ link]
+}}
+The soundtrack for ''Django'' was composed and conducted by [[Luis Bacalov]], known then for his score on ''[[The Gospel According to St. Matthew (film)|The Gospel According to St. Matthew]]''.<ref name=Hughes /> It was his first [[Western film]] score, and was followed several months later by his soundtrack for [[Damiano Damiani]]'s ''[[A Bullet for the General]]'', which reused several themes from his ''Django'' score.<ref name=sed /><ref name="Cox" /> In comparison to the [[20th-century classical music|contemporary classical]] style of [[Ennio Morricone]]'s Spaghetti Western scores, Bacalov's soundtrack is more traditional, and relies especially on [[brass]] and [[orchestral]] styles of instrumentation, although several tracks use distinctive elements of [[Music of Latin America|Latin]] and rock music.<ref name="Hughes" /><ref name="Cox" /> The main titles theme, which was conducted by [[Bruno Nicolai]] and features lyrics by [[Franco Migliacci]] and [[Robert Mellin]], was sung in English for the film by [[Rocky Roberts]]. An Italian version of the song, released only on the soundtrack album and as a single, was performed by Roberto Fia. The soundtrack album, originally released in 1985, was re-released in 2013 with a new song listing and additional tracks.
+
+Original [[Gramophone record|vinyl]] release, 1985:
+{| width=70%
+|
+{{Track listing
+| headline  = Side one
+| title1   = 	La Corsa
+| length1   = 1:36
+| title2   = 	Fango Giallo
+| length2   = 2:34
+| title3   = 	Town Of Silence
+| length3   = 1:28
+| title4   = Blue Dark Waltz
+| length4   = 1:04
+| title5   = 	La Corsa (2nd Version)
+| length5   = 2:18
+| title6   = 	Fruscii Notturni
+| length6   = 3:15
+| title7   = 	El Pajarito
+| length7   = 2:47
+| title8   = 	Espera Y Ataque
+| length8   = 2:43
+| title9   = 	Django (Instrumental)
+| length9   = 2:52
+}}
+|-
+|
+{{Track listing
+| headline  = Side two
+| title1   = 	Django
+| note1   = featuring Roberto Fia
+| length1   = 2:52
+| title2   = 		Vàmonos Muchachos!
+| length2   = 1:03
+| title3   = 		Vàmonos Muchachos! (2nd Version)
+| length3   = 3:02
+| title4   = Vals De Juana Yimena
+| length4   = 1:02
+| title5   = 		Vàmonos Muchachos!
+| length5   = 2:41
+| title6   = 	Town Of Silence (2nd Version)
+| length6   = 1:18
+| title7   = 	Corrido
+| length7   = 4:46
+| title8   = 	Preludio
+| length8   = 1:57
+| title9   = 	Duello Nel Fango
+| length9   = 1:18
+}}
+|}
+
+[[Compact disc|CD]] re-release, 2013:<ref name ="OST2">{{cite web | url = http://www.discogs.com/Luis-Bacalov-Django/release/6830476 | title = Luis Bacalov – Django | access-date = 2016-01-03 | website = [[Discogs]] | archive-date = 2019-05-04 | archive-url = https://web.archive.org/web/20190504144114/https://www.discogs.com/Luis-Bacalov-Django/release/6830476 | url-status = live }}</ref>
+
+{| width=70%
+|
+{{Track listing
+| title1  = Main Titles Song
+| note1   = featuring [[Rocky Roberts]]
+| length1 = 2:55
+| title2  = Town of Silence
+| length2 = 1:32
+| title3  = 	Fango giallo
+| length3 = 2:39
+| title4  = Saloon
+| length4 = 2:20
+| title5  = Blue Dark Waltz
+| length5 = 1:05
+| title6  = Fruscii notturni
+| length6 = 3:19
+| title7  = Suspence
+| length7 = 0:17
+| title8  = La corsa, Pt. 1
+| length8 = 2:21
+| title9  = Waiting
+| length9 = 0:21
+| title10 = Love Moment
+| length10= 0:21
+| title11 = 	Vamonos Muchachos, Pt. 1
+| length11= 1:07
+| title12 =Espera y Ataque, Pt. 1
+| length12= 2:47
+| title13 = 	La corsa, Pt. 2
+| length13= 1:40
+| title14 = Love Moment, Pt. 2
+| length14= 1:03
+| title15 = Vamonos Muchachos, Pt. 2
+| length15= 3:05
+| title16 = Vamonos Muchachos, Pt. 3
+| length16= 1:07
+| title17 = 	Mariachi, Pt. 1
+| length17= 1:18
+| title18 = Vals de Juana Yimena
+| length18= 1:05
+| title19 = 	Vamonos Muchachos, Pt. 4
+| length19= 2:45
+| title20 = Mariachi, Pt. 2
+| length20= 0:41
+| title21 = Mariachi, Pt. 3
+| length21= 1:51
+| title22 =El Parajito
+| length22= 2:50
+| title23 = 	Town of Silence, Pt. 2
+| length23= 1:21
+| title24 = Corrido (With Vocal)
+| length24= 4:31
+| title25 = 	La corsa, Pt. 3
+| length25= 1:23
+| title26 = Espera y Ataque, Pt. 2
+| length26= 1:42
+| title27 = 	Rage
+| length27= 1:11
+| title28 = Duello nel fango
+| length28= 1:21
+| title29 = 	End Titles Song (English Version) (Film Version)
+| note29 = featuring Rocky Roberts
+| length29= 1:26
+| title30 = Preludio (Solo Armonium) (The Cemetery Scene Unused Take)
+| length30= 2:01
+| title31 = Corrido (Alternate Version) (No Vocal)
+| length31= 4:31
+| title32 = Django (Instrumental Version) (Unused)
+| length32= 2:56
+| title33 = Main Titles Song (Single Italian Version) ([[Monaural|Mono]])
+| note33 = featuring Roberto Fia
+| length33= 2:57
+| title34 = Django (Instrumental) (Alternate Version Mono)
+| length34= 2:57
+| title35 = Main Titles Song (Single Italian Version) ([[Stereophonic sound|Stereo]])
+| note35 = featuring Roberto Fia
+| length35= 2:55
+| title36 = Django (Instrumental) (Alternate Version Stereo)
+| length36= 2:55
+| title37 = 	Django ([[Karaoke]] Version) (Mono)
+| length37= 2:54
+}}
+|}
+
+==Release==
+In the United States, ''Django'' was shown for a brief period in Los Angeles during the making of [[Franco Nero|Nero]]'s first production in Hollywood, ''[[Camelot (film)|Camelot]]''; this limited release consisted of four screenings that were hosted by Nero himself.<ref name=Hollywood /> Although [[Jack Nicholson]] attempted to buy the American rights to the film in 1967,<ref name=Hughes /> ''Django'' did not find a legitimate distributor in the US until 1972, when it was released in an edited form by Jack Vaughan Productions as ''Jango''.<ref name=Hughes /><ref name="US">{{cite web|url=http://www.filmratings.com/search.html?filmTitle=Jango&x=67&y=2|publisher=FilmRatings.com|title=Jango (1972)|access-date=January 20, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160205124123/http://www.filmratings.com/search.html?filmTitle=Jango&x=67&y=2|archive-date=February 5, 2016}}</ref> On December 21, 2012, [[Rialto Pictures]] and [[Blue Underground]] re-released ''Django'' in dubbed and subtitled form in selected theatres to coincide with the release of [[Quentin Tarantino]]'s ''[[Django Unchained]]''. By February 7, 2013, this release had earned $25,916 at the box office.<ref name=Mojo>{{cite web|url=http://www.boxofficemojo.com/movies/?id=django2012.htm|work=[[Box Office Mojo]]|access-date=February 5, 2016|title=Django (2012 re-release)|archive-date=February 5, 2016|archive-url=https://web.archive.org/web/20160205151238/http://www.boxofficemojo.com/movies/?id=django2012.htm|url-status=live}}</ref><ref name=Rialto>{{cite web|url=http://rialtopictures.com/django.html|publisher=[[Rialto Pictures]]|access-date=February 5, 2016|title=Django|url-status=dead|archive-url=https://web.archive.org/web/20160503011206/http://www.rialtopictures.com/django.html|archive-date=May 3, 2016}}</ref> In Japan, ''Django'' was released by [[Toho]]-Towa as {{nihongo|''Continuation: Wilderness Bodyguard''|続・荒野の用心棒|Zoku・kōya no yōjinbō}},<ref name="Gallery">{{cite video
+  | title = Django ( Django (Poster & Still Gallery))
+  | medium = DVD
+  | publisher = [[Blue Underground]]
+  | location = Los Angeles, California
+  | date = 1966
+}}</ref> presenting the film as not only a remake of {{nihongo|''[[Yojimbo (film)|Yojimbo]]''|用心棒|Yōjinbō}}, but as a sequel to {{nihongo|''[[A Fistful of Dollars]]''|荒野の用心棒|Kōya no yōjinbō}}, which had been distributed in Japan by Toho-Towa on behalf of [[Akira Kurosawa]].<ref name="Toho">{{cite video
+  | title = A Fistful of Dollars (The Christopher Frayling Archives: A Fistful of Dollars)
+  | medium = Blu-ray 
+  | publisher = [[Metro-Goldwyn-Mayer]]
+  | location = Los Angeles, California
+  | date = 1967
+}}</ref>
+
+===Home media===
+''Django'' was first released on DVD in the US as a [[double feature]] with ''[[Django Strikes Again]]'' on September 24, 2002. This release, by [[Anchor Bay Entertainment]], is mostly uncut and presented with a remix of the English dub in [[Dolby Digital]] [[5.1 surround sound]], and was limited to 15,000 copies. Included as special features are trailers for the two films, exclusive interviews with Nero about their production histories, an [[Arcade video game|arcade]]-style [[interactive game]] and an illustrated booklet with essays on the films. This release, which is currently out of print, was criticized for its hazy, washed-out transfer.<ref name=Beaver>{{cite web|url=http://www.dvdbeaver.com/film/dvdcompare/django.htm|work=DVD Beaver|access-date=February 5, 2016|title=Django|archive-date=February 5, 2016|archive-url=https://web.archive.org/web/20160205165500/http://www.dvdbeaver.com/film/dvdcompare/django.htm|url-status=live}}</ref> Prior to the original DVD release, Anchor Bay had released both films on VHS in 1999.<ref name=Amazon1>{{cite web|url=https://www.amazon.com/Django-VHS-Franco-Nero/dp/B00002RASO|work=[[Amazon.com]]|access-date=February 9, 2016|title=Django [VHS]|date=23 November 1999 |archive-date=March 10, 2016|archive-url=https://web.archive.org/web/20160310063007/http://www.amazon.com/Django-VHS-Franco-Nero/dp/B00002RASO|url-status=live}}</ref><ref name=Amazon2>{{cite web|url=https://www.amazon.com/Django-2-Strikes-Again-VHS/dp/B00002RASS|work=[[Amazon.com]]|access-date=February 9, 2016|title=Django 2: Strikes Again [VHS]|date=23 November 1999 |archive-date=February 3, 2016|archive-url=https://web.archive.org/web/20160203121107/http://www.amazon.com/Django-2-Strikes-Again-VHS/dp/B00002RASS|url-status=live}}</ref>
+
+On January 7, 2003, [[Blue Underground]], having acquired the distribution rights to ''Django'' from Anchor Bay, released a second DVD of the film as part of ''The Spaghetti Western Collection'' boxset, which also included the films ''[[Django Kill... If You Live, Shoot!]]'', ''[[Run, Man, Run]]'' and ''[[Mannaja|Mannaja: A Man Called Blade]]''.<ref name=Beaver /> A standalone two-disc limited-edition version was released on April 27, 2004, with the first disc containing the film and the second containing Alessandro Dominici's ''The Last Pistolero'', a [[short film]] starring Nero in a tribute to his Western film roles. A third DVD release, made available on July 24, 2007, omitted ''The Last Pistolero''.<ref name=BUWesterns>{{cite web|url=http://www.blue-underground.com/category.php?category=11|work=[[Blue Underground]]|access-date=February 5, 2016|title=Western|archive-date=January 31, 2016|archive-url=https://web.archive.org/web/20160131171742/http://blue-underground.com/category.php?category=11|url-status=live}}</ref>
+
+Blue Underground's DVD releases utilize a high quality (albeit mildly damaged) transfer based on the film's [[original camera negative]], which was subject to a complex two-year [[Film preservation|digital restoration]] process that resulted in many instances of dirt, scratches, warps and deteriorations being removed and corrected.<ref name=Compare>{{cite web|url=http://www.dvdcompare.net/comparisons/film.php?fid=2765|work=Rewind @ dvdcompare.net|access-date=February 5, 2016|title=Django (1966)|archive-date=October 9, 2015|archive-url=https://web.archive.org/web/20151009080059/http://www.dvdcompare.net/comparisons/film.php?fid=2765|url-status=live}}</ref> The DVD, which presents ''Django'' completely uncut with Dolby Digital [[Monaural|mono]] mixes of both the English and Italian dubs (as well as English subtitles translating the Italian dialogue), includes the film's English trailer, ''Django: The One and Only'' (an interview piece with Nero and [[Ruggero Deodato]]), a gallery of poster and production art compiled by Ally Lamaj, and talent biographies for Nero and Corbucci.<ref name=Compare /> A [[Blu-ray]] release, featuring a revised [[High-definition video|high definition]] transfer of the negative and [[DTS-HD Master Audio]] Mono mixes of the English and Italian dubs, was released by Blue Underground on May 25, 2010. Unlike most of Blue Underground's releases, which are [[DVD region code|Region 0 or Region Free-encoded]], the ''Django'' Blu-ray is Region A-locked.<ref name=Beaver /> The original DVD was included, along with ''Django Kill... If You Live, Shoot!'', ''[[Keoma (film)|Keoma]]'' and ''[[Texas, Adios]]'', as part of a four-disc set titled ''Spaghetti Westerns Unchained'' on May 21, 2013.<ref name=BUWesterns />
+
+In the UK, Argent Films released ''Django'' on DVD in 2004.<ref name=BBFC1 /> This release, which features exclusive interviews with Nero and [[Alex Cox]], was re-released on September 1, 2008, and was later included in Argent's ''Cult Spaghetti Westerns'' boxset alongside ''Keoma'' and ''[[A Bullet for the General]]'', released on June 21, 2010.<ref name=MovieMail>{{cite web|url=http://www.moviemail.com/search/?search=Django&Search.x=0&Search.y=0&Search=Search|work=Movie Mail UK|access-date=February 5, 2016|title=Search results for Django|url-status=dead|archive-url=https://web.archive.org/web/20160205173433/http://www.moviemail.com/search/?search=Django&Search.x=0&Search.y=0&Search=Search|archive-date=February 5, 2016}}</ref> Argent later released its own Blu-ray, also taken from the original negative, on January 21, 2013, alongside a remastered DVD based on the same transfer.<ref name=MovieMail />
+
+On September 1, 2018, [[Arrow Video]] announced that they would release ''Django'' on November 19 (later pushed back to December 11) in the US and Canada as part of a two-disc Blu-ray set with ''Texas, Adios'', with the films having received new [[4K resolution|4K]] and [[2K resolution|2K]] restorations respectively. The special features for the film include an audio commentary by [[Stephen Prince]], new interviews with Nero, Deodato, Rossetti, and Nori Corbucci, archival interviews with Vivarelli and stunt performer Gilberto Galimberti, an appreciation of ''Django'' by Spaghetti Western scholar Austin Fisher, an archival introduction to the film by Cox, and the theatrical trailer. Two versions of this release were revealed in this announcement: a standard edition that would also include an illustrated liner notes booklet featuring a new essay by Spaghetti Western scholar Howard Hughes and reprintings of contemporary reviews of the film, as well as a double-sided poster; and a [[SteelBook]] edition that would not include the poster.<ref name=ArrowStandard>{{cite web |title=Django / Texas Adios Blu-ray Announcement |via=Facebook |url=https://www.facebook.com/ArrowVideo/posts/2103890059644977 |access-date=December 14, 2018}}</ref><ref name=ArrowSteel>{{cite web |title=Django / Texas Adios Steelbook Blu-ray Announcement |via=[[Facebook]] |url=https://www.facebook.com/ArrowVideo/posts/210388798297851 |access-date=December 14, 2018}}</ref> Prior to their intended release, Arrow withdrew both editions from their catalogue pending the outcome of a rights dispute between Blue Underground (who claimed to still have sole ownership of the film's US distribution rights, and had sent [[cease and desist]] letters to consumers who had pre-ordered the titles) and the film's Italian rights holder [[Massimo Vigliar|Surf Film]] (from whom Arrow obtained permission to release both films in February that year).<ref name=ArrowWithdraw>{{cite web|url=http://www.arrowvideo.com/news/-django-texas-adios-ltd-ed-update-/943|work=[[Arrow Video]]|access-date=December 14, 2018|title=Django / Texas Adios Ltd Ed Update|archive-date=December 16, 2018|archive-url=https://web.archive.org/web/20181216202343/http://www.arrowvideo.com/news/-django-texas-adios-ltd-ed-update-/943|url-status=live}}</ref> Arrow released the DVD in 2020.<ref>{{Cite web |last=ScottM |title=Blu-ray Review – Django (Arrow Video) |url=https://eurocultav.com/2020/07/05/blu-ray-review-django-arrow-video/ |access-date=2023-04-06 |language=en-US}}</ref>
+
+==Reception==
+''Django'' received an [[Motion picture content rating system#Italy|18 certificate]] in Italy due to its then-extreme violence. Bolognini has stated that Corbucci "forgot" to cut the ear-severing scene when the Italian censors requested he remove it.<ref name=sed /><ref name="Cox" /> The film was commercially successful, earning 1,026,084,000 [[Italian lira|lire]] in Italy alone during its theatrical run.<ref>Fisher, 2014</ref>
+
+===Critical response===
+[[File:DjangoAndMaria.jpg|thumb|right|Django and María watch as a Klansman falls into a river of [[quicksand]]. Filmmaker [[Alex Cox]] has theorized that the two characters suffer from [[posttraumatic stress disorder]] due to a constant exposure to violence, and are therefore "perfect for each other".<ref name=Cox />]] 
+Although initial critical reactions were negative due to the high level of violence,<ref name="One" /> reception of ''Django'' in the years following its original release has been far more positive, with the film gaining a 94% "fresh" score on [[Rotten Tomatoes]] based on 17 reviews, and an average rating of 8/10.<ref name="tomatoes">{{cite web|url=http://www.rottentomatoes.com/m/django/|work=[[Rotten Tomatoes]]|access-date=February 3, 2016|title=DJANGO (1966)|archive-date=March 10, 2016|archive-url=https://web.archive.org/web/20160310192455/http://www.rottentomatoes.com/m/django/|url-status=live}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 75 out of 100, based on 6 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Django'' |url=https://www.metacritic.com/movie/django-1966 |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{Cite web |title=Django |url=https://www.metacritic.com/movie/django-1966/ |access-date=6 September 2025 |website=Metacritic}}</ref> The film is generally ranked highly on [[List of films considered the best|lists of Spaghetti Western films considered to be the best]], and along with Corbucci's own ''[[The Great Silence]]'', it is often viewed as one of the best films of the genre to have not been directed by [[Sergio Leone]].<ref name=SWDBFav>{{cite web|url=http://www.spaghetti-western.net/index.php/Essential_Top_20_Films|work=Spaghetti Western Database|access-date=September 15, 2015|title=Essential Top 20 Films|archive-date=September 5, 2015|archive-url=https://web.archive.org/web/20150905162019/http://www.spaghetti-western.net/index.php/Essential_Top_20_Films|url-status=live}}</ref><ref name=CoxFav>{{cite web|url=http://www.spaghetti-western.net/index.php/Alex_Cox%27s_Top_20_Favourite_Spaghetti_Westerns|work=Spaghetti Western Database|access-date=September 15, 2015|title=Alex Cox's Top 20 Favourite Spaghetti Westerns|archive-date=September 10, 2015|archive-url=https://web.archive.org/web/20150910023050/http://www.spaghetti-western.net/index.php/Alex_Cox%27s_Top_20_Favourite_Spaghetti_Westerns|url-status=live}}</ref><ref name=HughesFav>{{cite web|url=http://www.spaghetti-western.net/index.php/Howard_Hughes%27_Top_20|work=Spaghetti Western Database|access-date=September 15, 2015|title=Howard Hughes' Top 20|archive-date=September 10, 2015|archive-url=https://web.archive.org/web/20150910022627/http://www.spaghetti-western.net/index.php/Howard_Hughes%27_Top_20|url-status=live}}</ref><ref name=TarantinoFav>{{cite web|url=http://www.spaghetti-western.net/index.php/Quentin_Tarantino%27s_Top_20_favorite_Spaghetti_Westerns|work=Spaghetti Western Database|access-date=September 15, 2015|title=Quentin Tarantino's Top 20 favorite Spaghetti Westerns|archive-date=September 17, 2015|archive-url=https://web.archive.org/web/20150917151220/http://www.spaghetti-western.net/index.php/Quentin_Tarantino%27s_Top_20_favorite_Spaghetti_Westerns|url-status=live}}</ref><ref>{{cite web|url=http://www.hollywood.com/general/the-20-best-spaghetti-westerns-ever-made-60105110/#/ms-8176/1|work=[[Hollywood.com]]|access-date=November 5, 2015|title=The 20 Best Spaghetti Westerns Ever Made|date=26 December 2012|archive-date=November 14, 2015|archive-url=https://web.archive.org/web/20151114063248/http://www.hollywood.com/general/the-20-best-spaghetti-westerns-ever-made-60105110/#/ms-8176/1|url-status=live}}</ref><ref>{{cite web|url=http://www.tasteofcinema.com/2014/the-30-greatest-westerns-in-cinema-history/|work=Taste of Cinema|access-date=November 23, 2015|title=The 30 Greatest Westerns In Cinema History|date=11 May 2014 |archive-date=November 20, 2015|archive-url=https://web.archive.org/web/20151120031454/http://www.tasteofcinema.com/2014/the-30-greatest-westerns-in-cinema-history/|url-status=live}}</ref> Corbucci's direction, Bacalov's score and Nero's role are among the most-praised elements of the film. However, the English-dubbed version has frequently been criticized for being inferior, voice acting and script-wise, to the Italian version.<ref name=Hughes /><ref name=Cox />
+
+In a contemporary review for Italian newspaper ''Unita'', ''Django''{{'}}s depiction of violence was described as "the heart of the story", "truly bloodcurdling", and "dismayingly justified in the emotions of the audience". The reviewer also noted that, "this repetition of excessive cruelty, in its sheer extent and verisimilitude, transfers the film from a realistic plane to the grotesque, with the result that here and there it is possible to find, among the emotions, a certain healthy amount of humour".<ref>{{cite web|url=http://www.thewildeye.co.uk/blog/articles/django-a-contemporary-review/|work=The Wild Eye|access-date=February 5, 2016|title=Django – a contemporary review|date=16 December 2013 |archive-date=February 5, 2016|archive-url=https://web.archive.org/web/20160205141824/http://www.thewildeye.co.uk/blog/articles/django-a-contemporary-review/|url-status=live}}</ref>
+
+When reviewing for ''[[Monthly Film Bulletin]]'', film historian [[Sir Christopher Frayling]] identified Django's attire, including "his Sunday-best soldier's trousers, worn-out boots and working man's vest", as a major aspect of the film's success on the home market. According to Frayling, Django's appearance makes him appear "less like an archetypal Western hero than one of the ''contadini'' (farmers) on his way back from the fields, with working tools on his back, dragging his belongings behind him, [making a] direct [point] of contact with the Southern Italian audiences".<ref name="Cox" /> Reactions to Nero's limited screenings of ''Django'' in Los Angeles, compared to the responses of Italian critics, were highly enthusiastic. Audience members, which included actors and filmmakers such as [[Paul Newman]], [[Steve McQueen]] and [[Terence Young (director)|Terence Young]], were appreciative of the film's sense of humour and originality.<ref name="One" /><ref name=Hollywood>{{cite web|url=http://www.hollywoodreporter.com/news/original-django-franco-nero-his-407388|work=[[The Hollywood Reporter]]|access-date=February 5, 2016|title=Original 'Django' Franco Nero on His Iconic Character and the Film's Legacy (Q&A)|date=January 2013|archive-date=January 8, 2013|archive-url=https://web.archive.org/web/20130108012556/http://www.hollywoodreporter.com/news/original-django-franco-nero-his-407388|url-status=live}}</ref>
+
+Budd Wilkins, reviewing ''Django'' for ''[[Slant Magazine]]'' during its 2012 theatrical re-release, rated the film three-and-a-half stars out of four, and compared its aesthetics and story to the "rough-hewn storytelling and rough-and-tumble pessimism that characterize subsequent Corbucci films like ''The Great Silence''" and the "political dimension" of "more radicalized [[Zapata Westerns]] like [[Damiano Damiani]]'s ''[[A Bullet for the General]]''". Describing the film as an "unrepentantly ugly movie, despite the striking visual flair Corbucci brings to his blocking and camera movement", Wilkins compared the film's "appalling" depictions of violence and [[sadomasochism]] to [[Marlon Brando]]'s ''[[One-Eyed Jacks]]'', "except Corbucci carries things far beyond the bloody horsewhipping Brando's Rio receives in that film". He concluded his review by stating that, "in a genre known for endless knock-offs, a trend that includes ''Django'''s 30-plus sequels, Corbucci's film is notable not only for the artistry of its construction, but also for the underlying anger that fuels its political agenda".<ref name=Slant>{{cite web|url=http://www.slantmagazine.com/film/review/django|work=[[Slant Magazine]]|access-date=February 5, 2016|title=Django|date=20 December 2012|archive-date=February 24, 2016|archive-url=https://web.archive.org/web/20160224095913/http://www.slantmagazine.com/film/review/django|url-status=live}}</ref>
+
+In his analysis of the Spaghetti Western genre, [[Alex Cox]] described ''Django'' as a "huge step forward" in Corbucci's writing and directing abilities, exemplified by the film's pacing and action scenes (comparable to those of a [[James Bond in film|''James Bond'' film]]) and its dropping of the "unsteady, often boring narratives, bad transitions, 'cute/funny' characters, and tedious horse-riding-through-landscape scenes" that permeated his previous Westerns. Cox voiced praise for [[Enzo Barboni]]'s "claustrophobic" and "brutal, uncompromising style" of cinematography, including "some striking wide-angle establishing shots" and "a good [[Hand-held camera|hand-held]] fight scene", and described [[Carlo Simi]]'s work on the Elios Film set as "a masterpiece of low-budget art direction […] a town with no name, a battleground where there is literally nothing worth fighting for". Performance-wise, he noted that Nero's performance as Django is "almost entirely taciturn: vulnerable, angelic, strangely robotic. [[Loredana Nusciak]] plays María the same way: emotionless, inert, and – once she gets hold of a rifle – merciless. Nero and Nusciak are the only cast members who don't [[Overacting|overact]]. Yet each character's silence seems not to be innate, but learned, a result of endless proximity to mindless violence". He theorized that the two characters suffer from [[posttraumatic stress disorder]] due to their constant exposure to violence, and thus make a "perfect" romantic couple. Cox also found that the film's [[Happy ending|upbeat ending]], a rarity in Spaghetti Western films, "tells us something of Corbucci's fondness for women, and for personal bonds".<ref name=Cox />
+
+===UK BBFC ban===
+When [[Butcher's Film Service]] submitted ''Django'' to the [[British Board of Film Censors]] in 1967, examiners recommended that the film be denied classification and banned outright. The company appealed to the Board's Secretary, [[John Trevelyan (censor)|John Trevelyan]], who concurred with the assessment of examiners that the film's "excessive and nauseating violence" was justification for its denial of a certificate. More importantly, he explained that it would not be possible to cut the film for an [[X rating]].<ref name="BBFC1">{{cite web | url = http://www.bbfc.co.uk/releases/django-1967 | title = DJANGO (1967) | access-date = 2016-02-01 | publisher = [[British Board of Film Classification]] | archive-date = 2017-04-29 | archive-url = https://web.archive.org/web/20170429143240/http://www.bbfc.co.uk/releases/django-1967 | url-status = dead }}</ref><ref name="BBFC2">{{cite web | url = http://www.bbfc.co.uk/case-studies/podcasts/bbfc-podcast-episode-30-django-1967 | title = BBFC Podcast Episode 30 - Django (1967) | access-date = 2016-02-01 | publisher = [[British Board of Film Classification]] | archive-date = 2015-07-23 | archive-url = https://web.archive.org/web/20150723032825/http://www.bbfc.co.uk/case-studies/podcasts/bbfc-podcast-episode-30-django-1967 | url-status = dead }}</ref>
+
+In 1972, ''Django'' was offered to another distributor, who asked the new BBFC Secretary, Stephen Murphy, whether the film could be passed. Murphy suggested that it would still be unlikely for the film to receive a certificate, largely because of both the Board's scathing 1967 assessment of the film and the "sensitivity of critics" to depictions of [[Combat in film|violence in films]] such as ''[[Straw Dogs (1971 film)|Straw Dogs]]''. Ultimately, the distributor chose not to acquire the film. In 1974, a new distributor decided to re-submit the film for classification. Examiners were divided over whether the film could be passed with cuts, especially given the raising of the minimum age for X films from 16 to 18 in 1971. However, it was concluded that the film's "loving dwelling on violence", which was viewed by the Board as its "sole [[:wikt:raison d'être|raison d'etre]]", meant that the 1967 rejection was still justified. Rather than being formally rejected again, ''Django'' was withdrawn from classification by the distributor.<ref name="BBFC2" /><ref name="BBFC4">{{cite web | url = http://www.bbfc.co.uk/education/case-studies/django-1967 | title = Case Studies - Django (1967) | access-date = 2016-02-03 | publisher = [[British Board of Film Classification]] | archive-date = 2019-05-04 | archive-url = https://web.archive.org/web/20190504171124/http://www.bbfc.co.uk/case-studies/django-1967 | url-status = live }}</ref> Before the introduction of the ''[[Video Recordings Act 1984]]'', the film was unofficially released at least twice on [[pre-certification video]], but was never seized or prosecuted during the [[video nasties]] panic.<ref name="Precert1">{{cite web | url = http://www.pre-cert.co.uk/display.php?vId=UK12328 | title = Django 1966 (Derann) | access-date = February 8, 2016 | publisher = Pre-cert Video | archive-date = August 16, 2017 | archive-url = https://web.archive.org/web/20170816151813/http://www.pre-cert.co.uk/display.php?vId=UK12328 | url-status = live }}</ref><ref name="Precert2">{{cite web | url = http://www.pre-cert.co.uk/display.php?vId=UK03770 | title = Django 1966 (Inter-Ocean) | access-date = February 8, 2016 | publisher = Pre-cert Video | archive-date = August 16, 2017 | archive-url = https://web.archive.org/web/20170816151558/http://www.pre-cert.co.uk/display.php?vId=UK03770 | url-status = live }}</ref>
+
+''Django'' did not receive a classification in the UK until it was submitted for an official video release by Arthouse Productions in 1993, when the BBFC concluded it could be passed, without cuts, with an [[18 (British Board of Film Classification)|18 certificate]].<ref name="BBFC3">{{cite web | url = http://www.melonfarmers.co.uk/rejfilms.htm | title = BBFC Banned Cinema Films - Since 1960 | access-date = 2016-02-01 | publisher = Melon Farmers | archive-date = 2011-06-09 | archive-url = https://web.archive.org/web/20110609184703/http://www.melonfarmers.co.uk/rejfilms.htm | url-status = live }}</ref> The examiner report stated that "Although two decades ago the feature may have seemed mindless violence, in the age of ''[[Terminator 2: Judgment Day|Terminator 2]]'' and [[Arnold Schwarzenegger]], the feature has an almost naive and innocent quality to it [...] One could say that the feature is almost bloodless".<ref name="BBFC2" /><ref name="BBFC4" /> ''Django'' made its official UK première on August 1, 1993, at 9:50 pm on [[BBC2]]'s ''[[Moviedrome]]'' block, where the film was introduced by [[Alex Cox]].<ref name="Moviedrome" />
+
+Five specific scenes were called into question in both the 1974 and 1993 examiner reports of the film:<ref name="BBFC2" /><ref name="BBFC4" />
+* María's whipping by Mexican bandits, which was the primary reason for the 18 rating in 1993. The scene was passed without cuts because the action was found to be neither [[Sexualization|sexualized]] nor titillating.
+* The severing of Brother Jonathan's ear was eventually accepted because the wound itself is never shown.
+* Miguel's crushing of Django's hands was passed in 1993 due to few shots of the sequence actually featuring Django's hands.
+* Two separate [[horse]]falls were deemed to not be in breach of the Board's policy on animal cruelty, due to one of the falls taking place on soft mud, and the other being on the horse's side.
+
+''Django'' was examined by the BBFC for a fourth time in 2004, when Argent Films submitted the film prior to its British DVD release. The film was downgraded to a [[15 (British Board of Film Classification)|15 certificate]] for "moderate bloody violence". The BBFC have acknowledged that the original 18 certificate was partially reactionary to the film's censorship history.<ref name="BBFC2" />
+
+==Legacy and influence==
+''Django'' has continued to inspire and receive homage from various forms of media made in the US, Japan, and elsewhere.
+
+===Sequels===
+[[Django (character)#Appearances|More than thirty]] unofficial "sequels" to ''Django'' have been produced since 1966. Most of these films have nothing to do with Corbucci's original film, but the unofficial sequels copy the look and attitude of the central character.<ref name=sed /> Among the most well-received of the unofficial sequels are ''[[Django Kill... If You Live, Shoot!]]'' (starring [[Tomas Milian]]), ''[[Ten Thousand Dollars for a Massacre]]'' (starring [[Gianni Garko]] and [[Loredana Nusciak]]), ''[[Django, Prepare a Coffin]]'' (produced by Manolo Bolognini and starring [[Terence Hill]] in a role originally intended for [[Franco Nero]]) and ''[[Django the Bastard]]'' (starring [[Anthony Steffen]]).<ref name=Hughes /> An official sequel, ''[[Django Strikes Again]]'', was released in 1987 with Nero reprising his role as the title character.<ref name=Hughes />
+
+In December 2012, a second official sequel, ''Django Lives!'', was announced, with Nero reprising his role as the title character. The film would follow Django in his twilight years participating as a consultant on silent westerns in 1915 Hollywood. Nero signed on to reprise his role after reading the script, penned by Eric Zaldivar and Mike Malloy. [[Robert Yeoman]], a long-time cinematographer for [[Wes Anderson]], was attached as director of photography.<ref>{{Cite web|url=https://www.sacurrent.com/ArtSlut/archives/2013/07/19/django-lives-franco-nero-and-sa-locals-spearhead-new-film|title=Django Lives! Franco Nero and SA Locals Spearhead New Film|access-date=2020-11-29|archive-date=2021-01-24|archive-url=https://web.archive.org/web/20210124051030/https://www.sacurrent.com/ArtSlut/archives/2013/07/19/django-lives-franco-nero-and-sa-locals-spearhead-new-film|url-status=live}}</ref><ref>{{Cite web |url=https://www.slashfilm.com/the-original-django-franco-nero-attached-to-star-in-django-lives-quentin-tarantino-explains-the-django-legacy/ |title=The Original Django, Franco Nero, Attached to Star in 'Django Lives!'; Quentin Tarantino Explains the Django Legacy |date=17 December 2012 |access-date=2020-11-29 |archive-date=2020-11-11 |archive-url=https://web.archive.org/web/20201111221254/https://www.slashfilm.com/the-original-django-franco-nero-attached-to-star-in-django-lives-quentin-tarantino-explains-the-django-legacy/ |url-status=live }}</ref> In May 2016, it was reported that the film's script had been purchased and rewritten by director [[John Sayles]], and will be directed by [[Christian Alvart]].<ref>{{cite news | url=http://theactionelite.com/2016/05/john-sayles-to-direct-django-lives/ | title=John Sayles to Direct Django Lives! | publisher=The Action Elite | date=2016-05-23 | access-date=2016-06-17 | archive-date=2016-06-29 | archive-url=https://web.archive.org/web/20160629231634/http://theactionelite.com/2016/05/john-sayles-to-direct-django-lives/ | url-status=live }}</ref> In a November 2020 interview with ''[[Variety (magazine)|Variety]]'', Nero revealed that principal photography on the film was set to begin in May or June of that year in [[New Orleans]] before being postponed indefinitely due to the [[COVID-19 pandemic]], but that one of the film's producers, [[Carolyn Pfeiffer]], hoped to begin shooting in January 2021; Nero also revealed that he intends to ask Tarantino to make a cameo appearance in the film when its schedule is confirmed.<ref>{{cite news|url=https://variety.com/2020/film/news/franco-nero-recon-django-lives-tarantino-1234838108/|title=Franco Nero on 'Recon,' Cuba Project, and 'Django Lives!,' in Which He Hopes Tarantino Will Cameo (EXCLUSIVE)|work=[[Variety (magazine)|Variety]]|author=Nick Vivarelli|date=November 26, 2020|access-date=2021-02-21|archive-date=2021-02-18|archive-url=https://web.archive.org/web/20210218190831/https://variety.com/2020/film/news/franco-nero-recon-django-lives-tarantino-1234838108/|url-status=live}}</ref>
+
+In April 2015, an English-language television series based on the film, titled ''[[Django (TV series)|Django]]'' was announced as being developed as an Italian-French co-production by [[Cattleya (production company)|Cattleya]] and Atlantique Productions. The series was slated to consist of 12 fifty-minute-long episodes, with the possibility of multiple seasons.<ref>{{cite web|url=http://www.empireonline.com/news/story.asp?NID=43934|title=Sergio Corbucci's Django Heads For TV|work=[[Empire (magazine)|Empire]]|author=James White|date=April 8, 2015|access-date=2015-05-22|archive-date=2015-09-24|archive-url=https://web.archive.org/web/20150924130648/http://www.empireonline.com/news/story.asp?NID=43934|url-status=live}}</ref><ref>{{cite web|url=https://variety.com/2015/tv/news/django-and-suspiria-set-to-be-adapted-into-high-end-international-tv-series-1201468262/|title='Django' And Dario Argento's 'Suspiria' To Be Adapted Into International TV Series|work=[[Variety (magazine)|Variety]]|author=Nick Vivarelli|date=April 8, 2015|access-date=2015-05-22|archive-date=2015-06-01|archive-url=https://web.archive.org/web/20150601133322/http://variety.com/2015/tv/news/django-and-suspiria-set-to-be-adapted-into-high-end-international-tv-series-1201468262/|url-status=live}}</ref> In February 2021, it was announced that Cattleya and Atlantique had partnered with [[Sky Group]] and [[Groupe Canal+|Canal+]] to produce the 10-episode series, which began filming in Romania in May,<ref>{{Cite web|last1=Vivarelli|first1=John Hopewell, Nick|last2=Hopewell|first2=John|last3=Vivarelli|first3=Nick|date=2021-05-11|title=Noomi Rapace, Nicholas Pinnock Join Matthias Schoenaerts in 'Django,' From Sky and Canal Plus (EXCLUSIVE)|url=https://variety.com/2021/tv/global/noomi-rapace-nicholas-pinnock-django-sky-canal-plus-1234970178/|access-date=2021-05-21|website=Variety|language=en-US|archive-date=2022-01-18|archive-url=https://web.archive.org/web/20220118182708/https://variety.com/2021/tv/global/noomi-rapace-nicholas-pinnock-django-sky-canal-plus-1234970178/|url-status=live}}</ref> and actor [[Matthias Schoenaerts]] had been cast in the title role. The series was created by Leonardo Fasoli and Maddalena Ravagli and developed by Fasoli, Ravagli, Francesco Cenni and Michele Pellegrini, while [[Francesca Comencini]] will direct the first episodes and serve as the series' artistic director. The series will follow Sarah and John, the founders of the town of New Babylon, "a city of outcasts, full of men and women of all backgrounds, races and creeds, that welcomes everyone with open arms", and the arrival of Sarah's father Django, who believed that she had been killed years earlier.<ref>{{cite web|url=https://www.hollywoodreporter.com/news/matthias-schoenaerts-django-tv-reboot-sky-canal|title=Matthias Schoenaerts to Play Django in 'Gomorrah' Team's Spaghetti Western Reboot for Sky/Canal+|work=[[The Hollywood Reporter]]|author=Alex Ritman|date=February 18, 2021|access-date=2021-02-21|archive-date=2021-02-19|archive-url=https://web.archive.org/web/20210219112536/https://www.hollywoodreporter.com/news/matthias-schoenaerts-django-tv-reboot-sky-canal|url-status=live}}</ref>
+
+=== Other films ===
+According to Nero, former [[James Bond]] director [[Terence Young (director)|Terence Young]] was inspired by ''Django'' to direct the Western ''[[Red Sun]]'', an international co-production starring [[Charles Bronson]], [[Toshirō Mifune]] (of ''[[Yojimbo (film)|Yojimbo]]'' fame), [[Ursula Andress]] and [[Alain Delon]].<ref name="One" /> In a 2012 interview Nero stated that Young saw the film at Warner Brothers, where it was screened a number of times while Nero was making ''[[Camelot (film)|Camelot]]'' there: "You know, Terence Young saw it three times. And then he did ''The Red Sun''!"<ref>{{Cite web |title=Franco Nero interview |url=https://www.flashbackfiles.com/franco-nero-interview |url-status=live |archive-url=https://web.archive.org/web/20210904214706/https://www.flashbackfiles.com/franco-nero-interview |archive-date=2021-09-04 |access-date=2021-02-23 |website=THE FLASHBACK FILES |language=en-US}}</ref>
+
+The fantasy movie ''[[Death Trance]]'' features a protagonist dragging a sealed coffin around for much of the film.<ref>{{Cite web |title=DVD Talk |url=https://www.dvdtalk.com/reviews/review/22487 |access-date=2023-04-06 |website=www.dvdtalk.com}}</ref> In the Brazilian [[pornochanchada]] film ''Um Pistoleiro Chamado Papaco'' (''A Gunman Called Papaco''), the title character spends the whole film carrying a coffin and the opening scene is inspired by Corbucci's film.<ref>{{Cite web |title=Cineprojeto 365 - Um Pistoleiro Chamado Papaco |url=https://cineprojeto365.amplarede.com.br/filmes/p/pistoleirochamadopapaco.php |access-date=2023-04-06 |website=cineprojeto365.amplarede.com.br}}</ref>
+
+The 1972 Jamaican film, ''[[The Harder They Come]]'', contains a sequence where the hero, Ivan, watches ''Django'' in a cinema, which has echoes with his character and story.<ref name="Moviedrome" />
+
+[[Takashi Miike]]'s 2007 film, ''[[Sukiyaki Western Django]]'', is a highly stylized Western film inspired by ''Django'', ''Yojimbo'' and ''[[A Fistful of Dollars]]''.<ref>{{cite web |last=Lindsay |first=Cam |title=TIFF Reviews: ''Sukiyaki Western: Django'' |url=http://www.exclaim.ca/motionreviews/generalreview.aspx?csid2=808&fid1=27945&csid1=115 |url-status=dead |archive-url=https://web.archive.org/web/20081216145829/http://www.exclaim.ca/motionreviews/generalreview.aspx?csid2=808&fid1=27945&csid1=115 |archive-date=2008-12-16 |publisher=[[Exclaim!]]}}</ref>
+
+Anti Hero in ''[[Dennou Keisatsu Cybercop]]'', Lucifer was based on Django portrayal, gunslinger, wandering around in cowboy hat, all black clothes, also good at quick draw, most notably when he were introduced in Django styled carrying a coffin with him and keep his weapon in it.
+
+In 2010, the Western [[Jonah Hex (film)|''Jonah Hex'']] featured a surprise reveal of a pair of [[Crank (mechanism)|crank operated]] [[Gatling gun]]s mounted on the sides of a horse.
+
+==== ''Django Unchained'' ====
+
+[[Quentin Tarantino]]'s 2012 film ''[[Django Unchained]]'' pays several tributes to Corbucci's film. In ''Unchained'', Nero plays a small role as Amerigo Vessepi, the owner of a slave engaged in Mandingo fighting with a slave owned by Calvin Candie ([[Leonardo DiCaprio]]). Upon the loss of that fight, Vessepi goes to the bar for a drink and encounters Django, played by [[Jamie Foxx]]. Vessepi asks Django what his name is and how it is spelt, and upon Django's informing him that the "D" is silent, says "I know."<ref name="Unruly">{{cite web |title=Quentin Tarantino, 'Unchained' And Unruly |url=https://www.npr.org/2013/01/02/168200139/quentin-tarantino-unchained-and-unruly |url-status=live |archive-url=https://web.archive.org/web/20130123031100/http://www.npr.org/2013/01/02/168200139/quentin-tarantino-unchained-and-unruly |archive-date=2013-01-23 |access-date=2013-01-23 |website=NPR.org}}</ref> ''Django Unchained'' also uses the [[Rocky Roberts]]-[[Luis Bacalov]] title song (along with several [[film score|score]] pieces) from the original film; the film's end credits theme, "Ode to Django (The D Is Silent)", performed by [[RZA]], uses several dialogue [[Sampling (music)|samples]] from ''Django'''s English dub, most prominently María's line "I love you, Django".<ref name="Unchained">{{cite video |title=Django Unchained |date=2012 |medium=DVD |publisher=Sony Pictures Home Entertainment |location=Culver City, California}}</ref>
+
+Tarantino had previously referenced Corbucci's film in ''[[Reservoir Dogs]]''; the scene in which Brother Jonathan's ear is severed by Hugo was the inspiration for the scene in which Vic Vega does the same to Nash.<ref name="Slant" />
+
+=== Television ===
+{{main|Django (TV series)}}
+The lead character's iconic coffin arsenal has been paid homage in several movies and TV series, including several Japanese anime series. ''[[Fist of the North Star]]'' features a plot device wherein the lead character, [[Kenshiro]], drags a coffin behind him into a wasteland town. In the ''[[Cowboy Bebop]]'' episode, "[[Mushroom Samba]]", a bounty hunter runs around with a coffin behind him. The character [[Nicholas D. Wolfwood]] in ''[[Trigun]]'' has a cross-shaped arsenal case called the Punisher which he carries frequently that is reminiscent of Django's coffin. The character [[Beyond the Grave (Gungrave)|Beyond the Grave]] (formerly Brandon Heat), of ''[[Gungrave (TV series)|Gungrave]]'', carries a metal coffin-shaped device which houses a variety of weapons.
+
+A 10-episode [[Django (TV series)|TV series of the same name]] was released in 2023,<ref>{{cite magazine |last1=Hopewell |first1=John |last2=Vivarelli |first2=Nick |title=Noomi Rapace, Nicholas Pinnock Join Matthias Schoenaerts in 'Django,' From Sky and Canal Plus (EXCLUSIVE) |url=https://variety.com/2021/tv/global/noomi-rapace-nicholas-pinnock-django-sky-canal-plus-1234970178/ |magazine=[[Variety (magazine)|Variety]] |date=11 May 2021}}</ref> airing on [[Canal+ (French TV channel)|Canal+]] in France,<ref>{{cite news |date=February 13, 2023 |title=''Django'', la nouvelle série événement démarre sur CANAL+ |trans-title=''Django'', the new event series starts on CANAL+ |url=https://www.leparisien.fr/guide-shopping/offres-canal/django-la-nouvelle-serie-evenement-demarre-sur-canal-13-02-2023-FSOVXTPVAVAZ3K6EHFEHMB7XBI.php |work=[[Le Parisien]] |language=fr-FR}}</ref> [[Sky Atlantic (Italian TV channel)|Sky Atlantic]] in Italy,<ref>{{cite web |last=Agyare |first=Kwabena |date=January 17, 2023 |title=Trailer revealed for Sky Original drama Django |url=https://www.skygroup.sky/article/trailer-revealed-for-sky-original-drama-django-starring-matthias-schoenaerts-noomi-rapace-nicholas-pinnock-and-lisa-vicari- |access-date=January 18, 2023 |website=[[Sky Group]]}}</ref> [[SBS (Australian TV channel)|SBS On Demand]] in Australia<ref name=":0">{{Cite web |last=Skinner |first=Ben |date=2023-02-16 |title=A legend is reborn with a fresh take on a cult classic in 'Django' |url=https://www.sbs.com.au/guide/article/2023/02/16/legend-reborn-fresh-take-cult-classic-django |access-date=2023-03-08 |website=SBS |language=en}}</ref> and on [[Sky Atlantic]] in the UK.<ref>{{Cite news |last= |first= |date=2023-02-17 |title=Corrections and clarifications |url=https://www.theguardian.com/news/2023/feb/17/corrections-and-clarifications |access-date=2026-01-22 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> It depicts the story of the character Django attempting to reconcile with his daughter 8 years after the massacre of their family.<ref name=":0" />
+
+=== Video games ===
+The main character of the ''[[Boktai]]'' series of video games is a vampire hunter named Django, who drags a coffin around for sealing and purifying immortals. In ''[[Red Dead Revolver]]'' the boss, Mr. Black, carries around a coffin that houses a [[Gatling gun]].
+
+=== Music ===
+''Django'' is the inspiration for the 1969 song and album ''[[Return of Django]]'' by the Jamaican reggae group the Upsetters. Additionally, Django is the subject of the song "Django" on the 2003 [[Rancid (band)|Rancid]] album ''Indestructible''. The music video for the [[Danzig (band)|Danzig]] song "Crawl Across Your Killing Floor" is inspired by the film and shows Glenn Danzig dragging a coffin.<ref>{{cite web|url=http://www.mtv.com/news/articles/1540490/danzig-unearths-lost-tracks-makes-toys.jhtml|title=Danzig Unearths Lost Tracks|publisher=[[MTV]]|last=Harris|first=Chris|date=September 8, 2006|access-date=2013-02-26|archive-date=2012-02-09|archive-url=https://web.archive.org/web/20120209150851/http://www.mtv.com/news/articles/1540490/danzig-unearths-lost-tracks-makes-toys.jhtml|url-status=dead}}</ref>
+
+The music for video for the [[Editors (band)|Editors]] song, 'Formaldehyde', directed by [[Ben Wheatley]], is heavily influenced by ''Django''.<ref>{{Citation |title=Editors - Formaldehyde (Directed By Ben Wheatley) | date=8 August 2013 |url=https://www.youtube.com/watch?v=xg2vpkGQadM |language=en |access-date=2023-02-04}}</ref>
+
+== References ==
+{{Reflist}}
+
+==Bibliography==
+* {{cite book|last=Cox, Alex|author-link=Alex Cox|title=10,000 Ways to Die: A Director's Take on the Spaghetti Western|publisher=Oldcastle Books |date=2009|isbn=978-1842433041}}
+* {{cite book |last=Fisher|first=Austin|date= 2014|title=Radical Frontiers in the Spaghetti Western: Politics, Violence and Popular Italian Cinema |publisher=I.B.Tauris|page= 220|isbn=9781780767116}}
+* {{cite book|last=Giusti, Marco|author-link=Marco Giusti |title=Dizionario del western all'italiana|publisher=Mondadori |date=2007|isbn=978-88-04-57277-0}}
+* {{cite book|last=Hughes|first=Howard|title=Once Upon A Time in the Italian West: The Filmgoers' Guide to Spaghetti Westerns|publisher=I.B. Tauris & Co Ltd|year=2009|isbn= 978-1-85043-896-0}}
+* {{cite book |last=Taylor|first=Tadhg|date= 2015|title=Masters of the Shoot-'Em-Up: Conversations with Directors, Actors and Writers of Vintage Action Movies and Television Shows |publisher=McFarland|page= 220|isbn=9780786494064}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category|Django (film)}}
+* {{IMDb title|0060315|Django}}
+* {{TCMDb title|558617|Django}}
+* {{Rotten Tomatoes|django|Django}}
+* {{mojo title|django2012|Django (2012 re-release)}}
+* {{Official website|http://www.surffilm.com/wordpress/film/django/|''Django''}} at {{URL|http://www.surffilm.com/wordpress/|Surf Film}}
+* {{Official website|http://www.spaghetti-western.net/index.php/Django|''Django''}} at {{URL|http://www.spaghetti-western.net/index.php/Main_Page|The Spaghetti Western Database (SWDb)}}
+
+{{Django}}
+{{Sergio Corbucci}}
+{{Yojimbo}}
+
+{{DEFAULTSORT:Django (Film)}}
+[[Category:1966 films]]
+[[Category:1966 Western (genre) films]]
+[[Category:Italian Western (genre) films]]
+[[Category:Spanish Western (genre) films]]
+[[Category:Django films]]
+[[Category:1966 Italian-language films]]
+[[Category:Films directed by Sergio Corbucci]]
+[[Category:Films set in the 1860s]]
+[[Category:Films shot in Rome]]
+[[Category:Films shot in the Community of Madrid]]
+[[Category:Spaghetti Western films]]
+[[Category:Films scored by Luis Bacalov]]
+[[Category:Italian films about revenge]]
+[[Category:Italian vigilante films]]
+[[Category:Films about the Ku Klux Klan]]
+[[Category:1960s exploitation films]]
+[[Category:Revisionist Western (genre) films]]
+[[Category:1966 Italian films]]
+[[Category:Italian exploitation films]]
+[[Category:Films about outlaws]]
+[[Category:1966 Spanish films]]

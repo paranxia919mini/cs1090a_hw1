@@ -1,0 +1,238 @@
+{{Short description|1991 film by Kathryn Bigelow}}
+{{About|the 1991 film|the 2015 remake|Point Break (2015 film){{!}}''Point Break'' (2015 film)|other uses}}
+{{Use American English|date=November 2022}}
+{{Use mdy dates|date=December 2015}}
+{{Infobox film
+| name           = Point Break
+| image          = Pointbreaktheatrical.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Kathryn Bigelow]]
+| producer       = {{Plainlist|
+* Peter Abrams
+* [[Robert L. Levy (film producer)|Robert L. Levy]]}}
+| screenplay     = [[W. Peter Iliff]]{{efn|In December 2025, [[James Cameron]] claimed that he "wrote ''Point Break''" and was unjustly denied a credit by the [[Writers Guild of America|WGA]], stating, "I flat out got stiffed by the Writers Guild on that. It was bullshit."<ref name="THR-Dec2025">{{Cite web |last=Hibberd |first=James |date=2025-12-17 |title=James Cameron Is Ready to Move Beyond ''Avatar'': 'I've Got Other Stories to Tell' |url=https://www.hollywoodreporter.com/movies/movie-features/james-cameron-interview-avatar-future-1236451614/ |access-date=2025-12-17 |website=The Hollywood Reporter |language=en-US}}</ref> Credited screenwriter Iliff responded by acknowledging that Cameron added scenes to the script in his capacity as executive producer—noting that this is "commonplace on studio pictures"—but that he did not add enough material to earn a screenwriting credit under WGA rules.<ref name="People">{{Cite web |last=McArdle |first=Tommy |date=2025-12-18 |title=Point Break Writer Responds to James Cameron's Claim He Wrote Movie: 'There's Enough Glory for Everybody' (Exclusive) |url=https://people.com/point-break-writer-responds-to-james-camerons-claim-he-wrote-movie-exclusive-11871204 |access-date=2026-01-24 |website=People |language=en-US}}</ref> Iliff said that he "always make[s] sure to give Jim credit when publicly asked to speak about the film", but pointed out that the WGA had access to every draft of the screenplay when making their decision.<ref name="ew1">{{cite news|author= Wesley Stenzel|url=https://ew.com/point-break-writer-responds-james-cameron-claim-wrote-movie-11872515/ |title=Point Break screenwriter responds to James Cameron claiming he wrote action classic: 'Too blessed to be stressed' |work=Entertainment Weekly |date=2025-12-18 |access-date=2025-12-22}}</ref>}}
+| story          = {{Plainlist|
+* [[Rick King (director)|Rick King]]
+* W. Peter Iliff}}
+| starring       = {{Plainlist|
+* [[Keanu Reeves]]
+* [[Patrick Swayze]]
+* [[Gary Busey]]
+* [[Lori Petty]]}}
+| music          = [[Mark Isham]]
+| cinematography = [[Donald Peterman]]
+| editing        = Howard Smith
+| production_companies = {{Plainlist|
+* [[Largo Entertainment]]<ref name=afi>{{cite web|url=https://catalog.afi.com/Film/59006-POINT-BREAK|title=Point Break (1991)|work=[[AFI Catalog of Feature Films]]|access-date=May 31, 2019}}</ref>
+* Johnny Utah Productions<ref name=afi/>
+}}
+| distributor    = [[20th Century Fox]]<ref name=afi/>
+| released       = {{Film date|1991|07|10|[[Westwood, Los Angeles|Westwood]]|1991|07|12|United States}}
+| runtime        = 122 minutes<!--Submitted theatrical runtime: 121:59--><ref>{{cite web | url=http://bbfc.co.uk/releases/point-break-film | archive-url=https://web.archive.org/web/20151226083655/http://bbfc.co.uk/releases/point-break-film | url-status=dead | archive-date=December 26, 2015 | title=''POINT BREAK'' (15) (CUT) | work=[[British Board of Film Classification]] | date=August 7, 1991 | access-date=December 25, 2015}}</ref>
+| country        = United States
+| language       = English
+| budget         = $24 million
+| gross          = $83.5 million<ref name="boxofficemojo"/>
+}}
+'''''Point Break''''' is a 1991 American [[action film]] directed by [[Kathryn Bigelow]] and written by [[W. Peter Iliff]]. It stars [[Patrick Swayze]], [[Keanu Reeves]], [[Gary Busey]] and [[Lori Petty]]. The title refers to the [[surfing]] term "[[point break]]", where a wave breaks as it hits a point of land jutting out from the coastline. The film features Reeves as an undercover [[Federal Bureau of Investigation|FBI]] agent who is tasked with investigating the identities of a group of bank robbers while he develops a complex relationship with the group's leader (Swayze).
+
+Development of ''Point Break'' began in 1986, when Iliff wrote an initial script for the film. Bigelow soon developed it with her husband, [[James Cameron]], and filming took place four years later.<ref name="THR-Dec2025">{{Cite web |last=Hibberd |first=James |date=2025-12-17 |title=James Cameron Is Ready to Move Beyond ''Avatar'': 'I've Got Other Stories to Tell' |url=https://www.hollywoodreporter.com/movies/movie-features/james-cameron-interview-avatar-future-1236451614/ |access-date=2025-12-17 |website=The Hollywood Reporter |language=en-US}}</ref> It was shot across the western coast of the continental United States and was budgeted at $24 million. It was released on July 12, 1991.
+
+''Point Break'' premiered in [[Westwood, Los Angeles|Westwood]] on July 10, 1991 before being released by [[20th Century Fox]] on July 12, 1991. The film opened to generally positive reviews, with critics praising the chemistry between Reeves and Swayze. During its theatrical run, it grossed over $83.5 million, and has since gained a cult following.<ref>{{Cite news|url=https://www.theglobeandmail.com/arts/film/with-the-point-break-remake-ive-reached-a-breaking-point/article27923389/|title=With the Point Break remake, I've reached a breaking point|newspaper=The Globe and Mail |date=December 23, 2015|via=www.theglobeandmail.com}}</ref><ref>{{cite web|url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-point-break-new-movie-plot-surfing-flying-20151029-story.html|title='Point Break' remake looks to make a cult classic new, and serious|first=Steven|last=Zeitchik|website=[[Los Angeles Times]] |date=October 29, 2015}}</ref> A [[Point Break (2015 film)|remake]] was released in 2015.
+
+==Plot==
+Former [[Ohio State Buckeyes football|Ohio State]] quarterback and rookie [[Federal Bureau of Investigation|FBI]] agent Johnny Utah assists senior agent Angelo Pappas in investigating a string of Los Angeles bank robberies by the "Ex-Presidents": robbers who wear rubber masks of former presidents [[Ronald Reagan]], [[Jimmy Carter]], [[Richard Nixon]], and [[Lyndon B. Johnson]]. Rather than robbing the vault, they demand only the cash the tellers have in their drawers and are gone within ninety seconds.
+
+Pursuing Pappas's theory that the criminals are [[surfing|surfers]], Utah infiltrates the surfing community. He fabricates a family tragedy to persuade orphaned surfer and restaurant waitress Tyler to teach him to surf after she saves him from drowning during his first attempt. Through her, he meets Bodhi, Tyler's ex-boyfriend and the leader of a gang of surfers consisting of Roach, Grommet, and Nathaniel. The group is wary of Utah, but they accept him when Bodhi recalls how a [[Sports injury|knee injury]] derailed Utah's football prospects. As he masters surfing, Utah finds himself drawn to the surfers' adrenaline-charged lifestyle, Bodhi's philosophies, and Tyler. Following a clue retrieved by analyzing toxins found in the hair of one of the bank robbers, Utah and Pappas lead an FBI raid on another gang of surfers, resulting in the deaths of two of them. The raid inadvertently ruins a [[Drug Enforcement Administration|DEA]] undercover operation, as those surfers were wanted for separate charges regarding drug dealing, and they are determined not to be the Ex-Presidents.
+
+Watching Bodhi's group surfing, Utah begins to suspect that they are the Ex-Presidents, noting how close a group they are and the way one of them [[Mooning|moons]] other surfers in the same manner one of the robbers does. Utah and Pappas stake out a bank, and the Ex-Presidents appear. While wearing a Reagan mask, Bodhi leads Utah on a foot chase through the neighborhood, which ends when Utah's old injury flares up after he jumps into a [[flood control channel]]. Despite having a clear shot, the injured Utah allows Bodhi to escape.
+
+At a campfire that night, it is confirmed that Bodhi and his gang are the Ex-Presidents. Tyler discovers Utah's FBI badge and angrily terminates their relationship. Shortly afterward, Bodhi coerces Utah into skydiving with the group. After the jump, Bodhi reveals that he knows Utah is an FBI agent and has arranged for his friend Rosie, a non-surfing thug, to hold Tyler hostage to blackmail him into assisting the Ex-Presidents with their last bank robbery of the summer. During the robbery, they decide to infiltrate the vault, causing them to take longer than normal. Grommet is killed when an off-duty police officer and one of the bank security guards attempt to foil the robbery. The robbers kill the officer and security guard, then abandon Utah. Utah is arrested for the robbery and castigated by FBI director Ben Harp for the murders, but Pappas punches Harp out after an angry altercation and vows to bring in Bodhi himself.
+
+Pappas and Utah head to the airport where Bodhi, Roach, and Nathaniel are about to leave for Mexico. During a shootout, Pappas and Nathaniel are killed, and Roach is seriously wounded. With Roach aboard, Bodhi forces Utah onto the plane at gunpoint. Once airborne and over their intended drop zone, Bodhi and Roach put on their parachutes and jump from the plane, leaving Utah to take the blame. With no other parachutes available, Utah jumps from the plane with Bodhi's gun and intercepts him in mid-air. Despite landing safely, Utah's knee gives out again, allowing Bodhi to escape. Bodhi meets with Rosie, who frees Tyler; with Roach dead from his wounds, the two men flee the country and go their separate ways.
+
+Nine months later, Utah tracks Bodhi to [[Bells Beach]] in [[Victoria (state)|Victoria]], Australia, where a record-breaking storm is producing lethal waves. This is an event Bodhi had talked about experiencing, calling it the "50-year storm." Bodhi begs Utah to release him so he can ride the once-in-a-lifetime wave, and Utah, knowing Bodhi will not come back alive, agrees and bids him farewell. As Bodhi surfs to his death, Utah walks away, throwing his FBI badge into the ocean.
+
+==Cast==
+{{castlist|
+* [[Patrick Swayze]] as Bodhi "Bodhisattva"
+* [[Keanu Reeves]] as FBI Agent Johnny Utah
+* [[Gary Busey]] as FBI Agent Angelo Pappas
+* [[Lori Petty]] as Tyler Ann Endicott
+* [[John C. McGinley]] as FBI Director Ben Harp
+* [[James LeGros]] as Roach
+* [[John Philbin]] as Nathaniel
+* Bojesse Christopher as Grommet
+* [[Lee Tergesen]] as Rosie
+* [[Vincent Klyn]] as Lupton "Warchild" Pittman
+* [[Chris Pedersen (actor)|Chris Pedersen]] as "Bunker" Weiss
+* Dave Olson as Archbold
+* [[Anthony Kiedis]] as Tone
+* [[Galyn Gorg]] as Margarita
+* [[Sydney Walsh]] as Miss Deer
+* [[Anthony Mangano]] as Off Duty Cop at Bank
+* [[Mike Genovese]] as FBI Instructor Corey
+* [[Jack Kehler]] as FBI Technician Halsey
+* [[Christopher Pettiet]] as 15-Year-Old Kid at Surfboard Shop
+* [[Peter Phelps]] as Aussie Surfer
+* [[Tom Sizemore]] as DEA Agent Deets (uncredited)<ref>{{cite web |last1=Rabin |first1=Nathan |author1-link=Nathan Rabin |title=Tom Sizemore on ''Point Break'', ''True Romance'', and getting yelled at by Pete Rose |url=https://www.avclub.com/tom-sizemore-on-point-break-true-romance-and-getting-1798236718 |website=[[The A.V. Club]] |publisher=[[The Onion]] |access-date=June 29, 2025 |archive-url=https://web.archive.org/web/20241207031553/https://www.avclub.com/tom-sizemore-on-point-break-true-romance-and-getting-1798236718 |archive-date=December 7, 2024 |date=March 6, 2013 |url-status=live}}</ref>
+}}
+
+==Production==
+According to screenwriter W. Peter Iliff, he was asked to write the script for director Rick King from an idea the latter had about "surfers who rob banks". Later the pair sold the screenplay under the title ''Johnny Utah''.<ref name="ew1">{{cite news|author= Wesley Stenzel|url=https://ew.com/point-break-writer-responds-james-cameron-claim-wrote-movie-11872515/ |title=Point Break screenwriter responds to James Cameron claiming he wrote action classic: 'Too blessed to be stressed' |work=Entertainment Weekly |date=2025-12-18 |access-date=2025-12-22}}</ref>
+
+The film came close to production in 1986, with [[Matthew Broderick]], [[Johnny Depp]], [[Val Kilmer]], and [[Charlie Sheen]] all being considered to play the Johnny Utah character, with [[Ridley Scott]] directing.<ref name="DVDliner">{{cite news | title = ''Point Break'' DVD Liner Notes | work = Point Break: Pure Adrenaline Edition | publisher = [[20th Century Fox]] | year = 2006 }}</ref><ref>{{cite news|title=Cinefile Klady, Leonard|work=Los Angeles Times|date=Aug 14, 1988|page=K32}}</ref> However production fell through.<ref name="telegraph1">{{cite news|author=Robbie Collin|url=https://www.telegraph.co.uk/film/point-break-2015/keanu-reeves-kathryn-bigelow-making-of-original/ |title=Tough guys have feelings too: the power of Point Break |work=Telegraph |date=2016-02-02 |access-date=2018-12-18}}</ref>
+
+Four years later, after acquiring the screenplay, the producers of ''Point Break'' began looking for a director. At the time, executive producer [[James Cameron]] was married to director [[Kathryn Bigelow]], who had just completed ''[[Blue Steel (1990 film)|Blue Steel]]'' and was looking for her next project.<ref name="DVDliner"/> The couple worked on the script together, which subsequently became the source of some dispute. When the matter of assigning credit for the script went to arbitration, the [[Writers Guild of America]] (WGA) assigned sole credit to Iliff. In December 2025, Cameron claimed he "wrote ''Point Break''" and that he "flat out got stiffed by the Writers Guild". Iliff responded by acknowledging that Cameron had added scenes to the script in his capacity as executive producer—noting that this is "commonplace on studio pictures"—but that he did not add enough material to earn a screenwriting credit under WGA rules.<ref name="People"/> Iliff said that he "always make[s] sure to give Jim credit when publicly asked to speak about the film", but pointed out that the WGA had access to every draft of the screenplay when making their decision.<ref name="ew1">{{cite news|author= Wesley Stenzel|url=https://ew.com/point-break-writer-responds-james-cameron-claim-wrote-movie-11872515/ |title=Point Break screenwriter responds to James Cameron claiming he wrote action classic: 'Too blessed to be stressed' |work=Entertainment Weekly |date=2025-12-18 |access-date=2025-12-22}}</ref>
+
+''Point Break'' was originally called ''Johnny Utah'' when [[Keanu Reeves]] was cast in the title role.<ref name="DVDliner"/> The studio felt that this title said very little about surfing and by the time [[Patrick Swayze]] was cast, the film had been renamed ''Riders on the Storm'' after [[Riders on the Storm|the famous song]] by [[The Doors]]. However, [[Jim Morrison]]'s lyrics had nothing to do with the film and so that title was also rejected. It was not until halfway through filming that ''Point Break'' became the film's title because of [[surf break|its relevance to surfing]].<ref name="DVDliner"/>
+
+Reeves liked the name of his character, as it reminded him of star athletes like [[Johnny Unitas]] and [[Joe Montana]].<ref name="Strauss">{{cite news | last = Strauss | first = Bob | title = I'd like to do a lot of different things | work = [[The Globe and Mail]] | date = July 12, 1991 }}</ref> He described his character as "a total control freak and the ocean beats him up and challenges him. After a while everything becomes a game. He becomes as amoral as any criminal. He loses the difference between right and wrong".<ref name="DVDliner"/> Swayze felt that Bodhi was a lot like him and that they both shared "that wild-man edge".<ref name="DVDliner"/>
+
+Two months before filming, [[Lori Petty]], Reeves and Swayze trained with former world-class professional surfer Dennis Jarvis on the Hawaiian island of [[Kauai]].<ref name="DVDliner"/> Jarvis remembers, "Patrick said he'd been on a board a couple of times, Keanu definitely had not surfed before, and Lori had never been in the ocean ''in her life''."<ref name="EWPointB">{{cite magazine | title = Board Certified | magazine = [[Entertainment Weekly]] | date = July 26, 1991 | url = https://ew.com/article/1991/07/26/point-break-surf-training/ | access-date = 2009-04-24 }}</ref> Shooting the surfing sequences proved to be challenging for all three actors, with Swayze cracking four of his ribs. For many of the surfing scenes, he refused to use a stunt double as he never had one for fight scenes or car chases. He also did the skydiving scenes himself and the film's aerial jump instructor Jim Wallace found that he was a natural and took to it right away.<ref name="DVDliner"/> Swayze ended up making 55 jumps for the film.<ref name="Thomas">{{cite news | last = Thomas | first = Karen | title = Swayze's latest step | work = [[USA Today]] | date = July 12, 1991 }}</ref> Swayze admitted that he almost died six or ten times while shooting the film.<ref>{{cite web | url=https://faroutmagazine.co.uk/patrick-swayze-almost-died-six-times-point-break/ | title=Patrick Swayze almost died six times during 'Point Break' | date=July 12, 2023 }}</ref> Swayze actually based aspects of his character after one of his stunt doubles, [[Darrick Doerner]], a top big wave surfer.<ref name="Willistein">{{cite news | last = Willistein | first = Paul | title = Swayze enjoys bad-guy role in ''Point Break'' | work = [[Toronto Star]] | date = July 17, 1991 }}</ref> After learning to surf for the film, Reeves took a liking to it and took it up as a hobby.<ref>{{cite web|url=https://www.imdb.com/title/tt0102685/trivia?tab=tr&item=tr0780544|title=Point Break|date=July 12, 1991|via=IMDb}}</ref>
+
+A few of the action scenes were shot from the POV of the characters and Bigelow along with the cinematographer devised an innovative light weight pogo cam to create a sense of immersion among the audience.<ref>{{cite web
+ | url = https://hyperrealfilm.club/reviews/point-break
+ | title = Film Notes: Point Break
+ | author = Ziah Grace
+ | date = July 4, 2024
+ | publisher = Hyperreal Film Club
+ | access-date = September 27, 2024
+}}</ref>
+
+Parts of the film were shot at [[Lake Powell]] in [[Utah]], [[Wheeler, Tillamook County, Oregon|Wheeler]] and [[Ecola State Park]] in [[Cannon Beach, Oregon]], and [[Malibu, California|Malibu]], [[Manhattan Beach, California|Manhattan Beach]], [[Santa Monica]], [[Venice, Los Angeles|Venice]], and [[Fox Hills Mall]] in California.<ref>{{cite book|last1=D'Arc|first1=James V.|title=When Hollywood came to town: a history of moviemaking in Utah|date=2010|publisher=Gibbs Smith|location=Layton, Utah|isbn=9781423605874|edition=1st}}</ref> Although the final scene of the film is set at [[Bells Beach, Victoria|Bells Beach]] in Victoria, Australia, the scene was filmed at Indian Beach in Ecola State Park, in [[Oregon]].<ref>{{cite web
+ | url = https://www.locationshub.com/blog/2014/7/29/3-movies-you-might-not-know-were-filmed-at-cannon-beach
+ | title = Three Movies You Might Not Know Were Filmed At Cannon Beach
+ | author = Sarah Le
+ | date = July 29, 2014
+ | publisher = Locations Hub
+ | access-date = January 10, 2020
+}}</ref>
+
+==Soundtrack==
+{{div col|colwidth=20em}}
+* [[Ratt]] – "[[Nobody Rides for Free]]"
+* [[Concrete Blonde]] – "I Want You"
+* [[Jimmy Buffett]] – "[[Volcano (Jimmy Buffett song)|Volcano]]"
+* [[The Jimi Hendrix Experience]] – "[[If 6 Was 9]]"
+* [[School of Fish]] – "Rose Colored Glasses"
+* [[Public Image Ltd.]] – "Criminal"
+* [[Shark Island (band)|Shark Island]] – "My City"
+* [[Love (band)|Love]] – "[[7 and 7 Is]]"
+* [[Loudhouse]] – "[[Smoke on the Water]]"
+* [[Westworld (British band)|Westworld]] – "So Long Cowboy"
+* [[Little Caesar (band)|Little Caesar]] – "Down to the Wire"
+* [[L.A. Guns]] – "Over the Edge"
+* Liquid Jesus– "[[7 and 7 Is]]"
+* [[Wire Train]] – "I Will Not Fall"
+* [[Ice-T]] – "[[O.G. Original Gangster (song)|O.G. Original Gangster]]"
+* [[Mark Isham]] – "Foot Chase"
+* [[Sheryl Crow]] – "Hundreds of Tears"
+{{div col end}}
+
+===Score album===
+On February 7, 2008, a score release for ''Point Break'' was released by La-La Land Records, featuring composer [[Mark Isham]]'s score. This edition was limited to 2,000 units and features 65 minutes of score with liner notes by Dan Goldwasser that incorporate comments from both Bigelow and Isham. It is now out of print.<ref>{{cite web |url=http://www.lalalandrecords.com/PointBreak.html |title=LA LA LAND RECORDS, Point Break |publisher=Lalalandrecords.com |access-date=2012-05-30 |url-status=dead |archive-url=https://web.archive.org/web/20120504115145/http://lalalandrecords.com/PointBreak.html |archive-date=May 4, 2012 |df=mdy-all}}</ref>
+
+==Reception==
+===Box office===
+''Point Break'' was released on July 12, 1991, in 1,615 theaters, grossing $8.5 million on its opening weekend, behind ''[[Terminator 2: Judgment Day]]''{{'}}s (directed by Bigelow's then-husband, [[James Cameron]]) second weekend and the openings of the re-issue of ''[[One Hundred and One Dalmatians]]'' and ''[[Boyz n the Hood]]''. With a budget of $24 million, the film went on to make $43.2 million in North America and $40.3 million internationally for a total of $83.5 million worldwide.<ref name="boxofficemojo">{{cite web | url=http://www.boxofficemojo.com/movies/?id=pointbreak.htm | title=Point Break (1991) | publisher=[[Box Office Mojo]] | access-date=2008-05-24}}</ref>
+
+===Critical response===
+On [[Rotten Tomatoes]], the film holds an approval rating of 69% based on 81 reviews. The website's critics consensus reads: "Absurd, over-the-top, and often wildly entertaining, ''Point Break'' is here to show you that the human spirit is still alive."<ref>{{cite web | url= http://www.rottentomatoes.com/m/point_break/ | title=Point Break (1991) | work=[[Rotten Tomatoes]] | access-date=September 25, 2025}}</ref> [[Metacritic]] reports a weighted average score of 60 out of 100, based on 21 critics, indicating "mixed or average reviews".<ref>{{cite web | url=http://www.metacritic.com/movie/point-break-1991 | title=Point Break reviews | work=[[Metacritic]] | access-date=December 25, 2015}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "B+" on an A+ to F scale.<ref>{{cite web |url= https://www.cinemascore.com/publicsearch/index/title/ |title= Cinemascore |url-status= dead |archive-url= https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= 2018-12-20}}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film three-and-a-half stars out of four and wrote: "Bigelow is an interesting director for this material. She is interested in the ways her characters live dangerously for philosophical reasons. They aren't men of action, but men of thought who choose action as a way of expressing their beliefs."<ref name="ebert">{{cite news |last=Ebert |first=Roger |title=Point Break |newspaper=[[Chicago Sun-Times]] |date=July 12, 1991 |url=https://www.rogerebert.com/reviews/point-break-1991 |access-date=2018-08-25}}</ref> On their [[At the Movies (1986 TV program)|TV show]], Ebert's colleague [[Gene Siskel]] called the film "not bad at all" but considered it "overstuffed" with false endings and gratuitous dialogue, and ultimately gave the film a "thumbs down."<ref>{{Cite episode |title=Regarding Henry/101 Dalmatians/Point Break/Boys N the Hood/The Miracle |url=https://www.imdb.com/title/tt6092052/ |series=[[At the Movies (1986 TV program)|Siskel & Ebert]] |date=1991-07-13 |season=5 |number=43|time=10:01}}</ref>
+
+In her review for ''[[The New York Times]]'', [[Janet Maslin]] praised Reeves's performance: "A lot of the snap comes, surprisingly, from Mr. Reeves, who displays considerable discipline and range. He moves easily between the buttoned-down demeanor that suits a police procedural story and the loose-jointed manner of his comic roles."<ref name="maslin">{{cite news |last=Maslin |first=Janet |title=Surf's Up For F.B.I. In Bigelow's 'Point Break' |newspaper=[[The New York Times]] |page=C00012 |edition=National |date=July 12, 1991 |url=https://www.nytimes.com/1991/07/12/movies/review-film-surf-s-up-for-fbi-in-bigelow-s-point-break.html |access-date=2018-08-25 }}</ref> ''[[Entertainment Weekly]]'' gave the film a "C+" rating and [[Owen Gleiberman]] wrote: "''Point Break'' makes those of us who don't spend our lives searching for the ultimate physical rush feel like second-class citizens. The film turns reckless athletic valor into a new form of aristocracy."<ref name="gleiberman">{{cite magazine | last = Gleiberman | first = Owen | title = ''Point Break'' | magazine = [[Entertainment Weekly]] | date = July 26, 1991 | url = http://www.ew.com/ew/article/0,,314916,00.html | archive-url = https://web.archive.org/web/20070324154714/http://www.ew.com/ew/article/0,,314916,00.html | url-status = dead | archive-date = March 24, 2007 | access-date = 2009-04-24}}</ref>
+
+In his review for ''[[The Washington Post]]'', Hal Hinson wrote: "A lot of what Bigelow puts up on the screen bypasses the brain altogether, plugging directly into our viscera, our gut. The surfing scenes in particular are majestically powerful, even awe-inspiring. Bigelow's picture is a feast for the eyes, but we watch movies with more than our eyes. She seduces us, then asks us to be bimbos."<ref name="hinson">{{cite news | last = Hinson | first = Hal | title = ''Point Break'' | newspaper = [[The Washington Post]] | date = July 12, 1991 | url = https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/pointbreakrhinson_a13f81.htm | access-date = 2009-04-24 }}</ref> ''[[Rolling Stone]]'' magazine's [[Peter Travers]] wrote: "Bigelow can't keep the film from drowning in a sea of surf-speak. But without her, ''Point Break'' would be no more than an excuse to ogle pretty boys in wet suits."<ref name="travers">{{cite news | last = Travers | first = Peter | title = ''Point Break'' | newspaper = [[The Washington Post]] | date = April 11, 2001 | url = https://www.rollingstone.com/reviews/movie/5947465/review/5947466/point_break | archive-url = https://web.archive.org/web/20071024044945/http://www.rollingstone.com/reviews/movie/5947465/review/5947466/point_break | url-status = dead | archive-date = October 24, 2007 | access-date = 2009-04-24}}</ref>
+
+''[[USA Today]]'' gave the film two out of four stars, and Mike Clark wrote: "Its purely visceral material (surf sounds, skydiving stunt work, a tough indoor shootout midway through) are first-rate. As for the tangibles that matter even more (script, acting, directorial control, credible relationships between characters), Break defies belief. Dramatically, it rivals the lowest surf yet this year."<ref name="clark">{{cite news | last = Clark | first = Mike | title = ''Point Break'' is a dramatic wipeout | work = [[USA Today]] | date = July 12, 1991 }}</ref> ''[[Time (magazine)|Time]]'' magazine's Richard Corliss wrote: "So how do you rate a stunningly made film whose plot buys so blithely into macho mysticism that it threatens to turn into an endless bummer? Looks 10, Brains 3."<ref name="corliss">{{cite magazine | last = Corliss | first = Richard | title = Cinema | magazine = [[Time (magazine)|Time]] | date = July 22, 1991 | url = http://www.time.com/time/magazine/article/0,9171,973430,00.html | archive-url = https://web.archive.org/web/20101122021458/http://www.time.com/time/magazine/article/0,9171,973430,00.html | url-status = dead | archive-date = November 22, 2010 | access-date = 2009-04-24}}</ref>
+
+Critics have commented on the central 'buddy' relationship of Bodhi and Johnny,<ref>{{cite news|url=https://www.telegraph.co.uk/film/point-break-2015/keanu-reeves-kathryn-bigelow-making-of-original/|title=Tough guys have feelings too: the power of Point Break|date=2016-02-02|work=The Telegraph|access-date=2020-03-23|language=en-GB|issn=0307-1235|quote=In a promotional interview, Swayze described the film as being miles from "slap-ass, macho, jokey crap...I wanted to play it like a love story between two men.}}</ref> and on the unusually equal dynamic in the romantic relationship of Tyler and Johnny (which Bigelow changed Peter Iliff's original script to create); Tyler is a "muscled, brash waitress with an androgynous name (Tyler) and physical features", and Johnny's "feminine edges nudge in nicely to her masculine ones. In nearly every scene they share, they are portrayed by the camera as equals."<ref name="rollingstone1">{{cite magazine|last=Wolfe |first=April |url=https://www.rollingstone.com/movies/movie-features/stream-this-movie-point-break-717570/ |title=Revisiting Hours: 'Point Break'|magazine=Rolling Stone|date=2018-08-31 |access-date=2018-12-18}}</ref>
+
+In 2006, a special edition was released on DVD—the original DVD was released on May 22, 2001. ''Entertainment Weekly'' gave it a "B" rating and wrote: "The making-of docs (at their best discussing Swayze's extracurricular skydiving—that really is him doing the ''Adios, amigo'' fall) will leave you hanging."<ref name="bierly">{{cite magazine | last = Bierly | first = Mandi | title = DVD Review: ''Point Break'' | magazine = [[Entertainment Weekly]] | date = September 29, 2006 | url = https://ew.com/article/2006/09/29/point-break/ | access-date = 2009-04-24 }}</ref>
+
+In 2021, Keith Duggan, reflecting on ''Point Break'' 30 years later, wrote in the ''Irish Times'': 
+{{blockquote|For more than any other film of that time, ''Point Break'' seemed to announce what lay ahead in the grungy, baggy, anything goes 1990s, with greed and anti-capitalist forces clashing, America emitting its last lion's roar of unfettered optimism and the quest for one's precious spirit moving from the remnants of the hippy era into a multi-billion health and spirituality industry...Yup, standing on a stormy beach in 1991, old Bodhi had a pretty clear view of the next three decades.<ref>{{cite news | last=Duggan | first=Keith | title=Point Break still riding the wave of time at 30 | newspaper=The Irish Times | date=January 30, 2021 | url=https://www.irishtimes.com/sport/other-sports/daft-exhilarating-iconic-point-break-still-riding-the-wave-of-time-at-30-1.4471155 | access-date=March 22, 2024}}</ref>}}
+
+==Legacy==
+''[[The Daily Telegraph]]'' wrote that the film "certainly qualified as a cult favourite."<ref name="telegraph1"/> ''[[Rolling Stone]]'' called ''Point Break'' "the greatest female-gaze action movie ever," citing the bodily condition of Reeves and Swayze, calling it a "wet Western."<ref name="rollingstone1"/> ''Entertainment Weekly'' ranked ''Point Break'' as having one of the "10 Best Surfing Scenes" in cinema.<ref name="EWsurfing">{{cite magazine | title = 10 Best Surfing Scenes | magazine = [[Entertainment Weekly]] | date = August 8, 2002 | url = http://www.ew.com/ew/article/0,,231017__334753_9,00.html | archive-url = https://web.archive.org/web/20070327234014/http://www.ew.com/ew/article/0,,231017__334753_9,00.html | url-status = dead | archive-date = March 27, 2007 | access-date = 2009-04-24}}</ref>
+
+Although officially inspired by a 1998 ''[[Vibe (magazine)|Vibe]]'' magazine article, the story and style of the 2001 film ''[[The Fast and the Furious (2001 film)|The Fast and the Furious]]'' have earned comparisons to those of ''Point Break'', as [[Paul Walker]] plays a cop tasked with infiltrating the world of underground street racers, instead of surfers.<ref name="kns-22jun01">{{cite news |last=Pickle |first=Betsy |date=June 22, 2001 |title ='Furious': Eye candy never looked so good |url =https://www.newspapers.com/image/776053106/ |newspaper=The Knoxville News-Sentinel |agency=Scripps Howard News Service |page=5 (Weekend on Screen) {{subscription required|via=newspapers.com}}}}</ref><ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-2001-jun-27-hw-15147-story.html|title=Enthusiasts React Coolly to Film on Street Racing |first=Larry|last=Saavedra|date=27 June 2001 |work= [[Los Angeles Times]]}}</ref> Swayze's portrayal of Bodhi has been cited by [[Ubisoft]] developers as a chief inspiration for the character of [[Edward Kenway]], the pirate antihero of the 2013 video game ''[[Assassin's Creed IV: Black Flag]]''.<ref>{{cite book |last1=Davies |first1=Paul |date=2013 |title=The Art of Assassin's Creed IV: Black Flag |location=London |publisher=Titan Books |page=31 |isbn=9781781169032}}</ref>
+
+===In popular culture===
+''Point Break'' was referenced in 2007's ''[[Hot Fuzz]]'', where the scene of Utah emptying his magazine into the sky in frustration is watched by the lead characters and later re-enacted by [[Nick Frost]]'s character.<ref>{{cite web|url=http://www.bbcamerica.com/anglophenia/2013/08/pegg-wright-frost-best-movie-references/|title=Pegg, Wright and Frost's Best Movie References, From 'Spaced' to 'Hot Fuzz'|publisher=BBC America}}</ref><ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/films/news/point-break-remake-filming-underway-on-90s-classic-9730694.html|title=Point Break movie re-make: Filming underway on 90s classic|date=September 12, 2014}}</ref> In ''[[The Avengers (2012 film)|The Avengers]]'', [[Tony Stark (Marvel Cinematic Universe)|Tony Stark]] dismissively calls [[Thor (Marvel Cinematic Universe)|Thor]] "Point Break," presumably a comparison of Thor's hair to Swayze's in that film.<ref>{{Cite web|url=https://www.imdb.com/title/tt0848228/trivia|title = The Avengers (2012) – IMDb| website=[[IMDb]] }}</ref><ref name="20220701ScreenRantDumaraog" /> In ''[[Thor: Ragnarok]]'', after several attempts Thor correctly guesses that "Point Break" is the activation code that Stark had set up for him in the [[Quinjet]].<ref name="20220701ScreenRantDumaraog">{{Cite web|url=https://screenrant.com/thor-ragnarok-tony-stark-point-break-nickname-reason/|title = Ragnarok: Why Iron Man's Nickname for Thor is "Point Break"| website=[[Screen Rant]] |date = September 5, 2020|author=Ana Dumaraog|archive-url=https://web.archive.org/web/20240808213118/https://screenrant.com/thor-ragnarok-tony-stark-point-break-nickname-reason/|archive-date=August 8, 2024}}</ref> Between 2016 and 2020, indie musician [[JAWNY]] went by the stage name "Johnny Utah" in reference to the ''Point Break'' character.<ref name="BillJAWNY">{{cite magazine |last=Ginsberg |first=Gab |title=New Interscope Signee Jawny on Why He Won't Just Be Another 'Viral' Moment|magazine=Billboard | date=14 February 2020 |url=https://www.billboard.com/articles/business/8550829/jawny-signs-interscope-records-record-deal-interview |access-date=8 July 2020}}</ref>
+
+==Post-release==
+===Home media===
+''Point Break'' was released on [[VHS]] on January 16, 1992, by [[20th Century Home Entertainment|Fox Video]].<ref>{{cite news |title=Coming Video Attractions|url=https://www.newspapers.com/article/the-herald-news-coming-videos/198303750/|newspaper=The Herald News|page=47| date=January 12, 1992}}</ref> It proved successful in the [[video rental]] market, becoming the 15th most-rented film in the United States for 1992.<ref>{{cite news |url=https://www.newspapers.com/article/bristol-herald-courier-billboard-top-sal/160459479/ |title=Tops on tape |newspaper=[[Bristol Herald Courier]]|page=17| date=January 1, 1993}}</ref> The film was released on [[DVD-Video|DVD]] on October 3, 2006 and then [[Blu-ray]] on July 1, 2008.<ref>{{Cite web |title=Point Break DVD Release Date |url=https://www.dvdsreleasedates.com/movies/1783/Point-Break-(1991).html |access-date=2026-06-13 |website=DVDs Release Dates |language=en}}</ref><ref>{{Cite AV media |url=https://www.blu-ray.com/movies/Point-Break-Blu-ray/795/ |title=Point Break Blu-ray (Pure Adrenaline Edition) |language=en |access-date=2026-06-13 |via=www.blu-ray.com}}</ref><ref>{{Cite web |title=Blu-ray Release Dates, Blu-ray Release Calendar |url=https://www.blu-ray.com/movies/releasedates.php?year=2008&month=7#July01 |access-date=2026-06-13 |website=www.blu-ray.com}}</ref> ''Point Break'' received a 4K restoration under Shout Factory's Shout Select label with an [[Ultra HD Blu-ray|Ultra HD Blu-Ray]] release on December 5, 2023; marking the first remaster the film had received since the initial Blu-ray 15 years prior.<ref>{{Cite AV media |url=https://www.blu-ray.com/movies/Point-Break-4K-Blu-ray/345870/ |title=Point Break 4K Blu-ray (Collector's Edition) |language=en |access-date=2026-06-13 |via=www.blu-ray.com}}</ref><ref>{{Cite web |title=Blu-ray Release Dates, Blu-ray Release Calendar |url=https://www.blu-ray.com/movies/releasedates.php?year=2023&month=12#December05 |access-date=2026-06-13 |website=www.blu-ray.com}}</ref><ref>{{Cite web |last=Sluss |first=Justin |date=2023-12-05 |title=Point Break – 4K UHD Blu-ray Review |url=https://highdefdiscnews.com/2023/12/05/point-break-4k-uhd-blu-ray-review/ |access-date=2026-06-13 |website=HighDefDiscNews.com |language=en-US}}</ref>
+
+===Special screenings (2026)===
+On August 16 and August 19, 2026, the film will be re-released at select U.S. theaters by Resurgence Media Group, Saga Arts and [[Fathom Entertainment]], on the occasion of its 35th anniversary. The new 4K restoration will be preceded by an intro hosted by Matt Archbold, a surfing consultant and stunt double on the shoot.<ref name="var-20jul26">{{cite web | url =https://variety.com/2026/film/news/film-news-in-brief-july-20-2026-1236816245/ | title =Keanu Reeves and Patrick Swayze Surf Back into Theaters for 'Point Break{{'s}}' 35th Anniversary |last1=Tangcay |first1=Jazz |last2=Fedak | first2=Tanya |last3=Copeland |first3=Mya |last4=Minton |first4=Matt | date =July 20, 2026 | work =Variety | access-date =April 2, 2023}}</ref>
+
+==Related works==
+
+===Point Break Live!===
+{{main|Point Break Live!}}
+''Point Blank Live!'' is a live-action parody of the film by playwright/director Jaime Keeling, featuring an audience member chosen to perform the role of Johnny Utah each night. First premiered in 2003, it has since been performed in more than a dozen cities and continues to be performed to this day.<ref>{{cite news |last1=Jones |first1=Chad |title='Point Break Live!': Interactive play is back at DNA Lounge |url=https://www.sfgate.com/performance/article/Point-Break-Live-Interactive-play-is-back-at-5657539.php |work=SF Gate |publisher=Hearst Communications |date=30 July 2014}}</ref><ref>{{cite web |last1=Keeling |first1=Jaime |title=Point Break Live! |url=https://www.pointbreaklive.com |website=pointbreaklive.com |access-date=20 September 2026}}</ref>
+
+===Remake===
+[[Alcon Entertainment]] and [[Warner Bros.]] released a remake of the film in 2015 titled ''[[Point Break (2015 film)|Point Break]]'', which received mostly negative reviews.<ref>{{Citation|title=Point Break (2015)|url=https://www.rottentomatoes.com/m/point_break_2013|language=en|access-date=2020-12-19}}</ref> [[James LeGros]] and BoJesse Christopher, two of the actors who played Ex-Presidents in the 1991 film, were cast as FBI directors.<ref>{{Cite web|url=https://abcnews.go.com/Entertainment/point-break-remake-pays-tribute-cast/story?id=31332367|title='Point Break' Remake Pays Tribute to Old Cast|website=[[ABC News (United States)|ABC News]] |access-date=August 24, 2020|archive-date=April 27, 2016|archive-url=https://web.archive.org/web/20160427175434/http://abcnews.go.com/Entertainment/point-break-remake-pays-tribute-cast/story?id=31332367|url-status=live}}</ref>
+
+===Television series===
+A television adaptation of the film was announced to be in development at [[AMC (TV channel)|AMC]] in December 2025, with [[Alcon Entertainment#Alcon Television Group|Alcon Television Group]] and [[AMC Studios]] set to produce, and is scheduled to premiere sometime in 2027.<ref>{{cite web|last=White|first=Peter|date=December 15, 2025|title=''Point Break'' TV Series In Works At AMC From David Kalstein & Alcon Entertainment|url=https://deadline.com/2025/12/point-break-tv-series-amc-1236648939/|website=[[Deadline Hollywood]]|access-date=December 15, 2025}}</ref><ref>{{cite web|last=Weprin|first=Alex|date=April 29, 2026|title=AMC Global Media Developing 'Bannerman' Series Based on Novels, 'Point Break' to Debut in 2027|url=https://www.hollywoodreporter.com/tv/tv-news/bannerman-tv-series-amc-point-break-2027-premiere-1236579021/|website=[[The Hollywood Reporter]]|access-date=April 30, 2026}}</ref> The series was officially greenlit by AMC and [[Canal+ (French TV channel)|Canal+]] in September 2026, with Dave Kalstein and [[Christopher C. Rogers]] serving as showrunners.<ref>{{cite web |url= https://www.hollywoodreporter.com/tv/tv-news/point-break-series-amc-1236697873/|title= ‘Point Break’ Series Surfs to Green Light at AMC|date= September 11, 2026|access-date= September 11, 2026|first= Rick|last= Porter|work= The Hollywood Reporter}}</ref><ref>{{cite web|url=https://deadline.com/2026/09/point-break-series-greenlit-amc-france-canal-1237099164/|title=‘Point Break’ Series Greenlit By AMC & France’s Canal+ From Alcon|first=Peter|last=White|website=Deadline Hollywood|date= September 11, 2026|access-date= September 11, 2026}}</ref>
+
+==See also==
+* [[Heist film]]
+* [[List of cult films]]
+
+==Notes==
+{{noteslist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title|0102685|Point Break}}
+* {{Mojo title|pointbreak|Point Break}}
+* {{Rotten Tomatoes|point_break|Point Break}}
+* {{Metacritic film|title=Point Break}}
+
+{{Kathryn Bigelow}}
+{{Authority control}}
+
+[[Category:1990s heist films]]
+[[Category:1991 action thriller films]]
+[[Category:1991 American films]]
+[[Category:1991 English-language films]]
+[[Category:1991 films]]
+[[Category:20th Century Fox films]]
+[[Category:American action adventure films]]
+[[Category:American action thriller films]]
+[[Category:American buddy action films]]
+[[Category:American heist films]]
+[[Category:American surfing films]]
+[[Category:Caricatures of presidents of the United States]]
+[[Category:Cultural depictions of Jimmy Carter]]
+[[Category:Cultural depictions of Lyndon B. Johnson]]
+[[Category:Cultural depictions of Richard Nixon]]
+[[Category:Cultural depictions of Ronald Reagan]]
+[[Category:English-language action adventure films]]
+[[Category:English-language crime films]]
+[[Category:Films about bank robbery]]
+[[Category:Films about parachuting]]
+[[Category:Films about the Federal Bureau of Investigation]]
+[[Category:Films directed by Kathryn Bigelow]]
+[[Category:Films scored by Mark Isham]]
+[[Category:Films set in Australia]]
+[[Category:Films set in Los Angeles]]
+[[Category:Films set in Mexico]]
+[[Category:Films set on beaches]]
+[[Category:Films shot in Hawaii]]
+[[Category:Films shot in Los Angeles]]
+[[Category:Films shot in Oregon]]
+[[Category:Films shot in Utah]]
+[[Category:Films with screenplays by James Cameron]]
+[[Category:Largo Entertainment films]]

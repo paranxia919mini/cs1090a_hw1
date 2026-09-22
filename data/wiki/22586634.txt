@@ -1,0 +1,63 @@
+{{short description|1975 film}}
+{{use dmy dates|date=February 2017}}
+{{Infobox film
+| name           = Aloïse
+| image          = aloise.jpg
+| caption        = Theatrical release poster
+| director       = [[Liliane de Kermadec]]
+| producer       = Alain Dahan
+| writer         = Liliane de Kermadec<br>[[André Téchiné]]
+| starring       = [[Isabelle Huppert]]
+| music          =
+| cinematography = [[Jean Penzer]]
+| editing        = Claudine Merlin
+| distributor    = S.E. Framo
+| released       = {{film date|1975|4|2|df=yes}}
+| runtime        = 115 minutes
+| country        = France
+| language       = French
+| budget         =
+}}
+
+'''''Aloïse''''' is a 1975 French [[drama film]] directed by [[Liliane de Kermadec]]. It was entered into the [[1975 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/2177/year/1975.html |title=Festival de Cannes: Aloïse |access-date=27 April 2009|work=festival-cannes.com}}</ref>
+
+[[Tim Palmer (film historian)|Tim Palmer]] has written about this film in his article, "Enraged to Live: Reviving Liliane de Kermadec’s ''Aloïse''," in ''French Screen Studies''.<ref>{{cite journal |last1=Palmer |first1=Tim |title=Enraged to Live: Reviving Liliane de Kermadec’s Aloïse |journal=French Screen Studies |date=2024 |doi=10.1080/26438941.2024.2389626 |url=https://www.tandfonline.com/doi/full/10.1080/26438941.2024.2389626|url-access=subscription }}</ref>
+
+==Plot==
+The unsuccessful Swiss artist [[Aloïse Corbaz]] finds work at the court of the German emperor and gets infatuated. Showing frank symptoms of insanity she is hospitalised.
+
+==Cast==
+* [[Isabelle Huppert]] - Aloïse jeune / Aloïse as a child
+* [[Delphine Seyrig]] - Aloïse adulte / Aloïse as an adult
+* [[Marc Eyraud]] - Le père d'Aloïse / Aloïse's father
+* [[Michael Lonsdale]] - Le médecin directeur / The second doctor
+* [[Valérie Schoeller]] - Élise jeune / Élise as a child
+* [[Monique Lejeune]] - Élise adulte / Élise as an adult
+* [[Julien Guiomar]] - Le directeur de théâtre
+* [[Roger Blin]] - Le professeur de chant / The singing teacher
+* [[Jacques Debary]] - the old director
+* {{ill|Roland Dubillard|es||fr||gl||ht||no}} - the teacher
+* [[Jacques Weber]] -the engineer
+* [[Nita Klein]] - the head nurse
+* [[Hans Verner]] - the chaplain
+* [[Alice Reichen]] - 'la microphonée'
+* [[François Chatelet (actor)|François Chatelet]] - the priest
+* [[Fernand Guiot]] - the priest in the asylum
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Imdb title|id=0071125|title=Aloïse}}
+
+{{DEFAULTSORT:Aloise}}
+[[Category:1975 films]]
+[[Category:1975 French-language films]]
+[[Category:1975 drama films]]
+[[Category:Films directed by Liliane de Kermadec]]
+[[Category:French drama films]]
+[[Category:1975 French films]]
+[[Category:French-language drama films]]
+
+
+{{1970s-France-film-stub}}

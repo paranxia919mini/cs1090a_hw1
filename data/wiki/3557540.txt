@@ -1,0 +1,284 @@
+{{short description|1990 film directed by John McTiernan}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=September 2016}}
+{{Infobox film
+| name           = The Hunt for Red October
+| image          = The Hunt for Red October movie poster.png
+| caption        = Theatrical release poster
+| director       = [[John McTiernan]]
+| producer       = [[Mace Neufeld]]
+| writer         = 
+| screenplay     = {{Plainlist|
+* [[Larry Ferguson (screenwriter)|Larry Ferguson]]
+* [[Donald E. Stewart]]
+}}
+| story          = 
+| based_on       = {{Based on|''[[The Hunt for Red October]]''|[[Tom Clancy]]}}
+| starring       = {{Plainlist|
+* [[Sean Connery]]
+* [[Alec Baldwin]]
+* [[Scott Glenn]]
+* [[James Earl Jones]]
+* [[Sam Neill]]
+}}
+| narrator       = 
+| music          = [[Basil Poledouris]]
+| cinematography = [[Jan de Bont]]
+| editing        = {{Plainlist|
+* [[Dennis Virkler]]
+* [[John Wright (film editor)|John Wright]]
+}}
+| studio         = Mace Neufeld Productions
+| distributor    = [[Paramount Pictures]]
+| released       = {{Film date|1990|03|02|United States}}
+| runtime        = 135 minutes<!--Theatrical runtime: 135:18--><ref>{{cite web | url=http://www.bbfc.co.uk/releases/hunt-red-october-1970-0 | title=''The Huntsman for Red October'' (PG) | work=[[British Board of Film Classification]] | date=March 15, 1990 | access-date=September 4, 2016 | archive-date=September 16, 2016 | archive-url=https://web.archive.org/web/20160916025331/http://www.bbfc.co.uk/releases/hunt-red-october-1970-0 | url-status=dead }}</ref>
+| country        = United States
+| language       = {{Plainlist|
+* English
+* Russian
+}}
+| budget         = $30&nbsp;million<ref name=mojo>{{Mojo title|huntforredoctober|The Hunt for Red October}}</ref>
+| gross          = $200.5&nbsp;million
+}}
+
+'''''The Hunt for Red October''''' (alternate on-screen Russian title: ''Красный октябрь'', "Red October") is a 1990 American [[submarine films|submarine]] [[spy film|spy]] [[thriller film]] directed by [[John McTiernan]], produced by [[Mace Neufeld]], and starring [[Sean Connery]], [[Alec Baldwin]], [[Scott Glenn]], [[James Earl Jones]], and [[Sam Neill]]. The film is an adaptation of [[Tom Clancy]]'s 1984 bestselling [[The Hunt for Red October|novel of the same name]]. It is the first installment of the [[Jack Ryan (film series)|film series]] featuring the protagonist [[Jack Ryan (character)|Jack Ryan]].
+
+The story is set during the late [[Cold War]] era and involves a rogue [[Soviet Union|Soviet]] naval captain who wishes to [[defection|defect]] to the [[United States]] with his officers and the [[Soviet Navy]]'s newest and most advanced [[ballistic missile submarine]], a fictional improvement on the Soviet [[Typhoon-class submarine]]. A [[Central Intelligence Agency|CIA]] analyst correctly deduces his motive and must prove his theory before a violent confrontation between the [[Red Fleet|Soviet Red Fleet]] and the [[United States Navy]] spirals out of control.
+
+The film was a [[International co-production|co-production]] between the motion picture studios [[Paramount Pictures]], Mace Neufeld Productions, and [[Nina Saxon]] Film Design. Theatrically, it was commercially distributed by Paramount Pictures and by the [[Paramount Home Entertainment|Paramount Home Video]] division for home media markets. Following its wide theatrical release, the film was nominated for and won a number of accolades. At the [[63rd Academy Awards]], the film won the [[Academy Award for Best Sound Editing]], along with nominations for [[Academy Award for Best Sound Mixing|Best Sound Mixing]] and [[Academy Award for Best Film Editing|Best Film Editing]]. On June 12, 1990, the original soundtrack, composed and conducted by [[Basil Poledouris]], was released by [[MCA Records]]. ''The Hunt for Red October'' received mostly positive reviews from critics and was the sixth-highest-grossing domestic film of the year, generating $122&nbsp;million in North America and over $200&nbsp;million worldwide in box office business.
+
+==Plot==
+In November 1984, [[Soviet]] submarine captain Marko Ramius is given command of ''Red October'', a new [[Typhoon-class]] ballistic missile submarine with a "[[Magnetohydrodynamic drive|caterpillar drive]]", rendering it nearly undetectable to [[passive sonar]]. At sea, Ramius secretly kills [[Political commissar|political officer]] Ivan Putin and relays false orders to his crew that they are to conduct missile drills off America's east coast. American {{sclass|Los Angeles|submarine|0}} attack submarine [[USS Dallas (SSN-700)|USS ''Dallas'']], which had been shadowing ''Red October'', loses contact once the sub's caterpillar drive is engaged.
+
+[[CIA]] analyst and former Marine [[Jack Ryan (character)|Jack Ryan]] is based in London, but returns to Washington, D.C. After consulting with Vice Admiral [[Ryanverse#Main|James Greer]], the deputy director of the CIA, Ryan briefs government officials on ''Red October'' and the threat it poses. Upon learning that the bulk of the [[Soviet Navy]] has been deployed to the Atlantic to locate and sink the sub, the military staff conclude that Ramius plans a renegade nuclear strike. 
+
+Countering this view, Ryan hypothesizes that Ramius, a native-born [[Lithuanians|Lithuanian]] widower with few remaining personal ties to the Soviet Union, actually plans to [[defection|defect]] with the sub, to the United States. [[National Security Advisor (United States)|National Security Advisor]] Jeffrey Pelt gives Ryan three days to confirm his theory before the U.S. Navy will be ordered to find and sink ''Red October''. Ryan sets out to rendezvous with an [[aircraft carrier]] in the mid-Atlantic.
+
+An unknown saboteur causes ''Red October''{{'}}s caterpillar drive to malfunction during risky maneuvers through a narrow undersea canyon. Aboard ''Dallas,'' Petty Officer Ronald "Jonesy" Jones, a sonar technician, discovers a way to detect ''Red October'' using his [[underwater acoustics]] software, and the boat plots an intercept course. After a hazardous mid-ocean transfer, Ryan is able to board ''Dallas'', where he attempts to persuade its captain, Commander Bart Mancuso, to contact Ramius and determine his real intentions.
+
+The Soviet ambassador informs Pelt that Ramius intends to launch a missile attack on the U.S. and asks for help in sinking ''Red October''. That order is sent to the U.S. fleet, including ''Dallas'', which has reacquired the Soviet sub. Ryan remains convinced that Ramius plans to defect with his officers and finally convinces Mancuso to contact Ramius and offer assistance. Ramius, stunned that the Americans correctly guessed his plan, accepts Mancuso's offer. Ramius then stages a nuclear reactor "emergency", ordering the sub to surface and his crew to abandon ship. After a U.S. frigate is spotted heading right for them, Ramius submerges, leaving his crew in life rafts, telling his medical officer, Dr. Petrov, who stays with the crew, that Ramius and his remaining officers will [[scuttling|scuttle]] the ''Red October'' and go down with the sub. Ryan, Mancuso, and Jonesy board ''Red October'' via a [[Mystic-class deep-submergence rescue vehicle|rescue submarine]], at which point Ramius turns over his sub to the Americans and requests asylum for himself and his officers.
+
+''Red October'' is then ambushed by [[Alfa-class submarine]] ''V. K. Konovalov'', commanded by Ramius' former student, Captain Tupolev. ''Konovalov'' fires upon ''Red October'' with a torpedo which Ramius destroys by causing it to impact Red October before it can arm. As the two Soviet subs maneuver, one of ''Red October''{{'}}s cooks, Loginov, reveals himself to be the saboteur and an undercover agent for the Soviet [[Main Intelligence Directorate (GRU)|GRU]]. He opens fire on the bridge, fatally wounding first officer Vasily Borodin, before retreating to the missile bay, intending to ignite a missile engine and destroy the ship. 
+
+Loginov is pursued by Ryan and Ramius, and he wounds Ramius before being killed by Ryan. Konovalov launches a second torpedo which is set to arm immediately. ''Dallas'' is able to divert it toward herself and evade by launching [[sonar decoy|countermeasures]] and conducting an [[Emergency main ballast tank blow|emergency blow]] to the surface. The torpedo reacquires ''Red October'' but Mancuso maneuvers towards the ''Konovalov'', which the torpedo strikes and destroys. The crew of ''Red October'', now rescued, witness the submerged explosion from the deck of the U.S. frigate. Unaware of the second Soviet submarine, they believe that Ramius has sacrificed himself and scuttled ''Red October'' to avoid being boarded.
+
+Ryan and Ramius, their subterfuge complete, navigate ''Red October'' to the [[Penobscot River]] in Maine. Ryan, despite his own [[fear of flying]], falls asleep on a flight home to London next to a teddy bear for his daughter.<ref name="Santas 2014">{{cite book |last1=Santas |first1=Constantine |last2=Wilson |first2=James M. |last3=Colavito |first3=Maria |last4=Baker |first4=Djoymi |title=The Encyclopedia of Epic Films |date=2014 |publisher=Rowman & Littlefield |location=Lanham, Md. |isbn=978-0-8108-8248-5 |page=295}}</ref>
+
+==Cast==
+<!-- Cast and order per opening tombstone credits, roles per closing credits scroll -->
+{{Div col}}
+* [[Sean Connery]] as [[Captain 1st rank]] Marko Ramius, [[Commanding Officer]] of ''Red October''<ref name="BFI">[https://web.archive.org/web/20180203162059/http://www.bfi.org.uk/films-tv-people/4ce2b79d3e63a ''The Hunt for Red October''] at the [[British Film Institute]]{{better source needed|reason=Help request: a live link can be searched for at https://collections-search.bfi.org.uk/web/search/expert - if available, replace the archive URL with the live link. Or if none found, remove this 'better source needed' template. | date=October 2023}}</ref>
+* [[Alec Baldwin]] as [[Jack Ryan (character)|Jack Ryan]], [[Central Intelligence Agency|CIA]] intelligence analyst, author, Professor of Naval History at the [[United States Naval Academy]]<ref name="BFI"/>
+* [[Joss Ackland]] as Andrei Lysenko, Soviet Ambassador to the United States<ref name="BFI"/>
+* [[Tim Curry]] as Dr. Yevgeni Petrov, Medical Officer on ''Red October''<ref name="BFI"/>
+* [[Peter Firth]] as [[Senior lieutenant|1st Lieutenant]] Ivan Putin, [[Political officer (military)|Political Officer]] of ''Red October''<ref name="BFI"/>
+* [[Scott Glenn]] as [[Commander (United States)|Commander]] Bart Mancuso, USN, Commanding Officer of {{USS|Dallas|SSN-700|6}}<ref name="BFI"/>
+* [[James Earl Jones]] as [[Vice admiral (United States)|Vice Admiral]] James Greer, USN, deputy director of the [[CIA]]<ref name="BFI"/>
+* [[Jeffrey Jones]] as Skip Tyler, a former submarine commander who identifies ''Red October''{{'}}s propulsion system<ref name="BFI"/>
+* [[Richard Jordan]] as Jeffrey Pelt, [[National Security Advisor (United States)|National Security Advisor]]<ref name="BFI"/>
+* [[Sam Neill]] as [[Captain 2nd rank]] Vasily Borodin, [[Executive officer#Military|Executive Officer]] of ''Red October''<ref name="BFI"/>
+* [[Stellan Skarsgård]] as Captain 2nd rank Viktor Tupolev, Commanding Officer of ''Konovalov'' and Ramius's former student<ref name="BFI"/>
+* [[Fred Thompson]] as [[Rear admiral (United States)#Rear admiral (lower half)|Rear Admiral]] Joshua Painter, USN, Commander of the ''Enterprise'' [[carrier battle group]]<ref name="BFI"/>
+* [[Courtney B. Vance]] as [[Petty officer second class|Petty Officer]] Ronald "Jonesy" Jones, sonar operator of USS ''Dallas''<ref name="BFI"/>
+* [[Tomas Arana]] as Igor Loginov, a [[Main Intelligence Directorate (GRU)|GRU]] agent on ''Red October''<ref name="BFI"/>
+* [[Timothy Carhart]] as [[Lieutenant commander (United States)|Lt. Commander]] Bill Steiner, USN, commander of the US Navy's [[deep-submergence rescue vehicle]] ''Mystic''<ref name="BFI"/>
+* [[Daniel Davis (actor)|Daniel Davis]] as [[Captain (United States O-6)|Captain]] Charlie Davenport, Commanding Officer of {{USS|Enterprise|CVN-65|6}}<ref name="BFI"/>
+* Anatoly Davydov as ''Red October'' Sonar Officer<ref name="BFI"/>
+* [[Sven-Ole Thorsen]] as Russian [[Chief of the boat|COB]] 
+* [[Ivan G'Vera]] as Russian official. 
+* Michael Welden as [[Captain Lieutenant]] Gregoriy Kamarov, Navigation officer of ''Red October''<ref name="BFI"/>
+* [[Rick Ducommun]] as [[Grumman C-2 Greyhound|C-2A]] Navigator<ref name="BFI"/>
+* [[Larry Ferguson (screenwriter)|Larry Ferguson]] as  [[Master chief petty officer|Master Chief Petty Officer]] Watson, USN, [[Chief of the boat]], USS ''Dallas''<ref name="BFI"/>
+* [[Ronald Guttman]] as [[Lieutenant]] Melekhin, Chief Engineer of ''Red October''<ref name="BFI"/>
+* Boris Lee Krutonog as Viktor Slavin, Diving Officer of ''Red October''<ref name="BFI"/>
+* Krzysztof Janczar as Yevgeni Bonovia, Executive Officer of ''Konovalov''<ref name="BFI"/>
+* [[Anthony Peck]] as [[Lieutenant commander (United States)|Lt. Commander]] "Tommy" Thompson, Executive Officer of USS ''Dallas''<ref name="BFI"/>
+* [[Ned Vaughn]] as [[Seaman (rank)#United States|Seaman]] Beaumont, a junior sonar operator on USS ''Dallas''<ref name="BFI"/>
+* [[Gates McFadden]] as Dr. Caroline Ryan, Jack's wife<ref name="BFI"/>
+* [[Peter Zinner]] as Admiral Yuri Padorin<ref name="BFI"/>
+* Mark Draxton as [[Lieutenant (navy)|Lieutenant]] Wolfe, Officer on USS ''Dallas''<ref name="BFI"/>
+
+{{Div col end}}
+
+In addition, the director's father, John McTiernan Sr., has a credited cameo as one of the attendees at Ryan's briefing for the National Security Advisor.<ref name="BFI"/>
+
+==Production==
+===Development===
+Producer [[Mace Neufeld]] optioned Tom Clancy's novel after reading [[galley proof]]s in February 1985. Although the book became a bestseller, no Hollywood studio was interested because of its content. Neufeld said, "I read some of the reports from the other studios, and the story was too complicated to understand".<ref name="Thomas, Bob">{{cite news |last=Thomas |first=Bob |title=High-Tech Novel Took Five Years to Reach Screen |agency=[[Associated Press]] |date=March 2, 1990}}</ref> After a year and a half, he finally got a high-level executive at [[Paramount Pictures]] to read Clancy's novel and agree to develop it into a film.
+
+Screenwriters Larry Ferguson and Donald Stewart worked on the [[screenplay]] while Neufeld approached the [[United States Navy|U.S. Navy]] for approval. They feared top secret information or technology might be revealed. However, several admirals liked Clancy's book and reasoned that the film could do for submariners what ''[[Top Gun]]'' did for the Navy's jet fighter pilots.<ref name="Thomas, Bob" /> Captain Michael Sherman, director of the Navy's western regional information office in Los Angeles, suggested changes to the script that would present the Navy in a positive light.<ref name="Donohue, Cathryn">{{cite news |last=Donohue |first=Cathryn |title=''Red October'' Surfaces as a Movie |work=[[The Washington Times]] |date=March 2, 1990}}</ref>
+
+The Navy gave the filmmakers access to several {{sclass|Los Angeles|submarine|1}}s, allowing them to [[photograph]] unclassified sections of both {{USS|Chicago|SSN-721|2}} and {{USS|Portsmouth|SSN-707|2}} to use in set and prop design. {{USS|Louisville|SSN-724|2}} was used for the scene in which Baldwin is dropped from a helicopter to the submarine. Key cast and crew members rode along in subs, including Alec Baldwin and Scott Glenn, who took an overnight trip aboard {{USS|Salt Lake City|SSN-716|2}} commanded by then Commander [[Thomas B. Fargo]]. Glenn based his portrayal of Commander Bart Mancuso on Fargo.<ref name="Thomas, Bob" />
+
+===Casting===
+Some of the principal cast had previous military service which they drew on for their roles. Sean Connery had served in the [[Royal Navy]], Scott Glenn in the [[United States Marine Corps]], and James Earl Jones in the [[United States Army]]. Baldwin and Glenn spent time on a ''Los Angeles''-class submarine. Baldwin was trained to drive an attack submarine.<ref>{{Cite news|url=https://parade.com/486446/walterscott/5-things-you-didnt-know-about-alec-baldwin/|title=5 Things You Didn't Know About Alec Baldwin|last=Scott|first=Walter|newspaper=Parade|access-date=2017-02-11|language=en|archive-date=February 11, 2017|archive-url=https://web.archive.org/web/20170211160016/https://parade.com/486446/walterscott/5-things-you-didnt-know-about-alec-baldwin/|url-status=live}}</ref> Some extras portraying the ''Dallas'' crew were serving submariners, including the pilot of the [[Deep Submergence Rescue Vehicle|DSRV]], Lt Cmdr George Billy. Submariners from San Diego were cast as extras because it was easier to hire them than to train actors. Crew from {{USS|La Jolla}}, including Lt Mark Draxton, took leave to participate in filming. According to an article in ''Sea Classics'', at least two sailors from the Atlantic Fleet-based ''Dallas'' took leave and participated in the Pacific Fleet-supported filming. The crew of the {{USS|Houston|SSN-713|2}} called their month-long filming schedule the "Hunt for Red Ops." ''Houston'' made more than 40 emergency surfacing "blows" for rehearsal and for the cameras.<ref name="Thomas, Bob" />
+
+The filmmakers' first choice to portray Jack Ryan was [[Kevin Costner]], who turned down the film in order to star in and direct ''[[Dances with Wolves]]''.<ref>{{Cite web|url=https://www.mentalfloss.com/article/64931/14-deep-facts-about-hunt-red-october|title=14 Deep Facts About The Hunt for Red October|date=2015-06-12|website=www.mentalfloss.com|language=en|access-date=2020-03-18|archive-date=March 18, 2020|archive-url=https://web.archive.org/web/20200318144149/https://www.mentalfloss.com/article/64931/14-deep-facts-about-hunt-red-october|url-status=live}}</ref> [[Harrison Ford]] was also approached to play Jack Ryan but turned it down. He later replaced Alec Baldwin as Ryan in ''[[Patriot Games (film)|Patriot Games]]''.<ref>{{Cite web|url=https://www.vanityfair.com/hollywood/2014/01/jack-ryan-10-things-you-didnt-know|title=10 Things You Probably Didn't Know About Jack Ryan|website=[[Vanity Fair (magazine)|Vanity Fair]]|date=January 17, 2014}}</ref> Baldwin was approached in December 1988, but was not told for what role. [[Klaus Maria Brandauer]] was cast as Soviet sub commander Marko Ramius but resigned the role two weeks into filming due to a prior commitment.<ref name="Thomas, Bob" /> 
+
+The producers faxed the script to Sean Connery, who at first declined because the script seemed implausible in portraying the Soviet Union as an ambitious naval power. He was missing the first page which set the story before Gorbachev's coming to power, when the events of the book would have seemed more plausible.<ref name="Submarine thriller surfaces with Connery in command">{{cite news|last1=Thomas|first1=Bob|title=Submarine thriller surfaces with Connery in command|url=https://news.google.com/newspapers?nid=2199&dat=19900307&id=P0UyAAAAIBAJ&pg=5328,1823207&hl=en%20|access-date=30 April 2016|work=Lawrence Journal-World|agency=Associated Press|archive-date=May 9, 2021|archive-url=https://web.archive.org/web/20210509020624/https://news.google.com/newspapers?nid=2199&dat=19900307&id=P0UyAAAAIBAJ&pg=5328%2C1823207&hl=en+|url-status=live}}</ref> He arrived in L.A. on a Friday and was supposed to start filming on Monday but he requested a day to rehearse.<ref name="Kilday" /> Principal photography began on April 3, 1989, with a $30&nbsp;million budget.<ref name="Kilday">{{cite magazine |last=Kilday |first=Gregg |title=Reds Sail into the Sunset |magazine=[[Entertainment Weekly]] |date=March 2, 1990 |url=https://ew.com/article/1990/03/02/how-will-hunt-red-october-fare/ |access-date=2010-05-20 |archive-date=June 6, 2011 |archive-url=https://web.archive.org/web/20110606174531/http://www.ew.com/ew/article/0,,316807,00.html |url-status=live }}</ref> The Navy lent the film crew the ''Houston'', {{USS|Enterprise|CVN-65|2}}, two frigates ({{USS|Wadsworth|FFG-9|2}} and {{USS|Reuben James|FFG-57|2}}), helicopters, and a dry-dock crew.<ref name="Donohue, Cathryn" />
+
+Filmmaker [[John Milius]] revised some of the film's script, writing a few speeches for Sean Connery and all of his Russian dialogue.<ref name="Plume">{{cite news |last=Plume |first=Ken |title=An Interview with John Milius |publisher=[[IGN]] |date=May 7, 2003 |url=http://movies.ign.com/articles/401/401150p1.html |archive-url=https://web.archive.org/web/20070217233223/http://movies.ign.com/articles/401/401150p1.html |url-status=dead |archive-date=February 17, 2007 |access-date=2020-01-24}}</ref> He was asked to rewrite the whole film but was only required to do the Russian sequences.<ref>Segaloff, Nat, "John Milius: The Good Fights", ''Backstory 4: Interviews with Screenwriters of the 1970s and 1980s'', Ed. [[Patrick McGilligan (biographer)|Patrick McGilligan]], Uni of California 2006 p 308</ref> Rather than choosing between the realism of Russian dialog with subtitles, or the audience-friendly use of English (with or without Russian accents), the filmmakers compromised with a deliberate conceit. The film begins with the actors speaking Russian with English subtitles. But in an early scene, actor [[Peter Firth]] casually switches in mid-sentence to speaking in English on the word "Armageddon", which is the same spoken word in both languages. After that point, all the Soviets' dialogue is communicated in English. Connery continued using his native Scottish accent for the rest of the motion picture. Only towards the climax of the film, at the beginning of the scene in which the Soviet and American submariners meet, do some of the actors speak in Russian again.
+
+===Filming===
+Filming in submarines was impractical. Instead, five soundstages on the Paramount backlot were used. Two {{convert|50|ft2|adj=on}}{{verify source|likely actually 50-foot x 50-foot => 15-metre x 15-metre => 225 m^2|date=January 2020}} platforms housing mock-ups of ''Red October'' and ''Dallas'' were built, standing on hydraulic gimbals that simulated the sub's movements. Connery recalled, "It was very claustrophobic. There were 62 people in a very confined space, {{convert|45|feet|m}} above the stage floor. It got very hot on the sets, and I'm also prone to sea sickness. The set would tilt to 45 degrees. Very disturbing." The veteran actor shot for four weeks and the rest of the production shot for additional months on location in [[Port Angeles, Washington]] and the waters off Los Angeles.<ref name="Donohue, Cathryn"/> Scenes of a shipyard in [[Patuxent, Maryland]] were filmed at a [[submarine base]] in [[Point Loma, San Diego]].<ref>{{Cite web |title=Filming Locations for The Hunt For Red October (1990), in Los Angeles; Washington State; North Carolina and Liverpool. |url=https://www.movie-locations.com/movies/h/Hunt-For-Red-October.php |access-date=2022-12-10 |website=The Worldwide Guide to Movie Locations}}</ref>
+
+[[File:USS Reuben James;075702.jpg|thumb|{{USS|Reuben James|FFG-57|6}}, where a number of flight deck scenes were filmed]]
+Made before the extensive use of [[Computer-generated imagery|CGI]] became the norm in filmmaking, the film's opening sequence featured a long pull-out reveal of the immense titular Typhoon-class sub. It included a nearly full-scale, above-the-water-line mockup of the sub, constructed from two barges welded together. Each country's submarine had its own background color: Soviet submarines, such as ''Red October'' and ''V.K. Konovalov'', had interiors in black with chrome trim. American ships, such as ''Dallas'' and ''Enterprise'', had grey interiors.<ref name="making-of-ripples"/>
+
+Early filming was aboard ''Reuben James'' in the area of the [[Juan de Fuca Strait]] and [[Puget Sound]] in March 1989. The ship operated out of [[United States Coast Guard|U.S. Coast Guard]] Station Port Angeles. The [[Sikorsky SH-60 Seahawk|SH-60B]] detachment from the Battlecats of HSL-43 operated out of [[NAS Whidbey Island]], after being displaced by the film crew. Most underwater scenes were filmed using smoke, with a model sub connected to 12 cables, giving precise, smooth control for turns. Computer effects, in their infancy, created bubbles and other effects such as particulates in the water.<ref name="making-of-ripples">{{cite video|url=https://www.youtube.com/watch?v=2_epfA20dOY&t=25m07s |archive-url=https://ghostarchive.org/varchive/youtube/20211221/2_epfA20dOY |archive-date=2021-12-21 |url-status=live|editor1-first=Cynthia|editor1-last=Wichert|year=2003|title=Beneath the Surface: The Making of "''The Hunt for Red October''"|format=25:07|quote=we did want to make sure we did all the ripple effects and distortions and get those added in as computer graphics.}}{{cbignore}}</ref>
+
+In March 1990, just before the film's theatrical release, the [[Supreme Soviet of the Soviet Union|Soviet Parliament]] removed the [[Communist Party of the Soviet Union|Communist Party]] from government, effectively ending the Cold War. Set during this period, there were concerns that with its end, the film would be irrelevant but Neufeld felt that it "never really represented a major problem". To compensate for the change in the Soviet Union's political climate, an on-screen crawl appears at the beginning of the film stating that it takes place in 1984, during the Cold War. Tony Seiniger designed the film's poster and drew inspiration from Soviet poster art, using bold red, white and black graphics. According to him, the whole ad campaign was designed to have a "techno-suspense quality to it". The idea was to play up the thriller aspects and downplay the political elements.<ref name="Kilday"/>
+
+The film caused a minor sensation in the submarine black projects warfare technology community.<ref name="gravity0">{{cite news |title=Hunt for Red October Article |publisher=CIA |date=Summer 2009 |volume=53 |page=24 |url=https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/special-review-supplement/U-%20Special%20Reviews%20Supplement%20-July%202009.pdf |access-date=2010-07-14 |archive-date=May 27, 2010 |archive-url=https://web.archive.org/web/20100527140312/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/special-review-supplement/U-%20Special%20Reviews%20Supplement%20-July%202009.pdf |url-status=dead }}</ref><ref name="gravity1">{{cite news |title=Gravity Gradiometry Article |work=Scientific American |date=June 1998 |url=http://www.sciamdigital.com/index.cfm?fa=Products.ViewIssuePreview&ISSUEID_CHAR=C667095F-A703-4986-8225-6B29F3A59FF&ARTICLEID_CHAR=32C3A7D0-A12D-4BA3-BD2A-EE1D1829C8B |access-date=2010-07-14 |archive-url=https://web.archive.org/web/20110610155154/http://www.sciamdigital.com/index.cfm?fa=Products.ViewIssuePreview&ISSUEID_CHAR=C667095F-A703-4986-8225-6B29F3A59FF&ARTICLEID_CHAR=32C3A7D0-A12D-4BA3-BD2A-EE1D1829C8B |archive-date=June 10, 2011 |url-status=dead |df=mdy-all }}</ref> In one scene, where USS ''Dallas'' is chasing ''Red October'' through the submarine canyon, the crew can be heard calling out that they have various "[[Gal (unit)|milligal]] anomalies". This essentially revealed the use of [[gravimetry]] as a method of silent navigation in US submarines, though this method of navigation had been explained as the navigation method of ''Red October'' in the book six years earlier. Thought to be a billion dollar [[black project]], the development of a full-tensor [[Gravity gradiometry|gravity gradiometer]] by [[Bell Aerospace]] was a classified technology at the time. It was thought to be deployed on only a few {{sclass|Ohio|submarine|2}}s after it was first developed in 1973. Bell Aerospace later sold the technology to Bell Geospace for oil exploration purposes.<ref name="gravity2">{{cite news |title=Bell gradiometer history |publisher=BellGeospace |url=http://www.bellgeo.com/corporate/corporate_history.html |access-date=2010-07-14 |url-status=dead |archive-url=https://web.archive.org/web/20091212091007/http://www.bellgeo.com/corporate/corporate_history.html |archive-date=December 12, 2009 |df=mdy-all }}</ref> The last [[Typhoon-class submarine#Units|Typhoon-class submarine]] was officially laid down in 1986, under the name ''TK-210'', but according to sources was never finished and scrapped in 1990.<ref>''Podvodnye Lodki'', Yu.V. Apalkov, Sankt Peterburg, 2002, {{ISBN|5-8172-0069-4}}</ref>
+
+==Music==
+{{clear}}
+{{Infobox album
+| name       = The Hunt for Red October: Music from the Motion Picture
+| type       = film score
+| artist     = [[Basil Poledouris]]
+| cover      =
+| alt        =
+| released   = June 12, 1990
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     = 29:48
+| label      = [[MCA Records]]
+| producer   =
+}}
+
+The musical score of ''The Hunt for Red October'' was composed and conducted by [[Basil Poledouris]] and performed by the [[Hollywood Studio Symphony]]. A soundtrack album composed of ten melodies was released on June 12, 1990.<ref>{{cite web |last=McDonald |first=Steven |title=The Hunt for Red October [Original Motion Picture Soundtrack] – Overview |url=http://www.allmusic.com/album/the-hunt-for-red-october-original-motion-picture-soundtrack-mw0000308959 |url-status=live |archive-url=https://web.archive.org/web/20131031202849/http://www.allmusic.com/album/the-hunt-for-red-october-original-motion-picture-soundtrack-mw0000308959 |archive-date=October 31, 2013 |access-date=February 2, 2014 |work=[[AllMusic]] |publisher=All Media Network, LLC}}</ref> The album is missing some of the musical moments present in the film, including the scene where the crew of ''Red October'' sings the [[State Anthem of the Soviet Union|Soviet national hymn]]. The soundtrack is limited due to the fact that it was originally compiled to fit the [[Compact Cassette]]. Later, it was remastered for the [[compact disc|CD]]. An expanded version was released in late 2013 by [[Intrada Records]]. It features 40 additional minutes of the score, including the until-then-unreleased end titles.<ref>{{Cite web |url=http://store.intrada.com/s.nl/it.A/id.8286/.f |title=Hunt for Red October, The |access-date=2014-02-14 |work=Intrada Records |archive-date=October 31, 2013 |archive-url=https://web.archive.org/web/20131031065403/http://store.intrada.com/s.nl/it.A/id.8286/.f |url-status=live }}</ref>
+
+==Release==
+===Home media===
+A standard [[VHS]] release debuted on October 25, 1990; followed by another VHS in widescreen on September 10, 1996.<ref>{{cite news |last=King |first=Susan |url=https://www.newspapers.com/clip/107891272/letterbox-brings-wide-screen-home/ |title='Letterbox' Brings Wide Screen Home |archive-url=https://web.archive.org/web/20230311215357/https://www.newspapers.com/clip/107891272/letterbox-brings-wide-screen-home/ |date=August 16, 1996 |access-date=March 11, 2023 |archive-date=March 11, 2023 |page=96 |work=Times Staff Writer |publisher=[[Los Angeles Times]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref>
+
+For the 30th anniversary commemoration, [[Paramount Home Entertainment]] released a 4K Steelbook + Blu-ray+Digital version of the film.<ref>{{cite web|url=https://www.businessinsider.com/iconic-movie-moments-from-tom-clancys-hunt-for-red-october-2020-2?op=0&r=US&IR=T#5-at-heart-its-a-buddy-picture-5|title=5 iconic movie moments from Tom Clancy's 'The Hunt for Red October'|first=James|last=Barber| work=[[Business Insider]] |date=February 28, 2020|accessdate=April 1, 2023}}</ref>
+
+==Reception==
+===Box office===
+''The Hunt for Red October'' opened in 1,225 theaters on March 2, 1990, grossing $17&nbsp;million on its opening weekend, more than half its budget. The film opened at number one at the U.S. box office and remained there for three weeks.<ref name=mojo/> Its opening was the 20th biggest weekend of all time and the biggest non-summer, non-Thanksgiving weekend to date.<ref>{{cite news|work=[[Variety (magazine)|Variety]]|title='Hunt' turns up b.o. records in bow; best non-Thanksgiving, non-summer debut|date=March 7, 1990|page=8}}</ref>
+
+The film went on to gross $122,012,643 in [[North America]] with a worldwide total of $200,512,643.<ref name=mojo/>
+
+===Critical response===
+On [[Rotten Tomatoes]], the film holds an approval rating of 88% based on 76 reviews, with an average rating of 7.70/10. The site's consensus states: "Perfectly cast and packed with suspense, ''The Hunt for Red October'' is an old-fashioned submarine thriller with plenty of firepower to spare."<ref>{{cite web |url= https://www.rottentomatoes.com/m/hunt_for_red_october |title= The Hunt for Red October (1990) |website= [[Rotten Tomatoes]] |access-date= August 18, 2021 |archive-date= January 3, 2021 |archive-url= https://web.archive.org/web/20210103045641/https://www.rottentomatoes.com/m/hunt_for_red_october |url-status= live }}</ref> On [[Metacritic]], it has a [[weighted mean|weighted average score]] of 58 out of 100 based on 17 critics, indicating "mixed or average views".<ref>{{cite web |url= https://www.metacritic.com/movie/the-hunt-for-red-october |title= The Hunt for Red October |access-date= 2014-01-17 |website= [[Metacritic]] |archive-date= November 11, 2020 |archive-url= https://web.archive.org/web/20201111225420/http://www.metacritic.com/movie/the-hunt-for-red-october |url-status= live }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale.<ref name="CinemaScore">{{cite web |url= https://www.cinemascore.com/publicsearch/index/title/ |title= CinemaScore |url-status= dead |archive-url= https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= 2018-12-20 }}</ref>
+
+[[Roger Ebert]] gave the film three-and-a-half stars out of four, calling it "a skillful, efficient film that involves us in the clever and deceptive game being played",<ref>{{cite news | date = March 2, 1990 | last = Ebert | first = Roger | author-link = Roger Ebert | title = The Hunt for Red October | newspaper = [[Chicago Sun-Times]] | url = https://www.rogerebert.com/reviews/the-hunt-for-red-october-1990 | access-date = 2020-04-04 | archive-date = April 25, 2020 | archive-url = https://web.archive.org/web/20200425130748/https://www.rogerebert.com/reviews/the-hunt-for-red-october-1990 | url-status = live }}</ref> while [[Gene Siskel]] commented on the film's technical achievement and Baldwin's convincing portrayal of Jack Ryan. Nick Schager, for ''Slant'' magazine's review, noted, "''The Hunt for Red October'' is a thrilling edge-of-your-seat trifle that has admirably withstood the test of time".<ref>{{cite news |last = Schaer |first= Nick |title = ''The Hunt for Red October'' |magazine = [[Slant Magazine]] |year = 2003 | url = https://www.slantmagazine.com/film/review/the-hunt-for-red-october |access-date = October 5, 2018 |url-status = dead |archive-url = https://web.archive.org/web/20071024081849/http://slantmagazine.com/film/film_review.asp?ID=696 |archive-date = October 24, 2007 |df          = mdy-all}}</ref> In contrast, ''[[Newsweek]]''{{'}}s [[David Ansen]] wrote, "But it's at the gut level that ''Red October'' disappoints. This smoother, impressively mounted machine is curiously ungripping. Like an overfilled kettle, it takes far too long to come to a boil".<ref>{{cite news | last = Ansen | first = David | title = ''The Hunt for Red October'' | work = [[Newsweek]] | date = March 2, 1990}}</ref> In a review for ''[[The New York Times]],'' [[Vincent Canby]] noted that "the characters, like the lethal hardware, are simply functions of the plot, which in this case seems to be a lot more complex than it really is."<ref>{{Cite news |url= https://www.nytimes.com/1990/03/02/movies/reviews-film-connery-as-captain-of-a-renegade-soviet-sub.html |title= Reviews/Film; Connery as Captain of a Renegade Soviet Sub |work= [[The New York Times]] |date= March 2, 1990 |access-date= 2014-01-17 |archive-date= March 6, 2016 |archive-url= https://web.archive.org/web/20160306193021/http://www.nytimes.com/1990/03/02/movies/reviews-film-connery-as-captain-of-a-renegade-soviet-sub.html |url-status= live |last1= Canby |first1= Vincent }}</ref>
+
+In a review for ''[[Rolling Stone]]'', [[Peter Travers]] criticized the film and wrote: "Like ''Top Gun'' before it, ''Hunt'' is tub thumping for a strong defense capability. If the plodding exposition doesn’t get you first, the propaganda will. The only sensible reaction can be summed up in one word: Mayday."<ref>{{Cite web |last=Travers |first=Peter |date=1990-03-02 |title=The Hunt for Red October |url=https://www.rollingstone.com/tv-movies/tv-movie-reviews/the-hunt-for-red-october-115465/ |access-date=2025-07-20 |website=Rolling Stone |language=en-US}}</ref>
+
+===Accolades===
+''The Hunt for Red October'' was nominated and won several awards in 1991. In addition, the film was also nominated for [[AFI's 100 Years...100 Thrills]].<ref>{{Cite web |url=http://www.afi.com/Docs/100years/thrills400.pdf |title=AFI's 100 Years...100 Thrills Nominees |access-date=May 12, 2012 |archive-date=June 24, 2016 |archive-url=https://web.archive.org/web/20160624052715/http://afi.com/Docs/100Years/thrills400.pdf |url-status=live }}</ref>
+
+{|class="wikitable"
+|-
+! Award
+! Category
+! Nominee
+! Result
+|-
+|rowspan=3|1991 [[63rd Academy Awards]]<ref name="Oscars1991">{{cite web |url=https://www.oscars.org/oscars/ceremonies/1991 |title=The 63rd Academy Awards (1991) Nominees and Winners |access-date=2011-10-20 |work=oscars.org |archive-date=April 17, 2018 |archive-url=https://web.archive.org/web/20180417065552/https://www.oscars.org/oscars/ceremonies/1991 |url-status=live }}</ref>
+|align="center" |[[Academy Award for Best Film Editing|Best Film Editing]]
+|align="center" |Dennis Virkler, John Wright
+|{{nom}}
+|-
+|align="center" |[[Academy Award for Best Sound|Best Sound]]
+|align="center" |Richard Bryce Goodman, Richard Overton, Kevin F. Cleary, Don J. Bassman
+|{{nom}}
+|-
+|align="center" |[[Academy Award for Best Sound Editing|Best Sound Effects Editing]]
+|align="center" |[[Cecelia Hall (sound editor)|Cecelia Hall]], [[George Watters II]]
+|{{won}}
+|-
+|rowspan=3|1991 [[44th British Academy Film Awards]]
+|align="center" |Best Actor
+|align="center" |Sean Connery
+|{{nom}}
+|-
+|align="center" |Best Production Design
+|align="center" |Terence Marsh
+|{{nom}}
+|-
+|align="center" |Best Sound
+|align="center" |Cecelia Hall, George Watters II, Richard Bryce Goodman, Don J. Bassman
+|{{nom}}
+|-
+|rowspan=1|1991 [[Broadcast Music, Inc.|BMI Film Music Awards]]
+|align="center" |BMI Film Music Award
+|align="center" |Basil Poledouris
+|{{won}}
+|-
+|rowspan=1|1991 [[Motion Picture Sound Editors]] Awards
+|align="center" |Best Sound Editing&nbsp;– ADR
+|align="center" |————
+|{{won}}
+|-
+|}
+
+==See also==
+{{Portal|Film}}
+* [[1990 in film]]
+* [[The Hunt for Red October (1990 video game)|''The Hunt for Red October'' (1990 video game)]]
+* [[The Hunt for Red October (console game)|''The Hunt for Red October'' (console game)]]
+
+== Further reading ==
+
+* {{Cite news |last=Fordy |first=Tom |date=2023-07-06 |title=Tom Clancy’s state secrets: why The Hunt For Red October had the US Navy running scared |url=https://www.telegraph.co.uk/films/0/hunt-for-red-october-tom-clancy-sean-connery-alec-baldwin/ |access-date=2025-07-20 |work=The Telegraph |language=en-GB |issn=0307-1235}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote|The Hunt for Red October (film)}}
+*{{AFI film|67290|The Hunt for Red October (1990)}}
+*[https://webarchive.nationalarchives.gov.uk/ukgwa/20171003062755/http://www.bfi.org.uk/films-tv-people/4ce2b79d3e63a ''The Hunt for Red October (1990)''] at the [[British Film Institute]]
+*{{IMDb title|0099810|The Hunt for Red October (1990)}}
+*{{Mojo title|huntforredoctober|The Hunt for Red October}}
+*{{TCMDb title|22092|The Hunt for Red October}}
+
+{{Jack Ryan fiction}}
+{{John McTiernan}}
+{{Academy Award Best Sound Editing}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hunt for Red October (film), The}}
+[[Category:American political thriller films]]
+[[Category:American spy films]]
+[[Category:Cold War submarine films]]
+[[Category:Films based on American novels]]
+[[Category:Films based on military novels]]
+[[Category:Films based on works by Tom Clancy]]
+[[Category:Films directed by John McTiernan]]
+[[Category:Films produced by Mace Neufeld]]
+[[Category:Films scored by Basil Poledouris]]
+[[Category:1990 adventure films]]
+[[Category:Films set in Maine]]
+[[Category:Films set in Polyarny, Murmansk Oblast]]
+[[Category:Films set in the Atlantic Ocean]]
+[[Category:Films set in the Soviet Union]]
+[[Category:Films set in Virginia]]
+[[Category:Films shot in Alaska]]
+[[Category:Films shot in California]]
+[[Category:Films shot in Connecticut]]
+[[Category:Films shot in England]]
+[[Category:Films shot in Liverpool]]
+[[Category:Films shot in North Carolina]]
+[[Category:Films shot in Washington (state)]]
+[[Category:Films that won the Best Sound Editing Academy Award]]
+[[Category:Films with screenplays by Larry Ferguson]]
+[[Category:Military of Russia in films]]
+[[Category:Paramount Pictures films]]
+[[Category:1990 Russian-language films]]
+[[Category:Ryanverse films]]
+[[Category:Films set on aircraft carriers]]
+[[Category:1990 films]]
+[[Category:1990s spy thriller films]]
+[[Category:Films set in 1984]]
+[[Category:1990 English-language films]]
+[[Category:1990 American films]]
+[[Category:Films shot in San Diego]]
+[[Category:English-language spy thriller films]]
+[[Category:Russian-language American films]]

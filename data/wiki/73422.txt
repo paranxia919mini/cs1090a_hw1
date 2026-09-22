@@ -1,0 +1,342 @@
+{{Short description|1951 science fiction film by Robert Wise}}
+{{for-multi|the remake|The Day the Earth Stood Still (2008 film){{!}}''The Day the Earth Stood Still'' (2008 film)|the 2021 Willie Nile album|The Day the Earth Stood Still (Willie Nile album){{!}}''The Day the Earth Stood Still'' (Willie Nile album)}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=September 2016}}
+{{Infobox film
+| name           = The Day the Earth Stood Still
+| image          = The Day the Earth Stood Still (1951 poster).jpeg
+| alt            = 
+| caption        = [[Film poster|Theatrical release poster]]
+| director       = [[Robert Wise]]
+| producer       = [[Julian Blaustein]]
+| screenplay     = [[Edmund H. North]]
+| based_on       = {{based on|"[[Farewell to the Master]]"<br>1940 story in ''Astounding Science-Fiction Magazine''|[[Harry Bates (writer)|Harry Bates]]}}
+| starring       = {{Plainlist|
+* [[Michael Rennie]]
+* [[Patricia Neal]]
+* [[Hugh Marlowe]]
+* [[Sam Jaffe]]
+* [[Billy Gray (actor)|Billy Gray]]
+* [[Frances Bavier]]
+* [[Lock Martin]]
+}}
+| music          = [[Bernard Herrmann]]
+| cinematography = [[Leo Tover]] 
+| editing        = [[William Reynolds (film editor)|William H. Reynolds]]
+| color_process  = [[Black and white]]
+| studio         = 20th Century-Fox
+| distributor    = [[20th Century Fox|20th Century-Fox]]
+| released       = {{Film date|1951|09|18}}
+| runtime        = 92 minutes<!--theatrical runtime: 92:11--><ref>{{cite web | url=http://www.bbfc.co.uk/releases/day-earth-stood-still-film-1 | archive-url=https://web.archive.org/web/20180506040927/http://www.bbfc.co.uk/releases/day-earth-stood-still-film-1 | url-status=dead | archive-date=May 6, 2018 | title=''The Day the Earth Stood Still'' (U) | work=[[British Board of Film Classification]] | date=September 20, 1951 | access-date=September 21, 2016}}</ref>
+| country        = United States
+| language       = English
+| budget         = $995,000<ref name="solomon">Solomon 1989, p. 246.</ref>
+| gross          = $1.85 million {{small|(US theatrical rentals)}}<ref>"The Top Box Office Hits of 1951." ''Variety'', January 2, 1952.</ref>
+}}
+
+[[File:Day the Earth Stood Still, 1951 - trailer.ogv|thumb|Movie trailer]]
+
+'''''The Day the Earth Stood Still''''' is a 1951 American [[science fiction film]] from [[20th Century Fox|20th Century-Fox]], produced by [[Julian Blaustein]] and directed by [[Robert Wise]]. It stars [[Michael Rennie]], [[Patricia Neal]], [[Hugh Marlowe]], [[Sam Jaffe]], [[Billy Gray (actor)|Billy Gray]], [[Frances Bavier]] and [[Lock Martin]]. The screenplay was written by [[Edmund H. North]], based on the 1940 science fiction short story "[[Farewell to the Master]]" by [[Harry Bates (author)|Harry Bates]].<ref>{{cite book |last=Warren |first=Bill |year=1982 |title=Keep Watching the Skies!: American Science Fiction Movies of the Fifties |url=https://archive.org/details/keepwatchingskie0001warr |volume=1 |location=[[Jefferson, North Carolina]] |publisher=[[McFarland & Company]] |pages=19-28 |isbn=978-0899500324 |oclc=225440896}}</ref> The film score was composed by [[Bernard Herrmann]].<ref name="Gianos p. 23">Gianos 1998 p. 23.</ref> Set in the [[Cold War]] during the early stages of the [[nuclear arms race]], the storyline involves a [[humanoid]] alien visitor who comes to Earth, accompanied by a powerful robot, to deliver an important message that will affect the entire human race. In 1995, the film was selected for preservation in the United States [[National Film Registry]] as "culturally, historically, or aesthetically significant".<ref>[https://www.imdb.com/title/tt0043456/awards "'The Day the Earth Stood Still': Award Wins and Nominations."] ''[[IMDb|IMDb.com]]''. Retrieved: February 1, 2015.</ref><ref>{{Cite web|title=Complete National Film Registry Listing |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/|access-date=2020-09-25|website=Library of Congress}}</ref> 
+{{TOC limit|limit=2}}
+
+==Plot==
+{{multiple image
+   | direction = vertical
+   | width     = 150
+   | image1    = MichaelRennie2.jpg
+   | caption1  = [[Michael Rennie]] as Klaatu
+   | image2    = Patricia Neal 1952.JPG
+   | caption2  = [[Patricia Neal]] as Helen Benson
+   | image3    = Billy Gray 1958.jpg
+   | caption3  = [[Billy Gray (actor)|Billy Gray]] as Bobby Benson
+   | image4    = Sam Jaffe David Zorba Ben Casey.jpg
+   | caption4  = [[Sam Jaffe]] as Professor Jacob Barnhardt
+   | image5    = Hugh Marlowe in All About Eve.jpg
+   | caption5  = [[Hugh Marlowe]] as Tom Stevens
+   | image6    = Joseph Lockard Martin.jpg
+   | caption6  = [[Lock Martin]] as Gort
+ }}
+
+After a [[flying saucer]] lands in the [[National Mall]] in [[Washington, D.C.]], the [[United States Army]] surrounds it with soldiers and tanks. A humanoid in a spacesuit emerges, announcing that he comes "in peace and with good will". While the alien is opening a small metallic device, he is shot and wounded by a nervous soldier. A large robot emerges from the saucer and disintegrates the soldiers' weapons, including tanks. The alien, [[Klaatu (The Day the Earth Stood Still)|Klaatu]], orders the robot, [[Gort (The Day the Earth Stood Still)|Gort]], to desist. Klaatu explains that the now-broken device was a gift for the [[President of the United States]] "to study life on the other planets". Klaatu is taken to [[Walter Reed Army Hospital]] for surgery, after which he uses a salve to heal his wound quickly. The Army is unable to open or blast into the saucer. Gort stands outside, silent and unmoving.
+
+The President's secretary, Mr. Harley, visits Klaatu, who states that his message must be delivered to all world leaders simultaneously. Harley says this is impossible in the current situation. When Klaatu proposes spending time among ordinary humans to understand better their "unreasoning suspicions and attitudes", Harley rejects the proposal, and Klaatu remains locked in his room.
+
+Klaatu escapes and acquires a suit; the laundry ticket on the jacket sleeve says "Maj. Carpenter". He rents a room at a boarding house under that last name. Among the residents are a young widow named Helen Benson and her son Bobby. Helen's boyfriend Tom Stevens becomes jealous of the stranger.
+
+Bobby takes Klaatu on a tour of the city, including the [[Lincoln Memorial]] and a visit to his father's grave in [[Arlington National Cemetery]]. Klaatu learns that most of the dead are soldiers killed in wars. When Klaatu asks Bobby "Who is the greatest living person?", Bobby suggests Professor Barnhardt. They go to his home, but he is away. Peering through a window, Klaatu sees that Barnhardt’s blackboard is covered with equations (an attempt to solve the [[three-body problem]]). To "leave a calling card", Klaatu enters and writes the solution on the board, then gives his contact information to the housekeeper.
+
+That evening, a government agent escorts Klaatu to Barnhardt. Klaatu tells Barnhardt the people of other planets are concerned about Earth's aggressiveness now that humanity has developed rudimentary [[atomic power]] and that if Klaatu's message is ignored, Earth could be "eliminated". Barnhardt agrees to gather scientists from around the world at the saucer; he suggests that Klaatu provide a demonstration of his power beforehand. 
+
+Unaware that Bobby is following, Klaatu returns to his spaceship. Bobby watches as Gort knocks out two soldiers so Klaatu can reenter the saucer. After running home, Bobby tells Helen, who does not believe him, but Tom is suspicious. The next day, all electrical equipment on Earth ceases to function for 30 minutes,<ref name="dailyscript">{{cite web|last=North|first=Edmund H.|url=http://www.dailyscript.com/scripts/the_day_the_earth_stood_still.html|title=The Day the Earth Stood Still|website=dailyscript.com|date=February 21, 1951 |archive-url=https://web.archive.org/web/20060901095344/http://www.dailyscript.com/scripts/the_day_the_earth_stood_still.html |archive-date=1 September 2006 |quote=Klaatu: You see—the electricity's been neutralized—all over the world.}}</ref> except for essential services.
+
+Learning that Bobby followed him the previous night, Klaatu visits Helen at work, reveals his mission, and asks that she not betray him. Helen asks Tom to keep Klaatu's secret, but he alerts the military. Helen and Klaatu take a taxi and head toward Barnhardt's home. Klaatu instructs Helen that if anything should happen to him, she must say to Gort "[[Klaatu barada nikto]]." The Army tracks them down. Klaatu is shot and killed; his body is placed in a jail cell. Rushing to the saucer, Helen recites the phrase to Gort, who then carries her into the saucer. Gort retrieves Klaatu's body and revives him inside the saucer.
+
+Exiting the spaceship with Klaatu and Gort, Helen joins Barnhardt and the gathered scientists. Klaatu tells them that an interplanetary organization has created a police force of invincible robots like Gort and that "In matters of aggression, we have given them absolute power over us." Klaatu concludes, "Your choice is simple: join us and live in peace, or pursue your present course and face obliteration." With a final wave to Helen, Klaatu and Gort then depart in the saucer.
+
+==Cast==
+* [[Michael Rennie]] as [[Klaatu (The Day the Earth Stood Still)|Klaatu]]
+* [[Patricia Neal]] as Helen Benson{{efn|Patricia Neal, who played Helen Benson, was only 12 years older than Billy Gray, who played her son.}}
+* [[Hugh Marlowe]] as Tom Stevens
+* [[Sam Jaffe]] as Professor Jacob Barnhardt{{efn|Actor Sam Jaffe, who played Professor Barnhardt, had an engineering degree and taught mathematics before turning to acting.<ref>Flint, Peter B. [https://www.nytimes.com/1984/03/25/obituaries/sam-jaffe-a-character-actor-on-stage-and-film-dies-at-93.html "Sam Jaffe, a character actor on stage and film, dies at 93."] ''[[The New York Times]]'', March 25, 1984.</ref>}}
+* [[Billy Gray (actor)|Billy Gray]] as Bobby Benson
+* [[Frances Bavier]] as Mrs. Barley
+* [[Lock Martin]] as [[Gort (The Day the Earth Stood Still)|Gort]]
+
+{|class=wikitable
+|-
+|+Uncredited (in order of appearance)
+|-
+|[[Guy Williams (actor)|Guy Williams]]||Radio operator: "Holy mackerel, call headquarters, get the lieutenant."
+|-
+|[[Kenneth Kendall]]||[[BBC]] news presenter
+|-
+|[[Elmer Davis]]||"This is Elmer Davis again. We still don't know what it is or where it comes from{{spaces}}..."
+|-
+|[[Harry Harvey Sr.]]||Taxi driver listening to Elmer Davis on radio
+|-
+|[[Charles Tannen]] [voice only]||Radio newscaster: "We interrupt this program to give you a bulletin just received{{spaces}}..."
+|-
+|[[H. V. Kaltenborn]]||"This is H. V. Kaltenborn speaking. Here in the nation's capital there is anxiety and concern{{spaces}}..."
+|-
+|[[Louis Jean Heydt]]||Airforce captain anxiously looking upward at the approaching spaceship
+|-
+|[[Roy Engel]]||Government employee (in fedora) looking upward
+|-
+|[[Pat Aherne]]||General at Pentagon: "Get me the chief of staff"
+|-
+|[[Wilson Wood (actor)|Wilson Wood]]||Official: "Hello{{spaces}}... I want to speak to the President{{spaces}}..."
+|-
+|[[Drew Pearson (journalist)|Drew Pearson]]||"Good afternoon, ladies and gentlemen, this is Drew Pearson. We bring you this special{{spaces}}..."
+|-
+|[[Harry Lauter]]||Platoon leader at spaceship landing site
+|-
+|[[Frank Conroy (actor)|Frank Conroy]]||Mr. Harley, secretary to the President: "I've been told you speak our language{{spaces}}..."
+|-
+|[[Fay Roope]]||Major general visiting the site of the spaceship landing: "Oh, Carlson, what's the report?"
+|-
+|[[Harlan Warde]]||Carlson, government metallurgist examining the spaceship: "No luck, sir. We've tried everything{{spaces}}..."
+|-
+|[[Stuart Whitman]]||Sentry guarding the spaceship
+|-
+|[[Robert Osterloh]]||Major White, Klaatu's physician at Walter Reed Hospital
+|-
+|[[Lawrence Dobkin]]||Army physician at Walter Reed Hospital examining Klaatu's X-ray
+|-
+|[[Edith Evanson]]||Mrs. Crockett, proprietor of boarding house where Klaatu rents a room
+|-
+|[[John Brown (actor)|John Brown]]||Mr. Barley, husband of Mrs. Barley; resident at Mrs. Crockett's
+|-
+|[[Olan Soule]]||Mr. Krull, resident of Mrs. Crockett's boarding house
+|-
+|[[Gabriel Heatter]] [voice only]||"And now, on this Sunday morning, we ask some questions that have been haunting{{spaces}}..."
+|-
+|[[James Craven (American actor)|James Craven]]||Businessman among the crowd looking at the spaceship
+|-
+|[[Tyler McVey]]||Mr. Brady, government agent who comes to see Klaatu at the boarding house
+|-
+|[[House Peters Jr.]]||Military police captain who arrives with Klaatu at Professor Barnhardt's house
+|-
+|[[Franklyn Farnum]]||Man passing Klaatu and Helen Benson in her office building corridor
+|-
+|[[Wheaton Chambers]]||Mr. Bleeker, jeweler to whom Tom Stevens brings Klaatu's diamond for evaluation
+|-
+|[[Millard Mitchell]] [voice only]||General at Pentagon meeting
+|-
+|[[George Lynn (actor)|George Lynn]]||Colonel Ryder at Pentagon meeting who reports Gort was being encased in a block of KL93 plastic
+|-
+|[[Chet Brandenburg]]||Man unable to start his outboard motor due to the power outage
+|-
+|[[Carleton Young]]||Colonel in jeep riding towards Klaatu's boarding house: "Attention all units!"
+|-
+|[[Snub Pollard]]||Taxi driver listening to radio announcement
+|-
+|[[Spencer Chan]]||One of the world scientists gathered at Professor Barnhardt's meeting alongside the spaceship
+|}
+
+Top broadcast journalists of their time, [[Elmer Davis]], [[H.V. Kaltenborn]], [[Drew Pearson (journalist)|Drew Pearson]], and [[Gabriel Heatter]], had cameo roles. [[Spencer Tracy]] and [[Claude Rains]] originally were considered for the part of Klaatu.<ref name=documentary1>[https://www.imdb.com/title/tt0345616/ "Making the Earth Stand Still LaserDisc (Fox Video; 20th Century Fox Home Entertainment): Julian Blaustein, Robert Wise, Patricia Neal, Billy Gray."] ''IMDb'', 1995. Retrieved: 1 February 2015.</ref><ref>[https://www.tcm.com/this-month/article/145423 "Cult Movies Showcase 'The Day the Earth Stood Still'."] ''[[Turner Classic Movies]]''. Retrieved: February 1, 2015.</ref>
+
+==Metaphors==
+[[File:Del Mar Theatre Ad - 7 October 1951, Santa Cruz, CA.jpg|thumb|200px|Advertisement from 1951]]
+In a 1995 interview, producer [[Julian Blaustein]] explained that [[Joseph Breen]], the film censor installed by the [[Motion Picture Association of America]] at the Twentieth Century Fox studios, balked at the portrayal of Klaatu's resurrection and limitless power.<ref name="documentary1"/> At the behest of the [[MPAA]], a line was written into the script; when Helen asks Klaatu whether Gort has unlimited power over life and death, Klaatu explains that Gort has only revived him temporarily: "that power is reserved to the Almighty Spirit."<ref name="documentary1"/><ref name="Shermer">Shermer 2001, pp. 74–75.</ref> Of the elements that he added to Klaatu's character, screenwriter Edmund North said, "It was my private little joke. I never discussed this angle with Blaustein or Wise because I didn't want it expressed. I had originally hoped that the Christ comparison would be subliminal."<ref name="Matthews">Matthews 2007, p. 54.</ref>
+
+That the question even came up in an interview is proof enough that such comparisons did not remain subliminal, but they are subtle enough so that it is not immediately obvious to all viewers that those elements were intended to compare Klaatu to [[Jesus Christ]].<ref name="Holloway">Holloway and Beck 2005, p. 135.</ref> When Klaatu escapes from the hospital, he steals the clothing of a Maj. Carpenter. This is an allusion to carpentry as the profession the [[New Testament]] says Jesus learned from [[Saint Joseph|Joseph]], his adoptive father. His previous actions are misunderstood, and he eventually is killed by military authority. At the end of the film, Klaatu, having been restored to life, ascends into the (night) sky. Other parallels include his coming to Earth with a message for all mankind, his befriending of a child, possessing wisdom and specialized scientific knowledge beyond those of any human being, and people being given a sign of his power. At the start of the film, one of the British radar technicians, upon observing the speed of Klaatu's spaceship, is heard to exclaim, "Holy [[Christmas]]!".<ref>Haspel, Paul. "Future Shock on the National Mall." ''Journal of Popular Film & Television'', Vol. 34, Issue 2, Summer 2006, pp. 62–71. {{ISSN|0195-6051}}.</ref>
+
+==Production==
+===Development===
+Producer Julian Blaustein originally set out to make a film under the working titles of ''Farewell to the Master'' and ''Journey to the World'' which illustrated the fear and suspicion that characterized the early [[Cold War]] and [[Atomic Age]]. He reviewed more than two hundred science fiction short stories and novels in search of a storyline that could be used because this film genre was well suited for a metaphorical discussion of such grave issues. Studio head [[Darryl F. Zanuck]] gave the go-ahead for this project, and Blaustein hired Edmund North to write the screenplay based on elements from Harry Bates's 1940 short story "[[Farewell to the Master]]". The revised final screenplay was completed on February 21, 1951. Science fiction writer [[Raymond F. Jones]] worked as an uncredited adviser.<ref>"DVD: 'The Day the Earth Stood Still' Shooting Script." ''Still Galleries'', [Fox Video 20th Century Fox Home Entertainment]. Retrieved: February 1, 2015.</ref>
+
+===Pre-production===
+The set was designed by [[Thomas Little]] and [[Claude Carpenter]]. They collaborated with the architect [[Frank Lloyd Wright]] for the design of the spacecraft. [[Paul Laffoley]] has suggested that the futuristic interior was inspired by Wright's [[Johnson Wax Headquarters]], completed in 1936. Laffoley quotes Wright and his attempt in designing the exterior: "...{{spaces}}to imitate an experimental substance that I have heard about which acts like living tissue. If cut, the rift would appear to heal like a wound, leaving a continuous surface with no scar."<ref>Laffoley, Paul. [https://web.archive.org/web/20210506013306/https://paullaffoley.net/writings-2/disco-volante/ "Disco Volante (1949: Hollywood –20th Century Fox, February 3)."] {{webarchive|url=https://web.archive.org/web/20210506013306/https://paullaffoley.net/writings-2/disco-volante/ |date=May 6, 2021 }} ''https://paullaffoley.net/'', March 14, 2021. Retrieved: May 6, 2021.</ref>
+
+===Science consultant===
+[[Samuel Herrick (astronomer)|Samuel Herrick]], an astrophysicist at UCLA, developed the equations on Prof. Barnhardt's blackboard. "Herrick reasoned that an equation related to celestial mechanics would be most appropriate, specifically an equation related to his own work on the "[[three-body problem]]" in astronavigation."<ref name="Kirby-p80-81">{{Cite book |last=Kirby |first=David A. |url=https://mitpress.mit.edu/9780262518703/lab-coats-in-hollywood/ |title=Lab Coats in Hollywood: Science, Scientists, and Cinema |publisher=MIT Press |year=2011 |location=Cambridge, Mass. |pages=80–81 |archive-url=https://web.archive.org/web/20230427204846/https://mitpress.mit.edu/9780262518703/lab-coats-in-hollywood/ |archive-date=April 27, 2023 |access-date=July 2, 2025 |url-status=bot: unknown }} Figure 4.4 on page 81 also includes a photograph of astrophysicist Samuel Herrick and actor Michael Rennie standing in front of the blackboard with his equations on it.</ref>
+
+===Filming===
+Principal outdoor photography was shot on the 20th Century Fox sound stages and on its studio back lot (now located in [[Century City|Century City, California]]), with a [[second unit]] shooting background and other scenes in Washington, D.C., and at [[Fort George G. Meade]] in Maryland. The shooting schedule was from April 9 to May 23, 1951, and the primary actors never traveled to Washington to make the film. Director [[Robert Wise]] indicated in the DVD commentary that the [[United States Department of Defense]] refused participation in the film based on a reading of the script. The military equipment shown, however, came from the [[3rd Armored Cavalry Regiment]] then stationed at [[Fort George G. Meade|Fort Meade]] which supplied the vehicles, equipment, and soldiers for the segments depicting Army operations.<ref>[http://www.ftmeade.army.mil/museum/archives/Archive_CW_Earth.html "Indoor exhibit. The Cold War: 'The Day the Earth Stood Still'."] {{Webarchive|url=https://web.archive.org/web/20170823125848/http://www.ftmeade.army.mil/museum/archives/Archive_CW_Earth.html |date=August 23, 2017 }} ''Fort George G. Meade Museum''. Retrieved: November 22, 2015.</ref> One of the film's tanks bears the "Brave Rifles" insignia of the 3rd Armored Cavalry Regiment.<ref>[https://web.archive.org/web/20120718035616/http://www.tcm.com/tcmdb/title/72439/The-Day-the-Earth-Stood-Still/#film-details "Original Print information: 'The Day the Earth Stood Still{{' "}}.] ''Turner Classic Movies''. Retrieved: February 1, 2015.</ref>
+
+The robot Gort was played by [[Lock Martin]], who worked as an usher at [[Grauman's Chinese Theatre]] and stood seven feet and seven inches tall. Not accustomed to a confining, heat-inducing costume, he worked carefully while wearing the two oversized, laced up, foamed [[neoprene]] suits for the illusion of a seamless metallic Gort. Wise decided Martin's on-screen shooting time would be limited to half-hour intervals, so Martin, with his generally weak constitution, would face no more than minor discomfort. These segments, in turn, were then edited together into the film's final print.<ref name="Warren">Warren 1982, p. 621.</ref>
+
+In a commentary track on DVD, interviewed by fellow director [[Nicholas Meyer]], Wise said he wanted the film to appear as realistic and believable as possible, to push the core message against armed conflict in the real world. The original title is "The Day the World Stops". Blaustein said his aim was to promote a "strong [[United Nations]]".<ref name=hoberman/>
+
+===Herrmann's score===
+The music score was composed by [[Bernard Herrmann]] in August 1951, and is the first film score he composed after moving from New York to Hollywood. Herrmann chose unusual instrumentation for the film: violin, cello, and bass (all three electric), two [[theremin]] electronic instruments (played by Dr. [[Samuel Hoffman]] and Paul Shure), two [[Hammond organ]]s, Fox studio's Wurlitzer organ, three [[vibraphone]]s, two [[glockenspiel]]s, marimba, tam-tam, two bass drums, three sets of timpani, two pianos, celesta, two harps, one horn, three trumpets, three trombones, and four tubas.<ref>Wrobel, Bill. [http://www.filmscorerundowns.net/herrmann/dess.pdf "Score analysis."] ''filmscorerundowns.net''. Retrieved: February 1, 2015.</ref> Herrmann's advances in film scoring included Unison organs, tubas, piano, and bass drum, staggered tritone movement, and glissando in theremins, as well as exploitation of the dissonance between D and E-flat and experimentation with unusual overdubbing and tape-reversal techniques. In using the theremin, Herrmann made an early foray into electronic music, one year before [[Karlheinz Stockhausen]] and three years before [[Edgard Varèse]].<ref>"Howard Goodall's 20th Century Greats." ''[[Channel 4]]'', December 17, 2004.</ref>
+
+==Music and soundtrack==
+{{Main|The Day the Earth Stood Still (soundtrack)}}
+{{Infobox album
+| name       = The Day the Earth Stood Still
+| type       = film
+| artist     = [[Bernard Herrmann]]
+| cover      = <!--do not use per WP:FILMSOUNDTRACK-->
+| alt        =
+| released   = 1993
+| recorded   = August 1951
+| venue      =
+| studio     =
+| genre      = [[Soundtrack]]s, [[Film score]]
+| length     = 35:33
+| label      = [[20th Century Fox Records|20th Century Fox]]
+| producer   = Nick Redman
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+{{Music ratings
+| rev1 = [[AllMusic]]
+| rev1Score = {{Rating|4.5|5}} [{{AllMusic|class=album|id=r198561|pure_url=yes}} link]
+}}
+20th Century Fox later reused the Bernard Herrmann title theme in the original pilot episode of [[Irwin Allen]]'s 1965 TV series ''[[Lost in Space]]''; the music was also used extensively in Allen's ''[[Voyage to the Bottom of the Sea]]'' TV series in various episodes. [[Danny Elfman]] noted ''The Day the Earth Stood Still''{{'}}s score inspired his interest in film composing, and made him a fan of Herrmann.<ref>[http://www.hollywoodreporter.com/hr/content_display/news/e3i728e28adf80ba3aae5c37a6bd621de8e "Oscar Roundtable: The composers."] ''[[The Hollywood Reporter]]'', December 15, 2008.</ref>
+
+{{track listing
+|headline = Track listing
+|title1 = Twentieth Century Fox Fanfare |length1 = 0:12
+|title2 = Prelude / Outer Space/Radar |length2 = 3:45
+|title3 = Danger |length3 = 0:24
+|title4 = Klaatu |length4 = 2:15
+|title5 = Gort / The Visor / The Telescope |length5 = 2:23
+|title6 = Escape |length6 = 0:55
+|title7 = Solar Diamonds |length7 = 1:04 |note7 = not used in film
+|title8 = Arlington |length8 = 1:08
+|title9 = Lincoln Memorial |length9 = 1:27
+|title10 = Nocturne / The Flashlight / The Robot / Space Control |length10 = 5:58
+|title11 = The Elevator / Magnetic Pull / The Study / The Conference / The Jewelry Store |length11 = 4:32
+|title12 = Panic |length12 = 0:42
+|title13 = The Glowing / Alone / Gort's Rage / Nikto / The Captive / Terror |length13 = 5:11
+|title14 = The Prison |length14 = 1:42
+|title15 = Rebirth |length15 = 1:38
+|title16 = Departure |length16 = 0:52
+|title17 = Farewell |length17 = 0:32
+|title18 = Finale |length18 = 0:30
+}}
+
+==Critical reception==
+''Variety'' praised the documentary style: "the yarn is told interestingly enough and imbued with sufficient science-fiction lures and suspense so that only seldom does its moralistic wordiness get in the way{{spaces}}... Cast, although secondary to the story, works well".<ref name=hoberman/><ref>''Variety's Complete Science Fiction Reviews''. Ed. Donald Willis. New York and London: Garland Publishing, 1985. p. 88-89. {{ISBN|0-8240-6263-9}}.</ref> ''[[Harrison's Reports]]'' wrote: "Very good! It is by far the best of the science-fiction pictures yet produced. It holds one's interest undiminished from start to finish and, although the theme is admittedly fantastic, one is made to feel as if he is seeing a real-life occurrence because of the expert handling of the subject matter and the extremely fine special effects work."<ref>{{cite journal |date=September 8, 1951 |title='The Day the Earth Stood Still' with Michael Rennie and Patricia Neal |journal=[[Harrison's Reports]] |page= 142 }}</ref> The ''Los Angeles Times'' praised the film's seriousness, though it also found "certain subversive elements".<ref name=hoberman/> [[Bosley Crowther]] of ''The New York Times'' dismissed the film as "tepid entertainment" and described Gort as "oddly unmenacing".<ref>{{cite web |url=https://www.nytimes.com/1951/09/19/archives/the-screen-in-review-emissary-from-planet-visits-mayfair-theatre-in.html |title=THE SCREEN IN REVIEW; Emissary From Planet Visits Mayfair Theatre in 'Day the Earth Stood Still' |last=Crowther |first=Bosley |author-link=Bosley Crowther |date=September 19, 1951 |work=[[The New York Times]] |access-date=March 11, 2016 }}</ref>
+
+''The Day the Earth Stood Still'' was moderately successful when released, accruing {{US$|1,850,000}} in distributors' U.S. and Canadian rentals, making it the year's 52nd biggest earner.<ref name="Gebert">Gebert 1996, p. 156.</ref> "Rentals" refers to the distributor/studio's share of the box office gross, which, according to Gebert, is roughly half of the money generated by ticket sales.<ref name="Gebert"/>
+
+''The Day the Earth Stood Still'' earned more plaudits in other countries: the [[Hollywood Foreign Press Association]] gave the filmmakers a special [[Golden Globe Awards|Golden Globe Award]] for "promoting international understanding". [[Bernard Herrmann]]'s score also received a nomination at the Golden Globes.<ref>[https://www.imdb.com/title/tt0043456/awards {{" '}}The Day the Earth Stood Still'; Award Wins and Nominations."] ''[[IMDb|IMDb.com]]''. Retrieved: February 1, 2015.</ref> The French magazine ''[[Cahiers du Cinéma]]'' was impressed, its contributor [[Pierre Kast]] called it "almost literally stunning" and praised its "moral relativism".<ref name=hoberman>[[J. Hoberman|Hoberman, J.]] [https://www.nytimes.com/2008/11/02/movies/moviesspecial/02hobe.html "The Cold War sci-fi parable that fell to earth."] ''The New York Times'', October 31, 2008.</ref>
+
+==Legacy==
+''The Day the Earth Stood Still'' was selected for preservation in the United States [[Library of Congress|Library of Congress']]s National Film Registry. In 2001, it was ranked number 82 on the [[American Film Institute]]'s [[AFI's 100 Years...100 Thrills]], a list of America's most heart-pounding films.<ref>[http://www.afi.com/Docs/tvevents/pdf/thrills100.pdf "AFI's 100 Years{{spaces}}... 100 Thrills"]. {{Webarchive|url=https://web.archive.org/web/20160629221917/http://www.afi.com/Docs/tvevents/pdf/thrills100.pdf |date=June 29, 2016 }} [[American Film Institute|AFI.com]]. Retrieved: February 1, 2015.</ref> It placed number 67 on [[AFI's 100 Years...100 Cheers]], a list of America's most inspiring films.<ref>[http://connect.afi.com/site/DocServer/cheers100.pdf?docID=202 "AFI's 100 Years{{spaces}}... 100 Cheers."] {{webarchive|url=https://web.archive.org/web/20091122102933/http://connect.afi.com/site/DocServer/cheers100.pdf?docID=202 |date=November 22, 2009 }} AFI.com. Retrieved: February 1, 2015.</ref> In June 2008, the American Film Institute revealed its [[AFI's 10 Top 10]]{{snd}}the best ten films in ten "classic" American film genres{{snd}}after polling more than 1,500 people from the creative community. ''The Day the Earth Stood Still'' was acknowledged as the fifth best film in the science fiction genre.<ref>[http://www.afi.com/10top10/scifi.html "AFI's 10 Top 10."] ''[[American Film Institute|AFI.com]]'' Retrieved: February 1, 2015.</ref> In 2004, the film was selected by ''The New York Times'' as one of "The Best 1000 Movies Ever Made".<ref>[https://www.nytimes.com/ref/movies/1000best.html "The Best 1,000 Movies Ever Made."] ''The New York Times'', April 29, 2003.</ref>
+
+[[Ringo Starr]] brought the imagery of the film back into popular culture by using a modified scene of the ship and Klaatu for the cover of his 1974 album ''[[Goodnight Vienna]]''.  [[Lou Cannon]] and [[Colin Powell]] believed the film inspired [[Ronald Reagan]] to discuss uniting against an alien invasion when meeting [[Mikhail Gorbachev]] in 1985. Two years later, Reagan told the United Nations, "I occasionally think how quickly our differences worldwide would vanish if we were facing an alien threat from outside this world."<ref name=hoberman/> The film is playing in the opening scene of the first episode of ''[[Star Trek: Strange New Worlds]]'' when [[Christopher Pike (Star Trek)|Captain Pike]] refers to it as a "classic".<ref>{{cite news |last1=Ettenhofer |first1=Valerie |title=The Sci-Fi Classic Featured In Star Trek: Strange New World Has A Cool Trek Connection |url=https://www.slashfilm.com/842251/the-sci-fi-classic-featured-in-star-trek-strange-new-world-has-a-classic-trek-connection-may-5/ |work=[[Slash Film]]}}</ref> American rock musician [[Willie Nile]] released an album entitled ''The Day The Earth Stood Still'' in 2021. The album's title track was inspired by the deserted streets of New York City during the [[COVID-19 pandemic]], and contains the "Klaatu Barada Nikto" phrase in its chorus.
+
+''The Day the Earth Stood Still'' is now considered one of the best films released in 1951.<ref>[http://www.filmsite.org/1951.html "The Greatest Films of 1951."] ''[[AMC (TV channel)|AMC Filmsite.org]]''. Retrieved: May 23, 2010.</ref><ref>[http://www.films101.com/y1951r.htm "The Best Movies of 1951 by rank."] {{Webarchive|url=https://web.archive.org/web/20100610085509/http://www.films101.com/y1951r.htm |date=June 10, 2010 }} ''Films101.com'', May 23, 2010.</ref> ''The Day the Earth Stood Still'' is in [[Arthur C. Clarke]]'s list of the 12 best science fiction films of all time.<ref name=syfy-20151211>{{cite web |url=http://www.syfy.com/syfywire/childhoods-end-author-arthur-c-clarkes-top-12-sci-fi-movies |title=Childhood's End author Arthur C. Clarke's Top 12 sci-fi movies |last=Spry |first=Jeff |publisher=SYFY |date=11 December 2015 |access-date=29 December 2017 |archive-date=October 26, 2017 |archive-url=https://web.archive.org/web/20171026112151/http://www.syfy.com/syfywire/childhoods-end-author-arthur-c-clarkes-top-12-sci-fi-movies |url-status=dead }}</ref> The film holds a 92% rating at the [[review aggregator]] website Rotten Tomatoes based on 112 reviews. The consensus states, "Socially minded yet entertaining, ''The Day the Earth Stood Still'' imparts its moral of peace and understanding without didacticism."<ref>[http://www.rottentomatoes.com/m/1005371-day_the_earth_stood_still/ {{" '}}The Day the Earth Stood Still' Movie Reviews, Pictures."] ''[[Rotten Tomatoes]].'' Retrieved: June 28, 2021.</ref> [[Tony Magistrale]] describes the film as one of the best examples of early [[techno-horror]].<ref name=tony>[[Tony Magistrale]], ''Abject Terrors: Surveying the Modern and Postmodern Horror Film'', 2005 [https://books.google.com/books?id=yEbP7M_EOeAC&pg=PA82 p. 82]</ref>
+
+===Adaptations===
+The film was dramatized as a [[radio play]] on January 4, 1954, for the ''[[Lux Radio Theatre]]''; Michael Rennie reprised his lead role as Klaatu with actress [[Jean Peters]] as Helen Benson.<ref name=Brooklyn>{{cite news |url=https://www.newspapers.com/image/53934778/?terms=%22Day+the+Earth+Stood+Still%22 |author=<!--staff writer(s); no by-line--> |title=Radio Highlights |newspaper=The Brooklyn Daily Eagle (New York) |page=11 |date=1954-01-04 |access-date=2018-12-17 }}</ref> This production was later re-broadcast on the ''Hollywood Radio Theater'', the re-titled ''Lux Radio Theatre'', which aired on the [[American Forces Network|Armed Forces Radio Service]].<ref name="Notes">[https://web.archive.org/web/20120718035616/http://www.tcm.com/tcmdb/title/72439/The-Day-the-Earth-Stood-Still/#notes "Notes: 'The Day the Earth Stood Still'."] ''[[Turner Classic Movies]]''. Retrieved: February 1, 2015.</ref>
+
+A [[novelization]] of the film was written by [[Arthur Tofte]] and published in 1976 by [[Scholastic Book Services]].<ref>{{cite web | url=https://books.google.co.uk/books?id=8LwaSgAACAAJ&dq=The+Day+the+Earth+Stood+Still&hl=en&sa=X&redir_esc=y | title=The Day the Earth Stood Still}}</ref>
+
+The 2008 remake [[The Day the Earth Stood Still (2008 film)|''The Day the Earth Stood Still'']] was directed by [[Scott Derrickson]] and stars [[Keanu Reeves]] as [[Klaatu (The Day the Earth Stood Still)|Klaatu]]. Rather than leaving to humans the chance to collaborate, the remake rests on Klaatu's decision whether to let humanity be destroyed or saved.<ref>{{Cite news|last=Scott|first=A. O.|date=2008-12-12|title=It's All Over, Earthlings (Don't Flee to New Jersey) (Published 2008)|language=en-US|work=The New York Times|url=https://www.nytimes.com/2008/12/12/movies/12stil.html|access-date=2021-03-14|issn=0362-4331}}</ref>
+
+==="Klaatu barada nikto"===
+Since the release of the film, the phrase "[[Klaatu barada nikto]]" has appeared repeatedly in fiction and in popular culture. The [[Robot Hall of Fame]] described it as "one of the most famous commands in science fiction",<ref>[http://www.robothalloffame.org/06inductees/gort.html "2006 Inductees: Gort."] {{webarchive|url=https://web.archive.org/web/20080412123007/http://www.robothalloffame.org/06inductees/gort.html |date=April 12, 2008 }} ''The Robot Hall of Fame'' ([[Carnegie Mellon University]]), 2006. ''The Day the Earth Stood Still''</ref> and [[Frederick S. Clarke]] of ''[[Cinefantastique]]'' called it in 1970 "the most famous phrase ever spoken by an extraterrestrial".<ref>Clarke, Frederick S. ''[[Cinefantastique]]'', 1970, p. 2.</ref>
+
+Patricia Neal had a problem speaking the phrase, though she was proud of the film overall. "I do think it's the best science fiction film ever made, although I admit that I sometimes had a difficult time keeping a straight face. Michael would patiently watch me bite my lips to avoid giggling and ask, with true British reserve, 'Is that the way you intend to play it?'"<ref>Neal, Patricia. ''As I Am: An Autobiography''. {{ISBN|9781451626001}}</ref>
+
+[[Edmund H. North]], who wrote ''The Day the Earth Stood Still'', also created the [[alien language]] used in the film, including the iconic phrase "Klaatu barada nikto." The official spelling for the phrase comes directly from the script and provides insight as to its proper pronunciation. No translation was given in the film. Philosophy professor Aeon J. Skoble speculates the famous phrase is a "safe-word" which is part of a [[fail-safe]] feature used during diplomatic missions such as the one Klaatu and Gort make to Earth. With the use of the safe-word, Gort's deadly force can be deactivated in the event the robot is mistakenly triggered into a defensive posture. Skoble observes that the theme has evolved into a "staple of science fiction that the machines charged with protecting us from ourselves will misuse or abuse their power."<ref>Skoble 2007, p. 91.</ref>
+
+''[[Fantastic Films]]'' explored the meaning of "Klaatu barada nikto" in a 1978 article titled "The Language of Klaatu". The article, written by Tauna Le Marbe, who is listed as its "alien linguistics editor", attempts to translate all the alien words Klaatu used throughout the film.<ref name="fantastic-films">Le Marbe, Tauna. [https://web.archive.org/web/20040628163125/http://www.dreamerwww.com/fanfilm/fanfilm2.htm "The Language of Klaatu."] ''Fantastic Films'', Issue 1, April 1978.</ref> In the article, the literal translation for Klaatu barada nikto was "Stop Barbarism (I have) death, bind" and the free translation was "I die, repair me, do not retaliate."<ref name="fantastic-films" />
+
+The documentary ''Decoding "Klaatu Barada Nikto": Science Fiction as Metaphor'' examined the phrase "Klaatu barada nikto" with some of the people involved in the production of ''The Day the Earth Stood Still''. [[Robert Wise]], the director of the film, conveyed an account of Edmund North telling him, "Well, it's just something I kind of cooked up. I thought it sounded good."<ref>[https://www.imdb.com/title/tt1346880/ "DVD: Decoding "Klaatu Barada Nikto": Science Fiction as Metaphor|time = 0:14:05."] ''Twentieth Century Fox Home Entertainment'', December 2, 2008.</ref> [[Billy Gray (actor)|Billy Gray]], who played Bobby Benson in the film, said he believed the message was coming from Klaatu and that "Barada Nikto must mean{{spaces}}... save Earth."<ref>[https://www.imdb.com/title/tt1346880/ "DVD: Decoding "Klaatu Barada Nikto": Science Fiction as Metaphor|time = 0:14:20."] ''Twentieth Century Fox Home Entertainment'', December 2, 2008.</ref>
+
+Florence Blaustein, widow of the producer Julian Blaustein, said North had to pass a street called ''Baroda'' every day going to work and indicated "I think that's how that was born."<ref>[https://www.imdb.com/title/tt1346880/ "DVD: Decoding "Klaatu Barada Nikto": Science Fiction as Metaphor| time = 0:14:47."] ''Twentieth Century Fox Home Entertainment'', December 2, 2008.</ref> The film historian Steven Jay Rubin recalled an interview he had with North when he asked the question, "What is the direct translation of Klaatu Barada Nikto, and Edmund North said to me 'There's hope for Earth, if the scientists can be reached'."<ref>[https://www.imdb.com/title/tt1346880/ "DVD: Decoding "Klaatu Barada Nikto": Science Fiction as Metaphor|time = 0:14:55."] ''Twentieth Century Fox Home Entertainment'', December 2, 2008.</ref> When director Robert Wise was awarded the American Film Institute's Lifetime Achievement Award in 1997, he ended his acceptance speech with it, which in that circumstance meant "Thank you from the bottom of my heart."{{citation needed|date=May 2025}}
+
+The line is also famously uttered by Ash (played by actor [[Bruce Campbell]]) in [[Sam Raimi]]'s 1992 film [[Army of Darkness]]. Ash repeats the line when it is given to him, but fails to remember it when he needs it, resulting in reanimating the titular army of darkness. A trio of alien characters in the 1987 television series ''[[Teenage Mutant Ninja Turtles (1987 TV series)|Teenage Mutant Ninja Turtles]]'' are named Klaatu, Barada, and Nikto, respectively, in homage to the film; the characters appear in the episode "Invasion of the Turtle Snatchers".
+
+==See also==
+{{Portal|Film|Speculative fiction|Science fiction}}
+* [[1951 in film]]
+* [[Culture during the Cold War]]
+* [[Klaatu (band)]] - a Canadian rock band, most active in the 1970s and early '80s
+* [[List of films featuring extraterrestrials]]
+* [[List of science fiction films of the 1950s]]
+* ''[[Warning from Space]]'' (1956)
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+{{Refbegin}}
+* Gebert, Michael. ''The Encyclopedia of Movie Awards'' (listing of "Box Office (Domestic Rentals)" for 1951, taken from ''Variety'' magazine). New York: St. Martin's Paperbacks, 1996. {{ISBN|0-668-05308-9}}.
+* Gianos, Phillip L. ''Politics and Politicians in American Film''. Portsmouth, New Hampshire: Greenwood Publishing Group, 1998. {{ISBN|0-275-96071-4}}.
+* Holloway, David and John Beck. ''American Visual Cultures''. London: Continuum International Publishing Group, 2005. {{ISBN|0-8264-6485-8}}.
+* Matthews, Melvin E. ''Hostile Aliens, Hollywood and Today's News: 1950s Science Fiction Films and 9/11''. New York: Algora Publishing, 2007. {{ISBN|0-87586-497-X}}.
+* [[Shermer, Michael]]. ''The Borderlands of Science: Where Sense Meets Nonsense''. New York: Oxford University Press, 2001. {{ISBN|0-19-514326-4}}.
+* Skoble, Aeon J. "Technology and Ethics in ''The Day the Earth Stood Still''{{-"}}. In Sanders, Steven M. ''The Philosophy of Science Fiction Film''. Lexington, Kentucky: University Press of Kentucky, 2007. {{ISBN|0-8131-2472-7}}.
+* Solomon, Aubrey. ''Twentieth Century Fox: A Corporate and Financial History''. Lanham, Maryland: Scarecrow Press, 1989. {{ISBN|978-0-8108-4244-1}}.
+* [[Bill Warren (film historian and critic)|Warren, Bill]]. ''Keep Watching the Skies: American Science Fiction Movies of the 1950s'', Vol I: ''1950–1957''. Jefferson, North Carolina: McFarland & Company, 1982. {{ISBN|0-89950-032-3}}.
+{{Refend}}
+
+==External links==
+{{Commons category|The Day the Earth Stood Still (1951 film)}}
+{{Wikiquote}}
+* {{IMDb title|tt0043456}}
+* {{TCMDb title|72439}}
+* {{AFI film|50072}}
+* [http://www.imsdb.com/scripts/Day-the-Earth-Stood-Still,-The.html ''The Day the Earth Stood Still''] at the Internet Movie Script Database
+* [https://archive.org/download/Lux19/Lux-540104-52m36s-863Lux-DayEarthStoodStill-MRennieJPeters.mp3 ''The Day the Earth Stood Still''] on [[Lux Radio Theater]]: January 4, 1954
+* [https://web.archive.org/web/20141211071945/http://www.scifiscripts.com/scripts/sequel_1.htm "The Day the Earth Stood Still II: The Evening of the Second Day" film outline] by [[Ray Bradbury]]
+* [https://books.google.com/books?id=deq3xI8OmCkC ''The Day the Earth Stood Still''] essay by Daniel Eagan in America's Film Legacy: The Authoritative Guide to the Landmark Movies in the [[National Film Registry]], A&C Black, 2010 {{ISBN|0826429777}}, pages 446–448
+* [https://www.centauri-dreams.org/2022/09/21/the-decision-rests-with-you-the-day-the-earth-stood-still-seven-decades-later/ "The Decision Rests with You"] In-depth essay on ''The Day the Earth Stood Still'' by Larry Klaes from Centauri Dreams.
+
+{{The Day the Earth Stood Still|state=collapsed}}
+{{Robert Wise|state=collapsed}}
+{{Frank Lloyd Wright}}
+{{Authority control}}
+
+{{DEFAULTSORT:Day The Earth Stood Still, The}}
+[[Category:The Day the Earth Stood Still| ]]
+[[Category:1951 films]]
+[[Category:1951 American films]]
+[[Category:1951 English-language films]]
+[[Category:English-language science fiction films]]
+[[Category:American black-and-white films]]
+[[Category:American science fiction films]]
+[[Category:Films about alien visitations]]
+[[Category:Novels about alien visitations]]
+[[Category:American films about extraterrestrial life]]
+[[Category:Flying saucers in film]]
+[[Category:Anti-nuclear films]]
+[[Category:Films about nuclear war and weapons]]
+[[Category:Anti-war films]]
+[[Category:Cold War films]]
+[[Category:American robot films]]
+[[Category:Apocalyptic films]]
+[[Category:Films based on American short stories]]
+[[Category:Films based on science fiction short stories]]
+[[Category:Films set in 1951]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films directed by Robert Wise]]
+[[Category:Films scored by Bernard Herrmann]]
+[[Category:20th Century Fox films]]
+[[Category:20th Century Studios franchises]]
+[[Category:United States National Film Registry films inducted in 1995]]
+[[Category:Articles containing video clips]]
+[[Category:1951 science fiction films]]
+[[Category:Frank Lloyd Wright]]

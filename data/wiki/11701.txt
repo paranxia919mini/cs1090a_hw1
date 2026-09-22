@@ -1,0 +1,662 @@
+{{short description|1987 war film by Stanley Kubrick}}
+{{other uses|Full metal jacket (disambiguation)}}
+{{use mdy dates|date=January 2019}}
+{{use American English|date=July 2020}}
+{{Infobox film
+| name           = Full Metal Jacket
+| image          = Full Metal Jacket poster.jpg
+| alt            = Against a white backdrop is a camouflaged military helmet with "Born to Kill" written on it, a peace sign attached to it, and a row of bullets lined up inside the helmet strap. Above the helmet are the words, "In Vietnam the wind doesn't blow it sucks."
+| caption        = Theatrical release poster
+| director       = [[Stanley Kubrick]]
+| producer       = Stanley Kubrick
+| screenplay     = {{plainlist|
+* Stanley Kubrick
+* [[Michael Herr]]
+* [[Gustav Hasford]]
+}}
+| based_on       = {{Based on|''[[The Short-Timers]]''|Gustav Hasford}}
+| starring       = {{plainlist|<!-- Per poster billing block -->
+* [[Matthew Modine]]
+* [[Adam Baldwin]]
+* [[Vincent D'Onofrio]]
+* [[R. Lee Ermey]]<!-- Credited as "Lee Ermey" -->
+* [[Dorian Harewood]]
+* [[Arliss Howard]]
+* [[Kevyn Major Howard]]
+* [[Ed O'Ross]]
+}}
+| cinematography = [[Douglas Milsome]]
+| editing        = [[Martin Hunter (editor)|Martin Hunter]]
+| music          = [[Abigail Mead]]
+| studio         = {{plainlist|
+* Natant
+* [[Hawk Films|Harrier Films]]
+}}
+| distributor    = [[Warner Bros. Pictures|Warner Bros.]] 
+| released       = {{Film date|1987|06|17|[[Samuel Goldwyn Theater]]|1987|06|26|United States|1987|09|11|United Kingdom}}
+| runtime        = 116 minutes<ref>{{cite web|title=FULL METAL JACKET |url=https://www.bbfc.co.uk/releases/full-metal-jacket-0 |archive-url=https://web.archive.org/web/20150402202446/http://www.bbfc.co.uk/releases/full-metal-jacket-0 |url-status=dead |archive-date=April 2, 2015 |publisher=[[British Board of Film Classification]] |access-date=January 14, 2015}}</ref>
+| country        = {{plainlist|
+* United Kingdom
+* United States<ref name="BFI">{{cite web|title=Full Metal Jacket (1987) |url=http://explore.bfi.org.uk/4ce2b71c59462 |archive-url=https://web.archive.org/web/20120711220230/http://explore.bfi.org.uk/4ce2b71c59462 |url-status=dead |archive-date=July 11, 2012 |publisher=[[British Film Institute]] |access-date=October 20, 2011}}</ref>
+}}
+| language       = English
+| budget         = $16.5–30 million<ref name="AFI">{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/57623|title=AFI{{!}}Catalog – Full Metal Jacket|publisher=[[American Film Institute]]|access-date=November 30, 2020|archive-date=August 29, 2019|archive-url=https://web.archive.org/web/20190829222349/https://catalog.afi.com/Catalog/moviedetails/57623|url-status=live}}</ref><ref name="BOMojo">{{cite web |title=Full Metal Jacket (1987) |url=https://www.boxofficemojo.com/movies/?id=fullmetaljacket.htm |publisher=[[Box Office Mojo]] |access-date=August 1, 2011 |archive-date=December 23, 2011 |archive-url=https://web.archive.org/web/20111223144709/http://boxofficemojo.com/movies/?id=fullmetaljacket.htm |url-status=live }}</ref><ref name="Numbers">{{cite web |title=Full Metal Jacket (1987)|url=https://www.the-numbers.com/movie/Full-Metal-Jacket-(1987)#tab=summary|website=The Numbers|access-date=January 27, 2025}}</ref>
+| gross          = $120 million<!-- worldwide gross per the infobox documentation, with the date of the supporting source noted --><ref name=la>{{cite news |title=Kubrick Keeps 'em in Dark with 'Eyes Wide Shut' |url=https://www.latimes.com/archives/la-xpm-1998-sep-29-fi-27418-story.html |page=[https://web.archive.org/web/20160929001636/http://articles.latimes.com/1998/sep/29/business/fi-27418/2 2] |newspaper=[[Los Angeles Times]] |date=September 29, 1998 |access-date=April 20, 2020 |archive-date=January 12, 2019 |archive-url=https://web.archive.org/web/20190112143031/http://articles.latimes.com/1998/sep/29/business/fi-27418 |url-status=live }}</ref>
+}}
+
+'''''Full Metal Jacket''''' is a 1987 [[war film]] directed and produced by [[Stanley Kubrick]] from a screenplay he co-wrote with [[Michael Herr]] and [[Gustav Hasford]]. The film is based on Hasford's 1979 [[autobiographical novel]] ''[[The Short-Timers]]''. It stars [[Matthew Modine]], [[R. Lee Ermey]], [[Vincent D'Onofrio]], [[Adam Baldwin]], [[Dorian Harewood]], and [[Arliss Howard]].
+
+The storyline follows a [[platoon]] of [[United States Marine Corps|U.S. Marines]] through their [[United States Marine Corps Recruit Training|boot camp]] training at [[Marine Corps Recruit Depot Parris Island]], [[South Carolina]]. The first half of the film focuses primarily on privates J. T. Davis and Leonard Lawrence, nicknamed "Joker" and "Pyle" respectively, who struggle under their abusive drill instructor, [[Gunnery Sergeant]] Hartman. The second half portrays the experiences of Joker and other Marines in the Vietnamese cities of [[Da Nang]] and [[Huế]] during the [[Tet Offensive]] of the [[Vietnam War]].<ref name="Dittmar, Michaud">{{cite book |title=From Hanoi to Hollywood: The Vietnam War in American Film |page=[https://archive.org/details/fromhanoitoholly0000unse/page/31 31] |first1=Linda |last1=Dittmar |first2=Gene |last2=Michaud |publisher=[[Rutgers University Press]] |date=1990 |isbn=9780813515878 |url=https://archive.org/details/fromhanoitoholly0000unse/page/31 }}</ref> The film's title refers to the [[full metal jacket bullet]] used by military servicemen.
+
+''Full Metal Jacket'' was theatrically released in the United States on June 26, 1987, by [[Warner Bros. Pictures|Warner Bros.]], and in the United Kingdom on September 11, 1987. It was the last of Kubrick's films to be released during his lifetime. The film grossed $120 million against a budget of $16.5–30 million and received positive reviews from critics. It was nominated for an [[Academy Award]] for [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]],<ref>{{cite web|url=http://awardsdatabase.oscars.org/ampas_awards/BasicSearchInput.jsp |title=Awards Database Search  |access-date=February 18, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20090208011732/http://awardsdatabase.oscars.org/ampas_awards/BasicSearchInput.jsp |archive-date=February 8, 2009}}</ref> and was also nominated for two [[BAFTA Awards]], while Ermey was nominated for a [[Golden Globe Award for Best Supporting Actor – Motion Picture]] for his performance. In 2001, the [[American Film Institute]] placed the film at number 95 in its poll titled "[[AFI's 100 Years...100 Thrills]]."<ref>{{cite web |url=http://www.afi.com/100years/thrills.aspx |title=AFI'S 100 Most Thrilling American Films |author=<!--Staff writer(s); no by-line.--> |website=afi.com |publisher=[[American Film Institute]] |access-date=August 19, 2016 |quote=2001 |archive-date=December 25, 2013 |archive-url=https://web.archive.org/web/20131225212216/http://afi.com/100Years/thrills.aspx |url-status=live }}</ref>
+
+==Plot==
+During the [[Vietnam War]], a group of United States [[United States Marine Corps|Marine Corps]] recruits arrive for eight weeks of Recruit Training at [[Marine Corps Recruit Depot Parris Island|Parris Island]], where [[Drill instructor|Senior Drill Instructor]] Gunnery Sergeant Hartman uses harsh methods to train them for combat. Among the recruits are the wisecracking J. T. Davis, who is nicknamed "Joker" after mocking Hartman, and the overweight and dimwitted Leonard Lawrence, whom Hartman nicknames "[[Gomer Pyle]]".
+
+During training, Pyle struggles to meet Hartman's expectations and is eventually paired with Joker. Pyle shows signs of improvement, but during an inspection, Hartman discovers a jelly doughnut in Pyle's footlocker. Believing the platoon has failed to improve Pyle, Hartman begins a policy of [[collective punishment]] in which he will punish everyone except for Pyle for each mistake he makes. In retaliation, the recruits [[Hazing|haze]] Pyle with a [[blanket party]], which Joker reluctantly participates in under pressure. Afterwards, Pyle appears to reinvent himself into a model recruit, showing particular expertise in marksmanship. This impresses Hartman but worries Joker, who believes Pyle may be suffering a [[mental breakdown]] after seeing Pyle talk to his rifle. 
+
+The night before the new Marines are to leave Parris Island, Joker, on fire watch, discovers Pyle in the barracks [[latrine]]{{efn|United Marines being [[naval infantry]], the latrine in a USMC barracks would properly be referred to in [[military terminology]] as a "[[head (watercraft)|head]]".<ref>{{cite web|url=https://www.hrom.marines.mil/New-Employees/About-the-Marine-Corps/Jargon/|title=USMC Jargon|publisher=United States Marine Corps|date=n.d.|accessdate=April 2, 2025|archive-date=March 7, 2025|archive-url=https://web.archive.org/web/20250307191309/https://www.hrom.marines.mil/New-Employees/About-the-Marine-Corps/Jargon/|url-status=live}}</ref>}} loading his [[M14 rifle]] with live ammunition, executing drill commands, and loudly reciting the [[Rifleman's Creed]]. Awakened by the commotion, Hartman orders Pyle to put down the rifle, but Pyle fatally shoots Hartman and then kills himself in front of Joker.
+
+By January 1968, Joker is a [[sergeant]] based in [[Da Nang]] for the newspaper ''[[Stars and Stripes (newspaper)|Stars and Stripes]]'' alongside [[Private First Class]] "Rafter Man",<ref>{{Cite web |title=The Kubrick Site: The Full Metal Jacket Screenplay |url=http://www.visual-memory.co.uk/amk/doc/0065.html |access-date=2025-10-24 |website=www.visual-memory.co.uk}}</ref> a combat photographer. On the morning after their base is attacked as part of the [[Tet Offensive]], Joker and Rafter Man are sent to [[Phu Bai Combat Base|Phu Bai]], where Joker searches for and reunites with Sergeant "Cowboy" Evans, a friend from Parris Island who now serves in a rifle squad.
+
+During the [[Battle of Huế]], platoon leader Lieutenant "'Mr. Touchdown'" Schinoski is killed, leaving Sergeant "Crazy Earl" to take his place as squad leader. As they enter the city, the squad engages in combat with enemy forces and secure the area. Later, during a patrol, a [[booby trap|booby-trapped]] rabbit toy kills Crazy Earl, leaving Cowboy in command. Becoming lost in the city, the squad is attacked by a [[Viet Cong]] sniper who fatally shoots "Eightball" and "Doc Jay". As the squad closes in on the sniper's location, Cowboy is killed.
+
+Assuming command, squad machine gunner "Animal Mother" leads an attack on the sniper. Joker locates her first, but his [[M16 rifle]] jams. The sniper, a teenage girl, overhears this and opens fire, while Rafter Man shoots and mortally wounds her. As the squad converges on the sniper, she begs for death, leading to an argument over whether to kill her or leave her to die in pain. Animal Mother agrees to a [[coup de grâce|mercy killing]] but only if Joker will handle it; after some hesitation, Joker shoots her. As night falls, the Marines march to the [[Hương River|Perfume River]] singing the "[[Mickey Mouse March]]". Joker narrates his thoughts in a final voice-over line: "I am so happy that I am alive, in one piece, and short. I'm in a world of shit, yes, but I am alive. And I am not afraid."
+
+==Cast==
+* [[Matthew Modine]] as Private (later Sergeant) James T. "Joker" Davis, a wisecracking young Marine. On set, Modine kept a diary that in 2005 was adapted into a [[Full Metal Jacket Diary|book]] and in 2013 into an [[mobile app|interactive app]].<ref>{{cite web |url=https://unframed.lacma.org/2013/03/04/full-metal-jacket-diary-a-qa-with-matthew-modine |title=Full Metal Jacket Diary: A Q&A with Matthew Modine |website=Unframed |date=March 4, 2013 |access-date=September 1, 2018 |archive-date=September 1, 2018 |archive-url=https://web.archive.org/web/20180901215832/https://unframed.lacma.org/2013/03/04/full-metal-jacket-diary-a-qa-with-matthew-modine |url-status=live }}</ref>
+* [[Adam Baldwin]] as Sergeant "Animal Mother", a [[Nihilism|nihilistic]], combat-hungry machine gunner in the Lusthog Squad who takes pride in killing enemy soldiers, and scorns any authority other than his own.
+* [[Vincent D'Onofrio]] as Private Leonard "[[Gomer Pyle#Character|Gomer Pyle]]"{{efn|The "Gomer Pyle" nickname recalls the character from the ''[[Gomer Pyle, U.S.M.C.]]'' TV sitcom. He stands out from the other characters and is passively resistant to being stamped by Hartman into the Marine Corps mold.<ref>{{cite book | last=Abrams | first=J. | title=The Philosophy of Stanley Kubrick | publisher=University Press of Kentucky | series=The Philosophy of Popular Culture | year=2007 | isbn=978-0-8131-7256-9 | url=https://books.google.com/books?id=QbJo2oiFFoUC | access-date=2022-02-04 | page=[https://books.google.com/books?id=QbJo2oiFFoUC&pg=PA40 40]}}</ref>}} Lawrence, an overweight, slow-minded recruit who is the subject of Hartman's mockery. According to Kubrick, Pyle was "the hardest part to cast in the whole movie"; Modine suggested D'Onofrio to Kubrick.<ref name="lobrutto" /><ref>{{Cite web |last=Davids |first=Brian |date=2020-09-25 |title=Matthew Modine Reflects on 'Full Metal Jacket' and the One Similarity Between Stanley Kubrick and Christopher Nolan |url=https://www.hollywoodreporter.com/movies/movie-news/matthew-modine-reflects-on-full-metal-jacket-and-the-one-similarity-between-stanley-kubrick-and-christopher-nolan-4067246/ |access-date=2023-10-18 |website=The Hollywood Reporter |language=en-US}}</ref> D'Onofrio was required to gain {{convert|70|lb|kg}} for the role.<ref name="NYTWeight">{{cite news |first=Leslie |last=Bennetts |title=The Trauma of Being a Kubrick Marine |url=https://www.nytimes.com/1987/07/10/movies/the-trama-of-being-a-kubrick-marine.html |work=[[The New York Times]] |date=July 10, 1987 |access-date=April 30, 2009 |archive-date=February 8, 2011 |archive-url=https://web.archive.org/web/20110208013538/http://www.nytimes.com/1987/07/10/movies/the-trama-of-being-a-kubrick-marine.html |url-status=live }}</ref><ref name="DonofrioWeight">{{cite web |first=Amy |last=Harrington |title=Stars Who Lose and Gain Weight for Movie Roles |url=https://www.foxnews.com/entertainment/stars-who-lose-and-gain-weight-for-movie-roles/ |publisher=[[Fox News Channel]] |date=October 19, 2009 |access-date=October 23, 2011 |archive-date=April 11, 2015 |archive-url=https://web.archive.org/web/20150411113408/http://www.foxnews.com/entertainment/2009/10/19/stars-lose-gain-weight-movie-roles/ |url-status=live }}</ref>
+* [[R. Lee Ermey]] (credited as "Lee Ermey") as Gunnery Sergeant L. Hartman, a harsh, foul-mouthed and ruthless [[Drill instructor#U.S. Marine Corps|senior drill instructor]]. Ermey had played a similar character in the 1978 Vietnam War film ''[[The Boys in Company C]]''. Ermey used his actual experience as a U.S. Marines drill instructor in the Vietnam War to improvise much of his dialogue.<ref name="BluRayDVD">{{cite video |title=Full Metal Jacket ''Additional Material'' |publisher=Blu-ray/DVD}}</ref><ref>{{cite news |url=https://www.smh.com.au/entertainment/movies/how-r-lee-ermey-created-his-memorable-full-metal-jacket-role-20180417-h0yuym.html |title=How R. Lee Ermey created his memorable Full Metal Jacket role |last=Andrews |first=Travis M. |newspaper=[[The Sydney Morning Herald]] |date=April 17, 2018 |access-date=April 28, 2018 |archive-date=April 28, 2018 |archive-url=https://web.archive.org/web/20180428181715/https://www.smh.com.au/entertainment/movies/how-r-lee-ermey-created-his-memorable-full-metal-jacket-role-20180417-h0yuym.html |url-status=live }}</ref>
+* [[Dorian Harewood]] as Corporal "Eightball", an African-American member of the squad unfazed by racial slurs, and Animal Mother's closest friend.
+* [[Arliss Howard]] as Private (later Sergeant) "Cowboy" Evans, a friend of Joker originally from [[Texas]] and a member of the Lusthog Squad.
+* [[Kevyn Major Howard]] as Private First Class "Rafter Man", a combat photographer.
+* [[Ed O'Ross]] as First Lieutenant Walter J. "Mr. Touchdown" Schinoski, the Lusthog Squad's platoon leader.
+* [[John Terry (actor)|John Terry]] as First Lieutenant Lockhart, the editor in charge of the Da Nang division of ''[[Stars and Stripes (newspaper)|Stars and Stripes]]''.
+* Kieron Jecchinis as Sergeant "Crazy Earl", the first Lusthog Squad leader.
+* [[Bruce Boa]] as the Colonel who scolds Joker for writing “Born to Kill” on his helmet and simultaneously wearing a peace symbol on his lapel.
+* [[Kirk Taylor]] as Private "Payback", a squad member.
+* John Stafford as "Doc Jay," a [[United States Navy|Navy]] hospital corpsman providing medical support for the squad.
+* [[Tim Colceri]] as a ruthless and sadistic helicopter door gunner who suggests that Joker and Rafter Man write a story about him. Colceri, a former Marine, was originally slated to play Hartman, a role that went to Ermey. Kubrick gave Colceri this smaller part as a consolation.<ref>{{cite web |url=https://www.indiewire.com/2012/08/5-things-you-might-not-know-about-stanley-kubricks-full-metal-jacket-107476/ |title=5 Things You Might Not Know About Stanley Kubrick's 'Full Metal Jacket' |website=[[Indie Wire]] |date=August 7, 2012 |access-date=September 1, 2018 |first=Oliver |last=Lyttelton |archive-date=September 1, 2018 |archive-url=https://web.archive.org/web/20180901215719/https://www.indiewire.com/2012/08/5-things-you-might-not-know-about-stanley-kubricks-full-metal-jacket-107476/ |url-status=live }}</ref>
+* Ian Tyler as Lieutenant Cleves, an officer present at the uncovering of a [[mass grave]].
+* Gary Landon Mills as Donlon, a squad member who works as a radio operator.
+* Sal Lopez as "T.H.E. Rock", a squad member.
+* Papillon Soo Soo as a Da Nang prostitute
+* Leanne Hong as Da Nang motorbike prostitute
+* Ngọc Lê as the [[Viet Cong]] sniper.
+* Peter Edmund as Private "Snowball" Brown, a recruit in Hartman's platoon who briefly becomes a squad leader before Hartman gives Joker the position.
+* Antu N'Jai as a recruit.
+* Steve Boucher as a recruit.
+* Stanley Kubrick as Sergeant Murphy (voice only, uncredited), whom Cowboy communicates with by radio
+
+==Themes==
+[[File:Born to Kill helmet.jpg|thumb|upright 0.7|Helmet prop from the film]]
+
+Michael Pursell's essay "''Full Metal Jacket'': The Unravelling of Patriarchy" (1988) was an early, in-depth consideration of the film's two-part structure and its criticism of masculinity. Pursell wrote that the film shows "war and pornography as facets of the same system".<ref>{{cite journal|last=Pursell|first=Michael|title=''Full Metal Jacket'': The Unravelling of Patriarchy|journal=Literature/Film Quarterly|year=1988|volume=16|issue=4|pages=324}}</ref>
+
+Many reviewers praised the military [[brainwashing]] themes in the boot-camp portion of the film while viewing the film's second half as more confusing and disjointed. Rita Kempley of ''[[The Washington Post]]'' wrote, "it's as if they borrowed bits of every war movie to make this eclectic finale."<ref name="Kempley" /> [[Roger Ebert]] saw the film as an attempt to tell a story of individual characters and the war's effects on them.<ref name="Ebert" /> According to Ebert, the result is a shapeless film that feels "more like a book of short stories than a novel".<ref name="Ebert" /> Julian Rice, in his book ''Kubrick's Hope'' (2008), saw the second part of the film as a continuation of Joker's psychic journey in his attempt to understand human evil.<ref name="JulianRice" />
+
+Tony Lucia, in his 1987 review of ''Full Metal Jacket'' for the ''Reading Eagle'', examined the themes of Kubrick's career, suggesting "the unifying element may be the ordinary man dwarfed by situations too vast and imposing to handle".<ref name="lucia"/> Lucia refers to the "military mentality" in this film and also said the theme covers "a man testing himself against his own limitations", and concluded: "''Full Metal Jacket'' is the latest chapter in an ongoing movie which is not merely a comment on our time or a time past, but on something that reaches beyond."<ref name="lucia">{{cite news|last=Lucia|first=Tony|date=July 5, 1987|title='Full Metal Jacket' takes deadly aim at the war makers|url=https://news.google.com/newspapers?nid=1955&dat=19870705&id=__khAAAAIBAJ&pg=4108,3337251|format=Review|newspaper=Reading Eagle|location=Reading, Pennsylvania|access-date=March 23, 2014|archive-date=May 5, 2021|archive-url=https://web.archive.org/web/20210505021321/https://news.google.com/newspapers?nid=1955&dat=19870705&id=__khAAAAIBAJ&pg=4108%2C3337251|url-status=live}}</ref>
+
+British critic [[Gilbert Adair]] wrote, "Kubrick's approach to language has always been reductive and uncompromisingly deterministic in nature. He appears to view it as the exclusive product of environmental conditioning, only very marginally influenced by concepts of subjectivity and interiority, by all the whims, shades and modulations of personal expression."{{sfn|Baxter|1997|p=10}}
+
+Michael Herr wrote of his work on the screenplay, "The substance was single-minded, the old and always serious problem of how you put into a film or a book the living, behaving presence of what [[Carl Jung|Jung]] called [[Shadow (psychology)|the shadow]], the most accessible of [[archetype]]s, and the easiest to experience&nbsp;... War is the ultimate field of Shadow-activity, where all of its other activities lead you. As they expressed it in Vietnam, 'Yea, though I walk through the Valley of the Shadow of Death, I will fear no Evil, for I {{em|am}} the Evil'."{{sfn|Baxter|1997|p=11}}
+
+==Production==
+
+===Development===
+
+In early 1980, Stanley Kubrick contacted [[Michael Herr]], author of the Vietnam War memoir ''[[Dispatches (book)|Dispatches]]'' (1977), to discuss work on a film about [[the Holocaust]] but Kubrick discarded that idea in favor of a film about the Vietnam War.<ref name="vulliamy">{{cite news |last = CVulliamy |first = Ed |title = It Ain't Over Till It's Over |work = [[The Observer]] |date = July 16, 2000 |url = https://www.theguardian.com/books/2000/jul/16/film |access-date = October 11, 2007 |archive-date = November 16, 2007 |archive-url = https://web.archive.org/web/20071116045651/http://books.guardian.co.uk/departments/artsandentertainment/story/0,6000,343722,00.html |url-status = live }}</ref> Herr and Kubrick met in England; Kubrick told Herr he wanted to make a war film but had yet to find a story to adapt.<ref name="lobrutto">{{cite news | last = LoBrutto | first = Vincent |title = Stanley Kubrick | publisher = Donald I. Fine Books | year = 1997 }}</ref> Kubrick discovered [[Gustav Hasford]]'s novel ''[[The Short-Timers]]'' (1979) while reading the ''[[Kirkus Reviews|Kirkus Review]]''.<ref name="clines">{{cite news | last = Clines | first = Francis X | title = Stanley Kubrick's Vietnam | work = [[The New York Times]] | date = June 21, 1987 | url = https://www.nytimes.com/library/film/062187kubrick-jacket.html | access-date = October 11, 2007 | archive-date = April 28, 2006 | archive-url = https://web.archive.org/web/20060428173250/http://www.nytimes.com/library/film/062187kubrick-jacket.html | url-status = live }}</ref> Herr received the novel in [[Galley proof|bound galleys]] and thought it a masterpiece.<ref name="lobrutto" /> In 1982, Kubrick read the novel twice; he concluded it is "a unique, absolutely wonderful book" and decided to adapt it for his next film.<ref name="clines" /> According to Kubrick, he was drawn to the book's dialogue, which he found "almost poetic in its carved-out, stark quality".<ref name="clines" /> In 1983, Kubrick began researching for the film; he watched archival footage and documentaries, read Vietnamese newspapers on [[microfilm]] from the [[Library of Congress]], and studied hundreds of photographs from the era.<ref name="rose"/> Initially, Herr was not interested in revisiting his Vietnam War experiences, but Kubrick spent three years persuading him, describing the discussions as "a single phone call lasting three years, with interruptions".<ref name="vulliamy" />
+
+In 1985, Kubrick contacted Hasford and invited him to join the team;<ref name="lobrutto" /> they spoke by telephone three to four times a week for hours at a time.<ref name="lewis">{{cite news | last = Lewis | first = Grover | title = The Several Battles of Gustav Hasford | work = [[Los Angeles Times Magazine]] | date = June 28, 1987 | url = https://www.latimes.com/archives/la-xpm-1987-06-28-tm-430-story.html | access-date = October 20, 2017 | archive-date = October 19, 2015 | archive-url = https://web.archive.org/web/20151019063159/http://articles.latimes.com/1987-06-28/magazine/tm-430_1_full-metal-jacket | url-status = live }}</ref> Kubrick had already written a detailed treatment of the novel,<ref name="lobrutto" /> and they met at Kubrick's home every day, breaking the treatment into scenes. Herr then wrote the first draft of the film script.<ref name="lobrutto" /> Kubrick worried the audience might misread the book's title as a reference to people who did only half a day's work and changed it to ''Full Metal Jacket'' after coming across [[Full metal jacket bullet|the phrase]] in a gun catalogue.<ref name="lobrutto" /> After the first draft was complete, Kubrick telephoned his orders to Hasford and Herr, who mailed their submissions to him.<ref name="carlton" /> Kubrick read and edited Hasford's and Herr's submissions, and the team repeated the process.<ref name="carlton" /> Neither Hasford nor Herr knew how much each had contributed to the screenplay, which led to a dispute over the final credits.<ref name="carlton" /> Hasford said: "We were like guys on an assembly line in the car factory. I was putting on one widget and Michael was putting on another widget and Stanley was the only one who knew that this was going to end up being a car."<ref name="carlton" /> Herr said Kubrick was not interested in making an [[anti-war film]] but "he wanted to show what war is like".<ref name="vulliamy" />
+
+At some point, Kubrick wanted to meet Hasford in person, but Herr advised against this, describing ''The Short-Timers'' author as a "scary man, a big, haunted marine", and did not believe Hasford and Kubrick would "get on".<ref name="vulliamy" /> Kubrick, however, insisted on the meeting, which occurred at Kubrick's house in England. The meeting went poorly; Kubrick privately told Herr: "I can't deal with this man," and Hasford did not meet with Kubrick again.<ref name="vulliamy" />
+
+===Casting===
+[[File:Full_Metal_Jacket_-_Hartman's_Diagloue.webm|thumb|right|Ermey's performance with improvised verbal insults was an integral part in ''Full Metal Jacket'' that received critical acclaim.<ref name="lobrutto" />]]
+Through [[Warner Bros. Pictures|Warner Bros.]], Kubrick advertised a casting search in the United States and Canada.<ref name="lobrutto" />{{rp|461}} He used [[videotape]] to audition actors and received over 3,000 submissions. Kubrick's staff screened the tapes, leaving 800 of them for him to review.<ref name="lobrutto" />{{rp|461}}
+
+Former U.S. Marines drill instructor R. Lee Ermey was originally hired as a [[technical advisor]].<ref name="Clark, 2010-08-31">{{cite news |title='Gunny' has a terrifying bark, but he won't bite|first=Doug|last=Clark|url=http://www.spokesman.com/stories/2010/aug/31/gunny-has-a-terrifying-bark-but-he-wont-bite/|newspaper=[[The Spokesman-Review]]|date=August 31, 2010|access-date=April 24, 2011 |archive-url=https://web.archive.org/web/20120404162135/http://www.spokesman.com/stories/2010/aug/31/gunny-has-a-terrifying-bark-but-he-wont-bite/|archive-date=April 4, 2012|url-status=dead}}</ref> Ermey asked Kubrick if he could audition for the role of Hartman. Kubrick, who had seen Ermey's portrayal of drill instructor Staff Sergeant Loyce in ''[[The Boys in Company C]]'' (1978), told Ermey that he was not vicious enough to play the character. Ermey improvised insulting dialogue against a group of [[Royal Marines]] who were being considered for the part of background Marines in order to demonstrate his ability to play the character and to show how a drill instructor attacks individuality in new recruits.<ref name="lobrutto" />{{rp|462}} Upon viewing the videotape of these sessions, Kubrick offered Ermey the role, realizing he "was a genius for this part".<ref name="rose" /> Kubrick incorporated the 250-page transcript of Ermey's rants into the script.<ref name="lobrutto" />{{rp|462–463}} Ermey's experience as a drill instructor during the Vietnam War proved invaluable; Kubrick estimated that Ermey wrote 50% of his character's dialogue, particularly the insults.<ref name="cahill" />
+
+While Ermey practiced his lines in a rehearsal room, Kubrick's assistant [[Leon Vitali]] would throw tennis balls and oranges at him, which Ermey had to catch and throw back as quickly as possible while saying his lines as fast as he could. Any hesitation, slowdown, slip or missed line would necessitate restarting, and 20 error-free runs were required. "[He] was my drill instructor," Ermey said of Vitali.<ref name="lobrutto" />{{rp|463}}<ref>{{cite news | url=https://www.nytimes.com/1987/06/30/movies/jacket-actor-invents-his-dialogue.html | title='Jacket' Actor Invents His Dialogue | work=The New York Times | date=June 30, 1987 | last1=Harmetz | first1=Aljean }}</ref>
+
+Nine months of negotiations to cast [[Anthony Michael Hall]] as Private Joker were unsuccessful; Hall would later regret not doing the film.<ref name="ugodz" /><ref>{{cite news|url=https://www.latimes.com/archives/la-xpm-1988-04-03-ca-928-story.html|title=MOVIES : On the Rebound With Anthony Michael Hall|date=
+April 3, 1988|newspaper=Los Angeles Times}}</ref><ref>{{cite news|url=https://dnyuz.com/2024/06/13/anthony-michael-halls-biggest-regret-is-turning-down-kubricks-full-metal-jacket/|title=Anthony Michael Hall's biggest regret is turning down Kubrick's 'Full Metal Jacket'|date=June 13, 2024|newspaper=DNYUZ}}</ref> [[Val Kilmer]] was also considered for the role, and [[Bruce Willis]] declined a role because of commitments to his television series ''[[Moonlighting (TV series)|Moonlighting]]''.<ref>{{Cite web |last=Davids |first=Brian |date=February 18, 2025 |title='Vision Quest' at 40: Matthew Modine Explains How the Coming-of-Age Classic Landed Him 'Full Metal Jacket'|url=https://www.hollywoodreporter.com/movies/movie-features/vision-quest-matthew-modine-full-metal-jacket-1236140307/ |access-date=July 4, 2025|website=[[The Hollywood Reporter]]|language=en|archive-url=https://web.archive.org/web/20250218224929/https://www.hollywoodreporter.com/movies/movie-features/vision-quest-matthew-modine-full-metal-jacket-1236140307/|archive-date=February 18, 2025}}</ref><ref name="Willis" /> [[Ed Harris]] declined the role of Hartman, a decision that he later called "foolish".<ref>{{Cite web |last=Sharf |first=Zack |date=2018-05-02 |title=Ed Harris Rejected a Direct Offer From Stanley Kubrick, and He Knows 'It Was Foolish' |url=https://www.indiewire.com/2018/05/ed-harris-rejected-stanley-kubrick-full-metal-jacket-1201959566/ |access-date=2022-07-13 |website=IndieWire |language=en}}</ref> [[Robert De Niro]] was also considered for the role, although Kubrick eventually felt that the audience would "feel cheated" if De Niro's character were killed in the first hour.<ref>{{Cite magazine|url=https://www.vanityfair.com/hollywood/2010/04/kubrick-199908|title=Kubrick|date=April 21, 2010|magazine=Vanity Fair|access-date=October 31, 2023|archive-date=June 29, 2012|archive-url=https://web.archive.org/web/20120629212013/http://www.vanityfair.com/hollywood/classic/features/kubrick-199908.print|url-status=live}}</ref> [[Bill McKinney]] was also considered for the part, but Kubrick professed an irrational fear of the actor.<ref name="mckinney"/> McKinney was known for his role as a rural psychopath in 1972's ''[[Deliverance]]'', most memorably in a sequence that Kubrick described as "the most terrifying scene ever put on film".<ref name="mckinney"/> McKinney was about to fly from Los Angeles to London to audition for Kubrick and the producers when he received a message at the airport informing him that his audition had been canceled;<ref name="mckinney"/>  McKinney, however, was paid in full.<ref name="mckinney">{{Cite web |date=2009-09-24 |title=Story of the Scene: 'Say it again, Bobby' and other greats |url=https://www.independent.co.uk/arts-entertainment/films/features/story-of-the-scene-say-it-again-bobby-and-other-greats-1792684.html |access-date=2023-11-09 |website=The Independent |language=en}}</ref> [[Denzel Washington]] showed interest in the film, but Kubrick did not send him a script.<ref>{{Cite web|url=https://www.indiewire.com/2012/08/5-things-you-might-not-know-about-stanley-kubricks-full-metal-jacket-107476/|title=5 Things You Might Not Know About Stanley Kubrick's 'Full Metal Jacket'|date=August 7, 2012|access-date=September 1, 2018|archive-date=September 1, 2018|archive-url=https://web.archive.org/web/20180901215719/https://www.indiewire.com/2012/08/5-things-you-might-not-know-about-stanley-kubricks-full-metal-jacket-107476/|url-status=dead}}</ref><ref>{{Cite web|url=https://www.gq.com/story/denzel-washington-interview-gq-october-2012|title=Denzel Washington GQ October 2012 Cover Story|website=GQ|date=September 18, 2012|access-date=June 25, 2021|archive-date=September 25, 2022|archive-url=https://web.archive.org/web/20220925052416/https://www.gq.com/story/denzel-washington-interview-gq-october-2012|url-status=live}}</ref>
+
+===Filming===
+[[Principal photography]] began on August 27, 1985, and concluded on August 8, 1986.<ref>{{cite web |url=https://thecinemaholic.com/where-was-full-metal-jacket-1987-filmed/ |title=Where Was Full Metal Jacket (1987) Filmed? |last=Handore |first=Pratik |date=March 28, 2022 |publisher=Cinemaholic |access-date=May 16, 2023}}</ref><ref>{{Cite web |date=2016-03-06 |title=Full Metal Jacket (1987) - Misc Notes - TCM.com |url=https://www.tcm.com/tcmdb/title/75816/full-metal-jacket#notes |access-date=2023-10-18 |url-status=dead |archive-url=https://web.archive.org/web/20160306080339/http://www.tcm.com/tcmdb/title/75816/Full-Metal-Jacket/misc-notes.html |archive-date=March 6, 2016 }}</ref> Scenes were filmed in [[Cambridgeshire]], the [[Norfolk Broads]], in [[East London]] at [[Millennium Mills]] and [[Beckton Gas Works]] in [[London Borough of Newham|Newham]] and on the [[Isle of Dogs]].<ref>{{Cite web|url=https://www.information-britain.co.uk/movies/fullmetaljacket.htm|title=Movies, films TV locations in the UK Film and TV Set information, – Full Metal Jacket|website=www.information-britain.co.uk|access-date=January 1, 2021|archive-date=September 28, 2020|archive-url=https://web.archive.org/web/20200928034030/https://information-britain.co.uk/movies/fullmetaljacket.htm|url-status=live}}</ref> Kubrick hired [[Anton Furst]] as the production designer, impressed by his work on ''[[The Company of Wolves]]'' (1984).<ref name="BOMB Magazine">{{cite magazine | url=https://bombmagazine.org/articles/anton-furst|archiveurl=https://web.archive.org/web/20171103185346/http://bombmagazine.org/articles/anton-furst/|archivedate=November 3, 2017|url-status=dead | title=Anton Furst |magazine=BOMB Magazine| date=April 1990 }}</ref> [[Bassingbourn Barracks]], a former [[Royal Air Force]] [[RAF Bassingbourn|station]] and then a [[British Army]] base, was used as the Parris Island Marines boot camp.<ref name="rose" /> A British army rifle range near [[Barton, Cambridgeshire]], was used for the scene in which Hartman congratulates Private Pyle for his shooting skills. Kubrick and Furst worked from still photographs of Huế taken in 1968. Kubrick found an area owned by [[British Gas plc|British Gas]] that closely resembled it and was scheduled to be demolished. The disused Beckton Gas Works, a few miles from central London, was filmed to depict Huế after attacks.<ref name="cahill"/><ref>{{Cite news |last=Wise |first=Damon |date=2017-08-01 |title=How we made Stanley Kubrick's Full Metal Jacket |language=en-GB |work=The Guardian |url=https://www.theguardian.com/culture/2017/aug/01/how-we-made-full-metal-jacket-stanley-kubrick-matthew-modine |access-date=2023-10-18 |issn=0261-3077 |archive-date=January 6, 2021 |archive-url=https://web.archive.org/web/20210106195105/https://www.theguardian.com/culture/2017/aug/01/how-we-made-full-metal-jacket-stanley-kubrick-matthew-modine |url-status=live }}</ref><ref name="BOMB Magazine"/> Kubrick had buildings demolished and the film's art director used a [[wrecking ball]] to knock holes in some of the buildings over the course of two months.<ref name="cahill"/> Kubrick had a plastic replica jungle delivered from California, but once he saw it, he dismissed the idea, saying; "I don't like it. Get rid of it."<ref name="watson" /> The open country scenes were filmed at marshland in [[Cliffe-at-Hoo]]<ref>{{cite web|author=Kent Film Office|url=http://kentfilmoffice.co.uk/1987/09/12208/|title=Kent Film Office Full Metal Jacket Article|access-date=September 25, 2015|archive-date=September 26, 2015|archive-url=https://web.archive.org/web/20150926011045/http://kentfilmoffice.co.uk/1987/09/12208/|url-status=live}}</ref> and along the [[River Thames]]. Locations were decorated with 200 palm trees imported from Spain<ref name="clines" /> and 100,000 plastic tropical plants from Hong Kong.<ref name="cahill" />
+
+Kubrick acquired four [[M41 Walker Bulldog|M41 tanks]] from a Belgian army colonel who was an admirer of his work.<ref>{{cite news|url=https://www.washingtonpost.com/archive/lifestyle/style/1987/06/28/stanley-kubrick-at-a-distance/543f1135-e5ab-44ba-ad83-37c539057f13/|title=Stanley Kubrick, At a Distance|last=Grove|first=Lloyd|date=June 28, 1987|newspaper=The Washington Post|access-date=November 3, 2017|archive-date=November 15, 2017|archive-url=https://web.archive.org/web/20171115205805/https://www.washingtonpost.com/archive/lifestyle/style/1987/06/28/stanley-kubrick-at-a-distance/543f1135-e5ab-44ba-ad83-37c539057f13/|url-status=live}}</ref> [[Westland Wessex]] helicopters, which have a much longer and less-rounded nose than that of the Vietnam era H-34, were painted Marines green to represent [[Sikorsky H-34 Choctaw]] helicopters. Kubrick obtained a selection of rifles, [[M79 grenade launcher]]s and [[M60 machine gun]]s from a licensed weapons dealer.<ref name="rose"/>
+
+Modine described the filming as difficult. Beckton Gas Works was a toxic environment for the film crew, being contaminated with [[asbestos]] and hundreds of other chemicals.<ref>Modine; ''[[Full Metal Jacket Diary]]'' (2005)</ref> During the boot camp sequence of the film, Modine and the other recruits underwent Marine Corps training, during which Ermey yelled at them for 10 hours a day while filming the Parris Island scenes. To ensure that the actors' reactions to Ermey's lines were as authentic and fresh as possible, Ermey and the recruits did not rehearse together.<ref name="lobrutto" />{{rp|468}} For film continuity, each recruit had his head shaved once a week.<ref name="linfield"/>
+
+Modine fought with Kubrick about whether he could leave the set to be with his pregnant wife in the delivery room. Modine threatened to cut himself and get sent to the hospital himself to force Kubrick to relent.<ref>{{Cite web |last=Sokol |first=Tony |date=2019-06-26 |title=Full Metal Jacket and Its Troubled Production |url=https://www.denofgeek.com/books/full-metal-jacket-and-its-troubled-production/ |access-date=2023-10-18 |website=Den of Geek |language=en-US |archive-date=March 28, 2025 |archive-url=https://web.archive.org/web/20250328023457/https://www.denofgeek.com/books/full-metal-jacket-and-its-troubled-production/ |url-status=live }}</ref> He also nearly fought with D'Onofrio during filming the boot camp scenes after he taunted D'Onofrio while laughing with the film's extras between takes.<ref>{{cite web | url=https://www.independent.co.uk/arts-entertainment/films/features/matthew-modine-interview-wrong-turn-stranger-things-b1804216.html | title=Matthew Modine interview: 'America has never dealt honestly with what its history is' | website=[[Independent.co.uk]] | date=February 22, 2021 | access-date=February 3, 2024 | archive-date=February 23, 2021 | archive-url=https://web.archive.org/web/20210223221029/https://www.independent.co.uk/arts-entertainment/films/features/matthew-modine-interview-wrong-turn-stranger-things-b1804216.html | url-status=live }}</ref>
+
+During filming, Ermey was injured in a car crash and broke several ribs, leaving him unavailable for four and a half months.<ref name="cahill"/><ref>{{Cite web|url=https://www.denofgeek.com/books/full-metal-jacket-and-its-troubled-production/|title=Full Metal Jacket and Its Troubled Production|first=Tony|last=Sokol|date=June 26, 2019|website=Den of Geek|access-date=September 25, 2023|archive-date=March 28, 2025|archive-url=https://web.archive.org/web/20250328023457/https://www.denofgeek.com/books/full-metal-jacket-and-its-troubled-production/|url-status=live}}</ref>
+
+During Cowboy's death scene, a building that resembles the alien monolith in Kubrick's ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'' (1968) is visible. Kubrick described this as an "extraordinary accident".<ref name="cahill"/>
+
+During filming, Hasford contemplated legal action over the writing credits. Originally, the filmmakers intended Hasford to receive an "additional dialogue" credit, but he fought for and eventually received full credit.<ref name="carlton"/> Hasford and two friends visited the set dressed as extras but was mistaken by a crew member for Herr. Hasford identified himself as the writer of the source material.<ref name="lewis"/>
+
+Kubrick's daughter [[Vivian Kubrick|Vivian]], who appears uncredited as a news camera operator, shadowed the filming of ''Full Metal Jacket''. She filmed 18 hours of behind-the-scenes footage for a potential "making-of" documentary that went unmade. Sections of her work can be seen in the documentary ''[[Stanley Kubrick's Boxes]]'' (2008).<ref>{{cite web|url=https://vimeo.com/322890808|title=Stanley Kubrick's Boxes|publisher=[[Vimeo]]|accessdate=February 25, 2024|at=34:34–35:15, 35:21–38:36}}</ref><ref>{{Cite web |last=Crow |first=Jonathan |date=20 February 2014 |title=Behind-the-Scenes Footage of Stanley Kubrick's Full Metal Jacket |url=https://www.openculture.com/2014/02/watch-behind-the-scenes-footage-of-stanley-kubricks-full-metal-jacket.html |access-date=24 June 2024}}</ref>
+
+==Music==
+[[Vivian Kubrick]], under the alias Abigail Mead, wrote the film's score. According to an interview in the January 1988 issue of ''[[Keyboard (magazine)|Keyboard]]'', the film was scored mostly with a Series III edition [[Fairlight CMI]] synthesizer and a [[Synclavier]]. For the period music, Kubrick reviewed ''[[Billboard charts|Billboard]]''{{'s}} list of the top 100 hits for each year from 1962 to 1968, considering many songs but he found that "sometimes the dynamic range of the music was too great, and we couldn't work in dialogue."<ref name="cahill"/>
+{{Div col|colwidth=30em}}
+* [[Johnnie Wright]] – "[[Hello Vietnam]]"
+* [[The Dixie Cups]] – "[[Chapel of Love]]"
+* [[Sam the Sham|Sam the Sham & the Pharaohs]] – "[[Wooly Bully]]"
+* [[Chris Kenner]] – "[[I Like It Like That (Chris Kenner song)|I Like It Like That]]"
+* [[Nancy Sinatra]] – "[[These Boots Are Made for Walkin']]"
+* [[The Trashmen]] – "[[Surfin' Bird]]"
+* [[Goldman Band]] – "[[Marines' Hymn]]"
+* [[The Rolling Stones]] – "[[Paint It Black]]"
+{{div col end}}
+
+A single titled "Full Metal Jacket (I Wanna Be Your Drill Instructor)," credited to Mead and Nigel Goulding, was released to promote the film and incorporates Ermey's drill cadences from the film. The single reached #1 in Ireland, #2 in the UK,<ref name="Music2"/> #4 in both the Netherlands and the Flanders region of Belgium, #8 in West Germany, #11 in Sweden and #29 in New Zealand.
+
+==Release==
+''Full Metal Jacket'' had previews in more than 100 theaters on June 19, 1987.<ref name="RevVariety" /> It received a limited release on June 26, 1987, in 215 theaters in 12 cities.<ref name="BOMojo"/><ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=4|date=July 8, 1987|title=Warners Drawing On 'Platoon' Comparisons To Plug 'Jacket'|last=Gold|first=Richard}}</ref>
+===Box office===
+During its opening weekend, it accrued $2.2 million, an average of $10,313 per theater, ranking it the number 10 film for the weekend June 26–28.<ref name="BOMojo"/> It took a further $2 million for a total of $5.7 million before being widely released in 881 theaters on July 10, 1987.<ref name="BOMojo"/> The weekend of July 10–12 saw the film gross $6.1 million, an average of $6,901 per theater, and rank as the second-highest-grossing film. Over the next four weeks the film opened in a further 194 theaters to its widest release of 1,075 theaters; it closed two weeks later with a total gross of $46.4 million, making it the twenty-third-highest-grossing film of 1987.<ref name="BOMojo"/><ref name="BOMojoRun"/> {{as of|1998}}, the film had grossed $120 million worldwide.<ref name=la />
+
+===Home media===
+
+The home media release history of ''Full Metal Jacket'' is summarized in the following table. Minor cuts to the 1h 57m theatrical version were made to comply with the censor boards overseeing the various territories in which the film was released. For technical reasons the [[PAL|PAL mastering standard]] speeds up playback by around 4% compared with [[NTSC]], leading to slightly shorter runtimes (around 1h 52m) in releases mastered for territories other than the [[United States|US]] and [[NTSC-J|Japan]].<ref>{{Cite web |title=Full Metal Jacket Blu-ray – Matthew Modine |url=http://www.dvdbeaver.com/film/DVDCompare9/full_metal_jacket_.htm#:~:text=1:51:45-,(4%25%20PAL%20speedup),-1:51:44 |access-date=2024-01-22 |website=www.dvdbeaver.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235758/http://www.dvdbeaver.com/film/DVDCompare9/full_metal_jacket_.htm#:~:text=1:51:45-,(4%25%20PAL%20speedup),-1:51:44 |url-status=live }}</ref>
+
+{| class="wikitable"
+|+
+!Territory
+!Title
+!Released
+!Publisher
+!Aspect Ratio
+!Cut
+!Runtime
+!Commentaries
+!Mix
+!Resolution
+!Master
+!Medium
+|-
+| rowspan="3" |USA
+|#3000082901<ref name="blu-ray.com">{{Citation |title=Full Metal Jacket 4K Blu-ray (4K Ultra HD + Blu-ray) |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-4K-Blu-ray/262647/ |access-date=2024-01-22 |archive-date=September 29, 2020 |archive-url=https://web.archive.org/web/20200929190611/https://www.blu-ray.com/movies/Full-Metal-Jacket-4K-Blu-ray/262647/ |url-status=live }}</ref>
+| September 22, 2020<ref name="blu-ray.com"/>
+| rowspan="31" |[[Warner Bros. Home Entertainment|Warner Home Video]]
+| rowspan="4" |[[16:9 aspect ratio|1.78:1]]
+| rowspan="39" |Theatrical
+| rowspan="7" |1h 56m
+| rowspan="39" |none
+|[[Dolby 5.1|5.1]], [[Monaural|mono]] (192 kbit/s)
+| rowspan="2" |[[4K resolution|2160p]]
+| rowspan="4" |[[4K resolution|4K]]
+| rowspan="5" |[[Blu-ray]]
+|-
+|#3000082360<ref name="ReferenceA">{{Citation |title=Full Metal Jacket 4K Blu-ray (Best Buy Exclusive SteelBook) |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-4K-Blu-ray/273686/ |access-date=2024-01-22}}</ref>
+| September 22, 2020<ref name="ReferenceA"/>
+| rowspan="25" |5.1
+|-
+|#3000083363<ref name="ReferenceB">{{Citation |title=Full Metal Jacket Blu-ray (SteelBook) |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/280969/ |access-date=2024-01-22}}</ref>
+|September 22, 2020<ref name="ReferenceB"/>
+|[[1080p]]
+|-
+|UK
+|
+|September 22, 2020<ref>{{Cite web |last=Medina |first=Victor |date=2020-08-14 |title=Stanley Kubrick's 'Full Metal Jacket' Coming to 4K UHD |url=https://www.cinelinx.com/movie-news/stanley-kubricks-full-metal-jacket-coming-to-4k-uhd/ |access-date=2024-01-22 |website=Cinelinx {{!}} Movies. Games. Geek Culture. |language=en-US |archive-date=June 6, 2021 |archive-url=https://web.archive.org/web/20210606204156/https://www.cinelinx.com/movie-news/stanley-kubricks-full-metal-jacket-coming-to-4k-uhd/ |url-status=live }}</ref>
+|2160p
+|-
+| rowspan="8" |USA
+|#118627
+|May 7, 2013<ref name="ReferenceC">{{Citation |title=Full Metal Jacket Blu-ray (Wal-Mart Exclusive) |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/125358/ |access-date=2024-01-22}}</ref>
+|[[Aspect ratio (image)|1.85:1]]<ref name="ReferenceC"/>
+|1080p
+| rowspan="22" |[[2K resolution|2K]]
+|-
+|
+|October 16, 2012
+|1.78:1
+|[[480i]]
+|[[DVD]]
+|-
+|#201341
+|October 16, 2012<ref name="ReferenceD">{{Citation |title=Full Metal Jacket Blu-ray (Special Edition with Collectible Booklet & Senitype) |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/56052/ |access-date=2024-01-22 |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235801/https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/56052/ |url-status=live }}</ref>
+|1.78:1<ref name="ReferenceD"/>
+| rowspan="5" |1080p
+| rowspan="3" |Blu-ray
+|-
+|#400002309
+|August 7, 2012<ref>{{Citation |title=Full Metal Jacket Blu-ray (DigiBook) |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/25047/ |access-date=2024-01-22 |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235803/https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/25047/ |url-status=live }}</ref>
+| rowspan="2" |1.78:1
+|1h 57m<ref>{{Cite web |title=Full Metal Jacket: 25th Anniversary Edition (Digibook) Blu-ray Review {{!}} High Def Digest |url=https://bluray.highdefdigest.com/5383/fmj_25th.html#:~:text=1080p%20VC-1-,Length:117,-Release%20Country:United |access-date=2024-01-22 |website=bluray.highdefdigest.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235758/https://bluray.highdefdigest.com/5383/fmj_25th.html#:~:text=1080p%20VC-1-,Length:117,-Release%20Country:United |url-status=live }}</ref>
+|-
+|#5000099235<ref>{{Citation |title=Stanley Kubrick: Visionary Filmmaker Collection Blu-ray (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut / Stanley Kubrick: A Life in Pictures / O Lucky Malcolm) |url=https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/292866/ |access-date=2024-01-22 |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235804/https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/292866/ |url-status=live }}</ref>
+|May 23, 2011<ref>{{Citation |title=Stanley Kubrick: Visionary Filmmaker Collection Blu-ray (Lolita / 2001: A Space Odyssey / A Clockwork Orange / Barry Lyndon / The Shining / Full Metal Jacket / Eyes Wide Shut / Stanley Kubrick: A Life in Pictures / O Lucky Malcolm) |url=https://www.blu-ray.com/movies/Stanley-Kubrick-Visionary-Filmmaker-Collection-Blu-ray/292866/ |access-date=2024-01-22}}</ref>
+|1h 52m
+|-
+|#80931
+|October 28, 2007
+|1.78:1<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket: Deluxe Edition [80931] |url=https://www.lddb.com/hddvd/00175/80931/Full-Metal-Jacket:-Deluxe-Edition#:~:text=Ratio-,1.78:1,-Format |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235802/https://www.lddb.com/hddvd/00175/80931/Full-Metal-Jacket:-Deluxe-Edition#:~:text=Ratio-,1.78:1,-Format |url-status=live }}</ref>
+|
+|[[HD DVD|HD-DVD]]
+|-
+|#118627
+|October 23, 2007<ref>{{Cite web |title=Blu-ray Release Dates, Blu-ray Release Calendar |url=https://www.blu-ray.com/movies/releasedates.php?year=2007&month=10#October23 |access-date=2024-01-22 |website=www.blu-ray.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235759/https://www.blu-ray.com/movies/releasedates.php?year=2007&month=10#October23 |url-status=live }}</ref>
+|1.78:1<ref>{{Citation |title=Full Metal Jacket Blu-ray |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/534/ |access-date=2024-01-22 |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235758/https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/534/ |url-status=live }}</ref>
+|1h 56m<ref>{{Cite web |title=Full Metal Jacket: Deluxe Edition Blu-ray Review {{!}} High Def Digest |url=https://bluray.highdefdigest.com/1031/fullmetaljacket_de.html#:~:text=2%20(Supplements%20Only)-,Length:116,-Release%20Country:United |access-date=2024-01-22 |website=bluray.highdefdigest.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235758/https://bluray.highdefdigest.com/1031/fullmetaljacket_de.html#:~:text=2%20(Supplements%20Only)-,Length:116,-Release%20Country:United |url-status=live }}</ref>
+|Blu-ray
+|-
+|#116116
+|2007
+|1.85:1<ref>{{Citation |title=Full Metal Jacket DVD (Deluxe Widescreen Edition) |url=https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/131864/ |access-date=2024-01-22}}</ref>
+|1h 57m
+|480i
+|DVD
+|-
+| rowspan="2" |UK
+|#Z1 80931<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [Z1 80931] |url=https://www.lddb.com/hddvd/01545/Z1-80931/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235802/https://www.lddb.com/hddvd/01545/Z1-80931/Full-Metal-Jacket |url-status=live }}</ref>
+|
+| rowspan="3" |1.78:1
+|
+| rowspan="3" |1080p
+| rowspan="3" |HD-DVD
+|-
+|#Z1 Y18626<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [Z1 Y18626] |url=https://www.lddb.com/hddvd/01020/Z1-Y18626/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com}}</ref>
+| rowspan="2" |2007
+|
+|-
+|Germany
+|#Z1 Y18626<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [Z5 Y18626] |url=https://www.lddb.com/hddvd/01275/Z5-Y18626/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com}}</ref>
+|1h 57m
+|-
+|USA
+|#116311
+|May 15, 2007<ref name="ReferenceE">{{Citation |title=Full Metal Jacket DVD (Remastered / Stanley Kubrick Collection) |url=https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/15538/ |access-date=2024-01-22}}</ref>
+|1.33:1<ref name="ReferenceE"/>
+| rowspan="2" |1h 56m
+|480i
+|DVD
+|-
+| rowspan="2" |Sweden
+|#Z11 80931<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [Z11 Y18626] |url=https://www.lddb.com/hddvd/01600/Z11-Y18626/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235801/https://www.lddb.com/hddvd/01600/Z11-Y18626/Full-Metal-Jacket |url-status=live }}</ref>
+|
+| rowspan="5" |1.78:1
+| rowspan="5" |1080p
+| rowspan="5" |HD-DVD
+|-
+|#Z11 Y18626<ref name="lddb.com">{{Cite web |title=LaserDisc Database – Full Metal Jacket [Z12 Y18626] |url=https://www.lddb.com/hddvd/01634/Z12-Y18626/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235759/https://www.lddb.com/hddvd/01634/Z12-Y18626/Full-Metal-Jacket |url-status=live }}</ref>
+|
+|1h 57m
+|-
+|Norway
+|#Z12 Y18626<ref name="lddb.com"/>
+|
+|1h 57m
+|-
+|Germany
+|#Z5 80931<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [Z5 80931] |url=https://www.lddb.com/hddvd/01120/Z5-80931/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235759/https://www.lddb.com/hddvd/01120/Z5-80931/Full-Metal-Jacket |url-status=live }}</ref>
+|
+| rowspan="2" |1h 56m
+|-
+|France
+|#Z7 80931
+|2006
+|-
+|USA
+|
+|September 5, 2006<ref>{{Cite web |title=Full Metal Jacket Blu-ray Review {{!}} High Def Digest |url=https://bluray.highdefdigest.com/54/fullmetaljacket.html#:~:text=Release%20Date:-,September%205th,%202006,-Movie%20Release%20Year |access-date=2024-01-22 |website=bluray.highdefdigest.com}}</ref>
+|1.77:1<ref>{{Citation |title=Full Metal Jacket Blu-ray |url=https://www.blu-ray.com/movies/Full-Metal-Jacket-Blu-ray/109/ |access-date=2024-01-22}}</ref>
+|1h 57m<ref>{{Cite web |title=Full Metal Jacket Blu-ray Review {{!}} High Def Digest |url=https://bluray.highdefdigest.com/54/fullmetaljacket.html#:~:text=Length:-,117,-Release%20Country:United |access-date=2024-01-22 |website=bluray.highdefdigest.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235758/https://bluray.highdefdigest.com/54/fullmetaljacket.html#:~:text=Length:-,117,-Release%20Country:United |url-status=live }}</ref>
+|1080p<ref>{{Cite web |title=Full Metal Jacket Blu-ray Review {{!}} High Def Digest |url=https://bluray.highdefdigest.com/54/fullmetaljacket.html#:~:text=Resolution/Codec:-,1080p,-/MPEG-2 |access-date=2024-01-22 |website=bluray.highdefdigest.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235758/https://bluray.highdefdigest.com/54/fullmetaljacket.html#:~:text=Resolution/Codec:-,1080p,-/MPEG-2 |url-status=live }}</ref>
+|Blu-ray
+|-
+|Japan
+|#WBHA-80931<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [WBHA-80931] |url=https://www.lddb.com/hddvd/00845/WBHA-80931/Full-Metal-Jacket#:~:text=(1987)%20%5B-,WBHA-80931%5D,-Country |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235804/https://www.lddb.com/hddvd/00845/WBHA-80931/Full-Metal-Jacket#:~:text=(1987)%20%5B-,WBHA-80931%5D,-Country |url-status=live }}</ref>
+|November 3, 2006
+| rowspan="2" |1.78:1
+|1h 57m
+| rowspan="2" |1080p
+| rowspan="2" |HD-DVD
+|-
+| rowspan="5" |USA
+|#11826<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket: Remastered [118626] |url=https://www.lddb.com/hddvd/00174/118626/Full-Metal-Jacket:-Remastered#:~:text=(1987)%20%5B-,118626,-%5D |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235800/https://www.lddb.com/hddvd/00174/118626/Full-Metal-Jacket:-Remastered#:~:text=(1987)%20%5B-,118626,-%5D |url-status=live }}</ref>
+|May 16, 2006
+|
+|-
+|
+|November 6, 2001<ref name="ReferenceF">{{Citation |title=Full Metal Jacket DVD (Limited Edition Collector's Set) |url=https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/81998/ |access-date=2024-01-22 |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235758/https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/81998/ |url-status=live }}</ref>
+|1.33:1<ref name="ReferenceF"/>
+|
+| rowspan="2" |480i
+| rowspan="2" |DVD
+|-
+|
+|June 12, 2001<ref name="Full Metal Jacket DVD Snap case">{{Citation |title=Full Metal Jacket DVD (Snap case) |url=https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/164864/ |access-date=2024-01-22 |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235801/https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/164864/ |url-status=live }}</ref>
+|1.85:1<ref name="Full Metal Jacket DVD Snap case"/>
+|
+|-
+|#21154
+|2001
+| rowspan="13" |1.33:1
+| rowspan="3" |1h 56m
+|mono
+|240 lines
+| rowspan="2" |[[NTSC]]
+|[[VHS]]
+|-
+|
+|June 29, 2001<ref name="ReferenceG">{{Citation |title=Full Metal Jacket DVD (Snap case) |url=https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/164866/ |access-date=2024-01-22 |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235801/https://www.blu-ray.com/dvd/Full-Metal-Jacket-DVD/164866/ |url-status=live }}</ref>
+|mono<ref name="ReferenceG"/>
+|480i
+|DVD
+|-
+|France
+|#1176013<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [1176013] |url=https://www.lddb.com/laserdisc/27918/1176013/Full-Metal-Jacket#:~:text=(1987)%20%5B-,1176013,-%5D |access-date=2024-01-22 |website=www.lddb.com}}</ref>
+|1995
+| rowspan="11" |mono
+|[[405-line television system|425 lines]]
+|[[PAL]]
+|[[LaserDisc]]
+|-
+|UK
+|#PES 11760
+|1993
+|
+|240 lines
+| rowspan="2" |NTSC
+|VHS
+|-
+|USA
+|#11760<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [11760] |url=https://www.lddb.com/laserdisc/02196/11760/Full-Metal-Jacket#:~:text=(1987)%20%5B-,11760%5D,-Country |access-date=2024-01-22 |website=www.lddb.com |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122235759/https://www.lddb.com/laserdisc/02196/11760/Full-Metal-Jacket#:~:text=(1987)%20%5B-,11760%5D,-Country |url-status=live }}</ref>
+|1991
+|1h 57m
+|425 lines
+|LaserDisc
+|-
+|Finland
+|#WES 11760
+|1991
+|Fazer Musiikki
+|1h 52m
+|576 lines
+|PAL
+|VHS
+|-
+|USA
+|#11760
+|1990
+| rowspan="7" |[[Warner Bros. Home Entertainment|Warner Home Video]]
+| rowspan="2" |1h 57m
+| rowspan="2" |425 lines
+| rowspan="5" |NTSC
+| rowspan="2" |LaserDisc
+|-
+| rowspan="2" |Japan
+|#NJL-11760
+|July 25, 1989<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [NJL-11760] |url=https://www.lddb.com/laserdisc/12870/NJL-11760/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com |archive-date=July 4, 2024 |archive-url=https://web.archive.org/web/20240704042133/https://www.lddb.com/laserdisc/12870/NJL-11760/Full-Metal-Jacket |url-status=live }}</ref>
+|-
+|#VHP47012
+|1989<ref>{{Cite web |title=LaserDisc Database – Full Metal Jacket [VHP47012] on VHD Victor/JVC |url=https://www.lddb.com/vhd/01433/VHP47012/Full-Metal-Jacket |access-date=2024-01-22 |website=www.lddb.com}}</ref>
+|1h 56m
+|320 lines
+|[[Video High Density|VHD]]
+|-
+|USA
+|#11760
+|1988
+|
+| rowspan="2" |240 lines
+| rowspan="3" |VHS
+|-
+|Japan
+|#NJV 11660
+|1987
+|
+|-
+|Australia
+|#PEV 11760
+|1987
+|1h 55m
+|576 lines
+|PAL
+|-
+|USA
+|
+|1987
+|
+|240 lines
+|NTSC
+|VHS
+|}
+The 2020 4K UHD release uses a new [[High-dynamic-range video|HDR]] [[remaster]]ed native [[4K resolution|2160p]] that was transferred from the original [[35 mm movie film|35mm]] negative, which was supervised by Kubrick's personal assistant [[Leon Vitali]]. It contains the remixed audio and, for the first time since the original DVD release, the theatrical mono mix. The release was a critical success; publications praised its image and audio quality, calling the former exceptionally good and faithful to the original theatrical release, and Kubrick's vision while noting the lack of new extras and bonus content.<ref>{{cite web|title=Full Metal Jacket – 4K Ultra HD Blu-ray Ultra HD Review {{!}} High Def Digest|url=https://ultrahd.highdefdigest.com/87090/fullmetaljacket4kultrahdbluray.html|access-date=2020-09-23|website=ultrahd.highdefdigest.com|archive-date=September 19, 2020|archive-url=https://web.archive.org/web/20200919124341/https://ultrahd.highdefdigest.com/87090/fullmetaljacket4kultrahdbluray.html|url-status=live}}</ref><ref>{{cite web|title=Full Metal Jacket 4K Blu-ray Review|url=https://www.avforums.com/reviews/full-metal-jacket-4k-blu-ray-review.18003 |author=Harlow, Casimir |access-date=2020-09-23|website=AVForums|date=September 22, 2020 |language=en-US|archive-date=September 25, 2020|archive-url=https://web.archive.org/web/20200925010537/https://www.avforums.com/reviews/full-metal-jacket-4k-blu-ray-review.18003|url-status=live}}</ref><ref>{{Citation|title=Full Metal Jacket 4K Blu-ray Release Date September 22, 2020|url=https://www.blu-ray.com/movies/Full-Metal-Jacket-4K-Blu-ray/262647/|access-date=2020-09-23|archive-date=September 29, 2020|archive-url=https://web.archive.org/web/20200929190611/https://www.blu-ray.com/movies/Full-Metal-Jacket-4K-Blu-ray/262647/|url-status=live}}</ref> A [[Special edition|collector's edition]] [[box set]] of this 4K UHD version was released with different cover art, a replica theatrical poster of the film, a letter from director Stanley Kubrick, and a booklet about the film's production among other extras.<ref>{{cite web|title=Full Metal Jacket Ultimate Collector's Edition [1987] (4K Ultra HD + Blu-ray)|url=https://shop.warnerbros.co.uk/full-metal-jacket-ultimate-collector-s-edition-1987-4k-ultra-hd-blu-ray|access-date=2020-09-23|website=shop.warnerbros.co.uk|language=en|archive-date=September 20, 2020|archive-url=https://web.archive.org/web/20200920072853/https://shop.warnerbros.co.uk/full-metal-jacket-ultimate-collector-s-edition-1987-4k-ultra-hd-blu-ray|url-status=live}}</ref>
+
+In 2026, it was announced that ''Full Metal Jacket'' was to be included in the [[The Criterion Collection|Criterion Collection]] alongside Kubrick's entire filmography as part of a special 4K UHD Blu-Ray box set titled ''The Complete Kubrick''. The release will feature never before seen behind the scenes footage shot by Vivian Kubrick alongside new and archival supplements. The set will be released in October 2026.<ref>{{Cite web |title=The Complete Kubrick |url=https://www.criterion.com/boxsets/9000-the-complete-kubrick |access-date=23 August 2026 |website=The Criterion Collection |language=en}}</ref>
+
+==Reception==
+===Critical reception===
+[[File:Rleeermeygfdl.jpg|thumb|[[R. Lee Ermey]] (pictured) was praised by critics for his performance as Hartman, leading him to win the [[Boston Society of Film Critics Award for Best Supporting Actor]].]]
+
+[[Review aggregator]] website [[Rotten Tomatoes]] retrospectively collected reviews to give the film a score of 90% based on reviews from 87 critics and an average rating of 8.6/10. The summary states; "Intense, tightly constructed, and darkly comic at times, Stanley Kubrick's ''Full Metal Jacket'' may not boast the most original of themes, but it is exceedingly effective at communicating them."<ref name="tomatoes" /><ref name="DailyBeast" /> Another aggregator, [[Metacritic]], gave it a score of 78 out of 100 based on 19 reviews, which indicates a "generally favorable" response.<ref name="MetacriticScore" /> Reviewers generally reacted favorably to the cast—Ermey in particular—<ref name="RevTime" /><ref name="RevVariety" /> and the film's first act about recruit training.<ref name="RevFilm4" /><ref name="RevEmpire" /> Several reviews, however, were critical of the latter part of the film, which is set in Vietnam, and what was considered a "muddled" moral message in the finale.<ref name="RevTimeOutlon" /><ref name="Ebert" />
+
+[[Richard Corliss]] of ''[[Time (magazine)|Time]]'' called the film a "technical knockout", praising "the dialogue's wild, desperate wit; the daring in choosing a desultory skirmish to make a point about war's pointlessness," and "the fine, large performances of almost every actor", saying Ermey and D'Onofrio would receive Oscar nominations. Corliss appreciated "the Olympian elegance and precision of Kubrick's filmmaking."<ref name="RevTime" /> ''[[Empire (film magazine)|Empire]]''{{'}}s Ian Nathan awarded the film three stars out of five, saying it is "inconsistent" and describing it as "both powerful and frustratingly unengaged". Nathan said after the opening act, which concerns the recruit training, the film becomes "bereft of purpose"; nevertheless, he summarized his review by calling it a "hardy Kubrickian effort that warms on you with repeated viewings" and praised Ermey's "staggering performance".<ref name="RevEmpire" /> [[Vincent Canby]] of ''[[The New York Times]]'' called the film "harrowing, beautiful and characteristically eccentric". Canby echoed praise for Ermey, calling him "the film's stunning surprise&nbsp;... he's so good—so obsessed—that you might think he wrote his own lines."{{efn|As noted above, much of Ermey's dialogue in the film was indeed based on his own improvisations.}} Canby said D'Onofrio's performance should be admired and described Modine as "one of the best, most adaptable young film actors of his generation", and concluded ''Full Metal Jacket'' is "a film of immense and very rare imagination".<ref name="RevNewYorkTimes" />
+
+Jim Hall, writing for [[Film4]] in 2010, awarded the film five stars out of five and added to the praise for Ermey, saying his "performance as the foul-mouthed Hartman is justly celebrated and it's difficult to imagine the film working anything like as effectively without him." The review preferred the opening training segment to the later Vietnam sequence, calling it "far more striking than the second and longer section". Hall commented the film ends abruptly but felt "it demonstrates just how clear and precise the director's vision could be when he resisted a fatal tendency for indulgence." Hall concluded; "''Full Metal Jacket'' ranks with ''[[Dr. Strangelove]]'' as one of Kubrick's very best."<ref name="RevFilm4" /> [[Jonathan Rosenbaum]] of the ''[[Chicago Reader]]'' called it "Elliptical, full of subtle inner rhymes&nbsp;... and profoundly moving, this is the most tightly crafted Kubrick film since ''Dr. Strangelove'', as well as the most horrific."<ref name="RevChicagoReader" /> [[Todd McCarthy]] in ''[[Variety (magazine)|Variety]]'' called the film an "intense, schematic, superbly made" drama that is "loaded with vivid, outrageously vulgar military vernacular that contributes heavily to the film's power" but said it never develops "a particularly strong narrative". The cast performances were all labeled "exceptional"; Modine was singled out as "embodying both what it takes to survive in the war and a certain omniscience".<ref name="RevVariety" /> [[Gilbert Adair]], writing about ''Full Metal Jacket'', commented: "Kubrick's approach to language has always been of a reductive and uncompromisingly deterministic nature. He appears to view it as the exclusive product of environmental conditioning, only very marginally influenced by concepts of subjectivity and interiority, by all whims, shades and modulations of personal expression."{{Sfn|Duncan|2003|pp=12–13}}
+
+''[[Chicago Sun-Times]]'' critic [[Roger Ebert]] called ''Full Metal Jacket'' "strangely shapeless" and awarded it two and a half stars out of four. Ebert called it "one of the best-looking war movies ever made on sets and stage" but said this was not enough to compete with the "awesome reality of ''[[Platoon (film)|Platoon]]'', ''[[Apocalypse Now]]'' and ''[[The Deer Hunter]]''." Ebert criticized the film's Vietnam-set second act, saying the "movie disintegrates into a series of self-contained set pieces, none of them quite satisfying" and concluded the film's message is "too little and too late", having been done by other Vietnam war films. Ebert praised Ermey and D'Onofrio, saying: "These are the two best performances in the movie, which never recovers after they leave the scene."<ref name="Ebert" /> Ebert's review angered [[Gene Siskel]] on their television show ''[[At the Movies (1986 TV program)|At The Movies]]''; he criticized Ebert for liking ''[[Benji the Hunted]]'' more than ''Full Metal Jacket''.<ref>{{cite news|last1=Scott|first1=A. O.|title=Review: In 'Max,' a Shellshocked Dog Reverts to His Heroic Self|url=https://www.nytimes.com/2015/06/26/movies/review-in-max-a-shellshocked-dog-reverts-to-his-heroic-self.html|access-date=October 19, 2017|work=The New York Times|date=June 25, 2015|archive-date=October 20, 2017|archive-url=https://web.archive.org/web/20171020033833/https://www.nytimes.com/2015/06/26/movies/review-in-max-a-shellshocked-dog-reverts-to-his-heroic-self.html|url-status=live}}</ref> ''[[Time Out (magazine)|Time Out London]]'' disliked the film, saying: "Kubrick's direction is as steely cold and manipulative as the régime it depicts," and that the characters are underdeveloped, adding "we never really get to know, let alone care about, the hapless recruits on view".<ref name="RevTimeOutlon" />
+
+Audiences polled by [[CinemaScore]] gave the film an average grade of "B+" on an A+ to F scale.<ref>{{Cite web |title=Home |url=https://www.cinemascore.com/ |access-date=2022-11-23 |website=CinemaScore |language=en-US |archive-date=January 2, 2018 |archive-url=https://web.archive.org/web/20180102130540/https://www.cinemascore.com/ |url-status=live }}</ref>
+
+British television channel [[Channel 4]] voted ''Full Metal Jacket'' fifth on its list of the greatest war films ever made.<ref name="Channel4" /> In 2008, ''[[Empire (film magazine)|Empire]]'' placed the film at number 457 on its list of "The 500 Greatest Movies of All Time."<ref name="Empire500" /> In 2010, ''[[The Guardian]]'' ranked it 19th on its list of the "25 best action and war films of all time."<ref>{{cite news|author=Patterson, John |date=19 October 2010|url=https://www.theguardian.com/film/2010/oct/19/full-metal-jacket-action|title= Full Metal Jacket: No 19 best action and war film of all time|newspaper=The Guardian|access-date=12 July 2021}}</ref> The film is ranked 95 on the American Film Institute's [[100 Years... 100 Thrills]] list, which was published in 2001.<ref>{{cite web|title=AFI list of America's most heart-pounding movies|url=http://www.afi.com/Docs/tvevents/pdf/thrills100.pdf|url-status=live|archive-url=https://web.archive.org/web/20160629221917/http://www.afi.com/Docs/tvevents/pdf/thrills100.pdf|archive-date=June 29, 2016|access-date=February 21, 2014|publisher=American Film Institute}}</ref>
+
+===Accolades===
+Between 1987 and 1989, ''Full Metal Jacket'' was nominated for eleven awards, including an [[Academy Award]] for [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]],<ref name="Oscars1988" /><ref name="Oscars19882" /> two [[BAFTA Award]]s for [[BAFTA Award for Best Sound|Best Sound]] and [[BAFTA Award for Best Special Visual Effects|Best Special Effects]],<ref name="BAFTA" /> and a [[Golden Globe]] for [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor]] for Ermey.<ref name="goldenglobes" /> It won five awards, including three from overseas; Best Foreign Language Film from the [[Awards of the Japanese Academy|Japanese Academy]], Best Producer from the [[Accademia del Cinema Italiano|Academy of Italian Cinema]],<ref name="daviddidonatello" /> Director of the Year at the [[London Critics Circle Film Awards]] and [[Boston Society of Film Critics Award for Best Director|Best Director]] and [[Boston Society of Film Critics Award for Best Supporting Actor|Best Supporting Actor]] at the [[Boston Society of Film Critics Awards]] for Kubrick and Ermey respectively.<ref name="BostonSOFCA" /> Of the five awards it won, four were awarded to Kubrick and the other was given to Ermey.
+
+{| class="wikitable" style="width:99%;"
+|-
+! Year !! Award !! Category !! Recipient!! Result !! Ref.
+|-
+|rowspan="2"| 1987
+|rowspan="2"| [[BAFTA Awards]]
+| [[BAFTA Award for Best Sound|Best Sound]]
+| Nigel Galt, Edward Tise and [[Andy Nelson (sound engineer)|Andy Nelson]]
+|{{nom}}
+| style="text-align:center;"|<ref name="BAFTA" />
+|-
+| [[BAFTA Award for Best Special Visual Effects|Best Special Effects]]
+| [[John Evans (special effects)|John Evans]]
+|{{nom}}
+| style="text-align:center;"|<ref name="BAFTA" />
+|-
+|rowspan="7"| 1988
+|rowspan="1"|  [[60th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Stanley Kubrick, Michael Herr and Gustav Hasford
+|{{nom}}
+| style="text-align:center;"|<ref name="Oscars1988" /><ref name="Oscars19882" />
+|-
+|rowspan="2"| [[Boston Society of Film Critics Awards]]
+| [[Boston Society of Film Critics Award for Best Director|Best Director]]
+| Stanley Kubrick
+|{{won}}
+|rowspan="2" style="text-align:center;"|<ref name="BostonSOFCA" />
+|-
+| [[Boston Society of Film Critics Award for Best Supporting Actor|Best Supporting Actor]]
+| R. Lee Ermey
+|{{won}}
+|-
+|rowspan="1"| [[David di Donatello Awards]]
+| [[David di Donatello for Best Producer|Best Producer]] – Foreign film
+| Stanley Kubrick
+|{{won}}
+| style="text-align:center;"|<ref name="daviddidonatello" />
+|-
+|rowspan="1"| [[Golden Globes]]
+| [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor – Motion Picture]]
+| R. Lee Ermey
+|{{nom}}
+| style="text-align:center;"|<ref name="goldenglobes" />
+|-
+|rowspan="1"| [[London Critics Circle Film Awards]]
+| Director of the Year
+| Stanley Kubrick
+|{{won}}
+| style="text-align:center;"|
+|-
+|rowspan="1"| [[Writers Guild of America Award|Writers Guild of America]]
+| [[Writers Guild of America Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Stanley Kubrick, Michael Herr, Gustav Hasford
+|{{nom}}
+| style="text-align:center;"|
+|-
+|rowspan="2"| 1989
+|rowspan="1"| [[Kinema Junpo]] Awards
+| Best Foreign Language Film Director
+| Stanley Kubrick
+|{{won}}
+| style="text-align:center;"|
+|-
+|rowspan="1"|  [[Awards of the Japanese Academy]]
+|  Best Foreign Language Film
+| Stanley Kubrick
+|{{nom}}
+| style="text-align:center;"|
+|-
+|}
+
+==Differences between novel and screenplay==
+Film scholar Greg Jenkins has analyzed the adaptation of the novel as a screenplay. The novel is in three parts and the film greatly expands the relatively brief first section about the boot camp on [[Marine Corps Recruit Depot Parris Island|Parris Island]] and essentially discards Part III. This gives the film a twofold structure, telling two largely independent stories that are connected by the same characters. Jenkins said this structure is a development of concepts Kubrick originally discussed in the 1960s, when he talked about wanting to explode the usual conventions of narrative structure.{{Sfn|Jenkins|1997|p=128}}
+
+Sergeant Hartman, who is renamed from the book's Gerheim, has an expanded role in the film. Private Pyle's incompetence is presented as weighing negatively on the rest of the platoon; unlike the novel, he is the only under-performing recruit.{{Sfn|Jenkins|1997|p=123}} The film omits Gerheim's disclosure that he thinks Pyle might be mentally unstable—a "[[Section 8 (military)|Section 8]]"—to the other troops; instead, Joker questions Pyle's mental state. In contrast, Hartman praises Pyle, saying he is "born again hard". Jenkins says that portraying Hartman as having a warmer social relationship with the troops would have upset the balance of the film, which depends on the spectacle of ordinary soldiers coming to grips with Hartman as a force of nature who embodies a killer culture.{{Sfn|Jenkins|1997|p=124}}
+
+Some scenes in the book were removed from the screenplay or conflated with others. For example, Cowboy's introduction of the "Lusthog Squad" was markedly shortened and supplemented with material from other sections of the book. Although the book's third section was largely omitted, elements from it were inserted into other parts of the film.{{Sfn|Jenkins|1997|p=146}} For instance, the climactic episode with the sniper is a conflation of two sections of Parts II and III of the book. According to Jenkins, the film presents this passage more dramatically but in less gruesome detail than the novel.
+
+The film often has a more tragic tone than the book, which relies on callous humor. In the film, Joker remains a model of humane thinking, as evidenced by his moral struggle in the sniper scene and elsewhere. Joker works to overcome his own meekness rather than compete with other Marines. The film omits Joker's eventual domination over Animal Mother shown in the book.{{Sfn|Jenkins|1997|p=147}}
+
+The film also omits Rafter Man's death; according to Jenkins, this allows viewers to reflect on Rafter Man's personal growth and speculate on his future growth after the war.{{Sfn|Jenkins|1997|p=146}}
+
+==In popular culture==
+A portion of Gunnery Sergeant Hartman's speech to the Parris Island recruits, and portions of the recruits' recitation of the [[Rifleman's Creed]], are sampled in the [[Combichrist]] song "This Is My Rifle" from the album ''[[Everybody Hates You]]''.
+
+The line "Me so horny. Me love you long time," which is uttered by the Da Nang street prostitute to Joker, became a catchphrase in popular culture<ref>{{cite web |last1=Vineyard |first1=Jennifer |title=Mariah Carey, Fergie Promise To 'Love You Long Time' – But Is The Phrase Empowering Or Insensitive? |url=http://www.mtv.com/news/1591868/mariah-carey-fergie-promise-to-love-you-long-time-but-is-the-phrase-empowering-or-insensitive/ |website=MTV News |archive-url=https://web.archive.org/web/20190310103428/http://www.mtv.com/news/1591868/mariah-carey-fergie-promise-to-love-you-long-time-but-is-the-phrase-empowering-or-insensitive/ |archive-date=March 10, 2019 |date=July 30, 2008}}</ref><ref>{{cite news |last1=Powers |first1=Ann |title=Love is lost on this phrase |url=https://www.newspapers.com/clip/27897449/ |work=[[Chicago Tribune]] |date=8 December 2010 |page=66 |via=Newspapers.com |access-date=April 3, 2019 |archive-date=May 5, 2021 |archive-url=https://web.archive.org/web/20210505021248/https://www.newspapers.com/clip/27897449/chicago-tribune/ |url-status=live }}</ref> and was [[Sampling (music)|sampled]] by rap artists [[2 Live Crew]] in their 1989 hit "[[Me So Horny]]" and by [[Sir Mix-A-Lot]] in "[[Baby Got Back]]" (1992).<ref>{{cite news |last1=Knopper |first1=Steve |title=The Crew still has plenty of life left |url=https://www.newspapers.com/clip/27897394/ |work=[[Chicago Tribune]] |date=14 March 2003 |page=8 |via=Newspapers.com |access-date=April 3, 2019 |archive-date=May 5, 2021 |archive-url=https://web.archive.org/web/20210505021318/https://www.newspapers.com/clip/27897394/chicago-tribune/ |url-status=live }}</ref><ref name="McGowan">{{cite news |last1=McGowan |first1=Kelly |title=A restaurant named Me So Hungry: tasteless? |url=https://www.usatoday.com/story/news/nation-now/2017/07/19/tasteless-restaurant-name/493111001/ |work=[[USA Today]] |date=July 19, 2017 |archive-url=https://web.archive.org/web/20170731124519/https://www.usatoday.com/story/news/nation-now/2017/07/19/tasteless-restaurant-name/493111001/ |archive-date=July 31, 2017}}</ref> Many Asian American women have experienced instances of people quoting the line at them, which is often viewed as offensive.<ref>{{cite web |date=July 3, 2019 |access-date=July 26, 2026 |last=Griffith |first=Janelle |title=Asian American jobseeker says she was sent racist email by Chicago recruiter | url=https://www.nbcnews.com/news/us-news/asian-american-jobseeker-says-she-was-sent-racist-email-chicago-n1026296}} </ref><ref>{{cite web |date=April 2, 2021| access-date=July 26, 2026 |last=Hess |first=Corri |title =‘It’s Not Enough To Not Be The Attacker’: Asian Americans In Milwaukee Ask For Allyship |url=https://www.wpr.org/diversity-and-inclusion/its-not-enough-not-be-attacker-asian-americans-milwaukee-ask-allyship}}</ref><ref>{{cite web |date=July 22, 2022| access-date=July 26, 2026 |title ="Love me oolong time” promotion sparks uproar |url=https://asamnews.com/2022/07/22/offensive-racist-scene-from-full-metal-jacket-resurfaces-in-market-promotion/}}</ref>
+
+==See also==
+* ''[[Paths of Glory]]''
+* [[List of Vietnam War films]]
+
+==Notes==
+{{notelist}}
+
+==References==
+<references>
+<ref name="BAFTA">{{cite web |url=http://www.bafta.org/awards/film/nominations/?year=1987 |title=Film Nominations 1987 |access-date=October 16, 2011 |work=bafta.org |archive-date=September 22, 2011 |archive-url=https://web.archive.org/web/20110922081507/http://www.bafta.org/awards/film/nominations/?year=1987 |url-status=live }}</ref>
+
+<ref name="BOMojoRun">{{cite web|title=Full Metal Jacket 1987|url=https://www.boxofficemojo.com/movies/?page=weekend&id=fullmetaljacket.htm|work=Box Office Mojo|access-date=October 25, 2011|archive-date=February 24, 2014|archive-url=https://web.archive.org/web/20140224180721/http://www.boxofficemojo.com/movies/?page=weekend&id=fullmetaljacket.htm|url-status=live}}</ref>
+
+<ref name="BostonSOFCA">{{cite web |url=http://www.bostonfilmcritics.org/content/past-award-winners#1980s |title=BSFC Past Award Winners |work=BSFC |access-date=July 13, 2014 |archive-url=https://web.archive.org/web/20120204120731/http://www.bostonfilmcritics.org/content/past-award-winners#1980s |archive-date=February 4, 2012 |url-status=dead}}</ref>
+
+<ref name="cahill">{{cite magazine | last = Cahill | first = Tim | title = The ''Rolling Stone'' Interview | magazine = [[Rolling Stone]] | year = 1987 | url = http://www.visual-memory.co.uk/amk/doc/0077.html | access-date = October 11, 2007 | archive-date = September 27, 2007 | archive-url = https://web.archive.org/web/20070927031746/http://www.visual-memory.co.uk/amk/doc/0077.html | url-status = live }}</ref>
+
+<ref name="carlton">{{cite news| last = Carlton| first = Bob| title = Alabama Native wrote the book on Vietnam Film| work = [[The Birmingham News]]| url = http://www.gustavhasford.com/interview.htm| access-date = October 11, 2007| archive-url = https://web.archive.org/web/20120406020501/http://www.gustavhasford.com/interview.htm| archive-date = April 6, 2012| url-status = dead}}</ref>
+
+<ref name="Channel4">{{cite web  |title=Channel 4's 100 Greatest War Movies of All Time  |url=http://www.listal.com/list/100-greatest-war-films  |access-date=August 13, 2011  |archive-date=August 12, 2011  |archive-url=https://web.archive.org/web/20110812094242/http://www.listal.com/list/100-greatest-war-films  |url-status=live  }}</ref>
+
+<ref name="DailyBeast">{{cite web|title=The Undeclared War Over Full Metal Jacket|url=http://www.thedailybeast.com/blogs-and-stories/2010-03-26/seven-classic-at-the-movies-moments/full/|work=The Daily Beast|publisher=RTST, INC|access-date=July 28, 2010|archive-date=April 1, 2010|archive-url=https://web.archive.org/web/20100401175321/http://www.thedailybeast.com/blogs-and-stories/2010-03-26/seven-classic-at-the-movies-moments/full/|url-status=live}}</ref>
+
+<ref name="daviddidonatello">{{cite web|url=http://www.daviddidonatello.it/english/cercafilmvincitori2.php?idfilm=114&vinfilm=full_metal_jacket|title=David di Donatello Awards|access-date=October 16, 2011|work=daviddidonatello.it|archive-url=https://web.archive.org/web/20120401223319/http://www.daviddidonatello.it/english/cercafilmvincitori2.php?idfilm=114&vinfilm=full_metal_jacket|archive-date=April 1, 2012|url-status=dead}}</ref>
+
+<ref name="Ebert">{{cite web|last=Ebert|first=Roger|title=Full Metal Jacket|url=https://www.rogerebert.com/reviews/full-metal-jacket-1987|work=rogerebert.com|access-date=October 19, 2017|date=June 26, 1987|archive-date=January 14, 2021|archive-url=https://web.archive.org/web/20210114151234/https://www.rogerebert.com/reviews/full-metal-jacket-1987|url-status=live}}</ref>
+
+<ref name="Empire500">{{cite web|title=The 500 Greatest Movies of All Time|url=https://www.empireonline.com/500/8.asp|publisher=Bauer Consumer Media.|access-date=July 28, 2010|archive-date=January 19, 2012|archive-url=https://web.archive.org/web/20120119170317/http://www.empireonline.com/500/8.asp|url-status=live}}</ref>
+
+<ref name="goldenglobes">{{cite web |url=http://www.goldenglobes.org/browse/film/24107 |title=Awards Search |access-date=October 16, 2011 |work=goldenglobes.org |archive-url=https://web.archive.org/web/20120927184801/http://www.goldenglobes.org/browse/film/24107 |archive-date=September 27, 2012 |url-status=dead }}</ref>
+
+<ref name="JulianRice">Rice, Julian (2008). ''Kubrick's Hope: Discovering Optimism from ''2001'' to ''Eyes Wide Shut. Scarecrow Press.</ref>
+
+<ref name="Kempley">Kempley, Rita. [https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/fullmetaljacketrkempley_a0ca77.htm Review] {{Webarchive|url=https://web.archive.org/web/20171208234525/http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/fullmetaljacketrkempley_a0ca77.htm |date=December 8, 2017 }}, ''The Washington Post''.</ref>
+
+<ref name="linfield">{{cite news | last = Linfield | first = Susan | title = The Gospel According to Matthew | publisher = American Film | date = October 1987 | url = http://www.gustavhasford.com/interview-modine.htm | access-date = October 11, 2007 | archive-url = https://web.archive.org/web/20120406020508/http://www.gustavhasford.com/interview-modine.htm | archive-date = April 6, 2012 | url-status=dead | df = dmy-all }}</ref>
+
+<ref name="MetacriticScore">{{cite news| title=Full Metal Jacket| work=[[Metacritic]]| date=October 20, 2011| url=https://www.metacritic.com/movie/full-metal-jacket| access-date=October 20, 2011| archive-date=November 6, 2018| archive-url=https://web.archive.org/web/20181106232530/https://www.metacritic.com/movie/full-metal-jacket| url-status=live}}</ref>
+
+<ref name="Music2">{{cite web|url=http://www.officialcharts.com/search/singles/full%20metal%20jacket%20%28i%20wanna%20be%20your%20drill%20instructor%29/|title=Official singles Chart results matching:full metal jacket (i wanna be your drill instructor)|work=[[Official Charts Company]]|access-date=April 5, 2016|archive-date=May 11, 2016|archive-url=https://web.archive.org/web/20160511121821/http://www.officialcharts.com/search/singles/full%20metal%20jacket%20(i%20wanna%20be%20your%20drill%20instructor)/|url-status=live}}</ref>
+
+<ref name="Oscars1988">{{cite web |url=http://www.oscars.org/oscars/ceremonies/1988 |title=The 60th Academy Awards (1988) Nominees and Winners |access-date=October 16, 2011 |work=oscars.org |archive-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150402004300/http://www.oscars.org/oscars/ceremonies/1988 |url-status=live }}</ref>
+
+<ref name="Oscars19882">{{cite web|url=https://movies.nytimes.com/movie/18878/Full-Metal-Jacket/awards|archive-url=https://web.archive.org/web/20080227203813/http://movies.nytimes.com/movie/18878/Full-Metal-Jacket/awards|url-status=dead|archive-date=February 27, 2008|department=Movies & TV Dept.|work=[[The New York Times]]|date=2008|title=Full Metal Jacket (1987) |access-date=July 22, 2010}}</ref>
+
+<ref name="RevChicagoReader">{{Cite web|url=https://www.metacritic.com/movie/full-metal-jacket|title=Full Metal Jacket|via=www.metacritic.com|access-date=April 20, 2020|archive-date=November 6, 2018|archive-url=https://web.archive.org/web/20181106232530/https://www.metacritic.com/movie/full-metal-jacket|url-status=live}}</ref>
+
+<ref name="RevFilm4">{{cite web | date = January 5, 2010 <!-- date from page meta tags--> | first = Jim | last = Hall | url = http://www.film4.com/reviews/1987/full-metal-jacket | title = Fast & Furious 5 | work = [[Film4]] | access-date = October 20, 2011 | archive-date = March 1, 2013 | archive-url = https://web.archive.org/web/20130301231125/http://www.film4.com/reviews/1987/full-metal-jacket | url-status = live }}</ref>
+
+<ref name="RevEmpire">{{cite web |last=Nathan |first=Ian |url=https://www.empireonline.com/reviews/reviewcomplete.asp?FID=14714 |title=Full Metal Jacket |access-date=October 20, 2011 |work=[[Empire (magazine)|Empire]] |archive-date=February 26, 2014 |archive-url=https://web.archive.org/web/20140226061729/http://www.empireonline.com/reviews/reviewcomplete.asp?FID=14714 |url-status=live }}</ref>
+
+<ref name="RevNewYorkTimes">{{cite news|last=Canby|first=Vincent|url=https://www.nytimes.com/library/film/062687kubrick-jacket.html|title=Kubrick's 'Full Metal Jacket,' on Vietnam|date=June 26, 1987|access-date=October 20, 2011|work=[[The New York Times]]|archive-date=July 26, 2008|archive-url=https://web.archive.org/web/20080726131451/http://www.nytimes.com/library/film/062687kubrick-jacket.html|url-status=live}}</ref>
+
+<ref name="RevTime">{{cite magazine|last=Corliss|first=Richard|url=http://www.time.com/time/magazine/article/0,9171,964819-2,00.html|title=Cinema: Welcome To Viet Nam, the Movie: II Full Metal Jacket|magazine=[[Time (magazine)|Time]]|date=June 29, 1987|access-date=October 20, 2011|archive-date=December 13, 2012|archive-url=https://web.archive.org/web/20121213051837/http://www.time.com/time/magazine/article/0,9171,964819-2,00.html|url-status=dead}}</ref>
+
+<ref name="RevTimeOutlon">{{cite web|url=https://www.timeout.com/film/reviews/67162/full_metal_jacket.html|title=Full Metal Jacket (1987)|work=[[Time Out London]]|access-date=October 21, 2011|archive-url=https://web.archive.org/web/20111012135908/http://www.timeout.com/film/reviews/67162/full_metal_jacket.html|archive-date=October 12, 2011|url-status=dead}}</ref>
+
+<ref name="RevVariety">{{cite magazine |title=Full Metal Jacket |magazine=[[Variety (magazine)|Variety]] |date=June 24, 1987|page=12 |url=https://www.variety.com/review/VE1117791156?refcatid=31 |access-date=March 20, 2026 |last=McCarthy|first=Todd|author-link=Todd McCarthy}}</ref>
+
+<ref name="rose">{{cite news | last = Rose | first = Lloyd | title = Stanley Kubrick, At a Distance | newspaper = The Washington Post | date = June 28, 1987 | url = https://www.washingtonpost.com/wp-srv/style/movies/features/kubrick1987.htm | access-date = October 11, 2007 | archive-date = November 4, 2012 | archive-url = https://web.archive.org/web/20121104173552/http://www.washingtonpost.com/wp-srv/style/movies/features/kubrick1987.htm | url-status = live }}</ref>
+
+<ref name="tomatoes">{{cite news| title= Full Metal Jacket (1987)| work= [[Rotten Tomatoes]]| date= October 20, 2011| url= https://www.rottentomatoes.com/m/full_metal_jacket| access-date= October 20, 2011| archive-date= October 5, 2011| archive-url= https://web.archive.org/web/20111005180917/http://www.rottentomatoes.com/m/full_metal_jacket/| url-status= live}}</ref>
+
+<ref name="ugodz">{{cite web |publisher=Underground Online |title=Anthony Michael Hall from The Dead Zone – Interview |first=Dan |last=Epstein |url=http://www.ugo.com/channels/filmtv/features/anthonymichaelhall/ |access-date=August 12, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091108131037/http://www.ugo.com/channels/filmtv/features/anthonymichaelhall/ |archive-date=November 8, 2009}}</ref>
+
+<ref name="watson">{{cite news | last = Watson | first = Ian | title = Plumbing Stanley Kubrick | work = [[Playboy]] | year = 2000 | url = http://www.visual-memory.co.uk/amk/doc/0094.html | access-date = October 11, 2007 | archive-date = August 12, 2007 | archive-url = https://web.archive.org/web/20070812225740/http://www.visual-memory.co.uk/amk/doc/0094.html | url-status = live }}</ref>
+
+<ref name="Willis">{{cite web|title=Bruce Willis: Playboy Interview|url=http://www.playboy.com/articles/playboy-interview-bruce-willis/index.html?page=2|work=[[Playboy]]|publisher=Playboy.com|access-date=July 28, 2010|archive-url=https://web.archive.org/web/20110607104629/http://www.playboy.com/articles/playboy-interview-bruce-willis/index.html?page=2|archive-date=June 7, 2011|url-status=dead}}</ref>
+</references>
+
+==Bibliography==
+* {{cite book|last=Baxter|first=John|title=Stanley Kubrick: A Biography|year=1997|publisher=Harper|isbn=978-0-00-638445-8}}
+* {{cite book|last=Duncan|first=Paul|year=2003|title=Stanley Kubrick: The Complete Films|publisher=Taschen GmbH|isbn=978-3836527750}}
+* {{cite book|last=Jenkins|first=Greg|title=Stanley Kubrick and the Art of Adaptation: Three Novels, Three Films|url=https://books.google.com/books?id=LdtgrdX3VMsC|date=1997|publisher=McFarland|isbn=978-0-7864-3097-0}}
+* {{cite book|last1=Kubrick|first1=S.|author-link1=Stanley Kubrick|last2=Herr|first2=M.|author-link2=Michael Herr|last3=Hasford|first3=G.|author-link3=Gustav Hasford|title=Full Metal Jacket: The Screenplay|publisher=Knopf|series=Borzoi book|year=1987|isbn=978-0-394-75823-7|url=https://books.google.com/books?id=br9KtgEACAAJ}}
+* {{cite book|last=Kubrick|first=Stanley|title=Full Metal Jacket|url=https://archive.org/details/fullmetaljackets0000kubr|url-access=registration|year=1987|publisher=Knopf|isbn=978-0394758237}}
+* {{cite book|last=Modine|first=Matthew|title=Full Metal Jacket Diary|year=2005|publisher=Rugged Land|isbn=978-1590710470}}
+
+== External links ==
+{{commons category}}
+{{wikiquote}}
+* {{IMDb title|0093058}}
+* {{mojo title|fullmetaljacket}}
+* {{Rotten Tomatoes|full_metal_jacket}}
+* {{Metacritic film}}
+
+{{Stanley Kubrick}}
+{{Portal bar|Film|United States|1980s|United Kingdom}}
+{{authority control}}
+
+[[Category:1987 American films]]
+[[Category:1987 British films]]
+[[Category:1987 English-language films]]
+[[Category:1987 war drama films]]
+[[Category:1987 films]]
+[[Category:American war drama films]]
+[[Category:Anti-war films about the Vietnam War]]
+[[Category:Articles containing video clips]]
+[[Category:British war drama films]]
+[[Category:Columbia Pictures films]]
+[[Category:English-language war drama films]]
+[[Category:Films about child soldiers]]
+[[Category:Films about hazing]]
+[[Category:Films about murder–suicide]]
+[[Category:Films about the United States Marine Corps]]
+[[Category:Films based on American novels]]
+[[Category:Films directed by Stanley Kubrick]]
+[[Category:Films produced by Stanley Kubrick]]
+[[Category:Films set in 1968]]
+[[Category:Films set in Da Nang]]
+[[Category:Films set in Huế]]
+[[Category:Films set in South Carolina]]
+[[Category:Films set in Vietnam]]
+[[Category:Films set in the 1960s]]
+[[Category:Films shot at Pinewood Studios]]
+[[Category:Films shot in England]]
+[[Category:Films with screenplays by Gustav Hasford]]
+[[Category:Films with screenplays by Michael Herr]]
+[[Category:Films with screenplays by Stanley Kubrick]]
+[[Category:Saturn Award–winning films]]
+[[Category:Vietnam War films]]
+[[Category:Warner Bros. films]]

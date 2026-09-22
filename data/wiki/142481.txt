@@ -1,0 +1,593 @@
+{{short description|2001 film by Baz Luhrmann}}
+{{about|the 2001 motion picture|the Parisian cabaret|Moulin Rouge|the Broadway musical|Moulin Rouge! (musical){{!}}''Moulin Rouge!'' (musical)|other uses|Moulin Rouge (disambiguation)}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox film
+| name           = Moulin Rouge!
+| image          = Moulin_rouge_poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Baz Luhrmann]]
+| producer       = {{Plainlist|
+* Martin Brown
+* Baz Luhrmann
+* [[Fred Baron (producer)|Fred Baron]]}}
+| writer         = {{Plainlist|
+* Baz Luhrmann
+* [[Craig Pearce]]}}
+| starring       = {{Plainlist|
+* [[Nicole Kidman]]
+* [[Ewan McGregor]]
+* [[John Leguizamo]]
+* [[Jim Broadbent]]
+* [[Richard Roxburgh]]}}
+| music          = [[Craig Armstrong (composer)|Craig Armstrong]]
+| cinematography = [[Donald M. McAlpine]]
+| editing        = [[Jill Bilcock]]
+| studio         = [[:fr:Bazmark|Bazmark Productions]]
+| distributor    = [[20th Century Studios|20th Century Fox]]
+| released       = {{Film date|df=yes|2001|05|09|[[2001 Cannes Film Festival|Cannes]]|ref1=<ref name=Farache>{{cite news|last=Farache|first=Emily|url=https://www.eonline.com/news/41340/moulin-rouge-does-cannes-cannes|title='Moulin Rouge' Does Cannes-Cannes|work=[[E! Online]]|date=21 March 2001|access-date=29 January 2021}}</ref>|2001|05|25|Australia|2001|06|01|United States|ref2=<ref name=Farache />|ref3=<ref name="numbers-summary">{{cite web|url=https://www.the-numbers.com/movie/Moulin-Rouge#tab=summary|title=Moulin Rouge (2001) [Summary]|date=2021|website=[[The Numbers (website)|The Numbers]]|access-date=19 January 2021|url-status=live|archive-url=https://web.archive.org/web/20210110143525/https://www.the-numbers.com/movie/Moulin-Rouge#tab=summary|archive-date=10 January 2021}}</ref>}}
+| runtime        = 128 minutes<!--Theatrical runtime: 127:42--><ref>{{cite web|title=MOULIN ROUGE|url=http://www.bbfc.co.uk/releases/moulin-rouge-2001-4|publisher=[[British Board of Film Classification]]|date=n.d.|access-date=7 March 2013|url-status=dead|archive-url=https://web.archive.org/web/20131224102327/https://www.bbfc.co.uk/releases/moulin-rouge-2001-4|archive-date=24 December 2013}}</ref>
+| country        = {{Plainlist|
+* Australia<ref name=bfi>{{cite news|url=https://www2.bfi.org.uk/films-tv-people/4ce2b83847d22|archive-url=https://web.archive.org/web/20160811133846/http://www.bfi.org.uk/films-tv-people/4ce2b83847d22|url-status=dead|archive-date=11 August 2016|title=Moulin Rouge!|website=bfi|access-date=10 October 2022}}</ref>
+* United States<ref name=bfi/>
+}}
+| language       = English
+| budget         = $50 million<ref name="mojo">{{Cite web|url=https://www.boxofficemojo.com/movies/?id=moulinrouge.htm| title=''Moulin Rouge!''|website=[[Box Office Mojo]]|access-date=27 March 2009|url-status=live|archive-url=https://web.archive.org/web/20200702165859/https://www.boxofficemojo.com/release/rl2942666241|archive-date=2 July 2020}}</ref>
+| gross          = $179 million<ref name="mojo" />
+}}
+'''''Moulin Rouge!''''' ({{IPAc-en|ˌ|m|uː|l|æ̃|_|ˈ|ɹ|uː|ʒ}}, {{IPA|fr|mulɛ̃ ʁuʒ|lang}}<ref>{{cite book|last=Wells|first=John C.|author-link=John C. Wells|title=Longman Pronunciation Dictionary|edition=3rd|publisher=[[Longman]]|date=2008|isbn=978-1-4058-8118-0|url=https://books.google.com/books?id=gXFAngEACAAJ}}</ref>) is a 2001 [[jukebox musical]] [[romantic drama]] film directed, produced, and co-written by [[Baz Luhrmann]]. It follows a British poet, Christian, who falls in love with the star of the [[Moulin Rouge]], [[cabaret]] actress and [[courtesan]] Satine. 
+
+The film uses the musical setting of the [[Montmartre|Montmartre Quarter]] of [[Paris]] and is the final part of Luhrmann's ''[[Red Curtain Trilogy]]'', following ''[[Strictly Ballroom]]'' (1992) and ''[[Romeo + Juliet]]'' (1996). A co-production of Australia and the United States, it features an [[ensemble cast]] starring [[Nicole Kidman]] and [[Ewan McGregor]], with [[Jim Broadbent]], [[Richard Roxburgh]], [[John Leguizamo]], [[Jacek Koman]], and [[Caroline O'Connor (actress)|Caroline O'Connor]] in supporting roles.
+
+''Moulin Rouge!'' premiered at the [[2001 Cannes Film Festival]], where it competed for the [[Palme d'Or]]<ref name=Cannes /> and was released in theaters on 25 May 2001 in Australia and on 1 June 2001 in North America. The film was praised for Luhrmann's direction, the performances of the cast, its soundtrack, costume design, and production values. It was also a commercial success, grossing $179 million on a $50 million budget. At the [[74th Academy Awards]], the film received eight nominations, including [[Academy Award for Best Picture|Best Picture]], and won two ([[Academy Award for Best Production Design|Best Production Design]] and [[Academy Award for Best Costume Design|Best Costume Design]]). Later critical reception for ''Moulin Rouge!'' remained positive and has been considered by many to be one of the best films [[List of films considered the best|of all time]], with it ranking 53rd in the [[BBC]]'s 2016 poll of the 100 greatest films of the 21st century.<ref>{{cite web|url=http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films|title=The 21st century's 100 greatest films|publisher=[[BBC]]|date=23 August 2016|access-date=14 January 2017|url-status=live|archive-url=https://web.archive.org/web/20200515161006/https://www.bbc.com/culture/article/20160819-the-21st-centurys-100-greatest-films|archive-date=15 May 2020}}</ref><ref>{{cite web | url=https://variety.com/lists/best-movies-of-all-time/moulin-rouge-2001-2/ | title=The 100 Greatest Movies of All Time | date=21 December 2022|work=[[Variety (magazine)|Variety]] }}</ref> A [[Moulin Rouge! (musical)|stage musical adaptation]] premiered in 2018.
+
+==Plot==
+In 1900 in [[Paris]], Christian, a young writer depressed and grief-stricken about the recent death of the woman he loved, begins writing their story on his typewriter.
+
+A year earlier in 1899, he arrives in the [[Montmartre]] district of Paris to join the [[Bohemianism|Bohemian movement]]. He suddenly meets [[Henri de Toulouse-Lautrec]] and his troupe of performers who are writing a play called ''Spectacular Spectacular''. After Christian helps them complete the play, they go to the [[Moulin Rouge]] where they hope Christian's talents will impress Satine, the star performer and [[courtesan]], who will in turn convince Harold Zidler, the proprietor of the Moulin Rouge, to let Christian write the show. However, Zidler plans to have the wealthy, powerful and unscrupulous Duke of Monroth sleep with Satine in exchange for potential financing to convert the club into a theater.
+
+That night, Satine mistakes Christian for the Duke and attempts to seduce him by dancing with him before retiring to her chamber with him to discuss things privately, but eventually Christian reveals his true identity. After the Duke interrupts them, Satine claims that the two of them and the Bohemians were rehearsing ''Spectacular Spectacular''. Aided by Zidler, Christian and the Bohemians improvise a story for the Duke about a beautiful Indian courtesan who falls in love with a poor [[sitar]] player she mistook for a wealthy but evil [[maharaja]]. Approving the story, the Duke agrees to invest, but only if Satine and the Moulin Rouge are turned over to him. Later, Satine claims not to be in love with Christian, but he eventually wears down her resolve and they kiss.
+
+During construction at the Moulin Rouge, Christian and Satine's love deepens while the Duke becomes frustrated with all the time he thinks Satine is spending with Christian working on the play. To calm him, Zidler arranges for Satine to spend the night with the Duke and angrily tells her to end her affair with Christian. She misses the dinner when she falls unconscious, leading a doctor to diagnose a fatal case of [[tuberculosis|consumption]]. She does try to end things by telling Christian that their relationship is endangering the production, but Christian writes a secret song to include in the show that affirms their unending, passionate love.
+
+At the final rehearsal, can-can dancer Nini hints to the Duke that the play represents the relationship between him, Christian, and Satine. Enraged, the Duke demands that the show end with the courtesan marrying the maharaja, instead of Christian's ending where she marries the sitar player. Satine promises to spend the night with him after which they will decide on the ending. Ultimately, she fails to seduce the Duke due to her feelings for Christian, and Le Chocolat, one of the cabaret dancers, saves her from the Duke's attempt to rape her. Christian decides that he and Satine should leave the show behind and run away to be together while the Duke vows to kill Christian.
+
+Zidler finds Satine in her dressing room packing. He tells her that her illness is fatal, that the Duke is planning on murdering Christian, and that if she wants Christian to live, she must cut him off completely and be with the Duke. Mustering all her acting abilities, she complies, leaving Christian devastated.
+
+On the opening night of the show, in front of a full audience, Christian denounces Satine and vows to give her to the Duke before walking off the stage, but Toulouse-Lautrec cries out from the rafters, "The greatest thing you'll ever learn is just to love and be loved in return." This spurs Satine to sing their secret song, causing Christian to change his mind. After Zidler and the company thwart several attempts by the Duke and his bodyguard to kill Christian, the show ends with Christian and Satine proclaiming their love as the Duke permanently storms out of the cabaret. The audience erupts in applause, but Satine collapses after the curtains close. Before dying in his arms, she tells Christian to write their story so she will always be with him.
+
+Six months later, the Moulin Rouge has closed down and is in disrepair; Zidler, the Duke, the Diamond Dogs, and the Bohemians are gone; and Christian overcomes his grief by finishing his and Satine's story, declaring their love will live forever.
+
+==Cast==
+{{Cast listing|
+* [[Nicole Kidman]] as Satine
+* [[Ewan McGregor]] as Christian
+* [[Jim Broadbent]] as Harold Zidler
+* [[Richard Roxburgh]] as The Duke of Monroth
+* [[John Leguizamo]] as [[Henri de Toulouse-Lautrec]]
+* [[Jacek Koman]] as The Unconscious Argentinean{{efn|Though this character does not spend his entire time on screen unconscious and instead displays symptoms that are more closely associated with [[narcolepsy]], the film and its credits refer to this character as The Unconscious Argentinean.<ref name="IMDb">{{cite web|title=Moulin Rouge!|url=https://www.imdb.com/title/tt0203009/|publisher=[[IMDb]]|access-date=29 April 2021|url-status=live|archive-url=https://web.archive.org/web/20210424214432if_/https://www.imdb.com/title/tt0203009/|archive-date=24 April 2021}}</ref>}}
+* [[Caroline O'Connor (actress)|Caroline O'Connor]] as Nini Legs-In-the-Air
+* [[Kerry Walker]] as Marie
+* Lara Mulcahy as Môme Fromage
+* [[Garry McDonald (actor)|Garry McDonald]] as The Doctor
+* Matthew Whittet as [[Satie]]
+* [[David Wenham]] as Audrey
+* [[Kiruna Stamell]] as La Petite Princesse
+* [[DeObia Oparei]] as [[Chocolat (clown)|Le Chocolat]]
+* [[Kylie Minogue]] as The Green Fairy
+** [[Ozzy Osbourne]] as the voice of The Green Fairy
+* [[Peter Whitford]] as The Stage Manager
+* [[Linal Haft]] as Warner
+* [[Norman Kaye]] as Satine's Doctor
+* [[Arthur Dignam]] as Christian's Father
+* [[Carole Skinner]] as The Landlady
+* [[Jonathan Hardy]] as [[A Trip to the Moon|The Man in the Moon]]
+** [[Plácido Domingo]] as the voice of the Man in the Moon
+* Keith Robinson as [[Le Pétomane]]
+* [[Tara Morice]] as The Prostitute
+* Sue-Ellen Shook as Baby Doll
+* [[Kip Gamblin]] as Latin Dancer}}
+
+==Production==
+
+===Writing and inspiration===
+''Moulin Rouge!'' was influenced by an eclectic variety of comic and melodramatic musical sources, including the [[Musical film|Hollywood musical]], "[[vaudeville]], [[cabaret|cabaret culture]], stage musicals, and operas." Its musical elements also allude to Luhrmann's earlier film ''[[Strictly Ballroom]].''<ref name=Kinder>{{cite journal|last=Kinder|first=Marsha|title=Moulin Rouge|journal=[[Film Quarterly]]|volume=55|issue=3|pages=52–53|date=Spring 2002|url=https://online.ucpress.edu/fq/article-abstract/55/3/52/28826/Moulin-Rouge?redirectedFrom=fulltext|doi=10.1525/fq.2002.55.3.52|issn=0015-1386|url-access=subscription}}</ref>
+
+[[Giacomo Puccini]]'s opera ''[[La bohème]]'', which Luhrmann directed at the [[Sydney Opera House]] in 1993, was a key source of the plot for ''Moulin Rouge!''.<ref name=ConnerBennett>{{cite journal|last=Conner Bennett|first=Kathryn|title=The gender politics of death: Three formulations of ''La Bohème'' in contemporary cinema|journal=[[Journal of Popular Film and Television]]|volume=32|issue=3|page=114|date=2004|url=https://www.tandfonline.com/doi/abs/10.1080/01956051.2004.10662056|doi=10.1080/01956051.2004.10662056|s2cid=154025769|issn=1930-6458|url-access=subscription}}</ref> Further stylistic inspiration came from Luhrmann's encounter with [[Bollywood]] films during his visit to [[India]] while conducting research for his 1993 production of [[Benjamin Britten]]'s opera ''[[A Midsummer Night's Dream (opera)|A Midsummer Night's Dream]]''.<ref>{{cite web|last=Lee|first=Janet W.|title=How a Bollywood film inspired Baz Luhrmann to bring 'Moulin Rouge' to Broadway|website=[[Yahoo! Entertainment]]|date=28 October 2020|url=https://www.yahoo.com/entertainment/bollywood-film-inspired-baz-luhrmann-184119779.html|access-date=1 April 2021|url-status=live|archive-url=https://web.archive.org/web/20201129141105/https://www.yahoo.com/entertainment/bollywood-film-inspired-baz-luhrmann-184119779.html|archive-date=29 November 2020}}</ref> According to Luhrmann:
+{{blockquote|. . . we went to this huge, ice cream picture palace to see a Bollywood movie. Here we were, with 2,000 Indians watching a film in [[Hindi]], and there was the lowest possible comedy and then incredible drama and tragedy and then break out in songs. And it was three-and-a-half hours! We thought we had suddenly learnt Hindi, because we understood everything! We thought it was incredible. How involved the audience were. How uncool they were – how their coolness had been ripped aside and how they were united in this singular sharing of the story. The thrill of thinking, 'Could we ever do that in the West? Could we ever get past that cerebral cool and perceived cool.' It required this idea of comic-tragedy. Could you make those switches? Fine in [[Shakespeare]] – low comedy and then you die in five minutes. . . . In ''Moulin Rouge!'', we went further. Our recognisable story, though [[Orphean (mythology)|Orphean]] in shape, is derived from ''[[La Dame aux Camélias|Camille]]'', ''La Boheme'' – whether you know those texts or not, you recognise those patterns and character types.<ref>{{Cite news |last=Andrew |first=Geoff |date=7 September 2001 |title=Baz Luhrmann (I) |work=Guardian interviews at the [[BFI]] |agency=[[The Guardian]] |url=https://www.theguardian.com/film/2001/sep/07/1 |url-status=live |access-date=15 February 2014 |archive-url=https://web.archive.org/web/20140509221831/https://www.theguardian.com/film/2001/sep/07/1 |archive-date=9 May 2014}}</ref>}}
+
+In the DVD's [[audio commentary]], Luhrmann revealed that he also drew from the [[Greek tragedy]] of [[Orpheus and Eurydice]]. The filmmakers projected the Orpheus figure onto Christian by characterizing the latter as a musical [[genius]] whose talent surpassed that of everyone else in his world. The film's use of songs from the mid- to late 20th century in the 1899 setting makes Christian appear ahead of his time as a musician and writer. ''Moulin Rouge!''′s plot also parallels that of the myth: "McGregor, as a poet who spouts deathless verse . . . , descends into a hellish underworld of prostitution and musical entertainment in order to retrieve Kidman, the singing courtesan who loves him but is enslaved to a diabolical duke. He rescues her but looks back and . . . cue [[Queen (band)|Queen's]] '[[The Show Must Go On (Queen song)|The Show Must Go On]].'"<ref>{{cite news|last=Green|first=Jesse|title=How do you make a movie sing?|url=https://www.nytimes.com/2001/05/13/magazine/how-do-you-make-a-movie-sing.html|work=[[The New York Times Magazine]]|date=13 May 2001|access-date=8 July 2021}}</ref>
+
+Commentators have also noted the similarities between the film's plot and those of the opera ''[[La Traviata]]''<ref>{{cite web|url=https://eno.org/discover-opera/la-traviata-in-pop-culture/|title=La traviata in pop culture|date=n.d.|website=Discover opera|publisher=[[English National Opera]]|access-date=15 January 2021|url-status=live|archive-url=https://web.archive.org/web/20200930093718/https://eno.org/discover-opera/la-traviata-in-pop-culture/|archive-date=30 September 2020}}</ref> and [[Émile Zola]]'s novel ''[[Nana (novel)|Nana]]''.<ref>{{cite journal|last=Magedanz|first=Stacy|title=Allusion as form: ''The Waste Land'' and ''Moulin Rouge!''|journal=[[Orbis Litterarum]]|volume=62|issue=2|page=160|date=2006|doi=10.1111/j.1600-0730.2006.00853.x|s2cid=170576709 |url=https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1012&context=library-publications|access-date=27 January 2021|url-status=live|archive-url=https://web.archive.org/web/20200809060749/https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1012&context=library-publications|archive-date=9 August 2020|url-access=subscription}}</ref> Other cinematic elements appear to have been borrowed from the musical films ''[[Cabaret (1972 film)|Cabaret]]'',<ref name=Mitchell>{{cite news|last=Mitchell|first=Elvis|title=An eyeful, an earful, an anachronism: Lautrec meets Lady Marmalade|url=https://www.nytimes.com/2001/05/18/movies/film-review-an-eyeful-an-earful-anachronism-lautrec-meets-lady-marmalade.html|work=[[The New York Times]]|date=18 May 2001|access-date=5 February 2021|url-status=live|archive-url=https://web.archive.org/web/20150527164930/https://www.nytimes.com/2001/05/18/movies/film-review-an-eyeful-an-earful-anachronism-lautrec-meets-lady-marmalade.html|archive-date=27 May 2015}}</ref> ''[[Folies Bergère de Paris]]'', and ''[[Meet Me in St. Louis]]''.<ref name="AFI">{{cite web|url=http://catalog.afi.com/Catalog/moviedetails/53921|title=Moulin Rouge!|website=[[AFI Catalog of Feature Films]]|publisher=[[American Film Institute]]|date=n.d.|access-date=4 July 2018|url-status=live|archive-url=https://web.archive.org/web/20180704035742/http://catalog.afi.com/Catalog/moviedetails/53921|archive-date=4 July 2018}}</ref>
+
+The character of Satine was based on the French [[can-can]] dancer [[Jane Avril]].<ref>{{Cite news|last=Levy|first=Paul|title=The artistry of Toulouse-Lautrec and his dancing muse Jane Avril|work=[[The Wall Street Journal]]|date=17 June 2011|url=https://www.wsj.com/articles/SB10001424052702304259304576377421861840808|access-date=30 April 2021|url-status=live|archive-url=https://web.archive.org/web/20160816112452/https://www.wsj.com/articles/SB10001424052702304259304576377421861840808|archive-date=16 August 2016}}</ref> The character of Harold Zidler shares his last name with [[Charles Zidler]], one of the owners of the real Moulin Rouge. Satie was loosely based on the French composers [[Erik Satie]] and [[Maurice Ravel]]. Môme Fromage, Le Pétomane, and Le Chocolat share their names with performers at the actual cabaret. [[Marlene Dietrich]], [[Greta Garbo]] and [[Rita Hayworth]] were cited as inspirations for the film's "look."<ref name="AFI" />
+
+===Development===
+[[Leonardo DiCaprio]], who worked with Luhrmann on ''[[Romeo + Juliet]]'', unsuccessfully auditioned for the role of Christian - even going so far as to sing.<ref>{{cite news|last=Gray|first=Tim|title=Leonardo DiCaprio unleashes a fearless 'Wolf' performance|url=https://variety.com/2014/film/news/leonardo-dicaprio-tackles-roles-that-push-the-envelope-1201096254|work=[[Variety (magazine)|Variety]]|date=11 February 2014|access-date=4 March 2015|url-status=live|archive-url=https://web.archive.org/web/20150409184529/http://variety.com/2014/film/news/leonardo-dicaprio-tackles-roles-that-push-the-envelope-1201096254|archive-date=9 April 2015}}</ref><ref>{{Cite web |last=Robinson |first=Joanna |date=2014-02-13 |title=Leonardo DiCaprio Says His Atrocious Singing Voice Kept Him From Starring In Moulin Rouge |url=https://www.vanityfair.com/hollywood/2014/02/leonardo-dicaprio-moulin-rouge |access-date=2025-05-22 |website=Vanity Fair |language=en-US}}</ref><ref>{{Cite web |title=DiCaprio lost Moulin Rouge! because he can't sing |url=https://www.rte.ie/entertainment/2014/0214/504278-dicaprio-lost-moulin-rouge-because-he-cant-sing/ |access-date=2025-05-22 |website=rte.ie}}</ref><ref>{{Cite web |last=Alexander |first=Harriet |date=2024-04-18 |title=Leonardo DiCaprio is tipped to play Frank Sinatra. Can he sing? |url=https://www.thetimes.com/world/article/leonardo-dicaprio-frank-sinatra-movie-5j3m5glc9 |access-date=2025-05-22 |website=www.thetimes.com |language=en}}</ref> [[Ethan Hawke]] also read for the role.<ref>{{cite web | url=https://screenrant.com/moulin-rouge-role-ethan-hawke-ewan-mcgregor/ | title=Ethan Hawke Recalls Losing Beloved Role to Ewan McGregor | website=[[Screen Rant]] | date=16 September 2022 }}</ref> Luhrmann also considered younger actors for the role, including [[Heath Ledger]] and [[Jake Gyllenhaal]], before Ewan McGregor won the part.{{citation needed|date=February 2026}} On Heath Ledger's audition, Luhrmann went on to say in 2026: "Heath Ledger was actually really extraordinary and he and Nicole (Kidman) were extraordinary together. He was just a bit too young... it  became another thing, you know? But the footage of Heath and Nicole is really beautiful and we often talk about that."<ref>[https://youtube/pjzzeQSn2xc?si=9J4C7KhHjpJ8E1Lu Baz Luhrmann reveals Leonardo DeCaprio auditioned (and sang!) to be in MOULIN ROUGE Josh Horowitz February 2026 interview clip]</ref>  [[Courtney Love]] auditioned for the role of Satine and gave approval for "[[Smells Like Teen Spirit]]" to be used in the film.<ref>{{cite news|last=Warner|first=Kara|title='Moulin Rouge' could have starred Heath Ledger, Baz Luhrmann reveals|publisher=[[MTV News]]|date=2 May 2011|url=http://www.mtv.com/news/1663127/moulin-rouge-baz-luhrmann-heath-ledger|access-date=5 March 2015|url-status=dead|archive-url=https://web.archive.org/web/20150406152322/http://www.mtv.com/news/1663127/moulin-rouge-baz-luhrmann-heath-ledger|archive-date=6 April 2015}}</ref>
+
+===Filming===
+Production began on 9 November 1999 and was completed on 13 May 2000,<ref>{{cite web | url=https://www.tcm.com/tcmdb/title/452492/moulin-rouge#notes | archive-url=https://web.archive.org/web/20201129055438/https://www.tcm.com/tcmdb/title/452492/moulin-rouge#notes | url-status=dead | archive-date=29 November 2020 | title=Moulin Rouge! }}</ref><ref>{{Cite web|title=Moulin Rouge! (2001) Filming & production|url=https://www.imdb.com/title/tt0203009/locations|website=[[IMDb]]|date=n.d.|access-date=22 July 2021|url-status=live|archive-url=https://web.archive.org/web/20210711124922if_/https://www.imdb.com/title/tt0203009/locations|archive-date=11 July 2021}}</ref> with a budget of $50 million.<ref name="mojo" /> It was shot on the sound stages at [[Fox Studios Australia|Fox Studios in Sydney]].<ref>{{cite news|last=Yee|first=Hannah-Rose|title=How Moulin Rouge broke every rule of filmmaking—and became a cinematic icon|url=https://www.vogue.com.au/culture/features/how-moulin-rouge-broke-every-rule-of-filmmakingand-became-a-cinematic-icon/news-story/8abcc9713dc0fa69ace9936411bdef8a|work=[[Vogue (magazine)|Vogue]]|date=6 May 2021|access-date=15 July 2021}}</ref> Filming generally went smoothly, but Kidman broke her ribs twice when she was lifted into the air during the dance sequences. She also suffered from a torn knee cartilage resulting from a fall during the "[[Diamonds Are a Girl's Best Friend]]" production song.<ref name="AFI" /> Kidman later stated in an interview with [[Graham Norton]] that she broke a rib while getting into a corset by tightening it as much as possible to achieve an 18-inch waist, and that she fell down the stairs while dancing in heels.<ref>{{Cite news|url=http://www.news.com.au/entertainment/movies/nicole-kidman-i-broke-my-rib-getting-into-corset-for-moulin-rouge/story-e6frfmvr-1227137677094|title= Nicole Kidman: 'I broke my rib getting into corset for Moulin Rouge'|website=[[news.com.au]]|publisher=[[News Corp Australia]]|date=28 November 2014|access-date=21 June 2021|url-status=live|archive-url=https://web.archive.org/web/20210224173642/https://www.news.com.au/entertainment/movies/nicole-kidman-i-broke-my-rib-getting-into-corset-for-moulin-rouge/news-story/ae477d662653d4175af503456ec12356|archive-date=24 February 2021}}</ref> Kidman also experienced a recurring knee injury while filming, making her drop out of the lead role in ''[[Panic Room]]''.<ref>{{cite web|url=https://abcnews.com/Entertainment/story?id=110382&page=1|title=Kidman Injury Jars Panic Shoot}}</ref> The production overran its shooting schedule and had to be out of the sound stages to make way for ''[[Star Wars: Episode II – Attack of the Clones]]'' (which also starred McGregor). This necessitated the filming of some [[Pick-up (filmmaking)|pick-up shots]] in [[Madrid]].<ref>{{cite magazine|editor1-last=Brod|editor1-first=Doug|editor2-last=Grisolia|editor2-first=Cynthia|title=May summer movie preview: Moulin Rouge|magazine=[[Entertainment Weekly]]|date=27 April 2001|issue=593|page=43|issn=1049-0434}}</ref><ref>{{cite magazine|author=<!--Not stated-->|title=Moulin Rouge|url=https://ew.com/article/2001/04/19/moulin-rouge-2|magazine=[[Entertainment Weekly]]|date=17 March 2020|access-date=7 July 2021}}</ref>
+
+In the [[liner notes]] to the film's Special Edition DVD, Luhrmann writes that "[the] whole stylistic premise has been to decode what the Moulin Rouge was to the audiences of 1899 and express that same thrill and excitement in a way to which contemporary movie-goers can relate."<ref name=liner/> Both [[Roger Ebert]] and ''[[The New York Times]]'' compared the film's editing and cinematography to that of a music video and noted its visual homage to early [[Technicolor]] films.<ref name=Ebert>{{cite web|last=Ebert|first=Roger|author-link=Roger Ebert|title=Moulin Rouge|website=[[RogerEbert.com]]|date=1 June 2001|url=https://www.rogerebert.com/reviews/moulin-rouge-2001|access-date=8 February 2021|url-status=live|archive-url=https://web.archive.org/web/20130506044707/https://www.rogerebert.com/reviews/moulin-rouge-2001|archive-date=6 May 2013}}</ref><ref name=Mitchell />
+
+===Music===
+Marsha Kinder describes ''Moulin Rouge!'' as a "brilliant," "celebratory," and "humorous" musical and aural [[pastiche]] due to its use of diverse songs.{{sfn|Kinder|2002|pp=52 & 54}} ''Moulin Rouge!'' takes well-known [[popular music]], mostly drawn from the [[MTV Generation]], and juxtaposes it into a tale set in a turn-of-the-century Paris [[cabaret]].<ref name=liner>Liner notes, Special Edition DVD</ref> Kinder holds that keeping borrowed lyrics and melodies intact "makes it almost impossible for spectators to miss the poaching [of songs] (even if they cannot name the particular source)."{{sfn|Kinder|2002|p=54}}
+
+The film uses so much popular music that it took Luhrmann two and a half years to secure the rights to all of the songs.<ref>{{cite news|last=Turan|first=Kenneth|title=Tripping the light|url=https://www.latimes.com/archives/la-xpm-2001-may-18-ca-64908-story.html|date=18 May 2001|work=[[Los Angeles Times]]|access-date=22 June 2021}}</ref> Some of the songs sampled include "[[Chamma Chamma]]" from the [[Hindi]] movie ''[[China Gate (1998 film)|China Gate]]'', [[Queen (band)|Queen]]'s "[[The Show Must Go On (Queen song)|The Show Must Go On]]" (arranged in operatic format), [[David Bowie]]'s rendition of [[Nat King Cole]]'s "[[Nature Boy (song)|Nature Boy]]", "[[Lady Marmalade]]" by [[Labelle]] (in the [[Christina Aguilera]]/[[Pink (singer)|P!nk]]/[[Mýa]]/[[Lil' Kim]] [[Cover version|cover]] commissioned for the film), [[Madonna]]'s "[[Material Girl]]" and "[[Like a Virgin (song)|Like a Virgin]]", [[Elton John]]'s "[[Your Song]]", the [[The Sound of Music (song)|titular number]] of ''[[The Sound of Music]]'', "[[Roxanne (The Police song)|Roxanne]]" by [[The Police]] (in a [[Tango music|tango]] format using the composition "Tanguera" by [[Mariano Mores]]), and "[[Smells Like Teen Spirit]]" by [[Nirvana (band)|Nirvana]].
+
+Luhrmann had intended to incorporate songs by [[The Rolling Stones]] and [[Cat Stevens]] into the film, but could not obtain the necessary rights from these artists. When Stevens denied consent for the use of "[[Father and Son (song)|Father and Son]]" due to religious objections to the film's content, "[[Nature Boy (song)|Nature Boy]]" was chosen as its replacement.<ref name="AFI" />
+
+==Release and reception==
+Originally set for release on [[Christmas]] 2000, [[20th Century Fox]] eventually moved the release of ''Moulin Rouge!'' to Summer 2001 to allow Luhrmann more time in post-production.<ref>{{cite news|last=Fuson|first=Brian|title=No post haste: 'Moulin Rouge' pushed back|work=[[Hollywood Reporter]]|page=4|date=5 October 2000}}</ref><ref>{{cite news|last=Snow|first=Shauna|title=Morning report: Entertainment|url=https://www.latimes.com/archives/la-xpm-2000-oct-05-ca-31536-story.html |work=[[Los Angeles Times]]|date=5 October 2000|access-date=6 July 2021}}</ref> ''Moulin Rouge!'' [[Film premiere|premiered]] at the [[2001 Cannes Film Festival]] on May 9, 2001, as the festival's opening title.<ref name=Farache />
+
+''Moulin Rouge!'' opened in the United States at two theaters in [[New York City|New York]] and [[Los Angeles]] on May 18, 2001.<ref name=Farache /> It grossed US$167,540 on its opening weekend.<ref name="mojo" /><ref name="numbers-summary" /> The film then expanded to a national release on June 1, 2001.<ref name=Farache /> It generated $14.2 million, ranking in fourth place behind ''[[Pearl Harbor (film)|Pearl Harbor]]'', ''[[Shrek]]'' and ''[[The Animal]]''.<ref>{{cite web|last=Linder|first=Brian|title=Weekend Box Office: Harbor Withstands Shrek Attack|url=https://www.ign.com/articles/2001/06/05/weekend-box-office-harbor-withstands-shrek-attack|access-date=September 28, 2022|date=June 5, 2001}}</ref> In the [[United Kingdom]], ''Moulin Rouge!'' earned $3.2 million during its opening weekend and beat ''[[Scary Movie 2]]'' and ''[[A Knight's Tale]]'' to rank as the country's number one film.<ref>{{Cite news |last=Groves |first=Don |date=September 10, 2001 |title=Agents' B.O. secrets |work=[[Variety (magazine)|Variety]] |url=https://variety.com/2001/film/box-office/agents-b-o-secrets-1117852465/ |access-date=May 11, 2026 }}</ref> It would continue to so in its second weekend, making $2.7 million and outgrossing the opening of ''[[The Fast and the Furious (2001 film)|The Fast and the Furious]]''.<ref>{{cite web |date=18 September 2001 |author=Robert Mitchell |url=https://www.screendaily.com/the-fast-and-the-furious-races-into-the-uk/406913.article |title=The Fast And The Furious races into the UK |work=[[Screen Daily]] }}</ref> In its third weekend, it was displaced by ''[[A.I. Artificial Intelligence]]'', although it collected $2.2 million.<ref>{{cite web|url=https://www.screendaily.com/ai-tops-uk-box-office-chart/406992.article|title=A.I. tops UK box office chart}}</ref> During its fifth weekend, it reclaimed the number one spot with $1.6 million.<ref>{{cite web|url=https://www.screendaily.com/moulin-rouge-regains-uk-box-office-crown/407135.article|title=Moulin Rouge regains UK box office crown}}</ref> The film was eventually dethroned by ''[[American Pie 2]]'' in its sixth weekend, but still managed to cross the $20 million mark.<ref>{{cite web|url=https://www.screendaily.com/uk-welcomes-second-helping-of-pie/407216.article|title=UK welcomes second helping of Pie}}</ref> ''Moulin Rouge!'' has grossed $57,386,369 in the United States and Canada and another $121,813,167 internationally<ref name="numbers-summary" /> (including $26 million in the United Kingdom<ref>{{cite magazine|last=Dawtrey|first=Adam|url=https://variety.com/2001/film/box-office/homegrown-pix-gain-in-europe-1117857693|title=Homegrown pix gain in Europe|magazine=[[Variety (magazine)|Variety]]|date=25 December 2001|access-date=3 May 2021|url-status=live|archive-url=https://web.archive.org/web/20210503132223/https://variety.com/2001/film/box-office/homegrown-pix-gain-in-europe-1117857693|archive-date=3 May 2021}}</ref> and $3,878,504 in [[Australia]]<ref name="numbers-international">{{cite web|url=https://www.the-numbers.com/movie/Moulin-Rouge#tab=international|title=Moulin Rouge (2001) [International]|date=2021|website=[[The Numbers (website)|The Numbers]]|publisher=[[Nash Information Services, LLC]]|access-date=7 May 2021}}</ref>).
+
+''Moulin Rouge!'' received generally positive reviews from critics. [[Roger Ebert]] rated the film 3.5 stars out of 4, remarking that "the movie is all color and music, sound and motion, kinetic energy, broad strokes, operatic excess."<ref name=Ebert /> ''[[Newsweek]]'' praised McGregor's and Kidman's performances, stating that "both stars hurl themselves into the movie's reckless spirit, unafraid of looking foolish, adroitly attuned to Luhrmann's abrupt swings from farce to tragedy. (And both sing well.)"<ref>{{cite news|last=Ansen|first=David|title=Yes, 'Rouge' can, can can|url=https://www.newsweek.com/yes-rouge-can-can-can-152665|work=[[Newsweek]]|date=27 May 2001|access-date=4 February 2021|url-status=live|archive-url=https://web.archive.org/web/20190410185233/https://www.newsweek.com/yes-rouge-can-can-can-152665|archive-date=10 April 2019}}</ref> ''[[The New York Times]]'' wrote that "the film is undeniably rousing, but there is not a single moment of organic excitement because Mr. Luhrmann is so busy splicing bits from other films" but conceded that "there's nothing else like it, and young audiences, especially girls, will feel as if they had found a movie that was calling them by name."<ref name=Mitchell /> ''[[All Things Considered]]'' commented the film was "not gonna be for all tastes" and that "you either surrender to this sort of flamboyance or you experience it as overkill."<ref>{{cite encyclopedia|title=Review: Movie 'Moulin Rouge'|encyclopedia=[[Gale In Context: Opposing Viewpoints]]|publisher=[[Gale (publisher)|Gale]]|date=18 May 2001}}</ref><ref>{{cite web|title='Moulin Rouge'|website=[[All Things Considered]]|publisher=[[NPR]]|date=18 May 2001|url=https://www.npr.org/templates/story/story.php?storyId=1123147|access-date=4 February 2021|url-status=live|archive-url=https://web.archive.org/web/20151001100928/https://www.npr.org/templates/story/story.php?storyId=1123147|archive-date=1 October 2015}}</ref>
+
+''Moulin Rouge!'' holds a rating of 66/100 at [[Metacritic]] based on 35 reviews.<ref>{{cite web|title=Moulin Rouge!|url=https://www.metacritic.com/movie/moulin-rouge!|website=[[Metacritic]]|access-date=4 February 2021|url-status=live|archive-url=https://web.archive.org/web/20110719231217/https://www.metacritic.com/movie/moulin-rouge!|archive-date=19 July 2011}}</ref> At [[Rotten Tomatoes]], the film holds a 75% "Fresh" approval rating based on 259 reviews, with an average score of 7.1/10. The website's critics' consensus reads: "A love-it-or-hate-it experience, ''Moulin Rouge'' is all style, all giddy, over-the-top spectacle. But it's also daring in its vision and wildly original."<ref>{{cite web|title=Moulin Rouge|url=https://www.rottentomatoes.com/m/1107863-moulin_rouge/ |work=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date=13 July 2024|url-status=live|archive-url=https://web.archive.org/web/20201115050321/https://www.rottentomatoes.com/m/1107863-moulin_rouge |archive-date=15 November 2020}}</ref> In December 2001, the film was named the best film of the year by viewers of ''[[Film... (TV programme)|Film 2001]]''.<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/entertainment/1721879.stm|title=Moulin Rouge is viewers' favourite|date=20 December 2001|work=[[BBC News]]|access-date=4 June 2013|url-status=live|archive-url=https://web.archive.org/web/20130604171804/http://news.bbc.co.uk/2/hi/entertainment/1721879.stm|archive-date=4 June 2013}}</ref> ''[[Entertainment Weekly]]'' ranked it #6 on its list of the top ten movies of the decade, saying, "Baz Luhrmann's trippy pop culture pastiche from 2001 was an aesthetically arresting ode to poetry, passion, and Elton John. It was so good, we'll forgive him for ''[[Australia (2008 film)|Australia]].''"<ref>{{cite news|last1=Geier|first1=Thom|last2=Jensen|first2=Jeff|last3=Jordan|first3=Tina|last4=Lyons|first4=Margaret|last5=Markovitz|first5=Adam|last6=Nashawaty|first6=Chris|last7=Pastorek|first7=Whitney|last8=Rice|first8=Lynette|last9=Rottenberg|first9=Josh|last10=Schwartz|first10=Missy|last11=Slezak|first11=Michael|last12=Snierson|first12=Dan|last13=Stack|first13=Tim|last14=Stroup|first14=Kate|last15=Tucker|first15=Ken|last16=Vary|first16=Adam B.|last17=Vozick-Levinson|first17=Simon|last18=Ward|first18=Kate|title=The 100 greatest movies, TV shows, albums, books, characters, scenes, episodes, songs, dresses, music videos, and trends that entertained us over the past 10 years|magazine=[[Entertainment Weekly]]|pages=74–84|date=11 December 2009|issue=1079/1080}}</ref><ref>{{cite magazine|author=<!--Not stated-->|title=100 greatest movies, TV shows, and more|magazine=[[Entertainment Weekly]]|date=4 December 2009|url=https://ew.com/article/2009/12/04/100-greatest-movies-tv-shows-and-more/|access-date=13 April 2021|url-status=live|archive-url= https://web.archive.org/web/20150512082503/https://ew.com/article/2009/12/04/100-greatest-movies-tv-shows-and-more/|archive-date=12 May 2015}}</ref> In 2008, ''Moulin Rouge!'' was ranked No. 211 on ''[[Empire (film magazine)|Empire's]]'' 500 Greatest Movies of All Time.<ref>{{cite web|title=Empire's 500 greatest movies of all time|website=Cinema Realm|url=https://www.cinemarealm.com/best-of-cinema/empires-500-greatest-movies-of-all-time/|access-date=22 June 2016|url-status=live|archive-url=https://web.archive.org/web/20160623050933/https://www.cinemarealm.com/best-of-cinema/empires-500-greatest-movies-of-all-time/|archive-date=23 June 2016}}</ref> In 2025, it was one of the films voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century," finishing at number 130.<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |access-date=2 July 2025}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "B+" on an A+ to F scale.<ref>{{Cite web|title=CinemaScore [Home page]|url=https://www.cinemascore.com|access-date=2021-05-21|website=CinemaScore}}</ref>
+
+''Moulin Rouge!'' premiered on [[DVD]] and [[VHS]] on December 18, 2001.<ref>{{cite news |url=https://www.newspapers.com/article/lancaster-eagle-gazette-studio-65-perce/158145267/ |title=Studio: 65 percent of first 'Phantom Menace' DVD shipment has been sold
+|archive-url=https://web.archive.org/web/20260512181001/https://www.newspapers.com/web/20260512181001/https://www.newspapers.com/article/lancaster-eagle-gazette-studio-65-perce/158145267/ |date=October 26, 2001 |access-date=May 12, 2026 |archive-date=May 12, 2026 |page=23 |publisher=[[Lancaster Eagle-Gazette]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> [[Home Theater Forum]] rated the DVD release of ''Moulin Rouge!'' as the best DVD of 2001.<ref>{{cite web|last=Rivero|first=Enrique|title=HTF taps ''Moulin Rouge'' as year's best DVD|url=http://www.hive4media.com/news/html/Product_article.cfm?article_id=2328|website=hive4media.com|date=27 December 2001|access-date=14 June 2021|url-status=dead|archive-url=https://web.archive.org/web/20020105121249/http://www.hive4media.com:80/news/html/Product_article.cfm?article_id=2328|archive-date=5 January 2002}}</ref> Luhrmann had hand-picked the features and behind-the scenes footage for the two-disc DVD edition.<ref>{{cite web|last=Sherber|first=Anne|title=''Moulin Rouge'' director shares experiences on DVD|url=http://www.hive4media.com/news/html/product_article.cfm?article_id=2282|website=hive4media.com|date=14 December 2001|access-date=14 June 2021|url-status=dead|archive-url=https://web.archive.org/web/20020110065012/http://www.hive4media.com:80/news/html/product_article.cfm?article_id=2282|archive-date=10 January 2002}}</ref>
+
+===Analysis===
+
+====Postmodern====
+Scholarly commentators have interpreted ''Moulin Rouge!'' as an exemplary [[postmodernist film|postmodern film]], citing its methods of aesthetic expression, symbolism, and ties to both fine art and pop culture as evidence.{{sfn|Conner Bennett|2004|pp=114-115}}<ref name=Yang>{{cite journal|last=Yang|first=Mina|title=''Moulin Rouge!'' and the undoing of opera|journal=[[Cambridge Opera Journal]]|volume=20|issue=3|page=269|date=November 2008|url=https://www.cambridge.org/core/journals/cambridge-opera-journal/article/abs/moulin-rouge-and-the-undoing-of-opera/F8AF8DD30AF79894B153E9BB13A24BE3|doi=10.1017/S095458670999005X|s2cid=194085131|issn=1474-0621|url-access=subscription}}</ref> The film's music also contributes to its postmodern aesthetic. Notably, ''Moulin Rouge!'' combines mid-to-late 20th Century melodies and lyrics with a narrative set in ''[[fin de siècle]]'' France.{{sfn|Kinder|2002|p=54}} Scholars Kathryn Conner Bennett and Marsha Kinder have argued that the use of famous popular songs in a new, original context requires audiences to reinterpret their significance within the framework of the narrative and challenge an assumption that music's symbolism is static.{{sfn|Conner Bennett|2004|p=114}}{{sfn|Kinder|2002|pp=53-54}}
+
+''Moulin Rouge!'' also makes ample use of other postmodern filmmaking techniques, including fragmentation and [[juxtaposition]]. As the film's protagonist, Christian is the primary source of ''Moulin Rouge!''{{'}}s story line and many portions of the story are told from his point of view. However, the narrative is fragmented on several occasions when the film deviates from Christian's perspective or integrates a [[flashback (narrative)|flashback]]. ''Moulin Rouge!'' also juxtaposes a play-within-a-film (''Spectacular Spectacular'') with the film's events themselves to draw parallels between the plot of the play and the characters' lives. This culminates in the "Come What May" sequence, which reveals the development of Christian and Satine's relationship alongside the progression of ''Spectacular Spectacular''{{'}}s rehearsals.{{sfn|Conner Bennett|2004|p=115}}
+
+Postmodernism is also evident in ''Moulin Rouge!''{{'}}s homage to Western musicals, Bollywood [[masala film]]s, and [[music video]]s, as well as Luhrmann's film ''Strictly Ballroom''.{{sfn|Kinder|2002|pp=52-53}}
+
+==Accolades==
+''Moulin Rouge!'' received eight Academy Award nominations, including [[Academy Award for Best Picture|Best Picture]] and [[Academy Award for Best Actress|Best Actress]] ([[Nicole Kidman]]), winning in two categories for [[Academy Award for Best Production Design|Best Art Direction]] and [[Academy Award for Best Costume Design|Best Costume Design]]. It became the first musical film to receive a coveted Best Picture nomination since ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]'' (1991).<ref>{{cite web|title=Oscar Honors "Moulin Rouge" and Boheme Designer Catherine Martin|url=https://www.playbill.com/article/oscar-honors-moulin-rouge-and-boheme-designer-catherine-martin-com-104655|work=[[Playbill]]|date=24 March 2002|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20221003150333/https://www.playbill.com/article/oscar-honors-moulin-rouge-and-boheme-designer-catherine-martin-com-104655|archive-date=3 October 2022}}</ref> Despite the film's overwhelming success, [[Baz Luhrmann]] was notably excluded from the [[Academy Award for Best Director|Best Director]] lineup; commenting on this during the Oscar ceremony, host [[Whoopi Goldberg]] remarked, "I guess ''Moulin Rouge!'' just directed itself."<ref>{{cite web|last1=Krygger|first1=Cassidy|title=There's Something About Baz|url=https://ponderings.com.au/theres-something-about-baz/|website=Ponderings|date=11 March 2020 }}</ref> Additionally, the only original tune in the film, "[[Come What May (2001 song)|Come What May]]" was disqualified from the [[Academy Award for Best Original Song|Best Original Song]] consideration because it was originally intended, although unused, for Luhrmann's previous film ''[[Romeo + Juliet]]'' and not written expressly for ''Moulin Rouge!''.<ref>{{cite web|last1=Bonin|first1=Liane|title=Ewan and Nicole won't sing at the Oscars|url=https://ew.com/article/2001/12/20/ewan-and-nicole-wont-sing-oscars/|magazine=[[Entertainment Weekly]]|date=20 December 2001|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20210618102703/https://ew.com/article/2001/12/20/ewan-and-nicole-wont-sing-oscars/|archive-date=18 June 2021}}</ref> It tied with ''[[The Lord of the Rings: The Fellowship of the Ring]]'' for leading twelve nominations at the [[55th British Academy Film Awards]] and resulted in three wins, including [[BAFTA Award for Best Actor in a Supporting Role|Best Actor in a Supporting Role]] ([[Jim Broadbent]]).<ref>{{cite web|title='MOULIN ROUGE' AND 'LORD OF THE RINGS' LEAD BAFTA NOMINATIONS|url=https://www.hellomagazine.com/film/20020128882630/bafta/|work=[[Hello! (magazine)|HELLO!]]|date=28 January 2002|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20230821143925/https://www.hellomagazine.com/film/20020128882630/bafta/|archive-date=21 August 2023}}</ref> The musical also led the [[59th Golden Globe Awards]], alongside the drama ''[[A Beautiful Mind]]'', each receiving six nominations; it won three, including [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]].<ref>{{cite web|title=A Beautiful Mind, Moulin Rouge Lead Golden Globe Nominations|url=https://www.foxnews.com/story/a-beautiful-mind-moulin-rouge-lead-golden-globe-nominations|work=[[Fox News]]|date=20 January 2002|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20210623025825/https://www.foxnews.com/story/a-beautiful-mind-moulin-rouge-lead-golden-globe-nominations|archive-date=23 June 2021}}</ref>
+
+Other notable ceremonies where it received much recognition included the [[American Film Institute Awards]], the [[AACTA Awards|Australian Film Institute Awards]], and the [[Satellite Awards]]. Various prestigious award bodies, such as the [[National Board of Review]] and the [[Producers Guild of America Awards|PGA Awards]] named it the best film of the year. It was the last musical film to win NBR's Best Film award until ''[[Wicked (2024 film)|Wicked]]'' in 2024.<ref>{{Cite web |last=Davis |first=Clayton |date=2024-12-04 |title='Wicked' Named Best Picture by National Board of Review, Daniel Craig and Nicole Kidman Among Acting Winners |url=https://variety.com/2024/film/awards/national-board-of-review-winners-2024-wicked-1236225469/ |access-date=2024-12-04 |website=Variety |language=en-US}}</ref>
+
+{| class="wikitable"
+|-
+! Award
+! Category
+! Subject
+! Result
+! Ref.
+|-
+| rowspan="8" scope="row" |[[74th Academy Awards|Academy Awards]]
+|[[Academy Award for Best Picture|Best Picture]]
+|[[Fred Baron (producer)|Fred Baron]], Martin Brown and [[Baz Luhrmann]]
+|{{nom}}
+| rowspan="8" |<ref name="Oscars2002">{{Cite web|url=http://www.oscars.org/awards/academyawards/legacy/ceremony/74th-winners.html|title=The 74th Academy Awards (2002) Winners & Nominees|website=oscars.org|publisher=[[Academy of Motion Picture Arts and Sciences]]|date=n.d.|access-date=19 November 2011|url-status=live|archive-url=https://web.archive.org/web/20141109213431/https://www.oscars.org/oscars/ceremonies/2002|archive-date=9 November 2014}}</ref>
+|-
+|[[Academy Award for Best Actress|Best Actress]]
+|[[Nicole Kidman]]
+|{{nom}}
+|-
+|[[Academy Award for Best Production Design|Best Art Direction]]
+|Art Direction: [[Catherine Martin (designer)|Catherine Martin]]; <br /> Set Decoration: [[Brigitte Broch]]
+|{{won}}
+|-
+|[[Academy Award for Best Cinematography|Best Cinematography]]
+|[[Donald McAlpine]]
+|{{nom}}
+|-
+|[[Academy Award for Best Costume Design|Best Costume Design]]
+|Catherine Martin and [[Angus Strathie]]
+|{{won}}
+|-
+|[[Academy Award for Best Film Editing|Best Film Editing]]
+|[[Jill Bilcock]]
+|{{nom}}
+|-
+|[[Academy Award for Best Makeup and Hairstyling|Best Makeup]]
+|[[Maurizio Silvi]] and [[Aldo Signoretti]]
+|{{nom}}
+|-
+|[[Academy Award for Best Sound|Best Sound]]
+|[[Andy Nelson (sound engineer)|Andy Nelson]], [[Anna Behlmer]], [[Roger Savage]] and [[Guntis Sics]]
+|{{nom}}
+|-
+| rowspan="10" scope="row" |[[AACTA Awards|Australian Film Institute Awards]]
+|[[AACTA Award for Best Film|Best Film]]
+|Martin Brown, Fred Baron and Baz Luhrmann
+|{{nom}}
+| rowspan="10" |<ref name="AFI2002">{{cite web|title=AACTA Awards [2001]|url=https://www.aacta.org/aacta-awards/past-awards/range/2000-2010/year/2001|publisher=[[Australian Academy of Cinema and Television Arts]]|date=n.d.|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20210308123904/https://www.aacta.org/aacta-awards/aacta-awards/range/2000-2010/year/2001|archive-date=8 March 2021}}</ref>
+|-
+|[[AACTA Award for Best Direction|Best Direction]]
+|Baz Luhrmann
+|{{nom}}
+|-
+|[[AACTA Award for Best Actor in a Leading Role|Best Actor in a Leading Role]]
+|[[Ewan McGregor]]
+|{{nom}}
+|-
+|[[AACTA Award for Best Actress in a Leading Role|Best Actress in a Leading Role]]
+|Nicole Kidman
+|{{nom}}
+|-
+|[[AACTA Award for Best Actor in a Supporting Role|Best Actor in a Supporting Role]]
+|[[Richard Roxburgh]]
+|{{nom}}
+|-
+|[[AACTA Award for Best Cinematography|Best Cinematography]]
+|Donald McAlpine
+|{{won}}
+|-
+|[[AACTA Award for Best Costume Design|Best Costume Design]]
+|Catherine Martin and Angus Strathie
+|{{won}}
+|-
+|[[AACTA Award for Best Editing|Best Editing]]
+|Jill Bilcock
+|{{won}}
+|-
+|[[AACTA Award for Best Production Design|Best Production Design]]
+|Catherine Martin
+|{{won}}
+|-
+|[[AACTA Award for Best Sound|Best Sound]]
+|Andy Nelson, Roger Savage and Guntis Sics
+|{{won}}
+|-
+| scope="row" |[[American Cinema Editors|ACE Eddie Awards]]
+|[[American Cinema Editors Award for Best Edited Feature Film – Comedy or Musical|Best Edited Feature Film – Comedy or Musical]]
+|Jill Bilcock
+|{{won}}
+|<ref name="Eddie win">{{cite web|last1=Feiwell|first1=Jill|title=Cuts above the rest|url=https://variety.com/2002/film/awards/cuts-above-the-rest-1117861296/|work=[[Variety (magazine)|Variety]]|date=24 February 2002|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20200612210437/https://variety.com/2002/film/awards/cuts-above-the-rest-1117861296/|archive-date=12 June 2020}}</ref>
+|-
+| rowspan="12" scope="row" |[[55th British Academy Film Awards|British Academy Film Awards]]
+|[[BAFTA Award for Best Film|Best Film]]
+|Fred Baron, Martin Brown and Baz Luhrmann
+|{{nom}}
+| rowspan="12" |<ref name="BAFTAinFilm2002">{{Cite web |title=The 55th British Academy Film Awards (2002) Nominees and Winners |publisher=[[British Academy of Film and Television Arts]] (BAFTA) |url=https://awards.bafta.org/award/2002/film |url-status=live |access-date=June 24, 2023 |archive-url=https://web.archive.org/web/20140407093038/https://awards.bafta.org/award/2002/film |archive-date=April 7, 2014}}</ref>
+|-
+|[[BAFTA Award for Best Direction|Best Direction]]
+|Baz Luhrmann
+|{{nom}}
+|-
+|[[BAFTA Award for Best Actor in a Supporting Role|Best Supporting Actor]]
+|[[Jim Broadbent]]
+|{{won}}
+|-
+|[[BAFTA Award for Best Original Screenplay|Best Original Screenplay]]
+|Baz Luhrmann and [[Craig Pearce]]
+|{{nom}}
+|-
+|[[BAFTA Award for Best Cinematography|Best Cinematography]]
+|Donald McAlpine
+|{{nom}}
+|-
+|[[BAFTA Award for Best Costume Design|Best Costume Design]]
+|Catherine Martin and Angus Strathie
+|{{nom}}
+|-
+|[[BAFTA Award for Best Editing|Best Editing]]
+|Jill Bilcock
+|{{nom}}
+|-
+|[[BAFTA Award for Best Makeup and Hair|Best Makeup and Hair]]
+|Maurizio Silvi and Aldo Signoretti
+|{{nom}}
+|-
+|[[BAFTA Award for Best Original Music|Best Original Film Music]]
+|[[Craig Armstrong (composer)|Craig Armstrong]] and [[Marius De Vries]]
+|{{won}}
+|-
+|[[BAFTA Award for Best Production Design|Best Production Design]]
+|Catherine Martin
+|{{nom}}
+|-
+|[[BAFTA Award for Best Sound|Best Sound]]
+|Andy Nelson, Anna Behlmer, Roger Savage, Guntis Sics, Gareth Vanderhope and Antony Gray
+|{{won}}
+|-
+|[[BAFTA Award for Best Special Visual Effects|Best Special Visual Effects]]
+|Chris Godfrey, Andy Brown, [[Nathan McGuinness]] and [[Brian Cox (special effects artist)|Brian Cox]]
+|{{nom}}
+|-
+| scope="row" |[[2001 Cannes Film Festival|Cannes Film Festival]]
+|[[Palme d'Or]]
+|Baz Luhrmann
+|{{nom}}
+|<ref name=Cannes>{{cite web|title=Official Selection 2001: All the Selection|website=Festival De Cannes|url=http://www.festival-cannes.fr/en/archives/2001/allSelections.html|url-status=dead|archive-url=https://web.archive.org/web/20131203015146/http://www.festival-cannes.fr/en/archives/2001/allSelections.html|archive-date=3 December 2013}}</ref>
+|-
+| rowspan="6" scope="row" |[[59th Golden Globe Awards|Golden Globe Awards]]
+|[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]]
+|Fred Baron, Martin Brown and Baz Luhrmann
+|{{won}}
+| rowspan="6" |<ref name="GoldenGlobes2002">{{cite web|title=Moulin Rouge!|url=https://www.goldenglobes.com/film/moulin-rouge-0|website=www.goldenglobes.com|date=n.d.|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20191221162142/https://www.goldenglobes.com/film/moulin-rouge-0|archive-date=21 December 2019}}</ref>
+|-
+|[[Golden Globe Award for Best Director|Best Director - Motion Picture]]
+|Baz Luhrmann
+|{{nom}}
+|-
+|[[Golden Globe Award for Best Actor - Motion Picture Musical or Comedy|Best Actor - Motion Picture Musical or Comedy]]
+|Ewan McGregor
+|{{nom}}
+|-
+|[[Golden Globe Award for Best Actress - Motion Picture Musical or Comedy|Best Actress - Motion Picture Musical or Comedy]]
+|Nicole Kidman
+|{{won}}
+|-
+|[[Golden Globe Award for Best Original Score|Best Original Score]]
+|Craig Armstrong
+|{{won}}
+|-
+|[[Golden Globe Award for Best Original Song|Best Original Song]]
+|"[[Come What May (2001 song)|Come What May]]"<br />Music & Lyrics by [[David Baerwald]]
+|{{nom}}
+|-
+| scope="row" |[[44th Annual Grammy Awards|Grammy Awards]]
+|[[Grammy Award for Best Compilation Soundtrack for Visual Media|Best Compilation Soundtrack for Visual Media]]
+|Marius De Vries, Baz Luhrmann and Anton Monsted
+|{{nom}}
+|<ref>{{cite web|title=Complete List Of Grammy Nominees|url=https://www.cbsnews.com/news/complete-list-of-grammy-nominees/|work=[[CBS News]]|date=4 January 2002|access-date=21 December 2019}}</ref>
+|-
+| scope="row" |[[National Board of Review Awards 2001|National Board of Review Awards]]
+|[[National Board of Review Award for Best Film|Best Film]]
+|Baz Luhrmann
+|{{won}}
+|<ref name="NBR win">{{cite web|title='Moulin Rouge' is NBR's top film of 2001|url=https://www.upi.com/Odd_News/2001/12/05/Moulin-Rouge-is-NBRs-top-film-of-2001/93141007595412/|website=[[United Press International]]|date=5 December 2001|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20160602232209/https://www.upi.com/Odd_News/2001/12/05/Moulin-Rouge-is-NBRs-top-film-of-2001/93141007595412/|archive-date=2 June 2016}}</ref>
+|-
+| scope="row" |[[13th Producers Guild of America Awards|Producers Guild of America Awards]]
+|[[Producers Guild of America Award for Best Theatrical Motion Picture|Best Theatrical Motion Picture]]
+|Fred Baron, Martin Brown and Baz Luhrmann
+|{{won}}
+|<ref>{{cite web|last1=Welkos|first1=Robert|title=Producers honor 'Moulin Rouge'|url=https://www.latimes.com/archives/la-xpm-2002-mar-04-me-guild4-story.html|work=[[Los Angeles Times]]|date=4 March 2002|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20191221172206/https://www.latimes.com/archives/la-xpm-2002-mar-04-me-guild4-story.html|archive-date=21 December 2019}}</ref>
+|-
+| rowspan="14" scope="row" |[[6th Golden Satellite Awards|Satellite Awards]]
+|[[Satellite Award for Best Film|Best Film - Comedy or Musical]]
+|''Moulin Rouge!''
+|{{won}}
+| rowspan="5" |<ref name="Satellite wins">{{cite news|title='Rouge' rocks kudos: Luhrmann tuner takes 8 golden satellites|url=https://variety.com/2002/film/awards/rouge-rocks-kudos-1117858954|work=[[Variety (magazine)|Variety]]|date=22 January 2002|access-date=8 June 2021|url-status=live|archive-url=https://web.archive.org/web/20210428072337/https://variety.com/2002/film/awards/rouge-rocks-kudos-1117858954|archive-date=28 April 2021}}</ref>
+|-
+|[[Satellite Award for Best Director|Best Director]]
+|Baz Luhrmann
+|{{won}}
+|-
+|[[Satellite Award for Best Actor – Motion Picture|Best Actor - Comedy or Musical]]
+|Ewan McGregor
+|{{won}}
+|-
+|[[Satellite Award for Best Actress – Motion Picture|Best Actress - Comedy or Musical]]
+|Nicole Kidman
+|{{won}}
+|-
+|[[Satellite Award for Best Supporting Actor - Motion Picture|Best Supporting Actor - Comedy or Musical]]
+|Jim Broadbent
+|{{won}}
+|-
+|[[Satellite Award for Best Original Screenplay|Best Original Screenplay]]
+|Baz Luhrmann and Craig Pearce
+|{{nom}}
+|<ref name="Satellite noms">{{cite news|last1=Berkshire|first1=Geoff|title='Moulin Rouge' in orbit, topping Satellite noms|url=https://variety.com/2001/film/awards/moulin-rouge-in-orbit-topping-satellite-noms-1117857489|work=[[Variety (magazine)|Variety]]|date=18 December 2001|access-date=21 December 2019|url-status=live|archive-url=https://web.archive.org/web/20180110054457/http://variety.com/2001/film/awards/moulin-rouge-in-orbit-topping-satellite-noms-1117857489/|archive-date=10 January 2018}}</ref>
+|-
+|[[Satellite Award for Best Art Direction and Production Design|Best Art Direction and Production Design]]
+|Annie Beauchamp, Catherine Martin and Ian Gracie
+|{{won}}
+|<ref name="Satellite wins" />
+|-
+|[[Satellite Award for Best Cinematography|Best Cinematography]]
+|Donald McAlpine
+|{{nom}}
+|<ref name="Satellite noms" />
+|-
+|[[Satellite Award for Best Costume Design|Best Costume Design]]
+|Catherine Martin and Angus Strathie
+|{{won}}
+|<ref name="Satellite wins" />
+|-
+|[[Satellite Award for Best Editing|Best Editing]]
+|Jill Bilcock
+|{{nom}}
+|<ref name="Satellite noms" />
+|-
+|[[Satellite Award for Best Original Score|Best Original Score]]
+|Craig Armstrong
+|{{won}}
+|<ref name="Satellite wins" />
+|-
+|[[Satellite Award for Best Original Song|Best Original Song]] 
+|"Come What May" by David Baerwald
+|{{nom}}
+| rowspan="3" |<ref name="Satellite noms" />
+|-
+|[[Satellite Award for Best Sound|Best Sound]]
+|Andy Nelson, Anna Behlmer, Roger Savage and Guntis Sics
+|{{nom}}
+|-
+|[[Satellite Award for Best Visual Effects|Best Visual Effects]]
+|Chris Godfrey
+|{{nom}}
+|}
+
+'''[[American Film Institute]] recognition'''
+* [[AFI's 100 Years...100 Songs]]:
+** "[[Come What May (2001 song)|Come What May]]" – #85<ref name=afisongs>{{cite web|title=AFI's 100 Years...100 Songs |url=http://www.afi.com/Docs/100Years/songs100.pdf |publisher=[[American Film Institute]] |access-date=2016-07-17}}</ref>
+* [[AFI's Greatest Movie Musicals]] – #25<ref>{{cite web |title=AFI's Greatest Movie Musicals |url=http://www.afi.com/Docs/100Years/musicals25.pdf |publisher=[[American Film Institute]] |access-date=2016-07-17}}</ref>
+
+==Soundtrack==
+{{Main|Moulin Rouge! Music from Baz Luhrmann's Film{{!}}''Moulin Rouge! Music from Baz Luhrmann's Film''|Moulin Rouge! Music from Baz Luhrmann's Film, Vol. 2{{!}}''Moulin Rouge! Music from Baz Luhrmann's Film, Vol. 2''}}
+
+=== Musical numbers ===
+* "[[Nature Boy]]" – Toulouse
+* "[[Complainte de la Butte]]/[[Children of the Revolution (song)|Children of the Revolution]]"
+* "[[The Sound of Music (song)|The Sound of Music]]" – Toulouse, Christian, and <!-- Satine, not Satine, is correct here. See Cast. -->Satie<!-- Satie, not Satine, is correct here. See Cast. -->
+* "Green Fairy Medley" ([[The Sound of Music (song)|The Sound of Music]]/[[Children of the Revolution (song)|Children of the Revolution]]/Nature Boy) – Christian, The Bohemians, and the Green Fairy
+* "Zidler's Rap Medley" ([[Lady Marmalade]]/Zidler's Rap/Because We Can/[[Smells Like Teen Spirit]]) – Zidler, Moulin Rouge Dancers, Christian and Patrons
+* "Sparkling Diamonds" ([[Diamonds Are a Girl's Best Friend]]/[[Material Girl]]) – Satine and Moulin Rouge Dancers
+* "Sparkling Diamonds" (Reprise) ([[Rhythm of the Night (song)|Rhythm of the Night]]/[[Smells Like Teen Spirit]]/Diamonds Are a Girl's Best Friend)– Satine and Moulin Rouge Dancers
+* "Meet Me in the Red Room"
+* "[[Your Song]]" – Christian
+* "Your Song" (Reprise) – Satine
+* "The Pitch" - ''Spectacular Spectacular'' – Zidler, Christian, Satine, The Duke, and Bohemians
+* "[[One Day I'll Fly Away]]" – Satine and Christian
+* "[[Elephant Love Medley]]" – Christian and Satine
+* "[[Górecki (song)|Górecki]]" – Satine
+* "[[Like a Virgin (song)|Like a Virgin]]" – Zidler, The Duke, and Chorus Boys
+* "[[Come What May (2001 song)|Come What May]]"  – Christian, Satine, the Argentinean and Cast of ''Spectacular Spectacular''
+* "[[El Tango de Roxanne]]" – The Argentinean, Christian, Satine, The Duke, and Moulin Rouge Dancers
+* "Fool to Believe" – Satine
+* "One Day I'll Fly Away" (Reprise) – Satine and Zidler
+* "[[The Show Must Go On (Queen song)|The Show Must Go On]]" – Zidler, Satine, and Moulin Rouge Stagehands
+* "Hindi Sad Diamonds" ([[Chamma Chamma]]/[[Diamonds Are a Girl's Best Friend]]) – Toulouse, Nini Legs-in-the-Air, Satine, and the Cast of ''Spectacular Spectacular''
+* "Come What May" (Reprise) – Satine and Christian
+* "Coup d'État"/"Finale" (The Show Must Go On/Children of the Revolution/Your Song/One Day I'll Fly Away/Come What May) – Christian, Satine, and Cast of ''Spectacular Spectacular''
+* "Nature Boy" (Reprise) – Toulouse and Christian
+
+'''Music sources'''
+* "[[Nature Boy (song)|Nature Boy]]" – [[Nat King Cole]], covered by [[David Bowie]] and remixed by [[Massive Attack]] for the soundtrack.
+* "[[The Sound of Music (song)|The Sound of Music]]" – [[Mary Martin]] (and later by [[Julie Andrews]]) (from the [[Rodgers & Hammerstein]] musical of the same name, featuring overdubbed [[theremin]] played by [[Bruce Woolley]])
+* "[[The Lonely Goatherd]]" – also from ''[[The Sound of Music]]'' (but heard as instrumental)
+* "[[Lady Marmalade#Moulin Rouge! version|Lady Marmalade]]" – [[Labelle]], covered for the film by [[Christina Aguilera]], [[Lil' Kim]], [[Mýa]], and [[Pink (singer)|Pink]]. 
+* "Because We Can" – [[Fatboy Slim]]
+* "[[Complainte de la Butte]]" – Georges Van Parys and [[Jean Renoir]] covered by [[Rufus Wainwright]]
+* "[[Rhythm of the Night (song)|Rhythm of the Night]]" – [[DeBarge]]
+* "[[Material Girl]]" – [[Madonna]]
+* "[[Smells Like Teen Spirit]]" – [[Nirvana (band)|Nirvana]]
+* "[[Diamonds Are a Girl's Best Friend]]" – Introduced by [[Carol Channing]], made popular by [[Marilyn Monroe]].
+* "[[Diamond Dogs (song)|Diamond Dogs]]" – [[David Bowie]] covered for the film by [[Beck]].
+* "[[Galop Infernal]] ([[Can-can]])" – [[Jacques Offenbach]] (tune for ''Spectacular, Spectacular'')
+* "[[One Day I'll Fly Away]]" – [[Randy Crawford]]
+* "[[Children of the Revolution (song)|Children of the Revolution]]" – [[T.Rex (band)|T.Rex]] (Covered by [[Bono]], [[Gavin Friday]], [[Violent Femmes]], and [[Maurice Seezer]])
+* "[[Górecki (song)|Gorecki]]" – [[Lamb (electronic band)|Lamb]]
+* "[[Come What May (2001 song)|Come What May]]" – [[Ewan McGregor]] and [[Nicole Kidman]] (written by [[David Baerwald]])
+* "[[Roxanne (The Police song)|Roxanne]]" – [[The Police]] (Title in film: "El Tango de Roxanne", combined with music "Tanguera" by [[Mariano Mores]])
+* "Tanguera" – [[Mariano Mores]] (Title in film: "El Tango de Roxanne", combined with music "[[Roxanne (The Police song)|Roxanne]]" by [[The Police]])
+* "[[The Show Must Go On (Queen song)|The Show Must Go On]]" – [[Queen (band)|Queen]]
+* "[[Like a Virgin (song)|Like a Virgin]]" – [[Madonna]]
+* "[[Your Song]]" – [[Elton John]]
+* "[[Chamma Chamma]]" – [[Alka Yagnik]] (Incorporated in the film song titled "Hindi Sad Diamonds"; originally performed by [[Alka Yagnik]] in the 1998 Hindi film ''[[China Gate (1998 film)|China Gate]]'', composed by [[Anu Malik]]).
+
+'''Elephant Love Medley'''
+<!-- These are the artists who wrote these songs, not the performer - although they are occasionally one and the same. -->
+* "[[Love Is Like Oxygen]]" by [[The Sweet|Sweet]] – Andy Scott and Trevor Griffin
+* "[[Love Is a Many-Splendored Thing (song)|Love Is a Many-Splendored Thing]]" by [[The Four Aces]] – [[Sammy Fain]] and [[Paul Francis Webster]]
+* "[[All You Need Is Love]]" by [[The Beatles]] – [[Lennon–McCartney|John Lennon and Paul McCartney]]
+* "[[I Was Made for Lovin' You]]" by [[Kiss (band)|Kiss]] – [[Desmond Child]], [[Paul Stanley]], [[Vini Poncia]]
+* "[[One More Night (Phil Collins song)|One More Night]]" by Phil Collins – [[Phil Collins]]
+* "[[Pride (In the Name of Love)|In the Name of Love]]" by U2 – [[U2]]
+* "[[Don't Leave Me This Way]]" by [[Harold Melvin & the Blue Notes]] and later [[Thelma Houston]] – [[Gamble and Huff|Kenneth Gamble, Leon Huff]], and Cary Gilbert
+* "[[Silly Love Songs]]" by [[Wings (band)|Wings]] – [[Paul McCartney]]
+* "[[Up Where We Belong]]" by [[Joe Cocker]] and [[Jennifer Warnes]] – [[Jack Nitzsche]] and [[Buffy Sainte-Marie]]
+* "[[Heroes (David Bowie song)|Heroes]]" by David Bowie – [[David Bowie]]
+* "[[I Will Always Love You]]" by Dolly Parton and later [[Whitney Houston]] – [[Dolly Parton]]
+* "[[Your Song]]" by Elton John – [[Elton John]] and [[Bernie Taupin]]
+<!-- These are the artists who wrote these songs, not the performer - although they are occasionally one and the same. -->
+
+[[Jamie Allen (tenor)|Jamie Allen]] contributes additional vocals to the "Elephant Love Medley".<ref name="booklet">{{Cite AV media notes |title=Moulin Rouge! Music from Baz Luhrmann's Film |title-link=Moulin Rouge! Music from Baz Luhrmann's Film |author=Various artists |date=2001 |type=Booklet |publisher=[[Twentieth Century Fox Film Corporation]] / [[Interscope Records]]}}</ref> "Love Is Like Oxygen" and "Love Is a Many-Splendored Thing" are only spoken dialogue; they are not actually sung in the medley.
+
+"Your Song" is performed by Ewan McGregor and [[Alessandro Safina]], who contributes additional lyrics in [[Italian language|Italian]].<ref name="booklet" />
+
+Two soundtrack albums were released, with the second coming after the first one's massive success. The first volume featured the smash hit single "[[Lady Marmalade]]", performed by [[Christina Aguilera]], [[Lil' Kim]], [[Mýa]] and [[Pink (singer)|Pink]]. The first soundtrack, ''[[Moulin Rouge! Music from Baz Luhrmann's Film]]'', was released on 8 May 2001,<ref>{{cite web|last=Kohlenstein|first=Brad|title=''Moulin Rouge [Original Motion Picture Soundtrack]'' [Review]|date=n.d.|website=[[AllMusic]]|publisher=AllMusic, Netaktion LLC|url=https://www.allmusic.com/album/release/moulin-rouge-original-motion-picture-soundtrack-mr0000518823}}</ref> with the second, ''[[Moulin Rouge! Music from Baz Luhrmann's Film, Vol. 2]]'', following on 26 February 2002.<ref>{{cite web|last=Erlewine|first=Stephen Thomas|title=''Moulin Rouge, Vol. 2'' [Review]|date=n.d.|website=[[AllMusic]]|publisher=AllMusic, Netaktion LLC|url=https://www.allmusic.com/album/release/moulin-rouge-vol-2-mr0000296127}}</ref>
+
+==Stage adaptation==
+{{Main|Moulin Rouge! (musical){{!}}''Moulin Rouge!'' (musical)}}
+As early as November 2002, Luhrmann revealed that he intended to adapt ''Moulin Rouge!'' into a stage musical. A [[Las Vegas]] [[casino]] was the reputed site of the proposed show.<ref>{{cite news|last=Jones|first=Kenneth|title=Stage version of Luhrmann's "Moulin Rouge" aimed at a casino|url=https://www.playbill.com/article/stage-version-of-luhrmanns-moulin-rouge-aimed-at-a-casino-com-110100|work=[[Playbill]]|date=10 December 2002|access-date=30 June 2021|url-status=live|archive-url=https://web.archive.org/web/20210609125528/https://www.playbill.com/article/stage-version-of-luhrmanns-moulin-rouge-aimed-at-a-casino-com-110100|archive-date=9 June 2021}}</ref> Luhrmann was said to have asked both Kidman and McGregor to reprise their starring roles in the potential stage version.<ref>{{cite web|last=Gorgan|first=Elena|title=Moulin Rouge on the stage?|url=http://news.softpedia.com/news/Moulin-Rouge-on-the-Stage-27174.shtml|website=[[Softpedia]]|date=20 June 2006|access-date=27 March 2009|url-status=dead|archive-url=https://web.archive.org/web/20091114221529/https://news.softpedia.com/news/Moulin-Rouge-on-the-Stage-27174.shtml|archive-date=14 November 2009}}</ref>
+
+In 2008, a stage adaptation entitled ''La Belle Bizarre du Moulin Rouge'' ("The Bizarre Beauty of the Moulin Rouge") toured Germany and produced a cast recording.<ref>{{cite web|url=http://castalbums.org/recordings/La-Belle-Bizarre-Du-Moulin-Rouge-2009-Touring-Cast/15326|title=La Belle Bizarre Du Moulin Rouge » German Tour Cast|date=n.d.|access-date=7 September 2011|url-status=live|archive-url=https://web.archive.org/web/20111129183538/http://castalbums.org/recordings/La-Belle-Bizarre-Du-Moulin-Rouge-2009-Touring-Cast/15326|archive-date=29 November 2011}}</ref>
+
+In 2016, it was announced that [[Global Creatures]] was developing ''Moulin Rouge!'' into a stage musical. [[Alex Timbers]] was slated to direct the production, and [[John Logan (writer)|John Logan]] was tapped to write the book.<ref>{{cite web|last=Lang|first=Brent|title='Moulin Rouge!' being developed into a stage musical|url=https://variety.com/2016/legit/news/moulin-rouge-stage-musical-1201849506|work=[[Variety (magazine)|Variety]]|date=1 September 2016|access-date=2 September 2016|url-status=live|archive-url=https://web.archive.org/web/20160902140708/https://variety.com/2016/legit/news/moulin-rouge-stage-musical-1201849506|archive-date=2 September 2016}}</ref> ''Moulin Rouge!: The Musical'', starring [[Aaron Tveit]] as Christian and [[Karen Olivo]] as Satine, premiered on 10 July 2018 at the [[Colonial Theatre (Boston)|Colonial Theatre]] in [[Boston]].<ref>{{Cite web|last=Wontorek|first=Paul|title=Exclusive! Karen Olivo and Aaron Tveit are ready for the high romance, drama (and laughs!) of ''Moulin Rouge!: The Musical''|url=https://www.broadway.com/buzz/192727/exclusive-karen-olivo-and-aaron-tveit-are-ready-for-the-high-romance-drama-and-laughs-of-moulin-rouge-the-musical|website=broadway.com|date=10 July 2018|access-date=30 June 2021|url-status=live|archive-url=https://web.archive.org/web/20180816150657/https://www.broadway.com/buzz/192727/exclusive-karen-olivo-and-aaron-tveit-are-ready-for-the-high-romance-drama-and-laughs-of-moulin-rouge-the-musical|archive-date=16 August 2018}}</ref> The [[Broadway theatre|Broadway]] production opened at the [[Al Hirschfeld Theatre]] on 25 July 2019.<ref>{{Cite news|last=Ward|first=Maria|title=''Moulin Rouge!'' premieres on Broadway with a spectacularly splashy opening night|url=https://www.vogue.com/article/moulin-rouge-broadway-musical|date=26 July 2019|work=[[Vogue (magazine)|Vogue]]|access-date=30 June 2021|url-status=live|archive-url=https://web.archive.org/web/20200921004954/https://www.vogue.com/article/moulin-rouge-broadway-musical|archive-date=21 September 2020}}</ref> In May 2025, [[Boy George]], [[Jordan Fisher]], and [[Solea Pfeiffer]] were playing the roles of Zidler, Christian, and Satine, respectively.<ref>{{Cite web |title=Moulin Rouge! The Musical |url=https://moulinrougemusical.com/new-york/cast/ |access-date=2025-05-09 |website=Moulin Rouge! The Musical |language=en-US}}</ref>
+
+==In popular culture==
+The 2002 made-for-television movie ''[[It's a Very Merry Muppet Christmas Movie]]'' features a Christmas-themed parody entitled "Moulin Scrooge", in which various scenes and musical numbers are re-enacted by [[The Muppets|Muppets]].<ref>{{Cite news|author=Bricken, Rob|title=It's a Very Merry Muppet Christmas Movie Is the Maddest Muppet Special Ever|url=https://www.gizmodo.com.au/2022/11/its-a-very-merry-muppet-christmas-movie-is-the-maddest-muppet-special-ever/|work=[[Gizmodo Australia|Gizmodo AU]]|date=30 November 2022|access-date=7 February 2023|url-status=live|archive-url=https://web.archive.org/web/20221215150919/https://www.gizmodo.com.au/2022/11/its-a-very-merry-muppet-christmas-movie-is-the-maddest-muppet-special-ever/|archive-date=15 December 2022}}</ref> In ''Moulin Scrooge'', Christian is played by [[Kermit the Frog]], Satine (named [[Saltine]]) by [[Miss Piggy]], Toulouse-Lautrec by [[Gonzo (Muppet)|Gonzo]] and Zidler by [[Fozzie Bear]].<ref>{{cite web|title= Moulin Scrooge - It's a Very Merry Muppet Christmas Movie - TUNE |url=https://www.youtube.com/watch?v=_IwXfi_R6Wo|website=YouTube|publisher=TUNE - Musical Momements|language=en|format=video|date=Dec 14, 2021}}</ref>
+
+The US music video for "[[Mr. Brightside]]" by [[the Killers]] was inspired by the film.<ref>{{Cite web |last=Smith |first=Sophie |date=2020-04-29 |title=Watch The Killers Break Down The 'Mr Brightside' Video |url=https://www.udiscovermusic.com/news/the-killers-break-down-mr-brightside/ |access-date=2024-03-04 |website=uDiscover Music |language=en-US}}</ref>
+
+In the 2017–18 [[figure skating]] season, at the [[2018 Winter Olympics]], Canadian skaters [[Tessa Virtue]] and [[Scott Moir]] performed two selections from ''Moulin Rouge!'', interpreting the story of Christian and Satine through "The Show Must Go On", "El Tango de Roxanne", and "Come What May". Their performance won the gold medal in the [[Figure skating at the 2018 Winter Olympics – Team event|team]] and the [[Ice Dancing at the 2018 Winter Olympics|individual]] events.<ref>{{Cite web|last=Willman|first=Chris|title=Olympic figure skating revives 'Moulin Rouge' and Baz Luhrmann is loving it|url=https://variety.com/2018/music/news/baz-luhrmann-interview-olympics-moulin-rouge-1202709680|work=[[Variety (magazine)|Variety]]|date=24 February 2018|access-date=2 March 2019|url-status=live|archive-url=https://web.archive.org/web/20190306042940/https://variety.com/2018/music/news/baz-luhrmann-interview-olympics-moulin-rouge-1202709680|archive-date=6 March 2019}}</ref> At this event, Virtue and Moir became the most decorated skaters of all time.<ref>{{Cite news|author=Yahoo Sports Staff|title=Most decorated figure skaters in Olympic history|url=https://sports.yahoo.com/most-decorated-figure-skaters-olympic-slideshow-wp-042111323.html|work=[[Yahoo Sports|Yahoo! Sports]]|date=19 February 2018|access-date=21 July 2021|url-status=live|archive-url=https://web.archive.org/web/20180222131027/https://sports.yahoo.com/most-decorated-figure-skaters-olympic-slideshow-wp-042111323.html|archive-date=22 February 2018}}</ref>
+
+==See also==
+* ''[[Moulin Rouge (1928 film)|Moulin Rouge]]'', 1928 film
+* ''[[Moulin Rouge (1952 film)|Moulin Rouge]]'', 1952 film
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikiquote}}
+* {{webarchive |url=https://web.archive.org/web/20051012191201/http://www.clubmoulinrouge.com/mr2.htm |title=Official website |date=dmy}}
+* {{IMDb title}}
+* {{TCMDb title|452492}}
+* {{AFI film|53921}}
+* {{Mojo title}}
+* {{Metacritic film}}
+* {{Rotten Tomatoes}}
+* [https://www.ozmovies.com.au/movie/moulin-rouge%21 ''Moulin Rouge!''] {{Webarchive|url=https://web.archive.org/web/20200226195957/https://ozmovies.com.au/movie/moulin-rouge%21 |date=26 February 2020 }} at Oz Movies
+
+{{Baz Luhrmann}}
+{{Henri de Toulouse-Lautrec}}
+{{The Lady of the Camellias}}
+{{Navboxes
+|title = Awards for ''Moulin Rouge!''
+|list =
+{{GoldenGlobeBestMotionPictureMusicalComedy 2001-2020}}
+{{Golden Globe Award for Best Original Score}}
+{{London Film Critics Circle Award for Film of the Year}}
+{{National Board of Review Award for Best Film}}
+{{Producers Guild of America Award for Best Theatrical Motion Picture}}
+{{Satellite Award Best Motion Picture}}
+{{WSA for Discovery of the Year}}
+}}
+
+{{Authority control}}
+{{Portal bar|main|2000s|Film|Australia|United States}}
+
+{{DEFAULTSORT:Moulin Rouge!}}
+[[Category:2001 films]]
+[[Category:2001 romantic drama films]]
+[[Category:2001 American films]]
+[[Category:2001 Australian films]]
+[[Category:2000s dance films]]
+[[Category:2001 English-language films]]
+[[Category:2001 historical drama films]]
+[[Category:2000s historical romance films]]
+[[Category:2001 musical drama films]]
+[[Category:2000s romantic musical films]]
+[[Category:20th Century Fox films]]
+[[Category:American alternate history films]]
+[[Category:American dance films]]
+[[Category:American historical drama films]]
+[[Category:American historical musical films]]
+[[Category:American historical romance films]]
+[[Category:American musical drama films]]
+[[Category:American romantic drama films]]
+[[Category:American romantic musical films]]
+[[Category:Australian alternative history films]]
+[[Category:Australian historical drama films]]
+[[Category:Australian historical romance films]]
+[[Category:Australian musical drama films]]
+[[Category:Australian romantic drama films]]
+[[Category:BAFTA winners (films)]]
+[[Category:Best Musical or Comedy Picture Golden Globe winners]]
+[[Category:Bohemianism]]
+[[Category:Cultural depictions of Henri de Toulouse-Lautrec]]
+[[Category:English-language historical drama films]]
+[[Category:English-language historical romance films]]
+[[Category:English-language musical drama films]]
+[[Category:English-language romantic drama films]]
+[[Category:English-language romantic musical films]]
+[[Category:European Film Awards winners (films)]]
+[[Category:Films about prostitution in Paris]]
+[[Category:Films about tuberculosis]]
+[[Category:Films about writers]]
+[[Category:Films adapted into plays]]
+[[Category:Films directed by Baz Luhrmann]]
+[[Category:Films produced by Baz Luhrmann]]
+[[Category:Films featuring a Best Musical or Comedy Actress Golden Globe winning performance]]
+[[Category:Films scored by Craig Armstrong (composer)]]
+[[Category:Films set in 1899]]
+[[Category:Films set in 1900]]
+[[Category:Films set in the Moulin Rouge]]
+[[Category:Films shot in Madrid]]
+[[Category:Films shot in Sydney]]
+[[Category:Films shot at Disney Studios Australia]]
+[[Category:Films that won the Best Costume Design Academy Award]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films with screenplays by Baz Luhrmann]]
+[[Category:Films with screenplays by Craig Pearce]]
+[[Category:Jukebox musical films]]
+[[Category:Moulin Rouge!]]
+[[Category:Musicals set in cabarets]]
+[[Category:Postmodern films]]
+[[Category:Satellite Award–winning films]]

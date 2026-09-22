@@ -1,0 +1,60 @@
+{{Infobox film
+| name           = Damnation
+| image          = 
+ 
+| caption        = 
+| director       = [[Béla Tarr]]
+| producer       = 
+| writer         = Béla Tarr<br>[[László Krasznahorkai]]
+| narrator       = 
+| starring       = 
+| music          = [[Mihály Vig]]
+| cinematography = 
+| editing        = [[Ágnes Hranitzky]]
+| distributor    = 
+| released       = {{Film date|1988}}
+| runtime        = 116 minutes
+| country        = Hungary
+| language       = [[Hungarian language|Hungarian]]
+| budget         = 
+| gross          = 
+}}
+'''''Damnation''''' ({{langx|hu|Kárhozat}}) is a 1988 black-and-white Hungarian film directed by [[Béla Tarr]], written by Tarr and [[László Krasznahorkai]], and edited by [[Ágnes Hranitzky]] Tarr's directorial collaborator.
+
+
+==Plot==
+Karrer, a depressed man, is in love with a married torch singer from a local bar, the ''Titanik''. The singer breaks off their affair, because she dreams of becoming famous. Karrer is offered smuggling work by Willarsky, a local bartender. Karrer offers the job to the singer's husband, Sebestyén. This gets him out of the way, but things do not go as Karrer plans. Betrayals follow. Karrer despairs.
+
+== Production ==
+
+''Damnation'' marked a major stage in the long collaboration between Béla Tarr and Ágnes Hranitzky. Hranitzky edited the film and is listed in András Bálint Kovács's filmography as co-director.<ref>{{Cite book |last=Kovács |first=András Bálint |year=2013 |title=The Cinema of Béla Tarr: The Circle Closes |publisher=Wallflower Press |chapter=Filmography |pages=177–179 |url=https://filozofia.uni-miskolc.hu/wp-content/uploads/2020/03/KovacsAndrasBalint2013-TheCinemaOfBelaTarr.TheCircleCloses.pdf |access-date=25 June 2026}}</ref> The film also brought together several of the recurring collaborators associated with Tarr and Hranitzky's later work, including Nobel Prize-winning writer [[László Krasznahorkai]], composer [[Mihály Víg]], cinematographer [[Gábor Medvigy]], and set and costume designer [[Gyula Pauer]].<ref>{{Cite web |title=Damnation |url=https://nfi.hu/en/core-films-1/films-3/feature-films-1/damnaton.html |publisher=National Film Institute Hungary |access-date=25 June 2026}}</ref>
+
+
+==Reception==
+''Damnation'' is generally acclaimed by film critics, and many rank it one of Tarr's finest works. {{Rotten Tomatoes prose|94|7.8|18|ref=yes|access-date={{RT data|access date}}}} [[Michael Atkinson (writer)|Michael Atkinson]] of ''[[Village Voice]]'' called the film "a serotonin-depleted ordeal, and yet seemingly a sketchbook of vibes and ideas to come, with some of the most magnificent black-and-white images shot anywhere in the world."<ref>{{cite web |url=http://www.villagevoice.com/screens/0619,atkinson,73210,28.html |title=Small Town Anomie and Liquored Exhaustion |last=Atkinson |first=Michael |work=Village Voice |date=5 October 2007 |accessdate=21 December 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20070807172236/http://www.villagevoice.com/screens/0619%2Catkinson%2C73210%2C28.html |archivedate=7 August 2007 }}</ref> [[Jonathan Rosenbaum]] wrote in the ''[[Chicago Reader]]'', "The near miracle is that something so compulsively watchable can be made out of a setting and society that seem so depressive and petrified."<ref>{{cite web|url=http://www.chicagoreader.com/chicago/damnation/Film?oid=1151079|title=Damnation |last=Rosenbaum |first=Jonathan |work=Chicago Reader |date=31 July 2003 |accessdate=21 December 2014}}</ref> Writing for ''[[Slant Magazine]]'', Jeremiah Kipp argued, "In terms of creating a strong cinematic world, Tarr has few equals."<ref>{{cite web|url=http://www.slantmagazine.com/film/review/damnation |title=Damnation |last=Kipp |first=Jeremiah |work=Slant Magazine |date=21 April 2006 |accessdate=21 December 2014}}</ref>
+A review compared the film to the works of [[Andrei Tarkovsky]] and [[Michelangelo Antonioni]].<ref>{{cite web |url=http://www.cinemaparallel.com/damnationreviews.html |title=Damnation Reviews |publisher=Cinemaparallel.com |date= |accessdate=2013-08-04 |archive-date=2012-02-11 |archive-url=https://web.archive.org/web/20120211185536/http://www.cinemaparallel.com/damnationreviews.html |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title}}
+* {{rotten-tomatoes}}
+
+{{Béla Tarr}}
+{{László Krasznahorkai}}
+
+[[Category:Hungarian black-and-white films]]
+[[Category:Films directed by Béla Tarr]]
+[[Category:1980s Hungarian-language films]]
+[[Category:1988 Hungarian films]]
+[[Category:1988 drama films]]
+[[Category:1988 films]]
+[[Category:1988 black-and-white films]]
+[[Category:Films with screenplays by László Krasznahorkai]]
+[[Category:Films scored by Mihály Víg]]
+[[Category:Hungarian-language drama films]]
+
+
+{{1980s-drama-film-stub}}
+{{Hungary-film-stub}}

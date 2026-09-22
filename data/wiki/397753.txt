@@ -1,0 +1,227 @@
+{{Short description|1986 film by Tobe Hooper}}
+{{Use American English|date = November 2019}}
+{{Use mdy dates|date = November 2019}}
+{{Infobox film
+| name           = The Texas Chainsaw Massacre 2
+| image          = Texas_chainsaw_massacre_2_poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Tobe Hooper]]
+| writer         = [[L. M. Kit Carson]]
+| producer       = {{plainlist|
+* [[Menahem Golan]]
+* [[Yoram Globus]]
+}}
+| starring       = {{plainlist|
+* [[Dennis Hopper]]
+}}
+| music          = {{plainlist|
+* Tobe Hooper
+* Jerry Lambert
+}}
+| editing        = Alain Jakubowicz
+| cinematography = Richard Kooris
+| studio         = [[The Cannon Group Inc.]]<ref name="AFI film-57490"/>
+| distributor    = Cannon Releasing<ref name="AFI film-57490">{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/57490|work=[[AFI Catalog of Feature Films]]|publisher=[[American Film Institute]]|title=The Texas Chainsaw Massacre 2|url-status=live|archive-url=https://web.archive.org/web/20241224224932/https://catalog.afi.com/Catalog/moviedetails/57490|archive-date=December 24, 2024}}</ref>
+| released       = {{film date|1986|08|22}}
+| runtime        = 101 minutes<ref>{{cite web|url=https://www.belcourt.org/films/the-texas-chainsaw-massacre-2/|work=[[Belcourt Theatre]]|title=The Texas Chainsaw Massacre 2|url-status=live|archive-url=https://web.archive.org/web/20251114141528/https://www.belcourt.org/films/the-texas-chainsaw-massacre-2/|archive-date=November 14, 2025}}</ref>
+| country        = United States
+| language       = English
+| budget         = $4.5–4.6 million<ref name="Leatherface">{{cite news|last=Brueske|first=Pat H.|title=And Here Comes Leatherface! |url=https://www.latimes.com/archives/la-xpm-1986-06-08-ca-9224-story.html|archive-url=https://web.archive.org/web/20221025073607/https://www.latimes.com/archives/la-xpm-1986-06-08-ca-9224-story.html|archive-date=October 25, 2022|url-status=live |work=[[Los Angeles Times]]|date=June 8, 1986}}</ref><ref name="AFI film-57490"/><ref>{{Cite web |via=[[YouTube]] |title=CNN TEXAS CHAINSAW MASSACRE 2 (1986)|date=June 14, 2020 |url=https://www.youtube.com/watch?v=ildHA1LvtZQ|access-date=October 3, 2024}}</ref>
+| gross          = $8 million<ref name=mojo/>
+}}
+
+'''''The Texas Chainsaw Massacre 2'''''{{efn-lr|Some promotional materials list the film's title as ''The Texas Chainsaw Massacre Part 2''.}} is a 1986 American [[black comedy]] [[slasher film]]<ref>{{cite web|work=[[The Guardian]]|last=Bradshaw|first=Peter|author-link=Peter Bradshaw|url=https://www.theguardian.com/film/movie/89654/texas.chainsaw.massacre.2|title=The Texas Chainsaw Massacre 2|date=July 21, 2008 |url-status=live|archive-url=https://web.archive.org/web/20250220195423/https://www.theguardian.com/film/movie/89654/texas.chainsaw.massacre.2|archive-date=February 20, 2025}}</ref> directed and co-composed by [[Tobe Hooper]], written by [[L. M. Kit Carson]], and starring [[Dennis Hopper]], [[Caroline Williams]], [[Bill Johnson (film and television actor)|Bill Johnson]], [[Bill Moseley]], and [[Jim Siedow]]. It is the sequel to ''[[The Texas Chain Saw Massacre]]'' (1974) and the second installment in [[The Texas Chainsaw Massacre (franchise)|''The Texas Chainsaw Massacre'' film series]]. The plot follows Vanita "Stretch" Brock, a radio host who is victimized and abducted by [[Leatherface]] and his [[List of The Texas Chainsaw Massacre (franchise) characters#The Sawyer Family|cannibalistic family]]; meanwhile, Lt. Boude "Lefty" Enright, the uncle of [[Sally Hardesty|Sally]] and [[List of The Texas Chainsaw Massacre (franchise) characters#Franklin Hardesty|Franklin Hardesty]]{{em dash}}both prior victims of the family{{em dash}}hunts them down.
+
+Development of ''The Texas Chainsaw Massacre 2'' began following the 1981 theatrical re-release of the original film, which proved to be a financial success. After several delays, Hooper hired collaborator Carson to write the screenplay for the film in early 1986, with an emphasis on dark comedy, an element Hooper felt was present in the first film but went unacknowledged by audiences and critics. [[The Cannon Group]] served as the production company and distributor as part of a three-film deal the studio had struck with Hooper, having produced his previous two films, ''[[Lifeforce (film)|Lifeforce]]'' (1985) and ''[[Invaders from Mars (1986 film)|Invaders from Mars]]'' (1986). [[Principal photography]] occurred in [[Austin, Texas]] in the spring of 1986.
+
+Released in the United States on August 22, 1986, ''The Texas Chainsaw Massacre 2'' faced censorship both domestically and internationally; in the United States, it was distributed [[Motion Picture Association film rating system#Other labels|without a rating]] to avoid mandated cuts by the [[Motion Picture Association|MPAA]],{{sfn|Muir|2015|p=38}} and was banned in Australia, Germany, and Singapore. The film was a modest box office success, grossing $8 million domestically. It received mixed reception from film critics and audiences,{{sfn|Macor|2010|pages=46–47}} largely due to its emphasis on black comedy and gore, which departed from the first film's approach that featured minimal violence, low-budget [[Cinéma vérité|vérité]] style, and atmosphere to build tension and fear. The film's promotional materials featured a [[satire|satirical]] bent, with its theatrical one-sheet [[parody]]ing the poster art for [[John Hughes (director)|John Hughes]]'s popular teen comedy film ''[[The Breakfast Club]]'' (1985).{{sfn|Woofter|Dodson|2021|p=162}}
+
+Despite its mixed reception, the film eventually gained a [[cult following]]. It was followed by ''[[Leatherface: The Texas Chainsaw Massacre III]]'' in 1990.
+
+== Plot ==
+In 1986, high school seniors Buzz and Rick race along a desolate stretch of [[Texas]] highway, en route to the [[Red River Rivalry|Texas-OU football game]] at the [[Cotton Bowl (stadium)|Dallas Cotton Bowl]], and harass a pickup truck driven by chainsaw-wielding cannibal [[Leatherface]] along the way. Heavily intoxicated, they use their [[car phone]] to call and harass on-air radio DJ Vanita "Stretch" Brock, who, unable to convince them to hang up, is forced to keep the line open. As the two pass Leatherface’s pickup truck again, Leatherface emerges from the back of it and rips up the roof using his chainsaw. Rick tries shooting Leatherface with his revolver, but Leatherface kills Buzz. The car crashes, killing Rick.
+
+The next morning, Lieutenant Boude "Lefty" Enright, former [[Texas Ranger Division|Texas Ranger]], and uncle of [[Sally Hardesty|Sally]] and Franklin Hardesty, who were victims of Leatherface and his family years earlier{{efn-lr|As depicted in ''[[The Texas Chain Saw Massacre]]'' (1974)}}, arrives at the scene of the crime to help solve Buzz and Rick's murders. Lefty has spent the last thirteen years looking into his nephew's disappearance, investigating reports of mysterious chainsaw killings across Texas. He is contacted by Stretch, who brings him a copy of the audio tape that recorded the attack. He sends her away, leaving Stretch and her coworker, L.G. Peters, to reluctantly cover a Texas/Oklahoma Chili Cookoff for their radio show. The winner of the cookoff happens to be [[Drayton Sawyer]], the current patriarch of the [[Human cannibalism|cannibalistic]] Sawyer family, who declares that his secret is having an eye for "prime meat."
+
+Meanwhile, Lefty shops for chainsaws at a local hardware store. He at first unnerves, then amuses the shop's owner with his brutal testing of the saws on a log. Lefty then drives to Stretch's radio station and asks her to play the tape on her nightly radio show so that the public, which had previously mocked his case, will have to listen to him.
+
+Driving home from his chili cookoff victory with his family, Drayton is called by [[Chop Top]] about the tape being broadcast, so he sends him and Leatherface to the radio station. While she is about to leave for the night, Stretch is confronted by Chop Top before being attacked by Leatherface. Chop Top brutally bludgeons L.G. with a hammer. Meanwhile, Leatherface corners Stretch and is about to kill her, but she charms him into sparing her. Leatherface returns to Chop Top and leads him to believe that he has killed Stretch. As they take L.G. to their home, they are followed by Stretch, who ends up trapped inside the Sawyers' subterranean lair, located in an abandoned [[amusement park]] and decorated with human bones, multi-colored lights, and carnival remnants.
+
+Lefty, who has been following their car all along, arrives equipped with chainsaws and proceeds to vandalize the lair before finding Franklin's remains. Meanwhile, Stretch is found by Leatherface, who puts L.G.'s skinned face and hat on her before tying her arms and leaving. Later, a still-alive L.G. frees Stretch before dying. Leatherface finds Stretch, and the family captures her. Drayton scolds Leatherface when he finds out that Stretch was not killed. They torture her at the dinner table, but Lefty arrives and saves her. Stretch flees the grounds, with Chop Top chasing after her. Lefty wounds Drayton, then he and Leatherface get into a chainsaw fight, in which Leatherface is fatally wounded. The dying Drayton, accepting that he and his family have lost, takes a grenade from [[Nubbins]]'s corpse and [[fragging|frag]]s himself, Lefty, Leatherface, and Grandpa.
+
+Chop Top chases Stretch to the top of a stone tower in the amusement park. Stretch grabs a chainsaw from the corpse of the family's grandmother in a shrine and fatally wounds Chop Top, causing him to fall off the tower to his death. Stretch shouts in triumph and swings the chainsaw in the air, her physical movements echoing Leatherface's "chainsaw dance" from the closing scene of ''[[The Texas Chain Saw Massacre]]''.
+
+==Cast==
+{{main|List of The Texas Chainsaw Massacre characters}}
+{{cast list|
+* [[Dennis Hopper]] as Lieutenant Boude "Lefty" Enright
+* [[Caroline Williams]] as Vanita "Stretch" Brock
+* [[Jim Siedow]] as [[Drayton Sawyer]] / "The Cook"
+* [[Bill Moseley]] as Robert Sawyer / "[[Chop-Top|Chop Top]]"
+* [[Bill Johnson (film and television actor)|Bill Johnson]],{{efn-lr|Close-up shots.}}  [[Bob Elmore]],{{efn-lr|Wide shots.}} and [[Tom Morga]]{{efn-lr|During the opening scene only.}} as [[Leatherface]] / Bubba Sawyer 
+* Ken Evert as Grandpa
+* Harlan Jordan as Patrolman
+* Kirk Sisco as Detective
+* [[James N. Harrell]] as Cut-Rite Manager 
+* [[Lou Perryman|Lou Perry]] as L. G. Peters
+* Barry Kinyon as Mercedes Driver ("Buzz")
+* [[Chris Douridas]] as Gunner / Rick
+}}
+
+[[Kinky Friedman]] appears in a cameo as Sports Anchorman, as does [[Dan Jenkins]] as T.V. Commentator and [[Joe Bob Briggs]] as Gonzo Moviegoer; Hooper also cameos.
+
+== Production ==
+{{expand section|date=November 2025}}
+===Development===
+Following [[New Line Cinema]]'s profitable 1981 theatrical re-release of ''[[The Texas Chain Saw Massacre]]'' (1974), director [[Tobe Hooper]] began developing a sequel to his original film.{{sfn|Macor|2010|pages=45–46}} The project did not culminate until several years later, when ''[[The Hollywood Reporter]]'' announced the project in a November 2, 1983 trade advertisement.{{sfn|Macor|2010|p=46}}
+
+The film was financed by [[The Cannon Group, Inc.|Cannon Films]] as part of a three-picture deal the studio had struck with Hooper, having previously produced and distributed his films ''[[Lifeforce (film)|Lifeforce]]'' (1985) and ''[[Invaders from Mars (1986 film)|Invaders from Mars]]'' (1986).{{sfn|Macor|2010|p=46}} Hooper initially planned to serve only as a producer, but was enlisted as director when he could not find a director that the producers could afford.<ref>{{cite web|url=https://www.avclub.com/article/tobe-hooper-13680|title=Tobe Hooper|first=Ken|last=Phipps|date=October 11, 2000|work=[[The A.V. Club]]|access-date=July 19, 2015|archive-date=July 22, 2015|archive-url=https://web.archive.org/web/20150722020813/http://www.avclub.com/article/tobe-hooper-13680|url-status=live}}</ref>
+ 
+According to the documentary ''[[Electric Boogaloo: The Wild, Untold Story of Cannon Films]]'', Cannon Films anticipated a straightforward horror film, while Hooper sought to make the sequel a [[black comedy]]. Hooper enlisted [[L. M. Kit Carson]] to write the screenplay, which he began in January 1986.<ref name="AFI film-57490"/>
+
+===Casting===
+[[Gunnar Hansen]] was initially approached to reprise his role as Leatherface, but he claimed to have been offered "scale, plus ten percent" with the ten percent going to his agent. When he replied that he had no agent, they offered scale without the additional ten percent. Hansen found the offer too low.{{sfn|Jaworzyn|2012|pages=130–131}} Unit publicist Scott Holton offered an alternate story claiming Hansen vacillated about the part and the offer was rescinded.{{sfn|Jaworzyn|2012|pages=130–131}} Holton didn't believe the average viewer was even aware of who the original actors were, claiming "who ''are'' Neal, Hansen or Burns?"{{sfn|Jaworzyn|2012|pages=130–131}}
+
+Bill Moseley created a short film parody entitled ''The Texas Chainsaw Manicure'',<ref>{{Cite web |url=http://herocomplex.latimes.com/movies/texas-chainsaw-3d-bill-moseley-reflects-on-a-monster-career/ |title='Texas Chainsaw 3D': Bill Moseley reflects on a monster career |last=McIntyre |first=Gina |date=January 4, 2013 |website=[[Los Angeles Times]] |access-date=October 17, 2017 |archive-date=August 4, 2018 |archive-url=https://web.archive.org/web/20180804170213/https://herocomplex.latimes.com/movies/texas-chainsaw-3d-bill-moseley-reflects-on-a-monster-career/ |url-status=live }}</ref> where he played a small role as [[List of The Texas Chainsaw Massacre characters#Nubbins Sawyer (The Hitchhiker)|the Hitchhiker]] and showed it to a screenwriter who was able to show it to Tobe Hooper.{{sfn|Jaworzyn|2012|pages=131–132}} Hooper loved it and kept Moseley in mind for a part should he ever make a sequel.{{sfn|Jaworzyn|2012|pages=131–132}} When the time came to cast ''Chainsaw 2'', Moseley was contacted for the role of Chop Top, the Hitchhiker's twin brother.{{sfn|Jaworzyn|2012|pages=131–132}}
+
+===Filming===
+[[File:Colorado river bridge at bastrop 2006.jpg|thumb|right|upright=.9|The [[Old Iron Bridge (Bastrop, Texas)|Old Iron Bridge]] spanning the [[Colorado River]] features in the film's opening scene]]
+[[Principal photography]] of ''The Texas Chainsaw Massacre 2'' began on May 5, 1986, in [[Austin, Texas]] metropolitan area.<ref name="AFI film-57490"/> Shooting locations in the city included the Cut Rite chainsaw store, as well as the interiors of the former ''[[Austin American-Statesman]]'' building.<ref name=taggart/> The majority of the shoot occurred in and around the shuttered Matterhorn Amusement Park in [[Prairie Dell, Texas|Prairie Dell]], which stood in for the fictional Texas Battle Land amusement park where the Sawyer family's lair is located.<ref name=taggart>{{cite news|work=[[Austin American Statesman]]|last=Taggart|first=Patrick|date=May 8, 1986|url=https://www.newspapers.com/article/austin-american-statesman/130995482/|pages=C1, {{URL|https://www.newspapers.com/article/austin-american-statesman-tcm2-article-1/130501451/|C6}}|title='Chainsaw II' filming begins at Cut Rite|via=Newspapers.com|access-date=September 4, 2023|archive-date=September 4, 2023|archive-url=https://web.archive.org/web/20230904011712/https://www.newspapers.com/article/austin-american-statesman/130995482/|url-status=live}}</ref><ref>{{cite web|url=http://www.texasescapes.com/ClayCoppedge/Prairie-Dell-Texas-Chainsaw-Massacre-Movie-Location.htm|title=Tranquil setting belies past: PRAIRIE DELL|first=Clay|last=Coppedge|date=September 24, 2004|access-date=July 3, 2018|work=Texas Escapes|publisher=Blueprints for Travel|archive-date=June 22, 2018|archive-url=https://web.archive.org/web/20180622032918/http://www.texasescapes.com/ClayCoppedge/Prairie-Dell-Texas-Chainsaw-Massacre-Movie-Location.htm|url-status=live}}</ref><ref>{{cite news|work=[[El Paso Herald]]|page=6|date=May 9, 1986|url=https://www.newspapers.com/article/el-paso-herald-post/130995332/|title='Chainsaw Massacre II' Starts Filming in Austin|via=Newspapers.com|access-date=September 4, 2023|archive-date=September 4, 2023|archive-url=https://web.archive.org/web/20230904021720/https://www.newspapers.com/article/el-paso-herald-post/130995332/|url-status=live}}</ref> The film's opening scene was shot at the [[Old Iron Bridge (Bastrop, Texas)|Old Iron Bridge]] in [[Bastrop, Texas|Bastrop]].<ref name=":0">{{Cite web |last=Herrera |first=Andrés |date=October 30, 2024 |title=Old Iron Bridge |url=https://www.tshaonline.org/handbook/entries/old-iron-bridge |website=Handbook of Texas Online |publisher=[[Texas State Historical Association]]}}</ref>
+
+===Post-production===
+Several scenes were deleted by director Tobe Hooper due to pacing issues as mentioned on the 2000 ''Texas Chainsaw Massacre: The Shocking Truth'' documentary.<ref>{{cite web|url=https://www.imdb.com/title/tt0286214/|title=Texas Chainsaw Massacre: The Shocking Truth (2000)|publisher=[[IMDb]]|access-date=July 19, 2014|archive-date=March 24, 2014|archive-url=https://web.archive.org/web/20140324032316/http://www.imdb.com/title/tt0286214/|url-status=live}}</ref> One lengthy scene that was cut from the film involves the Sawyer Clan heading out at night to collect prime meat for their chili by slaughtering patrons exiting a movie theater and a group of rowdy, rioting fans in a parking garage. The deleted slaughtering scene featured several elaborate [[Tom Savini]] special effects. The deleted scene at the movie theater also includes a cameo by American film critic [[Joe Bob Briggs]].{{sfn|Jaworzyn|2012|pages=249–250}}
+
+== Soundtrack ==
+{{expand section|date=May 2022}}
+{{Infobox album
+| name       = The Texas Chain Saw Massacre, Pt. 2
+| type       = soundtrack
+| artist     = Various artists
+| cover      =
+| alt        =
+| released   = 1986
+| recorded   =
+| studio     =
+| genre      = {{hlist|[[Gothic rock]]|[[New wave music|new wave]]|[[alternative rock]]}}
+| length     =
+| label      = [[IRS Records|IRS]]
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+# [[The Lords of the New Church]]: "Good to Be Bad" – 4:42
+# [[The Cramps]]: "Goo Goo Muck" – 3:02
+# [[Concrete Blonde]]: "Haunted Head" – 2:48
+# [[Timbuk3]]: "Life Is Hard" – 4:06
+# [[Torch Song (band)|Torch Song]]: "White Night" – 3:42
+# [[Stewart Copeland]]: "Strange Things Happen" – 2:58
+# [[Concrete Blonde]]: "Over Your Shoulder" – 3:20
+# [[Timbuk3]]: "Shame on You" – 4:48
+# [[The Lords of the New Church]]: "Mind Warp" – 3:42
+# [[Oingo Boingo]]: "No One Lives Forever" – 4:08
+
+"Crazy Crazy Mama" by [[Roky Erickson]] was used in the film but not included on the soundtrack album.
+
+==Release==
+===Marketing===
+The final poster design, featuring the family sitting together, is a parody of the poster for the 1985 teen comedy-drama film ''[[The Breakfast Club]]''.{{sfn|Maddrey|2010|p=84}} An alternate poster for the film features Leatherface sawing through a door with his chainsaw.<ref>{{cite web|url=http://www.impawards.com/1986/texas_chainsaw_massacre_two_ver2.html|work=Internet Movie Poster Awards|title=The Texas Chainsaw Massacre 2 Movie Poster (#2 of 2)|url-status=live|archive-url=https://web.archive.org/web/20190811181245/http://www.impawards.com/1986/texas_chainsaw_massacre_two_ver2.html|archive-date=August 11, 2019}}</ref>
+
+=== Censorship ===
+Similarly to the first film, ''The Texas Chainsaw Massacre 2'' faced significant [[censorship]] in numerous countries. In the United States, the [[Motion Picture Association|Motion Picture Association of America]] (MPAA) refused to grant the film an [[R rating (Motion Picture Association)|R rating]] for theatrical release, despite it undergoing numerous cuts to tone down its violence.<ref name=price/>{{sfn|Muir|2015|p=38}} "I told [executive producers Menachem Golan and Yoram Globus], going in, that there was no way we could get an R rating on that picture," said Hooper, "but they kept chopping away at it."<ref name=price/> When the MPAA refused to grant the film anything less than an [[X rating]], Cannon Films opted to release it [[Motion Picture Association film rating system#Other labels|without a rating]].{{sfn|Muir|2015|p=38}}
+
+The film was banned in Germany and Singapore, though the [[Freiwillige Selbstkontrolle der Filmwirtschaft]] in Germany later gave the uncut version an 18 rating,<ref>{{cite web|url=https://www.schnittberichte.com/svds.php?Page=Titel&ID=1715|title=The Texas Chainsaw Massacre 2 (1986)|publisher=Schnittberichte|language=de|access-date=February 4, 2018|archive-date=September 5, 2021|archive-url=https://web.archive.org/web/20210905152711/https://www.schnittberichte.com/svds.php?Page=Titel&ID=1715|url-status=live}}</ref> and Singapore gave it an R21 (Restricted to under 21) rating after an appeal. When the film was submitted in the United Kingdom to the [[British Board of Film Classification|BBFC]] for a certificate, the BBFC notified Cannon, the distributor, that at least 20 to 25 minutes of footage would have to be trimmed in order for the film to be given an 18 rating. Cannon attempted to cut the film, but eventually gave up after numerous re-edited versions failed to pass the BBFC.<ref name="BBFC">{{cite web |url=https://bbfc.co.uk/sites/default/files/attachments/BBFC%20Annual%20Report%201987.pdf |title=Annual Report 1987 |work=[[British Board of Film Classification]] |access-date=March 25, 2020 |archive-date=September 30, 2020 |archive-url=https://web.archive.org/web/20200930182502/https://www.bbfc.co.uk/sites/default/files/attachments/BBFC%20Annual%20Report%201987.pdf |url-status=dead }}</ref> The uncut version of the film was eventually given an 18 rating in 2001. When released in Ontario, Canada the film had 11 minutes cut after being rejected three times by Ontario censors.
+
+The film was banned in Australia for 20 years.<ref>{{cite web|url=https://www.theguardian.com/film/2019/feb/21/from-texas-chainsaw-massacre-2-to-ken-park-films-that-failed-the-censorship-test|work=[[The Guardian]]|date=February 21, 2019|title=From Texas Chainsaw Massacre 2 to Ken Park: films that failed the censorship test|last=Johnson|first=Travis|url-status=live|archive-url=https://web.archive.org/web/20201112015521/https://www.theguardian.com/film/2019/feb/21/from-texas-chainsaw-massacre-2-to-ken-park-films-that-failed-the-censorship-test|archive-date=November 12, 2020}}</ref> An uncut version was released on VHS by [[Warner Home Video]] in New Zealand in 1987, but could also be found (illegally, as the box proudly stated)<ref name="Refused-Classification">{{cite web |url=http://www.refused-classification.com/Films_texaschainsawmassacre.htm#tcm2 |title=Film Censorship: The Texas Chainsaw Massacre (1974) & (1986) |work=Refused Classification |date=November 30, 2006 |access-date=August 21, 2012 |archive-date=July 4, 2018 |archive-url=https://web.archive.org/web/20180704093044/http://www.refused-classification.com/censorship/films/texas-chainsaw-massacre.html#tcm2 |url-status=live }}</ref> in some Australian video stores at the time. The New Zealand VHS cassette has become very rare. In 2000, an unofficial VHS release was issued to retailers throughout Australia. This was done so illegally by a duplicating house, and without the knowledge of the [[Office of Film and Literature Classification (Australia)|OFLC]]. When news of the illegal copies leaked, a number of retailers were raided for possessing infringing copies. The duplicating house was similarly raided by Federal Customs. The film was finally passed for official release in Australia on November 30, 2006.<ref name="Refused-Classification"/> The Uncut "Gruesome Edition" DVD was released on January 24 the next year.<ref>{{cite web |url=http://www.ezydvd.com.au/item.zml/791311 |title=Texas Chainsaw Massacre 2, The - The Gruesome Edition |date=January 23, 2007 |publisher=[[EzyDVD]] |access-date=August 21, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20110717131033/http://www.ezydvd.com.au/item.zml/791311 |archive-date=July 17, 2011 }}</ref>
+
+=== Home media ===
+[[Media Home Entertainment]] released ''The Texas Chainsaw Massacre 2'' on [[VHS]] in 1986.<ref>{{cite av media|year=1986|title=The Texas Chainsaw Massacre 2|id=M 884|publisher=[[Media Home Entertainment]]|medium=[[VHS]]}}</ref> In 1995, a [[Bootleg recording|bootleg]] VHS edition of the film circulated among video dealers and collectors, surfacing at a ''[[Fangoria]]'' convention in New York City.<ref name=price>{{cite news|work=[[Fort Worth Star-Telegram]]|last=Price|first=Michael H.|url=https://www.newspapers.com/article/fort-worth-star-telegram/131034736/|date=March 16, 1995|via=Newspapers.com|page=84|title=Tobe Hooper still cutting up|access-date=September 4, 2023|archive-date=September 4, 2023|archive-url=https://web.archive.org/web/20230904014716/https://www.newspapers.com/article/fort-worth-star-telegram/131034736/|url-status=live}}</ref> Hooper himself stated that this version resembled an early [[rough cut]] of the film, assembled prior to its submission to the MPAA.<ref name=price/>
+
+On September 1, 1998, the film was released on VHS by [[MGM Home Entertainment]] as part of the MGM Movie Time collection (which was available exclusively through [[Warner Home Video]]). On August 1, 2000, the film was released on a [[DVD region code|region 1]] DVD by MGM Home Entertainment.<ref>{{cite AV media|url=https://www.amazon.com/Texas-Chainsaw-Massacre-2/dp/0792846508|title=The Texas Chainsaw Massacre 2 (1986)|work=[[Amazon.com]]|date=August 1, 2000|access-date=January 27, 2019}}</ref> On October 10, 2006, the film received a second DVD treatment from MGM, entitled "The Gruesome Edition", which featured an audio commentary by director Tobe Hooper and David Gregory, director of ''Texas Chain Saw Massacre: The Shocking Truth'', as well as an audio commentary by actors Bill Moseley, Caroline Williams and special effects makeup creator Tom Savini. The special features also included deleted scenes, a feature-length documentary entitled ''It Runs in the Family'', six still galleries and a trailer.<ref name="ReleaseDate">{{cite web|url=https://www.dvdsreleasedates.com/movies/3994/The-Texas-Chainsaw-Massacre-2-(1986).html|title=The Texas Chainsaw Massacre 2|work=DVD Release Dates|access-date=January 27, 2019|archive-date=October 22, 2021|archive-url=https://web.archive.org/web/20211022070559/https://www.dvdsreleasedates.com/movies/3994/The-Texas-Chainsaw-Massacre-2-(1986).html|url-status=live}}</ref> A [[Blu-ray]] edition of the film was released by MGM on September 11, 2012 which featured all of the special features from the "Gruesome Edition" DVD.<ref name="ReleaseDate"/>
+
+[[Shout! Studios|Scream Factory]] released a Collector's Edition Blu-ray on April 19, 2016,<ref>{{cite web|url=https://www.blu-ray.com/movies/The-Texas-Chainsaw-Massacre-Part-2-Blu-ray/143501/|title=The Texas Chainsaw Massacre Part 2|work=Blu-ray.com|access-date=January 27, 2019|archive-date=October 28, 2021|archive-url=https://web.archive.org/web/20211028170138/https://www.blu-ray.com/movies/The-Texas-Chainsaw-Massacre-Part-2-Blu-ray/143501/|url-status=live}}</ref><ref>{{cite web|url=https://www.slantmagazine.com/dvd/the-texas-chainsaw-massacre-2/|work=[[Slant Magazine]]|date=April 21, 2016|title=Review: Tobe Hooper's The Texas Chainsaw Massacre 2 on Shout! Blu-ray|last=Bowen|first=Chuck|url-status=live|archive-url=https://web.archive.org/web/20251210151006/https://www.slantmagazine.com/dvd/the-texas-chainsaw-massacre-2/|archive-date=December 10, 2025}}</ref> which went [[out of print]] on August 6, 2020.<ref>{{cite web|work=[[Shout! Factory]]|title=The Texas Chainsaw Massacre 2 [Collector's Edition]|url=https://www.shoutfactory.com/product/the-texas-chainsaw-massacre-2-collector-s-edition?product_id=4548|url-status=dead|archive-url=https://web.archive.org/web/20210126152440/https://www.shoutfactory.com/product/the-texas-chainsaw-massacre-2-collector-s-edition?product_id=4548|archive-date=January 26, 2021}}</ref> On October 25, 2022, [[Vinegar Syndrome (company)|Vinegar Syndrome]] released a three-disc [[Ultra HD Blu-ray|4K UHD Blu-ray]] edition of the film with archival and newly commissioned bonus features.<ref name=vs4k>{{cite web|work=Blu-ray.com|url=https://www.blu-ray.com/movies/The-Texas-Chainsaw-Massacre-2-4K-Blu-ray/316272/|title=The Texas Chainsaw Massacre 2 4K Blu-ray – United States|date=October 25, 2022|url-status=live|archive-url=https://web.archive.org/web/20250815165856/https://www.blu-ray.com/movies/The-Texas-Chainsaw-Massacre-2-4K-Blu-ray/316272/|archive-date=August 15, 2025}}</ref>
+
+==Reception==
+===Box office===
+The film was released theatrically in the United States by Cannon Films on August 22, 1986. It earned over half of its budget back during its opening weekend,{{sfn|Macor|2010|p=46}} and went on to gross a total of $8,025,872 at the domestic box office.<ref name=mojo>{{cite web|url=https://boxofficemojo.com/movies/?id=texaschainsawmassacre2.htm|title=The Texas Chain Saw Massacre II|work=[[Box Office Mojo]]|access-date=March 29, 2011|archive-date=August 29, 2011|archive-url=https://web.archive.org/web/20110829003507/http://boxofficemojo.com/movies/?id=texaschainsawmassacre2.htm|url-status=live}}</ref>
+
+===Critical response===
+At the time of its release, ''The Texas Chainsaw Massacre 2'' was met with mixed reviews from film critics.{{sfn|Macor|2010|pages=46–47}} [[Roger Ebert]] awarded the film one star out of four, lambasting the film because it "goes flat-out from one end to the other, never spending any time on pacing, on timing, on the anticipation of horror. It doesn't even pause to establish the characters; Dennis Hopper has the most thankless task, playing a man who spends the first half of the movie looking distracted and vague, and the second half screaming during chainsaw duels." He also commented that it "has a lot of blood and disembowelment, to be sure, but it doesn't have the terror of the original, the desire to be taken seriously. It's a geek show."<ref>{{Cite web|url=https://www.rogerebert.com/reviews/the-texas-chainsaw-massacre-part-2-1986|title=The Texas Chainsaw Massacre 2|last=Ebert|first=Roger|date=August 25, 1986|via=[[RogerEbert.com]]|work=[[Chicago Sun-Times]]|author-link=Roger Ebert|access-date=October 4, 2017|archive-date=October 9, 2021|archive-url=https://web.archive.org/web/20211009135643/https://www.rogerebert.com/reviews/the-texas-chainsaw-massacre-part-2-1986|url-status=live}}</ref> ''[[TV Guide]]''{{'}}s review was similarly negative, stating that "the film feels as if Hooper himself has nothing but contempt for the original and went out of his way to tear it down."<ref>{{cite web|url=https://www.tvguide.com/movies/the-texas-chainsaw-massacre-part-2/review/120054/|title=The Texas Chainsaw Massacre 2 Review|work=[[TV Guide]]|access-date=May 5, 2019|archive-date=May 5, 2019|archive-url=https://web.archive.org/web/20190505032017/https://www.tvguide.com/movies/the-texas-chainsaw-massacre-part-2/review/120054/|url-status=dead}}</ref> ''[[The New York Times]]'' criticized the film, saying, "Hooper's direction is a little sloppy," and that the film "is not first-grade chopped steak."<ref>{{cite web|last=Goodman|first=Walter|title=The Screen: 'Chainsaw 2,' A Sequel|url=https://www.nytimes.com/1986/08/23/movies/the-screen-chainsaw-2-a-sequel.html|work=[[The New York Times]]|date=August 23, 1986|access-date=August 20, 2021|archive-date=October 22, 2021|archive-url=https://web.archive.org/web/20211022155710/https://www.nytimes.com/1986/08/23/movies/the-screen-chainsaw-2-a-sequel.html|url-status=live}}</ref>
+
+Michael Wilmington of the ''[[Los Angeles Times]]'' noted the film's overt humor, and described it as a "piece of cooly calculated outrage...&nbsp;it's done with such style and energy, such bursts of red-hot invention and anarchic, madly irreverent satire that sometimes it almost scorches you out of your seat."<ref>{{cite news|url=https://www.newspapers.com/article/the-los-angeles-times/199985270/|work=[[Los Angeles Times]]|last=Wilmington|first=Michael|date=August 23, 1986|via=Newspapers.com|page=3|title='Chainsaw 2' Abuzz With Even More Gory Horror}}</ref> Ted Mahar of ''[[The Oregonian]]'' commented on the film's frenetic energy, writing: "The glop, gore, bizarre behavior and even overt stabs at social commentary are all done at fever pitch, with tongue in cheek. There is great stealthy scurrying, a musical score that sounds much like what [[Bernard Herrmann]] wrote for [[Alfred Hitchcock|Hitchcock]]—and it's all over-done, a mini-apocalypse. Some may not see it as comic or satirical but as phenomenally disgusting; satirical or not, it generally makes ''[[The Fly (1986 film)|The Fly]]'' seem like something from [[The Walt Disney Company|Disney]] by comparison."<ref>{{cite news|url=https://www.newspapers.com/article/the-oregonian/199985794/|last=Mahar|first=Ted|date=August 23, 1986|work=[[The Oregonian]]|page=D8|via=Newspapers.com|title='Chainsaw 2' shows it all—gore galore}}</ref>
+
+[[AllMovie]]'s review was favorable, writing, "much-hated at the time of its release, Tobe Hooper's ''The Texas Chainsaw Massacre 2'' has aged remarkably well, now playing as a strangely effective if none-too-subtle satire of several facets of '80s excess."<ref>{{cite web |url=https://www.allmovie.com/movie/the-texas-chainsaw-massacre-2-v49207/review |title=The Texas Chainsaw Massacre 2 |last=Phipps |first=Keith |work=[[AllMovie]] |access-date=July 26, 2012 |publisher=[[RhythmOne]] |archive-date=October 28, 2021 |archive-url=https://web.archive.org/web/20211028165536/https://www.allmovie.com/movie/the-texas-chainsaw-massacre-2-v49207/review |url-status=live }}</ref>
+
+''The Texas Chain Saw Massacre 2'' holds a 53% approval rating on film [[review aggregator]] website [[Rotten Tomatoes]], based on 36 reviews. Its consensus reads, "Without the tense atmosphere of its predecessor, the stakes feel lower, but ''The Texas Chainsaw Massacre 2'' still shocks with a gonzo blend of over-the-top humor and gore."<ref>{{cite web |url=https://www.rottentomatoes.com/m/texas_chainsaw_massacre_2/ |title=The Texas Chainsaw Massacre 2 (1986) |work=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |access-date=September 13, 2026 |archive-date=October 18, 2022 |archive-url=https://web.archive.org/web/20221018225655/https://www.rottentomatoes.com/m/texas_chainsaw_massacre_2 |url-status=live }}</ref> On [[Metacritic]], the film holds a score of 42 out of 100 based on reviews from 13 critics, indicating "mixed or average reviews".<ref>{{Metacritic film}}</ref>
+
+==Sequel==
+{{main|Leatherface: The Texas Chainsaw Massacre III}}
+The official sequel to the film was ''[[Leatherface: The Texas Chainsaw Massacre III]]''. In 1998, Tobe Hooper's son William Hooper, began work on ''All American Massacre'', a short film that would be both a sequel and a prequel to ''The Texas Chainsaw Massacre 2''.<ref name="allamerican">{{Cite web |url=https://bloody-disgusting.com/news/3455914/bill-moseley-played-chop-top-chainsaw-2-sequel-may-never-see/ |title=Bill Moseley Played Chop Top in a 'Chainsaw 2' Sequel We May Never See |last=Squires |first=John |date=August 29, 2017 |website=[[Bloody Disgusting]] |access-date=October 17, 2017 |archive-date=August 25, 2018 |archive-url=https://web.archive.org/web/20180825123403/https://bloody-disgusting.com/news/3455914/bill-moseley-played-chop-top-chainsaw-2-sequel-may-never-see/ |url-status=live }}</ref> Hooper ran out of funds for [[post-production]] in 2000 and the film was never completed and released although the trailer leaked online in the early 2000s.<ref name="allamerican"/>
+
+==Legacy==
+''The Texas Chainsaw Massacre 2'' has become a [[cult film]] in the years since its original release.<ref>{{cite web|url=http://www.undertheradarmag.com/reviews/the_texas_chainsaw_massacre_2_collectors_edition|title=The Texas Chainsaw Massacre 2: Collector's Edition|last=Trunick|first=Austin|work=[[Under the Radar (magazine)|Under the Radar]]|date=May 5, 2016|access-date=May 13, 2016|archive-date=July 4, 2018|archive-url=https://web.archive.org/web/20180704035651/http://www.undertheradarmag.com/reviews/the_texas_chainsaw_massacre_2_collectors_edition|url-status=live}}</ref> 
+
+In a press release for a 2024 revival screening, the [[IFC Center]] praised it as "a wild, outrageous, and unbelievably gory mix of southern fried terror and surreal humor."<ref>{{cite web|work=[[IFC Center]]|url=https://www.ifccenter.com/films/the-texas-chainsaw-massacre-2/|title=The Texas Chainsaw Massacre 2|url-status=live|date=December 2024|archive-url=https://web.archive.org/web/20260318003519/https://www.ifccenter.com/films/the-texas-chainsaw-massacre-2/|archive-date=March 18, 2026}}</ref>
+
+===In culture===
+The song "[[Jerry Was a Race Car Driver]]" by [[Primus (band)|Primus]] samples audio from the movie of Chop Top chuckling and saying "Dog will hunt!".{{Citation needed|date=May 2025}}
+
+The song "Skelechairs" by Doormouse, later remixed by [[Venetian Snares]], samples the movie's opening monologue.{{Citation needed|date=May 2025}}
+
+[[Film Threat]]'s review of the film ''[[Hemet, or the Landlady Don't Drink Tea]]'' compared it to the tone of ''Texas Chainsaw Massacre 2'', as if it were a stage play.<ref>{{Cite web |last=Devir |first=Ryan |date=March 28, 2024 |title=Hemet, or the Landlady Don't Drink Tea |url=https://filmthreat.com/reviews/hemet-or-the-landlady-dont-drink-tea/ |access-date=2025-05-03 |website=[[Film Threat]]}}</ref>
+
+==Notes==
+{{notelist-lr}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+{{ref begin}}
+*{{cite book |title=The Texas Chain Saw Massacre Companion |last=Jaworzyn |first=Stefan |publisher=[[Titan Books]] |location=London, England |year=2012 |isbn=978-1-781-16497-6}}
+*{{cite book|last=Macor|first=Allison|year=2010|title=Chainsaws, Slackers, and Spy Kids: Thirty Years of Filmmaking in Austin, Texas|publisher=University of Texas Press|location=Austin, Texas|isbn=978-0-292-72243-9}}
+*{{cite book|last=Maddrey|first=Joseph|year=2010|title=Nightmares in Red, White and Blue: The Evolution of the American Horror Film|publisher=McFarland|location=Jefferson, North Carolina|isbn= 978-0-786-48274-0}}
+*{{cite book |last=Muir |first=John Kenneth| author-link=John Kenneth Muir|url=https://books.google.com/books?id=DngwCgAAQBAJ&dq=%22Texas+Chainsaw+Massacre+Part+2%22+unrated&pg=PA38 |title=Eaten Alive at a Chainsaw Massacre: The Films of Tobe Hooper |year=2015 |publisher=[[McFarland & Company]]|location=Jefferson, North Carolina |isbn=978-1-4766-1335-2 |language=en}}
+*{{cite book|editor1-last=Woofter|editor1-first=Kristopher|editor2-last=Dodson|editor2-first=Will|year=2021|title=American Twilight: The Cinema of Tobe Hooper|publisher=University of Texas Press|location=Austin, Texas|isbn=978-1-477-32283-3}}
+{{ref end}}
+
+== External links ==
+{{wikiquote}}
+*{{AFI film}}
+*{{Mojo title}}
+*{{IMDb title|0092076|The Texas Chainsaw Massacre 2}}
+* {{Rotten Tomatoes|texas_chainsaw_massacre_2}}
+*{{TCMDb title}}
+
+{{Portalbar|Film|Speculative fiction/Horror|Texas|1980s}}
+{{Texas Chainsaw Massacre}}
+{{Tobe Hooper}}
+
+{{DEFAULTSORT:Texas Chainsaw Massacre 2, The}}
+[[Category:1986 black comedy films]]
+[[Category:1986 comedy horror films]]
+[[Category:1986 films]]
+[[Category:1986 American films]]
+[[Category:1986 English-language films]]
+[[Category:1980s serial killer films]]
+[[Category:1986 slasher films]]
+[[Category:American comedy horror films]]
+[[Category:American films about revenge]]
+[[Category:American sequel films]]
+[[Category:American serial killer films]]
+[[Category:American splatter films]]
+[[Category:Films about radio people]]
+[[Category:Films directed by Tobe Hooper]]
+[[Category:Films produced by Menahem Golan]]
+[[Category:Films produced by Yoram Globus]]
+[[Category:Films set in 1986]]
+[[Category:Films set in Texas]]
+[[Category:Films shot in Austin, Texas]]
+[[Category:Golan-Globus films]]
+[[Category:Slasher comedy films]]
+[[Category:The Texas Chainsaw Massacre (franchise) films]]
+[[Category:English-language comedy horror films]]
+[[Category:English-language crime films]]
+[[Category:Films distributed by Elite Entertainment]]

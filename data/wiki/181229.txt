@@ -1,0 +1,383 @@
+{{Short description|1963 American epic historical war film}}
+{{about||the 2023 film|The Great Escaper{{!}}''The Great Escaper''}} {{about||the 1995 Blur album|The Great Escape (Blur album)}}
+
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=June 2012}}
+{{Infobox film
+| name           = The Great Escape
+| image          = The Great Escape (film) poster.jpg
+| caption        = Theatrical release poster by [[Frank McCarthy (artist)|Frank McCarthy]]
+| director       = [[John Sturges]]
+| producer       = John Sturges
+| screenplay     = {{Plainlist|
+* [[James Clavell]]
+* [[W. R. Burnett]]
+}}
+| based_on       = {{Based on|''[[The Great Escape (book)|The Great Escape]]''<br />1950 book|[[Paul Brickhill]]}}
+| starring       = {{Plainlist|
+* [[Steve McQueen]]
+* [[James Garner]]
+* [[Richard Attenborough]]
+* [[James Donald]]
+* [[Charles Bronson]]
+* [[Donald Pleasence]]
+* [[James Coburn]]
+}}
+| music          = [[Elmer Bernstein]]
+| cinematography = [[Daniel L. Fapp]]
+| editing        = [[Ferris Webster]]
+| studio         = [[The Mirisch Company]]
+| distributor    = [[United Artists]]
+| released       = {{Film date|1963|06|20|London|1963|07|04|United States}}
+| runtime        = 172 minutes<!--According to IMDb and DVD and television broadcast information.-->
+| country        = United States
+| language       = {{ubl|English|German|French|Russian}}
+| budget         = $3.8 million<ref name="tino">{{cite book |first=Tino |last=Balio |title=United Artists: The Company That Changed the Film Industry |publisher=University of Wisconsin Press |year=1987 |page=174 |isbn=978-0-299-11440-4 |url=https://archive.org/details/unitedartistscom00bali/page/n189 |url-access=registration}}</ref>
+| gross          = $11.7 million
+}}
+
+'''''The Great Escape''''' is a 1963 American [[Epic film|epic historical]] [[war film|war]] [[adventure film]]<ref>{{Cite web|url=https://www.allmovie.com/movie/the-great-escape-v20652|title=The Great Escape (1963) - John Sturges; Synopsis, Characteristics, Moods, Themes and Related|website=[[AllMovie]]|access-date=November 16, 2022}}</ref> starring [[Steve McQueen]], [[James Garner]] and [[Richard Attenborough]] and featuring [[James Donald]], [[Charles Bronson]], [[Donald Pleasence]], [[James Coburn]], [[Hannes Messemer]], [[David McCallum]], [[Gordon Jackson (actor)|Gordon Jackson]], [[John Leyton]] and [[Angus Lennie]]. It was filmed in [[Panavision]], and its musical score was composed by [[Elmer Bernstein]]. Adapted from [[Paul Brickhill]]'s 1950 non-fiction [[The Great Escape (book)|book of the same name]], the film depicts a heavily fictionalized version of [[Stalag Luft III#The "Great Escape" (1944)|the mass escape]] by [[British Commonwealth]] [[prisoners of war]] from [[German POW camp]] [[Stalag Luft III]] in [[World War II]]. The film made numerous compromises for its commercial appeal, including its portrayal of American involvement in the escape.
+
+''The Great Escape'' was made by [[The Mirisch Company]], released by [[United Artists]], and produced and directed by [[John Sturges]]. The film had its Royal World Premiere at the [[Odeon Leicester Square]] in London's West End on 20 June 1963.<ref>{{cite news |title=The Great Escape, premiere |work=[[The Times]] |location=London |date=June 20, 1963 |page=2}}</ref> ''The Great Escape'' received critical acclaim and emerged as one of the highest-grossing films of the year, winning McQueen the award for Best Actor at the [[Moscow International Film Festival]],<ref name="auto">{{cite web |url=http://39.moscowfilmfestival.ru/miff39/eng/archives/?year=1963 |title=1963 year  |website=[[Moscow International Film Festival]] |access-date=December 3, 2017 |archive-url=https://web.archive.org/web/20171203101051/http://39.moscowfilmfestival.ru/miff39/eng/archives/?year=1963 |archive-date=December 3, 2017 |url-status=dead}}</ref> and in later years has [[Cult film|gained a cult following]].<ref name="Eder2009">{{cite web |url=http://www.allmovie.com/work/the-great-escape-20652/review |title=Review: The Great Escape |access-date=October 14, 2009 |last=Eder |first=Bruce |year=2009 |work=[[AllMovie]] |publisher=Macrovision Corporation |archive-date=July 31, 2012 |archive-url=https://archive.today/20120731194505/http://www.allrovi.com/movies/movie/the-great-escape-v20652?r=allmovie |url-status=live }}</ref> The film is also noted for its motorcycle chase and jump scene, which is considered one of the best stunts ever performed.<ref name="TOGE">{{cite web |url=https://www.timeout.com/london/film/the-great-escape-1962 |title=The Great Escape |work=[[Time Out (magazine)|Time Out]] |last=Adams |first=Derek |date=September 11, 2012 |access-date=December 3, 2017 |archive-url=https://web.archive.org/web/20171203154014/https://www.timeout.com/london/film/the-great-escape-1962 |archive-date=December 3, 2017 |url-status=live}}</ref><ref>{{cite magazine |url=https://entertainment.time.com/2012/02/17/top-10-memorable-movie-motorcycles/slide/the-great-escape/ |title=Top 10 Memorable Movie Motorcycles&nbsp;– The Great Escape |magazine=[[TIME]] |last=Kim |first=Wook |date=February 16, 2012 |access-date=December 3, 2017 |archive-url=https://web.archive.org/web/20171203153619/http://entertainment.time.com/2012/02/17/top-10-memorable-movie-motorcycles/slide/the-great-escape/ |archive-date=December 3, 2017 |url-status=live}}</ref><ref>{{cite news |url=https://www.telegraph.co.uk/culture/film/9853745/The-Great-Escape-50th-anniversary.html |title=The Great Escape: 50th anniversary |work=[[The Daily Telegraph]] |last=McKay |first=Sinclair |date=December 24, 2014 |access-date=December 3, 2017 |archive-url=https://web.archive.org/web/20171203153722/http://www.telegraph.co.uk/culture/film/9853745/The-Great-Escape-50th-anniversary.html |archive-date=December 3, 2017 |url-status=live}}</ref>
+
+==Plot==
+During [[World War II]], [[Allies of World War II|Allied]] [[Prisoner of war|POWs]] who have repeatedly escaped from [[Prisoner-of-war camp|camps]] in [[Nazi Germany|Germany]] are moved to [[Stalag Luft III|a new camp]] under the command of [[Luftwaffe]] [[Oberst|Colonel]] von Luger. He warns the senior prisoner, [[Group Captain]] Ramsey, that escapees will be shot. Several POWs unsuccessfully attempt to escape on the first day. Hilts, a notoriously prolific American escapee, finds a blind spot at the fence and gives himself up to the guards without revealing the discovery to them. He is placed in a cell next to Ives in "the cooler",<ref>{{cite web |title=Inside Tunnel "Harry" |url=https://www.pbs.org/wgbh/nova/greatescape/harr-nf.html |url-status=live |archive-url=https://web.archive.org/web/20200202014814/https://www.pbs.org/wgbh/nova/greatescape/harr-nf.html |archive-date=February 2, 2020 |access-date=2 February 2020 |website=Nova: Great Escape |publisher=PBS Online}}</ref> and the two become friends.
+
+[[Squadron Leader]] Roger Bartlett re-establishes the escape-planning committee from their former camp, and proposes breaking out 250 men to divert Germans away from the front. The POWs work on three tunnels: [[Tom, Dick and Harry|"Tom", "Dick", and "Harry"]].
+
+Preparations are widespread and elaborate. Welinski and Dickes lead the digging, Sedgwick makes equipment such as picks and air bellows, Ashley-Pitt conceals the excavated dirt in plain sight, while Cavendish surveys the tunnels’ routes and leads a choir to mask the sounds of any escape-related activities. MacDonald gathers intelligence, Griffith sews civilian disguises, Blythe forges documents, and Hendley secures supplies on the black market. Aware that Hilts is planning his own escape, Bartlett asks him to allow himself to be recaptured so he can draw maps of the surrounding area but Hilts refuses.
+
+When "Tom" nears completion, Bartlett orders "Dick" and "Harry" sealed off. Meanwhile, Hilts, Hendley, and Goff brew potato [[moonshine]] and celebrate the [[Fourth of July]] with the camp. However, the guards find "Tom" during the celebration. Ives snaps, climbs the fence, and is shot dead. Hilts, shaken, agrees to Bartlett's proposal, and Bartlett orders "Harry" reopened.
+
+Welinski's [[claustrophobia]] is triggered after a tunnel collapse, but Dickes offers to guide him. Bartlett objects to Blythe's participation on discovering his progressive [[myopia]] but Hendley offers to guide him. On the night of the escape, "Harry" is dug to the surface but the exit has come up {{convert|20|ft|m}} short of the woods, increasing the danger of detection. Hilts then uses 30 feet of rope to signal the prisoners to exit the tunnel. The escape is also briefly aided by a fortuitous air raid blackout, which allows more to escape. Dozens flee before Cavendish unintentionally draws suspicion by slipping, and an impatient Griffith rushes, alerting the guards.
+
+In all 76 escapees make it through the tunnel. Welinski and Dickes steal a boat and board a ship for [[Sweden during World War II|Sweden]], while Sedgwick heads to [[France during World War II|France]], where the [[French Resistance|Resistance]] smuggles him to [[Spain during World War II|Spain]]. The rest are captured: Cavendish is betrayed by a truck driver. Hendley and Blythe crash a stolen plane short of Switzerland when the engine fails; Blythe is shot and Hendley is recaptured. Hilts rides a stolen motorcycle for the Swiss border with soldiers in pursuit who capture him when he fails to jump the cycle over the frontier fence. Ashley-Pitt sacrifices himself when he kills a Gestapo officer before he can expose Bartlett: however, Bartlett and MacDonald are still arrested after another Gestapo officer tricks MacDonald into speaking English while boarding a bus.
+
+Ultimately a total of 50 escapees, including Bartlett, MacDonald, and Cavendish, are [[Stalag Luft III murders|executed]]. Ramsey informs Hendley and other returning survivors of the murders, and says that Bartlett's plan to create havoc was a success. Hendley questions whether it was worth the price. Von Luger, ashamed of the murders, is relieved of command. Hilts is returned to the cooler and resumes his solo game of catch.
+
+==Cast==
+{{div col}}
+* [[Steve McQueen]] as Captain {{vanchor|Virgil Hilts}} ('The Cooler King'): one of three Americans in the camp, a particularly persistent escapee with an irreverent attitude.
+* [[James Garner]] as Flight Lieutenant Bob Hendley ('The Scrounger'): American RAF officer, [[Eagle Squadron]], responsible for finding materials on the black market for the escape attempt; forms a close friendship with Blythe.
+* [[Richard Attenborough]] as Squadron Leader Roger Bartlett ('Big X'): RAF officer and ringleader of the escape committee.
+* [[James Donald]] as Group Captain Ramsey ('The SBO'): most senior British & Allied officer in the camp, serves as an intermediary between the Germans and the POWs as their de facto leader. 
+* [[Charles Bronson]] as Flight Lieutenant Danny Welinski ('Tunnel King'): Polish RAF officer; despite having dug 17 escape tunnels in other camps, is severely claustrophobic.
+* [[Donald Pleasence]] as Flight Lieutenant Colin Blythe ('The Forger'): mild-mannered English forger; forms close friendship with Hendley. His character was based on the artist [[Ley Kenyon]].<ref>[https://www.bbc.co.uk/culture/article/20250320-the-true-story-of-the-great-escape Aine Quinn. ''The True Story of the Great Escape'', BBC, 24 March 2025]</ref>
+* [[James Coburn]] as Flying Officer Sedgwick ('The Manufacturer'): an Australian officer who constructs tools for the escape.<ref group="note">Bartlett calls Sedgwick "Bluey", an affectionate Australian slang term for a person with red hair; however, Sedgwick is often mistakenly referred to as "Louis" in some sources, including DVD subtitles.</ref>
+* [[Hannes Messemer]] as ''[[Ranks and insignia of the Luftwaffe (1935–1945)|Oberst]]'' von Luger ('The Kommandant'): [[Commandant]] of the camp and a senior [[Luftwaffe]] officer.
+* [[David McCallum]] as Lieutenant-Commander Eric Ashley-Pitt ('Dispersal'): a [[Fleet Air Arm]] officer; devises a way to get rid of the tunnel dirt.
+* [[Gordon Jackson (actor)|Gordon Jackson]] as Flight Lieutenant Andy MacDonald ('Intelligence'): Bartlett's second-in-command.
+* [[John Leyton]] as Flight Lieutenant Willie Dickes ('Tunnel King'): Welinski's best friend and co-lead on tunnel design and construction.
+* [[Angus Lennie]] as Flying Officer Archie Ives ('The Mole'): anxious Scottish airman who befriends Hilts in the cooler.
+* [[Nigel Stock (actor)|Nigel Stock]] as Flight Lieutenant Dennis Cavendish ('The Surveyor'): surveys the tunnel routes and leads prisoner choirs to cover up the sounds of digging and manufacturing.
+* [[Robert Graf (actor)|Robert Graf]] as Werner ('The Ferret'): young, naive guard whom Hendley befriends and exploits for black market contraband.
+* [[Jud Taylor]] as Second Lieutenant Goff: the camp's third American.
+* [[Hans Reiser (actor)|Hans Reiser]] as Kuhn: [[Gestapo]] officer and ardent [[Nazi]].
+* [[Harry Riebauer]] as ''[[Stabsfeldwebel]]'' Strachwitz: the senior NCO amongst the German guards.
+* [[William Russell (English actor)|William Russell]] as Flight Lieutenant Sorren ('Security'): British officer who leads the escapers' lookouts and watchmen.
+* [[Robert Freitag]] as ''[[Hauptmann]]'' Posen: von Luger's [[adjutant]].
+* [[Ulrich Beiger]] as Preissen: Gestapo officer.
+* [[George Mikell]] as ''[[sicherheitsdienst|SD]]'' ''[[Hauptsturmführer]]'' Dietrich: SS officer.
+* [[Lawrence Montaigne]] as Flying Officer Haynes ('Diversions'): Canadian officer in charge of distractions to draw the guards' attention away from any escape-related activity.
+* [[Robert Desmond]] as Pilot Officer Griffith ('Tailor'): British officer; provides civilian clothes and military uniforms to disguise the escapees.
+* [[Til Kiwe]] as Frick
+* [[Heinz Weiss]] as Kramer
+* [[Tom Adams (actor)|Tom Adams]] as Flight Lieutenant Dai Nimmo ('Diversions'): Welsh officer in charge of distractions to draw the guards' attention away from any escape-related activity.
+* [[Karl-Otto Alberty]] as ''SD'' ''[[Untersturmführer]]'' Steinach: SS officer.
+{{div col end}}
+
+==Production==
+===Writing===
+In 1962, the [[Mirisch Company|Mirisch brothers]] worked with [[United Artists]] to adapt [[Paul Brickhill]]'s 1950 book ''[[The Great Escape (book)|The Great Escape]]''. Brickhill had been a very minor member of the X Organisation at [[Stalag Luft III]], who acted as one of the "stooges" who monitored German movements in the camp. The story had been adapted as a live TV production, screened by [[NBC]] as an episode of ''[[The Philco Television Playhouse]]'' on January 27, 1951.<ref>{{Cite web  |title=The Great Escape  |website=IMDb  |url=https://www.imdb.com/title/tt0674407/  |access-date=March 8, 2019  |archive-date=April 23, 2019  |archive-url=https://web.archive.org/web/20190423003001/https://www.imdb.com/title/tt0674407/  |url-status=live}}</ref> The live broadcast was praised for engineering an ingenious set design for the live broadcast, including creating the illusion of tunnels.<ref>{{cite magazine |url=https://archive.org/stream/radioageresearch195052newyrich#page/n103/mode/2up |title=The Great Escape |first=Robert J. |last=Wade |date=April 1951 |volume=10 |number=3 |magazine=Radio Age |pages=16–17}}</ref> The film's screenplay was adapted by [[James Clavell]], [[W. R. Burnett]] and [[Walter Newman (screenwriter)|Walter Newman]].
+
+Burnett said he worked on the script for a year and it was he who invented the American characters played by Steve McQueen and James Garner. He said Clavell worked on the script during this shoot.<ref>{{cite book |last1=McGilligan |first1=Patrick |title=Backstory : interviews with screenwriters of Hollywood's golden age |last2=Mate |first2=Ken |publisher=University of California press |year=1986 |editor-last=McGilligan |editor-first=Patrick |page=49-84 at p 79 |chapter=W.R. Burnett: The Outsider}}</ref>
+
+===Casting===
+[[File:Steve McQueen and Wally Floody 001.jpg|thumb|right|upright=1.15|[[Steve McQueen]] (left) with [[Wally Floody]], a former Canadian POW who was part of the real Great Escape and acted as a technical advisor in production of the film]]
+
+Steve McQueen, Charles Bronson and James Coburn had previously worked with director John Sturges on his 1960 motion picture, ''[[The Magnificent Seven]]''. [[Steve McQueen]] has been credited with the most significant performance. Critic [[Leonard Maltin]] wrote that "the large, international cast is superb, but the standout is McQueen; it's easy to see why this cemented his status as a superstar".<ref name="Maltin225">{{cite book |last=Maltin |first=Leonard |author-link=Leonard Maltin |title=Leonard Maltin's Family Film Guide |publisher=Signet |year=1999 |location=New York |page=225 |url=https://archive.org/details/leonardmaltinsfa00malt/page/225 |isbn=978-0-451-19714-6}}</ref> This film established his box-office clout. Hilts was based on at least three pilots, [[David M. Jones]], John Dortch Lewis<ref>{{cite news |last=Kaufman |first=Michael T. |url=https://www.nytimes.com/1999/08/13/world/john-d-lewis-84-pilot-in-the-great-escape.html |title=John D. Lewis, 84, Pilot in 'The Great Escape' |newspaper=[[The New York Times]] |date=August 13, 1999 |access-date=March 15, 2015 |archive-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150402215541/http://www.nytimes.com/1999/08/13/world/john-d-lewis-84-pilot-in-the-great-escape.html |url-status=live }}</ref> and [[Bill Ash]].<ref name="BBC Online 30 August 2015">{{cite news |title=William Ash: The cooler king |url=https://www.bbc.co.uk/news/magazine-34058540 |last=Bishop |first=Patrick |date=30 August 2015 |work=[[BBC News]] |access-date=30 August 2015 |archive-date=July 27, 2018 |archive-url=https://web.archive.org/web/20180727234112/https://www.bbc.co.uk/news/magazine-34058540 |url-status=live }}</ref><ref name="The Guardian 29 April 2014">{{cite news |first=Brendan |last=Foley |url=https://www.theguardian.com/world/2014/apr/29/bill-ash |title=Bill Ash obituary |newspaper=[[The Guardian]] |location=London |date=29 April 2014 |access-date=30 August 2015 |archive-date=March 12, 2017 |archive-url=https://web.archive.org/web/20170312075706/https://www.theguardian.com/world/2014/apr/29/bill-ash |url-status=live }}</ref><ref name="Daily Telegraph 30 April 2014">{{cite news |author=<!--Staff writer(s); no by-line.--> |url=https://www.telegraph.co.uk/news/obituaries/10799031/William-Ash-obituary.html |archive-url=https://web.archive.org/web/20180622161043/https://www.telegraph.co.uk/news/obituaries/10799031/William-Ash-obituary.html |archive-date=June 22, 2018 |url-access=subscription |url-status=live |title=William Ash – obituary |newspaper=The Daily Telegraph |location=London |date=30 April 2014 |access-date=30 August 2015 }}</ref>
+
+[[Richard Attenborough]]'s Sqn Ldr Roger Bartlett RAF, "Big X", was based on [[Roger Bushell]], the South African-born British POW who was the mastermind of the real Great Escape.<ref name="Whalley2008">{{cite news |first=Kirsty |last=Whalley |title=Escape artist's inspiring exploits |date=November 10, 2008 |publisher=Newsquest Media Group / A Gannett Company |url=http://www.thisislocallondon.co.uk/indepth/nostalgia/3831930.Escape_artist/ |work=This is Local London |access-date=September 25, 2009 |archive-date=June 29, 2011 |archive-url=https://web.archive.org/web/20110629095057/http://www.thisislocallondon.co.uk/indepth/nostalgia/3831930.Escape_artist/ |url-status=live }}</ref> This was the film that first brought Attenborough to common notice in the United States. During World War II, Attenborough served in the Royal Air Force. He volunteered to fly with the Film Unit, and after further training (where he sustained permanent ear damage), he qualified as a sergeant. He flew on several missions over Europe, filming from the rear gunner's position to record the outcome of Bomber Command sorties. [[Richard Harris]] had originally been announced for the role.<ref>{{cite news |title='Mutiny' Director Find Make Deals: Bogarde in 'Living Room'; Du Pont Scion Plans Three |last=Scheuer |first=Philip K. |newspaper=Los Angeles Times |date=2 March 1962 |page=C13}}</ref>
+
+[[James Donald]] played Group Captain Ramsey RAF, "the SBO" (Senior British Officer) in the camp. The role was based on Group Captain [[Herbert Massey]], a World War I veteran who had volunteered in World War II. Massey walked with a limp, and in the movie Ramsey walks with a cane. Massey had suffered severe wounds to the same leg in both wars. There would be no escape for him, but as SBO he had to know what was going on. Group Captain Massey was a veteran escaper himself and had been in trouble with the Gestapo. His experience allowed him to offer sound advice to the X-Organisation.<ref>{{cite book |last=Gill |first=Anton |title=The Great Escape |location=London |publisher=Review |year=2002 |isbn=978-0-7553-1038-8 |page=96}}</ref> Another officer who is likely to have inspired the character of Ramsey was Wing Commander [[Harry Day]].
+
+Flt Lt Colin Blythe RAF, "The Forger", was based on [[Tim Walenn]] and played by [[Donald Pleasence]].{{sfn|Vance|2000|p=44|ps=: "Now sporting a huge, bushy moustache ... he set to work arranging the operations of the forgery department"}} Pleasence had served in the [[Royal Air Force]] during World War II. He was shot down and spent a year in German prisoner-of-war camp [[Stalag Luft I]]. [[Charles Bronson]] had been a gunner in the [[United States Army Air Forces|USAAF]] and had been wounded, but never shot down. Like his character, Danny Welinski, he suffered from [[claustrophobia]] because of his childhood work in a mine. [[James Garner]] had been a soldier in the [[Korean War]] and was twice wounded. He was a scrounger during that time, as is his character.<ref>DVD extra.</ref>
+
+[[Hannes Messemer]]'s Commandant, "Colonel von Luger", was based on Oberst [[Friedrich Wilhelm von Lindeiner-Wildau]].<ref>{{cite book |last=Carroll |first=Tim |title=The Great Escapers |publisher=Mainstream Publishing |year=2004 |isbn=978-1-84018-904-9}}</ref> Messemer had been a POW in Russia during World War II and had escaped by walking hundreds of miles to the German border.<ref>{{cite book |url=https://books.google.com/books?id=uHNvAeD4yR4C&pg=PA135 |title=Combat Films: American Realism, 1945–2010 |edition=2nd |first=Steven Jay |last=Rubin |date=2011-07-25 |publisher=McFarland |access-date=2016-11-17 |isbn=978-0-7864-8613-7 |via=Google Books |archive-date=March 17, 2022 |archive-url=https://web.archive.org/web/20220317012649/https://books.google.com/books?id=uHNvAeD4yR4C&pg=PA135 |url-status=live }}</ref> He was wounded by Russian fire, but was not captured by the Russians. He surrendered to British forces and then spent two years in a POW facility in London known as the [[London Cage]].
+
+[[Angus Lennie]]'s Flying Officer Archibald Ives, "The Mole", was based on Jimmy Kiddel, who was shot dead while trying to scale the fence.<ref name="Hall2009">{{cite news |first=Allan |last=Hall |title=British veterans mark Great Escape anniversary |date=March 24, 2009 |url=https://www.telegraph.co.uk/news/worldnews/europe/germany/5043863/British-veterans-mark-Great-Escape-anniversary.html |work=The Daily Telegraph |access-date=October 26, 2009 |archive-url=https://web.archive.org/web/20100220232351/http://www.telegraph.co.uk/news/worldnews/europe/germany/5043863/British-veterans-mark-Great-Escape-anniversary.html |archive-date=February 20, 2010 |url-status=dead}}</ref>
+
+The film is accurate in showing only three escapees made home runs, although the people who made them differed from those in the film. The escape of Danny and Willie to Sweden is based on two Norwegians, [[Per Bergsland]] and [[Jens Müller (pilot)|Jens Müller]], while the escape of [[Royal Australian Air Force]] (RAAF) Flying Officer Sedgwick, "the Manufacturer", to Spain, was based on Dutchman [[Bram van der Stok]]. [[James Coburn]], an American, was cast in the role of Sedgwick who was an amalgamation of Flt Lt [[Al Hake|Albert Hake]], an Australian serving in the RAF, the camp's compass maker, and Johnny Travis, the real manufacturer. ''Filmink'' wrote that "if he didn’t crack the accent, Coburn nails the attitude" of an Australian.<ref name="coburn">{{cite magazine|first=Stephen|last=Vagg|magazine=Filmink|date=14 February 2025|access-date=14 February 2025|title=Movie Star Cold Streaks: James Coburn|url=https://www.filmink.com.au/movie-star-cold-streaks-james-coburn/}}</ref>
+
+[[Til Kiwe|Tilman 'Til Kiwe' Kiver]] played the German guard "Frick", who discovers the escape. Kiwe had been a German paratrooper officer who was captured and held prisoner at a POW camp in [[Colorado]]. He made several escape attempts, dyeing his uniform and carrying forged papers. He was captured in the [[St. Louis]] train station during one escape attempt. He won the [[Knights Cross of the Iron Cross|Knight's Cross]] before his capture and was the cast member who had actually performed many of the exploits shown in the film.<ref>{{cite web|url=https://www.westword.com/news/german-pow-camp-in-trinidad-was-the-great-escape-for-nazi-officers-9679327|title=For Nazi Officers, Trinidad's POW Camp Was the Great Escape|website=www.westword.com|date=November 21, 2017|quote=Still, the obstacles didn’t deter Captain Till Edward Kiefer, who was shot down over Tunisia in 1943 and escaped his American captors three times. For his most notable egress from the Trinidad camp, he used a vegetable dye to turn his dress uniform brown and arranged for a noncom to answer for him at roll call. He made it to St. Louis before someone noticed that there was an Aryan-looking fellow in full Nazi attire killing time in the train station waiting room.}}</ref>
+
+===Filming===
+The film was made on location in Germany at the [[Bavaria Film]] Studio in the [[Munich]] suburb of Geiselgasteig in rural [[Bavaria]], where sets for the barrack interiors and tunnels were constructed. The camp was built in a clearing of the [[:de:Perlacher Forst|Perlacher Forst]] (Perlacher Forest) near the studio.<ref name="Riml">{{cite book |url=http://www.walter-riml.at/willkommen/1962-gesprengte-ketten/ |title=Behind the scenes... The Great Escape |first=Walter |last=Riml |author-link=Walter Riml |year=2013 |publisher=Helma Turk & Dr. Christian Riml |pages=28, 44ff |access-date=15 March 2015 |archive-date=January 31, 2015 |archive-url=https://web.archive.org/web/20150131220900/http://www.walter-riml.at/willkommen/1962-gesprengte-ketten |url-status=live }}</ref><ref name="Whistance">{{cite web |url=http://www.thegreatescapelocations.com/ |title=The Great Escape Locations Site |first=Don J. |last=Whistance |year=2014 |work=thegreatescapelocations.com |access-date=15 March 2015 |archive-date=August 25, 2020 |archive-url=https://web.archive.org/web/20200825200555/http://www.thegreatescapelocations.com/ |url-status=live }}</ref> The German town near the real camp was Sagan (now [[Żagań]], Poland); it was renamed Neustadt in the film.<ref name="Whistance" /> Many scenes were filmed in and around the town of [[Füssen]] in Bavaria, including its railway station. The nearby district of [[Pfronten]],<ref>Riml (2013), p.110ff.</ref> with its distinctive [[St. Nikolaus parish church (Pfronten)|St. Nikolaus Church]] and scenic background, also appears often in the film.<ref name="Whistance" /> The first scenes involving the railway were filmed on the [[Munich–Holzkirchen railway|Munich–Holzkirchen line]] at [[Großhesselohe station]] ("Neustadt" station in the movie) and near [[Oberhaching|Deisenhofen]]. Hendley and Blythe's escape from the train was shot on the [[Munich–Mühldorf railway]] east of [[Markt Schwaben]]. The station where Bartlett, MacDonald and Ashley-Pitt arrive is [[Füssen station]], whereas the scene of Sedgwick (whose theft of a bike was shot in Markt Schwaben) boarding a train was created in Pfronten-Ried station on the [[Ausserfern Railway]].<ref>Riml (2013), p.58ff.</ref><ref>{{cite web |url=http://www.eisenbahn-im-film.de/info/escape.htm |title=The Great Escape |first=Joachim |last=Biemann |date=2014-08-10 |website=Eisenbahn im Film – Rail Movies |access-date=2021-04-11 |language=de |archive-date=April 11, 2021 |archive-url=https://web.archive.org/web/20210411193847/http://www.eisenbahn-im-film.de/info/escape.htm |url-status=live }}</ref> The castle Hendley and Blythe fly by while attempting to escape is [[Neuschwanstein Castle]].<ref name="JWarren">{{cite news |last=Warren |first=Jane |url=http://www.express.co.uk/expressyourself/56001/The-Truth-About-The-Great-Escape |title=The Truth About The Great Escape |newspaper=Daily Express |date=2008-08-07 |access-date=2016-11-17 |archive-date=November 18, 2016 |archive-url=https://web.archive.org/web/20161118041734/http://www.express.co.uk/expressyourself/56001/The-Truth-About-The-Great-Escape |url-status=live }}</ref>
+
+[[File:The Great Excape Jump.jpg|thumb|right|Replica of the motorcycle used by McQueen and Ekins.]]
+The motorcycle chase scenes with the barbed wire fences were shot on meadows outside Füssen, and the "barbed wire" that Hilts crashes into before being recaptured was simulated by strips of rubber tied around barbless wire, constructed by the cast and crew in their spare time.<ref name="Rufford2009">{{cite news |first=Nick |last=Rufford |title=Video: The Great Escape, re-enacted |date=February 13, 2009 |url=http://www.timesonline.co.uk/tol/driving/videos/article5718912.ece |work=The Times |access-date=October 20, 2009 |archive-url=https://web.archive.org/web/20100529155333/http://www.timesonline.co.uk/tol/driving/videos/article5718912.ece |archive-date=May 29, 2010 |url-status=dead}}</ref> Insurance concerns prevented McQueen from performing the film's notable motorcycle leap, which was done by his friend and fellow cycle enthusiast [[Bud Ekins]], who resembled McQueen from a distance.<ref>{{cite AV media |people=Rubin, Steve |date=1993 |title=Return to 'The Great Escape' |medium=Documentary |publisher=[[MGM Home Entertainment]]}}</ref> When [[Johnny Carson]] later tried to congratulate McQueen for the jump during a broadcast of ''[[The Tonight Show Starring Johnny Carson|The Tonight Show]]'', McQueen said, "It wasn't me. That was Bud Ekins." However, McQueen and Australian Motocross champion Tim Gibbes both performed the stunt on camera for fun, and according to second unit director [[Robert Relyea]], the stunt in the final cut of the movie could have been performed by any of the three men.<ref>{{Cite web |last=Page |first=Priscilla |date=2019-05-02 |title=The Great Escape is how Steve McQueen outfoxed studio lawyers and kept having fun |url=https://www.hagerty.com/media/motorcycles/the-great-escape-was-steve-mcqueen-having-fun/ |url-status=dead |archive-url=https://web.archive.org/web/20210309184609/https://www.hagerty.com/media/motorcycles/the-great-escape-was-steve-mcqueen-having-fun/ |archive-date=2021-03-09 |access-date=2022-03-10 |website=Hagerty Media}}</ref> Other parts of the chase were done by McQueen, playing both Hilts and the soldiers chasing him, because of his skill on a motorcycle.<ref name="machines">{{cite book |last=Stone |first=Matt |title=McQueen's Machines: The Cars and Bikes of a Hollywood Icon |year=2007 |publisher=MBI Publishing Company |location=Minneapolis, Minnesota |isbn=978-0-7603-3895-7 |pages=77–78 |quote=There's a chase sequence in there where the Germans were after [McQueen], and he was so much a better rider than they were, that he just ran away from them. And you weren't going to slow him down. So they put a German uniform on him, and he chased himself!}}</ref> The motorcycle was a [[Triumph TR6 Trophy]] which was painted to look like a German machine. The restored machine is currently on display at [[Triumph Motorcycles Ltd|Triumph]]'s factory at [[Hinckley]], England.<ref>{{cite news |url=https://www.bbc.co.uk/news/uk-england-leicestershire-41809557 |title=Great Escape motorcycle goes on show |work=BBC News |date=November 2017 |access-date=June 20, 2018 |archive-date=July 31, 2018 |archive-url=https://web.archive.org/web/20180731083756/https://www.bbc.co.uk/news/uk-england-leicestershire-41809557 |url-status=live }}</ref> Filming started on June 4, 1962 and ended in October 1962.{{Citation needed|date=January 2025}}
+
+==Historical accuracy==
+[[File:Model Stalag Luft III.jpg|thumb|Model of the set used to film ''The Great Escape''. It depicts a smaller version of a single compound in ''[[Stalag Luft III]]''. The model is now at the museum near where the prison camp was located.]]
+[[File:Sagan harry-2.jpg|thumb|right|upright=1.35|End of the real "Harry" tunnel (on the other side of the road) showing how it does not reach the cover of the trees]]
+The film accurately represented many details of the escape, including the layout of the camp, the different escape plans employed, and the fact that only three escapees successfully made it to freedom. The characters are fictitious, but are based on real men, in most cases being [[composite character|composites]] of several. However, a number of changes were made to increase the film's drama and appeal to an American audience, with some scenes being heavily or completely fictionalised. The screenwriters also significantly increased the involvement of American POWs in the escape. A few American officers in the camp initially helped dig the tunnels and worked on the early plans, but they were moved away seven months before the escape, which ended their involvement.<ref name="Wolter2001">{{cite book |last=Wolter |first=Tim |title=POW baseball in World War II |publisher=McFarland |year=2001 |pages=24–25 |url=https://archive.org/details/powbaseballinwor00wolt/page/24 |url-access=registration |isbn=978-0-7864-1186-3}}</ref><ref name="Brickhill">[[Paul Brickhill|Brickhill, Paul]], ''The Great Escape''</ref> The real escape was by largely British and other Allied personnel, with the exception of American [[Johnnie Dodge#Stalag Luft III (North Compound)|Johnnie Dodge]], who was a British army officer.<ref name="JWarren" /> The film omits the crucial role that Canadians played in building the tunnels and in the escape itself. Of the 1,800 or so POWs, 600 were involved in preparations: 150 of those were Canadian. [[Wally Floody]], an RCAF pilot and former miner who was the real-life "tunnel king", was engaged as a technical advisor for the film.<ref>{{cite web |url=http://www.canadaatwar.ca/content-91/world-war-ii/canadians-and-the-great-escape |title=Canadians and the Great Escape |work=Canada at War |date=July 11, 2009 |access-date=March 15, 2015 |archive-date=July 10, 2016 |archive-url=https://web.archive.org/web/20160710173934/http://canadaatwar.ca/content-91/world-war-ii/canadians-and-the-great-escape/ |url-status=dead }}</ref>
+
+During filming, actor [[Donald Pleasence]] kindly offered advice to director [[John Sturges]], to which he was politely asked to keep his "opinions" to himself. Later, when another actor on set informed Sturges that Pleasence was actually imprisoned in a German POW camp, Sturges requested his technical advice and input on historical accuracy from that point forward.<ref name="screenrant">[https://screenrant.com/great-escape-trivia-information/ 10 Behind-The-Scenes Facts About The Great Escape] ''[[Screen Rant]]''. Retrieved September 3, 2025.</ref>
+
+Ramsey tells Von Luger that it is the sworn duty of every officer to attempt escape. In reality, there was no such requirement in the [[King's Regulations]], or in any form of international convention.<ref name="Walters 2013" />
+
+The film shows the tunnel codenamed "Tom" with its entrance under a stove and "Harry" in a drain sump in a washroom. In reality, the entrance to "Dick" was the drain sump, "Harry" was under the stove, and "Tom" was in a darkened corner next to a stove chimney.{{sfn|Vance|2000|pp=116–118}}
+
+Former POWs asked the filmmakers to exclude details about the help they received from their home countries, such as maps, papers, and tools hidden in gift packages, lest it jeopardise future POW escapes. The filmmakers complied.<ref>''The Great Escape: Heroes Underground'' documentary, available on ''The Great Escape'' DVD Special Edition.</ref>
+
+The film omits any mention that many Germans willingly helped in the escape itself. The film suggests that the forgers were able to make near-exact replicas of just about any pass that was used in Nazi Germany. In reality, the forgers received a great deal of assistance from Germans who lived many hundreds of miles away on the other side of the country. Several German guards, who were openly anti-Nazi, also willingly gave the prisoners items and assistance of any kind to aid their escape.<ref name="Walters 2013">{{cite book |last=Walters |first=Guy |title=The Real Great Escape |publisher=Mainstream Publishing |year=2013 |isbn=978-0-593-07190-8}}</ref> The need for such accuracy produced much eyestrain, but unlike in the film, there were no cases of blindness. Some, such as Frank Knight, gave up forging because of the strain, but he certainly did not suffer the same ocular fate as the character of Colin Blythe in the film.<ref name="Walters 2013" /> In fact, no one in the film says that Colin Blythe's blindness is the result of eyestrain. He identifies his problem as "progressive [[Near-sightedness|myopia]]", suggesting that he has not only heard of the condition but has also been diagnosed.
+
+The film depicts the escape taking place in ideal weather conditions, whereas at the time much was done in freezing temperatures, and snow lay thick on the ground.<ref name="Walters 2013" /> In reality there were no escapes by aircraft or motorcycle: McQueen requested the motorcycle sequence, which shows off his skills as a keen motorcyclist. He did the stunt riding himself (except for the final jump, done by [[Bud Ekins]]).<ref>{{cite web |url=http://www.motorcycle.com/products/steve-mcqueen-40-summers-ago-12731.html |title=Steve McQueen 40 Summers Ago... |first=Pete |last=Brissette |work=Motorcycle.com |date=July 15, 2005 |access-date=March 15, 2015 |archive-date=October 16, 2014 |archive-url=https://web.archive.org/web/20141016181856/http://www.motorcycle.com/products/steve-mcqueen-40-summers-ago-12731.html |url-status=live }}</ref>
+
+In the film, Hilts incapacitates a German soldier for his motorcycle and uniform, Ashley-Pitt kills Kuhn, a Gestapo officer, when he recognizes Bartlett at a Gestapo checkpoint at a railway station and is shot dead in return, Hendley knocks out a German guard at the airfield, and Sedgwick witnesses the killing of German officers at a French cafe by the [[French Resistance]]. No German personnel were killed or injured by the real escapees. Blythe is shot and mortally wounded by a German after their plane crashes just short of the border; this incident never happened. The film depicts the three prisoners who escape to freedom as British, Polish, and Australian; in reality, they were Norwegians ([[Jens Müller (pilot)|Jens Müller]] and [[Per Bergsland]]) and Dutch ([[Bram van der Stok]]).<ref>{{cite web |url=http://www.nrk.no/kultur/hollywood-droppet-nordmenn-1.11568685 |title=Hollywood droppet nordmenn |trans-title=Hollywood dropped Norwegians |first1=Magne |last1=Hansen |first2=Marianne Rustad |last2=Carlsen |work=[[NRK]] |date=February 26, 2014 |access-date=March 15, 2015 |language=no |archive-date=October 15, 2014 |archive-url=https://web.archive.org/web/20141015145130/http://www.nrk.no/kultur/hollywood-droppet-nordmenn-1.11568685 |url-status=live }}</ref>
+
+At the end of the film, three truckloads of recaptured POWs drive in three directions. One truck contains 20 prisoners who are invited to stretch their legs in a field, whereupon they are all machine gunned in a single massacre, with the implication that the prisoners in the other two trucks were killed in the same manner. In reality, the majority of the POWs were shot individually or in pairs, killed by pistol shots taken by Gestapo officers; however, at least ten of them were killed in a manner like that portrayed in the film: [[Dutchy Swain]], [[Chaz Hall]], [[Brian Evans (RAF officer)|Brian Evans]], [[Wally Valenta]], [[George McGill (RCAF officer)|George McGill]], [[Pat Langford]], [[Edgar Humphreys]], [[Włodzimierz Kolanowski]], Bob Stewart, and [[Henry Birkland|Henry "Hank" Birkland]].<ref>Andrews (1976), p.49</ref><ref>Vance (2000), p.265</ref><ref>Read (2012), p.244</ref><ref>Andrews (1976), p.187-188</ref><ref>{{cite web |url=http://www.pegasusarchive.org/pow/cSL_3_Fifty.htm |work=Pegasus Archive |title=Stalag Luft III: The Fifty |access-date=28 August 2015}}</ref><ref>Vance (2000), p.289</ref><ref name="Walters 2013" />
+
+In 2009, seven POWs returned to Stalag Luft III for the 65th anniversary of the escape<ref name="Paterson2009">{{cite news |url=https://www.independent.co.uk/news/world/europe/veterans-of-the-great-escape-visit-old-stalag-1653313.html |title=Veterans of the Great Escape visit old Stalag |first=Tony |last=Paterson |work=[[The Independent]] |date=March 25, 2009 |location=London |issn=0951-9467 |oclc=185201487 |access-date=March 15, 2015 |archive-date=February 28, 2012 |archive-url=https://web.archive.org/web/20120228231535/http://www.independent.co.uk/news/world/europe/veterans-of-the-great-escape-visit-old-stalag-1653313.html |url-status=live }}</ref> and watched the film. According to the veterans, many details of the first half depicting life in the camp were authentic, e.g. the death of Ives, who tries to scale the fence, and the actual digging of the tunnels. The film has kept the memory of the 50 executed airmen alive for decades and has made their story known worldwide, if in a distorted form.<ref name="JWarren" /> British author [[Guy Walters]] notes that a pivotal scene in the film where MacDonald blunders by replying in English to a suspicious Gestapo officer saying, "Good luck", is now so strongly imprinted that historians have accepted it as a real event, and that it was Bushell's partner Bernard Scheidhauer who made the error. However, Walters points out that a historical account says that one of the two men said "yes" in English in response to a [[Kriminalpolizei|Kripo]] man's questions without any mention of "good luck" and notes that as Scheidhauer was French, and Bushell's first language was English, it seems likely that if a slip did take place, it was made by Bushell himself, and says the "good luck" scene should be regarded as fiction.<ref name="Walters 2013" />
+
+==Soundtrack==
+The film's iconic music was composed and conducted by [[Elmer Bernstein]], who gave each major character his own musical motif based on the ''Great Escape''{{'}}s main theme, and performed by the [[Hollywood Studio Symphony]].<ref>{{cite news |title=Elmer Bernstein |work=The Daily Telegraph |url=https://www.telegraph.co.uk/news/obituaries/1469770/Elmer-Bernstein.html |archive-url=https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/news/obituaries/1469770/Elmer-Bernstein.html |archive-date=January 11, 2022 |url-access=subscription |url-status=live |date=August 20, 2004 |access-date=January 25, 2021}}{{cbignore}}</ref> Its enduring popularity helped Bernstein live off the score's [[royalties]] for the rest of his life.<ref>{{Cite web |url=https://www.classicfm.com/composers/bernstein-e/music/great-escape/ |title=Elmer Bernstein: The Great Escape |date=August 23, 2014 |website=[[Classic FM (UK)|Classic FM]] |publisher=[[Global Media & Entertainment|Global]] |access-date=January 25, 2021 |archive-date=January 15, 2021 |archive-url=https://web.archive.org/web/20210115211136/https://www.classicfm.com/composers/bernstein-e/music/great-escape/ |url-status=live }}</ref> Critics have said the film score succeeds because it uses rousing militaristic motifs with interludes of warmer softer themes that humanizes the prisoners and endears them to audiences; the music also captures the bravery and defiance of the POWs.<ref>{{cite book |title=100 Greatest Film Scores |first1=Matt |last1=Lawson |first2=Laurence E. |last2=MacDonald |publisher=Rowman & Littlefield |year=2018 |isbn=978-1-53810-368-5 |page=115}}</ref> The main title's patriotic march has since become popular in Britain, particularly with fans of the [[England national football team]].<ref>{{Cite news |url=https://www.goal.com/en-gb/news/6815/hyundai/2014/06/10/4859618/why-englands-band-play-the-theme-from-the-great-escape-movie |title=Why England's band play the theme from 'The Great Escape' movie |last=Wright |first=Joe |date=June 10, 2014 |work=[[Goal (website)|Goal]] |access-date=January 25, 2021 |archive-date=August 29, 2021 |archive-url=https://web.archive.org/web/20210829141325/https://www.goal.com/en-gb/news/6815/hyundai/2014/06/10/4859618/why-englands-band-play-the-theme-from-the-great-escape-movie |url-status=live }}</ref> However, in 2016, the sons of Elmer Bernstein openly criticized the use of the ''Great Escape'' theme by the [[Vote Leave]] campaign in the [[2016 United Kingdom European Union membership referendum|UK Brexit referendum]], saying "Our father would never have allowed [[UKIP]] to use his music" because he would have strongly opposed the party.<ref>{{Cite news |url=https://www.theguardian.com/politics/2016/may/28/great-escape-theme-tune-ukip-composer |title=UKIP's use of Great Escape theme tune grates with composer's sons |last=Thorpe |first=Vanessa |date=May 28, 2016 |work=[[The Guardian]] |access-date=January 25, 2021 |archive-date=December 18, 2020 |archive-url=https://web.archive.org/web/20201218142732/https://www.theguardian.com/politics/2016/may/28/great-escape-theme-tune-ukip-composer |url-status=live }}</ref>
+
+;Intrada Records (release)
+In 2011 [[Intrada Records|Intrada]], a company specializing in film soundtracks, released a digitized re-mastered version of the full film score based on the original 1/4" two-track stereo sessions and original 1/2" three-channel stereo masters.<ref>{{Cite web |url=http://store.intrada.com/s.nl/it.A/id.6866/.f |title=THE GREAT ESCAPE (3 CD) |website=Intrada |access-date=January 25, 2021 |archive-date=February 27, 2021 |archive-url=https://web.archive.org/web/20210227043848/http://store.intrada.com/s.nl/it.A/id.6866/.f |url-status=live }}</ref>
+
+===Disc one===
+{{Track listing
+| headline = ''Original Motion Picture Soundtrack''
+| title1 = Main Title
+| length1 = 2:30
+| title2 = At First Glance
+| length2 = 3:07
+| title3 = Premature Plans
+| length3 = 2:28
+| title4 = If At Once
+| length4 = 2:31
+| title5 = Forked
+| length5 = 1:28
+| title6 = Cooler
+| length6 = 1:59
+| title7 = Mole
+| length7 = 1:28
+| title8 = "X"/Tonight We Dig
+| length8 = 1:30
+| title9 = The Scrounger/Blythe
+| length9 = 3:50
+| title10 = Water Faucet
+| length10 = 1:23
+| title11 = Interruptus
+| length11 = 1:33
+| title12 = The Plan/The Sad Ives
+| length12 = 1:43
+| title13 = Green Thumbs
+| length13 = 2:28
+| title14 = Hilts And Ives
+| length14 = 0:38
+| title15 = Cave In
+| length15 = 2:01
+| title16 = Restless Men
+| length16 = 1:56
+| title17 = Booze
+| length17 = 1:47
+| title18 = "Yankee Doodle"
+| length18 = 0:55
+| title19 = Discovery
+| length19 = 3:40
+| all_writing =
+| total_length = 57:35
+}}
+
+===Disc two===
+{{Track listing
+| headline      = ''Original Motion Picture Soundtrack (Continued)''
+| title1        = Various Troubles
+| length1       = 3:52
+| title2        = Panic
+| length2       = 2:05
+| title3        = Pin Trick
+| length3       = 0:59
+| title4        = Hendley's Risk
+| length4       = 1:43
+| title5        = Released Again/Escape Time
+| length5       = 5:25
+| title6        = 20 Feet Short
+| length6       = 3:06
+| title7        = Foul Up
+| length7       = 2:37
+| title8        = At The Station
+| length8       = 1:33
+| title9        = On The Road
+| length9       = 3:27
+| title10       = The Chase/First Casualty
+| length10      = 6:49
+| title11       = Flight Plan
+| length11      = 2:09
+| title12       = More Action/Hilts Captured
+| length12      = 6:07
+| title13       = Road's End
+| length13      = 2:06
+| title14       = Betrayal
+| length14      = 2:20
+| title15       = Three Gone/Home Again
+| length15      = 3:13
+| title16       = Finale/The Cast
+| length16      = 2:47
+| all_writing   = 
+| total_length  = 1:18:58
+}}
+
+===Disc three===
+{{Track listing
+| headline      = ''Original 1963 United Artists Score Album''
+| title1        = Main Title
+| length1       = 2:07
+| title2        = Premature Plans
+| length2       = 2:08
+| title3        = Cooler And Mole
+| length3       = 2:26
+| title4        = Blythe
+| length4       = 2:13
+| title5        = Discovery
+| length5       = 2:54
+| title6        = Various Troubles
+| length6       = 2:40
+| title7        = On The Road
+| length7       = 2:54
+| title8        = Betrayal
+| length8       = 2:05
+| title9        = Hendley's Risk
+| length9       = 2:24
+| title10       = Road's End
+| length10      = 2:00
+| title11       = More Action
+| length11      = 1:57
+| title12       = The Chase
+| length12      = 2:49
+| title13       = Finale
+| length13      = 3:14
+| all_writing   = 
+| total_length  = 49:11
+}}
+
+==Reception==
+===Box office===
+''The Great Escape'' grossed $11.7&nbsp;million at the box office,<ref>{{cite web |url=http://www.the-numbers.com/movie/Great-Escape-The#tab=summary |title=The Great Escape – Box Office Data |work=[[The Numbers (website)|The Numbers]]. |access-date=March 15, 2015 |archive-date=March 22, 2019 |archive-url=https://web.archive.org/web/20190322174645/https://www.the-numbers.com/movie/Great-Escape-The#tab=summary |url-status=live }}</ref> after a budget of $4 million.<ref name="sturges">{{cite book |first=Glenn |last=Lovell |title=Escape Artist: The Life and Films of John Sturges |url=https://archive.org/details/escapeartistlife00love_438/page/n232 |url-access=limited |publisher=University of Wisconsin Press |year=2008 |page=224}}</ref> It became [[1963 in film|one of the highest-grossing films of 1963]], despite heavy competition. In the years since its release, its audience has broadened, cementing its status as a cinema classic.<ref name="Eder2009" /> It was entered into the [[3rd Moscow International Film Festival]], where McQueen won the Silver Prize for Best Actor.<ref name="Moscow1963">{{cite web |url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1963 |title=3rd Moscow International Film Festival (1963) |access-date=November 25, 2012 |work=MIFF |url-status=dead |archive-url=https://web.archive.org/web/20130116210707/http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1963 |archive-date=January 16, 2013 }}</ref>
+
+===Critical response===
+Contemporary reviews for the film were mostly positive. However, in 1963, ''[[The New York Times]]'' critic [[Bosley Crowther]] wrote: "But for much longer than is artful or essential, ''The Great Escape'' grinds out its tormenting story without a peek beneath the surface of any man, without a real sense of human involvement. It's a strictly mechanical adventure with make-believe men."<ref name="nyt-crowther">{{cite news |first=Bosley |last=Crowther |title=P.O.W.'s in 'Great Escape':Inmates of Nazi Camp Are Stereotypical – Steve McQueen Leads Snarling Tunnelers |work=The New York Times |date=August 8, 1963 |url=https://movies.nytimes.com/movie/review?_r=1&res=9A06E7DE1431E73BBC4053DFBE668388679EDE |access-date=November 3, 2008 |archive-date=September 26, 2013 |archive-url=https://web.archive.org/web/20130926123339/http://movies.nytimes.com/movie/review?_r=1&res=9A06E7DE1431E73BBC4053DFBE668388679EDE |url-status=live }}</ref> British film critic [[Leslie Halliwell]] described it as a "pretty good but overlong [[Prisoner of war|POW]] adventure with a tragic ending".<ref>{{cite book|title=Halliwell's Film and Video Guide |year=1997 |last=Walker |first=John |publisher=HarperCollins |location=London |page=311 |issn=1098-206X }}</ref> The ''[[Time (magazine)|Time]]'' magazine reviewer wrote in 1963: "The use of [[color photography]] is unnecessary and jarring, but little else is wrong with this film. With accurate casting, a swift screenplay, and authentic German settings, Producer-Director John Sturges has created classic cinema of action. There is no sermonizing, no soul probing, no sex. ''The Great Escape'' is simply great escapism".<ref name="Time1963">{{cite magazine |title=Cinema: The Getaway |url=http://www.time.com/time/magazine/article/0,9171,896917,00.html |archive-url=https://web.archive.org/web/20081222074828/http://www.time.com/time/magazine/article/0,9171,896917,00.html |url-status=dead |archive-date=December 22, 2008 |magazine=[[Time (magazine)|Time]]|date=July 19, 1963 |access-date=October 12, 2009}}</ref>
+
+In 2025, ''[[The Hollywood Reporter]]'' listed ''The Great Escape'' as having the best stunts of 1963.<ref>{{Cite news |last=Doherty |first=Thomas |date=June 7, 2025 |title=The Best Stunts of All Time, Over Nearly 100 Years of the Oscars |work=[[The Hollywood Reporter]] |url=https://www.hollywoodreporter.com/lists/best-stunts-all-time-movies-oscars-stunt-design-100-years/ |url-status=live |archive-url=https://web.archive.org/web/20250720043450/https://www.hollywoodreporter.com/lists/best-stunts-all-time-movies-oscars-stunt-design-100-years/ |archive-date=July 20, 2025}}</ref>
+
+===Accolades===
+* '''Nominated''' [[Academy Award]] for Film Editing ([[Ferris Webster]])
+* '''Nominated''' [[Golden Globe Award]] for Best Picture
+* '''Winner''' [[Moscow International Film Festival]] Best Actor ([[Steve McQueen]])
+* '''Nominated''' [[Moscow International Film Festival]] Grand Prix ([[John Sturges]])
+* '''Selected''' [[National Board of Review]] Top Ten Films of Year
+* '''Nominated''' [[Writers Guild of America]] Best Written American Drama ([[James Clavell]], [[W. R. Burnett]]) (Screenplay Adaptation)
+* '''19th''' place in [[AFI's 100 Years...100 Thrills]]
+
+==Sequel==
+A fictional, made-for-television sequel, ''[[The Great Escape II: The Untold Story]]'', was released in 1988, starring [[Christopher Reeve]], and directed by [[Jud Taylor]] (who played Goff in the original film).<ref>{{cite web |url=https://www.imdb.com/title/tt0095252/ |title=The Great Escape II: The Untold Story (TV Movie 1988) |date=6 November 1988 |work=IMDb |access-date=24 September 2015 |archive-date=April 9, 2019 |archive-url=https://web.archive.org/web/20190409181442/https://www.imdb.com/title/tt0095252/ |url-status=live }}</ref> The film is not a true sequel, dramatizing the escape itself just as the first film does, but mostly using the real names of the individuals involved (whereas the original film fictionalized them with composite characters). It depicts the hunt for those responsible for the murder of the 50 Allied airmen. Donald Pleasence appears in a supporting role as a member of the SS.<ref name="popcult101" />
+
+==Legacy==
+On 24 March 2014, the 70th anniversary of the escape, the RAF staged a commemoration of the escape attempt, with 50 serving personnel each carrying a photograph of one of the shot men.<ref>{{cite news |last=Hall |first=Robert |date=March 24, 2014 |title='The Great Escape' commemorated in Poland |url=https://www.bbc.co.uk/news/uk-26706141 |url-status=live |archive-url=https://web.archive.org/web/20141207213355/http://www.bbc.co.uk/news/uk-26706141 |archive-date=December 7, 2014 |access-date=March 15, 2015 |work=BBC News}}</ref>
+
+On 24 March 2019, the RAF held another event for the 75th anniversary of the escape. There was a screening of the film at London's [[Eventim UK|Eventim]] [[Hammersmith Apollo]], hosted by [[Dan Snow]]. The film was [[simulcast]] with other cinemas throughout the UK.<ref>{{cite web |date=2018-11-20 |title=The Great Escape with Dan Snow |url=https://www.rafbf.org/event/great-escape-dan-snow |url-status=dead |archive-url=https://web.archive.org/web/20190322174640/https://www.rafbf.org/event/great-escape-dan-snow |archive-date=2019-03-22 |website=[[RAF Benevolent Fund]]}}</ref>
+
+===Modern appraisals===
+''The Great Escape'' continues to receive acclaim from modern critics. On review aggregator [[Rotten Tomatoes]], the film holds an approval rating of 94% based on 53 reviews. The site's critics consensus reads, "With its impeccably slow-building story and a cast for the ages, ''The Great Escape'' is an all-time action classic."<ref>{{cite web |title=The Great Escape |url=http://www.rottentomatoes.com/m/great_escape/ |url-status=live |archive-url=https://web.archive.org/web/20150318010820/http://www.rottentomatoes.com/m/great_escape/ |archive-date=March 18, 2015 |access-date=March 15, 2015 |website=Rotten Tomatoes}}</ref>
+
+In a 2006 poll in the United Kingdom, regarding the family film that television viewers would most want to see on Christmas Day, ''The Great Escape'' came in third, and was first among the choices of male viewers.<ref name="Freeview2006">{{cite web |date=December 11, 2006 |title=TV classics are recipe for Christmas Day delight |url=http://www.freeview.co.uk/freeview/Press/2006/TV-classics-are-recipe-for-Christmas-Day-delight |url-status=dead |archive-url=https://web.archive.org/web/20100126132449/http://www.freeview.co.uk/freeview/Press/2006/TV-classics-are-recipe-for-Christmas-Day-delight |archive-date=January 26, 2010 |access-date=September 5, 2009 |work=[[Freeview (UK)|Freeview]]}}</ref> In an article for the [[British Film Institute]], "10 great prisoner of war films", updated in August 2018, Samuel Wigley wrote that watching films like ''The Great Escape'' and the 1955 British film ''[[The Colditz Story]]'', "for all their moments of terror and tragedy, is to delight in captivity in times of war as a wonderful game for boys, an endless Houdini challenge to slip through the enemy's fingers. Often based on true stories of escape, they have the viewer marvelling at the ingenuity and seemingly unbreakable spirit of imprisoned soldiers." He described ''The Great Escape'' as "the epitome of the war-is-fun action film", which became "a fixture of family TV viewing".<ref>{{Cite web |date=April 18, 2013 |title=10 great prisoner-of-war films |url=https://www.bfi.org.uk/lists/10-great-prisoner-war-films |url-status=live |archive-url=https://web.archive.org/web/20191210043659/https://www.bfi.org.uk/news-opinion/news-bfi/lists/10-great-prisoner-war-films |archive-date=December 10, 2019 |access-date=2020-01-08 |website=British Film Institute |language=en}}</ref>
+
+== In popular culture ==
+* The 1986 [[The Great Escape (1986 video game)|''The Great Escape'']] video game was released for the [[Commodore 64]], [[ZX Spectrum]], [[MS-DOS]]. It follows an unnamed [[prisoner of war]] who has been interned in a POW camp somewhere in northern Germany in 1942.
+* Another video game, [[The Great Escape (2003 video game)|''The Great Escape'']] was released in 2003 for [[Windows]], [[Xbox (console)|Xbox]] and [[PlayStation 2]]. The plot follows that of the film, except there are also levels featuring some of the characters' first captures and early escape attempts, as well as a changed ending.
+* The films ''[[Chicken Run]]'', ''[[Reservoir Dogs]]'', the 1998 remake of ''[[The Parent Trap (1998 film)|The Parent Trap]]'', ''[[Top Secret!]]'', ''[[Charlie's Angels (2000 film)|Charlie's Angels]]'', ''[[The Tao of Steve]]'', ''[[Naked Gun 33 1/3: The Final Insult]]'', ''[[Inglourious Basterds]]'', and ''[[Once Upon a Time in Hollywood]]'' all contain references or homages to the film.<ref name="popcult101">{{cite web |last=Nixon |first=Rob |title=Pop Culture 101: The Great Escape |work=Turner Classic Movies |year=2008 |url=http://www.tcm.com/thismonth/article/?cid=190976&rss=mrqe |publisher=Turner Entertainment Networks, Inc. |access-date=November 2, 2011 |archive-date=June 16, 2010 |archive-url=https://web.archive.org/web/20100616022020/http://www.tcm.com/thismonth/article/?cid=190976&rss=mrqe |url-status=dead }}</ref>
+* ''[[Monty Python's Flying Circus]]'', ''[[Hogan's Heroes]]'', ''[[Nash Bridges]]'', ''[[Seinfeld]]'', ''[[Get Smart]]'', ''[[Fugget About It]]'', ''[[Archer (2009 TV series)|Archer]]'', ''[[Goodness Gracious Me (TV series)|Goodness Gracious Me]]'', ''[[Shaun the Sheep]]'', ''[[The Simpsons]]'' and ''[[Red Dwarf]]'' have all parodied or paid homage to the film.<ref name="popcult101" />
+* Bernstein's ''Great Escape'' theme tune has been taken up by the [[Pukka Pies England Band]], a small [[brass band]] who have played in the crowd at [[England national football team|England football team]] matches since 1996.<ref name="mirror">{{cite news |first=Mike |last=Walters |url=http://www.mirrorfootball.co.uk/opinion/columnists/mike-walters/Exclusive-interview-with-The-Pukka-Pie-England-Band-Mike-Walters-column-article459085.html |title=Exclusive interview with The Pukka Pie England Band |newspaper=Daily Mirror |access-date=June 16, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20100724040957/http://www.mirrorfootball.co.uk/opinion/columnists/mike-walters/Exclusive-interview-with-The-Pukka-Pie-England-Band-Mike-Walters-column-article459085.html |archive-date=July 24, 2010 }}</ref> They released an arrangement of the theme as a single for the [[1998 FIFA World Cup]] and a newer version for [[UEFA Euro 2000]].<ref>{{cite web |url=https://www.officialcharts.com/artists/ |title=Official Charts Company – England Supporters' Band |publisher=[[Official Charts Company]] |access-date=June 16, 2012 |archive-date=May 8, 2019 |archive-url=https://web.archive.org/web/20190508182655/https://www.officialcharts.com/artists/ |url-status=live }}</ref>
+* Japanese novelist [[Hiro Arikawa]] was influenced by both ''The Great Escape'' and ''[[Gamera]]'' franchise and took inspirations from them.<ref>Daisuke Yoshida, 2017, [https://ddnavi.com/news/135686/a/ 有川浩作品の原点は『ガメラ』と『大脱走』?] {{Webarchive|url=https://web.archive.org/web/20241127073415/https://ddnavi.com/news/135686/a/ |date=November 27, 2024 }}, [[Da Vinci (magazine)|Da Vinci]], [[Kadokawa Corporation]]</ref>
+
+==See also==
+* [[List of American films of 1963]]
+* [[List of films considered the best]]
+* ''[[The Bridge on the River Kwai]]'', a similar film also released to critical acclaim
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite book |last=Andrews |first=Allen |title=Exemplary Justice |location=London |publisher=Harrap |year=1976| isbn=978-0-245-52775-3}} Details the manhunt by the Royal Air Force's special investigations unit after the war to find and bring to trial the perpetrators of the "Sagan murders".
+* {{cite book |last=Barris |first=Ted |title=The Great Escape: A Canadian Story |location=Toronto |publisher=Thomas Allen |year=2013 |isbn=978-1-77102-272-9}}
+* {{cite book |last=Brickhill |first=Paul |author-link=Paul Brickhill |title=The Great Escape |url=https://archive.org/details/greatescape00bric |url-access=registration |location=New York |publisher=Norton |year=1950}}
+* {{cite book |last=Burgess |first=Alan |author-link=Alan Burgess |title=The Longest Tunnel |location=New York |publisher=Grove Press |year=1990 |isbn=978-1-55584-033-4 |url=https://archive.org/details/longesttunneltru00burg}}
+* {{cite book |last=Fry |first=Helen |author-link=Helen Fry |title=MI9: A History of the Secret Service for Escape and Evasion in World War Two |location=New Haven |publisher=Yale University Press |year=2020  |isbn=978-0-30023-320-9}}
+* {{cite book |last=Hehner |first=Barbara |title=The Tunnel King: The True Story of Wally Floody and the Great Escape |location=Toronto |publisher=Harper Trophy Canada |year=2004 |title-link=Wally Floody}}
+* {{cite news |last=Hevesi |first=Dennis |title=Alex Cassie of 'Great Escape' Dies at 95 |newspaper=[[The New York Times]] |date=April 22, 2012 |page=20}}
+* {{cite book |last=Müller |first=Jens |author-link=Jens Müller (pilot) |title=Tre kom tilbake |trans-title=Three returned |location=Norway |publisher=[[Gyldendal Norsk Forlag|Gyldendal]] |year=1946 |title-link=Tre kom tilbake}} Memoir by the surviving Norwegian escapee.
+* {{cite book |last=Polan |first=Dana |title=Dreams of Flight: "The Great Escape" in American Film and Culture |publisher=University of California Press |year=2021 |isbn=978-0520379305}}
+* {{cite book |last=Smith |first=Sydney |title='Wings' Day |location=London |publisher=Pan Books |year=1968 |isbn=978-0-330-02494-5}} Story of Wing Commander [[Harry Day|Harry "Wings" Day]].
+* {{cite book |last=Vance |first=Jonathan F. |title=A Gallant Company: The True Story of the Man of "The Great Escape" |year=2000 |publisher=I Books |location=New York |isbn=978-0-7394-4242-5}}
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title|0057115|The Great Escape}}
+* [https://www.allmovie.com/movie/the-great-escape-am17429 ''The Great Escape'' at AllMovie]
+* {{TCMDb title|15860|The Great Escape}}
+* {{AFI film|id=23871|title=The Great Escape}}
+* {{mojo title|greatescape|The Great Escape}}
+* [http://video.google.com/videoplay?docid=8844857220560459276&q=%22James+Garner%22+%22Charlie+Rose%22&total=4&start=0&num=10&so=0&type=search&plindex=0 James Garner Interview on the ''Charlie Rose Show''] {{Webarchive|url=https://web.archive.org/web/20080103073849/http://video.google.com/videoplay?docid=8844857220560459276&q=%22James+Garner%22+%22Charlie+Rose%22&total=4&start=0&num=10&so=0&type=search&plindex=0 |date=January 3, 2008 }} (See 30:23–34:47 of video.)
+* [http://www.walter-riml.at/welcome/1962-the-great-escape/ New publication with private photos of the shooting & documents of 2nd unit cameraman Walter Riml]
+* [http://www.walter-riml.at/welcome/photogallery/1962-the-great-escape/ Photos of the filming]
+* [http://www.thegreatescapelocations.com/ The Great Escape locations]
+* [http://www.robdavistelford.co.uk/webspace/gt_esc/ Rob Davis web site on the Great Escape]
+* {{Rotten-tomatoes|great_escape|The Great Escape}}
+
+{{John Sturges |state=expanded}}
+{{James Clavell}}
+{{Authority control}}
+
+{{DEFAULTSORT:Great Escape}}
+[[Category:1963 films]]
+[[Category:1960s adventure drama films]]
+[[Category:1960s prison films]]
+[[Category:1963 war drama films]]
+[[Category:Adventure films based on actual events]]
+[[Category:American adventure drama films]]
+[[Category:American epic films]]
+[[Category:American prison drama films]]
+[[Category:American war drama films]]
+[[Category:Drama films based on actual events]]
+[[Category:Epic films based on actual events]]
+[[Category:Films scored by Elmer Bernstein]]
+[[Category:Films about shot-down aviators]]
+[[Category:Films about the United States Army Air Forces]]
+[[Category:Films about the British Armed Forces]]
+[[Category:Films about war crimes in World War II]]
+[[Category:Films based on works by Paul Brickhill]]
+[[Category:Films directed by John Sturges]]
+[[Category:Films set in Germany]]
+[[Category:Films set in 1943]]
+[[Category:Films set in 1944]]
+[[Category:Historical epic films]]
+[[Category:Films about prison escapes]]
+[[Category:Films with screenplays by James Clavell]]
+[[Category:United Artists films]]
+[[Category:1960s war adventure films]]
+[[Category:World War II films based on actual events]]
+[[Category:World War II prisoner of war films]]
+[[Category:American war adventure films]]
+[[Category:1963 English-language films]]
+[[Category:1963 American films]]
+[[Category:Films about capital punishment]]
+[[Category:English-language crime films]]
+[[Category:English-language war adventure films]]
+[[Category:English-language war drama films]]
+[[Category:English-language adventure drama films]]

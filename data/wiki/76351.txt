@@ -1,0 +1,297 @@
+{{Short description|1953 film by George Stevens}}
+{{Use American English|date=July 2021}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox film
+| name           = Shane
+| image          = Shane (1953 poster).jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[George Stevens]]
+| producer       = George Stevens
+| cinematography = [[Loyal Griggs]]
+| editing        = {{plainlist|
+* William Hornbeck
+* Tom McAdoo
+}}
+| music          = [[Victor Young]]
+| based_on       = {{based on|''[[Shane (novel)|Shane]]''<br />(1949 novel)|[[Jack Schaefer]]}}
+| screenplay     = {{plainlist|
+* [[A. B. Guthrie Jr.]]
+}}
+{{Infobox | decat = yes | child = yes
+| label1= Additional dialogue by
+| data1 = [[Jack Sher]]<ref>{{Cite news |last=Carlson |first=Michael |date=2009-10-28 |title=Stuart Kaminsky obituary |url=https://www.theguardian.com/books/2009/oct/28/stuart-kaminsky-obituary |access-date=2025-01-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+}}
+| starring       = {{plainlist|
+* [[Alan Ladd]]
+* [[Jean Arthur]]
+* [[Van Heflin]]
+* [[Brandon deWilde]]
+* [[Jack Palance]]
+}}
+| distributor    = [[Paramount Pictures]]
+| released       = {{Film date|1953|4|23}}
+| runtime        = 118 minutes<!--Theatrical runtime: 117:51--><ref>{{cite web|url=https://www.bbfc.co.uk/release/shane-q29sbgvjdglvbjpwwc0yntkwodg|title=''Shane'' (U)|work=[[British Board of Film Classification]]|date=May 11, 1960|access-date=January 25, 2024}}</ref>
+| country        = United States
+| language       = English
+| budget         = $1.5&nbsp;million<ref>{{cite news|url=https://www.chicagotribune.com/news/ct-xpm-2000-08-13-0008130237-story.html|title='Shane' Director Took on the Western And Won|newspaper=[[Chicago Tribune]]|first=Richard|last=Christiansen|date=August 13, 2000|access-date=May 9, 2019}}</ref>
+| gross          = $9 million (U.S. and Canada rentals)
+<ref name=variety1990>{{cite magazine|date=October 15, 1990|title=All Time Film Rental Champs|magazine=[[Variety (magazine)|Variety]]|issn=0042-2738|page=M-184|first=Lawrence|last=Cohn}}</ref>
+}}
+
+'''''Shane''''' is a 1953 American [[Western film]] directed and produced by [[George Stevens]] and starring [[Alan Ladd]], [[Jean Arthur]], [[Van Heflin]], [[Brandon deWilde]] and [[Jack Palance]].<ref name="TimeOut1" /><ref name="Shane">{{cite web |title=Shane |url=https://www.tcm.com/tcmdb/title/16406/shane#credits |archive-url=https://web.archive.org/web/20110818043714/http://www.tcm.com/tcmdb/title/16406/Shane/#credits |url-status=dead |archive-date=August 18, 2011 |access-date=January 25, 2024 |work=[[Turner Classic Movies]] |publisher=[[Turner Broadcasting System]] ([[Time Warner]]) |location=[[Atlanta]]}}</ref> The screenplay, written by [[A. B. Guthrie Jr.]] (with contributions from [[Jack Sher]]),<ref name="Shane" /> is based on the 1949 [[Shane (novel)|novel of the same name]] by [[Jack Schaefer]].<ref>{{cite book |last=Schaefer |first=Jack |author-link=Jack Schaefer |url=https://archive.org/details/shane00scha_0 |title=Shane |publisher=[[Bantam Books]] |year=1983 |isbn=978-0553271102 |edition=Paperback |location=[[New York City]] |url-access=registration}}</ref> Set in the [[Wyoming Territory]] in 1889, the film follows the titular character, seemingly a drifter with a mysterious past (who turns out to be a [[gunfighter]]) who becomes embroiled in a conflict between poor homesteaders and wealthy ranchers.<ref name=":0">{{Cite web |title=Shane Re-Envisioned |url=https://nieveroja.colostate.edu/issue2/shane.htm |access-date=October 5, 2024 |website=nieveroja.colostate.edu}}</ref> The novel and film were both inspired by the [[Johnson County War]] (1889–1893).<ref name=":0" />
+
+The film was released by [[Paramount Pictures]] on April 23, 1953.<ref name="WVrev">{{cite magazine |last=Brogdon |first=William |date=April 15, 1953 |title=Film reviews: Shane |url=https://variety.com/1953/film/reviews/shane-1200417556/ |magazine=[[Variety (magazine)|Variety]] |page=6}}</ref><ref name="HRrev">''[[Harrison's Reports and Film Reviews|Harrison's Reports]]'' film review; April 18, 1953, page 63.</ref> It was both a critical and commercial success, and was noted at the time for its [[Technicolor]] landscape [[cinematography]], editing, performances, and contributions to the genre.<ref name="TimeOut1">Andrew, Geoff. "Shane", ''Time Out Film Guide'', Time Out Guides Ltd., London, 2006.</ref> It was also the last feature film and the only color film of Arthur's career.{{sfn|Vermilye|2012|p=143}}
+
+''Shane'' was nominated for five [[Academy Award]]s, including [[Academy Award for Best Director|Best Director]], winning for [[Academy Award for Best Cinematography|Best Cinematography – Color]] ([[Loyal Griggs]]). It was listed as number 45 in the 2007 edition of [[AFI's 100 Years...100 Movies (10th Anniversary Edition)|AFI's 100 Years...100 Movies]] list, and number three on [[AFI's 10 Top 10]] in the Western category.<ref name=":1" /> In 1993, the film was selected for preservation in the United States' [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref name=":2" />
+
+==Plot==
+[[File:Jean Arthur in Shane.jpg|left|200px|thumb|Shane ([[Alan Ladd]]) and Marian Starrett ([[Jean Arthur]])]]
+
+Shane, a laconic but skilled [[gunfighter]] with a mysterious past,<ref name=TimeOut1/> rides into an isolated valley in the sparsely settled [[Wyoming Territory]] in 1889. A drifter, he is hired as a farmhand by hardscrabble rancher Joe Starrett, who is homesteading with his wife, Marian, and their young son, Joey. Starrett tells Shane that a war of intimidation is being waged on the valley's settlers. Though they have claimed their land legally under the [[Homestead Acts]], a ruthless cattle baron, Rufus Ryker, has hired various rogues and henchmen to harass them and force them out of the valley. 
+	
+Shane goes to town alone to buy supplies at Grafton's, a general store with an adjacent saloon. Shane enters the saloon, where Ryker's men are drinking, and orders a soda pop for Joey. Chris Calloway, one of Ryker's men, ridicules and taunts Shane by throwing his drink on him, but Shane ignores him and leaves. On Shane's next trip to town with the Starretts and other homesteaders, he fights and defeats Calloway, and then he and Starrett win a bar room brawl against most of Ryker's other men.  Ryker promises the next fight will be with guns.  Ryker hires Jack Wilson, an unscrupulous and notoriously skilled gunfighter. Joey admires Shane, much to his mother's chagrin, after Shane demonstrates his shooting skills.
+
+Frank "Stonewall" Torrey, a hot-tempered ex-Confederate homesteader, is taunted into drawing his gun by Wilson, who then shoots Torrey dead outside the saloon. At Torrey's funeral, the settlers discuss abandoning their struggle and leaving the valley, but after witnessing one of their homesteads being destroyed in a fire set by Ryker's men, they find new resolve to continue the fight. Ryker concludes Starrett is primarily responsible for their resolve.
+
+With the purpose of killing him, Ryker invites Starrett to a meeting at the saloon, ostensibly to negotiate a settlement. Calloway, no longer loyal to Ryker, warns Shane of the double cross. Resolved to protect Starrett from an ambush, Shane intervenes, even knocking Starrett unconscious to save him. Shane rides to town with Joey following on foot to watch the fight. Shane kills Wilson, Ryker, and Ryker's brother, but is injured. Outside, Shane sees Joey, who notices that Shane is bleeding. Shane bids farewell and rides out of the valley, ignoring Joey's desperate cries of "Shane! Come back!"
+
+==Cast==
+{{castlist|
+* [[Alan Ladd]] as Shane
+* [[Jean Arthur]] as Marian Starrett
+* [[Van Heflin]] as Joe Starrett
+* [[Brandon deWilde]] as Joey Starrett
+* [[Jack Palance]]{{efn|Credited as Walter Jack Palance.}} as Jack Wilson
+* [[Ben Johnson (actor)|Ben Johnson]] as Chris Calloway
+* [[Edgar Buchanan]] as Fred Lewis
+* [[Emile Meyer]] as Rufus Ryker
+* [[Elisha Cook Jr.]] as Frank "Stonewall" Torrey
+* Douglas Spencer as Axel "Swede" Shipstead
+* [[John Dierkes]] as Morgan Ryker
+* [[Ellen Corby]] as Mrs. Liz Torrey
+* Paul McVey as Sam Grafton, store owner
+* John Miller as Will Atkey, bartender
+* [[Edith Evanson]] as Mrs. Shipstead
+* [[Leonard Strong (actor)|Leonard Strong]] as Ernie Wright
+* Ray Spiker as Axel Johnson
+* [[Janice Carroll]] as Susan Lewis
+* Martin Mason as Ed Howells
+* Helen Brown as Martha Lewis
+* [[Nancy Kulp]] as Mrs. Howells
+}}
+
+==Production==
+[[File:Eiganotomo-shane-nov1952.jpg|thumb|Behind the scenes of the filming of ''Shane''.]]
+
+''Shane'' was expensive for a Western movie at the time with a cost of $3.1&nbsp;million.<ref>{{cite news|work=[[Variety (magazine)|Variety]]|title=Berlin Analyzes Goldwyn's Show-Cents|date=March 10, 1954|page=2|url=https://archive.org/stream/variety193-1954-03#page/n73/mode/1up}}</ref> It was the first film to be projected in a "flat" [[widescreen]] 1.66:1 ratio, a format that Paramount invented to offer audiences a wider panorama than television could provide.<ref name="Weaver, William R. 1953">{{cite news|last=Weaver|first=William R.|title=All Para. Films Set for 3 to 5 Aspect Ratio|work=[[Motion Picture Daily]]|date=March 25, 1953|page=1|url=https://archive.org/stream/motionpicturedai73unse#page/n406/mode/1up}}</ref>
+
+Although never explicitly stated, the basic plot elements of ''Shane'' were derived from the 1892 [[Johnson County War]] in [[Wyoming]], the archetypal cattlemen/homesteaders conflict, which also served as the background for ''[[The Virginian (1946 film)|The Virginian]]'' and ''[[Heaven's Gate (film)|Heaven's Gate]]''.{{sfn|Hyams|1984|p=115}} The physical setting is the high plains near [[Jackson, Wyoming]], and many shots feature the [[Grand Teton]] [[massif]] looming in the near distance. The fictional town and Starrett homestead were constructed for the film near [[Kelly, Wyoming|Kelly]], in the [[Jackson Hole]] valley, and demolished after filming was completed. One vintage structure that appeared briefly in the film, the Ernie Wright Cabin (now popularly referred to by locals as the "Shane Cabin") still stands, but is steadily deteriorating due to its classification as "ruins" by the [[National Park Service]].<ref>[https://www.bestofthetetons.com/2016/05/30/shane-movie-locations/ ''Shane'' Movie Locations] {{Webarchive|url=https://web.archive.org/web/20221014001022/https://www.bestofthetetons.com/2016/05/30/shane-movie-locations/ |date=October 14, 2022 }} at bestofthetetons.com, retrieved March 7, 2017.</ref>
+
+Alan Ladd disliked and was uncomfortable with guns; Shane's shooting demonstration for Joey required 116 takes.<ref name=TCM1>[https://web.archive.org/web/20110818043714/http://www.tcm.com/tcmdb/title/16406/Shane/#trivia "'Shane' (1953) – Trivia"]. Turner Classic Movies. Retrieved January 25, 2024</ref> A careful review of Shane's gun-skill demonstration to Joey shows Alan Ladd firing with his eyes closed. Later, in the saloon battle, Ladd's pistol is pointed well away from the man he shoots, especially the final scene—where he kills Ryker's brother. Jack Palance was nervous around horses, and had great difficulty with mounting and dismounting. After very many attempts, he finally executed a flawless dismount, which Stevens then used for all of the Wilson character's dismounts and—run in reverse—his mounts as well. Palance looked so awkward on horseback that Stevens was forced to replace Wilson's introductory ride into town astride his galloping horse with Palance riding at walking pace.{{sfn|Hyams|1984|p=116}} Stevens later noted that the change actually made Wilson's entrance more dramatic and menacing.<ref>[http://www.rogerebert.com/reviews/great-movie-shane-1953 ''Shane''] at [[RogerEbert.com]], retrieved April 7, 2017.</ref>
+
+The final scene, in which the wounded Shane explains to a distraught Joey why he has to leave ("There's no living with a killing"), was a moving moment for the entire cast and crew, except Brandon deWilde. "Every time Ladd spoke his lines of farewell, deWilde crossed his eyes and stuck out his tongue, making Ladd laugh. Finally, Ladd called to the boy's father, 'Make the kid stop or I'll beat him over the head.' DeWilde behaved."{{sfn|Hyams|1984|p=116}}
+
+=== Casting ===
+[[File:Alan Ladd in Shane.jpg|thumb|{{center|Alan Ladd as Shane}}]]
+
+Director George Stevens originally wanted [[Montgomery Clift]] and [[William Holden]] for the Shane and Starrett roles; when both proved unavailable, Stevens asked Paramount executive [[Y. Frank Freeman]] for a list of available actors with current contracts; within three minutes, he chose Alan Ladd, Van Heflin, and Jean Arthur. ''Shane'' was Arthur's first cinematic role in five years, and her last, at the age of 50, though she later appeared in theater, and a short-lived television series. She accepted the part at the request of Stevens, who had directed her in ''[[The Talk of the Town (1942 film)|The Talk of the Town]]'' (1942) with [[Cary Grant]] and [[Ronald Colman]], and ''[[The More the Merrier]]'' (1943) for which she received her only [[Academy Awards|Oscar]] nomination.{{sfn|Brady|1950a|page=42}}
+
+When asked if he enjoyed the movie, the author of ''Shane'', Jack Schaefer, replied, "Yeah, I did, all except for that runt", referring to the {{convert|5|ft|6|in|cm|spell=in|adj=on}} Ladd.<ref>{{Cite web|last=Boyle|first=Molly|title=Writer from nowhere: How Jack Schaefer found the West in himself|url=https://www.santafenewmexican.com/pasatiempo/books/writer-from-nowhere-how-jack-schaefer-found-the-west-in-himself/article_689b1606-15e7-590b-91e5-027f431a42ef.html|access-date=January 21, 2021|website=Santa Fe New Mexican|date=March 9, 2018 |language=en}}</ref> In 1989, Schaefer told the Oberlin alumni magazine that his ''Shane'' character was supposed to be a "dark, deadly person" whom he had hoped would be played by [[George Raft]].<ref>{{Cite web|date=April 15, 2007|title=Lakewood Lore – Jack Schaefer|url=http://www.lkwdpl.org/lore/lore147.htm|access-date=January 21, 2021|archive-url=https://web.archive.org/web/20070415052401/http://www.lkwdpl.org/lore/lore147.htm|archive-date=April 15, 2007}}</ref>
+
+===Technical details===
+Although the film was shot using the standard 1.37:1 [[Academy ratio]], Paramount picked ''Shane'' to debut its wide-screen system because it was composed largely of long and medium shots that would not be compromised by cropping the image. Using a newly cut aperture plate in the [[movie projector]], and a wider-angle lens, the film was exhibited in first-run venues at an aspect ratio of 1.66:1. For its premiere, the studio replaced the 34-by-25-foot screen in [[Radio City Music Hall]] with one measuring 50 feet wide by 30 feet high.<ref>"Hall Alters Projection Equipment for 'Shane'". ''Motion Picture Daily'', April 8, 1953.</ref>{{sfn|Lev|2003|p=116}} Paramount produced all of its subsequent films at that ratio until 1954, when it switched to 1.85:1.<ref name="Weaver, William R. 1953"/>  ''Shane'' was originally released in April 1953 with a conventional [[Sound-on-film|optical soundtrack]], but as its popularity grew, a new three-track, stereophonic soundtrack was recorded and played on an interlocking 35&nbsp;mm magnetic reel in the projection booth.<ref>"Midwest 'Shane' Premiere at Lake". ''Motion Picture Daily'', May 13, 1953.</ref>
+
+Stevens wanted to demonstrate to audiences "the horrors of violence". To emphasize the terrible power of gunshots, he created a cannon-like sound effect by firing a large-caliber weapon into a garbage can. In addition, he had the two principal shooting victims—Palance and Elisha Cook Jr.—rigged with hidden wires that jerked them violently backward when shot. These innovations, according to film historian Jay Hyams, marked the beginning of graphic violence in Western movies.  He quotes [[Sam Peckinpah]]: "When Jack Palance shot Elisha Cook Jr. in ''Shane'', things started to change."{{sfn|Hyams|1984|p=115}}
+
+==Reception==
+{{quote box|align=right|width=25em|quote=That's just what I need – to get advice from a guy who never saw ''Shane''.|source=—[[Henry Winkler]] as Arthur Fonzarelli, ''[[Happy Days]]''{{sfn|Hyams|1984|p=115}} }}
+
+''Shane'' premiered in New York City at [[Radio City Music Hall]] on April 23, 1953,{{sfn|Lev|2003|p=116}} and grossed $114,000 in its four weeks there.<ref>"'Wax,' 'Shane' End Sturdy B'Way Runs". ''Motion Picture Daily'', May 20, 1953.</ref> In all, the film earned about $9 million in [[Theatrical rental|theater rentals]] from the United States and Canada.<ref name=variety1990/> By one estimate, that translates into about $20 million in actual box-office receipts.<ref>[http://www.the-numbers.com/movies/1953/0SHN.php Box Office Information for ''Shane.''] The Numbers. Retrieved April 13, 2012.</ref>
+
+[[Bosley Crowther]] called the film a "rich and dramatic mobile painting of the American frontier". He continued:
+
+{{blockquote|''Shane'' contains something more than the beauty and the grandeur of the mountains and plains, drenched by the brilliant Western sunshine and the violent, torrential, black-browed rains. It contains a tremendous comprehension of the bitterness and passion of the feuds that existed between the new homesteaders and the cattlemen on the open range. It contains a disturbing revelation of the savagery that prevailed in the hearts of the old gunfighters, who were simply legal killers under the frontier code. And it also contains a very wonderful understanding of the spirit of a little boy amid all the tensions and excitements and adventures of a frontier home.}}
+
+Crowther called "the concept and the presence" of Joey, the little boy played by Brandon deWilde, "key to permit[ting] a refreshing viewpoint on material that's not exactly new. For it's this youngster's frank enthusiasms and naive reactions that are made the solvent of all the crashing drama in A. B. Guthrie Jr.'s script."<ref>{{Cite news |last=Crowther |first=Bosley |author-link=Bosley Crowther |date=April 24, 1953 |title=Shane (1953) |url=https://www.nytimes.com/movie/review?res=9D06EEDF143EE53BBC4C51DFB2668388649EDE |archive-url=https://web.archive.org/web/20140715130750/https://www.nytimes.com/movie/review?res=9D06EEDF143EE53BBC4C51DFB2668388649EDE |archive-date=15 July 2014 |url-status=dead |newspaper=The New York Times |access-date=13 May 2025}}</ref>
+
+[[Woody Allen]] has called ''Shane'' "George Stevens' masterpiece", on his 2001 list of great American films, along with ''[[The Treasure of the Sierra Madre (film)|The Treasure of the Sierra Madre]]'', ''[[White Heat]]'', ''[[Double Indemnity]]'', ''[[The Informer (1935 film)|The Informer]]'', and ''[[The Hill (1965 film)|The Hill]]''. ''Shane'', he wrote, "is a great movie and can hold its own with any film, whether it's a Western or not."<ref>{{Cite news |last=Lyman |first=Rick |date=August 3, 2001 |title=Watching Movies With: Woody Allen; Coming Back to 'Shane' |url=https://www.nytimes.com/2001/08/03/movies/watching-movies-with-woody-allen-coming-back-to-shane.html |work=[[The New York Times]] |access-date=September 6, 2016}}</ref>
+
+On [[review aggregator]] website [[Rotten Tomatoes]], ''Shane'' has a 97% critical approval rating, based on 39 reviews.<ref>{{Rotten tomatoes|shane}}</ref>
+
+==Awards and nominations==
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| rowspan="6"| [[26th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Motion Picture]]
+| rowspan="2"| [[George Stevens]]
+| {{nom}}
+| align="center" rowspan="6"| <ref>{{Cite web |url=https://www.oscars.org/oscars/ceremonies/1954 |title=The 26th Academy Awards (1954) Nominees and Winners |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=May 31, 2015 |archive-url=https://web.archive.org/web/20110706093858/https://www.oscars.org/oscars/ceremonies/1954.html |archive-date=July 6, 2011 |url-status=live}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| {{nom}}
+|-
+| rowspan="2"| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Brandon deWilde]]
+| {{nom}}
+|-
+| [[Jack Palance]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay]]
+| [[A.B. Guthrie Jr.]]
+| {{nom}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography – Color]]
+| [[Loyal Griggs]]
+| {{won}}
+|-
+| rowspan="2"| [[7th British Academy Film Awards|British Academy Film Awards]]
+| colspan="2"| [[BAFTA Award for Best Film|Best Film]]
+| {{nom}}
+| align="center" rowspan="2"| <ref>{{cite web |url=http://awards.bafta.org/award/1954/film |title=BAFTA Awards: Film in 1954 |publisher=[[British Academy Film Awards]] |access-date=November 30, 2024}}</ref>
+|-
+| [[BAFTA Award for Best Actor in a Leading Role|Best Foreign Actor]]
+| [[Van Heflin]]
+| {{nom}}
+|-
+| [[6th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| George Stevens
+| {{nom}}
+| align="center"| <ref>{{Cite web |url=https://www.dga.org/Awards/History/1950s/1953.aspx?value=1953 |title=6th Annual DGA Awards |publisher=[[Directors Guild of America Awards]] |access-date=July 5, 2021}}</ref>
+|-
+| rowspan="2"| [[National Board of Review Awards 1953|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{draw|2nd Place}}
+| align="center" rowspan="2"| <ref>{{Cite web |url=https://nationalboardofreview.org/award-years/1953/ |title=1953 Award Winners |publisher=[[National Board of Review]] |access-date=July 5, 2021}}</ref>
+|-
+| [[National Board of Review Award for Best Director|Best Director]]
+| George Stevens
+| {{won}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref name=":2">{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |title=Complete National Film Registry Listing |publisher=[[Library of Congress]] |access-date=November 27, 2024}}</ref>
+|-
+| [[1953 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]
+| [[New York Film Critics Circle Award for Best Director|Best Director]]
+| George Stevens
+| {{nom}}
+| align="center"| <ref>{{Cite web |url=https://mubi.com/awards-and-festivals/nyfccas?year=1953 |title=1953 New York Film Critics Circle Awards |publisher=[[Mubi (streaming service)|Mubi]] |access-date=November 30, 2024}}</ref>
+|-
+| Online Film & Television Association Awards
+| colspan="2"| Film Hall of Fame: Productions
+| {{won|Inducted}}
+| align="center"| <ref>{{Cite web |url=https://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame: Productions |publisher=Online Film & Television Association |access-date=November 27, 2024}}</ref>
+|-
+| [[6th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Written Drama|Best Written American Drama]]
+| A. B. Guthrie Jr.
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://www.wga.org/awards/awardssub.aspx?id=1551 |title=Awards Winners |publisher=[[Writers Guild of America Awards]] |archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551 |archive-date=December 5, 2012 |access-date=June 6, 2010 |url-status=live}}</ref>
+|}
+
+=== [[American Film Institute]] ===
+* [[AFI's 100 Years...100 Movies]]: No. 69
+* [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]]: No. 45
+* [[AFI's 100 Years...100 Heroes & Villains]]: Shane, Hero No. 16
+* [[AFI's 100 Years...100 Movie Quotes]]: "Shane. Shane. Come back!", No. 47
+* [[AFI's 100 Years...100 Cheers]]: No. 53
+* [[AFI's 10 Top 10]]: No. 3 Western<ref name=":1">{{cite web| title= Top Western | url = http://www.afi.com/10top10/western.html | publisher= [[American Film Institute]] |access-date=June 18, 2008}}</ref>
+
+==Legacy==
+The 1966 TV series ''[[Shane (American TV series)|Shane]]'' starring [[David Carradine]] was directly based on the film.
+
+The 1980 [[Cinema of Japan|Japanese film]] {{Nihongo|''[[A Distant Cry from Spring]]''|遙かなる山の呼び声}} features a similar plot.<ref>Lahiri, H. (2015). The tragic hero as drifter in Yoji Yamada's films. ''Offscreen, 19''(8).</ref>
+
+The 1971 [[Cinema of India|Indian film]] ''[[Door Ka Raahi]]'' was also based and adapted from this film. Famous playback singer [[Kishore Kumar]] directed this film, and he was heavily influenced from this film.{{cn|date=July 2026}}
+
+In 1981, British singer [[Kim Wilde]] released the song "Shane" as the B-side to her single "[[Chequered Love]]". The lyrics, written by Wilde's brother Ricky and her father Marty, deal with the impressions of the movie<ref>{{Cite web|url=https://www.wilde-life.com/encyclopedia/s/shane|title = This song was written by Ricky and Dad, about the movie Shane}}</ref>
+
+The 1982 Italian comic book ''Ken Parker 53 - I Pionieri'', published by Sergio Bonelli Editore draws inspiration from this movie. It reimagines the story of Shane, with Ken Parker as a lone hero protecting a broken settler family in the American West.{{cn|date=July 2026}}
+
+The 1983 Japanese TV Movie, "The Duel in the Forbidden Territory", has a similar plot and dialogue, though it has two additions; the boy discovers gold nuggets near their home, and the father has a past history with a ninja criminal gang, and his former associates are now seeking revenge.{{cn|date=July 2026}}
+
+The 1984 song by [[Roger Waters]], "[[The Pros and Cons of Hitch Hiking]]", includes the lyric "Do you remember Shane?" and the recording features interspersed audio from the film.{{cn|date=July 2026}}
+
+The 1985 song by [[Haustor]], "Šejn" from their album ''[[Bolero (Haustor album)|Bolero]]'' is named after the film.<ref>{{Citation |title=ŠTA JE HAUSTORU BILA INSPIRACIJA: Kako je nastala pesma "Šejn" | date=October 15, 2018 |url=https://www.youtube.com/watch?v=92Ss5daxGlQ |access-date=March 10, 2024 |language=en}}</ref>
+<!-- unreferenced
+The 1985 film ''[[Pale Rider]]'' is partly inspired by Shane, with [[Clint Eastwood]] playing a mysterious stranger who comes to the aid of gold prospectors terrorized by a mining tycoon.{{citation needed|date=March 2018}} -->
+
+The 1987 postapocalyptic movie, ''[[Steel Dawn]],'' closely follows the plot of ''Shane'', according to Walter Goodman of ''[[The New York Times]].''<ref>"Movie Review: Steel Dawn (1987)". ''[[The New York Times]]''. United States. November 6, 1987. Retrieved October 6, 2015.</ref>
+
+In his 1997 album ''[[Arizona Bay]]'', [[Bill Hicks]] parodies Jack Palance's role in Shane with track 8, "Bullies of the World", likening an unspecified "we", the arms-producing countries, to Jack Wilson taunting the farmer to "pick up the gun".{{cn|date=July 2026}}
+
+In the 1998 action thriller film ''[[The Negotiator]]'', the two leading characters have a discussion about Western genre films, ''Shane'' in particular. Arguing about the ending, Chris Sabian says Shane died, and Danny Roman says "he's slumped 'cause he's shot. Slumped don't mean dead."<ref>{{Cite web|url=https://getyarn.io/yarn-clip/da6b2108-e956-4526-bd1e-52b3860a8027|title = He's slumped because he's shot. Slumped don't mean dead}}</ref>
+
+''Shane'' was the first film comedian [[Billy Crystal]] saw in theaters. In his autobiography and stage show ''[[700 Sundays]]'', he describes the experience of seeing the film with family friend and babysitter [[Billie Holiday]], and having an emotional reaction to the final scene.<ref>{{cite web |last1=King |first1=Susan |title=Billy Crystal revives '700 Sundays' for posterity's sake |url=https://www.latimes.com/entertainment/tv/showtracker/la-et-st-billy-crystal-20140417-story.html |website=Los Angeles Times |access-date=2 April 2025 |date=17 April 2014}}</ref> Crystal later starred alongside Palance in ''[[City Slickers]]''.
+
+In the 2013 [[Hallmark Channel|Hallmark]] series ''Signed, Sealed, Delivered,'' "Shane, come back", was referenced.{{cn|date=July 2026}}
+
+The 2017 superhero film ''[[Logan (film)|Logan]]'' features characters watching scenes from the film, with lines from the film directly quoted.{{cn|date=July 2026}}
+
+==Copyright status in Japan==
+In 2006, ''Shane'' was the subject of litigation in [[Japan]] involving its [[copyright]] status in that country. Two Japanese companies began selling budget-priced copies of ''Shane'' in 2003, based on a Japanese copyright law that at the time protected cinematographic works for 50 years from the year of their release. After the Japanese legislature amended the law in 2004 to extend the duration of motion picture copyrights from 50 to 70 years, Paramount and its Japanese distributor filed suit against the two companies. A Japanese court ruled that the amendment was not retroactive, so any film released during or prior to 1953 remained in the public domain in Japan.<ref name="shane-japan">{{cite web|url=https://www.law.washington.edu/Casrip/Newsletter/default.aspx?year=2007&article=newsv14i1Mitani|archive-url=https://web.archive.org/web/20140330124538/https://www.law.washington.edu/Casrip/Newsletter/default.aspx?year=2007&article=newsv14i1Mitani|url-status=dead|archive-date=March 30, 2014|title=Argument for the Extension of the Copyright Protection over Cinematographic Works|last=Mitani|first=Hidehiro |date=Autumn–Winter 2007|work=CASRIP Newsletter|publisher=UW School of Law|access-date=May 27, 2015}}</ref>
+
+==References==
+{{reflist}}
+
+==Notes==
+{{notelist}}
+
+==Further reading==
+{{Refbegin}}
+* {{cite book|last=Vermilye|first=Jerry|title=Jean Arthur: A Biofilmography|publisher=[[AuthorHouse]]|location=[[Bloomington, Indiana]]|year=2012|isbn=978-1467043274|page=143}}
+* {{cite book|url=https://archive.org/details/lifetimesofweste0000hyam/page/115|last=Hyams|first=Jay|title=The Life and Times of the Western Movie|publisher=[[Simon & Schuster#Imprints|Gallery Books]]|location=[[New York City]]|year=1984|isbn=978-0831755454|pages=[https://archive.org/details/lifetimesofweste0000hyam/page/115 115–116]|edition=1st}}
+* {{cite news|title=Paramount Gets Option on Novel: to Enact Title Role|first=Thomas F.|last=Brady|work=[[The New York Times]]|location=[[New York City]]|date=March 1, 1950a|access-date=September 6, 2016|page=42|url=https://www.nytimes.com/1950/03/01/archives/paramount-gets-option-on-novel-to-enact-title-role.html}}
+* {{cite news|title=Warners Acquire 'Winterset' Rights: Studio Buys Screen Privilege From R.K.O. and May Star Humphrey Bogart in It Of Local Origin|first=Thomas F.|last=Brady|work=[[The New York Times]]|access-date=September 6, 2016|location=[[New York City]]|date=March 24, 1950b|page=29|url=https://www.nytimes.com/1950/03/24/archives/warners-acquire-winterset-rights-studio-buys-screen-privilege-from.html}}
+* {{cite news|author=NY Times Staff|title=Alan Ladd to Star in Historical Film: He Will Appear in 'Quantrell's Raiders,' Which Wallis Will Produce at Paramount U.-I. Buys "Fifth Estate"|access-date=September 6, 2016|work=[[The New York Times]]|location=[[New York City]]|date=September 27, 1950|page=48|url=https://query.nytimes.com/gst/abstract.html?res=9E0DE2DF113BE433A25754C2A96F9C946192D6CF}}
+* {{cite book|title=Film and Television In-Jokes: Nearly 2,000 Intentional References, Parodies, Allusions, Personal Touches, Cameos, Spoofs and Homages|first=Bill|last=van Heerden|publisher=[[McFarland & Company]]|year=1998|isbn=978-1476612065|edition=Paperback|page=162|quote=Cliff Robertson appears as the villain Shame (a takeoff on Alan Ladd's western hero, ''Shane'', 1953)}}
+* {{cite book|url=https://books.google.com/books?id=TEGl2Ele_XoC&q=Wide-Screen+At+Music+Hall+for+Premiere+of+%27Shane%27%22&pg=PA116|title=Transforming the Screen, 1950–1959|first=Peter|last=Lev|publisher=[[University of California Press]]|location=[[Oakland, California]]|year=2003|isbn=9780520249660|page=116}}
+* {{cite book |author=Walt Farmer |title=The Making of Shane in Jackson Hole, Wyoming |year=2001 |url=http://www.theastrocowboy.com/Scdrombook/scdrombook.htm |access-date=December 4, 2011 |archive-date=November 10, 2017 |archive-url=https://web.archive.org/web/20171110183458/http://www.theastrocowboy.com/Scdrombook/scdrombook.htm |url-status=dead }} CD-ROM.
+* {{cite book |first=Richard |last=Slotkin |chapter=Killer Elite: The Cult of the Gunfighter, 1950–1953 |title=Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America |location=New York |publisher=HarperPerennial |year=1992 |isbn=0-06-097575-X |pages=379–404 |chapter-url=https://books.google.com/books?id=-9XOsW7YwJ4C&pg=PA379 }}
+{{Refend}}
+
+==External links==
+{{Wikiquote|Shane|Shane (film)}}
+{{Commons category}}
+{{Portal|Film}}
+* {{IMDb title|0046303|Shane}}
+* {{TCMDb title|16406|Shane}}
+* {{AFI film|id=51022|title=Shane}}
+* {{Rotten Tomatoes|shane|Shane}}
+* [http://www.filmsite.org/shan.html ''Shane''] at [[Filmsite.org]]
+
+{{George Stevens}}
+
+{{Authority control}}
+
+[[Category:1953 Western (genre) films]]
+[[Category:1953 films]]
+[[Category:American Western (genre) films]]
+[[Category:English-language Western (genre) films]]
+[[Category:Revisionist Western (genre) films]]
+[[Category:Films set in the American frontier]]
+[[Category:Films based on American Western (genre) novels]]
+[[Category:Films set in Wyoming]]
+[[Category:Films shot in Wyoming]]
+[[Category:Films set in the 1890s]]
+[[Category:Range wars and feuds of the American Old West|*]]
+[[Category:Films directed by George Stevens]]
+[[Category:Films scored by Victor Young]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Films with screenplays by Jack Sher]]
+[[Category:Films adapted into television shows]]
+[[Category:Paramount Pictures films]]
+[[Category:United States National Film Registry films inducted in 1993]]
+[[Category:1953 English-language films]]
+[[Category:1953 American films]]
+[[Category:Homesteading in popular culture]]

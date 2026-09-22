@@ -1,0 +1,563 @@
+{{Short description|2004 DreamWorks Animation film}}
+{{about|the film|the video game based on the film|Shrek 2 (video game){{!}}''Shrek 2'' (video game)}}
+{{pp-vandalism|small=yes}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox film
+| image          = Shrek 2 poster.jpg
+| alt            = Various characters are lined around the border of the poster, with the film's green "2" logo stylized with Shrek's ears placed in the center; all atop a background containing a blue sky with scattered clouds.
+| caption        = Theatrical release poster
+| director       = {{plainlist|
+* [[Andrew Adamson]]
+* [[Kelly Asbury]]
+* [[Conrad Vernon]]
+}}
+| screenplay     = {{plainlist|
+* Andrew Adamson
+* [[Joe Stillman]]
+* J. David Stem
+* [[David N. Weiss]]
+}}
+| story          = Andrew Adamson
+| based_on       = {{based on|''[[Shrek!]]''|[[William Steig]]}}
+| producer       = {{plainlist|
+* [[Aron Warner]]
+* David Lipman
+* [[John H. Williams (film producer)|John H. Williams]]
+}}
+| starring       = {{plainlist|
+* [[Mike Myers]]
+* [[Eddie Murphy]]
+* [[Cameron Diaz]]
+* [[Julie Andrews]]
+* [[Antonio Banderas]]
+* [[John Cleese]]
+* [[Rupert Everett]]
+* [[Jennifer Saunders]]
+}}<!-- Per poster -->
+| editing        = {{plainlist|
+* Michael Andrews
+* Sim Evan-Jones
+}}
+| music          = [[Harry Gregson-Williams]]
+| production_companies = {{plainlist|
+* [[DreamWorks Animation]]<ref name=afi />
+* [[PDI/DreamWorks]]<ref name=afi>{{cite web |url=https://catalog.afi.com/Catalog/moviedetails/63225 |title=Shrek 2 (2004) |work=[[AFI Catalog of Feature Films]] |access-date=January 3, 2018 |archive-date=January 4, 2018 |archive-url=https://web.archive.org/web/20180104013935/https://catalog.afi.com/Catalog/moviedetails/63225 |url-status=live }}</ref>
+}}
+| distributor    = [[DreamWorks Pictures]]{{efn|name=Distributor}}<ref name=afi/><ref name=BOM />
+| released       = {{Film date|2004|05|15|[[2004 Cannes Film Festival|Cannes]]|2004|05|19|United States}}
+| runtime        = 92 minutes<!-- Theatrical runtime: 92:23 --><ref>{{cite web |url= https://www.bbfc.co.uk/release/shrek-2-q29sbgvjdglvbjpwwc0zndc3odc |title=''Shrek 2'' (PG) |work=[[British Board of Film Classification]] |date=May 26, 2004 |access-date=September 4, 2014 |archive-date=February 7, 2015 |archive-url=https://web.archive.org/web/20150207121752/http://bbfc.co.uk/releases/shrek-2-2004-1 |url-status=live }}</ref>
+| country        = United States<ref name=afi/>
+| language       = English
+| budget         = $150&nbsp;million<ref name=BOM />
+| gross          = $933.8 million<ref>{{Cite web |title=Shrek 2 (2004) - Financial Information |url=https://www.the-numbers.com/movie/Shrek-2 |access-date=2023-01-29 |website=The Numbers}}</ref>
+}}
+
+'''''Shrek 2''''' is a 2004 American animated [[Fantasy comedy|fantasy comedy film]] directed by [[Andrew Adamson]], [[Kelly Asbury]], and [[Conrad Vernon]] from a screenplay by Adamson, [[Joe Stillman]], and the writing team of J. David Stem and [[David N. Weiss]]. Loosely based on the 1990 children's picture book ''[[Shrek!]]'' by [[William Steig]], it is a direct sequel to ''[[Shrek]]'' (2001) and the second installment in the [[Shrek (franchise)|''Shrek'' film series]]. The film stars [[Mike Myers]], [[Eddie Murphy]], and [[Cameron Diaz]], who reprise their respective [[Voice acting|voice roles]] of [[Shrek (character)|Shrek]], [[Donkey (Shrek)|Donkey]], and [[Princess Fiona]]. They are joined by new characters voiced by [[Antonio Banderas]], [[Julie Andrews]], [[John Cleese]], [[Rupert Everett]], and [[Jennifer Saunders]]. ''Shrek 2'' takes place following the events of the first film, with Shrek and Donkey meeting Fiona's parents as the zealous [[Fairy Godmother (Shrek)|Fairy Godmother]], who wants Fiona to marry her son Prince Charming, plots to destroy Shrek and Fiona's marriage. Shrek and Donkey team up with a sword-wielding cat named [[Puss in Boots (Shrek)|Puss in Boots]] to foil her plans.
+
+Development began in 2001, and following disagreements with producers, the first film's screenwriters [[Ted Elliott (screenwriter)|Ted Elliott]] and [[Terry Rossio]] were replaced with Adamson. The story was inspired by ''[[Guess Who's Coming to Dinner]]'' (1967), and new animation tools were utilized to improve the visual appearance of each character, particularly Puss. The lead actors also received a significant bump in salary to $10 million, which at the time was among the highest contracts in their respective careers. Like its predecessor, ''Shrek 2'' also [[parody film|parodies]] other films based on fairy tales and features references to American popular culture.<ref name="firstpost.com">{{cite web|last=Sharma|first=Devansh|title=Remembering Shrek 2: How Kelly Asbury and team played around with the idea of a subversive Disney fairy tale|website=[[Firstpost]]|url=https://www.firstpost.com/entertainment/remembering-shrek-2-how-kelly-asbury-and-team-played-around-with-the-idea-of-a-subversive-disney-fairy-tale-8541281.html|date=June 30, 2020|access-date=August 13, 2020|archive-date=August 19, 2020|archive-url=https://web.archive.org/web/20200819160338/https://www.firstpost.com/entertainment/remembering-shrek-2-how-kelly-asbury-and-team-played-around-with-the-idea-of-a-subversive-disney-fairy-tale-8541281.html|url-status=live}}</ref><ref name="slashfilm.com">{{cite web|last=Anderton|first=Ethan|title=You May Have Forgotten How Many Movies 'Shrek' Parodied|website=[[Slashfilm]]|url=https://www.slashfilm.com/shrek-movie-references-video/|date=January 25, 2017|access-date=August 13, 2020|archive-date=January 16, 2021|archive-url=https://web.archive.org/web/20210116032217/https://www.slashfilm.com/shrek-movie-references-video/|url-status=live}}</ref><ref name="ew.com">{{cite magazine|last=Ross|first=Dalton|title=Shrek 2|magazine=[[Entertainment Weekly]]|url=https://ew.com/article/2004/11/05/shrek-2-6/|date=November 5, 2004|access-date=August 13, 2020|archive-date=December 5, 2017|archive-url=https://web.archive.org/web/20171205142903/http://ew.com/article/2004/11/05/shrek-2-6/|url-status=live}}</ref> The film is dedicated to the memory of ''Shrek'' creator William Steig, who died on October 3, 2003, seven months before the film was released.
+
+''Shrek 2'' premiered at the [[2004 Cannes Film Festival]] on May 15, 2004, where it competed for the [[Palme d'Or]], and was released in theaters on May 19, by [[DreamWorks Pictures]].{{efn|name=Distributor|In July 2014, the film's distribution rights were purchased by [[DreamWorks Animation]] from [[Paramount Pictures]] (owners of the pre-2005 DreamWorks Pictures catalog)<ref name="auto">{{cite news |last1=Cheney |first1=Alexandra |title=DreamWorks Animation Q2 Earnings Fall Short of Estimates, SEC Investigation Revealed |url=https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/ |access-date=July 30, 2014 |work=Variety |date=July 29, 2014|archive-url=https://web.archive.org/web/20180623141606/https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|archive-date=June 23, 2018|url-status=live}}</ref> and transferred to [[20th Century Fox]] before reverting to [[Universal Pictures]] in 2018.}} Like its predecessor, it received positive reviews from critics and is considered by many to be one of the best sequel films ever made.<ref>{{Cite web |title=The 10 best movie sequels of all time |url=https://www.gq-magazine.co.uk/article/best-movie-sequels |access-date=2024-02-22 |website=GQ|date=February 22, 2024 }}</ref><ref>{{Cite web |title=Why Shrek 2 Is a Perfect Sequel |url=https://www.cbr.com/shrek-2-best-sequel-explained/ |access-date=13 March 2022 |website=CBR|date=March 13, 2022 }}</ref><ref>{{Cite web |title=Shrek 2 Actually Holds Up Much Better Than the Original and Here's Why |url=https://movieweb.com/shrek-2-better-than-shrek/ |access-date=13 April 2024 |website=Movieweb|date=April 13, 2024 }}</ref> The film grossed $933.8 million worldwide, and scored the second-largest three-day opening weekend in United States history and the largest opening for an animated film at the time of its release.<ref name=Boxofficemojo.com>{{cite news |last=Gray |first=Brandon |title='Shrek 2' Lands Far, Far Ahead of Summer Pack |url=https://www.boxofficemojo.com/news/?id=1384&p=.htm |access-date=March 24, 2012 |newspaper=Box Office Mojo |date=May 24, 2004 |archive-url=https://web.archive.org/web/20131105203054/http://www.boxofficemojo.com/news/?id=1384&p=.htm |archive-date=November 5, 2013|url-status=dead}}</ref><ref>{{cite web |title=Box Office History for Digital Animation Movies |access-date=March 24, 2012 |work=The Numbers |url=https://www.the-numbers.com/movies/series/DigitalAnimation.php |archive-url=https://web.archive.org/web/20130610000605/http://www.the-numbers.com/movies/series/DigitalAnimation.php |archive-date=June 10, 2013|url-status=dead}}</ref> It went on to become the [[2004 in film#Highest-grossing films|highest-grossing film of 2004]]<ref>{{cite web |url=https://boxofficemojo.com/yearly/chart/?yr=2004&p=.htm |work=Box Office Mojo |access-date=March 24, 2012 |title=2004 DOMESTIC GROSSES |archive-date=April 25, 2013 |archive-url=https://web.archive.org/web/20130425035744/http://boxofficemojo.com/yearly/chart/?yr=2004&p=.htm|url-status=dead}}</ref> and the [[List of highest-grossing films|fifth-highest-grossing film overall]] at the time of its release. ''Shrek 2'' is also [[DreamWorks Animation]]'s highest-grossing film to date and the highest-grossing film released by DreamWorks Pictures, and it held the title of being the [[List of highest-grossing animated films|highest-grossing animated film]] of all time worldwide until [[Pixar|Pixar Animation Studios]]' ''[[Toy Story 3]]'' surpassed it in 2010.<ref name=EWTS3Highest/> The film received two [[Academy Award]] nominations for [[Academy Award for Best Animated Feature|Best Animated Feature]] and [[Academy Award for Best Original Song|Best Original Song]], and its associated [[Shrek 2: The Motion Picture Soundtrack|soundtrack]] charted in the Top 10 on the [[Billboard 200|US ''Billboard'' 200]]. Two sequels—''[[Shrek the Third]]'' (2007) and ''[[Shrek Forever After]]'' (2010)—had soon followed, with an upcoming sequel, ''[[Shrek 5]]'', scheduled to be released on June 30, 2027. The film's character Puss in Boots has also received his own series of spin-off media—a feature film [[Puss in Boots (2011 film)|''Puss in Boots'']] (2011), a streaming series ''[[The Adventures of Puss in Boots]]'' (2015–2018), and a sequel film ''[[Puss in Boots: The Last Wish]]'' (2022)—following his debut.
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. Please check the word count before making any additions. -->
+Newlyweds [[Shrek (character)|Shrek]] and [[Princess Fiona]] return from their [[honeymoon]] to find they have been invited by Fiona's parents to a royal ball to celebrate their marriage.{{efn|As depicted in ''[[Shrek]]'' (2001)}} Though Shrek is mortified about visiting the kingdom as an ogre, and resents Fiona's parents for locking her in the tower, Fiona convinces him to attend, and they travel to the kingdom of Far Far Away with [[Donkey (Shrek)|Donkey]] in tow and the fairy tale creatures [[house sitting]]. They meet Fiona's parents, [[King Harold (Shrek)|King Harold]] and [[Queen Lillian (Shrek)|Queen Lillian]], who are repulsed to see they are ogres. At dinner, Shrek and Harold get into a heated argument, and afterwards, Fiona encounters [[Fairy Godmother (Shrek)|Fairy Godmother]], a celebrity potions saleswoman who offers to help Fiona but is mortified to see she is married to Shrek. Shrek worries he is losing Fiona, especially after finding her childhood diary and reading that she was once seemingly infatuated with [[Prince Charming (Shrek)|Prince Charming]].
+
+Harold is secretly reprimanded by Fairy Godmother, who had arranged with Harold for her son—Charming—to be the one to rescue and marry Fiona; she hopes to use the marriage to rule Far Far Away [[Puppet ruler|through Charming]]. She orders Harold to get rid of Shrek or else lose his own happy ending, so Harold hires swashbuckling outlaw and mercenary [[Puss in Boots (Shrek)|Puss in Boots]] to assassinate Shrek.
+
+Unable to overpower Shrek, Puss reveals that he was paid by Harold and offers to help him in gratitude for having his own life spared. Shrek, Donkey, and Puss meet with Fairy Godmother at her potions factory to find something to help Shrek appeal to Fiona, but she coldly rejects his request, insisting ogres do not deserve happy endings. They retaliate by stealing a potion labeled "Happily Ever After" and accidentally trashing the factory. Shrek and Donkey drink the potion and soon fall asleep. Back in Far Far Away, Fiona notices Shrek is missing and tries to find him, but she too falls asleep.
+
+The next morning, Shrek and Fiona awaken to find they are now human, and Donkey is a white [[stallion]]. To make the change permanent, Shrek must kiss Fiona by midnight. Shrek, Donkey, and Puss return to the castle; however, Fairy Godmother, having discovered the theft, has sent Charming to pose as human Shrek and win Fiona's love. At Fairy Godmother's urging, Shrek leaves the castle, believing that the best way to make Fiona happy is to let her go.
+
+Fiona is skeptical of Charming; therefore, to ensure the two will wed, Fairy Godmother gives Harold a love potion to put into Fiona's tea. This exchange is overheard by Shrek, Donkey, and Puss, who are arrested by the royal knights after Donkey inadvertently exposes them. While the ball begins, the fairy tale creatures - having seen the arrest on the news - rescue the trio from the dungeon. They all storm the castle with the help of Mongo, a monstrous living [[gingerbread man]] created by the [[Muffin Man]].
+
+Though Mongo is destroyed, the group manages to break into the ball. Shrek fails to prevent Charming from kissing Fiona, but instead of falling in love, Fiona knocks him out. Harold reveals that he swapped Fiona's tainted teacup with his own, refusing to go through with the plot. Livid, the Fairy Godmother tries to strike Shrek with a spell from her [[magic wand]]. Harold jumps in front of it and is struck; the rest of the spell reflects off his [[breastplate]] and hits the Fairy Godmother, causing her to disintegrate into bubbles.
+
+Harold reverts to his true form as [[the Frog Prince]], having used the "Happily Ever After" potion years earlier to gain Lillian's love. He approves of Shrek and Fiona's marriage, while Lillian assures Harold that she still loves him. As the clock strikes midnight, Fiona declines Shrek's offer to remain human, and they revert to ogres, while Donkey also returns to normal, much to his sadness. Everyone celebrates as the ball continues. In a [[mid-credits scene]], [[Dragon (Shrek)|Dragon]], who had recently married Donkey, arrives with several dragon-donkey [[Hybrid (biology)|hybrid]] babies.
+
+==Voice cast==
+{{Main|List of characters in the Shrek franchise{{!}}List of characters in the ''Shrek'' franchise}}
+<!-- Please do not link to characters. They are already linked above and a separate link to the character page is at the top of this section. -->
+{{div col begin}}
+* [[Mike Myers]] as Shrek
+* [[Eddie Murphy]] as Donkey
+* [[Cameron Diaz]] as Princess Fiona
+* [[Julie Andrews]] as Queen Lillian
+* [[Antonio Banderas]] as Puss in Boots
+* [[John Cleese]] as King Harold
+* [[Rupert Everett]] as Prince Charming
+* [[Jennifer Saunders]] as Fairy Godmother
+* [[Larry King]] as Doris the Ugly Stepsister
+**[[Jonathan Ross]] provides the voice for the British version
+* [[Aron Warner]] as [[Big Bad Wolf (Shrek)|Big Bad Wolf]]
+* [[Cody Cameron]] as:
+** [[Pinocchio (Shrek)|Pinocchio]]
+** [[The Three Little Pigs (Shrek)|The Three Little Pigs]]
+* [[Christopher Knights]] and [[Simon J. Smith]] as [[Three Blind Mice (Shrek)|Three Blind Mice]]
+* [[Conrad Vernon]] as:
+** [[Gingerbread Man (Shrek)|Gingy]]
+** [[Muffin Man]]
+** [[Mongo (Shrek)|Mongo]]
+** Cedric
+** Announcer
+* [[Chris Miller (animator)|Chris Miller]] as Magic Mirror
+* [[Mark Moseley (actor)|Mark Moseley]] as Dresser
+* Kelly Cooney Cilella as Fast Food Clerk
+* [[Kelly Asbury]] as:
+** Page
+** Elf
+** Nobleman
+** Nobleman's son
+* [[Andrew Adamson]] as Captain of the Guard
+{{div col end}}
+
+; Cameos
+*[[Joan Rivers]]' cameo as herself marked the first time that a real person had been represented on screen by the ''Shrek'' animation team. Her part (though retaining her visual representation) was re-dubbed by presenter [[Kate Thornton]] for the United Kingdom release.
+*[[Simon Cowell]] appears as himself on ''Far Far Away Idol'', a parody of ''[[American Idol]]'', on the DVD special features and just before the credits on the American VHS edition (see Home Media).
+
+==Production==
+{{Multiple image|
+| perrow            = 3 3
+| total_width       = 300px
+| image1            = Goyas 2025 - Antonio Banderas (cropped).jpg
+| image2            = Rupert_Everett_-Sofia.jpg
+| image3            = Jennifer Saunders 2014.jpg
+| image4            = Julie Andrews Park Hyatt, Sydney, Australia 2013.jpg
+| image5            = John Cleese 2008 bigger crop.jpg
+| image6            = Larry King in 2006 (cropped).jpg
+| footer            = '''Top''': [[Antonio Banderas]], [[Rupert Everett]], and [[Jennifer Saunders]] provide the voices for Puss in Boots, Prince Charming and the Fairy Godmother.
+'''Bottom''': [[Julie Andrews]], [[John Cleese]], and [[Larry King]] voices Queen Lillian, King Harold and Doris the Ugly Stepsister.
+}}
+In 2001, soon after the original ''Shrek'' proved to be a hit, [[Mike Myers]], [[Eddie Murphy]], and [[Cameron Diaz]] negotiated an upfront payment of $10 million each for voicing a sequel to the film.<ref name="TWSJKatzenbergTalksToons">{{cite news |last1=King |first1=Tom |title=DreamWorks's Katzenberg Talks 'Toons and 'Shrek 2' |url=https://www.wsj.com/articles/SB1021499376714640480 |access-date=October 4, 2016 |work=The Wall Street Journal |date=May 17, 2002 |archive-date=October 5, 2016 |archive-url=https://web.archive.org/web/20161005130214/http://www.wsj.com/articles/SB1021499376714640480 |url-status=live }}</ref><ref>{{cite news |last=Brodesser |first=Claude |title=Inside Move: 'Shrek 2's' expensive voices |url=https://variety.com/2001/film/news/inside-move-shrek-2-s-expensive-voices-1117802559/ |access-date=March 24, 2012 |newspaper=Variety |date=July 10, 2001 |archive-date=June 18, 2021 |archive-url=https://web.archive.org/web/20210618133104/https://variety.com/2001/film/news/inside-move-shrek-2-s-expensive-voices-1117802559/ |url-status=live }}</ref><ref name="LATVoiceActorSpeaks">{{cite news |last1=Goldstein |first1=Patrick |title=A Voice Actor Speaks for Herself |url=https://www.latimes.com/archives/la-xpm-2001-dec-18-et-gold18-story.html |access-date=October 4, 2016 |work=Los Angeles Times |date=December 18, 2001 |archive-date=May 5, 2016 |archive-url=https://web.archive.org/web/20160505132301/http://articles.latimes.com/2001/dec/18/entertainment/et-gold18 |url-status=live }}</ref><ref>{{cite news |last1=Griffin |first1=Nancy |title=When A-List Actors Are Happy to Hide Their Faces |url=http://events.nytimes.com/2003/07/06/movies/06NANC.html?pagewanted=print&position=&_r=0 |access-date=October 4, 2016 |work=The New York Times |date=July 6, 2003 |archive-date=July 31, 2017 |archive-url=https://web.archive.org/web/20170731113255/http://events.nytimes.com/2003/07/06/movies/06NANC.html?pagewanted=print&position=&_r=0 |url-status=live }}</ref> This pay increase represented a significant rise from the $350,000 salary that each of the three were paid for the first film.<ref name="LATVoiceActorSpeaks" /> According to [[Jeffrey Katzenberg]], the executive producer of ''Shrek 2'' and a co-founder of [[DreamWorks Pictures]], who led the negotiations, the payments were probably the highest in the actors' entire careers.<ref name="TWSJKatzenbergTalksToons" /> Each of the actors were expected to work between 15 and 18 hours in total.<ref name="TWSJKatzenbergTalksToons" /> The film was produced with a $70 million budget.<ref>{{cite web |url=http://www.your3dsource.com/most-expensive-3d-animated-films.html |title=Most Expensive 3D Animated Movies, Ever! |publisher=your3dsource.com |access-date=February 4, 2012 |archive-date=July 4, 2013 |archive-url=https://web.archive.org/web/20130704103701/http://www.your3dsource.com/most-expensive-3d-animated-films.html|url-status=dead}}</ref><ref>{{cite web |url=https://www.the-numbers.com/movies/records/allbudgets.php |title=Movie Budgets |publisher=The Numbers |access-date=February 4, 2012 |archive-date=July 28, 2013 |archive-url=https://web.archive.org/web/20130728213245/http://www.the-numbers.com/movies/records/allbudgets.php|url-status=dead}}</ref>
+
+Director [[Andrew Adamson]] returned to direct ''Shrek 2'', after previously directing the first ''Shrek'' film. [[Ted Elliott (screenwriter)|Ted Elliott]] and [[Terry Rossio]], the screenwriters and co-producers of the first film, insisted that the sequel would be a traditional fairytale, but after disagreements with the producers, they left the project and were replaced by Adamson. His writing for ''Shrek 2'' was inspired by the 1967 comedy-drama film ''[[Guess Who's Coming to Dinner]]'', and was completed with the help of the film's co-writers [[Joe Stillman]] (one of the other writers from the first film), and screenwriting duo J. David Stem and [[David N. Weiss]], and co-directors, [[Kelly Asbury]] and [[Conrad Vernon]], the latter two of whom spent most of the film's production duration in [[Northern California]] while Adamson spent most of his time with the film's voice actors in [[Glendale, California]].<ref name = "George Luca's Blockbusting">{{cite book |author=Alex Ben Block, Lucy Autrey Wilson |title=George Lucas's Blockbusting: A Decade-by-Decade Survey of Timeless Movies Including Untold Secrets of Their Financial and Cultural Success |date=March 30, 2010 |publisher=HarperCollins |oclc=310398975 |lccn=2010279574 |isbn=978-0061778896 |pages=[https://archive.org/details/georgelucassbloc00alex/page/976 976]|url-access=registration |url=https://archive.org/details/georgelucassbloc00alex/page/976}}</ref>
+
+DreamWorks began production of ''Shrek 2'' in 2001,<ref name = "The Tech of the Shrek the Third">{{cite video |people=[[Raman Hui]] |year=2007 |title=The Tech of Shrek The Third |time=0:41 |url=http://www.youtube.com/watch?v=NFgCmrmS9p8 |quote=We started animation in 2001.|access-date=July 10, 2019|archive-url=https://web.archive.org/web/20151116163157/https://www.youtube.com/watch?v=NFgCmrmS9p8|archive-date=November 16, 2015|url-status=live}}</ref> before the first ''Shrek'' film was completed.<ref name = "George Luca's Blockbusting"/> The studio added more human characters to the film than there were in its predecessor and improved character appearance and movement with the use of several new animation/rendering systems.<ref>The Tech of Shrek 2&nbsp;– Shrek 2 DVD. Retrieved July 8, 2011.</ref> In particular, [[Puss in Boots (Shrek)|Puss in Boots]] necessitated development of a whole new set of film production tools to handle the appearance of his fur, belt, and hat plume; Puss' fur especially required an upgrade to the fur shader.<ref>{{cite web|author=Desowitz, Bill|date=May 20, 2010|title=A Decade of Shrek Tech|url=http://www.awn.com/vfxworld/decade-shrek-tech|url-status=dead|archive-url=https://web.archive.org/web/20140615153356/http://www.awn.com/vfxworld/decade-shrek-tech|archive-date=June 15, 2014|access-date=January 29, 2012|publisher=[[Animation World Network]]}}</ref> All of the character setup was completed in the first three years of production.<ref name="George Luca's Blockbusting"/>
+
+In an early version of ''Shrek 2'', Shrek abdicated the throne, and called for a fairy tale election. Pinocchio's campaign was an "honesty" campaign, while Gingy's was a "smear" campaign. Adamson said that although this plot did have many funny ideas, it was also too overtly satiric and political, and considered "more intellectual than emotional".<ref>{{cite book |last1=Hopkins |first1=John |title=Shrek: From the Swamp to the Screen |date=2004 |publisher=Harry N. Abrams |location=New York |isbn=978-0810943094 |page=163}}</ref> ''Shrek 2'' also appears much darker in terms of lighting when compared to the original film. Designers reportedly took inspiration from 19th century French illustrator and engraver [[Gustave Doré|Gustav Doré]] to improve the film's richness of detail and setting. According to production designer Guillaume Aretos, "There are a lot of medieval paintings and illustrations [and] my own influences, which are classical paintings from the 15th and 16th centuries...The design of Shrek is always a twist on reality anyway, so we tried to [pack] as much detail and interest as we could in the imagery."<ref>{{cite web |last=Desowitz |first=Bill |date=May 14, 2004 |url=http://www.awn.com/vfxworld/shrek-2-visual-development-gallery |title=Shrek 2: A Visual Development Gallery |publisher=[[Animation World Network]] |access-date=May 15, 2012 |archive-url=https://web.archive.org/web/20140224193638/http://www.awn.com/vfxworld/shrek-2-visual-development-gallery |archive-date=February 24, 2014|url-status=dead}}</ref>
+
+===Casting===
+[[Antonio Banderas]] signed on to the film as the voice of Puss in Boots.<ref name=AnimationWorldNetwork>{{cite web|url=https://www.awn.com/animationworld/book-review-art-puss-boots|title=Book Review: 'The Art of Puss In Boots'|date=February 14, 2012|last=Patten|first=Fred|website=[[Animation World Network]]|access-date=June 30, 2018|archive-url=https://web.archive.org/web/20180630130341/https://www.awn.com/animationworld/book-review-art-puss-boots|archive-date=June 30, 2018|url-status=live|df=mdy-all|author-link=Fred Patten}}</ref><ref name=TheAtlantic>{{cite web|url=https://www.theatlantic.com/entertainment/archive/2011/10/how-celebrities-took-over-cartoon-voice-acting/247481/|title=How Celebrities Took Over Cartoon Voice Acting|date=October 28, 2011|last=Meslow|first=Scott|magazine=[[The Atlantic]]|access-date=July 31, 2018|archive-url=https://web.archive.org/web/20180731120907/https://www.theatlantic.com/entertainment/archive/2011/10/how-celebrities-took-over-cartoon-voice-acting/247481/|archive-date=July 31, 2018|url-status=live|df=mdy-all}}</ref><ref>{{cite web|url=https://people.com/tv/antonio-banderas-reveals-how-his-puss-in-boots-character-follows-him-everywhere/|title=Antonio Banderas Reveals How His Puss in Boots Character Follows Him Everywhere|date=April 23, 2018|magazine=[[People (magazine)|People]]|access-date=July 31, 2018|archive-url=https://web.archive.org/web/20180731125722/https://people.com/tv/antonio-banderas-reveals-how-his-puss-in-boots-character-follows-him-everywhere/|archive-date=July 31, 2018|url-status=live|df=mdy-all}}</ref> Banderas said that his initial motivation to voice Puss was that he enjoyed the first ''Shrek'' film.<ref name=AXS>{{cite web|url=https://www.axs.com/news/puss-in-boots-interview-with-antonio-banderas-and-salma-hayek-100107|title='Puss in Boots' interview with Antonio Banderas and Salma Hayek|date=October 31, 2011|last=Lebowitz|first=Steven|website=[[AXS (company)|AXS]]|access-date=June 30, 2018|archive-url=https://web.archive.org/web/20180630141040/https://www.axs.com/news/puss-in-boots-interview-with-antonio-banderas-and-salma-hayek-100107|archive-date=June 30, 2018|url-status=dead|df=mdy-all}}</ref> According to the actor, he was chosen for the role of Puss because of his Spanish accent.<ref name=TheNewYorkTimes>{{cite web|url=https://mobile.nytimes.com/2010/05/16/movies/16shrek.html|title=He's Big, He's Green, and He's Gone|date=May 14, 2010|last=Itzkoff|first=Dave|newspaper=[[The New York Times]]|access-date=June 30, 2018|archive-url=https://web.archive.org/web/20180630140537/https://mobile.nytimes.com/2010/05/16/movies/16shrek.html|archive-date=June 30, 2018|url-status=dead|df=mdy-all|author-link=Dave Itzkoff}}</ref> According to Banderas, he was on [[Broadway theatre|Broadway]] for the musical ''[[Nine (musical)|Nine]]'' when Katzenberg approached him about taking the role.<ref name=ETCanada>{{cite web|url=https://etcanada.com/news/532979/antonio-banderas-talks-being-pursued-by-madonna-and-teases-new-puss-in-boots-movie/|title=Antonio Banderas Talks Being Pursued By Madonna And Teases New 'Puss In Boots' Movie|date=October 31, 2019|last=Atad|first=Corey|website=[[Entertainment Tonight Canada|ET Canada]]|access-date=November 7, 2019|archive-url=https://web.archive.org/web/20191107163313/https://etcanada.com/news/532979/antonio-banderas-talks-being-pursued-by-madonna-and-teases-new-puss-in-boots-movie/|archive-date=November 7, 2019|url-status=dead|df=mdy-all}}</ref> The ''Shrek 2'' filmmakers showed him "a lot of paintings of the character", and he realized how "little" Puss was.<ref name=EntertainmentWeekly>{{cite web|url=http://ew.com/movies/2018/06/07/puss-in-boots-different-voice-antonio-banderas/|title=Antonio Banderas on how Shrek's Puss in Boots almost sounded different|date=June 7, 2018|last=Lenker|first=Maureen Lee|magazine=[[Entertainment Weekly]]|access-date=July 31, 2018|archive-url=https://web.archive.org/web/20180731110059/http://ew.com/movies/2018/06/07/puss-in-boots-different-voice-antonio-banderas/|archive-date=July 31, 2018|url-status=dead|df=mdy-all}}</ref> Banderas said that he had developed a strategy for playing Puss after accepting the role, which had determined Puss's personality.<ref name=IndieLondon2>{{cite web|url=http://www.indielondon.co.uk/Film-Review/puss-in-boots-antonio-banderas-interview|title=Puss in Boots – Antonio Banderas interview|last=Carnevale|first=Rob|website=IndieLondon|access-date=July 2, 2018|archive-url=https://web.archive.org/web/20180702140756/http://www.indielondon.co.uk/Film-Review/puss-in-boots-antonio-banderas-interview|archive-date=July 2, 2018|url-status=dead|df=mdy-all}}</ref>
+
+==Soundtrack==
+{{Main|Shrek 2 (soundtrack){{!}}''Shrek 2'' (soundtrack)|Shrek 2 (score){{!}}''Shrek 2'' (score)}}
+
+The soundtrack for ''Shrek 2'' was composed solely by [[Harry Gregson-Williams]], who returned after composing the score for the first ''Shrek'' film, marking it as his fifth film with DreamWorks Animation.<ref name="George Luca's Blockbusting"/> The soundtrack reached the 8th position on the US [[Billboard 200|''Billboard'' 200]] and 1st on the US [[Top Soundtracks|Soundtracks]] (''[[Billboard (magazine)|Billboard]]'').<ref>{{Cite magazine|title=Billboard - Music Charts, News, Photos & Video|url=https://www.billboard.com/|access-date=2021-06-08|magazine=Billboard|language=en|archive-date=June 8, 2019|archive-url=https://web.archive.org/web/20190608025554/https://www.billboard.com/|url-status=live}}</ref> It also features two versions of the 1980s [[Bonnie Tyler]] hit "[[Holding Out for a Hero]]".
+
+==Release==
+In April 2004, the film was selected to compete for the [[Palme d'Or]] at the [[2004 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/4201783/year/2004.html |title=Shrek 2 |access-date=November 30, 2009 |work=Festival de Cannes |archive-url=https://web.archive.org/web/20131221012059/http://www.festival-cannes.com/en/archives/ficheFilm/id/4201783/year/2004.html |archive-date=December 21, 2013|url-status=dead}}</ref>
+
+''Shrek 2'' was originally scheduled for release on June 18, 2004.<ref>{{cite web |title=Shrek 2 |url=http://www.shrek2.com/ |publisher=DreamWorks Animation |access-date=March 31, 2014 |archive-url=https://web.archive.org/web/20030618105734/http://www.shrek2.com/ |archive-date=June 18, 2003 |date=June 18, 2003|url-status=dead}}</ref> The film was then moved forward from June 18, 2004, to May 21, 2004; however, due to "fan demand", it was moved up two days from May 21, 2004, to May 19, 2004.<ref>{{cite web |last=DeMott |first=Rick |title=Shrek 2 Moved Up Two Days to the 19th |url=http://www.awn.com/news/shrek-2-moved-two-days-19th |publisher=Animation World Network |access-date=March 31, 2014 |date=May 5, 2004 |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407081941/http://www.awn.com/news/shrek-2-moved-two-days-19th|url-status=dead}}</ref> A day before the film went to theaters, the first five minutes were shown on [[Nickelodeon]]'s ''[[U-Pick Live]]''.<ref>{{cite web |last=DeMott |first=Rick |title=First 5 Minutes of Shrek 2 To Air on Nick |date=May 7, 2004 |url=http://www.awn.com/news/first-5-minutes-shrek-2-air-nick |publisher=Animation World Network |access-date=March 31, 2014 |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407081954/http://www.awn.com/news/first-5-minutes-shrek-2-air-nick|url-status=dead}}</ref>
+
+Playing in 4,163 theaters over its first weekend in the United States, ''Shrek 2'' was the first film with over 4,000 theaters in overall count, surpassing ''[[X2 (film)|X2]]'' for having the widest release of any film.<ref>{{cite web|url=https://www.spokesman.com/stories/2004/may/25/shrek-2-no-1-at-weekend-box-office/|title='Shrek 2' No. 1 at weekend box office|date=May 25, 2004 |access-date=April 21, 2022|archive-date=December 7, 2021|archive-url=https://web.archive.org/web/20211207054045/https://www.spokesman.com/stories/2004/may/25/shrek-2-no-1-at-weekend-box-office/|url-status=live}}</ref> The film would hold the record for having the biggest number of theaters for three years until 2007 when ''[[Spider-Man 3]]'' took it.<ref>{{cite news|url=https://www.nytimes.com/2007/05/06/arts/06iht-spider.4.5587906.html|title='Spider-Man 3' smashes box-office records|newspaper=The New York Times|date=May 7, 2007}}</ref> Over 3,700 theaters was its count for an opening day.<ref>{{cite web |title=News, May 21: "Shrek 2" Hits Record Number of Theaters, Vincent Gallo's "Bunny" Comes to U.S., Online Bets Taken on Celeb Poker Players, More... |url=http://www.hollywood.com/news/brief/1753696/news-may-21-shrek-2-hits-record-number-of-theaters-vincent-gallo-s-bunny-comes-to-u-s-online-bets-taken-on-celeb-poker-players-more |publisher=Hollywood.com |access-date=March 31, 2014 |date=May 11, 2009 |archive-date=March 31, 2014 |archive-url=https://web.archive.org/web/20140331133624/http://www.hollywood.com/news/brief/1753696/news-may-21-shrek-2-hits-record-number-of-theaters-vincent-gallo-s-bunny-comes-to-u-s-online-bets-taken-on-celeb-poker-players-more|url-status=dead}}</ref>
+
+The film was theatrically re-released in the United States for one week beginning on April 12, 2024, in celebration of its twentieth anniversary.<ref>{{cite web | title='Shrek 2' Is Returning to Theaters for Its 20th Anniversary |url=https://collider.com/shrek-2-theatrical-rerelease/ |first=Diego |last=Peralta |publisher=[[Collider (website)|Collider]] |date=March 13, 2024 |access-date=March 13, 2024 |archive-url=https://web.archive.org/web/20240313204754/https://collider.com/shrek-2-theatrical-rerelease/ |archive-date=March 13, 2024}}</ref>
+
+===Home media===
+''Shrek 2'' was released on [[VHS]] and [[DVD]] on November 5, 2004,<ref name=DVDVHS>{{cite news |title=Shrek 2, the Record Shattering $439 Million Box Office Smash Premieres on DVD and VHS Friday, November 5 |url=http://www.prnewswire.com/news-releases/shrek-2-the-record-shattering-439-million-box-office-smash-premieres-on-dvd-and-vhs-friday-november-5-74152902.html |date=October 7, 2004 |access-date=April 16, 2012 |newspaper=PR Newswire |archive-url=https://web.archive.org/web/20130603170304/http://www.prnewswire.com/news-releases/shrek-2-the-record-shattering-439-million-box-office-smash-premieres-on-dvd-and-vhs-friday-november-5-74152902.html |archive-date=June 3, 2013|url-status=dead}}</ref><ref>{{cite web |first=Jessica |last=Wolf |url=http://www.hive4media.com/news/html/breaking_article.cfm?article_id=6700 |archive-url=https://web.archive.org/web/20050307132935/http://www.hive4media.com/news/html/breaking_article.cfm?article_id=6700 |title=DreamWorks' Shrek 2 Swamped With Extras |website=[[hive4media.com]] |archive-date=March 7, 2005 |date=October 7, 2004 |access-date=September 29, 2019|url-status=live}}</ref> releasing on the same day as [[Pixar]]'s ''The Incredibles'', and on [[Game Boy Advance Video]] on November 17, 2005.<ref>{{cite web |title=GBA Video: Shrek 2 |url=https://www.ign.com/games/gba-video-shrek-2/gba-753341 |access-date=April 16, 2012 |publisher=IGN |archive-url=https://web.archive.org/web/20140407120506/http://www.ign.com/games/gba-video-shrek-2/gba-753341 |archive-date=April 7, 2014|url-status=dead}}</ref> It became one of the best-selling DVD releases of all time with over 37 million copies being sold grossing $458 million.<ref>{{Cite web|url=https://movieweb.com/shrek-2-takes-the-title-of-best-selling-dvd-of-the-year/|title=Shrek 2 takes the title of 'Best Selling DVD of the Year'|first=Brian|last=B|date=January 4, 2005|website=MovieWeb|accessdate=December 18, 2022}}</ref> However, 5 million more copies were printed than sold, causing DreamWorks to miss their forecasted first quarter earnings that year by 25%.<ref>{{Cite web |title=Pixar warning: a blip or a sign of trouble for DVD market? - Jul. 1, 2005 |url=https://money.cnn.com/2005/07/01/technology/dvds/index.htm |archive-url=https://web.archive.org/web/20050703015236/http://money.cnn.com/2005/07/01/technology/dvds/index.htm |url-status=dead |archive-date=July 3, 2005 |access-date=2025-04-20 |website=money.cnn.com}}</ref>
+
+In February 2006, [[Paramount Pictures]] acquired the rights to all live-action films DreamWorks had released between 1997 and 2005, following [[Viacom (1952–2005)|Viacom]]'s $1.6 billion acquisition of the company's live-action film assets and television assets.<ref>{{Cite web|url=https://www.abc.net.au/news/2006-02-02/paramount-dreamworks-deal-finalised/790778|title=Paramount-Dreamworks deal finalised|date=February 2, 2006|via=www.abc.net.au}}</ref><ref>{{Cite web|url=https://dealbook.nytimes.com/2006/03/17/viacoms-paramount-set-to-sell-dreamworks-films/|title=Paramount Sells DreamWorks Library|date=March 17, 2006|website=DealBook}}</ref> Additionally, Paramount signed a six-year distribution agreement for past and future [[DreamWorks Animation]] films, with DreamWorks Animation having spun off into a separate company from the live-action division in 2004.<ref name="labus">{{Cite web|url=https://labusinessjournal.com/news/dreamworks-animation-paramount-start-distribution/|title=DreamWorks Animation, Paramount Start Distribution Deal|date=January 31, 2006}}</ref><ref>{{Cite web|url=http://www.paramount.com/studio/library/complete-library|archive-url=https://web.archive.org/web/20120222052623/http://www.paramount.com/studio/library/complete-library|url-status=dead|archive-date=2012-02-22|title=Complete Library &#124; Theatrical Library &#124; Paramount Pictures|website=www.paramount.com}}</ref><ref name="dreamworks2012">{{Cite web|url=https://www.sec.gov/Archives/edgar/data/1297401/000129740113000005/dwa-12312012x10xk.htm|title=DWA-12.31.2012-10-K|website=www.sec.gov}}</ref> On August 16, 2010, [[Paramount Home Entertainment]] released a 10 film box set titled the "DreamWorks Animation Ultimate Box Set", which included ''[[Shrek]]'', ''Shrek 2'', ''[[Shrek the Third]]'' and 7 other DreamWorks Animation films.<ref>{{Cite web|url=https://www.blu-ray.com/dvd/DreamWorks-Animation-Ultimate-Collection-DVD/199627/|title=DreamWorks Animation Ultimate Collection DVD (10 Film Limited Edition Box Set) (United Kingdom)|via=www.blu-ray.com}}</ref> A 3D-converted version of the film was released exclusively with select Samsung television sets on [[Blu-ray]] on December 1, 2010, along with the other three films of the series.<ref>{{cite web |title=Shrek: The Complete Collection 3D Blu-ray |url=http://www.blu-ray.com/movies/Shrek-The-Complete-Collection-3D-Blu-ray/10433/ |publisher=[[Blu-ray Disc|Blu-ray]] |access-date=August 6, 2012 |archive-url=https://web.archive.org/web/20140407063217/http://www.blu-ray.com/movies/Shrek-The-Complete-Collection-3D-Blu-ray/10433/ |archive-date=April 7, 2014|url-status=dead}}</ref> A non-3D version was released on December 7, 2010, as part of the ''Shrek: The Whole Story'' box set,<ref>{{cite news |title=For The First Time Ever, All Four Films From The Biggest Animated Film Franchise in History Arrive Together on BLU-RAY Disc Including The Celebrated Final Chapter, Shrek Forever After |date=November 16, 2010 |access-date=August 6, 2012 |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=540729 |newspaper=DreamWorks Animation |archive-date=February 1, 2014 |archive-url=https://web.archive.org/web/20140201152815/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=540729|url-status=dead}}</ref> and a stand-alone Blu-ray/DVD combo pack was released individually on August 30, 2011, along with the other two films of the series.<ref>{{cite web |title=Shrek 2 Blu-ray |url=http://www.blu-ray.com/movies/Shrek-2-Blu-ray/8879/ |publisher=Blu-ray |access-date=August 6, 2012 |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407063215/http://www.blu-ray.com/movies/Shrek-2-Blu-ray/8879/|url-status=dead}}</ref> A stand-alone 3D Blu-ray version of the film was released on November 1, 2011.<ref>{{cite web |title=Shrek 2 3D Blu-ray |url=http://www.blu-ray.com/movies/Shrek-2-3D-Blu-ray/32707/ |publisher=Blu-ray |access-date=August 6, 2012 |archive-url=https://web.archive.org/web/20140407063017/http://www.blu-ray.com/movies/Shrek-2-3D-Blu-ray/32707/ |archive-date=April 7, 2014|url-status=dead}}</ref> The DVD release features two full-length commentary tracks, one by co-directors [[Conrad Vernon]] and [[Kelly Asbury]], and he other by producer [[Aron Warner]] and editor Michael Andrews.
+
+On December 31, 2012, DreamWorks Animation's distribution agreement with Paramount officially ended,<ref name="labus"/><ref name="dreamworks2012"/> and in July 2014, DreamWorks Animation announced they had reacquired the distribution rights to all of their films from Paramount, transferring these rights to their new distribution partner [[20th Century Fox]].<ref name="auto"/> On April 28, 2016, DreamWorks Animation was purchased by [[Comcast]] subsidiary [[NBCUniversal]] for $3.8 billion.<ref>{{Cite web |date=28 April 2016 |title=NBCUniversal Announces DreamWorks Animation Acquisition |url=https://corporate.comcast.com/news-information/news-feed/nbcuniversal-announces-dreamworks-animation-acquisition |access-date=8 June 2026 |website=[[Comcast]]}}</ref><ref>{{Cite web |title=FAQs about NBCUniversal’s Acquisition of Dreamworks Animation |url=https://www.sec.gov/Archives/edgar/data/1166691/000095010316012873/dp65282_ex9902.htm |access-date=2026-06-08 |website=sec.gov}}</ref> ''Shrek 2'' was released on [[Ultra HD Blu-ray]] on November 22, 2022, by [[Universal Pictures Home Entertainment]].<ref>{{Cite web|url=https://www.dvdsreleasedates.com/movies/2047/Shrek-2-(2004).html|title=Shrek 2 DVD Release Date November 5, 2004|website=DVDs Release Dates|accessdate=December 18, 2022}}</ref>
+
+====''Far Far Away Idol''====
+{{see also|List of songs featured in Shrek#Songs from Far Far Away Idol|l1=List of songs featured in ''Far Far Away Idol''}}
+''Far Far Away Idol'' is a special feature on the DVD and VHS release based on ''[[American Idol]]'' and guest starring [[Simon Cowell]]. Taking place right after ''Shrek 2'' ends, the short features characters from ''Shrek'' compete in a sing-off while being judged by Shrek, Fiona, and Cowell.<ref name=DVDVHS/>
+
+After the performances, on the DVD release, the viewer gets to pick the winner. If any character besides Shrek, Fiona, Donkey, or Puss is selected, an alternate ending plays where Cowell would refuse to accept the winner and proclaim himself the victor, leaping onto the judging table and performing his "own" rendition of "[[My Way]]". At the end of the VHS release, it gives a link to a website where the viewer can vote for their favorite to determine the ultimate winner.<ref name=DVDVHS/> DreamWorks Animation announced on November 8, 2004, three days after the DVD and VHS release, that with 750,000 votes cast, the "winner" of the competition was Doris.<ref>{{cite news |title=In a Come From Behind Upset, an Ugly Step-Sister Becomes a Cinderella Story |url=http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=154865 |access-date=August 6, 2012 |newspaper=[[DreamWorks Animation]] |date=November 8, 2004 |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407062027/http://ir.dreamworksanimation.com/releasedetail.cfm?ReleaseID=154865|url-status=dead}}</ref>
+
+==Reception==
+
+===Box office===
+The film opened at No. 1 with a Friday-to-Sunday total of $108 million, and $129 million since its Wednesday launch, from a then-record 4,163 theaters, for an average of $25,952 per theater over the weekend. At the time ''Shrek 2''{{'}}s Friday-to-Sunday total was the second-highest opening weekend, only trailing ''[[Spider-Man (2002 film)|Spider-Man]]''{{'}}s $114.8 million. In addition, Saturday alone managed to obtain $44.8 million, making it the highest single-day gross at the time, beating ''Spider-Man''{{'}}s first Saturday gross of $43.6 million.<ref name="Boxofficemojo.com"/> The film remained at No. 1 in its second weekend, expanding to 4,223 theaters, and grossing another $95.6 million over the four-day Memorial Day weekend, narrowly beating out the $85.8 million four-day tally of new opener ''[[The Day After Tomorrow]]''. It spent ten weeks in the weekly Top 10, remaining there until July 29, and stayed in theaters for 149 days (roughly twenty-one weeks), closing on November 25, 2004. The film was released in the [[United Kingdom]] on July 2, 2004, and topped the country's box office for the next two weekends, before being dethroned by ''[[Spider-Man 2]]''.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/3847835.stm |title=Green carpet for Shrek 2 premiere |access-date=December 19, 2016 |date=June 29, 2004 |archive-date=June 18, 2021 |archive-url=https://web.archive.org/web/20210618133102/https://secure-uk.imrworldwide.com/v51.js |url-status=live }}</ref>
+
+The film grossed $439.8 million domestically (US and Canada) and $494 million in foreign markets for a total of $933.8 million worldwide,<ref>{{Cite web |title=Shrek 2 (2004) - Financial Information |url=https://www.the-numbers.com/movie/Shrek-2 |access-date=2025-06-02 |website=The Numbers}}</ref> making it the highest-grossing film of both 2004<ref>{{cite web |title=2004 Worldwide Grosses |url=https://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2004 |publisher=Box Office Mojo |access-date=September 12, 2014 |archive-date=September 12, 2014 |archive-url=https://web.archive.org/web/20140912163713/http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=2004 |url-status=live }}</ref> and in its franchise.<ref>{{cite web |title=Shrek |url=https://www.boxofficemojo.com/franchises/chart/?id=shrek.htm |publisher=Box Office Mojo |access-date=September 12, 2014 |archive-date=September 9, 2014 |archive-url=https://web.archive.org/web/20140909095321/http://boxofficemojo.com/franchises/chart/?id=shrek.htm |url-status=live }}</ref> This also puts the film at [[List of highest-grossing films in Canada and the United States|14th]] on the all-time domestic box office list<ref>{{cite web |title=Domestic Grosses |url=https://www.boxofficemojo.com/alltime/domestic.htm |publisher=Box Office Mojo |access-date=April 22, 2017|archive-url=https://web.archive.org/web/20081205064427/http://www.boxofficemojo.com/alltime/domestic.htm|archive-date=December 5, 2008|url-status=live}}</ref> and [[List of highest-grossing films|42nd]] on the worldwide box office list.<ref>{{cite web |title=Worldwide Grosses |url=https://boxofficemojo.com/alltime/world/ |publisher=Box Office Mojo |access-date=April 22, 2017|archive-url=https://web.archive.org/web/20010716094602/http://www.boxofficemojo.com/alltime/world/|archive-date=July 16, 2001|url-status=live}}</ref> The film sold an estimated 71,050,900 tickets in the US.<ref>{{cite web |title=Shrek 2 |url=https://www.boxofficemojo.com/movies/?id=shrek2.htm&adjust_yr=1&p=.htm |publisher=Box Office Mojo |access-date=May 30, 2016 |archive-date=August 4, 2016 |archive-url=https://web.archive.org/web/20160804121135/http://www.boxofficemojo.com/movies/?id=shrek2.htm&adjust_yr=1&p=.htm |url-status=live }}</ref>
+
+The film also took away the highest worldwide gross made by an animated feature, which was before held by ''[[Finding Nemo]]'' (2003),<ref>{{cite web |last1=Hayes |first1=Britt |title='Frozen' Is Now the Highest Grossing Animated Film of All Time, Obviously |url=https://screencrush.com/frozen-highest-grossing-animated-film-all-time/ |publisher=Screen Crush |access-date=September 12, 2014 |date=March 30, 2014 |archive-date=October 4, 2014 |archive-url=https://web.archive.org/web/20141004082740/http://screencrush.com/frozen-highest-grossing-animated-film-all-time/ |url-status=live }}</ref> although the latter still had a higher overseas-only gross.<ref>{{cite web |title=Finding Nemo |url=https://boxofficemojo.com/movies/?id=findingnemo.htm |publisher=Box Office Mojo |access-date=September 12, 2014|archive-url=https://web.archive.org/web/20120831031932/https://boxofficemojo.com/movies/?id=findingnemo.htm|archive-date=August 31, 2012|url-status=live}}</ref> With [[DVD]] sales and ''Shrek 2'' merchandise estimated to total almost $800&nbsp;million, the film (which was produced with a budget of $150&nbsp;million)<ref name="BOM">{{cite Box Office Mojo|title=Shrek 2|id=0298148|access-date=February 28, 2021|archive-url=https://web.archive.org/web/20210228140118/https://www.boxofficemojo.com/title/tt0298148/|archive-date=February 28, 2021|url-status=live}}</ref> is [[DreamWorks Pictures|DreamWorks]]' most profitable film to date.
+
+''Shrek 2'' remained the highest-grossing animated film worldwide until the release of ''[[Toy Story 3]]'' (2010),<ref name=EWTS3Highest>{{Cite magazine |last=Sperling |first=Nicole |date=August 13, 2010 |title=''Toy Story 3'' becomes highest-grossing animated flick of all time |url=https://ew.com/article/2010/08/13/toy-story-3-box-office-record/ |url-status=live |archive-url=https://web.archive.org/web/20170815030314/https://ew.com/article/2010/08/13/toy-story-3-box-office-record/ |archive-date=August 15, 2017 |access-date=December 24, 2022 |magazine=[[Entertainment Weekly]]}}</ref> and held the record for the highest-grossing animated film at the North American box office until the release of ''[[Finding Dory]]'' (2016)<ref>{{cite web |title=Animation |url=https://www.boxofficemojo.com/genres/chart/?id=animation.htm |publisher=Box Office Mojo |access-date=July 17, 2016|archive-url=https://web.archive.org/web/20190327102422/http://www.boxofficemojo.com/genres/chart/?id=animation.htm|archive-date=March 27, 2019|url-status=live}}</ref><ref>{{cite web |url=https://variety.com/2016/film/news/ghostbusters-box-office-1201816000/ |title=Box Office: 'Ghostbusters' Debuts to $46 Million, 'Secret Life of Pets' Tops Charts |date=July 17, 2016 |access-date=July 17, 2016 |archive-date=November 12, 2020 |archive-url=https://web.archive.org/web/20201112030744/https://variety.com/2016/film/news/ghostbusters-box-office-1201816000/ |url-status=live }}</ref> as well as the highest-grossing non-Disney animated film at this box office until the release of ''[[The Super Mario Bros. Movie]]'' in 2023. It also remained the highest-grossing non-Disney animated film worldwide until it was surpassed by ''[[Despicable Me 2]]'' in 2013. It also remained the highest-grossing non Disney or Universal animated film worldwide until it was surpassed by ''[[Ne Zha 2]]'' in 2025 after 21 years, a Chinese film. It however remains to this day the highest-grossing non Disney or Universal animated film made in United States.
+
+===Critical response {{anchor|Critics}}===
+''Shrek 2'' received positive reviews from critics.<ref>{{Cite news |last=Isidore |first=Chris |date=May 19, 2004 |title='Shrek 2' - can the ogre sell the stock? |url=https://money.cnn.com/2004/05/18/news/midcaps/dreamworks/index.htm |archive-url=https://web.archive.org/web/20040524133207/http://money.cnn.com/2004/05/18/news/midcaps/dreamworks/index.htm |url-status=dead |archive-date=May 24, 2004 |access-date=June 24, 2024 |work=[[CNN Money]] |quote="Shrek 2" opened Wednesday to widely positive reviews}}</ref> The film has an approval rating of {{RT data|score}} based on {{RT data|count}} professional reviews on the [[review aggregator]] website [[Rotten Tomatoes]], with an average rating of {{RT data|average}}. Its critical consensus reads, "It may not be as fresh as the original, but topical humor and colorful secondary characters make ''Shrek 2'' a winner in its own right."<ref>{{cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y}} |type=m |title=Shrek 2 |access-date={{RT data|access date}}}}{{RT data|edit}}{{cbignore}}</ref> [[Metacritic]] (which uses a weighted average) assigned ''Shrek 2'' a score of 75 out of 100 based on 40 critics, indicating "generally favorable reviews".<ref>{{cite Metacritic |id=shrek-2 |type=movie |title=Shrek 2 |access-date=February 18, 2021}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale.<ref>{{cite web |url=http://www.cinemascore.com |title=CinemaScore |website=[[CinemaScore]] |access-date=July 22, 2019|archive-url=https://web.archive.org/web/20150119025202/http://www.cinemascore.com/|archive-date=January 19, 2015|url-status=live}}</ref>
+
+[[Roger Ebert]] gave the film three out of four stars, saying it is "bright, lively, and entertaining",<ref>{{cite news |title=Shrek 2 |first=Roger |last=Ebert |author-link=Roger Ebert |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20040518/REVIEWS/405180302/1023 |newspaper=[[Chicago Sun-Times]] |date=May 18, 2004 |access-date=July 10, 2010 |archive-date=January 4, 2011 |archive-url=https://web.archive.org/web/20110104161848/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F20040518%2FREVIEWS%2F405180302%2F1023}}</ref> and Robert Denerstein of ''Denver Rocky Mountain News'' called it "sharply funny".<ref>{{cite news |title=Shrek 2 Movie Review |newspaper=[[Denver Rocky Mountain News]] |date=May 21, 2004 |author=Denerstein, Robert}}</ref> James Kendrick of ''QNetwork'' praised the plot, calling it "familiar, but funny".<ref>{{cite web |url=http://www.qnetwork.com/index.php?page=review&id=1306 |title=Shrek 2 Movie Review |publisher=QNetwork Entertainment Portal |access-date=December 20, 2011 |author=Kendrick, James |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407085304/http://www.qnetwork.com/index.php?page=review&id=1306|url-status=dead}}</ref> J. R. Jones of the ''[[Chicago Reader]]'' called it "unassailable family entertainment", and similar to the first film.<ref>{{cite web |url=http://www.chicagoreader.com/chicago/shrek-2/Film?oid=1052893 |title=Shrek 2 Movie Review |publisher=[[Chicago Reader]] |access-date=December 20, 2011 |author=Jones, J.R. |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407112107/http://www.chicagoreader.com/chicago/shrek-2/Film?oid=1052893|url-status=dead}}</ref> Michael O'Sullivan of ''[[The Washington Post]]'' called it "better and funnier than the original".<ref>{{cite news |url=https://www.washingtonpost.com/wp-dyn/articles/A42470-2004May20.html |last=O'Sullivan |first=Michael |title=Hilarious 'Shrek 2' Goes Hollywood |newspaper=[[The Washington Post]] |page=WE45 |date=May 21, 2004 |access-date=December 20, 2011 |archive-date=February 27, 2015 |archive-url=https://web.archive.org/web/20150227213638/http://www.washingtonpost.com/wp-dyn/articles/A42470-2004May20.html |url-status=live }}</ref>
+
+Though he wrote that it is not as good as the first film, Kevin Lally of ''[[Film Journal International]]'' described it as "inventive and often very funny".<ref>{{cite news |last=Lally |first=Kevin |title=SHREK 2 |url=http://www.filmjournal.com/filmjournal/esearch/article_display.jsp?vnu_content_id=1000695440 |access-date=March 24, 2012 |newspaper=[[Film Journal International]] |archive-date=December 5, 2013 |archive-url=https://web.archive.org/web/20131205195952/http://www.filmjournal.com/filmjournal/esearch/article_display.jsp?vnu_content_id=1000695440|url-status=dead}}</ref> Peter Rainer of ''[[New York (magazine)|New York]]'' magazine, however, stated the film "manages to undo much of what made its predecessor such a computer-generated joy ride."<ref>{{cite news |last=Rainer |first=Peter |title=Con Anima |date=May 21, 2005 |access-date=March 24, 2012 |newspaper=[[New York (magazine)|New York Magazine]] |url=https://nymag.com/nymetro/movies/reviews/n_10395/ |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407064406/http://nymag.com/nymetro/movies/reviews/n_10395/|url-status=dead}}</ref>
+
+Sean Naughton of ''[[Complex (magazine)|Complex]]'' described it as "one of the best-animated sequels ever".<ref>{{Cite web |last=Naughton |first=Sean |date=2022-03-17 |title=How 'Shrek 2' Managed to Top the Original |url=https://collider.com/why-shrek-2-better-than-original/ |access-date=2023-02-21 |website=Collider}}</ref>
+
+===Accolades {{anchor|Awards}}===
+''Shrek 2'' was nominated for the [[Palme d'Or]] at the [[2004 Cannes Film Festival]].<ref>{{cite news |last1=Tartaglione |first1=Nancy |title=A crowded field at Cannes |url=https://www.latimes.com/archives/la-xpm-2004-apr-22-wk-tartaglione22-story.html |access-date=August 19, 2016 |work=Los Angeles Times |date=April 22, 2004 |archive-date=August 29, 2016 |archive-url=https://web.archive.org/web/20160829013323/http://articles.latimes.com/2004/apr/22/news/wk-tartaglione22 |url-status=live }}</ref> It won five awards at the [[31st People's Choice Awards]]: ''Favorite Animated Movie'', ''Favorite Animated Movie Star'' for "Donkey" ([[Eddie Murphy]]), ''Favorite Movie Comedy'', and ''Favorite Movie Villain'' for "Fairy Godmother" ([[Jennifer Saunders]]), and ''Favorite Sequel''.<ref>{{cite magazine |last1=Susman |first1=Gary |title=''Shrek 2'' tops People's Choice nominees |url=https://www.ew.com/article/2004/12/06/shrek-2-tops-peoples-choice-nominees |access-date=August 19, 2016 |magazine=Entertainment Weekly |date=December 6, 2004 |archive-date=November 7, 2016 |archive-url=https://web.archive.org/web/20161107080729/http://www.ew.com/article/2004/12/06/shrek-2-tops-peoples-choice-nominees |url-status=live }}</ref> It also won a [[Teen Choice Award]] in the category of ''Choice Award Choice Movie&nbsp;– Comedy''.<ref>{{cite magazine |title=2004 Teen Choice Awards Winners |url=https://www.billboard.com/articles/news/67001/2004-teen-choice-awards-winners |access-date=August 19, 2016 |magazine=Billboard |date=August 9, 2004|archive-url=https://web.archive.org/web/20141004023755/https://www.billboard.com/articles/news/67001/2004-teen-choice-awards-winners|archive-date=October 4, 2014|url-status=live}}</ref> The film was nominated at the [[3rd Visual Effects Society Awards]] in the category of "Outstanding Performance by an Animated Character in an Animated Motion Picture."<ref>{{cite web |url=https://www.visualeffectssociety.com/ayear/3rd-annual-ves-awards |title=3rd Annual VES Awards |work=Visual Effects Society |access-date=December 19, 2017|archive-url=https://web.archive.org/web/20150722060105/https://www.visualeffectssociety.com/ayear/3rd-annual-ves-awards|archive-date=July 22, 2015|url-status=live}}</ref>
+
+Along with ''[[Shark Tale]]'', the film was nominated for the [[Academy Award for Best Animated Feature]], but lost to ''[[The Incredibles]]''.<ref name="LATSuperheroesOnTop">{{cite news |last1=Rosen |first1=Lisa |title=Superheroes on top of animation's world |url=https://www.latimes.com/archives/la-xpm-2005-jan-26-et-animation26-story.html |access-date=August 19, 2016 |work=Los Angeles Times |date=January 26, 2005 |archive-date=August 28, 2016 |archive-url=https://web.archive.org/web/20160828192501/http://articles.latimes.com/2005/jan/26/entertainment/et-animation26 |url-status=live }}</ref> One of the film's songs, "[[Accidentally in Love (song)|Accidentally in Love]]" received nominations for the [[Academy Award for Best Original Song]],<ref name="LATSuperheroesOnTop" /> [[Golden Globe Award for Best Original Song]],<ref>{{cite magazine |last1=Susman |first1=Gary |title=Here are the Golden Globe nominations |url=https://www.ew.com/article/2005/01/01/here-are-golden-globe-nominations |access-date=August 19, 2016 |magazine=Entertainment Weekly |date=January 1, 2005 |archive-date=November 7, 2016 |archive-url=https://web.archive.org/web/20161107082254/http://www.ew.com/article/2005/01/01/here-are-golden-globe-nominations |url-status=live }}</ref> and the [[Grammy Award for Best Song Written for a Motion Picture, Television or Other Visual Media]].<ref>{{cite news |title=Part II of the 47th annual Grammy Awards nominees |url=https://variety.com/2004/music/news/part-ii-of-the-47th-annual-grammy-awards-nominees-1117914559/ |access-date=August 19, 2016 |work=Variety |date=December 7, 2004 |archive-date=August 25, 2016 |archive-url=https://web.archive.org/web/20160825181135/http://variety.com/2004/music/news/part-ii-of-the-47th-annual-grammy-awards-nominees-1117914559/ |url-status=live }}</ref>
+
+In 2008, the [[American Film Institute]] nominated the film for its [[AFI's 10 Top 10|Top 10 Animation Films list]].<ref>{{cite web |url=http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781 |title=AFI's 10 Top 10 Official Ballot |format=PDF |date=2008 |access-date=August 19, 2016 |archive-url=https://web.archive.org/web/20110716071937/http://connect.afi.com/site/DocServer/10top10.pdf?docID=381&AddInterest=1781 |archive-date=July 16, 2011}}</ref>
+
+{| class="wikitable"
+! colspan="4" style="background: LightSteelBlue;" | Awards<ref>{{cite web |url=https://www.imdb.com/title/tt0298148/awards?ref_=tt_awd |title=Shrek 2 Awards |website=[[IMDb]] |format=PDF |date=2018 |access-date=July 7, 2018 |archive-url=https://web.archive.org/web/20140331090440/https://www.imdb.com/title/tt0298148/awards?ref_=tt_awd |archive-date=March 31, 2014}}</ref>
+|-
+! Award
+! Category
+! Name
+! Outcome
+|-
+| rowspan=2|[[77th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Animated Feature|Best Animated Feature]]
+| [[Andrew Adamson]]
+| {{Nom}}
+|-
+| [[Academy Award for Best Original Song|Best Original Song]]
+| "[[Accidentally in Love (song)|Accidentally in Love]]"
+| {{Nom}}
+|-
+|style="border-top:10px black" rowspan=5| [[Annie Awards]]<ref>{{cite web |title=32nd Annual Annie Nominations and Awards Recipients |url=http://annieawards.org/32nd-annie-awards |publisher=Annie Awards |access-date=September 8, 2014|archive-url=https://web.archive.org/web/20140214053223/http://annieawards.org/32nd-annie-awards|archive-date=February 14, 2014|url-status=live}}</ref>
+| [[Annie Awards#Individual achievement|Best Animated Feature]]
+| [[Andrew Adamson]]
+| {{Nom}}
+|-
+| [[Annie Awards#Individual achievement|Music in an Animated Feature Production]]
+| [[Harry Gregson-Williams]]
+| {{Nom}}
+|-
+| [[Annie Awards#Individual achievement|Best Storyboarding in an Animated Feature Production]]
+| [[Conrad Vernon]]
+| {{Nom}}
+|-
+| [[Annie Awards#Individual achievement|Voice Acting in an Animated Feature Production]]
+| [[Antonio Banderas]]
+| {{Nom}}
+|-
+| [[Annie Awards#Individual achievement|Best Writing in an Animated Feature Production]]
+| Andrew Adamson, Joe Stillman, J. David Stem, and David N. Weiss
+| {{Nom}}
+|-
+||Awards Circuit Community Awards
+| Best Animated Feature Film
+|
+| {{draw|Runner-up}}
+|-
+|rowspan="2"| [[BMI Film & TV Awards]]
+| BMI Film Music Award
+| Harry Gregson-Williams
+| {{Won}}
+|-
+| Most Performed Song from a Film
+| "Accidentally In Love"
+| {{Won}}
+|-
+| rowspan="2"| [[Critics' Choice Movie Awards|Broadcast Film Critics Association Award]]
+| Best Animated Feature
+|
+| {{Nom}}
+|-
+| [[Critics' Choice Movie Award for Best Song|Best Song]]
+| "Accidentally In Love"
+| {{Nom}}
+|-
+|| [[Cannes Film Festival]]
+| [[Palme d'Or]]
+| Andrew Adamson, [[Kelly Asbury]] & Conrad Vernon
+| {{Nom}}
+|-
+||[[Dallas–Fort Worth Film Critics Association]]
+| [[Dallas–Fort Worth Film Critics Association Award for Best Animated Film|Best Animated Film]]
+|
+| {{Nom}}
+|-
+| rowspan="2"|Gold Derby Awards
+| Best Animated Feature
+|
+| {{Nom}}
+|-
+| Best Original Song
+| [[Counting Crows]]
+| {{Nom}}
+|-
+| rowspan="3"|Golden Schmoes Awards
+| Most Overrated Movie of the Year
+|
+| {{Nom}}
+|-
+| Best Animated Movie of the Year
+|
+| {{Nom}}
+|-
+| Coolest Character of the Year (for "Puss in Boots")
+|
+| {{Nom}}
+|-
+||[[Golden Trailer Awards]]
+| Best Animation/Family (for "Ant Farm, The")
+|
+| {{Nom}}
+|-
+| rowspan="2"|[[47th Annual Grammy Awards|Grammy Awards]]
+| [[Grammy Award for Best Compilation Soundtrack for Visual Media|Best Compilation Soundtrack Album]]
+| Andrew Adamson, [[Christopher Douridas]] & Michael Ostin
+|{{Nom}}
+|- 
+| [[Grammy Award for Best Song Written for Visual Media|Best Song]]
+| David Bryson, [[Adam Duritz]], [[David Immerglück]], Matthew Malley & [[Dan Vickrey]] for "Accidentally In Love"
+| {{Nom}}
+|-
+||Hollywood Film Awards
+| Animation of the Year
+| Andrew Adamson, Kelly Asbury & Conrad Vernon
+| {{Won}}
+|-
+||[[International Film Music Critics Association]]
+| Best Original Score for a Comedy Film
+| Harry Gregson-Williams
+| {{Nom}}
+|-
+| rowspan="2"| International Online Cinema Awards
+| Best Animated Feature
+| Andrew Adamson, Kelly Asbury & Conrad Vernon
+| {{Nom}}
+|-
+| Best Original Song
+| "Accidentally In Love"
+| {{Nom}}
+|-
+||[[2nd Irish Film & Television Awards|Irish Film & Television Academy]]
+| Best International Actress
+| Cameron Diaz
+| {{Nom}}
+|-
+||Italian National Syndicate of Film Journalists
+| Best Foreign Director
+| Andrew Adamson, Kelly Asbury & Conrad Vernon
+| {{Nom}}
+|-
+| rowspan="2"|Italian Online Movie Awards
+| Best Animated Feature Film
+|
+| {{Won}}
+|-
+| Best Original Song
+| "Accidentally in Love"
+| {{Nom}}
+|-
+||[[Motion Picture Sound Editors]]
+| Best Sound Editing in Feature Film&nbsp;– Animated
+| Randy Thom, Dennis Leonard, Jonathan Null, Marilyn McCoppen, David C. Hughes, Scott Guitteau, J.R. Grubbs Ewa Sztompke, Larry Oatfield, [[Andre Fenley]] & Mark Jan Wlodarkiewicz
+| {{Nom}}
+|-
+|[[2005 MTV Movie Awards|MTV Movie & TV Awards]]
+| Best Comedic Performance
+| Antonio Banderas
+| {{Nom}}
+|-
+||[[MTV Movie Awards Mexico 2005|MTV Movie Awards, Mexico]]
+| Favorite Voice in an Animated Film
+| [[Eugenio Derbez]] as the voice of Donkey in Latin America
+| {{Won}}
+|-
+| rowspan="5" |[[2005 Kids' Choice Awards|Nickelodeon Kids' Choice Awards]]
+| Favorite Movie
+| 
+| {{Nom}}
+|-
+|Favorite Animated Film
+|
+| {{Nom}}
+|-
+|Favorite Voice From An Animated Movie
+| [[Mike Myers]]
+|{{nom}}
+|-
+|Favorite Voice From An Animated Movie
+| [[Eddie Murphy]]
+|{{nom}}
+|-
+|Favorite Voice From An Animated Movie
+| [[Cameron Diaz]]
+|{{nom}}
+|-
+| rowspan="2"|Online Film & Television Association
+| Best Animated Picture
+| [[Aron Warner]], David Lipman & [[John H. Williams (film producer)|John H. Williams]]
+|{{nom}}
+|-
+| Best Music, Original Song
+| [[Adam Duritz]], [[Charlie Gillingham|Charles Gillingham]], Jim Bogios, [[David Immerglück]], Matthew Malley, [[David Bryson]] & Daniel Vickers (for "Accidentally in Love")
+|{{nom}}
+|-
+||[[Online Film Critics Society]]
+| [[Online Film Critics Society Award for Best Animated Film|Best Animated Film]]
+|
+|{{nom}}
+|-
+|rowspan="6"|[[31st People's Choice Awards|People's Choice Awards]]
+| Favorite Movie Comedy
+|
+|{{Won}}
+|-
+| Favorite Sequel
+|
+|{{Won}}
+|-
+| Favorite Animated Movie
+|
+|{{Won}}
+|-
+| Favorite Animated Movie Star
+| Eddie Murphy
+|{{Won}}
+|-
+| Favorite Movie Villain
+| [[Jennifer Saunders]]
+|{{Won}}
+|-
+| Favorite Motion Picture
+|
+|{{Nom}}
+|-
+||Phoenix Film Critics Society Awards
+| Best Original Song
+| "Accidentally in Love"
+|{{Won}}
+|-
+||[[Russian National Movie Awards]]
+| Best Blockbuster Movie
+|
+|{{Won}}
+|-
+||[[Satellite Awards]]
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Motion Picture, Animated or Mixed Media]]
+| Andrew Adamson, Kelly Asbury, and Conrad Vernon
+|{{Nom}}
+|-
+||[[2005 Teen Choice Awards|Teen Choice Awards]]
+| Choice Movie: Animated/Computer Generated
+|
+|{{Won}}
+|-
+| rowspan="2" |[[2004 Teen Choice Awards|Teen Choice Awards]]
+| Choice Movie&nbsp;– Comedy
+|
+|{{Won}}
+|-
+| Choice Movie of the Summer
+|
+|{{Nom}}
+|-
+||[[Visual Effects Society Awards 2004|Visual Effects Society]]<ref>{{cite news |last1=McNary |first1=Dave |title=Spidey pic catches 6 f/x noms from VES |url=https://variety.com/2005/film/news/spidey-pic-catches-6-f-x-noms-from-ves-1117915969/ |access-date=September 8, 2014 |work=Variety |date=January 10, 2005 |archive-date=September 8, 2014 |archive-url=https://web.archive.org/web/20140908160058/http://variety.com/2005/film/news/spidey-pic-catches-6-f-x-noms-from-ves-1117915969/ |url-status=live }}</ref>
+| Outstanding Performance by an Animated Character in an Animated Motion Picture
+| Antonio Banderas<br />[[Raman Hui]]
+| {{Nom}}
+|-
+|rowspan="3"|[[World Soundtrack Awards]]
+| Soundtrack Composer of the Year
+| Harry Gregson-Williams
+|{{Nom}}
+|-
+| Best Original Soundtrack of the Year
+| Harry Gregson-Williams
+|{{Nom}}
+|-
+| Best Original Song Written for Film
+| Counting Crows
+|{{Nom}}
+|-
+||[[26th Young Artist Awards|Young Artist Awards]]
+| Best Family Feature Film&nbsp;– Animation
+|
+|{{Nom}}
+|}
+
+==Other media==
+
+===Video games===
+{{Main|List of Shrek (franchise) video games}}
+* [[Shrek 2 (video game)|''Shrek 2'']] (2004)
+* ''Shrek 2 Activity Center: Twisted Fairy Tale Fun'' (2004)<ref>{{cite web |title=Shrek 2 Activity Center: Twisted Fairy Tale Fun |url=https://www.ign.com/games/gba-video-shrek-2/pc-690451 |publisher=[[IGN]] |access-date=April 16, 2012 |archive-date=January 27, 2013 |archive-url=https://web.archive.org/web/20130127070235/http://www.ign.com/games/gba-video-shrek-2/pc-690451|url-status=dead}}</ref>
+* ''Shrek 2: Beg for Mercy'' (2004)<ref>{{cite web |title=Shrek 2: Beg for Mercy |access-date=April 16, 2012 |url=https://www.ign.com/games/shrek-2-beg-for-mercy/gba-699494 |publisher=IGN |archive-date=June 15, 2013 |archive-url=https://web.archive.org/web/20130615183439/http://www.ign.com/games/shrek-2-beg-for-mercy/gba-699494|url-status=dead}}</ref>
+* ''[[Shrek SuperSlam]]'' (2005)
+* ''[[Shrek Smash n' Crash Racing]]'' (2006)
+
+=== Novels ===
+''Shrek 2: The Movie Storybook'' was published by [[Scholastic Corporation|Scholastic]] in 2004.<ref name=":22">{{Cite book|last1=Mason|first1=Tom|url=https://books.google.com/books?id=7zVKHXoT8o0C|title=Shrek 2: The Movie Storybook|last2=Danko|first2=Dan|date=2004|publisher=Scholastic Incorporated|isbn=978-0-439-53849-7|language=en|access-date=June 12, 2021|archive-date=June 18, 2021|archive-url=https://web.archive.org/web/20210618133058/https://books.google.com/books?id=7zVKHXoT8o0C|url-status=live}}</ref> It was written by Tom Mason and Dan Danko and illustrated by Michael Koelsch.<ref name=":110">{{Cite book|last=Mason|first=Tom|url=http://archive.org/details/shrek2moviestory00maso|title=Shrek 2|date=2004|publisher=Scholastic Inc.|others=Internet Archive|isbn=978-0-439-53849-7}}</ref>
+
+==Sequels and spin-offs==
+{{main|Shrek (franchise){{!}}''Shrek'' (franchise)}}
+''Shrek 2'' was followed by two sequels; ''[[Shrek the Third]]'' was released on May 18, 2007, while ''[[Shrek Forever After]]'' was released on May 21, 2010. A fifth film, ''[[Shrek 5]]'', is in development, releasing on June 30, 2027.<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=2025-08-11 |title=‘Shrek 5’ Moves To Summer 2027, Untitled Illumination Event Pic Going Earlier |url=https://deadline.com/2025/08/shrek-5-release-date-1236483891/ |access-date=2025-08-11 |website=Deadline |language=en-US}}</ref>
+
+A [[Spin-off (media)|spin-off]] film ''[[Puss in Boots (2011 film)|Puss in Boots]]'' was released on October 28, 2011, and focuses on the character of [[Puss in Boots (Shrek)|Puss in Boots]], who was introduced in this film. On November 6, 2018, it was reported by [[Variety (magazine)|Variety]] that [[Chris Meledandri]] had been tasked to reboot both ''Shrek'' and ''Puss in Boots'', with the original cast potentially returning.<ref>{{Cite news |url=https://variety.com/2018/film/news/shrek-puss-in-boots-reboot-1203020785/ |title='Shrek,' 'Puss in Boots' Getting Rebooted (EXCLUSIVE) |author=<!--Staff writer(s); no by-line.-->|date=November 6, 2018 |work=Variety|access-date=November 6, 2018 |language=en-US|archive-url=https://web.archive.org/web/20181106210745/https://variety.com/2018/film/news/shrek-puss-in-boots-reboot-1203020785/|archive-date=November 6, 2018|url-status=live}}</ref><ref>{{cite web |title='Shrek' & 'Puss in Boots' Rebooting at Universal with Chris Meledandri |url=http://www.animationmagazine.net/features/shrek-puss-in-boots-rebooting-at-universal-with-chris-meledandri/ |website=Animation Magazine |access-date=November 6, 2018 |date=November 6, 2018|archive-url=https://web.archive.org/web/20181107010523/http://www.animationmagazine.net/features/shrek-puss-in-boots-rebooting-at-universal-with-chris-meledandri/|archive-date=November 7, 2018|url-status=live}}</ref> ''[[Puss in Boots: The Last Wish]]'' was released on December 21, 2022; it is a sequel rather than a reboot.
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+* {{webarchive|url=https://web.archive.org/web/20041231093316/http://www.shrek2.com|title=Official website|date=mdy}}
+* {{Official website|https://www.dreamworks.com/movies/shrek-2}} at DreamWorks
+* {{IMDb title|0298148}}
+
+{{Navboxes
+|title=''Shrek 2''
+|list1=
+{{Shrek}}
+{{DreamWorks animated films}}
+{{Andrew Adamson}}
+{{Kelly Asbury}}
+{{Conrad Vernon}}
+{{Teen Choice Award Choice Movie Comedy}}
+{{Yearly highest-grossing US films}}
+}}
+{{Authority control}}
+{{Subject bar|portal1=Cartoon|portal2=Animation|portal3=Film|portal4=United States|portal5=2000s|portal6=Speculative fiction|portal7=Fantasy|portal8=Comedy|commons=yes|q=yes|d=yes|d-search=Q485983}}
+
+{{DEFAULTSORT:Shrek 2}}
+[[Category:2004 films]]
+[[Category:2000s children's adventure films]]
+[[Category:2004 children's animated films]]
+[[Category:2004 children's comedy films]]
+[[Category:2004 children's fantasy films]]
+[[Category:2000s parody films]]
+[[Category:2004 adventure comedy films]]
+[[Category:2004 American animated films]]
+[[Category:2004 buddy comedy films]]
+[[Category:2004 computer-animated films]]
+[[Category:2004 English-language films]]
+[[Category:2004 fantasy adventure films]]
+[[Category:2004 fantasy comedy films]]
+[[Category:American adventure comedy films]]
+[[Category:American buddy comedy films]]
+[[Category:American children's animated comedy films]]
+[[Category:American children's animated fantasy films]]
+[[Category:American computer-animated films]]
+[[Category:American fantasy adventure films]]
+[[Category:American fantasy comedy films]]
+[[Category:American sequel films]]
+[[Category:Animated buddy films]]
+[[Category:Animated films about donkeys]]
+[[Category:Animated films about fairies]]
+[[Category:Animated films based on Puss in Boots]]
+[[Category:Animated films set in castles]]
+[[Category:Animated films set in the Middle Ages]]
+[[Category:English-language adventure comedy films]]
+[[Category:English-language buddy comedy films]]
+[[Category:English-language fantasy adventure films]]
+[[Category:English-language fantasy comedy films]]
+[[Category:DreamWorks Animation films]]
+[[Category:DreamWorks Pictures films]]
+[[Category:Fairy tale parody films]]
+[[Category:Films about curses]]
+[[Category:Films about shapeshifting]]
+[[Category:Films about potions]]
+[[Category:Films directed by Andrew Adamson]]
+[[Category:Films directed by Conrad Vernon]]
+[[Category:Films directed by Kelly Asbury]]
+[[Category:Films produced by Aron Warner]]
+[[Category:Films produced by John H. Williams]]
+[[Category:Films scored by Harry Gregson-Williams]]
+[[Category:Films with screenplays by Andrew Adamson]]
+[[Category:Films with screenplays by Joe Stillman]]
+[[Category:Films with screenplays by David N. Weiss]]
+[[Category:Teen Choice Award–winning films]]
+[[Category:Shrek (franchise) films]]
+[[Category:Works based on The Frog Prince]]

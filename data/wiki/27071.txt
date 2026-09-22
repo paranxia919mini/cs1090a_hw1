@@ -1,0 +1,858 @@
+{{Short description|American sci-fi TV series (1966–1969)}}
+{{Pp-move}}
+
+{{Use American English|date=October 2023}}
+{{Use mdy dates|date=October 2023}}
+{{Infobox television
+| alt_name             = ''Star Trek''
+| image                = Star Trek TOS logo.svg
+| caption              = 
+| genre                = {{Plainlist|
+* [[Action fiction|Action]]
+* [[Adventure fiction|Adventure]]
+* [[Science fiction on television|Science fiction]]
+}}
+| creator              = [[Gene Roddenberry]]
+| showrunner           = {{Plainlist|
+* Gene Roddenberry
+* [[Gene L. Coon]]
+* [[John Meredyth Lucas]]
+* [[Fred Freiberger]]
+}}
+| starring             = {{Plainlist|
+* [[William Shatner]]
+* [[Leonard Nimoy]]
+* [[DeForest Kelley]]
+}}
+| narrator             = 
+| theme_music_composer = [[Alexander Courage]]
+| open_theme           = "[[Theme from Star Trek|Theme from ''Star Trek'']]"
+| end_theme            = 
+| country              = United States
+| language             = English
+| num_seasons          = 3
+| num_episodes         = 79{{efn|This number does not include the original [[pilot episode]] "[[The Cage (Star Trek: The Original Series)|The Cage]]".}}
+| list_episodes        = List of Star Trek: The Original Series episodes
+| executive_producer   = Gene Roddenberry
+| producer             = {{Plainlist|
+* Gene L. Coon
+* John Meredyth Lucas
+* Fred Freiberger
+}}
+| camera               = 
+| runtime              = 51 minutes<ref>{{cite web |url=https://www.imdb.com/title/tt0060028 |title=Star Trek |date=September 6, 1966 |publisher=[[imdb.com]] |access-date=July 19, 2010 |archive-date=July 21, 2010 |archive-url=https://web.archive.org/web/20100721234026/http://www.imdb.com/title/tt0060028/ |url-status=live }}</ref>
+| company              = {{Plainlist|
+* [[Desilu Productions]]
+* [[Paramount Television]]
+* [[Norway Corporation|Norway Productions]]
+}}
+| budget               = ''Per episode:''<br />Season 1: $190,000{{efn|Equivalent to ${{Inflation|US|0.19|1966|r=1}}&nbsp;million in {{Inflation/year |US}}{{Inflation/fn|US}}}}<br />Season 2: $185,000<br />Season 3: $175,000
+| network              = [[NBC]]
+| first_aired          = {{Start date|1966|9|6}}
+| last_aired           = {{End date|1969|6|3}}
+| related              = {{Plainlist|
+* [[List of Star Trek television series|''Star Trek'' TV series]]
+* ''[[Star Trek: The Animated Series]]''
+* ''[[Star Trek: Strange New Worlds]]''
+}}
+}}
+
+'''''Star Trek''''' is an American [[science fiction on television|science fiction television series]] created by [[Gene Roddenberry]] that follows the adventures of the starship {{USS|Enterprise|NCC-1701}} and its crew. It acquired the [[retronym]] of '''''Star Trek: The Original Series''''' ('''''TOS'''''{{--)}} to distinguish the show within the [[Star Trek|media franchise that it began]].<ref name=tos>{{cite news|last=Strauss|first=Larry |url=https://www.newspapers.com/image/220272918/|title=Trekkers' paradise found on local TV|newspaper=News-Press|location=[[Fort Myers, Florida]]|page=E1|via=newspapers.com|date=September 3, 1998|access-date=September 5, 2019|url-access=subscription|quote=(Strauss:) ... thanks ... to the Sci-Fi Channel ... which brought the original series back to TV Tuesday night. Dubbed 'Star Trek: The Original Series', scenes that were cut from episodes that aired in syndication have been restored, and shows have been digitally remastered and color-corrected.|archive-date=September 5, 2019|archive-url=https://web.archive.org/web/20190905191359/https://www.newspapers.com/image/220272918/|url-status=live}}</ref>
+
+The show is set in the [[Milky Way|Milky Way galaxy]], {{circa}} 2266–2269. The ship and crew are led by Captain [[James T. Kirk]] ([[William Shatner]]), First Officer and Science Officer [[Spock]] ([[Leonard Nimoy]]) and Chief Medical Officer [[Leonard McCoy|Leonard H. "Bones" McCoy]] ([[DeForest Kelley]]). Each episode starts with the "[[Where no man has gone before]]" speech. 
+
+[[Norway Productions]] and [[Desilu Productions]] produced the series from September 1966 to December 1967. [[Paramount Television (original)|Paramount Television]] produced the show from January 1968 to June 1969. ''Star Trek'' aired on [[NBC]] from September 8, 1966, to June 3, 1969.<ref>{{cite web |url=http://www.epguides.com/startrek |title=Star Trek (a titles & telecast dates guide) |publisher=epguides.com |access-date=April 4, 2010 |archive-date=February 24, 2010 |archive-url=https://web.archive.org/web/20100224130539/http://epguides.com/StarTrek/ |url-status=live }}</ref> It was first broadcast on September 6, 1966, on Canada's [[CTV Television Network|CTV]] network.<ref>{{cite news |url=https://news.google.com/newspapers?id=zsQtAAAAIBAJ&pg=6744%2C868673 |title=Today's TV Previews |work=Montreal Gazette |date=September 6, 1966 |page=36 |access-date=September 8, 2016 |archive-date=April 8, 2017 |archive-url=https://web.archive.org/web/20170408020331/https://news.google.com/newspapers?id=zsQtAAAAIBAJ&sjid=zJ8FAAAAIBAJ&pg=6744%2C868673 |url-status=live }}</ref> While on NBC, ''Star Trek''{{'}}s [[Nielsen ratings]] were low and the network canceled it after three seasons and 79 episodes. In the [[United Kingdom]], the series was not broadcast until July 12, 1969, when it was shown on the [[BBC One]] television network, coinciding with the [[Apollo 11]] mission to land the first humans on the Moon.<ref>{{cite magazine |last=Williams |first=Michael |date=July 10, 1969 |title=Switching from fact to fiction... Star Trek – introducing a space series packed with pointers to our galaxy-trotting future |magazine=[[Radio Times]] |issue=2383 |location=London |publisher=British Broadcasting Corporation |page=32}} (See also listing at the [https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1969-07-12 BBC Genome Project] {{Webarchive|url=https://web.archive.org/web/20231217225234/https://genome.ch.bbc.co.uk/schedules/service_bbc_one_london/1969-07-12 |date=December 17, 2023 }}).</ref> Through [[broadcast syndication]], it became an international success in the 1970s, achieving [[cult following|cult classic]] status and a developing [[Cultural influence of Star Trek|influence on popular culture]]. ''Star Trek'' eventually spawned a [[media franchise]] consisting of 13 television series, 14 feature films, and numerous books, games, and toys, and is now widely considered one of the most popular and influential television series of all time.<ref name=Asherman>{{cite book |last=Asherman |first=Allan |title=The Star Trek Compendium |url=https://books.google.com/books?id=Jr-OAAAACAAJ |date=1981 |publisher=[[Simon & Schuster]] |location=New York |isbn=0-671-79145-1}}</ref>
+
+==Creation==
+On March 11, 1964, [[Gene Roddenberry]], a long-time fan of [[science fiction]], drafted a short [[Film treatment|treatment]] for a science-fiction television series that he called ''Star Trek''.<ref name=STPitch1>Roddenberry, Gene (March 11, 1964). [http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf ''Star Trek'' Pitch] {{Webarchive|url=https://web.archive.org/web/20160512162509/http://leethomson.myzen.co.uk/Star_Trek/1_Original_Series/Star_Trek_Pitch.pdf |date=May 12, 2016 }}, first draft. Accessed at ''LeeThomson.myzen.co.uk''.</ref> This was to be set on board a large [[starship]] named S.S. ''Yorktown'' in the 23rd century<ref>{{cite web |url=http://www.startrek.com/custom/include/feature/intro/timeline_future.html |title=STARTREK.COM: Universe Timeline |publisher=Startrek.com |access-date=July 14, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090703073608/http://www.startrek.com/custom/include/feature/intro/timeline_future.html |archive-date=July 3, 2009}}</ref><ref>{{cite book |title=Star Trek Chronology: The History of the Future |last1=Okuda |first1=Michael |author-link1=Michael Okuda |first2=Denise |last2=Okuda |author-link2=Denise Okuda |date=November 1, 1996 |publisher=Pocket Books |isbn=0-671-53610-9 }}</ref> bearing a crew dedicated to exploring the [[Milky Way]] [[galaxy]].
+
+Roddenberry noted a number of influences on his idea, some of which include [[A. E. van Vogt]]'s tales of the spaceship ''[[The Voyage of the Space Beagle|Space Beagle]]'', [[Eric Frank Russell]]'s ''Marathon'' series of stories, and the film ''[[Forbidden Planet]]'' (1956). Some have also drawn parallels with the television series ''[[Rocky Jones, Space Ranger]]'' (1954), a [[space opera]] that included many of the elements integral to ''Star Trek''—the organization, crew relationships, missions, part of the bridge layout, and some technology.<ref name=Asherman />{{rp|24}} Roddenberry also drew heavily from [[C. S. Forester]]'s [[Horatio Hornblower]] novels that depict a daring sea captain who exercises broad discretionary authority on distant sea missions of noble purpose. He often humorously referred to Captain Kirk as "Horatio Hornblower in Space".<ref name="whitfield1968">{{cite book |last1=Whitfield |first1=Stephen E. |last2=Roddenberry |first2=Gene |author-link2=Gene Roddenberry| year=1968 |title=The Making of Star Trek |url=https://archive.org/details/makingofstartrek00whit |url-access=registration |location=New York |publisher=Ballantine Books |oclc=23859 |isbn=0-345-31554-5}}</ref>
+
+Roddenberry had extensive experience in writing for [[western (genre)|series about the Old West]] that had been popular television fare in the 1950s and 1960s. Armed with this background, he characterized the new show in his first draft as "''[[Wagon Train]]'' to the stars".<ref name=STPitch1 /><ref name="25th">{{cite video |people=Beck, Donald R. (Director) |date=1991 |title=Star Trek: 25th Anniversary Special}}</ref> Like the familiar ''Wagon Train'', each episode was to be a self-contained adventure story, set within the structure of a continuing voyage through space.
+
+In Roddenberry's original concept, the protagonist was Captain [[Robert April]] of the starship S.S. ''Yorktown''. This character was developed into [[Christopher Pike (Star Trek)|Captain Christopher Pike]], first portrayed by [[Jeffrey Hunter]]. April is listed in the ''Star Trek Chronology'', ''[[The Star Trek Encyclopedia]]'', and at startrek.com as the ''Enterprise''{{'}}s first commanding officer, preceding Captain Pike.<ref name="Chrono">{{cite book |title=Star Trek Chronology: The History of the Future |publisher=Pocket Books |year=1996 |isbn=0-671-53610-9 |first1=Michael |last1=Okuda |author-link1=Michael Okuda |first2=Denise |last2=Okuda |author-link2=Denise Okuda}}</ref><ref name="Encyc">{{cite book |title=The Star Trek Encyclopedia |isbn=0671869051|title-link=The Star Trek Encyclopedia|last1=Okuda|first1=Michael|last2=Okuda|first2=Denise|author-link1=Michael Okuda | author-link2=Denise Okuda |last3=Mirek|first3=Debbie|year=1994|publisher=Pocket Books }}</ref><ref>{{cite web |url=http://www.startrek.com/startrek/view/library/ships/article/70377.html |title=Enterprise, U.S.S. |date=April 21, 2007 |access-date=October 16, 2017 |archive-date=July 12, 2010 |archive-url=https://web.archive.org/web/20100712191014/http://www.startrek.com/startrek/view/library/ships/article/70377.html |url-status=live }}</ref> The character's only television/movie appearance was in the ''[[Star Trek: The Animated Series]]'' episode "[[The Counter-Clock Incident]]",<ref name="CCI">{{cite episode |title=[[The Counter-Clock Incident]] |series=[[Star Trek: The Animated Series]] |season=2 |number=6 |date=October 12, 1974 |publisher=[[Paramount Television (original)|Paramount Television]] |network=[[NBC]]}}</ref> until ''[[Star Trek: Strange New Worlds]]'', where he is portrayed by [[Adrian Holmes]].
+
+[[Lloyd Bridges]] was offered a starring role on what became ''Star Trek''.<ref>Edward Gross and Mark A. Altman (2016). The Fifty-Year Mission: The Complete, Uncensored, Unauthorized Oral History of Star Trek: The First 25 Years. Thomas Dunne Books, ISBN 1250065844</ref> Bridges declined, saying he got along well with Roddenberry on a personal level but had no desire to work in science fiction.
+
+==Development==
+In April 1964, Roddenberry presented the ''Star Trek'' draft to Desilu Productions, a leading independent television production company.<ref name="startrekhistory.com">{{cite web |url=http://startrekhistory.com/cagepage.html |title=Star TrekHistory – Behind the Scenes |work=startrekhistory.com |access-date=February 12, 2015 |archive-date=February 17, 2015 |archive-url=https://web.archive.org/web/20150217072942/http://startrekhistory.com/cagepage.html |url-status=live }}</ref> He met with [[Herbert Franklin Solow|Herbert F. Solow]], Desilu's director of production. Solow saw promise in the idea and signed a three-year program-development contract with Roddenberry.<ref name="dartmouth.org">{{cite web |url=http://www.dartmouth.org/classes/53/archives/solow.php |title=Articles & Archives |work=dartmouth.org |access-date=February 12, 2015 |archive-date=February 18, 2014 |archive-url=https://web.archive.org/web/20140218103330/http://www.dartmouth.org/classes/53/archives/solow.php |url-status=live }}</ref> [[Lucille Ball]], head of Desilu, was not familiar with the nature of the project, but she was instrumental in getting the pilot produced.<ref name="buinessinsider">{{cite web |url=http://www.businessinsider.com/lucille-ball-is-the-reason-we-have-star-trek-heres-what-happened-2016-7 |date=July 8, 2016 |author=Meryl Gottlieb |title=Lucille Ball is the reason we have 'Star Trek' – here's what happened |work=Business Insider |access-date=January 4, 2017 |archive-date=January 10, 2017 |archive-url=https://web.archive.org/web/20170110223658/http://www.businessinsider.com/lucille-ball-is-the-reason-we-have-star-trek-heres-what-happened-2016-7 |url-status=live }}</ref>
+
+The concept was extensively revised and fleshed out during this time—"[[The Cage (Star Trek: The Original Series)|The Cage]]" pilot filmed in late 1964 differs in many respects from the March 1964 treatment. Solow, for example, added the "[[stardate]]" concept.<ref name="dartmouth.org"/> Desilu Productions had a [[first-look deal]] with [[CBS]].<ref name="memory-alpha.org">{{cite web |url=http://en.memory-alpha.org/wiki/Desilu |title=Desilu |work=Memory Alpha |access-date=February 12, 2015 |archive-date=March 3, 2015 |archive-url=https://web.archive.org/web/20150303041246/http://en.memory-alpha.org/wiki/Desilu |url-status=live }}</ref> Oscar Katz, Desilu's Vice President of Production, went with Roddenberry to pitch the series to the network.<ref name="memory-alpha.org1">{{cite web |url=http://en.memory-alpha.org/wiki/Herbert_F._Solow |title=Herbert F. Solow |work=Memory Alpha |access-date=February 12, 2015 |archive-date=January 29, 2015 |archive-url=https://web.archive.org/web/20150129045948/http://en.memory-alpha.org/wiki/Herbert_F._Solow |url-status=live }}</ref> They refused to purchase the show, as they already had a similar program in development, the 1965 [[Irwin Allen]] series ''[[Lost in Space]]''.<ref name="PearsonDavies2014">{{cite book |author1=Roberta Pearson |author2=Máire Messenger Davies |title=Star Trek and American Television |url=https://books.google.com/books?id=H_dYAwAAQBAJ&pg=PA21 |date=2014 |publisher=[[University of California Press]] |isbn=978-0-520-95920-0 |pages=21– |access-date=February 12, 2015 |archive-date=May 17, 2016 |archive-url=https://web.archive.org/web/20160517063901/https://books.google.com/books?id=H_dYAwAAQBAJ&pg=PA21 |url-status=live }}</ref>
+
+In May 1964, Solow, who had previously worked at [[NBC]], met with [[Grant Tinker]], then head of the network's West Coast programming department. Tinker commissioned the first pilot—which became "The Cage".<ref name="startrekhistory.com"/><ref>{{cite book |url=https://books.google.com/books?id=D243tpTRNnQC&q=grant+tinker+the+cage+1964&pg=PA17 |title=Star Trek |isbn=9780760343593 |last1=Greenberger |first1=Robert |date=2012 |publisher=Voyageur Press }}</ref> NBC turned down the resulting pilot, stating that it was "too cerebral".{{r|davies2007}} However, the NBC executives were still impressed with the concept, and they understood that its perceived faults had been partly due to the script that they had selected themselves.<ref name="whitfield1968" />
+
+NBC made the unusual decision to pay for a second pilot, using the script called "[[Where No Man Has Gone Before]]".{{r|davies2007}} Only the character of [[Spock]], played by [[Leonard Nimoy]], was retained from the first pilot, and only two cast members, [[Majel Barrett]] and Nimoy, were carried forward into the series. This second pilot proved to be satisfactory to NBC, and the network selected ''Star Trek'' to be in its upcoming television schedule for the fall of 1966.
+
+The second pilot introduced most of the other main [[List of Star Trek characters|characters]]: Captain Kirk ([[William Shatner]]), Chief Engineer Lt. Commander [[Montgomery Scott|Scott]] ([[James Doohan]]) and Lt. [[Hikaru Sulu|Sulu]] ([[George Takei]]), who served as a physicist on the ship in the second pilot, but subsequently became a helmsman throughout the rest of the series. [[Paul Fix]] played Dr. Mark Piper in the second pilot; ship's doctor [[Leonard McCoy]] ([[DeForest Kelley]]) joined the cast when filming began for the first season, and he remained for the rest of the series, achieving billing as the third star of the series. Also joining the ship's permanent crew during the first season were the communications officer, Lt. [[Nyota Uhura]] ([[Nichelle Nichols]]), the first African-American woman to hold such an important role in an American television series;<ref>{{cite web |url=https://www.huffingtonpost.com/2012/01/31/nichelle-nichols-star-trek-uhura_n_1244343.html |title=Nichelle Nichols on Having First Major Black Female TV Role And That First Interracial Kiss On 'Star Trek' |work=[[The Huffington Post]] |date=February 6, 2012 |access-date=August 11, 2012 |author=Spiegel, Lee |archive-date=July 31, 2012 |archive-url=https://web.archive.org/web/20120731084622/http://www.huffingtonpost.com/2012/01/31/nichelle-nichols-star-trek-uhura_n_1244343.html |url-status=live }}</ref> the captain's [[Yeoman (United States Navy)|yeoman]], [[Janice Rand]] ([[Grace Lee Whitney]]), who departed midway through the first season; and [[Christine Chapel]] (Majel Barrett), the ship's nurse and assistant to McCoy. [[Walter Koenig]] joined the cast as Ensign [[Pavel Chekov]] in the series' second season. Majel Barrett is also Gene Roddenberry's wife. She was the voice of the computer in Star Trek: The Next Generation, amogst other series. She also played Lwaxana Troi, mother of Next Gen's Deanna Troi (Marina Sirtis).
+
+In February 1966, before the first episode was aired, ''Star Trek'' was nearly canceled by Desilu Productions. Desilu had gone from making just one half-hour show (''[[The Lucy Show]]'') to deficit-financing a portion of two expensive hour-long shows, ''[[Mission: Impossible (1966 TV series)|Mission: Impossible]]'' and ''Star Trek''.<ref>[http://badassdigest.com/2013/09/08/how-lucille-ball-made-star-trek-happen/ "How Lucille Ball Made ''Star Trek'' Happen"] {{Webarchive|url=https://web.archive.org/web/20150315130539/http://badassdigest.com/2013/09/08/how-lucille-ball-made-star-trek-happen/ |date=March 15, 2015 }} (September 8, 2013). ''BadAssDigest.com'' (''Birth.Movies.Death'').</ref> Solow was able to convince Lucille Ball that both shows should continue.<ref name="memory-alpha.org"/>
+
+==Production==
+[[Image:STIn Beauty.jpg|thumb|The original [[Starship Enterprise|starship ''Enterprise'']]]]
+
+Once the series had been picked up by NBC, the production moved to what was then Desilu Productions' Gower Street location. It had previously been the main studio complex used by [[RKO Pictures]] and is now part of the [[Paramount Pictures]] lot. The series used what are now stages 31 and 32.<ref name="memory-alpha.org" /> The show's production staff included art director [[Matt Jefferies]], who designed the starship ''Enterprise'' and most of its interiors.<ref>{{cite web |url=http://en.memory-alpha.org/wiki/Matt_Jefferies |title=Matt Jefferies |work=Memory Alpha |access-date=February 12, 2015 |archive-date=February 18, 2015 |archive-url=https://web.archive.org/web/20150218015559/http://en.memory-alpha.org/wiki/Matt_Jefferies |url-status=live }}</ref> His contributions to the series were honored in the name of the "[[Jefferies tube]]", an equipment shaft depicted in various ''Star Trek'' series. In addition to working with his brother, John Jefferies, to create the hand-held phaser weapons of ''Star Trek'', Jefferies also developed the set design for the bridge of the ''Enterprise'' (which was based on an earlier design by [[Pato Guzman]]). Jefferies used his practical experience as an airman during [[World War II]] and his knowledge of aircraft design to devise a functional and [[Human factors and ergonomics|ergonomic]] bridge layout.<ref>{{Cite web |title=Walter Matt Jefferies - Official Website - Beyond the Clouds |url=https://www.mattjefferies.com/ |access-date=2024-08-30 |website=www.mattjefferies.com}}</ref>
+
+The costume designer for ''Star Trek'', [[William Ware Theiss|Bill Theiss]], created the look of the [[Star Trek uniforms|Starfleet uniforms]] for the ''Enterprise'' crew as well as the costumes for female guest stars and for various [[extraterrestrials|aliens]], including the [[Klingon]]s, [[Vulcan (Star Trek)|Vulcan]]s, [[Romulan]]s, [[Tellarite]]s, [[Andorian]]s, and Gideonites.{{citation needed|date=October 2023}}
+
+Artist and sculptor [[Wah Chang]], who had worked for [[Walt Disney Productions]], was hired to design and manufacture props: he created the flip-open communicator, often credited as having influenced the configuration of the portable version of the [[cellular telephone]].<ref name="WSFTF">{{cite book |author=William Shatner |author2=Chip Walter |author3=William Walters |title=I'm Working on That: A Trek From Science Fiction to Science Fact |url=https://books.google.com/books?id=5dVh1OBvwhgC |access-date=June 26, 2010 |year=2002 |publisher=Star Trek |isbn=978-0-671-04737-5}}</ref> Chang also designed the portable sensing-recording-computing "tricorder" device, and various fictitious devices for the starship's engineering crew and its sick bay. As the series progressed, he helped to create various memorable aliens, such as the [[Gorn (Star Trek)|Gorn]] and the [[Horta (Star Trek)|Horta]].
+
+===<span class="anchor" id="S1"></span><span class="anchor" id="Season1"></span><span class="anchor" id="Season 1"></span> Season 1 (1966–1967)===
+{{Main|Star Trek: The Original Series season 1}}
+[[File:TOSopeninglogo.png|thumb|left|Title used for the first season|border]]
+
+NBC ordered 16 episodes of ''Star Trek'', besides "Where No Man Has Gone Before".<ref name="davies2007">{{cite book |author-last=Davies |author-first=Máire Messenger |author2-last=Pearson | author2-first= Roberta |editor1=Hilmes, Michele |editor2=Henry, Michael Lowell |title=NBC: America's Network |chapter-url=https://books.google.com/books?id=lhmw637JRgUC&pg=PA209 |year=2007 |publisher=University of California Press |isbn=978-0-520-25079-6 |chapter=The Little Program That Could: The Relationship Between NBC and ''Star Trek'' |pages=212–222 |access-date=November 12, 2015 |archive-date=June 11, 2016 |archive-url=https://web.archive.org/web/20160611020828/https://books.google.com/books?id=lhmw637JRgUC&lpg=PP1&pg=PA209 |url-status=live }}</ref> The first regular episode of ''Star Trek'', "[[The Man Trap]]",<ref>{{cite web |url=https://www.imdb.com/title/tt0708469/ |title=The Man Trap |work=IMDb |date=September 8, 1966 |access-date=June 30, 2018 |archive-date=December 22, 2017 |archive-url=https://web.archive.org/web/20171222231751/http://www.imdb.com/title/tt0708469/ |url-status=live }}</ref> aired on Thursday, September 8, 1966, from 8:30 to 9:30 as part of an NBC "sneak preview" block. Reviews were mixed; while ''[[The Philadelphia Inquirer]]'' and ''[[San Francisco Chronicle]]'' liked the new show, ''[[The New York Times]]'' and ''[[The Boston Globe]]'' were less favorable,{{r|to20060901}} and ''[[Variety (magazine)|Variety]]'' predicted that it "won't work", calling it "an incredible and dreary mess of confusion and complexities".<ref name="millrod19960916">{{cite news |url=https://news.google.com/newspapers?id=fIgNAAAAIBAJ&pg=4322,132360 |title=The Trek Continues (? Illegible) |work=Pittsburgh Post-Gazette |date=September 16, 1996 |access-date=April 26, 2011 |author=Millrod, Jack |page=D1 |archive-date=May 8, 2016 |archive-url=https://web.archive.org/web/20160508080626/https://news.google.com/newspapers?id=fIgNAAAAIBAJ&sjid=kG8DAAAAIBAJ&pg=4322,132360 |url-status=live }}</ref> Debuting against mostly reruns, ''Star Trek'' easily won its time slot with a 40.6 share.<ref>"The numbers game, part one". ''Broadcasting''. September 19, 1966: 58–60.</ref> The following week against new programming, however, the show fell to second (29.4 share) behind CBS. It ranked 33rd (out of 94 programs) over the next two weeks, then the following two episodes ranked 51st in the ratings.<ref>Gowran, Clay. "Nielsen Ratings Are Dim on New Shows". ''[[Chicago Tribune]]''. October 11, 1966: B10.</ref><ref>Gould, Jack. "How Does Your Favorite Rate? Maybe Higher Than You Think". ''The New York Times''. October 16, 1966: 129.</ref>
+
+{{quote box
+| align = right
+| width = 25em
+| quote = I am an avid fan of ''Star Trek'', and would simply die if it was taken off the air. In my opinion it is the best show on television.
+| source = —M.P., Oswego, New York, February 20, 1967<ref name="tvkey19670220">{{cite news |url=https://news.google.com/newspapers?id=5glIAAAAIBAJ&pg=4615,5689397 |title=TV Key Mailbag |work=The Morning Record |date=February 20, 1967 |access-date=May 12, 2011 |author=Scheuer, Steven H. |location=Meriden, Connecticut |page=4A |archive-date=May 5, 2016 |archive-url=https://web.archive.org/web/20160505024113/https://news.google.com/newspapers?id=5glIAAAAIBAJ&sjid=UwANAAAAIBAJ&pg=4615,5689397 |url-status=live }}</ref>
+}}
+[[File:William Shatner Star Trek first episode 1966.JPG|thumb|upright|[[William Shatner]] as [[James T. Kirk|Captain James T. Kirk]] in action, from the episode "[[Where No Man Has Gone Before]]", 1966]]
+
+[[Frederik Pohl]], editor of ''[[Galaxy Science Fiction]]'', wrote in February 1967 of his amazement that ''Star Trek''{{'}}s "regular shows were just as good" as the early episodes that won an award at [[24th World Science Fiction Convention|Tricon]] in September. Believing that the show would soon be canceled because of low ratings, he lamented that it "made the mistake of appealing to a comparatively literate group", and urged readers to write letters to help save the show.<ref name="pohl196702">{{cite magazine |last=Pohl |first=Frederik |date=February 1967 |title=More About Being Bad |department=Editorial |url=https://archive.org/stream/Galaxy_v25n03_1967-02#page/n3/mode/2up |magazine=Galaxy Science Fiction |pages=4, 6 }}</ref> ''Star Trek''{{'}}s first-season ratings would in earlier years likely have caused NBC to cancel the show. The network had pioneered research into viewers' [[demographic profile]]s in the early 1960s, however, and by 1967, it and other networks increasingly considered such data when making decisions;{{r|pearson2011}}{{rp|115}} for example, CBS temporarily canceled ''[[Gunsmoke]]'' that year because it had too many older and too few younger viewers.{{r|to20060901}} Although Roddenberry later claimed that NBC was unaware of ''Star Trek''{{'}}s favorable demographics,<ref name="thomas19760525">{{cite news |url=https://news.google.com/newspapers?id=DaVDAAAAIBAJ&pg=2272,5465964 |title=Roddenberry would like to leave 'Star Trek' behind |agency=[[Associated Press]] |work=Williamson Daily News |date=May 25, 1976 |access-date=May 15, 2011 |author=Bob Thomas |location=Williamson, WV |page=14 |archive-date=December 22, 2015 |archive-url=https://web.archive.org/web/20151222215757/https://news.google.com/newspapers?id=DaVDAAAAIBAJ&sjid=4a4MAAAAIBAJ&pg=2272,5465964 |url-status=live }}</ref> awareness of ''Star Trek''{{'}}s "quality" audience is what likely caused the network to retain the show after the first and second seasons.<ref name="pearson2011">{{cite book |author=Pearson, Roberta |author2=Niki Strange |editor1=Bennett, James |editor2=Strange, Niki |title=Television as Digital Media |url=https://books.google.com/books?id=3cYJndq9K1IC |date= 2011 |publisher=Duke University Press |isbn=978-0-8223-4910-5 |pages=105–131 |chapter=Cult Television as Digital Television's Cutting Edge}}</ref>{{rp|115}} NBC instead decided to order 10 more new episodes for the first season, and order a second season in March 1967.{{r|davies2007}}<ref>"NBC fills final hole for 1967–68." ''Broadcasting''. March 6, 1967: 52.</ref> The network originally announced that the show would air at 7:30–8:30&nbsp;pm Tuesday, but it was instead given an 8:30–9:30&nbsp;pm Friday slot when the 1967–68 NBC schedule was released,<ref>Gent, George. "Alex Segal to Produce 3 Danny Thomas TV Shows." ''The New York Times''. March 15, 1967: 9.5.</ref> making it less appealing to young adult viewers.{{r|davies2007}}
+
+===<span class="anchor" id="S2"></span><span class="anchor" id="Season3"></span><span class="anchor" id="Season 4"></span> Season 2 (1967–1968)===
+{{Main|Star Trek: The Original Series season 2}}
+
+''Star Trek''{{'}}s ratings continued to decline during the second season. Although Shatner expected the show to end after two seasons and began to prepare for other projects,{{r|lowry19680329}} NBC nonetheless may have never seriously considered canceling the show.{{r|lowry19680117}}<ref name="to20060901">{{cite web |url=http://www.tvobscurities.com/articles/star_trek_look/ |title=Television Obscurities – A Look at Star Trek |publisher=Television Obscurities |date=September 1, 2006 |access-date=May 14, 2011 |archive-date=August 16, 2011 |archive-url=https://web.archive.org/web/20110816132833/http://www.tvobscurities.com/articles/star_trek_look/ |url-status=live }}</ref> As early as January 1968, the [[Associated Press]] reported that ''Star Trek''{{'}}s chances for renewal for a third season were "excellent". The show had better ratings for NBC than ABC's competing ''[[Hondo (TV series)|Hondo]]'', and the competing CBS programs (number-three ''[[Gomer Pyle, U.S.M.C.]]'' and the first half-hour of the number-12 ''CBS Friday Night Movie'') were in the top 15 in the Nielsen ratings.{{r|lowry19680117}}<ref name="nielsen19671968">{{cite web |url=http://ctva.biz/US/TV-Ratings/CTVA_NielsenRatings_1967-1968.htm |title=US TV Nielsen Ratings 1967–1968 |work=The Classic TV Archive |access-date=April 29, 2011 |archive-date=January 21, 2011 |archive-url=https://web.archive.org/web/20110121140919/http://ctva.biz/US/TV-Ratings/CTVA_NielsenRatings_1967-1968.htm |url-status=live }}</ref> Again, demographics helped ''Star Trek'' survive.{{r|pearson2011}}{{rp|116}} Contrary to popular belief among its fans, the show did not have a larger audience of young viewers than its competition while on NBC.{{r|to20060901}} The network's research did indicate that ''Star Trek'' had a "quality audience" including "upper-income, better-educated males", however, and other NBC shows had lower overall ratings.{{r|pearson2011}}{{rp|116}}<ref name="lowry19680117">{{cite news |url=https://news.google.com/newspapers?id=hIdjAAAAIBAJ&pg=7271,1556535 |agency=Associated Press |title=One Network Goes 'Unconventional' |work=[[Nashua Telegraph]] |date=January 17, 1968 |access-date=April 29, 2011 |author=Lowry, Cynthia |page=13 |archive-date=May 11, 2016 |archive-url=https://web.archive.org/web/20160511132808/https://news.google.com/newspapers?id=hIdjAAAAIBAJ&sjid=9nkNAAAAIBAJ&pg=7271,1556535 |url-status=live }}</ref>
+
+{{quote box|align=right|width=25em|quote=Look! Look! It doesn't stop! They're lined up all the way down the street!|source=—Norman Lunenfeld, NBC executive, on the mail trucks delivering ''Star Trek'' fans' letters{{r|poe1998}}}}
+
+The enthusiasm of ''Star Trek''{{'}}s viewers surprised NBC.{{r|to20060901}} The show was unusual in its serious discussion of contemporary societal issues in a futuristic context, unlike ''[[Lost in Space]]'', which was more [[Camp (style)|campy]] in nature.<ref name="conley19720416">{{cite news |url=https://news.google.com/newspapers?id=hrwqAAAAIBAJ&pg=6159,556852 |title=Day-To-Day Fare Can Help People Cope With Life |work=[[Sarasota Herald-Tribune]] |date=April 16, 1972 |access-date=May 4, 2011 |author=Conley, Rita |page=13 |archive-date=May 6, 2016 |archive-url=https://web.archive.org/web/20160506200734/https://news.google.com/newspapers?id=hrwqAAAAIBAJ&sjid=iWYEAAAAIBAJ&pg=6159,556852 |url-status=live }}</ref> The network had already received 29,000 fan letters for the show during its first season, more than for any other except ''[[The Monkees (TV series)|The Monkees]]''.{{r|davies2007}} When rumors spread in late 1967 that ''Star Trek'' was at risk of cancellation, Roddenberry secretly began and funded an effort by [[Bjo Trimble]], her husband John, and other fans to persuade tens of thousands of viewers to write letters of support to save the program.<ref name="poe1998">{{cite book |title=A Vision of the Future |publisher=Simon & Schuster |author=Poe, Stephen Edward |year=1998 |pages=138–139 |url=https://books.google.com/books?id=MiJTlrdSkpAC&pg=PA138 |isbn=0-671-53481-5 |access-date=July 14, 2017 |archive-date=June 23, 2020 |archive-url=https://web.archive.org/web/20200623092654/https://books.google.com/books?id=MiJTlrdSkpAC&lpg=PP1&pg=PA138 |url-status=live }}</ref><ref name="solow1997">{{cite book |last=Solow |first=Herbert F. |author2=Justman, Robert H. |title=Inside Star Trek: The Real Story |url=https://books.google.com/books?id=X2cBAAAACAAJ |date= 1997 |publisher=Simon & Schuster |isbn=0-671-00974-5}}</ref>{{rp|377–394}}<ref name="page19680815">{{cite news |url=https://news.google.com/newspapers?id=QPFOAAAAIBAJ&pg=7135,2042483 |title='Star Trek' Lives Despite Taboos |work=Toledo Blade |date=August 15, 1968 |access-date=April 29, 2011 |author=Page, Don |archive-date=May 12, 2016 |archive-url=https://web.archive.org/web/20160512185742/https://news.google.com/newspapers?id=QPFOAAAAIBAJ&sjid=nQEEAAAAIBAJ&pg=7135,2042483 |url-status=live }}</ref> Using the 4,000 names on a mailing list for a science-fiction convention, the Trimbles asked fans to write to NBC and ask 10 others to also do so.<ref name="michaud1986">{{cite book |title=Reaching for the high frontier: the American pro-space movement, 1972–84 |publisher=Praeger |author=Michaud, Michael A.G. |year=1986 |url=https://books.google.com/books?id=8oZTAAAAMAAJ |isbn=0-275-92150-6}}</ref>{{rp|128}} NBC received almost 116,000 letters for the show between December 1967 and March 1968, including more than 52,000 in February alone;<ref name="modbee19680414">{{cite news |url=https://www.newspapers.com/newspage/26178233/ |title=Letters For 'Star Trek' Hit 114,667 |work=The Modesto Bee |date=April 14, 1968 |access-date=December 9, 2014 |pages=26}}</ref><ref>"[https://pqasb.pqarchiver.com/courant/access/936607972.html?dids=936607972:936607972&FMT=CITE&FMTS=CITE:AI&type=historic&date=Mar+17%2C+1968&author=&pub=Hartford+Courant&desc=Star+Trekkers+Are+Restored&pqatl=google Star Trekkers Are Restored] {{Webarchive|url=https://web.archive.org/web/20120512050953/http://pqasb.pqarchiver.com/courant/access/936607972.html?dids=936607972:936607972&FMT=CITE&FMTS=CITE:AI&type=historic&date=Mar+17%2C+1968&author=&pub=Hartford+Courant&desc=Star+Trekkers+Are+Restored&pqatl=google |date=May 12, 2012 }}". ''[[Hartford Courant]]'' March 17, 1968. 12H.</ref>{{r|davies2007}} according to an NBC executive, the network received more than one million pieces of mail but only disclosed the 116,000 figure.{{r|poe1998}} Newspaper columnists encouraged readers to write letters to help save what one called "the best science-fiction show on the air".<ref name="scott19680207">{{cite news |url=https://news.google.com/newspapers?id=FgBSAAAAIBAJ&pg=4987,1126992 |title=Letters Can Save 'Star Trek' |work=The Press-Courier |agency=United Press International |date=February 7, 1968 |access-date=April 29, 2011 |author=Scott, Vernon |location=Oxnard, California |page=17 |archive-date=April 24, 2016 |archive-url=https://web.archive.org/web/20160424234619/https://news.google.com/newspapers?id=FgBSAAAAIBAJ&sjid=kjQNAAAAIBAJ&pg=4987,1126992 |url-status=live }}</ref> More than 200 [[Caltech]] students marched to NBC's [[Burbank, California]] studio to support ''Star Trek'' in January 1968, carrying signs such as "[[Conscription in the United States|Draft]] Spock" and "[[Black Power|Vulcan Power]]".<ref name="harrison20110425">{{cite web |url=http://framework.latimes.com/2011/04/25/star-trek-protest/ |title='Star Trek' protest |work=[[Los Angeles Times]] |date=April 25, 2011 |access-date=April 26, 2011 |author=Harrison, Scott |archive-date=May 25, 2011 |archive-url=https://web.archive.org/web/20110525130935/http://framework.latimes.com/2011/04/25/star-trek-protest/ |url-status=live }}</ref> [[University of California, Berkeley|Berkeley]] and [[MIT]] students organized similar protests in San Francisco and New York City.{{r|scott19680207}}[[File:Leonard Nimoy William Shatner Star Trek 1968.JPG|thumb|upright=0.75|[[Spock]], Kirk and the ''Enterprise'', 1968]]The letters supporting ''Star Trek'', whose authors included [[Governor of New York|New York State Governor]] [[Nelson Rockefeller]],{{r|svetkey19910927}} were different in both quantity and quality from most mail that television networks receive:
+
+{{blockquote|The show, according to the 6,000 letters it draws a week (more than any other in television), is watched by scientists, museum curators, psychiatrists, doctors, university professors, and other highbrows. The [[Smithsonian Institution]] asked for a print of the show for its archives, the only show so honored.{{r|scott19680207}}}}
+
+In addition:
+
+{{blockquote|Much of the mail came from doctors, scientists, teachers, and other professional people, and was for the most part literate–and written on good stationery. And if there is anything a network wants almost as much as a high Nielsen ratings, it is the prestige of a show that appeals to the upper middle class and high-brow audiences.<ref name="lowry19680329">{{cite news |last=Lowry |first=Cynthia |date=March 29, 1968 |title=TV Fans Save Space Ship Enterprise From Mothballs |url=https://news.google.com/newspapers?id=kSgsAAAAIBAJ&pg=821,4386600 |newspaper=[[TimesDaily|Florence Times – Tri-Cities Daily]] |location=Florence, AL |publisher=Tri-Cities Newspapers, Inc. |agency=Associated Press |page=15 |access-date=2013-11-03 |archive-date=March 11, 2016 |archive-url=https://web.archive.org/web/20160311235823/https://news.google.com/newspapers?id=kSgsAAAAIBAJ&sjid=jMYEAAAAIBAJ&pg=821,4386600 |url-status=live }}</ref>}}
+
+{{quote box|align=right|width=25em|quote=And now an announcement of interest to all viewers of ''Star Trek''. We are pleased to tell you that ''Star Trek'' will continue to be seen on NBC Television. We know you will be looking forward to seeing the weekly adventure in space on ''Star Trek''.|source=—NBC announcer, March 1, 1968{{r|modbee19680414}}{{r|svetkey19910927}}{{r|to20060901}}}}
+
+NBC—which used such anecdotes in much of its publicity for the show—made the unusual decision to announce on television, after the episode "[[The Omega Glory]]" on March 1, 1968, that the series had been renewed.{{r|pearson2011}}{{rp|116–117}}<ref name="svetkey19910927">{{cite magazine | url=https://ew.com/article/1991/09/27/enterprise-turns-25/ | title=The 'Enterprise' turns 25 | magazine=Entertainment Weekly | date=September 27, 1991 | access-date=May 14, 2011 | author=Svetkey, Benjamin | archive-date=November 19, 2011 | archive-url=https://web.archive.org/web/20111119155909/http://www.ew.com/ew/article/0,,315603,00.html | url-status=live }}</ref> The announcement implied a request to stop writing—NBC's policy of replying to each viewer mail meant that the campaign cost the network millions of dollars{{r|poe1998}}—but instead caused fans to send letters of thanks in similar numbers.<ref>David Gerrold, quoting Bjo Trimble, in ''The World of Star Trek'', Ballantine Books, 1973, p. 166.</ref>
+
+===<span class="anchor" id="S3"></span><span class="anchor" id="Season3"></span><span class="anchor" id="Season 3"></span> Season 3 (1968–1969)===
+{{Main|Star Trek: The Original Series season 3}}
+[[File:Star trek title letters.jpg|thumb|Intro of Season 3]]
+
+NBC at first planned to move ''Star Trek'' to Mondays for the show's third season, likely in hopes of increasing its audience after the enormous letter campaign that surprised the network.{{r|to20060901}} In March 1968, however, NBC instead moved the show to 10:00&nbsp;pm [[Friday night death slot|Friday night]], an hour undesirable for its younger audience,{{r|page19680815}}<ref name="lowry19690521">{{cite news | url=https://news.google.com/newspapers?id=SfJNAAAAIBAJ&pg=5818,2216392 | title=Why Some Shows Expired | work=The Free Lance-Star | date=May 21, 1969 | access-date=May 6, 2011 | author=Lowry, Cynthia | agency=Associated Press | location=Fredericksburg, Virginia | page=2 | archive-date=April 29, 2016 | archive-url=https://web.archive.org/web/20160429074410/https://news.google.com/newspapers?id=SfJNAAAAIBAJ&sjid=pYoDAAAAIBAJ&pg=5818,2216392 | url-status=live }}</ref> so as not to conflict with the highly successful ''[[Rowan & Martin's Laugh-In]]'' on Monday evenings,<ref>''"Laugh-In'' staying put." ''Broadcasting''. March 18, 1968: 9.</ref> from whose time slot ''Laugh-In'' producer [[George Schlatter]] had angrily demanded it not be rescheduled. In addition to the undesirable time slot, ''Star Trek'' was now being seen on only 181 of NBC's 210 affiliates.<ref>"Missing links in the TV chains." ''Broadcasting''. January 13, 1969: 48–52.</ref>
+
+Roddenberry was frustrated, and complained, "If the network wants to kill us, it couldn't make a better move."{{r|page19680815}} He attempted to persuade NBC to give ''Star Trek'' a better day and hour, but was not successful. As a result of this and his own growing exhaustion, he chose to withdraw from the stress of the daily production of ''Star Trek'', though he remained nominally in charge as its "executive producer".<ref>David Gerrold, ''The World of Star Trek'', Ballantine Books, 1973.</ref> Roddenberry reduced his direct involvement in ''Star Trek'' before the start of the 1968–69 television season, and was replaced by [[Fred Freiberger]] as the producer of the television series. [[Arthur H. Singer]] served as story editor. NBC next reduced ''Star Trek's'' budget from $185,000 per episode in season 2 (it was $190,000 per episode in season 1) to $175,000 per episode in season 3 (as the per-minute commercial price had dropped from $39,000 to $36,000 compared to the season-two time slot).<ref>"Fall line-ups go on the street." ''Broadcasting''. March 4, 1968: 23–28.</ref> This caused what some perceive as a decline in quality for the 1968–69 season, although there was a trade off in some lower production costs since the special effects technology had improved over time. By season 3 William Shatner felt that the main characters had become more compromised or exaggerated and the story lines more improbable.<ref>{{cite book |last=Shatner |first=William |title=Star Trek Memories |date=1993 |page=[https://archive.org/details/startrekmemories00shat/page/266 266]|title-link=Star Trek Memories }}</ref> Leonard Nimoy felt that financial concerns dominated.<ref>{{cite book |last=Nimoy |first=Leonard |title=I Am Spock |date=1995 |page=[https://archive.org/details/iamspock00nimo/page/120 120]|title-link=I Am Spock }}</ref> Associate Producer Bob Justman, who left during the third season, said budget cuts caused the crew to become necessarily limited in the type of filming that could be done, such as outdoor work,<ref>{{cite book |last=Shatner |first=William |title=Star Trek Memories |date=1993 |pages=[https://archive.org/details/startrekmemories00shat/page/290 290–293]|title-link=Star Trek Memories }}</ref> with only one episode, "The Paradise Syndrome", shot largely outdoors. Nichelle Nichols described the budget-cutting during the final year as an intentional effort to kill off ''Star Trek'':[[Image:Leonard Nimoy William Shatner Spock's Brain Star Trek 1968.JPG|thumb|right|"[[Spock's Brain]]" was the first episode of the third season.]]{{blockquote|While NBC paid lip service to expanding ''Star Trek''{{'s}} audience, it [now] slashed our production budget until it was actually 10% lower than it had been in our first season{{nbsp}}... This is why in the third season you saw fewer outdoor location shots, for example. Top writers, top guest stars, top anything you needed was harder to come by. Thus, ''Star Trek's'' demise became a self-fulfilling prophecy. And I can assure you, that is exactly as it was meant to be.<ref name="nichols1994">{{cite book |title=Beyond Uhura: Star Trek and Other Memories |publisher=G. P. Putnam's |author=Nichols, Nichelle |year=1994 |url=https://books.google.com/books?id=1HJZAAAAMAAJ |page=189 |isbn=0-399-13993-1 |access-date=November 12, 2015 |archive-date=May 8, 2016 |archive-url=https://web.archive.org/web/20160508235359/https://books.google.com/books?id=1HJZAAAAMAAJ |url-status=live }}</ref>}}
+
+The last day of filming for ''Star Trek'' was January 9, 1969,{{r|davies2007}} and after 79 episodes<ref name="ST7879">{{cite web |url=http://www.startrek.com/startrek/view/features/intro/article/7693.html |title=Star Trek |work=[[CBS Corporation|CBS Studios]] |publisher=Startrek.com |access-date=June 26, 2010 |archive-date=June 28, 2010 |archive-url=https://web.archive.org/web/20100628212803/http://www.startrek.com/startrek/view/features/intro/article/7693.html |url-status=live }} "''78 episodes (counting the two-part "The Menagerie" only once, and not counting the first commissioned pilot, "The Cage," which did not air during this time).''"</ref> NBC canceled the show in February despite fans' attempt at another letter-writing campaign.{{r|to20060901}} One newspaper columnist advised a protesting viewer:
+
+{{blockquote|You ''Star Trek'' fans have fought the "good fight", but the show has been cancelled and there's nothing to be done now.<ref name="tvscout19690718">{{cite news |url=https://news.google.com/newspapers?id=daM1AAAAIBAJ&pg=3957,5008799 |title=Ask TV Scout |work=The Palm Beach Post |date=July 18, 1969 |access-date=April 29, 2011 }}{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>}}
+
+In 2011, the decision to cancel ''Star Trek'' by NBC was ranked number four on the [[TV Guide Network]] special, ''25 Biggest TV Blunders 2''.<ref>{{cite episode |title=25 Biggest TV Blunders 2 |series=25 Biggest TV Blunders |network=TV Guide Network |airdate=July 31, 2011 |quote=#4 – NBC Cancels 'Star Trek' |language=en}}</ref>
+
+===Syndication===
+{{quote box|align=right|width=25em|quote=Surprisingly, one show no longer programmed by a network but syndicated to local television stations (''Star Trek'') sometimes appeared among the top-five favorites in areas where the show is carried.|source=—"Students rate television", 1971<ref name="co19710428">{{cite news |url=https://news.google.com/newspapers?id=SONFAAAAIBAJ&pg=5243%2C3819872 |title=Students rate television |work=Telegraph Herald |date=April 28, 1971 |access-date=May 12, 2011 |location=Dubuque, IA |pages=6 |archive-date=May 16, 2016 |archive-url=https://web.archive.org/web/20160516104919/https://news.google.com/newspapers?id=SONFAAAAIBAJ&sjid=iL0MAAAAIBAJ&pg=5243,3819872 |url-status=live }}</ref>}}
+
+Although some of the third season's episodes were considered of poorer quality, it gave ''Star Trek'' enough episodes for [[television syndication]].<ref name="teitelbaum19910505">{{cite news | url=https://www.latimes.com/archives/la-xpm-1991-05-05-tm-2100-story.html | title=How Gene Roddenberry and his Brain Trust Have Boldly Taken 'Star Trek' Where No TV Series Has Gone Before : Trekking to the Top | work=Los Angeles Times | date=May 5, 1991 | page=16 | access-date=January 24, 2012 | author=Teitelbaum, Sheldon | archive-date=November 6, 2015 | archive-url=https://web.archive.org/web/20151106201722/http://articles.latimes.com/print/1991-05-05/magazine/tm-2100_1_star-trek | url-status=live }}</ref> Most shows require [[100 episodes|at least four seasons]] for syndication, because otherwise not enough episodes are available for daily [[stripping (television)|stripping]]. [[Kaiser Broadcasting]], however, purchased syndication rights for ''Star Trek'' during the first season for its stations in several large cities. The company arranged the unusual deal because it saw the show as effective [[Counterprogramming (television)|counterprogramming]] against the [[Big Three networks]]' 6 pm evening news programs.<ref name="abbott2010">{{cite book| author = Abbott, Stacey| title = The Cult TV Book| url = https://books.google.com/books?id=gA7qK_VhVH0C| date = March 10, 2010| publisher = I.B. Tauris| isbn = 978-1-84885-026-2 }}</ref>{{rp|138}}{{r|davies2007}} Paramount began advertising the reruns in [[trade press]] in March 1969;<ref name="to20081215">{{cite web | url=http://www.tvobscurities.com/2008/12/star-trek-syndication-advertisements-circa-1969-1970/ | title=Star Trek Syndication Advertisements, Circa 1969–1970 | publisher=Television Obscurities | date=December 15, 2008 | access-date=May 15, 2011 | archive-date=July 17, 2011 | archive-url=https://web.archive.org/web/20110717200546/http://www.tvobscurities.com/2008/12/star-trek-syndication-advertisements-circa-1969-1970/ | url-status=live }}</ref> as Kaiser's ratings were good, other stations, such as [[WPIX]] in New York City and Kaiser's [[WKBS]] in Philadelphia, also purchased the episodes<ref name="meehan2005">{{cite book| author = Meehan, Eileen R.| title = Why TV is not our fault: television programming, viewers, and who's really in control| url = https://books.google.com/books?id=SEtw4yGRjwUC| year = 2005| publisher = Rowman & Littlefield| isbn = 0-7425-2486-8 }}</ref>{{rp|91–92}} for similar counterprogramming.{{r|pearson2011}}{{rp|121}}
+
+Through syndication, ''Star Trek'' found a larger audience than it had on NBC, becoming a cult classic.{{r|hale19750426}}{{r|abbott2010}}{{rp|138–139}} Airing the show in the late afternoon or early evening attracted many new viewers, often young.{{r|shult19720703}} By 1970, Paramount's trade advertisements claimed that the show had significantly improved its stations' ratings,{{r|to20081215}} and the ''[[Los Angeles Times]]'' commented on ''Star Trek''{{'}}s ability to "acquire the most enviable ratings in the syndication field".{{r|pearson2011}}{{rp|121}} By 1972, what the Associated Press described as "the show that won't die" aired in more than 100 American cities and 60 other countries; and more than 3,000 fans attended the first [[Star Trek convention|''Star Trek'' convention]] in New York City in January 1972.<ref name="buck19720314">{{cite news |url=https://news.google.com/newspapers?id=9y9JAAAAIBAJ&pg=861%2C5406685 |title='Star Trek' Engenders Cult in U.S., England |access-date=March 4, 2011 |author=Buck, Jerry |date=March 14, 1972 |agency=Associated Press |archive-date=May 10, 2016 |archive-url=https://web.archive.org/web/20160510015919/https://news.google.com/newspapers?id=9y9JAAAAIBAJ&sjid=KYQMAAAAIBAJ&pg=861,5406685 |url-status=live }}</ref><ref name="shult19720703">{{cite news |url=https://news.google.com/newspapers?id=rx0eAAAAIBAJ&dq=star-trek%20syndication%20%7C%20rerun&pg=6303%2C2206524 |title=Cult Fans, Reruns Give 'Star Trek' an Out of This World Popularity |access-date=March 4, 2011 |author=Shult, Doug |date=July 3, 1972 |publisher=[[Milwaukee Journal]] |archive-date=May 6, 2016 |archive-url=https://web.archive.org/web/20160506052824/https://news.google.com/newspapers?id=rx0eAAAAIBAJ&sjid=gX4EAAAAIBAJ&dq=star-trek%20syndication%20%7C%20rerun&pg=6303,2206524 |url-status=live }}</ref>
+
+{{quote box|align=right|width=25em|quote=Since that dark day in 1969 when NBC brought the programming hammer down on ''Star Trek'', there probably hasn't been a 24-hour period when the original program, one of the original episodes, wasn't being aired somewhere.|source=—''Chicago Tribune'', 1987<ref name="daley19870104">{{cite news |title=Staying Power: What Is It That Transforms a Few TV Programs into Cult Classics While Thousands of Others Fade into Oblivion? |work=Chicago Tribune |date=January 4, 1987 |author=Daley, Steve |page=4}}</ref>}}
+
+Fans of the show became increasingly organized, gathering at conventions to trade merchandise, meet actors from the show, and watch screenings of old episodes. Such fans came to be known as "[[trekkie]]s",{{r|hale19750426}} who were noted (and often ridiculed) for their extreme devotion to the show and their encyclopedic knowledge of every episode.<ref>{{cite web | url=http://www.museum.tv/eotvsection.php?entrycode=startrek | title=Star Trek | publisher=[[Museum of Broadcast Communications]] | access-date=August 11, 2012 | archive-date=June 29, 2011 | archive-url=https://web.archive.org/web/20110629005037/http://www.museum.tv/eotvsection.php?entrycode=startrek | url-status=live }}</ref> Because fans enjoyed re-watching each episode many times, prices for ''Star Trek'' rose over time, instead of falling like other syndicated reruns.{{r|pearson2011}}{{rp|122}}<ref name="ei19720506">{{cite news |url=https://news.google.com/newspapers?id=qG1IAAAAIBAJ&pg=3950,1720002 |title=Star Trek Rechanneled |work=[[Evening Independent]] |date=May 6, 1972 |access-date=May 12, 2011 |location=St. Petersburg, Florida |pages=3A |archive-date=May 20, 2016 |archive-url=https://web.archive.org/web/20160520105748/https://news.google.com/newspapers?id=qG1IAAAAIBAJ&sjid=61cDAAAAIBAJ&pg=3950,1720002 |url-status=live }}</ref><ref name="sedgeman19720529">{{cite news |url=https://news.google.com/newspapers?id=UcVaAAAAIBAJ&pg=6958,3634972 |title=Fan of Star Trek Works at Getting TV Show Returned |work=[[St. Petersburg Times]] |date=May 29, 1972 |access-date=May 4, 2011 |author=Sedgeman, Judy |archive-date=November 17, 2020 |archive-url=https://web.archive.org/web/20201117212214/https://news.google.com/newspapers?id=UcVaAAAAIBAJ&sjid=JGEDAAAAIBAJ&pg=6958%2C3634972 |url-status=live }}</ref><ref name="hale19750426">{{cite news |url=https://news.google.com/newspapers?id=LnBkAAAAIBAJ&pg=2771,3366878 |title=Believing in Captain Kirk |work=[[Calgary Herald]] |date=April 26, 1975 |access-date=May 14, 2011 |author=Hale, Barrie |page=10 |archive-date=September 25, 2013 |archive-url=https://web.archive.org/web/20130925104804/http://news.google.com/newspapers?id=LnBkAAAAIBAJ&sjid=nX0NAAAAIBAJ&pg=2771,3366878 |url-status=live }}</ref><ref name="montgomery19730311">{{cite news |url=https://news.google.com/newspapers?id=WhpXAAAAIBAJ&pg=4866,3596265 |title='Star Trekkies' Show Devotion |work=The Ledger |agency=The New York Times |date=March 11, 1973 |access-date=May 12, 2011 |author=Montgomery, Paul L. |location=Lakeland, Florida |page=34 |archive-date=May 12, 2016 |archive-url=https://web.archive.org/web/20160512204655/https://news.google.com/newspapers?id=WhpXAAAAIBAJ&sjid=a_oDAAAAIBAJ&pg=4866,3596265 |url-status=live }}</ref> ''[[People (magazine)|People]]'' magazine commented in 1977 that the show "threatens to rerun until the universe crawls back into its little black hole".<ref name="darrach19770725">{{cite news |url=http://www.people.com/people/archive/article/0,,20068391,00.html |title=Leonard Nimoy Beams Himself Aboard 'Equus' and Out from Under Mr. Spock's Pointy Ears |work=People |date=July 25, 1977 |access-date=March 2, 2015 |author=Darrach, Brad |archive-date=March 2, 2015 |archive-url=https://web.archive.org/web/20150302023847/http://www.people.com/people/archive/article/0,,20068391,00.html |url-status=live }}</ref> By 1986, 17 years after entering syndication, ''Star Trek'' was the most popular syndicated series;<ref name="harmetz19861102">{{cite news |url=https://www.nytimes.com/1986/11/02/arts/new-star-trek-plan-reflects-symbiosis-of-tv-and-movies.html?pagewanted=all |title=New 'Star Trek' Plan Reflects Symbiosis of TV and Movies |work=The New York Times |date=November 2, 1986 |access-date=February 11, 2015 |last=Harmetz |first=Aljean |page=31 |archive-date=February 12, 2015 |archive-url=https://web.archive.org/web/20150212145559/http://www.nytimes.com/1986/11/02/arts/new-star-trek-plan-reflects-symbiosis-of-tv-and-movies.html?pagewanted=all |url-status=live }}</ref> by 1987, Paramount made $1&nbsp;million from each episode;{{r|davies2007}} and by 1994, the reruns still aired in 94% of the United States.<ref name="cerone19940402">{{cite news |url=https://www.latimes.com/archives/la-xpm-1994-04-02-ca-41242-story.html |title=Trek on into the 21st Century |access-date=March 7, 2011 |author=Cerone, Daniel |date=April 2, 1994 |work=Los Angeles Times |archive-date=November 17, 2020 |archive-url=https://web.archive.org/web/20201117212215/https://www.latimes.com/archives/la-xpm-1994-04-02-ca-41242-story.html |url-status=live }}</ref>
+
+From September 1 to December 24, 1998, the Sci-Fi Channel broadcast a "Special Edition" of all the original series episodes in an expanded 90-minute format hosted by William Shatner. Now titled ''Star Trek: The Original Series'', these broadcasts restored scenes that had been edited out of the syndicated episodes.<ref name=tos/><!-- cites previous sentence only --> In addition to introductory and post-episode commentary by Shatner, the episodes included interviews with members of the regular production team and cast, writers, guest stars, and critics (titled as "''Star Trek'' Insights"). The episodes were broadcast in the original broadcast sequence, followed by "The Cage", to which a full 105-minute segment was devoted. (For details on each episode's original airdate, see [[List of Star Trek: The Original Series episodes|List of ''Star Trek: The Original Series'' episodes]].) Leonard Nimoy hosted a second run from December 28, 1998, to March 24, 1999, but not all the episodes were broadcast because the show was abruptly canceled before completion.{{citation needed|date=January 2012}}{{original research inline|date=January 2012}}
+
+===Remastered edition===
+<!-- This section is linked from [[Star Trek]] -->
+To celebrate the series' 40th anniversary in September 2006, CBS Paramount Domestic Television (now known as [[CBS Media Ventures]], the current rights holders for the ''Star Trek'' television franchises) began syndication of an enhanced version of ''Star Trek: The Original Series'' in [[High-definition television|high definition]] with new [[Computer-generated imagery|CGI]] visual effects.<ref>{{cite news |url=http://trekmovie.com/2006/08/28/star-trek-tos-gets-redone-with-new-cgi |title=Original Star Trek Getting a CGI Makeover! |publisher=TrekMovie.com |date=August 28, 2006 |access-date=April 23, 2007 |archive-date=April 3, 2007 |archive-url=https://web.archive.org/web/20070403094320/http://trekmovie.com/2006/08/28/star-trek-tos-gets-redone-with-new-cgi/ |url-status=live }}</ref>
+
+Under the direction of ''Star Trek'' producer David Rossi, who consulted with Mike and Denise Okuda, the visual and special effects were recreated to give ''Star Trek: The Original Series'' a more modern look. Special attention was given to such elements as the ''Enterprise'', alien planets and their images depicted from space, planets seen from orbit, alien spacecraft, and technology such as computer readouts, viewscreen images, and phaser beams.<ref>{{cite web |last1=SFX Magazine |title=Star Trek: ToS remastered interviews |url=https://www.gamesradar.com/star_trek_tos_remastered_interviews/ |website=gamesradar |publisher=Future PLC |access-date=4 November 2025}}</ref>
+
+The restoration and enhancement was performed by [[CBS|CBS Digital]]. All live-action footage was scanned in high definition from its first-generation 35&nbsp;mm film elements. While it was possible to retouch and remaster some visual effects, all new exterior ship, space, and planet shots were recreated under the supervision of Niel Wray.<ref>{{cite web |title=TOS Remastered |url=https://trekmovie.com/trek-remastered/tos-in-hd/ |website=Trekmovie.com |access-date=30 May 2024}}</ref>
+
+"Original camera negatives" were used for all live-action footage, but not for external shots of the ship and planets. Notable changes include new space shots with a CGI ''Enterprise'', and other new models (for example, a [[Gorn (Star Trek)|Gorn]] ship is shown in "[[Arena (Star Trek: The Original Series)|Arena]]"), redone [[Matte (filmmaking)|matte]] background shots, and other minor touches such as tidying up viewscreens.{{citation needed|date=October 2023}}
+
+A small number of scenes were also recomposed, and sometimes new actors were placed into the background of shots.<ref>{{cite web |url=http://trekmovie.com/2006/11/20/behind-the-scenes-at-cbs-digital/ |title=Behind the Scenes at CBS Digital |publisher=TrekMovie.com |author=Anthony Pascale |date=November 20, 2006 |access-date=April 23, 2007 |archive-date=April 3, 2007 |archive-url=https://web.archive.org/web/20070403094344/http://trekmovie.com/2006/11/20/behind-the-scenes-at-cbs-digital/ |url-status=live }}</ref> The opening theme music was also re-recorded in digital stereo.
+
+The first episode to be released to syndication was "[[Balance of Terror]]" on the weekend of September 16, 2006. Episodes were released at the rate of about one a week and broadcast in a 4:3 aspect ratio. Despite the [[High-definition video|HD]] remastering, CBS delivered the broadcast syndication package in [[Standard-definition television|Standard Definition (SD TV)]]. The HD format was made commercially available through [[Blu-ray Disc|Blu-ray]], or by streaming and downloads.<ref>{{cite web |url=http://trekmovie.com/tos-in-hd/ |title=TOS Remastered: Format |publisher=Trekmovie.com |access-date=September 7, 2012 |archive-date=September 20, 2012 |archive-url=https://web.archive.org/web/20120920041550/http://trekmovie.com/tos-in-hd/ |url-status=live }}</ref>
+
+While the CGI shots were mastered in a 16:9 aspect ratio for future applications, they were initially broadcast in the United States and Canada—along with the live-action footage—in a 4:3 aspect ratio to respect the show's original composition.
+
+On July 26, 2007, [[CBS Home Entertainment]] (with distribution by Paramount Home Entertainment) announced that the remastered episodes of ''TOS'' would be released on an [[HD DVD]]/DVD hybrid format. Season one was released on November 20, 2007. Season two had been scheduled for release in the summer of 2008, but it was canceled when [[Toshiba]] (which had been helping finance the remastering of the show) pulled out of the HD DVD business.<ref>{{cite web |url=http://www.tvshowsondvd.com/news/Star-Trek-Season-2-HD-DVD-Cancelled/9018 |title=Reports Say HD DVD Format To Be Discontinued |publisher=tvshowsondvd.com |author=David Lambert |date=February 18, 2008 |access-date=February 19, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080221190546/http://www.tvshowsondvd.com/news/Star-Trek-Season-2-HD-DVD-Cancelled/9018 |archive-date=February 21, 2008 }}</ref> On August 5, 2008, the remastered season two was released on DVD only.<ref>{{cite web |url=http://www.tvshowsondvd.com/news/Star-Trek-Season-2/9215 |title=Release Date for Star Trek – Season 2 (Remastered) on DVD |publisher=TVShowsOnDVD.com |author=David Lambert |date=March 21, 2008 |access-date=March 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080324032706/http://www.tvshowsondvd.com/news/Star-Trek-Season-2/9215 |archive-date=March 24, 2008 }}</ref> Season 3 was released on DVD on November 18, 2008.<ref>{{cite web |url=http://www.tvshowsondvd.com/news/Star-Trek-Season-3/10189 |title=Release Date, Exclusive Early Look at Package Art, for Remastered 3rd Season of TOS |publisher=TVShowsOnDVD.com |author=David Lambert |date=March 21, 2008 |access-date=March 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080730091800/http://www.tvshowsondvd.com/news/Star-Trek-Season-3/10189 |archive-date=July 30, 2008}}</ref> On February 17, 2009, Paramount announced the season one of ''TOS'' on [[Blu-ray Disc]] for a May release to coincide with the new feature film coming from Paramount.<ref>{{cite web |url=http://www.blu-ray.com/movies/movies.php?id=4189 |title=Star Trek – The Original Series – Season 1 – Complete Blu-ray |access-date=February 18, 2009 |archive-date=February 25, 2009 |archive-url=https://web.archive.org/web/20090225205555/http://www.blu-ray.com/movies/movies.php?id=4189 |url-status=live }}</ref> The second season was released in a seven disc set on Blu-ray in the United States on September 22, 2009.<ref>{{cite web |url=http://www.homemediamagazine.com/blu-ray-disc/star-trek-season-2-blu-ray-due-sept-22-16319 |title=Home Media Magazine " 16319 " Star Trek Season 2 Blu Ray Due Sept 22 16319 |publisher=Homemediamagazine.com |date=July 9, 2009 |access-date=July 15, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090716142604/http://www.homemediamagazine.com/blu-ray-disc/star-trek-season-2-blu-ray-due-sept-22-16319 |archive-date=July 16, 2009}}</ref> The third season was released on Blu-ray in the United States on December 15.<ref>{{cite web |url=http://www.tvshowsondvd.com/news/Star-Trek-Season-3-Bluray/12702 |title=Star Trek DVD news: Announcement for Star Trek – Season 3 on Blu-ray Disc |publisher=TVShowsOnDVD.com |access-date=September 7, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120914050802/http://www.tvshowsondvd.com/news/Star-Trek-Season-3-Bluray/12702 |archive-date=September 14, 2012}}</ref> With the release of the "Alternate Realities" box set, remastered ''Original Series'' episodes were included in a multi-series compilation for the first time.<ref>{{cite web |url=http://www.tvshowsondvd.com/news/Star-Trek-Alternate-Realities/10174 |title=Star Trek DVD news: Update about Star Trek: Alternate Realities |publisher=TVShowsOnDVD.com |access-date=September 7, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121023184606/http://www.tvshowsondvd.com/news/Star-Trek-Alternate-Realities/10174 |archive-date=October 23, 2012}}</ref>
+
+==Cast==
+{{Main|List of Star Trek: The Original Series cast members}}
+<gallery mode="packed" heights="220">
+File:Star Trek William Shatner.JPG|[[James T. Kirk]]
+File:Leonard Nimoy as Spock 1967.jpg|[[Spock]]
+File:DeForest Kelley, Dr. McCoy, Star Trek.jpg|[[Leonard McCoy|Dr. Leonard "Bones" McCoy]]
+File:James Doohan Scotty Star Trek.JPG|[[Scotty (Star Trek)|Montgomery "Scotty" Scott]]
+File:Nichelle Nichols, NASA Recruiter - GPN-2004-00017.jpg|[[Nyota Uhura]]
+File:George Takei Sulu Star Trek.JPG|[[Hikaru Sulu]]
+File:Walter Koenig Star Trek.JPG|[[Pavel Chekov]]
+File:Majel Barrett in 2006 cropped.png|[[Christine Chapel]]
+File:Grace Lee Whitney Star Trek 1966.JPG|[[Janice Rand]]
+</gallery>
+
+{| class="wikitable" width="100%"
+|-
+!width="15%"|Actor !! Character !! Position !! Appearances !! Character's species !! Rank
+|-
+| rowspan=2|[[William Shatner]] || [[James T. Kirk]] || [[Commanding officer]] || Seasons 1–3 || Human || [[Captain]]
+|-
+| colspan=5|The commanding officer of USS ''Enterprise'', born in [[Riverside, Iowa]], in the year 2233. His two best friends are Spock and Dr. McCoy; one will advise Kirk with logic, while the other one uses emotional instincts.
+|-
+| rowspan=2|[[Leonard Nimoy]] || [[Spock]] || First/[[Executive officer]]<br/>Science officer || Seasons 1–3 || Half-Human/Half-[[Vulcan (Star Trek)|Vulcan]] || [[Lieutenant commander]] (Season 1) 
+[[Commander]] (Seasons 1–3)
+|-
+| colspan=5|The half human, half Vulcan First/Executive Officer (i.e. second-in-command) and science officer. He is one of Kirk's best friends and uses logic to solve problems. 
+|-
+| rowspan=2|[[DeForest Kelley]] || Dr. [[Leonard McCoy|Leonard "Bones" McCoy]] || [[Chief medical officer]] || Seasons 1–3 || Human || [[Lieutenant Commander]]
+|-
+| colspan=5|The ship's chief medical officer, he is Kirk's other best friend and gives him advice with his human emotional feelings, whilst Spock uses logic.
+|-
+| rowspan=2|[[James Doohan]] || [[Scotty (Star Trek)|Montgomery "Scotty" Scott]] || Second officer and [[chief engineer]] || Seasons 1–3 || Human || [[Lieutenant commander]]
+|-
+| colspan=5|The ''Enterprise''{{'}}s Scottish Chief Engineer and [[Second mate|Second Officer]] (i.e. third-in-command), who is very protective of the ship. Scotty's technical knowledge and skill allow him to devise unconventional and effective last-minute solutions to dire problems.
+|-
+| rowspan=2|[[Nichelle Nichols]] || [[Nyota Uhura]] ||| [[Communications officer]] || Seasons 1–3 || Human || [[Lieutenant]] 
+|-
+| colspan=5|The ship's communication officer. She is depicted as a capable [[Bridge (nautical)|bridge]] officer and readily assumed control of the helm, navigation and science stations on the bridge when the need arose. Uhura was also a talented singer, and enjoyed serenading her shipmates when off-duty; Spock occasionally accompanied her on the Vulcan [[lyre]].
+Note: Uhura's first name was not spoken at any time during the series or the movies starring the original cast, and it was not even clear that Uhura was not a [[mononym]].
+|-
+| rowspan=2|[[George Takei]] || [[Hikaru Sulu]] || [[Helmsman]] || Seasons 1–3 || Human || [[Lieutenant]]
+|-
+| colspan=5|Sulu is the ship's helmsman and has many interests and hobbies, including gymnastics, botany, fencing, and ancient weaponry.
+|-
+| rowspan=2|[[Walter Koenig]] || [[Pavel Chekov]] || [[Navigator]] || Seasons 2 & 3 || Human || [[Ensign (rank)|Ensign]]
+|-
+| colspan=5|Chekov is a Russian navigator introduced in the show's second season.
+|-
+| rowspan=2|[[Majel Barrett]] || [[Christine Chapel]] || [[Head nurse]] || Seasons 1–3 || Human || N/A
+|-
+| colspan=5|The ship's head nurse who works with Dr. McCoy.
+Note: Barrett, who played the ship's first officer ([[Number One (Star Trek)|Number One]]) in "[[The Cage (Star Trek: The Original Series)|The Cage]]", also voiced the ship's computer.
+|-
+| rowspan=2|[[Grace Lee Whitney]] || [[Janice Rand]] || [[Yeoman (US Navy)|Yeoman]] || Season 1 || Human || N/A
+|-
+| colspan=5|The captain's personal yeoman.
+|}
+
+While still casting the roles, Gene Roddenberry had mandated that Bones McCoy and Spock be male. According to Nichelle Nichols, "They gave me a three page script to read from that had three characters named Bones, Kirk and somebody called Spock, and they asked me if I would read for the role of Spock. When I looked at this great text, I said to myself, 'I'll take any one of these roles,' but I found the Spock character to be very interesting, and I asked them to tell me what she [Spock] was like". They then told Nichols that the role had already been offered to Leonard Nimoy.<ref>{{cite news |url=https://www.huffingtonpost.com/2011/11/29/gene-roddenberry-son-star-trek_n_1119119.html |title=Gene Roddenberry's Son Reveals Unhappy 'Star Trek' Family Life |author=Lee Speigel |date=November 30, 2011 |work=Huffington Post |accessdate=February 21, 2020 |archivedate=September 18, 2018 |archive-url=https://web.archive.org/web/20180918092823/https://www.huffingtonpost.com/2011/11/29/gene-roddenberry-son-star-trek_n_1119119.html |url-status=live }}</ref>
+
+It was intended that Sulu's role be expanded in the second season, but owing to Takei's part in John Wayne's ''[[The Green Berets (film)|The Green Berets]]'', he appeared in only half the season, his role being filled by [[Walter Koenig]] as the relatively young, [[mop-top]]ped Russian navigator Ensign [[Pavel Chekov]]. When Takei returned, the two had to share a dressing room.<ref>''William Shatner's Star Trek Memories''&nbsp;– documentary film, released 1995.</ref> The two appeared together at the ''Enterprise'' helm for the remainder of the series. There may be some truth to the unofficial story that the [[Soviet Union]]'s newspaper ''[[Pravda]]'' complained that among the culturally diverse characters there were no Russians, seen as a personal slight to that country since the [[Russian Soviet Federative Socialist Republic|Soviet Russian]] [[Yuri Gagarin]] had been the first man to make a spaceflight. Gene Roddenberry said in response that "The Chekov thing was a major error on our part, and I'm still embarrassed by the fact we didn't include a Russian right from the beginning."<ref name="whitfield1968" /> However, documentation from Desilu suggests that the intention was to introduce a character into ''Star Trek'' with more sex appeal to teenaged girls.<ref name="whitfield1968" /> Walter Koenig noted in the 2006 40th anniversary special of ''Star Trek: The Original Series'' that he doubted the rumor about ''Pravda'', since ''Star Trek'' had never been shown on Soviet television. It has also been claimed that the former member of [[The Monkees]], [[Davy Jones (actor)|Davy Jones]], was the model for Mr. Chekov.<ref name="snopes">{{cite web |url=http://www.snopes.com/radiotv/tv/chekov.asp |title=Russian Crewlette |author=Lindley, Robin |year=2005 |publisher=snopes.com |access-date=December 13, 2006 |archive-date=November 17, 2020 |archive-url=https://web.archive.org/web/20201117212216/https://www.snopes.com/fact-check/russian-crewlette/ |url-status=live }}</ref>
+
+In addition, the series frequently included characters (usually security personnel wearing red uniforms) who are killed or injured soon after their introduction. So prevalent was this [[plot device]] that it inspired the term "[[Redshirt (stock character)|redshirt]]" to denote a [[stock character]] whose sole purpose is to die violently in order to show the danger facing the main characters.
+
+===Characterizations===
+''Star Trek'' made celebrities of its cast of largely unknown actors. Kelley had appeared in many films and television shows, but mostly in smaller roles that showcased him as a villain. Nimoy also had previous television and film experience but was not well known either. Nimoy had partnered previously with Shatner in a 1964 episode of ''[[The Man from U.N.C.L.E.]]'', "The Project Strigas Affair", and with Kelley (as a doctor) in a 1963 episode of ''[[The Virginian (TV series)|The Virginian]]'', "Man of Violence", both more than two years before ''Star Trek'' first aired. Before ''Star Trek'', Shatner was well known in the trade, having appeared in several notable films, played [[Cyrano de Bergerac (play)|Cyrano de Bergerac]] on Broadway, and even turned down the part of [[Dr. Kildare (TV series)|Dr. Kildare]]. However, when roles became sparse he took the regular job after Jeffrey Hunter's contract was not renewed.[[Image:ST TOS Cast.jpg|thumb|upright=1.0|Promotional photo of the cast of ''Star Trek'' during the third season (1968–1969). From left to right: [[James Doohan]], [[Walter Koenig]], [[DeForest Kelley]], [[Majel Barrett]], [[William Shatner]], [[Nichelle Nichols]], [[Leonard Nimoy]], and [[George Takei]].]]After the original series ended, cast members found themselves [[Typecasting (acting)|typecast]] because of their defining roles in the show. (''Star Trek: The Next Generation'' actor [[Michael Dorn]] stated in 1991, however: "If what happened to the first cast is called being typecast, then I want to be typecast. Of course, they didn't get the jobs after ''Trek''. But they are making their sixth movie. Name me someone else in television who has made ''six'' movies!"){{r|teitelbaum19910505}}
+
+The three main characters were Kirk, Spock, and McCoy, with writers often playing the different personalities off each other: Kirk was passionate and often aggressive, but with a sly sense of humor; Spock was coolly logical; and McCoy was sardonic, emotional, and illogical, but always compassionate. In many stories the three clashed, with Kirk forced to make a tough decision while Spock advocated the logical but sometimes callous path and McCoy (or "Bones", as Kirk nicknamed him) insisted on doing whatever would cause the least harm. McCoy and Spock had a sparring relationship that masked their true affection and respect for each other, and their constant arguments became popular with viewers.<ref name="rioux2005">{{cite book| author = Rioux, Terry Lee| title = From sawdust to stardust: the biography of DeForest Kelley, Star trek's Dr. McCoy| url = https://books.google.com/books?id=5JUOIKG2XcwC| date = February 1, 2005| publisher = Simon and Schuster| isbn = 0-7434-5762-5 }}</ref>{{rp|153–154}} The show so emphasized dialogue that writer and director [[Nicholas Meyer]] (involved with the ''Star Trek'' films) called it a [[radio drama]], playing an episode for a film class without video to prove that the plot was still comprehensible.{{r|teitelbaum19910505}}
+
+The Spock character was at first rejected by network executives, who were apprehensive that his vaguely "Satanic" appearance (with pointed ears and eyebrows<!--and original red makeup, no? According to Whitfield IIRC-->) might prove upsetting to some viewers, and (according to Leonard Nimoy) they repeatedly urged Roddenberry to "drop the Martian". Roddenberry was also dismayed to discover that NBC's publicity department deliberately airbrushed out Spock's pointed ears and eyebrows from early publicity stills sent to network affiliates, because they feared that his "demonic" appearance might offend potential buyers in the religiously conservative southern states. Spock, however, went on to become one of the most popular characters on the show, as did McCoy's impassioned country-doctor personality. Spock, in fact, became a [[sex symbol]] of sorts<ref>Leonard Nimoy, ''I Am Spock'', Hyperion Books, 1995. pp. 85–88.</ref>—something no one connected with the show had expected. Leonard Nimoy noted that the question of Spock's extraordinary sex appeal emerged "almost any time I talked to someone in the press{{nbsp}}... I never give it a thought{{nbsp}}... to try to deal with the question of Mr. Spock as a sex symbol is silly."<ref>Robert Jewett & John Lawrence, ''The Myth of the American Superhero'', William B. Eerdsman Co, 2002. p. 230</ref>
+
+===Characters' cameo appearances in later series===
+The sequel to the original series, ''[[Star Trek: The Next Generation]]'', which premiered in 1987, was set about 100 years after the events of ''TOS''. As that show and its spin-offs progressed, several ''TOS'' actors made appearances reprising their original characters:
+* James Kirk disappears in 2293 during the maiden voyage of the [[USS Enterprise (NCC-1701-B)|''Enterprise''-B]] as seen in the film ''[[Star Trek Generations|Star Trek: Generations]]''. However, now chronologically 138 years old, but still only physically 60 years old, Kirk is recovered after spending 78 years in [[The Nexus (Star Trek)|The Nexus]], an alternative plane of existence, by ''Enterprise''-D Captain Jean-Luc Picard in the same film. Kirk's time in the 24th century is short, however; he is killed while helping to defeat Dr. [[Tolian Soran]].
+* Spock, now a [[Vulcan (Star Trek planet)|Vulcan]] ambassador, goes underground in the [[Romulan Empire]] in hopes of fostering peaceful coexistence with the [[United Federation of Planets|Federation]] and reunification with Vulcan society ("[[Unification (Star Trek: The Next Generation)|Unification, Parts I and II]]"). He also appears in the 2009 reboot film where his science vessel originated from the 24th century–era of TNG. He ends up stranded in the 23rd century of the film series, where he settles on new Vulcan; in the sequel film ''[[Star Trek Into Darkness]]'', he is contacted by his younger self regarding the villainous [[Khan Noonien Singh]]. While not appearing in ''[[Star Trek Beyond]]'', it is mentioned in the film that the character has died, as an homage to the real-life passing of actor [[Leonard Nimoy]].
+* Leonard "Bones" McCoy, now a crusty 137-year-old admiral and head of Starfleet's Medical Division, inspects the [[USS Enterprise (NCC-1701-D)|''Enterprise''-D]] before her first mission in "[[Encounter at Farpoint]]", briefly meeting the android officer [[Data (Star Trek)|Lt. Cdr. Data]], telling him, "Well, this is a new ship. But she's got the right name. Now, you remember that, you hear?{{nbsp}}... You treat her like a lady, and she'll always bring you home."
+* Montgomery Scott, now chronologically 147 years old, but still only physically 72 years old after spending 75 years trapped in a transporter buffer, is rescued by the ''Enterprise''-D crew and resumes his life in "[[Relics (Star Trek: The Next Generation)|Relics]]". Working along with Chief Engineer [[Geordi La Forge]], Scotty uses some creative engineering to save the ''Enterprise''. A grateful Captain Picard lends him a shuttlecraft indefinitely.
+* [[Sarek]], Spock's father, continues to be an ambassador for the next century until his final mission during which he and Captain Picard mind-meld together because Sarek shows signs of Bendii Syndrome ("Sarek"). He later dies suffering from this affliction, but not before giving [[Jean-Luc Picard|Captain Picard]] key information for locating his missing son ("Unification").
+* [[Kang (Star Trek)|Kang]], [[Koloth]], and [[Kor (Star Trek)|Kor]], the three Klingons featured in "[[Day of the Dove]]" (Kang), "[[The Trouble with Tribbles]]" (Koloth) and "[[Errand of Mercy]]" (Kor), continue to serve the Empire well into the 24th century. They appear in the ''[[Star Trek: Deep Space Nine]]'' episode "[[Blood Oath (Star Trek: Deep Space Nine)|Blood Oath]]" in which Kang and Koloth are killed. Kor later appears in two more episodes: "[[The Sword of Kahless]]" and finally in "[[Once More Unto the Breach (Star Trek: Deep Space Nine)|Once More Unto the Breach]]" where, fighting in the Dominion War, he dies honorably in battle. A younger version of Kang, from the era of ''[[Star Trek VI: The Undiscovered Country]]'', later appears in the ''[[Star Trek: Voyager]]'' episode "[[Flashback (Star Trek: Voyager)|Flashback]]".
+* [[Hikaru Sulu]], promoted to captain of USS ''Excelsior'' in ''[[Star Trek VI: The Undiscovered Country]]'', reprises his role from that performance in the ''[[Star Trek: Voyager]]'' episode "Flashback". [[Janice Rand]] also appears in that same episode.
+* [[Arne Darvin]], the Klingon disguised as a human in "[[The Trouble with Tribbles]]", appears in the ''[[Star Trek: Deep Space Nine]]'' episode "[[Trials and Tribble-ations]]" with the intent to return to Deep Space Station K7 in 2267 and assassinate Kirk, whom Darvin blamed for his disgrace in the Klingon Empire.
+
+Besides the above examples, numerous non-canon novels and comic books have been published over the years in which ''The Original Series'' era crew are depicted in ''The Next Generation'' era, either through time-travel or other means. In addition, many actors who appeared on ''The Original Series'' later made guest appearances as different characters in later series, most notably [[Majel Barrett]], who not only provided the voice for most Starfleet computers in episodes of every spin-off series (including a single appearance on ''[[Star Trek: Enterprise]]'', where the computers normally did not speak at all), but also had the recurring role of [[Lwaxana Troi]] in ''The Next Generation'' and ''Deep Space Nine''. [[Diana Muldaur]], a guest star in the episodes "[[Return to Tomorrow]]" and "[[Is There in Truth No Beauty?]]" of the original ''Star Trek'' series, played series regular Dr. [[Katherine Pulaski]] in the second season of ''Star Trek: The Next Generation''.
+
+===Notable guest appearances===
+Guest roles on the series have featured actors such as:
+
+{{Div col}}
+* [[Yvonne Craig]] as Marta in "[[Whom Gods Destroy (Star Trek: The Original Series)|Whom Gods Destroy]]"
+* [[Gary Lockwood]] and [[Sally Kellerman]] in "[[Where No Man Has Gone Before]]"
+* [[Diana Muldaur]] in "[[Return to Tomorrow]]" and "[[Is There in Truth No Beauty?]]" (Muldaur also appeared throughout the second season of ''[[Star Trek: The Next Generation]]'' as the Enterprise-D's chief medical officer, [[Katherine Pulaski|Dr. Katherine Pulaski]])
+* [[Ricardo Montalbán]] as [[Khan Noonien Singh]] in "[[Space Seed]]". He then reprised the role in the film ''[[Star Trek II: The Wrath of Khan]]''
+* [[Madlyn Rhue]] as Lieutenant Marla McGivers in "[[Space Seed]]". 
+* [[Michael Ansara]] as Klingon commander Kang in "[[Day of the Dove]]", reprising the role in the ''Deep Space Nine'' episode "Blood Oath" and the ''Voyager'' episode "Flashback"
+* [[William Marshall (actor)|William Marshall]] in "[[The Ultimate Computer]]"
+* [[Julie Newmar]] in "[[Friday's Child (Star Trek: The Original Series)|Friday's Child]]"
+* [[Kim Darby]] and [[Michael J. Pollard]] in "[[Miri (Star Trek: The Original Series)|Miri]]"
+* [[Robert Lansing (actor)|Robert Lansing]] and [[Teri Garr]] in "[[Assignment: Earth]]"
+* [[William Windom (actor)|William Windom]] in "[[The Doomsday Machine (Star Trek: The Original Series)|The Doomsday Machine]]"
+* [[John Colicos]] as the Klingon Commander [[Kor (Star Trek)|Kor]] in "[[Errand of Mercy]]", reprising the role in three episodes of ''Deep Space Nine''
+* [[Robert Walker (actor, born 1940)|Robert Walker Jr.]] in "[[Charlie X]]"
+* [[Lee Meriwether]] in "[[That Which Survives]]"
+* [[Roger C. Carmel]] and [[Karen Steele]] in "[[Mudd's Women]]". Carmel returned in "[[I, Mudd]]"
+* [[France Nuyen]] in "[[Elaan of Troyius]]", possibly the first Vietnamese actress to appear on American television<ref>Star Trek, Episode 3/13. Lucas, John Meredith. "Elaan of Troyius." First aired December 20, 1968. Retrieved October 25, 2017.</ref>
+* [[Mark Lenard]], the only actor to play members of three major non-human races in The Original Series, as the Romulan commander in "[[Balance of Terror]]", the Klingon Commander in ''[[Star Trek: The Motion Picture]]'', and most notably as Spock's father [[Sarek]] in "[[Journey to Babel]]", reprising this role in the films ''[[Star Trek III: The Search for Spock]]'', ''[[Star Trek IV: The Voyage Home]]'', and ''[[Star Trek VI: The Undiscovered Country]]'', as well as in the ''TNG'' episodes "Sarek" and "Unification, Part 1"
+* [[Jane Wyatt]] as Spock's mother Amanda Grayson in "[[Journey to Babel]]", reprising the role in the film ''[[Star Trek IV: The Voyage Home]]''
+* [[Glenn Corbett]] and [[Elinor Donahue]] in "[[Metamorphosis (Star Trek: The Original Series)|Metamorphosis]]"
+* [[Elisha Cook Jr.]] and [[Joan Marshall]] in "[[Court Martial (Star Trek: The Original Series)|Court Martial]]"
+* [[Nancy Kovack]] in "[[A Private Little War]]"
+* [[Vic Tayback]] and [[Anthony Caruso (actor)|Anthony Caruso]] in "[[A Piece of the Action (Star Trek: The Original Series)|A Piece of the Action]]"
+* [[Jeff Corey]] and [[Fred Williamson]] in "[[The Cloud Minders]]"
+* [[Barbara Bouchet]] and [[Warren Stevens]] in "[[By Any Other Name]]"
+* [[Michael Forest]] and [[Leslie Parrish]] in "[[Who Mourns for Adonais?]]"
+* [[Charles Napier (actor)|Charles Napier]] in "[[The Way to Eden]]"
+* [[Frank Gorshin]] and [[Lou Antonio]] in "[[Let That Be Your Last Battlefield]]"
+* [[Ted Cassidy]] and [[Sherry Jackson]] in "[[What Are Little Girls Made Of?]]"; Cassidy also voiced the Balok mannequin in "[[The Corbomite Maneuver (Star Trek: The Original Series)|The Corbomite Maneuver]]", and the Gorn in "[[Arena (Star Trek: The Original Series)|Arena]]"
+* [[Mariette Hartley]] in "[[All Our Yesterdays (Star Trek: The Original Series)|All Our Yesterdays]]"
+* [[Joan Collins]] in "[[The City on the Edge of Forever]]"
+* [[Celia Lovsky]] and [[Arlene Martel]] in "[[Amok Time]]"
+* [[David Soul]] in "[[The Apple (Star Trek: The Original Series)|The Apple]]"
+* [[James Gregory (actor)|James Gregory]] in "[[Dagger of the Mind]]"
+* [[Barbara Anderson (actress)|Barbara Anderson]] in "[[The Conscience of the King]]"
+* [[James Daly (actor)|James Daly]] in "[[Requiem for Methuselah]]"
+* [[Jill Ireland]] in "[[This Side of Paradise (Star Trek: The Original Series)|This Side of Paradise]]"
+* [[Melvin Belli]] and [[Pamelyn Ferdin]] in "[[And the Children Shall Lead]]"
+* [[Keye Luke]], [[Yvonne Craig]] and [[Steve Ihnat]] in "[[Whom Gods Destroy (Star Trek: The Original Series)|Whom Gods Destroy]]"
+* [[Michael Dunn (actor)|Michael Dunn]] and [[Barbara Babcock]] in "[[Plato's Stepchildren]]"
+* [[Clint Howard]] in "[[The Corbomite Maneuver]]"
+* [[BarBara Luna|Barbara Luna]] in "[[Mirror, Mirror (Star Trek: The Original Series)|Mirror, Mirror]]"
+* [[David Opatoshu]] in "[[A Taste of Armageddon]]"
+* [[Barbara Babcock]] in "A Taste of Armageddon" and "[[Plato's Stepchildren]]". Her voice was also heard in "The Squire of Gothos", "Assignment: Earth", "The Tholian Web" and "The Lights of Zetar".
+* [[Morgan Woodward]] in "[[Dagger of the Mind]]" and "[[The Omega Glory]]"
+* [[Arnold Moss]] as mysterious actor Anton Karidian, who proves to have originally been the tyrannical Governor Kodos of Tarsus IV in "[[The Conscience of the King]]"
+* [[Marianna Hill]] in "[[Dagger of the Mind]]"
+* [[Joanne Linville]] in "[[The Enterprise Incident|The ''Enterprise'' Incident]]"
+* [[Louise Sorel]] in "[[Requiem for Methuselah]]"
+* [[John Fiedler]] in "[[Wolf in the Fold]]"
+* [[Vic Perrin]] in "Mirror, Mirror". His voice was also heard in "The Menagerie", "Arena" and "The Changeling".
+* [[Susan Oliver]], [[Jeffrey Hunter]] and [[Malachi Throne]] in "[[The Menagerie (Star Trek: The Original Series)|The Menagerie]]". Malachi Throne also voiced the main Talosian Keeper, with the voice modified so as not to be heard to be the same as the other character he played, Commodore Mendez.
+* [[Antoinette Bower]] in "[[Catspaw (Star Trek: The Original Series)|Catspaw]]"
+* [[Angelique Pettyjohn]] and [[Joseph Ruskin]] in "[[Gamesters of Triskelion]]"
+{{Div col end}}
+
+==Seasons and episodes==
+{{Main|List of Star Trek: The Original Series episodes}}
+
+===Seasons===
+{{:List of Star Trek: The Original Series episodes}}
+
+===Broadcast history===
+<onlyinclude>
+{| class="wikitable"
+|-
+! Season !! Time slot (ET)
+|-
+| [[1966–67 United States network television schedule|1966–67]] || Thursday at 8:30 pm
+|-
+| [[1967–68 United States network television schedule|1967–68]] || Friday at 8:30 pm
+|-
+| [[1968–69 United States network television schedule|1968–69]] || Friday at 10:00 pm (episodes 1–23)<br/>Tuesday at 7:30 pm (episode 24)
+|}
+</onlyinclude>
+===Episode analysis===
+In its writing, ''Star Trek'' is notable as one of the earliest science-fiction TV series to use the services of leading contemporary science fiction writers, such as [[Robert Bloch]], [[Norman Spinrad]], [[Harlan Ellison]], and [[Theodore Sturgeon]], as well as established television writers.[[File:William Shatner Julie Newmar Star Trek 1967.jpg|thumb|right|Shatner and [[Julie Newmar]] (1967)]]
+
+Roddenberry often used the setting of a space vessel set many years in the future to comment on social issues of 1960s America, including sexism, racism, nationalism, and global war.{{r|page19680815}} In November 1968, just a few months after the [[Petula Clark#International fame – the "Downtown" era|first televised interracial touch]], the episode "[[Plato's Stepchildren]]" went [[First interracial kiss on television#Star Trek|incorrectly]]<ref>{{Cite web|url=https://www.theguardian.com/tv-and-radio/2015/nov/20/tv-archive-discovers-couple-who-beat-kirk-and-uhara-to-first-interracial-kiss|title=TV archive discovers couple who beat Kirk and Uhura to first interracial kiss|last=Brown|first=Mark|date=November 20, 2015|website=the Guardian|access-date=July 23, 2016|archive-date=November 22, 2015|archive-url=https://web.archive.org/web/20151122022257/http://www.theguardian.com/tv-and-radio/2015/nov/20/tv-archive-discovers-couple-who-beat-kirk-and-uhara-to-first-interracial-kiss|url-status=live}}</ref> down in history as the first American television show to feature a scripted interracial kiss between characters (Capt. Kirk and Lt. Uhura), although the kiss was only mimed (obscured by the back of a character's head) and depicted as involuntary.<ref>{{cite web | url=http://www.seattlepi.com/tv/259341_tv14.html | title=Interracial romance now the norm on TV, but real-life issues are ignored. | work=[[Seattle Post-Intelligencer]] | access-date=August 11, 2012 | author=McFarland, Melanie | date=February 14, 2006 | archive-date=November 17, 2020 | archive-url=https://web.archive.org/web/20201117212253/https://www.seattlepi.com/ae/tv/article/Interracial-romance-now-the-norm-on-TV-but-1195700.php | url-status=live }}</ref> There is however some dispute to this being the first interracial kiss of the series because the 1967 episode "[[Space Seed]]" – introducing the villain [[Khan Noonien Singh|Khan]] ([[Ricardo Montalbán]]) – has him seducing and kissing Lt. Marla McGivers ([[Madlyn Rhue]]) as part of his malicious machinations. "[[Let That Be Your Last Battlefield]]" presented a direct allegory about the irrationality and futility of racism. Anti-war themes appear in episodes such as "[[The Doomsday Machine (Star Trek: The Original Series)|The Doomsday Machine]]", depicting a planet-destroying weapon as an analogy to nuclear weapons deployed under the principle of [[mutually assured destruction]], and "[[A Taste of Armageddon]]" about a society which has "civilized" war to the point that they no longer see it as something to avoid.
+
+Episodes such as "[[The Apple (Star Trek: The Original Series)|The Apple]]", "[[Who Mourns for Adonais?]]", "[[The Mark of Gideon]]" and "[[The Return of the Archons]]" display subtle anti-religious (owing mainly to Roddenberry's own [[secular humanism]]) and anti-establishment themes. "[[Bread and Circuses (Star Trek: The Original Series)|Bread and Circuses]]" and "[[The Omega Glory]]" have themes that are more pro-Christian or patriotic.{{original research inline|date=January 2012}}
+
+The show experienced network and sponsor interference up to and including wholesale censorship of scripts and film footage. This was a regular occurrence in the 1960s, and ''Star Trek'' suffered from its fair share of tampering. Scripts were routinely vetted and censored by the staff of NBC's Broadcast Standards Department, which copiously annotated every script with demands for cuts or changes (e.g., "Page 4: Please delete McCoy's expletive, 'Good Lord{{'"}} or "Page 43: Caution on the embrace; avoid open-mouthed kiss").<ref>[http://infotekten.de/files/startrek/startrek_american-dream-ebook.pdf Peter Műller, ''Star Trek: The American Dream Continued? The Crisis of the American Dream in the 1960s and its Reflection in a Contemporary TV Series''; Oldenburg University thesis, 1994, pp. 63, 139] {{webarchive|url=https://web.archive.org/web/20110719044007/http://infotekten.de/files/startrek/startrek_american-dream-ebook.pdf |date=July 19, 2011 }}.</ref>
+
+The series was noted for its sense of humor, such as Spock and McCoy's pointed yet friendly bickering. Certain episodes, such as "[[The Trouble with Tribbles]]", "[[I, Mudd]]" and [[A Piece of the Action (Star Trek: The Original Series)|"A Piece of the Action"]], were written and staged as comedies with dramatic elements. Most episodes were presented as action-adventure dramas frequently including space battles or fist fights between the ship's crew and guest antagonists.
+
+Several episodes used the concept of planets developing parallel to Earth allowing reuse of stock props, costumes and sets. "Bread and Circuses", "[[Miri (Star Trek: The Original Series)|Miri]]" and "The Omega Glory" depict such worlds; "A Piece of the Action", [[Patterns of Force (Star Trek: The Original Series)|"Patterns of Force"]] and "Plato's Stepchildren" are based on alien planets that have adopted period Earth cultures (Prohibition-era Chicago, Nazi Germany and ancient Greece respectively). Two episodes depicting time travel ("[[Tomorrow Is Yesterday]]" and "[[Assignment: Earth]]") conveniently place ''Enterprise'' in orbit above 1960s Earth. A third ("[[The City on the Edge of Forever]]") places members of the crew on 1930s Earth.
+
+===Top ranked episodes===
+Several publications have ranked the ten best episodes of ''Star Trek'':
+{| class="wikitable sortable"
+|-
+!Rank
+!''[[Entertainment Weekly]]''<br />(1995)<ref>{{cite magazine | title=Star Trek: The Ultimate Trip Through the Galaxies| magazine=Entertainment Weekly |issue=Special Edition | date=January 18, 1995}}</ref>
+!''[[IGN]]''<br />(2012)<ref>{{cite web | url=http://uk.tv.ign.com/articles/973/973606p1.html | title=IGN's Top 10 Classic Star Trek Episodes | website=[[IGN]] | access-date=August 11, 2012 | archive-date=July 16, 2012 | archive-url=https://web.archive.org/web/20120716070331/http://uk.tv.ign.com/articles/973/973606p1.html | url-status=live }}</ref>
+!''[[Newsweek]]''<br />(2016)<ref name="Newsweek, 2016">{{cite news|last1=Baker|first1=Tim|title=The Top 10 Original Star Trek Episodes|url=http://www.newsweek.com/newsweeks-top-10-star-trek-original-series-410044|access-date=June 9, 2016|newspaper=Newsweek|issue=Special Edition, Star Trek–50 Years|date=January 2, 2016|archive-date=June 11, 2016|archive-url=https://web.archive.org/web/20160611004921/http://www.newsweek.com/newsweeks-top-10-star-trek-original-series-410044|url-status=live}}</ref>
+!''[[Hollywood.com]]''<br />(2013)<ref name="Hollywood.com Ranking">{{cite web|last1=TV: Best Of/Worst Of|title=Ranking All 79 'Star Trek: The Original Series' Episodes from Worst to Best|url=http://www.hollywood.com/tv/ranking-star-trek-original-series-79-episodes-best-worst-59094091/|website=Hollywood.com|access-date=June 9, 2016|date=May 18, 2013|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304065047/http://www.hollywood.com/tv/ranking-star-trek-original-series-79-episodes-best-worst-59094091/|url-status=live}}</ref>
+!''[[Den of Geek]]''<br />(2021)<ref>{{Cite web|url=https://www.denofgeek.com/tv/star-trek-the-original-series-episodes-that-best-define-the-franchise/|title = The Star Trek: The Original Series Episodes That Best Define the Franchise|date = March 3, 2021}}</ref>
+|-
+|1
+|"{{sort|city|[[The City on the Edge of Forever]]}}"
+|"{{sort|city|The City on the Edge of Forever}}"
+|"{{sort|doom|[[The Doomsday Machine (Star Trek: The Original Series)|The Doomsday Machine]]}}"
+|"{{sort|city|The City on the Edge of Forever}}"
+|"{{sort|city|[[A Taste of Armageddon]]}}"
+|-
+|2
+|"[[Space Seed]]"
+|"[[Balance of Terror]]"
+|"Space Seed"
+|"[[Arena (Star Trek: The Original Series)|Arena]]"
+|"{{sort|city|The City on the Edge of Forever}}"
+|-
+|3
+|"[[Mirror, Mirror (Star Trek: The Original Series)|Mirror, Mirror]]"
+|"Mirror, Mirror"
+|"Mirror, Mirror"
+|"Mirror, Mirror"
+|"{{sort|city|[[The Corbomite Maneuver]]}}"
+|-
+|4
+|"{{sort|doom|The Doomsday Machine}}"
+|"Space Seed"
+|"{{sort|troub|[[The Trouble with Tribbles]]}}"
+|"Balance of Terror"
+|"The Devil in the Dark"
+|-
+|5
+|"[[Amok Time]]"
+|"{{sort|troub|The Trouble with Tribbles}}"
+|"{{sort|ente|[[The Enterprise Incident]]}}"
+|"Space Seed"
+|"A Piece of the Action"
+|-
+|6
+|"{{sort|devil|[[The Devil in the Dark]]}}"
+|"[[Where No Man Has Gone Before]]"
+|"[[Journey to Babel]]"
+|"[[The Galileo Seven]]"
+|"Space Seed"
+|-
+|7
+|"{{sort|troub|The Trouble with Tribbles}}"
+|"{{sort|enemy|[[The Enemy Within (Star Trek)|The Enemy Within]]}}"
+|"Balance of Terror"
+|"Amok Time"
+|"Balance of Terror"
+|-
+|8
+|"[[This Side of Paradise (Star Trek: The Original Series)|This Side of Paradise]]"
+|"{{sort|naked|[[The Naked Time]]}}"
+|"Arena"
+|"Journey to Babel"
+|"Arena"
+|-
+|9
+|"{{sort|enter|The Enterprise Incident}}"
+|"This Side of Paradise"
+|"Amok Time"
+|"{{sort|doom|The Doomsday Machine}}"
+|"[[Let That Be Your Last Battlefield]]"
+|-
+|10
+|"Journey to Babel"
+|"Arena"
+|"{{sort|city|The City on the Edge of Forever}}"
+|"{{sort|enter|The Enterprise Incident}}"
+|"[[The Man Trap]]"
+|}
+Of the twenty-one different episodes listed above, thirteen – "Where No Man Has Gone Before", "The Enemy Within", "The Naked Time", "Balance of Terror", "The Galileo Seven", "Arena", "Space Seed", "This Side of Paradise", "The Devil in the Dark", "A Taste of Armageddon", "The Corbomite Maneuver", "The Man Trap", and "The City on the Edge of Forever" – are from the first season and six – "Amok Time", "The Doomsday Machine", "Mirror, Mirror", "The Trouble with Tribbles", "A Piece of the Action", and "Journey to Babel" – are from the second season. Only two – "The Enterprise Incident" and "Let That Be Your Last Battlefield" – derive from the third season.
+
+Only two episodes, "The City on the Edge of Forever" and "Space Seed", appear on all five lists.
+
+===''Leonard Nimoy: Star Trek Memories''===
+In 1983, Leonard Nimoy hosted a one-hour special as a promotional tie-in with the film ''[[Star Trek III: The Search for Spock]]'', in which he recounted his memories of working on the original series and explained the origins of things such as the [[Vulcan nerve pinch]] and the [[Vulcan salute]], as well as a re-airing of the TOS episode "[[Space Seed]]".<ref>{{cite web |url=https://www.imdb.com/title/tt0378242/ |title=Leonard Nimoy: Star Trek Memories |publisher=[[IMDb]] }}</ref>
+
+==Music==
+
+===Theme tune===
+{{Main|Theme from Star Trek}}
+
+The show's theme tune was written by [[Alexander Courage]] and has been featured in several ''Star Trek'' spin-off episodes and motion pictures. Gene Roddenberry subsequently wrote a set of accompanying lyrics, even though the lyrics were never used in the series, nor did Roddenberry ever intend them to be; this allowed him to claim co-composer credit and hence 50% of the theme's performance royalties. Courage considered Roddenberry's actions, while entirely legal, to be unethical.<ref>{{cite web
+|url=http://www.snopes.com/radiotv/tv/trek1.htm
+|title=Unthemely Behavior
+|access-date=August 19, 2010
+|date=March 10, 1999
+|work=[[Urban Legends Reference Pages]]
+|archive-date=November 17, 2020
+|archive-url=https://web.archive.org/web/20201117212316/https://www.snopes.com/fact-check/unthemely-behavior/
+|url-status=live
+}}</ref> Series producer [[Robert H. Justman|Robert Justman]] noted in the book ''Inside Star Trek: The Real Story'', that work on the film ''[[Doctor Dolittle (1967 film)|Doctor Dolittle]]'' kept Courage from working on more than two episodes of the first season. However, Justman also believed that Courage lost enthusiasm for the series because of the "royalty" issue.<ref name="solow1997" />{{rp|185}} Courage did not score any episodes of the second season; however, he did conduct a recording session for about 30 minutes of "library cues" for the second season, on June 16, 1967.<ref name="BondLiner">Bond, Jeff. Liner notes for the Original Series Soundtrack Collection box set. La-La Land Records, 2012, season 2, pp. 29, 31.</ref> Courage returned to score two episodes of the third season.
+
+Later episodes used stock recordings from Courage's earlier work. Jazz trumpeter [[Maynard Ferguson]] recorded a [[jazz fusion]] version of the tune with his band during the late 1970s, and Nichelle Nichols performed the song live complete with lyrics.
+
+The lyrics for the song are:
+
+{{poem quote|
+Beyond the rim of the starlight
+My love is wandering in star flight
+I know he'll find
+In star clustered reaches
+Love, strange love
+A starwoman teaches
+
+I know his journey ends never
+His Star Trek will go on forever
+But tell him while
+He wanders his starry sea
+Remember
+Remember me<ref>{{cite web |title=Star Trek Theme Lyrics |url=https://www.lyricsondemand.com/tvthemes/startreklyrics.html |publisher=Lyrics On Demand |access-date=8 April 2019 |archive-date=June 22, 2020 |archive-url=https://web.archive.org/web/20200622223155/https://www.lyricsondemand.com/tvthemes/startreklyrics.html |url-status=live }}</ref>}}
+
+===Dramatic underscore===
+For budgetary reasons, this series made significant use of "tracked" music, or music written for other episodes that was reused in later episodes. Of the 79 episodes that were broadcast, only 31 had complete or partial original dramatic underscores created specifically for them. The remainder of the music in any episode was tracked from other episodes and from cues recorded for the music library. Which episodes would have new music was mostly the decision of Robert H. Justman, the Associate Producer during the first two seasons.
+
+Screen credits for the composers were given based on the amount of music composed for, or composed and reused in, the episode. Some of these final music credits were occasionally incorrect.
+
+Beyond the short works of [[Source music|"source" music]] (music whose source is seen or acknowledged onscreen) created for specific episodes, eight composers were contracted to create original dramatic underscore during the series run: [[Alexander Courage]], [[George Duning]], [[Jerry Fielding]], [[Gerald Fried]], [[Sol Kaplan]], Samuel Matlovsky, Joseph Mullendore, and [[Fred Steiner]]. The composers conducted their own music. Of these composers, Steiner composed the original music for thirteen episodes and it is his instrumental arrangement of Alexander Courage's main theme that is heard over many of the end title credits of the series.
+
+The tracked musical underscores were chosen and edited to the episode by the music editors, principal of whom were Robert Raff (most of Season One), Jim Henrikson (Season One and Two), and Richard Lapham (Season Three).<ref>{{cite book |last=Steiner |first=Fred |chapter=Music for Star Trek: Scoring a Television Show in the Sixties |editor1-last=Newsom | editor1-first=Iris |title=Wonderful inventions: motion pictures, broadcasting, and recorded sound at the Library of Congress |location=Washington |publisher=Library of Congress |year=1985 |oclc=10374960}}</ref>
+
+Some of the original recordings of the music were released in the United States commercially on the [[GNP Crescendo Record Co.]] label. Music for a number of the episodes was re-recorded by [[Fred Steiner]] and the [[Royal Philharmonic Orchestra]] for the ''[[Varèse Sarabande]]'' label; and by Tony Bremner with the Royal Philharmonic for the ''Label X'' label. Finally in December 2012, the complete original recordings were released by La-La Land Records as a 15-CD [[Box set#Music box sets|box set]], with liner notes by Jeff Bond.<ref name="Lalaland_TOS">{{cite web | url=http://www.lalalandrecords.com/STTOS.html | title=Star Trek: The Original Series Soundtrack Collection: Limited Edition| access-date=January 6, 2013 | url-status=dead | archive-url=https://web.archive.org/web/20130101064424/http://www.lalalandrecords.com/STTOS.html | archive-date=January 1, 2013 | df=mdy-all }}</ref>
+
+===Episodes with original music===
+Listed in production order. Episodes that were only partially scored are in italics.<ref>{{cite book|last=Bond|first=Jeff|chapter=''Star Trek'' Episode Production Guide|title=The Music Of ''Star Trek''|location=Los Angeles |publisher=Lone Eagle Publishing Company|year=1999|isbn=1-58065-012-0}}</ref>
+
+''Season 1'':
+# "The Cage"/"The Menagerie" ([[Alexander Courage]])
+# "Where No Man Has Gone Before" (Alexander Courage)
+# ''"The Corbomite Maneuver" ([[Fred Steiner]])''
+# "Mudd's Women" (Fred Steiner)
+# "The Enemy Within" ([[Sol Kaplan]])
+# "The Man Trap" (Alexander Courage)
+# "The Naked Time" (Alexander Courage)
+# "Charlie X" (Fred Steiner)
+# ''"Balance of Terror" (Fred Steiner)''
+# ''"What Are Little Girls Made Of?" (Fred Steiner)''
+# "The Conscience of the King" (Joseph Mullendore)
+# "Shore Leave" ([[Gerald Fried]])
+# ''"The City on the Edge of Forever" (Fred Steiner)''
+
+''Season 2'':
+# "Catspaw" (Gerald Fried)
+# "Metamorphosis" ([[George Duning]])
+# "Friday's Child" (Gerald Fried)
+# "Who Mourns for Adonais?" (Fred Steiner)
+# "Amok Time" (Gerald Fried)
+# "The Doomsday Machine" (Sol Kaplan)
+# ''"Mirror, Mirror" (Fred Steiner)''
+# ''"I, Mudd" (Samuel Matlovsky)''
+# "The Trouble with Tribbles" ([[Jerry Fielding]])
+# ''"By Any Other Name" (Fred Steiner)''
+# ''"Patterns of Force" (George Duning)''
+# ''"The Omega Glory" (Fred Steiner)''
+# ''"Return to Tomorrow" (George Duning)''
+
+''Season 3'':
+# "Spectre of the Gun" (Jerry Fielding)
+# "Elaan of Troyius" (Fred Steiner)
+# "The Paradise Syndrome" (Gerald Fried)
+# "The Enterprise Incident" (Alexander Courage)
+# "And the Children Shall Lead" (George Duning)
+# "Spock's Brain" (Fred Steiner) 
+# "Is There in Truth No Beauty?" (George Duning)
+# "The Empath" (George Duning)
+# "Plato's Stepchildren" (Alexander Courage)
+
+''Note'': Although "The Way to Eden" had no original score, the episode had special musical material by Arthur Heinemann (the episode's writer), guest star [[Charles Napier (actor)|Charles Napier]] and Craig Robertson. "Requiem for Methuselah" contains a [[Johannes Brahms]] interpretation by Ivan Ditmars.
+
+==Awards==
+{{main|List of awards and nominations received by Star Trek: The Original Series}}
+Although this series never won any Emmys, ''Star Trek'' was nominated for the following [[Emmy Award]]s:
+* Outstanding Dramatic Series (Gene Roddenberry and [[Gene L. Coon]]), 1967
+* Outstanding Dramatic Series (Gene Roddenberry), 1968
+* Outstanding Supporting Actor ([[Leonard Nimoy]] as Mr. Spock), 1967, 1968, 1969
+* Individual Achievement in Art Direction and Allied Crafts (Jim Rugg), 1967
+* Individual Achievement in Cinematography (Darrell Anderson, Linwood G. Dunn, and Joseph Westheimer), 1967
+* Individual Achievement in Film and Sound Editing ([[Doug Grindstaff]]), 1967
+* Outstanding Achievement in Film Editing (Donald R. Rode), 1968
+* Special Classification of Individual Achievement for Photographic Effects (The Westheimer Company), 1968
+* Outstanding Achievement in Art Direction and Scenic Design (John Dwyer and Walter M. Jefferies), 1969
+* Outstanding Achievement in Film Editing (Donald R. Rode), 1969
+* Special Classification Achievements for Photographic Effects (The Howard A. Anderson Company, The Westheimer Company, [[Van der Veer Photo Effects]], Cinema Research), 1969.
+
+Eight of its episodes were nominated for one of science-fiction's top awards, the [[Hugo Award]], in the category "Best Dramatic Presentation". In 1967, the nominated episodes were "[[The Naked Time]]", "[[The Corbomite Maneuver]]", and "[[The Menagerie (Star Trek: The Original Series)|The Menagerie]]". In 1968, all nominees were ''Star Trek'' episodes: "[[Amok Time]]", "[[Mirror, Mirror (Star Trek: The Original Series)|Mirror, Mirror]]", "[[The Doomsday Machine (Star Trek: The Original Series)|The Doomsday Machine]]", "[[The Trouble with Tribbles]]", and "[[The City on the Edge of Forever]]". ''Star Trek'' won both years for the episodes "The Menagerie" and "The City on the Edge of Forever", respectively. In 1968, ''Star Trek'' won a special [[Hugo Award]] for Dramatic Presentation. No episode was named. This was the show's 3rd [[Hugo Award]], and 9th Hugo nomination.
+
+In 1967, ''Star Trek'' was also one of the first television programs to receive an [[NAACP Image Awards|NAACP Image Award]]. 
+
+In 1968, ''Star Trek''{{'}}s most critically acclaimed episode, "The City on the Edge of Forever", written by [[Harlan Ellison]], won the prestigious [[Writers Guild of America Award]] for Best Original Teleplay, although this was for Ellison's original draft script, and not for the screenplay of the episode as it aired.
+
+In 1997, "The City on the Edge of Forever" was ranked #92 on [[TV Guide's 100 Greatest Episodes of All Time|''TV Guide''{{'}}s 100 Greatest Episodes of All Time]].<ref>{{cite journal |year=1997 |title=Special Collectors' Issue: 100 Greatest Episodes of All Time |journal=[[TV Guide]] |issue=June 28 – July 4 }}</ref>
+
+In 2004 and 2007, ''[[TV Guide]]'' ranked ''Star Trek'' as the greatest cult show ever.<ref>''TV Guide'' – The 25 Top Cult Shows Ever! May 30 – June 5, 2004, issue</ref><ref>[https://www.tvguide.com/news/top-cult-shows-40239.aspx TV Guide Names the Top Cult Shows Ever – Today's News: Our Take] {{Webarchive|url=https://web.archive.org/web/20120812080754/http://www.tvguide.com/news/top-cult-shows-40239.aspx |date=August 12, 2012 }} ''[[TV Guide]]'': June 29, 2007</ref>
+
+In 2013, ''TV Guide'' ranked ''Star Trek'' as the greatest sci-fi show (along with ''Star Trek: The Next Generation'')<ref>{{cite journal|journal=TV Guide Magazine|title=The official site of TV Guide Magazine|date=September 16–22, 2013}}</ref> and the #12 greatest show of all time,<ref>{{cite journal |last1=Fretts |first1=Bruce |last2=Roush |first2=Matt |title=The Greatest Shows on Earth |journal=TV Guide Magazine |volume=61 |issue=3194–3195 |pages=16–19 }}</ref> while the [[Writers Guild of America]] ranked it #33 on their list of the 101 Best Written TV Series.<ref>{{cite web|url=https://www.wga.org/writers-room/101-best-lists/101-best-written-tv-series/list|title=101 Best Written TV Series|website=Writers Guild of America West|date=June 2, 2013}}</ref>
+
+==Distribution==
+
+===Home media===
+Episodes of the ''Original Series'' were among the first television series to be released on the VHS and [[laserdisc]] formats in North America. The first episode on VHS for sale to the public was ''[[Space Seed]]'' released in June 1982 (to celebrate the release of the second Star Trek film, The Wrath of Khan) at a price of $29.95, as prior to this titles were rental only.<ref>{{Cite web|url=https://www.startrek.com/article/space-seed-khan-forever-changed-vhs-releases|title="Space Seed," Khan Forever Changed VHS Releases|website=startrek.com|date=February 2018 |language=en|access-date=July 4, 2019|archive-date=July 4, 2019|archive-url=https://web.archive.org/web/20190704132922/https://www.startrek.com/article/space-seed-khan-forever-changed-vhs-releases|url-status=live}}</ref> In 1985, the first 10 episodes went on sale on video at a price of $14.95 with further batches of 10 during 1985 and 1986, making it the first long-running TV series to be released on [[home video]] in its entirety,<ref>{{cite magazine|magazine=[[Daily Variety]]|page=1|title=Par Home Vid Cutting Prices on 'Trek' Tapes|date=December 21, 1984}}</ref> with all episodes eventually being released on both formats. By 1986, sales had reached 1&nbsp;million units.<ref>{{Cite book|url=https://books.google.com/books?id=GSQEAAAAMBAJ&q=best+original+star+trek+episodes&pg=PT26|title=Billboard|date=August 30, 1986|publisher=Nielsen Business Media, Inc.|language=en|access-date=July 26, 2019|archive-date=November 17, 2020|archive-url=https://web.archive.org/web/20201117212219/https://books.google.com/books?id=GSQEAAAAMBAJ&pg=PT26&dq=best+original+star+trek+episodes&hl=en#v=onepage&q=best%20original%20star%20trek%20episodes&f=false|url-status=live}}</ref> With the advent of DVD in the mid-1990s, single DVDs featuring two episodes each in production order were released. In the early 2000s, Paramount Home Video reissued the series to DVD in a series of three deluxe season boxes with added featurettes and documentaries. In February 2009, CBS and Paramount announced that they would release the Original Series on Blu-ray. Season one, two, and three were released on April 28, September 22, and December 15, respectively. The Blu-ray releases let the user choose between "Enhanced Effects" or "Original Effects" via a technique called [[multi-angle]].<ref>{{cite web |url=https://www.amazon.co.uk/exec/obidos/ASIN/B001S3GDTU/brhdpb-21 |title=Star Trek – The Original Series – Series 1 – Complete – Remastered [Blu-ray] [1966]: Amazon.co.uk: DVD |date=April 27, 2009 |publisher=Amazon.co.uk |access-date=May 23, 2009 |archive-date=November 6, 2015 |archive-url=https://web.archive.org/web/20151106202853/http://www.amazon.co.uk/exec/obidos/ASIN/B001S3GDTU/brhdpb-21 |url-status=live }}</ref>
+
+All 79 episodes of the series have been digitally remastered by [[CBS Home Entertainment]] (distributed by [[Paramount Pictures|Paramount]]) and have since been released on DVD.
+CBS Home Entertainment released season one of ''The Original Series'' on Blu-ray on April 28, 2009. The Blu-ray release contains both Original and Remastered episodes by [[seamless branching]].
+
+{|class="wikitable"
+|-
+! Blu-ray name
+! Ep #
+! Discs
+! Region 1/A (USA)
+! Region 2/B (UK)
+! Region 4/B (Australia)
+! Blu-ray special features
+|-
+| Season One
+| style="text-align:center;" | 29
+| 7
+| April 28, 2009
+| April 27, 2009
+| May 6, 2009
+| Starfleet Access for "Where No Man Has Gone Before"
+
+Spacelift: Transporting ''Trek'' Into the 21st Century
+
+Starfleet Access for "The Menagerie, Parts I and II"
+
+Reflections on Spock
+
+Starfleet Access for "The Balance of Terror"
+
+Life Beyond ''Trek'': William Shatner
+
+To Boldly Go... Season One
+
+The Birth of a Timeless Legacy
+
+Starfleet Access for "Space Seed"
+
+Sci-Fi Visionaries
+
+Interactive ''Enterprise'' Inspection
+
+Billy Blackburn's Treasure Chest: Rare Home Movies and Special Memories
+ 
+Kiss 'n' Tell: Romance in the 23rd Century
+
+Starfleet Access for "Errand of Mercy" 
+|-
+| Season Two
+| style="text-align:center;" | 26
+| 7
+| September 22, 2009
+| October 9, 2009
+| October 1, 2009
+| Billy Blackburn's Treasure Chest: Rare Home Movies and Special Memories Part 2
+
+Starfleet Access for "Amok Time"
+
+"Content to Go" featurette via Mobile-Blu: Writing Spock
+
+"Content to Go" featurette via Mobile-Blu: Creating Chekov
+
+"Content to Go" featurette via Mobile-Blu: Listening to the Actors
+
+"More Tribbles, More Troubles" audio commentary by David Gerrold
+
+DS9: "Trials and Tribble-ations"
+
+"Trials and Tribble-ations": Uniting Two Legends
+
+''Star Trek: The Original Series'' on Blu-ray
+
+"Trials and Tribble-ations": An Historic Endeavor
+
+Starfleet Access for "The Trouble with Tribbles"
+
+"Content to Go" featurette via Mobile-Blu: Spock's Mother
+
+To Boldly Go... Season Two
+
+Designing the Final Frontier
+
+''Star Trek'''s Favorite Moments
+
+Writer's Notebook: D.C. Fontana
+
+Life Beyond ''Trek'': Leonard Nimoy
+
+Kirk, Spock & Bones: ''Star Trek'''s Great Trio
+
+''Star Trek'''s Divine Diva: Nichelle Nichols
+
+Enhanced Visual Effects Credits
+|-
+| Season Three
+| style="text-align:center;" | 24
+| 6
+| December 15, 2009
+| March 22, 2010
+| May 1, 2013
+| Life Beyond ''Trek'': Walter Koenig
+
+Chief Engineer's Log
+
+Memoir from Mr. Sulu
+
+Captain's Log: Bob Justman
+
+"Where No Man Has Gone Before" (Unaired, alternate version)
+
+David Gerrold Hosts 2009 Convention Coverage
+
+"The Anthropology of ''Star Trek''" Comic-Con Panel 2009
+
+The World of Rod Roddenberry – Comic-Con 2009
+
+Billy Blackburn's Treasure Chest: Rare Home Movies and Special Memories Part 3
+
+To Boldly Go... Season Three
+
+Collectible ''Trek''
+
+''Star Trek'''s Impact
+|}
+
+===Online distribution===
+[[CBS Interactive]] is presenting all 3 seasons of the series via the [[tv.com]] [[iPhone app]]. The full-length episodes, without the new CGI but digitally processed to remove the original celluloid artifacts, are available to users in the United States at no charge but with embedded ads. Short clips from the shows are also viewable at their web site.<ref name="waldman">{{cite web|last=Waldman|first=Allison|title=CBS adds TV classics to web line up|publisher=TV Squad|date=February 21, 2008|url=http://www.tvsquad.com/2008/02/21/cbs-adds-tv-classics-to-web-line-up/|access-date=March 30, 2008|archive-date=March 5, 2008|archive-url=https://web.archive.org/web/20080305204602/http://www.tvsquad.com/2008/02/21/cbs-adds-tv-classics-to-web-line-up/|url-status=live}}</ref> 
+The company has recently presented all 3 seasons of the series via its [[Paramount+]] premium streaming service. It has all full-length episodes, without the new CGI, like the tv.com app, and is available to users in the United States with subscription without ad interruptions.
+
+In January 2007, the first season of ''Star Trek: The Original Series'' became available for download from [[Apple Inc.|Apple]]'s [[iTunes Store]]. Although consumer reviews indicate that some of the episodes on iTunes are the newly "remastered" editions, iTunes editors had not indicated such, and if so, which are which. All first-season episodes that had been remastered and aired were available from iTunes, except "[[Where No Man Has Gone Before]]", which remains in its original form. On March 20, 2007, the first season was again added to the iTunes Store, with separate downloads for the original and remastered versions of the show, though according to the customer reviews, the original version contains minor revisions such as special effect enhancements.{{Citation needed|date=September 2008}}
+
+[[Netflix]] began online streaming of five of the six ''Star Trek'' television series on July 1, 2011; ''[[Star Trek: Deep Space Nine|Deep Space Nine]]'' followed on October 1, 2011.<ref>{{cite web | url=http://trekmovie.com/2011/04/06/netflix-update-all-star-trek-series-to-begin-streaming-in-july/ | title=Netflix Update: All Star Trek TV Series To Begin Streaming In July | publisher=Trekmovie.com | date=April 6, 2011 | access-date=August 11, 2012 | author=Pascale, Anthony | archive-date=October 5, 2012 | archive-url=https://web.archive.org/web/20121005093512/http://trekmovie.com/2011/04/06/netflix-update-all-star-trek-series-to-begin-streaming-in-july/ | url-status=live }}</ref>
+
+==Films==
+'''''The Original Series'' films'''
+{{main|Star Trek (film series)#The Original Series films}}
+''Star Trek'' creator Gene Roddenberry first suggested the idea of a ''Star Trek'' feature in 1969.<ref name="reeves-stevens 155">Reeves-Stevens, 155–158.</ref> When the original television series was canceled, he lobbied to continue the franchise through a film. The success of the series in [[Broadcast syndication|syndication]] convinced the studio to begin work on a feature film in 1975.<ref name="Locus180">{{cite journal|editor=Brown, Charles|date=October 1975|title=Star Trek Movie|journal=[[Locus (magazine)|Locus]]|volume=1|issue=180|editor-link=Charles N. Brown}}</ref> A series of writers attempted to craft a suitably epic screenplay, but the attempts did not satisfy Paramount, so the studio scrapped the project in 1977. Paramount instead planned on returning the franchise to its roots with a new television series (''Phase II''). The massive worldwide box office success of ''[[Star Wars (film)|Star Wars]]'' in mid-1977 sent Hollywood studios to their vaults in search of similar sci-fi properties that could be adapted or re-launched to the big screen. Following the huge opening of [[Columbia Pictures|Columbia]]'s ''[[Close Encounters of the Third Kind]]'' in late December 1977, production of ''Phase II'' was canceled in favor of making a ''Star Trek'' film.<ref name=SyFyWire-20170927>{{cite web |url= https://www.syfy.com/syfywire/a-canceled-star-trek-show-from-the-70s-quietly-shaped-every-sequel-since |title= What happened to Star Trek: Phase II? : A canceled Star Trek show from the '70s quietly shaped every sequel since |publisher= SyFy |work= SyfyWire |date= September 27, 2017 |access-date= July 28, 2020 |archive-date= July 28, 2020 |archive-url= https://web.archive.org/web/20200728024746/https://www.syfy.com/syfywire/a-canceled-star-trek-show-from-the-70s-quietly-shaped-every-sequel-since |url-status= live |last1= Kaye |first1= Don }}</ref> Beginning with ''[[Star Trek: The Motion Picture]]'' in 1979, it was followed by five sequels, ''[[Star Trek II: The Wrath of Khan]]'' (1982), ''[[Star Trek III: The Search for Spock]]'' (1984), ''[[Star Trek IV: The Voyage Home]]'' (1986), ''[[Star Trek V: The Final Frontier]]'' (1989) and ''[[Star Trek VI: The Undiscovered Country]]'' (1991). Leonard Nimoy directed ''Star Trek''s III and IV, while William Shatner directed ''Star Trek'' V.
+
+'''Reboot films (The Kelvin Timeline)'''
+{{main|Star Trek (film series)#The Kelvin Timeline}}
+After the poor reception of the final ''Next Generation'' film ''Nemesis'' and the cancellation of the television series ''Enterprise'', the franchise's executive producer [[Rick Berman]] and screenwriter [[Erik Jendresen]] began developing a new film,<ref>{{cite news | author = McNary, Dave | title = Trekkers consider series' future | url = https://variety.com/2005/film/news/trekkers-consider-series-future-1117917840/ | work = [[Variety (magazine)|Variety]] | date = February 13, 2005 | access-date = June 1, 2007}}</ref> titled ''Star Trek: The Beginning'', which would take place after ''Enterprise'' but before ''The Original Series''.<ref>{{cite web | author= Hinman, Michael | url=http://www.syfyportal.com/news422489.html | title=Star Trek XI Is Down, But It Is Not Out | website=[[SyFy Portal]] | date=April 12, 2006 | access-date=September 24, 2007 |archive-url = https://web.archive.org/web/20080109215940/http://www.syfyportal.com/news422489.html |archive-date = January 9, 2008}}</ref> In February 2007, [[J. J. Abrams]] accepted Paramount's offer to direct the new film, having been previously attached as producer.<ref>{{cite web | url = https://www.hollywoodreporter.com/hr/content_display/film/news/e3idc516528ddd1b4263febcf5c67efa0ce | title = Abrams takes helm of ''Star Trek'' | work=[[The Hollywood Reporter]] | date = February 24, 2007 | access-date = April 14, 2008 | author = Siegel, Tatiana |archive-url = https://web.archive.org/web/20080516211316/http://www.hollywoodreporter.com/hr/content_display/film/news/e3idc516528ddd1b4263febcf5c67efa0ce <!-- Bot retrieved archive --> |archive-date = May 16, 2008}}</ref> [[Roberto Orci]] and [[Alex Kurtzman]] wrote a screenplay that impressed Abrams, featuring new actors portraying younger versions of the original series' cast. The ''Enterprise'', its interior, and the original uniforms were redesigned.
+
+This revival of the franchise is often considered to be a [[reboot (fiction)|reboot]], but is also a continuation of the franchise, with Nimoy reprising his role of the elderly Spock. This route was taken to free the new films from the restrictions of established continuity without completely discarding it, which the writers felt would have been "disrespectful". This new reality was informally referred to by several names, including the "Abramsverse", "JJ Trek" and "NuTrek", before it was named the "Kelvin Timeline" (versus the "Prime Timeline" of the original series and films) by [[Michael Okuda|Michael]] and [[Denise Okuda]] for use in official ''Star Trek'' reference guides and encyclopedias. The name Kelvin comes from USS ''Kelvin'', a starship involved in the event that creates the new reality in ''[[Star Trek (2009 film)|Star Trek]]'' (2009).<ref name="auto1"/> Abrams named the starship after his grandfather Henry Kelvin, whom he also pays tribute to in ''Into Darkness'' with the Kelvin Memorial Archive.<ref name="auto1">{{cite web|title="The Kelvin Timeline"- Official Name for the New Star Trek Universe|url=https://www.msn.com/en-us/video/popculture/the-kelvin-timeline-official-name-for-the-new-star-trek-universe/vp-AAhGc7S|publisher=MSN|access-date=July 24, 2016|date=June 27, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160819105802/https://www.msn.com/en-us/video/popculture/the-kelvin-timeline-official-name-for-the-new-star-trek-universe/vp-AAhGc7S|archive-date=August 19, 2016}}</ref><ref>{{cite web|last1=Staff|first1=TrekCore|title=STAR TREK Alternate Universe Finally Gets Official Name {{!}} TrekCore Blog|url=http://trekcore.com/blog/2016/06/star-trek-alternate-universe-finally-gets-official-name/|website=trekcore.com|access-date=July 24, 2016|date=June 26, 2016|archive-date=July 23, 2016|archive-url=https://web.archive.org/web/20160723001831/http://trekcore.com/blog/2016/06/star-trek-alternate-universe-finally-gets-official-name/|url-status=live}}</ref> 
+
+The three films in the Kelvin Timeline include ''[[Star Trek (2009 film)|Star Trek]]'' (2009), ''[[Star Trek Into Darkness]]'' (2013) and ''[[Star Trek Beyond]]'' (2016). The last was dedicated to Nimoy, who died in 2015, and [[Anton Yelchin]], who died in a [[car crash]] in the summer it was released.
+
+==Merchandising==
+{{more citations needed section|date=September 2016}}
+''Star Trek: The Original Series'' has inspired many commercial products, including toys, comic books, and many other materials. The comics are generally considered [[non-canonical]].
+
+===Action figures===
+In the early 1970s, the [[Mego Corporation]] acquired the license to produce ''Star Trek'' [[action figure]]s, which the company successfully marketed from 1974 to 1976. During this period, the company produced a line of 8" figures featuring [[James T. Kirk|Captain Kirk]], [[Mr. Spock]], [[Leonard McCoy]], [[Mr. Scott]], [[Lt. Uhura]], "Aliens" (a [[Klingon]], a [[Neptunian]], [[The Cage (Star Trek: The Original Series)|the Keeper]], a [[Gorn]], a [[Let That Be Your Last Battlefield|Cheron]], a [[Romulan]], a [[The Cage (Star Trek: The Original Series)|Talosian]], an [[Andorian]], and a [[Mugato]]), and numerous playsets. (Mego also produced a "life-size" toy [[tricorder]].)
+
+In the mid-2000s, Paul "Dr. Mego" Clarke and Joe Sena founded EMCE Toys (pronounced "MC") to bring Mego toys back to the marketplace. (Mego went out of business in 1983.)<ref name=Caringer>Caringer, Kevin. [http://www.newforcecomics.com/trekref/megohist.htm "The Rise and Fall of a Toy Giant,"] {{webarchive|url=https://web.archive.org/web/20150530235041/http://www.newforcecomics.com/trekref/megohist.htm |date=May 30, 2015 }} ''White's Guide to Collecting Figures'' vol. 2, #1 (Jan. 1996). Archived at the New Force Comics website.</ref> Working with [[Diamond Select Toys]], current holders of the ''Star Trek'' license, these figures have been selling in comics shops. New characters are currently{{when|date=December 2014}} being produced that Mego did not originally make, such as [[Hikaru Sulu|Lt. Sulu]], [[Pavel Chekov|Ensign Chekov]], and "[[Space Seed]]" villain [[Khan Noonien Singh]]. The [[Gorn]] that Mego produced had a brown [[Lizard (character)|Lizard]] head (identical to the Marvel Comics villain) on a brown body wearing a [[Klingon]] outfit. ''Star Trek'' fans had frequently wished that Mego had made a "TV-accurate" Gorn; EMCE Toys and DST produced a new green Gorn based on the TV episode "[[Arena (Star Trek: The Original Series)|Arena]]".{{citation needed|date=February 2014}} EMCE Toys hired original Mego packaging artist Harold Schull to illustrate new artwork for Sulu, Chekov, Khan, and the Gorn.{{citation needed|date=February 2014}} EMCE Toys is continuing the Mego revival with the production of more ''Star Trek'' figures, including [[Captain Pike]] and the [[Salt Vampire]].{{citation needed|date=February 2014}}
+
+===Comic books===
+{{main|Star Trek (comics)}}
+The first ''Star Trek'' comics were published by [[Gold Key Comics]] between 1967 and 1978. These comics were highly stylized and diverged wildly from the TV series continuity. Most storylines used in the Gold Key series featured original characters and concepts, although later issues did include sequels to the original series episodes "[[The City on the Edge of Forever (TOS episode)|The City on the Edge of Forever]]", "[[Metamorphosis (Star Trek: The Original Series)|Metamorphosis]]" and "[[I, Mudd]]". Writers included George Kashdan, [[Arnold Drake]] and [[Len Wein]]. Originally they were illustrated by [[Alberto Giolitti]], an Italian artist who had never seen the series and only had publicity photos to use as references. Since Giolitti didn't have a publicity photo of [[James Doohan]], early issues of the series had Mr. Scott drawn differently. The original issues, most of which featured photographic covers showing images from the series, are highly collectable. They are fondly remembered by fans, and a series of reprints ("The Key Collection") of these original titles began to appear in 2004, published by Checker. The Gold Key series had a run of 61 issues. Gold Key lost the ''Star Trek'' license to [[Marvel Comics]] in 1979 (although Marvel's license from Paramount prohibited them from utilizing concepts introduced in the original series).<ref>{{cite web|url=http://curtdanhauser.com/Main.html|title=Guide to the Gold Key Star Trek Comics|author=Curt Danhauser|access-date=December 25, 2006|archive-date=January 9, 2002|archive-url=https://web.archive.org/web/20020109150718/http://curtdanhauser.com/Main.html|url-status=live}}</ref>
+
+From 1969 to 1973, a series of weekly ''Star Trek'' [[comic strip]]s ran in the British comics magazine eventually known as ''[[TV Century 21]]''. A total of 258 issues were produced, as well as various annuals and specials. All were original stories. Two more annuals, under the ''Mighty TV Comic'' banner, also produced original ''Star Trek'' materials. In addition, the weekly ''[[TV Comic]]'' reprinted serialized versions of the U.S. Gold Key comics.<ref>{{cite web|url=http://rhandley.0catch.com/trekstrips |title=The Star Trek Comic Strips |access-date=December 25, 2006 |author=Rich Handley |url-status=dead |archive-url=https://web.archive.org/web/20060212005514/http://rhandley.0catch.com/trekstrips |archive-date=February 12, 2006 }}</ref>
+
+In 1977–1978, before [[home video]] was widely available, Mandala Productions and [[Bantam Books]] published [[Photonovel|FotoNovels]] of ''TOS'' that included direct adaptations of actual color television episode frames (with [[word balloons]]) in comics format.
+
+From February 1984 through February 1996, [[DC Comics]] held the license to publish comic books based upon the ''[[Star Trek]]'' franchise, including ''Star Trek: The Original Series''. The main DC Comics ''Star Trek'' title was published in two series, comprising 136 issues, 9 annuals, and a number of special issues, plus several mini-series that linked ''TOS'' and the subsequent series ''[[Star Trek: The Next Generation]]'' (''TNG'').
+
+Marvel Comics again obtained the ''Star Trek'' license in 1996. Marvel (under the "Marvel/Paramount comics" imprint) published various one-shots and the quarterly ''Star Trek Unlimited'' series, which covered ''TOS'' as well as ''TNG''.<ref>{{cite web|url=http://www.startrekcomics.info/marvel2unlimited.html|title=Star Trek: Unlimited monthly series from Marvel Paramount Comics, 1996–1998|access-date=December 29, 2006|archive-date=August 29, 2011|archive-url=https://web.archive.org/web/20110829104112/http://www.startrekcomics.info/marvel2unlimited.html|url-status=live}}</ref> They also introduced the new series ''[[Star Trek: Early Voyages]]'', which dealt with [[Christopher Pike (Star Trek)|Christopher Pike]]'s adventures as captain of the ''Enterprise'' (as depicted in the rejected ''TOS'' pilot "[[The Cage (Star Trek: The Original Series)|The Cage]]"). Fan acceptance of these comics got off to a shaky start when Marvel's inaugural publication of its new ''Star Trek'' line turned out to be a crossover between ''TOS'' and Marvel's popular superhero team, the [[X-Men]]. However, the series turned out to be relatively popular, registering strong sales.
+
+Beginning in 2006, [[Tokyopop]] published two projects based upon the original series. The new comic anthologies, produced by [[Joshua Ortega]], were released annually in September 2006 (''Shinsei Shinsei'') and 2007 (''Kakan ni Shinkou''). Five artists and writer teams presented five new stories, per volume, based on the original series.<ref>[http://store.yahoo.com/omegapp/tokyopop.html] {{webarchive|url=https://web.archive.org/web/20120204041025/http://store.yahoo.com/omegapp/tokyopop.html|date=February 4, 2012}}</ref>
+
+==Legacy and cultural influence==
+{{main|Cultural influence of Star Trek}}
+
+===Parodies===
+''The Original Series'' has been parodied many times in other television series. ''[[Saturday Night Live]]'' produced two famous sketches parodying ''The Original Series'', [[The Last Voyage of the Starship Enterprise|"The Last Voyage of the Starship ''Enterprise''"]] in 1976<ref name="LVSE">{{cite web |url=http://trekmovie.com/2010/05/29/flashback-to-52976-watch-snls-the-last-voyage-of-the-starship-enterprise-skit/ |title=Flashback to May 29, 1976 – Watch SNL's "The Last Voyage of the Starship ''Enterprise''" Skit |access-date=July 23, 2010 |last=Pascale |first=Anthony |date=May 29, 2010 |work=trekmovie.com |archive-date=September 5, 2015 |archive-url=https://web.archive.org/web/20150905165648/http://trekmovie.com/2010/05/29/flashback-to-52976-watch-snls-the-last-voyage-of-the-starship-enterprise-skit/ |url-status=live }}</ref> and William Shatner's own "[[Get a life (idiom)|Get a life]]" sketch in 1986 (which parodied the show's "trekkie" followers). "The Last Voyage of the Starship ''Enterprise''" is a twelve-minute sketch, written by [[Michael O'Donoghue]]. It was described by [[TrekMovie.com]] as "one of the best ''Star Trek'' parody sketches of all time".<ref name="LVSE" /> [[TVSquad]] ranked Shatner's "Get a life" sketch alongside "The Last Voyage{{nbsp}}..." as one of the most famous parodies of the show.<ref name="TVS">{{cite web |url=http://www.tvsquad.com/2008/07/18/star-trek-the-television-parodies-videos/ |title=Star Trek: the television parodies – Videos |access-date=July 28, 2010 |last=Keller |first=Richard |date=July 18, 2008 |work=[[TV Squad]] |archive-date=May 31, 2009 |archive-url=https://web.archive.org/web/20090531064703/http://www.tvsquad.com/2008/07/18/star-trek-the-television-parodies-videos |url-status=live }}</ref>
+
+The Canadian comedy duo [[Wayne and Shuster]] parodied ''Star Trek'' as ''Star Schtick'' in the late 1970s. An entire Finnish parody series ''[[Star Wreck]]'' was produced starting in 1992, culminating with ''[[Star Wreck: In the Pirkinning]]'' in 2005, all available as legal downloads on the web.<ref>{{cite web|url=http://lame.lut.fi/starwreck/ |title=Star Wreck mirror @ |publisher=Lame.lut.fi |access-date=August 2, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120314091958/http://lame.lut.fi/starwreck/ |archive-date=March 14, 2012 }}</ref>
+
+The series has also been parodied on ''[[The Simpsons]]'',<ref name="TVS" /> ''[[Family Guy]]'' and notably in the ''[[Futurama]]'' episode "[[Where No Fan Has Gone Before]]", which was described by [[Wired (magazine)|''Wired'' magazine]] as a "touchstone" for fans.<ref name="GameLife">{{cite magazine |url=http://blog.wired.com/games/2007/12/video-games-fut.html |title=Videogames & Futurama, Part 1: Raiders of the Lost Arcade |magazine=Wired |author=Baker, Chris |date=December 17, 2007 |access-date=February 2, 2008 |archive-date=August 4, 2011 |archive-url=https://web.archive.org/web/20110804234344/http://www.wired.com/gamelife/2007/12/video-games-fut/ |url-status=live }}</ref> The 1999 film ''[[Galaxy Quest]]'' portrays the lives of a once-popular television space-drama crew who are kidnapped by real aliens who have mistaken the fictional series for reality.<ref>{{cite news | url=https://www.bbc.co.uk/cult/st/interviews/stewart/page13.shtml | title=What did Patrick Stewart think of Galaxy Quest? | work=[[BBC Online]] | access-date=August 11, 2012 | archive-date=January 13, 2014 | archive-url=https://web.archive.org/web/20140113105956/http://www.bbc.co.uk/cult/st/interviews/stewart/page13.shtml | url-status=dead }}</ref><ref>{{cite news |last=Lyall |first=Sarah |title=To Boldly Go Where Shakespeare Calls |work=The New York Times |date=January 27, 2008 |url=https://www.nytimes.com/2008/01/27/theater/27lyal.html?&pagewanted=all |access-date=June 28, 2008 |archive-date=November 6, 2015 |archive-url=https://web.archive.org/web/20151106203230/http://www.nytimes.com/2008/01/27/theater/27lyal.html?&pagewanted=all |url-status=live }}</ref> The main characters are parodies of ''Star Trek'' characters, and many of the plot elements refer to or parody popular 1960s TV-series customs.<ref>{{cite web|url=http://wilwheaton.net/2001/09/tangent/|title=Wil Wheaton dot NET: Where is my mind?: Tangent|publisher=Wilwheaton.net|date=September 24, 2001|access-date=August 15, 2021}}</ref> On [[Adult Swim]]{{'}}s ''[[FishCenter Live]]'', a parody of the [[USS Enterprise (NCC-1701)|USS ''Enterprise'']] was featured called the "USS ''FishCenterprise'' NCC-1065".<ref name="Hillebrand & Schneider 2020">{{cite web|last1=Hillebrand|first1=Jörg|last2=Schneider|first2=Bernd|title=Ex Astris Scientia – Visual Crossovers with Other Series/Movies|url=http://www.ex-astris-scientia.org/inconsistencies/crossovers.htm|work=Ex Astris Scientia|publisher=ex-astris-scientia.org|date=January 1, 2020|access-date=January 3, 2020|archive-date=January 4, 2020|archive-url=https://web.archive.org/web/20200104044013/http://www.ex-astris-scientia.org/inconsistencies/crossovers.htm|url-status=live}}</ref>
+
+The series was also parodied in print as "Star Blecch" in the December 1967 issue of Mad Magazine (Issue #115).<ref>{{Cite web|url=https://imgur.com/gallery/QNfDT|title = Star Blecch, 'Mad Magazine' #115, December 1967, pp. 4–8}}</ref>
+
+John Scalzi's novel ''Redshirts'', winner of the 2013 [[Hugo Award]] for Best Novel, uses the theme of red-shirted Star Fleet officers as [[cannon fodder]].
+
+[[Traumschiff Surprise – Periode 1|''(T)raumschiff Surprise – Periode 1'']] (2004) is a movie directed by [[Michael Herbig]] which parodies ''Star Trek'' and ''[[Star Wars]]''.
+
+===Fan productions===
+{{See also|Star Trek fan productions}}
+
+''Star Trek'' has inspired many fans to produce stories for free Internet distribution. Many of these are set in the time of ''The Original Series'', including ''[[Star Trek: Phase II (fan series)|Star Trek: Phase II]]'' which was nominated for a Hugo Award and received support from actors and writers who were involved with ''The Original Series''.
+
+"[[Star Trek Continues|Star Trek: Continues]]" chronicles the last year of the 5-year voyage of The Enterprise. Gene Roddenberry's son, "Rod", announced after a showing in 2014 that this series would have been considered canon by his father.<ref>{{cite web |title=Statement of Rod Roddenberry about Star Trek Continues |website=[[Facebook]] |url=https://www.facebook.com/StarTrekContinues/photos/a.368013926565463.92376.333296680037188/811590945541090/ |access-date=December 20, 2019 |archive-date=November 17, 2020 |archive-url=https://web.archive.org/web/20201117212343/https://www.facebook.com/StarTrekContinues/photos/a.368013926565463.92376.333296680037188/811590945541090/ |url-status=live }}</ref> Comprising 11 full episodes and numerous additional materials, ''Star Trek: Continues'' was produced from 2013 to 2017 and funded by a kickstarter.
+
+===Series sequels===
+{{main|List of Star Trek television series}}
+[[File:QTXP 20121019 Destination Star Trek London MG 2284.jpg|thumb|The Captains, together in London at ''Destination Star Trek'']]
+The original ''Star Trek'' was followed in 1973 and beyond with more shows set in the same [[shared universe]]. The subsequent series include:
+* ''[[Star Trek: The Animated Series|The Animated Series]]'' (1973–1974)
+* ''[[Star Trek: The Next Generation|The Next Generation]]'' (1987–1994, [[Star Trek (film series)#The Next Generation films|films]])
+* ''[[Star Trek: Deep Space Nine|Deep Space Nine]]'' (1993–1999)
+* ''[[Star Trek: Voyager|Voyager]]'' (1995–2001)
+* ''[[Star Trek: Enterprise|Enterprise]]'' (2001–2005)
+* ''[[Star Trek: Discovery|Discovery]]'' (2017–2024)
+* ''[[Star Trek: Short Treks]]'' (2018–2020)
+* ''[[Star Trek: Picard|Picard]]'' (2020–2023)
+* ''[[Star Trek: Lower Decks|Lower Decks]]'' (2020–2024)
+* ''[[Star Trek: Prodigy|Prodigy]]'' (2021–2024) 
+* ''[[Star Trek: Very Short Treks|Very Short Treks]]'' (2023)
+* ''[[Star Trek: Strange New Worlds|Strange New Worlds]]'' (2022–present)
+* ''[[Star Trek: Starfleet Academy|Starfleet Academy]]'' (2026–present)
+
+==Reception==
+[[Rod Serling]] said of the series that "''Star Trek'' was again a very inconsistent show which at times sparkled with true ingenuity and pure science fiction approaches. At other times it was more carnival-like, and very much more the creature of television than the creature of a legitimate literary form."<ref>{{cite web|url=http://io9.com/was-star-trek-ever-really-intelligent-grown-up-science-1563605154|title=Was Star Trek Ever Really Intelligent, Grown-Up Science Fiction?|author=Charlie Jane Anders|date=April 15, 2014|publisher=IO9|access-date=April 20, 2014|archive-date=April 19, 2014|archive-url=https://web.archive.org/web/20140419173047/http://io9.com/was-star-trek-ever-really-intelligent-grown-up-science-1563605154|url-status=live}}</ref>
+
+[[Isaac Asimov]] and ''Star Trek'' creator Gene Roddenberry developed a unique relationship during ''Star Trek''{{'}}s initial run in the late 1960s. Asimov wrote a critical essay on ''Star Trek''{{'}}s scientific accuracy for ''TV Guide'' magazine. Roddenberry retorted respectfully with a personal letter explaining the limitations of accuracy when writing a weekly series. Asimov corrected himself with a follow-up essay to ''TV Guide'' claiming despite its inaccuracies, that ''Star Trek'' was a fresh and intellectually challenging science fiction television show. The two remained friends to the point where Asimov even served as an adviser on a number of ''Star Trek'' projects.<ref>{{cite web | url=http://www.lettersofnote.com/2012/06/getting-star-trek-on-air-was-impossible.html | title=Getting Star Trek on the air was impossible | date=June 25, 2012 | publisher=Letters of Note | access-date=September 6, 2014 | archive-date=June 27, 2012 | archive-url=https://web.archive.org/web/20120627222403/http://www.lettersofnote.com/2012/06/getting-star-trek-on-air-was-impossible.html | url-status=dead }}</ref>
+
+On [[review aggregator]] [[Rotten Tomatoes]], Season 1 received an approval rating of 71% based on 41 reviews. The critical consensus reads, "An optimistic ode to humanity, ''Star Trek'' may look dated, but its gadgetry and solid storytelling solidify its place as one of pop culture's most enduring franchises."<ref>{{Citation|title=Star Trek: Season 1|url=https://www.rottentomatoes.com/tv/star-trek/s01|language=en|access-date=June 6, 2020|archive-date=August 7, 2020|archive-url=https://web.archive.org/web/20200807152930/https://www.rottentomatoes.com/tv/star-trek/s01|url-status=live}}</ref> Season 2 received an approval rating of 100% based on 6 reviews, with an average rating of 7.33/10.<ref>{{Citation|title=Star Trek: Season 2|url=https://www.rottentomatoes.com/tv/star-trek/s02|language=en|access-date=June 6, 2020|archive-date=August 7, 2020|archive-url=https://web.archive.org/web/20200807153112/https://www.rottentomatoes.com/tv/star-trek/s02|url-status=live}}</ref> Season 3 received an approval rating of 50% based on 10 reviews, with an average rating of 5.5/10. The critical consensus reads, "Budget cuts leave the stars of ''Star Trek'' stranded among shoddy set pieces and clunky writing – though even at its worst fans may still enjoy its campy delights."<ref>{{Citation|title=Star Trek: Season 3|url=https://www.rottentomatoes.com/tv/star-trek/s03|language=en|access-date=June 6, 2020|archive-date=August 7, 2020|archive-url=https://web.archive.org/web/20200807153007/https://www.rottentomatoes.com/tv/star-trek/s03|url-status=live}}</ref>
+
+In 2016, in a listing that included each ''Star Trek'' film and TV series together, this series was ranked first by the [[Los Angeles Times|''L.A. Times'']], ahead of the 1982 film ''[[Star Trek II: The Wrath of Khan]]'' and ''[[Star Trek: Deep Space Nine]]'', in third place.<ref>{{Cite web|url=https://www.latimes.com/entertainment/movies/la-et-hc-star-trek-movie-and-show-ranking-20160830-snap-story.html|title=Ranking every 'Star Trek' movie and TV series from first to worst|last=Bernardin|first=Marc|website=[[Los Angeles Times]]|date=September 8, 2016|access-date=July 12, 2019|archive-date=July 12, 2019|archive-url=https://web.archive.org/web/20190712164534/https://www.latimes.com/entertainment/movies/la-et-hc-star-trek-movie-and-show-ranking-20160830-snap-story.html|url-status=live}}</ref>
+
+In 2017, [[Vulture.com|Vulture]] ranked the original ''Star Trek'' the third best live-action ''Star Trek'' television show, while at the same time praising it for "laying down the foundation".<ref>{{Cite web|url=https://www.vulture.com/article/star-trek-every-tv-show-ranked-worst-to-best.html|title=Every Star Trek TV Show, Ranked From Worst to Best|website=vulture.com|date=September 22, 2017|access-date=July 12, 2019|archive-date=July 12, 2019|archive-url=https://web.archive.org/web/20190712141344/https://www.vulture.com/article/star-trek-every-tv-show-ranked-worst-to-best.html|url-status=live}}</ref> 
+
+In 2018, ''[[IndieWire]]'' ranked ''Star Trek'' the original series as the 8th best space science fiction show set in outer space, including 18 overall shows from this genre.<ref>{{Cite web|url=https://www.indiewire.com/2018/04/best-sci-fi-shows-space-1201954486/|title=The 18 Best Sci-Fi TV Shows Set In Space, Ranked|last1=Miller|first1=Liz Shannon|date=April 18, 2018|website=IndieWire|language=en|access-date=February 27, 2019|archive-date=July 6, 2019|archive-url=https://web.archive.org/web/20190706143513/https://www.indiewire.com/2018/04/best-sci-fi-shows-space-1201954486/|url-status=live}}</ref>
+
+In 2018, [[Io9]]/[[Gizmodo]] ranked the fictional spacecraft design shown in this television series, the Enterprise, as the number one best version of starship ''Enterprise'' of the ''Star Trek'' franchise.<ref name=":02">{{Cite news|url=https://io9.gizmodo.com/all-11-versions-of-the-u-s-s-enterprise-ranked-1823170805|title=All 11 Versions of the U.S.S. Enterprise, Ranked|last=Whitbrook|first=James|newspaper=Gizmodo|language=en-US|access-date=July 9, 2019|archive-date=July 9, 2019|archive-url=https://web.archive.org/web/20190709231459/https://io9.gizmodo.com/all-11-versions-of-the-u-s-s-enterprise-ranked-1823170805|url-status=live}}</ref> They felt that the original design was still superior to almost a dozen different later versions.<ref name=":02" />
+
+In 2019, [[Nerdist News|''Nerdist'']] ranked the original series number one best out of seven ''Star Trek'' franchise television series, including up to the second season of ''[[Star Trek: Discovery]]''.<ref>{{Cite web|url=https://nerdist.com/article/all-7-star-trek-series-ranked/|title=All 7 Star Trek Series, Ranked|website=Nerdist|access-date=July 6, 2019|archive-date=July 9, 2019|archive-url=https://web.archive.org/web/20190709124044/https://nerdist.com/article/all-7-star-trek-series-ranked/|url-status=dead}}</ref>
+
+In 2019, [[Popular Mechanics]] ranked ''Star Trek'' the 6th best science fiction television show ever.<ref>{{Cite web|url=https://www.popularmechanics.com/technology/digital/home-entertainment/the-50-greatest-sci-fi-tv-shows|title=The 50 Best Sci-Fi TV Shows Ever|last1=Hoffman|first1=Jordan|last2=Wakeman|first2=Gregory|date=July 12, 2019|website=Popular Mechanics|language=en-US|access-date=July 20, 2019|archive-date=January 29, 2015|archive-url=https://web.archive.org/web/20150129080404/http://www.popularmechanics.com/technology/digital/home-entertainment/the-50-greatest-sci-fi-tv-shows|url-status=live}}</ref>
+
+In 2021, [[Empire (magazine)|''Empire'' magazine]] ranked it the 36th greatest television show ever.<ref name=":3">{{Cite web|title=The 100 Greatest TV Shows Of All Time|url=https://www.empireonline.com/tv/features/best-tv-shows-ever-2/|access-date=March 29, 2021|website=Empire}}</ref>
+
+==See also==
+{{Portal|United States|Science Fiction|Speculative fiction|Television|1960s}}
+* "[[Beam me up, Scotty]]"
+* [[Outline of Star Trek|Outline of ''Star Trek'']]
+* [[Timeline of Star Trek|Timeline of ''Star Trek'']]
+
+{{clear}}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{sister project links|d=y|display=''Star Trek: The Original Series''|auto=y}}
+*[https://www.startrek.com/en-un/series/star-trek-the-original-series Official website]
+* {{IMDb title}}
+{{Memory Alpha|Star_Trek:_The_Original_Series|''Star Trek: The Original Series''}}
+* [https://memorybeta.fandom.com/wiki/Star_Trek:_The_Original_Series ''Star Trek: The Original Series''] at Memory Beta
+* [http://topics.nytimes.com/topics/reference/timestopics/subjects/s/star_trek ''Star Trek: The Original Series''] collected news and commentary at ''[[The New York Times]]''
+
+{{Star Trek}}
+{{Star Trek: The Original Series}}
+{{Navboxes
+|title = [[List of awards and nominations received by Star Trek: The Original Series|Awards for ''Star Trek: The Original Series'']]
+|list =
+{{EmmyAward GovernorsAward}}
+{{Hugo Award for Best Dramatic Presentation}}
+{{TCA Heritage Award}}
+{{WritersGuildofAmericaEpisodicDramaScreenplay}}
+}}
+{{Gene Roddenberry}}
+
+{{Authority control}}
+
+[[Category:Star Trek: The Original Series| ]]
+[[Category:Star Trek television series|Original Series]]
+[[Category:1960s American drama television series]]
+[[Category:1960s American science fiction television series]]
+[[Category:1966 American television series debuts]]
+[[Category:1966 English-language television series debuts]]
+[[Category:1969 American television series endings]]
+[[Category:1969 English-language television series endings]]
+[[Category:American adventure television series]]
+[[Category:1960s adventure television series]]
+[[Category:American television series revived after cancellation]]
+[[Category:English-language American television shows]]
+[[Category:Hugo Award–winning television series]]
+[[Category:NBC science fiction dramas]]
+[[Category:Saturn Award–winning television series]]
+[[Category:Soft science fiction]]
+[[Category:Space adventure television series]]
+[[Category:Space Western television series]]
+[[Category:Television series by CBS Studios]]
+[[Category:Television series by Desilu]]
+[[Category:Television series created by Gene Roddenberry]]
+[[Category:Television series set in the 23rd century]]
+[[Category:Television shows adapted into comics]]
+[[Category:Television shows adapted into films]]
+[[Category:Television shows adapted into novels]]
+[[Category:Television shows adapted into video games]]
+[[Category:Television shows shot in Los Angeles]]

@@ -1,0 +1,252 @@
+{{Short description|1960 film by Michael Powell}}
+{{Use British English|date=September 2013}}
+{{Use dmy dates|date=June 2022}}
+{{Infobox film
+| name           = Peeping Tom
+| image          = Peepingtomposter.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Michael Powell]]
+| writer         = [[Leo Marks]]
+| producer       = Michael Powell
+| starring       = {{Plainlist|
+* [[Karlheinz Böhm|Carl Boehm]]
+* [[Moira Shearer]]
+* [[Anna Massey]]
+* [[Maxine Audley]]
+}}
+| cinematography = [[Otto Heller]]
+| editing        = [[Noreen Ackland]]
+| music          = [[Brian Easdale]]
+| studio         = Michael Powell (Theatre)
+| distributor    = [[Anglo-Amalgamated|Anglo-Amalgamated Film Distributors]]
+| released       = {{Film date|df=y|1960|4|7}}
+| runtime        = 101 minutes<!--Theatrical runtime: 101:16--><ref>{{cite web|title=''Peeping Tom'' (15)|url=https://www.bbfc.co.uk/release/peeping-tom-q29sbgvjdglvbjpwwc0ynjm1nte|publisher=[[British Board of Film Classification]]|date=16 September 1994|access-date=29 October 2022}}</ref>
+| country        = United Kingdom
+| language       = English
+| budget         = £133,394<ref name="money">{{cite book |last=Chapman |first=James |year=2022 |title=The Money Behind the Screen: A History of British Film Finance, 1945–1985 |publisher=[[Edinburgh University Press]] |page=360 |isbn=9781399500760}}</ref>
+| gross          = $149,495<ref name="NUM">{{cite The Numbers |id=Peeping-Tom |title=Peeping Tom (1960) |access-date=26 January 2024 |publisher_hide=yes}}</ref>
+}}
+'''''Peeping Tom''''' is a 1960 British [[psychological horror]]-[[thriller film]]<ref name=gritten>{{cite news|url=https://www.telegraph.co.uk/culture/film/7967407/Michael-Powells-Peeping-Tom-the-film-that-killed-a-career.html|title=Michael Powell's 'Peeping Tom': the film that killed a career|first=David|last=Gritten|date=27 August 2010|access-date=19 July 2018|newspaper=[[The Daily Telegraph]]}}</ref> directed by [[Michael Powell]], written by [[Leo Marks]], and starring [[Karlheinz Böhm|Carl Boehm]], [[Moira Shearer]], [[Anna Massey]] and [[Maxine Audley]].<ref name="BFIsearch">{{Cite web |title=Peeping Tom |url=https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150041119 |access-date=18 August 2024 |website=British Film Institute Collections Search}}</ref> The film revolves around a serial killer who murders women while using a portable film camera to record their dying expressions of terror, putting his footage together into a [[snuff film]] used for his own self-pleasure. Its title derives from the expression "[[Peeping Tom]]", which describes a [[voyeur]].
+
+The film's controversial subject matter and its extremely harsh reception by critics had a severely negative impact on Powell's career as a director in the United Kingdom.<ref name="Golden">{{cite web |last=Navarro |first=Meagan |title=The 30 Most Influential Slasher Movies of All Time |url=https://www.vulture.com/article/best-slasher-horror-movies.html |website=[[Vulture (website)|Vulture]]|date=2 October 2023|orig-date=30 November 2018|access-date=2 September 2023|quote=The backlash for this British psychological horror film was so strong upon release that director Michael Powell never made another British film again.}}</ref> However, it attracted a [[cult film|cult following]], and in later years, it has been re-evaluated and is now widely considered a masterpiece,<ref name="two">{{cite magazine |last=Vagg |first=Stephen |date=16 January 2025 |title=Forgotten British moguls: Nat Cohen – Part Two (1957-1962) |url=https://www.filmink.com.au/forgotten-british-moguls-nat-cohen-part-two-1957-1962/ |access-date=16 January 2015 |magazine=Filmink}}</ref>{{sfn|Forshaw|2012|p=[https://books.google.com/books?id=ztKYxtiAsq8C&pg=PT56 56]}}{{sfn|Crouse|2003|p=[https://archive.org/details/100bestmoviesyou0000crou/page/167 167]}} a progenitor of the contemporary [[slasher film]],<ref name="Golden" /> and the grandfather of [[Found footage (film technique)|found footage]] films.<ref name=":0">{{Cite web |last=Hollman |first=Raquel |date=2022-10-27 |title=Meet ‘Peeping Tom’: The Granddaddy of Found Footage Horror |url=https://collider.com/peeping-tom-movie-granddaddy-of-found-footage-horror/ |access-date=2026-06-22 |website=Collider |language=en}}</ref> The [[British Film Institute]] named it the [[BFI Top 100 British films|78th-greatest British film of all time]],{{sfn|Eckel|2014|p=167}} and in 2017 a poll of 150 actors, directors, writers, producers and critics for ''[[Time Out (magazine)|Time Out]]'' magazine saw it ranked the 27th-best British film ever.<ref>{{cite magazine|url=https://www.timeout.com/london/film/100-best-british-films#tab_panel_4 |title=The 100 best British films|magazine=[[Time Out (magazine)|Time Out London]]|access-date=24 October 2017|date=17 February 2007|first1=Dave |last1=Calhoun|first2=Tom |last2=Huddleston|first3=David |last3=Jenkins|first4=Derek |last4=Adams|first5=Geoff |last5=Andrew|first6=Adam Lee |last6=Davies|first7=Paul |last7=Fairclough |first8=Wally |last8=Hammond}}</ref>
+
+The [[Film score|music score]] was written by [[Brian Easdale]] and performed by Australian pianist [[Gordon Watson (pianist)|Gordon Watson]].
+
+==Plot==
+[[File:Carl.boehm.jpg|thumb|left|Carl Boehm as Mark Lewis]]
+In London, Mark Lewis picks up Dora, a prostitute, covertly filming her with a camera hidden under his coat. Shown from the point of view of the camera viewfinder, he follows her into her flat, murders her with a blade concealed in one leg of his tripod, and later watches the film in his [[darkroom]]. The following morning, posing as a reporter, he films the police removing Dora's corpse from her home.
+
+Lewis is a member of a film crew (a focus puller) who aspires to become a filmmaker himself. He also works part-time photographing soft-porn pin-up pictures of women, sold under the counter. He is a shy, reclusive young man who hardly socialises outside of his workplace. He lives in the house of his late father, renting most of it via an agent while posing as a tenant himself. Helen Stephens, a sweet-natured young woman who lives with her blind mother in the flat below his, befriends him out of curiosity after he is discovered spying on her 21st birthday party.
+
+Mark reveals to Helen through home films taken by his father that, as a child, he was used as a [[Human subject research|guinea pig]] for his father's studies on fear in children. Mark's father would study his son's reaction to various stimuli, such as large lizards he put on his bed, and would film the boy in all sorts of situations, even recording Mark's reactions at his mother's deathbed. (He married another woman suspiciously soon afterwards.) His studies enhanced his reputation as a renowned psychologist.
+
+Mark arranges with Vivian, a [[stand-in]] at the studio, to make a film after the set is closed; he then kills her and stuffs her into a prop trunk. The body is discovered later during shooting by Pauline, a cast member who has already antagonised the fussy director by acting a faint badly, and then actually fainting from exhaustion at the many retakes. The police link the two murders and notice that each victim died with a look of utter terror on her face. They interview everyone on the set, including Mark, who always keeps his camera running, claiming that he is making a documentary.
+
+Helen goes out to dinner with Mark, persuading him to leave his camera behind for once, and briefly kisses him once they return. Her mother finds his behaviour peculiar, being aware, despite her blindness, that Mark often looks through Helen's window. She is waiting inside Mark's flat after his evening out with her daughter. Unable to wait until she leaves due to his compulsion, he begins screening his latest snuff film with her still in the room. She senses how emotionally disturbed he is and threatens to move, but Mark reassures her that he will never photograph or film Helen.
+
+A psychiatrist is called to the set to counsel Pauline. He chats with Mark and is familiar with his father's work. The psychiatrist relates the details of the conversation to the police, noting that Mark has "his father's eyes". Mark is tailed by the police to the newsagents, where he takes photographs of pin-up model Milly. Shortly afterwards, it emerges that Mark has killed Milly.
+
+Helen, who is curious about Mark's films, finally runs one of them. She becomes upset and then frightened when he catches her. Mark reveals that his father not only filmed his experiments on him, but recorded them and has wired the house, and he plays a recording of her with her boyfriend. Mark makes his films so that he can capture the fear of his victims. He has mounted a mirror on his camera so that he can film his victims' reactions as they see their own impending deaths. He points the tripod's blade towards Helen's throat and we see her reaction distorted in the mirror, but he cannot bring himself to kill her.
+
+The police approach and Mark hears their sirens. As he planned from the very beginning, he impales himself on the knife with the camera running, providing the finale for his documentary. Helen cries over Mark's dead body as the police enter the room. As the scene fades, we hear a recording of his father calling him a good boy.
+
+==Cast==
+{{Cast listing|<!-- Order per opening credits -->
+* [[Karlheinz Böhm]] as Mark Lewis (credited as Carl Boehm)
+** Columba Powell as young Mark Lewis (uncredited)
+* [[Moira Shearer]] as Vivian
+* [[Anna Massey]] as Helen Stephens
+* [[Maxine Audley]] as Mrs. Stephens
+* [[Brenda Bruce]] as Dora
+* [[Miles Malleson]] as elderly gentleman customer
+* [[Esmond Knight]] as Arthur Baden
+* [[Martin Miller (actor)|Martin Miller]] as Dr. Rosan
+* [[Michael Goodliffe]] as Don Jarvis
+* [[Jack Watson (actor)|Jack Watson]] as Chief Insp. Gregg
+* [[Shirley Anne Field]] as Pauline Shields
+* [[Pamela Green]] as Milly, the model
+* [[Nigel Davenport]] as Det. Sgt. Miller (uncredited)
+* [[Michael Powell]] as A.N. Lewis (uncredited)
+* [[John Barrard]] as small man (uncredited)
+* [[Cornelia Frances]] as girl in sports car leaving studio (uncredited)
+* [[Susan Travers (actress)|Susan Travers]] as Lorraine, the model (uncredited)
+}}
+
+==Production==
+{{expand section|date=December 2025}}
+===Writing===
+''Peeping Tom'' was an original screenplay by [[Leo Marks]] who based portions of the film on his experiences growing up as the son of Benjamin Marks, who owned the [[Marks & Co]] bookshop in London; elements of ''Peeping Tom'' are based on his observations of inner-city residents who frequented his father's store.<ref name=british/> Dora, the prostitute who is murdered in the film's opening scene, was based on a real-life prostitute who was a regular patron of the Marks & Co book store.<ref name=british/> Additionally, Marks stated he was inspired to write a horror story and to become a codebreaker after reading "[[The Gold-Bug]]" by American writer [[Edgar Allan Poe]].<ref name=british/> While writing the script, Marks believed the motivations behind Lewis's murders to be entirely sexual, though he would state in retrospect that he felt the psychological compulsion of the character was less sexual than it was [[unconscious mind|unconscious]].<ref name=british/> Prior to writing the screenplay for ''Peeping Tom'', Marks, a [[polymath]], had worked as [[Cryptography|cryptographer]] during [[World War II]].<ref name=british/>
+
+===Finance===
+The film was partly financed by [[Nat Cohen]] and [[Stuart Levy (producer)|Stuart Levy]] at [[Anglo-Amalgamated]], a company that typically funded "B" crime pictures and the ''[[Carry On (franchise)|Carry On]]'' films. The balance of the budget came from the [[National Film Finance Corporation]].<ref>{{cite book|last=Heffernan|first=Kevin|chapter=A's, B's, Quickies, Orphans, and Nasties: Horror Films in the Context of Distribution and Exhibition|editor-last=Benshoff|editor-first=Harry M.|title=A Companion to the Horror Film|location=Chichester|publisher=[[Wiley-Blackwell]]|year=2014|page=[https://books.google.com/books?id=f636AwAAQBAJ&pg=PA115 115]|isbn=978-0-470-67260-0}}</ref> According to ''[[Variety (magazine)|Variety]]'', Anglo invested $560,000, the most it had ever spent on any one film.<ref>{{cite magazine|magazine=Variety|title=Peeping Tom|page=8|date=20 April 1960|url=https://archive.org/details/sim_variety_1960-04-20_218_8/page/8/mode/1up?}}</ref> ''Filmink'' argued "Cohen would have hoped the association with Powell would turn out to be as happy as the one with [[Joseph Losey]]", a prestige director who had made a number of films for Cohen.<ref name="two"/>
+
+===Casting===
+Cohen originally wanted a star to play the lead role and suggested [[Dirk Bogarde]], but the [[Rank Organisation]], who had him under contract, refused to loan him out. [[Laurence Harvey]] was attached for a while, but pulled out during pre-production and Powell ended up casting German-Austrian actor [[Karlheinz Böhm]] (billed as Carl Boehm).{{sfn|Hamilton|2013|p=79}}
+
+Böhm, who was a friend of Powell's, noted that their prior acquaintance helped him psychoanalyse and "go into very, very special details" of the character.<ref name=british/> Böhm saw Lewis as a sympathetic character, whom he felt "great pity" for.<ref name=british/> In a 2008 interview, Böhm stated that he could identify with the character because he also stood for a long time in the shadow of his famous father, conductor [[Karl Böhm]], and had a difficult relationship with him.<ref>{{Cite web|url=https://www.spiegel.de/einestages/filmlegende-karlheinz-boehm-a-949169.html|title=Filmlegende Karlheinz Böhm|website=[[Der Spiegel (website)|Der Spiegel]]|language=de|date=14 March 2008|last=Maack|first=Benjamin}}</ref> Böhm also stated that he interpreted his character as being traumatised by growing up under the Nazi Regime.<ref name="planet-interview.de">{{Cite web|last=Buhre|first=Jakob|url=http://www.planet-interview.de/interviews/karlheinz-boehm/33637/|title=Karlheinz Böhm im Interview: "Ich finde es deprimierend, dass man in den Zeitungen nur noch über Afrika liest, wenn wieder eine Dürrekatastrophe ausbricht."|website=Planet Interview|language=de|date=January 2003}}</ref>
+
+[[Pamela Green]], then a well-known glamour model in London, was cast in the role of Milly, one of Lewis's victims, who appears nude onscreen in the moments leading up to her murder scene.<ref name=british/> Her appearance marked the first scene in British cinema to feature frontal nudity.<ref name=british/>{{sfn|Meehan|2010|p=191}}
+
+===Shooting===
+Filming took six weeks, beginning in October 1959.{{sfn|Hamilton|2013|p=80}}
+
+==Themes==
+''Peeping Tom'' has been praised for its psychological complexity,<ref name="Duguid">{{cite web |title=Peeping Tom (1960)|url=http://www.screenonline.org.uk/film/id/447463/index.html|website=[[Screenonline]]|first=Mark |last=Duguid|access-date=19 March 2007}}</ref> which incorporates the "self-reflexive camera" as a plot device, as well as the themes of child abuse, sadomasochism, and [[scopophilia|scopophilic]] [[Sexual fetishism|fetishism]].{{sfn|Rockoff|2011|p=29}} On the surface, the film is about the [[Freudian]] relationships between the protagonist and, respectively, his father, and his victims. However, several critics argue that the film is as much about the voyeurism of the audience as they watch the protagonist's actions. [[Roger Ebert]], in his 1999 review of the film for his "Great Films" series, states that "the movies make us into voyeurs. We sit in the dark, watching other people's lives. It is the bargain the cinema strikes with us, although most films are too well-behaved to mention it".<ref name="Ebert">{{cite news |title=Great Movie: Peeping Tom |url=https://www.rogerebert.com/reviews/great-movie-peeping-tom-1960 |newspaper=[[Chicago Sun-Times]] |author-link=Roger Ebert|last=Ebert|first=Roger |access-date=18 September 2006 |date=2 May 1999 |via=[[RogerEbert.com]]}}</ref>
+
+According to Paul Wells, the film deals with the anxieties of British culture in regarding sexual repression, patriarchal obsession, voyeuristic pleasure and perverse violence. The impossible task in the film is the quest to photograph fear itself.{{sfn|Wells|2000|p=[https://books.google.com/books?id=uLqCRRbx1bsC&pg=PA68 68]}}
+
+In the opinion of Peter Keough, the death scenes of the film would provide a field day to Freudian [[psychoanalysis]] and deconstructionists. Cinema here is equated to sexual aggression and a death wish, the camera to the [[phallus]], photography to violation, and film to ritualised voyeurism. The emphasis of the film lies on morbidity, not on eroticism. In a memorable sequence, an attractive, semi-nude female character turns to the camera and reveals a disfiguring facial scar. This Peeping Tom is aroused not by naked bodies, but naked fear. As Mark laments, whatever he photographs is lost to him. Mark is a loner whose only companion is his film camera. He is also the victim of his father's studies in the phenomenon of fear in children, a human guinea pig subjected to sadistic experiments. His love interest Helen has her own fascination with a morbid gaze. She is a children's writer whose book concerns a magic camera and what it photographs.{{sfn|Keough|2005|pages=[https://books.google.com/books?id=pWH97tY1KfMC&pg=PA219 219–21]}}
+
+===Relationship with Hitchcock's films===
+The themes of voyeurism in ''Peeping Tom'' are also explored in several films by [[Alfred Hitchcock]]. In his book on Hitchcock's 1958 film ''[[Vertigo (film)|Vertigo]]'', film historian Charles Barr points out that the film's title sequence and several shots seem to have inspired moments in ''Peeping Tom''.{{sfn|Barr|2002|p=18}}
+
+Chris Rodley's documentary ''A Very British Psycho'' (1997) draws comparisons between ''Peeping Tom'' and Hitchcock's ''[[Psycho (1960 film)|Psycho]]'' (1960); the latter film was given its New York premiere in June 1960, two months after ''Peeping Tom''{{'}}s premiere in London. Both films feature as protagonists atypically mild-mannered serial killers who are obsessed with their parents. However, despite containing material similar to ''Peeping Tom'', ''Psycho'' became a box-office success and only increased the popularity and fame of its director (although the film was widely criticised in the English press). One reason suggested in the documentary is that Hitchcock, seeing the negative press reaction to ''Peeping Tom'', decided to release ''Psycho'' without a press screening.<ref name=british>{{cite AV media|title=Peeping Tom (''A Very British Psycho'' Documentary)|year=1997|people=Rodley, Chris (dir.)|publisher=[[The Criterion Collection]]|medium=DVD}}</ref>
+
+In his early career, Powell worked as a stills photographer and in other positions on Hitchcock's films, and the two were friends throughout their careers. A variant of ''Peeping Tom''{{'}}s main conceit, ''The Blind Man'', was one of [[List of unproduced Hitchcock projects#The Blind Man (1960)|Hitchcock's unproduced films]] around this time. Here, a blind pianist receives the eyes of a murder victim, but their [[retina]]s retain the image of the murder.
+
+According to [[Isabelle McNeill]], the film fits well within the [[slasher film]] subgenre, with ''Peeping Tom'' being considered the first slasher film in history. She lists a number of elements which it shares with both ''Psycho'' and the genre in general:{{sfn|McNeill|2008|p=[https://books.google.com/books?id=r7I7CCd-A9cC&pg=PT103 103–108]}}
+* a recognisably human killer, who stands as the psychotic product of a sick family;
+* the victim being a beautiful and sexually active woman;
+* the location of the murder being not within a home, but within some other "terrible place";
+* the weapon must be sharp and pointed; and
+* the attack registered from the victim's point of view and coming with shocking suddenness.
+She finds that the film actually goes further than ''Psycho'' into slasher territory through introducing a series of female victims, and with Helen Stephens functioning as the bright and sympathetic [[final girl]].{{sfn|McNeill|2008|p=[https://books.google.com/books?id=r7I7CCd-A9cC&pg=PT103 103–108]}}
+
+==Release==
+''Peeping Tom'' was first released in the United Kingdom by Anglo-Amalgamated, premiering in London on 7 April 1960.{{sfn|Purath|2002|p=2}} It is often considered part of a Sadean trilogy with ''[[Horrors of the Black Museum]]'' (1959) and ''[[Circus of Horrors]]'' (1960).{{By whom|date=January 2026}} The three films had different production companies but the same distributor. They are connected through their themes of voyeurism, disfigurement, and sadistic figures. Anglo-Amalgamated films were typically released in the United States by [[American International Pictures]] through a deal between the two companies, but AIP was not interested in releasing ''Peeping Tom'', apparently sceptical of its ability to satisfy audiences.{{sfn|Heffernan|2004|pages=[https://books.google.com/books?id=plztfOxO1HoC&pg=PA128 128–31]}}
+
+In the United States, the film was released by importer and distributor [[Astor Pictures]] in 1962. It was released simultaneously to the markets for genre [[horror film]]s, [[art film]]s and [[exploitation film]]s. It failed to find an audience and was one of the least successful releases by Astor. The film received a B rating from the [[National Legion of Decency]], signifying "morally objectionable in part" content. The organisation identified voyeurism and sadism as key elements of the film in its rating.{{sfn|Heffernan|2004|pages=[https://books.google.com/books?id=plztfOxO1HoC&pg=PA114 114–15]}}
+
+===Censorship===
+When ''Peeping Tom'' was first released in Italy in 1960, the Committee for the Theatrical Review of the [[Ministry of Culture (Italy)|Italian Ministry of Cultural Heritage and Activities]] rated it as [[Motion picture content rating system#Italy|VM16]]: not suitable for children under 16. The reason for the age restriction, cited in the official documents, was that the storyline was shocking and several scenes were not suitable for minors.<ref name="Italia Taglia">{{cite web|url=http://www.italiataglia.it/ |title=Italia Taglia |work=Committee of Theatrical Review |publisher=[[Ministry of Cultural Heritage and Activities and Tourism (Italy)|Ministry of Cultural Heritage and Activities and Tourism]]|access-date=19 July 2018|language=it}}</ref>{{better source needed|date=July 2018}} In order for the film to be screened publicly, the Committee imposed the removal of two scenes taking place in the photographer's studio, in particular, those in which Milly is shown alone, fully dressed and half-undressed, in front of the mirror, in addition to two other scenes showing a woman lying on the bed excessively half-undressed.<ref name="Italia Taglia"/>
+
+The film was banned in Finland until 1981.<ref>{{cite web|title=Peeping Tom (1960)|website=[[Elonet]]|language=fi|url=http://www.elonet.fi/title/ek2t53/tarkastus81099|access-date=19 July 2018|archive-date=22 September 2013|archive-url=https://web.archive.org/web/20130922154441/http://www.elonet.fi/title/ek2t53/tarkastus81099}}</ref>
+
+===Home media===
+''Peeping Tom'' has received several [[DVD-Video|DVD]] releases. In the United Kingdom, it was released by Studio Canal and Warner Bros., and later in a six-DVD box set which also includes the films ''[[I Know Where I'm Going!]]'' (1945) and ''[[A Canterbury Tale]]'' (1944). In 2007, it received a new DVD release from Optimum Releasing in the United Kingdom, followed by a 50th-anniversary [[Blu-ray]] release in 2010.<ref name=brunsting>{{cite web|website=CriterionCast|url=https://criterioncast.com/news/optimum-home-entertainment-to-release-peeping-tom-blu-ray-for-50th-anniversary-in-the-uk|title=Optimum Home Entertainment to Release Peeping Tom Blu-ray for 50th Anniversary in the UK|date=1 November 2010|access-date=21 November 2017|last=Brunsting|first=Joshua}}</ref>
+
+The film was released in the United States by [[The Criterion Collection]] on [[LaserDisc]] on 23 March 1994<ref>{{cite web|website=LaserDisc Database|title=Peeping Tom: Special Edition #156 (1960) [CC1299L]|access-date=25 September 2018|url=https://www.lddb.com/laserdisc/05237/CC1299L/Peeping-Tom:-Special-Edition}}</ref> and on DVD on 16 November 1999.<ref>{{cite book|title=Peeping Tom (The Criterion Collection)|isbn=0780022629}}</ref> A 4K restoration of the film was released on Blu-ray in the UK on 29 January 2024 by [[StudioCanal]]<ref>{{cite web |last=Baker |first=Neil |url=https://cineramafilm.com/2024/01/09/news-studiocanal-announces-the-arrival-of-michael-powells-peeping-tom-on-4k-blu-ray/ |title=NEWS – Studiocanal announces the arrival of Michael Powell's Peeping Tom on 4K Blu-Ray |website=Cinerama |date=9 January 2024 |access-date=29 July 2024}}</ref> and in the US on 14 May 2024 by The Criterion Collection.<ref>{{cite web|publisher=[[The Criterion Collection]]|title=Peeping Tom [CC1299L]|access-date=22 February 2024|url=https://www.criterion.com/films/235-peeping-tom}}</ref><ref>{{cite web |last=Wilkins |first=Budd |url=https://www.slantmagazine.com/dvd/peeping-tom-4k-uhd-blu-ray-review-michael-powell/ |title=4K UHD Blu-ray Review: Michael Powell's ''Peeping Tom'' on the Criterion Collection |website=[[Slant Magazine]] |date=24 May 2024 |access-date=29 July 2024}}</ref> It began streaming on [[Kanopy]] on 31 May 2024.<ref>{{cite web |last=Kirchgessner |first=Brian |title=Every Movie Coming to Kanopy in May 2024 |url=https://movieweb.com/kanopy-movies-may-2024/ |website=[[MovieWeb]] |date=28 April 2024 |access-date=6 June 2024}}</ref>
+
+==Reception==
+===Contemporaneous===
+''Peeping Tom''{{'}}s depiction of violence and its lurid sexual content made it a controversial film on initial release<ref>{{cite web|publisher=[[British Board of Film Classification]]|url=https://www.bbfc.co.uk/education/case-studies/peeping-tom|title=Peeping Tom|access-date=9 November 2015|url-status=live|archive-url=https://web.archive.org/web/20141026071529/https://bbfc.co.uk/case-studies/peeping-tom|archive-date=26 October 2014}}</ref> and the critical backlash heaped on the film was a major factor in finishing Powell's career as a director in the United Kingdom.<ref name="KillerReviews">{{cite web |title=The Killer Reviews |url=https://www.powell-pressburger.org/Reviews/60_PT/Killers/index.html |website=The Powell & Pressburger Pages |access-date=28 December 2016|first=Steve|last=Crook|date=January 2006}}</ref> Karlheinz Böhm later recalled that after the premiere nobody from the audience went to shake either his hand or Powell's.<ref name="planet-interview.de"/> A later assessment of the film published in ''[[The Daily Telegraph]]'' noted that the film effectively "killed" Powell's career.<ref name=gritten/> British reviews tended towards the hyperbolic in negativity, an example being a review published in ''[[Monthly Film Bulletin]]'' which likened Powell to the [[Marquis de Sade]].{{sfn|Hamilton|2013|p=83}}
+
+''[[Kinematograph Weekly]]'' reported in April 1960 that "Most of the national critics were not enamoured with the subject matter of ''Peeping Tom'' and while I would agree that it is not everybody's cup of tea, it is a powerfully gripping, well-produced picture and I do not think there can be any doubt that it will do very well as an X certificate booking."<ref>{{cite magazine|magazine=Kinematograph Weekly|date=14 April 1960|url=https://archive.org/details/sim_kine-weekly_1960-04-14_515_2741/page/n4/mode/1up?|page=5|title=Long shots}}</ref>
+
+Derek Hill, reviewer of ''[[Tribune (magazine)|Tribune]]'' magazine suggested that "the only really satisfactory way to dispose of ''Peeping Tom'' would be to shovel it up and flush it swiftly down the nearest sewer".<ref name=tcm/> [[Leonard Mosley|Len Mosley]], writing for the ''[[Daily Express]]'', said that the film was more nauseating and depressing than the leper colonies of [[East Pakistan]], the back streets of [[Bombay]], and the gutters of [[Calcutta]].{{sfn|Keough|2005|pages=219–21}} [[C. A. Lejeune|Caroline Lejeune]] of ''[[The Observer]]'' wrote: "It's a long time since a film disgusted me as much as ''Peeping Tom''", ultimately deeming it a "beastly film".<ref name=tcm>{{cite web|publisher=[[Turner Classic Movies]]|title=Peeping Tom|access-date=23 December 2016|last=Feaster|first=Felicia|series=Spotlight|url=https://www.tcm.com/this-month/article/102783|url-status=live|archive-url=https://web.archive.org/web/20170314104743/http://www.tcm.com/this-month/article.html?isPreview=&id=1295776%7C102783&name=Peeping-Tom|archive-date=14 March 2017}}</ref>
+
+[[Alexander Walker (critic)|Alexander Walker]] of the ''[[Evening Standard]]'' called it "a clever but corrupt and empty exercise in shock tactics... loathsome."<ref>{{cite news|newspaper=Evening Standard|first=Alexander|last=Walker|url=https://www.newspapers.com/article/evening-standard-peeping-tom-alexander/86588883/|date=7 April 1960|title=New films|page=8}}</ref> ''The Guardian'' dubbed it "a horror film made all the nastier by its heavily assumed air of psychological studiousness."<ref>{{cite news|url=https://www.newspapers.com/article/the-guardian-peeping-tom/84637564/|newspaper=The Guardian|date=9 April 1960|title=New films|page=5}}</ref> The ''[[Huddersfield Daily Examiner]]'' said the film "gave me the nauseating impression of being made for perverts only."<ref>{{cite news|title=Francis Koval looks at the new pictures|newspaper=Huddersfield Daily Examiner|date=16 April 1960|page=5}}</ref> In Australia, [[Colin Bennett (film critic)|Colin Bennett]] of ''[[The Age]]'' called it "the most revolting film I have seen for many years."<ref>{{cite news|first=Colin|last=Bennett|newspaper=The Age|url=https://www.newspapers.com/article/the-age/120497825/|date=10 July 1961|page=5|title=New films}}</ref>
+
+Some of the adverse reviews were used in ads. ''Kinematograph Weekly'' reported in June 1960:
+<blockquote>One section of the press has got hot under the collar because adverse quotes from reviews on ''Peeping Tom'' (Anglo Amalgamated—British) are being exploited at the Gala Royal, [[Edgware Road]], where the thriller is making a second West End appearance. No one denies the critics' right to say what they think, but they can hardly expect renters and exhibitors meekly to take knocks. Retaliation has paid off and ''Peeping Tom'' is packing the Gala Royal. Naturally, the publicity will do the film a power of good when it returns to the ABC circuit.<ref>{{cite magazine|page=15|title=Your films|first=Josh|last=Billings|url=https://archive.org/details/sim_kine-weekly_1960-06-16_517_2750/page/15/mode/1up?|magazine=Kinematograph Weekly|date=16 June 1960}}</ref></blockquote>
+Michael Powell claimed these bad reviews panicked [[Nat Cohen]]. Alexander Walker, the film critic, claimed Cohen "dumped" the film out of a desire to get a knighthood. The historical accuracy of these allegations has been questioned as no evidence has been provided to back them up.<ref name="two"/>
+
+===Box office===
+''Kinematograph Weekly'' reported in June 1960 that the film "got rough treatment from the long-haired boys and girls [critics] but it's clicking [at the box office]. The titillating label tips the scales."<ref>{{cite magazine|first=Josh|last=Billings|magazine=Kinematograph Weekly|url=https://archive.org/details/sim_kine-weekly_1960-06-02_517_2748/page/131/mode/1up|date=2 June 1960|title=Your films|page=131}}</ref> However the film was not a box office success.<ref name="two"/>
+
+===Critical reappraisal===
+''Peeping Tom'' earned a [[cult following]] in the years after its initial release, and since the 1970s has received a critical reappraisal. Powell noted ruefully in his autobiography: "I make a film that nobody wants to see and then, thirty years later, everybody has either seen it or wants to see it".<ref>{{cite web|newspaper=[[LA Weekly]]|url=https://www.laweekly.com/5-notoriously-terrible-films-that-actually-arent-so-terrible|date=18 January 2013|title=5 Notoriously Terrible Films That Actually Aren't So Terrible|last=Nordine|first=Michael|access-date=28 October 2022|archive-url=https://web.archive.org/web/20210128030559/https://www.laweekly.com/5-notoriously-terrible-films-that-actually-arent-so-terrible/|archive-date=28 January 2021}}</ref> An account of the film's steady reappraisal can be found in ''Scorsese on Scorsese'', edited by [[Ian Christie (film scholar)|Ian Christie]] and [[David M. Thompson|David Thompson]]. [[Martin Scorsese]] mentions that he first heard of the film as a film student in the early 1960s, when ''Peeping Tom'' opened in only one cinema in [[Alphabet City, Manhattan|Alphabet City]], which, Scorsese notes, was a seedy district of New York. The film was released in a cut black-and-white print but immediately became a cult fascination among Scorsese's generation.{{sfn|Meehan|2010|p=191}} Scorsese states that the film, in this mutilated form, influenced [[Jim McBride]]'s ''[[David Holzman's Diary]]''. Scorsese himself first saw the film in 1970 through a friend who owned an uncut 35 mm colour print. In 1978, Scorsese was approached by a New York distributor, Corinth Films, which asked for $5,000 for a wider re-release. Scorsese gladly complied with their request, which allowed the film to reach a wider audience than its initial cult following.<ref>{{cite news|title=Martin Scorsese restores British masterpiece |newspaper=[[The Guardian]]|last=Higgins|first=Charlotte|date=9 November 2010|url=https://www.theguardian.com/culture/charlottehigginsblog/2010/nov/09/martin-scorsese-peeping-tom|access-date=22 November 2017}}</ref> [[Vincent Canby]] wrote of the film in ''[[The New York Times]]'' in 1979: {{blockquote|When Michael Powell's ''Peeping Tom'' was originally released in England, in 1960, the critics rose up like a bunch of furious Reverend Davidsons to condemn it on moral grounds. "It stinks", one critic wrote. Another thought it should be flushed down the sewer, and a third dismissed it haughtily as "perverted nonsense". There is nothing angrier than a critic when he can be safely outraged... ''Peeping Tom''{{'}}s rediscovery, I fear, tells us more about fads in film criticism than it does about art. Only someone madly obsessed with being the first to hail a new auteur, which is always a nice way of calling attention to oneself, could spend the time needed to find genius in the erratic works of Mr. Powell.<ref>{{cite web|author-link=Vincent Canby|last=Canby|first=Vincent|newspaper=[[The New York Times]]|title=Film: Michael Powell's 'Peeping Tom'|date=14 October 1979|access-date=22 November 2017|url=https://www.nytimes.com/1979/10/14/archives/film-michael-powells-peeping-tom-the-cast.html|archive-url=https://web.archive.org/web/20131216041839/http://www.nytimes.com/movie/review?res=9C00E4D7153EE732A25757C1A9669D946890D6CF|archive-date=16 December 2013}}</ref>}}
+
+Film theorist [[Laura Mulvey]] echoed a similar sentiment, writing: "''Peeping Tom'' is a film of many layers and masks; its first reviewers were unable even to see it at face value. Entrenched in the traditions of English realism, these early critics saw an immoral film set in real life whose ironic comment on the mechanics of film spectatorship and identification confused them as viewers. But ''Peeping Tom'' offers realistic cinematic images that relate to the cinema and nothing more. It creates a magic space for its fiction somewhere between the camera's lens and the projector's beam of light on the screen".<ref>{{cite web|author-link=Laura Mulvey|last=Mulvey|first=Laura|date=15 November 1999|access-date=22 November 2017|url=https://www.criterion.com/current/posts/65-peeping-tom|publisher=[[The Criterion Collection]]|title=Peeping Tom}}</ref>
+
+Before his death in 1990, Powell saw the reputation of ''Peeping Tom'' rise. Contemporarily, the film is considered a masterpiece and among the best horror films of all time.<ref name="Telegraph">{{cite news|title=The 75 best British films ever made|url=https://www.telegraph.co.uk/films/0/best-british-films-ever-made/21-peeping-tom-michael-powell-1960/|newspaper=[[The Daily Telegraph]]|date=5 October 2017|access-date=22 November 2017|archive-url=https://web.archive.org/web/20170313214528/https://www.telegraph.co.uk/films/0/best-british-films-ever-made/21-peeping-tom-michael-powell-1960/|archive-date=13 March 2017}}</ref> In 2004, ''[[Total Film]]'' magazine named ''Peeping Tom'' the 24th-greatest British film of all time,<ref>{{cite web|url=http://www.listal.com/list/total-films-50-greatest-british|title=Total Film's 50 Greatest British Movies Ever|website=Listal|access-date=11 December 2009|archive-url=https://web.archive.org/web/20110624025710/http://www.listal.com/list/total-films-50-greatest-british|archive-date=24 June 2011}}</ref> and in 2005, the same magazine listed it as the 18th-greatest horror film of all time.<ref>{{cite magazine|url=https://www.gamesradar.com/shock-horror-1/|title=Shock Horror! Total Film Proudly Hails The 50 Greatest Horror Movies of All Time |access-date=5 December 2013|magazine=[[Total Film]]|first=Jaimie|last=Graham|date=10 October 2005}}</ref> The film contains the 38th of [[Bravo (American TV network)|Bravo]] Channel's 100 Scariest Movie Moments.<ref>{{cite web|url=http://www.bravotv.com/The_100_Scariest_Movie_Moments//index.shtml|title=The 100 Scariest Movie Moments|access-date=29 June 2006|publisher=[[Bravo (American TV network)|Bravo]] |archive-url=https://web.archive.org/web/20060713230931/http://www.bravotv.com/The_100_Scariest_Movie_Moments/index.shtml |archive-date=13 July 2006}}</ref> ''[[The Guardian]]'' named it the 10th-best horror film of all time in 2010,<ref>{{cite news|newspaper=[[The Guardian]]|title=Peeping Tom: No. 10 best horror film of all time|url=https://www.theguardian.com/film/2010/oct/22/peeping-tom-horror-powell|date=22 October 2010|access-date=22 November 2017|last=Fox|first=Killian}}</ref> and a 2017 review in ''[[The Daily Telegraph]]'' of the best British films ever made, states, "contemporary critics in 1960 may have overlooked that voyeurism was its central theme. But who is the voyeur?"<ref name="Telegraph"/>
+
+On the [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 96% based on 67 reviews, with an average rating of 8.7/10. The website's critics consensus reads, "''Peeping Tom'' is a chilling, methodical look at the psychology of a killer, and a classic work of voyeuristic cinema."<ref>{{cite web|url=https://www.rottentomatoes.com/m/peeping_tom_1960|title=Peeping Tom|website=[[Rotten Tomatoes]]|access-date=29 July 2024}}</ref>
+
+''[[Slant Magazine]]'' named Karlheinz Bohm's role one the "15 Famous Movie Psychopaths".<ref>{{Cite web |last=Osenlund |first=R. Kurt |date=2012-10-13 |title=15 Famous Movie Psychopaths |url=https://www.slantmagazine.com/film/15-famous-movie-psychopaths/ |access-date=2025-03-08 |website=Slant Magazine}}</ref>
+
+== Influence and legacy ==
+Filmmaker [[Martin Scorsese]], who has long been an admirer of Powell's works, has stated that this film, along with [[Federico Fellini]]'s ''[[8½]]'' (1963), contains all that can be said about directing:
+{{blockquote|I have always felt that ''Peeping Tom'' and ''8½'' say everything that can be said about film-making, about the process of dealing with film, the objectivity and subjectivity of it and the confusion between the two. ''8½'' captures the glamour and enjoyment of film-making, while ''Peeping Tom'' shows the aggression of it, how the camera violates... From studying them you can discover everything about people who make films, or at least people who express themselves through films.<ref name=gritten/>}}
+
+''Peeping Tom'' is generally considered to be the grandfather of modern [[Slasher film|slasher]] films and [[Found footage (film technique)|found footage]] films.<ref name=":0" /><ref name="Golden" />
+
+=== Cultural references ===
+* [[Mike Patton]]'s band [[Peeping Tom (band)|Peeping Tom]], and its 2006 [[Peeping Tom (Peeping Tom album)|self-titled album]], are named in tribute to this film.<ref>{{cite web|title=Interview with Mike Patton|url=http://www.culturebully.com/mike-patton-interview|access-date=31 July 2007|website=Culture Bully|first=Chris|last=Deline|archive-date=13 February 2011|archive-url=https://web.archive.org/web/20110213052526/http://www.culturebully.com/mike-patton-interview|date=1 June 2006}}</ref>
+* During a reminiscence in [[David Foster Wallace]]'s novel ''[[Infinite Jest]]'' (1996), Dr. James O. Incandenza, the man who went on to make a film that literally kills its audience, refers to having "still-posters from Powell's ''Peeping Tom''" in his childhood bedroom.{{sfn|Wallace|1996|p=502}}
+* In ''[[Scream 4]]'' (2011), the killer [[Ghostface (identity)|Ghostface]] directly references ''Peeping Tom'' while quizzing a victim.<ref>{{cite web |last=Presnell |first=Riley |title=The Scream Franchise Pays Homage to One Horror Classic More Than Any Other |url=https://collider.com/scream-franchise-psycho-movie-references/ |website=[[Collider (website)|Collider]] |access-date=1 March 2024 |date=15 October 2023}}</ref> In this entry and in ''[[Scream 2]]'' (1997), a killer under the Ghostface identity films their murders. Similarly, Ghostface killers in other entries commit their killing sprees with the intention that they would be recreated in film. 
+* A dialogue of the film has been sampled for the beginning of ''Railway Jam'' on the ''[[So Tough]]'' album (1993) by [[Saint Etienne (band)|Saint Etienne]].<ref>{{cite web|url=http://www.british60scinema.net/sampling-the-60s-70s-pop-references/saint-etienne-samples/ |website=British 60s cinema |title=Saint Etienne Samples |first=Paul|last=Thompson|access-date=19 July 2018}}</ref>
+* A campaign video for the 2014 spring/summer [[Alexander McQueen (brand)|Alexander McQueen]] collection was based on the opening scene of the film. The video features [[Kate Moss]] in the role of the killer's victim.<ref>{{Cite magazine|last=Pieri|first=Kerry|date=27 January 2014|title=See Kate Moss' Surreal McQueen Doll|url=https://www.harpersbazaar.com/fashion/designers/a1496/alexander-mcqueen-ss14-ad-campaign-012713/|magazine=[[Harper's Bazaar]]}}</ref>
+* [[Edgar Wright]]'s ''[[Last Night in Soho]]'' (2021) is heavily inspired, both thematically and in the use of film language, by the film.<ref>{{cite magazine|last=Bleasdale|first=John|title=Last Night in Soho explores the toxic side of nostalgia|date=29 October 2021 |url=https://www.bfi.org.uk/sight-and-sound/reviews/last-night-soho-review|magazine=[[Sight and Sound]]}}</ref>
+
+==See also==
+* [[BFI Top 100 British films]]
+* [[List of cult films]]
+* [[List of films featuring psychopaths and sociopaths]]
+* [[List of films featuring surveillance]]
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite book|last=Barr|first=Charles|title=Vertigo|publisher=British Film Institute|series=BFI Film Classics|year=2002|isbn=9780851709185|location=London}}
+* {{cite book|last=Crouse|first=Richard|title=The 100 Best Movies You've Never Seen|date=26 August 2003|publisher=ECW Press|isbn=9781554905409|location=Toronto}}
+* {{cite book|last=Eckel|first=Mark D.|year=2014|title=When the Lights Go Down|publisher=WestBow Press|isbn=9781490854175|location=Bloomington}}
+* {{cite book|last=Forshaw|first=Barry|title=British Crime Film: Subverting the Social Order|year=2012|publisher=Palgrave Macmillan|isbn=9781137184979|location=London}}
+* {{cite book|last=Hamilton|first=John|title=X-Cert: The British Independent Horror Film 1951–70|year=2013|publisher=Midnight Marquee Press|isbn=9781936168408|location=Parkville}}
+* {{cite book |last=Heffernan |first=Kevin |title=Ghouls, Gimmicks, and Gold: Horror Films and the American Movie Business, 1953–1968 |chapter=Grind House or Art House? Astor Pictures and Peeping Tom |year=2004 |publisher=Duke University Press|location=Durham |isbn=9780822332152}}
+* {{cite book |last=Keough |first=Peter |editor1-last=Bernard |editor1-first=Jami |title=The X-List: The National Society of Film Critics' Guide to the Movies That Turn Us On |chapter=Peeping Tom (1960) |year=2005 |publisher=Da Capo Press|location=Boston |isbn=9780786738052}}
+* {{cite book |last=McNeill |first=Isabelle |editor1-last=Barrow |editor1-first=Sarah |editor2-last=White |editor2-first=John |title=Fifty Key British Films |chapter=Peeping Tom (1960) |year=2008 |publisher=Routledge |location=Abingdon |isbn=9781134081233}}
+* {{cite book|title=Horror Noir: Where Cinema's Dark Sisters Meet|last=Meehan|first=Paul|year=2010|publisher=McFarland & Co.|isbn=9780786462193|location=Jefferson}}
+* {{cite thesis|year=2002|last=Purath|first=Anna|language=de|isbn=9783638143387|title=Peeping Tom (Michael Powell, 1959)|institution=[[Free University of Berlin]]|location=Berlin}}
+* {{cite book|last=Rockoff|first=Adam|year=2011|title=Going to Pieces: The Rise and Fall of the Slasher Film, 1978–1986|publisher=McFarland & Co.|isbn=9780786469321|location=Jefferson}}
+* {{cite book|last=Wallace|first=David Foster|title=Infinite Jest |edition=1st |location=Boston |publisher=Little, Brown and Company|year=1996|isbn=9780748130986}}
+* {{cite book |last=Wells |first=Paul |title=The Horror Genre: From Beelzebub to Blair Witch |chapter=Consensus and Constraint 1919–1960 |year=2000 |publisher=Wallflower Press |isbn=9781903364000 |location=New York}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book |last=Christie |first=Ian |title=Arrows of Desire: the films of Michael Powell] and Emeric Pressburger |location=London |publisher=Faber & Faber |year=1994 |isbn=9780571162710 |url-access=registration |url=https://archive.org/details/arrowsofdesirefi00chri}}
+* {{cite book |last=Marks |first=Leo |title=Peeping Tom |location=London |publisher=Faber & Faber |series=Faber Classic Screenplay Series |year=1998 |isbn=9780571194032}}
+* {{cite book |last=Powell |first=Michael |title=A Life in Movies: An Autobiography |location=London |publisher=Heinemann |year=1986 |isbn=9780434599455}}
+* {{cite book |last=Powell |first=Michael |title=Million Dollar Movie |location=London |publisher=Heinemann |year=1992 |isbn=9780434599479}}
+* {{cite book |last=Zimmer |first=Catherine |title=Horror Film: Creating and Marketing Fear |chapter="The Camera's Eye: ''Peeping Tom'' and Technological Perversion |year=2004 |publisher=University of Mississippi Press |editor-last=Hantke |editor-first=Steffen |isbn=9781578066926 |location=Oxford}}
+{{refend}}
+* {{cite book |last=Bloom Walden |first=Kiri |title=Peeping Tom |location=London |publisher=LiverpoolUniversityPress |year=2020 |isbn=9781800348073}}
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title}}
+* {{TCMDb title}}
+* {{Screenonline title|id=447463|title=Peeping Tom}} – Full synopsis and film stills (and clips viewable from UK libraries)
+* [http://www.powell-pressburger.org/Reviews/60_PT/index.html Reviews and articles] at Powell & Pressburger Pages
+* [https://www.youtube.com/watch?v=7GItFNbLVCs Martin Scorsese on Peeping Tom and Michael Powell]
+* [https://www.independent.co.uk/arts-entertainment/films/features/they-made-the-critics-scream-but-now-these-films-are-classics-2003140.html They made the critics scream, but now these films are classics]
+
+{{Powell and Pressburger}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Peeping Tom}}
+[[Category:1960 films]]
+[[Category:1960 British films]]
+[[Category:1960 English-language films]]
+[[Category:1960 horror films]]
+[[Category:1960 horror thriller films]]
+[[Category:1960s psychological horror films]]
+[[Category:1960s psychological thriller films]]
+[[Category:1960s serial killer films]]
+[[Category:British horror thriller films]]
+[[Category:British psychological horror films]]
+[[Category:British psychological thriller films]]
+[[Category:British serial killer films]]
+[[Category:Censored films]]
+[[Category:English-language horror thriller films]]
+[[Category:Films about blind people]]
+[[Category:Films about filmmaking]]
+[[Category:Films about landlords]]
+[[Category:Films about photographers]]
+[[Category:Films about psychopaths and sociopaths]]
+[[Category:Films about security and surveillance]]
+[[Category:Films about snuff films]]
+[[Category:Films by Powell and Pressburger]]
+[[Category:Films directed by Michael Powell]]
+[[Category:Films scored by Brian Easdale]]
+[[Category:Films set in London]]
+[[Category:Films shot at Pinewood Studios]]
+[[Category:Films shot in London]]
+[[Category:Films set in studio lots]]
+[[Category:English-language psychological thriller films]]
+[[Category:Found footage films about psychopaths and sociopaths]]

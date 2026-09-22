@@ -1,0 +1,55 @@
+{{Short description|1982 documentary film starring James Baldwin}}
+{{Infobox film
+| name           = I Heard It Through the Grapevine
+| image          = 
+| alt            = 
+| caption        = 
+| native_name    = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = [[Dick Fontaine]]<br>[[Pat Hartley]]
+| writer         = 
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{Based on|title of the original work|creator of the original work|additional creator(s), if necessary}} -->
+| producer       = 
+| starring       = [[James Baldwin]]<br>[[Chinua Achebe]]<br>[[Amiri Baraka]]<br>[[Lonnie C. King Jr.]]<br>[[Hosea Williams]]
+| narrator       = 
+| cinematography = [[Ivan Strasburg]]
+| editing        = [[Julian Ware]]
+| music          = 
+| studio         = 
+| distributor    = 
+| released       = {{Film date|1982}}
+| runtime        = 95 minutes
+| country        = United Kingdom
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+'''''I Heard It Through the Grapevine''''' is a 1982 documentary film starring [[James Baldwin]] and directed by [[Dick Fontaine]] and [[Pat Hartley]].<ref>{{cite web|date=October 16, 2023|title=I Heard It Through the Grapevine with James Baldwin|publisher=[[Harvard Film Archive]]|url=https://harvardfilmarchive.org/programs/i-heard-it-through-the-grapevine-with-james-baldwin}}</ref><ref name=N>{{cite web|newspaper=[[The New York Times]]|url=https://www.nytimes.com/1982/03/03/movies/film-revisiting-civil-rights-south.html|authorlink=Vincent Canby|author=Canby, Vincent|title=Film: Revisting Civil Rights South|date=3 March 1982|page=23}}</ref><ref>{{cite web|newspaper=[[The Washington Post]]|title=Well-Spoken 'Grapevine'|date=June 29, 1982|author=Remnick, David|url=https://www.washingtonpost.com/archive/lifestyle/1982/06/30/well-spoken-grapevine/f2d158b7-6601-4f2a-9bbe-cc7bfaf78abd/}}</ref><ref>{{cite web|url=https://www.bam.org/film/2024/cinema-restored-i-heard-it-through-the-grapevine|title=I Heard It Through the Grapevine|date=August 20, 2024|publisher=[[Brooklyn Academy of Music]]|website=bam.org}}</ref>
+
+==Overview==
+Documentary film that features writer James Baldwin revisiting his time in the American South during the [[civil rights movement]].
+
+==Critical reception==
+''[[The New Yorker]]'' said in its review, "“Grapevine” is a work of political history about the civil-rights movement—and about the ongoing failure of the United States to make good on the promise of justice and equality for Black Americans."<ref>{{cite web|magazine=[[The New Yorker]]|title=James Baldwin’s Anguished Prescience in "I Heard It Through the Grapevine"|authorlink=Richard Brody|author=Brody, Richard|date=January 16, 2024|url=https://www.newyorker.com/culture/the-front-row/james-baldwins-anguished-prescience-in-i-heard-it-through-the-grapevine}}</ref>
+
+''[[The New York Times]]'' wrote, "''I Heard It Through the Grapevine,'' a free-form, feature-length documentary that hovers over its subject like a concerned parent who, not knowing quite what to make of things, expresses concern and sympathy."<ref name=N/>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|0151007}}
+
+{{authority control}}
+
+{{DEFAULTSORT:I Heard It Through the Grapevine (film)}}
+[[Category:1982 documentary films]]
+[[Category:Documentary films about African-American people]]
+[[Category:1982 films]]
+[[Category:1982 English-language films]]
+[[Category:British documentary films]]
+[[Category:1982 British films]]
+{{1980s-documentary-film-stub}}
+{{1980s-UK-film-stub}}

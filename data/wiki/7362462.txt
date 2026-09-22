@@ -1,0 +1,57 @@
+{{Infobox film
+| name = The Power of Kangwon Province
+| image = Power of Kangwon Province.jpg
+| caption = Theatrical poster
+| native_name = {{Infobox Korean film name|hangul=^강원*도의 힘|hanja=江原道의 힘}}
+| director = [[Hong Sang-soo]]
+| producer =
+| writer = Hong Sang-soo
+| starring = [[Baek Jong-hak]]<br />[[Oh Yoon-hong]]
+| music = 
+| cinematography = 
+| editing =  
+| distributor = 
+| released = {{Film date|df=y|1998|04|04}}
+| runtime = 108 minutes
+| country = South Korea
+| language = Korean
+| budget = 
+}}
+'''''The Power of Kangwon Province''''' ({{Korean|hangul=강원도의 힘}}) is the second film by South Korean director [[Hong Sang-soo]].  It follows the lives of a man and a woman who have decided to end their affair. It was screened in the [[Un Certain Regard]] section at the [[1998 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=https://www.festival-cannes.com/en/films/the-power-of-kangwon-province |title=Festival de Cannes: THE POWER OF KANGWON PROVINCE |accessdate=2009-10-03|work=festival-cannes.com}}</ref>
+
+==Plot==
+Three young girls, Jisook, Misun and Eunkyoung take a trip to the mountainous Kangwon Province of South Korea. Jisook has just broken up with another married man, and she is lonely and unhappy with her current situation. They meet a young policeman who shows them around and after a meal where they all get drunk together, Jisook ends up passing out with the policeman in her bed, but not having sex. He is married, but Jisook returns another day to see him and they end up falling-over drunk again.
+
+The second half the film then follows the situation of Sangwon, the married man that Jisook has just broken up with. In a typically symmetrical fashion, after a repeat scene where it becomes apparent that both of them are on the same train, Sangwon also visits the Kangwon Province with a friend and the paths of the two characters cross without them ever meeting there, both of them encountering a couple involved in a murder investigation.
+
+==Reception==
+Critics gave positive reviews to the film. [[Manohla Dargis]] of ''[[The New York Times]]'' called the film "etched with precision" and "one of the best films you can see this year".<ref>{{cite news |last=Dargis |first=Manohla |date=27 November 2004 |title=A Korea Divided, but Between Men and Women |url=https://www.nytimes.com/2004/11/27/movies/a-korea-divided-but-between-men-and-women.html |access-date=15 May 2026 |work=The New York Times}}</ref> [[Richard Brody]] of ''[[The New Yorker]]'' praised it as a "coolly bracing drama" and wrote that Hong filmed the story "as a romantic travelogue".<ref>{{cite web |last=Brody |first=Richard |date=11 June 2021 |title=The Power of Kangwon Province |url=https://www.newyorker.com/goings-on-about-town/movies/the-power-of-kangwon-province |access-date=15 May 2026 |website=The New Yorker}}</ref> ''[[Time Out (magazine)|Time Out]]'' described the film as "complex in structure and subtler in effect", calling it "virtuoso film-making".<ref>{{cite web |title=The Power of Kangwon Province |url=https://www.timeout.com/movies/the-power-of-kangwon-province-1 |access-date=15 May 2026 |website=Time Out}}</ref>
+
+=== Awards and nominations ===
+At the [[:ko:제36회_대종상|36th]] [[Grand Bell Awards]] in 1999, ''The Power of Kangwon Province'' was nominated for Best Film and Best Director for [[Hong Sang-soo]]. It was the only [[Hong Sang-soo]]'s work that has won a Grand Bell Award Best Film nomination. The film also won Best New Technology for Kim Yeong-cheol.<ref>{{Cite web |title=대종상영화제 |url=http://www.daejongfilmaward.kr/html/film/info04_36.html |archive-url=https://web.archive.org/web/20160410122953/http://www.daejongfilmaward.kr/html/film/info04_36.html |archive-date=2016-04-10 |access-date=2026-05-15 |website=www.daejongfilmaward.kr |language=ko}}</ref>
+
+==See also==
+*[[List of Korean-language films]]
+
+== References ==
+{{reflist}}
+* {{cite book |last=Kim|first=Kyung-hyun|title=The Remasculinization of Korean Cinema|year=2004|publisher=Duke University Press|location=Durham and London|isbn=0-8223-3267-1|pages=217–223|chapter=7. New Korean Cinema Auteurs: Too Early/Too Late: Temporality and Repetition in Hong Sang-su's Films: The Power of Kangwon Province}}
+
+==External links==
+* {{IMDb title|156906|The Power of Kangwon Province}}
+
+{{Hong Sang-soo}}
+
+{{DEFAULTSORT:Power of Kangwon Province, The}}
+[[Category:1998 films]]
+[[Category:1998 drama films]]
+[[Category:South Korean drama films]]
+[[Category:South Korean anthology films]]
+[[Category:Films set in Gangwon Province, South Korea]]
+[[Category:Films directed by Hong Sang-soo]]
+[[Category:1998 Korean-language films]]
+[[Category:1998 South Korean films]]
+[[Category:Korean-language drama films]]
+
+
+{{1990s-SouthKorea-film-stub}}

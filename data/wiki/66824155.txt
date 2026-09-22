@@ -1,0 +1,60 @@
+{{short description|1932 Japanese film}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox film
+| name           = No Blood Relation
+| native_name    = {{Infobox Japanese| kanji = 生さぬ仲}}
+| image          = Nasaku naka (1932).jpg
+| caption        = Jōji Oka and Yoshiko Okada
+| director       = [[Mikio Naruse]]
+| producer       = 
+| writer         = {{ubl|Kogo Noda|Shunyo Yanagawa (novel)}}
+| starring       = {{ubl|[[Yoshiko Okada]]|Shin'yō Nara|[[Yukiko Tsukuba]]}}
+| cinematography = Suketaro Inokai
+| editing        = 
+| studio         = [[Shochiku]]
+| distributor    = Shochiku
+| released       = {{film date|1932|12|16|Japan|df=y|ref1=<ref name="jmdb">{{cite web|url=http://www.jmdb.ne.jp/1932/bh004930.htm |title=''No Blood Relation'' |website=Japanese Movie Database |language=ja |access-date=19 February 2021}}</ref>}}
+| runtime        = 79 minutes<ref name="jmdb" />
+| country        = Japan
+| language       = Japanese
+}}
+{{nihongo|'''''No Blood Relation'''''|生さぬ仲|Nasanu naka}} is a 1932 Japanese [[Silent film|silent]] [[Drama (film and television)|drama film]] directed by [[Mikio Naruse]], based on a novel by Shunyo Yanagawa.<ref name="jmdb" /><ref name="kinenote">{{cite web |url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=64469 |title=生さぬ仲 (No Blood Relation) |website=Kinenote |language=ja |access-date=19 February 2021}}</ref><ref name="goble">{{cite book|title=The Complete Index to Literary Sources in Film |last=Goble |first=Alan |publisher=Walter de Gruyter |date=1999 |page=513 |isbn=978-3-11-095194-3}}</ref> It is the earliest surviving [[Feature film|feature-length film]] by the director.
+
+==Plot==
+After five years overseas, star actress Tamae returns to Japan to reunite with her daughter Shigeko, whom she left behind with her then husband Atsumi in favour of her career. In her absence, Atsumi has married again, and the bond between Shigeko and her stepmother Masako has grown as strong as between a blood-related child and mother. When Atsumi's company goes bankrupt and his family is forced to move to lower-class surroundings, Tamae sees her chance to lure Shigeko away, but eventually has to accept that her wealth cannot compensate for Shigeko's and Masako's mutual love.
+
+==Cast==
+* [[Yoshiko Okada]] as Tamae Kiyooka, Atsumi's former wife
+* Shin'yō Nara as Shunsaku Atsumi
+* [[Yukiko Tsukuba]] as Masako, Atsumi's wife
+* Toshiko Kojima as Shigeko, Atsumi's daughter
+* Fumiko Katsuragi as Kishiyo, Atsumi's mother
+* Jōji Oka as Masaya Kusakabe, Atsumi's friend
+* Ichirō Yūki as Keiji Makino, Tamae's criminal brother
+* Shozaburo Abe as "Gen the Pelican"
+* [[Kōji Mitsui]] as [[sake]] delivery cyclist (uncredited)
+
+==Analysis==
+Naruse biographer Catherine Russell linked ''No Blood Relation'' to other Naruse films of the same era like ''Three Sisters With Maiden Hearts'', ''[[Wife! Be Like a Rose!]]'' and ''[[The Girl in the Rumor]]'', by using the popular but controversial figure of the ''[[Modern girl|moga]]'' (modern Japanese girl with Western values and Western fashion style) as a contrast with another woman.<ref name="russell">{{cite book |last=Russell |first=Catherine |date=2008 |title=[[The Cinema of Naruse Mikio: Women and Japanese Modernity]] |location=Durham and London |publisher=Duke University Press |pages=115–116 |isbn=978-0-8223-4290-8}}</ref>
+
+==Legacy==
+''No Blood Relation'' was screened at the [[Cinémathèque Française]] in 2006<ref>{{cite web|url=https://www.cinematheque.fr/film/98008.html |title=Nasaku naka |website=Cinémathèque Française |language=fr |access-date=19 July 2023}}</ref> and at the [[Berlin International Film Festival]] in 2007 in its "Retrospektive" program.<ref>{{cite web|url=https://www.berlinale.de/en/2007/programme/20074515.html |title=Nasanu naka |website=Berlinale.de |access-date=25 October 2022}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0023261}}
+* {{cite web|url=https://windowsonworlds.com/2016/05/24/no-blood-relation-%E7%94%9F%E3%81%95%E3%81%AC%E4%BB%B2-mikio-naruse-1932/ |title=No Blood Relation |first=Hayley |last=Scanlon |publisher=Windows on Worlds |access-date=19 February 2021}}
+* {{cite web|url=https://criterioncast.com/column/a-journey-through-the-eclipse-series-mikio-naruses-no-blood-relation |title=A Journey Through the Eclipse Series: Mikio Naruse's No Blood Relation |last=Blakeslee |first=David |website=criterioncast.com |date=27 August 2012 |access-date=19 February 2021}}
+
+{{Mikio Naruse}}
+
+[[Category:1932 films]]
+[[Category:1932 drama films]]
+[[Category:Japanese black-and-white films]]
+[[Category:1930s Japanese-language films]]
+[[Category:Films based on works by Japanese writers]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:Shochiku films]]
+[[Category:Japanese silent drama films]]

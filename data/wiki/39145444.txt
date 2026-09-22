@@ -1,0 +1,60 @@
+{{Infobox film
+| name = Partner
+| image = Partner (1968 film).jpg
+| caption =
+| director = [[Bernardo Bertolucci]]
+| writer =Gianni Amico <br /> Bernardo Bertolucci
+| starring =[[Pierre Clémenti]]
+| music = [[Ennio Morricone]]
+| cinematography = Ugo Piccone
+| editing = [[Roberto Perpignani]]
+| producer =Giovanni Bertolucci 
+| distributor =
+| released ={{Film date|1968|09|07|Italy|df=y}}
+| runtime =
+| country = Italy
+| language =Italian
+| budget = 
+}}
+'''''Partner''''' is a 1968 [[Italy|Italian]] [[drama film]] directed by [[Bernardo Bertolucci]].
+
+Based on the 1846 novella [[The Double (Fyodor Dostoyevsky novel)|''The Double'']] by [[Fyodor Dostoyevsky]], it entered the 29th [[Venice Film Festival]]<ref>{{cite book|last=T. Jefferson Kline|title=I film di Bernardo Bertolucci|publisher=Gremese Editore, 1994|isbn=8876057978}}</ref><ref>{{cite news|last=Leo Pestelli|title=Molte idee (meno cinema) nel "Partner" di Bertolucci|newspaper=La Stampa|date=8 September 1968|page=9}}</ref> and the [[Quinzaine des Réalisateurs]] section at the [[1969 Cannes Film Festival|22nd Cannes Film Festival]].<ref>{{cite book|last=Pierre-Henri Deleau|title=Cinéma en liberté: la Quinzaine des réalisateurs à Cannes|publisher=Ed. de La Martinière, 1993}}</ref>
+
+The film's US debut was limited and only showed at the 1968 New York Film Festival.<ref name=":0" />
+
+==Plot ==   
+This film follows a college student who has a routine life and who encounters a twin he is not related to. Along the way, he discovers that the twin friend has many qualities he doesn't have.
+
+== Cast ==
+*[[Pierre Clémenti]] as Giacobbe I and II 
+*[[Stefania Sandrelli]] as Clara
+*[[Tina Aumont]] as the seller of detergent
+*[[Sergio Tofano]] as Petrushka 
+*[[Ninetto Davoli]] as the student
+
+== Reception ==
+Pauline Kael, film critic for ''The New Yorker,'' called the film an "inventive but bewildering modernization of Dostoyevski's ''The Double."''<ref name=":0">{{Cite book |last=Kael |first=Pauline |url=https://www.google.com/books/edition/The_Age_of_Movies_Selected_Writings_of_P/tkShTL84MrcC?hl=en&gbpv=1&dq=the+age+of+movies+selected+writing+of+pauline+kael&printsec=frontcover |title=The Age of Movies: Selected Writings of Pauline Kael: A Library of America Special Publication |date=2011-10-27 |publisher=Library of America |isbn=978-1-59853-171-8 |pages=275 |language=en}}</ref>
+
+{{Rotten Tomatoes prose|91|7.4|11|ref=yes|access-date={{RT data|access date}}}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb title|0063414|Partner}}
+
+{{Bernardo Bertolucci}}
+
+{{DEFAULTSORT:Partner}}
+[[Category:1968 films]]
+[[Category:Italian drama films]]
+[[Category:Films directed by Bernardo Bertolucci]]
+[[Category:Films based on Russian novels]]
+[[Category:Films based on works by Fyodor Dostoyevsky]]
+[[Category:Films scored by Ennio Morricone]]
+[[Category:1968 Italian-language films]]
+[[Category:1968 Italian films]]
+[[Category:Films with screenplays by Bernardo Bertolucci]]
+[[Category:1968 drama films]]
+
+{{1960s-Italy-drama-film-stub}}

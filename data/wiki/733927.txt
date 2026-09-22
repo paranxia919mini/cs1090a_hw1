@@ -1,0 +1,256 @@
+{{short description|1995 film directed by Wolfgang Petersen}}
+{{about|the 1995 feature film|the 1995 telefilm based on the Robin Cook novel "Outbreak"|Virus (1995 film)}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox film
+| name           = Outbreak
+| image          = Outbreak movie.JPG
+| caption        = Theatrical release poster
+| director       = [[Wolfgang Petersen]]
+| producer       = {{Plainlist|
+* [[Gail Katz]]
+* [[Arnold Kopelson]]
+* Wolfgang Petersen
+}}
+| writer         = {{Plainlist|
+* [[Laurence Dworet]]
+* [[Robert Roy Pool]]
+}}
+| starring       = {{Plainlist|
+* [[Dustin Hoffman]]
+* [[Rene Russo]]
+* [[Morgan Freeman]]
+* [[Cuba Gooding Jr.]]
+* [[Patrick Dempsey]]
+* [[Donald Sutherland]]
+* [[Kevin Spacey]]
+}}
+| music          = [[James Newton Howard]]
+| cinematography = [[Michael Ballhaus]]
+| editing        = {{Plainlist| 
+* [[William Hoy (film editor)|William Hoy]]
+* [[Lynzee Klingman]]
+* [[Stephen E. Rivkin]]
+* [[Neil Travis]]
+}}
+| studio         = {{ubl|[[Arnold Kopelson|Arnold Kopelson Productions]]|Punch Productions, inc.}} 
+| distributor    = [[Warner Bros. Pictures|Warner Bros.]]
+| released       = {{film date|1995|3|10}}
+| runtime        = 128 minutes
+| country        = United States
+| language       = English
+| budget         = >$50 million<ref>{{Cite web |title=CRISIS IN THE PLOT ZONE |url=https://ew.com/article/1995/03/24/crisis-plot-zone/ |website=[[Entertainment Weekly]] |date=1995-03-24 |last=Ascher-Walsh |first=Rebecca |url-status=dead |archive-url=https://web.archive.org/web/20240725083744/https://ew.com/article/1995/03/24/crisis-plot-zone/ |archive-date=2024-07-25 |access-date=2024-07-07 |quote=True to Kopelson’s word, it reportedly cost over $50 million.}}</ref>
+| gross          = $189.8 million<ref name=bomojo/>
+}}
+
+'''''Outbreak''''' is a 1995 American [[medical fiction|medical]] [[disaster film]] directed by [[Wolfgang Petersen]] and written by [[Laurence Dworet]] and [[Robert Roy Pool]]. The film stars [[Dustin Hoffman]], [[Rene Russo]] and [[Morgan Freeman]], and co-stars [[Donald Sutherland]], [[Cuba Gooding Jr.]], [[Kevin Spacey]] and [[Patrick Dempsey]].
+
+The film focuses on an outbreak of Motaba, a fictional ''[[ebolavirus]]''- and ''[[orthomyxoviridae]]''-like virus, in [[Zaire]], and later in a small town in [[California]]. It is set primarily in the [[United States Army Medical Research Institute of Infectious Diseases]] and the [[Centers for Disease Control and Prevention]], as well as the fictional town of Cedar Creek, California. ''Outbreak''{{'s}} plot speculates how far military and civilian agencies might go to contain the spread of a deadly, contagious disease.
+
+The film, released by [[Warner Bros. Pictures|Warner Bros.]] on March 10, 1995, was a box-office success, and Spacey won two awards for his performance. A real-life outbreak of the Ebola virus was occurring in Zaire when the film was released.<ref name=CDC/> The film's popularity resurged during the [[COVID-19 pandemic]], ranking as the fourth most streamed film in the United States on [[Netflix]] on March 13, 2020.<ref name="Clark 2020">{{cite news |last=Clark |first=Travis |title=The movie 'Outbreak,' about a deadly virus, is now one of Netflix's most popular titles in the US |url=https://www.businessinsider.com/coronavirus-outbreak-one-of-netflixs-most-popular-movies-2020-3 |access-date=November 7, 2024 |work=Business Insider |date=March 13, 2020}}</ref>
+
+==Plot==
+<!-- As WP:FILMPLOT requires, the plot summary should be no less and no more than 400–700 words. -->
+{{cquote|The single biggest threat to man's continued dominance on the planet is the virus.|author=[[Joshua Lederberg]], Ph.D., Nobel laureate |source=Film introduction: ''Outbreak'' (1995)}}
+In 1967, during the [[Stanleyville mutinies]], a virus called Motaba, which causes a [[viral hemorrhagic fever|deadly fever]], is discovered in the [[Republic of the Congo (Léopoldville)|African]] [[jungle]]. To keep the virus a secret, [[United States Army|U.S. Army]] officers Donald McClintock and William Ford order the bombing of the camp where soldiers were infected, killing all occupants.
+
+Twenty-eight years later, [[United States Army Medical Research Institute of Infectious Diseases|USAMRIID]] [[virology|virologist]] [[Colonel (United States)|Colonel]] Sam Daniels investigates an outbreak in [[Zaire]] which wiped out an entire village aside from two survivors (the shaman and a young boy). He and his crew{{snd}}[[Lieutenant Colonel (United States)|Lieutenant Colonel]] Casey Schuler and new USAMRIID officer [[Major (United States)|Major]] Salt{{snd}}gather information and return to the United States. Ford, now a brigadier general and Daniels's superior officer, dismisses Daniels's fears that the virus will spread.
+
+A [[white-faced capuchin]] monkey that is host to the virus is smuggled into the country. James "Jimbo" Scott, a worker at a California [[animal testing]] laboratory, is infected when he steals the monkey. Scott tries to sell the monkey to Rudy Alvarez, a pet-store proprietor, but Alvarez refuses to buy it. The monkey scratches Alvarez and he later becomes infected. A hospital technician in Cedar Creek is also infected after accidentally breaking a vial of Alvarez's blood.
+
+Scott releases the monkey into the woods outside Palisades. While flying to Boston, Scott develops symptoms and infects his girlfriend, Alice, at the airport. Their illness is investigated by Dr. Roberta Keough, a [[Centers for Disease Control and Prevention|CDC]] scientist and Daniels's ex-wife. Scott, Alice, and Alvarez die, but Keough determines no one else in Boston was infected.
+
+In Cedar Creek, the virus quickly mutates into an [[Airborne transmission|airborne]], [[influenza]]-like strain after many are infected in a [[superspreading event]] at a local movie theater. Daniels flies to Cedar Creek against Ford's orders, joining Keough's team with Schuler and Salt. As they search for the monkey, the Army quarantines the town and imposes [[martial law]]. Schuler is infected when his suit tears, and Keough accidentally sticks herself with a contaminated needle.
+
+When Ford provides an experimental serum that cures the original strain, Daniels realizes that his superiors knew about the virus before the outbreak. Daniels learns about Operation Clean Sweep, a military plan to contain the virus by bombing Cedar Creek, incinerating the entire town and its residents, ostensibly to prevent Motaba's expansion to pandemic proportions. However, McClintock, now a major general, wants to conceal the mutated virus's existence and preserve the original strain as a [[biological weapon]].
+
+To prevent Daniels from finding a cure, McClintock orders him arrested for carrying the virus. Daniels escapes, and he and Salt fly a helicopter to the ship at sea that carried the monkey. Daniels obtains a photo of the monkey and releases it to the media; a mother in Palisades contacts the CDC upon realizing her young daughter has been playing with the monkey (which she named Betsy). Daniels and Salt arrive and Salt tranquilizes Betsy. Ford delays the bombing after Daniels informs him Betsy was captured.
+
+On their return flight, Daniels and Salt are pursued by McClintock in another helicopter. Salt fires two rockets into the trees, setting them afire to simulate a crash. Back in Cedar Creek, Salt mixes Betsy's [[antibody|antibodies]] with Ford's serum to create an [[antiserum]]; although it is not clear what happens to Schuler, they save Keough. McClintock returns to base and resumes Operation Clean Sweep, refusing to listen to Ford. Daniels and Salt fly their helicopter directly into the bomber's path to its target. With Ford's help, Daniels persuades the bomber's flight crew to detonate the [[Thermobaric weapon|thermobaric bomb]] over water and spare the town. Before McClintock can order another bombing, Ford relieves him of command and orders his arrest. Daniels and Keough reconcile as Cedar Creek's residents are cured.
+
+==Cast==
+{{castlist|
+* [[Dustin Hoffman]] as [[Colonel]] Sam Daniels, MD
+* [[Rene Russo]] as Roberta "Robby" Keough, MD
+* [[Morgan Freeman]] as [[Brigadier General]] William "Billy" Ford, MD
+* [[Donald Sutherland]] as [[Major General]] Donald "Donnie" McClintock
+* [[Kevin Spacey]] as [[Lieutenant Colonel]] Casey Schuler, MD
+* [[Cuba Gooding Jr.]] as [[Major (rank)|Major]] Salt, MD
+* [[Patrick Dempsey]] as James "Jimbo" Scott
+* [[Zakes Mokae]] as Dr. Benjamin Iwabi
+* Malick Bowens as Dr. Raswani
+* Susan Lee Hoffman as Dr. Lisa Aronson
+* [[Benito Martinez (actor)|Benito Martinez]] as Dr. Julio Ruiz
+* [[Bruce Jarchow]] as Dr. Mascelli
+* Leland Hayward III as Henry Seward
+* Daniel Chodos as Rudy Alvarez
+* [[Lance Kerwin]] as American Mercenary
+* [[Dale Dye]] as Lieutenant Colonel Briggs
+* [[Diana Bellamy]] as Mrs. Pananides
+* [[J. T. Walsh]] as [[White House Chief of Staff]] (''uncredited''){{citation needed|date=March 2023}}
+* [[David A. R. White]] as Army Pilot (''uncredited''){{citation needed|date=March 2023}} 
+* Jack Rader as Police Chief Fowler
+}}
+
+==Production==
+Scenes in "Cedar Creek" were filmed in [[Ferndale, California|Ferndale]], California, where tanks and helicopters were a common feature of daily life during nearly two months of filming.<ref name="Haeseler"/> Other locations used were [[Dugway Proving Ground]] and [[Kauai]].<ref name=DArc/>
+
+[[Harrison Ford]] was offered the role of Sam Daniels, but turned it down.<ref>{{Cite news|url=http://www.nytimes.com/1995/03/19/movies/film-wrestling-a-virus-to-the-screen.html?pagewanted=all|title = FILM; Wrestling a Virus to the Screen|newspaper = The New York Times|date = March 19, 1995|last1 = Weinraub|first1 = Bernard}}</ref> [[Sylvester Stallone]] and [[Mel Gibson]] were also offered the role, but also turned it down.<ref>{{Cite web|url=https://www.eonline.com/news/1129426/25-shocking-secrets-about-outbreak-a-surprising-real-housewives-connection-and-more|title = 25 Shocking Secrets About Outbreak - E! Online| date=March 10, 2020 }}</ref>
+
+Producer [[Lynda Obst]] has stated it was due to the production of ''Outbreak'' that her film adaptation of ''[[The Hot Zone]]'' was dropped by [[20th Century Fox]], despite having, in her words, "the better package and ... the better script". She also claimed that director [[Wolfgang Petersen]] tried to entice [[Robert Redford]], who was already cast for her film, to be a part of ''Outbreak'', based on Redford's call to her. Obst would eventually have her adaptation of the book, but [[Greenlight|greenlit]] as [[The Hot Zone (American TV series)|a miniseries]] by ''[[National Geographic]]'', which premiered in May 2019.<ref name="Obst"/>
+
+==Release==
+===Box office===
+''Outbreak'' was a commercial success.<ref name=Haase/> It topped the [[List of 1995 box office number-one films in the United States|U.S. box-office list]] its opening weekend with a gross of $13.4 million,<ref name=Natale/> and spent three weeks at number one before ''[[Tommy Boy]]''{{'}}s release.<ref name=Natale2/> It was [[List of 1995 box office number-one films in Japan|number one in Japan]] for six weeks.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=11|date=26 June 1995|title=International box office}}</ref> The film grossed $67.7 million in the United States and Canada, and $122.2 million internationally, for a worldwide total of $189.9 million.<ref name=bomojo/>
+
+===Critical reception===
+''Outbreak'' received mixed reviews from critics. According to the [[review aggregator]] website [[Rotten Tomatoes]], 59% of 64 critics gave the film a positive review, with an average rating of 5.7 out of 10. The website's consensus states: "A frustratingly uneven all-star disaster drama, ''Outbreak'' ultimately proves only mildly contagious and leaves few lasting side effects."<ref name=RottenTom/> On [[Metacritic]], the film has a weighted average score of 64 out of 100, based on 21 critic reviews, indicating "generally favorable reviews".<ref name=Metacritic/> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on a scale of A+ to F scale.<ref name="CinemaScore">{{cite web|url=https://m.cinemascore.com|title=CinemaScore}}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave it three and a half stars of four, calling ''Outbreak''{{'s}} premise "one of the great scare stories of our time, the notion that deep in the uncharted rain forests, deadly diseases are lurking, and if they ever escape their jungle homes and enter the human bloodstream, there will be a new plague the likes of which we have never seen."<ref name=Ebert/>
+
+Rita Kempley of ''[[The Washington Post]]'' also enjoyed the film's plot: "''Outbreak'' is an absolute hoot thanks primarily to director Wolfgang Petersen's rabid pacing and the great care he brings to setting up the story and its probability."<ref name="WashPost" />
+
+[[David Denby]] wrote for ''[[New York (magazine)|New York]]'' magazine that although the opening scenes were well-done, "somewhere in the middle ... ''Outbreak'' falls off a cliff" and becomes "lamely conventional".<ref name="Denby" />
+
+[[Janet Maslin]] of ''[[The New York Times]]'' found the film's subject compelling, but its treatment ineffective: "The film's shallowness also contributes to the impression that no problem is too thorny to be solved by movie heroics."<ref name="Maslin" />
+
+====Scientific accuracy====
+The film's scientific liberties have been criticized, especially compared to the realism of the 2011 film ''[[Contagion (2011 film)|Contagion]]''.<ref>{{cite news |last1=Farr |first1=Christina |title=The medical advisors for the movie 'Contagion' saw a pandemic coming, but got one big thing wrong |url=https://www.cnbc.com/2020/04/14/contagion-movie-advisors-anticipated-pandemic.html |access-date=April 20, 2020 |work=CNBC |date=April 14, 2020 |language=en}}</ref><ref>{{cite news |title=From 'Outbreak' to 'Contagion,' the Movies That Get Pandemics Right—or Not |url=https://www.wired.com/story/pandemic-movies-tv/ |access-date=April 20, 2020 |magazine=Wired |date=2020 |language=en}}</ref> Implausibilities include the virus taking only an hour, rather than days, to multiply; the synthesis of the cure taking less than a minute, rather than many months; and the injection of the cure producing immediate improvement.<ref>{{cite news |last1=Offit |first1=Paul |title=How 'Contagion' Pushed Hollywood to Get Science Right |url=https://www.thedailybeast.com/how-contagion-pushed-hollywood-to-get-science-right |access-date=April 20, 2020 |work=[[The Daily Beast]] |date=June 23, 2018 |language=en}}</ref>
+
+===<span class="anchor" id="Accolades"></span>Accolades===
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" | Award
+! scope="col" | Date of ceremony
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable"| {{Refh}}
+|-
+! scope="row"| [[ASCAP Film and Television Music Awards]]
+| April 22, 1996<!-- 11th ASCAP Film and Television Music Awards --><ref name="ASCAP"/>
+| Top Box Office Films
+| [[James Newton Howard]]{{efn|Nominated for his work on ''[[Waterworld]]'' and ''Outbreak''}}
+| {{won}}{{efn|Tied with 10 other people}}
+| style="text-align:center;"| <ref name="ASCAP">{{Cite web |title=ASCAP Fetes Top Film & Television Composers, Songwriters |url=http://www.ascap.com/press/filmtv-042296.html |website=[[American Society of Composers, Authors and Publishers]] |date=1996-04-22 |access-date=2025-12-19 |archiveurl=https://web.archive.org/web/19970126115133/http://www.ascap.com/press/filmtv-042296.html |archivedate=1997-01-26}}</ref>
+|-
+! scope="row"| [[Critics' Choice Movie Awards]]
+| [[1st Critics' Choice Awards|January 22, 1996]]
+| [[Critics' Choice Movie Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Kevin Spacey]]{{efn|Nominated for his performance in ''[[The Usual Suspects]]'', ''[[Seven (1995 film)|Seven]]'', ''[[Swimming with Sharks]]'', and ''Outbreak''}}
+| {{won}}{{efn|Tied with [[Ed Harris]]}}
+| style="text-align:center;"| <ref>{{Cite web |title=THE 1st CRITICS' CHOICE AWARDS WINNERS AND NOMINEES |url=http://www.bfca.org/ccawards/1995.php |website=[[Broadcast Film Critics Association]] |access-date=2008-12-12 |archiveurl=https://web.archive.org/web/20081212034353/http://www.bfca.org/ccawards/1995.php |archivedate=2008-12-12}}</ref><ref>{{Cite news |title=Bcast critics carry Sense |last=Dunkley |first=Cathy |date=1996-01-08 |website=[[The Hollywood Reporter]]}}</ref>
+|-
+! scope="row"| [[Los Angeles Film Critics Association Awards]]
+| [[1995 Los Angeles Film Critics Association Awards|January 15, 1996]]
+| [[Los Angeles Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| Kevin Spacey{{efn|Nominated for his performance in ''Outbreak'', ''[[Swimming with Sharks]]'', ''[[Seven (1995 film)|Seven]]'', and ''[[The Usual Suspects]]''}}
+| {{runner-up}}
+| style="text-align:center;"| <ref>{{Cite news |title='Las Vegas' Glitters for L.A. Film Critics : Movies: Group gives downbeat drama four awards, including best picture and best actor and actress. |url=https://www.latimes.com/archives/la-xpm-1995-12-17-me-15039-story.html |website=[[Los Angeles Times]] |date=1995-12-17 |last=King |first=Susan |archive-url=https://web.archive.org/web/20231029125032/https://www.latimes.com/archives/la-xpm-1995-12-17-me-15039-story.html |archive-date=2023-10-29 |access-date=2024-07-12 |url-status=live}}</ref>
+|-
+! scope="row"| [[NAACP Image Awards]]
+| April 6, 1996<!-- 27th NAACP Image Awards --><ref>{{Cite news |title=Fox runs away with NAACP's Image honors |last=Robb |first=David |date=1996-04-08 |website=[[The Hollywood Reporter]]}}</ref>
+| [[NAACP Image Award for Outstanding Supporting Actor in a Motion Picture|Outstanding Supporting Actor in a Motion Picture]]
+| [[Cuba Gooding Jr.]]
+| {{nom}}
+| style="text-align:center;"| <ref>{{Cite news |title=Houston: Image of versatility Performers five NAACP noms cover movies, cable, music |last=Roberts |first=Jerry |date=1996-02-22 |website=[[The Hollywood Reporter]]}}</ref>
+|-
+! scope="row"| [[New York Film Critics Circle Awards]]
+| [[1995 New York Film Critics Circle Awards|January 7, 1996]]
+| [[New York Film Critics Circle Award for Best Supporting Actor|Best Supporting Actor]]
+| Kevin Spacey
+| {{won}}
+| style="text-align:center;"| <ref>{{Cite web |title=1995 Awards |url=http://www.nyfcc.com/awards/?awardyear=1995 |website=[[New York Film Critics Circle]] |access-date=2011-01-18 |archiveurl=https://web.archive.org/web/20110118163416/http://www.nyfcc.com/awards/?awardyear=1995 |archivedate=2011-01-18}}</ref>
+|-
+! scope="row"| [[Saturn Awards]]
+| [[22nd Saturn Awards|June 25, 1996]]<ref>{{Cite news |title=Dawn breaks in front in noms for sci-fi Saturns |last=Honeycutt |first=Kirk |date=1996-03-25 |website=[[The Hollywood Reporter]]}}</ref>
+| [[Saturn Award for Best Science Fiction Film|Best Science Fiction Film]]
+| ''Outbreak''
+| {{Nom}}
+| style="text-align:center;"| <ref>{{Cite news |title='Monkeys,' 'Dawn' orbit Saturns |date=1996-06-27 |website=[[The Hollywood Reporter]]}}</ref><ref>{{Cite web |title=1995 FILM AWARDS for Best Science Fiction Film |url=https://www.saturnawards.org/The-Saturn-Awards-Past-Winners.php?category=1&year=1995#b |website=[[Saturn Awards]] |archive-url=https://web.archive.org/web/20240712121704/https://www.saturnawards.org/The-Saturn-Awards-Past-Winners.php?category=1&year=1995#b |archive-date=2024-07-12 |access-date=2024-07-12 |url-status=live}}</ref>
+|-
+! scope="row"| [[Society of Texas Film Critics Awards]]
+| [[Society of Texas Film Critics Awards 1995|December 28, 1995]]<ref>{{Cite news |title=`Suspects' picked out of lineup; Texas film critics list their favorites for '95 |last=Pinsker |first=Beth |work=[[The Dallas Morning News]] |date=1995-12-29 |quote=The Society of Texas Film Critics, made up of 18 critics around the state, broke with critics' groups in New York, Los Angeles and Boston on Thursday by giving four awards to the twisted tale about a team of thieves being tracked by a cop and a mysterious crime lord.}}</ref>
+| Best Supporting Actor
+| Kevin Spacey{{efn|Nominated for his performance in ''[[The Usual Suspects]]'', ''[[Seven (1995 film)|Seven]]'', and ''Outbreak''}}
+| {{won}}
+| style="text-align:center;"| <ref>{{Cite news |title=The Society of Texas Film Critics 1995 Awards |url=https://www.austinchronicle.com/screens/1996-01-05/530347/ |website=[[The Austin Chronicle]] |date=1996-01-05 |archive-url=https://web.archive.org/web/20201202143650/https://www.austinchronicle.com/screens/1996-01-05/530347/ |archive-date=2020-12-02 |access-date=2024-07-12 |url-status=live}}</ref>
+|}
+
+===Later popularity===
+The film's popularity resurged during the [[COVID-19 pandemic]], ranking as the fourth-most-streamed film on [[Netflix]] in the United States on March 13, 2020.<ref name="Clark 2020"/>
+
+==Notes==
+{{notelist}}
+
+==References==
+<references>
+<ref name="CDC">{{cite journal|url=https://www.cdc.gov/mmwr/preview/mmwrhtml/00037149.htm|title=Update: Outbreak of Ebola Viral Hemorrhagic Fever – Zaire, 1995|journal=Morbidity and Mortality Weekly Report|volume=44|issue=20|page=399|date=May 26, 1995|pmid=7746265|access-date=January 29, 2015|author1=Centers for Disease Control Prevention (CDC)}}</ref>
+<ref name="Haeseler">{{cite news|last=Haeseler|first=Rob|title=Hollywood Invades Humboldt County|newspaper=San Francisco Chronicle|date=April 17, 1995|url=https://www.sfgate.com/entertainment/article/Hollywood-Invades-Humboldt-County-Ferndale-3036529.php|access-date=January 14, 2012}}</ref>
+<ref name="DArc">{{cite book|last=D'Arc|first=James|title=When Hollywood Came to Town: A History of Movie Making in Utah|url=https://books.google.com/books?id=WiLgQUah478C&pg=PA297|year=2010|publisher=Gibbs Smith|isbn=978-1-4236-1984-0|page=297}}</ref>
+<ref name="Obst">{{cite news|last=Sandberg|first=Bryn Elise|title=Lynda Obst Talks 'The Hot Zone's 25-Year Journey to the Screen|url=https://www.hollywoodreporter.com/news/lynda-obst-hot-zones-25-year-journey-screen-1198897|access-date=April 4, 2019|work=[[The Hollywood Reporter]]|publisher=[[Eldridge Industries|Valence Media]]|date=April 2, 2019}}</ref>
+<ref name="Natale">{{cite news|last=Natale|first=Richard|title='Outbreak's' Success Only Goes So Far|newspaper=[[Los Angeles Times]]|date=March 13, 1995|url=https://www.latimes.com/archives/la-xpm-1995-03-13-ca-42260-story.html|access-date=June 4, 2012}}</ref>
+<ref name="Natale2">{{cite news|last=Natale|first=Richard|title=Weekend Box Office: 'Tommy Boy' Tops a Weak Field|newspaper=Los Angeles Times|date=April 4, 1995|url=https://www.latimes.com/archives/la-xpm-1995-04-04-ca-50565-story.html|access-date=June 4, 2012}}</ref>
+<ref name="bomojo">{{mojo title|outbreak|Outbreak}}</ref>
+<ref name="Haase">{{cite book|last=Haase|first=Christine|title=When Heimat Meets Hollywood: German Filmmakers and America, 1985–2005|url=https://books.google.com/books?id=O-CAXVjNvFoC&pg=PA86|year=2007|publisher=Camden House|isbn=978-1-57113-279-6|page=86}}</ref>
+<ref name="RottenTom">{{cite web|url=https://www.rottentomatoes.com/m/outbreak|title=Outbreak|website=[[Rotten Tomatoes]]|access-date=January 25, 2023}}</ref>
+<ref name="Metacritic">{{cite web|url=https://www.metacritic.com/movie/outbreak|title=Outbreak Reviews|website=[[Metacritic]]|access-date=January 25, 2023}}</ref>
+<ref name="Ebert">{{cite web|last=Ebert|first=Roger|author-link=Roger Ebert|title=Outbreak|url=https://www.rogerebert.com/reviews/outbreak-1995|newspaper=[[Chicago Sun-Times]]|access-date=August 2, 2026|date=March 10, 1995}}</ref>
+<ref name="WashPost">{{cite web|last=Kempley|first=Rita|title='Outbreak' (R)|url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/outbreakrkempley_c00d6b.htm|newspaper=[[The Washington Post]]|access-date=February 20, 2013|date=March 10, 1995}}</ref>
+<ref name="Denby">{{cite journal|last=Denby|first=David|author-link=David Denby|journal=New York Magazine|url=https://books.google.com/books?id=0gEIXx4VywEC&pg=PA60|date=March 20, 1995|page=60|title=The Lukewarm Zone|volume=28|issue=12|issn=0028-7369}}</ref>
+<ref name="Maslin">{{cite news|last=Maslin|first=Janet|author-link=Janet Maslin|title=Film Review: The Hero is Hoffman, The Villain a Virus|url=https://www.nytimes.com/movie/review?res=990CE7D81F3CF933A25750C0A963958260|date=March 10, 1995|newspaper=[[New York Times]]|access-date=January 29, 2015}}</ref>
+</references>
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title|114069}}
+* {{TCMDb title|85978}}
+* {{Mojo title|outbreak}}
+* {{Rotten Tomatoes|outbreak}}
+
+{{Wolfgang Petersen}}
+{{Ebola}}
+
+[[Category:1990s disaster films]]
+[[Category:1995 action thriller films]]
+[[Category:1995 films]]
+[[Category:American disaster films]]
+[[Category:American action thriller films]]
+[[Category:Films about biological weapons]]
+[[Category:Films about viral outbreaks]]
+[[Category:Films about Ebola]]
+[[Category:Films directed by Wolfgang Petersen]]
+[[Category:Films produced by Gail Katz]]
+[[Category:Films produced by Arnold Kopelson]]
+[[Category:Films scored by James Newton Howard]]
+[[Category:Films set in 1967]]
+[[Category:Films set in 1995]]
+[[Category:Films set in Atlanta]]
+[[Category:Films set in Boston]]
+[[Category:Films set in Georgia (U.S. state)]]
+[[Category:Films set in Hawaii]]
+[[Category:Films set in Maryland]]
+[[Category:Films set in Massachusetts]]
+[[Category:Films set in San Francisco]]
+[[Category:Films set in the Democratic Republic of the Congo]]
+[[Category:Films set in the White House]]
+[[Category:Films set in Utah]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films shot in Atlanta]]
+[[Category:Films shot in Boston]]
+[[Category:Films shot in California]]
+[[Category:Films shot in Georgia (U.S. state)]]
+[[Category:Films shot in Hawaii]]
+[[Category:Films shot in Maryland]]
+[[Category:Films shot in San Francisco]]
+[[Category:Films shot in the Democratic Republic of the Congo]]
+[[Category:Films shot in Utah]]
+[[Category:Films shot in Washington, D.C.]]
+[[Category:Warner Bros. films]]
+[[Category:Films about influenza outbreaks]]
+[[Category:Films set in cinemas and movie theaters]]
+[[Category:Films with screenplays by Robert Roy Pool]]
+[[Category:1995 English-language films]]
+[[Category:1995 American films]]
+[[Category:English-language action thriller films]]
+[[Category:Films about monkeys]]

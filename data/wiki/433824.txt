@@ -1,0 +1,196 @@
+{{short description|1990 film by Renny Harlin}}
+{{Use American English|date=May 2025}}
+{{Use mdy dates|date=May 2025}}
+<!--there is no need to dab the page for the other films-->
+{{Infobox film
+| name           = Die Hard 2
+| image          = Die Hard 2.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Renny Harlin]]
+| producer       = {{Plainlist|
+* [[Charles Gordon (producer)|Charles Gordon]]
+* [[Lawrence Gordon (producer)|Lawrence Gordon]]
+* [[Joel Silver]]
+}}
+| screenplay     = {{Plainlist|
+* [[Steven E. de Souza]]
+* [[Doug Richardson]]
+}}
+| based_on       = {{Plainlist|
+* {{Based on|''[[58 Minutes]]''|[[Walter Wager]]}}
+* {{Based on|[[Nothing Lasts Forever (Thorp novel)|Characters]]|[[Roderick Thorp]]}}
+}}
+| starring       = {{Plainlist|
+* [[Bruce Willis]]
+* [[Bonnie Bedelia]]
+* [[William Atherton]]
+* [[Reginald VelJohnson]]
+* [[Franco Nero]]
+* [[William Sadler (actor)|William Sadler]]
+* [[John Amos]]
+}}
+| music          = [[Michael Kamen]]
+| cinematography = [[Oliver Wood (cinematographer)|Oliver Wood]]
+| editing        = {{Plainlist|
+* [[Stuart Baird]]
+* Robert A. Ferretti
+}}
+| studio         = {{Plainlist|
+* Gordon Company 
+* [[Silver Pictures]]
+}}
+| distributor    = [[20th Century Fox]]
+| released       = {{Film date|1990|07|04}}
+| runtime        = 124 minutes<ref name="mojo"/>
+| country        = United States
+| language       = English
+| budget         = $60–70 million<ref name="mojo" /><ref name="Battle of the Biceps"/><ref name="BRUCE WILLIS: WHERE AM I?">{{cite magazine |title=Bruce Willis: Where Am I? |url=https://www.newsweek.com/bruce-willis-where-am-i-206558 |magazine=[[Newsweek]] |access-date=April 20, 2020|quote=...What did they spend that reported $62 million on making 'Die Hard 2'?}}</ref><ref name="Greenberg (1991)">{{Cite news |last=Greenburg |first=James |title=Film; Why the 'Hudson Hawk' Budget Soared So High |date=May 26, 1991 |work=[[The New York Times]] |url=http://www.nytimes.com/1991/05/26/movies/film-why-the-hudson-hawk-budget-soared-so-high.html |access-date=May 1, 2020|quote=...'Die Hard 2' (1990), which also ran over budget and wound up costing a reported $70 million.}}</ref>
+| gross          = $240 million<ref name="mojo">{{cite Box Office Mojo |title=Die Hard 2 |id=0099423 |access-date=April 22, 2022}}</ref>
+}}
+
+'''''Die Hard 2''''' (also known by its tagline '''''Die Harder''''' or '''''Die Hard 2: Die Harder''''')<ref group="Note">The film's onscreen title is ''Die Hard 2'', as also given at the initial home-video release's official website.[https://www.20thcenturystudios.com/movies/die-hard-2] The film's original advertising used "Die Harder" as a tagline, and many releases of the film (e.g. the 2006 DVD release and 2007 Blu-ray release) were marketed under the title ''Die Hard 2: Die Harder''.</ref> is a 1990 American [[action film]] directed by [[Renny Harlin]], written by [[Steven E. de Souza]] and [[Doug Richardson]], co-produced by [[Joel Silver]], and starring [[Bruce Willis]]<ref>{{Cite news|last=Heritage|first=Stuart|url=https://www.theguardian.com/film/filmblog/2013/jun/21/die-hard-two-recap|title=Die Hard 2 recap: 'Insane bloodlust, gratuitous profanity, zero logic'|date=2013-06-21|work=The Guardian|access-date=2020-04-22 |issn=0261-3077}}</ref> as [[John McClane]] alongside [[Bonnie Bedelia]], [[William Sadler (actor)|William Sadler]], [[Art Evans (actor)|Art Evans]], [[William Atherton]], [[Franco Nero]], [[Dennis Franz]], [[Fred Thompson]], [[John Amos]] and [[Reginald VelJohnson]]. The sequel to ''[[Die Hard]]'' (1988) and the second installment in the [[Die Hard (franchise)|''Die Hard'' film series]], the film was released on July 4, 1990 by [[20th Century Fox]], in the United States.
+
+As with the first film, the action in ''Die Hard 2'' takes place during [[Christmas]], but on a non-specified day during Christmas week rather than on [[Christmas Eve]]. McClane is waiting for his wife Holly to land at [[Dulles International Airport|Washington Dulles International Airport]] when terrorists take over the air traffic control system. He must stop the terrorists before Holly's plane and several other incoming flights that are circling the airport run out of fuel and crash. During the night, McClane must also contend with airport police and military commander Grant, none of whom want his assistance.
+
+The film received positive reviews from critics, with praise for its action sequences and criticism for some plot elements; it was nevertheless generally considered to be inferior to its predecessor. ''Die Hard 2'' was a major [[box office|box-office]] success, grossing $240 million and doubling the earnings of its predecessor and finishing as the year's seventh-highest-grossing film. It demonstrated to the industry that the first film's scenario could be applied to different settings and still draw massive audiences, leading to many imitators outside of the series.<ref>{{cite web|url=https://www.slashfilm.com/559433/die-hard-rip-offs/|title=The 9 Best And Worst 'Die Hard' Knock-Offs|work=SlashFilm|first=Joshua|last=Meyer|date=11 July 2018|access-date=22 August 2026}}</ref> This sequel was followed by ''[[Die Hard with a Vengeance]]'' (1995), ''[[Live Free or Die Hard]]'' (2007) and ''[[A Good Day to Die Hard]]'' (2013).
+
+==Plot==
+ <!-- Per WP:FILMPLOT, plot summary should be between 400 to 700 words. -->
+On an unspecified day during [[Christmas]] week, two years after the events of the [[Die Hard|previous film]],<ref group="Note">There is a deleted scene included with the DVD and Blu-ray versions of the film where McClane tells Marvin ([[Tom Bower (actor)|Tom Bower]]), the janitor "This is how I spent Christmas last year", which seems to suggest that, given the release date of the first film, ''Die Hard 2'' takes place during Christmas 1989. However, given the various references to the 1990s in the film (including the featured [[The Simpsons season 1|season one]] episode of ''[[The Simpsons]]'', "[[There's No Disgrace Like Home]]", being released in 1990), and the scene in question having been removed, the film can be assumed to take place during Christmas 1990.</ref> [[John McClane]] is now a lieutenant with the [[Los Angeles Police Department|LAPD]], who arrives at [[Dulles International Airport]] to pick up his wife, Holly. He is met with hostility from airport police officer Vito Lorenzo, who issues him a parking ticket. Meanwhile, a plane carrying corrupt foreign military leader General Ramon Esperanza is headed to Dulles under extradition for using U.S. funds to buy drugs.
+
+Waiting to meet Esperanza's plane is disgraced former [[United States Army]] Colonel William Stuart and a group of ex-military sympathizers who supported Esperanza's actions. McClane follows two of Stuart's men into a baggage sorting area where a gun fight ensues. He kills one man, but the other escapes. 
+
+With the help of his friend Sergeant [[Al Powell]], McClane runs the dead man's fingerprints. They correspond to an American soldier who was listed as having died in a helicopter accident two years earlier. McClane reports his concerns to the ill-tempered [[airport police]] chief Carmine Lorenzo and [[air traffic control]] director Ed Trudeau, but neither believes him.
+
+Stuart and his men are operating out of a church on the outskirts of the airport. They cut all communications with incoming airplanes, disable runway lighting, and demand that Esperanza's plane be allowed to land without interference. Under Stuart's direction, Trudeau orders all planes in Dulles airspace held in the air despite their low fuel supplies.
+
+McClane becomes worried about Holly's plane, so enlists the help of airport janitor Marvin to fight back. Chief airport engineer Leslie Barnes decides to try using an unfinished antenna array to communicate with the airplanes. Lorenzo sends an airport [[SWAT]] team with him, but Stuart's men kill the officers and destroy the antenna. McClane saves Barnes and kills Stuart's men. In retaliation, Stuart impersonates air traffic control and fakes a British airplane's [[altimeter]] reading by recalibrating sea level. McClane is unable to warn off the airplane which crashes, killing everyone aboard.
+
+Esperanza's plane lands and McClane wounds Esperanza before Stuart and his men arrive. They blow up the plane and take Esperanza to the church. A [[Blue Light (counter-terrorist subunit)|Blue Light]] team arrives, led by Major Grant, of whom Stuart is a [[protégé]]. Grant's men and McClane attack the church. 
+
+McClane kills one of Stuart's men and gives chase with his gun, but the mercenaries escape on snowmobiles. McClane follows but his vehicle is destroyed by gunfire. McClane realizes the gun was filled with [[Blank (cartridge)|blanks]]; the earlier firefight was staged and Grant's team is working with Stuart. Grant, Stuart, their men and Esperanza rendezvous at an airport hangar, where a [[Boeing 747]] is waiting for them. 
+
+On Holly's flight, reporter Richard Thornburg becomes suspicious as to why the plane has not landed. He taps into the cockpit communications and records a transmission from Barnes to all the circling airplanes describing the situation. From the airplane's lavatory, Richard broadcasts the recording, leading to a panic in the airport terminal which prevents McClane and Lorenzo from getting to the 747. Holly subdues Thornburg with a fellow passenger's taser.
+
+McClane asks reporter Samantha Coleman's crew to fly him via helicopter to intercept the 747. McClane jumps onto the wing and uses his coat to jam the [[aileron]], preventing the plane from taking off. During a melee, McClane kicks Grant into a jet engine. While fighting Stuart, McClane opens a fuel valve in the engine pylon just as Stuart kicks him off the wing. McClane uses a cigarette lighter to ignite the fuel trail, causing the plane to explode and killing everyone on board. The fire trail serves as a landing guide for the circling aircraft to land safely.
+
+McClane and Holly are reunited. Marvin picks them up in his airport cart just as Lorenzo turns up asking if McClane got a parking ticket outside his airport. Lorenzo rips up the ticket and says "What the hell, it's Christmas!" Marvin drives McClane and Holly away.
+
+==Cast==
+{{cast listing|
+* [[Bruce Willis]] as [[Los Angeles Police Department|LAPD]] Detective Lieutenant [[John McClane]]
+* [[Bonnie Bedelia]] as Holly Gennero McClane
+* [[William Atherton]] as Richard "Dick" Thornburg
+* [[Reginald VelJohnson]] as [[Los Angeles Police Department|LAPD]] Sergeant Al Powell
+* [[Franco Nero]] as General Ramon Esperanza
+* [[William Sadler (actor)|William Sadler]] as [[United States Army]] Colonel William Stuart
+* [[John Amos]] as Major Grant
+* [[Dennis Franz]] as Airport Police Captain Carmine Lorenzo
+* [[Art Evans (actor)|Art Evans]] as Leslie Barnes, airport chief engineer
+* [[Fred Thompson]] as Ed Trudeau, air traffic flight director
+* [[Tom Bower (actor)|Tom Bower]] as Marvin, airport janitor
+* [[Sheila McCarthy]] as Samantha "Sam" Coleman
+* [[Robert Costanzo]] as Dulles International Airport Police Sergeant Vito Lorenzo
+* [[Colm Meaney]] as Windsor Pilot
+* [[James Lancaster (actor)|James Lancaster]] as Windsor Navigator
+}}
+
+Additional cast members include Colonel Stuart's [[hitmen]]: [[Don Harvey (actor, born 1960)|Don Harvey]] as Garber, [[John Costelloe (actor)|John Costelloe]] as Sergeant Oswald Cochrane, [[Vondie Curtis-Hall]] as Miller, [[John Leguizamo]] as Burke, [[Robert Patrick]] as O'Reilly, [[Tom Verica]] as Kahn, [[Tony Ganios]] as Baker, Michael Cunningham as Sheldon, [[Peter Nelson (actor)|Peter Nelson]] as Thompson, Ken Baldwin as Mulkey and [[Mark Boone Junior]] as Shockley. [[Patrick O'Neal (sportscaster)|Patrick O'Neal]] appears as Telford, Major Grant's radio operator.
+
+==Production==
+[[File:Evergreen_International_Airlines_Boeing_747-121_N473EV.jpg|thumb| [[Evergreen International Airlines|Evergreen]] Boeing 747 (registration N473EV) used in the film]]
+[[File:Los_Angeles_International_Airport_-_Empty_International_Terminal_1.JPG|thumb|Filming of the Dulles airport concourse scenes took place in the Tom Bradley International Terminal at [[LAX]].]]
+
+The screenplay was adapted from [[Walter Wager]]'s 1987 novel ''[[58 Minutes]]''. The novel has the same plot but differs slightly: police officer Frank Malone must stop terrorists who take an airport hostage while his daughter Kate's plane circles overhead, and has 58 minutes to do so before the plane crashes. [[Roderick Thorp]], who wrote the 1979 novel ''[[Nothing Lasts Forever (1979 novel)|Nothing Lasts Forever]]'', upon which ''[[Die Hard]]'' was based, receives credit for creating "certain original characters", although his name is misspelled onscreen as "Roderick Thorpe".
+
+One of the writers of the screenplay, [[Steven E. de Souza]], later admitted in an interview for the book ''Action Speaks Louder: Violence, Spectacle, and the American Action Movie'' that the villains were based on America's Central American meddling, primarily the [[Iran–Contra affair]].<ref>''Action Speaks Louder: Violence, Spectacle, and the American Action Movie'', page 165</ref>
+
+The film was originally budgeted at $40 million.<ref name=july4/> [[Bruce Willis]] was paid $7.5 million for reprising his role for the film.<ref name="AFI film-67916">{{AFI film|67916}}</ref><ref name="Battle of the Biceps">{{cite web |title=Battle of the Biceps |url=https://people.com/archive/battle-of-the-biceps-vol-33-no-23/ |website=People Magazine |access-date=April 16, 2020}}</ref> Producer [[Joel Silver]] was accused of profligate spending and it was claimed the film cost $60–70 million.<ref name="Easton (1990)">{{Cite news |last=Easton |first=Nina J. |title=Hollywood's Summer of Love : Romantic 'Ghost' Outguns Macho Movies to Become Season's Biggest Hit |work=[[Los Angeles Times]] |date= September 5, 1990 |url=https://www.latimes.com/archives/la-xpm-1990-09-05-ca-528-story.html |access-date=October 16, 2012}}</ref><ref name=july4/> [[20th Century Studios|Fox]] domestic distribution president [[Tom Sherak]] dismissed the $70 million claim as "absurd".<ref name=july4/> It was reported at the end of filming that Silver had been relieved of day-to-day producing duties.<ref name=rush>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=April 25, 1990|page=1|title=Rush hour for summer pix|last=Fleming|first=Charles}}</ref>
+
+Scenes of [[Dulles International Airport]] in the snow were to be filmed in [[Denver]] but filming was scrapped due to warm weather. Some outdoor scenes were filmed in [[Alpena, Michigan]], while others needing to accommodate the landing of the 747 with snow were filmed at former [[Kincheloe Air Force Base]] in [[Kincheloe, Michigan]].<ref>{{cite magazine|url=https://www.sootoday.com/columns/remember-this/from-sonic-boom-to-die-hard-2-the-story-of-kincheloe-air-force-base-3573297| title=From Sonic Boom, to Die Hard 2|magazine=[[Soo Today(magazine)|Soo Today]]}}</ref> Other scenes were filmed on a soundstage in [[Los Angeles]] using fake snow.<ref name=rush/>
+
+''Die Hard 2'' was the first film to use digitally composited live-action footage with a traditional [[matte painting]] that had been photographed and scanned into a computer. It was used for the last scene, which took place on a runway.<ref>{{cite web |url=http://accad.osu.edu/~waynec/history/lesson14.html |title=The History of Computer Graphics and Effects |first=Matt |last=Leonard |access-date=July 10, 2009 |publisher=[[Ohio State University]] Department of Industrial Interior and Visual Design |url-status=dead |archive-url=https://web.archive.org/web/20070517144718/http://accad.osu.edu/~waynec/history/lesson14.html |archive-date=May 17, 2007 |df=mdy }}</ref>
+
+According to [[Franco Nero]], Silver got the idea to cast him after he saw movie posters of Nero hanging in the office of their mutual accountant. Nero did not want to do ''Die Hard 2'' because he did not like the script and he had committed to do the film ''[[Breath of Life (1990 film)|Breath of Life]]''. Finally, Silver scheduled Nero's scenes in such a way that the actor could do both films.<ref>{{Cite web|title=Franco Nero interview|url=https://www.flashbackfiles.com/franco-nero-interview|access-date=2021-02-23|website=THE FLASHBACK FILES|language=en-US}}</ref>
+
+== Music ==
+{{Main|Die Hard 2 (soundtrack)}}
+
+==Release==
+===Marketing===
+In a trailer for the film screened during Christmas 1989, the film had a planned release date of June 29, 1990. This was brought forward to June 22; however, following claims of the film running over time and budget, the release date was pushed back two weeks to July 4.<ref name=july4>{{cite magazine|magazine=[[Daily Variety]]|page=1|title=Fox Pushing 'Hard' Bow Back 2 Weeks|date=May 14, 1990}}</ref>
+
+===Home media===
+The film debuted on video in the United States on January 31, 1991, and it was the most rented video in its first week above ''[[Navy SEALs (film)|Navy SEALs]]''<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=35|date=February 11, 1991|title=Top 50 Video Titles}}</ref> and sold a record 505,000 units for rental.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=22|date=January 6, 1992|title=Rentals Reap Bulk of 1991 Vid Harvest|last=Berman|first=Marc}}</ref>
+
+The film became available on [[DVD]] on March 9, 1999, followed by a 2-Disc Special Edition DVD on July 10, 2001, as part of the Die Hard Ultimate Collection DVD and re-released again in early 2005 as a Widescreen Edition and June 19, 2007, followed by a [[Blu-ray]] release on November 20, 2007, and a re-release on January 29, 2013.<ref>{{Cite web|url=https://www.dvdsreleasedates.com/movies/670/Die-Hard-2-(1990).html|title=Die Hard 2 DVD Release Date|website=DVDs Release Dates |access-date=2018-05-22}}</ref>
+
+===Video game===
+'''''Die Hard 2: Die Harder''''' is a 1992 [[Side-scrolling video game|side-scrolling]] [[First-person shooter|first-person]] [[rail shooter]] [[video game]] developed by [[Tiertex]] and published by [[Grandslam Video]] for the [[Amiga]], [[Atari ST]], [[Commodore 64]], and [[MS-DOS]].<ref>{{cite web|url=https://www.myabandonware.com/game/die-hard-2-die-harder-1du|title=Die Hard 2: Die Harder|website=My Abandonware|access-date=February 12, 2025}}</ref> The game uses the movie's plot, in which [[John McClane]] shoots terrorists invading [[Washington, D.C.|Washington]]'s Dulles Airport in areas such as the luggage center and a runway, chasing after enemies on a snowmobile, and finally on the wing of the terrorists' plane. Each stage consists of three screens; on the last one, each with a boss, John must fight. Occasionally, he must also avoid killing civilians crossing each level. Some enemies, when killed, drop power-ups such as med-kits, armor, grenades and weapons that are collected by shooting them. A game over occurs when John has exhausted all of his lives and continues; the game then resets to the main menu.<ref>{{cite web|url=https://www.romstation.fr/games/dos/die-hard-2-die-harder-r58929|title=Die Hard 2: Die Harder|website=RomStation|date=January 3, 2020 |access-date=February 12, 2025}}</ref>
+
+==Reception==
+===Box office===
+''Die Hard 2'' exceeded all expectations by outdoing the box-office success of its predecessor ''Die Hard''.<ref>{{cite video |people=[[Tom Sherak]] (commentator) |date=May 19, 1995 |title=Die Hard with a Vengeance |url= |medium=DVD |publisher=[[20th Century Fox]] |location=Beverly Hills, California |time=35:12 |id= |isbn= |oclc= |quote=Die Hard 2 actually, as I recall, did better than Die Hard 1, which is very unusual. Sequels normally do about 65% of their original, but this one just exploded. }}</ref> The film had the largest pre-opening, earning $3.7 million from 1,828 theaters. For six years, it held this record until it was surpassed by ''[[Independence Day (1996 film)|Independence Day]]'' in 1996.<ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-1996-07-04-ca-20927-story.html|title=Aliens Arrive! And a Nation Stands in Line : 'Independence Day' Tops $11 Million, Making Movie History|website=[[Los Angeles Times]] |date=July 4, 1996 }}</ref> It had a [[wide release]] in 2,507 theaters in the United States and Canada, grossing $21.7 million its opening weekend.<ref>{{cite news|url=https://www.washingtonpost.com/archive/lifestyle/1990/07/13/spike-doing-the-shrewd-thing/46251f7c-f350-43e0-9257-45beb1108e11/|title=SPIKE, DOING THE SHREWD THING|newspaper=[[The Washington Post]] }}</ref> ''Die Hard 2'' grossed $117.5 million in the United States and Canada, and $122.5 million internationally, earning over $240 million worldwide,<ref name="mojo" /> almost doubling that of ''Die Hard''. The film was re-released internationally in 1993 and made $216,339 more, which totaled its gross to $240.2 million.<ref name="mojo" /> During a period of time, ''Die Hard 2'' and ''[[Ghost (1990 film)|Ghost]]'', starring ''Die Hard 2'' star Bruce Willis' then-wife [[Demi Moore]], occupied the number one and number two spots at the box office, a feat that was not accomplished again by a married [[Hollywood, Los Angeles|Hollywood]] couple until [[Ryan Reynolds]] and [[Blake Lively]] with ''[[Deadpool & Wolverine]]'' and ''[[It Ends with Us (film)|It Ends with Us]]'' in 2024.<ref>{{cite news|url=https://people.com/ryan-reynolds-blake-lively-are-latest-married-couple-to-top-box-office-since-bruce-willis-demi-moore-1990-8693706|title=Ryan Reynolds and Blake Lively Are First Married Couple to Top Box Office Since Bruce Willis and Demi Moore in 1990|first=Marina|last=Watts|publisher=People|date=August 11, 2024|accessdate=August 12, 2024}}</ref><ref>{{cite news|url=https://www.usatoday.com/story/entertainment/movies/2024/08/12/blake-lively-ryan-reynolds-it-ends-with-us-deadpool-and-wolverine-box-office/74765651007/|title=Blake Lively and Ryan Reynolds mark first married couple to top box office in 34 years|first=Kelly|last=Lawler|publisher=USA Today|date=August 12, 2024|accessdate=August 12, 2024}}</ref>
+
+===Critical response===
+On [[Rotten Tomatoes]], ''Die Hard 2'' has an approval rating of 68% based on 68 reviews, with an average rating of {{RT data|average}}. The site's critical consensus reads: "It lacks the fresh thrills of its predecessor, but ''Die Hard 2'' still works as an over-the-top – and reasonably taut – big-budget sequel, with plenty of set pieces to paper over the plot deficiencies."<ref>{{Cite Rotten Tomatoes |id=die_hard_2_1990 |type=m |access-date={{RT data|access date}}}}{{RT data|edit}}</ref> On [[Metacritic]], the film has a weighted average score of 67 out of 100, based on 17 critics, indicating "generally favorable" reviews.<ref>{{cite Metacritic|id=die-hard-2 |title=Die Hard 2 |type=m |access-date=April 22, 2022 }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale.<ref name="CinemaScore">{{cite web |url=https://www.cinemascore.com/ |title=CinemaScore |publisher=[[CinemaScore]] |access-date=April 16, 2022 |archive-url= https://web.archive.org/web/20220413083139/https://www.cinemascore.com/ |archive-date=April 13, 2022 |url-status=live }}</ref>
+
+[[Roger Ebert]], who gave the original film a mixed review, described the sequel as "terrific entertainment", despite noting substantial credibility problems with the plot.<ref>{{cite news |first=Roger |last=Ebert |author-link=Roger Ebert | publication-date=July 3, 1990 |title=Die Hard 2: Die Harder (Review) |newspaper=[[Chicago Sun-Times]] |url=https://www.rogerebert.com/reviews/die-hard-2-die-harder-1990 |access-date=January 1, 2020 }}</ref> Jay Boyar of the ''[[Orlando Sentinel]]'' dubbed the film as being as disappointing a sequel as ''[[Another 48 Hrs.]]'' and ''[[RoboCop 2]]'', and said, <blockquote>Whatever small pleasure there is to be found in this loud dud is due mostly to the residual good feelings from the first film... As played by Bruce Willis, McClane is still an engaging character, even if he is much less amusingly drawn this time. Willis is in there trying, but the qualities that helped to make his character sympathetic in the first film are missing. McClane no longer worries openly about his personal safety, as he did in the original movie. His quasi-cowboy personality from ''Die Hard'' is all but forgotten – he has become more of a [[John Rambo|Rambo]] and less of a [[Roy Rogers]]. And though the filmmakers try to establish McClane as resistant to advanced technology, this promising idea isn't developed.<ref>{{cite web|first=Jay|last=Boyar|url=https://www.orlandosentinel.com/1990/07/03/die-hard-2nd-time-around-the-mayhem-misses-mark-in-harder/|title='Die Hard' – 2nd Time Around The Mayhem Misses Mark In 'Harder'|newspaper=[[Orlando Sentinel]]|location=Florida|date=July 3, 1990|access-date=July 30, 2016|archive-date=November 4, 2016|archive-url=https://web.archive.org/web/20161104202112/http://articles.orlandosentinel.com/1990-07-03/lifestyle/9007020096_1_die-hard-2-die-harder-mcclane|url-status=live}}</ref></blockquote>''[[Empire (film magazine)|Empire]]'' magazine rated the film three out of five stars, while stating, "It's entertaining nonsense that doesn't quite manage to recapture the magic of the original. Still, there are some nice moments here, and Willis is on solid ground as the iconic McClane."<ref>{{cite magazine |first=William |last=Thomas |url=https://www.empireonline.com/movies/die-hard-2/review/ |title=Die Hard 2 Review |magazine=[[Empire (magazine)|Empire]] |date=October 14, 2015 |access-date=July 30, 2016}}</ref> [[Gene Siskel]] ranked the film as the sixth best movie of 1990.<ref>{{cite web |url=http://alumnus.caltech.edu/~ejohnson/critics/siskel.html |title=Gene Siskel's Top Ten Lists 1969–1998 |publisher=Alumnus.caltech.edu |date=February 20, 1999 |access-date=July 30, 2016 |archive-url=https://web.archive.org/web/20110717152442/http://alumnus.caltech.edu/~ejohnson/critics/siskel.html |archive-date=July 17, 2011 |url-status=dead }}</ref><ref>{{cite web|url=http://www.innermind.com/misc/s_e_top.htm |title=Siskel and Ebert Top Ten Lists (1969–1998) |publisher=Innermind.com |date=May 3, 2012 |access-date=July 30, 2016}}</ref> ''[[Maxim (magazine)|Maxim]]'' magazine ranked the film's plane crash #2 on its list of "Greatest Movie Plane Crashes".<ref>{{cite magazine|url=http://www.maxim.com/movies/lists/43865/greatest-movie-plane-crashes.html|title=The Greatest Movie Plane Crashes|magazine=[[Maxim (magazine)|Maxim]]|access-date=August 8, 2009|archive-date=September 30, 2009|archive-url=https://web.archive.org/web/20090930222606/http://www.maxim.com/movies/lists/43865/greatest-movie-plane-crashes.html|url-status=dead}}</ref>
+
+==Notes==
+{{reflist|group=Note}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Film|United States|1990s}}
+* {{IMDb title|0099423}}
+* {{TCMDb title|73103}}
+* {{AFI film|67916}}
+
+{{Die Hard}}
+{{Renny Harlin}}
+{{Steven E. de Souza}}
+{{Authority control}}
+
+{{DEFAULTSORT:Die Hard 2}}
+[[Category:1990 films]]
+[[Category:1990 action thriller films]]
+[[Category:1990s Christmas films]]
+[[Category:20th Century Fox films]]
+[[Category:American action thriller films]]
+[[Category:American aviation films]]
+[[Category:American Christmas films]]
+[[Category:American sequel films]]
+[[Category:Die Hard]]
+[[Category:Dulles International Airport]]
+[[Category:1990 English-language films]]
+[[Category:Films about aviation accidents or incidents]]
+[[Category:Films about hostage takings]]
+[[Category:Films about murderers]]
+[[Category:Films about terrorism in the United States]]
+[[Category:Films about United States Army Special Forces]]
+[[Category:Films based on American thriller novels]]
+[[Category:Films based on multiple works]]
+[[Category:Films directed by Renny Harlin]]
+[[Category:Films produced by Charles Gordon]]
+[[Category:Films produced by Lawrence Gordon]]
+[[Category:Films produced by Joel Silver]]
+[[Category:Films scored by Michael Kamen]]
+[[Category:Films set in 1990]]
+[[Category:Films set in airports]]
+[[Category:Films set in Virginia]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films set on airplanes]]
+[[Category:Films shot in California]]
+[[Category:Films shot in Colorado]]
+[[Category:Films shot in Los Angeles]]
+[[Category:Films shot in Michigan]]
+[[Category:Films shot in Washington (state)]]
+[[Category:Films with screenplays by Steven E. de Souza]]
+[[Category:Silver Pictures films]]
+[[Category:1990 American films]]
+[[Category:English-language action thriller films]]
+[[Category:English-language Christmas films]]

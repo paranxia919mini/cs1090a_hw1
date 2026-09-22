@@ -1,0 +1,370 @@
+{{short description|2024 documentary film by Mati Diop}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox film
+| name           = Dahomey
+| image          = Dahomey film poster.jpg
+| caption        = Theatrical release poster 
+| director       = [[Mati Diop]]
+| producer       = {{Plainlist|
+* Mati Diop
+* Eve Robin
+* Judith Lou Lévy
+}}
+| writer         = Mati Diop
+| music          = {{Plainlist| 
+* [[Wally Badarou]]
+* [[Dean Blunt]]
+}}
+| cinematography = Joséphine Drouin-Viallard
+| editing        = Gabriel Gonzalez
+| studio         = {{ubl|Les Films du Bal|Fanta Sy|[[Arte France Cinéma]]}}
+| distributor    = {{ubl|[[Les Films du Losange]] (France)|Sudu Connexion<ref>{{cite web|title=Mati Diop's Berlinale Golden Bear Winner 'Dahomey' Sells Nearly Worldwide for Films du Losange|website=[[Variety (magazine)|Variety]]|first=Elsa|last=Keslassy|date=26 March 2024|access-date=27 March 2024|url=https://variety.com/2024/film/global/berlinale-golden-bear-winner-dahomey-mati-diop-international-sales-1235952321/|archive-date=26 March 2024|archive-url=https://web.archive.org/web/20240326222514/https://variety.com/2024/film/global/berlinale-golden-bear-winner-dahomey-mati-diop-international-sales-1235952321/|url-status=live}}</ref> (Africa)|[[Mubi (streaming service)|Mubi]] (Worldwide)}}
+| released       = {{Film date|df=y|2024|2|18|[[74th Berlin International Film Festival|Berlinale]]|2024|9|11|France}}
+| runtime        = 68 minutes
+| country        = {{ubl|France|Senegal|Benin}}
+| language       = French, Fon
+| budget         =
+| gross          = $565,958<ref name="bo:mojo">{{cite Box Office Mojo|title=Dahomey|id=31015216|access-date=20 December 2024}}</ref><ref name="The Numbers">{{cite The Numbers (website)|The Numbers|title=Dahomey|id=Dahomey-(2024-France)|access-date=20 December 2024}}</ref> 
+}}
+
+'''''Dahomey''''' is a 2024 [[documentary film]] directed by [[Mati Diop]]. It is a dramatised account of 26 royal treasures from the [[Dahomey|Kingdom of Dahomey]] (in modern-day Benin), which were held in a museum in France. The film explores how the artifacts were returned from France to Benin, and the reactions of Beninese people.<ref name="lead:cine">{{Cite web |url= https://cineuropa.org/en/newsdetail/454362 |title= 20 European films we're anticipating in 2024 |first= David |last= Katz |date= 9 January 2024 |access-date= 28 January 2024 |website= [[Cineuropa]] |language= en |archive-date= 31 January 2024 |archive-url= https://web.archive.org/web/20240131132042/https://cineuropa.org/en/newsdetail/454362/ |url-status= live }}</ref> The film was an international co-production between companies in France, Senegal, and Benin.<ref>{{Cite web |url=https://cineuropa.org/film/455750/ |title=Dahomey |first=Mati |last=Diop |date=9 February 2024 |access-date=9 February 2024 |website=[[Cineuropa]] |language=en |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215160525/https://cineuropa.org/film/455750/ |url-status=live }}</ref>
+
+The film had its world premiere at the main competition of the [[74th Berlin International Film Festival]],<ref name="bda:acc2">{{cite web |date=1 February 2024 |title=Berlinale Documentary Award and Jury |url=https://www.berlinale.de/en/festival/awards-and-juries/berlinale-documentary-award.html |access-date=2 February 2024 |work=Berlinale |archive-date=28 January 2022 |archive-url=https://web.archive.org/web/20220128130040/https://www.berlinale.de/en/festival/awards-and-juries/berlinale-documentary-award.html |url-status=live }}</ref> where it won the festival's top prize, the [[Golden Bear]].<ref name="winner:hr2">{{Cite web |first=Scott |last=Roxborough |date=24 February 2024 |title=Mati Diop Doc 'Dahomey' Wins Berlin Golden Bear |url=https://www.hollywoodreporter.com/movies/movie-news/2024-berlin-film-festival-winners-mati-diop-sebastian-stan-emily-watson-1235833970/ |access-date=24 February 2024 |website=Hollywood Reporter |language=en |archive-date=25 February 2024 |archive-url=https://web.archive.org/web/20240225034232/https://www.hollywoodreporter.com/movies/movie-news/2024-berlin-film-festival-winners-mati-diop-sebastian-stan-emily-watson-1235833970/ |url-status=live }}</ref><ref>{{Cite web |last=Abbatescianni |first=Davide |date=22 January 2024 |title=The Berlinale unveils its Competition and Encounters titles |url=https://cineuropa.org/en/newsdetail/455195 |access-date=28 January 2024 |website=[[Cineuropa]] |language=en |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215160521/https://cineuropa.org/en/newsdetail/455195/ |url-status=live }}</ref> It was released theatrically in France on 11 September 2024, by [[Les Films du Losange]], to critical acclaim. It was named one of the Top 5 Documentary Films of 2024 by the [[National Board of Review]].<ref>{{Cite web |title=2024 Archives |url=https://nationalboardofreview.org/award-years/2024/ |access-date=2024-12-04 |website=National Board of Review |language=en-US |archive-date=4 December 2024 |archive-url=https://web.archive.org/web/20241204200831/https://nationalboardofreview.org/award-years/2024/ |url-status=live }}</ref> 
+
+It was also selected as the [[List of Senegalese submissions for the Academy Award for Best International Feature Film|Senegalese entry]] for [[Academy Award for Best International Feature Film|Best International Feature Film]] at the [[97th Academy Awards]],<ref>{{cite web |last=Ntim |first=Zac |date=September 13, 2024 |title=Oscars: Senegal Submits Mati Diop's Golden Bear Winner 'Dahomey' For International Feature Film Race |url=https://deadline.com/2024/09/mati-diop-oscars-senegal-international-feature-film-berlin-film-festival-golden-bear-1236087251/ |access-date=September 13, 2024 |website=[[Deadline Hollywood|Deadline]]}}</ref> where it was shortlisted in two categories: [[Academy Award for Best Documentary Feature Film|Documentary Feature Film]] and International Feature Film.<ref>{{Cite web |url=https://press.oscars.org/news/97th-oscarsr-shortlists-10-award-categories-announced |title=97th Oscars Shortlists in 10 Award Categories Announced |date=17 December 2024 |access-date=18 December 2024 |website=[[Academy of Motion Picture Arts and Sciences]] |language=en |archive-date=17 December 2024 |archive-url=https://web.archive.org/web/20241217204255/https://press.oscars.org/news/97th-oscarsr-shortlists-10-award-categories-announced |url-status=live }}</ref><ref name="osc:hr">{{Cite web|url=https://www.hollywoodreporter.com/movies/movie-news/oscars-shortlists-full-list-movies-contenders-1236088489/ |title= Academy Unveils Shortlists in 10 Oscar Categories |author= Kimberly Nordyke, Beatrice Verhoeven |website= [[The Hollywood Reporter]] |date= 17 December 2024 |access-date= 18 December 2024|lang=en}}</ref>
+
+==Contents==
+The documentary film blends facts and fiction to narrate the stories of 26 African artworks.<ref name="lead:cine"/> The royal artefacts from the [[Dahomey|Kingdom of Dahomey]] (1600–1904) were taken to France during [[French Dahomey|the region's colonial period]] (1872–1960). In the 21st century, they were put on display in the [[Musée du Quai Branly – Jacques Chirac]], a museum of non-European art located in Paris. Following a campaign for [[repatriation (cultural property)|repatriation]], the artefacts were returned to Benin.
+
+Among the returned works were statues of two kings of Dahomey, [[Glele]] and [[Béhanzin]]. Their throne, which had been seized by French soldiers in 1892, was also given back.<ref>{{cite web |url=https://de.euronews.com/2021/11/09/schatze-aus-dahomey-frankreich-gibt-geraubte-kunst-an-benin-zuruck |title=Schätze aus Dahomey: Frankreich gibt geraubte Kunst an Benin zurück |trans-title=Treasures from Dahomey: France returns stolen art to Benin |date=9 November 2021 |access-date=28 January 2024 |website=[[Euronews]] |language=de |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128052121/https://de.euronews.com/2021/11/09/schatze-aus-dahomey-frankreich-gibt-geraubte-kunst-an-benin-zuruck |url-status=live }}</ref> The art pieces are now displayed in a museum in [[Abomey]], the old royal city, about 65 miles from the [[Gulf of Guinea]].<ref>{{cite web |url=https://momaa.org/directory/musee-histsorique-d-abomey/ |title=Musee Histsorique d' Abomey |access-date=28 January 2024 |website=MoMAA |language=en |archive-date=19 January 2024 |archive-url=https://web.archive.org/web/20240119214640/https://momaa.org/directory/musee-histsorique-d-abomey/ |url-status=live }}</ref>
+
+The film includes a discussion by students at the [[University of Abomey-Calavi]], presenting their views on the repatriation of cultural assets. Some of the students criticise the Paris museum for returning only 26 of the 7,000 worldwide [[ethnographic]] objects it holds.<ref name="DeadlineHollywood 18-02-2024">{{cite web|url=https://deadline.com/2024/02/dahomey-review-mati-diop-audacious-doc-offers-a-provocative-view-of-modern-africa-berlin-film-festival-1235829786/#!|title='Dahomey' Review: Mati Diop's Audacious Doc Offers A Provocative View Of Modern Africa – Berlin Film Festival|website=Deadline|first=Stephanie|last=Bunbury|access-date=29 February 2024|date=18 February 2024|archive-date=29 February 2024|archive-url=https://web.archive.org/web/20240229130322/https://deadline.com/2024/02/dahomey-review-mati-diop-audacious-doc-offers-a-provocative-view-of-modern-africa-berlin-film-festival-1235829786/#!|url-status=live}}</ref>
+
+A prominent role in the film is given to the 26th art object to be repatriated, a statue that represents [[Ghezo|King Ghézo]], who ruled from 1818 to 1859, shown below. A [[voice-over]] by the Haitian writer [[Makenzy Orcel]] (who wrote this part of the script), playing the object, tells of the time it spent in storage at the Paris museum, its memories of Africa and thoughts of returning to its homeland.
+
+<gallery widths="200px" heights="200px">
+File:Royaume du Danhomè 1894.svg|The Kingdom of Dahomey around 1894, superimposed on a map of the modern-day Republic of Benin, in the region of West Africa.
+File:Royal_statues_of_Abomey_in_Quai_Branly_museum_May_2021.jpg|Three royal sculptures in the Quai Branly museum in May 2021 before their restitution
+File:Statue du roi Ghézo-Musée du Quai Branly (6).jpg|Statue of [[Ghezo|King Ghézo]] (art object number 26) at the Quai Branly Museum
+</gallery>
+
+==Production==
+[[File:Film Crew of Dahowey at Berlinale 2024.jpg|thumb|Film crew of ''Dahomey'': Habib Ahandessi, Joséa Guedje, [[Mati Diop]] and Gildas Adannou at Berlinale 2024]]
+
+The documentary was produced by Les Films du Bal in co-production with Fanta Sy and distributed by [[Les Films du Losange]]. The director was [[Mati Diop]], who also wrote the script, and the [[director of photography]] was Joséphine Drouin-Viallard. It was edited by Gabriel Gonzalez. The thoughts of the voiced statue were written by [[Makenzy Orcel]]. The music was composed by [[Wally Badarou]] and [[Dean Blunt]]. Corneille Houssou, [[Nicolas Becker (sound engineer)|Nicolas Becker]] and Cyril Holtz were the sound designers.<ref name="rev:variety"/> The film incorporates footage from the surveillance cameras at the [[Musée du Quai Branly – Jacques Chirac]] and the Palais de la Marina in [[Cotonou]].<ref>{{cite web |url=https://en.unifrance.org/movie/56518/dahomey |title=Dahomey |date=18 December 2023 |access-date=28 January 2024 |website=[[Unifrance]] |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128062723/https://en.unifrance.org/movie/56518/dahomey |url-status=live }}</ref>
+
+==Release==
+''Dahomey'' premiered on 18 February 2024, as part of the [[74th Berlin International Film Festival]], where it was shown as part of the main competition.<ref>{{cite web|url=https://deadline.com/2024/01/berlin-film-festival-2024-competition-lineup-rooney-mara-1235800214/|title=Berlin Reveals 2024 Competition Lineup: Rooney Mara, Mati Diop, Isabelle Huppert, Abderrahmane Sissako Movies Among Selection|website=Deadline|first=Zac|last=Ntim|date=22 January 2024|access-date=28 January 2024|archive-date=13 February 2024|archive-url=https://web.archive.org/web/20240213060034/https://deadline.com/2024/01/berlin-film-festival-2024-competition-lineup-rooney-mara-1235800214/|url-status=live}}</ref><ref>{{cite web |url=https://www.berlinale.de/en/2024/programme/202414781.html#screening_dates |title=Dahomey |work=Berlinale |date=6 February 2024 |access-date=6 February 2024 |archive-date=25 February 2024 |archive-url=https://web.archive.org/web/20240225162319/https://www.berlinale.de/en/2024/programme/202414781.html#screening_dates |url-status=live }}</ref>
+
+In January 2024, Paris-based [[Les Films du Losange]] acquired the sales rights.<ref name="rel:variety">{{Cite news |url= https://variety.com/2024/film/global/mati-diop-dahomey-berlin-film-festival-les-films-du-losange-sales-1235881580/ |title= Mati Diop's Berlinale Competition Title 'Dahomey' Lands at Les Films du Losange for International Sales, French Distribution (EXCLUSIVE) |first= Elsa |last= Keslassy |work= Variety |date= 22 January 2024 |access-date= 28 January 2024 |language= en |archive-date= 24 February 2024 |archive-url= https://web.archive.org/web/20240224170542/https://variety.com/2024/film/global/mati-diop-dahomey-berlin-film-festival-les-films-du-losange-sales-1235881580/ |url-status= live }}</ref> That February, [[Mubi (streaming service)|Mubi]] acquired the distribution rights to the film for North America, Latin America, United Kingdom, Ireland, Germany, Austria, Switzerland, Italy, Turkey and India from Les Films du Losange and plans to release the film in late 2024.<ref name="mubi:variety">{{Cite news |url= https://variety.com/2024/film/global/mubi-berlinale-dahomey-mati-diop-north-america-u-k-germany-1235920227/ |title= Mubi Buys Berlinale Highlight 'Dahomey' by Mati Diop for North America, U.K., Germany and More Territories (EXCLUSIVE) |first= Elsa |last= Keslassy |work= Variety |date= 23 February 2024 |access-date= 23 February 2024 |language= en |archive-date= 24 February 2024 |archive-url= https://web.archive.org/web/20240224143849/https://variety.com/2024/film/global/mubi-berlinale-dahomey-mati-diop-north-america-u-k-germany-1235920227/ |url-status= live }}</ref> It opened the 46th [[Cinéma du Réel]] Festival that took place from 22 to 31 March 2024 in Paris.<ref>{{Cite web |url= https://cineuropa.org/en/newsdetail/458901/ |title= Documentaries cause a stir in Paris thanks to the Cinéma du Réel Festival |first= Fabien |last= Lemercier |date= 22 March 2024 |access-date= 16 May 2024 |website= Cineuropa |language= en |archive-date= 4 May 2024 |archive-url= https://web.archive.org/web/20240504221902/https://cineuropa.org/en/newsdetail/458901/ |url-status= live }}</ref>
+
+The film was presented in Special Presentations section of the [[71st Sydney Film Festival]] on 8 June 2024<ref>{{Cite web|url=https://www.sff.org.au/program/browse/dahomey|title=Dahomey|website=Sydney Film Festival Festival|date=8 June 2024|access-date=23 July 2024|language=en|archive-date=6 June 2024|archive-url=https://web.archive.org/web/20240606004941/https://www.sff.org.au/program/browse/dahomey|url-status=live}}</ref> and played at the [[2024 Toronto International Film Festival|Toronto International Film Festival]] on 5 September 2024.<ref>{{cite web |url=https://www.tiff.net/events/dahomey |title=Dahomey |website=[[Toronto International Film Festival]] |access-date=19 August 2024}}</ref> It was screened in 'Documentaries' at the [[2024 Atlantic International Film Festival]] on 14 September 2024.<ref>{{Cite web|url=https://2024aiff.eventive.org/films/66b4b44bd4ac1e00d2c6380f|title=Dahomey|website=Atlantic International Film Festival|date=1 September 2024|access-date=1 September 2024|language=en|archive-date=1 September 2024|archive-url=https://web.archive.org/web/20240901053522/https://2024aiff.eventive.org/films/66b4b44bd4ac1e00d2c6380f|url-status=live}}</ref>
+
+''Dahomey'' was also selected to open Zabaltegi-Tabakalera section of [[72nd San Sebastián International Film Festival]], where it was screened on 20 September 2024.<ref>{{Cite web|url=https://www.europapress.es/euskadi/noticia-pelicula-dahomey-mati-diop-inaugurara-seccion-zabaltegi-72-festival-cine-san-sebastian-20240827135207.html|title=La película 'Dahomey' de Mati Diop inaugurará la sección Zabaltegi del 72 Festival de Cine de San Sebastián|trans-title=Mati Diop's film 'Dahomey' will open the Zabaltegi section of the 72nd San Sebastian Film Festival|website=[[Europa Press (news agency)|Europa Press]]|date=27 August 2024|access-date=28 August 2024|language=es|archive-date=27 August 2024|archive-url=https://web.archive.org/web/20240827230136/https://www.europapress.es/euskadi/noticia-pelicula-dahomey-mati-diop-inaugurara-seccion-zabaltegi-72-festival-cine-san-sebastian-20240827135207.html|url-status=live}}</ref> It was screened in 'Showcase' at the [[2024 Vancouver International Film Festival]] on 29 September 2024.<ref>{{cite web|url=https://viff.org/series/showcase/ |title=Dahomey |work=VIFF|date=28 August 2024|access-date=1 September 2024}}</ref>
+
+It released in French theatres on 11 September 2024, by [[Les Films du Losange]].<ref>{{Cite web |title=Dahomey |url=https://filmsdulosange.com/film/dahomey/ |access-date=29 August 2024 |publisher=[[Les Films du Losange]] |language=fr-FR |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829210644/https://filmsdulosange.com/film/dahomey/ |url-status=live }}</ref>
+
+The film was also invited at the [[29th Busan International Film Festival]] in 'Documentary Showcase' section and was screened in October 2024.<ref>{{Cite web|url=https://www.biff.kr/eng/artyboard/mboard.asp?Action=view&strBoardID=9611_05&intPage=1&intCategory=0&strSearchCategory=%7Cs_name%7Cs_subject%7C&strSearchWord=&intSeq=94209|title=The 29th BIFF announces Special Program in Focus 'Teen Spirit, Teen Movie'|website=Busan International Film Festival|date=19 August 2024|access-date=5 September 2024|language=en|archive-date=1 September 2024|archive-url=https://web.archive.org/web/20240901033258/https://www.biff.kr/eng/artyboard/mboard.asp?Action=view&strBoardID=9611_05&intPage=1&intCategory=0&strSearchCategory=%7Cs_name%7Cs_subject%7C&strSearchWord=&intSeq=94209|url-status=live}}</ref> It was also  presented in Special Presentations section of the [[2024 BFI London Film Festival]] on 12 October 2024.<ref>{{Cite web|url=https://deadline.com/2024/09/bfi-london-film-festival-lineup-2024-elizabeth-chai-vasarhelyi-jimmy-chin-endurance-sean-baker-anora-ali-abbasis-donald-trump-the-apprentice-1236077351/  |last=Ntim |first=Zac |date=4 September 2024 |title=BFI London Film Festival Lineup: Elizabeth Chai Vasarhelyi & Jimmy Chin To Debut 'Endurance', Baker, Heller, Berger & Abbasi's Trump Movie Among Headline Galas — Full List |access-date=4 September 2024 |website=Deadline |language=en-US}}</ref> It also made it to Main Slate of [[2024 New York Film Festival]] and was screened at the [[Film at Lincoln Center|Lincoln Center]] in October 2024.<ref>{{Cite web|url=https://www.filmlinc.org/daily/62nd-new-york-film-festival-main-slate-announced/ |date=6 August 2024 |title=62nd New York Film Festival Main Slate Announced |access-date=12 October 2024 |website=Film at Lincoln Center |language=en}}</ref><ref>{{cite web|url=https://deadline.com/2024/08/new-york-film-festival-main-slate-1236032222/ |title=New York Film Festival Unveils Main Slate|first= Jill  |last=Goldsmith |date=6 August 2024|access-date=12 October 2024 |website= Deadline |language=en}}</ref>  It had its Quebec Premiere in the Essentials at the [[Festival du nouveau cinéma]] on October 16, 2024.<ref>{{Cite web|url=https://nouveaucinema.ca/en/films/dahomey |title=Dahomey: Documentary |date=16 October 2024|access-date=2 February 2025 |website=[[Festival du nouveau cinéma]] |language=en}}</ref> On 31 October 2024, the film was showcased at the [[37th Tokyo International Film Festival]] in 'World Focus' section.<ref>{{Cite web|url=https://2024.tiff-jp.net/en/lineup/list.html|title=TIFF: Full lineup|website=Tokyo International Film Festival|date=September 25, 2024|access-date=September 26, 2024|language=en|archive-date=25 September 2024|archive-url=https://web.archive.org/web/20240925234237/https://2024.tiff-jp.net/en/lineup/list.html|url-status=live}}</ref>
+
+==Reception==
+[[File:MKr354597 Mati Diop (Goldener Bär der Berlinale 2024).jpg|thumb|upright|Mati Diop with the [[Golden Bear]] award for the best film of the [[Berlin International Film Festival|Berlinale]] 2024]]
+
+===Critical response=== 
+On the review aggregator [[Rotten Tomatoes]] website, the film has an approval rating of 99% based on 81 reviews, with an average rating of 8.2/10. The website's critics consensus reads: "With a rigorous yet fantastical approach, Mati Diop's ''Dahomey'' provocatively uncovers the restitution and repatriation of a stolen legacy, and serves as a powerful statement for decolonization."<ref name="score:rotten">{{cite Rotten Tomatoes|title=Dahomey|id=dahomey|type=m|access-date=13 December 2024}}</ref> On [[Metacritic]], it has a weighted average score of 85 out of 100 based on 23 reviews, indicating "universal acclaim".<ref>{{cite Metacritic|id=dahomey|type=movie|title=Dahomey|access-date=13 December 2024}}</ref>
+
+On the [[AlloCiné]], which lists 27 press reviews, the film obtained an average rating of 4.1/5.<ref name="rec:allocine">{{Cite web |url= https://www.allocine.fr/film/fichefilm_gen_cfilm=314794.html |title= Dahomey |trans-title= Dahomey |website= [[AlloCiné]] |date= 13 September 2024 |access-date= 13 December 2024 |language= fr |archive-date= 25 February 2024 |archive-url= https://web.archive.org/web/20240225022159/https://www.allocine.fr/film/fichefilm_gen_cfilm=314794.html |url-status= live }}</ref>
+
+David Rooney reviewing the film for ''[[The Hollywood Reporter]]'' described it as "Richly layered and resonant", and opined: "This directorial flourish liberates the looted treasures from being mere objects, with smart use of subjective camera by DP Joséphine Drouin-Viallard helping to make them come alive as characters."<ref name="rev:hr">{{Cite web |url=https://www.hollywoodreporter.com/movies/movie-reviews/dahomey-review-mati-diop-1235829050/ |title='Dahomey' Review: Mati Diop Tracks the Return of African Royal Treasures Plundered by French Colonists in Powerful Consideration of Reparations |first=David |last=Rooney |website=The Hollywood Reporter |date=18 February 2024 |access-date=18 February 2024 |language=en |archive-date=24 February 2024 |archive-url=https://web.archive.org/web/20240224203926/https://www.hollywoodreporter.com/movies/movie-reviews/dahomey-review-mati-diop-1235829050/ |url-status=live }}</ref>
+
+E. Nina Rothe, writing for the ''[[International Cinephile Society]]'', noted that the film "is important, with its message crucial to restitution providing the beginning of righting the wrongs of colonialism".<ref name="rev:ics">{{Cite web |url=https://icsfilm.org/reviews/berlinale-2024-review-dahomey-mati-diop/ |title=Berlinale 2024 review: Dahomey (Mati Diop) |first=E. Nina |last=Rothe |website=International Cinephile Society |date=22 February 2024 |access-date=22 February 2024 |language=en |archive-date=23 February 2024 |archive-url=https://web.archive.org/web/20240223231754/https://icsfilm.org/reviews/berlinale-2024-review-dahomey-mati-diop/ |url-status=live }}</ref>
+
+Wendy Ide wrote in ''[[ScreenDaily]]'' while reviewing the film at Berlinale, "In this agile, cerebral film, using a combination of deft fly-on-the-wall footage, a centrepiece debate among students at the University of Abomey-Calavi and an unexpected element of fantasy, the film feels like an important contribution to an ongoing conversation about the legacy of colonialism in Africa, and to the thorny topic of restitution and repatriation of cultural heritage to the country of its origin."<ref name="rev:sd">{{cite web |url=https://www.screendaily.com/reviews/dahomey-berlin-review/5190575.article |title='Dahomey': Berlin Review |first=Wendy |last=Ide |date=18 February 2024 |access-date=18 February 2024 |website=[[ScreenDaily]] |language=en |archive-date=2 March 2024 |archive-url=https://web.archive.org/web/20240302002542/https://www.screendaily.com/reviews/dahomey-berlin-review/5190575.article |url-status=live }}</ref>
+
+Jessica Kiang, writing in ''[[Variety (magazine)|Variety]]'' in her review of Berlinale, said: "French-Senegalese director Mati Diop fashions her superb, short but potent hybrid doc ''Dahomey'' as a slim lever that cracks open the sealed crate of colonial history, sending a hundred of its associated erasures and injustices tumbling into the light." Kiang concluded: "''Dahomey'' is a striking, stirring example of the poetry that can result when the dead and the dispossessed speak to and through the living."<ref name="rev:variety">{{Cite news|url=https://variety.com/2024/film/reviews/dahomey-review-mati-diop-1235911765/|title='Dahomey' Review: Mati Diop's Exquisitely Strange Documentary Meditation on the Return of Looted Artifacts to Benin|first=Jessica|last=Kiang|work=Variety|date=18 February 2024|access-date=18 February 2024|language=en|archive-date=18 February 2024|archive-url=https://web.archive.org/web/20240218151747/https://variety.com/2024/film/reviews/dahomey-review-mati-diop-1235911765/|url-status=live}}</ref>
+
+Stephanie Bunbury, in her review at Berlinale for [[Deadline Hollywood|''Deadline'']] said: "Open-ended, fecund with imagination and ideas, never hectoring or lecturing, not so much posing questions as asking what questions might be posed: Mati Diop's film is a marvelous provocation."<ref name="DeadlineHollywood 18-02-2024" />
+
+Adam Solomons of ''[[IndieWire]]'', reviewing at Berlinale, graded the film B and criticised the runtime of the film, he opined: "''Dahomey'' might have worked better at a runtime of [closer to 30 minutes]: the student debate, though well staged, becomes a bit repetitive, and some of the shots of boxes being loaded and unloaded go at a snail's pace." Concluding Solomons praised the director [[Mati Diop]] and wrote: "''Dahomey'' is a bold and memorable history lesson. But with Diop's expressive talents as they are, it's fair to hope that she returns to the world of fiction next time."<ref name="rev:iw">{{Cite web |url= https://www.indiewire.com/criticism/movies/dahomey-review-mati-diop-1234954949/ |title= 'Dahomey' Review: Mati Diop Literally Gives Looted African Artifacts a Voice in Strange, Sensitive Doc |first= Adam |last= Solomons |website= IndieWire |date= 18 February 2024 |access-date= 19 February 2024 |language= en |archive-date= 18 February 2024 |archive-url= https://web.archive.org/web/20240218224143/https://www.indiewire.com/criticism/movies/dahomey-review-mati-diop-1234954949/ |url-status= live }}</ref>
+
+Writing for ''[[RogerEbert.com]]'', Robert Daniels praised "inventive" Diop's "distinct approach to the seemingly straightforward topic", highlighting the film's "dreamlike score", and saying that ''Dahomey'' "fills and nourishes the viewer with urgent desires, providing space for the light that constitutes the souls of Black folk to shine brighter through repair. Diop is back, and she is just as searing and imperative as ever."<ref>{{Cite web |last=Daniels |first=Robert |title=Berlin Film Festival 2024: Dahomey, My Favorite Cake, A Traveler's Needs {{!}} Festivals & Awards {{!}} Roger Ebert |url=https://www.rogerebert.com/festivals/berlin-film-festival-2024-dahomey-my-favorite-cake-a-travelers-needs |access-date=22 February 2024 |website=RogerEbert.com |date=19 February 2024 |language=en |archive-date=21 February 2024 |archive-url=https://web.archive.org/web/20240221150915/https://www.rogerebert.com/festivals/berlin-film-festival-2024-dahomey-my-favorite-cake-a-travelers-needs |url-status=live }}</ref>
+
+Reviewing in ''Le Polyester'', Nicolas Bardot gave the film a 5/6 rating, and stated: "Mati Diop ambitiously mixes the political and the poetic. Her stories always project further than the facts apparent before our eyes." Concluding, Bardot opined: "In ''Dahomey'', it is not only the present that the past finds, but also the future."<ref>{{cite web |url=https://lepolyester.com/critique-dahomey/ |title=Berlinale {{!}} Critique: Dahomey |trans-title=Berlinale {{!}} Review: Dahomey |first=Nicolas |last=Bardot |work=Le Polyester |publisher=WordPress |date=18 February 2024 |access-date=25 February 2024 |language=fr |archive-date=24 February 2024 |archive-url=https://web.archive.org/web/20240224111434/https://lepolyester.com/critique-dahomey/ |url-status=live }}</ref>
+
+Nicholas Bell in Ion Cinema rated the film with three and half stars and opened his review stating, "The spirit of [[Ozymandias]], the classic poem from [[Percy Bysshe Shelley]], might rouse itself in one's mind during Mati Diop's short but passionate documentary ''Dahomey'' – "Look on my Works, ye Mighty, and despair!"" Thus Bell opined, "[the film] is a depiction of a journey with so much more going on beneath the surface than an exchange of cultural artifacts." Concluding his review, Bell said: "Much like her 2019 narrative debut, ''[[Atlantics]]'', Diop proves to be exceptionally adept at coalescing textures and strands in remarkably dense ways, and ''Dahomey'' is an excellent point of entry in an ongoing conversation."<ref name="rev:ionc">{{Cite news |url= https://www.ioncinema.com/reviews/mati-diop-dahomey-review |title= Plunder Years: Diop Reflects on the Complex Realities of Reparation |first= Nicholas |last= Bell |work= Ion Cinema |date= 18 February 2024 |access-date= 25 February 2024 |language= en |archive-date= 25 February 2024 |archive-url= https://web.archive.org/web/20240225050004/https://www.ioncinema.com/reviews/mati-diop-dahomey-review |url-status= live }}</ref>
+
+[[Peter Bradshaw]] reviewing for ''[[The Guardian]]'' rated the film with four stars out of five and wrote, "It is an invigorating and enlivening film, with obvious implications for the Elgin/Parthenon marbles in the British Museum."<ref>{{cite web |url=https://www.theguardian.com/film/2024/feb/23/dahomey-review-benin-bronze-berlin-film-festival-mati-diop |title=Dahomey review – interrogative reverie about looted African sculptures |first=Peter|last=Bradshaw |author-link=Peter Bradshaw |work=[[The Guardian]] |date=23 February 2024 |access-date=15 February 2024}}</ref>
+
+Shubhra Gupta, reviewing for ''[[The Indian Express]]'', wrote that the film using a unique documentary approach laced with fantasy "powerfully challenges post-colonial notions of reparations and repair", and that the film is "A question that deserves our attention, and the answers that emerge from it..."<ref name="rev:ie">{{Cite web|url=https://indianexpress.com/article/entertainment/entertainment-others/from-hilde-with-love-dahomey-the-undead-memories-of-holocaust-colonialism-9170180/ |title= From Hilde, With Love to Dahomey: The undead memories of Holocaust, colonialism |first= Shubhra |last=Gupta |website= The Indian Express |date= 20 February 2024 |access-date= 27 February 2024|language=en}}</ref>
+
+In June 2025, ''[[IndieWire]]'' ranked the film at number 48 on its list of "The 100 Best Movies of the 2020s (So Far)."<ref name="Best">{{cite web |date=June 16, 2025 |title=The 100 Best Movies of the 2020s (So Far)|url=https://www.indiewire.com/lists/best-movies-2020s/ |access-date=2025-06-23}}</ref>
+
+===Box office===
+
+{{As of|2024|12|01}}, the film has collected $522,753 worldwide.<ref name="bo:mojo" />
+
+=== Accolades ===
+[[File:Mati Diop with Golden Bear of Berlinale 2024.tiff|thumb|[[Mati Diop]] with the Golden Bear at [[Berlin International Film Festival|Berlinale]] 2024]]
+''Dahomey'' was selected to compete at the [[74th Berlin International Film Festival]], where it was awarded the [[Golden Bear]] award for the best film. It is the second African film to win the top prize at the festival, following [[Mark Dornford-May]]'s South African drama film ''[[U-Carmen eKhayelitsha]]'' in 2015. ''Dahomey'' was the second documentary in a row to take the Golden Bear, after [[Nicolas Philibert]]'s ''[[On the Adamant]]'' in 2023. During her acceptance speech, Diop called for people "to tear down the wall of silence together" and "to rebuild through restitution", which entails "bringing justice".<ref>{{Cite web |url=https://cineuropa.org/en/newsdetail/457564 |title=Mati Diop's Dahomey bags the Berlinale Golden Bear |first=Davide |last=Abbatescianni |date=24 February 2024 |access-date=25 February 2024 |website=Cineuropa |language=en |archive-date=1 April 2024 |archive-url=https://archive.today/20240401081821/https://cineuropa.org/en/newsdetail/457564 |url-status=live }}</ref>
+
+In August 2024, the film was selected for nomination to [[37th European Film Awards]] held at [[Lucerne Culture and Congress Centre|Kultur- und Kongresszentrum Luzern]] in [[Lucerne]] on 7 December 2024.<ref>{{Cite web |title=European Film Awards 2024: The European Film Academy announces this year's Documentary Film Selection |url=https://www.europeanfilmacademy.org/press/european-film-awards-2024-documentary-selection/ |access-date=24 August 2024 |website=[[European Film Academy]] |language=en-US |archive-date=23 August 2024 |archive-url=https://web.archive.org/web/20240823025019/https://www.europeanfilmacademy.org/press/european-film-awards-2024-documentary-selection/ |url-status=live }}</ref><ref>{{Cite web |last=Roxborough |first=Scott |date=21 August 2024 |title=European Film Awards Pick 2024 Documentary Films Shortlist |url=https://www.hollywoodreporter.com/movies/movie-news/european-film-awards-2024-documentary-shortlist-1235980239/ |access-date=24 August 2024 |website=[[The Hollywood Reporter]] |language=en-US |archive-date=23 August 2024 |archive-url=https://web.archive.org/web/20240823025015/https://www.hollywoodreporter.com/movies/movie-news/european-film-awards-2024-documentary-shortlist-1235980239/ |url-status=live }}</ref>
+
+The film was ranked 15th among the top 25 European works of 2024 by the journalists at [[Cineuropa]].<ref>{{Cite web |url=https://cineuropa.org/en/newsdetail/471402 |title=Cineuropa's Best of 2024 |date=19 December 2024 |access-date=19 December 2024 |website=[[Cineuropa]] |language=en |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218231733/https://cineuropa.org/en/newsdetail/471402/ |url-status=live }}</ref>
+
+{| class="wikitable sortable plainrowheaders"
+! Award
+! Date
+! Category
+! Recipient
+! Result
+! {{abbr|Ref.|Reference(s)}}
+|-
+!scope="row" rowspan="2"|[[Berlin International Film Festival]]
+| rowspan="2"|[[74th Berlin International Film Festival|25 February 2024]]
+| [[Golden Bear]]
+| rowspan="2"|[[Mati Diop]]
+| {{Won}}
+| align="center" rowspan="1"|<ref name="biff:sd">{{cite web |url=https://www.screendaily.com/news/berlin-film-festival-reveals-2024-competition-line-up/5189659.article |title=Berlin film festival reveals 2024 competition line-up |first=Michael |last=Rosser |date=22 January 2024 |access-date=28 January 2024 |website=[[ScreenDaily]] |language=en |archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131161340/https://www.screendaily.com/news/berlin-film-festival-reveals-2024-competition-line-up/5189659.article |url-status=live }}</ref><ref name="winner:hr">{{Cite web |url= https://www.hollywoodreporter.com/movies/movie-news/2024-berlin-film-festival-winners-mati-diop-sebastian-stan-emily-watson-1235833970/ |title= Mati Diop Doc 'Dahomey' Wins Berlin Golden Bear |first= Scott |last= Roxborough |website= Hollywood Reporter |date= 24 February 2024 |access-date= 24 February 2024 |language= en |archive-date= 25 February 2024 |archive-url= https://web.archive.org/web/20240225034232/https://www.hollywoodreporter.com/movies/movie-news/2024-berlin-film-festival-winners-mati-diop-sebastian-stan-emily-watson-1235833970/ |url-status= live }}</ref>
+|-
+| Berlinale Documentary Film Award 
+| {{nom}}
+| align="center" |<ref name="bda:acc">{{cite web |url=https://www.berlinale.de/en/festival/awards-and-juries/berlinale-documentary-award.html |title=Berlinale Documentary Award and Jury |work=Berlinale |date=1 February 2024 |access-date=2 February 2024 |archive-date=28 January 2022 |archive-url=https://web.archive.org/web/20220128130040/https://www.berlinale.de/en/festival/awards-and-juries/berlinale-documentary-award.html |url-status=live }}</ref>
+|-
+! scope="row" | [[San Sebastián International Film Festival]]
+| [[72nd San Sebastián International Film Festival|28 September 2024]]
+| Zabaltegi-Tabakalera Award
+| rowspan="4"| ''Dahomey''
+| {{nom}}
+| align="center" | <ref>{{Cite web|website=Escribiendo Cine|url=https://www.escribiendocine.com/noticias/2024/09/28/18445-todos-los-ganadores-del-festival-de-san-sebastian-2024|title=Todos los ganadores del Festival de San Sebastián 2024|date=28 September 2024|access-date=18 October 2024|archive-date=29 September 2024|archive-url=https://web.archive.org/web/20240929061937/https://www.escribiendocine.com/noticias/2024/09/28/18445-todos-los-ganadores-del-festival-de-san-sebastian-2024|url-status=live}}</ref>
+|-
+! scope="row" | [[Chicago International Film Festival]]
+| [[60th Chicago International Film Festival|27 October 2024]]
+| Gold Hugo – Documentary Competition
+| {{Nom}}
+| align="center" | <ref>{{cite web|url=https://www.screendaily.com/news/all-we-imagine-as-light-the-end-harvest-among-chicago-international-film-festival-line-up-exclusive/5197376.article|title=‘All We Imagine As Light’, ‘The End’, ‘Harvest’ among Chicago International Film Festival line-up (exclusive)|website=[[ScreenDaily]]|first=Jeremy|last=Kay|date=20 September 2024|accessdate=20 September 2024|archive-date=23 September 2024|archive-url=https://web.archive.org/web/20240923215221/https://www.screendaily.com/news/all-we-imagine-as-light-the-end-harvest-among-chicago-international-film-festival-line-up-exclusive/5197376.article|url-status=live}}</ref>
+|-
+! scope="row" |[[Tokyo International Film Festival]]
+| [[37th Tokyo International Film Festival|6 November 2024]]
+| TIFF Ethical Film Award
+| {{Won}}
+| align="center" rowspan="1"|<ref name="tffa:hr">{{Cite web |url= https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2024-awards-winners-list-1236054528/ |title= Tokyo: Yoshida Daihachi’s ‘Teki Cometh’ Takes Grand Prix, Director, Actor Awards |author= Abid Rehman |website= [[The Hollywood Reporter]] |date= 6 November 2024 |access-date= 6 November 2024 |lang= en |archive-date= 6 November 2024 |archive-url= https://web.archive.org/web/20241106093141/https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2024-awards-winners-list-1236054528/ |url-status= live }}</ref>
+|-
+! rowspan="2" scope="row"| [[Critics' Choice Documentary Awards]]
+| rowspan="2"| [[9th Critics' Choice Documentary Awards|10 November 2024]]
+| Best Historical Documentary
+| {{Nom}}
+| rowspan="1" align="center"| <ref>{{cite web|url=https://www.hollywoodreporter.com/movies/movie-news/critics-choice-documentary-awards-2024-nominations-nominees-list-1236031369/|title=‘Sugarcane’ Leads Critics Choice Documentary Awards Nominations|website=The Hollywood Reporter|first=Hilary|last=Lewis|date=October 14, 2024|accessdate=October 14, 2024|archive-date=11 November 2024|archive-url=https://web.archive.org/web/20241111024806/https://www.hollywoodreporter.com/movies/movie-news/critics-choice-documentary-awards-2024-nominations-nominees-list-1236031369/|url-status=live}}</ref> 
+|-
+| [[Critics' Choice Documentary Award for Best Narration|Best Narration]]
+| Makenzy Orcel, Lucrece Houegbelo, Parfait Viayinon, Didier Sedoha Nassegande & Sabine Badjogoumin
+| {{Nom}}
+| rowspan="1" align="center"|<ref>{{cite web|url=https://www.hollywoodreporter.com/movies/movie-news/critics-choice-documentary-awards-2024-winners-list-1236058141/|last=Lewis|first=Hilary|title=Critics Choice Documentary Awards: 'Super/Man' and 'Will & Harper' Tie for Best Feature|date=November 10, 2024|access-date=November 11, 2024|website=[[The Hollywood Reporter]]|archive-date=11 November 2024|archive-url=https://web.archive.org/web/20241111044057/https://www.hollywoodreporter.com/movies/movie-news/critics-choice-documentary-awards-2024-winners-list-1236058141/|url-status=live}}</ref>
+|-
+! rowspan="1" scope="row"| [[Festival international du cinéma francophone en Acadie]]
+| 24 November 2024
+| Best Documentary
+| ''Dahomey''
+| {{Won}}
+| rowspan="1" align="center"| <ref>[https://ici.radio-canada.ca/nouvelle/2122051/trecarre-niki-dahomey-langue-universelle-ficfa-vague "Trécarré, sur la culture musicale de la Baie-Sainte-Marie, primé au FICFA"]. [[Ici Radio-Canada]] Nouveau-Brunswick, November 24, 2024.</ref>
+|-
+! scope="row"| [[Gotham Awards]]
+| [[Gotham Independent Film Awards 2024|2 December 2024]]
+| [[Gotham Independent Film Award for Best Documentary|Best Documentary Feature]]
+| Mati Diop, Judith Lou Lévy, Eve Robin
+| {{nom}}
+| align="center"| <ref>{{cite web|title=Gotham Awards Nominations: 'Anora' Leads Pack, 'Challengers' & 'Nickel Boys' Among Group Up For Best Feature|website=Hollywood|first=Jill|last=Goldsmith|date=29 October 2024|access-date=29 October 2024|url=https://deadline.com/2024/10/2024-gotham-awards-nominations-1236160891/|archive-date=20 November 2024|archive-url=https://web.archive.org/web/20241120182334/https://deadline.com/2024/10/2024-gotham-awards-nominations-1236160891/|url-status=live}}</ref>
+|-
+! scope="row" | [[Louis Delluc Prize]]
+| 4 December 2024
+| Best Film
+| ''Dahomey''
+| {{nom}}
+| align="center" | <ref>{{cite web |last=Adjinsoff |first=Mathi |date=18 November 2024 |title="Dahomey", "Miséricorde"... : voici les finalistes du Prix Louis-Delluc 2024 |url=https://www.lesinrocks.com/cinema/voici-les-finalistes-pour-le-prix-louis-delluc-2024-634797-18-11-2024/ |access-date=16 December 2024 |website=[[Les Inrockuptibles]] |language=fr-FR |archive-date=19 December 2024 |archive-url=https://web.archive.org/web/20241219170931/https://www.lesinrocks.com/cinema/voici-les-finalistes-pour-le-prix-louis-delluc-2024-634797-18-11-2024/ |url-status=live }}</ref>
+|-
+! scope="row"| [[International Documentary Association#IDA Documentary Awards|International Documentary Association Awards]]
+| 5 December 2024
+| Best Feature Documentary
+| Mati Diop, Judith Lou Lévy, Eve Robin
+| {{nom}}
+| align="center"| <ref>{{cite web|url=https://www.indiewire.com/awards/results/ida-documentary-awards-2024-nominations-1235067340/|title=IDA Documentary Awards Announces 2024 Nominees: ‘Sugarcane,’ ‘No Other Land,’ and More|website=[[IndieWire]]|first=Samantha|last=Bergeson|date=November 19, 2024|accessdate=November 20, 2024|archive-date=20 November 2024|archive-url=https://web.archive.org/web/20241120024300/https://www.indiewire.com/awards/results/ida-documentary-awards-2024-nominations-1235067340/|url-status=live}}</ref>
+|-
+! rowspan="1" scope="row" | [[National Board of Review|National Board of Review Awards]]
+| [[National Board of Review Awards 2024|5 December 2024]]
+| Top 5 Documentaries
+| rowspan="14"| ''Dahomey''
+| {{included|Top 5}}
+| rowspan="1" align="center" |<ref>{{cite web|url=https://deadline.com/2024/12/2024-national-board-of-review-winners-list-1236193527/ |title=‘Wicked’ Casts Spell Over National Board Of Review, Counts Three Awards Including Best Film|first= Anthony  |last=D'Alessandro |date=4 December 2024|access-date=5 December 2024 |website= [[Deadline Hollywood|Deadline]] |language=en}}</ref>
+|-
+! scope="row" rowspan="3"| [[European Film Awards]]
+| rowspan="3"| [[37th European Film Awards|7 December 2024]]
+| [[European Film Award for Best Film|European Film]]
+| {{shortlisted}}
+| style="text-align:center" rowspan="2"| <ref>{{cite web |last=Goodfellow |first=Melanie |date=5 November 2024 |title=European Film Awards: 'Emilia Pérez', 'The Room Next Door' Lead Nominations |url=https://deadline.com/2024/11/european-film-awards-nominations-37th-2024-1236167495/ |access-date=6 November 2024 |website=[[Deadline Hollywood]] |language=en-US}}</ref>
+|-
+| [[European Film Award for Best Documentary|European Documentary]]
+| {{nom}}
+|-
+| [[European Film Academy Lux Award|Lux Award]] 
+| {{nominated}}
+| align="center" rowspan="1"|<ref>{{Cite web |url= https://cineuropa.org/en/newsdetail/467436 |title= Animal, Dahomey, Flow, Intercepted and Julie Keeps Quiet to vie for the 2025 LUX Audience Award |first= Jesús |last= Silva Vilas |date= 18 September 2024 |access-date= 19 September 2024 |website= Cineuropa |language= en |archive-date= 19 September 2024 |archive-url= https://web.archive.org/web/20240919004543/https://cineuropa.org/en/newsdetail/467436/ |url-status= live }}</ref><ref>{{Cite web |url=https://www.europeanfilmacademy.org/press/lux-award-2025-nomination/ |title=Here come the nominees for LUX – The European Audience Film Award 2025 |date=19 September 2024 |access-date=19 September 2024 |website=European Film Academy |language=en |archive-date=19 September 2024 |archive-url=https://web.archive.org/web/20240919030452/https://www.europeanfilmacademy.org/press/lux-award-2025-nomination/ |url-status=live }}</ref>
+|-
+! scope="row" rowspan="2"| [[Washington D.C. Area Film Critics Association]]
+| rowspan="2"| [[Washington D.C. Area Film Critics Association Awards 2024|December 8, 2024]]
+| [[Washington D.C. Area Film Critics Association Award for Best Documentary|Best Documentary]]
+| {{nom}}
+| rowspan="2" align="center"| <ref>{{Cite web |last=Neglia |first=Matt |date=2024-12-08 |title=The 2024 Washington DC Area Film Critics Association (WAFCA) Winners |url=https://nextbestpicture.com/the-2024-washington-dc-area-film-critics-association-wafca-winners/ |access-date=2024-12-09 |website=Next Best Picture |language=en-US}}</ref>
+|-
+| [[Washington D.C. Area Film Critics Association Award for Best Foreign Language Film|Best Foreign Language Film]]
+| {{nom}}
+|-
+! rowspan="1" scope="row" | [[Los Angeles Film Critics Association]]
+| rowspan="1"| [[2024 Los Angeles Film Critics Association Awards|8 December 2024]]
+| [[Los Angeles Film Critics Association Award for Best Documentary Film|Best Documentary Film]]
+| {{draw|Runner-up}}
+| rowspan="1" |<ref>{{Cite web |last=Richlin |first=Harrison |date=2024-12-08 |title=‘Anora’ Wins Best Picture from Los Angeles Film Critics Association — Winners List |url=https://www.indiewire.com/awards/results/2024-los-angeles-film-critics-association-awards-winners-list-1235073900/ |access-date=2024-12-09 |website=[[IndieWire]] |language=en-US |archive-date=9 December 2024 |archive-url=https://web.archive.org/web/20241209205218/https://www.indiewire.com/awards/results/2024-los-angeles-film-critics-association-awards-winners-list-1235073900/ |url-status=live }}</ref>
+|-
+! rowspan="1" scope="row"| [[Chicago Film Critics Association]]
+|rowspan="1"| [[Chicago Film Critics Association Awards 2024|12 December 2024]]
+| [[Chicago Film Critics Association Award for Best Documentary|Best Documentary Film]]
+|{{nom}}
+| align="center"| <ref>{{Cite web|date=2024-12-10|title=The 2024 Chicago Film Critics Association (CFCA) Nominations|url=https://nextbestpicture.com/the-2024-chicago-film-critics-association-cfca-nominations/|access-date=2024-12-10 |website=Next Best Picture|language=en-US}}</ref>
+|-
+! scope="row" rowspan="1" |[[Toronto Film Critics Association]]
+| rowspan="1"| [[Toronto Film Critics Association Awards 2024|15 December 2024]]
+| [[Toronto Film Critics Association Award for Best Documentary Film|Best Documentary Film]]
+| {{won}}
+| align="center" rowspan="1"| <ref>{{cite web |url=https://www.hollywoodreporter.com/movies/movie-news/nickel-boys-best-picture-2024-toronto-film-critics-association-1236087577/ |title='Nickel Boys' Named Best Picture of 2024 by Toronto Film Critics Association |first=Etan |last=Vlessing |work=[[The Hollywood Reporter]] |date=December 16, 2024 |access-date=December 16, 2024 |archive-date=16 December 2024 |archive-url=https://web.archive.org/web/20241216162507/https://www.hollywoodreporter.com/movies/movie-news/nickel-boys-best-picture-2024-toronto-film-critics-association-1236087577/ |url-status=live }}</ref>
+|-
+! rowspan="1" scope="row"| [[St. Louis Film Critics Association]]
+| rowspan="1" | [[2024 St. Louis Film Critics Association Awards|15 December 2024]]
+| Best International Feature Film
+|{{nom}}
+| align="center" rowspan="1"| <ref>{{Cite web |date=2024-12-07 |title=The 2024 St. Louis Film Critics Association (StLFCA) Nominations |url=https://nextbestpicture.com/the-2024-st-louis-film-critics-association-stlfca-nominations/ |access-date=2024-12-08 |website=Next Best Picture |archive-date=12 December 2024 |archive-url=https://web.archive.org/web/20241212170625/https://nextbestpicture.com/the-2024-st-louis-film-critics-association-stlfca-nominations/ |url-status=live }}</ref>
+|-
+! scope="row" rowspan="1"| [[Seattle Film Critics Society]]
+| rowspan="1"| [[2024 Seattle Film Critics Society Awards|16 December 2024]]
+| [[Seattle Film Critics Society Award for Best Documentary Feature|Best Documentary Film]]
+| {{nom}}
+| align="center" rowspan="1"| <ref>{{cite web |url=https://thesunbreak.com/2024/12/06/seattle-film-critics-society-announce-2024-nominees/ |title=Seattle Film Critics Society announce 2024 nominees |author=Josh |work=[[The SunBreak]] |date=December 6, 2024 |access-date=December 6, 2024}}</ref>
+|-
+! rowspan="1" scope="row"|[[Dallas–Fort Worth Film Critics Association]]
+| rowspan="1" | [[Dallas–Fort Worth Film Critics Association Awards 2024|9 December 2024]]
+| [[Dallas–Fort Worth Film Critics Association Award for Best Documentary Film|Best Documentary Film]]
+| {{draw|5th Place}}
+| align="center" rowspan="1" |<ref>{{Cite web |date=2024-12-18 |title=Dallas-Fort Worth Film Critics Association – Official site of the Dallas-Fort Worth Film Critics Association |url=https://dfwcritics.com/ |access-date=2024-12-18 |language=en-US |archive-date=18 December 2023 |archive-url=https://web.archive.org/web/20231218190535/https://dfwcritics.com/ |url-status=live }}</ref>
+|-
+! scope="row" rowspan="1" | [[National Society of Film Critics]]
+| rowspan="1" |[[2024 National Society of Film Critics Awards|4 January 2025]]
+| Best Nonfiction Film
+|  {{draw|Runner-up}}
+| align="center"rowspan="1" |<ref>{{Cite web |last=Piña |first=Christy |date=January 4, 2025 |title=''Nickel Boys'' Named Best Picture by National Society of Film Critics |url=https://www.hollywoodreporter.com/movies/movie-news/2025-national-society-of-film-critics-winners-list-1236099219/ |access-date=January 5, 2025 |website=[[The Hollywood Reporter]] |language=en-US |archive-date=5 January 2025 |archive-url=https://web.archive.org/web/20250105012248/https://www.hollywoodreporter.com/movies/movie-news/2025-national-society-of-film-critics-winners-list-1236099219/ |url-status=live }}</ref><ref>{{Cite web |last=Garner |first=Glenn |date=January 4, 2025 |title=''Nickel Boys'' Wins National Society Of Film Critics’ Best Film — Full Winners List |url=https://deadline.com/2025/01/nickel-boys-wins-national-society-film-critics-best-film-winners-list-1236246618/ |access-date=January 5, 2025 |website=[[Deadline Hollywood]] |language=en-US |archive-date=5 January 2025 |archive-url=https://web.archive.org/web/20250105034237/https://deadline.com/2025/01/nickel-boys-wins-national-society-film-critics-best-film-winners-list-1236246618/ |url-status=live }}</ref>
+|-
+! scope="row"| [[Austin Film Critics Association]]
+| [[Austin Film Critics Association Awards 2024|6 January 2025]]
+| [[Austin Film Critics Association Award for Best Documentary Film|Best Documentary Film]]
+| {{nom}}
+| align="center"| <ref>{{Cite web |last=Neglia |first=Matt |date=December 27, 2024 |title=The 2024 Austin Film Critics Association (AFCA) Nominations |url=https://nextbestpicture.com/the-2024-austin-film-critics-association-afca-nominations/|access-date=December 27, 2024 |website=Next Best Picture}}</ref>
+|-
+! scope="row" rowspan="5"| [[Cinema Eye Honors]]
+| rowspan="5"| [[18th Cinema Eye Honors|9 January 2025]]
+| Outstanding Non-Fiction Feature
+| [[Mati Diop]], Eve Robin, Judith Lou Levy, Gabriel Gonzalez, Joséphine Drouin Viallard and [[Nicolas Becker (sound engineer)|Nicolas Becker]]
+| {{nom}}
+| align="center" rowspan="5"| <ref>{{cite web|url=https://deadline.com/2024/10/cinema-eye-honors-2024-nominations-list-1236157695/|title=Cinema Eye Honors: ‘Girls State’, ‘Ren Faire’ Lead Broadcast Nominees; Audience Choice Award Longlist Revealed|website=[[Deadline Hollywood|Deadline]]|first=Patrick|last=Hipes|date=October 24, 2024|accessdate=November 15, 2024|archive-date=14 November 2024|archive-url=https://web.archive.org/web/20241114220655/https://deadline.com/2024/10/cinema-eye-honors-2024-nominations-list-1236157695/|url-status=live}}</ref> 
+|-
+| Outstanding Direction
+| Mati Diop
+| {{won}}
+|-
+| Outstanding Cinematography
+| Joséphine Drouin Viallard
+| {{nom}}
+|-
+| Outstanding Original Score
+| [[Wally Badarou]] and [[Dean Blunt]]
+| {{nom}}
+|-
+| Outstanding Sound Design
+| [[Nicolas Becker (sound engineer)|Nicolas Becker]]
+| {{nom}}
+|-
+! scope="row" rowspan="1"| [[Lumière Awards]]
+| rowspan="1"| [[30th Lumière Awards|20 January 2025]]
+| [[Lumière Award for Best Documentary|Best Documentary]]
+| [[Mati Diop]]
+| {{won}}
+| align="center" rowspan="1"|<ref name="nom:dl">{{Cite web |url=https://deadline.com/2024/12/france-lumiere-awards-nominations-2024-1236201629/ |title='Emilia Pérez' Leads Nominations For French Lumière Awards |last=Goodfellow |first=Melanie |date=12 December 2024 |access-date=12 December 2024 |website=[[Deadline Hollywood|Deadline]] |language=en-US |archive-date=12 December 2024 |archive-url=https://web.archive.org/web/20241212142337/https://deadline.com/2024/12/france-lumiere-awards-nominations-2024-1236201629/ |url-status=live }}</ref>
+|-
+! rowspan="1" scope="row" |[[Satellite Awards]]
+| rowspan="1" |[[29th Satellite Awards|26 January 2025]]
+| [[Satellite Award for Best Documentary Film|Best Motion Picture – Documentary]]
+| rowspan="3"| ''Dahomey''
+|{{nom}}
+| rowspan="1" align="center"|<ref>{{Cite web |title=2024 Nominees {{!}} International Press Academy |url=https://www.pressacademy.com/2024-nominees/ |access-date=2024-12-16 |language=en-US |archive-date=23 January 2025 |archive-url=https://web.archive.org/web/20250123172554/https://www.pressacademy.com/2024-nominees/ |url-status=dead }}</ref>
+|-
+! rowspan="2" scope="row"| [[Alliance of Women Film Journalists]]
+|rowspan="2"| 7 January 2025
+| Best International Film
+|{{nom}}
+| align="center" rowspan="2"| <ref>{{Cite web|date=2024-12-13|title=The 2024 EDA Award Nominees|url=https://awfj.org/2024-eda-awards-categories/2024-eda-award-nominees/|access-date=2024-12-13|website=[[Alliance of Women Film Journalists]]|language=en-US|archive-date=13 December 2024|archive-url=https://web.archive.org/web/20241213202949/https://awfj.org/2024-eda-awards-categories/2024-eda-award-nominees/|url-status=live}}</ref>
+|-
+| Best Documentary
+| {{won}}
+|-
+! scope="row"| [[Motion Picture Sound Editors#Golden Reel Awards|Golden Reel Awards]]
+| [[Golden Reel Awards 2024|23 February 2025]]
+| [[Golden Reel Award for Outstanding Achievement in Sound Editing – Sound Effects, Foley, Dialogue and ADR for Feature Documentary|Outstanding Achievement in Sound Editing – Feature Documentary]]
+| Nicolas Becker, Sylvain Malbrant, Maxime Saleix, Gilles Marsalet
+| {{nom}}
+| align="center"| <ref>{{cite web|url=https://deadline.com/2025/01/golden-reel-awards-2025-nominations-list-mpse-1236247084/|title=Motion Picture Sound Editors Reveal 2025 MPSE Golden Reel Awards Nominations|website=[[Deadline Hollywood|Deadline]]|first=Erik|last=Pedersen|date=January 6, 2025|accessdate=January 6, 2025}}</ref>
+|-
+! scope="row"| [[César Awards]]
+| [[50th César Awards|28 February 2025]]
+| [[César Award for Best Documentary Film|Best Documentary Film]]
+| ''Dahomey''
+| {{nom}}
+| align="center"| <ref>{{Cite web |url=https://www.hollywoodreporter.com/movies/movie-news/the-count-of-monte-cristo-emilia-perez-cesar-awards-nominations-1236121226/|title='The Count of Monte Cristo' Tops 'Emilia Pérez' in France's César Nominations |last=Roxborough |first=Scott |date=29 January 2025|access-date=2 February 2025 |website=[[The Hollywood Reporter]]|language=en-US}}</ref>
+|-
+|}
+
+== See also ==
+*[[List of submissions to the 97th Academy Awards for Best International Feature Film]]
+*[[List of Senegalese submissions for the Academy Award for Best International Feature Film]]
+* [[Submissions for the Academy Award for Best Documentary Feature]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons}}
+* {{IMDb title}}
+* {{Rotten tomatoes}}
+* {{AlloCiné title}}
+* [https://www.berlinale.de/en/2024/programme/202414781.html ''Dahomey''] at Berlinale
+* [https://www.youtube.com/watch?v=rWUelP_QR_4 Treasures from Dahomey: France returns stolen art to Benin] at [[Euronews]] {{langx|de|Schätze aus Dahomey: Frankreich gibt geraubte Kunst an Benin zurück}}
+
+{{Navboxes
+|title = Awards for ''Dahomey''
+|list =
+{{Golden Bear}}
+{{Lumière Award for Best Documentary}}
+{{Online Film Critics Society Award for Best Documentary Film}}
+{{TFCA Award for Best Documentary Film}}
+}}
+{{Senegalese submissions for the Academy Award for Best International Feature Film}}
+
+[[Category:2024 documentary films]]
+[[Category:2024 films]]
+[[Category:2024 French films]]
+[[Category:2024 French-language films]]
+[[Category:Arte France Cinéma films]]
+[[Category:Documentary films about the arts]]
+[[Category:French documentary films]]
+[[Category:Senegalese documentary films]]
+[[Category:Beninese documentary films]]
+[[Category:Works about Benin]]
+[[Category:Golden Bear winners]]
+[[Category:Les Films du Losange films]]
+[[Category:Kingdom of Dahomey]]
+[[Category:Films directed by Mati Diop]]
+[[Category:Best Documentary Lumière Award winners]]
+[[Category:2020s Senegalese films]]

@@ -1,0 +1,60 @@
+{{No plot|date=June 2023}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name           = The Dark End of the Street
+| image          = 
+| caption        = 
+| director       = Jan Egleson
+| producer       = Dian K. Miller
+| based_on       = 
+| writer         = Jan Egleson
+| starring       = [[Laura Harrington]]
+| music          = Marion Gillon<br>Tyrone Johnson
+| cinematography = D'Arcy Marsh
+| editing        = Jerry Bloedow
+| studio         = 
+| distributor    = 
+| released       = {{film date|1981|6|10|New York City}}
+| runtime        = 90 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+'''''The Dark End of the Street''''' is a 1981 American drama film written and directed by Jan Egleson and starring [[Laura Harrington]].
+
+==Cast==
+*[[Laura Harrington]] as Donna
+*Henry Tomaszewski as Billy
+*[[Michele Greene]] as Marlene
+*[[Lance Henriksen]] as Jimmy
+*[[Pamela Payton-Wright]] as Mary Ann
+*Terence Gray as Ethan
+*[[Ben Affleck]] as Tommy
+
+==Production==
+The film was shot in [[Cambridge, Massachusetts]].<ref>{{cite news|title=Boston likes 'Off-Hollywood'|date=June 28, 1981|newspaper=The Boston Globe (via Newspapers.com)|url=https://www.newspapers.com/image/436887123/?terms=The%20Dark%20End%20of%20the%20Street&match=1|accessdate=June 19, 2023}}</ref>
+
+==Release==
+The film was released in New York City on June 10, 1981.<ref name=nyt>{{cite news|last=Canby|first=Vincent|title='THE DARK END OF THE STREET'|date=June 10, 1981|newspaper=The New York Times|url=https://www.nytimes.com/1981/06/10/movies/the-dark-end-of-the-street.html|accessdate=June 19, 2023|quote=JAN EGLESON'S ''The Dark End of the Street,'' which opens today at the Art Theater...}}</ref>
+
+==Reception==
+[[Vincent Canby]] of ''[[The New York Times]]'' gave the film a positive review, calling it "an extremely accomplished example of what used to be called ''slice-of-life'' drama, a kind of movie that seems to have fallen out of style recently."<ref name=nyt/>
+
+[[Leonard Maltin]] awarded the film three stars, calling it "a realistic depiction of urban working-class lifestyle and problems."<ref>{{cite book|url=https://books.google.com/books?id=6EgPDierNGUC&dq=the+dark+end+of+the+street+1981+leonard+maltin&pg=PA316|last1=Maltin|first1=Leonard|last2=Sader|first2=Luke|last3=Clark|first3=Mike|title=Leonard Maltin's 2009 Movie Guide|year=2008|publisher=Plume|isbn=9780452289789}}page 316</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0082234}}
+* {{Rotten Tomatoes|the_dark_end_of_the_street_1981}}
+
+{{DEFAULTSORT:Dark End of the Street (1981 film), The}}
+[[Category:Films shot in Massachusetts]]
+[[Category:American drama films]]
+[[Category:1981 drama films]]
+[[Category:1981 English-language films]]
+[[Category:1981 American films]]

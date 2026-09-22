@@ -1,0 +1,626 @@
+{{short description|1984 film directed by Miloš Forman}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox film
+| name           = Amadeus
+| image          = Amadeusmov.jpg
+| caption        = Theatrical release poster by [[Peter Sís]]
+| director       = [[Miloš Forman]]
+| producer       = [[Saul Zaentz]]
+| screenplay     = [[Peter Shaffer]]
+| based_on       = {{Based on|''[[Amadeus (play)|Amadeus]]'' by Peter Shaffer}}
+| starring       = {{Plainlist|
+* [[F. Murray Abraham]]
+* [[Tom Hulce]]
+* [[Elizabeth Berridge (actress)|Elizabeth Berridge]]
+* [[Simon Callow]]
+* [[Roy Dotrice]]
+* [[Christine Ebersole]]
+* [[Jeffrey Jones]]
+* [[Charles Kay]]}}
+| cinematography = [[Miroslav Ondříček]]
+| editing        = {{Plainlist|
+* [[Nena Danevic]]
+* [[Michael Chandler (film editor)|Michael Chandler]]}}
+| studio         = [[The Saul Zaentz Company]]
+| distributor    = {{Plainlist|
+* [[Orion Pictures]] (United States)
+* [[Thorn EMI Screen Entertainment]] (International)<ref name=bbfc />}}
+| released       = {{Film date|1984|09|06|Los Angeles|1984|09|19|United States}}
+| runtime        = 161 minutes<ref name=bbfc>{{cite web |title=Amadeus |url=https://www.bbfc.co.uk/releases/amadeus-1970-3 |website=[[British Board of Film Classification]] |access-date=May 13, 2014|archive-url= https://web.archive.org/web/20200921033516/https://www.bbfc.co.uk/releases/amadeus-1970-3|archive-date=September 21, 2020}}</ref>
+| country        = United States
+| language       = English
+| budget         = $18&nbsp;million<ref name="Numbers">{{cite web |title=Amadeus (1984) – Financial Information |url=http://www.the-numbers.com/movie/Amadeus#tab=summary |website=[[The Numbers (website)|The Numbers]] |access-date=December 22, 2014 |archive-date=February 12, 2018 |archive-url=https://web.archive.org/web/20180212005049/https://www.the-numbers.com/movie/Amadeus#tab=summary |url-status=live }}</ref>
+| gross          = $90&nbsp;million<ref name=ww/>
+}}
+'''''Amadeus''''' is a 1984 American [[Epic film|epic]] [[Drama (film and television)|drama film]] directed by [[Miloš Forman]]. [[Peter Shaffer]] adapted it from his [[Amadeus (play)|1979 stage play]], inspired by [[Alexander Pushkin]]'s 1830 play ''[[Mozart and Salieri (play)|Mozart and Salieri]]''. Shaffer described it as a "fantasia on [a real-life] theme", as it imagines an orchestral rivalry between two 18th-century [[Vienna]] composers, [[Wolfgang Amadeus Mozart]] ([[Tom Hulce]]) and [[Antonio Salieri]] ([[F. Murray Abraham]]). Salieri struggles to reconcile his professional admiration for Mozart with his jealous hatred, and resolves to ruin Mozart's career as his form of vengeance against God.
+
+''Amadeus'' received its world premiere in Los Angeles on September 6, 1984. It was released by [[Orion Pictures]] thirteen days later to widespread critical acclaim and box office success, grossing over $90 million. It was nominated for 53 awards and won 40, including 8 [[Academy Awards]] (including [[Academy Award for Best Picture|Best Picture]]), four [[BAFTA Awards]], and four [[Golden Globe Awards]] (including [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]). Abraham and Hulce were both nominated for the [[Academy Award for Best Actor]], with Abraham winning. In 1998, the [[American Film Institute]] ranked it 53rd on its [[AFI's 100 Years...100 Movies|100 Years... 100 Movies]] list. In 2019, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref>{{cite magazine| last=Tartaglione| first=Nancy| title=National Film Registry Adds 'Purple Rain', 'Clerks', 'Gaslight' & More; 'Boys Don't Cry' One Of Record 7 Pics From Female Helmers| url=https://deadline.com/2019/12/national-film-registry-2019-record-female-directors-boys-dont-cry-purple-rain-clerks-gaslight-platoon-full-list-1202806279/| magazine=[[Deadline Hollywood]]| date=December 11, 2019 <!-- access-date=December 11, 2019| archive-date=February 25, 2021| archive-url=https://web.archive.org/web/20210225081156/https://deadline.com/2019/12/national-film-registry-2019-record-female-directors-boys-dont-cry-purple-rain-clerks-gaslight-platoon-full-list-1202806279/| url-status=live -->}}</ref>
+
+==Plot==
+{{Hatnote|The [[story-within-a-story]] is recounted through the [[Flashback (narrative)|flashbacks]] of an [[unreliable narrator]].<ref name=unreliable1>{{Cite web |title=The Wicked Scene in ''Amadeus'' When Mozart Mocked the Talents of His Rival Antonio Salieri: How Much Does the Film Square with Reality? |last=Jones |first=Josh |url=https://www.openculture.com/2021/08/the-comical-scene-in-amadeus-when-mozart-mocked-the-talents-of-his-rival-antonio-salieri.html |date=2021-08-24 |access-date=2025-07-06 |website=Open Culture |quote=As Forman's film takes pains to show, what we see on screen is not an objective [[Point of view (philosophy)|point of view]], but that of an aged, embittered, insane man remembering his past with regret. Salieri is a most unreliable narrator …}}</ref><ref name=unreliable2>{{Cite web |title=The Definitives: ''Amadeus'' |url=https://www.deepfocusreview.com/definitives/amadeus/ |last=Eggert |first=Brian |date=2012-03-24 |access-date=2025-07-06 |website=Deep Focus Review |quote=…the story comes from the vantage point of an [[unreliable narrator]], a man so twisted by feelings of admiration and jealousy and betrayal that his perceptions distort history into a powerful, if subjective, account.}}</ref>}}
+In 1823, aged composer [[Antonio Salieri]] attempts suicide and is committed to a [[psychiatric hospital]]. He claims that he murdered [[Wolfgang Amadeus Mozart]]. Father Vogler, a young Catholic priest, encourages Salieri to [[Penance in the Catholic Church|confess his sins]] before [[God in Christianity|God]]. After Vogler fails to recognize him, Salieri plays three old melodies to jog his memory. Vogler cannot recognize the first two (which Salieri wrote) but is relieved to recognize the third (''[[Eine kleine Nachtmusik]]'') at once. Salieri peevishly reveals that Mozart wrote it.
+
+Salieri begins his confession by saying he grew up hearing stories about the child prodigy Mozart. In his youth, Salieri was in love with music but was forbidden by his father to study the craft. Salieri proposed that if God made him a famous musician like Mozart, he would give God his faithfulness, [[Religious vows|chastity]], and diligence. Salieri's father soon dies, which he interprets as a sign that God has accepted his vow. By 1774, Salieri became court composer to [[Holy Roman Emperor]] [[Joseph II, Holy Roman Emperor|Joseph II]] in [[Vienna]]. However, he has enough taste to know that Emperor Joseph has no ear for music, though Salieri prides himself on the popularity of his work.
+
+Salieri understands that Mozart is the better composer but is shocked to discover, upon their first meeting, that Mozart is obscene, immature, and dissolute. He also learns that Mozart never needs to pen a second draft of his music, implying [[divine inspiration]].{{efn|The director's cut adds that Mozart slept with one of Salieri's favorite singers, enraging the emotionally possessive Salieri.<ref name=DenofGeek>{{cite web |last=Kaye |first=Don |title=Amadeus Is One Movie That Didn’t Need a Director’s Cut |url=https://www.denofgeek.com/movies/amadeus-is-one-movie-that-didnt-need-a-directors-cut/ |website=Den of Geek |date=September 24, 2024 |access-date=September 18, 2026}}</ref><ref name=BostonPhoenix>{{cite news |last=Gantz |first=Jeffrey |title=Amadeus is bigger but not better |work=The Boston Phoenix |date=April 18–25, 2002 |access-date=September 18, 2026 |url=https://bostonphoenix.com/boston/movies/reviews/documents/02232284.htm}}</ref>}} Salieri cannot fathom why God would choose a reprobate like Mozart as his earthly instrument. Salieri renounces God and vows to take revenge on him by destroying Mozart.
+
+Mozart's work is ahead of its time, and he struggles to find employment in Vienna. He spends himself into debt, alarming his wife [[Constanze Mozart|Constanze]].{{efn|In a deleted scene from the director's cut, Mozart quits his side job tutoring the daughter of a wealthy man after realizing that the man is primarily interested in training his rowdy dogs to be quiet when listening to music. It is implied that Salieri got Mozart the job, knowing that Mozart would hate it.<ref name=DenofGeek /><ref name=BostonPhoenix />}} Salieri and Mozart bond over their shared contempt for Emperor Joseph's lack of taste, but Mozart is unimpressed by Salieri's populist work, which causes Salieri great pain.
+
+Mozart boldly adapts the subversive play ''[[The Marriage of Figaro (play)|The Marriage of Figaro]]'' into a comedic opera. Salieri rejoices, thinking Mozart's career is ruined, but Mozart stuns Salieri by convincing the Emperor to approve the project. The Emperor, however, finds the opera boring, and it is soon canceled. Eventually, Mozart's father, [[Leopold Mozart|Leopold]], dies. In response to criticisms and his grief, Mozart composes ''[[Don Giovanni]]'', a dark, serious opera. Salieri is entranced but vindictively gets that opera canceled, too. Renouncing Vienna's artistic establishment, Mozart agrees to write ''[[The Magic Flute]]'' for a commoners' theater against Constanze's wishes.
+
+After watching ''Don Giovanni'' five times, Salieri realizes that the dead commander who accuses Giovanni of sin represents Mozart's inferiority complex towards his father. Posing as an anonymous patron, in a costume Leopold had worn to a [[masquerade ball]], Salieri persuades the unstable and debt-ridden Mozart to accept a commission for a ''[[Requiem (Mozart)|Requiem]]'' Mass. Salieri plans to kill Mozart, claim the ''Requiem'' as his own, and premiere it at Mozart's funeral, forcing God to listen as Salieri is acclaimed. Mozart overworks himself, juggling ''The Magic Flute'' and the ''Requiem''. Constanze, who wants him to focus on the ''Requiem'' but fears his erratic behavior, leaves with their son [[Karl Thomas Mozart|Karl]]. Although ''The Magic Flute'' is a success, Mozart collapses from exhaustion before he can finish conducting the opera. 
+
+Desperate to complete his plan but also desperate for more of Mozart's heavenly music, Salieri begs the bedridden Mozart to keep writing the ''Requiem''. He takes dictation from Mozart throughout the night, during which he comes to terms with Mozart's superior talent. Mozart thanks Salieri for his friendship, and Salieri admits that Mozart is the greatest composer he knows.
+
+Constanze returns around dawn and attempts to kick Salieri out of the apartment, locking the ''Requiem'' away before he can steal it.{{efn|This refers to a subplot from the director's cut concerning Salieri's bad relationship with Constanze. Salieri had previously encouraged Constanze to offer him sexual favors in exchange for helping Mozart's career. He ultimately decided against it, but nonetheless humiliated Constanze by calling in his attendant to show the partially nude Constanze out. This moment causes Constanze to hate Salieri. When she kicks Salieri out of the apartment at the end of the film, she bitterly remarks that she does not have a servant to evict him.<ref name=DenofGeek /><ref>{{cite web |title=Amadeus |author=Peter Shaffer |website=The Internet Movie Script Database |url=https://imsdb.com/scripts/Amadeus.html |access-date=September 18, 2026}}</ref>}} As Salieri protests, they are shocked to discover that Mozart has died. Due to his debts, Mozart is buried in a [[Potter's field|pauper's grave]].
+
+Back in 1823, Vogler is too shaken to [[Absolution|absolve]] Salieri, who surmises that God would rather destroy his beloved Mozart than allow Salieri to share in Mozart's glory. As Salieri is wheeled down a hallway, he proclaims himself the patron saint of mediocrities. He absolves the asylum's other patients of their inadequacies as Mozart's laughter rings in the air.
+
+==Cast==
+{{Cast listing|
+* [[F. Murray Abraham]] as [[Antonio Salieri]]
+** {{ill|Martin Cavani|d|Q111294228}} as young Salieri
+* [[Tom Hulce]] as [[Wolfgang Amadeus Mozart]]
+** [[Miroslav Sekera]] as young Mozart
+* [[Elizabeth Berridge (actress)|Elizabeth Berridge]] as [[Constanze Mozart]]
+* [[Roy Dotrice]] as [[Leopold Mozart]]
+* [[Simon Callow]] as [[Emanuel Schikaneder]]
+* [[Christine Ebersole]] as [[Caterina Cavalieri]]
+* [[Jeffrey Jones]] as [[Joseph II, Holy Roman Emperor|Emperor Joseph II]]
+* [[Charles Kay]] as Count [[Orsini-Rosenberg]]
+* [[Kenneth McMillan (actor)|Kenneth McMillan]] as Michael Schlumberg (Director's Cut)
+* [[Kenny Baker (English actor)|Kenny Baker]] as Parody Commendatore
+* [[Lisabeth Bartlett]] as [[Papagena]]
+* [[Barbara Bryne]] as [[Cäcilia Weber|Frau Weber]] – Mozart's scandalous landlady and later mother-in-law.
+* [[Roderick Cook]] as Count von Strack
+* [[Milan Demjanenko]] as [[Karl Thomas Mozart|Karl Mozart]]
+* {{ill|Peter DiGesu|d|Q133297518}} as Francesco Salieri
+* [[Marta Jarolímková]] as Archduchess [[Duchess Elisabeth of Württemberg|Elisabeth]], the niece of Emperor Joseph II of Austria and an archduchess of the Austrian Empire.
+* [[Michele Esposito (actor)|Michele Esposito]] as Salieri's student (Director's Cut)
+* [[Richard Frank (actor)|Richard Frank]] as Father Vogler
+* [[Patrick Hines]] as [[Giuseppe Bonno|Kapellmeister Giuseppe Bonno]]
+* [[Nicholas Kepros]] as Count [[Hieronymus von Colloredo]], [[Prince-Archbishopric of Salzburg|Prince-Archbishop of Salzburg]]
+* [[Philip Lenkowsky]] as Salieri's Servant
+* [[Herman Meckler]] as Priest
+* [[Jonathan Moore (actor)|Jonathan Moore]] as [[Gottfried van Swieten|Baron van Swieten]]
+* [[Cynthia Nixon]] as Lorl, Mozart's maid
+* [[Brian Pettifer]] as Hospital Attendant
+* [[Vincent Schiavelli]] as Salieri's Valet
+* [[Douglas Seale]] as Count Arco – Colloredo's counselor
+* {{ill|Cassie Stuart|fr}} as Gertrude Schlumberg (Director's Cut)
+* [[John Strauss]] as Conductor
+* {{ill|Karl-Heinz Teuber|d|Q95869038}} as Wig Salesman
+* [[Rita Zohar]] as Frau Schlumberg (Director's Cut)
+}}
+
+==Production==
+[[Kenneth Branagh]] wrote in his autobiography ''Beginning'' that he was one of the early finalists for the role of Mozart, but was dropped from consideration when Forman decided to make the film with an American cast.{{sfn|Branagh|1990|pp=[https://archive.org/details/beginning00bran/page/105 105–109]}} Forman declined to have [[Tim Curry]], who originated the role of Mozart on [[Broadway theatre|Broadway]], reprise his role; however, he allowed Curry to screen-test for Salieri instead at Shaffer's suggestion.<ref>{{cite magazine| last1=Schulman| first1=Michael| url=https://www.newyorker.com/culture/the-new-yorker-interview/tim-curry-does-the-time-warp| title=Tim Curry Does the Time Warp| website=NewYorker.com| date=October 12, 2025| access-date=October 15, 2025}}</ref> [[Mark Hamill]], who replaced Curry as Mozart towards the end of the stage play's original Broadway run, was rejected by Forman because of his association with the character [[Luke Skywalker]], believing audiences would not accept him as the composer.<ref>{{cite news| first=Tara| last=Brady| title=Mark Hamill: 'If I had to climb a Skellig, I was staying at the top'| url=https://www.irishtimes.com/culture/film/mark-hamill-if-i-had-to-climb-a-skellig-i-was-staying-at-the-top-1.3301093| date=November 25, 2017| newspaper=[[The Irish Times]]| location=[[Dublin]]| access-date=November 28, 2021| archive-date=May 17, 2021| archive-url=https://web.archive.org/web/20210517161105/https://www.irishtimes.com/culture/film/mark-hamill-if-i-had-to-climb-a-skellig-i-was-staying-at-the-top-1.3301093| url-status=live}}</ref>
+
+Forman invited Hulce to a "get-acquainted session" in late 1982.<ref name=Cain>{{cite news |last1=Cain |first1=Scott |title=The Key Behind Playing Mozart |url=https://www.newspapers.com/image/974555495/?match=1&terms=Amadeus%20hulce |access-date=10 October 2025 |work=The Atlanta Journal |date=October 21, 1984 |page=1J, 6J |language=|via=Newspapers.com}}</ref> However, Hulce was instructed not to study conducting, as the modern discipline is different than in Mozart's time, when conductors primarily kept time and often played along at the keyboard.<ref name=Cain/> [[Meg Tilly]] was cast as Mozart's wife Constanze, but she tore a ligament in her leg the day before shooting started.<ref name="Amadeus. DVD. Warner Bros Pictures 2001" /> She was replaced by [[Elizabeth Berridge (actress)|Elizabeth Berridge]]. [[Simon Callow]], who played Mozart in the original London stage production of ''Amadeus'', was cast as [[Emanuel Schikaneder]], the [[libretto|librettist]] of ''[[The Magic Flute]]''.
+
+The film was shot on location in [[Prague]] for seven months, with primary filming ending in July 1983.<ref name=Cain/><ref>{{cite web| url=http://www.prague.eu/en/articles/prague-in-films-10534| title=Prague in Films| website=Prague City Tourism| access-date=November 28, 2021| archive-date=January 17, 2018| archive-url=https://web.archive.org/web/20180117131546/http://www.prague.eu/en/articles/prague-in-films-10534| url-status=live}}</ref> and in [[Kroměříž]] at [[Kroměříž Castle]].<ref>{{cite web| url=http://www.kromeriz.eu/en/page/view/20-The-chateau-and-the-famous-film-Amadeus.html| title=The château and the famous film ''Amadeus''| website=City of Kromeriz| access-date=November 28, 2021| language=Czech| archive-date=July 5, 2018| archive-url=https://web.archive.org/web/20180705044838/http://www.kromeriz.eu/en/page/view/20-The-chateau-and-the-famous-film-Amadeus.html| url-status=dead}}</ref> Forman was able to shoot scenes in the Estates Theatre in Prague, where ''[[Don Giovanni]]'' and ''[[La clemenza di Tito]]'' debuted two centuries before.<ref>{{cite web| url=https://www.estatestheatre.cz/et_history.html| title=Estates Theatre History| website=Mozart's Estates Theatre Prague| access-date=November 28, 2021| archive-date=November 29, 2021| archive-url=https://web.archive.org/web/20211129033436/https://www.estatestheatre.cz/et_history.html| url-status=live}}</ref> Several other scenes were shot at the [[Barrandov Studios]] and [[Invalidovna]] building, a former ''hôtel des invalides'', built in 1731–1737.<ref>{{cite web| url=http://www.movie-locations.com/movies/a/Amadeus.html| title=''Amadeus'' film locations| archive-url=https://web.archive.org/web/20160518040737/http://www.movie-locations.com/movies/a/Amadeus.html| archive-date=May 18, 2016| website=The Worldwide Guide to Movie Locations}}</ref>
+
+Forman collaborated with American choreographer [[Twyla Tharp]] for scenes that featured recreations of Mozart and Salieri operas.<ref>{{cite news| url=https://www.hollywoodreporter.com/news/twyla-tharp-recalls-amadeus-gene-828754| title=Twyla Tharp Recalls ''Amadeus'', Gene Kelly, Baryshnikov as She Marks 50th Anniversary| first=Jordan| last=Riefe| newspaper=[[The Hollywood Reporter]]| date=October 2, 2015| access-date=January 17, 2018| archive-date=January 17, 2018| archive-url=https://web.archive.org/web/20180117131418/https://www.hollywoodreporter.com/news/twyla-tharp-recalls-amadeus-gene-828754| url-status=live}}</ref>
+
+The movie presented high realism by using candlelight inside the Estates Theater in Prague and filming full-length, authentic opera scenes.<ref>{{Cite web |last=Petre-Baumer |first=Chris |date=2017-07-13 |title=Is Amadeus Accurate? Fact vs. Fiction |url=https://handelandhaydn.org/amadeus-fact-fiction/ |access-date=2026-04-18 |website=Handel and Haydn Society |language=en-US}}</ref>
+
+[[Tom Hulce]] reportedly used [[John McEnroe]]'s mood swings as a source of inspiration for his portrayal of Mozart's unpredictable genius. He claimed he did not find Mozart's signature laugh until he downed a bottle of whiskey.<ref name="Amadeus. DVD. Warner Bros Pictures 2001">'' The Making of Amadeus''. DVD. Warner Bros Pictures, 2001. 20 min.</ref><ref>{{Cite news |last=Broughton |first=Chris |date=2023-10-23 |title='John McEnroe was my reference point': how we made hit Mozart movie Amadeus |language=en-GB |work=The Guardian |url=https://www.theguardian.com/culture/2023/oct/23/john-mcenroe-how-we-made-mozart-movie-amadeus-jack-daniels |access-date=2023-11-15 |issn=0261-3077 |archive-date=October 23, 2023 |archive-url=https://web.archive.org/web/20231023141417/http://www.theguardian.com/culture/2023/oct/23/john-mcenroe-how-we-made-mozart-movie-amadeus-jack-daniels |url-status=live }}</ref>
+
+==Reception==
+
+===Critical reception===
+''Amadeus'' holds a score of 90% on review aggregator [[Rotten Tomatoes]] based on 160 reviews, with an average rating of 9.1/10. The site's consensus states: "''Amadeus''{{'}} liberties with history may rankle some, but the creative marriage of Miloš Forman and Peter Shaffer yields a divinely diabolical myth of genius and mediocrity, buoyed by inspired casting and Mozart's rapturous music."<ref>{{cite web| url=https://www.rottentomatoes.com/m/amadeus| title=Amadeus| website=Rotten Tomatoes| access-date=August 7, 2026| archive-date=May 30, 2022| archive-url=https://web.archive.org/web/20220530202936/https://www.rottentomatoes.com/m/amadeus| url-status=live}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 87 out of 100, based on 28 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''Amadeus'' |url=https://www.metacritic.com/movie/amadeus |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{Cite web |title=Amadeus Reviews |url=https://www.metacritic.com/movie/amadeus/ |access-date=2025-02-01 |website=www.metacritic.com |language=en}}</ref>
+
+Giving the film four-out-of-four stars, [[Roger Ebert]] acknowledged that it was one of the "riskiest gambles a filmmaker has taken in a long time", but added that "there is nothing cheap or unworthy about the approach", and ultimately concluded that it was a "magnificent film, full and tender and funny and charming".<ref name=ebert>{{cite web |last1=Ebert |first1=Roger |author-link=Roger Ebert |title=Amadeus |url=https://www.rogerebert.com/reviews/amadeus-1984 |newspaper=[[Chicago Sun-Times]] |via=RogerEbert.com |access-date=September 16, 2018 |language=en |date=September 8, 1984 |archive-date=September 16, 2018 |archive-url=https://web.archive.org/web/20180916060023/https://www.rogerebert.com/reviews/amadeus-1984 |url-status=live }}</ref> Ebert later added the film to his Great Movies list.<ref name=ebert/> [[Peter Travers]] of ''[[People (magazine)|People]]'' magazine said that "Hulce and Abraham share a dual triumph in a film that stands as a provocative and prodigious achievement."<ref name="travers">{{cite journal |last1=Travers |first1=Peter |title=Screen |journal=People |date=October 1, 1984 |volume=22 |issue=14 |page=14 |url=https://people.com/archive/picks-and-pans-review-amadeus-vol-22-no-14/ |access-date=September 16, 2018 |archive-date=September 16, 2018 |archive-url=https://web.archive.org/web/20180916055928/https://people.com/archive/picks-and-pans-review-amadeus-vol-22-no-14/ |url-status=live }}</ref> [[Stanley Kauffmann]] of ''[[The New Republic]]'' put it on his list of films worth seeing.<ref name="Kauffmann">{{cite magazine |last1=Kauffmann |first1=Stanley |title=Films Worth Seeing |magazine=The New Republic |date=October 29, 1984 |volume=191 |issue=17 |pages=24–26 |url=http://search.ebscohost.com/login.aspx?direct=true&db=asn&AN=12032100&site=ehost-live |access-date=September 16, 2018 |archive-date=February 9, 2024 |archive-url=https://web.archive.org/web/20240209234030/https://search.ebscohost.com/login.aspx?direct=true&db=asn&AN=12032100&site=ehost-live |url-status=live }}</ref>
+
+In one negative review, [[Todd McCarthy]] of ''[[Variety (magazine)|Variety]]'' said that despite "great material and themes to work with, and such top talent involved," the "stature and power the work possessed onstage have been noticeably diminished" in the film adaptation.<ref name="McCarthy">{{cite web |last1=McCarthy |first1=Todd |title=Amadeus |url=https://variety.com/1984/film/reviews/amadeus-1200426332/ |magazine=[[Variety (magazine)|Variety]] |access-date=September 16, 2018 |date=September 5, 1984 |archive-date=September 16, 2018 |archive-url=https://web.archive.org/web/20180916093007/https://variety.com/1984/film/reviews/amadeus-1200426332/ |url-status=live }}</ref> The film's many historical inaccuracies have attracted criticism from music historians.{{sfn|Gale|2018|p=}}{{page needed|date=November 2025}}<ref name=guardian>{{cite web| last1=von Tunzelmann| first1=Alex| author-link=Alex von Tunzelmann| title=''Amadeus'': the fart jokes can't conceal how laughably wrong this is| url=https://www.theguardian.com/film/2009/oct/22/amadeus-reel-history| newspaper=[[The Guardian]]| date=October 22, 2009| location=London| access-date=August 5, 2019| archive-date=August 5, 2019| archive-url=https://web.archive.org/web/20190805131229/https://www.theguardian.com/film/2009/oct/22/amadeus-reel-history| url-status=live}}</ref>
+
+===Box office===
+The film grossed $52&nbsp;million in the United States and Canada<ref name="Numbers"/> and by November 1985, while still in theatres overseas, had grossed over $90&nbsp;million worldwide to date.<ref name=ww>{{cite magazine| magazine=Variety| last=Watkins| first=Roger| date=November 20, 1985| page=6| title=Zaentz High On Back-End Deals As 'Amadeus' B.O. Tops $90-Mil}}</ref>
+
+===Accolades===
+The film was nominated for eleven [[Academy Awards]] and won eight, including [[Academy Award for Best Picture|Best Picture]].<ref>{{cite news |last1=Sharbutt |first1=Jay |title=Amadeus' scores an Oscar's sweep |url=https://www.newspapers.com/image/163345611/?match=1&terms=%22amadeus%22 |access-date=16 October 2025 |work=The Journal News  |via=Newspapers.com |date=Mar 26, 1985 |location=Los Angeles |page=16}}</ref> At the end of the Oscar ceremony, [[Laurence Olivier]] came on stage to present the Oscar for Best Picture. As Olivier thanked the academy for inviting him, he was already opening the envelope. Instead of announcing the nominees, he simply read, "The winner for this is ''Amadeus''." An [[AMPAS]] official quickly went onstage to confirm the winner and signaled that all was well before Olivier then presented the award to producer [[Saul Zaentz]]. Olivier (in his 78th year) had been ill for many years, and it was because of mild [[dementia]] that he forgot to read the nominees.<ref>''Olivier'', by Terry Coleman, 2005, p. 484</ref> Zaentz then thanked Olivier, saying it was an honor to receive the award from him,<ref>{{cite web |url=http://aaspeechesdb.oscars.org/ics-wpd/exec/icswppro.dll?AC=qbe_query&TN=AAtrans&RF=WebReportPermaLink&MF=oscarsmsg.ini&NP=255&BU=http://aaspeechesdb.oscars.org/index.htm&QY=find+acceptorlink+%3d057-17 |title=Academy Awards Acceptance Speeches |website=Academy of Motion Picture Arts & Sciences |date=March 25, 1985 |access-date=February 24, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110716070925/http://aaspeechesdb.oscars.org/ics-wpd/exec/icswppro.dll?AC=qbe_query&TN=AAtrans&RF=WebReportPermaLink&MF=oscarsmsg.ini&NP=255&BU=http%3A%2F%2Faaspeechesdb.oscars.org%2Findex.htm&QY=find+acceptorlink+%3D057-17 |archive-date=July 16, 2011}}</ref> before mentioning the other nominees in his acceptance speech: ''[[The Killing Fields (film)|The Killing Fields]]'', ''[[A Passage to India (film)|A Passage to India]]'', ''[[Places in the Heart]]'' and ''[[A Soldier's Story]]''. [[Maurice Jarre]] won [[Academy Award for Best Original Score|Best Original Music Score]] for his scoring of ''A Passage to India''. In his acceptance speech for the award, Jarre remarked "I was lucky Mozart was not eligible this year".<ref>{{cite news |url=https://www.washingtonpost.com/wp-srv/style/movies/oscars/speeches.htm |title=The Oscar Acceptance Speech: By and Large, It's a Lost Art |first=Sharon |last=Waxman |author-link=Sharon Waxman |newspaper=[[The Washington Post]] |date=March 21, 1999 |access-date=September 20, 2017 |archive-date=March 24, 2017 |archive-url=https://web.archive.org/web/20170324012131/http://www.washingtonpost.com/wp-srv/style/movies/oscars/speeches.htm |url-status=live }}</ref> While accepting his first [[Academy Award for Best Actor|Oscar for Best Actor]], F. Murray Abraham drew loud cheers when he said: "There is only one thing missing for me tonight—and that is to have Tom Hulce standing by my side."<ref>{{Cite web |date=1985-03-26 |title='Amadeus' Top Film; Field and Abraham Win |url=https://www.latimes.com/archives/la-xpm-1985-03-26-mn-28744-story.html |access-date=2026-09-19 |website=Los Angeles Times |language=en-US}}</ref><ref>{{Cite news |last=Vernon |first=Scott |date=March 26, 1985 |title='Amadeus,' a epic on the life of Mozart, swept... |url=https://www.upi.com/Archives/1985/03/26/Amadeus-a-epic-on-the-life-of-Mozart-swept/8549480661200/ |access-date=September 18, 2026 |work=UPI}}</ref> 
+
+The film is one of the few Best Picture winners never to enter the weekend box office top 5 after rankings began being recorded in 1982.{{efn|Attributed to multiple references:<ref>{{cite web| url=http://www.boxofficemojo.com/movies/?page=weekend&id=englishpatient.htm| title=''The English Patient'' weekend box office results| website=[[Box Office Mojo]]| access-date=March 15, 2008| archive-date=October 6, 2018| archive-url=https://web.archive.org/web/20181006012551/https://www.boxofficemojo.com/movies/?page=weekend&id=englishpatient.htm| url-status=live}}</ref><ref>{{cite web| url=http://www.boxofficemojo.com/movies/?page=weekend&id=amadeus.htm| title=''Amadeus'' weekend box office results| website=Box Office Mojo| access-date=March 15, 2008| archive-date=July 14, 2019| archive-url=https://web.archive.org/web/20190714014454/https://www.boxofficemojo.com/movies/?page=weekend&id=amadeus.htm| url-status=live}}</ref><ref>{{cite web| url=http://www.boxofficemojo.com/movies/?page=weekend&id=hurtlocker.htm| title=''The Hurt Locker'' weekend box office results| website=Box Office Mojo| access-date=May 4, 2010| archive-date=June 11, 2010| archive-url=https://web.archive.org/web/20100611144304/http://www.boxofficemojo.com/movies/?page=weekend&id=hurtlocker.htm| url-status=live}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl376866305/weekend/| title=''12 Years a Slave'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref><ref>{{cite web| url=http://www.boxofficemojo.com/movies/?page=weekend&id=birdman.htm| title=''Birdman'' weekend box office results| website=Box Office Mojo| access-date=March 9, 2015| archive-date=March 3, 2015| archive-url=https://web.archive.org/web/20150303151348/http://www.boxofficemojo.com/movies/?page=weekend&id=birdman.htm| url-status=live}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl7570945/weekend/| title=''Spotlight'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl2558428673/weekend/| title=''Moonlight'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl3540026881/weekend/| title=''The Shape of Water'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl805799425/weekend/| title=''Green Book'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl1258849793/weekend/| title=''Parasite'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl1414169345/weekend/| title=''Nomadland'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref><ref>{{cite web| url=https://www.boxofficemojo.com/release/rl779911169/weekend/| title=''Anora'' weekend box office results| website=Box Office Mojo| access-date=September 9, 2026}}</ref>}} The film peaked at No. 6 during its 8th weekend in theaters. [[Saul Zaentz]] produced both ''Amadeus'' and ''The English Patient''. In 2006, [[Writers Guild of America West]] ranked its screenplay 73rd in WGA’s list of 101 Greatest Screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-01 |language=en}}</ref>
+
+{| class="wikitable"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! {{Refh}}
+|-
+| rowspan="11"| [[57th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Saul Zaentz]]
+| {{won}}
+| align="center" rowspan="11"| <ref>{{cite web |url=http://www.oscars.org/oscars/ceremonies/1985 |title=The 57th Academy Awards (1985) Nominees and Winners |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=October 13, 2011 |archive-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150402004214/http://www.oscars.org/oscars/ceremonies/1985 |url-status=live}}</ref> <br> <ref>{{cite news |url=https://movies.nytimes.com/movie/1764/Amadeus/awards |archive-url=https://web.archive.org/web/20080914003647/http://movies.nytimes.com/movie/1764/Amadeus/awards |url-status=dead |archive-date=September 14, 2008 |department=Movies & TV Dept. |newspaper=[[The New York Times]] |title=Amadeus (1984) |access-date=November 28, 2021}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| [[Miloš Forman]]
+| {{won}} 
+|-
+| rowspan="2"| [[Academy Award for Best Actor|Best Actor]]
+| [[F. Murray Abraham]]
+| {{won}} 
+|-
+| [[Tom Hulce]]
+| {{nom}} 
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay – Based on Material from Another Medium]]
+| [[Peter Shaffer]]
+| {{won}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| Art Direction: [[Patrizia von Brandenstein]]; <br> Set Decoration: [[Karel Černý (art director)|Karel Černý]]
+| {{won}} 
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[Miroslav Ondříček]]
+| {{nom}} 
+|-
+| [[Academy Award for Best Costume Design|Best Costume Design]]
+| [[Theodor Pištěk (costume designer)|Theodor Pištěk]]
+| {{won}} 
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Nena Danevic]] and [[Michael Chandler (film editor)|Michael Chandler]]
+| {{nom}} 
+|-
+| [[Academy Award for Best Makeup and Hairstyling|Best Makeup]]
+| [[Dick Smith (make-up artist)|Dick Smith]] and [[Paul LeBlanc (make-up artist)|Paul LeBlanc]]
+| {{won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Mark Berger (sound engineer)|Mark Berger]], [[Tom Scott (sound engineer)|Tom Scott]], [[Todd Boekelheide]], and [[Chris Newman (sound engineer)|Christopher Newman]]
+| {{won}}
+|-
+| [[Amanda Award]]s
+| [[List of Amanda Award winners#Best Film (International)|Best Foreign Feature Film]]
+| Miloš Forman
+| {{won}}
+| align="center"| 
+|-
+| [[American Cinema Editors#Eddie Awards|American Cinema Editors Awards]]
+| [[American Cinema Editors Award for Best Edited Feature Film – Dramatic|Best Edited Feature Film]]
+| Nena Danevic and Michael Chandley
+| {{won}}
+| align="center"| {{sfn|Morton|2011|p=PT110}}
+|-
+| [[American Film Institute]]
+| colspan="2"| [[AFI's 100 Years...100 Movies]]
+| {{draw|53rd Place}}
+| align="center"| <ref>{{cite web |url=https://www.afi.com/afis-100-years-100-movies/ |title=AFI's 100 Years...100 Movies |publisher=[[American Film Institute]] |access-date=May 18, 2024}}</ref>
+|-
+| [[Casting Society of America#Artios Awards|Artios Awards]]
+| [[Artios Award for Outstanding Achievement in Casting – Big Budget Feature (Drama)|Outstanding Achievement in Feature Film Casting]]
+| Mary Goldberg
+| {{won}}
+| align="center"| <ref>{{cite web |url=http://www.castingsociety.com/awards/artios/1985 |title=1985 Artios Awards |publisher=[[Casting Society of America]] |access-date=February 6, 2019 |archive-date=February 9, 2019 |archive-url=https://web.archive.org/web/20190209124038/http://www.castingsociety.com/awards/artios/1985 |url-status=live}}</ref>
+|-
+| rowspan="9"| [[39th British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Film|Best Film]]
+| Saul Zaentz and Miloš Forman
+| {{nom}}
+| align="center" rowspan="9"| <ref>{{cite web |url=http://awards.bafta.org/award/1986/film |title=BAFTA Awards: Film in 1986 |publisher=[[British Academy Film Awards]] |access-date=September 16, 2016 |archive-date=August 17, 2020 |archive-url=https://web.archive.org/web/20200817120033/http://awards.bafta.org/award/1986/film |url-status=live}}</ref>
+|-
+| [[BAFTA Award for Best Actor in a Leading Role|Best Actor in a Leading Role]]
+| F Murray Abraham
+| {{nom}} 
+|-
+| [[BAFTA Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Peter Shaffer
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| Miroslav Ondříček
+| {{won}}
+|-
+| [[BAFTA Award for Best Costume Design|Best Costume Design]]
+| Theodor Pištěk
+| {{nom}} 
+|-
+| [[BAFTA Award for Best Editing|Best Editing]]
+| Nena Danevic and Michael Chandler
+| {{won}}
+|-
+| [[BAFTA Award for Best Makeup and Hair|Best Make-Up Artist]]
+| Paul LeBlanc and Dick Smith
+| {{won}} 
+|-
+| [[BAFTA Award for Best Production Design|Best Production Design]]
+| Patrizia von Brandstein
+| {{nom}}
+|-
+| [[BAFTA Award for Best Sound|Best Sound]]
+| John Nutt, Christopher Newman, and Mark Berger 
+| {{won}} 
+|-
+| [[British Society of Cinematographers|British Society of Cinematographers Awards]]
+| [[British Society of Cinematographers Award for Best Cinematography in a Theatrical Feature Film|Best Cinematography in a Theatrical Feature Film]]
+| Miroslav Ondrícek
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://bscine.com/media/uploads/awards/bsc-cinematography-feature-film.pdf?v |title=Best Cinematography in Feature Film |publisher=[[British Society of Cinematographers]] |access-date=June 3, 2021 |archive-date=June 4, 2021 |archive-url=https://web.archive.org/web/20210604021621/https://bscine.com/media/uploads/awards/bsc-cinematography-feature-film.pdf?v |url-status=live}}</ref>
+|-
+| [[10th César Awards|César Awards]]
+| colspan="2"| [[César Award for Best Foreign Film|Best Foreign Film]]
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://www.academie-cinema.org/evenements/ceremonie-des-cesar-1985/ |title=The 1985 Caesars Ceremony |publisher=[[César Awards]] |access-date=July 5, 2021 |archive-date=August 4, 2021 |archive-url=https://web.archive.org/web/20210804070803/https://www.academie-cinema.org/evenements/ceremonie-des-cesar-1985/ |url-status=live}}</ref>
+|-
+| rowspan="3"| [[David di Donatello|David di Donatello Awards]]
+| [[David di Donatello for Best Foreign Film|Best Foreign Film]]
+| rowspan="2"| Miloš Forman
+| {{won}}
+| align="center" rowspan="3"| 
+|-
+| [[David di Donatello for Best Foreign Director|Best Foreign Director]]
+| {{won}} 
+|-
+| [[David di Donatello for Best Foreign Actor|Best Foreign Actor]]
+| Tom Hulce
+| {{won}}
+|-
+| [[37th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Miloš Forman
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://www.dga.org/Awards/History/1980s/1984.aspx?value=1984 |title=37th Annual DGA Awards |publisher=[[Directors Guild of America Awards]] |access-date=July 5, 2021 |archive-date=January 28, 2022 |archive-url=https://web.archive.org/web/20220128011455/http://www.dga.org/Awards/History/1980s/1984.aspx?value=1984 |url-status=live}}</ref>
+|-
+| rowspan="2"| [[DVD Exclusive Awards]]
+| Original Retrospective Documentary, Library Release
+| Paul Hemstreet, [[Bill Jersey]], and Charles Kiselyak
+| {{nom}}
+| align="center" rowspan="2"| 
+|-
+| Best Audio Commentary, Library Release
+| Miloš Forman and Peter Shaffer
+| {{nom}}
+|-
+| rowspan="6"| [[42nd Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| {{won}}
+| align="center" rowspan="6"| <ref>{{cite web |url=https://www.goldenglobes.com/film/amadeus |title=Amadeus |publisher=[[Golden Globe Awards]] |access-date=July 5, 2021 |archive-date=July 30, 2021 |archive-url=https://web.archive.org/web/20210730140901/https://www.goldenglobes.com/film/amadeus |url-status=live}}</ref>
+|-
+| rowspan="2"| [[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor in a Motion Picture – Drama]]
+| F. Murray Abraham
+| {{won}}
+|-
+| Tom Hulce
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor – Motion Picture]]
+| [[Jeffrey Jones]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| Miloš Forman
+| {{won}} 
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay – Motion Picture]]
+| Peter Shaffer
+| {{won}} 
+|-
+| colspan="3"| [[Goldene Leinwand|Golden Screen Awards]]
+| {{won}}
+|-
+| [[Japan Academy Film Prize]]
+| colspan="2"| [[Japan Academy Film Prize for Outstanding Foreign Language Film|Best Foreign Language Film]]
+| {{won}}
+| align="center"| 
+|-
+| rowspan="3"| [[Joseph Plateau Award]]s
+| colspan="2"| Best Film
+| {{won}}
+| align="center" rowspan="3"| 
+|-
+| Best Director
+| Miloš Forman
+| {{won}}
+|-
+| colspan="2"| Best Artistic Contribution
+| {{won}}
+|-
+| [[Jussi Awards]]
+| Best Foreign Filmmaker
+| Miloš Forman
+| {{won}}
+| align="center"| 
+|-
+| Kansas City Film Critics Circle Awards
+| Best Actor
+| F. Murray Abraham
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://kcfcc.org/kcfcc-award-winners-1980-89/ |title=KCFCC Award Winners – 1980–89 |publisher=Kansas City Film Critics Circle |date=December 14, 2013 |access-date=May 15, 2021 |archive-date=December 1, 2020 |archive-url=https://web.archive.org/web/20201201105239/https://kcfcc.org/kcfcc-award-winners-1980-89/ |url-status=live}}</ref>
+|-
+| [[Kinema Junpo#Annual award categories|Kinema Junpo Awards]]
+| Best Foreign Language Film
+| Miloš Forman
+| {{won}}
+| align="center"| 
+|-
+| rowspan="5"| [[1984 Los Angeles Film Critics Association Awards|Los Angeles Film Critics Association Awards]]
+| colspan="2"| [[Los Angeles Film Critics Association Award for Best Film|Best Picture]]
+| {{won}}
+| align="center" rowspan="5"| <ref>{{cite web |url=http://www.lafca.net/Years/1984.php |title=The 10th Annual Los Angeles Film Critics Association Awards |publisher=[[Los Angeles Film Critics Association]] |access-date=July 5, 2021 |archive-date=July 9, 2021 |archive-url=https://web.archive.org/web/20210709182749/http://www.lafca.net/Years/1984.php |url-status=live}}</ref>
+|-
+| [[Los Angeles Film Critics Association Award for Best Director|Best Director]]
+| Miloš Forman
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Actor|Best Actor]]
+| F. Murray Abraham
+| {{won}}{{efn|Tied with [[Albert Finney]] for ''[[Under the Volcano (1984 film)|Under the Volcano]]''.<ref>{{cite web |title=Awards for 1984 |website=Los Angeles Film Critics Association |url=http://www.lafca.net/Years/1984.php |access-date=September 18, 2026}}</ref>}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Screenplay|Best Screenplay]]
+| Peter Shaffer
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Award for Best Music|Best Music Score]]
+| [[Wolfgang Amadeus Mozart]]{{efn|Posthumous nomination.<ref>{{cite web |title=Los Angeles Film Critics Association Awards 1984 |website=IMDb |url=https://www.imdb.com/event/ev0000407/1984/1/ |access-date=September 18, 2026}}</ref>}}
+| {{Runner-up}}
+|-
+| rowspan="2"| [[Nastro d'Argento]]
+| Best Foreign Director
+| Miloš Forman
+| {{won}}
+| align="center" rowspan="2"| 
+|-
+| Best Foreign Actor
+| Tom Hulce
+| {{won}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |title=Complete National Film Registry Listing |publisher=[[Library of Congress]] |access-date=May 18, 2024}}</ref>
+|-
+| Online Film & Television Association Awards
+| colspan="2"| Film Hall of Fame: Productions
+| {{won}}
+| align="center"| <ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame Productions |publisher=Online Film & Television Association |access-date=May 15, 2021 |archive-date=September 11, 2016 |archive-url=https://web.archive.org/web/20160911025446/http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |url-status=live}}</ref>
+|-
+| [[2nd Robert Awards|Robert Awards]]
+| [[Robert Award for Best Foreign Film|Best Foreign Film]]
+| Miloš Forman
+| {{won}}
+| align="center"| 
+|-
+| [[Turkish Film Critics Association|Turkish Film Critics Association Awards]]
+| colspan="2"| Best Foreign Film
+| {{won}}
+| align="center"| 
+|}
+
+==Historicity==
+{{Main|Death of Wolfgang Amadeus Mozart|Antonio Salieri#Relationship with Mozart}}
+
+From the beginning, writer Peter Shaffer and director Miloš Forman both were open about their desire to create entertaining drama only loosely based on reality. Forman admitted that neither the play nor the film was ever "intended to be a documentary", calling the film a "fantasia on the theme of Mozart and Salieri".<ref name="bbc">{{cite web| last=Burton-Hill| first=Clemency| title=What Amadeus gets wrong| website=BBC Culture| date=2015-02-24| url=https://www.bbc.com/culture/article/20150224-what-amadeus-gets-wrong| access-date=2021-04-20| archive-date=April 17, 2021| archive-url=https://web.archive.org/web/20210417123042/https://www.bbc.com/culture/article/20150224-what-amadeus-gets-wrong| url-status=live}}</ref> The idea of animosity between Mozart and Salieri was popularized by [[Alexander Pushkin]] in his 1830 play ''[[Mozart and Salieri (play)|Mozart and Salieri]]'', where Salieri murders Mozart on stage. The play was made into the 1897 opera ''[[Mozart and Salieri (opera)|Mozart and Salieri]]'' by [[Nikolai Rimsky-Korsakov]],<ref name="bbc" /> which in turn had its first screen adaptation by silent-film director [[Victor Tourjansky]] in 1914.<ref>{{cite web |title=Religion and Characters in Symphony of Love and Death (1914) |url=http://www.comicbookreligion.com/?s=9073 |url-status=live |archive-url=https://web.archive.org/web/20211113230645/http://www.comicbookreligion.com/?s=9073 |archive-date=November 13, 2021 |access-date=2021-11-13 |website=Comic Book Religion}}</ref>
+
+In real life, Salieri and Mozart "were in constant contact" during their years in the Vienna music scene and may even have been friends,<ref name=":4">{{Cite magazine |last=Ross |first=Alex |date=2019-05-27 |title=Antonio Salieri's Revenge |url=https://www.newyorker.com/magazine/2019/06/03/antonio-salieris-revenge |access-date=2025-03-24 |magazine=The New Yorker |language=en-US |issn=0028-792X}}</ref> although they were also professional rivals.<ref name=":5">{{Cite news |last=Schonberg |first=Harold C. |date=1981-02-01 |title=The Villain of 'Amadeus' in Real Life |url=https://www.nytimes.com/1981/02/01/theater/the-villian-of-amadeus-in-real-life.html |access-date=2025-03-24 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> The claim that Salieri killed Mozart has been generally debunked; in 1981, [[Harold C. Schonberg]] wrote that "medical men who have studied the reports of Mozart's final illness [were] almost unanimous in saying that Mozart died of kidney failure."<ref name=":5" /> In 1785, Mozart and Salieri co-wrote the [[cantata]] ''[[Per la ricuperata salute di Ofelia]]'', which was rediscovered many years after the film's release; Mozart scholar [[Ulrich Leisinger]] admitted that the piece was "not great".<ref>{{Cite news |date=2016-02-16 |title=Mozart and Salieri 'lost' composition played in Prague |url=https://www.bbc.com/news/world-europe-35589422 |access-date=2025-03-24 |work=BBC News |language=en-GB}}</ref> Salieri "frequently conducted Mozart's work"<ref name=":6">{{Cite news |last=Jeal |first=Erica |date=2003-12-19 |title=The feud that never was |url=https://www.theguardian.com/music/2003/dec/19/classicalmusicandopera.italy |access-date=2025-03-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref name=":4" /> and gave Mozart's son music lessons after Mozart's death.<ref name=":7">{{Cite web |last=Blakemore |first=Erin |date=2016-02-16 |title=A German Composer Uncovered a Collaboration Between Mozart and Salieri |url=https://www.smithsonianmag.com/smart-news/A-German-Composer-uncovered-collaboration-between-mozart-and-salieri-180958154/ |access-date=2025-03-24 |website=Smithsonian Magazine |language=en}}</ref> In addition, [[Alex Ross (music critic)|Alex Ross]] wrote that Mozart and Salieri's relationship improved after the death of [[Emperor Joseph II]], a supporter of Salieri.<ref name=":4" /> Schonberg said that "we will never know ... the exact nature of the relationship between the two men."<ref name=":5" />
+
+However, the film's narrative was indirectly inspired by real-life rumors about Salieri killing Mozart. These rumors were prevalent enough that [[Rossini]] joked about them to Salieri's face when meeting the man in 1822.<ref name=":6" /> It was said that Salieri confessed to the murder in 1823,<ref name=":6" /> shortly before his death and the same year he attempted suicide,<ref name=":5" /> although the claim is generally dismissed as either pure rumor or "the ramblings of a man suffering from dementia",<ref name=":8">{{Cite web |date=2024-08-04 |title=The Rivalry Between Salieri and Mozart: Myth and Reality |url=https://serenademagazine.com/the-rivalry-between-salieri-and-mozart-myth-and-reality/ |access-date=2025-03-24 |website=Serenade Magazine |language=en}}</ref> and [[Ignaz Moscheles]] wrote that Salieri personally denied the rumor to him on his hospital deathbed.<ref name=":5" /> In 1824, an anonymous detractor passed out leaflets at a [[Beethoven]] performance repeating this claim.<ref name=":7" />
+
+The claim that Salieri saw Mozart as a competitor has more historical support. In a biography published shortly after Salieri's death, which was purportedly based on Salieri's now-lost draft autobiography,<ref name=":4" /> [[Ignaz von Mosel]] wrote that Salieri respected Mozart, but was jealous of him.<ref name=":5" /> Salieri also did, in fact, criticize Mozart's dissipated lifestyle.<ref name=":4" /> Harold Schonberg noted that although Salieri had a reputation for being generous to composers who were down on their luck, he never helped Mozart.<ref name=":5"/>
+
+Several members of the Mozart family thought that Salieri used his political clout to minimize his professional rival, including [[Leopold Mozart]] (who wrote that "Salieri and all his supporters" would "move heaven and earth to ruin [''[[The Marriage of Figaro]]'']"),<ref name=":4" /> [[Constanze Mozart]] (who claimed that her husband sometimes doubted Salieri's intentions towards him),<ref name=":8" /> and possibly even Mozart himself (he privately complained to his father about the Italians' excessive influence on the Austrian music industry).<ref name=":6" /> Constanze also boasted that Salieri rejected [[Lorenzo Da Ponte|da Ponte]]'s libretto for ''[[Così fan tutte]]'', only for Mozart to turn it into a well-regarded opera.<ref name=":6" /> Moscheles agreed that his friend Salieri's "intrigues" had hampered Mozart's career.<ref name=":5" /> However, Alex Ross cautioned that "evidence for Salieri's supposed machinations against Mozart is scant" and that Mozart had a "tendency to see plots arrayed against him".<ref name=":4" />
+
+Another significant departure in the film is the portrayal of Salieri as a pious loner trapped in a vow of chastity, when in reality he was a married family man with eight children and at least one mistress.<ref name="guardian" />
+
+Mozart was indeed commissioned to compose a Requiem Mass by an anonymous benefactor. In reality, the patron turned out to be Count [[Franz von Walsegg]], who was grieving after the death of his wife.<ref>{{cite web| title=Amadeus: Strange but True| website=An Historian Goes to the Movies| date=2015-06-14| url=https://aelarsen.wordpress.com/2015/06/14/amadeus-strange-but-true/| access-date=2021-04-20| archive-date=March 1, 2021| archive-url=https://web.archive.org/web/20210301170745/https://aelarsen.wordpress.com/2015/06/14/amadeus-strange-but-true/| url-status=live}}</ref>
+
+==Director's cut==
+''Amadeus'' premiered in 1984 with an [[Motion Picture Association of America film rating system|MPAA rating of PG]] and a running time of 161 minutes. In 2002, director Miloš Forman assembled an R-rated version (marketed as the "Director's Cut") with nearly 20 minutes of restored footage.<ref>{{cite web| first=Kurt| last=Indvik| url=http://www.hive4media.com/news/html/product_article.cfm?article_id=3395| archive-url=https://web.archive.org/web/20020828195253/http://www.hive4media.com/news/html/product_article.cfm?article_id=3395| title=Warner Bows First Premium Video Line| website=[[Home Media Magazine|Hive4Media]]| archive-date=August 28, 2002| date=July 3, 2002| access-date=September 12, 2019|url-status=live}}</ref> From 2002 to 2025, this was the only widely available release.<ref name=":0">{{Cite web |last=King |first=Susan |date=2024-05-31 |title='Amadeus' turned 40 and got a great gift from the Oscars: A 4K digital restoration |url=https://www.goldderby.com/article/2024/amadeus-oscars-restoration/ |access-date=2024-10-22 |website=[[Penske Media Corporation|GoldDerby]] |language=en-US}}</ref> A restoration of the version released in theaters (marketed as the "Theatrical Cut") was released in 2025.<ref name=":0" /><ref name=":3">{{Cite web |last=Schimkowitz |first=Matt |date=2025-01-12 |title=Amadeus' theatrical cut finally gets the 4K restoration of Salieri's nightmares |url=https://www.avclub.com/amadeus-4k-blu-ray-release |access-date=2025-03-03 |website=AV Club |language=en-US}}</ref>
+
+It is not clear whether Forman's Director's Cut represents his actual artistic vision. Forman defended the 20 minutes of cuts in his 1993 autobiography ''Turnaround'',<ref>{{Cite web |last=Johnson |first=Rian |date=2021-07-24 |title=There's an amazing section in Milos Forman's memoir "Turnaround"... |url=https://x.com/rianjohnson/status/1419012786122801153 |access-date=2024-10-21 |website=[[Twitter]]}}</ref> and repeated his defense in the 1995 supplemental material for Pioneer's deluxe LaserDisc. The Director's Cut has come under severe criticism, in part because it displaced the original theatrical edition, instead of complementing it. [[Rian Johnson]] argued that the Director's Cut "is bizarrely a sort of inverse master class in editing: It shows exactly why the cuts were made in the first place & how they made the film work."<ref>{{Cite web |last=Johnson |first=Rian |date=2024-03-01 |title="This is fantastic news, has been top of my wish list for years...." |url=https://x.com/rianjohnson/status/1763719620190703618 |access-date=2024-10-21 |website=[[Twitter]]}}</ref> [[Roger Ebert]] noted that the cut was part of a broader wave of directors' cuts on home video, which he characterized as a "mixed blessing."<ref name=":1">{{Cite web |last=Ebert |first=Roger |date=2002-04-14 |title=Amadeus movie review & film summary (1984) |author-link=Roger Ebert |url=https://www.rogerebert.com/reviews/great-movie-amadeus-1984 |access-date=2024-10-22 |website= Roger Ebert |language=en-US}}</ref> ''[[The A.V. Club]]''<nowiki/>'s Tasha Robinson noted that most of the additional sequences were either redundant or unnecessary, and broke up the "lively flow between scenes" that marked the theatrical edition's "superb" editing."<ref name=":2">{{Cite web |last=Robinson |first=Tasha |date=2002-04-17 |title=Amadeus: The Director's Cut |url=https://www.avclub.com/amadeus-the-directors-cut-1798196449 |access-date=2024-10-22 |website=[[The A.V. Club|AV Club]] |language=en-US}}</ref>
+
+On the other hand, critics have recognized the merits of some of the additional scenes. Ebert and Robinson agreed that the added scenes better explained Constanze's hatred for Salieri, although Robinson questioned whether that subplot actually required a scene with the character topless.<ref name=":1" /><ref name=":2" /> Jordan Hoffmann (''[[Foreign Policy]]'') added that the subplot featuring [[Christine Ebersole]] as a Salieri-obsessed singer who has sex with Mozart, was "splendid."<ref>{{Cite web |last=Hoffman |first=Jordan |date=2024-10-22 |title='Amadeus,' Back in Theaters, Is a Perfect Film |url=https://foreignpolicy.com/2024/07/14/amadeus-mozart-movie-milos-forman-back-in-theaters/ |access-date=2024-10-22 |website=[[Foreign Policy]] |language=en-US}}</ref>
+
+More broadly, while promoting the Director's Cut, Forman argued that the unlimited running time of home video provided a better environment for the deleted scenes:<blockquote>When you finish a film, before the first paying audience sees it, you don't have any idea. You don't know if you made a success or a flop when it comes to the box office. And in the '80s, with [[MTV]] on the scene, we are having a three-hour film about classical music, with long names and wigs and costumes. Don't forget that no major studio wanted to finance the film, for these reasons. So we said, "Well, we don't want to be pushing the audience's patience too far". Whatever was not directly connected to the plot, I just cut it out. But it was a mutual decision [to limit the running time]. I wanted the best life for the film myself... Well, once we are re-releasing it on DVD, it doesn't matter if it is two hours and 40 minutes long, or three hours long. So why don't we do the version as it was written in the script?<ref>{{cite journal |last=Robinson |first=Tasha |date=April 24, 2002 |title=Miloš Forman |url=http://www.avclub.com/articles/milos-forman,13764 |url-status=dead |journal=[[The A.V. Club]] |archive-url=https://web.archive.org/web/20130630075705/http://www.avclub.com/articles/milos-forman,13764/ |archive-date=June 30, 2013 |access-date=November 28, 2021}}</ref></blockquote>In 2024, Saul Zaentz Co. announced that in conjunction with the [[Academy Film Archive]] and Teatro Della Pace Film, it had completed a 4K restoration of the theatrical version of ''Amadeus'', to celebrate the film's 40th anniversary. Restorers noted that Paul Zaentz, Saul's nephew and successor, personally preferred the Theatrical Cut to the Director's Cut.<ref name=":3" /> The distributors issued an Ultra-HD Blu-ray of the restored Theatrical Cut on February 25, 2025.<ref name=":3" />
+
+==Music==
+[[File:Amadeus - Live in Toronto - 20190222A.jpg|thumb|''Amadeus'' music performed live in-sync with the movie by an orchestra and choir at [[Meridian Hall (Toronto)|Meridian Hall]] in [[Toronto]]]]
+
+===Film credits===
+* Music conducted and supervised by [[Neville Marriner]]
+* Music coordinator: [[John Strauss]]
+* Orchestra: [[Academy of St Martin in the Fields]], conducted by Neville Marriner
+* Choruses
+** Academy Chorus of St Martin in the Fields, conducted by [[László Heltay]]
+** [[Ambrosian Singers|Ambrosian Opera Chorus]], conducted by John McCarthy
+** The Choristers of Westminster Abbey, conducted by [[Simon Preston]]
+* Instrumental soloists
+** [[Piano Concerto No. 22 (Mozart)|Piano Concerto No. 22 in E-flat major, K. 482]]: [[Ivan Moravec]]
+** [[Piano Concerto No. 20 (Mozart)|Piano Concerto No. 20 in D minor, K. 466]]: [[Imogen Cooper]]
+** [[Adagio and Rondo for glass harmonica, flute, oboe, viola and cello|Adagio in C minor for Glass Harmonica, K. 617]]: [[Thomas Bloch]] with The Brussels Virtuosi, conducted by Marc Grauwels
+* Parody backgrounds: [[San Francisco Symphony Chorus]]
+* "Caro mio ben" by [[Giuseppe Giordani]]: Michele Esposito, soprano
+
+===Original soundtrack recording===
+The soundtrack album<ref>{{cite web |title=Wolfgang Amadeus Mozart – Neville Marriner, Academy Of St. Martin-In-the-Fields – ''Amadeus'' (Original Soundtrack Recording) |url=https://www.discogs.com/Wolfgang-Amadeus-Mozart-Neville-Marriner-Academy-Of-St-Martin-In-the-Fields-Amadeus-Original-Soundtr/release/2170959 |website=[[Discogs]] |year=1984 |access-date=September 29, 2016 |archive-date=October 27, 2016 |archive-url=https://web.archive.org/web/20161027154025/https://www.discogs.com/Wolfgang-Amadeus-Mozart-Neville-Marriner-Academy-Of-St-Martin-In-the-Fields-Amadeus-Original-Soundtr/release/2170959 |url-status=live }}</ref> reached No. 1 in the [[Billboard charts|Billboard]] Classical Albums Chart, No. 56 in the Billboard Popular Albums Chart, has sold over 6.5&nbsp;million copies and received thirteen [[Music recording sales certification|gold discs]], making it one of the most popular classical music recordings of all time.<ref>{{cite web| title=Amadeus Soundtrack| url=http://www.asmf.org/recordings/amadeus-soundtrack/| website=Academy of St Martin in the Fields| access-date=September 30, 2016| archive-date=October 1, 2016| archive-url=https://web.archive.org/web/20161001010928/http://www.asmf.org/recordings/amadeus-soundtrack| url-status=live}}</ref> It won the [[Grammy Award]] for [[Grammy Award for Best Classical Album|Best Classical Album]] in [[27th Annual Grammy Awards|1984]].<ref>{{cite web| title=Past Winners: 1984 – 27th Annual Grammy Awards| url=http://www.grammy.com/nominees/search?year=1984| website=GRAMMY.org| access-date=September 29, 2016| archive-date=December 20, 2016| archive-url=https://web.archive.org/web/20161220074557/https://www.grammy.com/nominees/search?year=1984| url-status=live}}</ref>
+* Disc 1
+# Mozart: [[Symphony No. 25 (Mozart)|Symphony No. 25 in G minor, K. 183]], 1st movement
+# [[Giovanni Battista Pergolesi]]: ''[[Stabat Mater (Pergolesi)|Stabat Mater]]:'' "Quando corpus morietur" and "Amen"
+# Early 18th Century Gypsy Music: ''Bubak and Hungaricus''
+# Mozart: [[Serenade No. 10 (Mozart)|Serenade for Winds in B-flat major, K. 361]], 3rd movement
+# Mozart: [[Die Entführung aus dem Serail|''The Abduction from the Seraglio'', K. 384]], Turkish Finale
+# Mozart: [[Symphony No. 29 (Mozart)|Symphony No. 29 in A major, K. 201]], 1st movement
+# Mozart: [[Piano Concerto No. 10 (Mozart)|Concerto for Two Pianos in E-flat major, K. 365]], 3rd movement
+# Mozart: [[Great Mass in C minor, K. 427]], Kyrie
+# Mozart: [[Sinfonia Concertante for Violin, Viola and Orchestra (Mozart)|Sinfonia Concertante in E-flat major, K. 364]], 1st movement
+
+* Disc 2
+# Mozart: [[Piano Concerto No. 22 (Mozart)|Piano Concerto No. 22 in E-flat major, K. 482]], 3rd movement
+# Mozart: [[The Marriage of Figaro|''The Marriage of Figaro'', K. 492]], Act III, "Ecco la Marcia"
+# Mozart: ''The Marriage of Figaro'', K. 492, Act IV, "Ah, tutti contenti"
+# Mozart: [[Don Giovanni|''Don Giovanni'', K. 527]], Act II, Commendatore scene
+# Mozart: [[Zaide|''Zaide'', K. 344]], Aria, "Ruhe sanft"
+# Mozart: [[Requiem (Mozart)|Requiem, K. 626]], Introitus (orchestral introduction)
+# Mozart: Requiem, K. 626, Dies irae
+# Mozart: Requiem, K. 626, Rex tremendae majestatis
+# Mozart: Requiem, K. 626, Confutatis
+# Mozart: Requiem, K. 626, Lacrimosa
+# Mozart: [[Piano Concerto No. 20 (Mozart)|Piano Concerto No. 20 in D minor, K. 466]], 2nd movement
+
+All tracks on the album were performed specifically for the film. According to the film commentary by Forman and Shaffer, Marriner agreed to score the film if Mozart's music was completely unchanged from the original scores. However, this was not strictly observed - the Adagio of the [[Serenade No. 10 (Mozart)|Serenade for Winds in B-flat major, K. 361]], featured in Salieri's famous monologue extolling the divine beauty of Mozart's music, is truncated abruptly in the film performance. In addition, Marriner added some notes to Salieri's music that are noticeable at the beginning of the film, as Salieri begins his confession.
+
+The aria "Ruhe sanft" from the opera ''[[Zaide]]'' does not appear in the film.
+
+===Charts===
+{{col-begin}}
+{{col-2}}
+
+====Weekly charts====
+{| class="wikitable sortable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (1985–2006)
+! scope="col"| Peak<br>position
+|-
+! scope="row"| Australian Albums ([[Kent Music Report]]){{sfn|Kent|1993|p=283}}
+| 10
+|-
+{{album chart|Flanders|97|artist=Soundtrack / Neville Marriner|album=Amadeus|rowheader=true|access-date=February 3, 2022}}
+|-
+{{album chart|Canada|36|chartid=9645|rowheader=true|access-date=February 3, 2022}}
+|-
+{{album chart|Netherlands|10|artist=Soundtrack / Neville Marriner|album=Amadeus|rowheader=true|access-date=February 3, 2022}}
+|-
+! scope="row" | [[European Top 100 Albums|European Albums]] (''[[Music & Media|Eurotipsheet]]'')<ref>{{cite magazine|title=European Top 100 Albums|magazine=[[Music & Media|Eurotipsheet]]|date=May 13, 1985|volume=2|issue=19|page=16|url=https://worldradiohistory.com/UK/Music-and-Media/80s/1985/M%26M-1985-05-13.pdf|access-date=February 3, 2022|via=World Radio History|archive-date=December 28, 2021|archive-url=https://web.archive.org/web/20211228112557/https://worldradiohistory.com/UK/Music-and-Media/80s/1985/M%26M-1985-05-13.pdf|url-status=live}}</ref>
+| 21
+|-
+! scope="row" | Finnish Albums ([[The Official Finnish Charts|Suomen virallinen lista]])<ref>{{cite book|url=https://musiikkiarkisto.fi/oa/_tiedostot/julkaisut/sisaltaa-hitin.pdf#page=290|first=Timo|last=Pennanen|year=2021|title=Sisältää hitin – 2. laitos Levyt ja esittäjät Suomen musiikkilistoilla 1.1.1960–30.6.2021|section=Soundtrackit|page=290|publisher=Kustannusosakeyhtiö Otava|location=Helsinki|language=fi|access-date=July 27, 2023|archive-date=January 22, 2022|archive-url=https://web.archive.org/web/20220122233715/https://musiikkiarkisto.fi/oa/_tiedostot/julkaisut/sisaltaa-hitin.pdf#page=290|url-status=live}}</ref>
+| 30
+|-
+{{album chart|France|42|artist=Soundtrack / Neville Marriner|album=Amadeus|rowheader=true|access-date=February 3, 2022}}
+|-
+{{album chart|New Zealand|9|artist=Soundtrack / Neville Marriner|album=Amadeus|rowheader=true|access-date=February 3, 2022}}
+|-
+{{album chart|Sweden|10|artist=Soundtrack / Neville Marriner|album=Amadeus|rowheader=true|access-date=February 3, 2022}}
+|-
+{{album chart|Switzerland|7|artist=Soundtrack / Neville Marriner|album=Amadeus|rowheader=true|access-date=February 3, 2022}}
+|-
+{{album chart|UK2|64|date=19850505|rowheader=true|access-date=February 3, 2022}}
+|-
+{{album chart|Billboard200|56|artist=Soundtrack|rowheader=true|access-date=February 3, 2022}}
+|}
+{{col-2}}
+
+====Year-end charts====
+{| class="wikitable plainrowheaders" style="text-align:center"
+|-
+! scope="col"| Chart (1985)
+! scope="col"| Position
+|-
+! scope="row"| New Zealand Albums (RMNZ)<ref>{{cite web|url=https://aotearoamusiccharts.co.nz/archive/annual-albums/1985-12-31|title=Top Selling Albums of 1985 — The Official New Zealand Music Chart|publisher=[[Recorded Music New Zealand]]|access-date=February 3, 2022|archive-date=July 4, 2019|archive-url=https://web.archive.org/web/20190704074127/https://nztop40.co.nz/chart/albums?chart=3874|url-status=live}}</ref>
+| 39
+|}
+{{col-end}}
+
+==='' More Music from the Original Soundtrack''===
+In 1985, an additional album with the title ''More Music from the Original Soundtrack of the Film Amadeus'' was issued containing further selections of music that were not included in the original soundtrack release.<ref>{{cite web| title=Sir Neville Marriner, Academy of St. Martin-In-The-Fields – ''Amadeus'' (More Music from the Original Soundtrack of the Film)| url=https://www.discogs.com/Sir-Neville-Marriner-Academy-Of-St-Martin-In-The-Fields-Amadeus-More-Music-From-The-Original-Soundtr/release/1625443| website=Discogs| year=1985| access-date=September 29, 2016| archive-date=October 27, 2016| archive-url=https://web.archive.org/web/20161027025718/https://www.discogs.com/Sir-Neville-Marriner-Academy-Of-St-Martin-In-The-Fields-Amadeus-More-Music-From-The-Original-Soundtr/release/1625443| url-status=live}}</ref>
+# Mozart: [[The Magic Flute|''The Magic Flute'', K. 620]], Overture
+# Mozart: ''The Magic Flute'', K. 620, act 2, [[Queen of the Night aria]]
+# Mozart: [[Maurerische Trauermusik|Masonic Funeral Music, K. 477]]
+# Mozart: [[Piano Concerto No. 20 (Mozart)|Piano Concerto No. 20 in D minor, K. 466]], 1st movement
+# Antonio Salieri: ''[[Axur, re d'Ormus]]'', Finale
+# Mozart: [[Eine kleine Nachtmusik|Eine kleine Nachtmusik (Serenade No. 13 for Strings in G major), K. 525]], 1st movement, arranged for woodwind octet by [[Graham Sheen]]
+# Mozart: [[Concerto for Flute, Harp, and Orchestra (Mozart)|Concerto for Flute and Harp in C major, K. 299]], 2nd movement
+# Mozart: Six German Dances (Nos. 1–3), K. 509
+# [[Giuseppe Giordani]]: "Caro mio ben"
+# Mozart: [[Die Entführung aus dem Serail|''The Abduction from the Seraglio'', K. 384]], Chorus of the Janissaries (Arr.) and [[List of concert arias, songs and canons by Wolfgang Amadeus Mozart#Bass|"Ich möchte wohl der Kaiser sein" ("Ein deutsches Kriegslied"), K. 539]] (Arr.)
+
+The ''[[Maurerische Trauermusik|Masonic Funeral Music]]'' was originally intended to play over the closing credits, but was replaced in the film by the second movement of the [[Piano Concerto No. 20 (Mozart)|Piano Concerto No. 20 in D minor]]<ref>'' More Music from the Original Soundtrack of the Film Amadeus'', album liner notes</ref> (included on the Original Soundtrack Recording).
+
+===Director's Cut soundtrack===
+In 2002, to coincide with the release of the Director's Cut of the film, the soundtrack was remastered with [[24-bit audio|24-bit]] encoding and reissued with the title ''Special Edition: The Director's Cut – Newly Remastered Original Soundtrack Recording'' on two 24-karat gold CDs.<ref>{{cite web| title=Sir Neville Marriner, Academy Of St. Martin-in-the-Fields – Amadeus (Original Soundtrack Recording – Special Edition: The Director's Cut)| url=https://www.discogs.com/Sir-Neville-Marriner-Academy-Of-St-Martin-in-the-Fields-Amadeus-Original-Soundtrack-Recording-Specia/release/7508550| website=Discogs| access-date=September 29, 2016| archive-date=October 27, 2016| archive-url=https://web.archive.org/web/20161027025719/https://www.discogs.com/Sir-Neville-Marriner-Academy-Of-St-Martin-in-the-Fields-Amadeus-Original-Soundtrack-Recording-Specia/release/7508550| url-status=live}}</ref> It contains most of the music from the previous two releases, but with the following differences.
+
+The following pieces were added for this release:
+* Salieri's March of Welcome turned into "[[Non più andrai]]" from ''[[The Marriage of Figaro]]'' (includes dialogue from the film)
+* [[Adagio and Rondo for glass harmonica, flute, oboe, viola and cello|Adagio in C minor for Glass Harmonica, K. 617]] (from a new 2001 recording)
+The following pieces, previously released on ''More Music from the Original Soundtrack of the Film Amadeus'', were not included:
+* [[Maurerische Trauermusik|Masonic Funeral Music, K. 477]]
+* Six German Dances (Nos. 1–3), K. 509
+
+==Legacy==
+A TV series adaptation of the original Shaffer play, called [[Amadeus (TV series)|''Amadeus'']], starring [[Will Sharpe]] and [[Paul Bettany]] was filmed in 2024 and was aired on Sky TV in December of 2025.<ref>{{cite web|url=https://deadline.com/2024/04/paul-bettany-will-sharpe-sky-wolfgang-amadeus-mozart-1235879195/|title=Paul Bettany To Star Opposite Will Sharpe In Sky Limited Series 'Amadeus'|date=April 9, 2024 |publisher=Deadline}}</ref>
+
+The pink wig worn by Mozart is in the permanent exhibition of the Acadian Museum at the University of Moncton. The wig was created by Paul LeBlanc, who won an Oscar for Best Makeup and Hairstyling for this movie in 1985.<ref>{{cite web|url=https://www.umoncton.ca/nouvelles/journaux/3986.pdf|title=A Display of Acadian Perseverance and Evolution|date=August 15, 2015 |publisher=Telegraph Journal}}</ref>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{reflist}}
+
+===Works cited===
+* {{cite book |title=A Study Guide for Wolfgang Amadeus Mozart and Antonio Salieri's "Amadeus" (lit-to-film) |date=2018 |publisher=Gale, Cengage Learning |isbn=978-1-4103-9260-2 |url=https://www.google.com/books/edition/A_Study_Guide_for_Wolfgang_Amadeus_Mozar/nABdDwAAQBAJ?hl=en|ref={{SfnRef|Gale|2018}}}}
+* {{cite book| last=Branagh| first=Kenneth| title=Beginning| year=1990| publisher=Norton| isbn=978-0-393-02862-1| pages=[https://archive.org/details/beginning00bran/page/105 105–109]| location=New York| oclc=20669813| url-access=registration|url=https://archive.org/details/beginning00bran/page/105}}
+* {{cite book |last1=Kent |first1=David |title=Australian Chart Book 1970-1992 |date=1993 |publisher=Australian Chart Book |isbn=978-0-646-11917-5 |url=https://books.google.com/books?id=7--JAAAACAAJ}}
+* {{cite book |last1=Morton |first1=Ray |title=Amadeus: Music on Film Series |date=2011 |publisher=Limelight Editions |isbn=978-0-8791-0417-7 |url=https://books.google.com/books?id=E1uL6eryT1gC&q=%22amadeus%22%20American%20Cinema%20Editors%3A&pg=PT110 |access-date=September 21, 2018 |language=en |archive-date=February 9, 2024 |archive-url=https://web.archive.org/web/20240209233905/https://books.google.com/books?id=E1uL6eryT1gC&q=%22amadeus%22%20American%20Cinema%20Editors%3A&pg=PT110#v=snippet&q=%22amadeus%22%20American%20Cinema%20Editors%3A&f=false |url-status=live}}
+
+==External links==
+{{Wikiquote|Amadeus}}
+* {{IMDb title|0086879|Amadeus}}
+* {{TCMDb title|420318|Amadeus}}
+* {{Rotten-tomatoes|amadeus|Amadeus}}
+* {{mojo title|amadeus|Amadeus}}
+* [http://makuro.mak-sima.com/teksty/amadeus/amadeus.html Analysis of ''Amadeus'' – the play and the film]
+* [https://imsdb.com/scripts/Amadeus.html ''Amadeus'' script]
+*{{AFI film|id=56996|title=Amadeus}}
+
+{{Miloš Forman}}
+{{Wolfgang Amadeus Mozart}}
+{{Antonio Salieri}}
+{{Navboxes
+|title = Awards for ''Amadeus''
+|list =
+{{Academy Award Best Picture}}
+{{César Award for Best Foreign Film}}
+{{David di Donatello Best Foreign Film}}
+{{Golden Globe Award Best Motion Picture Drama}}
+{{Japan Academy Film Prize for Outstanding Foreign Language Film}}
+{{Los Angeles Film Critics Association Award for Best Film}}
+}}
+
+{{Portal bar|Film}}
+{{Authority control}}
+
+[[Category:1984 films]]
+[[Category:1984 English-language films]]
+[[Category:American drama films]]
+[[Category:American films based on plays]]
+[[Category:BAFTA winners (films)]]
+[[Category:Best Drama Picture Golden Globe winners]]
+[[Category:Best Foreign Film César Award winners]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:Films about classical music and musicians]]
+[[Category:Films about composers]]
+[[Category:Films based on plays by Peter Shaffer]]
+[[Category:Films directed by Miloš Forman]]
+[[Category:Films featuring a Best Actor Academy Award–winning performance]]
+[[Category:Films featuring a Best Drama Actor Golden Globe winning performance]]
+[[Category:Films produced by Saul Zaentz]]
+[[Category:Films set in 1774]]
+[[Category:Films set in the 1780s]]
+[[Category:Films set in the 1790s]]
+[[Category:Films set in 1823]]
+[[Category:Films set in Vienna]]
+[[Category:Films shot in Vienna]]
+[[Category:Films that won the Academy Award for Best Makeup]]
+[[Category:Films that won the Best Costume Design Academy Award]]
+[[Category:Films that won the Best Sound Mixing Academy Award]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose director won the Best Director Golden Globe]]
+[[Category:Films whose writer won the Best Adapted Screenplay Academy Award]]
+[[Category:Films about Wolfgang Amadeus Mozart]]
+[[Category:Cultural depictions of Antonio Salieri]]
+[[Category:Cultural depictions of Joseph II, Holy Roman Emperor]]
+[[Category:Films shot in Prague]]
+[[Category:United States National Film Registry films inducted in 2019]]
+[[Category:1984 American films]]
+[[Category:Biographical films about composers]]
+[[Category:Orion Pictures films]]
+[[Category:English-language drama films]]
+[[Category:1984 historical drama films]]

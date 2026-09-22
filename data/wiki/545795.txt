@@ -1,0 +1,466 @@
+{{short description|1983 film by Lawrence Kasdan}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox film
+| name           = The Big Chill
+| image          = Big_chill_ver1.jpg
+| caption        = Theatrical release poster
+| director       = [[Lawrence Kasdan]]
+| producer       = [[Michael Shamberg]]
+| writer         = {{ubl|Lawrence Kasdan|[[Barbara Benedek]]}}
+| starring       = {{Plainlist|
+* [[Tom Berenger]]
+* [[Glenn Close]]
+* [[Jeff Goldblum]]
+* [[William Hurt]]
+* [[Kevin Kline]]
+* [[Mary Kay Place]]
+* [[Meg Tilly]]
+* [[JoBeth Williams]]
+* [[Don Galloway]]
+}}
+| cinematography = [[John Bailey (cinematographer)|John Bailey]]
+| editing        = [[Carol Littleton]]
+| studio         = [[Carson Productions]]
+| distributor    = [[Columbia Pictures]]
+| released       = {{film date|1983|9|28}}
+| runtime        = 105 minutes
+| country        = United States
+| language       = English
+| budget         = $8 million<ref name="AFI Catalog"/>
+| gross          = $56.4 million<ref>{{Mojo title|bigchill}}</ref>
+}}
+'''''The Big Chill''''' is a 1983 American [[comedy drama|comedy-drama film]] directed by [[Lawrence Kasdan]], starring an [[ensemble cast]] consisting of [[Tom Berenger]], [[Glenn Close]], [[Jeff Goldblum]], [[William Hurt]], [[Kevin Kline]], [[Mary Kay Place]], [[Meg Tilly]], and [[JoBeth Williams]]. The plot focuses on a group of [[baby boomer]]s who attended the [[University of Michigan]], reuniting after 12 years when their friend Alex commits suicide. It was filmed in [[Beaufort, South Carolina]].<ref>{{cite news |last=McDermott |first=John |title=South Carolina mansion featured in "Big Chill," "Great Santini" is sold |url=https://www.postandcourier.com/business/south-carolina-mansion-featured-in-big-chill-great-santini-is/article_a0edcc1e-2140-11e7-a55a-837c6fca43e4.html |work=[[The Post and Courier]] |date=October 29, 2017 |access-date=October 29, 2017}} It was also filmed in Hampton County, SC.</ref>
+
+The film was released by [[Columbia Pictures]] on September 28, 1983, was a box office hit by grossing $56.4 million against an $8 million budget and earned mixed to positive reviews, and was the first leading roles for many of the cast who went on to success in other films. The film received numerous honors, including three [[Academy Award]] nominations: [[Academy Award|Best Picture]] ([[Michael Shamberg]], producer), [[Academy Award|Best Original Screenplay]] ([[Lawrence Kasdan]] and [[Barbara Benedek]]), and [[Academy Award|Best Supporting Actress]] ([[Glenn Close]]). Additionally, it would also go on to win the [[Toronto International Film Festival People's Choice Award|People's Choice Award]] at the [[1983 Toronto International Film Festival|8th Toronto International Film Festival]].
+
+The soundtrack features [[soul music|soul]], [[Rhythm and blues|R&B]], and [[pop-rock]] music from the 1960s and 1970s, including tracks by [[Creedence Clearwater Revival]], [[Aretha Franklin]], [[Marvin Gaye]], [[The Temptations]], [[the Rolling Stones]], and [[Three Dog Night]].
+
+''The Big Chill'' was later adapted for television as the short-lived series ''[[Hometown (American TV series)|Hometown]]''. Later, it influenced the television series ''[[Thirtysomething]]'' and ''[[A Million Little Things]]''.<ref name = museum>{{cite news |title=Thirtysomething |first=Susan |last=Emmanuel |url=https://www.museum.tv/archives/etv/T/htmlT/thirtysomethi/thirtysomethi.htm |publisher=[[Museum of Broadcast Communications]] |access-date=May 8, 2008 |archive-date=February 16, 2008 |archive-url=https://web.archive.org/web/20080216230226/http://www.museum.tv/archives/etv/T/htmlT/thirtysomethi/thirtysomethi.htm |url-status=dead }}</ref>
+
+In 2025, it was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically or aesthetically significant."<ref>{{Cite web |last=Tucker |first=Neely |date=2026-01-29 |title=The 2025 National Film Registry: “The Thing,” “Inception,” “Clueless” and More! {{!}} Timeless |url=https://blogs.loc.gov/loc/2026/01/the-2025-national-film-registry-the-thing-inception-clueless-and-more |access-date=2026-01-29 |website=The Library of Congress}}</ref>
+
+==Plot==
+ <!-- Per WP:FILMPLOT, plot summary should be between 400 to 700 words. -->
+{{Image frame|align=right|border=no|caption={{center|{{small|[[Tom Berenger]]<br />[[Glenn Close]]<br />[[Jeff Goldblum]]<br />[[William Hurt]]<br />[[Kevin Kline]]<br />[[JoBeth Williams]]<br />[[Kevin Costner]]}}}}|content= {{stack |
+   {{CSS image crop|Image=Tom Berenger 2019.jpg|bSize=220|cWidth=150|cHeight=150|oTop=15|oLeft=25|Link=[[Tom Berenger]]}}
+   |{{CSS image crop|Image=Glenn Close 2012 2.jpg|bSize=180|cWidth=150|cHeight=150|oTop=8|oLeft=28|Link=[[Glenn Close]]}}
+   |{{CSS image crop|Image=Jeff Goldblum 2010.jpg |bSize=160|cWidth=150|cHeight=150|oTop=15|oLeft=5|Link=[[Jeff Goldblum]]}}
+   |{{CSS image crop|Image=William Hurt in 1981 (The Cincinnati Enquirer).jpg |bSize=150|cWidth=150|cHeight=150|oTop=45|oLeft=0|Link=[[William Hurt]]}}
+   |{{CSS image crop|Image=KevinKline.jpg|bSize=220|cWidth=150|cHeight=150|oTop=15|oLeft=60|Link=[[Kevin Kline]]}}
+   |{{CSS image crop|Image=Jobethwilliams.jpg|bSize=220|cWidth=150|cHeight=150|oTop=60|oLeft=30|Link=[[JoBeth Williams]]}}
+   |{{CSS image crop|Image=Kevin Costner Close Up 1990.jpg|bSize=150|cWidth=150|cHeight=150|oTop=50|oLeft=0|Link=[[Kevin Costner]]}}
+ }}
+}}
+After Alex Marshall's suicide, his fellow [[University of Michigan]] alumni and close friends attend his funeral at the Tidalholm plantation in [[Beaufort, South Carolina]]. During the visit, everyone stays with Sarah and Harold Cooper.
+
+His other friends include Sam Weber, a television actor; Meg Jones, once a [[Public defender (United States)|public defender]] and now a real-estate attorney; Michael Gold, a journalist for [[People (magazine)|''People'' magazine]]; former talk-radio psychologist Nick Carlton, now an impotent [[Vietnam veteran|Vietnam vet]] with a drug addiction; and Karen Bowen, an unfulfilled writer unhappily married to Richard, a conservative advertising executive. Also present is Chloe, Alex's girlfriend of four months who is much younger than Alex and had been living with him in Sarah and Harold's basement.
+
+While out jogging early the next morning, Harold, violating [[U.S. Securities and Exchange Commission|SEC]] rules, tells Nick that a large corporation is about to buy his small company, which will make him rich and triple the value of the stock. He told Alex, making it possible for him to buy property in the area.
+
+Harold suggests Nick use the tip to get into a new line of work. During their conversation, it is revealed that Sarah and Alex had a brief affair five years earlier, which all the friends knew about. Nick comforts Harold by reminding him she did not marry Alex. Harold, Sarah, and Alex moved past it, but Sarah tells Karen her friendship with Alex was harmed by the affair.
+
+Richard goes home the next day, but Karen stays. Harold, Nick, Michael, and Chloe drive out to see the old house that Chloe and Alex were renovating. Meanwhile, Meg tells Sarah she is fed up with failed relationships and intends to have a child on her own. Believing she is ovulating, she plans to ask Sam to be the father of her child. She approaches Nick first, only to discover she's the last to know about his impotency.
+
+Michael, who continually flirts with Chloe, needs investors for a New York nightclub. At dinner, Sarah becomes tearful and wonders if their fervent '60s idealism was "just fashion". Later that night, Meg approaches Sam, but he declines, feeling fatherhood is too great a responsibility as he already has an estranged child. Nick shares his drugs, with varying effects.
+
+The next day, Harold, a running shoe entrepreneur, gives everyone a pair. Nick goes to the old house and sits on the porch for hours, missing the [[Michigan Wolverines football|Michigan football]] game. Michael offers to sire Meg's child, alluding to their one-time college encounter.
+
+During a halftime game of touch football, a local police officer escorts a sullen Nick back to the house after he runs a red light and becomes belligerent. Recognizing Sam, the officer offers to drop charges if he will hop into Nick's [[Porsche 911]] the way his J. T. Lancer character does on TV. He tries but fails, injuring himself slightly. Nick angers Harold by accusing him of being friendly with cops. Harold chastises Nick, reminding him that this is his home and Nick's recklessness could put his reputation in danger.
+
+Karen tells a surprised Sam that she is in love with him and wants to leave Richard. He tells her his first marriage failed because of boredom and he does not want her to make the same mistake. Feeling led on, Karen angrily stomps off.
+
+Meg tells Sarah that Michael is the wrong choice. Sarah observes the warm phone conversation between her young daughter and Meg. Later, the group, confused over Alex's death, regrets losing touch with him. To everyone but Sam, it seems that Alex withdrew deliberately. Nick is particularly cynical and bitter about life, love, and friendship.
+
+Karen follows Sam outside to mollify him, and they have sex. Sarah pulls Harold aside, embracing him, telling him she has a favor to ask: "It's about Meg..." Meg goes to him and they make love, tenderly. Chloe asks Nick to spend the night in the room she shared with Alex.
+
+The next morning, Harold announces that Nick and Chloe will stay on to renovate the old house. Karen packs to return home to Richard. Michael ditches his nightclub plans. Nick shows everyone an old column that Michael wrote about Alex declining a prestigious fellowship. As the friends prepare to depart, Michael jokingly tells the Coopers they have taken a secret vote: They are never leaving.
+
+==Cast==
+<!--- Main & Notable Cast only, as per [[MOS:FILMCAST]] & [[WP:NOTDATABASE]] ordered first by Opening then Closing [[Motion picture credits]]. Do NOT list "Uncredited" cast without an RS cite ref. "All [Role] names should be referred to as Credited, OR by common name supported by a Reliable Source" as per [[WP:FILMOGRAPHY]].
+--->
+{{Cast listing|
+<!-- Opening credits in order: "Starring" -->
+* [[Tom Berenger]] as Sam Weber, a television actor who Meg asks to father her child, but feels fatherhood is too great a responsibility as he already has an estranged child.
+* [[Glenn Close]] as Sarah Cooper, who had a brief affair with Alex five years earlier, primarily out of compassion; Sarah now helps friend Meg's goal to single motherhood by facilitating her impregnation by Harold.
+* [[Jeff Goldblum]] as Michael Gold, a ''People'' journalist seeking investors for a New York nightclub. During the college years Michael had a brief encounter with Meg that led to an abortion.
+* [[William Hurt]] as Nick Carlton, a former talk-radio psychologist, now an impotent Vietnam vet and drug dealer. Nick and Karen dated steadily during their college years, but Karen remains aloof, busy flirting with Sam.
+* [[Kevin Kline]] as Harold Cooper, Sarah's husband and owner of a small running shoe company being purchased by a large corporation, who hosts the friends after the funeral. Harold tries to help Nick find a new line of work, as he tried to help Alex.
+* [[Mary Kay Place]] as Meg Jones, a real estate attorney, and former public defender. Feeling her biological clock ticking away, she is determined to become a single mother.
+* [[Meg Tilly]] as Chloe, Alex's much younger girlfriend of four months who lived with him in Sarah and Harold's basement.
+* [[JoBeth Williams]] as Karen Bowens, an unfulfilled writer unhappily married to Richard, a conservative advertising executive. She harbors long-smoldering feelings for Sam that he encourages noncommittally.
+<!-- "Co-starring" -->
+* [[Don Galloway]] as Richard Bowens, Karen's conservative advertising executive husband.
+<!-- End of Opening Screen credits -->
+}}
+Also, [[Kevin Costner]] was cast as Alex Marshall, whose fellow University of Michigan alumni and close friends attend his funeral after his suicide, but his scenes were cut.<ref name="TCSgm" />
+
+==Production==
+According to a Newsday article, Lawrence Kasdan and Barbara Benedek began writing ''The Big Chill'' in September 1980, five months after the release of ''[[Return of the Secaucus 7]]''<ref name="AFI Catalog">{{cite web | url=https://catalog.afi.com/Catalog/moviedetails/57852 | title=The Big Chill |website=Catalog.afi.com}}</ref> They wrote the screenplay as a semi-autobiographical story inspired by their optimistic political activism while attending college in the 1960s and then their disillusionment with society in the 1970s. While attending the University of Michigan, Kasdan lived at the [[Eugene V. Debs Cooperative House]] in the late 1960s, and his experiences at the co-op informed the direction of the screenplay. Many of the characters were based on his housemates, and the ways in which they cook communal meals and share their house echo the culture of Ann Arbor cooperatives.{{citation needed|date=March 2023}} Kasdan and Benedek worked on the screenplay as Kasdan was directing ''[[Body Heat]].'' While the other characters in the film weren't written with any specific actors in mind, Kasdan wrote the role of "Nick" for ''Body Heat''{{'}}s star, William Hurt, who gave Kasdan a commitment to do ''The Big Chill''.<ref name="AFI Catalog"/>
+
+Kasdan first pitched the story to [[The Ladd Company]] but was rejected. Richard Fischoff unsuccessfully tried to convince [[Paramount Pictures]] to film the screenplay after reading it in the summer of 1982. When this failed he turned the screenplay to [[Marcia Nasatir]], who had recently departed her executive positions at [[United Artists]] and [[Orion Pictures]] to cofound [[Carson Productions]] with [[Johnny Carson]]. Fischoff convinced Nasatir to finance the film as the studio's first production, and took over as supervising producer after she left the studio to work at [[20th Century Fox]].<ref name="AFI Catalog"/>
+
+Production on the film began on November 8, 1982, in [[Atlanta]]. Filming primarily took place at the Edgar Fripp House (called "Tidalholm") in downtown Beaufort, South Carolina, where the film was set.<ref name="AFI Catalog"/>
+
+Kasdan's wife Meg was placed in charge of compiling period-appropriate songs for the soundtrack. She heard "[[I Heard It Through the Grapevine]]" for the first time in many years while picking her son up at camp, listening to a [[Marvin Gaye]] cassette, and was struck by how the song with no dialogue would make a perfect start to the film.<ref name=15anivCDno>{{Cite AV media notes |title=The Big Chill 15th Anniversary: Original Motion Picture Soundtrack |last1=Kasdan |first1=Lawrence |last2=Kasdan |first2=Meg |author-link=Lawrence Kasdan |date=1998 |page=2 |publisher=[[Motown]]}}</ref>
+
+It was decided before filming that "[[Ain't Too Proud to Beg]]" by [[The Temptations]] would be used for the cleanup after dinner scene, so the cast were given headphones so that they could hear the song during filming, making it easier for them to keep the beat.<ref name=15anivCDno/>
+
+JoBeth Williams recalled filming a scene flashing back to the characters in 1968. "It was just wonderful to shoot", she said. "They rented this big house in Atlanta and installed beaded curtains, rock posters, incense, 1968 ''Life'' magazines—it was a real time warp." Williams says that, in the scene, her character was living with William Hurt's character and ignoring Tom Berenger's. The Alex character, played by [[Kevin Costner]] "looking like a scruffy [[James Dean]]", was also in the scene. "That turned out to be the problem... Nobody could live up to that role after the build-up through the film, and audiences said they didn't want to see anybody try. So the last 10 minutes of the film were just cut out."<ref name="TCSgm">"Thrills, chills & spills", Godfrey, Stephen, ''The Globe and Mail'', October 20, 1984: E.1.</ref> Filming concluded on February 7, 1983.<ref name="AFI Catalog"/>
+
+Consequently, Costner only appears as the body of Alex in the coffin during the opening title sequence.<ref>{{Cite web|url=https://www.britannica.com/question/Why-was-Kevin-Costners-character-cut-from-The-Big-Chill|title=Why was Kevin Costner’s character cut from The Big Chill?|website=Britannica.com|access-date=July 2, 2026}}</ref> According to Kasdan, it was his decision to axe the scenes which were to appear at the end of the film as a flashback. "It didn't work," he said in an interview with the Toronto ''Star''. "I felt so bad about it."<ref>{{cite web | url=https://www.thestar.com/entertainment/movies/tiff-the-big-chill-cast-reunites/article_aa3c7303-4de3-51df-a916-a3a849f66d37.html | title=TIFF: The Big Chill cast reunites | website=[[Toronto Star]] | date=September 6, 2013 }}</ref> Costner was given a role in Kasdan's next film, the 1985 western ''[[Silverado (film)|Silverado]]'', as Jake, the younger brother of Emmett, played by [[Scott Glenn]], alongside fellow ''Big Chill'' cast member Kevin Kline, who played Paden.
+
+==Reception==
+===Critical response===
+On ''[[Rotten Tomatoes]]'', the film has an approval rating of 70% based on reviews from 43 critics. The site's critical consensus reads "''The Big Chill'' captures a generation's growing ennui with a terrific cast, a handful of perceptive insights, and one of the decade's best film soundtracks."<ref>{{cite web |title=The Big Chill (1983) |url=https://www.rottentomatoes.com/m/big_chill |website=[[Rotten Tomatoes]] |df=mdy-all |access-date=2026-03-22}}</ref> On [[Metacritic]], the film has a weighted average score of 61 out of 100 based on reviews from 12 critics, indicating "generally favorable reviews".<ref>{{cite web |title=The Big Chill |url=https://www.metacritic.com/movie/the-big-chill |website=[[Metacritic]] |df=mdy-all |access-date=2020-02-02}}</ref>
+
+At the time, Richard Corliss of ''[[Time (magazine)|Time]]'' described ''The Big Chill'' as a "funny and ferociously smart movie", stating:
+
+{{blockquote|These Americans are in their 30s today, but back then they were the Now Generation. Right Now: give me peace, give me justice, gimme good lovin'. For them, in the voluptuous bloom of youth, the '60s was a banner you could carry aloft or wrap yourself inside. A verdant anarchy of politics, sex, drugs, and style carpeted the landscape. And each impulse was scored to the rollick of the new music: folk, rock, pop, R&B. The armies of the night marched to Washington, but they boogied to Liverpool and Motown. Now, in 1983, Harold & Sarah & Sam & Karen & Michael & Meg & Nick—classmates all from the University of Michigan at the end of our last interesting decade—have come to the funeral of a friend who has slashed his wrists. Alex was a charismatic prodigy of science and friendship and progressive hell raising who opted out of academe to try social work, then manual labor, then suicide. He is presented as a victim of terminal decompression from the orbital flight of his college years: a worst-case scenario his friends must ponder, probing themselves for symptoms of the disease.<ref>{{cite magazine |first=Richard |last=Corliss |title=Cinema: You Get What You Need |magazine=[[Time (magazine)|Time]] |url=https://time.com/time/printout/0,8816,926203,00.html |archive-url=https://archive.today/20130204084646/http://www.time.com/time/printout/0,8816,926203,00.html |url-status=dead |archive-date=February 4, 2013 |date=September 12, 1983 |access-date=May 8, 2008}}</ref>}}
+
+Vincent Canby of ''[[The New York Times]]'' wrote that the film was a "very accomplished, serious comedy" and an "unusually good choice to open this year's [New York Film Festival] in that it represents the best of mainstream American film making."<ref>{{cite web |first=Vincent |last=Canby |title=The Big Chill (1983) |work=[[The New York Times]] |url=https://www.nytimes.com/movie/review?res=9507EEDD1E38F930A1575AC0A965948260 |date=September 23, 1983 |access-date=November 11, 2015}}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film two and a half stars out of four,  observing "''The Big Chill'' is a splendid technical exercise. It has all the right moves. It knows all the right words. Its characters have all the right clothes, expressions, fears, lusts, and ambitions. But there's no payoff and it doesn't lead anywhere. I thought at first that was a weakness of the movie. There also is the possibility that it's the movie's message."<ref>{{cite web |first=Roger |last=Ebert |author-link=Roger Ebert |title=The Big Chill |url=https://www.rogerebert.com/reviews/the-big-chill-1983 |work=Rogerebert.com |publisher=Ebert Digital LLC |date=September 30, 1983 |access-date=October 29, 2017}}</ref>
+
+The film was parodied by [[T. C. Boyle]] in his short story ''The Little Chill''. The story begins "Hal had known Rob and Irene, Jill, Harvey, Tottle, and Pesky since elementary school, and they were all 40 going on 60."<ref>Boyle, T. Coraghessan (1989) "The Little Chill", in ''If the River Was Whiskey''. New York: Viking.</ref>
+
+==Accolades==
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| rowspan="3"| [[56th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Michael Shamberg]]
+| {{nom}}
+| rowspan="3" align="center"| <ref name="Oscars1984">{{Cite web |url=https://www.oscars.org/oscars/ceremonies/1984 |title=The 56th Academy Awards (1984) Nominees and Winners |access-date=2011-10-09 |work=oscars.org |archive-date=November 2, 2017 |archive-url=https://web.archive.org/web/20171102051926/https://www.oscars.org/oscars/ceremonies/1984 |url-status=live }}</ref>
+|-
+| [[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Glenn Close]]
+| {{nom}}
+|-
+| [[Academy Award for Best Original Screenplay|Best Screenplay – Written Directly for the Screen]]
+| rowspan="2"| [[Lawrence Kasdan]] and [[Barbara Benedek]]
+| {{nom}}
+|-
+| [[38th British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Original Screenplay|Best Original Screenplay]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://awards.bafta.org/award/1985/film |title=BAFTA Awards: Film in 1985 |website=[[BAFTA]] |year=1985 |access-date=June 3, 2021 |ref={{harvid|BAFTA|1985}}}}</ref>
+|-
+| [[36th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Lawrence Kasdan
+| {{nom}}
+| align="center"| <ref>{{cite web|url=https://www.dga.org/Awards/History/1980s/1983.aspx?value=1983 |title=36th DGA Awards |website=[[Directors Guild of America Awards]] |access-date=July 5, 2021}}</ref>
+|-
+| rowspan="2"| [[41st Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]]
+| {{nom}}
+| rowspan="2" align="center"| <ref>{{cite web|url=https://www.goldenglobes.com/film/big-chill |title=The Big Chill – Golden Globes |website=[[HFPA]] |access-date=July 5, 2021 |ref={{harvid|HFPA|1984}}}}</ref>
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay – Motion Picture]]
+| rowspan="2"| Lawrence Kasdan and Barbara Benedek
+| {{nom}}
+|-
+| [[1983 Los Angeles Film Critics Association Awards|Los Angeles Film Critics Association Awards]]
+| [[Los Angeles Film Critics Association Award for Best Screenplay|Best Screenplay]]
+| {{Runner-up}}
+| align="center"| <ref>{{cite web |url=http://www.lafca.net/Years/1983.php |title=The Annual 9th Los Angeles Film Critics Association Awards |website=[[Los Angeles Film Critics Association]] |access-date=24 August 2021}}</ref>
+|-
+| [[National Board of Review Awards 1983|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{draw|8th Place}}
+| align="center"| <ref>{{cite web|url=https://nationalboardofreview.org/award-years/1983/ |title=1983 Award Winners |website=[[National Board of Review]] |access-date=July 5, 2021}}</ref>
+|-
+| [[National Film Preservation Board]]
+| [[National Film Preservation Board|National Film Registry]]
+|
+| {{honored}}
+|-
+| [[1983 Toronto International Film Festival|Toronto International Film Festival]]
+| [[Toronto International Film Festival People's Choice Award|People's Choice Award]]
+| Lawrence Kasdan
+| {{won}}
+| align="center"| <ref name=jayscott>[[Jay Scott]], "Comedy, tragedy and a little sex: Rarely seen films may be real stars of Toronto festival". ''[[The Globe and Mail]]'', September 9, 1983.</ref>
+|-
+| [[36th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Original Screenplay|Best Comedy – Written Directly for the Screen]]
+| Lawrence Kasdan and Barbara Benedek
+| {{won}}
+| align="center"| <ref>{{cite web|url=https://www.wga.org/awards/awardssub.aspx?id=1551|title=Awards Winners|work=wga.org|publisher=Writers Guild of America|archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551|archive-date=2012-12-05|access-date=2010-06-06}}</ref>
+|}
+
+In 2004, "[[Ain't Too Proud to Beg]]" finished #94 in [[AFI's 100 Years...100 Songs]] poll.
+
+==Soundtracks==
+Ten of the songs from the film were released on the soundtrack album; four additional songs not from the film were added to the original CD release as "additional classics from the era". The rest of the film's songs (aside from the [[Rolling Stones]]' "[[You Can't Always Get What You Want]]"), as well as the "additional classics" from the original soundtrack CD were released in 1984 on a second soundtrack album, titled ''More Songs from the Big Chill''. Both albums were re-mastered in 1998; the track list of the first album mirrored the original LP, without the "additional classics". In 2004, [[Hip-O Records]] released a Deluxe edition, containing 16 of the 18 songs from the film (again excluding "You Can't Always Get What You Want" and newly omitting "Quicksilver Girl" by the [[Steve Miller Band]]) and three additional film instrumentals. A second "music of a generation" disc of 19 additional tracks was included as well. Some of those tracks had appeared on the ''More Songs'' release.
+
+===Original Motion Picture Soundtrack===
+{{Infobox album
+| name       = The Big Chill
+| type       = soundtrack
+| longtype   = from the film ''The Big Chill''
+| artist     = Various Artists
+| cover      = 
+| alt        = 
+| released   = September 1983
+| recorded   = 1962–1971
+| venue      = 
+| studio     = 
+| genre      = [[Rhythm and blues|R&B]]/[[Soul music|Soul]]
+| length     = 43:38
+| label      = [[Motown Records]]
+| producer   = 
+| chronology = '''''The Big Chill''''' Soundtrack Albums
+| prev_title = 
+| prev_year  = 
+| next_title = 
+| next_year  = 
+}}
+{{Music ratings
+| rev1      = [[Allmusic]]
+| rev1Score = {{Rating|5|5}} [{{AllMusic|class=album|id=r120216|pure_url=yes}} link]
+}}
+
+{{Track listing
+| extra_column  = Artist
+
+| title1        = [[I Heard It Through the Grapevine]]
+| note1         = extended version
+| writer1       = [[Norman Whitfield]], [[Barrett Strong]]
+| extra1        = [[Marvin Gaye]] (1968)
+| length1       = 5:03
+
+| title2        = [[My Girl (The Temptations song)|My Girl]]
+| writer2       = [[Smokey Robinson]], [[Ronnie White|Ronald White]]
+| extra2        = [[The Temptations]] (1965)
+| length2       = 2:55
+
+| title3        = [[Good Lovin' (The Young Rascals song)|Good Lovin{{'-}}]]
+| writer3       = [[Rudy Clark]], [[Arthur Resnick]]
+| extra3        = [[The Young Rascals]] (1966)
+| length3       = 2:28
+
+| title4        = [[The Tracks of My Tears]]
+| writer4       = Robinson, [[Warren Moore]], [[Marvin Tarplin]]
+| extra4        = [[The Miracles]] (1965)
+| length4       = 2:53
+
+| title5        = [[Joy to the World (Three Dog Night song)|Joy to the World]]
+| writer5       = [[Hoyt Axton]]
+| extra5        = [[Three Dog Night]] (1970)
+| length5       = 3:24
+
+| title6        = [[Ain't Too Proud to Beg]]
+| writer6       = Whitfield, [[Edward Holland, Jr.]]
+| extra6        = The Temptations (1966)
+| length6       = 2:31
+
+| title7        = [[(You Make Me Feel Like) A Natural Woman]]
+| writer7       = [[Gerry Goffin]], [[Carole King]], [[Jerry Wexler]]
+| extra7        = [[Aretha Franklin]] (1968)
+| length7       = 2:41
+
+| title8        = [[I Second That Emotion]]
+| writer8       = Robinson, [[Al Cleveland]]
+| extra8        = Smokey Robinson and The Miracles (1967)
+| length8       = 2:46
+
+| title9        = [[A Whiter Shade of Pale]]
+| writer9       = [[Keith Reid]], [[Gary Brooker]], [[Matthew Fisher (musician)|Matthew Fisher]]
+| extra9        = [[Procol Harum]] (1967)
+| length9       = 4:03
+
+| title10       = [[Tell Him (Bert Berns song)|Tell Him]]
+| writer10      = [[Bert Berns]]
+| extra10       = [[The Exciters]] (1962)
+| length10      = 2:29
+}}
+
+{{Track listing
+| headline      = "Additional Classics From The Era" on original CD release
+| extra_column  = Artist
+
+| title11       = [[It's the Same Old Song]]
+| writer11      = E. Holland, [[Lamont Dozier]], [[Brian Holland]]
+| extra11       = [[The Four Tops]] (1965)
+| length11      = 2:45
+
+| title12       = [[Dancing in the Street]]
+| writer12      = [[Marvin Gaye]], [[William "Mickey" Stevenson]]
+| extra12       = [[Martha and The Vandellas]] (1964)
+| length12      = 2:38
+
+| title13       = [[What's Going On (song)|What's Going On]]
+| writer13      = Gaye, Cleveland, [[Renaldo "Obie" Benson]]
+| extra13       = Marvin Gaye (1971)
+| length13      = 3:52
+
+| title14       = [[Too Many Fish in the Sea]]
+| writer14      = Whitfield, E. Holland
+| extra14       = [[The Marvelettes]] (1964)
+| length14      = 2:26
+}}
+
+====Charts====
+{|class="wikitable 
+|-
+!scope="col"| Chart (1983/84)
+!Peak<br />position
+|-
+|Australia ([[Kent Music Report]])<ref name="aus">{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6}}</ref>{{rp|283}}
+| style="text-align:center;"| 5
+|-
+|United States ([[Billboard 200]])
+| style="text-align:center;"| 17
+|-
+! scope="col"| Chart (1988)
+! scope="col"| Peak<br />position
+|-
+| scope="row"{{album chart|Australia|34|album=The Big Chill|artist=soundtrack|access-date=October 8, 2020|refname="AUS chart"}}
+|}
+
+====Certifications====
+{| class="wikitable"
+!align="left"|Organization
+!align="left"|Level
+!align="left"|Date
+|-
+|align="left"|RIAA – USA
+|align="left"|Gold
+|align="left"|December 12, 1983
+|-
+|align="left"|RIAA – USA
+|align="left"|Platinum
+|align="left"|March 29, 1984
+|-
+|align="left"|RIAA – USA
+|align="left"|Double Platinum
+|align="left"|September 27, 1985
+|-
+|align="left"|RIAA – USA
+|align="left"|4× Platinum
+|align="left"|July 20, 1998
+|-
+|align="left"|RIAA – USA
+|align="left"|6× Platinum
+|align="left"|October 15, 1998
+|-
+|}
+
+===''More Songs from the Big Chill''===
+{{Track listing
+| headline      = More songs from the original soundtrack
+| extra_column  = Artist
+
+| title1        = [[Bad Moon Rising]]
+| writer1       = [[John Fogerty]]
+| extra1        = [[Creedence Clearwater Revival]]
+| length1       = 2:19
+
+| title2        = [[Wouldn't It Be Nice]]
+| writer2       = [[Brian Wilson]], [[Tony Asher]]
+| extra2        = [[The Beach Boys]]
+| length2       = 2:21
+
+| title3        = [[It's the Same Old Song]]
+| writer3       = [[Edward Holland, Jr]], [[Lamont Dozier]], [[Brian Holland]]
+| extra3        = [[The Four Tops]]*
+| length3       = 2:44
+
+| title4        = [[When a Man Loves a Woman (song)|When a Man Loves a Woman]]
+| writer4       = Andrew Wright, Calvin Lewis
+| extra4        = [[Percy Sledge]]
+| length4       = 2:55
+
+| title5        = [[Dancing in the Street]]
+| writer5       = [[Marvin Gaye]], [[William "Mickey" Stevenson]], [[Ivy Jo Hunter]]
+| extra5        = [[Martha Reeves & the Vandellas]]*
+| length5       = 2:37
+
+| title6        = [[What's Going On (Marvin Gaye song)|What's Going On]]
+| writer6       = [[Marvin Gaye]], [[Al Cleveland]], [[Renaldo Benson]]
+| extra6        = [[Marvin Gaye]]*
+| length6       = 3:51
+
+| title7        = [[In the Midnight Hour]]
+| writer7       = [[Wilson Pickett]], [[Steve Cropper]]
+| extra7        = [[The Rascals]]
+| length7       = 3:59
+
+| title8        = [[Quicksilver Girl]]
+| writer8       = [[Steve Miller (musician)|Steve Miller]]
+| extra8        = [[The Steve Miller Band]]
+| length8       = 2:42
+
+| title9        = [[Gimme Some Lovin'|Gimme Some Lovin{{'-}}]]
+| writer9       = [[Steve Winwood]], [[Muff Winwood]], [[Spencer Davis]]
+| extra9        = [[The Spencer Davis Group]]
+| length9       = 2:55
+
+| title10       = [[Too Many Fish in the Sea]]
+| writer10      = [[Norman Whitfield]], Edward Holland, Jr.
+| extra10       = [[The Marvelettes]]*
+| length10      = 2:26
+
+| title11       = [[The Weight]]
+| writer11      = [[Robbie Robertson]]
+| extra11       = [[The Band]]
+| length11      = 4:33
+}}
+<nowiki>*</nowiki>Selections not in the motion picture ''The Big Chill''.
+
+====Charts====
+{|class="wikitable 
+|-
+!scope="col"| Chart (1987)
+!Peak<br />position
+|-
+|Australia ([[Kent Music Report]])<ref name="aus" />{{rp|284}}
+| style="text-align:center;"| 25
+|}
+
+==See also==
+{{portal|Film}}
+* [[List of American films of 1983]]
+* ''[[Return of the Secaucus 7]]''
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{IMDb title|0085244}}
+* {{rotten-tomatoes|big_chill}}
+* [https://www.criterion.com/current/posts/3256-the-big-chill-surviving ''The Big Chill: Surviving''] an essay by [[Harlan Jacobson]] at the [[Criterion Collection]]
+
+{{Lawrence Kasdan}}
+{{TIFF People's Choice Award}}
+
+{{DEFAULTSORT:Big Chill (film), The}}
+[[Category:1983 American films]]
+[[Category:1983 English-language films]]
+[[Category:1983 films]]
+[[Category:1983 comedy-drama films]]
+[[Category:American comedy-drama films]]
+[[Category:Carson Productions films]]
+[[Category:Columbia Pictures films]]
+[[Category:English-language comedy-drama films]]
+[[Category:Films about class reunions]]
+[[Category:Films about funerals]]
+[[Category:Films about suicide]]
+[[Category:Films directed by Lawrence Kasdan]]
+[[Category:Films produced by Michael Shamberg]]
+[[Category:Films set in country houses]]
+[[Category:Films set in South Carolina]]
+[[Category:Films shot in Atlanta]]
+[[Category:Films shot in South Carolina]]
+[[Category:Films with screenplays by Lawrence Kasdan]]
+[[Category:Midlife crisis films]]
+[[Category:Toronto International Film Festival People's Choice Award winners]]
+[[Category:United States National Film Registry films inducted in 2025]]

@@ -1,0 +1,49 @@
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name           = Bending the Arc
+| image          = File:BendingtheArc SFfilmfestival.jpg
+| alt            = 
+| caption        = Dr. Jim Kim, a Partners in Health patient, Pedro Kos, and Cori Shepherd Stern discuss the film at the SF Film Festival on April 14, 2017
+| director       = [[Kief Davidson]], [[Pedro Kos]]
+| producer       = Cori Shepherd Stern, Executive producers: [[Matt Damon]] and [[Ben Affleck]]
+| writer         = Cori Shepherd Stern 
+| starring       = [[Jim Yong Kim]], [[Paul Farmer]], [[Ophelia Dahl]], [[Agnes Binagwaho]]
+| music          = 
+| cinematography = David Murdock, [[Guy Mossman]], Joshua Dreyfus 
+| editing        = Pedro Kos, Yuki Aizawa 
+| studio         = [[Impact Partners]]
+| distributor    = 
+| released       = {{Film date|2017|01|23|Sundance}}
+| runtime        = 102 minutes
+| country        = United States
+| language       = English
+| budget         = 
+}}
+'''''Bending the Arc''''' is a 2017 [[documentary film]]. It tells the story of [[Partners in Health]] and doctors and humanitarians, [[Jim Yong Kim]], [[Ophelia Dahl]], and [[Paul Farmer]], who are devoted to innovative health care in impoverished nations. Directors [[Kief Davidson]] and [[Pedro Kos]] follow their ongoing struggle to treat and eradicate [[tuberculosis]] and [[HIV/AIDS]] in rural areas of [[Haiti]], [[Peru]], and [[Rwanda]].<ref name=":0">{{Cite web|url=http://www.sundance.org/projects/bending-the-arc|title=bending-the-arc|website=www.sundance.org|access-date=2017-04-15|archive-date=2021-01-26|archive-url=https://web.archive.org/web/20210126065600/https://www.sundance.org/projects/bending-the-arc|url-status=dead}}</ref>
+
+==Synopsis==
+[[Paul Farmer]] and [[Jim Yong Kim]] met at [[Harvard Medical School]] in the 1980s and were both drawn to medicine by a shared desire for social justice.<ref>{{Cite journal|last=Burki|first=Talha Khan|date=2017-04-01|title=Bending the Arc|url=http://thelancet.com/pdfs/journals/lanres/PIIS2213-2600(17)30088-7.pdf|journal=The Lancet Respiratory Medicine|language=English|volume=5|issue=4|pages=258|doi=10.1016/S2213-2600(17)30088-7|issn=2213-2600|doi-access=free}}</ref> Along with activist [[Ophelia Dahl]], they decided to try and make quality healthcare available to those in poor countries. They raised funding and opened a clinic in rural Haiti, but realized they needed to incorporate more community work to realize their goals. Through dramatically increased cultural sensitivity, pointed listening skills, local partnerships, and home visits, treatment drastically improved, leading to [[Partners In Health]].<ref name=":0" /><ref>{{Cite web|url=https://www.impactpartnersfilm.com/films/bending-arc|title=BENDING THE ARC {{!}} Impact Partners Film|website=www.impactpartnersfilm.com|access-date=2017-04-15}}</ref> The film follows their story from their beginnings in Haiti, to treating [[multi-drug-resistant tuberculosis]] in Peru, and advocating for and implementing antiretroviral HIV therapy in Rwanda alongside [[Agnes Binagwaho|Dr. Agnes Binagwaho]].
+
+==Production==
+The directors of ''Bending the Arc'', Kief Davidson and [[Pedro Kos]], primarily use a traditional documentary format, mixing earlier video footage and current interviews to tell the story of how Jim Kim, Ophelia Dahl, and Paul Farmer developed [[Partners in Health]].  Where they deviate a bit is in showing older footage to their protagonists, in order to elicit their present-day reactions.
+
+==Release==
+The film has been screened at [[Sundance Film Festival]],<ref name=":0" /> [[Miami International Film Festival]],<ref>{{Cite news|url=http://2017.miamifilmfestival.com/events/bending-the-arc-2/|title=Bending the Arc - Miami Film Festival 2017|work=Miami Film Festival 2017|access-date=2017-04-15|language=en-US}}</ref> and the [[San Francisco Film Festival]].<ref>{{Cite news|url=http://www.sffilm.org/festival/lineup/bending-the-arc?view=archive&control=x10#.WPGgsY5JndQ|title=Bending the Arc|work=San Francisco Film Society|access-date=2017-04-15}}</ref>
+
+At the [[Greenwich International Film Festival]] in 2017, it won Best Documentary Feature Film.<ref>[https://www.greenwichsentinel.com/2017/06/09/giff-makes-an-impact-especially-with-women/ GIFF Makes an Impact, Especially With Women]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://bendingthearcfilm.com/ Official website]
+* {{IMDb title|6370266}}
+
+[[Category:American documentary films]]
+[[Category:Partners in Health]]
+[[Category:2017 films]]
+[[Category:2017 English-language films]]
+[[Category:2017 American films]]
+[[Category:English-language documentary films]]
+[[Category:Impact Partners films]]

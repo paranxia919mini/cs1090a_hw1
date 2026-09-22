@@ -1,0 +1,468 @@
+{{Short description|1963 James Bond film by Terence Young}}
+{{good article}}
+{{Use British English|date=March 2016}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox film
+| name           = From Russia with Love
+| image          = From Russia with Love – UK cinema poster.jpg
+| caption        = British theatrical release poster<br/>by [[Renato Fratini]] and [[Eric Pulford]]
+| alt            = The upper centre of the poster reads "Meet James Bond, secret agent 007. His new incredible women&nbsp;... His new incredible enemies&nbsp;... His new incredible adventures&nbsp;..." To the right is Bond holding a gun, to the left a montage of women, fights, and an explosion. On the bottom of the poster are the credits.
+| starring       = {{plainlist|
+* [[Sean Connery]]
+* [[Pedro Armendáriz]] 
+* [[Lotte Lenya]]
+* [[Robert Shaw]]
+* [[Bernard Lee]]
+* [[Daniela Bianchi]]
+}}
+| screenplay     = [[Richard Maibaum]] {{Infobox|decat=yes|child=yes|label1=Adaptation by|data1={{Ubl|[[Johanna Harwood]]}}}}
+| based_on       = {{Based on|''[[From Russia, with Love (novel)|From Russia, with Love]]''<br>(1957 novel)|[[Ian Fleming]]}}
+| cinematography = [[Ted Moore]]
+| director       = [[Terence Young (director)|Terence Young]]
+| producer       = [[Harry Saltzman]]<br />[[Albert R. Broccoli]]
+| music          = [[John Barry (composer)|John Barry]]
+| editing        = [[Peter R. Hunt]]
+| studio         = [[Eon Productions]]
+| distributor    = [[United Artists]]
+| released       = {{Film date|df=yes|1963|10|10|London, premiere|1963|10|11|UK|1964|5|27|US}}
+| runtime        = 115 minutes
+| country        = United Kingdom<ref>{{cite web |title=From Russia with Love |website=[[Lumiere (database)|Lumiere]] |publisher=[[European Audiovisual Observatory]] |url=http://lumiere.obs.coe.int/web/film_info/?id=13612 |access-date=9 October 2020}}</ref><br/>United States<ref name="aficatalog">[https://catalog.afi.com/Film/22487-FROM-RUSSIAWITHLOVE From Russia with Love, AFI Catalog] [[American Film Institute]]. Retrieved April 14, 2022.</ref>
+| language       = English
+| budget         = $2 million
+| gross          = $79 million
+}}
+'''''From Russia with Love''''' is a 1963 [[spy film]] directed by [[Terence Young (director)|Terence Young]] and the second in the [[List of James Bond films|''James Bond'' series]]. It was produced by [[Eon Productions]], starring [[Sean Connery]] as the fictional [[Secret Intelligence Service|MI6]] agent [[James Bond filmography|James Bond]].
+
+The picture was produced by [[Albert R. Broccoli]] and [[Harry Saltzman]], and written by [[Richard Maibaum]] and [[Johanna Harwood]], based on [[Ian Fleming]]'s [[From Russia, with Love (novel)|1957 novel ''From Russia, with Love'']]. In the film, Bond is sent to assist in the defection of Soviet consulate clerk [[Tatiana Romanova]] in Istanbul, where [[SPECTRE]] plans to avenge Bond's killing of [[Julius No|Dr. No]].
+
+Following the success of ''[[Dr. No (film)|Dr. No]]'', [[United Artists]] gave approval for a sequel and doubled the budget available for the producers. In addition to filming on location in Turkey, the action scenes were shot at [[Pinewood Studios]], Buckinghamshire, and in Scotland. Production ran over budget and behind schedule, but was hurriedly finished by its release date.
+
+''From Russia with Love'' was a critical and commercial success. It took in more than $78 million in worldwide box-office receipts, far more than its $2 million budget and more than its predecessor ''Dr. No'', thereby becoming a [[blockbuster (entertainment)|blockbuster]] in 1960s cinema. In 2004, ''[[Total Film]]'' magazine named it the ninth-greatest British film of all time; it was the only Bond film to appear on the list. It was also the first film in the series to win a [[BAFTA Award for Best Cinematography]].
+
+''From Russia with Love'' was followed by ''[[Goldfinger (film)|Goldfinger]]'' in 1964.
+
+== Plot ==
+International criminal organisation [[SPECTRE]] seeks revenge against [[MI6]] agent [[James Bond (literary character)|James Bond]] for the death of their agent [[Julius No|Dr. No]] in [[Jamaica]].{{refn|name=Timeline|group=Notes|As depicted in the 1962 film ''[[Dr. No (film)|Dr. No]]''.}} SPECTRE's chief planner, [[Czechoslovak Socialist Republic|Czechoslovak]] chess [[Grandmaster (chess)|grandmaster]] Kronsteen, devises a plan to lure Bond into a trap, using as bait the prospects of procuring a Lektor cryptography device from the [[Soviet Union]]'s consulate in [[Istanbul]]. SPECTRE operative [[Rosa Klebb]], a former head of [[SMERSH]] (Soviet counter-intelligence), is assigned to oversee the mission and chooses trained killer Donald Grant to assassinate Bond at the right moment. To set the trap, Klebb recruits a cipher clerk at the consulate, [[Tatiana Romanova]], to unwittingly assist in the plan, tricking her into believing Klebb is still working for SMERSH.
+
+In [[London]], Bond is called to a meeting with [[M (James Bond)|M]] and informed that Tatiana has requested his help to defect to the West, in exchange for providing [[MI6|British intelligence]] with a Lektor. Exactly as Kronsteen predicted, M suspects a trap but decides to honour the request. Before departing, Bond is equipped with a special [[briefcase]] from [[Q (James Bond)|Q Branch]], containing several defensive gadgets and an [[ArmaLite AR-7]] sniper rifle, to help on his assignment. Upon arriving in Istanbul, Bond works alongside the head of MI6's branch in the city, [[List of James Bond allies#Film allies|Ali Kerim Bey]], while he awaits word from Tatiana. Grant is shadowing Bond to protect him until he steals the Lektor. During this time, Kerim Bey is attacked by Soviet agent Krilencu. After an attack on the men while they hide out at a [[Romani people|Roma]] settlement, Kerim Bey assassinates Krilencu with Bond's help before he can flee the city.
+
+Eventually, Tatiana meets Bond at his hotel suite, where she agrees to provide plans to the consulate to help him steal the Lektor. The pair spend the night together, unaware that Klebb and Grant are filming them. Upon receiving the consulate's floor plans and a description of the Lektor from Romanova, the latter of which MI6 confirms, Bond and Kerim Bey make and execute a plan to steal it, before all three make haste to escape the city aboard the ''[[Orient Express]]''. Aboard, Kerim Bey and Bond subdue Commissar Benz, a Soviet security officer. While Bond returns to Tatiana to wait for their rendezvous with one of Kerim Bey's sons, Kerim Bey and Benz are killed. Angered, Bond questions Romanova's true motives.
+
+When the train arrives in [[Belgrade]], Bond informs one of Kerim Bey's sons of his death and receives instructions to rendezvous with a British agent named Nash at [[Zagreb]]. However, Grant overhears the conversation, kills Nash and assumes his identity. He drugs Tatiana at dinner and overpowers Bond. He reveals that he had killed Bey and Benz, and that Tatiana was a pawn in SPECTRE's plan. Grant's orders are to kill her and Bond, staging it as a murder-suicide and leaving behind faked blackmail evidence which will scandalise the British intelligence community. Bond tricks Grant into setting off a booby trap in Nash's attaché case before the two engage in a fight that ends with Bond killing Grant by stabbing him then garrotting him with his own garrotte. Taking the Lektor and the film of their night together, Bond and Romanova leave the train in [[Istria]], Yugoslavia, and use Grant's escape plan. They evade helicopter and boat attacks by SPECTRE agents before reaching safety.
+
+Learning of Grant's death and Bond's survival, SPECTRE's enigmatic chairman, [[Ernst Stavro Blofeld]], has Kronsteen executed for his plan's disastrous failure. As the organisation promised to sell back the Lektor to the Russians, Klebb is ordered to recover it and kill Bond. While Bond and Tatiana are resting in a [[Venice]] hotel, Klebb comes to their room disguised as a maid. When Klebb prepares to shoot Bond, Tatiana knocks her gun to the floor. Klebb struggles with Bond as she tries to stab him with a venom-tipped blade in her shoe but Tatiana shoots her dead. With his mission accomplished, Bond spends some time on a romantic gondola ride with Tatiana and drops the blackmail film into the canal.
+
+== Cast ==
+[[File:Daniela Bianchi 1963.jpg|thumb|upright|Daniela Bianchi]]
+*<!-- opening title cards --> [[Sean Connery]] as [[portrayal of James Bond in film|James Bond]], MI6 agent 007
+* [[Pedro Armendáriz]] as [[List of James Bond allies#Film allies|Ali Kerim Bey]], head of MI6 Station T in Istanbul
+* [[Lotte Lenya]] as [[Rosa Klebb]] (SPECTRE No. 3), a former SMERSH colonel and now a SPECTRE operative
+* [[Robert Shaw]] as Donald Grant, a SPECTRE assassin
+* [[Bernard Lee]] as [[M (James Bond)|M]], chief of British Intelligence
+*<!-- and introducing --> [[Daniela Bianchi]] as [[Tatiana Romanova]], a Soviet Consulate clerk and Bond's love interest, based on [[Krystyna Skarbek|Christine Granville]]<ref>''FILMFAX Magazine''. October 2003 – January 2004.</ref>
+**Bianchi's dialogue was dubbed by an uncredited [[Barbara Jefford]].<ref name="booklet">{{cite AV media notes|title=From Russia with Love Ultimate Edition DVD|others=[[Terence Young (director)|Terence Young]]|orig-year=1962|publisher=MGM Home Entertainment|year=2006|id=Accessed 30 December 2007}}</ref> 
+*<!-- with --> [[Eunice Gayson]] as [[Bond girl|Sylvia Trench]], Bond's semi-regular girlfriend
+* [[Walter Gotell]] as Morzeny, a SPECTRE trainer
+* [[Francis de Wolff]] as Vavra, chief of a Gypsy tribe
+* [[George Pastell]] as a train conductor on the Orient Express
+* [[Nadja Regin]] as Kerim Bey's girl
+* [[Lois Maxwell]] as [[Miss Moneypenny]], M's secretary
+* [[Aliza Gur]] and [[Martine Beswick]] as Gypsy girls Vida (in green) and Zora (in red)
+* [[Vladek Sheybal]] as Kronsteen (SPECTRE No. 5), a chess [[Grandmaster (chess)|grandmaster]] and SPECTRE planner
+<!-- end opening title credits -->
+
+Credited anonymously as "?" in the film, [[Anthony Dawson]] portrayed [[Ernst Stavro Blofeld|Ernst Stavro Blofeld (SPECTRE No. 1)]], the head of SPECTRE. Dawson had previously played Professor Dent in ''Dr. No'', and his dialogue was dubbed by an uncredited [[Eric Pohlmann]].<ref>{{cite web | title=Spotlight on Blofeld | date=29 October 2024 | url=https://www.007.com/spotlight-on-blofeld/ }}</ref><ref>{{cite web | title=Eric Pohlmann (Visual voices guide) | url=https://www.behindthevoiceactors.com/Eric-Pohlmann/ }}</ref> [[Fred Haggerty]] played Krilencu, a Bulgarian assassin. [[Desmond Llewelyn]] portrays [[Q (James Bond)|Major Boothroyd]], head of MI6 Q Branch and the equipment officer, making his first of many appearances that continued until 1999. 
+
+Additional cast members include [[Neville Jason]] as Kerim Bey's chauffeur, [[Peter Bayliss]] as Soviet agent Benz, Nusret Ataer as Kerim Bey's son Mehmet, and [[Peter Madden (actor)|Peter Madden]] as Canadian chessmaster McAdams.<!-- closing credits --> The belly dancer upon whom the opening title credits are projected, and who prominently appears in the gypsy camp scenes, was Leila Guiraut, credited under the [[mononym]] Leila.<ref name=cork/> Uncredited performances include [[Michael Culver]] and [[Elizabeth Counsell]] as a couple in a [[Punt (boat)|punt]], <!-- X-Ray / Amazon 18:02 --> and the film's production manager William Hill as Captain Nash.<ref>{{cite web | title=HILL, BILL - Spy Movie Navigator | date=November 2020 | url=https://spymovienavigator.com/spymdb/hill-bill/ }}</ref><ref>{{cite web | title=20 Things You Didn't Know About from Russia with Love (1963) | date=21 September 2020 | url=https://whatculture.com/film/20-things-you-didnt-know-about-from-russia-with-love-1963?page=2 }}</ref><ref>{{cite web | title=MI6 :: The Home of James Bond | url=https://www.mi6-hq.com/sections/movies/frwl_trivia }}</ref>
+
+==Production==
+Following the financial success of ''Dr. No'', United Artists approved a second James Bond film. The studio doubled the budget offered to [[Eon Productions]] with $2 million, and also granted a bonus to Sean Connery, who would receive $100,000 along with his $54,000 salary.<ref>{{cite book|title=United Artists: the company that changed the film industry|url=https://books.google.com/books?id=9EeK5s3aw44C&pg=PA260|first=Tino|last=Balio|page=260|publisher=[[University of Wisconsin]] Press|year=1987|isbn=9780299230135}}</ref> As [[President of the United States|President]] [[John F. Kennedy]] had named Fleming's novel ''[[From Russia, with Love (novel)|From Russia, with Love]]'' among his ten favourite books of all time in [[Life (magazine)|''Life'']] magazine,<ref name="insideFRWL"/> producers Broccoli and Saltzman chose this as the follow-up to Bond's cinematic debut in ''[[Dr. No (film)|Dr. No]]''. The comma in the title of Fleming's novel was dropped for the film title.  On 20 November 1963, ''From Russia with Love'' was the last film President Kennedy saw at the White House before [[Assassination of John F. Kennedy|his assassination]].<ref>{{cite journal |url=http://www.prospect.org/cs/articles?article=arthur_m_schlesinger_jr_19172007 |title=Arthur M. Schlesinger, Jr., 1917–2007 |journal=The American Prospect |date=17 September 2010 |access-date=21 September 2010 |archive-date=21 November 2011 |archive-url=https://web.archive.org/web/20111121024444/http://prospect.org/article/arthur-m-schlesinger-jr-1917-2007-0 |url-status=dead }}</ref> Most of the crew from the first film returned, with major exceptions being production designer [[Ken Adam]], who went to work on ''[[Dr. Strangelove]]'' and was replaced by ''Dr. No''{{'}}s uncredited art director [[Syd Cain]]. Title designer [[Maurice Binder]] was replaced by [[Robert Brownjohn]]. Stunt coordinator [[Bob Simmons (stunt man)|Bob Simmons]] was unavailable and was replaced by Peter Perkins<ref name="insideFRWL"/> though Simmons performed stunts in the film.<ref>{{Cite book |last=Brosnan |first=John |url=https://archive.org/details/jamesbondincinem0000bros |title=James Bond in the Cinema |date=1972 |publisher=Tantivy Press |isbn=978-0-900730-47-4 |location=London |url-access=registration}}</ref> [[John Barry (composer)|John Barry]] replaced [[Monty Norman]] as composer of the soundtrack.
+
+The film introduced several conventions which would become essential elements of the series: a [[pre-title sequence]], the Blofeld character (referred to in the film only as "Number 1", though Blofeld is mentioned in the end credits, with the actor labeled as "?"), a secret-weapon gadget for Bond, a helicopter sequence (repeated in every subsequent Bond film except ''[[The Man with the Golden Gun (film)|The Man with the Golden Gun]]''), a postscript action scene after the main climax, a theme song with lyrics, and the line "James Bond will return/be back" in the credits.<ref>{{Cite web|url=http://whatculture.com/film/james-bond-retrospective-from-russia-with-love-1963|title=James Bond Retrospective: From Russia With Love (1963)|publisher=Whatculture|access-date=22 September 2016|date=30 November 2011}}</ref>
+
+===Writing===
+Ian Fleming's novel was a [[Cold War]] thriller but the producers replaced the Soviet undercover agency [[SMERSH]] with the crime syndicate SPECTRE so as to avoid controversial political overtones.<ref name="insideFRWL"/> The SPECTRE training grounds were inspired by the film ''[[Spartacus (film)|Spartacus]]''.<ref name="young"/> The original screenwriter was [[Len Deighton]], who accompanied Harry Saltzman, Syd Cain, and Terence Young to Istanbul,<ref>{{cite web|url=https://hmssweblog.wordpress.com/2012/11/04/len-deighton-on-from-russia-with-love/ |title=Len Deighton on From Russia With Love &#124; The Spy Command |publisher=Hmssweblog.wordpress.com |date= 5 November 2012|access-date=2016-09-30}}</ref> but he was replaced because of a lack of progress.<ref name=maibaum>{{cite book|url=https://books.google.com/books?id=sWewbX79ISsC&pg=PA284|title=Backstory: interviews with screenwriters of Hollywood's golden age|author=McGilligan, Patrick|page=284|publisher=[[University of California Press]]|year=1986|isbn=978-0-520-05689-3|author-link=Patrick McGilligan (biographer)}}</ref> Thus, two of ''Dr. No''{{'}}s writers, [[Johanna Harwood]] and [[Richard Maibaum]], returned for the second film in the series.<ref name="insideFRWL"/> Some sources state Harwood was credited for the "adaptation" mostly for her suggestions, which were carried over into Maibaum's script.<ref name=maibaum/> Harwood stated in an interview for ''Cinema Retro'' that she had been a screenwriter of several of Saltzman's projects, and her screenplay for ''From Russia with Love'' had followed Fleming's novel closely, but she left the series due to what she called Young's constant rewriting of her screenplay with ideas that were not in the original Fleming work.<ref>''Johanna Harwood Interview'' ''Movie Classics # 4'' Solo Publishing 2012</ref>
+Maibaum kept on making rewrites as filming progressed. Red Grant was added to the Istanbul scenes just prior to the film crew's trip to Turkey; this brought more focus to the SPECTRE plot, as Grant started saving Bond's life there (a late change during shooting involved Grant killing the bespectacled spy at [[Hagia Sophia]] instead of Bond, who ends up just finding the man dead).<ref name="insideFRWL"/> For the last quarter of the movie, Maibaum added two chase scenes, with a helicopter and speedboats, and changed the location of Bond and Klebb's battle from Paris to Venice.<ref>{{Cite book |last=Chapman |first=James |url=https://archive.org/details/licencetothrillc0000chap |title=Licence to Thrill |publisher=Cinema and Society |year=2007 |isbn=978-1-84511-515-9 |location=London/New York City}}</ref> Uncredited rewrites were contributed by [[Berkely Mather]].
+
+===Casting===
+Although uncredited, the actor who played Number&nbsp;1 was Anthony Dawson, who had played Professor Dent in the previous Bond film, ''Dr. No'', and appeared in several of Young's films. In the end credits, Blofeld is credited with a [[question mark]]. Blofeld's lines were redubbed by character actor [[Eric Pohlmann]] in the final cut.<ref name="insideFRWL"/> [[Peter Burton]] was unavailable to return as Major Boothroyd, so Desmond Llewelyn, a Welsh actor who was a fan of the [[James Bond (comic strip)|Bond comic strip]] published in the ''[[Daily Express]]'', accepted the part. However, screen credit for Llewelyn was omitted at the opening of the film and is reserved for the exit credits, where he is credited simply as "Boothroyd". Llewelyn's character is not referred to by this name in dialogue, but M does introduce him as being from Q Branch. Llewelyn remained as the character, better known as Q, in all but one of the series' films until his death in 1999.<ref>{{cite book |last=Simpson |first=Paul |url=https://books.google.com/books?id=BikCz7XZijEC&pg=PA83 |title=The Rough Guide to James Bond |publisher=[[Rough Guides]] |year=2002 |isbn=9781843531425 |page=83 |access-date=25 March 2011}}</ref><ref>{{Cite AV media |section=Inside Q's Lab |medium=DVD |publisher=[[Metro Goldwyn Mayer|MGM]]/[[United Artists|UA]] Home Entertainment Inc |title=On Her Majesty's Secret Service ''Ultimate Edition'' |at=Disk 2}}</ref>
+
+Several actresses were considered for the role of Tatiana, including Italians [[Sylva Koscina]] and [[Virna Lisi]], Danish actress [[Annette Stroyberg|Annette Vadim]], Polish actress [[Magda Konopka]], Swedish actress [[Pia Lindström]], and English-born [[Tania Mallet]].<ref name="insideFRWL"/><ref name="Field">{{Cite book |last=Field |first=Matthew |url=https://archive.org/details/somekindofhero000000fiel |title=Some Kind of Hero: 007: The Remarkable Story of the James Bond Films |date=2015 |publisher=The History Press |others=Ajay Chowdhury |isbn=978-0-7509-6421-0 |location=Stroud, Gloucestershire |oclc=930556527 |url-access=registration}}</ref> Elga Gimba Andersson was nearly cast in the role but was ultimately not chosen.<ref name="Field" /> [[Miss Universe 1960|1960 Miss Universe]] runner-up Daniela Bianchi was ultimately cast, supposedly Sean Connery's choice. Bianchi started taking English classes for the role, but the producers ultimately chose to have her lines redubbed by British stage actress Barbara Jefford in the final cut.<ref name="commentary">''From Russia with Love'' [[audio commentary]], Ultimate Edition DVD</ref> The scene in which Bond finds Tatiana in his hotel bed was used for Bianchi's [[screen test]], with Dawson standing in, this time, as Bond.<ref name="insideFRWL"/> The scene later became the traditional screen test scene for prospective James Bond actors and Bond Girls.<ref>{{Cite AV media |year=2000 | title = Inside Octopussy | medium = DVD | publisher = MGM Home Entertainment Inc. |access-date =4 August 2007 | url = https://www.imdb.com/title/tt0322765/}}</ref><ref>{{Cite AV media |year=2000 |title= Inside The Living Daylights |medium= DVD | publisher= MGM Home Entertainment Inc. |access-date =4 August 2007 | url = https://www.imdb.com/title/tt0307015/}}</ref> In her initial scene with Klebb, Tatiana refers to training for the ballet, making a reference to the actress's background.
+
+Greek actress [[Katina Paxinou]] was considered for the role of Rosa Klebb, but was unavailable. Terence Young cast Austrian singer and cabaret star Lotte Lenya after hearing one of her musical recordings. Young wanted Kronsteen's portrayer to be "an actor with a remarkable face", since otherwise audiences would not likely remember who he was later in the film, due to his small amount of screen time. This led to the casting of Polish actor [[Vladek Sheybal]], whom Young also considered convincing as an intellectual.<ref name="young">{{Cite AV media |author=Terence Young |author-link=Terence Young (director) |title=From Russia with Love [[audio commentary]] |publisher= MGM Home Entertainment |id= Accessed 17 October 2008}} ''From Russia with Love'' Ultimate Edition, Disc 1</ref> Sheybal was initially hesitant to take the role but was convinced by Connery's girlfriend [[Diane Cilento]].<ref name="Field" /> The film was Sheybal's English-language debut.<ref>"Obituaries: Vladek Sheybal". ''The Stage and Television Today''. 11 February 1993. p. 29.</ref> Several women were tested for the roles of Vida and Zora, the two fighting Gypsy girls, and after [[Aliza Gur]] and [[Martine Beswick]] were cast, they spent six weeks practising their fight choreography with stunt work arranger Peter Perkins.<ref>{{Cite AV media |author=Aliza Gur |author-link=Aliza Gur |title= From Russia with Love [[audio commentary]] |publisher = MGM Home Entertainment |id= Accessed 20 October 2008}} ''From Russia with Love'' Ultimate Edition, Disc 1</ref> Beswick was mis-credited as 'Martin Beswick' in the film's opening titles, but this error was fixed for the 2001 DVD release.<ref>{{cite web|url=http://www.007museum.com/from_russia_with_love.htm|title=From Russia with Love|website=www.007museum.com}}</ref>
+
+Mexican actor Pedro Armendáriz was recommended to Young by director [[John Ford]] to play Kerim Bey. After experiencing increasing discomfort on location in Istanbul, Armendáriz was diagnosed with inoperable cancer.<ref name=insideFRWL/> Steps were taken to recast the part of Kerim Bey, but Armendáriz pleaded that he be allowed to make ''From Russia with Love'' his final film, so Young agreed to do what he could to accommodate him.<ref name=young/> Filming in Istanbul was terminated, the production moved to Britain, and Armendáriz's scenes were brought forward so that he could complete his scenes without delay. Though visibly in pain, he continued working as long as possible. When he could no longer work, he returned home and killed himself.<ref name="insideFRWL" /> Remaining shots after Armendáriz left London had a [[stunt double]] and Terence Young himself as stand-ins.<ref name="booklet" />
+
+Professional wrestler-turned-actor [[Joe Robinson (actor)|Joe Robinson]] was a strong contender for the role of [[Red Grant]], but it was given to stage and TV actor Robert Shaw.<ref>{{cite web|url= http://www.thevisitor.co.uk/news/morecambe-and-district-news/joe_has_eye_of_the_tiger_1_1217122|title= Joe has eye of the Tiger|date= 10 August 2004|work= [[The Visitor (Morecambe newspaper)|The Visitor]]|access-date= 8 July 2011|archive-date= 1 October 2011|archive-url= https://web.archive.org/web/20111001142338/http://www.thevisitor.co.uk/news/morecambe-and-district-news/joe_has_eye_of_the_tiger_1_1217122|url-status= dead}}</ref> Shaw initially declined the part because he disliked the script, but his then-fiancee [[Mary Ure]] urged him to take the role, which would launch his film career.<ref>{{Cite news |last=Jr |first=Robert Mcg Thomas |date=1972-02-26 |title=For Mary Ure and Robert Shaw, Marriage May Not Be Bliss but It'll Do |url=https://www.nytimes.com/1972/02/26/archives/for-mary-ure-and-robert-shaw-marriage-may-not-be-bliss-but-itll-do.html |access-date=2026-06-04 |work=The New York Times |language=en-US |issn=0362-4331}}</ref><ref>{{Cite web |title=From Russia With Love |url=https://www.robertarchibaldshaw.com/from-russia-with-love |access-date=2026-06-04 |website=RobertShaw.com |language=en}}</ref>
+
+===Filming===
+{{See also|List of James Bond vehicles|List of James Bond gadgets|James Bond locations}}
+<mapframe text="James Bond's Europe in ''From Russia with Love''" latitude="50.148746" longitude="11.689453" zoom="3" width="250" height="203" align="right">{
+  "type": "FeatureCollection",
+  "features": [
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Grand Bazaar, Istanbul]]",
+          "description": "Kerim's office<br />[[File:Istanbul asv2021-11 img41 Grand Bazaar.jpg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.967879, 41.010592]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Atatürk Airport|Yeşilköy Airport]]",
+          "description": "Bond arrives in Istanbul",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.819366, 40.978667]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "Zincirli Han",
+          "description": "Tatiana's meeting with Rosa Klebb<br />[[File:Business making, Istanbul Grand Bazaar (456333936).jpg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.968965, 41.011334]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Hagia Sophia]]",
+          "description": "Meeting<br />[[File:Hagia Sophia (228968325).jpeg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.979927, 41.008379]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Basilica Cistern]]",
+          "description": "Tunnels under Soviet consulate<br />[[File:Cisterna Basílica, Estambul, Turquía, 2024-09-28, DD 58-60 HDR.jpg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.977849, 41.008354]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "Şehzadebaşı and Fevziye",
+          "description": "Krilencu's apartment",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.957721, 41.012734]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "161 Halaskargazi Caddesi",
+          "description": "Russian consulate",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.986482, 41.057657]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Sirkeci railway station]]",
+          "description": "Escape from Istanbul<br />[[File:Bahnhofsfront-Istanbul-Sirkeci retouched.jpg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.977042, 41.015138]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "Yarimburgaz",
+          "description": "Emergency stop on the Orient Express",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.751073, 41.044180]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Heatherden Hall]]",
+          "description": "SPECTRE Island<br />[[File:Heatherden Hall.jpg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.533216, 51.546447]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[River Thames]] at [[Hurley, Berkshire]]",
+          "description": "Bond's picnic with Sylvia Trench",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.801935, 51.551344]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "Lunga Estate, Scotland",
+          "description": "Boat launch at [[Istria]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.560473, 56.203798]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Loch Craignish]]",
+          "description": "Boat chase in the Adriatic<br>[[File:Islands in Loch Craignish - geograph.org.uk - 3525195.jpg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.527963, 56.171938]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Bridge of Sighs]]",
+          "description": "Bond and Tania pass in a gondola under the bridge<br>[[File:Venise - Pont des Soupirs.jpg|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.340910, 45.433930]
+      }
+    },
+
+   {
+      "type": "Feature",
+      "properties": {
+          "title": "[[Hotel Danieli]]",
+          "description": "James and Tania's hotel in Venice<br>[[File:Venice(View2).JPG|150px]]",
+          "marker-symbol": "cinema",
+          "marker-size": "medium",
+          "marker-color": "06C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.342063, 45.433907]
+      }
+    },
+
+  ]
+}</mapframe>
+Filming began on April 1, 1963, at [[Pinewood Studios]].<ref name="insideFRWL" /><ref name="Field" /> Armendariz's scenes were shot first after he was diagnosed with terminal cancer, with Terence Young serving as a stand-in for Kerim Bey for the last two months of the production.<ref name="Field" /> Most of the film was set in Istanbul, Turkey. Locations included the [[Basilica Cistern]], Hagia Sophia and the [[İstanbul Sirkeci Terminal|Sirkeci railway station]], which also was used for the [[Belgrade]] and [[Zagreb]] railway stations. The MI6 office in London, SPECTRE Island, the Venice hotel and the interior scenes of the Orient Express were filmed at [[Pinewood Studios]] with some footage of the train. In the film, the train journey was set in Eastern Europe. The journey and the truck ride were shot in [[Argyll]], Scotland, and in Switzerland. The end scenes for the film were shot in [[Venice]].<ref name="insideFRWL">{{Cite AV media |year=2000 |title= Inside From Russia with Love |medium = DVD |publisher = MGM Home Entertainment Inc. |people = Martine Beswick, Daniela Bianchi, Dana Broccoli, Syd Cain, Sean Connery, Peter Hunt, John Stears, Norman Wanstall |access-date =4 August 2007 |url= https://www.imdb.com/title/tt0322760/}}</ref> However, to qualify for the British film funding of the time, at least 70 per cent of the film had to have been filmed in Great Britain or the Commonwealth.<ref>{{Cite book |last1=Barnes |first1=Alan |last2=Hearn |first2=Marcu |year=1997 |title=Kiss Kiss Bang! Bang!: the Unofficial James Bond Film Companion |publisher= [[Batsford Books]] |isbn= 978-0-7134-8182-2 |page=23}}</ref> The Gypsy camp was also to be filmed in an actual camp in [[Topkapı Palace|Topkapi]], but was actually shot in a replica of it in Pinewood.<ref name="commentary" /> The scene with rats (after the theft of the Lektor) was shot in Spain, as Britain did not allow filming with wild rats, and an attempt to film white rats painted in cocoa in Turkey did not work.<ref>{{Cite AV media |author=Syd Cain |author-link=Syd Cain |title= From Russia with Love [[audio commentary]] |publisher = MGM Home Entertainment |id= Accessed 20 October 2008}} ''From Russia with Love'' Ultimate Edition, Disc 1</ref> Principal photography wrapped on 23 August.<ref>{{Cite book |last1=Barnes |first1=Alan |url=https://archive.org/details/kisskissbangbang0000barn |title=Kiss Kiss Bang! Bang!: the Unofficial James Bond Film Companion |last2=Hearn |first2=Marcu |publisher=[[Batsford Books]] |year=1997 |isbn=978-0-7134-8182-2 |page=24 |url-access=registration}}</ref> Ian Fleming spent a week in the Istanbul shoot, supervising production and touring the city with the producers.<ref>{{cite book|last=Lycett|first=Andrew|author-link=Andrew Lycett|title=Ian Fleming|year=1996|publisher=Phoenix|location=London|isbn=978-1-85799-783-5|page=418}}</ref><ref name="Field" />
+
+Director Terence Young's eye for realism was evident throughout production. For the opening chess match, Kronsteen wins the game with a reenactment of [[Boris Spassky]]'s victory over [[David Bronstein]] in 1960.<ref>{{cite web |url= http://www.chessbase.com/newsprint.asp?newsid=1882|title=The name is Spassky – Boris Spassky |publisher= ChessBase.com |date=2 September 2004 |access-date=16 February 2008 |archive-url= https://web.archive.org/web/20121007073815/http://www.chessbase.com/newsprint.asp?newsid=1882 |archive-date=7 October 2012 }}</ref> Production Designer Syd Cain built up the "chess pawn" motif in his $150,000 set for the brief sequence.<ref name="commentary"/> Cain also later added a promotion to another movie Eon was producing, making Krilencu's death happen inside a billboard for ''[[Call Me Bwana]]''.<ref name="Field" />  A noteworthy gadget featured was the [[attaché case]] (briefcase) issued by Q Branch. It had a [[tear gas|tear gas bomb]] that detonated if the case was improperly opened, a folding [[AR-7]] sniper rifle with twenty rounds of ammunition, a throwing knife, and 50 [[Sovereign (British coin)|gold sovereigns]]. A boxer at [[University of Cambridge|Cambridge]], Young choreographed the fight between Grant and Bond along with stunt coordinator Peter Perkins. The scene took three weeks to film and was violent enough to worry some on the production. Robert Shaw and Connery did most of the stunts themselves.<ref name="booklet"/><ref name="insideFRWL"/> Young stated that the château garden assassination of the fake Bond in the [[Pre-credit|pre-credits sequence]] is styled after ''[[Last Year at Marienbad]]''.<ref>{{cite book |last=Rubin |first=Steven Jay |url=https://archive.org/details/jamesbondfilmsbe0000rubi/page/26/mode/2up |title=The James Bond Films: A Behind the Scenes History |location=Westport, Connecticut |publisher=[[Arlington House Publishers|Arlington House]] |year=1981 |page=27 |isbn=978-0-87000-524-4 |url-access=registration}}</ref>
+
+After the unexpected loss of Armendáriz, production proceeded, experiencing complications from uncredited rewrites by [[Berkely Mather]] during filming. Editor [[Peter R. Hunt|Peter Hunt]] set about editing the film while key elements were still to be filmed, helping to restructure the opening scenes. Hunt and Young came up with the idea of moving the Red Grant training sequence to the beginning of the film (prior to the main title), a signature feature that has been an enduring hallmark of every Bond film since. The briefing with Blofeld was rewritten, and back projection was used to refilm Lotte Lenya's lines.<ref name="insideFRWL"/>
+
+Behind schedule and over budget, the production crew struggled to complete production in time for the already-announced premiere date that October. On 6 July 1963, while scouting locations in Argyll, Scotland, for that day's filming of the climactic boat chase, Terence Young's helicopter crashed into the water with art director Michael White and a cameraman aboard. The craft sank into 40–50 feet (12–15&nbsp;m) of water<!-- John Stears -->, but all escaped with minor injuries. Despite the calamity, Young was behind the camera for the full day's work. A few days later, Bianchi's driver fell asleep during the commute to a 6&nbsp;am shoot and crashed the car. The actress's face was bruised and Bianchi's scenes had to be delayed for two weeks while the facial contusions healed.<ref name="insideFRWL"/>
+
+The helicopter and boat chase scenes were not in the original novel but were added to create an action climax. The former was inspired by the crop-dusting scene in [[Alfred Hitchcock]]'s ''[[North by Northwest]]'' and the latter by a previous Young/Broccoli/Maibaum collaboration, ''[[The Red Beret]]''.<ref name="cork" /> These two scenes would initially be shot in Istanbul but were moved to Scotland. The speedboats could not go fast enough due to the many waves in the sea,<ref name="gotell"/> and a rented boat filled with cameras ended up sinking in the Bosphorus.<ref name="commentary"/> A helicopter was also hard to obtain, and the special effects crew were nearly arrested trying to get one at a local airbase.<ref name="gotell">{{Cite AV media |author=Walter Gotell |author-link=Walter Gotell |title=From Russia with Love [[audio commentary]]|publisher = MGM Home Entertainment |id= Accessed 17 October 2008}} ''From Russia with Love'' Ultimate Edition, Disc 1</ref><ref>{{Cite AV media |author=John Stears |author-link=John Stears |title=From Russia with Love [[audio commentary]] |publisher = MGM Home Entertainment |id= Accessed 17 October 2008}} ''From Russia with Love'' Ultimate Edition, Disc 1</ref> The helicopter chase was filmed with a [[radio control]]led miniature helicopter.<ref name="commentary"/> The sounds of the boat chase were replaced in post-production since the boats were not loud enough,<ref>{{Cite AV media |author=Norman Wanstall |title= From Russia with Love [[audio commentary]] |publisher = MGM Home Entertainment |id= Accessed 20 October 2008}} ''From Russia with Love'' Ultimate Edition, Disc 1</ref> and the explosion, shot in Pinewood, got out of control, burning [[Walter Gotell]]'s eyelids<ref name="gotell" /> and seriously injuring three stuntmen.<ref name="cork">{{Cite AV media |author=John Cork |title= From Russia with Love [[audio commentary]]  |publisher = MGM Home Entertainment |id= Accessed 20 October 2008}} ''From Russia with Love'' Ultimate Edition, Disc 1</ref>
+
+Photographer [[David Hurn]] was commissioned by the producers of the James Bond films to shoot a series of stills with [[Sean Connery]] and the actresses of the film. When the [[prop]] [[Walther PPK]] pistol did not arrive, Hurn volunteered the use of his own Walther LP-53 [[air pistol]].<ref>{{cite web | title=From Russia With Love, 1963 | website=Christie's | date=14 February 2001 | url=https://www.christies.com/en/lot/lot-1992033 | access-date=3 March 2024}}</ref> Though the photographs of the "James Bond is Back" posters of the US release airbrushed out the long barrel of the pistol, [[film poster]] artist Renato Fratini used the long-barrelled pistol for his drawings of Connery on the British posters.<ref>{{cite web |url= http://www.bfi.org.uk/filmtvinfo/library/eventsexh/past/2007_01_10_bond.html|title=Poster Galore |publisher= [[British Film Institute]]|date=10 January 2007 |access-date=8 February 2011 |archive-url= https://web.archive.org/web/20120309163839/http://www.bfi.org.uk/filmtvinfo/library/eventsexh/past/2007_01_10_bond.html |archive-date=9 March 2012}}</ref>
+
+For the opening credits, Maurice Binder had disagreements with the producers and did not want to return.<ref>''[[Starlog (magazine)|Starlog]]'' magazine Maurice Binder interview Part 1</ref> Designer Robert Brownjohn stepped into his place, and projected the credits on female dancers, inspired by [[Constructivism (art)|constructivist]] artist [[László Moholy-Nagy]] projecting light onto clouds in the 1920s.<ref>{{cite web|url=http://www.designmuseum.org/design/robert-brownjohn |title=Robert Brownjohn / 15 October 2005 to 26 February 2006 : – Design/Designer Information |access-date=2011-07-08 |url-status=dead |archive-url=https://web.archive.org/web/20110623223840/http://designmuseum.org/design/robert-brownjohn |archive-date=23 June 2011 |df=dmy }}</ref> Brownjohn's work started the tradition of scantily clad women in the Bond films' title sequences.<ref>{{cite book |title= "Grow Up, 007!" – James Bond Over the Decades: Formula Vs. Innovation |first=Kerstin |last=Jütting |publisher= GRIN Verlag |year=2007 |isbn= 978-3-638-85372-9|page=13 |url= https://books.google.com/books?id=MzuVat9N7bQC&pg=PA12}}</ref>
+
+===Music===
+{{See also|From Russia with Love (soundtrack)}}
+
+''From Russia with Love'' is the first Bond film in the series with John Barry as the primary soundtrack composer.<ref>{{cite web|url=http://restless.rimspace.net/soundtrack/fff/from_russia_with_love.htm|title="From Russia with Love" (1963) at Soundtrack Incomplete|access-date=28 July 2007|publisher=Loki Carbis|archive-url = https://web.archive.org/web/20070816071109/http://restless.rimspace.net/soundtrack/fff/from_russia_with_love.htm |archive-date = 16 August 2007|url-status=dead}}</ref> The theme song was composed by [[Lionel Bart]] of ''[[Oliver!]]'' fame and sung by [[Matt Monro]],<ref name="James Bond Theme">{{cite web|url=http://www.listology.com/content_show.cfm/content_id.10101|title=Listology: Rating the James Bond Theme Songs|access-date=28 July 2007|publisher=Listology.com|archive-date=27 April 2006|archive-url=https://web.archive.org/web/20060427201206/http://www.listology.com/content_show.cfm/content_id.10101|url-status=dead}}</ref> although the title credit music is a lively instrumental version of the tune beginning with Barry's brief "James Bond Is Back" then segueing into [[Monty Norman]]'s "[[James Bond Theme]]". Monro's vocal version is later played during the film (as source music on a radio) and properly over the film's end titles.<ref name="James Bond Theme" /> Barry travelled with the crew to Turkey to try getting influences of the local music, but ended up using almost nothing, just local instruments such as [[Zill|finger cymbals]] to give an exotic feeling, since he thought the Turkish music had a comedic tone that did not fit in the "dramatic feeling" of the James Bond movies.<ref name="barry">{{Cite AV media|author=John Barry|author-link=John Barry (composer)|title=From Russia with Love [[audio commentary]]|publisher = MGM Home Entertainment }} ''From Russia with Love'' Ultimate Edition, Disc 1</ref> [[Frank Sinatra]] was considered for singing the theme song, but Sinatra turned the song down.<ref>{{cite web | url=https://archivo007.com/desde-rusia-con-amor-musica/ | title=Desde Rusia con amor &#124; Música | date=9 July 2008 }}</ref>
+
+Recalling his visit to Istanbul, John Barry said, "It was like no place I'd ever been in my life. [The Trip] was supposedly to seep up the music, so Noel Rogers and I used to go 'round to these nightclubs and listen to all this stuff. We had the strangest week, and really came away with nothing, except a lot of ridiculous stories. We went back, talked to Lionel, and then he wrote 'From Russia with Love.<nowiki>'''</nowiki><ref>{{Cite book|url=https://books.google.com/books?id=wQE2RmHrErcC|title=The Music of James Bond|last=Burlingame|first=Jon|date=2012-11-01|publisher=Oxford University Press|isbn=9780199986767|pages=25|language=en}}</ref>
+
+In this film, Barry introduced the percussive theme "[[007 Theme|007]]"—action music that came to be considered the "secondary James Bond theme". He composed it to have a lighter, enthusiastic and more adventurous theme to relax the audience.<ref name="barry"/> The arrangement appears twice on the soundtrack album; the second version, titled "007 Takes the Lektor", is the one used during the gunfight at the Gypsy camp and also during Bond's theft of the Lektor decoding machine.<ref name="insideFRWL"/><ref name="music">{{Cite AV media |year=2000 | title = The Music of James Bond | medium = DVD | publisher = MGM Home Entertainment Inc. |access-date =4 August 2007 | url = https://www.imdb.com/title/tt0307198/}}</ref> The completed film features a holdover from the Monty Norman-supervised ''Dr. No'' music, as the post-rocket-launch music from ''Dr. No'' is played in ''From Russia with Love'' during the helicopter and speedboat attacks.<ref name="music"/>
+
+==Release and reception==
+[[File:From Russia With Love US trailer.webm|thumb|thumbtime=176|upright=1.5|Original theatrical trailer for ''From Russia with Love'']]
+''From Russia with Love'' premiered on 10 October 1963 at the [[Odeon Leicester Square]] in London.<ref>{{cite news|title=A Premium for Bond-Lovers:"From Russia with Love"|newspaper=[[The Illustrated London News]]|date=5 October 1963|location=London|page=527}}</ref> Ian Fleming, Sean Connery and Walter Gotell attended the premiere. The following year, it was released in 16 countries worldwide, with the United States premiere on 8 April 1964, at New York's [[Astor Theatre, New York City|Astor Theatre]].<ref>{{cite book|title=Sean Connery: a celebration|first=Robert|last=Sellers|publisher=Robert Hale|year=1999|isbn=978-0-7090-6125-0|page=66}}</ref> Upon its first release, ''From Russia with Love'' doubled ''Dr. No''{{'}}s gross by earning $12.5 million (${{formatnum:{{Inflation|US|12.5|1964}}}} million in {{Inflation-year|US}} dollars{{inflation-fn|US|df=yes}}) at the worldwide box office.<ref>{{cite book|title=United Artists, Volume 2, 1951–1978: The Company That Changed the Film Industry|first=Tino|last=Balio|publisher=[[University of Wisconsin Press]]|year=2009|isbn=978-0-299-23014-2|page=261|quote=The picture grossed twice as much as ''Dr. No'', both foreign and domestic – $12.5 million worldwide}}</ref> After reissue it grossed $78 million,<ref>{{cite web|url=https://the-numbers.com/movies/1964/0FRLW.php|title=From Russia with Love|work=The Numbers|publisher=Nash Information Service|access-date=16 March 2008}}</ref> of which $24 million was from North America.<ref>{{cite web|url=https://www.boxofficemojo.com/movies/?id=fromrussiawithlove.htm|title=From Russia, with Love (1964)|access-date=28 July 2007|publisher=[[Box Office Mojo]]}}</ref> It was the most popular movie at the British box office in 1963.<ref>{{cite news|title=Most Popular Films of 1963|newspaper=[[The Times]]|date=3 January 1964|location=London|page=4}}</ref>
+
+The film's cinematographer [[Ted Moore]] won the [[BAFTA]] award and the [[British Society of Cinematographers]] award for Best Cinematography.<ref>{{cite web|url=https://movies.yahoo.com/movie/1800068321/awards|title=Awards at Yahoo Movies|access-date=30 July 2007}}</ref> At the 1965 Laurel Awards, Lotte Lenya stood third for Best Female Supporting Performance, and the film secured second place in the Action-Drama category. The film was also nominated for a [[Golden Globe Award for Best Original Song]] for "[[From Russia with Love (soundtrack)|From Russia with Love]]".<ref>{{cite web|url=https://www.imdb.com/title/tt0057076/awards|title=Awards won by From Russia with Love|publisher=[[Internet Movie Database]] | access-date=1 August 2007}}</ref>
+
+===Contemporary reviews===
+In comparing the film to its predecessor, ''Dr. No'', [[Richard Roud]], writing in ''[[The Guardian]]'', wrote that ''From Russia with Love'' "didn't seem quite so lively, quite so fresh, or quite so rhythmically fast-moving."<ref name="Roud">{{cite news|last=Roud|first=Richard|title=New Films|newspaper=[[The Guardian]]|date=11 October 1963|author-link=Richard Roud|location=London|page=11}}</ref> He went on to say that "...&nbsp;the film is highly immoral in every imaginable way; it is neither uplifting, instructive nor life-enhancing. Neither is it great film-making. But it sure is fun."<ref name="Roud"/> Writing in ''[[The Observer]]'', [[Penelope Gilliatt]] noted that "the way the credits are done has the same self-mocking flamboyance as everything else in the picture."<ref name="Gilliatt">{{cite news|last=Gilliatt|first=Penelope|title=Laughing it off with Bond: Films|newspaper=[[The Observer]]|date=13 October 1963|author-link=Penelope Gilliatt|location=London|page=27}}</ref> Gilliatt went on to say that the film manages "to keep up its own cracking pace, nearly all the way. The set-pieces are a stunning box of tricks".<ref name="Gilliatt"/> The critic for ''[[The Times]]'' wrote of Bond that he is "the secret ideal of the congenital square, conventional in every particular&nbsp;... except in morality, where he has the courage—and the physical equipment—to do without thinking what most of us feel we might be doing&nbsp;..."<ref name="Times (1963)">{{cite news|title=Four Just Men Rolled into One|newspaper=[[The Times]]|date=10 October 1963|location=London|page=17}}</ref> The critic thought that overall, "the nonsense is all very amiable and tongue-in-cheek and will no doubt make a fortune for its devisers".<ref name="Times (1963)"/>
+
+[[Bosley Crowther]] of ''[[The New York Times]]'' wrote: "Don't miss it! This is to say, don't miss it if you can still get the least bit of fun out of lurid adventure fiction and pseudo-realistic fantasy. For this mad melodramatization of a desperate adventure of Bond with sinister characters in Istanbul and on the Orient Express is fictional exaggeration on a grand scale and in a dashing style, thoroughly illogical and improbable, but with tongue blithely wedged in cheek."<ref>{{cite news |last=Crowther |first=Bosley |url=https://www.nytimes.com/1964/04/09/archives/james-bond-travels-the-orient-express.html |title=James Bond Travels the Orient Express |date=9 April 1964 |access-date=11 May 2009 |author-link=Bosley Crowther |work=[[The New York Times]]}}</ref> ''[[Time (magazine)|Time]]'' magazine called the film "fast, smart, shrewdly directed and capably performed."<ref>{{cite magazine |title=Cinema: Once More Unto the Breach |url=https://content.time.com/time/subscriber/article/0,33009,875772,00.html |magazine=Time |date=10 April 1964 |access-date=11 May 2009}}</ref> ''[[Variety (magazine)|Variety]]'' described the film as "a preposterous, skillful slab of hardhitting, sexy hokum. After a slowish start, it is directed by Terence Young at zingy pace. The cast perform with an amusing combo of tongue-in-cheek and seriousness and the Istanbul location is an added bonus."<ref>{{cite news |url=https://variety.com/1962/film/reviews/from-russia-with-love-1200420414/ |title=Film Reviews: From Russia with Love |work=Variety |date=16 October 1963 |access-date=1 January 2022}}</ref>
+
+===Later reviews=== <!-- do not rename this section without fixing the intro's forward reference -->
+''From Russia with Love'' received critical praise from critics decades following the film's original release and is considered one of the finest Bond films. [[Rotten Tomatoes]] sampled {{RT data|count}} reviewers and judged {{RT data|score}} of the reviews to be positive with an average rating of {{RT data|average}}. Its summary states: "The second James Bond film, ''From Russia with Love'', is a razor-sharp, briskly-paced Cold War thriller that features several electrifying action scenes."<ref>{{cite web|url=https://www.rottentomatoes.com/m/from_russia_with_love|title=From Russia With Love (1963)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date={{RT data|access date|df=dmy}}}}{{RT data|edit}}</ref>
+
+In his 1986 book ''Guide for the Film Fanatic'', [[Danny Peary]] described ''From Russia with Love'' as "an excellent, surprisingly tough and gritty James Bond film" which is "refreshingly free of the gimmickry that would characterise the later Bond films, and Connery and Bianchi play ''real'' people. We worry about them and hope their relationship will work out&nbsp;... Shaw and Lotte Lenya are splendid villains. Both have exciting, well-choreographed fights with Connery. Actors play it straight, with excellent results."<ref>Danny Peary, ''Guide for the Film Fanatic'' (Simon & Schuster, 1986) p.163</ref>
+
+Film critic [[James Berardinelli]] cited this as his favourite Bond film, writing "Only ''From Russia with Love'' avoids slipping into the comic book realm of ''Goldfinger'' and its successors while giving us a sampling of the familiar Bond formula (action, gadgets, women, cars, etc.). ''From Russia with Love'' is effectively paced and plotted, features a gallery of detestable rogues (including the ultimate Bond villain, Blofeld), and offers countless thrills".<ref>{{cite web|url=http://preview.reelviews.net/top100/103.html|title=Top 100 Runner Up: From Russia with Love|publisher=Reelviews|author=Berardinelli, James|access-date=16 March 2008|author-link=James Berardinelli}}</ref>
+
+In June 2001 Neil Smith of ''[[BBC]] Films'' called it "a film that only gets better with age".<ref>{{cite web| title=From Russia with Love (1963)| url=https://www.bbc.co.uk/films/2001/06/19/from_russia_with_love_1963_review.shtml|work=BBC| date=19 June 2001 | access-date=16 March 2008}}</ref> In 2004, ''[[Total Film]]'' magazine named it the ninth-greatest British film of all time, making it the only James Bond film to appear on the list.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/entertainment/3711460.stm |title=Get Carter tops British film poll |access-date=28 July 2007 |date=3 October 2004 |work=BBC News}}</ref> In 2006, Jay Antani of Filmcritic praised the film's "impressive staging of action scenes",<ref>{{cite web|url=http://www.filmcritic.com/misc/emporium.nsf/reviews/From-Russia-with-Love|title=From Russia with Love|last=Antani|first=Jay|publisher=Filmcritic.com|access-date=16 March 2008|archive-url=https://web.archive.org/web/20120214102052/http://www.filmcritic.com/reviews/1963/from-russia-with-love/|archive-date=14 February 2012}}</ref> while [[IGN]] listed it as second-best Bond film, behind ''[[Goldfinger (film)|Goldfinger]]''.<ref>{{cite web|url=http://movies.ign.com/articles/746/746573p4.html|title=James Bond's Top 20|publisher=IGN|date=17 November 2006|access-date=4 March 2008}}</ref> That same year, ''[[Entertainment Weekly]]'' put the film at ninth among Bond films, criticising the slow pace.<ref>{{cite magazine|url=http://www.ew.com/article/2006/12/01/countdown-ranking-bond-films|title=Ranking the Bond Films|author=Benjamin Svetkey, Joshua Rich|date=15 November 2006|access-date=16 March 2008|magazine=Entertainment Weekly|archive-date=29 May 2008|archive-url=https://web.archive.org/web/20080529045853/http://www.ew.com/ew/article/0,,1560072_14,00.html|url-status=live}}</ref> When the "James Bond Ultimate Collector's Set" was released in November 2007 by MGM, Norman Wilner of [[MSN]] chose ''From Russia with Love'' as the best Bond film.<ref>{{cite web|url=http://movies.sympatico.msn.ca/features/ArticleNormanWilner.aspx?cp-documentid=436189|title=Rating the Spy Game|publisher=[[MSN]]|author=Norman Wilner|access-date=4 March 2008|archive-url=https://web.archive.org/web/20080119210839/http://movies.sympatico.msn.ca/features/ArticleNormanWilner.aspx?cp-documentid=436189|archive-date=19 January 2008}}</ref> Conversely, in his book about the Bond phenomenon, ''The Man With the Golden Touch,'' British author Sinclair McKay states "I know it is heresy to say so, and that some enthusiasts regard ''From Russia With Love'' as the Holy Grail of Bond, but let's be searingly honest – some of it is crashingly dull."<ref>{{Cite book |last=McKay |first=Sinclair |url=https://archive.org/details/manwithgoldentou0000mcka |title=The Man with the Golden Touch: How the Bond Films Conquered the World |date=2010 |publisher=Abrams, Inc |isbn=978-1-59020-298-2 |edition=1st |location=New York |pages=4 |url-access=registration}}</ref>
+In 2014 ''[[Time Out (magazine)|Time Out]]'' polled several film critics, directors, actors and stunt actors to list their top action films;<ref>{{cite web|url=https://www.timeout.com/newyork/film/best-action-movies|work=[[Time Out (magazine)|Time Out]]|title=The 100 best action movies|access-date=7 November 2014}}</ref> ''From Russia With Love'' was listed at 69.<ref>{{cite web|url=https://www.timeout.com/newyork/film/the-100-best-action-movies-70-61?package_page%3D23379 |title=The 100 best action movies: 70–61 |access-date=2015-03-04 |url-status=dead |archive-url=https://web.archive.org/web/20150312133940/http://www.timeout.com/newyork/film/the-100-best-action-movies-70-61?package_page=23379 |archive-date=12 March 2015 |df=dmy }}</ref>
+
+The [[British Film Institute]]'s [[screenonline]] guide called the film "one of the series' high points" and said it "had advantages not enjoyed by many later Bond films, notably an intelligent script that retained the substance of [[From Russia, with Love (novel)|Ian Fleming's novel]] while toning down the overt Cold War politics (the [[Cuban Missile Crisis]] had only occurred the previous year)."<ref>{{cite web |url=http://www.screenonline.org.uk/film/id/520462/ |title=From Russia With Love (1963) |author=Michael Brooke |work=[[screenonline]] |publisher=[[British Film Institute]] |access-date=11 May 2009 |url-status=dead |archive-url=https://web.archive.org/web/20160414181929/http://www.screenonline.org.uk/film/id/520462/ |archive-date=14 April 2016 |df=dmy }}</ref> In 2008, [[Michael G. Wilson]], the current co-producer of the series, stated "We always start out trying to make another ''From Russia with Love'' and end up with another ''[[Thunderball (film)|Thunderball]]''."<ref>{{cite web|url=http://www.askmen.com/entertainment/movie/from-russia-with-love.html|title=From Russia With Love|last=Nusair|first=David|publisher=AskMen|date=1 November 2008| access-date=28 February 2009}}</ref> [[Barbara Broccoli]] considered this her favorite of the Connery films.<ref>{{cite web |last=Fischer |first=Paul |date=October 27, 2008 |title=Broccoli and Wilson Rejuvenate Bond Franchise |url=http://www.filmmonthly.com/paul_fischer_profiles/broccoli_and_wilson_rejuvenate_bond_franchise.html |url-status=dead |archive-url=https://web.archive.org/web/20110605090316/http://www.filmmonthly.com/paul_fischer_profiles/broccoli_and_wilson_rejuvenate_bond_franchise.html |archive-date=2011-06-05 |access-date=27 March 2010 |publisher=FilmMonthly}}</ref> Sean Connery,<ref name="booklet"/> [[Desmond Llewelyn]], [[Michael G. Wilson]], [[Timothy Dalton]], and [[Daniel Craig]] also consider this their favourite Bond film.{{Citation needed|date=August 2025}} [[Albert Broccoli]] listed it with ''[[Goldfinger (film)|Goldfinger]]'' and ''[[The Spy Who Loved Me (film)|The Spy Who Loved Me]]'' as one of his top three favourites,<ref>{{cite web|author=COLIN M JARMAN |url=http://www.licensetoquote.com/2010/06/in-memory-albert-cubby-broccoli.html |title=IN MEMORY: Albert 'Cubby' Broccoli – The Mastermind behind the James Bond movies |publisher=Licensetoquote.com |date=27 June 2010 |access-date=21 September 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110713204045/http://www.licensetoquote.com/2010/06/in-memory-albert-cubby-broccoli.html |archive-date=13 July 2011 }}</ref> explaining that he felt "it was with this film that the Bond style and formula were perfected".<ref>{{cite book|title=Licence to thrill: a cultural history of the James Bond films|first=James |last=Chapman|publisher=I. B. Tauris|year=2007|isbn=978-1-84511-515-9}}</ref>
+
+==Video game adaptation==
+{{Main|From Russia with Love (video game)}}
+In 2005, the ''[[From Russia with Love (video game)|From Russia with Love]]'' video game was developed by [[Electronic Arts]] and released on 1 November 2005 in North America. It follows the storyline of the book and film, albeit adding in new scenes, making it more action-oriented. One of the most significant changes to the story is the replacement of the organisation SPECTRE to OCTOPUS because the name SPECTRE constituted a long-running [[Thunderball (novel)#Controversy|legal dispute]] over the film rights to ''[[Thunderball (film)|Thunderball]]'' between United Artists/MGM and writer [[Kevin McClory]]. Most of the cast from the film returned in likeness. Connery not only allowed his 1960s likeness as Bond to be used, but the actor, in his 70s, also recorded the character's dialogue, marking a return to the role 22 years after he last played Bond in ''[[Never Say Never Again]]''. Featuring a [[virtual camera system|third-person]] [[Multiplayer video game|multiplayer]] [[deathmatch (video games)|deathmatch]] mode, the game depicts several elements of later Bond films, such as the [[Aston Martin DB5]] from ''[[Goldfinger (film)|Goldfinger]]'' (1964) and the rocket belt from ''[[Thunderball (film)|Thunderball]]'' (1965).<ref>{{Cite web|url=http://cube.gamespy.com/gamecube/james-bond-007-from-russia-with-love/654415p1.html|title=Interview with David Carson|publisher=[[GameSpy]]|date=29 September 2005|access-date=8 January 2011}}</ref><ref>{{Cite web|url=http://www.gamespot.com/xbox/action/fromrussiawithlove/review.html|title=From Russia With Love Review|last=Navarro|first=Alex|publisher=[[GameSpot]]|date=1 November 2005|access-date=8 February 2011|archive-url=https://web.archive.org/web/20130324041325/http://www.gamespot.com/from-russia-with-love/reviews/from-russia-with-love-review-6137026/|archive-date=24 March 2013}}</ref>
+
+The game was written by [[Bruce Feirstein]], who had previously worked on the film scripts for ''[[GoldenEye]]'', ''[[Tomorrow Never Dies]]'', ''[[The World Is Not Enough]]'', and the 2004 video game ''[[James Bond 007: Everything or Nothing|Everything or Nothing]]''. Its soundtrack was composed by [[Christopher Lennertz]] and [[Vic Flick]].<ref>{{Cite video game|title = [[From Russia with Love (video game)|From Russia with Love]]|developer = [[Electronic Arts]]| date =1 November 2005}}</ref>
+
+==See also==
+{{Portal|1960s|Film}}
+* [[Outline of James Bond]]
+
+==Notes==
+{{Reflist|group=Notes}}
+
+==References==
+{{Reflist}}
+
+'''Bibliography'''
+* {{cite book |last=Peary |first=Danny |author-link=Danny Peary |title=Cult Movie Stars |url=https://books.google.com/books?id=KHhZAAAAMAAJ |year=1991 |publisher=[[Simon & Schuster]] |location=New York |isbn=978-0-671-74924-8 }}
+* {{Cite book |last=Rubin |first=Steven Jay |title=The Complete James Bond Movie Encyclopedia |year=2003 |publisher=[[McGraw-Hill|Contemporary Books]] |location=New York |isbn=978-0-07-141246-9 }}
+
+==Further reading==
+* {{cite web |url=https://www.dvdtalk.com/dvdsavant/s2065russjump2.html |title=Jump Cut 3: The British Censorship of From Russia with Love from research by Gavin Salkeld |last1=Erickson |first1=Glenn |date=22 July 2006 |publisher=DVDTalk.com |access-date=30 June 2013}}
+* Tibbetts, John C., and James M. Welsh, eds. ''The Encyclopedia of Novels Into Film'' (2nd ed. 2005) pp 146–147.
+
+==External links==
+{{commons category|From Russia with Love (film)}}
+{{wikiquote}}
+
+* {{official website|https://www.007.com/the-films/from-russia-with-love/}}
+* {{Screenonline title | 520462 }}
+* {{AFI film|id=22487|title=From Russia with Love}}
+* {{IMDb title|0057076|From Russia with Love}}
+* {{TCMDb title|75744|From Russia with Love}}
+* {{rotten-tomatoes|from_russia_with_love|From Russia with Love}}
+* {{mojo title|fromrussiawithlove|From Russia with Love}}
+
+{{James Bond films}}
+{{SPECTRE stories}}
+{{Terence Young}}
+{{Harry Saltzman|state=autocollapse}}
+{{Authority control}}
+
+{{DEFAULTSORT:From Russia With Love (Film)}}
+[[Category:1963 action films]]
+[[Category:1963 American films]]
+[[Category:1963 British films]]
+[[Category:1963 English-language films]]
+[[Category:1963 spy films]]
+[[Category:1963 thriller films]]
+[[Category:1963 films]]
+[[Category:American sequel films]]
+[[Category:American spy films]]
+[[Category:Articles containing video clips]]
+[[Category:British sequel films]]
+[[Category:British spy films]]
+[[Category:Cold War spy films]]
+[[Category:Fiction about defection]]
+[[Category:Eon Productions films]]
+[[Category:Films about Romani people]]
+[[Category:Films directed by Terence Young]]
+[[Category:Films produced by Albert R. Broccoli]]
+[[Category:Films produced by Harry Saltzman]]
+[[Category:Films scored by John Barry (composer)]]
+[[Category:Films scored by Monty Norman]]
+[[Category:Films set in Belgrade]]
+[[Category:Films set in Istanbul]]
+[[Category:Films set in London]]
+[[Category:Films set in Turkey]]
+[[Category:Films set in Venice]]
+[[Category:Films set in Yugoslavia]]
+[[Category:Films set in Zagreb]]
+[[Category:Films set on the Orient Express]]
+[[Category:Films set on trains]]
+[[Category:Films shot at Pinewood Studios]]
+[[Category:Films shot in Argyll and Bute]]
+[[Category:Films shot in Berkshire]]
+[[Category:Films shot in Buckinghamshire]]
+[[Category:Films shot in Gwynedd]]
+[[Category:Films shot in Istanbul]]
+[[Category:Films shot in Madrid]]
+[[Category:Films shot in Scotland]]
+[[Category:Films shot in Switzerland]]
+[[Category:Films shot in Venice]]
+[[Category:Films shot in Wales]]
+[[Category:Films with screenplays by Berkely Mather]]
+[[Category:Films with screenplays by Johanna Harwood]]
+[[Category:Films with screenplays by Richard Maibaum]]
+[[Category:From Russia with Love (film)]]
+[[Category:James Bond films]]
+[[Category:United Artists films]]
+[[Category:English-language action adventure films]]
+[[Category:English-language thriller films]]

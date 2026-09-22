@@ -1,0 +1,452 @@
+{{Short description|2005 animated film by Nick Park and Steve Box}}
+{{Use British English|date=March 2016}}
+{{Use dmy dates|date=March 2026}}
+{{Infobox film
+| name           = Wallace & Gromit:<br />The Curse of the Were-Rabbit
+| image          = wallace_gromit_were_rabbit_poster.jpg
+| alt            = British poster featuring Wallace and Gromit, posing in front of a giant carved pumpkin that bears the letters "WG" behind them. The title "Wallace & Gromit The Curse of the Were-Rabbit", the text "Something wicked this way hops.", and the names of director, producer, music composer, and screenplay appear at the right.
+| caption        = British theatrical release poster
+| director       = {{plainlist|
+* [[Nick Park]]
+* [[Steve Box]]
+}}
+| screenplay     = {{plainlist|
+* Steve Box
+* Nick Park
+* [[Mark Burton (filmmaker)|Mark Burton]]
+* [[Bob Baker (scriptwriter)|Bob Baker]]
+}}
+| based_on       = {{Based on|''[[Wallace & Gromit]]''|Nick Park}}
+| producer       = {{plainlist|
+* Claire Jennings
+* [[Carla Shelley]]
+* [[Peter Lord]]
+* [[David Sproxton]]
+* Nick Park
+}}
+| starring       = {{Plainlist|<!--Per poster billing-->
+* [[Peter Sallis]]
+* [[Ralph Fiennes]]
+* [[Helena Bonham Carter]]
+* [[Peter Kay]]
+}}
+| cinematography = {{Plainlist|
+* [[Dave Alex Riddett|David Alex Riddett]]
+* Tristan Oliver
+}}
+| editing        = {{Plainlist|
+* David McCormick
+* [[Gregory Perler]]
+}}
+| music          = [[Julian Nott]] <!-- Just the original music composer -->
+| studio         = {{plainlist|
+* [[DreamWorks Animation]]<ref name="AFI">{{cite web|title=Wallace & Gromit in the Curse of the Were-Rabbit|url=https://catalog.afi.com/Catalog/moviedetails/63658|work=[[AFI Catalog of Feature Films]]|access-date=19 June 2021|archive-date=12 June 2021|archive-url=https://web.archive.org/web/20210612025239/https://catalog.afi.com/Catalog/moviedetails/63658|url-status=live}}</ref><ref name="VarietyReview">{{cite news|last1=Felperin|first1=Leslie|title=Review: 'Wallace & Gromit: The Curse of the Were-Rabbit'|url=https://variety.com/2005/film/awards/wallace-gromit-the-curse-of-the-were-rabbit-1200523132/|access-date=27 January 2017|work=Variety|date=16 September 2005|archive-date=26 January 2021|archive-url=https://web.archive.org/web/20210126170214/https://variety.com/2005/film/awards/wallace-gromit-the-curse-of-the-were-rabbit-1200523132/|url-status=live}}</ref>
+* [[Aardman Features]]<ref name="AFI" />
+}}
+| distributor    = {{plainlist|
+* [[DreamWorks Pictures]]{{efn|name=Distributor|In July 2014, the film's distribution rights were purchased by [[DreamWorks Animation]] from [[Paramount Pictures]] (owners of the pre-2005 [[DreamWorks Pictures]] catalog)<ref>{{cite news |last1=Cheney |first1=Alexandra |title=DreamWorks Animation Q2 Earnings Fall Short of Estimates, SEC Investigation Revealed |url=https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/ |access-date=30 July 2014 |work=Variety |date=29 July 2014|archive-url=https://web.archive.org/web/20180623141606/https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|archive-date=23 June 2018|url-status=live}}</ref> and transferred to [[20th Century Fox]] before reverting to [[Universal Pictures]] in 2018.}}<ref name="AFI" /> (United States)
+* [[United International Pictures]] (United Kingdom)<ref name=bbfc>{{cite web|title=Wallace & Gromit: The Curse of the Were-Rabbit|url=http://www.bbfc.co.uk/CFF206609 |work=British Board of Film Classification|access-date=23 December 2013}}{{dead link|date=April 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+}}
+| released       = {{Film date|2005|9|4|[[Sydney]]|2005|10|7|United States|2005|10|14|United Kingdom|df=y|ref1=<ref name=BBCSydneyPremiere />}}
+| runtime        = 85 minutes<ref name=bbfc />
+| country        = {{plainlist|
+* United Kingdom<ref name=bfi>{{cite web|url=https://www2.bfi.org.uk/films-tv-people/4ce2b89e20b50|title=The Curse of the Were-Rabbit (2005)|work=[[British Film Institute]]|access-date=19 June 2021|archive-date=24 June 2021|archive-url=https://web.archive.org/web/20210624202315/https://www2.bfi.org.uk/films-tv-people/4ce2b89e20b50|url-status=dead}}</ref>
+* United States<ref name=bfi/>
+}}
+| language       = English
+| budget         = $30 million
+| gross          = $192.7 million<ref>{{cite web|url=https://www.boxofficemojo.com/title/tt0312004/|title=Wallace & Gromit: The Curse of the Were-Rabbit (2005)|access-date=28 October 2024|website=[[Box Office Mojo]]|archive-date=8 December 2019|archive-url=https://web.archive.org/web/20191208155026/https://www.boxofficemojo.com/title/tt0312004/|url-status=live}}</ref>
+}}
+'''''Wallace & Gromit: The Curse of the Were-Rabbit''''' is a 2005 [[stop-motion]] [[animation|animated]] [[comedy horror]] film directed by [[Nick Park]] and [[Steve Box]] and written by Park, Box, [[Mark Burton (filmmaker)|Mark Burton]] and [[Bob Baker (scriptwriter)|Bob Baker]]. Produced by [[DreamWorks Animation]] and [[Aardman Features]], it is the fourth instalment in the ''[[Wallace & Gromit]]'' series and the first to be feature-length.  A parody of classic monster films, the film centres on inventor Wallace ([[Peter Sallis]]) and his dog, Gromit, in their latest venture as pest control agents. They come to the rescue of their town, which is plagued by rabbits, before the annual [[giant vegetable]] competition. However, the duo soon find themselves opposing a rabbit-like monster. The remaining cast includes [[Ralph Fiennes]], [[Helena Bonham Carter]] and [[Peter Kay]].
+
+Following the release of Aardman's first feature film ''[[Chicken Run]]'' in 2000, DreamWorks and Aardman announced their next co-productions, one of which was a feature-length ''Wallace & Gromit'' film. Production began in September 2003. During the making, Park was sent several notes by DreamWorks requesting for changes to the film to appeal more to contemporary American audiences. This included changing the initial subtitle, ''The Great Vegetable Plot'', to ''The Curse of the Were-Rabbit''. [[Julian Nott]], who composed the score for the prior ''Wallace & Gromit'' shorts, returned for the film.
+
+The film premiered in [[Sydney]], Australia, on 4 September 2005, before being released in theaters in the United States on 7 October 2005 and in the United Kingdom on 14 October 2005. While the film was considered a box-office disappointment in the US by DreamWorks Animation,<ref>{{cite news |url=http://www.bloomberg.com/apps/news?pid=newsarchive&sid=atSve88UuUmM |title=DreamWorks Reports Loss on 'Flushed Away' Writedown (Update5) |work=[[Bloomberg News]] |access-date=13 January 2022 |archive-url=https://web.archive.org/web/20131022092449/http://www.bloomberg.com/apps/news?pid=newsarchive&sid=atSve88UuUmM |archive-date=22 October 2013 |url-status=dead}}</ref> it was more commercially successful internationally. It also received critical acclaim and won a number of awards, including the [[Academy Award]] for [[Academy Award for Best Animated Feature|Best Animated Feature]] (making it the first stop-motion film to be nominated for an Academy Award) and [[BAFTA Award]] for [[BAFTA Award for Outstanding British Film|Best British Film]]. A fifth installment and fourth short film, ''[[Wallace & Gromit: A Matter of Loaf and Death|A Matter of Loaf and Death]]'' was released in 2008 and a sixth installment and second feature-length film, ''[[Wallace & Gromit: Vengeance Most Fowl|Vengeance Most Fowl]]'', was released in 2024.
+
+== Plot ==
+With Tottington Hall's annual giant vegetable competition around the corner, Wallace and Gromit run Anti-Pesto, a humane pest control business aimed at protecting the townspeople's vegetables from [[rabbit]]s. One day, the duo are hired to capture rabbits from the garden of the hall's owner Lady Campanula Tottington, which inspires Wallace to use his newest invention, the "Mind Manipulation-O-Matic", to try brainwashing rabbits into disliking vegetables and increasing his appetite for them in the process to help himself lose weight. He ends up fusing his brain with that of a rabbit. Gromit destroys the Mind-O-Matic, and the rabbit, now averse to vegetables, is named Hutch and placed in a cage.
+
+That night, a "Were-Rabbit" wreaks havoc on the town's gardens. During a town meeting the next day, hunter Lord Victor Quartermaine volunteers to vanquish the creature, but Tottington persuades the townsfolk to give Anti-Pesto another chance. Following an unsuccessful effort to trap the Were-Rabbit by using a giant fake female rabbit, Wallace and Gromit find that Hutch has mutated, leading Wallace to conclude that Hutch is the creature. However, Gromit discovers a trail of rabbit tracks turning into human footprints, as well as a pile of half-eaten vegetables in Wallace's bedroom, which makes him realise that Wallace is the real culprit.
+
+After celebrating his triumph with Tottington, Wallace is confronted by Victor, who vies for Tottington's affections and wealth. During the confrontation, the full moon appears and Wallace transforms into the Were-Rabbit. Victor, now seeing the perfect chance to eliminate his rival, acquires some [[Silver bullet|golden bullet]]s from eccentric town vicar Reverend Clement Hedges.
+
+On the day of the vegetable competition, Wallace and Gromit discover that Hutch now possesses Wallace's human traits, including his love for cheese. Upon learning that the Were-Rabbit is still at large, Tottington reluctantly agrees to let Victor vanquish it. When Wallace transforms again, Victor arrives and attempts to shoot him, but Gromit intervenes. Victor detains Gromit in a cage, but he escapes with the help of Hutch and they quickly devise a plan to save Wallace.
+
+At the competition, Victor seizes the competition's trophy to use as ammunition after exhausting his golden bullets. Gromit tries to lure Wallace away using the giant [[Marrow (vegetable)|marrow]] he planned on entering in the competition, but Wallace gets distracted and the marrow ends up getting squashed when Hutch drives the Anti-Pesto van into a cheese tent. Gromit subdues Victor's dog, Philip, in a dogfight using aeroplanes from a fairground ride. As Victor aims at Wallace, Gromit uses his plane to deflect the trophy, but the damaged plane begins to fall and Wallace leaps to catch Gromit; they both land in the cheese tent. Gromit disguises Victor as the Were-Rabbit using the female rabbit costume and the townspeople chase him away.
+
+Wallace morphs back to his human form, now free from the effects of his invention, and appears dead, but soon comes around thanks to his love for cheese. Gromit receives the trophy for his marrow and bravery and Tottington converts the grounds of Tottington Hall into a [[nature reserve]] for Hutch and his fellow rabbits.
+
+== Voice cast ==
+{{Main|List of Wallace and Gromit characters}}
+
+[[File:Helena Bonham Carter 2005.jpg|thumb|[[Helena Bonham Carter]] at the film's North American premiere at the [[2005 Toronto International Film Festival]]<ref>{{cite press release|title=North American Premiere of Nick Park's and Steve Box's Wallace & Gromit – The Curse of the Were-Rabbit a Gala Presentation|url=http://www.prnewswire.com/news-releases/north-american-premiere-of-nick-parks-and-steve-boxs-wallace--gromit---the-curse-of-the-were-rabbit-a-gala-presentation-54901437.html|work=PR Newswire|access-date=15 March 2015|date=16 August 2005|archive-url= https://web.archive.org/web/20150921202750/http://www.prnewswire.com/news-releases/north-american-premiere-of-nick-parks-and-steve-boxs-wallace--gromit---the-curse-of-the-were-rabbit-a-gala-presentation-54901437.html |archive-date=21 September 2015}}</ref>]]
+* [[Peter Sallis]] as Wallace, an eccentric, absent-minded and accident-prone yet good-natured inventor with a great fondness for [[cheese]], who operates ''Anti-Pesto'' with his dog and best friend, Gromit.
+** Sallis additionally portrayed Hutch, a kidnapped rabbit who gradually develops Wallace's mannerisms — his dialogue consists almost entirely of phrases and statements previously made by Wallace — after an attempted mind-alteration goes wrong and who is at first suspected to be the Were-Rabbit. Sallis' voice was digitally accelerated to create Hutch's.
+* [[Helena Bonham Carter]] as Lady Campanula "Totty" Tottington, a wealthy aristocratic spinster with a keen interest in vegetable horticulture and 'fluffy' animals. For more than five centuries, the Tottington family has hosted an annual vegetable competition on their estate on the same night. Lady Tottington asks Wallace to call her "Totty" (which is a British term for an aristocratic and attractive woman) and develops a romantic interest in him. Her forename, Campanula, is the scientific name of a bellflower, and her surname is taken from the [[Lancashire]] village of [[Tottington, Greater Manchester|Tottington]].
+* [[Ralph Fiennes]] as Lord Victor Quartermaine, a cruel [[upper class]] [[Bounder (character)|bounder]] and a prideful [[hunter]] who is courting Lady Tottington for her fortune. He wears a [[toupée]] and despises Wallace and Gromit. 
+** Philip is Victor's vicious but cowardly and dimwitted hunting dog who resembles a [[Bull Terrier]]. He is too cowardly to face the Were-Rabbit so he instead targets Gromit.
+* [[Peter Kay]] as Police Constable Albert Mackintosh, the local village policeman who judges the Giant Vegetable Contest, though he would prefer it if the "troublemaking" competition did not happen.
+* [[Nicholas Smith (actor)|Nicholas Smith]] as Reverend Clement Hedges, the superstitious town [[vicar (Anglicanism)|vicar]] and the first resident to witness the Were-Rabbit.
+* [[Liz Smith (actress)|Liz Smith]] as Mrs. Mulch, wife to Mr. Mulch and neighbour of Wallace and Gromit who raise prize-winning pumpkins.
+* [[Dicken Ashworth]] as Mr. Mulch, husband to Mrs. Mulch and neighbour of Wallace and Gromit who raise prize-winning pumpkins.
+* [[Edward Kelsey]] as Mr. Growbag, an elderly resident of Wallace and Gromit's neighbourhood and a founding member of the town's vegetable growers' council.
+* [[Mark Gatiss]] as Miss Blight, a resident of Wallace and Gromit's neighbourhood.
+* [[Geraldine McEwan]] as Miss Thripp, an Anti-Pesto customer. McEwan reprises her role in ''[[A Matter of Loaf and Death]]''.
+* [[John Thomson (comedian)|John Thomson]] as Mr. Windfall
+* [[Vincent Ebrahim]] as Mr. Caliche
+* Robert Horvath as Mr. Dibber
+* [[Pete Atkin]] as Mr. Crock
+* Noni Lewis as Mrs. Girdling
+* [[Ben Whitehead]] as Mr. Leaching
+
+== Production ==
+[[File:Wallace, Gromit, and creator Nick Park.jpg|thumb|Director [[Nick Park]] at the premiere]]
+In March 2000, it was officially announced that ''Wallace and Gromit'' were to star in their own feature film.<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/entertainment/671782.stm|title=Wallace and Gromit's Hollywood date|work=BBC|date=9 March 2000|access-date=11 November 2017|archive-date=7 August 2003|archive-url=https://web.archive.org/web/20030807013050/http://news.bbc.co.uk/1/hi/entertainment/671782.stm|url-status=live}}</ref> It would have been Aardman's next film after ''The Tortoise and the Hare'', which was subsequently abandoned by the studio in July 2001, owing to script problems.<ref>{{cite news|url=https://www.screendaily.com/aardman-to-make-wallace-and-gromit-movie/402734.article|title=Aardman to make Wallace And Gromit movie|work=www.screendaily.com|date=20 June 2000|access-date=11 November 2017|archive-date=17 June 2019|archive-url=https://web.archive.org/web/20190617203829/https://www.screendaily.com/aardman-to-make-wallace-and-gromit-movie/402734.article|url-status=live}}</ref><ref>{{cite web|url=http://uk.ign.com/articles/2001/07/07/aardman-halts-tortoise-vs-hare|title=Aardman Halts Tortoise vs. Hare|website=uk.ign.com|date=5 July 2001|access-date=11 November 2017}}</ref>
+
+The directors, [[Nick Park]] and [[Steve Box]], have often referred to the film as the world's "first [[vegetarian]] [[horror film]]".<ref>{{cite news|last=Persico|first=Joyce J.|url=https://www.seattletimes.com/entertainment/the-flesh-and-blood-behind-clay-superstars/|title=The flesh and blood behind clay superstars|work=[[Seattle Times]]|date=5 October 2005|access-date=22 April 2021|archive-url=https://archive.today/20210423013922/https://www.seattletimes.com/entertainment/the-flesh-and-blood-behind-clay-superstars/|archive-date=23 April 2021|url-status=live}}</ref><ref>{{cite news|last=Kewans|first=Stuart|url=https://www.nytimes.com/2005/09/11/movies/wallace-and-gromit-take-a-meeting.html|title=Wallace and Gromit Take a Meeting|newspaper=[[The New York Times]]|date=11 September 2015|access-date=22 April 2021|archive-url=https://web.archive.org/web/20201102224410/https://www.nytimes.com/2005/09/11/movies/wallace-and-gromit-take-a-meeting.html|archive-date=2 November 2020|url-status=live}}</ref> [[Peter Sallis]] (the voice of Wallace) is joined in the film by [[Ralph Fiennes]] (as Lord Victor Quartermaine), [[Helena Bonham Carter]] (as Lady [[Campanula]] Tottington), [[Peter Kay]] (as PC Mackintosh), [[Nicholas Smith (actor)|Nicholas Smith]] (as Rev. Clement Hedges), and [[Liz Smith (actress)|Liz Smith]] (as Mrs. Mulch). As established in the preceding short films, Gromit is a silent character, communicating purely via [[body language]].<ref>{{Cite web |last=Convery |first=Stephanie |date=29 June 2017 |title=The art of Aardman: why Wallace never learns and Gromit never needs to speak |url=https://www.theguardian.com/tv-and-radio/2017/jun/30/the-art-of-aardman-wallace-never-learns-and-gromit-never-needs-to-speak |url-status=live |archive-url=https://web.archive.org/web/20231121112938/https://www.theguardian.com/tv-and-radio/2017/jun/30/the-art-of-aardman-wallace-never-learns-and-gromit-never-needs-to-speak |archive-date=21 November 2023 |access-date=4 March 2026 |website=[[The Guardian]]}}</ref>
+
+The film was originally going to be called ''Wallace & Gromit: The Great Vegetable Plot'', but the title was changed, as the market research disliked it.<ref>{{cite news|url=https://www.theguardian.com/media/mediamonkeyblog/2010/oct/26/wallace-gromit-vegetable-plot-monkey|title=Wallace & Gromit: The Great Vegetable Plot That Never Was|work=The Guardian|date=26 October 2010|access-date=19 May 2017|archive-date=28 July 2016|archive-url=https://web.archive.org/web/20160728035442/https://www.theguardian.com/media/mediamonkeyblog/2010/oct/26/wallace-gromit-vegetable-plot-monkey|url-status=live}}</ref> The first reported release date for ''The Great Vegetable Plot'' was November 2004.<ref>{{cite news|url=http://edition.cnn.com/2002/SHOWBIZ/Movies/10/15/wallace.gromit/|title=Wallace, Gromit stage Net comeback|work=CNN.com|date=15 October 2002|access-date=19 May 2017|archive-date=17 June 2019|archive-url=https://web.archive.org/web/20190617203830/http://edition.cnn.com/2002/SHOWBIZ/Movies/10/15/wallace.gromit/|url-status=live}}</ref> Production officially began in September 2003, and the film was then set for release on 30 September 2005. In July 2003, ''[[Entertainment Weekly]]'' referred to the film as ''Wallace & Gromit: The Curse of the Were-Rabbit''.<ref>{{Cite web |title=WallaceAndGromit.net » Blog Archive » New Information on Wallace And Gromit Movie |url=https://wallaceandgromit.net/2003/09/17/new-information-on-wallace-and-gromit-movie/ |access-date=27 January 2025 |archive-date=8 February 2025 |archive-url=https://web.archive.org/web/20250208133153/https://wallaceandgromit.net/2003/09/17/new-information-on-wallace-and-gromit-movie/ |url-status=live }}</ref>
+
+Park said that after separate [[test screening]]s with British and American audiences, including children on both sides, he adjusted the characters' speech for American audiences.<ref>{{cite web | title=Helena Bonham Carter shows off her acting choppers for director Nick Park in Wallace & Gromit  | url=http://www.scifi.com/sfw/interviews/sfw745.html | website=SciFi.com | first=Mike | last=Szymanski | date=10 October 2005 | access-date=12 November 2007 |archive-url = https://web.archive.org/web/20071105071929/http://www.scifi.com/sfw/interviews/sfw745.html <!-- Bot retrieved archive --> |archive-date = 5 November 2007}}</ref> Park was often sent notes from DreamWorks, which stressed him. He recalled one note that Wallace's car should be trendier, which he disagreed with because he felt making things look old-fashioned made it look more ironic.<ref name=":0">{{cite news|first=Nigel|last=Farndale|url=https://www.telegraph.co.uk/culture/tvandradio/3831833/Wallace-and-Gromit-one-man-and-his-dog.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/culture/tvandradio/3831833/Wallace-and-Gromit-one-man-and-his-dog.html |archive-date=12 January 2022 |url-access=subscription |url-status=live|title=Wallace and Gromit: one man and his dog|work=[[The Daily Telegraph]] |location=UK|date=18 December 2008|access-date=18 December 2008}}{{cbignore}}</ref>
+
+The vehicle Wallace drives in the film is an [[Austin A35]] van. In collaboration with Aardman in the spring of 2005, a road going replica of the model was created by brothers Mark and David Armé, founders of the International Austin A30/A35 Register, for promotional purposes. In a 500-man-hour customisation, an original 1964 van received a full body restoration, before being dented and distressed to perfectly replicate the model van used in the film. The official colour of the van is ''Preston Green'', named in honour of Nick Park's hometown. The name was chosen by the art director and Mark Armé.{{Citation needed|date=August 2018}}
+
+Shortly after the film's release, the Aardman Animations' warehouse caught on fire which resulted thirty years of work on past projects being destroyed, along with the character models and sets made for the film being destroyed as well.<ref>{{Cite web|url=https://www.theguardian.com/uk/2005/oct/11/arts.media|title=Curses, Gromit! Fire destroys animation firm's history on eve of box office triumph|first=Steven|last=Morris|date=11 October 2005|via=The Guardian}}</ref>
+
+==Distribution==
+It was the final [[DreamWorks Animation]] film to be distributed by [[DreamWorks Pictures]], as the studio spun-off as an independent studio in 2004 until its acquisition by [[Comcast]] and [[NBCUniversal]] in 2016. In July 2014, the film's distribution rights were purchased by [[DreamWorks Animation]] from [[Paramount Pictures]] (owners of the pre-2005 DreamWorks Pictures catalogue)<ref>{{cite news|last1=Chney|first1=Alexandra|title=DreamWorks Animation Q2 Earnings Fall Short of Estimates, SEC Investigation Revealed|url=https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|access-date=30 July 2014|work=Variety|date=29 July 2014|archive-date=23 June 2018|archive-url=https://web.archive.org/web/20180623141606/https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|url-status=live}}</ref> and transferred to [[20th Century Fox]] before reverting to [[Universal Pictures]] in 2018, following the acquisition of [[DreamWorks Animation]] by [[Comcast]] and [[NBCUniversal]] in 2016. However, [[Aardman Animations]] still retains complete ownership of the film.<ref name="DWA2007Report" />
+
+== Release ==
+Shortly before the film's release a promotional tie-in of the film was made at [[List of Burger King marketing campaigns|Burger King]] in the UK and US.<ref>{{cite web|url=https://www.youtube.com/watch?v=9YFuOTHSSrY |archive-url=https://web.archive.org/web/20251017084850/https://www.youtube.com/watch?v=9YFuOTHSSrY |archive-date=17 October 2025 |title=Burger King ad - Wallace & Gromit: Curse of the Were-Rabbit (2005) |website=[[YouTube]]}}</ref> The film had its worldwide premiere on 4 September 2005, in Sydney, Australia.<ref name=BBCSydneyPremiere>{{cite news|title=Sydney premiere for Gromit movie|url=https://news.bbc.co.uk/2/hi/entertainment/4218568.stm|work=BBC News|access-date=19 August 2016|date=6 September 2005|archive-date=28 May 2016|archive-url=https://web.archive.org/web/20160528192500/http://news.bbc.co.uk/2/hi/entertainment/4218568.stm|url-status=live}}</ref> It was theatrically released in the United States on 7 October 2005, and in the United Kingdom the following week. The film was accompanied by the short film ''[[The Madagascar Penguins in a Christmas Caper]]'', starring the [[List of Madagascar (franchise) characters#The Penguins|penguins]] from the ''[[Madagascar (franchise)|Madagascar]]'' franchise.<ref>{{cite book |last1=Crump |first1=William D. |title=Happy Holidays—Animated! A Worldwide Encyclopedia of Christmas, Hanukkah, Kwanzaa and New Year's Cartoons on Television and Film |date=2019 |publisher=McFarland & Co |isbn=9781476672939 |page=179}}</ref>
+
+In April 2025, the film had a special 20th anniversary re-release in UK cinemas.<ref>{{cite web |url=https://filmstories.co.uk/news/wallace-gromit-curse-of-the-were-rabbit-returning-to-uk-cinemas/ |title=Wallace & Gromit: Curse Of The Were-Rabbit returning to UK cinemas |magazine=Film Stories |date=19 March 2025 |access-date=12 December 2025 |archive-date=19 July 2025 |archive-url=https://web.archive.org/web/20250719234801/https://filmstories.co.uk/news/wallace-gromit-curse-of-the-were-rabbit-returning-to-uk-cinemas/ |url-status=live }}</ref>
+
+=== Home media ===
+In Region 2, the film was released not only on [[VHS]] but also in a two-disc special edition DVD that includes ''[[Cracking Contraptions]]'', plus a number of other extras on 20 February 2006. In Region 1, the film was released on DVD in widescreen and full-screen versions and VHS on 7 February 2006. [[Walmart]] stores carried a special version with an additional DVD, "Gromit's Tail-Waggin' DVD" which included the test shorts made for this production, making of the Were-Rabbit creature, memorable moments of the film titled "Gromit's Favorite Scenes", a video showing the legacy of the "Wallace and Gromit" franchise, an instructional video on how to draw Gromit, as well as "Cracking Contraptions" shorts.
+
+A companion game, also titled ''[[Wallace & Gromit: The Curse of the Were-Rabbit (video game)|Curse of the Were-Rabbit]]'', was released with the film. A novelization, ''Wallace and Gromit: The Curse of the Were-Rabbit: The Movie Novelization'' by Penny Worms ({{ISBN|0-8431-1667-6}}), was also produced.
+
+''The Curse of the Were-Rabbit'' was the final [[DreamWorks Animation]] film released on VHS. It was released on DVD on 13 May 2014 as part of a triple film set, along with the Aardman/DreamWorks films ''[[Chicken Run]]'' and ''[[Flushed Away]]''.<ref>{{cite news|last=Armstrong|first=Josh|title=DreamWorks to release "Chicken Run", "El Dorado" and more in Triple Feature Blu-ray sets|url=http://blogs.indiewire.com/animationscoop/dreamworks-to-release-chicken-run-el-dorado-and-more-in-triple-feature-blu-ray-sets|work=IndieWire|access-date=5 March 2014|date=5 March 2014|archive-url=https://web.archive.org/web/20140408214025/http://blogs.indiewire.com/animationscoop/dreamworks-to-release-chicken-run-el-dorado-and-more-in-triple-feature-blu-ray-sets|archive-date=8 April 2014|url-status=dead}}</ref> A [[Blu-ray]] edition was released by [[Universal Pictures Home Entertainment]] in the United States on 4 June 2019.<ref>{{cite news |title=Wallace & Gromit: The Curse of the Were-Rabbit Blu-ray |url=https://www.blu-ray.com/news/?id=24944 |access-date=16 April 2019 |work=Blu-ray.com |date=11 April 2019 |archive-date=13 April 2019 |archive-url=https://web.archive.org/web/20190413142610/https://www.blu-ray.com/news/?id=24944 |url-status=live }}</ref>
+
+== Reception ==
+=== Box office ===
+''Wallace & Gromit: The Curse of the Were-Rabbit'' opened in 3,645 cinemas and had an opening weekend gross of $16 million, putting it at number one for that weekend.<ref>{{cite web |website=[[The Numbers (website)|The Numbers]] |title=Box Office for 10/7/2005 weekend |url=http://www.the-numbers.com/charts/weekly/2005/20051007.php |access-date=31 January 2007 |archive-date=1 December 2011 |archive-url=https://web.archive.org/web/20111201145207/http://www.the-numbers.com/charts/weekly/2005/20051007.php |url-status=live }}</ref><ref name="BBC Were-Rabbit">{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/4325748.stm |title=Gromit movie tops US box office |work=BBC News |date=10 October 2005 |access-date=8 July 2026 |url-status=live}}</ref> During its second weekend it came in at number two, just $200,000 behind ''[[The Fog (2005 film)|The Fog]]''.<ref>{{cite web |website=The Numbers |title=Box Office for 10/14/2005 weekend |url=http://www.the-numbers.com/charts/weekly/2005/20051014.php |access-date=31 January 2007 |archive-date=5 January 2007 |archive-url=https://web.archive.org/web/20070105095820/http://www.the-numbers.com/charts/weekly/2005/20051014.php |url-status=live }}</ref> The film grossed £9.4 million pounds during its opening weekend in the United Kingdom.<ref name="The Standard">{{cite news |url=https://www.standard.co.uk/culture/film/big-bucks-for-wererabbit-7275105.html |title=Big bucks for Were-Rabbit |work=The Standard |date=2 October 2007 |access-date=10 April 2012 |url-status=live | archive-url=https://web.archive.org/web/20241226105103/https://www.standard.co.uk/culture/film/big-bucks-for-wererabbit-7275105.html | archive-date=26 December 2024}}</ref><ref name="BBC Were-Rabbit UK Box Office">{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/4352028.stm |title=Gromit film is UK box office hit |work=BBC News |date=18 October 2005 |access-date=8 July 2026}}</ref> ''The Curse of the Were-Rabbit'' grossed $192.6 million at the box office, of which $56.1 million was from the United States.<ref name=mojo>{{cite web |url=http://www.boxofficemojo.com/movies/?id=wallaceandgromit05.htm |title=Wallace & Gromit |website=[[Box Office Mojo]] |access-date=4 February 2007 |archive-date=28 January 2012 |archive-url=https://web.archive.org/web/20120128121830/http://boxofficemojo.com/movies/?id=wallaceandgromit05.htm |url-status=live }}</ref> {{As of|January 2023}}, it is the [[List of highest-grossing animated films#Stop motion animation|second-highest-grossing stop-motion animated film]] of all time behind Aardman's first feature film, ''[[Chicken Run]]''.
+
+=== Critical response ===
+On [[Rotten Tomatoes]], the film holds an approval rating of {{RT data|score}} based on {{RT data|count}} reviews and an average rating of {{RT data|average}}. The website's critical consensus reads, "''The Curse of the Were-Rabbit'' is a subtly touching and wonderfully eccentric adventure featuring Wallace and Gromit".<ref>{{Cite web|url=https://www.rottentomatoes.com/m/wallace_and_gromit_the_curse_of_the_were_rabbit|title=Wallace & Gromit: The Curse of the Were-Rabbit|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date={{RT data|access date}}|archive-date=28 May 2022|archive-url=https://web.archive.org/web/20220528034443/https://www.rottentomatoes.com/m/wallace_and_gromit_the_curse_of_the_were_rabbit|url-status=live}}{{RT data|edit}}</ref> On [[Metacritic]], the film received a weighted average score of 87 out of 100, based on 38 critics, indicating "universal acclaim".<ref>{{Metacritic film}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "B+" on an A+ to F scale.<ref>{{cite web |url=https://m.cinemascore.com/ |title=Wallace & Gromit: The Curse of the Were-Rabbit |work=[[CinemaScore]] |access-date=27 January 2018 |archive-date=17 February 2015 |archive-url=https://web.archive.org/web/20150217211441/https://m.cinemascore.com/ |url-status=live }}</ref>
+
+In 2016, ''[[Empire (film magazine)|Empire]]'' magazine ranked it 51st on their list of the 100 best British films, with their entry stating, "The sparkling ''Curse Of The Were-Rabbit'' positively brims with ideas and energy, dazzling movie fans with sly references to everything from [[Hammer Film Productions|Hammer horrors]] and ''[[The Incredible Hulk]]'' to ''[[King Kong]]'' and ''[[Top Gun]]'', and bounds along like a hound in a hurry. The plot [[Pitch (filmmaking)|pitches]] the famously taciturn Dogwarts' alumnus and his Wensleydale-chomping owner (Sallis) against the dastardly Victor Quartermaine (Fiennes), taking mutating bunnies, prize-winning marrows and the posh-as-biscuits Lady Tottington (Bonham Carter) along for the ride. In short, it's the most marvellously English animation there is".<ref>{{cite news |title=The 100 best British films |url=https://www.empireonline.com/movies/features/100britishfilms/ |access-date=4 September 2019 |work=Empire |archive-date=1 November 2020 |archive-url=https://web.archive.org/web/20201101052023/https://www.empireonline.com/movies/features/100britishfilms/ |url-status=live }}</ref> ''Empire'' also gave the film five stars out of five.<ref>{{cite web |url=https://www.empireonline.com/movies/reviews/wallace-gromit-curse-rabbit-review/ |title=Wallace & Gromit: The Curse Of The Were-Rabbit Review |website=empireonline.com |date=13 October 2005 |last1=Hewitt |first1=Chris |access-date=24 December 2025 |archive-date=26 December 2025 |archive-url=https://web.archive.org/web/20251226001652/https://www.empireonline.com/movies/reviews/wallace-gromit-curse-rabbit-review/ |url-status=live }}</ref> It also largely praised Peter Sallis's performance, including it in a list of "The 50 Greatest Voice Performances on Movies", compiled by Helen O'Hara.<ref>{{cite web |url=https://www.empireonline.com/movies/features/50-greatest-movie-voice-performances/ |title=The 50 Greatest Voice Performances In Movies |website=empireonline.com |date=25 September 2014 |last1=O'Hara |first1=Helen |access-date=26 December 2025 |archive-date=3 October 2017 |archive-url=https://web.archive.org/web/20171003112249/http://www.empireonline.com/movies/features/50-greatest-movie-voice-performances/ |url-status=live }}</ref> Paul Arendt of ''[[BBC News]]'', praised the film's charm, humour, and handcrafted animation, highlighting its inventive visual gags, affectionate horror pastiche, and quintessentially English sensibility. He commended its "sheer good humour" and celebrated Nick Park's creativity, concluding that ''The Curse of the Were‑Rabbit'' confirms Aardman as a uniquely imaginative force in animation. And gave the film five stars out of five.<ref name="bbcnews">{{cite web|author=Paul Arendt |url=https://www.bbc.co.uk/films/2005/10/03/wallace_and_gromit_2005_review.shtml |title=Wallace & Gromit: The Curse Of The Were-Rabbit (2005) |work=BBC News |date=October 14, 2005 |access-date=May 14, 2026 |archive-date=October 31, 2005 |archive-url=https://web.archive.org/web/20051031203008/https://www.bbc.co.uk/films/2005/10/03/wallace_and_gromit_2005_review.shtml |url-status=live}}</ref>
+
+In a 2005 review in ''[[The New York Times]]'', [[A. O. Scott]] primarily praised the film for its charm and ingenuity, and for the character of Gromit, summarising it as a "delightful, clever, and sane-making stop-motion comedy".<ref name="NYT">{{cite news|author=Scott A.o. |title=''A New Challenge for an Englishman and His Dog'' |newspaper=The New York Times|date=5 October 2005 |url= https://www.nytimes.com/2005/10/05/movies/a-new-challenge-for-an-englishman-and-his-dog.html}}</ref> [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'', gave the film three and a half stars out of four, describing it as "whimsical, funny, and endlessly inventive". He also called Wallace and Gromit the two most delightful characters in the history of animation.<ref>{{cite news |last=Ebert |first=Roger |title=Wallace and Gromit: The Curse of the Were-Rabbit |url=https://www.rogerebert.com/reviews/wallace-and-gromit-the-curse-of-the-were-rabbit-2005 |access-date=23 December 2025 |date=6 October 2005 |website=[[RogerEbert.com]] |archive-date=19 January 2026 |archive-url=https://web.archive.org/web/20260119212601/https://www.rogerebert.com/reviews/wallace-and-gromit-the-curse-of-the-were-rabbit-2005 |url-status=live }}</ref> [[Peter Bradshaw]] of ''[[The Guardian]]'', gave the film five stars out of five, calling it "thoroughly delightful" and a "brilliantly" crafted family comedy, celebrating its high‑IQ writing, inventive visual humour, and quintessentially English charm. He admired the exuberant gags, meticulous animation, and strong voice performances, concluding that Nick Park's work delivers "pure, unpretentious joy" and stands as top‑tier entertainment for both children and adults.<ref>{{Cite news|url=https://www.theguardian.com/culture/2005/oct/14/1|title=Wallace & Gromit: The Curse of the Were-Rabbit review – a model of high-IQ comedy|last=Bradshaw|first=Peter|date=2005-10-14|newspaper=The Guardian|language=en-GB|access-date=2026-05-16}}</ref>
+
+Jane Horwitz of ''[[The Washington Post]]'' gave it a glowing review, calling it a "funny, punny, bunny tale full of the visual jokes and quirky Britishisms". She noted that while a few mild scares and innuendos might elude very young viewers, the films stop‑motion craft, energetic gags, and affectionate tone make it a delight for most audiences.<ref>{{Cite news |last=Horwitz |first=Jane |title=Wallace & Gromit: The Curse of the Were-Rabbit |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/archive/lifestyle/2005/10/07/wallace-38/62818915-9bad-4b48-90e6-e41515a6bb32/ |url-status=live |access-date=May 16, 2026 |date=October 7, 2005}}</ref> [[Kevin Maher (writer)|Kevin Maher]], writing for ''[[The Times]]'', gave the film five stars out of five, and said: "Ralph Fiennes is inspired casting in his first fully comedic role as the gun-toting Victor Quartermaine, but Helena Bonham Carter steals the movie as the guileless animal-loving aristocrat Lady Tottington of Tottington Hall".<ref>{{Cite web |last1=Maher |first1=Kevin |authorlink=Kevin Maher (writer) |date=April 28, 2026 |title=Wallace & Gromit: The Curse of the Were-Rabbit review – a five star-classic |url=https://www.thetimes.com/culture/film/article/wallace-and-gromit-curse-of-the-were-rabbit-review-md2s0rvn2 |website=[[The Times]] |access-date=July 5, 2026}}</ref> Marc Lee of ''[[The Daily Telegraph]]'' gave the film four stars out of five, and said: "The Curse of the Were-Rabbit, featuring his heroic man-and-dog duo, Wallace and Gromit, is Park at his sublimely silly best".<ref>{{Cite web |last=Lee |first=Marc |date=December 24, 2014 |title=Wallace and Gromit: The Curse of the Were-Rabbit, review: 'sublimely silly' |url=https://www.telegraph.co.uk/culture/film/filmreviews/10531904/Wallace-and-Gromit-The-Curse-of-the-Were-Rabbit-review.html |website=[[The Daily Telegraph]] |access-date=July 5, 2026}}</ref> Anthony Quinn of ''[[The Independent]]'' gave the film five stars out of five, calling it "The Plasticine's finest hour".<ref>{{Cite news |last=Quinn |first=Anthony |date=December 6, 2005 |title=This might be Plasticine's finest hour |url=http://enjoyment.independent.co.uk/film/reviews/article319361.ece |access-date=July 5, 2026 |work=[[The Independent]] |archive-date=26 December 2005 |archive-url=https://web.archive.org/web/20051226225214/http://enjoyment.independent.co.uk/film/reviews/article319361.ece |url-status=dead }}</ref>
+
+[[Common Sense Media]] gave the film four stars out of five, describing it as "[a] funny and charming movie for the whole family".<ref>{{cite web |last1=Fuchs |first1=Cynthia |title=Wallace & Gromit: The Curse of the Were-Rabbit |url=https://www.commonsensemedia.org/movie-reviews/wallace-gromit-the-curse-of-the-were-rabbit |website=Common Sense Media |date=October 2005 |access-date=25 December 2025 |archive-date=28 November 2025 |archive-url=https://web.archive.org/web/20251128011712/https://www.commonsensemedia.org/movie-reviews/wallace-gromit-the-curse-of-the-were-rabbit |url-status=live }}</ref>
+
+=== Accolades ===
+{| class="wikitable"
+|-
+! Group !! Award !! Recipients !! Result
+|-
+| [[78th Academy Awards]]<ref>{{cite news|title=UK stars shine at Academy Awards|url=https://news.bbc.co.uk/2/hi/entertainment/4777480.stm|access-date=20 August 2016|work=BBC|date=6 March 2006|archive-date=14 March 2016|archive-url=https://web.archive.org/web/20160314062452/http://news.bbc.co.uk/2/hi/entertainment/4777480.stm|url-status=live}}</ref>
+| [[Academy Award for Best Animated Feature|Best Animated Feature Film]]
+| [[Nick Park]]<br />[[Steve Box]]
+| {{won}}
+|-
+| rowspan="16"|[[33rd Annie Awards]]<ref>{{cite news|last1=DeMott|first1=Rick|title=Wallace & Gromit Leads Annie Nominations|url=http://www.awn.com/news/wallace-gromit-leads-annie-nominations|work=Animation World Network|access-date=20 August 2016|date=5 December 2005|archive-date=18 June 2019|archive-url=https://web.archive.org/web/20190618021055/https://www.awn.com/news/wallace-gromit-leads-annie-nominations|url-status=live}}</ref><ref>{{cite news|last1=Brown|first1=Maressa|title='Wallace & Gromit' grabs 10 Annie Awards|url=https://variety.com/2006/digital/awards/wallace-gromit-grabs-10-annie-awards-1117937443/|access-date=20 August 2016|work=Variety|date=5 February 2006|archive-date=2 December 2021|archive-url=https://web.archive.org/web/20211202203015/https://variety.com/2006/digital/awards/wallace-gromit-grabs-10-annie-awards-1117937443/|url-status=live}}</ref>
+| Best Animated Effects
+| Jason Wen
+| {{won}}
+|-
+| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+| 
+| {{won}}
+|-
+| Best Character Animation
+| Claire Billet
+| {{won}}
+|-
+| Best Character Design in an Animated Feature Production
+| [[Nick Park]]
+| {{won}}
+|-
+| Best Directing in an Animated Feature Production
+| Nick Park<br />Steve Box
+| {{won}}
+|-
+| Best Music in an Animated Feature Production
+| Julian Nott
+| {{won}}
+|-
+| Best Production Design in an Animated Feature Production
+| Phil Lewis
+| {{won}}
+|-
+| Best Storyboarding in an Animated Feature Production
+| [[Bob Persichetti]]
+| {{won}}
+|-
+| Best Voice Acting in an Animated Feature Production
+| [[Peter Sallis]] as the voice of ''Wallace''
+| {{won}}
+|-
+| Best Writing in an Animated Feature Production
+| Steve Box<br />Nick Park<br />Mark Burton<br />Bob Baker
+| {{won}}
+|-
+| rowspan="2"|Best Character Animation
+| Jay Grace
+| {{nom}}
+|-
+| [[Christopher Sadler]]
+| {{nom}}
+|-
+| Best Storyboarding in an Animated Feature Production
+| Michael Salter
+| {{nom}}
+|-
+| rowspan="3"|Best Voice Acting in an Animated Feature Production
+| [[Helena Bonham Carter]] as the voice of ''Lady Campanula Tottington''
+| {{nom}}
+|-
+| [[Ralph Fiennes]] as the voice of ''Victor Quartermaine''
+| {{nom}}
+|-
+| [[Nicholas Smith (actor)|Nicholas Smith]] as the voice of ''Reverend Clement Hedges''
+| {{nom}}
+|-
+| [[59th British Academy Film Awards]]<ref>{{cite web|title=Gromit and Potter awarded Baftas|url=https://news.bbc.co.uk/1/hi/entertainment/6186522.stm|publisher=BBC News|access-date=20 August 2016|date=27 November 2006|quote=Earlier this year, Wallace and Gromit took the best British film at the main Bafta ceremony,...|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118092705/http://news.bbc.co.uk/2/hi/entertainment/6186522.stm|url-status=live}}</ref>
+| [[BAFTA Award for Best British Film|Best British Film]]
+| Claire Jennings<br />David Sproxton<br />Nick Park<br />Steve Box<br />Mark Burton<br />Bob Baker
+| {{won}}
+|-
+| [[British Academy Children's Awards]]<ref>{{Cite news|url=https://news.bbc.co.uk/cbbcnews/hi/newsid_6180000/newsid_6186800/6186824.stm|title=Bafta win for Wallace and Gromit|date=27 November 2006|work=[[BBC]]|access-date=16 February 2023|archive-date=16 February 2023|archive-url=https://web.archive.org/web/20230216215240/http://news.bbc.co.uk/cbbcnews/hi/newsid_6180000/newsid_6186800/6186824.stm|url-status=live}}</ref>
+| [[British Academy Children's Award for Feature Film|Feature Film]]
+| Nick Park<br />Steve Box<br />Peter Lord<br />David Sproxton
+| {{won}}
+|-
+| [[British Comedy Awards]]<ref>{{cite news|last1=Wilkes|first1=Neil|title=British Comedy Awards 2006: The Winners|url=https://www.digitalspy.com/tv/news/a40735/british-comedy-awards-2006-the-winners/|work=Digital Spy|access-date=20 August 2016|date=13 December 2006|archive-date=8 August 2016|archive-url=https://web.archive.org/web/20160808182012/http://www.digitalspy.com/tv/news/a40735/british-comedy-awards-2006-the-winners/|url-status=live}}</ref>
+| Best Comedy Film
+| Nick Park
+| {{won}}
+|-
+| [[11th Critics' Choice Awards]]<ref>{{cite news|title=Critics honour Brokeback Mountain|url=https://news.bbc.co.uk/2/hi/entertainment/4597636.stm|work=BBC News|access-date=20 August 2016|date=10 January 2006|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118033033/http://news.bbc.co.uk/2/hi/entertainment/4597636.stm|url-status=live}}</ref>
+| [[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+| Nick Park and Steve Box
+| {{won}}
+|-
+| [[Dallas-Fort Worth Film Critics Association]]<ref>{{cite news|last1=Mohr|first1=Ian|title='Mountain' tops 2 more crix' lists|url=https://variety.com/2005/film/awards/mountain-tops-2-more-crix-lists-1117934951/|access-date=20 August 2016|work=Variety|date=19 December 2005|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118112818/http://variety.com/2005/film/awards/mountain-tops-2-more-crix-lists-1117934951/|url-status=live}}</ref>
+| Best Animated Feature
+|
+| {{won}}
+|-
+| rowspan="4"|[[Empire Awards]]<ref>{{cite news|title=2006 Awards Winners Announced|url=http://www.empireonline.com/movies/news/2006-awards-winners-announced/|access-date=20 August 2016|work=Empire|date=13 March 2006|archive-date=5 April 2016|archive-url=https://web.archive.org/web/20160405024715/http://www.empireonline.com/movies/news/2006-awards-winners-announced/|url-status=live}}</ref>
+| Best Director
+| Nick Park<br />Steve Box
+| {{won}}
+|-
+| Best British Film
+| 
+| {{nom}}
+|-
+| Best Comedy
+| 
+| {{nom}}
+|-
+| Scene of the Year
+| 
+| {{nom}}
+|-
+| [[Florida Film Critics Circle Awards 2005]]<ref>{{cite web|title=2005 FFCC Award Winners|url=http://www.floridafilmcritics.com/2013/11/16/2005-ffcc-award-winners/|website=Florida Film Critics Circle|access-date=20 August 2016|date=24 December 2005|archive-date=15 July 2015|archive-url=https://web.archive.org/web/20150715023813/http://www.floridafilmcritics.com/2013/11/16/2005-ffcc-award-winners/|url-status=live}}</ref>
+| [[Florida Film Critics Circle Award for Best Animated Film|Best Animated Film]]
+| 
+| {{won}}
+|-
+| [[Hugo Awards|50th Hugo Awards]]<ref>{{cite web|title=2006 Hugo Awards|url=http://www.thehugoawards.org/hugo-history/2006-hugo-awards/|website=The Hugo Awards|access-date=20 August 2016|date=27 August 2006|url-status=dead|archive-url=https://web.archive.org/web/20120305231109/http://www.thehugoawards.org/hugo-history/2006-hugo-awards/|archive-date=5 March 2012}}</ref>
+| [[Hugo Award for Best Dramatic Presentation, Long Form|Best Dramatic Presentation – Long Form]]
+| 
+| {{nom}}
+|-
+| [[London Film Critics Circle Awards 2005]]<ref>{{cite news|title=London Critics Circle nominations announced|url=http://timeout.com/film/news/827/london-critics-circle-nominations-announced.html|access-date=20 August 2016|work=Time Out|date=22 December 2005|archive-url=https://web.archive.org/web/20071023004039/http://timeout.com/film/news/827/london-critics-circle-nominations-announced.html|archive-date=23 October 2007}}</ref>
+| British Film of the Year
+| 
+| {{nom}}
+|-
+| [[Los Angeles Film Critics Association Awards 2005]]<ref name="AMCrackingWithCritics" />
+| [[Los Angeles Film Critics Association Award for Best Animated Film|Best Animated Film]]
+|
+| {{won}}
+|-
+| [[Motion Picture Sound Editors|53rd Motion Picture Sound Editors Golden Reel Awards]]<ref>{{cite web|last1=Baisley|first1=Sarah|title=Wallace And Gromit & Family Guy Win Top Animated Honors at Gold Reel Awards|url=http://www.awn.com/news/wallace-and-gromit-family-guy-win-top-animated-honors-gold-reel-awards|website=Animation World Network|access-date=20 August 2016|date=5 March 2006|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118032646/http://www.awn.com/news/wallace-and-gromit-family-guy-win-top-animated-honors-gold-reel-awards|url-status=live}}</ref>
+| Best Sound Editing in Feature Film – Animated
+| 
+| {{won}}
+|-
+| rowspan="2"|[[Rotten Tomatoes|Golden Tomato Awards 2005]]<ref>{{cite press release|title=Rotten Tomatoes' 2005 Golden Tomato Award Winners Announced|url=http://corp.ign.com/press/2006/rottentomatoes-2005-golden-tomato-award-winners-announced|website=IGN|access-date=20 August 2016|date=10 January 2006|archive-url=https://web.archive.org/web/20160712171750/http://corp.ign.com/press/2006/rottentomatoes-2005-golden-tomato-award-winners-announced|archive-date=12 July 2016|url-status=dead}}</ref>
+| Best Animated Film
+| 
+| {{won}}
+|-
+| Best Wide Release
+| 
+| {{won}}
+|-
+| [[New York Film Critics Online Awards 2005]]<ref name="AMCrackingWithCritics">{{cite news|last1=Ball|first1=Ryan|title=Gromit Cracking with Critics|url=http://www.animationmagazine.net/features/gromit-cracking-with-critics/|access-date=20 August 2016|work=Animation Magazine|date=12 December 2005|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118032257/http://www.animationmagazine.net/features/gromit-cracking-with-critics/|url-status=live}}</ref>
+| Best Animated Film
+| 
+| {{won}}
+|-
+| [[2006 Kids' Choice Awards]]<ref>{{cite web|last1=DeMott|first1=Rick|title=Madagascar Leads Kids' Choice Award Nods|url=http://www.awn.com/news/madagascar-leads-kids-choice-award-nods|website=Animation World Network|access-date=20 August 2016|date=8 February 2006|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118032418/http://www.awn.com/news/madagascar-leads-kids-choice-award-nods|url-status=live}}</ref>
+| [[Kids' Choice Award for Favorite Animated Movie|Favorite Animated Movie]]
+| ''Wallace and Gromit: The Curse of the Were-Rabbit''
+| {{nom}}
+|-
+| [[Online Film Critics Society Awards 2005]]<ref>{{cite web|title=2005 Awards (9th Annual)|url=http://www.ofcs.org/awards/2005-awards-9th-annual/|website=Online Film Critics Society|date=3 January 2012 |access-date=20 August 2016|archive-date=5 October 2015|archive-url=https://web.archive.org/web/20151005192011/http://www.ofcs.org/awards/2005-awards-9th-annual/|url-status=live}}</ref>
+| [[Online Film Critics Society Award for Best Animated Film|Best Animated Feature]]
+|
+| {{won}}
+|-
+| [[17th Producers Guild of America Awards]]<ref>{{cite news|last1=Rushfield|first1=Richard|last2=Lynch|first2=Rene|title='Brokeback Mountain' Wins Producers Guild Award|url=https://www.latimes.com/archives/la-xpm-2006-jan-23-me-guild23-story.html|access-date=20 August 2016|work=Los Angeles Times|date=23 January 2006|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305000847/http://articles.latimes.com/2006/jan/23/local/me-guild23|url-status=live}}</ref>
+| [[Producers Guild of America Award for Best Animated Motion Picture|Producer of the Year Award in Animated Theatrical Motion Pictures]]
+| Claire Jennings<br />Nick Park
+| {{won}}
+|-
+| [[10th Satellite Awards]]<ref>{{cite press release|author1=International Press Academy|title=10th Anniversary Satellite Awards – Nominations|url=http://www.pressacademy.com/satawards/forms/pdf/ipasat10th-PR-Noms.pdf|website=International Press Academy|access-date=20 August 2016|archive-url=https://web.archive.org/web/20060507220009/http://www.pressacademy.com/satawards/forms/pdf/ipasat10th-PR-Noms.pdf|archive-date=7 May 2006|date=17 December 2005}}</ref>
+| [[Satellite Award for Best Animated or Mixed Media Feature|Outstanding Motion Picture, Animated or Mixed Media]]
+| 
+| {{nom}}
+|-
+| [[Saturn Awards|32nd Saturn Awards]]<ref>{{cite web|last1=Gilbert|first1=Ammon|title=Saturn Awards Up|url=http://www.joblo.com/horror-movies/news/saturn-awards-up?id=saturn-awards-up&order=asc|website=[[JoBlo]]|access-date=20 August 2016|date=16 February 2006|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118032610/http://www.joblo.com/horror-movies/news/saturn-awards-up?id=saturn-awards-up&order=asc|url-status=live}}</ref>
+| [[Saturn Award for Best Animated Film|Best Animated Film]]
+| 
+| {{nom}}
+|-
+| [[Toronto Film Critics Association Awards 2005]]<ref>{{cite news|last1=Dixon|first1=Guy|title=Toronto film critics laud A History of Violence|url=https://www.theglobeandmail.com/arts/toronto-film-critics-laud-a-history-of-violence/article1132531/|access-date=20 August 2016|work=The Globe and Mail|date=21 December 2005|archive-date=27 August 2019|archive-url=https://web.archive.org/web/20190827141931/https://www.theglobeandmail.com/arts/toronto-film-critics-laud-a-history-of-violence/article1132531/|url-status=live}}</ref>
+| [[Toronto Film Critics Association Award for Best Animated Film|Best Animated Film]]
+| Nick Park and Steve Box
+| {{won}}
+|-
+| [[Visual Effects Society Awards 2005]]<ref>{{cite news|title='War,' 'Kong' top visual effects kudos|url=https://variety.com/2006/film/awards/war-kong-top-visual-effects-kudos-1117938374/|access-date=20 August 2016|work=Variety|date=16 February 2006|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118104043/http://variety.com/2006/film/awards/war-kong-top-visual-effects-kudos-1117938374/|url-status=live}}</ref>
+| Outstanding Animated Character in an Animated Motion Picture
+| Lloyd Price for "Gromit"
+| {{won}}
+|-
+| [[Washington D.C. Area Film Critics Association]]<ref>{{cite press release|title=Washington, DC Critics Name Munich Best Film, Spielberg Best Director Double awards also for Capote and Crash|url=http://www.prweb.com/releases/2005/12/prweb321952.htm|work=PRWeb|access-date=20 August 2016|date=14 December 2005|archive-date=18 January 2017|archive-url=https://web.archive.org/web/20170118033020/http://www.prweb.com/releases/2005/12/prweb321952.htm|url-status=dead}}</ref>
+| Best Animated Film
+| 
+| {{won}}
+|}
+
+== Soundtrack ==
+{{Main|Wallace & Gromit: The Curse of the Were-Rabbit (soundtrack)}}
+The film's score was composed by [[Julian Nott]], who also scored the previous entries in the franchise. The score was produced by [[Hans Zimmer]], and additional music was provided by [[Rupert Gregson-Williams]], [[James Dooley (composer)|James Dooley]], [[Lorne Balfe]] and [[Alastair King (composer)|Alastair King]].<ref name="ASCAPCredits">{{cite web|url=https://www.ascap.com/repertory|title=ASCAP Repertory Search|access-date=16 April 2024|archive-date=2 January 2024|archive-url=https://web.archive.org/web/20240102011031/https://www.ascap.com/repertory|url-status=live}}</ref><ref>{{Cite web |date=2024-12-21 |title=Cracking music, Gromit! One of the screen's most iconic themes is back with a vengeance... |url=https://www.classical-music.com/articles/wallace-gromit-vengeance-most-fowl |url-status=live |archive-url=https://web.archive.org/web/20260210062547/https://www.classical-music.com/articles/wallace-gromit-vengeance-most-fowl |archive-date=2026-02-10 |access-date=2026-04-15 |website=[[Classical Music]] |language=en}}</ref><ref>{{Cite AV media |url=https://www.youtube.com/watch?v=JeDlkvFCj08 |title=How the 'Wallace and Gromit' soundtrack was composed |date=2026-04-10 |last= |publisher=[[Classic FM (UK)|Classic FM]] |access-date=2026-04-15 |archive-url=https://web.archive.org/web/20260413195103/https://www.youtube.com/watch?v=JeDlkvFCj08 |archive-date=2026-04-13 |url-status=live |via=YouTube}}</ref>
+
+== Future ==
+{{Main|Wallace & Gromit: Vengeance Most Fowl}}
+
+After the box-office failure of ''[[Flushed Away]]'' resulted in a major write down for DreamWorks, it was reported on 3 October 2006<ref>{{cite web|url=http://www.animationmagazine.net/article.php?article_id=5971|title=Splitsville for DreamWorks and Aardman?|date=3 October 2006|access-date=28 February 2007|archive-date=12 October 2006|archive-url=https://web.archive.org/web/20061012183121/http://www.animationmagazine.net/article.php?article_id=5971|url-status=live}}</ref> and confirmed on 30 January 2007<ref>{{cite web|last1=Armstrong|first1=Stephen|title=Call my fluff|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article1389513.ece|work=Times Online|access-date=27 January 2017|archive-url=https://web.archive.org/web/20070219215806/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article1389513.ece|archive-date=19 February 2007|date=18 February 2007}}</ref> that DreamWorks had terminated their partnership with Aardman. In revealing the losses related to ''Flushed Away'', DreamWorks also revealed they had taken a $29 million write down over ''Wallace & Gromit'' as well, with the film having drastically underperformed expectations in the home DVD market, despite grossing $192 million against a budget of only $30 million at the box office.<ref>{{Cite news|url = https://www.bloomberg.com/apps/news?pid=newsarchive&sid=atSve88UuUmM|title = DreamWorks Reports Loss on 'Flushed Away' Writedown|date = 27 February 2007|work = Bloomberg|access-date = 14 December 2015|archive-url=https://web.archive.org/web/20131022092449/http://www.bloomberg.com/apps/news?pid=newsarchive&sid=atSve88UuUmM|archive-date=22 October 2013}}</ref>
+
+Following the split, Aardman retained complete ownership of the film, while DreamWorks Animation retained worldwide distribution rights in perpetuity, excluding some United Kingdom television rights and ancillary markets.<ref name="DWA2007Report">{{cite web|title=2007 Annual Report|url=http://www.dreamworksanimation.com/2007AR/pdf/DWA_07AR.pdf|publisher=[[DreamWorks Animation]]|access-date=27 January 2017|page=11|date=2008|archive-url=https://web.archive.org/web/20110928232607/http://www.dreamworksanimation.com/2007AR/pdf/DWA_07AR.pdf|archive-date=28 September 2011|url-status=dead}}</ref> Soon after the end of the agreement, Aardman announced that they would proceed with another ''Wallace & Gromit'' project, later revealed to be a return to their earlier short films with ''[[A Matter of Loaf and Death]]'' for [[BBC One]].<ref name="BBC Loaf">{{cite news |url=https://news.bbc.co.uk/1/hi/entertainment/7024834.stm |title=Wallace and Gromit return to TV |work=BBC News |date=2 October 2007 |access-date=3 October 2007|url-status=live | archive-url= https://web.archive.org/web/20071011003437/http://news.bbc.co.uk/1/hi/entertainment/7024834.stm| archive-date= 11 October 2007}}</ref>
+
+During production of the short, Park remarked publicly on difficulties with working with DreamWorks during the production of ''The Curse of the Were-Rabbit'', such as the constant production notes and demands to alter the material to appeal more to American children.<ref name=":0" /><ref>{{Cite news|title = Wallace and Gromit return to TV|url = https://news.bbc.co.uk/2/hi/entertainment/7024834.stm|publisher = [[BBC News]]|date = 2 October 2007|access-date = 14 December 2015|archive-date = 5 November 2015|archive-url = https://web.archive.org/web/20151105195543/http://news.bbc.co.uk/2/hi/entertainment/7024834.stm|url-status = live}}</ref> This discouraged him from producing another feature film for years, with Lord noting that Park preferred the "half hour format".<ref>{{cite web|url=https://uk.news.yahoo.com/aardmans-peter-lord-absolutely-assumes-more-wallace-gromit-161712308.html|title=Aardman's Peter Lord "Absolutely Assumes" There Will Be More 'Wallace & Gromit'|last=Giardina|first=Carolyn|date=4 May 2017|website=Yahoo! UK|access-date=21 January 2022|archive-date=21 January 2022|archive-url=https://web.archive.org/web/20220121170150/https://uk.news.yahoo.com/aardmans-peter-lord-absolutely-assumes-more-wallace-gromit-161712308.html|url-status=live}}</ref> However, in 2022, a new ''Wallace & Gromit'' film was announced, titled ''[[Wallace & Gromit: Vengeance Most Fowl]]'', which was released on Christmas Day 2024 on [[BBC One]] in the UK and released worldwide on [[Netflix]] on 3 January 2025.<ref name="sequel">{{cite web|title=New {{'}}''Wallace and Gromit''{{'}} Movie to Premiere On Netflix In 2024 and Here's the First Synopsis|url=https://collider.com/new-wallace-and-gromit-movie-netflix-2024-nick-park/|website=[[Collider (website)|Collider]]|first=Jack|last=King|date=20 January 2022|access-date=20 January 2022|archive-date=20 January 2022|archive-url=https://web.archive.org/web/20220120193716/https://collider.com/new-wallace-and-gromit-movie-netflix-2024-nick-park/|url-status=live}}</ref><ref name="THR 2022">{{cite web |last=Ritman |first=Alex |date=20 January 2022 |title=New ''Wallace & Gromit'' Film in Works From Aardman/Netflix; ''Chicken Run 2'' Cast and Title Unveiled |url=https://www.hollywoodreporter.com/movies/movie-news/wallace-gromit-new-film-chicken-run-2-cast-title-aardman-netflix-1235077972/ |website=[[The Hollywood Reporter]] |access-date=25 June 2023 |archive-date=5 February 2023 |archive-url=https://web.archive.org/web/20230205032600/https://www.hollywoodreporter.com/movies/movie-news/wallace-gromit-new-film-chicken-run-2-cast-title-aardman-netflix-1235077972/ |url-status=live }}</ref><ref name=":1">{{Cite web|url=https://x.com/deadline/status/1798779944358776914#m|title=x.com|access-date=6 June 2024|archive-date=7 June 2024|archive-url=https://web.archive.org/web/20240607054305/https://x.com/deadline/status/1798779944358776914#m|url-status=live}}</ref> Park returned as co-director and story co-writer alongside Merlin Crossingham. Kay reprised his role of Mackintosh (who has been promoted to chief inspector), while [[Ben Whitehead]] took on the role of Wallace after the death of [[Peter Sallis]], who voiced Wallace from 1989 to 2010, in 2017.<ref>[https://www.bbc.co.uk/news/entertainment-arts-40165443 Peter Sallis: Wallace and Gromit actor dies aged 96]</ref><ref>{{cite news|url=https://www.nytimes.com/2017/06/06/movies/peter-sallis-dead-wallace-and-gromit.html|title=Peter Sallis, Voice of 'Wallace and Gromit' Cartoons, Dies at 96|work=The New York Times |date=6 June 2017 |last1=Sandomir |first1=Richard }}</ref><ref name="variety">{{Cite news |url=https://variety.com/2017/film/people-news/peter-sallis-dead-dies-wallace-and-gromit-1202454203/ |title=Peter Sallis, Voice of Wallace in 'Wallace & Gromit' Films, Dies at 96 |last=Rubin |first=Rebecca |access-date=8 July 2026 |work=[[Variety (magazine)|Variety]] |date=5 June 2017}}</ref>
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category|Wallace & Gromit: The Curse of the Were-Rabbit}}
+{{Wikiquote|Wallace & Gromit in The Curse of the Were-Rabbit}}
+* {{Official website|https://www.dreamworks.com/movies/wallace-and-gromit-the-curse-of-the-were-rabbit}} 
+* ''[https://www.wallaceandgromit.com/films/curse-of-the-were-rabbit/ The Curse of the Were-Rabbit]'' at the Official ''Wallace & Gromit'' website
+* {{IMDb title|0312004}}
+* {{Rotten Tomatoes}}
+* {{British Comedy Guide|film|wallace_gromit_curse_rabbit}}
+
+{{Wallaceandgromit}}
+{{Nick Park}}
+{{Navboxes
+|title=Awards for ''Wallace & Gromit: The Curse of the Were-Rabbit''
+|list1=
+{{Academy Award for Best Animated Feature}}
+{{Annie Award for Best Animated Feature}}
+{{Annie Award for Outstanding Achievement for Animated Effects in an Animated Production}}
+{{BAFTA Best British Film}}
+{{Broadcast Film Critics Association Award for Best Animated Feature}}
+{{Dallas–Fort Worth Film Critics Association Award for Best Animated Film}}
+{{Florida Film Critics Circle Award for Best Animated Film}}
+{{Los Angeles Film Critics Association Award for Best Animated Film}}
+{{Online Film Critics Society Award for Best Animated Film}}
+{{Producers Guild of America Award for Best Animated Motion Picture}}
+{{TFCA Award for Best Animated Film}}
+{{Washington D.C. Area Film Critics Association Award for Best Animated Feature}}}}
+{{Aardman Animations}}
+{{DreamWorks animated films}}
+{{portal bar|Animation|United Kingdom|Film}}
+{{Authority control}}
+
+{{DEFAULTSORT:Wallace and Gromit: The Curse Of The Were-Rabbit}}
+[[Category:2000s British animated films]]
+[[Category:2005 children's comedy films]]
+[[Category:2005 children's fantasy films]]
+[[Category:2000s comedy mystery films]]
+[[Category:2000s monster movies]]
+[[Category:2000s stop-motion animated films]]
+[[Category:2005 action comedy films]]
+[[Category:2005 American animated films]]
+[[Category:2005 British films]]
+[[Category:2005 buddy comedy films]]
+[[Category:2005 directorial debut films]]
+[[Category:2005 English-language films]]
+[[Category:2005 fantasy comedy films]]
+[[Category:2005 films]]
+[[Category:2005 mystery films]]
+[[Category:Aardman Animations feature films]]
+[[Category:American buddy comedy films]]
+[[Category:American children's animated comedy films]]
+[[Category:American children's animated fantasy films]]
+[[Category:American children's animated mystery films]]
+[[Category:American comedy mystery films]]
+[[Category:American fantasy comedy films]]
+[[Category:American monster movies]]
+[[Category:American supernatural horror films]]
+[[Category:Animated buddy films]]
+[[Category:Animated films about rabbits and hares]]
+[[Category:Animated films based on animated series]]
+[[Category:Animated films set in England]]
+[[Category:Animated monster movies]]
+[[Category:Best Animated Feature Academy Award winners]]
+[[Category:Best Animated Feature Annie Award winners]]
+[[Category:Best Animated Feature Broadcast Film Critics Association Award winners]]
+[[Category:Best British Film BAFTA Award winners]]
+[[Category:British animated comedy films]]
+[[Category:British buddy comedy films]]
+[[Category:British children's animated films]]
+[[Category:British children's comedy films]]
+[[Category:British children's fantasy films]]
+[[Category:British comedy mystery films]]
+[[Category:British fantasy comedy films]]
+[[Category:British monster movies]]
+[[Category:British supernatural horror films]]
+[[Category:Children's horror films]]
+[[Category:Claymation films]]
+[[Category:Cultural depictions of British police officers]]
+[[Category:DreamWorks Animation films]]
+[[Category:DreamWorks Pictures films]]
+[[Category:English-language action comedy films]]
+[[Category:English-language buddy comedy films]]
+[[Category:English-language comedy mystery films]]
+[[Category:English-language fantasy comedy films]]
+[[Category:English-language science fiction horror films]]
+[[Category:Fiction about vegetarianism]]
+[[Category:Films about curses]]
+[[Category:Films about shapeshifting]]
+[[Category:Films directed by Nick Park]]
+[[Category:Films produced by Nick Park]]
+[[Category:Films produced by Peter Lord]]
+[[Category:Films set in Lancashire]]
+[[Category:Films with screenplays by Bob Baker (scriptwriter)]]
+[[Category:Films with screenplays by Nick Park]]
+[[Category:Wallace and Gromit films]]

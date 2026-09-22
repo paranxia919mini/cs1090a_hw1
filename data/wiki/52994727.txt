@@ -1,0 +1,44 @@
+{{short description|2017 film}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox film
+| name           = Beuys
+| image          = MJK34483 Beuys (Berlinale 2017).jpg 
+| caption        = The film team
+| director       = [[Andres Veiel]]
+| producer       = [[Thomas Kufus]]
+| writer         = Andres Veiel
+| starring       = 
+| music          = {{ubl|Ulrich Reuter|Damian Scholl}}
+| cinematography = Jörg Jeshel
+| editing        = {{ubl|Stephan Krumbiegal|Olaf Voigtländer}}
+| distributor    = 
+| released       = {{Film date|2017|2|14|[[67th Berlin International Film Festival|Berlin]]|df=yes}}
+| runtime        = 107 minutes
+| country        = Germany
+| language       = German
+}}
+
+'''''Beuys''''' is a 2017 German [[documentary film]] directed by [[Andres Veiel]] about the German artist [[Joseph Beuys]]. It was selected to compete for the [[Golden Bear]] in the main competition section of the [[67th Berlin International Film Festival]].<ref name="Berlin">{{cite web|url=https://www.berlinale.de/en/archiv/jahresarchive/2017/08_pressemitteilungen_2017/08_pressemitteilungen_2017detail_36116.html|title=Berlinale 2017: Competition and Berlinale Special Are Complete|publisher=Berlinale. berlinale.de |type=press release|date=20 January 2017|accessdate=20 January 2018}}</ref>
+
+Noting that the film emphasizes the "social conscience" behind Beuys's art, [[Glenn Kenny]], writing for ''[[The New York Times]]'', called it "an exhilarating portrait of a unique truth-teller".<ref>Kenny, Glenn (16 January 2018). "[https://www.nytimes.com/2018/01/16/movies/joseph-beuys-documentary-review.html Review: In ‘Beuys,’ a Portrait of the Artist as a Socially Conscious Provocateur]". ''New York Times''. nytimes.com. Retrieved 20 January 2018. Print version, 17 January 2018, p.&nbsp;C5, under title "A Conceptual Artist and Provocateur".</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|6340090|Beuys}}
+
+{{Joseph Beuys}}
+
+{{DEFAULTSORT:Beuys}}
+[[Category:2017 films]]
+[[Category:2017 documentary films]]
+[[Category:German documentary films]]
+[[Category:2017 German-language films]]
+[[Category:Films directed by Andres Veiel]]
+[[Category:Joseph Beuys]]
+[[Category:2017 German films]]
+[[Category:Films produced by Thomas Kufus]]
+
+{{2010s-Germany-film-stub}}
+{{2010s-bio-documentary-film-stub}}

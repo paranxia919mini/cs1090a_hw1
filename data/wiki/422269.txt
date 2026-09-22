@@ -1,0 +1,451 @@
+{{Short description|1997 film by Robert Zemeckis}}
+{{Good article}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=August 2022}}
+{{Infobox film
+| name           = Contact
+| image          = Contact ver2.jpg
+| alt            =
+| caption        = Theatrical release poster
+| director       = [[Robert Zemeckis]]
+| producer       = {{Plainlist|
+* Robert Zemeckis
+* [[Steve Starkey]]
+}}
+| screenplay     = {{Plainlist|
+* [[James V. Hart]]
+* [[Michael Goldenberg]]
+}}
+| story          = {{Plainlist|
+* [[Carl Sagan]]
+* [[Ann Druyan]]
+}}
+| based_on       = {{Based on|''[[Contact (novel)|Contact]]''|Carl Sagan}}
+| starring       = {{Plainlist|
+* [[Jodie Foster]]
+* [[Matthew McConaughey]]
+* [[James Woods]]
+* [[John Hurt]]
+* [[Tom Skerritt]]
+* [[Angela Bassett]]
+}}<!-- per poster block -->
+| music          = [[Alan Silvestri]]
+| cinematography = [[Don Burgess (cinematographer)|Don Burgess]]
+| editing        = [[Arthur Schmidt (film editor)|Arthur Schmidt]]
+| studio         = [[ImageMovers|South Side Amusement Company]]
+| distributor    = [[Warner Bros. Pictures|Warner Bros.]]
+| released       = {{Film date|1997|07|11}}
+| runtime        = 150 minutes<!--Theatrical runtime: 149:38--><ref>{{cite web | url=https://bbfc.co.uk/releases/contact-1970-4 | title=''CONTACT'' (PG) | work=[[British Board of Film Classification]] | date=July 22, 1997 | access-date=November 16, 2014 | archive-date=November 29, 2014 | archive-url=https://web.archive.org/web/20141129041154/http://bbfc.co.uk/releases/contact-1970-4 | url-status=dead }}</ref>
+| country        = United States
+| language       = English
+| budget         = $90&nbsp;million<ref name=making>{{cite magazine | author = Benjamin Svetkey | url = https://ew.com/article/1997/07/18/making-contact/ | title = Making Contact | magazine = [[Entertainment Weekly]] | date = July 18, 1997 | access-date = January 27, 2009 | archive-date = May 19, 2007 | archive-url = https://web.archive.org/web/20070519124505/http://www.ew.com/ew/article/0,,288672,00.html | url-status = live }}</ref>
+| gross          = $171&nbsp;million<ref name="Contact">{{cite web | url = https://www.boxofficemojo.com/movies/?id=contact.htm | title = Contact | work = [[Box Office Mojo]] | access-date = January 27, 2009 | archive-date = April 18, 2009 | archive-url = https://web.archive.org/web/20090418043110/http://boxofficemojo.com/movies/?id=contact.htm | url-status = live }}</ref>
+}}
+
+'''''Contact''''' is a 1997 American [[science fiction drama film]] co-produced and directed by [[Robert Zemeckis]], based on the [[Contact (novel)|1985 novel]] by [[Carl Sagan]]. It stars [[Jodie Foster]] as Dr. Eleanor "Ellie" Arroway, a [[Search for extraterrestrial intelligence|SETI]] scientist who finds evidence of [[extraterrestrial life]] and is chosen to make [[First contact (science fiction)|first contact]]. [[Matthew McConaughey]], [[James Woods]], [[Tom Skerritt]], [[William Fichtner]], [[John Hurt]], [[Angela Bassett]], [[Rob Lowe]], [[Jake Busey]], and [[David Morse]] co-star. It features the [[Very Large Array]] in [[New Mexico]], the [[Arecibo Observatory]] in [[Puerto Rico]], the ''[[Mir]]'' space station, and the [[Space Coast]] surrounding [[Cape Canaveral]].
+
+Sagan and his wife, [[Ann Druyan]], began working on ''Contact'' in 1979. They wrote a [[film treatment]] and set up the project at [[Warner Bros. Pictures|Warner Bros.]] with [[Peter Guber]] and [[Lynda Obst]] as producers. When [[development (film)|development]] stalled, Sagan published ''Contact'' as a novel in 1985, and the film reentered development in 1989. [[Roland Joffé]] and [[George Miller (producer)|George Miller]] planned to direct, but Joffé dropped out in 1993, and Warner Bros. fired Miller in 1995. With Zemeckis as director, filming ran from September 1996 to February 1997, while [[Sony Pictures Imageworks]], [[Wētā FX|Weta, Ltd.]] and [[Industrial Light & Magic]] (ILM) handled the visual and special effects. Sagan died before the film was completed.
+
+''Contact'' was released on July 11, 1997, and received positive reviews, winning the [[Hugo Award for Best Dramatic Presentation]] and two [[Saturn Award]]s. It grossed $171&nbsp;million worldwide.
+
+==Plot==
+<!-- Per WP:FILMPLOT, the plot summary should be 400-700 words. -->
+Astronomer Dr. Ellie Arroway arrives at the [[Search for extraterrestrial intelligence|SETI program]] at the [[Arecibo Observatory]] in Puerto Rico. The film's prologue reveals that she was encouraged to pursue science by her father, who died in her youth. In the film's present, Arroway studies radio emissions from space to detect signs of [[Extraterrestrial intelligence|intelligent extraterrestrial life]]. While in Puerto Rico, Arroway meets Christian philosopher Palmer Joss. They have a brief romantic encounter, but Arroway does not contact him again.
+
+David Drumlin, the [[President's Science Advisory Committee|President's science advisor]], cuts SETI funding, deeming it futile. Arroway is furious and instead pursues and receives financial support from S.&nbsp;R. Hadden, a reclusive billionaire industrialist. Arroway re-locates her team to the [[Very Large Array]] (VLA) radio dish observatory in New Mexico. 
+
+Four years later, Arroway is about to lose access to the VLA satellite dishes. Before being evicted, she discovers a signal containing a sequence of [[prime number]]s originating from the star [[Vega]]. Drumlin and the [[United States National Security Council|National Security Council]], headed by Michael Kitz, arrive and attempt to federalize the facility. Meanwhile, Arroway's team detect a video embedded within the signal: [[Adolf Hitler]]'s opening address at the [[1936 Summer Olympics]] in Berlin, Germany. The Hitler transmission was the first to penetrate the Earth's [[ionosphere]] and reach Vega. A press release at the White House is organised and, following an address from the President, Drumlin appropriates Arroway's discovery as his own and speaks to the press instead of her.
+
+The project is put under federal security and its progress is monitored globally. It is discovered that the signal contains over 63,000 pages of encoded data, though it is undecipherable without a primer. Hadden breaches the government's computer systems and discovers the primer, providing Arroway the means to decode the data. It reveals schematics for what could be a transportation device for a single person. Multiple nations provide funding for the construction at the [[Kennedy Space Center]] in [[Cape Canaveral Space Force Station|Cape Canaveral]].
+
+An international panel is assembled to select a candidate to travel in the machine. An American is preferred, and Arroway is a leading candidate until Palmer Joss, a panel member, focuses on her atheism during the interviews. The panel selects Drumlin. During the first tests, a fanatical religious terrorist destroys the machine with a suicide bomb, killing Drumlin and several others. Hadden, terminally ill with cancer, is now residing on the [[MIR space station|''Mir'' space station]]. He informs Arroway that the US government and Hadden Industries have secretly built a second machine in Hokkaido, Japan. Arroway, the only remaining American candidate, will use it. 
+
+In Japan, Joss and Arroway are reunited. Joss explains he voted against Arroway because he feared she would not survive the experiment. Equipped with multiple recording devices, Arroway enters a pod which is dropped through the massive machine's counter-rotating rings. She seemingly travels through [[wormhole]]s and observes a radio array-like structure at Vega, signs of civilization on an alien planet, and a celestial event. Arroway finds herself on a beach similar to her childhood drawing of [[Pensacola, Florida|Pensacola]], Florida. An alien assuming her deceased father's appearance approaches. He explains that the aliens detected humans' radio emissions and judged it worthy of a first step into the cosmos. Arroway is soon sent back through the wormhole.
+
+Arroway regains consciousness inside the pod. The mission control team reports that the pod fell through the machine into a safety net and that the experiment achieved nothing. Arroway insists she was gone for hours, but her devices recorded only static. A [[United States congressional committee|Congressional Committee]] headed by Kitz speculates the signal and the machine were a hoax perpetrated by Hadden, now deceased. Arroway admits she cannot scientifically prove her experience and requests the committee accept her testimony on faith.
+
+Joss tells the press that he believes Arroway's claim, and they leave the hearing together. Kitz and White House official Rachel Constantine discuss the confidential information and observe that Arroway's device recorded 18 hours of static. Arroway receives ongoing financial support for the SETI program at the VLA.
+
+==Cast==
+{{castlist|
+* [[Jodie Foster]] as Dr. Eleanor "Ellie" Ann Arroway
+** [[Jena Malone]] as young Ellie
+* [[Matthew McConaughey]] as Palmer Joss
+* [[David Morse]] as Theodore Arroway/the [[Extraterrestrial life|Alien]]
+* [[Tom Skerritt]] as Dr. David Drumlin
+* [[James Woods]] as Michael Kitz
+* [[John Hurt]] as S. R. Hadden
+* [[William Fichtner]] as Kent Clarke, a character derived from [[Kent Cullers]]<ref name="setiorg">{{cite web |title=Contact (Movie) |url=https://www.seti.org/seti-institute/project/details/sci-fi-movies |website=SETI.org |access-date=August 13, 2020 |date=August 22, 2011 |archive-date=December 1, 2020 |archive-url=https://web.archive.org/web/20201201150946/https://www.seti.org/seti-institute/project/details/sci-fi-movies |url-status=live }}</ref>
+* [[Angela Bassett]] as Rachel Constantine
+* [[Jake Busey]] as Joseph
+* [[Rob Lowe]] as Richard Rank
+* [[Geoffrey Blake (actor)|Geoffrey Blake]] as Fisher
+* [[Max Martini]] as Willie
+* [[Steven Ford]] as Major John Russell
+* [[Jay Leno]] as himself
+* [[Larry King]] as himself
+* [[Ann Druyan]] as herself
+}}
+
+==Production==
+
+===Development===
+The scientist [[Carl Sagan]] conceived ''Contact'' in 1979. That year, [[Lynda Obst]], one of his closest friends, was hired by the film producer [[Peter Guber]] as a [[studio executive]] for his [[production company]], Casablanca FilmWorks. She [[Pitch (filmmaking)|pitched]] Guber the idea for ''Contact'', and he commissioned a development deal.<ref name=making/> Sagan and [[Ann Druyan]] (who later married) finished the film treatment in November 1980.<ref>{{cite book | author = Carl Sagan | title = Contact: A Novel | publisher = [[Simon & Schuster|Simon and Schuster]] | date = October 1985 | page = [https://archive.org/details/contact00saga_1/page/432 432] | isbn = 0-671-43400-4 | location = New York City | url = https://archive.org/details/contact00saga_1/page/432 | author-link = Carl Sagan }}</ref><ref>{{cite web | url = http://contact-themovie.warnerbros.com/cmp/int-druyan.html | title = Ann Druyan | work = [[Warner Bros.]] | access-date = February 1, 2009 |archive-url=https://web.archive.org/web/20001018020435/http://contact-themovie.warnerbros.com/cmp/int-druyan.html |archive-date=October 18, 2000 |quote=Carl and I wrote the more than 100-page treatment in November of 1980...}}</ref> Druyan said they hoped "to write something that would be a fictional representation of what contact would actually be like, that would convey something of the true grandeur of the universe".{{Citation needed|date=March 2025}} They added the science and religion analogies as a metaphor of philosophical and intellectual interest in searching for the truth of both humanity and alien contact.<ref>{{cite web | url = http://contact-themovie.warnerbros.com/cmp/about.html | title = About the production | work = [[Warner Bros.]] | access-date = January 30, 2009 |archive-url=https://web.archive.org/web/20010517053600/http://contact-themovie.warnerbros.com/cmp/about.html |archive-date=May 17, 2001}}</ref>
+
+Sagan incorporated [[Kip Thorne]]'s study of [[wormhole]] space travel.<ref name="Tech" /> Druyan denied that Arroway was inspired by [[Jill Tarter]], the head of [[Project Phoenix (SETI)|Project Phoenix]] of the [[SETI Institute]], though Foster met her to research the role.<ref>{{cite news | author = William J. Broad | title = Astronomers Revive Scan of the Heavens for Signs of Life | work = [[The New York Times]] | date = September 29, 1998 }}</ref><ref name="vulture oral" /> The name Ellie was short for Eleanor, which was taken from [[Eleanor Roosevelt]], whom both Sagan and Druyan adored; Arroway was selected based on both [[Voltaire]]'s real name (Arouet), and that Ellie "was going to travel like an arrow through the cosmos", according to Druyan.<ref name="vulture oral">{{cite web | url = https://www.vulture.com/2022/06/an-oral-history-of-contact-the-movie.html | title = 'No Aliens, No Spaceships, No Invasion of Earth' An oral history of Contact, the sci-fi movie that defied Hollywood norms and made it big anyway. | first=  Rachel | last= Handler | date = June 29, 2022 | accessdate = July 24, 2022 | work = [[Vulture (magazine)|Vulture]] }}</ref> Tarter was a story consultant, and advised on how to portray career struggles of women scientists from the 1950s to 1970s. The writers debated whether Arroway should have a baby at the film's end.<ref name="cinema">{{cite book | author= Norman Kagan | title = The Cinema of Robert Zemeckis | publisher = Taylor Trade Publishing | year = 2003 | pages = 159–181 | isbn = 0-87833-293-6 | chapter = Contact | location = [[Lanham, Maryland]]}}</ref>
+
+Although Guber was impressed with Sagan and Druyan's treatment, he hired various screenwriters to rewrite the script. New characters were added, including a Native American [[park ranger]] turned astronaut.<ref name=making/> Guber suggested that Arroway have an estranged teenage son, whom he believed would add depth to the storyline. Guber said: "Here was a woman consumed with the idea that there was something out there worth listening to, but the one thing she could never make contact with was her own child. To me, that's what the film had to be about."<ref name=making/> Sagan and Druyan disagreed and did not incorporate the idea.{{Citation needed|date=March 2025}}
+
+In 1982, Guber took ''Contact'' to [[Warner Bros. Pictures]]. As the film's [[development (film)|development]] stalled, Sagan rewrote ''Contact'' as a [[Contact (novel)|novel]], which was published by [[Simon & Schuster|Simon and Schuster]] in September 1985. The film adaptation remained in development, and Guber left [[Warner Bros.]] in 1989.<ref name=making/> Guber became the new president of [[Sony Pictures Entertainment]] and tried to purchase the [[film rights]] from Warner Bros., but the studio refused. In 1989, Obst was hired as a new executive at Warner Bros. and fast-tracked the film by hiring more writers.<ref name="making" /> [[Roland Joffé]] was hired to direct,<ref name="Ro" /> using a screenplay by [[James V. Hart]].<ref>{{cite news | author = Bernard Weinraub | title = Using a Big Budget To Ask Big Questions | work = [[The New York Times]] | date = July 6, 1997 }}</ref> Joffé almost commenced [[pre-production]], but dropped out.<ref name="Ro" /> Obst hired [[Michael Goldenberg]] to rewrite the script, who finished his second draft in late 1993.<ref name="making" /> Goldenberg's draft rekindled Warner Bros.' interest in ''Contact'',<ref name="Ro" /> and asked [[Robert Zemeckis]] to direct; he refused<ref name="making" /> in favor of making a film based on the life of [[Harry Houdini]].<ref>{{cite news | author = Michael Fleming | url = https://variety.com/1997/voices/columns/verhoeven-eyes-houdini-1116677042/ | title = Verhoeven eyes 'Houdini' | date = July 10, 1997 | work = [[Variety (magazine)|Variety]] | access-date = January 26, 2009 | archive-date = October 25, 2012 | archive-url = https://web.archive.org/web/20121025010242/http://www.variety.com/article/VR1116677042 | url-status = live }}</ref> Zemeckis liked the script, but did not like the ending, which had "the sky open up and these angelic aliens putting on a light show".<ref name="making" />
+
+In December 1993, Warner Bros. hired [[George Miller (filmmaker)|George Miller]] to direct,<ref name="Ro">{{cite news | author = John Evan Frook | url = https://variety.com/1993/film/news/wb-makes-contact-116846/ | title = WB makes 'Contact' | date = December 16, 1993 | work = [[Variety (magazine)|Variety]] | access-date = January 26, 2009 | archive-date = October 25, 2012 | archive-url = https://web.archive.org/web/20121025010207/http://www.variety.com/article/VR116846 | url-status = live }}</ref> and ''Contact'' entered pre-production. Actresses including [[Julia Roberts]] expressed interest in the role of Ellie. Miller considered [[Uma Thurman]] before he cast [[Jodie Foster]]. He approached [[Ralph Fiennes]] to play Palmer Joss, and considered casting [[Linda Hunt]] as the US president.{{Citation needed|date=March 2025}}
+
+In addition to having aliens put on a [[laser lighting display]] around Earth, another version of the Goldenberg scripts had an alien wormhole swallow up the planet, transporting Earth to the center of the galaxy. Miller also asked Goldenberg to rewrite ''Contact'' to portray the [[pope]] as a key supporting character. Warner Bros. was hoping to have the film ready for release by Christmas 1996, but pre-production lasted longer than expected.<ref name=making/><ref name="vulture oral" /> Warner Bros. fired Miller, blaming pushed-back start dates, budget concerns, and Miller's insistence that the script needed five more weeks of rewriting.<ref name="making" />
+
+Zemeckis decided to accept the offer to direct. Warner Bros. granted him total [[artistic control]] and [[final cut privilege]].<ref name="making" /> Zemeckis cast Matthew McConaughey as Palmer Joss; McConaughey dropped out of the lead role in ''[[The Jackal (1997 film)|The Jackal]]'' to take the role.<ref>{{cite news | author = Michael Fleming | url = https://variety.com/1996/voices/columns/mcconaughey-inks-with-wb-1117465974/ | title = McConaughey inks with WB | date = December 16, 1996 | work = [[Variety (magazine)|Variety]] | access-date = January 26, 2009 | archive-date = October 25, 2012 | archive-url = https://web.archive.org/web/20121025010306/http://www.variety.com/article/VR1117465974 | url-status = live }}</ref> Despite being diagnosed with [[Myelodysplastic syndrome|myelodysplasia]] in 1994, Sagan remained involved in the production of the film. For the cast and main crew members, he conducted an [[academic conference]] that depicted a detailed history of [[astronomy]].<ref name="making" /> The production crew watched [[Stanley Kubrick]]'s ''[[2001: A Space Odyssey]]'' (1968) for inspiration.<ref name="cinema" />
+
+===Filming===
+[[File:ContactLoco.jpg|thumb|right|Concept drawing of early NASA site idea]]
+[[File:Very Large Array -- New Mexico, U.S.A. -- 2009-08.jpg|thumb|Location filming began in September 1996 at the [[Very Large Array]] in New Mexico]]
+
+[[Principal photography]] began on September 24, 1996, and ended on February 28, 1997. The first shooting took place at the [[Very Large Array]] (VLA) near [[Socorro, New Mexico]]. "Shooting at the VLA was, of course, spectacular but also one of the most difficult aspects of our filming", producer [[Steve Starkey]] said. "It is a working facility, so in order for us to accomplish shots for the movie, we had to negotiate with the [[National Science Foundation]] for 'dish control' in order to move the dishes in the direction we needed to effect the most dramatic shot for the story."<ref name=Tech>{{cite web | url = http://contact-themovie.warnerbros.com/cmp/technology.html | title = Contact – High Technology Lends a Hand/Science of the Soundstage | publisher = [[Warner Bros.]] | access-date = January 30, 2009 |archive-url=https://web.archive.org/web/20010304211755/http://contact-themovie.warnerbros.com/cmp/technology.html |archive-date=March 4, 2001}}</ref> After arduous first weeks of [[location shooting]] in New Mexico and [[Arizona]], production for ''Contact'' returned to Los Angeles for five months' worth of location and [[sound stage]] shooting that used a total of nine soundstages at [[Warner Hollywood Studios]] in [[West Hollywood, Los Angeles, California|West Hollywood]], and [[Culver Studios]]. The [[art department]] created more than 25 [[Set construction|sets]].<ref name=Tech/>
+
+In an attempt to create a sense of realism for the storyline, principal [[CNN]] news outlet commentators were scripted into ''Contact''. More than 25 news reporters from CNN had roles in the film, and the CNN programs ''[[Larry King Live]]'' and ''[[Crossfire (U.S. TV program)|Crossfire]]'' were also included. [[Ann Druyan]] makes a [[cameo appearance]] as herself, debating with Rob Lowe's character, Richard Rank, on ''Crossfire''. In January 1997, [[second unit]] filming, directed by producer [[Steve Starkey]] took place for one week at the [[Arecibo Observatory]] in [[Puerto Rico]].
+
+Other second-unit work took place in Fiji, [[Saint John, US Virgin Islands]] and [[Newfoundland]], [[Canada]]. Also essential to the production were a host of technical consultants from the [[SETI Institute]], the [[California Institute of Technology]], the VLA and a former [[Executive Office of the President of the United States|White House staff member]] to consult on Washington, D.C., and government protocol issues.<ref name=strange>{{cite web | url = http://contact-themovie.warnerbros.com/cmp/neworlds.html | title = Creating Strange New Worlds | work = [[Warner Bros.]] | access-date = April 18, 2015 | archive-date = February 1, 2014 | archive-url = https://web.archive.org/web/20140201184245/http://contact-themovie.warnerbros.com/cmp/neworlds.html | url-status = live }}</ref> Sagan visited the set a number of times, where he also helped with last-minute rewrites. Filming was briefly delayed with the news of his death on December 20, 1996. ''Contact'' was dedicated to Sagan: "For Carl" appears on the screen at the fade.<ref name=making/>
+
+Cinematographer [[Don Burgess (cinematographer)|Don Burgess]] shot the film in [[anamorphic format]] using [[Panavision]] cameras, as well as using large-format 65&nbsp;mm and [[VistaVision]] for visual and special effects shots. The [[sound design]]ers used [[Pro Tools]] software for the [[audio mixing (film and television)|sound mixing]], which was done at [[Skywalker Sound]].<ref>{{cite news | author = Richard Buskin | url = http://www.filmsound.org/randythom/contact.htm | title = Making Contact | work = FilmSound.org | access-date = January 30, 2009 | archive-date = March 16, 2021 | archive-url = https://web.archive.org/web/20210316125759/http://filmsound.org/randythom/contact.htm | url-status = live }}</ref>
+
+===Visual effects===
+[[File:Contact-Machine.jpg|thumb|right|The second Machine in operation at [[Hokkaido|Hokkaidō]], Japan]]
+
+The visual effects sequences were designed by eight VFX companies, including [[Sony Pictures Imageworks]] (SPI), [[Weta Digital]], [[Industrial Light & Magic]] (ILM), Warner Digital, and [[Effects Associates]], with [[Pixar]]'s [[RenderMan (software)|RenderMan]] used for CGI rendering. Weta Digital, in particular, was responsible for designing the [[wormhole]] sequence.<ref>{{cite book | author = Ian Pryor | title = Peter Jackson: From Prince of Splatter to Lord of the Rings | publisher = [[Thomas Dunne Books]] | year = 2003 | page = [https://archive.org/details/peterjacksonfrom0000pryo/page/206 206] | isbn = 0-312-32294-1 | location = New York City | url = https://archive.org/details/peterjacksonfrom0000pryo/page/206 }}</ref> Foster found working with [[chroma key|blue screen]] technology for the first time difficult: "It was a blue room. Blue walls, blue roof. It was just blue, blue, blue. And I was rotated on a [[Lazy Susan]] with the camera moving on a computerized arm. It was really tough."<ref name=making/>
+
+News footage of [[Bill Clinton]] was digitally altered to make it appear as if he is speaking about alien contact. Zemeckis had approached [[Sidney Poitier]] to play the president, who turned the role down in favor of ''[[The Jackal (1997 film)|The Jackal]]''.<ref>{{cite news | author = Army Archerd | url = https://variety.com/1996/voices/columns/two-titanics-on-collision-course-1117862965/ | title = Two 'Titanics' on collision course | date = August 16, 1996 | work = [[Variety (magazine)|Variety]] | access-date = January 26, 2009 | author-link = Army Archerd | archive-date = October 25, 2012 | archive-url = https://web.archive.org/web/20121025010338/http://www.variety.com/article/VR1117862965 | url-status = live }}</ref> Shortly afterwards, Clinton gave a speech about the [[Martian meteorite]] fragment [[Allan Hills 84001]], which was used in ''Contact''. Zemeckis said: "I swear to God it was like it was scripted for this movie. When he said the line 'We will continue to listen closely to what it has to say', I almost died. I stood there with my mouth hanging open."<ref name=making/> Digital [[color correction]] was used to solve [[Continuity (fiction)|continuity]] errors during the location shooting at the [[Very Large Array]] in New Mexico.<ref>{{cite news | author = Michael Mallory | url = https://www.variety.com/vstory/VR1117341655 | title = Invisible tricks of the trade | date = May 8, 1997 | work = [[Variety (magazine)|Variety]] | access-date = January 28, 2009}}</ref>
+
+The opening scene is a three-minute [[Computer-generated imagery|CGI]] sequence, beginning with a view of Earth from high in the exosphere and listening to numerous radio broadcasts emitting from the planet. The camera zooms backward, passing the Moon, Mars, and other features of the [[Solar System]], then to the [[Oort cloud]], [[interstellar space]], the [[Local Bubble]], the [[Milky Way]], other galaxies of the [[Local Group]], and eventually into deep space. As this occurs, the radio signals start to drop out and reflect older programming, representing the distance these signals would have traveled at the speed of light, eventually becoming silent as the distance becomes much greater. The sequence eventually resolves into the iris of young Ellie's eye as she is listening on her [[amateur radio]] base station. The scale-view shot of the entire universe was inspired by the short documentary film ''[[Powers of Ten (film)|Powers of Ten]]'' (1977). At the time, it was the longest continuous computer-generated sequence in a live-action film, eventually surpassed by the opening of ''[[The Day After Tomorrow]]'' (2004).<ref>{{cite web | author = Tim Dirks | url = http://www.filmsite.org/visualeffects19.html | title = Milestones in Film History: Greatest Visual and Special Effects and Computer-Generated Imagery (CGI). Part 16 | work = [[Filmsite.org]] | access-date = January 29, 2009 | archive-date = May 19, 2021 | archive-url = https://web.archive.org/web/20210519094702/https://www.filmsite.org/visualeffects19.html | url-status = live }}</ref>
+
+One sequence, with young Ellie running upstairs to try to retrieve her father's medicine, appears to have Ellie running just behind a camera as they move into the bathroom, but the shot resolves to show that this was part of the medicine cabinet mirror's reflection, pulling back to have Ellie open it. It is noted as one of the film's most impressive visual effects due to the seamlessness of the transition. According to Carin-Anne Strohmaier, first assistant film editor, the shot was created through three different [[Photographic plate|plates]] and manipulated in CGI to create the effect: one plate was from the cameraman leading Ellie, the second of Ellie opening the cabinet door (which was a blue screen instead of a mirror), and the third of the reflection of the photograph of Ellie and her father when the door closes.<ref>{{cite web | url = https://www.slashfilm.com/contact-mirror-shot/ | title = You Probably Didn't Notice This Shot in 'Contact' Was Done with Visual Effects | first = Ethan | last = Anderton | date = January 17, 2017 | access-date = January 9, 2018 | work = [[/Film]] | archive-date = January 10, 2018 | archive-url = https://web.archive.org/web/20180110114646/http://www.slashfilm.com/contact-mirror-shot/ | url-status = live }}</ref>
+
+In the sequence with the death of Ellie's father, they planned to use an effect similar to [[bullet time]] from ''[[The Matrix]]'' to show him stopped in time as he died. As the movie was filmed, they found the approach did not fit the casting or the direction the film was going. They decided it would be most effective to create something distressing but with Ellie's father absent from the shot, leading to the development of the mirror sequence.<ref>{{cite web | url = https://vfxblog.com/2017/07/10/the-famous-mirror-shot-in-contact-was-almost-something-else-entirely/ | title = The famous mirror shot in 'Contact' was almost something else entirely | first = Ian | last = Failes | date = July 10, 2017 | access-date = January 9, 2018 | work = VGX Blog | archive-date = January 10, 2018 | archive-url = https://web.archive.org/web/20180110054816/https://vfxblog.com/2017/07/10/the-famous-mirror-shot-in-contact-was-almost-something-else-entirely/ | url-status = live }}</ref>
+
+The decoding of the extraterrestrial message, with its architectural drawings of the machine, was created by Ken Ralston and Sony Pictures Imageworks. It was Zemeckis's and Ralston's sixth film collaboration. Imageworks created more than 350 visual effect shots, using a combination of model and miniature shots and digital graphics. On designing the Machine, Zemeckis said, "The Machine in Sagan's novel was somewhat vague, which is fine for a book. In a movie, though, if you're going to build a giant physical structure of alien design, you have to make it believable... It had to be huge, so that the audience would feel like it was bigger than man should be tinkering with. It had to look absolutely real."<ref name="Tech" /> The machine was designed by concept artist Steve Burg, reusing a design he created as a "time-displacement device" for an unused scene in [[Terminator 2: Judgment Day|''Terminator 2'']].<ref>{{cite web |url=http://www.steveburg.com/film_tv.html |title=Steve Burg homepage |access-date=September 9, 2009 |work=Steve Burg |url-status=dead |archive-url=https://web.archive.org/web/20091215063502/http://www.steveburg.com/film_tv.html |archive-date=December 15, 2009 }}</ref>
+
+Early conceptual designs of the Pod were based, as in the novel, on one of the primary shapes in geometry: a [[dodecahedron]], or a twelve-sided body. Eventually it was modified to a spherical capsule that encased the traveler, with a dodecahedron surrounding the sphere. Zemeckis and the production crew also made several visits to the [[Kennedy Space Center]] at [[Merritt Island]] adjacent to [[Cape Canaveral]], where officials gave them access to sites off-limits to most visitors. Filmmakers were also brought onto [[Kennedy Space Center Launch Complex 39|Launch Complex 39]] before the launch of the Space Shuttle,<ref name="Tech" /> where they studied the mechanics of the elevator, gantry area and loading arm for the design of the Machine's surrounding supports and gantry. Once the concept met with the filmmakers' approval, physical construction began on the sets for the Pod, elevator interior and gantry, which took almost four months. The rest of the effects were compiled digitally by Imageworks.<ref name="Tech" />
+
+The climactic scene depicting the mysterious beach near the galactic core where Arroway makes contact, in particular, called for major visual innovations. The goal was an idyllic seashore with a sky blazing with stars that might exist near the core of the galaxy. Ralston said that "the thought was that this beach would have a heightened reality. One that might make the everyday world seem like a vague daydream."<ref name=cinema/> To keep the question alive whether any of it was real in Arroway's mind, elements such as ocean waves running in reverse and palm tree shadows swaying with sped-up motion were applied.<ref name=cinema/> The Hitler newsreel also required digital manipulation.<ref name="cinema" />
+
+===Music===
+{{Infobox album
+| name       = Contact: Music from the Motion Picture
+| type       = soundtrack
+| artist     = Alan Silvestri
+| cover      =
+| alt        =
+| released   = {{start date|1997|8|19}}
+| recorded   =
+| venue      =
+| studio     =
+| genre      =
+| length     =
+| label      = [[Warner Bros. Records]]
+| producer   =
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+The [[Film score|original score]] was composed and conducted by [[Alan Silvestri]], most of which was released on August 19, 1997, by [[Warner Bros. Records]].<ref>{{cite web |url=https://www.amazon.com/dp/B000002NIY |title=Alan Silvestri, Alan Silvestri – Contact: Music From The Motion Picture |work=amazon.com |access-date=August 30, 2017 |archive-date=May 21, 2020 |archive-url=https://web.archive.org/web/20200521135549/https://www.amazon.com/dp/B000002NIY |url-status=live }}</ref> The full score is approximately an hour long, 44 minutes of which is on the CD, including every major cue. The CD track entitled "Good to Go" features a slightly different opening—a brief brass motif that is not in the film—but all other cues are identical in orchestration to the mix in the film.
+
+The Region 2 Special Edition DVD release contains a 5.1 music score track,<ref>{{cite web |url=http://www.soundtrack.net/dvd/?cid=C&id=11 |title=DVD Music |work=soundtrack.net |access-date=March 22, 2010 |archive-date=May 19, 2021 |archive-url=https://web.archive.org/web/20210519094718/https://www.soundtrack.net/dvd/?cid=C&id=11 |url-status=live }}</ref> which presents the complete score (this feature, as with many isolated scores, is not mentioned in most product descriptions of the DVD).<ref>{{cite web |url=https://www.amazon.co.uk/dp/B00004CX8A |title=Contact (Special Edition) [1997] [DVD] |work=amazon.co.uk |access-date=August 30, 2017 |archive-date=May 17, 2020 |archive-url=https://web.archive.org/web/20200517040238/https://www.amazon.co.uk/dp/B00004CX8A |url-status=live }}</ref><ref>{{cite web |url=http://www.play.com/DVD/DVD/4-/1871/Contact-Special-Edition/Product.html |title=Rakuten.co.uk Shopping: DVD – DVD & Blu-ray |work=play.com |url-status=dead |archive-url=https://web.archive.org/web/20100726170515/http://www.play.com/DVD/DVD/4-/1871/Contact-Special-Edition/Product.html |archive-date=July 26, 2010 }}</ref>
+
+==Themes==
+''Contact'' often suggests that cultural conflicts between religion and science would be brought to the fore by the apparent contact with aliens that occurs in the film. A point of discussion is the [[existence of God]], with several different positions being portrayed.<ref name=cinema/> A description of an emotionally intense [[religious experience|experience]] by Palmer Joss, which he describes as seeing God, is met by Arroway's suggestion that "some part of [him] needed to have it"—that it was a significant personal experience but indicative of nothing greater. Joss compares his certainty that God exists to Arroway's certainty that she loved her deceased father, despite her being unable to prove it.<ref name=cinema/>
+
+''Contact'' depicts intense debate occurring as a result of the apparent contact with aliens. Many clips of well-known debate shows such as ''[[Crossfire (U.S. TV program)|Crossfire]]'' and ''[[Larry King Live]]'' are shown, with participants discussing the implications of the message, asking whether it is proof of the existence of alien life or of God, and whether science is encroaching upon religious ground by, as one believer puts it, "talking to your god for you".<ref name=comment/> The head of a religious organization casts doubt on the morality of building the machine, noting: "We don't even know whether [the aliens] believe in God." The first machine is ultimately destroyed by a Christian extremist, in the belief that building it was detrimental to humankind.<ref name=cinema/>
+
+Although the revelation at the end of the film that Arroway's recording device recorded approximately 18 hours of noise is arguably conclusive proof of the fact of—if not the experience of—her "journey", several coincidences and indications throughout the film cast doubt on its authenticity. Zemeckis said: "The point of the movie is for there always to be a certain amount of doubt [as to whether the aliens were real]."<ref name=comment/> These indications consist mostly of visual cues during the "journey" that echo Ellie's experiences earlier in the film (which Ellie believed to be the result of the aliens "downloading [her] thoughts and memories"), but the timing of the message's arrival and its eventual decoding are also coincidental: the message was first received shortly before Arroway and her team were to be ejected from the VLA facility and was successfully decoded only by S. R. Hadden (Arroway's only sponsor, who was close to death from cancer) after weeks of failed attempts by the team at the VLA.<ref name=comment/>
+
+At the end of the film, Arroway is put into a position that she had traditionally viewed with skepticism and contempt: that of believing something with complete certainty, despite being unable to prove it in the face of not only widespread incredulity and skepticism (which she admits that as a scientist she would normally share) but also evidence apparently to the contrary.<ref name=comment/>
+
+Zemeckis stated that he intended the message of the film to be that science and religion can coexist rather than being opposing camps,<ref name=comment>[[Robert Zemeckis]], [[Steve Starkey]], DVD [[audio commentary]], 1997, [[Warner Home Video]].</ref> as shown by the coupling of scientist Arroway with the religious Joss, as well as his acceptance that the "journey" indeed took place. This, and scattered references throughout the film, posit that science and religion are not nominally incompatible: one interviewer, after asking Arroway whether the construction of the machine—despite not knowing what will happen when it is activated—is too dangerous, suggests that it is being built on the "faith" that the alien designers, as Arroway puts it, "know what they're doing".<ref name=cinema/>
+
+==Release==
+[[File:Contact uniforms.jpg|thumb|Uniforms from the film at [[Stockholm International Fairs]] 2011]]
+
+''Contact''{{'}}s release in July 1997 rekindled public interest in Sagan's 1985 novel. The book remained on [[The New York Times Best Seller list|''The New York Times'' Best Seller list]] from July 27 to September 21, 1997.<ref>{{cite news | title = Paperback Best Seller: July 27, 1997 | url = https://www.nytimes.com/1997/07/27/books/paperback-best-sellers-july-27-1997.html | work = [[The New York Times]] | date = July 27, 1997 | access-date = January 28, 2009 | archive-date = November 9, 2012 | archive-url = https://web.archive.org/web/20121109231802/http://www.nytimes.com/1997/07/27/books/paperback-best-sellers-july-27-1997.html | url-status = live }}</ref><ref>{{cite news | title = Paperback Best Sellers: September 21, 1997 | url = https://www.nytimes.com/1997/09/21/books/paperback-best-sellers-september-21-1997.html | work = [[The New York Times]] | date = September 21, 1997 | access-date = January 28, 2009 | archive-date = November 9, 2012 | archive-url = https://web.archive.org/web/20121109231847/http://www.nytimes.com/1997/09/21/books/paperback-best-sellers-september-21-1997.html | url-status = live }}</ref>
+
+''Contact'' [[Film premiere|premiered]] on July 1, 1997, at the [[Fox Theater, Westwood Village|Village Theater]] in Los Angeles, California.<ref>{{cite news | author = Anita M. Busch | url = https://www.variety.com/vstory/VR1116677295 | archive-url = https://web.archive.org/web/20130703175437/http://variety.com/1997/scene/vpage/contact-s-starry-night-1116677295/ | archive-date = July 3, 2013 | title = 'Contact's' starry night | date = July 3, 1997 | work = [[Variety (magazine)|Variety]] | access-date = March 8, 2021}}</ref> It was released in the United States and Canada on July 11, 1997, in 1,923 theaters, earning $20,584,908 in its opening weekend, ranking in second place behind ''[[Men in Black (1997 film)|Men in Black]]''.<ref>{{cite news |url=https://www.newspapers.com/article/the-daily-news-leader-contact-earns-2/124521363/ |title='Contact' earns $20.5 million, second to 'Men in Black' |archive-url=https://web.archive.org/web/20230512220112/https://www.newspapers.com/article/the-daily-news-leader-contact-earns-2/124521363/ |date=July 14, 1997 |access-date=May 12, 2023 |archive-date=May 12, 2023 |page=2 |publisher=[[The News Leader|The Daily News Leader]] |via=[[Newspapers.com]] |url-status=live}} {{Open access}}</ref> The film would hold the record for having Jodie Foster's highest opening weekend until ''[[Panic Room]]'' replaced it in 2002.<ref>{{cite news | last=Gray | first=Brandon | url=http://www.boxofficemojo.com/news/?id=1147&p=.htm | title='Panic Room' Breaks Into the Top Spot, 'Rookie' Hits a Triple | publisher=[[Box Office Mojo]] | date=April 2, 2002 | access-date=July 15, 2010 | archive-date=December 15, 2018 | archive-url=https://web.archive.org/web/20181215222338/https://www.boxofficemojo.com/news/?id=1147&p=.htm | url-status=live }}</ref> It eventually grossed $101 million in North America and $70 million internationally, reaching a total of $171 million worldwide.<ref name="Contact" />
+
+''Contact'' was released on [[LaserDisc]], [[VHS]] and [[DVD]] in December 1997. Among the special features are three [[Audio commentary|audio commentaries]]: by director Zemeckis and producer Starkey, by visual effects supervisors Ken Ralston and Stephen Rosenbaum, and by star Jodie Foster.<ref>{{cite web | url = https://www.amazon.com/exec/obidos/ASIN/0790733226 | title = Contact (1997) | work = [[Amazon.com]] | access-date = January 27, 2009 | archive-date = August 31, 2007 | archive-url = https://web.archive.org/web/20070831192617/http://www.amazon.com/exec/obidos/ASIN/0790733226 | url-status = live }}</ref> ''Contact'' was released on [[Blu-ray Disc]] on October 6, 2009.<ref>{{cite web |title=Contact (Blu-ray Review) |website=The Digital Bits| date=November 4, 2009 |url=https://thedigitalbits.com/reviews/item/contact-bd |access-date=July 15, 2025}}</ref>
+
+== Critical reception ==
+On [[Rotten Tomatoes]], it has a rating of 69% based on reviews 68 critics, with an average score of 7.6/10. The critical consensus reads, "''Contact'' elucidates stirring scientific concepts and theological inquiry at the expense of satisfying storytelling, making for a brainy blockbuster that engages with its ideas, if not its characters."<ref name="tomatoes">{{cite web | url = https://www.rottentomatoes.com/m/1078021-contact/ | title = Contact (1997) | work = [[Rotten Tomatoes]] | publisher = [[Fandango Media]] | access-date = June 9, 2026 | archive-date = November 14, 2020 | archive-url = https://web.archive.org/web/20201114193910/https://www.rottentomatoes.com/m/1078021-contact | url-status = live }}</ref> [[Metacritic]] calculated an average score of 62 out of 100, based on 23 reviews, indicating "generally favorable" reviews.<ref name="meta">{{cite web | url = https://www.metacritic.com/movie/contact | title = Contact Reviews | work = [[Metacritic]] | publisher = [[CBS Interactive]] | access-date = February 27, 2018 | archive-date = March 7, 2018 | archive-url = https://web.archive.org/web/20180307072243/http://www.metacritic.com/movie/contact | url-status = live }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on an A+ to F scale.<ref>{{cite web |url= https://cinemascore.com/publicsearch/index/title/ |title= Cinemascore |url-status= dead |archive-url= https://web.archive.org/web/20181220122629/https://cinemascore.com/publicsearch/index/title/ |archive-date= 2018-12-20 }}</ref>
+
+[[Roger Ebert]] gave ''Contact'' three and a half out of four and wrote that it "tells the smartest and most absorbing story about extraterrestrial intelligence since ''[[Close Encounters of the Third Kind]]'' (1977). Movies like ''Contact'' help explain why movies like ''[[Independence Day (1996 film)|Independence Day]]'' leave me feeling empty and unsatisfied."<ref>{{cite news | author = Roger Ebert | title = Contact | date = July 11, 1997 | url = https://www.rogerebert.com/reviews/contact-1997 | access-date = August 14, 2020 | author-link = Roger Ebert | archive-date = August 12, 2020 | archive-url = https://web.archive.org/web/20200812163541/https://www.rogerebert.com/reviews/contact-1997 | url-status = live }}</ref> On December 21, 2011, Ebert added ''Contact'' to his "Great Movies" collection.<ref>{{cite news | url=https://www.rogerebert.com/reviews/great-movie-contact-1997 | title=Contact (1997) | access-date=August 14, 2020 | archive-date=October 31, 2014 | archive-url=https://web.archive.org/web/20141031175358/http://www.rogerebert.com/reviews/great-movie-contact-1997 | url-status=live }}</ref> [[Kenneth Turan]] of the ''[[Los Angeles Times]]'' said ''Contact'' carried a more philosophical portrait of the science fiction genre than did other films, but would still "satisfy the cravings of the general public who simply want to be entertained".<ref>{{cite news |author=Kenneth Turan |title=Foster Passes Hearing Test |url=http://www.calendarlive.com/movies/reviews/cl-movie970711-7,2,1181836.story |work=[[Los Angeles Times]] |date=July 11, 1997 |access-date=January 27, 2009 |archive-url=https://web.archive.org/web/20071120065458/http://www.calendarlive.com/movies/reviews/cl-movie970711-7%2C2%2C1181836.story |archive-date=November 20, 2007 |url-status=dead |author-link=Kenneth Turan }}</ref>
+
+The critic [[James Berardinelli]] said that ''Contact'' is "one of 1997's finest motion pictures, and is a forceful reminder that Hollywood is still capable of making magic". Berardinelli likened its awe and spectacle to [[Stanley Kubrick]]'s ''[[2001: A Space Odyssey]]'', adding that "If ''Contact'' falls short in any area, it's an inability to fully develop all of its many subplots..."<ref>{{cite web | author = James Berardinelli | title = Contact | url = http://preview.reelviews.net/movies/c/contact.html | work = ReelViews.net | access-date = January 27, 2009 | author-link = James Berardinelli | archive-date = November 16, 2018 | archive-url = https://web.archive.org/web/20181116085834/http://preview.reelviews.net/movies/c/contact.html | url-status = live }}</ref> [[Mick LaSalle]] of the ''[[San Francisco Chronicle]]'' largely enjoyed the first 90 minutes of ''Contact'' but felt that Zemeckis was too obsessed with visual effects rather than cohesive storytelling for the pivotal [[climax (narrative)|climax]].<ref>{{cite news | author = Mick LaSalle | title = Anybody There? | url = https://www.sfgate.com/entertainment/article/Anybody-There-Splendid-special-effects-make-up-2833161.php | work = [[San Francisco Chronicle]] | date = July 11, 1997 | access-date = January 27, 2009 | author-link = Mick LaSalle | archive-date = November 20, 2007 | archive-url = https://web.archive.org/web/20071120234431/http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fc%2Fa%2F1997%2F07%2F11%2FDD67803.DTL | url-status = live }}</ref> Rita Kempley, writing in ''[[The Washington Post]]'', did not like the premise, which she described as "a preachy debate between sanctity and science".<ref>{{cite news | author = Rita Kempley | url = https://www.washingtonpost.com/wp-srv/style/longterm/movies/review97/contactkempley.htm | title = Contact | newspaper = [[The Washington Post]] | date = July 11, 1997 | access-date = January 27, 2009 | archive-date = November 7, 2012 | archive-url = https://web.archive.org/web/20121107103919/http://www.washingtonpost.com/wp-srv/style/longterm/movies/review97/contactkempley.htm | url-status = live }}</ref>
+
+===Awards===
+{{sticky header}}
+{| class="wikitable sticky-header"
+!Association
+!Category
+!Recipient
+!Results
+|-
+| rowspan="3" |20/20 Awards
+|Best Actress
+|[[Jodie Foster]]
+|{{Nominated}}
+|-
+|Best Adapted Screenplay
+| [[James V. Hart]] & [[Michael Goldenberg]]
+|{{Nominated}}
+|-
+|colspan=2|Best Visual Effects
+|{{Nominated}}
+|-
+|[[Academy Awards]]
+|[[Academy Award for Best Sound|Best Sound]]
+|[[Randy Thom]]<br />[[Tom Johnson (composer)|Tom Johnson]]<br />[[Dennis S. Sands]]<br />[[William B. Kaplan]]
+|{{Nominated}}
+|-
+|[[Annie Award]]s
+|[[Annie Award|Best Individual Achievement: Effects Animation]]
+|Jay Redd
+|{{Nominated}}
+|-
+|[[American Society of Composers, Authors and Publishers|ASCAP Film and Television Music Awards]]
+|[[American Society of Composers, Authors and Publishers|Top Box Office Films]]
+|[[Alan Silvestri]]
+|{{Won}}
+|-
+| rowspan="3" |[[Blockbuster Entertainment Awards]]
+|[[Blockbuster Entertainment Awards|Favorite Actor – Drama]]
+|[[Matthew McConaughey]]
+|{{Nominated}}
+|-
+|[[Blockbuster Entertainment Awards|Favorite Actress – Drama]]
+|[[Jodie Foster]]
+|{{Nominated}}
+|-
+|[[Blockbuster Entertainment Awards|Favorite Supporting Actor – Drama]]
+|[[Tom Skerritt]]
+|{{Nominated}}
+|-
+|[[Chicago Film Critics Association|Chicago Film Critics Association Awards]]
+|[[Chicago Film Critics Association Award for Best Actress|Best Actress]]
+|[[Jodie Foster]]
+|{{Nominated}}
+|-
+|[[Cinema Audio Society Awards]]
+|[[Cinema Audio Society Awards|Outstanding Achievement in Sound Mixing for Feature Films]]
+|[[Randy Thom]]<br />[[Tom Johnson (composer)|Tom Johnson]]<br />[[Dennis S. Sands]]<br />[[William B. Kaplan]]
+|{{Nominated}}
+|-
+|[[Dallas–Fort Worth Film Critics Association|Dallas-Fort Worth Film Critics Association Awards]]
+|[[Dallas–Fort Worth Film Critics Association Award for Best Film|Best Picture]]
+|{{n/a}}
+|{{Nominated}}
+|-
+|[[Golden Globe Award]]s
+|[[Golden Globe Award for Best Actress in a Motion Picture – Drama|Best Lead Actress in a Motion Picture – Drama]]
+|[[Jodie Foster]]
+|{{Nominated}}
+|-
+|[[Hugo Award]]s
+|[[Hugo Award for Best Dramatic Presentation|Best Dramatic Presentation]]
+|[[Robert Zemeckis]]<br />[[James V. Hart]]<br />[[Michael Goldenberg]]<br />[[Carl Sagan]]<br />[[Ann Druyan]]
+|{{Won}}
+|-
+|[[Humanitas Prize|Humanitas Prize Awards]]
+|[[Humanitas Prize|Feature Film Category]]
+|[[James V. Hart]] & [[Michael Goldenberg]]
+|{{Nominated}}
+|-
+|International Monitor Awards
+|Theatrical Releases – Electronic Visual Effects
+|[[Ken Ralston]]<br />[[Stephen Rosenbaum]]<br />[[Jerome Chen (special effects artist)|Jerome Chen]]<br />Jay Redd<br />Sheena Duggal<br />David Jones<br />Debbie Denise
+|{{Won}}
+|-
+|[[Jupiter Award (film award)|Jupiter Awards]]
+|[[Jupiter Award (film award)|Best International Actress]]
+|[[Jodie Foster]]
+|{{Won}}
+|-
+|[[Motion Picture Sound Editors|Motion Picture Sound Editors Awards]]
+|[[Motion Picture Sound Editors|Best Sound Editing – Sound Effects & Foley]]
+|{{n/a}}
+|{{Nominated}}
+|-
+|[[NAACP Image Awards]]
+|[[NAACP Image Award for Outstanding Supporting Actress in a Motion Picture|Outstanding Supporting Actress in a Motion Picture]]
+|[[Angela Bassett]]
+|{{Nominated}}
+|-
+|[[Online Film Critics Society|Online Film Critics Society Awards]]
+|[[Online Film Critics Society Discontinued Awards|Top Ten Films of the Year]]
+|{{n/a}}
+|{{Won}}
+|-
+|[[Rembrandt Award]]s
+|[[Rembrandt Award|Best Actress]]
+| rowspan="2" |[[Jodie Foster]]
+|{{Won}}
+|-
+|[[Santa Barbara International Film Festival|Santa Barbara International Film Festival Awards]]
+|[[Santa Barbara International Film Festival|Modern Master Award]]
+|{{Won}}
+|-
+| rowspan="2" |[[Satellite Awards]]
+|[[Satellite Award for Best Visual Effects|Best Visual Effects]]
+|[[Ken Ralston]]
+|{{Won}}
+|-
+|[[Satellite Award for Best Cinematography|Best Cinematography]]
+|[[Don Burgess (cinematographer)|Don Burgess]]
+|{{Nominated}}
+|-
+| rowspan="7" |[[Saturn Award]]s
+|[[Saturn Award for Best Science Fiction Film|Best Science Fiction Film]]
+|Phil Benson & [[Randy Thom]]
+|{{Nominated}}
+|-
+|[[Saturn Award for Best Director|Best Director]]
+|[[Robert Zemeckis]]
+|{{Nominated}}
+|-
+|[[Saturn Award for Best Writing|Best Writer]]
+|[[James V. Hart]] & [[Michael Goldenberg]]
+|{{Nominated}}
+|-
+|[[Saturn Award for Best Actress|Best Actress]]
+| [[Jodie Foster]]
+|{{Won}}
+|-
+|[[Saturn Award for Best Performance by a Younger Actor|Best Performance by a Younger Actor/Actress]]
+| [[Jena Malone]]
+|{{Won}}
+|-
+|[[Saturn Award for Best Music|Best Music]]
+|[[Alan Silvestri|Alan Silverstri]]
+|{{Nominated}}
+|-
+|[[Saturn Award for Best Special Effects|Best Special Effects]]
+|[[Ken Ralston]]<br />[[Stephen Rosenbaum]]<br />[[Jerome Chen (special effects artist)|Jerome Chen]]<br />[[Mark Holmes (filmmaker)|Mark Holmes]]
+|{{Nominated}}
+|-
+|World Animation Celebration Awards
+|Best Use of Animation as a Special FX in a Theatrical
+|{{n/a}}
+|{{Won}}
+|}
+
+==Reactions==
+
+===Bill Clinton===
+In 1984, a meteorite called [[Allan Hills 84001]], thought to be from [[Mars]], was found in Antarctica. Twelve years later, an article by NASA scientist [[David S. McKay]] was published in the journal [[Science (journal)|''Science'']], proposing that the meteorite might contain evidence for microscopic fossils of Martian bacteria (later, a disputed interpretation).<ref>{{cite web |title=After 10 years, few believe life on Mars |url=https://www.usatoday.com/tech/science/space/2006-08-06-mars-life_x.htm |last=Crenson |first=Matt |publisher=Associated Press (on usatoday.com) |date=August 6, 2006 |access-date=December 6, 2009 |archive-date=June 7, 2012 |archive-url=https://web.archive.org/web/20120607014946/http://www.usatoday.com/tech/science/space/2006-08-06-mars-life_x.htm |url-status=live }}</ref><ref>{{Cite journal |last=McKay |first=David S. |s2cid=40690489 |year=1996 |title=Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001 |journal=Science |pmid=8688069 |volume=273 |issue=5277 |pages=924–930 |doi=10.1126/science.273.5277.924 |bibcode = 1996Sci...273..924M |display-authors=etal}}</ref> The announcement made headlines around the world, and the following day, on August 7, 1996, during a press conference about the news, the President of the United States, [[Bill Clinton]], made remarks that were in places sufficiently generic in nature to allow fragments of his videotaped statement to be included in ''Contact'', implying that Clinton was ostensibly speaking about contact with extraterrestrial life, congruent with the film's story:<ref>[http://www.criticalcommons.org/Members/ccManager/clips/the-real-adolf-hitler-and-the-real-bill-clinton-in-contact The real Adolf Hitler and the real Bill Clinton in Contact] {{Webarchive|url=https://web.archive.org/web/20131011041856/http://www.criticalcommons.org/Members/ccManager/clips/the-real-adolf-hitler-and-the-real-bill-clinton-in-contact |date=October 11, 2013 }} (Video from ''Contact'', and commentary) Critical Commons. Retrieved: July 21, 2013.</ref>
+
+{{blockquote|Good afternoon. I'm glad to be joined by my science and technology adviser ...''[words cut by film editors]''... This is the product of years of exploration ...''[words cut]''... by some of the world's most distinguished scientists. Like all discoveries, this one will and should continue to be reviewed, examined, and scrutinized. It must be confirmed by other scientists. But clearly, the fact that something of this magnitude is being explored is another vindication ...''[film scene performed over recording, with dialogue obscuring Clinton's remarks and creating a gap]''... If this discovery is confirmed, it will surely be one of the most stunning insights into our universe that science has ever uncovered. Its implications are as far reaching and awe inspiring as can be imagined. Even as it promises answers to some of our oldest questions, it poses still others even more fundamental. We will continue to listen closely to what it has to say as we continue the search for answers and for knowledge that is as old as humanity itself but essential to our people's future. Thank you.<ref>[http://www.presidency.ucsb.edu/ws/?pid=53170 Remarks on the Possible Discovery of Life on Mars and an Exchange With Reporters] {{Webarchive|url=https://web.archive.org/web/20150105122428/http://www.presidency.ucsb.edu/ws/?pid=53170 |date=January 5, 2015 }}. William J. Clinton at The American Presidency Project, 1996-08-07.</ref>}}
+
+Later in the film, a separate fragment of generic remarks by President Clinton, speaking about [[Saddam Hussein]] and Iraq at a different press conference in October 1994, was lifted out of context and inserted into ''Contact'':<ref>[http://www.presidency.ucsb.edu/ws/?pid=49247 The President's News Conference] {{Webarchive|url=https://web.archive.org/web/20150105122505/http://www.presidency.ucsb.edu/ws/?pid=49247 |date=January 5, 2015 }}. William J. Clinton at The American Presidency Project, October 7, 1994.</ref>
+
+{{blockquote|I would encourage you not to inflame this situation beyond the facts. Let us deal with this on the facts. We are monitoring what has actually happened.}}
+
+On July 14, 1997, three days after the film opened in the United States, Warner Bros. received a letter from [[White House Counsel]] [[Charles Ruff]] protesting against the use of Clinton's digitally-composited appearance. The letter made no demands, but called the duration and manner of Clinton's appearance "inappropriate". No legal action was planned; the White House Counsel simply wanted to send a message to Hollywood to avoid unauthorized uses of the President's image. Zemeckis was reminded that official White House policy "prohibits the use of the President in any way ... (that) implies a direct ... connection between the President and a commercial product or service".<ref name=Willy/>
+
+A Warner Bros. spokeswoman explained: "We feel we have been completely frank and upfront with the White House on this issue. They saw scripts, they were notified when the film was completed, they were sent a print well in advance of the film's July 11 opening, and we have confirmation that a print was received there July 2." However, Warner Bros. did concede that they never pursued or received formal release from the White House for the use of Clinton's image. While the Counsel commented that parody and satire are protected under the [[First Amendment to the United States Constitution|First Amendment]], press secretary [[Mike McCurry (press secretary)|Mike McCurry]] believed that "there is a difference when the President's image, which is his alone to control, is used in a way that would lead the viewer to believe he has said something he really didn't say".<ref name=Willy/>
+
+===CNN===
+Shortly after the White House's complaint, [[CNN]] chairman, president, and CEO [[Tom Johnson (journalist)|Tom Johnson]] announced he believed that in hindsight it was a mistake to allow 13 members of CNN's on-air staff (including [[John Holliman]], [[Larry King]] and [[Bernard Shaw (journalist)|Bernard Shaw]]) to appear in the film, even though both CNN and Warner Bros. were owned by [[Time Warner]]. Johnson added that, for ''Contact'', the CNN presence "creates the impression that we're manipulated by Time Warner, and it blurs the line". CNN then changed their policies for future films, which now require potential appearances to be cleared through their ethics group.<ref name=Willy>{{cite news | author = Staff | url = https://variety.com/1997/film/news/cameo-crisis-on-contact-1116676904/ | title = Cameo crisis on 'Contact' | date = July 15, 1997 | work = [[Variety (magazine)|Variety]] | access-date = January 26, 2009 | archive-date = October 25, 2012 | archive-url = https://web.archive.org/web/20121025010704/http://www.variety.com/article/VR1116676904 | url-status = live }}</ref>
+
+===NASA===
+The scene where the [[NASA]] scientists give Arroway the "[[Suicide pill|cyanide pill]]" caused some controversy during production and when the film came out. [[Gerald D. Griffin]], the film's NASA advisor, insisted that NASA has never given any astronaut a cyanide pill "just in case", and that if an astronaut truly wished to commit suicide in space, all they would have to do is cut off their oxygen supply.<ref name=comment/> However, Sagan insisted that NASA had given cyanide pills to every astronaut on every mission. Zemeckis left the suicide pill in the film to add suspense and because it was consistent with Sagan's beliefs and vision of the film.<ref name=comment/> 
+
+Along with being NASA Technical Consultant for the project, Griffin had a [[cameo appearance|cameo]] in the role of "Dynamics" in Mission Control. He was a technical advisor for Ron Howard's 1995 film ''[[Apollo 13 (film)|Apollo 13]]''. While working for NASA during the [[Apollo Program]], he was a flight director for that mission, among others, and in the 1980s was director of the [[Johnson Space Center]].{{Citation needed|date=March 2026}}
+
+===SETI===
+In 2011, [[Seti.org]] published a review of the film where they gave a side-by-side chart of a few relevant details from the film, and how they differed from reality.<ref name="setiorg" /> One example being that, despite having 27 radio telescopes, the VLA is actually smaller and less sensitive than the Arecibo Observatory—making Arecibo a better location for SETI work, if possibly a less photogenic filming location than the [[Karl G. Jansky Very Large Array|VLA]]. Despite these inconsistencies, they maintained that "''Contact'' is indescribably more accurate in its depiction of SETI than any Hollywood film in history".<ref>{{cite web |url=https://www.seti.org/news/contact-movie/ |access-date=30 March 2026 |title=Contact (Movie) |website=[[SETI Institute]]}}</ref>
+
+==Lawsuits==
+Director [[George Miller (producer)|George Miller]], who had developed ''Contact'' with Warner Bros. before Zemeckis' hiring, unsuccessfully sued the studio over [[breach of contract]] policies.<ref name=making/> During filming on December 28, 1996, filmmaker [[Francis Ford Coppola]] filed a lawsuit against Warner Bros. and Sagan, who had died the previous week.<ref name="Cope" /><ref name="Scott" /> Coppola claimed that Sagan's novel was based on a story the pair had developed for a television special<ref name="diss" /> back in 1975,<ref name="Cope" /> titled ''First Contact''. Under their development agreement,<ref name="diss" /> Coppola and Sagan were to split proceeds from the project, as well as from any novel Sagan would write, with [[American Zoetrope]] and the [[Sesame Workshop|Children's Television Workshop]]. The TV program was never produced, but in 1985, Simon and Schuster published ''Contact'', and Warner moved forward with development of a film adaptation. Coppola sought at least $250,000 in compensatory damages and an injunction against production or distribution of the film.<ref name="Cope">{{cite news | author = Staff | url = https://variety.com/1996/scene/vpage/zoetrope-sues-over-contact-1117436227/| title = Zoetrope sues over 'Contact' | date = December 30, 1996 | work = [[Variety (magazine)|Variety]] | access-date = September 30, 2022}}</ref>
+
+In February 1998, Los Angeles Superior Court Judge Ricardo Torres dismissed Coppola's claim. Although Torres agreed that Sagan violated some terms of the contract, he explained that Coppola waited too long to file his lawsuit, and that the contract might not be enforceable as it was written. Coppola then appealed his suit,<ref name=diss>{{cite news | author = Paul Karon | url = https://variety.com/1998/film/news/coppola-s-contact-claim-is-dismissed-1117467799/ | title = Coppola's 'Contact' claim is dismissed | date = February 17, 1998 | work = [[Variety (magazine)|Variety]] | access-date = January 28, 2009 | archive-date = October 25, 2012 | archive-url = https://web.archive.org/web/20121025010840/http://www.variety.com/article/VR1117467799 | url-status = live }}</ref> taking it to the [[California Courts of Appeal]] (CCA). In April 2000, the CCA dismissed his suit, finding that Coppola's claims were barred because they were brought too late. The court noted that it was not until 1994 that the filmmaker thought about suing over ''Contact''.<ref name=Scott>{{cite news | author = Janet Shprintz | url = https://variety.com/2000/film/news/coppola-loses-contact-1117780544/ | title = Coppola loses 'Contact' | date = February 13, 2000 | work = [[Variety (magazine)|Variety]] | access-date = January 28, 2009 | archive-date = October 25, 2012 | archive-url = https://web.archive.org/web/20121025010810/http://www.variety.com/article/VR1117780544 | url-status = live }}</ref>
+
+==See also==
+* "[[The Borderland]]" (''The Outer Limits'' episode)
+* [[List of films featuring extraterrestrials]]
+* {{Annotated link|List of films featuring space stations}}
+* {{Annotated link|Wow! signal}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{Cite book | author = Keay Davidson | title = Carl Sagan: A Life | publisher = John Wiley & Sons | year = 1999 | isbn = 0-471-25286-7 | location = New York City | url = https://archive.org/details/carlsaganlife00davi }}
+* Tibbetts, John C., and James M. Welsh, eds. ''The Encyclopedia of Novels Into Film'' (2nd ed. 2005) pp 69–72.
+
+==External links==
+* {{Official website}}
+* {{IMDb title}}
+* {{TCMDb title|319794}}
+* {{AFI film|60697}}
+* [http://www.vfxhq.com/1997/contact.html Visual effects analysis]
+* [http://sfy.ru/sfy.html?script=contact September 8, 1995 screenplay]
+* [http://www.coseti.org/klaescnt.htm In-depth analysis of the realism of the film and novel]
+* [https://web.archive.org/web/20120506065611/http://www.seti.org/seti-institute/project/details/contact-movie SETI Institute - ''Contact'' the Movie]
+* [http://www.romangerodimos.com/on-location/contact/ On Location: Revisiting ''Contact'' - a Tribute to Carl Sagan]
+
+{{Robert Zemeckis}}
+{{Carl Sagan}}
+{{Hugo Award for Best Dramatic Presentation 1981–2002}}
+{{Authority control}}
+
+[[Category:1997 films]]
+[[Category:1997 drama films]]
+[[Category:1997 science fiction films]]
+[[Category:1997 American films]]
+[[Category:1997 English-language films]]
+[[Category:1990s science fiction drama films]]
+[[Category:English-language science fiction drama films]]
+[[Category:American science fiction drama films]]
+[[Category:CNN]]
+[[Category:Cultural depictions of Bill Clinton]]
+[[Category:Films with atheism-related themes]]
+[[Category:Philosophical fiction]]
+[[Category:Hard science fiction films]]
+[[Category:Fiction set around Vega]]
+[[Category:Films about first contact]]
+[[Category:Search for extraterrestrial intelligence in film and television]]
+[[Category:American films about extraterrestrial life]]
+[[Category:Films about amateur radio]]
+[[Category:Films about scientists]]
+[[Category:Films about wormholes]]
+[[Category:Films based on science fiction novels]]
+[[Category:Films set on space stations]]
+[[Category:Films set in Florida]]
+[[Category:Films set in Hokkaido]]
+[[Category:Films set in New Mexico]]
+[[Category:Films set in Puerto Rico]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films set in Wisconsin]]
+[[Category:Films shot at Culver Studios]]
+[[Category:Films shot in Arizona]]
+[[Category:Films shot in Florida]]
+[[Category:Films shot in New Mexico]]
+[[Category:Films shot in Puerto Rico]]
+[[Category:Films shot in Virginia]]
+[[Category:Films shot in Newfoundland and Labrador]]
+[[Category:Films shot in the United States Virgin Islands]]
+[[Category:Films directed by Robert Zemeckis]]
+[[Category:Films scored by Alan Silvestri]]
+[[Category:Films with screenplays by Michael Goldenberg]]
+[[Category:Works by Carl Sagan]]
+[[Category:Warner Bros. films]]
+[[Category:Films produced by Robert Zemeckis]]
+[[Category:Hugo Award for Best Dramatic Presentation–winning works]]
+[[Category:Satellite Award–winning films]]
+[[Category:Saturn Award–winning films]]
+[[Category:Fiction about time dilation]]

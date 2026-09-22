@@ -1,0 +1,444 @@
+{{Short description|1967 film by Mike Nichols}}
+{{Other uses}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=September 2013}}
+{{Infobox film
+| name           = The Graduate
+| image          = Graduateposter67.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Mike Nichols]]
+| producer       = [[Lawrence Turman]]
+| screenplay     = {{Plainlist|
+* [[Calder Willingham]]
+* [[Buck Henry]]
+}}
+| based_on       = {{Based on|''[[The Graduate (novel)|The Graduate]]''<br>(1963 novella)|[[Charles Webb (author)|Charles Webb]]}}
+| starring       = {{Plainlist|
+* [[Anne Bancroft]]
+* [[Dustin Hoffman]]
+* [[Katharine Ross]]
+}}
+| music          = {{Plainlist|
+* [[Paul Simon]] (songs)
+* [[Dave Grusin]] (score)
+}}
+| cinematography = [[Robert Surtees (cinematographer)|Robert Surtees]]
+| editing        = [[Sam O'Steen]]
+| studio         = Lawrence Turman Productions
+| distributor    = {{Plainlist|
+* [[Embassy Pictures]] (U.S.)
+* [[United Artists]] (International)<ref name=bbfc /><ref>{{cite web|title=The Graduate (16mm)|website=[[Australian Classification Board]]|date=August 30, 2019|access-date=8 October 2021|url=https://www.classification.gov.au/titles/graduate-2}}</ref>
+}}
+| released       = {{Film date|1967|12|20|premiere|1967|12|21|U.S.|ref2=<ref name=AFI>{{AFI film|23387}}</ref>}}
+| runtime        = 106 minutes<!--Theatrical runtime: 105:19--><ref name=bbfc>{{cite web|title=The Graduate (12A) |url=https://www.bbfc.co.uk/release/the-graduate-q29sbgvjdglvbjpwwc0ynjqzntq |website=[[British Board of Film Classification]]| date=July 1, 1970| access-date=2013-09-20| archive-date=March 5, 2016| archive-url=https://web.archive.org/web/20160305144253/http://www.bbfc.co.uk/releases/graduate-1970-1| url-status=live}}</ref>
+| country        = United States
+| language       = English
+| budget         = $3 million
+| gross          = {{ubl|$104.9 million (North America)<ref name=mojo>{{cite web| url=https://boxofficemojo.com/movies/?id=graduate.htm| website=[[Box Office Mojo]]| title=The Graduate, Box Office Information| access-date=2012-03-08| archive-date=July 14, 2019| archive-url=https://web.archive.org/web/20190714112526/https://www.boxofficemojo.com/movies/?id=graduate.htm| url-status=live}}</ref>}}
+}}
+
+'''''The Graduate''''' is a 1967 American [[romance film|romantic]] [[comedy-drama film]] directed by [[Mike Nichols]],<ref name="WVrev">{{cite book| title=Variety's Film Reviews| date=December 20, 1967| page=6| isbn=978-0-8240-5210-2| author1=Kaplan| publisher=Garland Pub.}}</ref> adapted by [[Buck Henry]] and [[Calder Willingham]]<ref>{{cite news | first=Bosley | last=Crowther | author-link=Bosley Crowther | title=Graduating With Honors; 'The Graduate' | website=[[The New York Times]] | date=December 31, 1967 | url=https://www.nytimes.com/1967/12/31/archives/graduating-with-honors-the-graduate.html | access-date=September 14, 2019 | archive-date=November 8, 2019 | archive-url=https://web.archive.org/web/20191108175925/https://www.nytimes.com/1967/12/31/archives/graduating-with-honors-the-graduate.html | url-status=live }}</ref> from [[Charles Webb (author)|Charles Webb]]'s [[The Graduate (novel)|1963 novella]]. It stars [[Anne Bancroft]], [[Dustin Hoffman]], and [[Katharine Ross]]. The film follows Benjamin Braddock (Hoffman), a recent college graduate who is seduced by an older married woman, Mrs. Robinson (Bancroft), but falls for her daughter, Elaine (Ross). The soundtrack was recorded by [[Simon & Garfunkel]], and featured the hit single "[[Mrs. Robinson]]".
+
+Produced [[independent film|independently]]<ref name="timelessindies">{{cite web|url=https://movieweb.com/timeless-indie-movies/ |title=The 20 Most Timeless Indie Movies |last=Sayre |first=Will |date=2023-09-24 |website=MovieWeb}}</ref> and distributed domestically by [[Embassy Pictures]], ''The Graduate'' was released December 21, 1967. It grossed $104.9{{nbsp}}million in the United States and Canada, making it the [[1967 in film|highest-grossing film of 1967]] in North America. Adjusted for inflation (as of 2021), its gross is $857 million, making it the [[list of highest-grossing films in the United States and Canada|22nd-highest-grossing film in the United States and Canada]].<ref name="all-time">{{cite web| url=https://www.boxofficemojo.com/chart/top_lifetime_gross_adjusted/| website=[[Box Office Mojo]]| title=Domestic Grosses, Adjusted for Ticket Price Inflation| access-date=2012-03-08| archive-date=February 25, 2020| archive-url=https://web.archive.org/web/20200225230917/https://www.boxofficemojo.com/chart/top_lifetime_gross_adjusted/| url-status=live}}</ref> It received seven nominations at the [[40th Academy Awards]], with Nichols winning for [[Academy Award for Best Director|Best Director]].<ref>[https://www.youtube.com/watch?v=kuiODwSISUY Mike Nichols winning the Oscar® for Directing - Oscars on YouTube]</ref>
+
+In 1996, ''The Graduate'' was selected for preservation in the U.S. [[National Film Registry]] as "culturally, historically, or aesthetically significant".<ref>{{Cite web|last1=Stern|first1=Christopher|date=1996-12-03|title=National Film Registry taps 25 more pix|url=https://variety.com/1996/scene/vpage/national-film-registry-taps-25-more-pix-1117466310/|access-date=2020-06-23|website=Variety|language=en|archive-date=August 9, 2020|archive-url=https://web.archive.org/web/20200809045257/https://variety.com/1996/scene/vpage/national-film-registry-taps-25-more-pix-1117466310/|url-status=live}}</ref><ref name="LOC" /> The [[American Film Institute]] ranked it the [[AFI's 100 Years...100 Movies|7th-greatest American film]] in 1997 and the [[AFI's 100 Years...100 Movies|17th-greatest]] in 2007. It is widely regarded as one of the [[List of films considered the best|greatest and most influential films ever made]].
+
+==Plot==
+After earning his [[bachelor's degree]], Benjamin Braddock returns to his parents' home in [[Pasadena, California]]. During his graduation party, Mrs. Robinson, the wife of his father's law partner, asks him to drive her home. Once there, she reveals that she is an alcoholic and tries to seduce him. He resists her advances, but later invites Mrs. Robinson to the Taft Hotel, where he registers under the surname Gladstone. Benjamin spends the summer idly floating in his parents' swimming pool by day and meeting Mrs. Robinson at the hotel at night.  During one of their trysts, Mrs. Robinson reveals that she and her husband married after she accidentally became pregnant with their daughter, Elaine. When Benjamin jokingly suggests that he date Elaine, Mrs. Robinson angrily forbids it.
+
+Benjamin's parents and Mr. Robinson pester Benjamin to ask Elaine out. He reluctantly takes her out, but attempts to sabotage the date by ignoring her, driving recklessly and taking her to a [[strip club]]. She flees in tears, but Benjamin chases after her, apologizes and kisses her. They eat at a [[drive-in]] restaurant, where they bond over their shared uncertainty about their future plans after college, although Elaine has not yet graduated from [[University of California, Berkeley|UC Berkeley]].  After they visit the Taft Hotel for a late-night drink and the staff greet Benjamin as Mr. Gladstone, Elaine deduces that Benjamin is having an affair. Benjamin admits to having an affair with a married woman whom he does not name. He tells Elaine the affair is over and asks to see her again.
+
+To prevent Benjamin from dating Elaine, Mrs. Robinson threatens to tell her about their affair. To thwart this, Benjamin goes to the Robinson home and tells Elaine that the married woman is her mother. Elaine throws Benjamin out of the house and returns to school at Berkeley. Benjamin follows her there, hoping to regain her affections. Elaine initially rejects him and briefly dates a medical student, Carl. When she learns her mother lied about Benjamin raping her, she reconciles with him. Benjamin pushes for marriage, but Elaine is uncertain. Mr. Robinson arrives at Berkeley and angrily confronts Benjamin. He informs him that he and Mrs. Robinson are getting divorced and threatens to have him jailed if he keeps seeing Elaine. Mr. Robinson forces Elaine to leave college to marry Carl.
+
+Benjamin drives to Pasadena and enters the Robinson home searching for Elaine. He finds Mrs. Robinson, who tells him that he cannot prevent Elaine's marriage to Carl and calls the police on him. Benjamin flees the house and drives back to Berkeley. There he discovers the wedding is in [[Santa Barbara, California|Santa Barbara]] that very day. He speeds over 300 miles to Santa Barbara, but his car runs out of gas a short distance from the church.
+
+Benjamin runs to the church, arriving just as the ceremony is ending. His desperate appearance and plaintive shouts of Elaine's name from the glass church gallery overlooking the seated wedding guests stirs Elaine into defying her mother and fleeing the sanctuary. Benjamin fights off Mr. Robinson and repels the wedding guests by swinging a large cross, which he uses to bar the church doors, trapping everyone inside. Benjamin and Elaine escape aboard a city bus and sit among the startled passengers, with Elaine still in her wedding gown. As the bus drives on, their ecstatic smiles slowly change into ambivalent expressions.
+
+==Cast==
+{{cast listing|
+* [[Anne Bancroft]] as Mrs. Robinson
+* [[Dustin Hoffman]] as Benjamin Braddock
+* [[Katharine Ross]] as Elaine Robinson
+* [[William Daniels]] as Mr. Braddock
+* [[Murray Hamilton]] as Mr. Robinson
+* [[Elizabeth Wilson]] as Mrs. Braddock
+* [[Buck Henry]] as Room Clerk
+* [[Brian Avery (actor)|Brian Avery]] as Carl Smith
+* [[Walter Brooke]] as Mr. McGuire
+* [[Norman Fell]] as Mr. McCleery
+* [[Alice Ghostley]] as Mrs. Singleman
+* [[Marion Lorne]] as Miss DeWitte
+}}
+
+Several actors make uncredited appearances in minor roles. [[Elaine May]] plays the "Girl with Note for Benjamin."<ref>Fierberg, Ruthie, "7 Things You Didn't Know About Tony Award Winner Elaine May," ''Playbill'', May 29, 2019, https://playbill.com/article/7-things-you-didnt-know-about-tony-award-winner-elaine-may</ref> [[Richard Dreyfuss]] speaks two lines, about calling "the cops", in his second film role as one of the tenants in McCleery's boarding house.  [[Ben Murphy]] plays the shaving fraternity brother who comes out with a double entendre. [[Mike Farrell]] is a hotel bellhop. [[Kevin Tighe]] is one of the showering fraternity brothers. [[Noam Pitlik]] is the service station attendant.{{citation needed|date=February 2026}}
+
+==Production==
+Getting the film made was difficult for Nichols, who, while noted for being a successful Broadway director, was still an unknown in Hollywood. Producer [[Lawrence Turman]], who wanted only Nichols to direct it, was continually turned down for financing. Turman also said that every studio turned down the project, saying "they read the book and hated it, and no one thought it was funny".<ref>{{cite web |url=https://nypost.com/2017/04/20/50-years-later-the-graduate-cast-reveals-behind-the-scenes-secrets/ |title=50 years later, 'The Graduate' cast reveals behind-the-scenes secrets | date=April 20, 2017 |website=New York Post |last=Hoffman |first=Barbara}}</ref> He then contacted producer [[Joseph E. Levine]], who said he would finance the film because he had associated with Nichols on the play ''[[The Knack ...and How to Get It|The Knack]]'',<ref name=fee/> and because he heard Elizabeth Taylor specifically wanted Nichols to direct her and Richard Burton in ''[[Who's Afraid of Virginia Woolf (film)|Virginia Woolf]]''.<ref name="Kashner">{{cite magazine|last1=Kashner|first1=Sam|title=Here's to You, Mr. Nichols: The Making of The Graduate|url=https://www.vanityfair.com/culture/features/2008/03/graduate200803|magazine=Vanity Fair|access-date=November 21, 2014|date=March 2008|archive-date=November 21, 2014|archive-url=https://web.archive.org/web/20141121115808/http://www.vanityfair.com/culture/features/2008/03/graduate200803|url-status=live}}</ref>
+
+With financing assured, Nichols suggested [[Buck Henry]] for screenwriter, although Henry's experience had also been mostly in improvised comedy, and he had no writing background. Nichols said to Henry, "I think you could do it; I think you {{em|should}} do it."<ref name="Kashner" /> Nichols was paid $150,000, and was to receive one-sixth of the profits.<ref name=fee>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=April 17, 1968|page=1|title=Nichols' $1-Mil. To Direct His Next}}</ref>
+
+===Casting===
+Nichols' first choice for Mrs. Robinson was French actress [[Jeanne Moreau]].<ref>Audio commentary by Mike Nichols and Steven Soderbergh in Criterion Collection BD and DVD.</ref> The motivation for this was the cliché that in French culture, "older" women tended to "train" the younger men in [[sexual matters]]. Casting for the project was challenging.<ref>{{cite web|url=https://cinephiliabeyond.org/the-graduate-mike-nichols-sophomore-effort-that-shook-the-united-states/ |title='The Graduate': Mike Nichols' Sophomore Effort that Shook the United States |last=Mikulec |first=Sven |website=Cinephilia Beyond|date=February 26, 2016 }}</ref> [[Doris Day]] turned down an offer because the nudity required by the role offended her.<ref name=mcgee>{{cite book| title=Doris Day: Sentimental Journey| url=https://books.google.com/books?id=cfbcA3zFlNgC&q=doris+day+graduate&pg=PT326| last=McGee| first=Garry| date=November 22, 2011| page=160| publisher=McFarland| isbn=978-0-7864-6107-3| access-date=2014-03-03}}</ref><ref>{{cite web | url=https://www.vox.com/culture/2019/5/13/18617650/doris-day-life-films-legacy-rock-hudson-terry-melcher-manson | title=Doris Day was a conservative icon amid a turbulent counterculture. But her life belied her persona | date=May 13, 2019 |website=[[Vox (website)|Vox]]}}</ref><ref>{{cite news | url=https://www.nytimes.com/2019/05/13/obituaries/doris-day-death.html | title=Doris Day, Movie Star Who Charmed America, Dies at 97 | work=The New York Times | date=May 13, 2019 | last1=Harmetz | first1=Aljean }}</ref> [[Shelley Winters]], [[Ingrid Bergman]], [[Eva Marie Saint]], [[Ava Gardner]], [[Patricia Neal]], [[Susan Hayward]], [[Deborah Kerr]], [[Rita Hayworth]], [[Lana Turner]] and [[Geraldine Page]] were also considered for the role of Mrs. Robinson.<ref name ="vulture" /><ref name="Kashner" />
+
+[[Dustin Hoffman]] was cast as Liebkind in the [[Mel Brooks]] film ''[[The Producers (1967 film)|The Producers]]'' (1967), but before filming began Hoffman begged Brooks to let him go to audition for ''The Graduate''.<ref>{{Cite web |last=Desowitz |first=Bill |date=April 25, 2018 |title='The Producers' Turns 50: Mel Brooks Explains Why His Subversive Comedy Is Still Relevant |url=https://www.indiewire.com/2018/04/the-producers-mel-brooks-interview-tcm-film-festival-1201957140/ |access-date=October 23, 2022 |website=[[IndieWire]]}}</ref> When Hoffman auditioned for the role of Benjamin, he was just short of his 30th birthday. He was asked to perform a love scene with Ross, having previously never done one, and believed that, as he said later, "a girl like [Ross] would never go for a guy like me in a million years". Ross agreed, believing that Hoffman "looked about 3 feet tall ... so unkempt. This is going to be a disaster." Producer [[Joseph E. Levine]] later admitted that he at first believed Hoffman "was one of the messenger boys". Despite – or perhaps because of – Hoffman's awkwardness, Nichols chose him for the film.<ref name="life19671124">{{cite magazine| url=https://books.google.com/books?id=eEkEAAAAMBAJ&pg=PA111| title=The Graduate| magazine=[[Life (magazine)|Life]]| date=24 November 1967| access-date=2014-03-03| last=Zeitlin| first=David| page=111| archive-date=May 10, 2013| archive-url=https://web.archive.org/web/20130510020202/http://books.google.com/books?id=eEkEAAAAMBAJ&lpg=PA71&pg=PA111| url-status=live}}</ref>
+
+"As far as I'm concerned, Mike Nichols did a very courageous thing casting me in a part that I was not right for, meaning I was Jewish," said Hoffman. "In fact, many of the reviews were very negative. It was kind of veiled anti-Semitism.... I was called 'big-nosed' in the reviews; 'a nasal voice'."<ref>{{cite web | url=https://toronto.citynews.ca/2015/03/25/dustin-hoffman-says-he-understands-the-worries-of-young-singers-in-boychoir/ | title=Dustin Hoffman says he understands the worries of young singers in 'Boychoir' | first=Victoria | last=Ahearn | date=March 25, 2015 | work=680 NEWS | access-date=2018-11-27 | archive-date=December 13, 2018 | archive-url=https://web.archive.org/web/20181213130543/https://www.680news.com/2015/03/25/dustin-hoffman-says-he-understands-the-worries-of-young-singers-in-boychoir/ | url-status=live }}</ref> Hoffman was paid $20,000 for his role in the film, and netted $4,000 after taxes and paying for temporary accommodations. After spending that money, Hoffman filed for New York State [[unemployment benefits]], receiving $55 per week while living in a two-room apartment in the [[West Village]] of [[Manhattan]].<ref>{{Cite news|last=Sullivan|first=Dan|date=1967-12-30|title=New-Found Stardom Worries Dustin Hoffman|page=15|work=The New York Times |url= https://timesmachine.nytimes.com/timesmachine/1967/12/30/91667953.html?pageNumber=15 |access-date=July 22, 2024}}</ref>
+
+Before Hoffman was cast, [[Robert Redford]] and [[Charles Grodin]] were among the top choices. Redford tested for the part of Benjamin (with [[Candice Bergen]] as Elaine), but Nichols thought Redford did not possess the underdog quality Benjamin needed.<ref name="Kashner" /> Grodin turned down the part at first because of the low $500/week salary offered by producer [[Lawrence Turman]]. Grodin was offered more money, but declined again because he did not believe he could prepare for a screen test for the film overnight. "If they had given me three days to prepare, I think I would have gotten the role," he said.<ref name="vulture">{{cite web|last=Evans |first=Bradford |title=The Lost Roles of 'The Graduate |website=Vulture |date=December 20, 2012 |url=https://www.vulture.com/2012/12/the-lost-roles-of-the-graduate.html |archive-url=https://web.archive.org/web/20201124063548/https://www.vulture.com/2012/12/the-lost-roles-of-the-graduate.html |archive-date=November 24, 2020 |url-status=live}}</ref> [[Burt Ward]] was informally offered Hoffman's role, but was already committed to the role of Robin in the [[Batman (TV series)|''Batman'' television series]].<ref>{{cite web |last1=Huver |first1=Scott |title=Holy Hollywood Star, Batman: Burt Ward Talks Road to Walk of Fame Honor |url=https://variety.com/2020/tv/features/batman-burt-ward-hollywood-walk-of-fame-interview-1203453454/ |website=Variety |language=en |date=January 9, 2020 |access-date=2020-10-01 |archive-date=February 26, 2021 |archive-url=https://web.archive.org/web/20210226132451/https://variety.com/2020/tv/features/batman-burt-ward-hollywood-walk-of-fame-interview-1203453454/ |url-status=live }}</ref>
+
+[[Harrison Ford]] also auditioned for the role of Benjamin, but was turned down.<ref>{{Cite book|url=https://books.google.com/books?id=McqLdkUnTVgC&pg=PA144|title=Harrison Ford: The Films|isbn=9780786440481|last1=Duke|first1=Brad|date=July 2008|publisher=McFarland |access-date=May 30, 2021|archive-date=June 2, 2021|archive-url=https://web.archive.org/web/20210602233120/https://books.google.com/books?id=McqLdkUnTVgC&pg=PA144|url-status=live}}</ref> [[Jack Nicholson]], [[Steve McQueen]], [[Anthony Perkins]], [[Warren Beatty]], [[George Peppard]], [[George Hamilton (actor)|George Hamilton]], [[Keir Dullea]], [[Brandon deWilde]] and [[Michael Parks]] were also considered for the role.<ref name ="vulture" /><ref name="Kashner" /><ref>{{cite news | url=https://www.theguardian.com/film/2017/jun/15/heres-to-you-mrs-robinson-why-the-graduate-unites-warring-generations-50-years-on | title=Here's to you, MRS Robinson: Why the Graduate unites warring generations 50 years on | newspaper=The Guardian | date=June 15, 2017 | last1=Jones | first1=Ellen E. }}</ref>
+
+[[Ronald Reagan]] was considered for the part of Benjamin's father Mr. Braddock, which eventually went to William Daniels.<ref>{{cite web | url=https://www.chicagotribune.com/news/ct-xpm-1997-03-28-9703280135-story.html | title=30 Years Haven't Dulled the Brilliance of 'The Graduate' | website=[[Chicago Tribune]] | date=March 28, 1997 }}</ref> Nichols cast [[Gene Hackman]] as Mr. Robinson, but he was fired after a few days of rehearsals; he was replaced by Murray Hamilton.<ref>{{cite web | url=https://www.vanityfair.com/news/2004/03/gene-hackman-dustin-hoffman-hollywood | title=Gene Hackman, Dustin Hoffman, and Robert Duvall: Three Friends Who Went from Rags to Riches | website=[[Vanity Fair (magazine)|Vanity Fair]] | date=August 15, 2013 }}</ref> Many years later, Hackman said that being fired from the film still hurt him.<ref>{{cite news|url=https://www.chicagotribune.com/1985/11/14/gene-hackman-happy-with-his-career-despite-honorable-disappointments/ |title=Gene Hackman Happy with His Career Despite 'Honorable Disappointments' |date=1985-11-14 |work=Chicago Tribune}}</ref>
+
+Despite playing mother and daughter, [[Anne Bancroft]] and [[Katharine Ross]] were only eight years apart in age. Bancroft and Hoffman differed less than six.
+
+===Filming===
+The quality of the [[cinematography]] was influenced by Nichols, who chose [[Academy Awards|Oscar]] winner [[Robert Surtees (cinematographer)|Robert Surtees]] to do the photography. Surtees, who had photographed major films since the 1920s, including ''[[Ben-Hur (1959 film)|Ben-Hur]]'', said later, "It took everything I had learned over 30 years to be able to do the job. I knew that Mike Nichols was a young director who went in for a lot of camera. We did more things in this picture than I ever did in one film."<ref name="Kashner" />
+
+Many of the exterior university campus shots of Berkeley were actually filmed on the brick campus of [[University of Southern California|USC]] in [[Los Angeles]].<ref name=USCfilming>{{cite web |title=USC's Lists & Urban Legends: Just a Few of the Feature Films Shot on the University Park Campus |url=http://www.usc.edu/dept/pubrel/trojan_family/spring06/Lists.html |last=Moore |first=Annette |work=USC Trojan Family Magazine |date=Spring 2006 |access-date=2014-03-03 |url-status=dead |archive-url=https://web.archive.org/web/20130527071350/http://www.usc.edu/dept/pubrel/trojan_family/spring06/Lists.html |archive-date=May 27, 2013 |df=mdy-all }}</ref>
+[[File:La Verne United Methodist Church (featured in last scene of The Graduate).jpg|thumb|The United Methodist Church in [[La Verne, California]] used in the final act of the film.]]
+The church used for the wedding scene is actually the United Methodist Church in [[La Verne, California|La Verne]]. In an [[audio commentary]] released with the 40th anniversary [[DVD]], Hoffman revealed he was uneasy about the scene in which he pounds on the church window, as the minister of the [[Church (building)|church]] had been watching the filming disapprovingly.<ref>{{cite AV media |people=Dustin Hoffman, Katherine Ross|date=September 11, 2007 |title= The Graduate - 40th Anniversary Collector's Edition ''(audio commentary)'' |medium=DVD |publisher=[[MGM Home Entertainment]]|oclc=
+1347390989|asin=B00000F798}}</ref><ref>{{cite web |last1=Allen |first1=David |title='The Graduate' wedding scene forever altar-ed La Verne church |url=https://www.dailybulletin.com/2017/12/21/the-graduate-wedding-scene-forever-altar-ed-la-verne-church/ |website=[[Daily Bulletin]] |access-date=22 July 2024 |date=21 December 2017}}</ref> The wedding scene was highly influenced by the ending of the 1924 comedy film ''[[Girl Shy]]'' starring [[Harold Lloyd]], who also served as an advisor for the scene in ''The Graduate''.<ref>{{cite web|url=http://www.brownpapertickets.com/event/1443795|title=Silent Salon 2015 // Girl Shy|website=brownpapertickets.com|access-date=May 29, 2015|archive-date=May 29, 2015|archive-url=https://web.archive.org/web/20150529195808/http://www.brownpapertickets.com/event/1443795|url-status=live}}</ref><ref>{{cite web|url=http://www.doctormacro.com/Movie%20Summaries/G/Girl%20Shy.htm|title=Girl Shy|website=doctormacro.com|access-date=May 29, 2015|archive-date=September 23, 2015|archive-url=https://web.archive.org/web/20150923215621/http://www.doctormacro.com/Movie%20Summaries/G/Girl%20Shy.htm|url-status=live}}</ref>
+
+==Music==
+{{See also|The Graduate (soundtrack)}}
+The film boosted the profile of [[folk-rock]] duo [[Simon & Garfunkel]]. Originally, Nichols and O'Steen used their existing songs like "[[The Sound of Silence]]" merely as a pacing device for the editing, until Nichols decided that substituting original music would not be effective, and decided to include them on the soundtrack, an unusual move at that time.<ref name=harris>{{cite book |last=Harris |first=Mark |title=Pictures at a Revolution |url=https://archive.org/details/picturesatrevolu00harr_0/page/360 |date=February 14, 2008 |publisher=The Penguin Press |pages=[https://archive.org/details/picturesatrevolu00harr_0/page/360 360–1] |isbn=978-1-5942-0152-3 |url-access=registration }}</ref>
+
+According to a ''[[Variety (magazine)|Variety]]'' article by [[Peter Bart]] in the May 15, 2005, issue, [[Lawrence Turman]], his producer, then made a deal for Simon to write three new songs for the movie. By the time they had nearly finished editing the film, Simon had written only one new song. Nichols begged him for more, but Simon, who was touring constantly, told him he did not have the time. He did play a few notes of a new song he had been working on: "It's not for the movie... It's a song about times past — about [[Eleanor Roosevelt|Mrs. Roosevelt]] and [[Joe DiMaggio]] and stuff." Nichols advised Simon, "It's now about [[Mrs. Robinson]], not Mrs. Roosevelt."<ref name=bart>{{cite news |url=https://variety.com/2005/film/columns/the-perfect-pic-alignment-1117922805/ |work=[[Variety (magazine)|Variety]] |first=Peter |last=Bart |author-link=Peter Bart |title=The perfect pic alignment |date=May 15, 2005 |access-date=September 15, 2019 |archive-date=August 9, 2020 |archive-url=https://web.archive.org/web/20200809064345/https://variety.com/2005/film/columns/the-perfect-pic-alignment-1117922805/ |url-status=live }}</ref>
+
+==Release==
+''The Graduate'' had a dual world premiere in New York City December 20, 1967, at the [[Coronet Theatre (New York City)|Coronet Theatre]], and at the Lincoln Art Theatre on 57th Street.<ref name=AFI/> Its general release began on December 21, 1967.<ref name=AFI/>
+
+The film played extended exclusive engagements at a small number of theaters nationally. At the [[Esquire Theatre (Denver)|Esquire Theatre]] in Denver, ''The Graduate'' opened on December 22, 1967, and ran for 52 consecutive weeks, one of the longest exclusive engagements in the film's national rollout, matched only by the Four Star in Los Angeles, the Coronet in New York, and the Town in Seattle.<ref>{{cite web |last=Coate |first=Michael |date=December 20, 2017 |title=Plastics, Seduction, and The Sound of Silence: Remembering "The Graduate" on its 50th Anniversary |url=http://thedigitalbits.com/columns/history-legacy-showmanship/graduate-50th-anniversary |website=The Digital Bits}}</ref>
+
+=== Home media ===
+''The Graduate'' was released on [[DVD]] by [[MGM Home Entertainment]] in 1999 and 2007. A [[Blu-ray]] release was first issued by [[20th Century Fox Home Entertainment]] in 2009 and later by [[StudioCanal]] in 2010.<ref>{{cite web |last1=Tooze |first1=Gary |title=The Graduate Blu-ray - Anne Bancroft |url=http://www.dvdbeaver.com/film/dvdcompare/graduate.htm |website=DVDBeaver |access-date=24 July 2024 |archive-url=https://web.archive.org/web/20111103202149/http://www.dvdbeaver.com/film/dvdcompare/graduate.htm |archive-date=3 November 2011}}</ref> A [[4K resolution|4K]] digital restoration of the film was released by [[The Criterion Collection]] in 2016.<ref>{{cite web |title=The Graduate (1967) |url=https://www.criterion.com/films/28578-the-graduate |website=The Criterion Collection |access-date=18 June 2023}}</ref> It was released on [[Ultra HD Blu-ray]] by StudioCanal in September 2025.<ref>{{Cite web |last=Tangonan |first=E. J. |date=2025-07-07 |title=The Graduate: The Dustin Hoffman classic seduces you with a new 4K Blu-ray |url=https://www.joblo.com/the-graduate-4k-blu-ray/ |access-date=2025-07-08 |website=JoBlo |language=en-US}}</ref>
+
+==Reception and legacy==
+
+===Critical response===
+''The Graduate'' was met with generally positive reviews from critics upon its release. A.D. Murphy of ''[[Variety (magazine)|Variety]]'' and [[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' praised the film, with Murphy describing it as a "delightful satirical comedy drama",<ref name="variety">{{cite news |title=Film Reviews—The Graduate |url=https://variety.com/1967/film/reviews/the-graduate-1117791319/ |first=A.D. |last=Murphy |work=Variety |date=December 18, 1967 |access-date=March 15, 2018 |archive-date=March 27, 2018 |archive-url=https://web.archive.org/web/20180327122153/http://variety.com/1967/film/reviews/the-graduate-1117791319/ |url-status=live }}</ref> and Ebert claiming it was the "funniest American comedy of the year".<ref name="ebert">{{cite news |url=https://www.rogerebert.com/reviews/the-graduate-1967 |title=The Graduate |first=Roger |last=Ebert |author-link=Roger Ebert |work=[[Chicago Sun-Times]] |date=December 26, 1967 |access-date=2011-04-13 |archive-date=July 22, 2012 |archive-url=https://web.archive.org/web/20120722165911/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F19671226%2FREVIEWS%2F712260301%2F1023 |url-status=live }}</ref>
+
+''[[Life (magazine)|Life]]'' critic [[Richard Schickel]] felt the film "starts out to satirize the alienated spirit of modern youth, does so with uncommon brilliance for its first half, but ends up selling out to the very spirit its creators intended to make fun of... It's a shame – they were halfway to something wonderful when they skidded on a patch of greasy kid stuff."<ref>{{Cite magazine |last=Schickel |first=Richard |author-link=Richard Schickel |date=January 19, 1968 |volume=64 |number=3 |issn=0024-3019 |title=Fine Debut for a Square Anti-Hero |magazine=[[Life (magazine)|Life]] |page=16 |url=https://books.google.com/books?id=XUoEAAAAMBAJ&pg=PA16 |access-date=July 22, 2024}}</ref>
+
+[[Pauline Kael]] wondered, "How could you convince them [younger viewers] that a movie that sells innocence is a very commercial piece of work when they're so clearly in the market to buy innocence?"{{sfn|Gray|2017|pp=166–167}} Kael goes on to say that the fundamental problem with the film is in its attempt to "only succeed".<ref name=":0">{{Cite web |title=The Age of Movies: Selected Writings of Pauline Kael (paperback) |url=https://www.loa.org/books/348-the-age-of-movies-selected-writings-of-pauline-kael-paperback/ |access-date=2025-10-07 |website=Library of America |pages=233 |language=en-US}}</ref> Kael posited that the success of the film was "sociological", that it was based on youth being emotionally manipulatable.<ref name=":0" />
+
+Critics continue to praise the film, if not always with the same ardor. For the film's thirtieth anniversary reissue, Ebert retracted some of his previous praise for it, noting that he felt its time had passed, and that he now had more sympathy for Mrs. Robinson than for Benjamin (whom he considered "an insufferable creep") viewing one's sympathy for Mrs. Robinson and disdainful attitude toward Ben as a function of aging and wisdom.<ref name="ebert30">{{cite news |title=The Graduate |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19970328/REVIEWS/703280304/1023 |first=Roger |last=Ebert |author-link=Roger Ebert |work=Chicago Sun-Times |date=March 28, 1997 |access-date=2011-04-13 |archive-date=July 22, 2012 |archive-url=https://web.archive.org/web/20120722180403/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F19970328%2FREVIEWS%2F703280304%2F1023 |url-status=dead }}</ref>
+
+He and [[Gene Siskel]] gave the film a positive review on the television program ''[[At the Movies with Ebert & Roeper|Siskel & Ebert]]''.<ref name="siskel">{{cite episode |series=Siskel & Ebert at the Movies |url=https://siskelebert.org/?p=5629 |airdate=March 22, 1997 |season=11 |number=28 |publisher=Siskel&Ebert.org |title=LiarLiar / Crash / Selena / The Graduate (1997) |minutes=3:40 |transcript=TV.com: Siskel & Ebert at the Movies Season 11 Episode 28 |transcript-url=http://www.tv.com/shows/siskel-and-ebert-at-the-movies/week-of-march-22-1997-1226197/ |access-date=2014-03-03 |archive-date=October 14, 2014 |archive-url=https://web.archive.org/web/20141014092326/http://siskelandebert.org/video/2XNKBRRX1HXR/LiarLiar--Crash--Selena--The-Graduate-1997 |url-status=live }}</ref> The film's rating in the [[American Film Institute]] list of the greatest American films fell from seventh in 1997 to 17th in the 2007 update. Lang Thompson argued that "it really hasn't dated much".<ref>{{cite web|url=http://www.tcm.com/this-month/article/121604%7C88172/The-Graduate.html|title=The Graduate|last=Thompson|first=Lang|website=[[Turner Classic Movies|Turner Classic Movies Database]]|access-date=February 16, 2017|archive-date=February 16, 2017|archive-url=https://web.archive.org/web/20170216214233/http://www.tcm.com/this-month/article/121604%7C88172/The-Graduate.html|url-status=dead}}</ref>
+
+[[Review aggregator]] [[Rotten Tomatoes]] gives the film an approval rating of 87% based on 94 reviews, with an average rating of 9.10/10. The site's consensus reads: "The music, the performances, the precision in capturing the post-college malaise – ''The Graduate''{{'s}} coming-of-age story is indeed one for the ages".<ref>{{cite web |date=April 16, 2019 |title=The Graduate |url=https://www.rottentomatoes.com/m/graduate/ |url-status=live |archive-url=https://web.archive.org/web/20190430032646/https://www.rottentomatoes.com/m/graduate |archive-date=April 30, 2019 |access-date=June 13, 2023 |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media]]}}</ref> On the similar website, [[Metacritic]], the film holds a score of 83 out of 100, based on 19 critics, indicating "universal acclaim".<ref>{{cite web |title=The Graduate |url=https://www.metacritic.com/movie/the-graduate |url-status=live |archive-url=https://web.archive.org/web/20181005153149/https://www.metacritic.com/movie/the-graduate |archive-date=October 5, 2018 |access-date=April 28, 2020 |website=[[Metacritic]] |publisher=[[Fandom, Inc.]]}}</ref>
+
+===In popular culture===
+Numerous films, TV shows, music videos, and commercials have quoted ''The Graduate''. The climactic sequence in which Benjamin crashes the wedding and leaves with Elaine is frequently parodied. TV show episodes that quote the scene include the ''[[Family Guy]]'' episode "[[When You Wish Upon a Weinstein]]",<ref>{{cite journal|url=https://www.pillsburylaw.com/a/web/2819/E1528D31DFE1827EFBED489AB8BC6F13.pdf |date=2009 |journal=Entertainment and Sports Law|title= ''Family Guy'' Creators' Fair Use Wish Comes True |volume=27 |number=2 |access-date=July 20, 2024}}</ref> ''[[The Simpsons]]'' episode "[[Lady Bouvier's Lover]]",<ref>{{cite episode|title=Lady Bouvier's Lover |date=May 12, 1994 |season=5 |number=21 |series=The Simpsons |network=Fox}}</ref> the ''[[Archer (2009 TV series)|Archer]]'' episode "[[Archer (season 3)|Skin Game]]",<ref>{{Cite web |title=Archer: "Skin Game" (Episode 3.11) |url=https://www.pastemagazine.com/tv/archer-review-skin-game-episode-311 |access-date=2024-07-21 |website=Paste Magazine |language=en-US}}</ref> the ''[[New Girl]]'' episode "[[Elaine's Big Day]]",<ref>{{cite episode|title=Elaine's Big Day |series=New Girl |date=May 14, 2013 |season=2 |number=25}}</ref> and [[The Office (American TV series)|''The Office'']] episode "[[Two Weeks (The Office)|Two Weeks]]".<ref>{{Cite web |last=Sepinwall |first=Alan |date=2009-03-27 |title=The Office, "Two Weeks": Company woman |url=https://www.nj.com/entertainment/tv/2009/03/the_office_two_weeks_company_w.html |access-date=2024-07-21 |website=nj.com |language=en}}</ref>
+
+The scene was elaborately parodied in the movie ''[[Wayne's World 2]]'',{{sfnp|Gray|2017|pp=[https://books.google.com/books?id=qF48DwAAQBAJ&dq=wayne%27s+world+graduate+parody&pg=PA236 236–237]}} and was referenced in the music video for "[[Love Action (I Believe in Love)]]" by [[The Human League]]<ref>{{cite web |date=13 April 2013 |title=The Human League - Love Action (Official Video Release HD) |url=https://www.youtube.com/watch?v=FBEIkZ8egfY |access-date=1 November 2024 |website=YouTube}}</ref> and "[[If You Go (song)|If You Go]]" by [[Jon Secada]],<ref>{{Cite web |date=February 2, 2017 |title=Jon Secada If You Go HD |url=https://www.youtube.com/watch?v=RRzGr6m2Gh0 |access-date=July 20, 2024 |website=YouTube}}</ref> as well as the song "[[Crashed the Wedding]]" by [[Busted (band)|Busted]].<ref>{{Cite web |title=Crashed The Wedding by Busted |url=https://www.songfacts.com/facts/busted/crashed-the-wedding |access-date=July 20, 2024 |website=Song Facts}}</ref> The scene was also referenced in the 1998 finale of the [[Papa and Nicole]] advertising campaign in the [[United Kingdom]] for the MK1 [[Renault Clio]], featuring [[Reeves and Mortimer]] and tying in with the release of the MK2 Renault Clio.<ref>{{Cite web |url=https://www.youtube.com/watch?v=DwqEpwO-5PE |title=Renault Clio advert with Vic and Bob - YouTube |website=[[YouTube]] |date=May 9, 2007 |access-date=June 6, 2021 |archive-date=June 6, 2021 |archive-url=https://web.archive.org/web/20210606154954/https://www.youtube.com/watch?v=DwqEpwO-5PE |url-status=live }}</ref> The 1999 film ''[[The Other Sister]]'' contained a reference.<ref>{{Cite web |date=June 9, 2008 |title=The Other Sister – The Proposal |url=https://www.youtube.com/watch?v=Nyf11BxtEo4 |access-date=July 20, 2024 |website=YouTube}}</ref>
+
+The leg-framing scene where Mrs. Robinson seduces Benjamin has been parodied in the ''[[Roseanne]]'' episode "David and Goliath", which includes a fantasy scene in which Jackie assumes the Bancroft role and appears to attempt to seduce David.<ref>{{cite episode |title=David vs. Goliath |series=Roseanne |last=Mackenzie |first=Philip Charles |last2=Williams |first2=Matt |last3=Pepoon |first3=Steve |first4=Roseanne |last4=Barr |network=NBC |date=February 1, 1994 |season=6 |number=15}}</ref> This scene is also parodied in ''[[The Simpsons]]'' episode, "[[Lisa's Substitute]]", when Mrs. Krabappel tries to seduce Mr. Bergstrom, who was voiced by Dustin Hoffman.<ref>{{Cite web |last=Wescott |first=Adam |date=2022-08-19 |title=An Early Episode Showed The Simpsons Crew What The Series Could Really Do |url=https://www.slashfilm.com/971908/an-early-episode-showed-the-simpsons-crew-what-the-series-could-really-do/ |access-date=2024-07-21 |website=SlashFilm |language=en-US}}</ref>
+
+The car Benjamin drives in the movie is an [[Alfa Romeo Spider#In The Graduate|Alfa Romeo Spider]]. Based on its iconic role, Alfa Romeo sold a version of the Spider in the United States from 1985 to 1990 under the name "Spider Graduate".<ref name="conceptcarz.com/vehicle">{{cite web |url=http://www.conceptcarz.com/vehicle/z1351/Alfa-Romeo-Spider-Graduate.aspx |title=1986 Spider Graduate |website=conceptcarz.com |access-date=24 October 2020 |archive-date=August 17, 2013 |archive-url=https://web.archive.org/web/20130817191824/http://www.conceptcarz.com/vehicle/z1351/Alfa-Romeo-Spider-Graduate.aspx |url-status=live }}</ref>
+
+In the 1992 film ''[[The Player (1992 film)|The Player]]'', [[Robert Altman]]'s satire of [[Cinema of the United States|Hollywood]], Buck Henry pitches a sequel to ''The Graduate'' to producer Griffin Mill (played by [[Tim Robbins]]) during the film's opening sequence. A parody of Hollywood [[high concept]] films, Henry describes the plot as Ben and Elaine living in a haunted house in Northern California, with an invalid Mrs. Robinson living in the attic.<ref>{{cite web |last1=Singer |first1=Matt |title='The Player': the Little But Important Details You Might Have Missed |url=https://screencrush.com/the-player-things-you-missed/ |website=ScreenCrush |access-date=20 July 2024 |date=June 15, 2020}}</ref>
+
+[[George Michael]]'s 1992 song, "[[Too Funky]]," features a clip of the Anne Bancroft lines, "I am not trying to seduce you... Would you like me to seduce you? Is that what you're trying to tell me?", as an intro of the song, and is repeated during the final crescendo.<ref>{{Cite web |last=Borrelli-Persson |first=Laird |date=2016-12-25 |title=An Oral History of George Michael's 1992 "Too Funky" Video, Directed by Manfred Thierry Mugler |url=https://www.vogue.com/article/george-michael-supermodels-linda-evangelista |access-date=2024-07-20 |website=Vogue |language=en-US}}</ref>
+
+In conjunction with the film's 25th anniversary home video release, alternative rock band [[The Lemonheads]] recorded a [[Punk rock|punk]]-style cover of Simon & Garfunkel's "Mrs. Robinson".<ref>{{cite web |last1=Schlansky |first1=Evan |title=Evan Dando Of The Lemonheads: On Record |url=https://americansongwriter.com/evan-dando-the-lemonheads-on-record/ |website=American Songwriter |access-date=20 July 2024 |date=July 2009}}</ref> The music video includes scenes from the film. This cover was then used in [[Martin Scorsese]]'s 2013 film ''[[The Wolf of Wall Street (2013 film)|The Wolf of Wall Street]]''.<ref>{{Cite news |last=Jagernauth |first=Kevin |title=All The Songs In 'The Wolf Of Wall Street' Including Devo, Cypress Hill, Foo Fighters & More |url=http://blogs.indiewire.com/theplaylist/all-the-songs-in-the-wolf-of-wall-street-including-devo-cypress-hill-foo-fighters-more-20131227 |archive-url=https://web.archive.org/web/20150408044911/http://blogs.indiewire.com/theplaylist/all-the-songs-in-the-wolf-of-wall-street-including-devo-cypress-hill-foo-fighters-more-20131227 |archive-date=2015-04-08 |access-date=2025-10-14 |work=The Playlist |language=en}}</ref>
+
+The film ''[[Kingpin (1996 film)|Kingpin]]'' parodied the leg-framed shot, showing [[Woody Harrelson]] framed by his landlady's leg,<ref>{{Cite web |last=Kenny |first=Glenn |date=2021-07-26 |title=The Problematics: 'Kingpin' Still Sports Quite A Mean Streak, Even 25 Years Later |url=https://decider.com/2021/07/26/the-problematics-kingpin-at-25/ |access-date=2024-07-20 |website=Decider |language=en-US}}</ref> and features an excerpt of "The Sound of Silence" after Harrelson's character has sex with the landlady to make up for back rent.
+
+Hoffman recreated the church wedding scene for a 2004 [[Audi]] commercial, in which he stops his daughter (played by [[Lake Bell]]) from getting married, and tells her "you're just like your mother" as they drive off, implying he is portraying an older Benjamin who has a daughter with Elaine.<ref>{{Cite web |date=2004-02-13 |title=Dustin Hoffman does the Graduate run again, for Audi |url=https://adland.tv/dustin-hoffman-does-graduate-run-again-audi?page=2 |access-date=2024-07-20 |website=adland.tv |language=en}}</ref>
+
+The plot of the 2005 [[romantic comedy film]] ''[[Rumor Has It (film)|Rumor Has It]]'', directed by [[Rob Reiner]] and starring [[Jennifer Aniston]], [[Kevin Costner]], [[Shirley MacLaine]] and [[Mark Ruffalo]], revolves around a story in which a woman learns that her mother and grandmother may be the inspiration for ''The Graduate'', and the [[The Graduate (novel)|1963 novel of the same name]] it was based on.<ref>{{Cite web |last=Ebert |first=Roger |date=December 22, 2005 |title=The Switched Family Robinson |url=https://www.rogerebert.com/reviews/rumor-has-it-2005 |access-date=July 20, 2024 |website=RogerEbert.com}}</ref>
+
+''[[(500) Days of Summer]]'' features a scene in which the protagonist, Tom, watches ''The Graduate'' with his then girlfriend Summer. He is said to misinterpret the ending, a fact that serves to characterize his naivety concerning relationships.<ref>{{Cite web |date=2009-07-17 |title=The Screenwriters of (500) Days of Summer Talk Love, The Smiths, and How The Graduate Ruined Them For Life |url=https://observer.com/2009/07/the-screenwriters-of-i500-days-of-summeri-talk-love-the-smiths-and-how-ithe-graduatei-ruined-them-for-life/ |access-date=2024-07-20 |website=Observer |language=en-US}}</ref>
+
+===Accolades===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! {{Abbr|Ref.|Reference}}
+|-
+| rowspan="7"| [[40th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Lawrence Turman]]
+| {{nom}}
+| align="center" rowspan="7"| <ref>{{Cite web|url=http://www.oscars.org/oscars/ceremonies/1968 |title=The 40th Academy Awards (1968) Nominees and Winners |access-date=2011-11-10 |work=oscars.org |url-status=live |archive-url=https://web.archive.org/web/20141103005223/http://www.oscars.org/oscars/ceremonies/1968 |archive-date=2014-11-03}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| [[Mike Nichols]]
+| {{won}}
+|-
+| [[Academy Award for Best Actor|Best Actor]]
+| [[Dustin Hoffman]]
+| {{nom}}
+|-
+| [[Academy Award for Best Actress|Best Actress]]
+| [[Anne Bancroft]]
+| {{nom}}
+|-
+| [[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Katharine Ross]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay – Based on Material from Another Medium]]
+| [[Buck Henry]] and [[Calder Willingham]]
+| {{nom}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[Robert L. Surtees]]
+| {{nom}}
+|-
+| rowspan="7"| [[22nd British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Film|Best Film]]
+| rowspan="2"| Mike Nichols
+| {{won}}
+| align="center" rowspan="7"| <ref>{{cite web |url=http://awards.bafta.org/award/1969/film |title=BAFTA Awards: Film in 1969 |website=[[BAFTA]] |year=1969 |access-date=16 September 2016 |ref={{harvid|BAFTA|1969}} |archive-date=January 22, 2021 |archive-url=https://web.archive.org/web/20210122045155/http://awards.bafta.org/award/1969/film |url-status=live}}</ref>
+|-
+| [[BAFTA Award for Best Direction|Best Direction]]
+| {{won}}
+|-
+| [[BAFTA Award for Best Actress in a Leading Role|Best Actress in a Leading Role]]
+| Anne Bancroft
+| {{nom}}
+|-
+| [[BAFTA Award for Best Screenplay|Best Screenplay]]
+| Buck Henry and Calder Willingham
+| {{won}}
+|-
+| [[BAFTA Award for Best Editing|Best Editing]]
+| [[Sam O'Steen]]
+| {{won}}
+|-
+| rowspan="2"| [[BAFTA Award for Most Promising Newcomer to Leading Film Roles|Most Promising Newcomer to Leading Film Roles]]
+| Dustin Hoffman
+| {{won}}
+|-
+| Katharine Ross
+| {{nom}}
+|-
+| [[20th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Mike Nichols
+| {{won}}
+| align="center"| <ref>{{cite web|url=https://www.dga.org/Awards/History/1960s/1967.aspx?value=1967|title=20th DGA Awards|website=[[Directors Guild of America Awards]]|access-date=July 5, 2021|archive-date=July 11, 2021|archive-url=https://web.archive.org/web/20210711203208/http://www.dga.org/Awards/History/1960s/1967.aspx?value=1967|url-status=live}}</ref>
+|-
+| rowspan="7"| [[25th Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Best Motion Picture – Musical or Comedy]]
+| {{won}}
+| align="center" rowspan="7"| <ref>{{cite web |url=https://www.goldenglobes.com/film/graduate |title=The Graduate – Golden Globes |website=[[HFPA]] |access-date=July 5, 2021 |ref={{harvid|HFPA|1968}} |archive-date=August 14, 2021 |archive-url=https://web.archive.org/web/20210814055547/https://www.goldenglobes.com/film/graduate |url-status=live}}</ref>
+|-
+| [[Best Actor in a Motion Picture – Musical or Comedy]]
+| Dustin Hoffman
+| {{nom}}
+|-
+| [[Best Actress in a Motion Picture – Musical or Comedy]]
+| Anne Bancroft
+| {{won}}
+|-
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| Mike Nichols
+| {{won}}
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay – Motion Picture]]
+| Buck Henry and Calder Willingham
+| {{nom}}
+|-
+| [[Golden Globe Award for New Star of the Year – Actor|Most Promising Newcomer – Male]]
+| Dustin Hoffman
+| {{won}}
+|-
+| [[Golden Globe Award for New Star of the Year – Actress|Most Promising Newcomer – Female]]
+| Katharine Ross
+| {{won}}
+|-
+| [[11th Annual Grammy Awards|Grammy Awards]]
+| [[Grammy Award for Best Score Soundtrack for Visual Media|Best Original Score Written for a Motion Picture or a Television Special]]
+| [[Dave Grusin]] and [[Paul Simon]]
+| {{won}}
+| align="center"| <ref>{{cite web| url=https://www.grammy.com/awards/11th-annual-grammy-awards| title=1968 Grammy Award Winners| publisher=Grammy.com| access-date=1 May 2011| archive-date=May 26, 2020| archive-url=https://web.archive.org/web/20200526192446/https://www.grammy.com/grammys/awards/11th-annual-grammy-awards-1968| url-status=live}}</ref>
+|-
+| rowspan="4"| [[Laurel Awards]]
+| colspan="2"| Top Comedy
+| {{nom}}
+| align="center" rowspan="4"|
+|-
+| Top Male Comedy Performance
+| Dustin Hoffman
+| {{nom}}
+|-
+| Top Female Dramatic Performance
+| Anne Bancroft
+| {{nom}}
+|-
+| Top Female Supporting Performance
+| Katharine Ross
+| {{won}}
+|-
+| [[National Board of Review Awards 1967|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{draw|8th Place}}
+| align="center"| <ref>{{cite web |url=https://nationalboardofreview.org/award-years/1967/ |title=1967 Award Winners |website=[[National Board of Review]] |access-date=July 5, 2021 |archive-date=June 23, 2021 |archive-url=https://web.archive.org/web/20210623051313/https://nationalboardofreview.org/award-years/1967/ |url-status=live}}</ref>
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"|
+|-
+| rowspan="3"| [[1967 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]
+| colspan="2"| [[New York Film Critics Circle Award for Best Film|Best Film]]
+| {{nom}}
+| align="center" rowspan="3"| <ref>{{cite web|url=https://www.nyfcc.com/awards/?awardyear=1967 |title=1967 New York Film Critics Circle Awards |website=[[New York Film Critics Circle]] |access-date=3 June 2021 |archive-url=https://web.archive.org/web/20210430113714/https://www.nyfcc.com/awards/?awardyear=1967 |archive-date=30 April 2021}}</ref>
+|-
+| [[New York Film Critics Circle Award for Best Director|Best Director]]
+| Mike Nichols
+| {{won}}
+|-
+| [[New York Film Critics Circle Award for Best Screenplay|Best Screenplay]]
+| Buck Henry and Calder Willingham
+| {{nom}}
+|-
+| Online Film & Television Association Awards
+| colspan="2"| Hall of Fame – Motion Picture
+| {{won|Honored}}
+| align="center"| <ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame Inductees: Productions |website=Online Film & Television Association |access-date=May 15, 2021 |archive-date=May 11, 2020 |archive-url=https://web.archive.org/web/20200511220305/http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |url-status=live}}</ref>
+|-
+| [[9th Golden Laurel Awards|Producers Guild of America Awards]]
+| PGA Hall of Fame – Motion Pictures
+| Lawrence Turman – ''The Graduate''
+| {{won}}
+| align="center"| <ref>{{cite web|title=PGA Award Winners 1990–2010 – Producers Guild of America|url=http://www.producersguild.org/page/PGA_Award_19902010|publisher=[[Producers Guild of America]]|access-date=August 27, 2017|archive-date=February 22, 2016|archive-url=https://web.archive.org/web/20160222104232/http://www.producersguild.org/page/PGA_Award_19902010|url-status=live}}</ref>
+|-
+| rowspan="2"| [[12th Satellite Awards|Satellite Awards]]
+| [[Satellite Award for Best Classic DVD|Best Classic DVD]]
+| rowspan="2"| ''The Graduate: 40th Anniversary Edition''
+| {{won}}
+| align="center" rowspan="2"| <ref>{{cite web |url=https://variety.com/2007/digital/awards/satellite-award-winners-announced-1117977840/ |title=Satellite Award winners announced |first=Erin |last=Maxwell |work=[[Variety (magazine)|Variety]] |date=December 17, 2007 |access-date=August 12, 2022}}</ref>
+|-
+| [[Satellite Award for Best DVD Extras|Best DVD Extras]]
+| {{nom}}
+|-
+| [[20th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Written Comedy|Best Written American Comedy]]
+| Buck Henry and Calder Willingham
+| {{won}}
+| align="center"| <ref>{{cite web|url=http://www.wga.org/awards/awardssub.aspx?id=1551|title=Awards Winners|work=wga.org|publisher=Writers Guild of America|access-date=2010-06-06}}</ref>{{New archival link needed|date=April 2026}}
+|}
+
+In 1996, ''The Graduate'' was selected for preservation in the U.S. [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant", and placed #22 on the [[list of highest-grossing films in the United States and Canada]], adjusted for inflation.<ref name="all-time"/><ref name="LOC">{{Cite web|url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/|title=Complete National Film Registry Listing |website=Library of Congress|access-date=2020-02-27|archive-date=May 7, 2016|archive-url=https://web.archive.org/web/20160507094100/https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/|url-status=live}}</ref>
+
+In 2006, [[Writers Guild of America]] ranked its screenplay 13th in WGA's list of 101 Greatest Screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-02 |language=en}}</ref> The film is listed in ''[[1001 Movies You Must See Before You Die]]''.<ref name="1001before">{{cite book| title=1001 Movies You Muse See Before You Die| publisher=Quintessence Editions Ltd.| editor-first=Steven Jay| editor-last=Schneider| isbn=978-0-7641-6151-3| url=http://1001beforeyoudie.com/| place=London| date=September 2003| url-status=dead| archive-url=https://web.archive.org/web/20140110124836/http://1001beforeyoudie.com/| archive-date=January 10, 2014| df=mdy-all}}</ref>
+
+The film appears on the following [[American Film Institute]] lists:
+* 1998: [[AFI's 100 Years...100 Movies]] – #7<ref>{{cite web |title=AFI's 100 Years...100 Movies |url=https://www.afi.com/afis-100-years-100-movies/ |url-status=live |archive-url=https://web.archive.org/web/20190412113202/http://www.afi.com/Docs/100Years/movies100.pdf |archive-date=April 12, 2019 |access-date=2016-07-17 |website=[[American Film Institute]]}}</ref>
+* 2000: [[AFI's 100 Years...100 Laughs]] – #9<ref>{{cite web |title=AFI's 100 Years...100 Laughs |url=https://www.afi.com/afis-100-years-100-laughs/ |url-status=live |archive-url=https://web.archive.org/web/20160624052741/http://afi.com/Docs/100Years/laughs100.pdf |archive-date=June 24, 2016 |access-date=2016-07-17 |website=[[American Film Institute]]}}</ref>
+* 2002: [[AFI's 100 Years...100 Passions]] – #52<ref>{{cite web |title=AFI's 100 Years...100 Passions |url=https://www.afi.com/afis-100-years-100-passions/ |url-status=live |archive-url=https://web.archive.org/web/20160624052654/http://afi.com/Docs/100Years/passions100.pdf |archive-date=June 24, 2016 |access-date=2016-07-17 |website=[[American Film Institute]]}}</ref>
+* 2004: [[AFI's 100 Years...100 Songs]]:
+** "[[Mrs. Robinson]]" – #6<ref>{{cite web |title=AFI's 100 Years...100 Songs |url=https://www.afi.com/afis-100-years-100-songs/ |url-status=live |archive-url=https://web.archive.org/web/20110313151657/http://www.afi.com/Docs/100Years/songs100.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |website=[[American Film Institute]]}}</ref>
+* 2005: [[AFI's 100 Years...100 Movie Quotes]]:
+** Mr. McGuire: "Plastics." – #42<ref name="AFI Quotes">{{cite web |title=AFI's 100 Years...100 Movie Quotes |url=https://www.afi.com/afis-100-years-100-movie-quotes/ |url-status=live |archive-url=https://web.archive.org/web/20110313150615/http://www.afi.com/Docs/100Years/quotes100.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |website=[[American Film Institute]]}}</ref>
+** Benjamin Braddock: "Mrs. Robinson, you're trying to seduce me. Aren't you?" – #63<ref name="AFI Quotes" />
+* 2007: [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – #17<ref>{{cite web |title=AFI's 100 Years...100 Movies (10th Anniversary Edition) |url=https://www.afi.com/afis-100-years-100-movies-10th-anniversary-edition/ |url-status=live |archive-url=https://web.archive.org/web/20130606072909/http://www.afi.com/Docs/100Years/100Movies.pdf |archive-date=June 6, 2013 |access-date=2016-07-17 |website=[[American Film Institute]]}}</ref>
+
+==Stage adaptation==
+[[Terry Johnson (dramatist)|Terry Johnson]]'s adaptation of the original novel and the film ran on both London's [[West End theatre|West End]] and [[Broadway theatre|Broadway]], and has toured the United States. There is a Brazilian version adapted by [[Miguel Falabella]]. Several actresses have starred as Mrs. Robinson, including [[Kathleen Turner]], [[Lorraine Bracco]], [[Jerry Hall]], [[Amanda Donohoe]], [[Morgan Fairchild]], [[Anne Archer]], [[Vera Fischer (actress)|Vera Fischer]], [[Patricia Richardson]] and [[Linda Gray]].
+
+The stage production adds several scenes not in the novel nor the film, as well as using material from both film and novel.<ref>{{cite web | last=Murray | first=Matthew | title=The Graduate | website=Talkin'Broadway | date=April 4, 2002 | url=https://www.talkinbroadway.com/world/Graduate.html | access-date=September 14, 2019 | archive-date=May 25, 2015 | archive-url=https://web.archive.org/web/20150525193439/http://www.talkinbroadway.com/world/Graduate.html | url-status=live }}</ref>
+
+The soundtrack uses songs by [[Simon & Garfunkel]] also not used in the film, such as "[[Bridge over Troubled Water (song)|Bridge Over Troubled Water]]", as well as music from other popular musicians from the era, such as [[The Byrds]] and [[The Beach Boys]].<ref name=theatre>{{cite web | first1=Barbara | last1=Siegel | first2=Scott | last2=Siegel | title=The Graduate | website=TheaterMania | url=https://www.theatermania.com/new-york-city-theater/reviews/the-graduate_2064.html | date=April 5, 2002 | access-date=September 15, 2019 | archive-date=December 13, 2018 | archive-url=https://web.archive.org/web/20181213131052/https://www.theatermania.com/new-york-city-theater/reviews/the-graduate_2064.html | url-status=live }}</ref> The West End production opened at the [[Gielgud Theatre]] on April 5, 2000, after previews from March 24, with Kathleen Turner starring as Mrs. Robinson.<ref>{{cite web | last=Shenton | first=Mark | title=Kathleen Turner to Graduate to West End as Mrs. Robinson | website=[[Playbill]] | date=December 20, 1999 | url=http://www.playbill.com/article/kathleen-turner-to-graduate-to-west-end-as-mrs-robinson-com-86082 | access-date=September 14, 2019 | archive-date=December 13, 2018 | archive-url=https://web.archive.org/web/20181213140226/http://www.playbill.com/article/kathleen-turner-to-graduate-to-west-end-as-mrs-robinson-com-86082 | url-status=live }}</ref><ref>{{cite web | last=Wolf | first=Matt | title=The Graduate – Turner's Mrs. Robinson Turns Heads in London's West End | website=Variety | date=April 10, 2000 | url=https://variety.com/2000/film/reviews/the-graduate-turner-s-mrs-robinson-turns-heads-in-london-s-west-end-1200461825/ | access-date=September 14, 2019 | archive-date=December 13, 2018 | archive-url=https://web.archive.org/web/20181213123844/https://variety.com/2000/film/reviews/the-graduate-turner-s-mrs-robinson-turns-heads-in-london-s-west-end-1200461825/ | url-status=live }}</ref> Jerry Hall replaced Turner from July 31, 2000, followed by [[Amanda Donohoe]] from February 2001, Anne Archer from June 2001, and Linda Gray from October 2001.<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/entertainment/1768900.stm |title=The Graduate's London term ends |archive-url=https://web.archive.org/web/20150402124946/http://news.bbc.co.uk/2/hi/entertainment/1768900.stm |archive-date=April 2, 2015 |work=BBC News |date=18 January 2002 |url-status=live}}</ref><ref>{{cite news|last=Davies |first=Hugh |url=https://www.telegraph.co.uk/news/uknews/1308832/Curtain-rises-on-the-new-Mrs-Robinson.html |title=Curtain rises on the new Mrs Robinson |archive-url=https://web.archive.org/web/20181213133424/https://www.telegraph.co.uk/news/uknews/1308832/Curtain-rises-on-the-new-Mrs-Robinson.html |archive-date=December 13, 2018 |work=The Telegraph |date=12 June 2001}}</ref> The production closed in January 2002. The 2003 U.K. touring production starred [[Glynis Barber]] as Mrs. Robinson.<ref>{{cite web|url=https://www.telegraph.co.uk/culture/theatre/3601911/Glynis-keeps-her-kit-on-and-pulls-it-off.html|work=The Telegraph|title=Glynis keeps her kit on and pulls it off|date=5 September 2003|access-date=18 May 2016|archive-date=December 13, 2018|archive-url=https://web.archive.org/web/20181213124011/https://www.telegraph.co.uk/culture/theatre/3601911/Glynis-keeps-her-kit-on-and-pulls-it-off.html|url-status=live}}</ref>
+
+The Broadway production opened at the [[Gerald Schoenfeld Theatre|Plymouth Theatre]] April 4, 2002, and closed March 2, 2003, after 380 performances. Directed by Terry Johnson, the play featured the cast of [[Jason Biggs]] as Benjamin Braddock, [[Alicia Silverstone]] as Elaine Robinson, and [[Kathleen Turner]] as Mrs. Robinson. The play received no award nominations.<ref>{{cite web|url=http://www.ibdb.com/production.php?id=13279 |title=''The Graduate'' on Broadway |archive-url=https://web.archive.org/web/20150518154315/http://www.ibdb.com/production.php?id=13279 |archive-date=May 18, 2015 |url-status=live |website=IBDB |access-date=May 12, 2015}}</ref> Linda Gray briefly filled in for Turner in September 2002. Lorraine Bracco replaced Turner from November 19, 2002.<ref>{{cite web | last1=Gans | first1=Andrew | last2=Simonson | first2=Robert | author-link2=Robert Simonson | title=Lorraine Bracco Officially Opens in Broadway Graduate Dec. 15 | website=Playbill | date=December 15, 2002 | url=http://www.playbill.com/article/lorraine-bracco-officially-opens-in-broadway-graduate-dec-15-com-109863 | access-date=September 14, 2019 | archive-date=December 13, 2018 | archive-url=https://web.archive.org/web/20181213144417/http://www.playbill.com/article/lorraine-bracco-officially-opens-in-broadway-graduate-dec-15-com-109863 | url-status=live }}</ref>
+
+==Possible sequel==
+[[Charles Webb (author)|Charles Webb]] wrote a [[sequel]] to his original novel, titled ''[[Home School (novel)|Home School]]'', but initially refused to publish it in its entirety because of a contract he signed in the 1960s. When he sold the [[film rights]] to ''The Graduate'', he surrendered the rights to any sequels. If he were to publish ''Home School'', the French media company that owns the rights to ''The Graduate'', [[Canal+ (French TV channel)|Canal+]], would be able to adapt it for the screen without his permission.<ref name="guardian">{{cite news| url=https://www.theguardian.com/uk/2005/mar/27/books.world| date=25 March 2005| access-date=2007-10-12| first=David| last=Smith| work=[[The Guardian]]| title=What happened next? (the author will let you know after he dies)| archive-date=December 13, 2018| archive-url=https://web.archive.org/web/20181213125215/https://www.theguardian.com/uk/2005/mar/27/books.world| url-status=live}}</ref> Extracts of ''Home School'' were printed in ''[[The Times]]'' on May 2, 2006.<ref name="webb">{{cite news| title=Mrs Robinson Returns| url=https://www.thetimes.com/culture/books/article/inside-information-zh7cd8g8bgz| date=2 May 2006| access-date=2021-11-15| first=Charles| last=Webb| work=[[The Times]]| archive-date=March 11, 2007| archive-url=https://web.archive.org/web/20070311010423/http://www.timesonline.co.uk/tol/life_and_style/article711893.ece| url-status=live}}</ref> Webb told the newspaper there was a possibility he would find a publisher for the full text, provided he could retrieve the film rights using French copyright law.<ref name=malvern1>{{cite news| url=https://www.thetimes.com/article/the-graduates-not-so-happy-sequel-krzgdwtq650| title=The Graduate's not-so-happy sequel| last=Malvern| first=Jack| date=18 April 2006| work=[[The Times]]| access-date=2014-03-03| archive-date=December 20, 2014| archive-url=https://web.archive.org/web/20141220122311/http://www.thetimes.co.uk/tto/news/uk/article1947306.ece| url-status=live}}</ref> On May 30, 2006, ''The Times'' reported Webb had signed a publishing deal for ''Home School'' with [[Random House]], which he hoped would enable him to instruct French lawyers to attempt to retrieve his rights. The novel was published in Britain in 2007.<ref name=malvern2>{{cite news| first=Jack| last=Malvern| title=At last, Mrs Robinson is getting her groove back| work=[[The Times]]| date=30 May 2006| access-date=2021-11-15| url=https://www.thetimes.com/travel/destinations/europe-travel/france/paris/at-last-mrs-robinson-is-getting-her-groove-back-gcmb77fkqdk| archive-date=March 11, 2007| archive-url=https://web.archive.org/web/20070311010044/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/article669582.ece| url-status=live}}</ref>
+
+==See also==
+* [[1967 in film]]
+* [[List of American films of 1967]]
+* {{anl|New Hollywood}}
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* {{Cite book |last=Gray |first=Beverly |year=2017 |title=Seduced by Mrs. Robinson: How ''The Graduate'' Became the Touchstone of a Generation |url=https://books.google.com/books?id=yZbfDQAAQBAJ |location=Chapel Hill, N.C. |publisher=Algonquin Books of Chapel Hill |isbn=9781616207663 |oclc=990141379}}
+* {{cite book|last=Whitehead |first=J. W. |year=2011 |title=Appraising ''The Graduate'': The Mike Nichols Classic and Its Impact in Hollywood |publisher=McFarland |isbn=978-0-7864-6306-0}}
+
+==External links==
+{{wikiquote}}
+{{commons category|The Graduate}}
+* [https://www.loc.gov/static/programs/national-film-preservation-board/documents/graduate.pdf ''The Graduate''] essay by [[Jami Bernard]] on the [[National Film Registry]] website
+* [https://books.google.com/books?id=deq3xI8OmCkC ''The Graduate''] essay by Daniel Eagan in America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry, A&C Black, 2010 {{ISBN|0826429777}}, pages 631–632
+* {{AFI film|23387}}
+* {{IMDb title|0061722}}
+* {{TCMDb title|18530}}
+* {{Rotten Tomatoes|graduate}}
+* {{Mojo title|graduate}}
+* [https://www.criterion.com/current/posts/3909-the-graduate-intimations-of-a-revolution ''The Graduate: Intimations of a Revolution''] an essay by [[Frank Rich]] at [[The Criterion Collection]]
+
+{{The Graduate (novel)}}
+{{Mike Nichols}}
+{{Buck Henry}}
+{{Navboxes
+|title = Awards for ''The Graduate''
+|list =
+{{BAFTA Best Film}}
+{{GoldenGlobeBestMotionPictureMusicalComedy 1961-1980}}
+}}
+{{Portal bar|Film|United States|Comedy|1960s}}
+{{Authority control}}
+
+{{DEFAULTSORT:Graduate}}
+[[Category:1967 films]]
+[[Category:1967 comedy-drama films]]
+[[Category:1967 romantic comedy films]]
+[[Category:1967 independent films]]
+[[Category:1967 American films]]
+[[Category:1960s coming-of-age comedy-drama films]]
+[[Category:1960s romantic comedy-drama films]]
+[[Category:1960s satirical films]]
+[[Category:1960s sex comedy films]]
+[[Category:1967 English-language films]]
+[[Category:American coming-of-age comedy-drama films]]
+[[Category:American romantic comedy-drama films]]
+[[Category:American satirical films]]
+[[Category:American sex comedy-drama films]]
+[[Category:American independent films]]
+[[Category:English-language romantic comedy-drama films]]
+[[Category:English-language sex comedy-drama films]]
+[[Category:English-language independent films]]
+[[Category:Coming-of-age romance films]]
+[[Category:Films about adultery in the United States]]
+[[Category:Films about virginity]]
+[[Category:Films about weddings in the United States]]
+[[Category:Films based on American novels]]
+[[Category:Films based on romance novels]]
+[[Category:Films adapted into plays]]
+[[Category:Films set in 1967]]
+[[Category:Films set in Los Angeles]]
+[[Category:Films set in Pasadena, California]]
+[[Category:Films set in Santa Barbara, California]]
+[[Category:Films set in the San Francisco Bay Area]]
+[[Category:Films set in universities and colleges]]
+[[Category:Films shot in Los Angeles]]
+[[Category:Films shot in San Francisco]]
+[[Category:Films directed by Mike Nichols]]
+[[Category:Films with screenplays by Buck Henry]]
+[[Category:Films scored by Dave Grusin]]
+[[Category:Films produced by Lawrence Turman]]
+[[Category:Embassy Pictures films]]
+[[Category:StudioCanal films]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose director won the Best Direction BAFTA Award]]
+[[Category:Films whose writer won the Best Screenplay BAFTA Award]]
+[[Category:Best Film BAFTA Award winners]]
+[[Category:Films whose director won the Best Director Golden Globe]]
+[[Category:Best Musical or Comedy Picture Golden Globe winners]]
+[[Category:Films featuring a Best Musical or Comedy Actress Golden Globe winning performance]]
+[[Category:United States National Film Registry films inducted in 1996]]
+[[Category:Films distributed by Strand Releasing]]
+[[Category:English-language satirical films]]
+[[Category:Counterculture of the 1960s]]

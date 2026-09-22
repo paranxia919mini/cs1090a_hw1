@@ -1,0 +1,171 @@
+{{short description|1994 US experimental film by Shu Lea Cheang}}
+{{for|the estuary in Staten Island|Fresh Kills}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name           = Fresh Kill
+| image          = Fresh Kill Film Poster.jpg
+| alt            = 
+| caption        = 
+| native_name    = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = [[Shu Lea Cheang]]
+| producer       = Jennifer Fong<br>[[Shari Frilot]]
+| writer         = [[Jessica Hagedorn]]
+| screenplay     = 
+| story          = 
+| based_on       = 
+| starring       = {{unbulleted list|[[Sarita Choudhury]]|Erin McMurtry|[[Abraham Lincoln Lim|Abraham Lim]]|[[José Zúñiga (actor)|José Zúñiga]]|[[Laurie Carlos]]}}
+| narrator       = 
+| music          = [[Vernon Reid]]
+| cinematography = Jane Castle 
+| editing        = Lauren Zuckerman 
+| production_companies = Airwaves Project <br> [[ITVS]] <br> [[Film4 Productions|Channel Four Films]]
+| distributor    = [[Strand Releasing]]
+| released       = {{Film date|1994|4|23|USA Film Festival|1996|1|12|United States}} 
+| runtime        = 80 minutes
+| country        = United Kingdom<br>United States<ref name=Berlinale />
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+'''''Fresh Kill''''' is a 1994 [[experimental film]] directed by [[Shu Lea Cheang]] and written by [[Jessica Hagedorn]]. It stars [[Sarita Choudhury]] and Erin McMurtry as Shareen Lightfoot and Claire Mayakovsky, two [[lesbian]] parents who are drawn into a corporate conspiracy involving the [[Fresh Kills Landfill]]. ''Fresh Kill'' was an official selection at the 1994 [[Berlin International Film Festival]] and the [[Toronto International Film Festival]] and is noted for its influence on [[hacker subculture]], with an article about the film for the now-defunct hacker publication ''InfoNation'' containing one of the first uses of the term "[[hacktivism]]".
+
+==Synopsis==
+Shareen Lightfoot and Claire Mayakovsky raise their daughter Honey near the [[Fresh Kills Landfill]] on [[Staten Island]] in [[New York City]]. Shareen works as a [[Recycling|salvager]] recovering refuse from the landfill, while Claire works as a waitress at a sushi restaurant. The city is heavily contaminated with [[pollution]] that adversely affects local animals and food; Claire brings home contaminated fish from the restaurant that is eaten by Honey, who begins glowing green and then vanishes. Shareen and Claire discover that the multinational GX Corporation is responsible for the pollution and Honey's disappearance, and become involved in an effort to [[Security hacker|hack]] and expose the company with sushi chef and hacker Jiannbin Lui, and poet and dishwasher Miguel Flores.
+
+==Cast==
+Sources:<ref name="FKatBAM">{{cite web |title=Fresh Kill: New York premiere of a new 35mm restoration for its 30th anniversary! |url=https://www.bam.org/film/2024/fresh-kill |website=BAM.org |publisher=Brooklyn Academy of Music |access-date=22 April 2025}}</ref><ref name="LAT" /><ref name="TCMfk">{{cite web |title=Fresh Kill (1994) |url=https://www.tcm.com/tcmdb/title/454442/fresh-kill |archive-url=https://web.archive.org/web/20200427235649/http://www.tcm.com/tcmdb/title/454442/Fresh-Kill/ |url-status=dead |archive-date=April 27, 2020 |website=[[Turner Classic Movies]] |access-date=14 June 2020}}</ref>
+
+{{Cast listing|
+* [[Sarita Choudhury]] as Shareen Lightfoot<!-- ref(s): FKatBAM, LAT, TCMfk -->
+* [[Pedro Pietri]] as Condom Poet<!-- ref(s): FKatBAM -->
+<!-- Potential additions in comments below: Citations needed? REOrdered by IMDb Cast List, USUALLY right about ordering by cred/ screen-time... Trust but VERIFY! Change if Necessary.
+* Ching Gonzalez as Man Bathing
+-->
+* [[Kate Valk]] as Mother Mary<!-- ref(s): FKatBAM, TCMfk -->
+<!-- find cite ref(s):
+M. Cochise Anderson as Tim
+Paul Schulze as Peter Finn
+Marlene Forte as Pam Mandel
+-->
+* [[Abraham Lincoln Lim]] as Jiannbin Lui<!-- ref(s): FKatBAM, LAT -->
+* [[Ching Valdes-Aran]] as Boss Man<!-- ref(s): FKatBAM-->
+* Erin McMurtry as Claire Mayakovsky<!-- ref(s): FKatBAM, LAT, TCMfk -->
+<!-- find cite ref(s):
+Ryohei Hoshi as Japanese Businessman
+-->
+* Will Kempe as Stuart Sterling<!-- ref(s): FKatBAM, LAT, TCMfk -->
+<!-- find cite ref(s):
+* Marlies Yearby as Music Executive
+* James Azor as Rapper
+* Paul Lynn Williams as Brad
+* David Ng as Skip
+* Mario Todisco as Tully
+-->
+* [[José Zúñiga (actor)|José Zúñiga]] as Miguel Flores<!-- ref(s): FKatBAM, LAT, TCMfk -->
+* [[Laurie Carlos]] as Mimi Mayakovsk<!-- ref(s): FKatBAM, LAT, TCMfk -->
+* Nelini Stamp as Honey<!-- ref(s): FKatBAM, LAT, TCMfk -->
+* [[Ron Vawter]] as Roger Bailey<!-- ref(s): FKatBAM, LAT, TCMfk -->
+* [[Robbie McCauley]] as Nina Simpson<!-- ref(s): FKatBAM, TCMfk -->
+* [[Karen Finley]] as Bernadette Cherryhome<!-- ref(s): FKatBAM, TCMfk -->
+* [[Rino Thunder]] as Clayton Lightfoot, Sr.<!-- ref(s): FKatBAM, TCMfk -->
+<!-- find cite ref(s):
+* DeWarren Moses as Soap Man
+* Lou Sumrall as Barry Fox
+-->
+* Nicky Paraiso as Supermarket Manager<!-- ref(s): FKatBAM -->
+* [[Alva Rogers]] as Woman in Locker<!-- ref(s): FKatBAM -->
+<!-- find cite ref(s):
+* Willy Woo as GX Kid (as Willi Woo)
+* Harry Bowron as GX Kid
+* Joel Kovel as Dr. Callahan
+* Lisa Mayo as Child Psychiatrist
+* Amber Villanueva as Teru the Psychic (as Amber Villenueva)
+* Foo Shen Hsieh as Man with Bullhorn
+* Lu Yu Liao as Village Matriarch
+* Chun Yin Hsieh as City Lady
+* Michael Ringer as Billy Boy
+* Elaine Tse as Jackie Tan
+* David Henderson as Jackson
+* Avis Brown as African Woman
+-->
+* [[Jessica Hagedorn]] as Bookseller<!-- ref(s): FKatBAM -->
+* [[George C. Wolfe]] as Cat Lover<!-- ref(s): FKatBAM, TCMfk -->
+<!-- find cite ref(s):
+* Kaja Sehrt as German Tourist
+-->
+}}
+
+==Production==
+''Fresh Kill'' was directed by [[Shu Lea Cheang]] and written by [[Jessica Hagedorn]].<ref name="LAT"/> The film bills itself as "eco cyber noia", the term "cyber noia" (or "cybernoia") having been coined by Cheang to describe "massive intrusions of networking technology into people's lives," and what she foresaw as "a future where multinational media empires clash with hackers."<ref name="MOC"/> Cheang has stated that the film was motivated by a desire to depict the relationship between the media and [[environmental racism]], drawing parallels between the dumping of industrial toxic waste in the [[Third World]] with "the dumping of garbage TV programs" into Third World countries.<ref name="Bomb"/> Hagedorn has stated that she wished to invert typical expectations and cliché [[stock character]]s, though sought not to "reverse things for their own sake," noting that Honey's parentage and the differing races of characters with direct biological relations are specifically never explained.<ref name="Bomb"/>
+
+==Release==
+The film premiered on April 23, 1994, at the [[USA Film Festival]], and was an official selection at the 1994 [[Berlin International Film Festival]]<ref name=Berlinale>{{cite web|title=Fresh Kill|url=https://www.berlinale.de/en/archive/jahresarchive/1994/02_programm_1994/02_filmdatenblatt_1994_19940676.html|website=[[Internationale Filmfestspiele Berlin]]|date=1994}}</ref> and at the [[Toronto International Film Festival]].<ref name="Quad"/> It was released theatrically in the United States on January 12, 1996.<ref name="Maslin" /> ''Fresh Kill'' also screened at the [[Whitney Biennial]] in 1995,<ref name="CFO"/> and at the [[Asian American International Film Festival]] in 2019.<ref>{{cite web |title=Asian American International Film Festival: Fresh Kill |url=https://asiasociety.org/new-york/events/asian-american-international-film-festival-fresh-kill |website=[[Asian American International Film Festival]] |access-date=14 June 2020}}</ref>
+
+==Reception and legacy==
+{{Rquote |1=right |2= "''Fresh Kill'' is described by Cheang herself as a work of eco-cybernoia. An environment in which the inability to access the media of change causes the uprising of low-fi activism and hacker mentality, or “hacktivism” if you will."|3=Jason Logan in ''InfoNation'', November 1995<ref name="Hactivism1"/>}}
+
+In a review for ''[[The Los Angeles Times]]'', critic Kevin Thomas offered praise for Cheang's direction and Hagedorn's writing, noting that the film's "interaction of a deteriorating environment, burgeoning cyberspace and mounting urban paranoia [...] create a vividly contemporary background" for a "gentle lesbian love story."<ref name="LAT"/> The [[Quad Cinema]], where the film had its U.S. premiere,<ref name="Maslin" /> called ''Fresh Kill'' "an underseen radical feminist gem" and favorably compared it to ''[[Brazil (1985 film)|Brazil]]'' and ''[[Born in Flames]]''.<ref name="Quad"/> Conversely, [[Janet Maslin]] of ''[[The New York Times]]'' offered praise for the film's soundtrack but described ''Fresh Kill'' as "aimless, arty self-indulgence carried to a remarkable extreme,"<ref name="Maslin" /> while [[Nathan Rabin]] of ''[[The A.V. Club]]'' surmised that the film as a "typically [[Jean Luc Godard|Godardian]] pastiche of formal experimentation" that was thin in plot, lacking sympathetic characters and "too confused and disjointed to be anything but a well-intentioned, intermittently interesting failure."<ref>{{cite web |last1=Rabin |first1=Nathan |authorlink1=Nathan Rabin |title=Fresh Kill |url=https://www.avclub.com/fresh-kill-1798195274 |website=[[The A.V. Club]] |access-date=17 June 2020 |date=29 March 2002}}</ref>
+
+The film is noted for its themes of solidarity by marginalized groups against racism and sexism; its condemnation of transnational capitalism; and its depiction of how "resistance circulates through networks originally designed to facilitate the exchange of labor, commodities, and capital."<ref name="VDB"/> In her analysis of ''Fresh Kill'', Gina Marchetti notes how the film depicts "the emancipatory potential of the digital," offering "hope for seizing the means of communication by reflecting on its own production and providing an image of radical media empowerment to inspire others."<ref name="CFO"/> The film is noted for its influence on [[hacker subculture]], with a 1995 article about the film for the now-defunct hacker publication ''InfoNation'' containing one of the first uses of the term "[[hacktivism]]".<ref name="Hactivism1"/><ref name="Hactivism2"/><ref name="Hactivism3"/><ref name="Hactivism4"/>
+
+==Home media==
+The film was released on [[Blu-ray]] by the [[The Criterion Collection|Criterion Collection]] on May 19, 2026.<ref>[https://www.criterion.com/films/32845-fresh-kill The Criterion Collection]</ref>
+
+==References==
+<references>
+
+<ref name="Bomb">{{cite web |last1=Chua |first1=Lawrence |title=Shu Lea Cheang |url=https://bombmagazine.org/articles/shu-lea-cheang/ |website=[[Bomb (magazine)|BOMB]] |access-date=14 June 2020 |date=1 January 1996}}</ref>
+
+<ref name="CFO">{{cite web |title=Fresh Kill |url=http://carrollfletcheronscreen.com/2015/12/09/fresh-kill/ |website=Carroll / Fletcher Onscreen |date=9 December 2015 |publisher=Carroll / Fletcher Gallery |access-date=14 June 2020}}</ref>
+
+<ref name="Maslin">{{cite news |last1=Maslin |first1=Janet |authorlink1=Janet Maslin |title=Film Review; Radioactive Fish Lips In a Junk-Filled World|url=https://www.nytimes.com/1996/01/12/movies/film-review-radioactive-fish-lips-in-a-junk-filled-world.html |work=[[The New York Times]]|date=12 January 1996 |access-date=17 June 2020 |archive-url=https://web.archive.org/web/20150526163021/https://www.nytimes.com/1996/01/12/movies/film-review-radioactive-fish-lips-in-a-junk-filled-world.html |archive-date=26 May 2015}}</ref>
+
+<ref name="MOC">{{cite web |title=Taiwanese net pioneer Shu Lea Cheang to greet NYC cinephiles |url=https://www.moc.gov.tw/en/information_317_100720.html |website=Taiwan Ministry of Culture |access-date=14 June 2020 |date=25 July 2019}}</ref>
+
+<ref name="LAT">{{cite web |last1=Thomas |first1=Kevin |title=Vital 'Fresh Kill' Dissects Life's Absurdities |url=https://www.latimes.com/archives/la-xpm-1996-04-19-ca-60396-story.html |website=[[The Los Angeles Times]] |access-date=14 June 2020 |date=19 April 1996}}</ref>
+
+<ref name="Quad">{{cite web |title=Fresh Kill |url=https://quadcinema.com/film/fresh-kill/ |website=[[Quad Cinema]] |access-date=14 June 2020 |date=4 November 2019}}</ref>
+
+<ref name="VDB">{{cite web |title=Fresh Kill |url=http://www.vdb.org/titles/fresh-kill |website=[[Video Data Bank]] |access-date=14 June 2020}}</ref>
+
+<ref name="Hactivism1">{{cite web |last1=Logan |first1=Jason |title=Take the Skinheads Bowling |url=http://info-nation.com/skinhead.html |website=InfoNation |access-date=14 June 2020 |archive-url=https://web.archive.org/web/19970207061623/http://info-nation.com/skinhead.html |archive-date=7 February 1997}}</ref>
+
+<ref name="Hactivism2">{{cite journal |last1=Pandey |first1=Sheo Nandan |title=Hacktivism of Chinese Characteristics and the Google Inc. Cyber Attack Episode |journal=Institute for Strategic, Political, Security and Economic Consultancy |date=2010 |page=1 |url=https://www.files.ethz.ch/isn/113440/Hacktivism_Pandey_Mar10.pdf |access-date=13 July 2020}}</ref>
+
+<ref name="Hactivism3">{{cite journal |last1=Webber |first1=Craig |last2=Yip |first2=Michael |title=The Rise of Chinese Cyber Warriors: Towards a Theoretical Model of Online Hacktivism |journal=International Journal of Cyber Criminology |date=June 2018 |volume=12 |issue=1 |page=230 |url=https://www.cybercrimejournal.com/Webber%26YipVol12Issue1IJCC2018.pdf |access-date=2020-07-13 |archive-date=2022-06-21 |archive-url=https://web.archive.org/web/20220621062324/http://www.cybercrimejournal.com/Webber%26YipVol12Issue1IJCC2018.pdf |url-status=dead }}</ref>
+
+<ref name="Hactivism4">{{cite journal |last1=Pinard |first1=Maxime |title=L'hacktivisme dans le cyberespace: quelles réalité? |journal=Revue internationale et stratégique |date=March 2012 |volume=87 |issue=3 |page=93 |doi=10.3917/ris.087.0093 |url=https://www.cairn.info/revue-internationale-et-strategique-2012-3-page-93.htm# |language=French |access-date=13 July 2020|url-access=subscription }}</ref>
+
+</references>
+
+==External links==
+* {{IMDb title|tt0109843}}
+
+{{Authority control}}
+
+[[Category:1994 films]]
+[[Category:1994 drama films]]
+[[Category:1994 independent films]]
+[[Category:1994 LGBTQ-related films]]
+[[Category:American science fiction drama films]]
+[[Category:1990s science fiction drama films]]
+[[Category:American independent films]]
+[[Category:British lesbian-related films]]
+[[Category:Works about computer hacking]]
+[[Category:British films set in New York City]]
+[[Category:Film4 Productions films]]
+[[Category:American avant-garde and experimental films]]
+[[Category:American feminist films]]
+[[Category:Hacker culture]]
+[[Category:1994 English-language films]]
+[[Category:1994 American films]]
+[[Category:British feminist films]]
+[[Category:British independent films]]
+[[Category:British avant-garde and experimental films]]
+[[Category:British science fiction drama films]]
+[[Category:1994 British films]]
+[[Category:1994 science fiction films]]
+[[Category:English-language science fiction drama films]]
+[[Category:English-language independent films]]
+[[Category:American lesbian-related films]]

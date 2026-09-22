@@ -1,0 +1,84 @@
+{{short description|1984 film directed by Paul Morrissey}}
+{{other uses|Mixed blood (disambiguation)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox film
+| name           = Mixed Blood
+| image          = Mixed Blood (promo sheet) ca. 1985.jpg
+| alt            =
+| caption        = Promo sheet for ''Mixed Blood''
+| director       = [[Paul Morrissey]]
+| producer       = {{ubl|[[Alain Sarde]]|Mark Slater}}
+| writer         = {{ubl|[[Alan Bowne]]|Paul Morrissey}}
+| narrator       =
+| starring       = {{ubl|[[Marília Pêra]]|Geraldine Smith}}
+| music          = [[Coati Mundi (musician)|Coati Mundi]]
+| cinematography = Stefan Zapasnik
+| editing        = Scott Vickrey
+| studio         = {{ubl|Sara Films|Set Satellite}}
+| distributor    = Cinevista
+| released       = {{Film date|1984|9|11|[[1984 Toronto International Film Festival|TIFF]]|df=yes}}
+| runtime        = 98 minutes
+| country        = United States
+| language       = English
+| budget         =
+| gross          =
+}}
+'''''Mixed Blood''''' is a 1984 [[black comedy]] film directed by [[Paul Morrissey]] and [[John Leguizamo]]'s film debut.<ref name=":0">{{Cite news |last=Canby |first=Vincent |date=1985-10-18 |title=SCREEN: TOUGH COMEDY |language=en-US |work=The New York Times |url=https://www.nytimes.com/1985/10/18/movies/screen-tough-comedy.html |access-date=2022-10-01 |issn=0362-4331}}</ref>
+
+==Plot==
+Rita La Punta ([[Marília Pêra]]) leads a gang of [[Brazil]]ian [[juvenile delinquent]]s  in an attempt to seize control of [[Lower East Side|New York's Lower East Side]]'s [[illegal drug trade]] from a [[Puerto Rico|Puerto Rican]] gang.<ref name="McElhaney 1986">{{cite web | last=McElhaney | first=Joe | title=Paul's Movie: Mixed Blood | website=desistfilm | date=January 3, 1986 | url=https://desistfilm.com/pauls-movie-mixed-blood/ | access-date=August 27, 2022}}</ref>
+
+==Principal cast==
+{| class="wikitable" style="width:50%;"
+|- "
+! Actor !! Role
+|-
+| [[Marília Pêra]] || Rita La Punta
+|-
+| Richard Ulacia|| Thiago
+|-
+| [[Rodney Harvey]] || Jose
+|-
+| [[Linda Kerridge]] || Carol
+|-
+| [[Geraldine Smith (actress)|Geraldine Smith]] || Toni
+|-
+| Angel David || Juan
+|-
+| Roberto Luis Santana || Assassin
+|}
+
+==Critical reception==
+The film received generally positive reviews.<ref>{{Cite web |last=Kehr |first=Dave |date=1985-10-26 |title=Mixed Blood |url=http://chicagoreader.com/film/mixed-blood-2/ |access-date=2022-10-01 |website=Chicago Reader |language=en-US}}</ref>
+
+[[Vincent Canby]] of ''[[The New York Times]]'' wrote:<blockquote>Paul Morrissey continues to be a cinema original and his <nowiki>''Mixed Blood,'' a most unorthodox look at life in the drug trade on New York'</nowiki>s [[Lower East Side]], is successively comic, brutal, primitive and sophisticated—a comedy with the manners of a live-action cartoon for jaded adults.<ref name=":0" /></blockquote>Morrisey's former collaborator [[Andy Warhol]] stated in ''[[The Andy Warhol Diaries]]'':<blockquote>Paul's movie ''Mixed Blood'' is playing midnights at the [[IFC Center|Waverly]] ... And I just loved the movie. It was everything he's done before, but it was photographed well and he seemed to know so much about the Lower East Side and the [[Alphabet City, Manhattan|Alphabet]]—avenues A, B, C, and D—for someone who hadn't been in New York for so long.<ref>{{Cite book |last=Warhol |first=Andy |url=http://archive.org/details/andywarholdiarie00warh |title=The Andy Warhol diaries |last2=Hackett |first2=Pat |date=1989 |publisher=New York, NY : Warner Books |others=The Archive of Contemporary Music |isbn=978-0-446-51426-2 |pages=706 |postscript=Entry date: Friday, January 3, 1986}}</ref></blockquote>Sid Smith wrote for the ''[[Chicago Tribune]]'':<blockquote>Although still fairly crude, the movie has more style than Morrissey's earlier pictures, and the lovely [[Salsa music|salsa]] score provides a biting undertone and subtlety Morrissey once avoided. It<nowiki>'s not a perfect picture, and sometimes it's a boring one, but ''Mixed Blood''</nowiki> is a fairly successful [[Italian neorealism|neo-realist]] look at something most moviemakers wouldn't go near.<ref>{{Cite news |last=Smith |first=Sid |date=May 18, 1986 |title='BLOOD' IS IN CLASSIC MORRISSEY VEIN |work=Chicago Tribune |url=https://www.chicagotribune.com/news/ct-xpm-1986-05-18-8602040792-story.html}}</ref></blockquote>
+
+==References==
+{{reflist}}
+
+== External links ==
+*{{IMDb title|0089607|Mixed Blood}}
+*{{Rotten Tomatoes|mixed_blood}}
+
+{{Paul Morrissey}}
+
+[[Category:1984 crime films]]
+[[Category:1984 films]]
+[[Category:1985 black comedy films]]
+[[Category:American crime films]]
+[[Category:American gang films]]
+[[Category:Films directed by Paul Morrissey]]
+[[Category:Films produced by Alain Sarde]]
+[[Category:Films set in Manhattan]]
+[[Category:Films shot in New York City]]
+[[Category:1984 English-language films]]
+[[Category:1984 American films]]
+[[Category:American black comedy films]]
+[[Category:Films about juvenile delinquency]]
+[[Category:Films about the illegal drug trade in the United States]]
+[[Category:English-language black comedy films]]
+[[Category:English-language crime films]]
+
+
+{{1980s-crime-film-stub}}
+{{1980s-US-film-stub}}

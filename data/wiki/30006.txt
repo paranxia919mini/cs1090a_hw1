@@ -1,0 +1,564 @@
+{{Short description|1991 horror film by Jonathan Demme}}
+{{pp-semi-indef}}
+{{Use American English|date=August 2019}}
+{{Use mdy dates|date=August 2019}}
+{{Infobox film
+| name           = The Silence of the Lambs
+| image          = The Silence of the Lambs poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Jonathan Demme]]
+| producer       = {{Plainlist|
+* [[Kenneth Utt]]
+* [[Edward Saxon]]
+* [[Ron Bozman]]
+}}
+| screenplay     = [[Ted Tally]]
+| based_on       = {{Based on|''[[The Silence of the Lambs (novel)|The Silence of the Lambs]]''|[[Thomas Harris]]}}
+| starring       = {{Plainlist|
+* [[Jodie Foster]]
+* [[Anthony Hopkins]]
+* [[Scott Glenn]]
+* [[Ted Levine]]
+}}
+| music          = [[Howard Shore]]
+| cinematography = [[Tak Fujimoto]]
+| editing        = [[Craig McKay (film editor)|Craig McKay]]
+| studio         = Strong Heart Productions
+| distributor    = [[Orion Pictures]]
+| released       = {{Film date|1991|1|30|New York City|1991|2|14|United States}}
+| runtime        = 118 minutes<ref>{{cite web |title=The Silence of the Lambs |url=https://www.bbfc.co.uk/releases/silence-lambs-3 |publisher=[[British Board of Film Classification]] |access-date=September 20, 2013 |archive-date=September 21, 2013 |archive-url=https://web.archive.org/web/20130921053543/http://www.bbfc.co.uk/releases/silence-lambs-3 |url-status=dead }}</ref>
+| country        = United States
+| language       = English
+| budget         = $19&nbsp;million<ref name="Mojo">{{cite web |title=The Silence of the Lambs (1991) |url=https://www.boxofficemojo.com/movies/?id=silenceofthelambs.htm |website=[[Box Office Mojo]] |access-date=November 30, 2014 |archive-date=November 27, 2014 |archive-url=https://web.archive.org/web/20141127002809/http://boxofficemojo.com/movies/?id=silenceofthelambs.htm |url-status=live }}</ref>
+| gross          = $272.7&nbsp;million<ref name="Mojo"/>
+}}
+'''''The Silence of the Lambs''''' is a 1991 American [[psychological horror]] [[thriller film]] directed by [[Jonathan Demme]] and written by [[Ted Tally]], adapted from [[Thomas Harris]]'s [[The Silence of the Lambs (novel)|1988 novel]]. It stars [[Jodie Foster]] as [[Clarice Starling]], a young [[Federal Bureau of Investigation|FBI]] trainee who is hunting a [[serial killer]] known as "[[Buffalo Bill (The Silence of the Lambs)|Buffalo Bill]]" ([[Ted Levine]]), who [[Skinning|skins]] his female victims. To catch him, she seeks the advice of the imprisoned [[Hannibal Lecter]] ([[Anthony Hopkins]]), a brilliant [[Psychiatry|psychiatrist]] and [[Human cannibalism|cannibalistic]] serial murderer. The film also features performances by [[Scott Glenn]], [[Anthony Heald]], and [[Kasi Lemmons]].<ref name="The Silence of the Lambs2">{{cite web |title=The Silence of the Lambs |url=https://www.tcm.com/tcmdb/title/90121/the-silence-of-the-lambs |url-status=dead |archive-url=https://web.archive.org/web/20160318031540/http://www.tcm.com/tcmdb/title/90121/The-Silence-Of-The-Lambs/ |archive-date=March 18, 2016 |access-date=March 28, 2016 |work=Turner Classic Movies}}</ref>
+
+Released by [[Orion Pictures]] on February 14, 1991, the film grossed $272.7&nbsp;million worldwide on a $19&nbsp;million budget and became the [[1991 in film|fifth-highest-grossing film of the year]]. It premiered at the [[41st Berlin International Film Festival]], where Demme won the [[Silver Bear for Best Director]]. At the [[64th Academy Awards]], it became the third—and most recent—film to win the "Big Five" categories: [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]], [[Academy Award for Best Actor|Best Actor]], [[Academy Award for Best Actress|Best Actress]], and [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]. It remains the only [[horror film]] to have won Best Picture.
+
+''The Silence of the Lambs'' is regularly cited by critics, film directors, and audiences as one of the [[List of films considered the best|greatest and most influential films]]. In 2018, ''[[Empire (magazine)|Empire]]'' ranked it 48th on its list of the 500 greatest movies of all time.<ref>{{cite web |title=The 500 Greatest Movies of All Time – #400–301 |url=https://www.empireonline.com/500/28.asp |url-status=dead |archive-url=https://web.archive.org/web/20111011134651/http://www.empireonline.com/500/28.asp |archive-date=October 11, 2011 |access-date=June 3, 2010 |website=[[Empire (magazine)|Empire Online]]}}</ref> The [[American Film Institute]] ranked it the [[AFI's 100 Years...100 Movies|sixty-fifth greatest film in American cinema]] and the [[AFI's 100 Years...100 Thrills|fifth-greatest thriller]], while Starling and Lecter were included among the [[AFI's 100 Years...100 Heroes & Villains|greatest film heroines and villains]]. The film was deemed "culturally, historically, or aesthetically" significant by the U.S. [[Library of Congress]] and was selected for preservation in the [[National Film Registry]] in 2011.<ref name="BBC2">{{cite news |date=December 28, 2011 |title=Silence of the Lambs added to U.S. film archive |publisher=[[BBC News]] |location=London |url=https://www.bbc.co.uk/news/entertainment-arts-16344420 |url-status=live |access-date=December 28, 2011 |archive-url=https://web.archive.org/web/20111228143947/http://www.bbc.co.uk/news/entertainment-arts-16344420 |archive-date=December 28, 2011}}</ref>
+
+The film has drawn criticism for its portrayal of [[gender identity]], particularly regarding the character of Buffalo Bill, which some critics argue perpetuates harmful stereotypes. Demme defended the film's intentions, arguing that it merely tells the personal story of "a tormented man".<ref name=nytimes-visions/>
+
+The film launched a franchise that includes the sequel ''[[Hannibal (2001 film)|Hannibal]]'' (2001), the [[prequel]]s ''[[Red Dragon (2002 film)|Red Dragon]]'' (2002) and ''[[Hannibal Rising (film)|Hannibal Rising]]'' (2007), a [[The Silence of the Lambs (play)|play]] and two television adaptations. 
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be 400–700 words. -->
+
+[[Clarice Starling]], a young [[Federal Bureau of Investigation|FBI]] trainee at [[FBI Academy|Quantico]], is recruited by Behavioral Science Unit chief [[Jack Crawford (character)|Jack Crawford]] to interview Dr. [[Hannibal Lecter]], a brilliant and [[Human cannibalism|cannibalistic]] psychiatrist imprisoned at the [[Baltimore]] State Hospital for the Criminally Insane. Officially conducting a psychological survey, Starling is actually meant to draw out insights that could help capture "[[Buffalo Bill (character)|Buffalo Bill]]", a [[serial killer]] who murders young women and removes their skin.
+
+At the hospital, the manipulative director Dr. [[Frederick Chilton]] makes unwelcome advances toward Starling before escorting her to Lecter's cell. Initially courteous, Lecter grows dismissive upon deducing Crawford's ulterior motive. As Starling departs, inmate Miggs flings [[semen]] at her, provoking Lecter's disgust. He summons her back and offers an [[anagram]] as a clue that leads her to a storage unit containing a severed head in a jar—later revealed to belong to Benjamin Raspail, a former patient of Lecter whose killer is believed to be Buffalo Bill. Soon afterward, Miggs is found dead, having swallowed his own tongue—implicitly orchestrated by Lecter as retribution. Lecter agrees to assist in exchange for a transfer away from Chilton. Meanwhile, another victim is discovered with a [[Death's-head hawkmoth|death's-head moth]] lodged in her throat—the same species later found inside the severed head.
+
+When Buffalo Bill abducts Catherine Martin, daughter of U.S. Senator Ruth Martin, Crawford authorizes Starling to offer Lecter a fraudulent deal: a prison transfer in return for actionable intelligence. Lecter instead demands a ''[[quid pro quo]]'', extracting personal details from Starling, who reveals that her father, a police officer, was murdered when she was ten, leaving her orphaned. In exchange, Lecter reveals that Buffalo Bill is not a genuine [[transsexual]] but mistakenly believes he is, having possibly been rejected from [[Gender-affirming surgery|gender-reassignment]] clinics due to psychological instability. Chilton secretly records the conversation, exposes her deceit, and offers Lecter relocation to [[Tennessee]] in exchange for information. Lecter complies and is flown to [[Memphis, Tennessee|Memphis]], where he provides Senator Martin with accurate details about Buffalo Bill's appearance but falsely identifies him as "Louis Friend". Meanwhile, Buffalo Bill holds Catherine captive in a dry well in his basement, demanding she apply lotion to her skin; Catherine manages to seize his dog, Precious, as leverage.
+
+Starling deciphers "Louis Friend" as an anagram for "[[Pyrite|iron sulfide]]" (fool's gold) and confronts Lecter in his temporary cell at a Memphis courthouse. Lecter demands deeper revelations and offers a cryptic clue—"we covet what we see every day"—before Starling recounts a traumatic childhood incident: after her father's death, she lived on a relative's [[Montana]] farm, where she failed to save [[spring lamb]]s from slaughter. Lecter intuits that saving Catherine might silence this recurring trauma and, satisfied, returns the case files. That night, he uses a piece of Chilton's pen to unlock his restraints, murders two guards, and escapes in an ambulance disguised in a dead guard's uniform and skinned face.
+
+Analyzing Lecter's annotations, Starling deduces that Buffalo Bill knew his first victim, Frederika Bimmel, a tailor from [[Ohio]], and follows the lead. At Bimmel's home, she finds unfinished dresses and patterns matching patches of skin removed from the victims, realizing Bill seeks to construct a "suit" of human flesh and starves his captives to loosen their skin. Crawford cross-references Lecter's profile with names from [[Johns Hopkins Hospital|Johns Hopkins]] and the Known Offenders database, identifying Jame Gumb as the prime suspect; the name is confirmed through [[Los Angeles International Airport|LAX]] customs papers listing Gumb as the addressee of live death's-head moth caterpillars imported from [[Suriname]]. While Crawford's team raids Gumb's vacant [[Calumet City, Illinois|Calumet City]] residence, Starling interviews Bimmel's acquaintances and arrives at a house where Gumb poses as "Jack Gordon". His façade crumbles when Starling spots a death's-head moth.
+
+Pursuing Gumb into his basement, Starling discovers Catherine trapped in the well. Gumb stalks Starling in complete darkness using [[night-vision goggles]], but betrays his position by cocking his revolver; Starling fires instinctively and kills him. Catherine is rescued.
+
+Starling graduates from the FBI Academy. During the post-ceremony party, Lecter calls from an unnamed tropical location, asking whether "the lambs have stopped screaming." He assures her he has no intention of pursuing her and asks that she return the favor—a vow she declines. Lecter announces he is "having an old friend for dinner" before trailing Chilton into a crowd.
+
+==Cast==
+{{Cast listing|
+* [[Jodie Foster]] as [[Clarice Starling]]
+** Masha Skorobogatov as young Clarice
+* [[Anthony Hopkins]] as Dr. [[Hannibal Lecter]]
+* [[Scott Glenn]] as [[Jack Crawford (character)|Jack Crawford]]
+* [[Ted Levine]] as [[Buffalo Bill (The Silence of the Lambs)|Jame "Buffalo Bill" Gumb]]
+* [[Anthony Heald]] as Dr. [[Frederick Chilton]]
+* [[Brooke Smith (actress)|Brooke Smith]] as Catherine Martin
+* [[Diane Baker]] as U.S. Senator Ruth Martin
+* [[Kasi Lemmons]] as Ardelia Mapp
+* [[Charles Napier (actor)|Charles Napier]] as Lt. Bill Boyle
+* [[Tracey Walter]] as Lamar
+* [[Roger Corman]] as FBI Director Hayden Burke
+* [[Ron Vawter]] as Paul Krendler
+* Danny Darst as Sgt. Tate
+* [[Frankie Faison]] as Barney Matthews
+* [[Paul Lazar]] as Pilcher
+* [[Dan Butler]] as Roden
+* [[Chris Isaak]] as SWAT commander
+* Stuart Rudin as Miggs
+* [[Darla (dog)|Darla]] as the dog, Precious
+* [[Cynthia Ettinger]] as Officer Jacobs
+* Brent Hinkley as Officer Murray
+* Alex Coleman as Sgt. Jim Pembry
+* [[Daniel Von Bargen]] as SWAT communicator
+* [[Harry Northup]] as Mr. Bimmel
+* Lauren Roselli as Stacy Hubka
+* [[George A. Romero]] as a jailer (uncredited)<ref>{{cite web|last=Kennedy|first=Michael|title=Silence Of The Lambs: George Romero's Cameo Role Explained|url=https://screenrant.com/silence-lambs-movie-george-romero-cameo-role-explained/|website=[[Screen Rant]]|date=February 4, 2021|access-date=June 24, 2021}}</ref><ref>{{cite magazine|url=https://variety.com/2017/film/news/george-romero-dead-dies-night-of-the-living-dead-director-1202497068/|title=George A. Romero, 'Night of the Living Dead' Director, Dies at 77|first=Pat|last=Saperstein|date=July 16, 2017|magazine=[[Variety (magazine)|Variety]]|access-date=June 24, 2021}}</ref>
+}}
+
+==Production==
+===Development===
+The movie is based on the [[The Silence of the Lambs (novel)|1988 novel]] by [[Thomas Harris]]. It was the second film to feature the character Hannibal Lecter; the first, ''[[Manhunter (film)|Manhunter]]'' (1986), directed by [[Michael Mann]], was based on the first novel in the Lecter series, [[Red Dragon (novel)|''Red Dragon'']] (1981). Prior to the release of the ''Silence of the Lambs'' novel, [[Orion Pictures]] partnered with [[Gene Hackman]] to adapt it for film. With Hackman set to direct and star as either Jack Crawford or Hannibal Lecter,<ref name=Baltimore-Sun-Hackman>{{cite web |title=Hackman, though teamed with Eastwood, is moving away from violence |url=https://www.baltimoresun.com/1992/08/04/hackman-though-teamed-with-eastwood-is-moving-away-from-violence/ |website=Baltimore Sun |access-date=November 8, 2025 |date=4 August 1992}}</ref><ref>{{Cite web |last=Fleming Jr. |first=Mike |date=April 26, 2017 |title=Jonathan Demme and Untold 'Silence of the Lambs' Tales: Hannibal, Clarice, Tally, Hackman, and a Discarded Scary Ending |url=https://deadline.com/2017/04/the-silence-of-the-lambs-25th-anniversary-untold-tales-jonathan-demme-ted-tally-hannibal-lecter-clarice-starling-1201703981/ |access-date=August 31, 2025 |website=Deadline}}</ref> negotiations were made to split the $500,000 cost of rights between Hackman and the studio.{{sfn|Tiech|2012|p=63}} The producers also had to acquire the rights to the Lecter character, which were owned by ''Manhunter'' producer [[Dino De Laurentiis]]. Owing to the financial failure of ''Manhunter'', De Laurentiis lent the rights to Orion for free.<ref name=":1">{{cite web|last=Bernstein|first=Jill|title=How Ridley Scott's Hannibal came to be made|url=https://www.theguardian.com/film/2001/feb/09/culture.features|work=[[The Guardian]]|location=London|access-date=March 13, 2014|date=February 8, 2001|archive-date=May 9, 2014|archive-url=https://web.archive.org/web/20140509215716/http://www.theguardian.com/film/2001/feb/09/culture.features|url-status=live}}</ref>
+
+In November 1987, [[Ted Tally]] was brought on to write the adaptation;{{sfn|Medavoy|2013|p=183}} Tally had crossed paths with Harris many times, with his interest in adapting ''The Silence of the Lambs'' originating from receiving an advance copy of the book from Harris.{{sfn|Konow|2012|p=459}} When Tally was about halfway through with the first draft, Hackman withdrew from the project as his children wanted him to stop doing violent films, and financing fell through. However, Orion co-founder [[Mike Medavoy]] encouraged Tally to keep writing as the studio took care of financing, and searched for a replacement director.<ref name=Baltimore-Sun-Hackman/>{{sfn|Engel|1995|p=110}} [[Amblin Entertainment]] passed on the project as they felt it was out of character for [[Steven Spielberg]] to direct.<ref>{{cite web | title=Steven Spielberg, Seriously : Hollywood's Perennial Wunderkind Confronts History, Sentiment and the Fine Art of Growing up | website=[[Los Angeles Times]] | date=December 19, 1993 | url=https://www.latimes.com/archives/la-xpm-1993-12-19-tm-3657-story.html }}</ref> Orion sought Jonathan Demme to direct. With the screenplay not yet completed, Demme signed on after reading the novel.{{sfn|Kapsis|2008|pages=71–75}} From there, the project developed quickly; Tally said: "[Demme] read my first draft not long after it was finished, and we met. Then I was just startled by the speed of things. We met in May 1989 and were shooting in November. I don't remember any big revisions."{{sfn|Scott|2006|p=17}}
+
+===Casting===
+[[Jodie Foster]] was interested in playing FBI agent Clarice Starling immediately after reading the novel.<ref name=":2" /> However, even though she had just won an [[Academy Award for Best Actress]] at the [[61st Academy Awards]] for her performance in ''[[The Accused (1988 film)|The Accused]]'' (1988), Demme was not initially convinced that she was right for the role.<ref name=":2">{{cite web|title=The Total Film Interview – Jodie Foster|url=http://www.totalfilm.com/features/the-total-film-interview-jodie-foster|work=[[Total Film]] |location=Bath, England|access-date=March 14, 2014|date=December 1, 2005|url-status=dead|archive-url=https://web.archive.org/web/20140314224107/http://www.totalfilm.com/features/the-total-film-interview-jodie-foster|archive-date=March 14, 2014}}</ref><ref>{{cite web|last=Davis|first=Cindy|title=Mindhole Blowers: 20 Facts About The Silence of the Lambs That Might Make You Crave a Nice Chianti|url=http://www.pajiba.com/seriously_random_lists/mindhole-blowers-20-facts-about-the-silence-of-the-lambs-that-might-make-you-crave-a-nice-chianti.php|work=Pajiba|access-date=March 14, 2014|date=February 27, 2012|archive-date=March 14, 2014|archive-url=https://web.archive.org/web/20140314223019/http://www.pajiba.com/seriously_random_lists/mindhole-blowers-20-facts-about-the-silence-of-the-lambs-that-might-make-you-crave-a-nice-chianti.php|url-status=live}}</ref> Demme's first choice for the role of Starling was [[Michelle Pfeiffer]], with whom he had just collaborated on ''[[Married to the Mob]]'' (1988). Pfeiffer turned it down, later saying, "It was a difficult decision, but I got nervous about the subject matter."<ref name=bws>The Barbara Walters Special, American Broadcasting Company, 1992</ref><ref>{{cite magazine |last1=Syme |first1=Rachel |title=Michelle Pfeiffer Chooses Carefully |url=https://www.newyorker.com/culture/the-new-yorker-interview/michelle-pfeiffer-chooses-carefully |magazine=The New Yorker |access-date=1 January 2026 |date=31 January 2021}}</ref> He then approached [[Meg Ryan]], who also turned it down for its gruesome themes. The studio was skeptical about [[Laura Dern]] as a bankable choice,<ref>{{cite web|last=Davis|first=Cindy|title='Silence of the Lambs' director admits he didn't want to cast Jodie Foster|url=https://www.nme.com/news/film/silence-of-the-lambs-director-admits-he-didn-t-wa-874781|work=[[NME]] |location=London|access-date=March 14, 2018|date=April 2, 2015|archive-date=January 15, 2018|archive-url=https://web.archive.org/web/20180115195748/http://www.nme.com/news/film/silence-of-the-lambs-director-admits-he-didn-t-wa-874781|url-status=live}}</ref> so Foster was ultimately awarded the role due to her passion for the character.<ref>{{cite web|last=Maslin|first=Janet|author-link=Janet Maslin|title=How to Film a Gory Story With Restraint|url=https://www.nytimes.com/packages/html/movies/bestpictures/lambs-ar3.html|work=[[The New York Times]]|location=New York City|access-date=March 14, 2014|date=February 19, 1991|url-access=limited|archive-date=January 17, 2015|archive-url=https://web.archive.org/web/20150117080955/http://www.nytimes.com/packages/html/movies/bestpictures/lambs-ar3.html|url-status=live}}</ref> [[Molly Ringwald]] auditioned but was deemed "too young".<ref>[https://variety.com/2024/film/actors/molly-ringwald-brat-pack-the-bear-feud-creative-vanguard-award-1235957763/ Molly Ringwald Felt Limited by 'Brat Pack' Label, But 'The Bear' and 'Feud' Roles Excite Her for What's Next]</ref>
+
+For the role of Lecter, Demme originally approached [[Sean Connery]]. After Connery turned it down, [[Anthony Hopkins]] was offered the role based on his performance in ''[[The Elephant Man (1980 film)|The Elephant Man]]'' (1980).<ref>{{cite web|last=Odam|first=Matthew|title=AFF panel wrap: Jonathan Demme in conversation with Paul Thomas Anderson|url=http://www.austin360.com/weblogs/austin-movie-blog/2013/oct/26/aff-panel-wrap-jonathan-demme-conversation-paul-th/|work=[[Austin American-Statesman]] |location=Austin, Texas|access-date=March 15, 2014|date=October 26, 2013|archive-date=November 22, 2014|archive-url=https://web.archive.org/web/20141122115128/http://www.austin360.com/weblogs/austin-movie-blog/2013/oct/26/aff-panel-wrap-jonathan-demme-conversation-paul-th/|url-status=live}}</ref> When Hopkins's agent told him that a script was on his way titled ''The Silence of the Lambs'', Hopkins responded, "Is it a children's story?"<ref name="Setoodeh">{{cite news |last1=Setoodeh |first1=Ramin |title=Jodie Foster and Anthony Hopkins Reunite for 'Silence of the Lambs' 30th Anniversary |url=https://variety.com/2021/film/news/jodie-foster-anthony-hopkins-silence-of-the-lambs-30th-anniversary-1234887496/ |work=Variety |date=January 20, 2021 |location=Los Angeles |access-date=February 1, 2021 |archive-date=January 19, 2021 |archive-url=https://web.archive.org/web/20210119160157/https://variety.com/2021/film/news/jodie-foster-anthony-hopkins-silence-of-the-lambs-30th-anniversary-1234887496/ |url-status=live }}</ref> Hopkins called his agent back after reading the first 10 pages and said, "This is the best part I've ever read." He accepted the role after having dinner with Demme.<ref name="Setoodeh" />
+
+Other actors considered for the role included [[Al Pacino]],<ref name="deadline">{{Cite web |url=https://deadline.com/2017/11/jodie-foster-silence-of-the-lambs-bfi-1202202525/ |title=Jodie Foster Lifts The Lid On 'The Silence of the Lambs' At BFI – Q&A |last=White |first=Peter |date=November 6, 2017 |website=[[Deadline Hollywood]] |location=Los Angeles |access-date=November 6, 2017 |archive-date=November 6, 2017 |archive-url=https://web.archive.org/web/20171106143625/http://deadline.com/2017/11/jodie-foster-silence-of-the-lambs-bfi-1202202525/amp/ |url-status=live }}</ref> [[Robert De Niro]],<ref name="deadline"/> [[Dustin Hoffman]],<ref name="deadline"/> [[Jeremy Irons]],<ref>{{cite web |last1=Preston |first1=John |title=Jeremy Irons: interview |url=https://www.telegraph.co.uk/culture/7429531/Jeremy-Irons-interview.html |website=The Telegraph |access-date=November 20, 2025 |date=March 15, 2010}}</ref> [[Derek Jacobi]]<ref name="thewrap"/> and [[Daniel Day-Lewis]].<ref name="thewrap">{{cite web |first=Brent |last=Lang |url=https://www.thewrap.com/derek-jacobi-daniel-day-lewis-almost-played-hannibal-lecter/ |title=Derek Jacobi, Daniel Day-Lewis Almost Played Hannibal Lecter in 'Silence of the Lambs' |website=[[The Wrap]] |location=Los Angeles |date=September 11, 2013 |access-date=April 8, 2014 |archive-date=April 11, 2014 |archive-url=https://web.archive.org/web/20140411114328/http://www.thewrap.com/derek-jacobi-daniel-day-lewis-almost-played-hannibal-lecter/ |url-status=live }}</ref> [[Forest Whitaker]] has stated that he also auditioned for the role. The mask Hopkins wore became an iconic symbol of the film. It was created by Ed Cubberly, of [[Frenchtown, New Jersey]], who had made masks for [[NHL]] goalkeepers.<ref>{{Cite web|url=http://edcubberly.com/hannibal.html|title=Ed Cubberly - Hannibal Lechter Masks|website=edcubberly.com|access-date=August 25, 2019|archive-date=September 3, 2019|archive-url=https://web.archive.org/web/20190903173505/http://edcubberly.com/hannibal.html|url-status=live}}</ref>
+
+Hopkins developed his portrayal of Lecter by drawing inspiration from the [[HAL 9000]] computer as voiced by [[Douglas Rain]] in ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]],'' as well as the vocal patterns of writer [[Truman Capote]].<ref name="McGo">{{cite web |last1=McGowan |first1=Mark |title=How Anthony Hopkins Created And Became The Character Of Hannibal Lecter |url=https://www.ladbible.com/entertainment/celebrity-film-and-tv-awesome-how-anthony-hopkins-created-and-became-the-character-hannibal-lecter-20161230 |website=LadBible.com |date=December 30, 2016  |access-date=January 5, 2021 |archive-date=March 9, 2021 |archive-url=https://web.archive.org/web/20210309214732/https://www.ladbible.com/entertainment/celebrity-film-and-tv-awesome-how-anthony-hopkins-created-and-became-the-character-hannibal-lecter-20161230 |url-status=live }}</ref><ref>{{Cite web |last=Slankard |first=Jacob |date=2023-10-07 |title=The Chilling Ways HAL 9000 Influenced Anthony Hopkins' Hannibal Lecter |url=https://collider.com/anthony-hopkins-hannibal-lecter-hal-9000/ |access-date=2024-04-05 |website=Collider |language=en}}</ref>{{Better source needed|date=February 2022}} In a 2001 interview with ''[[GQ]]'', Hopkins clarified that he did not base Lecter's vocal cadence on [[Katharine Hepburn]], as some people had thought. He also revealed that the decision to play Lecter as still and unblinking was not influenced by [[Charles Manson]], as some had speculated.<ref name="gq 2021">{{cite web |last=McGurk |first=Stuart |url=https://www.gq-magazine.co.uk/culture/article/anthony-hopkins-interview/amp |title=Sir Anthony Hopkins: 'Where are the awards for nurses, surgeons and caregivers?' |website=[[GQ]] |date=September 2, 2021 |access-date=October 16, 2021 |url-status=live |archive-url=https://web.archive.org/web/20211016123421/https://www.gq-magazine.co.uk/culture/article/anthony-hopkins-interview/amp |archive-date=October 16, 2021 }}</ref> Hopkins admitted to being intimidated by Foster, who had just won an Academy Award, and initially felt scared to talk to her.<ref name="Setoodeh" />
+
+Scott Glenn was cast to play Jack Crawford, the Agent-in-Charge of the [[Behavioral Science Unit]] of the FBI in [[Quantico, Virginia]]. In preparation for the role, Glenn met with [[John E. Douglas]]. Douglas gave Glenn a tour of the Quantico facility and also played for him an audio tape containing various recordings that serial killers [[Lawrence Bittaker and Roy Norris]] had made of themselves raping and torturing a 16-year-old girl.<ref>{{cite web|last=Newton|first=Michael|title=Lawrence Bittaker & Roy Norris: Killing Time|url=http://www.crimelibrary.com/serial_killers/predators/bittaker_norris/10.html|work=[[Crime Library]]|publisher=[[TruTV]]|location=Atlanta |access-date=March 14, 2014|url-status=dead|archive-url=https://web.archive.org/web/20140225102455/http://www.crimelibrary.com/serial_killers/predators/bittaker_norris/10.html|archive-date=February 25, 2014}}</ref>{{sfn|Kessler|1993|p=258}} According to Douglas, Glenn wept as he listened to the recordings, and even changed his liberal stance on the [[death penalty]].{{sfn|Douglas|Olshaker|1995|p=162}}
+
+===Filming===
+[[Principal photography]] began on November 15, 1989, and wrapped on March 1, 1990.<ref>{{cite web|title=The Silence of the Lambs (1991) – Miscellaneous Notes|url=https://www.tcm.com/tcmdb/title/90121/the-silence-of-the-lambs#notes|work=[[Leonard Maltin's Classic Movie Guide]]|publisher=[[Turner Classic Movies]]|access-date=March 11, 2014|archive-date=March 16, 2014|archive-url=https://web.archive.org/web/20140316064036/http://www.tcm.com/tcmdb/title/90121/The-Silence-Of-The-Lambs/misc-notes.html|url-status=dead}}</ref> Filming primarily took place in and around [[Pittsburgh]], [[Pennsylvania]].<ref>{{cite news|title=City lands good share of movies|url=https://news.google.com/newspapers?id=V19cAAAAIBAJ&dq=sharon-stone%20pittsburgh&pg=1397%2C300980|access-date=December 30, 2011|newspaper=The Vindicator|date=December 10, 1995|archive-date=February 25, 2021|archive-url=https://web.archive.org/web/20210225012250/https://news.google.com/newspapers?id=V19cAAAAIBAJ&dq=sharon-stone%20pittsburgh&pg=1397%2C300980|url-status=live}}</ref><ref>{{cite web |url=https://catalog.afi.com/Catalog/moviedetails/55200 |title=AFI&#124;Catalog }}</ref> The Victorian home in [[Perryopolis, Pennsylvania]], used as Buffalo Bill's home in the film went up for sale in August 2015 for $300,000.<ref>{{cite web |title='Silence of the Lambs' Takes Revenge on This Week's Most Popular Homes |url=https://www.realtor.com/news/trends/most-popular-homes-jame-gumb-silence-of-the-lambs/ |website=realtor.com News |date=August 28, 2015 |access-date=June 18, 2020 |archive-date=June 19, 2020 |archive-url=https://web.archive.org/web/20200619053634/https://www.realtor.com/news/trends/most-popular-homes-jame-gumb-silence-of-the-lambs/ |url-status=live }}</ref> The home sat on the market for nearly a year, before finally selling for $195,000.<ref>{{cite news|first=Katie|last=Rogers|title='Silence of the Lambs' House Can't Find a Buyer|url=https://www.nytimes.com/2016/01/13/movies/silence-of-the-lambs-house-cant-find-a-buyer.html|newspaper=[[The New York Times]]|location=New York City|date=January 13, 2016|access-date=June 18, 2020|url-access=limited|archive-date=February 17, 2020|archive-url=https://web.archive.org/web/20200217145835/https://www.nytimes.com/2016/01/13/movies/silence-of-the-lambs-house-cant-find-a-buyer.html|url-status=live}}</ref><ref>{{cite web|first=Claudine|last=Zap|title='Silence of the Lambs' House Finally Sells|url=https://www.realtor.com/news/unique-homes/silence-of-the-lambs-house-finally-sells/|website=realtor.com News|date=July 9, 2016|access-date=June 18, 2020|archive-date=June 19, 2020|archive-url=https://web.archive.org/web/20200619035858/https://www.realtor.com/news/unique-homes/silence-of-the-lambs-house-finally-sells/|url-status=live}}</ref> The exterior of the [[Western Center]] near [[Canonsburg, Pennsylvania]], served as the setting for Baltimore State Hospital for the Criminally Insane.<ref>{{cite web|last=Kirsch|first=Tom|title=Western Center – Abandoned Photography|url=http://opacity.us/site108_western_center.htm|work=Opacity|date=October 21, 2005 |access-date=March 11, 2014|archive-date=February 8, 2014|archive-url=https://web.archive.org/web/20140208022610/http://opacity.us/site108_western_center.htm|url-status=live}}</ref> A scene set in the FBI Director's office was filmed in the office of [[United States Secretary of Labor]] [[Elizabeth Dole]] in [[Washington, D.C.]]<ref>{{cite web|url=https://archive.nytimes.com/www.nytimes.com/packages/html/movies/bestpictures/lambs-ar1.html|title=Retelling a Psychopathic Killer's Tale Is No Joke|last=Hinds|first=Michael deCourcy|work=[[The New York Times]]|date=March 25, 1990|access-date=January 19, 2023}}</ref> In what was a rare act of cooperation at the time, the FBI allowed scenes to be filmed at the [[FBI Academy]] in Quantico; some FBI staff members even acted in [[bit part]]s.{{sfn|Edwards|2001|p=132}}<ref>{{cite magazine |title=Dr. Lecter Will See You Now |url=https://www.empireonline.com/movies/features/classic-feature-silence-lambs/ |magazine=[[Empire (magazine)|Empire]] |location=London |date=June 1991 |access-date=July 24, 2014 |last=Lurie |first=Rod |archive-date=December 11, 2015 |archive-url=https://web.archive.org/web/20151211132029/http://www.empireonline.com/movies/features/classic-feature-silence-lambs/ |url-status=live }}</ref>
+
+The design for the basement and pit used by Buffalo Bill was inspired by the real-life kidnappings and murders performed by [[Gary M. Heidnik]].
+
+===Music===
+{{Music ratings
+|rev1 = [[AllMusic]]
+|rev1score = {{Rating|4|5}}
+|rev2 = [[Filmtracks]]
+|rev2score = {{Rating|3|5}}
+}}
+{{main|The Silence of the Lambs (soundtrack)|l1=''The Silence of the Lambs'' (soundtrack)}}
+The [[film score|musical score]] was composed by [[Howard Shore]], who would also collaborate with Demme on ''[[Philadelphia (film)|Philadelphia]]''. Recorded in [[Munich]] during the latter half of the summer of 1990, the score was performed by the [[Munich Symphony Orchestra]].<ref>{{cite web|title=Howard Shore – The Silence of the Lambs (The Original Motion Picture Score)|url=http://www.discogs.com/Howard-Shore-The-Silence-Of-The-Lambs-The-Original-Motion-Picture-Score/release/822794|work=[[Discogs]]|year=1991 |access-date=March 11, 2014|archive-date=December 31, 2013|archive-url=https://web.archive.org/web/20131231221405/http://www.discogs.com/Howard-Shore-The-Silence-Of-The-Lambs-The-Original-Motion-Picture-Score/release/822794|url-status=live}}</ref> "I tried to write in a way that goes right into the fabric of the movie", explained Shore on his approach. "I tried to make the music just fit in. When you watch the movie you are not aware of the music. You get your feelings from all elements simultaneously, lighting, cinematography, costumes, acting, music. Jonathan Demme was very specific about the music."<ref>{{cite journal|last=Büdinger|first=Matthias|author2=Luc Van de Ven|title=Howard Shore on The Silence of the Lambs|journal=Soundtrack Magazine|year=1991|volume=10|issue=37|url=http://www.runmovies.eu/?p=3567|archive-url=http://arquivo.pt/wayback/20141123143844/http://www.runmovies.eu/?p=3567|url-status=dead|archive-date=November 23, 2014|access-date=March 11, 2014}}</ref> The music editor was Suzana Peric.<ref>{{Cite web|title=Suzana Peric|url=https://steinhardt.nyu.edu/people/suzana-peric|access-date=2020-08-09|publisher=NYU Steinhardt|language=en|archive-date=October 20, 2020|archive-url=https://web.archive.org/web/20201020165922/https://steinhardt.nyu.edu/people/suzana-peric|url-status=live}}</ref><ref>{{Cite web|last=Hamill|first=Denis|title=On the Right (Sound)track – Croatian Native Suzana Peric Has Cut Out a Career Here As a Movie Music Editor|url=https://www.nydailynews.com/sound-track-croatian-native-suzana-peric-cut-career-movie-music-editor-article-1.759344|access-date=2020-08-09|website=New York Daily News |date=March 23, 1997 |archive-date=October 26, 2020|archive-url=https://web.archive.org/web/20201026132251/https://www.nydailynews.com/sound-track-croatian-native-suzana-peric-cut-career-movie-music-editor-article-1.759344|url-status=live}}</ref> A soundtrack album was released by [[MCA Records]] on February 5, 1991.<ref>{{cite web|title=Filmtracks: The Silence of the Lambs (Howard Shore)|url=http://www.filmtracks.com/titles/silence_lambs.html|work=[[Filmtracks.com]]|access-date=March 11, 2014|date=November 24, 2009|archive-date=July 15, 2014|archive-url=https://web.archive.org/web/20140715234013/http://filmtracks.com/titles/silence_lambs.html|url-status=live}}</ref> Music from the film was later used in the [[Trailer (promotion)|trailers]] for its 2001 sequel, ''[[Hannibal (2001 film)|Hannibal]]''.<ref>{{cite web|title=Trailer Music: Hannibal (2001)|url=http://www.soundtrack.net/trailers/?cid=H&mid=10589|work=[[Soundtrack.net]] |access-date=March 11, 2014|archive-date=June 3, 2013|archive-url=https://web.archive.org/web/20130603152040/http://www.soundtrack.net/trailers/?cid=H&mid=10589|url-status=live}}</ref>
+
+In addition to Shore's score, recordings of popular music are used prominently in the film. This includes [[United Kingdom|British]] [[post-punk]] music, such as the song "[[Hex Enduction Hour|Hip Priest]]" by [[The Fall (band)|the Fall]] which can be heard playing during the climactic scene in which Starling enters Buffalo Bill's house.<ref>{{cite web|title=10 Songs that Defined the Fall and Mark E. Smith|url=https://pitchfork.com/thepitch/10-songs-that-defined-the-fall-and-mark-e-smith/|work=[[Pitchfork (website)|Pitchfork]]|date=January 25, 2018 |access-date=April 5, 2021|archive-date=April 11, 2021|archive-url=https://web.archive.org/web/20210411012927/https://pitchfork.com/thepitch/10-songs-that-defined-the-fall-and-mark-e-smith/|url-status=live}}</ref> The song "[[Goodbye Horses]]" by [[Q Lazzarus]] became a cult hit after it was featured in an iconic scene with Buffalo Bill applying makeup and speaking to himself in the mirror.<ref name="stereogum">{{cite web |last1=Helman |first1=Peter |title=Mysterious "Goodbye Horses" Singer Q Lazzarus Breaks Her Silence 30 Years Later |url=https://www.stereogum.com/2009727/mysterious-goodbye-horses-singer-q-lazzarus-breaks-her-silence-30-years-later/news/ |website=Stereogum |access-date=August 18, 2022 |language=en |date=August 11, 2018}}</ref>
+
+==Release and reception==
+===Box office===
+''The Silence of the Lambs'' was released on February 14, 1991, grossing almost $14&nbsp;million from 1,497 theaters over the four-day [[Presidents' Day]] weekend, placing at number one at the US box office. It remained at number one for five weeks.<ref name="mojo"/>
+
+The film opened at the [[Odeon Leicester Square]] in London in June 1991 and grossed £290,936 in its opening week, which distributor [[Rank Film Distributors|Rank]] claimed was a world record opening week from one theatre.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=43|date=June 10, 1991|title='Lambs' Loud in U.K. Bow|last=Coopman|first=Jeremy}}</ref> The following week, it expanded to 281 screens and grossed £4,260,472 for the week, a UK record.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=38|date=June 17, 1991|title='Lambs' Record $6.9 Mil|last=Pitman|first=Jack}}</ref>
+
+The film grossed $131&nbsp;million in the United States and Canada with a total worldwide gross of $273&nbsp;million.<ref name="mojo">{{cite web |url=https://www.boxofficemojo.com/movies/?id=silenceofthelambs.htm |title=The Silence of the Lambs |website =[[Box Office Mojo]] |access-date=February 19, 2020 |archive-date=March 30, 2019 |archive-url=https://web.archive.org/web/20190330044135/https://www.boxofficemojo.com/movies/?id=silenceofthelambs.htm |url-status=live }}</ref> It was the [[1991 in film|fourth-highest grossing film of 1991]] in North America and the fifth-highest-grossing film worldwide.<ref>{{cite web|title=1991 Yearly Box Office Results|url=https://boxofficemojo.com/yearly/chart/?yr=1991&p=.htm|website=[[Box Office Mojo]]|access-date=September 21, 2012|archive-date=November 6, 2018|archive-url=https://web.archive.org/web/20181106181314/https://www.boxofficemojo.com/yearly/chart/?yr=1991|url-status=live}}</ref>
+
+===Critical response===
+{{Multiple image
+| align             = right
+| total_width       = 300
+| image1            = Jodie (cropped).jpg
+| image2            = Anthony Hopkins cropped 2009.jpg
+| caption_align     = center
+| header_align      = center
+| width1            = 380
+| width2            = 431
+| height1           = 500
+| height2           = 500
+| footer            = The performances of [[Jodie Foster]] and [[Anthony Hopkins]] garnered widespread critical acclaim, earning them the [[Academy Awards]] for [[Academy Award for Best Actress|Best Actress]] and [[Academy Award for Best Actor|Best Actor]], respectively.
+}}
+
+Foster, Hopkins, and Levine garnered much acclaim for their performances. {{Rotten Tomatoes prose|95||154|Director Jonathan Demme's smart, taut thriller teeters on the edge between psychological study and all-out horror, and benefits greatly from stellar performances by Anthony Hopkins and Jodie Foster.}}<ref>{{cite web |title=''The Silence of the Lambs'' (1991) |url=https://www.rottentomatoes.com/m/silence_of_the_lambs/ |url-status=live |archive-url=https://web.archive.org/web/20210223045451/https://www.rottentomatoes.com/m/silence_of_the_lambs |archive-date=February 23, 2021 |access-date=November 19, 2023 |work=[[Rotten Tomatoes]]}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 86 out of 100, based on 20 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''The Silence of the Lambs'' |url=https://www.metacritic.com/movie/the-silence-of-the-lambs |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{cite web|title=''The Silence of the Lambs'' Reviews|url=https://www.metacritic.com/movie/the-silence-of-the-lambs |work=[[Metacritic]]|access-date=March 1, 2018|archive-date=February 21, 2018|archive-url=https://web.archive.org/web/20180221005633/http://www.metacritic.com/movie/the-silence-of-the-lambs|url-status=live}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on an A+ to F scale.<ref name="CinemaScore">{{cite web |url=https://m.cinemascore.com |title=CinemaScore |work=cinemascore.com |access-date=May 12, 2021 |archive-date=September 16, 2017 |archive-url=http://webarchive.loc.gov/all/20170916153548/https://m.cinemascore.com/ |url-status=live }}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' specifically mentioned the "terrifying qualities" of Hannibal Lecter.<ref>{{cite web|last=Ebert|first=Roger|author-link=Roger Ebert|title=The Silence of the Lambs Movie Review (1991)|url=https://www.rogerebert.com/reviews/the-silence-of-the-lambs-1991|work=[[Chicago Sun-Times]] |access-date=March 11, 2014|date=February 14, 1991|archive-date=April 27, 2014|archive-url=https://web.archive.org/web/20140427200633/http://www.rogerebert.com/reviews/the-silence-of-the-lambs-1991|url-status=live}}</ref> Ebert later added the film to his list of ''[[The Great Movies]]'', recognizing the film as a "horror masterpiece" alongside such classics as ''[[Nosferatu]]'', ''[[Psycho (1960 film)|Psycho]]'', and ''[[Halloween (1978 film)|Halloween]]''.<ref>{{cite web|last=Ebert|first=Roger|author-link=Roger Ebert|title=The Great Movies: The Silence of the Lambs (1991)|url=https://www.rogerebert.com/reviews/great-movie-the-silence-of-the-lambs-1991|work=[[Chicago Sun-Times]]|access-date=March 11, 2014|date=February 18, 2001|via=rogerebert.com|archive-date=February 14, 2014|archive-url=https://web.archive.org/web/20140214150037/http://www.rogerebert.com/reviews/great-movie-the-silence-of-the-lambs-1991|url-status=live}}</ref> However, the film is also notable for being one of two multi-Academy Award winners (the other being ''[[Unforgiven]]'') to get a bad review from Ebert's colleague, [[Gene Siskel]]. Writing for the ''[[Chicago Tribune]]'', Siskel said, "Foster's character, who is appealing, is dwarfed by the monsters she is after. I'd rather see her work on another case."<ref>{{cite web|last=Siskel|first=Gene|author-link=Gene Siskel|title=Jodie Foster Appealing, But Not 'Silence of the Lambs'|url=https://www.chicagotribune.com/news/ct-xpm-1991-02-15-9101150268-story.html|work=[[Chicago Tribune]]|access-date=December 30, 2021|date=February 15, 1991|archive-date=July 22, 2014|archive-url=https://web.archive.org/web/20140722110616/http://articles.chicagotribune.com/1991-02-15/entertainment/9101150268_1_dr-lecter-serial-killer-jodie-foster|url-status=live}}</ref>
+
+=== Controversy ===
+In the years following its release, ''The Silence of the Lambs'' was subject to much criticism regarding its themes of sexuality and sexual politics.{{sfn|Tasker|2019|p=38}} Throughout the film, [[Clarice Starling]]'s gender is emphasized as a distinguishing feature, as she is a minority amongst her numerous male peers, though film scholar [[Barry Forshaw]] notes that "any feminist agenda is never bluntly formulated verbally".{{sfn|Forshaw|2014|p=32}}
+
+Some [[gay men|gay male]] critics and feminists felt that the film's portrayal of [[Buffalo Bill (The Silence of the Lambs)|Buffalo Bill]] negatively associated the [[LGBT]] community with deviance, psychopathy, and violence.{{sfn|Tasker|2019|p=37}} Despite this, Bill's sexual orientation is never explicitly stated in the film, and [[Hannibal Lecter]] expressly states Bill is "not really [[transsexual]]".<ref>{{cite magazine |date=February 23, 2021 |title='Dr. Lecter, My Name Is Clarice Starling' |url=https://www.vanityfair.com/hollywood/2021/02/dr-lecter-my-name-is-clarice-starling |url-status=live |archive-url=https://web.archive.org/web/20210225191807/https://www.vanityfair.com/hollywood/2021/02/dr-lecter-my-name-is-clarice-starling |archive-date=February 25, 2021 |access-date=February 25, 2021 |magazine=Vanity Fair}}</ref>
+Director [[Jonathan Demme]] argued that this criticism was misguided, telling ''[[The New York Times]]'' that "I got all this unfounded abuse&nbsp;... [Buffalo Bill] wasn't a gay character. He was a tormented man who hated himself and wished he was a woman because that would have made him as far away from himself as he possibly could be." Demme added that he "came to realize that there is a tremendous absence of positive gay characters in movies".<ref name=nytimes-visions>{{cite news |last=Schmalz |first=Jeffrey |date=February 28, 1993 |title=From Visions of Paradise to Hell on Earth |url=https://www.nytimes.com/1993/02/28/movies/from-visions-of-paradise-to-hell-on-earth.html |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20170215111127/http://www.nytimes.com/1993/02/28/movies/from-visions-of-paradise-to-hell-on-earth.html |archive-date=February 15, 2017 |access-date=February 18, 2017 |work=[[The New York Times]]}}</ref>
+
+In a 1992 interview with ''[[Playboy]]'' magazine, the [[feminist]] and [[women's rights]] advocate [[Betty Friedan]] stated: "I thought it was absolutely outrageous that ''The Silence of the Lambs'' won four{{sic}} [[Academy Awards|Oscars]]&nbsp;... I'm not saying that the movie shouldn't have been shown. I'm not denying the movie was an artistic triumph, but it was about the evisceration, the skinning alive of women. That is what I find offensive. Not the ''Playboy'' [[Playboy Playmate|centerfold]]."<ref>"Interview of Friedan" by David Sheff, ''Playboy'', September 1992, pp. 51–54, 56, 58, 60, 62, 149; reprinted in full in ''Interviews with Betty Friedan'', Janann Sherman, ed. Univ. Press of Mississippi, 2002, {{ISBN|1-57806-480-5}}.</ref>
+
+In following years the film has been criticized for [[transphobia]] by [[Transfeminism|transfeminists]], who claimed that it is "one of the most significant and impactful examples of pop culture [[transmisogyny]]" and it "encourages disbelief of trans people's [[Gender self-identification|self-identification]]" because of its claims that Bill is "not really transsexual" despite Bill applying to medically transition into a woman.<ref>{{Cite web |last=Truitt |first=Jos |date=2016-03-10 |title=My Auntie Buffalo Bill: The Unavoidable Transmisogyny of Silence of the Lambs |url=https://feministing.com/2016/03/10/my-auntie-buffalo-bill-the-unavoidable-transmisogyny-of-silence-of-the-lambs/ |access-date=2023-12-24 |website=Feministing |language=en-US}}</ref><ref name=":3">{{Cite web |last=Romano |first=Aja |date=2021-02-16 |title=Understanding Silence of the Lambs' complicated cultural legacy |url=https://www.vox.com/culture/22281548/silence-of-the-lambs-cultural-impact-legacy-feminist-transphobia |access-date=2023-12-24 |website=Vox |language=en|quote=Understanding Bill as someone denied access to transition because she was seen as an autogynephile, as someone who was pushed to her most heinous acts by the dismissal of medical gatekeepers, has opened up space for me to start to reclaim her character.}}</ref><ref>{{Cite thesis |last=Ophelders |first=E. P. H. |title=The Transvestite, the Transsexual and the Trans Woman: The Transmisogynist Representation of Transgender Killers in Psycho, The Silence of the Lambs and The Mantis |date=2019 |degree=Bachelor |url=https://studenttheses.uu.nl/handle/20.500.12932/36045 |language=en-US}}</ref>
+
+===Accolades===
+{| class="floatright" style="width: 23em; font-size: 85%; border: 1px solid #a2a9b1; background-color: #f8f9fa;"
+|- style="background:#ccc; text-align:center;"
+! colspan="2" | Academy Awards record
+|-
+| '''Best Picture''', [[Edward Saxon]], Kenneth Utt, Ronald M. Bozman
+|-
+| '''Best Director''', [[Jonathan Demme]]
+|-
+| '''Best Actor''', [[Anthony Hopkins]]
+|-
+| '''Best Actress''', [[Jodie Foster]]
+|-
+| '''Best Adapted Screenplay''', [[Ted Tally]]
+|- style="background:#ccc; text-align:center;"
+! colspan="2" | Golden Globe Awards record
+|-
+| '''Best Actress''', Jodie Foster
+|- style="background:#ccc; text-align:center;"
+! colspan="2" | British Academy Film Awards record
+|-
+| '''Best Actor''', Anthony Hopkins
+|-
+| '''Best Actress''', Jodie Foster
+|}
+The film won the [[List of Big Five Academy Award winners and nominees|Big Five Academy Awards]]: [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]] (Demme), [[Academy Award for Best Actor|Best Actor]] (Hopkins), [[Academy Award for Best Actress|Best Actress]] (Foster), and [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]] (Ted Tally) at the [[64th Academy Awards]], making it only the third film in history to accomplish that feat, after ''[[It Happened One Night]]'' and ''[[One Flew Over the Cuckoo's Nest (film)|One Flew Over the Cuckoo's Nest]]''.<ref>{{cite web|last=Pristin|first=Terry|title='Silence of the Lambs' Sweeps 5 Major Oscars|url=https://www.latimes.com/archives/la-xpm-1992-03-31-mn-104-story.html|work=[[Los Angeles Times]]|access-date=March 15, 2014|date=March 31, 1992|archive-date=September 27, 2013|archive-url=https://web.archive.org/web/20130927135420/http://articles.latimes.com/1992-03-31/news/mn-104_1_jack-palance|url-status=live}}</ref> It was also nominated for [[Academy Award for Best Sound Mixing|Best Sound]] ([[Tom Fleischman]] and [[Chris Newman (sound engineer)|Christopher Newman]]) and [[Academy Award for Best Film Editing|Best Film Editing]] ([[Craig McKay (film editor)|Craig McKay]]), but lost to ''[[Terminator 2: Judgment Day]]'' and ''[[JFK (film)|JFK]]'', respectively.<ref name="Oscars1992">{{cite web |url=http://www.oscars.org/oscars/ceremonies/1992 |title=The 64th Academy Awards (1992) Nominees and Winners |access-date=2011-10-22 |work=oscars.org |archive-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150402004405/http://www.oscars.org/oscars/ceremonies/1992 |url-status=live }}</ref>
+
+Other awards include [[National Board of Review Award for Best Film|Best Film]] by the [[National Board of Review of Motion Pictures]] as well as at the CHI Awards and PEO Awards. Demme won the [[Silver Bear for Best Director]] at the [[41st Berlin International Film Festival]]<ref name="Berlinale">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1991/03_preistr_ger_1991/03_Preistraeger_1991.html |title=Berlinale: 1991 Prize Winners |access-date=2011-03-26 |work=berlinale.de |archive-date=October 15, 2013 |archive-url=https://web.archive.org/web/20131015120946/http://www.berlinale.de/en/archiv/jahresarchive/1991/03_preistr_ger_1991/03_Preistraeger_1991.html |url-status=live }}</ref> and was nominated for the [[Golden Globe Award for Best Director]] at the [[49th Golden Globe Awards]]. The film was nominated for the [[Grand Prix (Belgian Film Critics Association)|Grand Prix]] of the [[Belgian Film Critics Association]]. It was also nominated for the [[BAFTA Award for Best Film|British Academy Film Award for Best Film]] at the [[45th British Academy Film Awards]]. Screenwriter Ted Tally received an [[Edgar Award]] for [[Edgar Allan Poe Award for Best Motion Picture Screenplay|Best Motion Picture Screenplay]]. The film was awarded Best Horror Film of the Year during the 2nd [[Horror Hall of Fame]] telecast, with [[Vincent Price]] presenting the award to the film's executive producer [[Gary Goetzman]].<ref>2nd Annual Horror Hall of Fame Telecast, 1991</ref>
+
+In 1998, the film was listed as one of the [[AFI's 100 Years...100 Movies|100 greatest films in the past 100 years]] by the [[American Film Institute]].<ref>{{Cite web |url=http://www.afi.com/100years/movies.aspx |title=AFI's 100 Years... 100 Movies |access-date=March 14, 2007 |archive-url=https://web.archive.org/web/20070305225428/http://www.afi.com/tvevents/100years/movies.aspx |archive-date=March 5, 2007 }}</ref> In 2006, [[Writers Guild of America West]] ranked its screenplay 61st in its list of greatest screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-01 |language=en}}</ref> In the same year, at the Key Art Awards, the original poster for ''The Silence of the Lambs'' was named best film poster "of the past 35 years".<ref>{{Cite web |title='Sin City' place to be at Key Art Awards |url=https://www.hollywoodreporter.com/news/sin-city-place-be-at-139338 |work=[[The Hollywood Reporter]] |date=October 9, 2006 |archive-url=https://web.archive.org/web/20200808143254/https://www.hollywoodreporter.com/news/sin-city-place-be-at-139338 |access-date=October 7, 2007|archive-date=August 8, 2020 }}</ref> ''The Silence of the Lambs'' placed seventh on [[Bravo (American TV network)|Bravo]]'s ''[[The 100 Scariest Movie Moments]]'' for Lecter's escape scene. The American Film Institute named Hannibal Lecter (as portrayed by Hopkins) [[AFI's 100 Years...100 Heroes & Villains|the number one film villain of all time]]<ref name="autogenerated1">{{Cite web |title=AFI 100 Years...100 Heroes & Villains |access-date=March 14, 2007 |url=http://www.afi.com/tvevents/100years/handv.aspx|archive-url=https://web.archive.org/web/20070312005001/http://www.afi.com/tvevents/100years/handv.aspx |archive-date=March 12, 2007 }}</ref> and Clarice Starling (as portrayed by Foster) the [[AFI's 100 Years...100 Heroes & Villains|sixth-greatest film hero of all time]].<ref name="autogenerated1"/>
+
+In 2011, [[American Broadcasting Company|ABC]] aired a prime-time special, ''Best in Film: The Greatest Movies of Our Time'', that counted down the best films chosen by fans based on results of a poll conducted by ABC and ''[[People (American magazine)|People]]'' magazine. ''The Silence of the Lambs'' was selected as the best suspense/thriller and Dr. Hannibal Lecter was selected as the fourth-greatest film character. In 2024, Far Out Magazine named the role one of the "10 most accurate movie [[Psychopathy|psychopaths]] according to the [[Federal Bureau of Investigation|FBI]]", and [[WhatCulture]] included the role in top "10 Most Convincing Movie Psychopath Performances".<ref>{{Cite web |last=Hill |first=Ryan |date=2014-10-13 |title=10 Most Convincing Movie Psychopath Performances |url=https://whatculture.com/film/10-most-convincing-movie-psychopath-performances |access-date=2025-03-08 |website=WhatCulture.com |language=en}}</ref><ref>{{Cite web |date=2024-11-21 |title=The FBI reveal the 10 most accurate movie psychopaths |url=https://faroutmagazine.co.uk/10-movie-accurate-psychopaths-fbi/ |access-date=2025-03-08 |website=faroutmagazine.co.uk |language=en-US}}</ref> In 2012, the [[Motion Picture Editors Guild]] listed it as the 26th best-edited film of all time based on a survey of its membership.<ref>{{cite journal |date=May 2012 |title=The 75 Best Edited Films |url=https://www.editorsguild.com/magazine.cfm?ArticleID=1102 |url-status=live |journal=Editors Guild Magazine |volume=1 |issue=3 |archive-url=https://web.archive.org/web/20160304232326/https://www.editorsguild.com/magazine.cfm?ArticleID=1102 |archive-date=4 March 2016 |access-date=7 January 2025}}</ref>
+
+The film and its characters have appeared in the following [[AFI 100 Years... series|AFI "100 Years" lists]]:
+* [[AFI's 100 Years...100 Movies]] – No. 65
+* [[AFI's 100 Years...100 Thrills]] – No. 5
+* [[AFI's 100 Years...100 Heroes & Villains]]:
+** [[Clarice Starling]] – No. 6 Hero
+** [[Hannibal Lecter]] – No. 1 Villain
+* [[AFI's 100 Years...100 Movie Quotes]]:
+** "A census taker once tried to test me. I ate his liver with some [[fava beans]] and a nice [[Chianti]]." – No. 21
+* [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – No. 74
+
+In 2015, ''[[Entertainment Weekly]]''{{'}}s 25th anniversary year, it included ''The Silence of the Lambs'' in its list of the 25 best movies made since the magazine's beginning.<ref>{{cite magazine|title=EW's 25 Best Movies in 25 Years|url=https://www.ew.com/gallery/25-best-movies-25-years/2330846_silence-lambs-1991|magazine=[[Entertainment Weekly]]|access-date=October 13, 2015|archive-date=October 14, 2015|archive-url=https://web.archive.org/web/20151014214318/http://www.ew.com/gallery/25-best-movies-25-years/2330846_silence-lambs-1991|url-status=live}}</ref>
+
+{| class="wikitable unsortable plainrowheaders"
+|-
+! scope="col" | Year
+! scope="col" | Award
+! scope="col" | Category
+! scope="col" | Nominee(s)
+! scope="col" | Result
+! scope="col" | {{Abbr|Ref.|Reference}}
+|-
+!scope="row" rowspan=7|[[64th Academy Awards|1991]]
+!scope="row" rowspan=7| [[Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Edward Saxon]], [[Kenneth Utt]], and [[Ron Bozman]]
+| {{won}}
+| rowspan=7|<ref>{{cite web|url=https://www.oscars.org/oscars/ceremonies/1992|title=1992 Academy Awards|publisher=Oscars |date=October 9, 2014|access-date=February 19, 2021|archive-date=September 1, 2019|archive-url=https://web.archive.org/web/20190901234135/https://www.oscars.org/oscars/ceremonies/1992|url-status=live}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| [[Jonathan Demme]]
+| {{won}}
+|-
+| [[Academy Award for Best Actor|Best Actor]]
+| [[Anthony Hopkins]]
+| {{won}}
+|-
+| [[Academy Award for Best Actress|Best Actress]]
+| [[Jodie Foster]]
+| {{won}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| [[Ted Tally]]
+| {{won}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Craig McKay (film editor)|Craig McKay]]
+| {{nom}}
+|-
+| [[Academy Award for Best Sound Mixing|Best Sound]]
+| [[Tom Fleischman]] and [[Chris Newman (sound engineer)|Christopher Newman]]
+| {{nom}}
+|-
+!scope="row" rowspan=1| 1991
+!scope="row" rowspan=1| [[American Cinema Editors]]
+| [[American Cinema Editors Award for Best Edited Feature Film – Dramatic|Best Edited Feature Film]]
+| Craig McKay
+| {{nom}}
+| rowspan=1|<ref>{{cite book |last1=Goodman |first1=Robert M. |last2=McGrath |first2=Patrick |title=Editing Digital Video: The Complete Creative and Technical Guide |date=October 2002 |publisher=McGraw-Hill Education |location=New York |isbn=9780071406352 |pages=287–297 |url=https://books.google.com/books?id=9FW59a17sdgC |access-date=March 28, 2024}}</ref>
+|-
+!scope="row" rowspan=9| [[45th British Academy Film Awards|1991]] 
+!scope="row" rowspan=9| [[British Academy Film Awards]]
+| [[BAFTA Award for Best Film|Best Film]]
+| Ron Bozman, Edward Saxon, Kenneth Utt
+| {{nom}}
+| rowspan=9|
+|-
+| [[BAFTA Award for Best Direction|Best Direction]]
+| Jonathan Demme
+| {{nom}}
+|-
+| [[BAFTA Award for Best Actor in a Leading Role|Best Actor in a Leading Role]]
+| Anthony Hopkins
+| {{won}}
+|-
+| [[BAFTA Award for Best Actress in a Leading Role|Best Actress in a Leading Role]]
+| Jodie Foster
+| {{won}}
+|-
+| [[BAFTA Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| Ted Tally
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| [[Tak Fujimoto]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Editing|Best Editing]]
+| Craig McKay
+| {{nom}}
+|-
+| [[BAFTA Award for Best Film Music|Best Film Music]]
+| [[Howard Shore]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Sound|Best Sound]]
+| [[Skip Lievsay]], Christopher Newman, Tom Fleischman
+| {{nom}}
+|-
+!scope="row" rowspan=1| [[44th Directors Guild of America Awards|1991]]
+!scope="row" rowspan=1| [[Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Jonathan Deeme
+| {{won}}
+| rowspan=1|<ref>{{cite news|title=Demme Wins Top Directors Guild Award|url=https://www.latimes.com/archives/la-xpm-1992-03-15-me-6896-story.html|access-date=April 6, 2018|work=Los Angeles Times|date=March 15, 1992}}</ref>
+|-
+!scope="row" rowspan=5|[[49th Golden Globe Awards|1991]]
+!scope="row" rowspan=5|[[Golden Globe Awards]]
+| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| Kenneth Utt
+| {{nom}}
+| rowspan=5|<ref>{{cite news|last1=Fox|first1=David|title='Bugsy' Hits the Jackpot : Film Leads Golden Globe Field With 8 Nominations|url=https://www.latimes.com/archives/la-xpm-1991-12-28-ca-971-story.html|access-date=January 14, 2018|work=Los Angeles Times|date=December 28, 1991}}</ref>
+|-
+| [[Golden Globe Award for Best Director|Best Director]]
+| Jonathan Demme
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor – Motion Picture Drama]]
+| Anthony Hopkins
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Actress in a Motion Picture – Drama|Best Actress in a Motion Picture – Drama]]
+| Jodie Foster
+| {{won}}
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay]]
+| Ted Tally
+| {{nom}}
+|-
+!scope="row" rowspan=1| [[1991 Los Angeles Film Critics Association Awards|1991]]
+!scope="row" rowspan=1| [[Los Angeles Film Critics Association]]
+| Best Music Score
+| Howard Shore
+| {{Runner-up}}
+| rowspan=1|
+|-
+!scope="row" rowspan=3| [[National Board of Review Awards 1991|1991]]
+!scope="row" rowspan=3| [[National Board of Review]]
+| colspan="2" | [[National Board of Review Award for Best Film|Best Film]]
+| {{won}}
+| rowspan=3| <ref>{{Cite web |title=1991 Archives |url=https://nationalboardofreview.org/award-years/1991/ |access-date=2025-03-11 |website=National Board of Review |language=en-US}}</ref> 
+|-
+| [[National Board of Review Award for Best Director|Best Director]]
+| Jonathan Demme
+| {{won}}
+|-
+| [[National Board of Review Award for Best Supporting Actor|Best Supporting Actor]]
+| Anthony Hopkins
+| {{won}}
+|-
+!scope="row" rowspan=2| [[1991 National Society of Film Critics Awards|1991]]
+!scope="row" rowspan=2| [[National Society of Film Critics]]
+| [[National Society of Film Critics Award for Best Director|Best Director]]
+| Jonathan Demme
+| {{nom}}
+| rowspan=2|
+|-
+| [[National Society of Film Critics Award for Best Actress|Best Actress]]
+| Jodie Foster
+| {{nom}}
+|-
+!scope="row" rowspan=4| [[1991 New York Film Critics Circle Awards|1991]]
+!scope="row" rowspan=4| [[New York Film Critics Circle]]
+| colspan="2" | [[New York Film Critics Circle Award for Best Film|Best Film]]
+| {{win}}
+| rowspan=4 |<ref>{{cite news|last1=Fox|first1=David|title=N.Y. Critics' Top Awards to 'Lambs'|url=https://www.latimes.com/archives/la-xpm-1991-12-18-ca-616-story.html|access-date=11 March 2025|work=Los Angeles Times|date=18 December 1991}}</ref>
+|-
+| [[New York Film Critics Circle Award for Best Director|Best Director]]
+| Jonathan Demme
+| {{win}}
+|-
+| [[New York Film Critics Circle Award for Best Actor|Best Actor]]
+| Anthony Hopkins
+| {{win}}
+|-
+| [[New York Film Critics Circle Award for Best Actress|Best Actress]]
+| Jodie Foster
+| {{win}}
+|-
+!scope="row" rowspan=1| [[3rd Golden Laurel Awards|1991]]
+!scope="row" rowspan=1| [[Producers Guild of America Awards]]
+| [[Producers Guild of America Award for Best Theatrical Motion Picture|Outstanding Producer of Theatrical Motion Pictures]]
+| Edward Saxon, Kenneth Utt, and Ronald M. Bozman
+| {{won}}
+| rowspan=1|<ref>{{cite news|last1=MacMinn|first1=Aleene|title=Arts and entertainment reports from The Times, national and international news services and the nation's press: Movies|url=https://www.latimes.com/archives/la-xpm-1992-03-06-ca-3265-story.html|access-date=11 March 2025|work=Los Angeles Times|date=6 March 1992}}</ref>
+|-
+!scope="row" rowspan=8| [[18th Saturn Awards|1991]]
+!scope="row" rowspan=8| [[Saturn Awards]]
+| colspan="2" | [[Saturn Award for Best Horror Film|Best Horror Film]]
+| {{win}}
+| rowspan=8 |<ref>{{cite web|url=http://www.saturnawards.org/past.html |title=Past Saturn Awards |work=[[Saturn Awards]] |access-date=2008-05-07 |url-status=dead |archive-url=https://web.archive.org/web/20080511180136/http://www.saturnawards.org/past.html |archive-date=May 11, 2008 }}</ref>
+|-
+| [[Saturn Award for Best Director|Best Director]]
+| Jonathan Demme
+| {{nom}}
+|-
+| [[Saturn Award for Best Actor|Best Actor]]
+| Anthony Hopkins
+| {{win}}
+|-
+| [[Saturn Award for Best Actress|Best Actress]]
+| Jodie Foster
+| {{nom}}
+|-
+| [[Saturn Award for Best Writing|Best Writing]]
+| Ted Tally
+| {{win}}
+|-
+| [[Saturn Award for Best Music|Best Music]]
+| Howard Shore
+| {{nom}}
+|-
+| [[Saturn Award for Best Costume Design|Best Costumes]]
+| [[Colleen Atwood]]
+| {{nom}}
+|-
+| [[Saturn Award for Best Make-up|Best Make-up]]
+| [[Carl Fullerton]] and Neal Martz
+| {{won}}
+|-
+!scope="row" rowspan=1| [[44th Writers Guild of America Awards|1991]]
+!scope="row" rowspan=1| [[Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Adapted Screenplay|Best Screenplay Based on Material from Another Medium]]
+| Ted Tally
+| {{won}}
+| rowspan=1|<ref>{{cite web|url=http://www.wga.org/awards/awardssub.aspx?id=1551|title=Awards Winners|work=wga.org|publisher=Writers Guild of America|archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551|archive-date=2012-12-05|access-date=2010-06-06|url-status=live}}</ref>
+|-
+|}
+
+===Home media===
+The film was released on [[VHS]] on October 24, 1991, by [[Orion Home Video]].<ref>{{cite news |url=https://www.newspapers.com/article/the-anniston-star-video-releases/158927889/ |title=Video releases |newspaper=The Anniston Star|page=20| date=October 24, 1991}}</ref> It was the most rented video in the United States upon release,<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=19|date=November 4, 1991|title=Top 50 Video Titles}}</ref> and ended up as the second most rented video of 1992.<ref>{{cite magazine|url=https://www.upi.com/Archives/1993/01/01/The-top-10-videocassette-rentals-for-1992-based-on/3067725864400/|magazine=[[Billboard (magazine)|Billboard]]|date=January 1, 1993|title=The top 10 videocassette rentals for 1992, based on Billboard's survey of retail rentals}}</ref> [[The Criterion Collection]] released the film on [[LaserDisc]] in 1991 and 1994. It was released on [[DVD-Video|DVD]] in 1997 by Image Entertainment, and reissued by Criterion in 1998. A special edition DVD was released by [[MGM Home Entertainment]] on March 6, 2001, in both widescreen (1.85:1) and [[Fullscreen (filmmaking)|full screen]] (1.33:1) versions.<ref>{{cite web|url=http://hive4media.com/buying_guide/scripts/bg_title_details.cfm?sec_id=8&id=2654&ad_image=0&format=3|archive-url=https://web.archive.org/web/20020906130615/http://hive4media.com/buying_guide/scripts/bg_title_details.cfm?sec_id=8&id=2654&ad_image=0&format=3|title=The Silence of the Lambs|website=hive4media.com|archive-date=September 6, 2002|access-date=September 14, 2019|url-status=live}}</ref> MGM released it on [[Blu-ray]] in 2009.<ref>{{Cite web |title=Blu-ray News and Reviews {{!}} High Def Digest |url=https://bluray.highdefdigest.com/586/silenceofthelambs.html |access-date=2025-06-05 |website=bluray.highdefdigest.com}}</ref> Criterion released a remastered Blu-ray in 2018.<ref>{{cite web|url=https://www.criterionforum.org/Video/the-silence-of-the-lambs-the-criterion-collection-dvd|title=The Silence of the Lambs |website=Criterion Forum |access-date=November 30, 2020|archive-date=December 10, 2020|archive-url=https://web.archive.org/web/20201210115354/https://www.criterionforum.org/Video/the-silence-of-the-lambs-the-criterion-collection-dvd|url-status=live}}</ref> It was released on [[Ultra HD Blu-ray]] by [[Kino Lorber]] in September 2021 using the Criterion master.<ref>{{Cite web |title=4k Movie, Streaming, Blu-Ray Disc, and Home Theater Product Reviews & News {{!}} High Def Digest |url=https://ultrahd.highdefdigest.com/97247/amazonpreorders.html |access-date=2025-06-05 |website=ultrahd.highdefdigest.com}}</ref> An Ultra HD Blu-ray from Criterion will be released on October 20, 2026.<ref>{{Cite web |last=Newman |first=Nick |date=2026-07-15 |title=The Criterion Collection's October Lineup Features The Silence of the Lambs and Guillermo del Toro's Frankenstein on 4K, Jerzy Skolimowski, and Samuel Fuller |url=https://thefilmstage.com/the-criterion-collections-october-lineup-features-the-silence-of-the-lambs-and-guillermo-del-toros-frankenstein-on-4k-jerzy-skolimowski-and-samuel-fuller/ |access-date=2026-07-17 |language=en-US}}</ref>
+
+== Sequels ==
+{{See also|Hannibal Lecter (franchise)|l1=''Hannibal Lecter'' (franchise)}}
+The [[sequel]] ''[[Hannibal (2001 film)|Hannibal]]'' (2001) saw the return of only Hopkins after Foster and director Jonathan Demme declined to return because of the onscreen increase of violence and gore.<ref>{{cite magazine |last=Flynn |first=Gillian |date=October 11, 2002 |title=Rebirth of Cruel |url=https://ew.com/article/2002/10/04/red-dragons-cast-spills-behind-scenes-dish/ |url-status=live |magazine=[[Entertainment Weekly]] |archive-url=https://web.archive.org/web/20070819035937/http://www.ew.com/ew/article/0,,357302,00.html |archive-date=August 19, 2007 |access-date=June 12, 2007}}</ref><ref name="doubtlamb">{{cite news |date=January 6, 2000 |title=Lambs 'in doubt' without Foster |publisher=BBC News |url=https://news.bbc.co.uk/2/hi/entertainment/592904.stm |access-date=March 7, 2007}}</ref> Hopkins again returned to the role of Hannibal Lecter in the [[prequel]] film ''[[Red Dragon (2002 film)|Red Dragon]]'' (2002) while another prequel, ''[[Hannibal Rising (film)|Hannibal Rising]]'' (2007), saw [[Gaspard Ulliel]] take over the role.<ref name=":02">{{Cite news |last=Oldenburg |first=Ann |date=October 3, 2002 |title=Marquee names serve up another helping of Hannibal |newspaper=[[USA Today]] |url=https://usatoday30.usatoday.com/life/movies/2002-10-03-red-dragon-cover_x.htm |access-date=November 2, 2020}}</ref> The TV series [[Clarice (TV series)|''Clarice'']] (2021) takes place after the events of the film, with actress [[Rebecca Breeds]] portraying Clarice.<ref>{{Cite web |last=Andreeva |first=Nellie |date=2020-02-26 |title='Clarice': Rebecca Breeds Cast In the Title Role Of CBS' 'Silence Of The Lambs' Sequel Pilot |url=https://deadline.com/2020/02/clarice-rebecca-breeds-cast-title-role-cbs-the-silence-of-the-lambs-sequel-pilot-1202868413/ |archive-url=https://web.archive.org/web/20200226191252/https://deadline.com/2020/02/clarice-rebecca-breeds-cast-title-role-cbs-the-silence-of-the-lambs-sequel-pilot-1202868413/ |archive-date=2020-02-26 |access-date=2023-06-26 |website=[[Deadline Hollywood]] |language=en-US}}</ref> The series [[Hannibal (TV series)|''Hannibal'']] (2013–2015) is another adaptation of [[Red Dragon (novel)|''Red Dragon'']] and ''[[Hannibal Rising]].<ref name="fullerew">{{Cite web |last=Hibberd |first=James |date=April 19, 2012 |title='Hannibal' on NBC: How Bryan Fuller will reinvent Dr. Lecter |url=https://ew.com/article/2012/04/19/bryan-fuller-hannibal/ |access-date=April 21, 2012 |magazine=[[Entertainment Weekly]] |location=New York City}}</ref>''
+
+== Legacy ==
+According to ''[[The Guardian]]'', before ''The Silence of the Lambs'', serial killers in film had been "claw-handed bogeymen with melty faces and rubber masks. By contrast, Lecter was highly intelligent with impeccable manners", and played by an actor with "impeccable credentials".<ref name=":0">{{Cite news|last=Clarke|first=Cath|date=2017-10-13|title=An old friend for dinner ... why we're not scared of Hannibal Lecter any more|language=en-GB|work=The Guardian|url=https://www.theguardian.com/film/2017/oct/13/an-old-friend-for-dinner-why-were-not-scared-of-hannibal-lecter-any-more|access-date=2020-11-17|issn=0261-3077|archive-date=November 12, 2020|archive-url=https://web.archive.org/web/20201112021613/https://www.theguardian.com/film/2017/oct/13/an-old-friend-for-dinner-why-were-not-scared-of-hannibal-lecter-any-more|url-status=live}}</ref>
+
+When ''The Silence of the Lambs'' was re-released in the United Kingdom in 2017, the [[British Board of Film Classification]] reclassified it from an [[18 (British Board of Film Classification)|18]] to a 15 certificate. The film's co-producer Ed Saxon said audiences had become desensitized and that the film had become less shocking.<ref name=":0" /> However, the BBFC's Craig Lapper felt that audiences had instead become used to procedural crime dramas with serial killers as dramatic tropes, and suggested that ''The Silence of the Lambs'' had created interest in these themes.<ref name=":0" />
+
+During his [[Donald Trump 2024 presidential campaign|2024 presidential campaign]], United States president [[Donald Trump]] repeatedly referenced Hannibal Lecter and ''The Silence of the Lambs'', claiming that foreign governments were sending "insane asylum" patients and convicted criminals to the United States and comparing immigrants to the fictional character.<ref>{{Cite web |date=2024-07-19 |title=What is it with Donald Trump's obsession with Hannibal Lecter? |url=https://www.euronews.com/culture/2024/07/19/what-is-it-with-donald-trumps-obsession-with-hannibal-lecter |access-date=2024-07-20 |website=euronews |language=en}}</ref><ref>{{Cite news |last=Fortinsky |first=Sarah |date=May 13, 2024 |title=Trump: 'Hannibal Lecter is a wonderful man' |url=https://thehill.com/homenews/campaign/4660008-donald-trump-hannibal-lecter-wonderful-man/ |access-date=July 20, 2024 |work=The Hill}}</ref> Trump also described Lecter as "a wonderful man"<ref name="Hopkins Trump">{{cite web |last=Suter |first=Tara |date=July 17, 2024 |title=Trump's Hannibal Lecter remarks leave Anthony Hopkins 'shocked and appalled' |url=https://thehill.com/blogs/in-the-know/4778013-trump-hannibal-lecter-anthony-hopkins/ |access-date=July 2, 2025 |website=The Hill}}</ref> and spoke of him as if he were real,<ref name="Trump Hannibal">{{cite web |last=Patten |first=Dominic |date=July 16, 2024 |title=Anthony Hopkins On Roman Emperors, Trump's Hannibal Lecter Obsession, & Taking It All Too Seriously |url=https://deadline.com/2024/07/anthony-hopkins-trump-hannibal-lecter-1236009206/ |access-date=July 2, 2025 |website=Deadline}}</ref> prompting Anthony Hopkins to say he was "shocked and appalled".<ref name="Hopkins Trump" /><ref name="Trump Hannibal" />
+
+== See also ==
+
+* [[Cannibalism in popular culture]]
+* [[List of Academy Award records]]
+* [[List of films based on crime books]]
+* [[List of films featuring psychopaths and sociopaths]]
+* ''[[Silence! The Musical]]'', an unauthorized parody musical adaptation of the film
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+{{Refbegin|30em}}
+*{{cite book|last1=Douglas|first1=John E.|author-link=John E. Douglas|title=Mindhunter: Inside the FBI's Elite Serial Crime Unit|year=1995|publisher=[[Charles Scribner's Sons|Scribner]]|location=New York City, New York|isbn=978-0-684-80376-0|first2=Mark|last2=Olshaker|author-link2=Mark Olshaker}}
+*{{cite book|last=Edwards|first=Carl N.|title=Responsibilities and Dispensations: Behavior, Science, & American Justice|year=2001|publisher=Four Oaks Press|location=Dover, Massachusetts|isbn=978-0-9705128-8-8}}
+*{{cite book|last=Engel|first=Joel|title=Screenwriters on Screen-Writing: The Best in the Business Discuss Their Craft|year=1995|publisher=[[Hachette Books|Hyperion Books]]|location=New York City, New York}} 
+*{{cite book|last=Forshaw|first=Barry|year=2014|title=The Silence of the Lambs|publisher=Columbia University Press|location=New York City, New York|isbn=978-1-906-73398-8}}
+*{{cite book|last=Kapsis|first=Robert E.|title=Jonathan Demme: Interviews|series=Conversations With Filmmakers|year=2008|publisher=[[University Press of Mississippi]]|location=Jackson, Mississippi|isbn=978-1-60473-118-7}}
+*{{cite book|last=Kessler|first=Ronald|title=The FBI|year=1993|publisher=[[Pocket Books]]|location=New York City, New York|isbn=978-0-671-78657-1}}
+*{{cite book|last=Konow|first=David|title=Reel Terror: The Scary, Bloody, Gory, Hundred-Year History of Classic Horror Films|year=2012|publisher=[[St. Martin's Press]]|location=London|isbn=978-0-312-66883-9}}
+*{{cite book|last=Medavoy|first=Mike|title=You're Only as Good as Your Next One: 100 Great Films, 100 Good Films, and 100 for Which I Should Be Shot|year=2013|publisher=[[Atria Books]]|location=New York City, New York}}
+*{{cite book|last=Scott|first=Kevin Conroy|title=Screenwriters' Masterclass: Screenwriters Discuss their Greatest Films|date=April 28, 2006|publisher=[[HarperCollins]]|location=New York City, New York|isbn=978-0-571-26158-1}}
+*{{cite book|last=Tasker|first=Yvonne|year=2019|title=The Silence of the Lambs|publisher=Bloomsbury|location=London|series=BFI Film Classics|isbn=978-1-839-02058-2}}
+*{{cite book|last=Tiech|first=John|title=Pittsburgh Film History: On Set in the Steel City|year=2012|publisher=[[The History Press]]|location=[[Stroud]], [[Gloucestershire]]|isbn=978-1-60949-709-5}}
+{{Refend}}
+
+==External links==
+{{Wikiquote|The Silence of the Lambs}}
+* {{IMDb title}}
+* {{Mojo title}}
+* {{Letterboxd title}}
+* {{Metacritic film}}
+* {{Rotten Tomatoes}}
+* {{AFI film}}
+* {{TCMDb title}}
+* [https://www.criterion.com/current/posts/5-the-silence-of-the-lambs ''The Silence of the Lambs''] – an essay by [[Amy Taubin]] at [[The Criterion Collection]]
+
+{{Hannibal}}
+{{Jonathan Demme}}
+{{Navboxes
+|title = Awards for ''The Silence of the Lambs''
+|list =
+{{AcademyAwardBestPicture 1981–2000}}
+{{Blue Ribbon Award for Best Foreign Film}}
+{{Boston Society of Film Critics Award for Best Film}}
+{{Chicago Film Critics Association Award for Best Film}}
+{{National Board of Review Award for Best Film}}
+{{New York Film Critics Circle Award for Best Film}}
+{{Producers Guild of America Award for Best Theatrical Motion Picture}}
+{{Saturn Award for Best Horror Film 1991–2010}}
+}}
+{{Authority control}}
+{{Portal bar|1990s|Film|Horror|United States}}
+
+{{DEFAULTSORT:Silence of the Lambs (film), The}}
+[[Category:1990s horror drama films]]
+[[Category:1991 horror thriller films]]
+[[Category:1990s psychological drama films]]
+[[Category:1990s psychological horror films]]
+[[Category:1990s serial killer films]]
+[[Category:1991 American films]]
+[[Category:1991 crime drama films]]
+[[Category:1991 crime thriller films]]
+[[Category:1991 English-language films]]
+[[Category:1991 films]]
+[[Category:1991 LGBTQ-related films]]
+[[Category:1991 psychological thriller films]]
+[[Category:American crime drama films]]
+[[Category:American crime horror films]]
+[[Category:1990s crime horror films]]
+[[Category:American crime thriller films]]
+[[Category:American horror drama films]]
+[[Category:American horror thriller films]]
+[[Category:American police detective films]]
+[[Category:American psychological drama films]]
+[[Category:American psychological horror films]]
+[[Category:American psychological thriller films]]
+[[Category:American serial killer films]]
+[[Category:American transgender-related films]]
+[[Category:BAFTA winners (films)]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:Edgar Award–winning works]]
+[[Category:English-language crime drama films]]
+[[Category:English-language crime horror films]]
+[[Category:English-language crime thriller films]]
+[[Category:English-language horror drama films]]
+[[Category:English-language horror thriller films]]
+[[Category:Films about cannibalism]]
+[[Category:Films about kidnapping in the United States]]
+[[Category:Films about psychiatry]]
+[[Category:Films about psychopaths and sociopaths]]
+[[Category:Films about the Federal Bureau of Investigation]]
+[[Category:Films about violence against women]]
+[[Category:Films based on American horror novels]]
+[[Category:Films based on American thriller novels]]
+[[Category:Films directed by Jonathan Demme]]
+[[Category:Films featuring a Best Actor Academy Award–winning performance]]
+[[Category:Films featuring a Best Actress Academy Award–winning performance]]
+[[Category:Films featuring a Best Drama Actress Golden Globe–winning performance]]
+[[Category:Films scored by Howard Shore]]
+[[Category:Films set in 1990]]
+[[Category:Films set in basements]]
+[[Category:Films set in Illinois]]
+[[Category:Films set in Memphis, Tennessee]]
+[[Category:Films set in Ohio]]
+[[Category:Films set in Virginia]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films shot in Pittsburgh]]
+[[Category:Films shot in Virginia]]
+[[Category:Films shot in Washington, D.C.]]
+[[Category:Films shot in West Virginia]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose writer won the Best Adapted Screenplay Academy Award]]
+[[Category:Films with screenplays by Ted Tally]]
+[[Category:Hannibal Lecter films]]
+[[Category:LGBTQ-related controversies in film]]
+[[Category:LGBTQ-related controversies in the United States]]
+[[Category:LGBTQ-related crime drama films]]
+[[Category:LGBTQ-related crime thriller films]]
+[[Category:LGBTQ-related horror drama films]]
+[[Category:1990s LGBTQ-related horror films]]
+[[Category:LGBTQ-related horror thriller films]]
+[[Category:Orion Pictures films]]
+[[Category:Saturn Award–winning films]]
+[[Category:United States National Film Registry films inducted in 2011]]
+[[Category:Cross-dressing in American films]]

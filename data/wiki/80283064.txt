@@ -1,0 +1,66 @@
+{{Short description|2025 documentary film}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name           = Videoheaven
+| image          = 
+| alt            = 
+| caption        = 
+| native_name    = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = [[Alex Ross Perry]]
+| writer         = Alex Ross Perry
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{Based on|title of the original work|creator of the original work|additional creator(s), if necessary}} -->
+| producer       = Andrew Adair<br />Daniel Herbert<br />Jake Perlin<br />Alex Ross Perry
+| starring       = 
+| narrator       = [[Maya Hawke]]
+| cinematography = 
+| editing        = Clyde Folley
+| music          = 
+| studio         = Cinema Conservancy
+| distributor    = Cinema Conservancy
+| released       = {{Film date|2025}}
+| runtime        = 173 minutes
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = 
+}}
+
+'''''Videoheaven''''' is a 2025 American documentary film written, produced, and directed by [[Alex Ross Perry]].<ref>{{Cite news |last=Brody |first=Richard |date=2025-06-10 |title=Video Stores, Revival Houses, and the Future of Movies |url=https://www.newyorker.com/culture/the-front-row/video-stores-revival-houses-and-the-future-of-movies |access-date=2025-06-25 |work=The New Yorker |language=en-US |issn=0028-792X}}</ref>
+
+== Synopsis ==
+The film explores the birth, life, death and aftermath of video stores in Hollywood cinema and television.
+
+== Release ==
+The film premiered at the [[Rotterdam International Film Festival]] in January 2025.<ref>{{Cite web |last=Goodfellow |first=Melanie |date=2024-11-14 |title=Alex Ross Perry's 'Videoheaven' To World Premiere At Rotterdam As Part of Focus Celebrating Community Spirit Of VHS Culture |url=https://deadline.com/2024/11/rotterdam-focus-strand-alex-ross-perry-videoheaven-1236176456/ |access-date=2025-06-25 |website=Deadline |language=en-US}}</ref>
+
+== Reception ==
+{{Rotten Tomatoes prose|85||34|Pure mana for anyone who ever made a home for themselves at the now-endangered video store, Alex Ross Perry's essayistic exploration of the niche community staple is larded with insight and nostalgia.}}<ref>{{cite web|url=https://www.rottentomatoes.com/m/videoheaven|title=Videoheaven|website=[[Rotten Tomatoes]]|access-date=2026-03-20}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 71 out of 100, based on four critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Videoheaven'' |url=https://www.metacritic.com/ |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{cite web|url=https://www.metacritic.com/movie/videoheaven/|title=Videoheaven|website=[[Metacritic]]|access-date=2025-08-05}}</ref>
+
+Ben Kenigsberg of ''[[The New York Times]]'' wrote, "The observations range from the incisive to the grandiose, and at nearly three hours, ''Videoheaven'' could stand a tighter edit. Early on, a line of voice-over is sloppily repeated verbatim. And Perry only needs so many clips of obnoxious clerks, even if it's funny to see [[David Spade]] repeatedly typecast in that role. But the material will be irresistible to any cinephile who has spent countless hours in these spaces, and a critic would do well to admit susceptibility."<ref>{{cite web|url=https://www.nytimes.com/2025/07/02/movies/videoheaven-review.html|title='Videoheaven' Review: Rewinding the Tape|first=Ben|last=Kenigsberg|website=[[The New York Times]]|date=2025-07-02|access-date=2025-08-05}}</ref>
+
+== See also ==
+*''Kim's Video'' - both the [[Kim's Video and Music|video store]] and the [[Kim's Video (film)|2023 documentary film about the aforementioned store where the director was an employee]]
+*[[Cinephilia]]
+*''[[The Last Blockbuster]]''
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|tt35649428}}
+* [https://www.youtube.com/watch?v=niB0kLj-SG4 Official trailer]
+* [https://www.youtube.com/watch?v=yxgTHi5tefo Excerpt]
+
+{{Alex Ross Perry}}
+
+[[Category:2025 documentary films]]
+[[Category:2025 films]]
+[[Category:Films directed by Alex Ross Perry]]
+[[Category:American documentary films]]
+[[Category:2025 American films]]
+[[Category:American collage films]]
+[[Category:Essays about film]]
+[[Category:2020s collage films]]

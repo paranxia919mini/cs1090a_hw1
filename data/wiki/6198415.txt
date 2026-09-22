@@ -1,0 +1,222 @@
+{{short description|2001 anime film directed by Rintaro}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox film
+| name           = Metropolis
+| image          = Metropolisanime poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Rintaro]]
+| producer       = {{Plain list|
+* [[Masao Maruyama (film producer)|Masao Maruyama]]
+* Iwao Yamaki
+}}
+| screenplay     = [[Katsuhiro Otomo]]
+| based_on       = {{Based on|''[[Metropolis (manga)|Metropolis]]''|[[Osamu Tezuka]]}}
+| starring       = {{Plain list|
+* Yuka Imoto
+* [[Kei Kobayashi (voice actress)|Kei Kobayashi]]
+* [[Kōsei Tomita]]
+* [[Norio Wakamoto]]
+* [[Junpei Takiguchi]]
+* [[Masaru Ikeda]]
+* [[Takaya Hashi]]
+* [[Toshio Furukawa]]
+* [[Shigeru Chiba]]
+* [[Masashi Ebara]]
+* [[Takeshi Aono]]
+* [[Shun Yashiro]]
+* [[Norihiro Inoue]]
+* Kōki Okada
+* [[Taro Ishida]]
+<!-- Per poster -->
+}}
+| music          = [[Toshiyuki Honda]]
+| cinematography = Hitoshi Yamaguchi
+| studio         = [[Madhouse (company)|Madhouse]]
+| distributor    = [[Toho]]{{efn|[[TriStar Pictures]] handled theatrical distribution to the film in the US and other territories with a co-distribution with [[Destination Films]].}}
+| released       = {{Film date|2001|05|26}}
+| runtime        = 113 minutes
+| country        = Japan
+| language       = Japanese
+| budget         = ¥1.5 billion 
+| gross          = {{ubl|¥100 million (Japan)|{{US$|4 million|long=no}} (worldwide)}}
+}}
+
+{{Nihongo|'''''Metropolis'''''|メトロポリス|Metoroporisu|lead=yes}} is a 2001 Japanese [[Anime|animated]] [[cyberpunk]] [[Drama (film and television)|drama]] film loosely based upon [[Osamu Tezuka]]'s 1949 [[Metropolis (manga)|manga of the same name]]. The film was directed by [[Rintaro]], written by [[Katsuhiro Otomo]], and produced by [[Madhouse (company)|Madhouse]], with conceptual support from [[Tezuka Productions]].
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. -->
+In the [[plutocratic]] city of Metropolis, humans co-exist with [[robot]] laborers designed to build and maintain the city. However, its impoverished human citizens discriminate against robots, blaming them for their unemployment and being forced to live in the squalid lower levels of Metropolis. 
+
+Duke Red, Metropolis's wealthiest citizen, celebrates the completion of a massive [[military]]/[[scientific]] complex, the "Ziggurat". His adopted son, Rock, leads a [[paramilitary]] organization known as the Marduks, tasked with destroying malfunctioning and rogue robots - including those that escaped from their designated zones in the lower city. Meanwhile, [[Japan]]ese [[detective]] Shunsaku Ban and his young nephew, Kenichi Shikishima, have traveled to Metropolis to apprehend rogue scientist Dr. Laughton, wanted for [[organ trafficking]] and [[animal rights]] violations. Unbeknownst to Shunsaku, Red hired Laughton to secretly build a highly advanced [[Android (robot)|android]], modeled and named after his deceased daughter Tima. He intends to have her become the central control unit for a powerful [[Nuclear weapon|nuclear]] superweapon hidden at the top of the Ziggurat, which he will use to conquer the world. Rock learns of Tima's existence, and [[jealously]] shoots Laughton and sets his [[laboratory]] ablaze.
+
+Discovering the burning lab, Shunsaku locates the dying Laughton, who directs Shunsaku to a notebook containing his research. Meanwhile, Kenichi stumbles upon the newly activated Tima. The two fall into the sewers and are separated from Shunsaku. As they search for a way back to the surface, the pair grow close as Kenichi protects Tima and her humanity evolves, both unaware that she is a robot. Learning that Tima is alive, Rock and his subordinates hunt the pair. 
+
+Kenichi and Tima encounter a resistance movement of disgruntled humans, who stage an armed [[revolution]] against Metropolis's leaders and robot workers. Unhappy with the Duke's influence, the nation's [[President (government title)|president]] and Metropolis's [[mayor]] conspire with the revolutionaries to seize power. However, the president's top military commander, [[General]] Kusai Skunk, betrays them to Red and has them [[assassinated]]. Red imposes [[martial law]] and ends the revolution. The kids reunite with Shunsaku, but Rock finds them and attempts to kill Tima. Red intervenes, disowning Rock and discharging him from the Marduks before taking Tima and Kenichi away.
+
+Determined to kill her and regain his father's affection, Rock kidnaps Tima, but Shunsaku incapacitates him and rescues her. Following instructions from Laughton's notebook, Shunsaku has her tap into the Ziggurat's computer mainframe and they discover Kenichi being held in the Ziggurat. Red and the Marduks capture them and bring everyone to the top of the Ziggurat, where Red reveals Tima's true purpose and introduces her "[[throne]]", the control system for the superweapon. Disguised as a maid, Rock shoots Tima in the chest, exposing her internal circuitry before being wounded by Red's men.
+
+Horrified by her true identity, Tima goes insane, causing her implanted programming to take control. She physically integrates with the throne and begins ordering robots around the world to destroy humanity as punishment for abusing them. Robots all across Metropolis assault the Ziggurat; while the others flee, Kenichi reaches Tima and eventually separates her from the throne. Still possessed by her hostile programming, Tima tries to kill Kenichi. Rock triggers an overload in the superweapon, killing himself and Red in a massive explosion. As the Ziggurat collapses and spreads destruction to the rest of Metropolis, Tima's programming deactivates and she falls, suspended by a cable on her arm. Kenichi tries to pull her up; Tima's memories of Kenichi resurface and she asks him "Who am I?", before her hand slips and she falls to the ruins far below. 
+
+In the aftermath, survivors emerge from the ruins, and Kenichi discovers robots have salvaged some of Tima's parts. While Shunsaku departs Metropolis, Kenichi chooses to remain behind. A photograph shown during the end credits reveals that Kenichi eventually rebuilds Tima and opens a robot [[workshop]] bearing their names.
+
+== Differences between the manga and anime ==
+Tezuka's original manga centers around the artificial humanoid Mitchi, who can fly and change sex. She is pursued by Duke Red and his Red Party, who intend to use Mitchi for destructive purposes. Shunsaku Ban and his nephew Kenichi find Mitchi after her creator, Dr. Charles Laughton, is killed, and protect her as they search for her parents. Where in the film, Tima's desires to be human, the cause for Mitchi's destructive rampage which takes place in the manga's climax is the revelation that, as a robot, she has no parents.
+
+The 2001 film incorporates more elements from the [[Fritz Lang]] film ''[[Metropolis (1927 film)|Metropolis]]''.<ref name=":1">{{cite news|author=A. O. Scott|url=https://www.nytimes.com/2002/01/25/movies/film-review-dark-doings-proliferate-in-a-world-of-vivid-colors.html |title=FILM REVIEW; Dark Doings Proliferate In a World of Vivid Colors|work=New York Times |date=January 25, 2002 |access-date=September 1, 2012}}</ref> When making the original [[Metropolis (manga)|''Metropolis'' manga]], Tezuka said that the only inspiration he got from Fritz Lang's ''Metropolis'' was a still image from the film where a female robot was being born.<ref>{{Cite web |title=Explanation |url=http://en.tezuka.co.jp/manga/sakuhin/m011/m011_01.html |archive-url=https://web.archive.org/web/20070312145135/http://en.tezuka.co.jp/manga/sakuhin/m011/m011_01.html |archive-date=March 12, 2007 |website=Tezuka Osamu World}}</ref> In addition to adopting set designs from the original film, the 2001 film has more emphasis on a theme of pervasive class struggle in a [[dystopian]], [[plutocratic]] society and expands it to examine the relationship of robots with their human masters. (This relationship was explored by Tezuka in great detail in the series ''[[Astro Boy]]''.)  Mitchi is replaced by "Tima", who is permanently female and cannot fly. In this version, Kenichi is an assistant to his uncle and forms a strong friendship with Tima even though neither know she is artificial. Tima's relationship with Kenichi ends when Tima accepts her identity as a robot over that of a female human, which triggers a robot revolution.<ref>{{cite journal | last = Park | first = Jane Chi Hyun | date = 2005 | title = Stylistic Crossings: Cyberpunk Impulses in Anime | jstor = 40158943 | page = 63 | journal = World Literature Today | volume = 79 | issue = 3/4 | publisher = Board of Regents of the University of Oklahoma | doi = 10.2307/40158943 }}</ref>
+
+The character of Rock was invented for the film. According to the writer of the film, the character was added to pay homage to Tezuka's science fiction adventure style of storytelling, while also adding depth to the story's background. Rock is meant to represent humanity's dark side, and the negative emotions associated with those aspects.<ref name=animax/> He also echoes Tima's story and can be considered her foil, as they are both neglected children engineered by their father to be tools of war. Duke Red adopted Rock, but does not consider him his son, and Rock is cast aside and unwanted by Duke Red.<ref name="makela">{{cite book | url = https://books.google.com/books?id=1eFnjcvxul4C&pg=PA91 | title = From Metropolis to Metoroporisu: The Changing Role of the Robot in Japanese and Western Cinema'', in'' Japanese Visual Culture ''by Mark MacWilliams.'' | pages = 105–110 | first = Makela | last = Lee | publisher = M.E. Sharpe | date = 2008 | isbn = 978-0-7656-1601-2}}</ref> Similarly, Tima is a replacement for Duke Red's real daughter (also named Tima), but he commissioned the robot Tima's creation purely for use as a weapon, and has no affection for her. Their stories ultimately converge, coming full circle when they both lead to their father's downfall, with his legacy literally collapsing to the ground.
+
+The film's Ziggurat combines the New Tower of Babel from Lang's original film and the manga's Cathedral.<ref>{{cite journal | last = Bird | first = Lawrence | date = 2008 | title = States of Emergency: Urban Space and the Robotic Body in the "Metropolis" Tales | jstor = 41510907 | journal = Mechademia | publisher = University of Minnesota Press | volume= 3, ''Limits of The Human'' | page = 22 }}</ref>
+
+== Themes ==
+
+=== Portrayal of robots ===
+The [[Shinto religion]] delineates between the animate and inanimate. Shinto [[kami]] can be spirits, humans, objects, or in this case, robots. Therefore, robots are viewed favorably in both the manga and the film, but especially in the film, where there is a nearly equal number of robot and human characters. Most humans, like Kenichi and Shinsaku Ban, tend to sympathize with robots, casting the Marduks and their hostility toward robots as antagonistic.<ref name="makela"/>
+
+== Cast ==
+
+{| class="wikitable"
+|-
+! Character name
+! Japanese voice actor
+! English dubbing actor
+|-
+| {{nihongo|Tima|ティマ}} || [[:ja:井元由香|Yuka Imoto]] || [[Rebecca Forstadt]]<ref name="eng cast"/>
+|-
+| {{nihongo|Kenichi Shikishima|敷島 ケンイチ|Shikishima Kenichi}} || [[:ja:小林桂|Kei Kobayashi]] || [[Brianne Siddall]]<ref name="eng cast">{{cite book | url = https://books.google.com/books?id=F98vK4yBAaAC&pg=PA249 | page = 249 | title = Fictional Presidential Films: A Comprehensive Filmography of Portrayals from 1930 to 2011 | first = Sarah Miles | last = Bolam | publisher = Xlibris Corporation | date =2011 | isbn = 978-1-4628-9319-5 }}</ref>{{self-published inline|certain=yes|date=December 2017}}
+|-
+| {{nihongo|Rock|ロック}} || [[:ja:岡田浩暉|Hiroaki Okada]] || Michael Reisz<ref name="eng cast"/>
+|-
+| {{nihongo|Duke Red|レッド公}} || [[Tarô Ishida]] || [[Jamieson Price]]<ref name="eng cast"/>
+|-
+| {{nihongo|Shinsaku Ban|伴俊作|Ban Shinsaku}} || [[Kōsei Tomita]] || [[Tony Pope]]
+|-
+| {{nihongo|Pero|ペロ}} || [[Norio Wakamoto]] || [[Dave Mallow]]
+|-
+| {{nihongo|Doctor Laughton|ロートン博士}} || [[Junpei Takiguchi]] || [[Simon Prescott]]<ref name="eng cast"/>
+|-
+| {{nihongo|Doctor Ponkotsu|ポンコッツ博士}} || [[Takeshi Aono]] || [[Doug Stone (voice actor)|Doug Stone]]
+|-
+| {{nihongo|President Boone|ブーン大統領}} || [[Masaru Ikeda]] || Richard Plantagenet<ref name="eng cast"/>
+|-
+| {{nihongo|Supt. Notarlin|ノタアリン}} || [[Shun Yashiro]] || [[William Frederick Knight]]
+|-
+| {{nihongo|Kusai Skunk|スカンク}} || [[Toshio Furukawa]] || [[Dan Woren]]
+|-
+| {{nihongo|Acetylene Lamp|アセチレン・ランプ}} || [[Shigeru Chiba]] || [[Steven Blum]]
+|-
+| {{nihongo|Ham Egg|ハムエッグ}}  || [[Masashi Ebara]] || [[Robert Axelrod (actor)|Robert Axelrod]]
+|-
+| {{nihongo|Mayor Lyon|リヨン}} || [[Takaya Hashi]] || [[Peter Spellos]]
+|-
+| {{nihongo|Atlas|アトラス}} || [[Norihiro Inoue]] || [[Scott Weinger]]
+|-
+| {{nihongo|Fifi|フィフィ}} || colspan="2" style="text-align:center;" | [[Rikako Aikawa]]
+|-
+| {{nihongo|Emmy|エンミィ}} || [[Mami Koyama]] || [[Barbara Goodson]]
+|}
+
+== Production ==
+[[Osamu Tezuka]] had originally derived inspiration from Fritz Lang's 1927 German [[silent film|silent]] [[Metropolis (1927 film)|science fiction film of the same name]], despite not actually having seen it. The manga and Lang's film do not share plot elements. The 2001 film borrows from Lang's film more directly and incorporates plot elements from it.
+
+During the days of [[Mushi Productions]], Hayashi asked Tezuka if he wanted to let him make a feature based on the manga, but immediately rejected the idea.<ref name=animax/>{{Clarification needed|date=January 2026}}<!-- Who is Hayashi? Who rejected the idea? -->
+
+The film took five years to create.<ref name=animax>{{Cite AV media|title=Animax Special- The Making of Metropolis|type=DVD bonus feature|year=2002}}</ref> It had a production budget of {{¥|1.5 billion}},<ref name=":0">{{Cite book |author=Isao Taniguchi |author2=Hajime Asō |url=https://books.google.com/books?id=28c9DwAAQBAJ&pg=PA75 |script-title=ja:図解入門業界研究最新ｱﾆﾒ業界の動向とｶﾗｸﾘがよ〜くわかる本 |date=June 2017 |publisher=[[:ja:秀和システム|秀和システム]] (Shuwa System) |isbn=978-4-7980-5038-6 |edition=2nd |location=Japan |page=75 |language=ja |trans-title=Introductory Illustrated Industry Research A book that gives a good understanding of the latest trends and karakuri in the animation industry}}</ref> then equivalent to roughly 9 million dollars. This made it the most expensive anime film up until then, surpassing Otomo's ''[[Akira (1988 film)|Akira]]'' (1988). In turn, its budget record was later surpassed by Otomo's ''[[Steamboy]]'' (2004).<ref name=":0"/>
+
+== Soundtrack ==
+{{Infobox album
+| name       = Metropolis – Original Soundtrack
+| type       = soundtrack
+| artist     = [[Toshiyuki Honda]]
+| cover      = 
+| caption    = 
+| alt        = 
+| released   = {{Start date|2001|05|23}}
+| recorded   = 
+| venue      = 
+| studio     = 
+| genre      = [[Film score]]
+| length     = {{Duration|m=59|s=10}}
+| label      = [[King Records (Japan)|King Records]]
+| producer   = [[Toshiyuki Honda]]
+| prev_title = 
+| prev_year  = 
+| next_title = 
+| next_year  = 
+}}
+The ''Metropolis'' soundtrack consists mainly of [[New Orleans]]-style [[jazz music]] and orchestral score composed by [[Toshiyuki Honda]]. It features Atsuki Kimura's cover of "[[St. James Infirmary Blues]]", and the ending theme is "There'll Never Be Good-Bye" by Minako "Mooki" Obata. The soundtrack album is available through King Records.
+
+During the climax of the film, the collapse of the Ziggurat, the song "[[I Can't Stop Loving You#Ray Charles single|I Can't Stop Loving You]]" performed by [[Ray Charles]] is the only thing audible, with sound effects only reappearing later on in the scene. Likely due to licensing reasons, the song was not included on the soundtrack album.
+
+== Release ==
+The film was first released in Japan on May 26, 2001. When it was released in the US and other foreign countries by [[TriStar Pictures]] and [[Destination Films]], it made a total of {{US$|4,035,192|long=no|year=2002|round=-4}} in overseas territories outside of Japan.<ref>{{cite web|url=https://www.boxofficemojo.com/release/rl1717732865/weekend/ |title=Metropolis (2002) |website=Box Office Mojo |date=August 28, 2002 |access-date=May 25, 2013}}</ref> In the United States, the film was given a [[Motion Picture Association film rating system#PG-13|PG-13]] rating by the [[MPAA]] for "violence and images of destruction" and a [[TV Parental Guidelines#TV-14|TV-14-LV]] rating when it aired on [[Adult Swim]]. It was also one of the first anime films to be submitted for consideration for [[Best Animated Film]] at the Academy Awards.
+
+Metropolis was first released on VHS, and is now available in North America as both a 2-disc DVD, with the second disc being a [[MiniDVD]] (called a "Pocket DVD"), and a Blu-ray.
+
+In both the United Kingdom and Ireland, [[Masters of Cinema|Eureka Entertainment]] acquired the film's distribution rights<ref>{{cite news|url=https://www.fandompost.com/2016/08/22/eureka-entertainment-acquires-metropolis-uk-anime-rights/|title=Eureka Entertainment Acquires British & Irish Distribution Rights to Rintaro's Metropolis|website=Fandom Post|access-date=August 22, 2016|last=Beveridge|first=Chris|date=August 22, 2016}}</ref> as a means to release the film on [[Blu-ray]] in both countries. The UK and Ireland Blu-rays were released on January 16, 2017.
+
+Toho-Towa Distribution, the foreign film distribution division of the film's original Japanese distributor, [[Toho]], also handled the Japanese distribution of the 1927 version of ''Metropolis''.<ref>{{cite web|url = https://tohotowa.co.jp/company/company_en.html|title= Profile|website= Toho-towa}}</ref>
+
+As the license of the German ''Metropolis'' is held by the [[Friedrich Wilhelm Murnau Foundation]], the film was released under the title ''Robotic Angel'' in Germany.<ref>{{cite web |url=https://www.schnittberichte.com/news.php?ID=16780 |title=Robotic Angel |website=schnittberichte.com |language=german}}</ref>
+
+== Reception ==
+''Metropolis'' received highly positive reviews: based on 67 reviews from [[Rotten Tomatoes]], Metropolis received an overall 87% approval rating, with an average rating of 7.30/10. The site's critical consensus states that "A remarkable technical achievement, Metropolis' eye-popping visuals more than compensate for its relatively routine story."<ref>{{cite web|url=https://www.rottentomatoes.com/m/metropolis_2002 | title=Metropolis (Metoroporisu) |website=[[Rotten Tomatoes]] |access-date=September 1, 2012}}</ref><ref>{{cite web|url=https://www.dvdtalk.com/reviews/3741/metropolis/ |title=Metropolis: DVD Talk Review of the DVD Video |publisher=Dvdtalk.com |access-date=September 1, 2012}}</ref><ref name=":1" /> [[Metacritic]] assigned the film a weighted average score of 75 out of 100, based on 16 critics.<ref>{{cite web | url=https://www.metacritic.com/movie/metropolis-2002 | title=Metropolis | website=[[Metacritic]] }}</ref>
+
+Film critic [[Roger Ebert]], writing for the ''[[Chicago Sun-Times]]'', gave ''Metropolis'' four out of four, calling it "one of the best animated films I have ever seen".<ref>{{cite web|url=https://www.rogerebert.com/reviews/metropolis-2002|title=Metropolis Movie Review & Film Summary|first=Roger|last=Ebert|work=Chicago Sun-Times|via=RogerEbert.com|date=25 January 2002}}</ref>
+
+== See also ==
+{{Portal|Anime and manga}}
+* [[Osamu Tezuka]]
+* [[Osamu Tezuka's Star System|Osamu Tezuka's ''Star System'']]
+
+==Notes==
+{{Notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://www.sonypictures.com/movies/osamutezukasmetropolis Official website (English)]
+* {{IMDb title|0293416|Metropolis}}
+* {{cite web|url=http://www.jmdb.ne.jp/2001/dy001420.htm|title=メトロポリス (''Metoroporisu'')|language=ja|publisher=[[Japanese Movie Database]]}}
+* {{rotten-tomatoes|metropolis_2001|Metropolis}}
+* {{Metacritic film|title=Metropolis}}
+* {{anime News Network|anime|176}}
+
+{{Rintaro}}
+{{Osamu Tezuka|state=collapsed}}
+{{Madhouse films}}
+{{Sony theatrical animated features}}
+{{Tokyo Anime Award for Theatrical Film}}
+
+[[Category:2001 science fiction action films]]
+[[Category:2000s dystopian films]]
+[[Category:2001 films]]
+[[Category:2001 anime films]]
+[[Category:Anime films based on manga]]
+[[Category:Animated films about robots]]
+[[Category:Animated films set in the future]]
+[[Category:Cyberpunk anime and manga]]
+[[Category:Dieselpunk films]]
+[[Category:Drama anime and manga]]
+[[Category:Japanese dystopian films]]
+[[Category:Films about artificial intelligence]]
+[[Category:Films about cities]]
+[[Category:Animated films based on works by Osamu Tezuka]]
+[[Category:Films directed by Rintaro]]
+[[Category:Japanese adult animated films]]
+[[Category:Japanese animated science fiction films]]
+[[Category:Japanese drama films]]
+[[Category:Japanese science fiction action films]]
+[[Category:Madhouse (company)]]
+[[Category:Steampunk anime and manga]]
+[[Category:Steampunk films]]
+[[Category:Works based on Metropolis (1927 film)]]
+[[Category:TriStar Pictures films]]
+[[Category:TriStar Pictures animated films]]
+[[Category:Animated films about discrimination]]
+[[Category:2001 American films]]
+[[Category:Destination Films films]]
+[[Category:Films scored by Toshiyuki Honda]]
+[[Category:Dieselpunk anime and manga]]

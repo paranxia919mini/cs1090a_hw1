@@ -1,0 +1,65 @@
+{{primary sources|date=September 2025}}
+{{Short description|2024 film directed by Aislinn Clarke}}
+{{Infobox film
+| image          = This is a poster for the film Frewaka.jpg
+| caption        = Film poster
+| name           = Fréwaka
+| director       = [[Aislinn Clarke]]
+| writer         = Aislinn Clarke
+| producer       = 
+| starring       = {{plainlist|
+*[[Bríd Ní Neachtain]]
+*Clare Monnelly
+}}
+| cinematography = Narayan Van Maele
+| editing        = 
+| music          = 
+| studio         = {{plainlist|
+*[[Screen Ireland]]
+*Cine4
+*DoubleBand Films
+*Wildcard Distribution
+}}
+| distributor    = {{plainlist|
+*[[Shudder (streaming service)|Shudder]]
+*[[Filmin]]
+*[[Hakuhodo DY Music & Pictures]]
+*Wildcard Distribution
+}}
+| released       = {{Film date|2024|08|09|df=y}}
+| runtime        = 103 minutes
+| country        = Ireland
+| language       = Irish Gaelic<br/>English
+| budget         = 
+| gross          = $21,893<ref name="BOM">{{cite web|title=Frewaka (2024)|url=https://www.boxofficemojo.com/title/tt27828550/|website=[[Box Office Mojo]]|access-date=September 14, 2025}}</ref>
+}}
+
+'''''Fréwaka'''''{{efn|The title ''Fréwaka'' comes from a word in the Irish language meaning "roots".<ref>{{cite web|title=Aislinn Clarke on Irish Folk Horror ‘Fréwaka’: “There’s A Lot of Trauma in Ireland”|url=https://www.hollywoodreporter.com/movies/movie-news/irish-horror-frewaka-aislinn-clarke-interview-church-trauma-1235971432/|website=[[The Hollywood Reporter]]|access-date=September 14, 2025}}</ref><ref name="Variety review"/>}} is a 2024 Irish [[folk horror]] film written and directed by [[Aislinn Clarke]], starring [[Bríd Ní Neachtain]], Clare Monnelly, and Aleksandra Bystrzhitskaya. 
+
+==Premise==
+A young woman named Siubhán ("Shoo") is a [[Care work|home care worker]] assigned to look after an elderly woman named Peig. Reluctant to be cared for, Peig shows signs of superstitious behavior as well as a belief that [[Aos Sí|preternatural entities]] have abducted her in the past.<ref name="The Irish Times review"/><ref name="Variety review"/><ref name="Chicago Reader review"/>
+
+==Cast==
+* [[Bríd Ní Neachtain]] as Peig
+* Clare Monnelly as Shoo
+* Aleksandra Bystrzhitskaya as Mila
+
+==Release==
+''Fréwaka'' premiered in Switzerland in 2024 at the [[77th Locarno Film Festival]]<ref>{{cite web |title=Fréwaka |url=https://www.locarnofestival.ch/festival/program/film.html?fid=7155b537-ccc0-472b-b367-99909c57c1e2&eid=0 |website=Locarno Film Festival |access-date=January 16, 2026}}</ref>, and it premiered in the United States at the [[60th Chicago International Film Festival]].<ref name="Chicago Reader review"/>
+
+==Reception==
+The film received generally positive reviews. {{Rotten Tomatoes prose|96||26|access-date=September 14, 2025}}<ref>{{cite web|title=Fréwaka |url=https://www.rottentomatoes.com/m/frewaka |website=Rotten Tomatoes |access-date=September 14, 2025}}</ref> Tara Brady of ''[[The Irish Times]]'' rated the film 4 stars out of 5, commenting that it "ambitiously mines Irish mythology and history for socially conscious spookery."<ref name="The Irish Times review">{{cite web|title=Fréwaka review |url=https://www.irishtimes.com/culture/film/review/2025/04/23/frewaka-review-aislinn-clarkes-gaeltacht-horror-mines-irish-mythology-for-socially-conscious-spookery/ |website=[[The Irish Times]] |access-date=September 14, 2025}}</ref> Guy Lodge of ''[[Variety (magazine)|Variety]]'' called the film "an expertly conducted atmospheric exercise, with a sharp, harsh understanding of closed rural communities."<ref name="Variety review">{{cite web |title=‘Fréwaka’ Review: A Rattling Irish Horror Film Satisfyingly Blends Folk Traditions With Genre Tropes |url=https://variety.com/2024/film/reviews/frewaka-review-1236104071/ |website=[[Variety (magazine)|Variety]] |access-date=January 15, 2026}}</ref> Zachary Lee of the ''[[Chicago Reader]]'' praised the film's "disquieting mood" and how it "keeps the audience on edge."<ref name="Chicago Reader review">{{cite web |title=Review: Fréwaka |url=https://chicagoreader.com/film-tv/movie-review/review-frewaka/ |website=[[Chicago Reader]] |access-date=January 15, 2026}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|27828550}}
+{{Shudder films and documentaries}}
+[[Category:2024 films]]
+[[Category:Irish horror films]]
+[[Category:2024 horror films]]
+[[Category:2024 Irish films]]

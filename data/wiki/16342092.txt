@@ -1,0 +1,66 @@
+{{Short description|1956 Japanese film}}
+{{use dmy dates|date=July 2023}}
+{{Infobox film
+| name           = A Wife's Heart
+| native_name    = {{Infobox Japanese|hide=no|header=none|kanji=妻の心}}
+| image          = Tsuma no kokoro poster.jpg
+
+| caption        = Original Japanese movie poster
+| director       = [[Mikio Naruse]]
+| producer       = {{ubl|[[Sanezumi Fujimoto]]|Masakatsu Kaneko}}
+| writer         = [[Toshirō Ide]]
+| starring       = {{ubl|[[Hideko Takamine]]|[[Toshiro Mifune]]|[[Yoko Sugi]]}}
+| music          = [[Ichirō Saitō]]
+| cinematography = Masao Tamai
+| editing        = Eiji Ooi
+| studio         = [[Toho]]
+| distributor    = Toho
+| released       = {{Film date|1956|05|03|Japan|df=y|ref1=<ref name="jmdb">{{cite web |url=http://www.jmdb.ne.jp/1956/cf002010.htm |title=妻の心 (A Wife's Heart) |website=Japanese Movie Database |language=Japanese |access-date=28 January 2021}}</ref><ref name="kinemajunpo">{{cite web |url=http://sp.kinenote.com/main/public/cinema/detail.aspx?cinema_id=24812 |title=妻の心 (A Wife's Heart) |website=Kinema Junpo]|language=ja |access-date=28 January 2021}}</ref>}}
+| runtime        = 98 minutes<ref name="jmdb" /><ref name="kinemajunpo" />
+| country        = Japan
+| language       = Japanese
+}}
+{{nihongo|'''''A Wife's Heart'''''|妻の心|Tsuma no kokoro|lead=yes}} is a 1956 Japanese [[Drama (film and television)|drama film]] directed by [[Mikio Naruse]].<ref name="jmdb" /><ref name="kinemajunpo" /><ref name="galbraith">{{cite book |last=Galbraith IV |first=Stuart |date=2008 |title=The Toho Studios Story: A History and Complete Filmography |location=Lanham, Toronto, Plymouth |publisher=Scarecrow Press |isbn=978-0-8108-6004-9}}</ref>
+
+==Plot==
+Kiyoko lives with her husband Shinji and his mother in the family's house, where the couple runs a not-too-successful food store. Although their marriage is not happy, it is pragmatic, and both agree on the plan to open an additional coffee shop in the house, despite the mother's objections. Kiyoko asks her friend Sumiko's brother Kenkichi, a bank clerk, for a loan, which he approves. Shortly after, Shinji's older brother Zenichi loses his job. Together with his wife and mother, Zenichi puts pressure on Kiyoko and Shinji to give him the money to start his own business. Although both Kiyoko and Shinji are against Zenichi's plan, they slowly retreat. Kiyoko feels humiliated when she is told that Shinji visited a hot spring with a friend and two geisha. At the same time, she and Kenkichi develop a mutual affection, which they never openly acknowledge. When Shinji learns that Kiyoko was seen with Kenkichi in public, he offers to let her go, but Kiyoko eventually stays with her husband, affirming that they should carry on with their project to open a café.
+
+==Cast==
+* [[Hideko Takamine]] as Kiyoko
+* [[Keiju Kobayashi]] as Shinji
+* [[Toshiro Mifune]] as Kenkichi
+* [[Yōko Sugi]] as Yumiko, Kenkichi's sister
+* Eiko Miyoshi as Shinji's mother
+* [[Minoru Chiaki]] as Zenichi, Shinji's brother
+* [[Chieko Nakakita]] as Kaoru, Zenichi's wife
+* [[Akemi Negishi]] as Sumiko, Shinji's sister
+* [[Haruo Tanaka]] as Kunio
+* [[Ranko Hanai]] as Kunio's wife and madame
+* Machiko Kitagawa as geisha
+* Toki Shiozawa as geisha
+* [[Sadako Sawamura]] as Namiko
+* [[Daisuke Katō]] as chef
+* [[Yoshio Tsuchiya]]
+
+==Legacy==
+''A Wife's Heart'' was shown in the U.S. (including the [[Museum of Modern Art]]) as part of a Naruse retrospective in 1985, organised by the Kawakita Memorial Film Institute and film scholar [[Audie Bock]].<ref>{{cite web|url=https://cinefiles.bampfa.berkeley.edu/catalog/31470 |title=Mikio Naruse: a master of the Japanese cinema |website=CineFiles |access-date=21 July 2021}}</ref><ref name="moma">{{cite web|url=https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6228/releases/MOMA_1985_0082_79.pdf |title=Mikio Naruse: A Master of the Japanese Cinema Opens at MoMA September 23 |website=Museum of Modern Art |access-date=19 July 2023}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0049889}}
+* {{jmdb title|1956|cf002010}}
+
+{{Mikio Naruse}}
+
+{{DEFAULTSORT:Wifes Heart, A}}
+[[Category:1956 films]]
+[[Category:1956 drama films]]
+[[Category:1956 Japanese-language films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:Toho films]]
+[[Category:Films produced by Sanezumi Fujimoto]]
+[[Category:Films scored by Ichirō Saitō]]
+[[Category:Japanese drama films]]

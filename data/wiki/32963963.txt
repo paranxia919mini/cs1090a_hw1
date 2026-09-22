@@ -1,0 +1,355 @@
+{{Short description|2013 Hong Kong-Chinese film by Wong Kar-wai}}
+{{Use Hong Kong English|date=November 2014}}
+{{Use dmy dates|date=November 2014}}
+{{Infobox film
+| name           = The Grandmaster
+| image          = The Grandmaster poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| native_name    = 
+{{Infobox Chinese/Chinese|child=yes|hide=no|header=none
+| t    = 一代宗師 
+| l    = [[Chinese titles#Martial arts|Ancestral teacher]] of a generation
+| s     = 一代宗师
+| p         = Yīdài Zōngshī
+| j       = Jat1 Doi6 Zung1 Si1}}
+| director       = [[Wong Kar-wai]]
+| producer       = [[Ng See-yuen]]<br>[[Megan Ellison]]<br>Wong Kar-wai
+| screenplay     = Wong Kar-wai<br>Zou Jingzhi<br>Xu Haofeng
+| story          = Wong Kar-wai
+| based_on       = 
+| starring       = [[Tony Leung Chiu-Wai|Tony Leung]]<br>[[Zhang Ziyi]]<br>[[Chang Chen]]<br>[[Zhao Benshan]]<br>[[Song Hye-kyo]]<br>Wang Qingxiang
+| music          = [[Shigeru Umebayashi]]<br>[[Stefano Lentini]]<br>[[Nathaniel Méchaly]]
+| cinematography = [[Philippe Le Sourd]]
+| editing        = [[William Chang]]
+| studio         = [[Annapurna Pictures]]<br>Block 2 Pictures<br>Jet Tone Films<br>[[Sil-Metropole Organisation]]<br>[[Bona Film Group|Bona International Film Group]]
+| distributor    = Lark Films Distribution (Hong Kong)<ref name="BOM" /><br>[[China Film Group Corporation]] (China)<ref name="BOM" />
+| runtime        = 130 minutes
+| released       = {{film date|df=yes|2013|1|8|China|2013|1|10|Hong Kong}}
+| country        = Hong Kong<ref name="Variety_review">{{cite magazine|url=https://www.variety.com/review/VE1117948960/|last=Lee|first=Maggie|title=The Grandmaster|magazine=[[Variety (magazine)|Variety]]|date=2013-01-08|access-date=2013-01-09}}</ref><br>China<ref name="Variety_review"/>
+| language       = Mandarin<ref name="Variety_review"/><br>Cantonese<br />Japanese
+| budget         = [[Renminbi|¥]]240 million (US$38.6 million)<ref name="fba">{{cite web|url= http://www.filmbiz.asia/news/grandmaster-has-masterful-bo-debut|title= Grandmaster has masterful BO debut|author= Stephen Cremin and Patrick Frater|date= 2013-01-15|access-date= 2013-01-16|work= [[Film Business Asia]]|url-status= dead|archive-url= https://web.archive.org/web/20130117134106/http://www.filmbiz.asia/news/grandmaster-has-masterful-bo-debut|archive-date= 17 January 2013|df= dmy-all}}</ref>
+| gross          = US$64.1 million<ref name="BOM">{{cite web |url= https://www.boxofficemojo.com/movies/?id=grandmasters.htm|title= The Grandmaster|access-date= 2015-01-10|work= [[Box Office Mojo]]}}</ref>
+}}
+'''''The Grandmaster''''' ({{lang-zh|一代宗师}}, ''Yi dai zong shi'') is a 2013 [[martial arts]] [[Drama (film and television)|drama film]] based on the life story of the [[Wing Chun]] [[Grandmaster (martial arts)|grandmaster]] [[Ip Man]].<ref name="Variety_review" /><ref name="Film Business Asia review">{{cite web|url=http://www.filmbiz.asia/reviews/the-grandmaster|work=[[Film Business Asia]]|title=The Grandmaster|author=Elley, Derek|access-date=5 May 2013|date=28 January 2013|url-status=dead|archive-url=https://web.archive.org/web/20130318213248/http://www.filmbiz.asia/reviews/the-grandmaster|archive-date=18 March 2013|df=dmy-all}}</ref> The film was directed and written by [[Wong Kar-wai]]. A Hong Kong-Chinese co-production, it was released on 8 January 2013 in China, and screened as the opening film at the [[63rd Berlin International Film Festival]] in February 2013.<ref name="Berlin">{{Cite web |url=http://www.berlinale.de/en/presse/pressemitteilungen/alle/Alle-Detail_16084.html |title=WONG Kar Wai's The Grandmaster to open 63rd Berlinale |access-date=2012-12-19 |work=Berlinale |archive-date=22 December 2012 |archive-url=https://web.archive.org/web/20121222051327/http://www.berlinale.de/en/presse/pressemitteilungen/alle/Alle-Detail_16084.html |url-status=dead }}</ref> It was selected as part of the 2013 [[Hong Kong International Film Festival]].<ref>{{cite web |work=HK Neo Reviews|url=http://thehkneo.com/blog/?p=3450 |title=HKIFF Review: The Grandmaster |access-date=2013-04-04}}</ref> [[The Weinstein Company]] acquired the international distribution rights for the film.<ref>{{cite web |website=[[Deadline Hollywood]] |url=https://deadline.com/2013/02/so-much-for-bad-blood-between-harvey-and-megan-ellison-twc-acquires-wong-kar-wais-the-grandmaster-424383/ |title=Berlin: So Much For Bad Blood Between Harvey And Megan Ellison; TWC Acquires Wong Kar Wai's 'The Grandmaster' |date=7 February 2013 |access-date=2013-05-17}}</ref> The film was selected as the Hong Kong entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[86th Academy Awards]],<ref name="HongKong">{{cite web |url=https://www.hollywoodreporter.com/news/oscars-hong-kong-nominates-wong-634287 |title=Oscars: Hong Kong Nominates Wong Kar-wai's 'The Grandmaster' for Foreign Language Category |access-date=2013-09-23 |work=Hollywood Reporter|date=23 September 2013 }}</ref> making the January shortlist, but ultimately did not receive the nomination.<ref name="Oscar Shortlist">{{cite web |url=http://www.oscars.org/press/pressreleases/2013/20131220.html |title=9 Foreign Language Films Advance in Oscar Race |access-date=2013-12-20 |work=Oscars}}</ref> Despite this, the film was nominated for [[Academy Award for Best Cinematography|Best Cinematography]] and [[Academy Award for Best Costume Design|Best Costume Design]].<ref>Peter Knegt, 2014 Oscar Predictions: Best Cinematography, http://www.indiewire.com/article/2014-oscar-predictions-best-cinematography</ref><ref>Oscars, William Chang Suk Ping, Best Costume Design, http://oscar.go.com/nominees/costume-design/the-grandmaster</ref>
+
+The film received a record-breaking 12 awards in the [[33rd Hong Kong Film Awards]], most wins for a single film in history.<ref name="33rd Hong Kong Film Award">{{cite web |title=Subscription |url=https://www.straitstimes.com/lifestyle/entertainment/the-grandmaster-wins-big-at-33rd-hong-kong-film-awards.html |website=www.straitstimes.com |publisher=[[The Straits Times]] |access-date=8 May 2023 |archive-url=https://web.archive.org/web/20230209231251/https://www.straitstimes.com/lifestyle/entertainment/the-grandmaster-wins-big-at-33rd-hong-kong-film-awards.html |archive-date=February 9, 2023 |language=en |url-status=live |url-access=subscription}}</ref> Zhang Ziyi also received an unprecedented 12 different [[Best Actress|Best Actress awards]] for her performance.<ref name="Zhang Ziyi Awards">{{cite web |url=https://sg.news.yahoo.com/zhang-ziyi-won-her-12th-best-actress-award-055200192.html|title=Zhang Ziyi won her 12th Best Actress award |date=14 October 2014 }}</ref>
+
+==Plot==
+{{hatnote|The film uses narration from Ip Man and Gong Er throughout the plot, as well as numerous flashbacks and flashforwards.}}
+
+[[Wing Chun]] grandmaster Ip Man (Tony Leung) reflects on the nature of martial arts as he battles a dozen combatants during a rainstorm in [[Foshan]]. Ip wins and experiences flashbacks of his life, from his early training at the age of seven, to his induction into Wing Chun by his master, [[Chan Wah-shun]] (Yuen Woo-Ping), and his marriage to [[Cheung Wing-sing]] (Song Hye-Kyo).
+
+Ip Man's peaceful existence is threatened by the arrival of Gong Yutian (Wang Qing Xiang), the [[Wudang chuan|Wudangquan]] martial arts grandmaster from northern China, who announces that he has already retired and appointed Ma San (Zhang Jin) as his heir in the North. He then concedes that the South should have its own heir. A fight erupts as various masters attempt to challenge Gong, but they are deterred by Ma San. As the Southern masters deliberate on a representative, Gong Yutian's daughter Gong Er (Zhang Ziyi) arrives and tries to convince her father not to continue the fight, as she feels the Southern masters are unworthy. Meanwhile, the Southern masters decide on Ip Man to represent them. Three Southern masters test Ip's skills before the confrontation with Gong Yutian.
+
+The "fight" between Ip Man and Gong Yutian turns out to be an exchange of philosophical ideas using a flat-cake as a metaphor for Chinese unity. Gong holds out the cake and dares Ip to break it. Although Gong evades many attacks, Ip eventually breaks the cake, but not before explaining that Gong should think beyond the [[Northern and southern China|north-south rivalry]]. Impressed by Ip's martial arts skill and philosophy, Gong declares Ip the winner. As Gong returns to the North, Gong Er sets out to regain her family's honor by challenging Ip Man. Ip offers that because "Kung Fu is about precision," whoever breaks a piece of furniture during the fight will be the loser. An intense fight breaks out between Ip Man and Gong Er, which concludes with victory for her after Ip breaks a stairstep while saving her from falling. Ip and Gong Er part on friendly terms, with Ip saying he wants a rematch in the future. They keep in contact by exchanging letters, and Ip intends to bring his family with him to northern China. His plans are soon disrupted by the outbreak of the [[Second Sino-Japanese War]] in 1937.
+
+During the war, Ip Man and his family descend into poverty and he loses his two daughters to starvation. Meanwhile, in northern China, Ma San betrays China in favor of the puppet government in [[Manchukuo|Manchuria]] and kills Gong Yutian as a ''[[hanjian]]''. When Gong Er returns, Mr. Jiang (Shang Tie Long), the family servant, tells her Gong Yutian's final wish was for her to be happy and not to seek vengeance. Gong Er refuses to accept this, and instead makes a vow to [[Chinese Buddhism|Buddha]] to never teach, marry, or have children, devoting her life to vengeance against Ma San.
+
+Ip Man moves to [[Hong Kong]] in 1950 in the hope of starting a career as a martial arts teacher. He spars with and soundly defeats other martial artists, earning a reputation. The Chinese government [[Frontier Closed Area|closes the border with Hong Kong]] in 1951 and Ip never sees his wife again. He meets Gong Er in Hong Kong on [[Chinese New Year's Eve]] 1950 and asks her for one more contest while implying that she should rebuild her family's martial arts school. Gong Er refuses, stating that many martial arts have disappeared throughout the course of history, and that her family's would not be the only one. A flashback 10 years earlier shows a confrontation between Gong Er and Ma San at a train station on Chinese New Year's Eve 1940, in which Gong Er defeats Ma San using one of her father's special moves that Ma San had failed to learn. Considering herself still bound to her vow, Gong Er moves to Hong Kong with Mr. Jiang to open a medical practice.
+
+In 1952, Ip Man and Gong Er meet each other for the last time. Gong confesses to Ip that she has harbored romantic feelings for him since their first fight. She dies in 1953, taking her father's secrets of the [[Baguazhang]] to the grave. A voice-over from Ip reveals that the fight with Ma San left Gong badly injured, and she turned to opium to help with the pain. Ip Man's Wing Chun school flourishes, and he is able to popularize the once secretive and elitist martial art on a worldwide scale. Ip trains a young boy who grows up to be his most famous student: [[Bruce Lee]].
+
+==Cast==
+{{cast listing|
+* [[Tony Leung Chiu-Wai]] as [[Ip Man]] (Ye Wen), disciple of Chan Wah-shun and a grandmaster of the Foshan [[Wing Chun]] martial art style from Southern China. Husband to Cheung Wing-sing and love interest of Gong Er. Becomes a Wing-Chun teacher in Hong Kong.
+* [[Zhang Ziyi]] as Gong Ruo Mei (aka Gong Er), daughter of Gong Yutian and a master of the [[Baguazhang]] martial art style. Becomes a trained doctor and opens a clinic after exacting revenge on Ma San. Dies from her internal injuries and opium addiction.
+** Wu Yixuan as young Gong Er
+* [[Zhang Jin (actor)|Zhang Jin]] as Ma San, first disciple of Gong Yutian and heir to Gong's Baguazhang martial art style. Main antagonist of the movie who becomes a Japanese conspirator, kills his master, and becomes an enemy to Gong Er. Killed by Gong Er.
+* [[Song Hye-kyo]] as [[Cheung Wing-sing]] (Zhang Yongcheng), Ip Man's wife
+* [[Yuen Woo-ping]] as [[Chan Wah-shun]] (Chen Huashun), Ip Man's martial arts teacher and grandmaster of the Wing-Chun martial art style.
+* Wang Qingxiang as Gong Yutian (aka Gong Baoshen), Gong Er's father and grandmaster of the Baguazhang martial art style. Head of the Chinese Martial Arts Federation in Northern China. Killed by Ma San.
+* [[Zhao Benshan]] as Ding Lianshan, disciple of Gong Yutian and senior to Gong Er.
+* Shang Tielong as Jiang, loyal follower of the Gong family.
+* [[Chin Shih-chieh]] as Wu Ye, a Gong clan elder and godbrother of Gong Yutian.
+* [[George Wang (actor)|Wang Jue]] as San Ye, a Gong clan elder and godbrother of Gong Yutian.
+* [[Chang Chen]] as "The Razor" Yixiantian. Master of the [[Bajiquan]] martial art style. Saved by and befriends Gong Er while escaping from the Japanese to Hong Kong. Owner of the white rose hairdresser and becomes a Bajiquan teacher in Hong Kong.
+* [[Xiaoshenyang]] as Sanjiangshui, a gangster in Hong Kong who became Yixiantian's disciple.
+* Lau Ga-yung (Lau Kar Yung) as Master Hong, [[Hung Ga]]r martial arts practitioner in Foshan.
+* [[Cung Le]] as Tiexieqi, challenges Ip Man in the opening of the film.
+* [[Lo Hoi-pang]] as Uncle Deng, a well-known authority figure in the Foshan martial arts scene. Owner of the Foshan Gong He Association.
+* [[Julian Cheung]] as Yi Ge, a renowned Cantonese tune performer in Foshan. Works at the association owned by Uncle Deng.
+* Lau Shun as Rui
+* Zhou Xiaofei as Gu
+* [[Bruce Leung]]
+* [[Lo Mang]] as Hei Mian Shen, a martial arts practitioner who challenges Ip Man by bringing his men to "learn" from the latter.
+* [[Berg Ng]]
+}}
+
+==Production==
+The film is well known for its long development time, having been announced in 2008.<ref>{{cite web|url=http://blogs.indiewire.com/theplaylist/yes-wong-kar-wai-is-still-shooting-the-grandmaster-20120720#.UAmCSmHOyTk|title=Yes, Wong Kar-Wai Is Still Shooting 'The Grandmaster'|date=12 July 2012|author=Kevin Jagernauth|publisher=[Indiewire]}}</ref> It was caught in [[development hell]], partly because Tony Leung broke his arm while training in Wing Chun.<ref>{{cite web|url=http://www.kungfucinema.com/news/tony-leung-injured-while-training-for-grand-master|archive-url=https://archive.today/20131027100409/http://www.kungfucinema.com/news/tony-leung-injured-while-training-for-grand-master|url-status=dead|archive-date=2013-10-27|title=Tony Leung injured while training for 'Grand Master'|year=2009|author=Mark Pollard|publisher=[KungFucinema.com]}}</ref> The film is Wong's most expensive production to date. Wong intended the film to be a major collaboration with mainland China's film industry,<ref name=deadline>{{cite web|url=https://deadline.com/2013/12/wong-kar-wai-interview-grandmaster-oscars-kung-fu-652212/|title=Wong Kar Wai On China's Growth, Kung Fu, Oscar Contenders & Bruce Lee|website=Deadline Hollywood|date=14 December 2013 |quote="One of the reasons I wanted to make this film at this point is because I think in the last 20 years you can see the growth in China..."}}</ref> noting that the enormous expansion and growth in China's film industry and market over the past decade has provided filmmakers with resources to make features that weren't possible before.<ref name=deadline/> Wong stated, "Films don't just belong to the mainland or Hong Kong. They belong to all Chinese and not just to a certain place at a certain time. It's a legacy that belongs to all of us."<ref>{{Cite news|url=https://www.hollywoodreporter.com/news/hong-kong-filmart-does-china-427234|title=Hong Kong Filmart: Does China Still Need the Island?|work=The Hollywood Reporter|access-date=2018-07-27|language=en|quote=Hong Kong director Wong Kar-wai says the time has come to move beyond outdated definitions of Chinese and Hong Kong cinema. "Films don't just belong to the mainland or Hong Kong," he says. "They belong to all Chinese and not just to a certain place at a certain time. It's a legacy that belongs to all of us." Wong, who made his reputation with moody art house fare like 2000's ''In the Mood for Love'', is living proof. He now is enjoying his biggest box-office hit in China with ''The Grandmaster'', his first genre film.}}</ref>
+
+==Music==
+The music is composed by [[Shigeru Umebayashi]] and Nathaniel Méchaly, with two works by [[Ennio Morricone]] and the original [[Stabat Mater]] composed by [[Stefano Lentini]].<ref name="Kermode">{{cite web|url=https://www.theguardian.com/film/2014/dec/07/the-grandmaster-review-thrilling-incoherent-martial-arts-epic|title=The Grandmaster review – thrilling but often incoherent martial arts epic|last=Kermode|first=Mark|author-link=Mark Kermode|website=[[The Guardian]]|date=7 December 2014|access-date=22 July 2026}}</ref>
+
+==Reception==
+The [[review aggregator]] website [[Rotten Tomatoes]] reported that 78% of 138 critics have given the film a positive review, with an average rating of 6.70/10. The site's critics consensus reads: "Though its storytelling is a tad muddled, Wong Kar Wai's ''The Grandmaster'' still exhibits the auteur's stylistic flourishes in gorgeous cinematography and explosive action set pieces."<ref>{{cite web |url=https://www.rottentomatoes.com/m/the_grandmaster |title=The Grandmaster (2013) |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media|Fandango]] |access-date=22 September 2020}}</ref> At [[Metacritic]], the film has a weighted average score of 73 out of 100 based on 37 critics, indicating "generally favorable reviews".<ref>{{cite web |url=https://www.metacritic.com/movie/the-grandmaster |title=The Grandmaster Reviews |website=[[Metacritic]] |publisher=[[CBS Interactive]] |access-date=25 August 2019}}</ref>
+
+''[[Variety (magazine)|Variety]]'' gave the film a positive review, stating Wong "exceeds expectations with ''The Grandmaster'', fashioning a 1930s action saga into a refined piece of commercial filmmaking". The review also said: "Boasting one of the most propulsive yet ethereal realizations of authentic martial arts onscreen, as well as a merging of physicality and philosophy not attained in Chinese cinema since [[King Hu]]'s masterpieces, the hotly anticipated pic is sure to win new converts from the genre camp."<ref name="Variety_review"/>
+
+While praising Tony Leung's Ip Man and Zhang Ziyi's Gong Er, calling the latter "more or less complete and coherent", ''[[The Hollywood Reporter]]'' lamented some of the more underdeveloped characters, stating that "the same can't be said of some of the other characters, such as Chang Chen’s Razor, an expert of the Bajiquan school who is supposed to be another of the grandmasters. Song Hye-kyo’s Madam Ip has only a cursory presence and is basically rendered invisible in the film’s second half."<ref name="THR">{{Cite web|url=https://www.hollywoodreporter.com/movie/grandmaster/review/410574 |last=Tsu |first=Clarence |title=The Grandmaster: Film Review |access-date=2013-02-03|work=[[The Hollywood Reporter]]|date=9 January 2013 }}</ref>
+
+Zhang Ziyi's performance as Gong Er has been praised by critics such as Scott Bowles of ''[[USA Today]]'' as the film's "discovery",<ref>{{cite news |last=Bowles |first=Scott |date=August 22, 2013 |title='The Grandmaster' connects with solid action, acting |url=https://www.usatoday.com/story/life/movies/2013/08/22/grandmaster-movie-review/2679959/ |newspaper=[[USA Today]]}}</ref> and her character has been mentioned by critics such as Kenji Fujishima of ''[[Slant Magazine|Slant]]'' as the film's "real central figure" in spite of the film's title.<ref>{{cite magazine|url=https://www.slantmagazine.com/features/article/the-25-best-films-of-2013|title=The 25 Best Films of 2013|magazine=[[Slant Magazine]]|quote=The real central figure, in fact, is Gong Er (Zhang Ziyi), the daughter of a rival martial-arts master who, upon her father's murder, devotes her life to the single-minded pursuit of revenge...}}</ref>
+
+[[Owen Gleiberman]] of ''[[Entertainment Weekly]]'' wrote: "the film, despite a few splendid fights, is a bio-historical muddle that never finds its center."<ref>{{Deprecated archive|url=https://archive.today/20140110181906/http://www.ew.com/ew/article/0,,20727411,00.html|title=The Grandmaster (2013). ''Entertainment Weekly''.}}</ref> [[Mark Kermode]] in ''[[The Guardian]]'' called it "a hit-and-miss affair, often thrilling but equally incoherent."<ref name="Kermode"/>
+
+''The Grandmaster'' earned HK$21,156,949 (US$2.7&nbsp;million) at the Hong Kong box office,<ref>{{cite web |url= http://thehkneo.com/blog/?p=3450|title= The Grandmaster Hong Kong Box Office |date=2013-02-22 |access-date= 2013-02-22 |work= HK Neo Reviews}}</ref> and grossed over 312&nbsp;million yuan (US$50&nbsp;million) at the mainland Chinese box office, US$6,594,959 in North America, and US$64,076,736 in worldwide, thus becoming Wong's highest-grossing film to date.<ref>[https://www.indiewire.com/article/the-weinstein-company-nabs-wong-kar-wais-the-grandmaster-out-of-berlin The Weinstein Company Nabs Wong Kar Wai's 'The Grandmaster' Out of Berlin]</ref><ref>[https://www.hollywoodreporter.com/news/berlin-2013-weinstein-nabs-us-419183 Berlin 2013: The Weinstein Co. Nabs U.S. Rights to Wong Kar-wai’s 'The Grandmaster']</ref>
+
+==Versions==
+Three versions of the film have been released.
+
+1. The "Chinese Cut" of the film runs 130 minutes.<ref name="Film Business Asia review"/><ref>{{cite web|url=http://www.film.com/movies/wong-kar-wai-the-grandmaster-ruined-by-american-cut|title=Kung Foolish: How The American Cut of 'The Grandmaster' Ruins a Masterpiece|publisher=Film.com|author=David Ehrlich}}</ref>
+
+2. The version of the film that debuted at the [[2013 Berlin International Film Festival]] at 123 minutes.<ref name="Film Business Asia review"/>
+
+3. The version released by [[The Weinstein Company]] is a more linear 108 minute cut that includes explanatory text for the benefit of Americans unfamiliar with the story,<ref>{{cite web|url=https://www.thewrap.com/will-oscar-voters-see-wrong-version-grandmaster/|title=Will Oscar Voters See the Wrong Version of 'The Grandmaster?'
+|website=[[The Wrap]]|author=Steve Pond|date=16 October 2013
+}}</ref><ref>{{cite news|url=https://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-the-grandmaster-review,0,111957.story|title=Review: Wong Kar-wai's 'The Grandmaster' has great martial arts style|newspaper=[[Los Angeles Times]]|author=Kenneth Turan}}</ref>
+
+Wong wrote in ''[[The Huffington Post]]'' that he was "never interested in telling a watered down version," but one that was tighter and provided greater historical context:
+
+<blockquote>As a filmmaker, let me say that the luxury of creating a new cut for U.S. audiences was the opportunity to reshape it into something different than what I began with -- a chance one doesn't always get as a director and an undertaking much more meaningful than simply making something shorter or longer. The original version of THE GRANDMASTER is about 2 hours, 10 minutes. Why not 2 hours, 9 minutes or 2 hours, 11 minutes? To me, the structure of a movie is like a clock or a prized watch -- it's about precision and perfect balance.<ref>{{cite news|url=https://www.huffingtonpost.com/wong-kar-wai/the-grandmaster-wong-kar-wai_b_3796335.html|title=The Journey Of The Grandmaster
+|work=[[The Huffington Post]]|author=Wong Kar Wai}}</ref> </blockquote>
+
+Some critics believe the 130-minute version is superior. ''[[The Wrap]]'' called the film "sweeping, gorgeous, exciting – and butchered."<ref>{{cite web|url=https://www.thewrap.com/movies/column-post/grandmaster-review-kung-fu-legend-ip-man|title='The Grandmaster' Review: Sweeping, Gorgeous, Exciting – and Butchered – Taste of Kung Fu Legend Ip Man
+|website=[[The Wrap]]|author=Alonso Duralde}}</ref> Manohla Dargis at ''[[The New York Times]]'' wrote: "Too bad that the American distributor didn’t have enough faith in the audience to release the original."<ref>{{cite news|url=https://www.nytimes.com/2013/08/23/movies/the-grandmaster-wong-kar-wais-new-film.html?_r=1&adxnnl=1&adxnnlx=1381852592-89xdTl2hBG1hx8f/eoSZCg&pagewanted=1&&pagewanted=all|title=Style and Kinetics Triumph in a Turbulent China|newspaper=[[The New York Times]]|author=Manohla Dargis|date=22 August 2013 }}</ref>
+
+==Awards and nominations==
+{| class="wikitable sortable" width="95%"
+! scope="col" width="120" |  Organization
+! scope="col" width="160" |  Award category
+! scope="col" width="180" |  Recipients and nominees
+! scope="col" width="10" |  Result
+|-
+! scope="row" rowspan=3|[[86th Academy Awards]]
+| Best Foreign Language Film
+|
+|{{shortlisted}}
+|-
+|Best Cinematography
+|[[Philippe Le Sourd]]
+|{{nom}}
+|-
+|[[Academy Award for Best Costume Design|Best Costume Design]]
+|[[William Chang]]
+|{{nom}}
+|-
+! scope="row" rowspan=2|20th [[Hong Kong Film Critics Society Award]]
+|Best Film
+|
+|{{won}}
+|-
+|Best Actress
+|[[Zhang Ziyi]]
+|{{won}}
+|-
+! scope="row" rowspan=12|50th [[Golden Horse Awards]]
+|Best Film
+|
+|{{nom}}
+|-
+|Best Director
+|[[Wong Kar-wai]]
+|{{nom}}
+|-
+|Best Actor
+|[[Tony Leung Chiu-Wai|Tony Leung]]
+|{{nom}}
+|-
+|Best Actress
+|[[Zhang Ziyi]]
+|{{won}}
+|-
+|Best Cinematography
+|Phillipe Le Sourd
+|{{won}}
+|-
+|Best Visual Effect
+|Pierre Buffin
+|{{won}}
+|-
+|Best Art Direction
+|[[William Chang]]
+|{{won}}
+|-
+|Best Makeup and Costume Design
+|[[William Chang]]
+|{{won}}
+|-
+|Best Action Choreography
+|[[Yuen Woo-ping]]
+|{{nom}}
+|-
+|Best Editing
+|[[William Chang]]
+|{{nom}}
+|-
+|Best Sound Effect
+|[[Robert Mackenzie (sound engineer)|Robert Mackenzie]] and Trithep Wangpaiboon
+|{{nom}}
+|-
+|Audience Choice Award
+|
+|{{won}}
+|-
+! scope="row" rowspan=1|[[Boston Society of Film Critics Awards 2013]]
+|Best Cinematography
+|Phillipe Le Sourd
+|{{draw|2nd Place}}
+|-
+! Denver Film Critics Society 2013
+| Best Non-English Language Feature
+|
+|{{won}}
+|-
+!scope="row" rowspan=1|[[Motion Picture Sound Editors|Motion Picture Sound Editors Golden Reel Awards]]<ref>{{cite web|last=Walsh|first=Jason|title=Sound Editors Announce 2013 Golden Reel Nominees|url=https://variety.com/2014/film/news/sound-editors-announce-2013-golden-reel-nominees-1201059048/ |work=Variety|access-date=15 January 2014|date=15 January 2014}}</ref><ref>{{cite news|title='Gravity' and '12 Years a Slave' lead MPSE Golden Reel Awards nominations|url=http://www.hitfix.com/in-contention/gravity-and-12-years-a-slave-lead-mpse-golden-reel-awards-nominations|work=[[HitFix]]|access-date=15 January 2014|archive-date=23 January 2014|archive-url=https://web.archive.org/web/20140123125941/http://www.hitfix.com/in-contention/gravity-and-12-years-a-slave-lead-mpse-golden-reel-awards-nominations|url-status=dead}}</ref>
+|Best Sound Editing: Sound Effects, Foley, Dialogue & ADR in a Foreign Feature Film
+|Robert Mackenzie, Traithep Wongpaiboon
+|{{won}}
+|-
+! scope="row" rowspan=1|[[National Board of Review Awards 2013]]
+|Top Foreign Films
+|
+|{{won}}
+|-
+! scope="row" rowspan=1|[[Online Film Critics Society Awards 2013]]
+|Best Cinematography
+|Phillipe Le Sourd
+|{{nom}}
+|-
+! scope="row" rowspan=1|Phoenix Film Critics Society Award 2013
+|Best Foreign Language Film
+|
+|{{nom}}
+|-
+! scope="row" rowspan=2|[[St. Louis Gateway Film Critics Association Awards 2013]]
+|Best Art Direction
+|
+|{{nom}}
+|-
+|Best Cinematography
+|Phillipe Le Sourd
+|{{nom}}
+|-
+! scope="row" rowspan=14|[[33rd Hong Kong Film Awards]]
+|Best Film
+|
+|{{Won}}
+|-
+|Best Director
+|Wong Kar-wai
+|{{Won}}
+|-
+|Best Screenplay
+|Zou Jingzhi, Xu Haofeng, Wong Kar-wai
+|{{Won}}
+|-
+|Best Actor
+|Tony Leung Chiu-wai
+|{{nom}}
+|-
+|Best Actress
+|Zhang Ziyi
+|{{Won}}
+|-
+|Best Supporting Actor
+|[[Zhang Jin (actor)|Zhang Jin]]
+|{{Won}}
+|-
+|Best Cinematography
+|Phillipe Le Sourd
+|{{Won}}
+|-
+|Best Film Editing
+|William Chang, Benjamin Courtines, Poon Hung-yiu
+|{{Won}}
+|-
+|Best Art Direction
+|William Chang, Alfred Yau Wai-ming
+|{{Won}}
+|-
+|Best Costume & Make-Up Design
+|William Chang
+|{{Won}}
+|-
+|Best Action Choreography
+|Yuen Woo-ping
+|{{Won}}
+|-
+|Best Original Film Score
+|[[Shigeru Umebayashi]], [[Nathaniel Méchaly]]
+|{{Won}}
+|-
+|Best Sound Design
+|Robert Mackenzie, Traithep Wongpaiboon
+|{{Won}}
+|-
+|Best Visual Effects
+|Pierre Buffin
+|{{nom}}
+|-
+![[Asia Pacific Screen Awards]]
+|Best Performance by an Actress
+|[[Zhang Ziyi]]
+|{{Won}}
+|-
+! scope="row" |[[29th Golden Rooster Awards]]
+|Best Actress
+|[[Zhang Ziyi]]
+|{{nom}}
+|}
+
+==See also==
+* [[List of submissions to the 86th Academy Awards for Best Foreign Language Film]]
+* [[List of Hong Kong submissions for the Academy Award for Best Foreign Language Film]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|1462900}}
+* {{Metacritic film}}
+* {{Mojo title|grandmasters}}
+* {{Rotten Tomatoes|the_grandmaster}}
+* {{hkmdb title|14029}}
+
+{{Navboxes
+|title=Related topic navboxes|state=collapsed
+|list1=
+{{Wong Kar-wai}}
+{{Annapurna Pictures}}
+{{Asian Film Award for Best Film}}
+{{Golden Horse Award for Audience Choice}}
+{{Best Film HKFA}}
+{{Ip Man}}
+{{Hong Kong submissions for the Academy Award for Best International Feature Film}}}}
+
+{{DEFAULTSORT:Grandmaster, The}}
+[[Category:2013 biographical films]]
+[[Category:2013 films]]
+[[Category:2013 martial arts films]]
+[[Category:Annapurna Pictures films]]
+[[Category:Best Film Asian Film Award winners]]
+[[Category:Best Film Hong Kong Film Award winners]]
+[[Category:Biographical action films]]
+[[Category:2013 Cantonese-language films]]
+[[Category:Chinese biographical films]]
+[[Category:Chinese martial arts films]]
+[[Category:Depictions of Ip Man on film]]
+[[Category:Films directed by Wong Kar-wai]]
+[[Category:Films produced by Wong Kar-wai]]
+[[Category:Films produced by Ng See-yuen]]
+[[Category:Films scored by Nathaniel Méchaly]]
+[[Category:Films scored by Shigeru Umebayashi]]
+[[Category:Films set in China]]
+[[Category:Films set in Hong Kong]]
+[[Category:Films with screenplays by Zou Jingzhi]]
+[[Category:Hong Kong biographical films]]
+[[Category:Hong Kong drama films]]
+[[Category:Hong Kong New Wave films]]
+[[Category:Chinese IMAX films]]
+[[Category:2013 Mandarin-language films]]
+[[Category:2013 Chinese films]]
+[[Category:Second Sino-Japanese War films]]
+[[Category:2013 Hong Kong films]]
+[[Category:Wing Chun films]]

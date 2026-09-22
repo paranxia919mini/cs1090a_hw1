@@ -1,0 +1,394 @@
+{{Short description|2005 documentary film by Luc Jacquet}}
+{{Redirect|La Marche de l'Empereur|the soundtrack|La Marche de l'Empereur (soundtrack){{!}}''La Marche de l'Empereur'' (soundtrack)}}
+{{Use dmy dates|date=July 2022}}
+{{Infobox film
+| name           = March of the Penguins
+| image          = march_of_the_penguins_poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| native_name    = {{Infobox name module|fr|La Marche de l'empereur}}
+| director       = [[Luc Jacquet]]
+| writer         = {{plainlist|
+* Luc Jacquet
+* [[Jordan Roberts (writer)|Jordan Roberts]] (United States)
+}}
+| producer       = {{plainlist|
+* Yves Darondeau
+* Christophe Lioud
+* Emmanuel Priou
+}}
+| narrator       = {{plainlist|
+* [[Romane Bohringer]]
+* [[Charles Berling]]
+* [[Jules Sitruk]]
+* [[Morgan Freeman]] (United States)
+}}
+| cinematography = {{plainlist|
+* [[Laurent Chalet]]
+* Jérôme Maison
+}}
+| editing        = Sabine Emiliani
+| music          = {{plainlist| 
+* [[Émilie Simon]] 
+* [[Alex Wurman]] (United States)
+}}
+| studio         = {{plainlist|
+* Bonne Pioche
+* [[National Geographic Films]]
+* [[Wild Bunch (film company)|Wild Bunch]]
+}}
+| distributor    = [[Buena Vista International|Buena Vista International France]]<!-- Do not add Warner Independent Pictures or any non-French distributor here, please; see WP:FILMRELEASE. -->
+| released       = {{film date|df=y|2005|01|21|[[2005 Sundance Film Festival|Sundance]]|2005|01|26|France}}
+| runtime        = 86 minutes<!-- Theatrical runtime: 80:10 --><ref>{{cite web|title=''March of the Penguins'' (U)|url=https://www.bbfc.co.uk/AFF211653/|archive-url=https://archive.today/20130420193039/http://www.bbfc.co.uk/AFF211653/|url-status=dead|archive-date=20 April 2013|publisher=[[British Board of Film Classification]]|date=21 June 2005|access-date=22 September 2012}}</ref>
+| country        = France
+| language       = French
+| budget         = $8 million<ref name=lat>{{cite news|first=Claudia|last=Eller|author2=Dawn C. Chmielewski|title=Disney gets back to nature|url=https://www.latimes.com/archives/la-xpm-2008-apr-22-fi-disney22-story.html|date=22 April 2008|access-date=30 October 2013|work=[[Los Angeles Times]]}}</ref>
+| gross          = $127.4 million<ref>{{mojo title|marchofthepenguins|March of the Penguins}}</ref>
+}}
+
+'''''March of the Penguins''''' ({{langx|fr|'''La Marche de l'empereur'''}}; {{IPA|fr|la maʁʃ də lɑ̃ˈpʁœʁ}}) is a 2005 French [[nature documentary|nature documentary film]] directed and written by [[Luc Jacquet]].<ref name="March of the Penguins">{{cite web|url=https://www.tcm.com/tcmdb/title/613088/march-of-the-penguins#credits|archive-url=https://web.archive.org/web/20190910002237/http://www.tcm.com/tcmdb/title/613088/March-of-the-Penguins/#credits|url-status=dead|archive-date=10 September 2019|title=March of the Penguins|work=[[Turner Classic Movies]]|publisher=[[Turner Broadcasting System]] ([[Time Warner]])|access-date=4 July 2016|location=[[Atlanta]]}}</ref> The documentary depicts the yearly journey of the [[emperor penguin]]s of [[Antarctica]]. In autumn, all the [[penguin]]s of breeding age (five years old and over) leave the ocean, which is their normal [[Habitat (ecology)|habitat]], to walk inland to their ancestral breeding grounds. There, the penguins participate in a [[courtship display|courtship]] that, if successful, results in the hatching of a chick. For the chick to survive, both parents must make multiple arduous journeys between the ocean and the breeding grounds over the ensuing months.
+
+It took one year for the two isolated cinematographers [[Laurent Chalet]] and Jérôme Maison to shoot the documentary, which was shot around French scientific base [[Dumont d'Urville Station|Dumont d'Urville]] in [[Adélie Land]].
+
+''March of the Penguins'' was released in France on 26 January 2005 by [[Walt Disney Studios Motion Pictures|Buena Vista International France]]. The documentary won the 2006 [[Academy Awards]] for [[Academy Award for Best Documentary Feature|Best Documentary Feature]].<ref name="NY Times">{{cite news|url=https://movies.nytimes.com/movie/328540/March-of-the-Penguins/details|archive-url=https://web.archive.org/web/20080115105842/http://movies.nytimes.com/movie/328540/March-of-the-Penguins/details|url-status=dead|archive-date=15 January 2008|department=Movies & TV Dept.|work=[[The New York Times]]|date=2008|title=March of the Penguins|access-date=23 November 2008}}</ref> On 1 June 2010, a home video release in France included the film in the [[Disneynature]] collection. It is named as one of the most successful documentaries in North America and France.<ref name="boxofficemojo.com">{{Cite web|url=https://www.boxofficemojo.com/movies/?id=marchofthepenguins.htm|title=March of the Penguins|publisher=[[Box Office Mojo]]|access-date=8 September 2008}}</ref>
+
+A direct sequel titled ''March of the Penguins 2: The Next Step'' was released in France in 2017 by [[Disneynature]].
+
+== Subject matter ==
+The emperor penguins use a particular spot as their breeding ground because it is on ice that is solid year round with no danger of the ice becoming too soft to support the colony that exists. At the end of [[Climate of Antarctica|Antarctic summer]], the breeding ground is only a few hundred meters away from the open water where the penguins can feed. However, by the end of winter, the breeding ground is over {{convert|100|km|mi}} away from the nearest open water. To reach it, all the penguins of breeding age must traverse this great distance.
+
+The penguins practice [[serial monogamy]] within each breeding season. The female lays a single egg, and the co-operation of the parents is needed if the chick is to survive. After the female lays the egg, she transfers it to the feet of the waiting male with minimal exposure to the elements, as the intense cold could kill the developing embryo. The male tends to the egg when the female returns to the sea, now even farther away, both to feed herself and to obtain extra food for feeding her chick when she returns. The male has not eaten in two months and by the time the female leaves the hatching area, she will have lost a third of her body weight producing the egg.
+
+For an additional two months, the males huddle together for warmth, and incubate their eggs. They endure temperatures approaching {{convert|-62|°C|°F}}, and their only source of water is [[snow]] that falls on the breeding ground. When the chicks hatch, the males have only a small meal to feed them, and if the female does not return, they must abandon their chick and return to the sea to feed themselves. By the time they return, the males have lost half their weight and have not eaten for four months. The chicks are also at risk from predatory birds such as [[northern giant petrel]]s.<ref>This bird is unidentified in the documentary itself, but the Region 2 DVD identifies it.[http://coolantarctica.com/Antarctica%20fact%20file/wildlife/antarctic_skuas.htm Antarctic Skua] {{Webarchive|url=https://web.archive.org/web/20150316234312/http://www.coolantarctica.com/Antarctica%20fact%20file/wildlife/antarctic_skuas.htm|date=16 March 2015}}</ref>
+
+The mother penguins come back and feed their young, while the male penguins go all the way back to sea (70&nbsp;miles) to feed themselves. This gives the mothers time to feed their young ones and bond with them. Unfortunately, a fierce storm arrives and some of the chicks perish.
+
+The death of a chick is tragic, but it does allow the parents to return to the sea to feed for the rest of the breeding season. When a mother penguin loses its young in a fierce storm, it sometimes attempts to steal another mother's chick. When the other parent returns, it can recognize the chick only from its unique call. Many parents die on the trip, killed by exhaustion or by predators (such as the [[leopard seal]]), dooming their chicks back at the breeding ground.
+
+The ingenious fight against starvation is a recurring theme throughout the documentary. In one scene, near-starving chicks are shown taking sustenance out of their father's throat sacs, 11th-hour nourishment in the form of a milky, protein-rich substance secreted from a sac in the father's throat to feed their chicks in the event that circumstances require.
+
+The parents must then tend to the chick for an additional four months, shuttling back and forth to the sea to provide food for their young. As spring progresses, the trip gets progressively easier as the ice melts and the distance to the sea decreases, until finally the parents can leave the chicks to fend for themselves.
+
+== Production ==
+The DVD version includes a 54-minute film entitled ''Of Penguins and Men'' made by the film crew Laurent Chalet and Jérôme Mason about the filming of ''March of the Penguins''.<ref>{{cite web|url=http://www.dvdmoviecentral.com/ReviewsText/march_of_the_penguins.htm|title=March of the Penguins, limited edition giftset|author=Ed Nguyen|access-date=31 January 2011}}
+</ref>
+
+Director and film crew spent more than 13 months at the Dumont d'Urville Station, where the Institut polaire français Paul-Émile Victor is based. Although the penguins' meeting place, one of four in Antarctica, was known to be near, the day on which it occurs is not known, so they had to be ready every day. Fortunately, the gathering that year was huge – more than 1,200 penguins, compared with the norm of a few hundred.
+
+For cameras to operate at −40°, they had to use film and to load all the film for the day, as it was impossible to reload outside. Because of the isolation from any film studios, remembering each shot was necessary to ensure continuity and to make sure that all the necessary sequences were finished.<ref>[http://www.lemac.com.au/NEWS/Penguins.htm AATON Super 16 marches with the penguins] {{webarchive|url=https://web.archive.org/web/20120321185756/http://lemac.com.au/NEWS/Penguins.htm|date=21 March 2012}}. Lemac.com.au.</ref><ref>{{Deprecated archive|url=https://archive.today/20120707041625/http://celebritywonder.ugo.com/movie/2005_March_of_the_Penguins_conversation_with_the_crew_jerome_maison_and_laurent_chalet.html|title=March of the Penguins: interview with camera operators}}. Celebritywonder.com. (accessed in 2012)</ref>
+
+The main challenge of making the documentary was the weather with temperatures between {{convert|-50|and|-60|C|F}}. At dawn, the film crew would spend half an hour putting on six layers of clothes, and on some days they could not spend more than three hours outside. They worked in winds with gusts up to 125 miles per hour, "which in some ways is worse than the cold temperatures" according to director Jacquet.<ref>{{cite web|url=http://www2.scholastic.com/browse/article.jsp?id=8054|title=The Making of March of the Penguins|author=Jeffrey Rambo|publisher=scholastic.com|access-date=31 January 2011|archive-date=8 March 2010|archive-url=https://web.archive.org/web/20100308043307/http://www2.scholastic.com/browse/article.jsp?id=8054|url-status=dead}}</ref>
+
+== Release ==
+=== International versions ===
+The style of the documentary differs considerably between the original French version and some of the international versions.
+
+The original French-language release features a romanticized [[first-person narrative]] as if the story is being told by the penguins themselves. The narration alternates between a female ([[Romane Bohringer]]) and a male ([[Charles Berling]]) narrator speaking the alternate roles of the female and male penguin, and as the chicks are born, their narration is handled by child actor [[Jules Sitruk]]. This style is mimicked in some of the international versions. For example, in the Hungarian version, actors Ákos Kőszegi, [[Anna Kubik]], and Gábor Morvai provide the voices of the penguins, and the German version as seen in German theaters (and in the televised broadcast in April 2007 on channel [[ProSieben]]) uses the voices of Andrea Loewig, Thorsten Michaelis, and Adrian Kilian for the "dubbed dialog" of the penguins. This style of narration is also used in the Danish and Cantonese DVD versions.
+
+The French release was handled by [[Buena Vista International|Buena Vista International France]], a division of [[Walt Disney Studios (division)|Walt Disney Studios]]. Disney also attempted to get American distribution rights to the film, but their bid ultimately failed;<ref name=nyt>{{Cite news|url=https://www.nytimes.com/2005/09/28/movies/compared-with-their-filmmakers-the-penguins-have-it-easy.html|title=Compared With Their Filmmakers, the Penguins Have It Easy|last=Carvajal|first=Doreen|date=28 September 2005|work=[[The New York Times]]|access-date=5 December 2017}}</ref> the English-language distribution rights were later acquired at the Sundance documentary festival in January 2005 by [[Adam Leipzig]] of [[National Geographic Films]], who had forged a distribution partnership with [[Warner Bros. Pictures]] (in which its [[Warner Bros. Discovery|parent company]] would later merge with National Geographic's rival [[Discovery Inc.|Discovery]] giving Discovery a part of the film's rights) via their [[Warner Independent Pictures]] label.<ref name=nyt/><ref>{{cite web|url=http://coverageink.blogspot.com/2011/02/interview-adam-leipzig_21.html|title=STORMBLOG: The Adam Leipzig Interview|work=coverageink.blogspot.com|date=21 February 2011}}</ref> In contrast to the French version, their English release uses a more traditional [[third-person narrative]] by a single voice, actor [[Morgan Freeman]]. Similarly, the Austrian channel ORF 1 used for their broadcast in April 2007, the alternate version available on the German "Special Edition" DVD which uses a documentary narration [[voiceover]] spoken by the German actor [[Sky du Mont]]. Other releases' narrators include the Dutch version, narrated by Belgian comedian [[Urbanus]]; the Indian version, narrated in [[Hindi]] and English by Indian actor [[Amitabh Bachchan]], is titled '''''Penguins: A Love Story'''''; the Polish version, narrated by Polish actor [[Marek Kondrat]]; and the Swedish version, narrated by Swedish actor [[Gösta Ekman]]. The [[Filipino language|Filipino]] version is narrated by actress [[Sharon Cuneta]] and translated by [[Chris Martinez (director)|Chris Martinez]] and Eugene Evasco; it is entitled '''''Penguin, Penguin, Paano Ka Ginawa?''''' (English: ''Penguin, Penguin, How Were You Made?'') with the English title as the subtitle. The Filipino title is similar to that of a Philippine novel and film, ''[[Bata, Bata, Paano Ka Ginawa?]]'' (English: ''Child, Child, How Were You Made?'')
+
+Another difference between the various international versions involves the music. The original version uses an original experimental soundtrack by electronic music composer [[Émilie Simon]], whereas the English-language version replaces it with an instrumental [[Film score|score]] by [[Alex Wurman]]. The Hindi version happens to use the music from the French version, and the Swedish version does that as well. 
+
+The Japanese release uses "Hikari no Niwa" by [[Chara (singer)|Chara]] as the theme song.<ref>{{Cite web |title=帰ってきた買っとけ! DVD |url=https://av.watch.impress.co.jp/docs/20051220/buyd201.htm |access-date=2025-04-21 |website=av.watch.impress.co.jp}}</ref>
+
+=== Reception ===
+The first screening of the documentary was at the [[2005 Sundance Film Festival|Sundance Film Festival]] in the United States on 21 January 2005. It was released in France the next week, on 26 January, where it earned a 4-star rating from [[AlloCiné]], and was beaten at the box office only by ''[[The Aviator (2004 film)|The Aviator]]'' during its opening week.
+
+The original French version was released in the Canadian province of [[Québec]]. Subsequently, Warner Bros and National Geographic's English-language version was released in the rest of [[North America]] on 24 June 2005, drawing huge praise from most critics who found it both informative and charming. ''March of the Penguins'' has an approval rating of 94% on [[review aggregator]] website [[Rotten Tomatoes]], based on 184 reviews, and an average rating of 7.82/10. The website's critical consensus states, "Only the most hardened soul won't be moved by this heartwarming doc".<ref>{{Cite web|url=https://www.rottentomatoes.com/m/march_of_the_penguins|title=March of the Penguins (2005)|website=[[Rotten Tomatoes]]}}</ref> [[Metacritic]] assigned the film a weighted average score of 79 out of 100, based on 39 critics, indicating "generally favorable reviews".<ref>{{Cite web|url=https://www.metacritic.com/movie/march-of-the-penguins|title=March of the Penguins|website=[[Metacritic]]}}</ref> The documentary also proved popular with filmgoers, distinguishing itself as one of the most successful documentaries of the season on a per-theatre basis: it became the second most successful documentary released in North America, after ''[[Fahrenheit 9/11]]'', grossing over $77 million in the United States and Canada (in nominal dollars, from 1982 to the present.) It grossed over $127 million worldwide.<ref name="boxofficemojo.com"/> It is the only film from Warner Independent to be rated G by the MPAA.
+
+=== Home media ===
+The French version of the documentary was released on [[DVD]] in France by [[Buena Vista Home Entertainment|Buena Vista Home Entertainment France]] on 26 July 2005 with a Blu-Ray release from Walt Disney Studios Home Entertainment France on 31 October 2008. It was later reissued on DVD on 1 June 2010 as a [[Disneynature]] product.<ref>{{Cite web|url=https://www.amazon.fr/Marche-lEmpereur-Luc-Jacquet/dp/B003UERL0U|title = La Marche de l'Empereur}}</ref> The DVD extras address some of the criticisms the documentary had attracted, most notably by reframing the documentary as a scientific study and adding facts to what would otherwise have been a family film. This [[DVD region code#2|Region 2]] release featured no English audio tracks or subtitles.
+
+The English version was released on DVD in the United States by Warner Home Video on 29 November 2005. It was never released on VHS by Warner Home Video, due to [[A Very Long Engagement]] being the last VHS by Warner Independent. It however spawned a VHS in French locations, such as French Canadian regions. It was later released on Blu-Ray by Warner on 27 March 2007. Neither release contains the French-language version of the film.
+
+An extra on the DVD issue was the controversial 1948 [[Bugs Bunny]] cartoon ''[[Frigid Hare]]'', in which Bugs visits the [[South Pole]] and meets a young penguin fleeing an [[Inuk]] hunter. The cartoon is not frequently seen because of its stereotypical depiction of the [[Inuk]] hunter, but it was included here uncut and uncensored. This is substituted in the American release with ''[[8 Ball Bunny]]'', likewise uncut and uncensored. The American release also includes an episode of ''[[Crittercam]]'' that highlighted the emperor penguins.
+
+=== Video games ===
+In November 2006, the documentary was adapted into a video game by DSI Games for the [[Nintendo DS]] and [[Game Boy Advance]] platforms. It features ''[[Lemmings (video game)|Lemmings]]''-like gameplay.
+
+=== Parodies ===
+A 2005 French ad for ''March of the Penguins'' shows a man describing the film to a co-worker while referring to the penguins as "emperors", which results in the coworker imagining hundreds of [[Napoleon]]s travelling through Antarctica.<ref>{{cite web|url=https://www.youtube.com/watch?v=ZhylxXohoMU/ |archive-url=https://ghostarchive.org/varchive/youtube/20211222/ZhylxXohoMU |archive-date=22 December 2021 |url-status=live|title=Pub la marche de l'Empereur|work=www.youtube.com|date=2 August 2006 }}{{cbignore}}</ref>
+
+In 2007, a [[Direct-to-video|direct-to-DVD]] [[parody]] written and directed by [[Bob Saget]] called ''[[Farce of the Penguins]]'' was released. It is narrated by [[Samuel L. Jackson]] and features other stars providing voice-overs for the penguins. Although the film uses footage from actual nature documentaries about penguins, the parody was not allowed to include footage from ''March of the Penguins'' itself.<ref>{{cite web|url=http://suicidegirls.com/interviews/Bob+Saget/|title=Bob Saget by Anderswolleck – SuicideGirls|work=suicidegirls.com}}</ref>
+
+== Political and social interpretations ==
+The documentary attracted some political and social commentary in which the penguins were viewed [[anthropomorphic]]ally as having similarities with, and even lessons for, human society. [[Michael Medved]] praised the documentary for promoting [[Social conservatism|conservative]] family values by showing the value of stable parenthood.<ref>{{Cite news|url=https://www.nytimes.com/2005/09/13/science/13peng.html?ex=1284264000&en=36effea48de3fa22&ei=5088&partner=rssnyt&emc=rss|title=March of the Conservatives: Penguin Film as Political Fodder|work=[[The New York Times]]|author=Jonathan Miller|date=13 September 2005}}</ref> Medved's comments provoked responses by others, including [[Andrew Sullivan]],<ref>{{cite news|last=Sullivan| first=Andrew |author-link=Andrew Sullivan| title=Not-so-picky penguins muddy the morality war|work=[[The Times]]|date=18 September 2005|url=http://www.timesonline.co.uk/tol/news/article567775.ece|archive-url=https://web.archive.org/web/20070206032429/http://www.timesonline.co.uk/tol/news/article567775.ece|url-status=dead|archive-date=6 February 2007|location=London}}</ref> who pointed out that the penguins are not in fact [[monogamy in animals|monogamous]] for more than one year, in reality practicing [[serial monogamy]]. Matt Walker of ''[[New Scientist]]'' pointed out that many emperor penguin "adoptions" of chicks are in fact [[kidnappings]], as well as behaviours observed in other penguin species, such as ill treatment of weak chicks, prostitution, and ostracism of rare [[albino]] penguins.<ref>{{cite book|last=Walker|first=Matt|title=Bird-brained: a new film portrays penguins as paragons of virtue| quote=Beware, modeling human behavior on animals is fraught with danger.|publisher=[[New Scientist]]|date=1 October 2005|page= 17}}</ref> "For instance, while it is true that emperor penguins often adopt each other's chicks, they do not always do so in a way the moralisers would approve of."<ref>[http://find.galegroup.com/itx/start.do?prodId=SPJ.SP01 (Gale Cengage Learning, subscription or library card required) retrieved on 8 September 2008]</ref> Sullivan and Walker both conclude that trying to use animal behavior as an example for human behavior is a mistake.
+
+The director, Luc Jacquet, has condemned such comparisons between penguins and humans. Asked by the ''[[San Diego Union Tribune]]'' to comment on the documentary's use as "a metaphor for family values – the devotion to a mate, devotion to offspring, monogamy, self-denial", Jacquet responded: "I condemn this position. I find it intellectually dishonest to impose this viewpoint on something that's part of nature. It's amusing, but if you take the monogamy argument, from one season to the next, the divorce rate, if you will, is between 80 to 90 percent... the monogamy only lasts for the duration of one reproductive cycle. You have to let penguins be penguins and humans be humans."<ref>{{Cite news|url=http://www.signonsandiego.com/uniontrib/20051106/news_1a06penguins.html|title='March' director marches to the tune of 'pure pleasure'|publisher=[[San Diego Union-Tribune]]|date=6 November 2005|url-status=dead|access-date=5 July 2006|archive-date=27 December 2011|archive-url=https://web.archive.org/web/20111227034325/http://www.signonsandiego.com/uniontrib/20051106/news_1a06penguins.html}}</ref>
+
+Some of the controversy over this may be media driven. [[Rich Lowry]], editor of ''[[National Review]]'', reported in the magazine's blog that the [[BBC]] "have been harassing me for days over ''March of the Penguins'' ... about what, I'm not sure. I think to see if I would say on air that penguins are God's instruments to pull America back from the hell-fire, or something like that. As politely as I could I told her, 'Lady, they're just birds.'"<ref>Lowry, Rich. [http://corner.nationalreview.com/post/?q=ODhiY2VhNjRmYWUzZDlkOGIzYjI5ZGEzYWFkZWVkYTI= ''Oh no, the BBC''] 18 September 2005. {{dead link|date=August 2017|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+Another controversy involves those who feel that the emperor penguin's behavior can be viewed as an indication of [[intelligent design]] and those who consider it to be an example of [[natural selection|evolution by natural selection]] in action. [[Steve Jones (biologist)|Steve Jones]], professor of genetics at [[University College London]], is quoted as saying, "Supporters of intelligent design think that if they see something they don't understand, it must be God; they fail to recognise that they themselves are part of evolution. It appeals to ignorance, which is why there is a lot of it in American politics at the moment."<ref>{{cite news| url=https://www.theguardian.com/uk/2005/sep/18/usa.filmnews | location=London | work=The Guardian | title=How the penguin's life story inspired the US religious right | first=David | last=Smith | date=27 September 2005}}</ref> Author [[Susan Jacoby]] claims in her 2008 book, ''The Age of American Unreason'', that the distributors of the film deliberately avoided using the word "evolution" in order to avoid backlash from the [[American religious right]], and writes, "As it happens, the emperor penguin is literally a textbook example, cited in college-level biology courses, of evolution by means of natural selection and random mutation. ... The financial wisdom of avoiding any mention of evolution was borne out at the box office ..."<ref>{{cite book |last1=Jacoby |first1=Susan |title=The Age of American Unreason |date=2009 |publisher=Vintage Books |isbn=9781400096381 |page=26}}</ref>
+
+== Sequel ==
+''March of the Penguins 2: The Next Step'' ({{langx|fr|L'Empereur}}) was released by [[Disneynature]] in France on 15 February 2017, with narration by [[Lambert Wilson]]. The film was alternatively titled ''March of the Penguins 2: The Call''.
+
+Skipping a theatrical release in the US, the film was released as a [[Hulu]] exclusive on 23 March 2018, with Morgan Freeman reprising his role as narrator.<ref>{{cite web|last1=Ramos|first1=Dino-Ray|title=Hulu Picks Up Second Installment Of 'National Treasure'; Adds 'March of the Penguins 2'|date=14 January 2018|url=https://deadline.com/2018/01/hulu-national-treasure-kiri-march-of-the-penguins-2-the-next-step-1202242830/|publisher=Deadline|access-date=18 January 2018}}</ref> It was later released on DVD in the UK by Lionsgate Films on 5 November.
+
+The sequel was released to moderate success and received positive reviews, scoring 100% on Rotten Tomatoes based on five reviews.<ref>{{Citation|title=March of the Penguins 2: The Next Step (L'empereur)|url=https://www.rottentomatoes.com/m/march_of_the_penguins_2_the_next_step/|access-date=15 December 2018}}</ref>
+
+==Accolades==
+{| class="wikitable plainrowheaders sortable"
+! scope="col" | Award
+! scope="col" | Date of ceremony
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable" |{{Refh}}
+|-
+! scope="row" | [[Academy Awards]]
+| [[78th Academy Awards|5 March 2006]]
+| [[Academy Award for Best Documentary Feature|Best Documentary Feature]]
+| [[Luc Jacquet]] and Yves Darondeau
+| {{won}}
+| style="text-align:center;"|<ref name="Oscars2006">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/2006 |title=The 78th Academy Awards (2006) Nominees and Winners |accessdate=20 July 2022 |publisher=[[Academy of Motion Picture Arts and Sciences]] (AMPAS) |url-status=live |archiveurl=https://web.archive.org/web/20141109220946/http://www.oscars.org/oscars/ceremonies/2006 |archivedate=9 November 2014}}</ref><ref>{{cite news |last1=Lowry |first1=Brian |title=Party crashed... big time |url=https://variety.com/2006/film/awards/party-crashed-big-time-1117939293/ |accessdate=20 July 2022 |work=Variety |date=5 March 2006 |archiveurl=https://web.archive.org/web/20191203190308/https://variety.com/2006/film/awards/party-crashed-big-time-1117939293/ |archivedate=3 December 2019|url-status=live}}</ref>
+|-
+! scope="row"| [[American Cinema Editors#Eddie Awards|ACE Eddie Awards]]
+| [[American Cinema Editors Awards 2006|19 February 2006]]
+| [[American Cinema Editors Award for Best Edited Documentary – Feature|Best Edited Documentary – Feature]]
+| Sabine Emiliani
+| {{won}}
+|style="text-align:center;"|<ref>{{cite news |last1=Marcus |first1=Lawrence |title=''Crash'', ''Line'' get Eddies |url=https://variety.com/2006/film/awards/crash-line-get-eddies-1117938564/ |accessdate=20 July 2022 |work=Variety |date=20 February 2006 |archiveurl=https://web.archive.org/web/20180707143658/https://variety.com/2006/film/awards/crash-line-get-eddies-1117938564/ |archivedate=7 July 2018|url-status=live}}</ref>
+|-
+! scope="row"|[[BMI Film & TV Awards]]
+| 17 May 2006
+| BMI Film Music Award
+| [[Alex Wurman]]
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |title=BMI Film & Television Awards Salute Composers of Top Movie, TV, Cable Music |url=https://www.bmi.com/news/entry/20060518_bmi_film_television_awards_salute_composers_of_top_movie_tv_c |website=[[Broadcast Music, Inc.|BMI]] |access-date=20 July 2022 |date=17 May 2006}}</ref>
+|-
+! scope="row" rowspan="2"| [[British Academy Film Awards]]
+| rowspan="2"| [[59th British Academy Film Awards|19 February 2006]]
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| [[Laurent Chalet]] and Jérôme Maison
+| {{nom}}
+| style="text-align:center;" rowspan="2"|<ref>{{cite web |title=British Academy Film Awards 2006 |url=http://awards.bafta.org/award/2006/film |publisher=[[British Academy of Film and Television Arts]] |accessdate=20 July 2022}}</ref><ref>{{cite news |last1=Vary |first1=Adam |title=BAFTAs dig beyond national treasures |url=https://variety.com/2006/film/awards/baftas-dig-beyond-national-treasures-1117937832/ |accessdate=20 July 2022 |work=Variety |date=12 February 2006 |archiveurl=https://web.archive.org/web/20200913194848/https://variety.com/2006/film/awards/baftas-dig-beyond-national-treasures-1117937832/ |archivedate=13 September 2020|url-status=live}}</ref>
+|-
+| [[BAFTA Award for Best Editing|Best Editing]]
+| Sabine Emiliani
+| {{nom}}
+|-
+! scope="row"| [[CAMIE Awards]]
+| 7 January 2006
+| CAMIE Award – Theatrical Releases
+| Yves Darondeau, Christophe Lioud, Emmanuel Priou, Luc Jacquet, [[Morgan Freeman]], Laurent Chalet, and Jerome Maison
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |title=Ten 2006 CAMIE winning films |url=http://camieawards.org/?c=events/2006_camies |website=[[CAMIE Awards]] |access-date=20 July 2022 |archive-url=https://web.archive.org/web/20060209094344/http://camieawards.org/?c=events/2006_camies |archive-date=9 February 2006 |url-status=dead}}</ref><ref>{{cite web |title=''March of the Penguins'' among ten films recognized at the 2006 CAMIE awards |url=http://camieawards.org/?c=news |website=[[CAMIE Awards]] |access-date=20 July 2022 |archive-url=https://web.archive.org/web/20060209094217/http://camieawards.org:80/?c=news |archive-date=9 February 2006 |date=7 January 2006 |url-status=dead}}</ref>
+|-
+! scope="row" rowspan="4"| [[César Awards]]
+| rowspan="4"| [[31st César Awards|25 February 2006]]
+| [[César Award for Best First Feature Film|Best First Feature Film]]
+| Luc Jacquet
+| {{nom}}
+| style="text-align:center;" rowspan="4"|<ref>{{cite news |title=Thriller scoops France's Cesars |url=https://news.bbc.co.uk/2/hi/entertainment/4752462.stm |access-date=20 July 2022 |work=BBC |date=26 February 2006}}</ref><ref>{{cite news |last1=James |first1=Alison |title=Cesar noms feeling ''Beat'' |url=https://variety.com/2006/film/news/cesar-noms-feeling-beat-1117936971/ |access-date=20 July 2022 |work=Variety |date=29 January 2006}}</ref>
+|-
+| [[César Award for Best Original Music|Best Original Music]]
+| [[Émilie Simon]]
+| {{nom}}
+|-
+| [[César Award for Best Editing|Best Editing]]
+| Sabine Emiliani
+| {{nom}}
+|-
+| [[César Award for Best Sound|Best Sound]]
+| Laurent Quaglio and Gérard Lamps
+| {{won}}
+|-
+! scope="row" | [[Chicago Film Critics Association]]
+| [[Chicago Film Critics Association Awards 2005|9 January 2006]]
+| [[Chicago Film Critics Association Award for Best Documentary|Best Documentary]]
+| ''March of the Penguins''
+| {{nom}}
+| style="text-align:center;" |<ref>{{cite news |title=Movie critics everywhere weigh in with their picks for the best in 2005 |url=https://variety.com/2006/film/awards/movie-critics-everywhere-weigh-in-with-their-picks-for-the-best-in-2005-1117935631/ |accessdate=20 July 2022 |work=Variety |date=8 January 2006 |archiveurl=https://web.archive.org/web/20200128010636/https://variety.com/2006/film/awards/movie-critics-everywhere-weigh-in-with-their-picks-for-the-best-in-2005-1117935631/ |archivedate=28 January 2020|url-status=live}}</ref>
+|-
+! scope="row"| [[Critics' Choice Awards]]
+| [[11th Critics' Choice Awards|9 January 2006]]
+| [[Critics' Choice Movie Award for Best Documentary Feature|Best Documentary Feature]]
+| ''March of the Penguins''
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |title=The 11th Critics' Choice Movie Awards Winners and Nominees |url=http://www.bfca.org/ccawards/2005.php |publisher=Broadcast Film Critics Association |accessdate=20 July 2022 |archiveurl=https://web.archive.org/web/20130103154715/http://www.bfca.org:80/ccawards/2005.php |archivedate=3 January 2013 |url-status=dead}}</ref><ref>{{cite news |last1=Seif |first1=Dena |title=Crix scale ''Mountain'' |url=https://variety.com/2006/film/features/crix-scale-mountain-1117935784/ |accessdate=20 July 2022 |work=Variety |date=9 January 2006 |archiveurl=https://web.archive.org/web/20200913204402/https://variety.com/2006/film/features/crix-scale-mountain-1117935784/ |archivedate=13 September 2020|url-status=live}}</ref>
+|-
+! scope="row"| [[Dallas–Fort Worth Film Critics Association]]
+| [[Dallas–Fort Worth Film Critics Association Awards 2005|19 December 2005]]
+| [[Dallas–Fort Worth Film Critics Association Award for Best Documentary Film|Best Documentary]]
+| ''March of the Penguins''
+| {{Runner-up}}
+| style="text-align:center;"|<ref>{{cite web |last1=Tyler |first1=Joshua |title=DFWFCA Awards Ang |url=https://www.cinemablend.com/new.php?id=1944 |website=CinemaBlend |accessdate=20 July 2022|archiveurl=https://web.archive.org/web/20140102194734/https://www.cinemablend.com/new.php?id=1944 |archivedate=2 January 2014 |date=19 December 2005 |url-status=dead}}</ref><ref>{{cite web |last1=Jorgenson |first1=Todd |title=Dallas–Fort Worth Film Critics 2005 Awards |url=https://editorial.rottentomatoes.com/article/dallasfort-worth-film-critics-2005-awards/ |website=RottenTomatoes |accessdate=20 July 2022 |date=20 December 2005}}</ref>
+|-
+! scope="row"|[[David di Donatello]]
+| 21 April 2006
+| [[David di Donatello for Best European Film|Best European Film]]
+| Luc Jacquet
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite news |title=Placido contro Moretti |url=https://www.lastampa.it/spettacoli/2006/04/05/news/placido-contro-moretti-1.37157356/ |access-date=20 July 2022 |work=[[La Stampa]] |date=5 April 2006 |language=Italian}}</ref><ref>{{cite web |last1=De Marco |first1=Camillo |title=Moretti e Placido, duello per i David |url=https://cineuropa.org/it/newsdetail/63283/ |website=Cineuropa |access-date=20 July 2022 |language=Italian |date=4 April 2006}}</ref>
+|-
+! scope="row"|[[European Film Awards]]
+| [[19th European Film Awards|2 December 2006]]
+| People's Choice Award
+| ''March of the Penguins''
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web |title=People's Choice Award 2006: 12 candidates |url=https://cineuropa.org/en/newsdetail/66586/ |website=Cineuropa |access-date=20 July 2022 |date=1 September 2006}}</ref><ref>{{cite web |title=European Film Awards 2006: Nominations |url=https://europeanfilmawards.eu/en_EN/archive/2006/nominated |website=European Film Awards |access-date=20 July 2022}}</ref>
+|-
+! scope="row" rowspan="2"| [[Golden Trailer Awards]]
+| rowspan="2"|1 June 2006
+| Best Documentary
+| ''March of the Penguins''
+| {{won}}
+| style="text-align:center;" rowspan="2"|<ref>{{cite web |title=The Winners of the 7th Annual Golden Trailer Awards |url=http://www.goldentrailer.com/gta7.html |website=Golden Trailer Awards |access-date=20 July 2022 |archive-url=https://web.archive.org/web/20060705050614/http://www.goldentrailer.com/gta7.html |archive-date=5 July 2006 |url-status=dead}}</ref>
+|-
+| Best Voice Over
+| ''March of the Penguins''
+| {{won}}
+|-
+! scope="row"| [[International Cinephile Society]]
+| 2006
+| Best Documentary
+| ''March of the Penguins''
+| {{Runner-up}}
+| style="text-align:center;" |<ref>{{cite web |title=2006 ICS Award Winners |date=14 June 2010 |url=https://icsfilm.org/our-yearly-awards/2006-ics-award-winners/ |publisher=[[International Cinephile Society]] |access-date=20 July 2022}}</ref>
+|-
+! scope="row"| [[LA Film Festival]]
+| 22 June – 2 July 2005
+| Audience Award for Best International Feature
+| ''March of the Penguins''
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |title=''Jellysmoke'' and ''Everyone Their Grain of Sand'' Win Cash at Los Angeles Film Festival; LAFF Announce |url=https://www.indiewire.com/2005/06/jellysmoke-and-everyone-their-grain-of-sand-win-cash-at-los-angeles-film-festival-laff-announce-78167/ |website=IndieWire |access-date=20 July 2022 |date=27 June 2005}}</ref><ref>{{cite web |title=2005 Los Angeles Film Festival Awards |url=http://www.lafilmfest.com/awards.php |website=[[LA Film Festival]] |access-date=20 July 2022 |archive-url=https://web.archive.org/web/20051223174117/http://www.lafilmfest.com/awards.php |archive-date=23 December 2005 |url-status=dead}}</ref>
+|-
+! scope="row" rowspan="2"|[[National Board of Review]]
+| rowspan="2"|[[National Board of Review Awards 2005|10 January 2006]]
+| [[National Board of Review Award for Best Documentary Film|Best Documentary]]
+| ''March of the Penguins''
+| {{won}}
+| style="text-align:center;" rowspan="2"|<ref>{{cite web |title=Awards for 2005 |url=http://www.nbrmp.org/awards/past.cfm?year=2005 |publisher=National Board of Review |accessdate=20 July 2022 |archiveurl=https://web.archive.org/web/20080304013649/http://www.nbrmp.org/awards/past.cfm?year=2005 |archivedate=4 March 2008 |url-status=dead}}</ref><ref>{{cite news |last1=Mohr |first1=Ian |title=NBR in 'Good' mood |url=https://variety.com/2005/film/news/nbr-in-good-mood-1117934452/ |accessdate=20 July 2022 |work=Variety |date=12 December 2005 |archiveurl=https://web.archive.org/web/20200918211644/https://variety.com/2005/film/news/nbr-in-good-mood-1117934452/ |archivedate=18 September 2020|url-status=live}}</ref>
+|-
+| Top Five Documentaries
+| ''March of the Penguins''
+| {{won}}
+|-
+! scope="row"| [[New York Film Critics Circle]]
+| [[2005 New York Film Critics Circle Awards|8 January 2006]]
+| [[New York Film Critics Circle Award for Best Non-Fiction Film|Best Non-Fiction Film]]
+| ''March of the Penguins''
+| {{Runner-up}}
+| style="text-align:center;"|<ref>{{cite magazine |last1=Corliss |first1=Richard |title=Pushing the Envelope, Please |url=http://content.time.com/time/arts/article/0,8599,1140205,00.html |magazine=Time |accessdate=20 July 2022 |archiveurl=https://web.archive.org/web/20200903110708/http://content.time.com/time/arts/article/0,8599,1140205,00.html |archivedate=3 September 2020 |date=12 December 2005 |url-status=live}}</ref>
+|-
+! scope="row"| [[New York Film Critics Online]]
+| [[New York Film Critics Online Awards 2005|11 December 2005]]
+| Best Cinematography
+| ''March of the Penguins''
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |last1=Fauth |first1=Jurgen |last2=Dermansky |first2=Marcy |title=The New York Film Critics Online Awards 2005 |url=http://worldfilm.about.com/od/nyfco/a/nyfco2005.htm |website=Worldfilm Guide |accessdate=20 July 2022|archiveurl=https://web.archive.org/web/20150405133719/http://worldfilm.about.com/od/nyfco/a/nyfco2005.htm |archivedate=5 April 2015 |url-status=dead}}</ref><ref>{{cite web |last1=Douglas |first1=Edward |title=2005 NYFCO Film Awards |url=http://nyfco.proboards.com/thread/136/2005-nyfco-film-awards |publisher=New York Film Critics Online |accessdate=20 July 2022 |archiveurl=https://web.archive.org/web/20160612142338/http://nyfco.proboards.com/thread/136/2005-nyfco-film-awards |archivedate=12 June 2016 |date=11 December 2005 |url-status=dead}}</ref>
+|-
+! scope="row" | [[Online Film Critics Society]]
+| [[Online Film Critics Society Awards 2005|16 January 2006]]
+| [[Online Film Critics Society Award for Best Documentary Film|Best Documentary]]
+| ''March of the Penguins''
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web |title=2005 Awards (9th Annual) |url=https://ofcs.org/awards/2005-awards-9th-annual/ |website=[[Online Film Critics Society]] |date=3 January 2012 |access-date=20 July 2022}}</ref><ref>{{cite web |title=Online Film Critics Society Awards – 2005 |url=http://www.altfg.com/blog/awards/online-film-critics-awards-2005/ |website=Alternative Film Guide |access-date=20 July 2022 |archive-url=https://web.archive.org/web/20080119090737/http://www.altfg.com/blog/awards/online-film-critics-awards-2005/ |archive-date=19 January 2008 |date=16 January 2005 |url-status=dead}}</ref>
+|-
+! scope="row" rowspan="2"| [[Satellite Awards]]
+| rowspan="2"| [[10th Satellite Awards|17 December 2005]]
+| [[Satellite Award for Best Documentary Film|Best Motion Picture, Documentary]]
+| ''March of the Penguins''
+| {{nom}}
+| style="text-align:center;" rowspan="2"|<ref>{{cite web |title=Nominees and Winners: 10th Annual Satellite Awards |url=http://www.pressacademy.com/satawards/awards2005b.shtml |publisher=International Press Academy |accessdate=20 July 2022 |archiveurl=https://web.archive.org/web/20110718092336/http://www.pressacademy.com/satawards/awards2005b.shtml |archivedate=18 July 2011 |url-status=dead}}</ref>
+|-
+| Best Documentary DVD
+| ''March of the Penguins''
+| {{nom}}
+|-
+! scope="row" | [[St. Louis Film Critics Association]]
+|[[St. Louis Gateway Film Critics Association Awards 2005|8 January 2006]]
+| Best Documentary
+| ''March of the Penguins''
+| {{won}}
+|style="text-align:center;" |<ref>{{cite web |title=Awards |url=http://www.stlfilmcritics.org/awards.html |publisher=[[St. Louis Film Critics Association]] |access-date=20 July 2022 |archive-url=https://web.archive.org/web/20100617182741/http://www.stlfilmcritics.org/awards.html |archive-date=17 June 2010 |url-status=dead}}</ref>
+|-
+! scope="row"|[[Victoires de la Musique]]
+| 4 March 2006
+| Original Cinema or Television Soundtrack of the Year
+| Émilie Simon
+| {{won}}
+| style="text-align:center;"|<ref>{{cite magazine |last1=Pichevin |first1=Aymeric |title=Raphaël Leads France's Victoires Awards |url=https://www.billboard.com/music/music-news/raphael-leads-frances-victoires-awards-1357027/ |magazine=Billboard |access-date=20 July 2022 |date=6 March 2006}}</ref><ref>{{cite news |title=Le palmarès des Victoires de la musique 2006 |url=https://www.lemonde.fr/culture/article/2006/03/05/le-palmares_747751_3246.html |access-date=20 July 2022 |work=[[Le Monde]] |date=5 March 2006 |language=French}}</ref>
+|-
+! scope="row"| [[Women Film Critics Circle]]
+| 28 December 2005
+| Best Equality of the Sexes
+| ''March of the Penguins''
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |title=Women Film Critics Circle Awards 2005 |url=https://wfcc.wordpress.com/women-film-critics-circle-awards-2005/ |website=[[Women Film Critics Circle]] |date=26 November 2006 |access-date=20 July 2022}}</ref>
+|-
+! scope="row" | [[Writers Guild of America Award]]s
+| [[58th Writers Guild of America Awards|4 February 2006]]
+| [[Writers Guild of America Award for Best Documentary Screenplay|Best Documentary Screenplay]]
+| [[Jordan Roberts (writer)|Jordan Roberts]], Luc Jacquet, and Michel Fessler
+| {{nom}}
+| style="text-align:center;" |<ref>{{cite news |last1=McNary |first1=Dave |title=Eclectic pix mix in WGA doc noms |url=https://variety.com/2006/scene/awards/eclectic-pix-mix-in-wga-doc-noms-1117935416/ |access-date=20 July 2022 |work=Variety |date=3 January 2006}}</ref>
+|-
+! scope="row"| [[Young Artist Award]]s
+| [[27th Young Artist Awards|25 March 2006]]
+| Jackie Coogan Award for Outstanding Family Feature Documentary
+| ''March of the Penguins''
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |title=27th Annual Young Artist Awards |url=http://www.youngartistawards.org/noms27.htm |website=[[Young Artist Award]]s |access-date=20 July 2022 |archive-url=https://web.archive.org/web/20100704071111/http://www.youngartistawards.org/noms27.htm |archive-date=4 July 2010 |url-status=dead}}</ref>
+|}
+
+== See also ==
+* ''[[Ape and Super-Ape]]'', a 1972 Dutch documentary film by [[Bert Haanstra]] about the differences and similarities between humans and animals, which also has extensive footage about the life of penguins on Antarctica, almost 30 years before ''March Of The Penguins'' was made.<ref>{{Cite web|url=http://cinemagazine.nl/bij-de-beesten-af-1972-recensie/|title = Bij de beesten af (1972) recensie}}</ref>
+* [[List of highest-grossing documentary films]]
+
+== Funding ==
+
+* [[IBM]]
+* The Heising-Simons Foundation
+* [[Corporation for Public Broadcasting|CPB]]
+
+== References ==
+{{reflist|30em}}
+
+== Further reading ==
+* [https://www.theguardian.com/uk/2005/sep/18/usa.filmnews "How the penguin's life story inspired the US religious right"] – David Smith, Guardian Unlimited Film News, 18 September 2005
+* {{Webarchive |url=https://web.archive.org/web/20070927225712/http://www.imago.org/main/public_html/_htm_news/2007/n35.htm |title="The Unfortunate experience of a Director of Photography"}} – Amelie Zola, IMAGO, European Federation of Cinematographers, March 2007
+
+== External links ==
+{{wikiquote}}
+{{wikinews|2006 Oscars handed out at Kodak Theatre}}
+* {{Webarchive |url=https://web.archive.org/web/20111017081214/http://empereur.luc-jacquet.com/ |title=Official website}}
+* {{IMDb title}}
+* {{Mojo title}}
+* {{Metacritic film}}
+* {{Rotten Tomatoes}}
+* {{TCMDb title}}
+
+{{Navboxes
+|title = Awards for ''March of the Penguins''
+|list =
+{{Academy Award for Best Documentary Feature Film}}
+{{Broadcast Film Critics Association Award for Best Documentary Film}}
+{{National Board of Review Award for Best Documentary Film}}
+}}
+
+{{Portal bar|Disney|Film|Animals|United States}}
+{{Authority control}}
+
+{{DEFAULTSORT:March Of The Penguins}}
+[[Category:2005 films]]
+[[Category:2005 documentary films]]
+[[Category:2005 independent films]]
+[[Category:2005 French films]]
+[[Category:2005 French-language films]]
+[[Category:Best Documentary Feature Academy Award winners]]
+[[Category:Buena Vista International films]]
+[[Category:Documentary films about Antarctica]]
+[[Category:Documentary films about birds]]
+[[Category:Films about penguins]]
+[[Category:Films directed by Luc Jacquet]]
+[[Category:Films scored by Alex Wurman]]
+[[Category:Films shot in 16 mm film]]
+[[Category:Films with screenplays by Jordan Roberts (writer)]]
+[[Category:French documentary films]]
+[[Category:French independent films]]
+[[Category:French-language documentary films]]
+[[Category:French-language independent films]]
+[[Category:Warner Independent Pictures films]]
+[[Category:Wild Bunch (company) films]]

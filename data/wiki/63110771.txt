@@ -1,0 +1,55 @@
+{{short description|2020 film by Hong Sang-soo}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox film
+| name           = The Woman Who Ran
+| image          = The Woman Who Ran.jpg
+| caption        = Theatrical release poster
+| native_name    = {{Infobox Korean film name|hangul=^도망친 여자}}
+| director       = [[Hong Sang-soo]]
+| writer         = Hong Sang-soo
+| producer       = Hong Sang-soo
+| starring       = [[Kim Min-hee (actress, born 1982)|Kim Min-hee]]<br/>Seo Young-hwa<br/>[[Song Seon-mi]]<br/>[[Kim Sae-byuk]]
+| cinematography = Kim Su-min
+| editing        = Hong Sang-soo
+| music          = Hong Sang-soo
+| studio         = Jeonwonsa Film Co.
+| distributor    = [[CMC Pictures]]
+| released       = {{film date|df=yes|2020|2|25|[[70th Berlin International Film Festival|Berlinale]]|2020|9|17|South Korea}}
+| runtime        = 77 minutes<ref>{{cite web|url=https://www.berlinale.de/en/programme/programme/detail.html?film_id=202011933|title=The Woman Who Ran|publisher=[[Berlin International Film Festival]]|access-date=18 February 2020}}</ref>
+| country        = South Korea
+| language       = Korean
+}}
+
+'''''The Woman Who Ran''''' ({{Korean/auto|hangul=^도망친 여자|rr=yes}}) is a 2020 South Korean [[drama film]] written, produced, directed, edited and scored by [[Hong Sang-soo]].<ref>{{cite web|url=http://www.newsis.com/view/?id=NISX20200214_0000919579|script-title=ko:홍상수 '도망친 여자' 단발머리 김민희 스틸 공개|date=14 February 2020|publisher=[[Newsis]]|language=ko|trans-title=Hong Sang-soo's 'The Woman Who Ran' Stills Reveal Short-Haired Kim Min-hee|access-date=14 February 2020}}</ref> It was selected to compete for the [[Golden Bear]] in the main competition section at the [[70th Berlin International Film Festival]].<ref>{{cite web|url=https://www.berlinale.de/en/press/press-releases/detail_34516.html|title=The 70th Berlinale Competition and Further Films to Complete the Berlinale Special|publisher=[[Berlinale]]|access-date=29 January 2020}}</ref><ref>{{cite web|url=https://variety.com/2020/film/festivals/berlin-film-festival-main-competition-lineup-1203485048/|title=Berlin Competition Lineup Revealed: Sally Potter, Kelly Reichardt, Eliza Hittman, Abel Ferrara|last=Dams|first=Tim|date=29 January 2020|work=[[Variety (magazine)|Variety]]|access-date=29 January 2020}}</ref> At Berlin, [[Hong Sang-soo]] won the [[Silver Bear for Best Director]].<ref>{{cite web|url=https://variety.com/2020/film/news/berlin-film-festival-2020-award-winners-1203519894/ | title=Berlin Film Festival 2020: There Is No Evil Wins Golden Bear |work=Variety | date=29 February 2020 |access-date=1 March 2020}}</ref>
+
+==Cast==
+* [[Kim Min-hee (actress, born 1982)|Kim Min-hee]] as Gam-hee
+*Seo Young-hwa as Young-soon
+* [[Song Seon-mi]] as Su-young
+*[[Kim Sae-byuk]] as Woo-jin
+*Lee Eun-mi as Young-jin
+*[[Kwon Hae-hyo]] as Mr. Jung
+*Shin Seok-ho as Cat Man
+*Ha Seong-guk as Young Poet
+*[[Darcy Paquet]] as Foreign audience member
+
+==Critical reception==
+According to the [[review aggregator]] [[Metacritic]], which gave the film an average score of 79 out of 100 based on 10 critic reviews, the film received "generally favorable reviews".<ref>{{cite web|url=https://www.metacritic.com/movie/the-woman-who-ran |title=The Woman Who Ran |work=Metacritic |access-date=1 March 2020}}</ref> On review aggregator website [[Rotten Tomatoes]], the film holds an approval rating of 98% based on 45 reviews, with an average rating of 8,1/10. The site's critical consensus reads, "Narratively slight yet cumulatively absorbing, ''The Woman Who Ran'' finds writer-director Hong Sang-soo continuing to work in a beguilingly minor key."<ref>{{Cite web|url=https://www.rottentomatoes.com/m/the_woman_who_ran|title=The Woman Who Ran|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date={{RT data|access date|df=dmy}}}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|11697690|The Woman Who Ran}}
+* {{hancinema film|The_Woman_Who_Ran}}
+
+{{Hong Sang-soo}}
+
+{{DEFAULTSORT:Woman Who Ran, The}}
+[[Category:2020 films]]
+[[Category:2020 drama films]]
+[[Category:South Korean drama films]]
+[[Category:2020 Korean-language films]]
+[[Category:Films directed by Hong Sang-soo]]
+[[Category:Korean-language drama films]]
+[[Category:Films set in cinemas and movie theaters]]

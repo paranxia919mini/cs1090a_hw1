@@ -1,0 +1,76 @@
+{{Short description|1926 film}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox film
+| name = The Wings of a Serf
+| image = The_Wings_of_a_Serf.jpg
+| caption =
+| director = [[Yuri Tarich]]
+| producer =  
+| writer = {{ubl|[[Konstantin Schildkroet]]|[[Viktor Shklovsky]]|Yuri Tarich}} 
+| narrator =
+| starring = [[Leonid Leonidov]]
+| music = 
+| cinematography = [[Mikhail Vladimirsky]]
+| editing =  [[Esfir Shub]]
+| studio = [[Sovkino]]
+| distributor = 
+| released = {{Film date|1926|11|16|df=yes}}
+| runtime = 79 minutes
+| country = Soviet Union
+| language = {{ubl|Silent|[[Russian language|Russian]] intertitles}}
+| budget =
+| gross =
+}}
+'''''The Wings of a Serf''''' also known as '''''Ivan the Terrible''''' ({{langx|ru|Крылья холопа|Krylya kholopa}}) is a 1926 Soviet [[silent film|silent]] [[historical drama film]] directed by [[Yuri Tarich]] and starring [[Leonid Leonidov]], [[Ivan Klyukvin]] and [[Safiyat Askarova]].<ref>Christie & Taylor p.434</ref><ref>{{Cite book|url=https://archive.org/stream/kinohistoryofrus00jayl#page/214/mode/2up/|publisher=[[Allen & Unwin|George Allen & Unwin]]|author=Jay Leyda|author-link=Jay Leyda|title= Kino: A History of the Russian and Soviet Film|year=1960|page=214}}</ref>
+
+The film's sets were designed by the [[art director]] {{ill|Vladimir Yegorov (set designer)|ru|Егоров, Владимир Евгеньевич|lt=Vladimir Yegorov}}.
+
+==Plot==
+[[File:Крылья холопа. 1926 год.webm|thumb|''The Wings of a Serf'' (1926)]]
+
+Set in the 16th century during the reign of [[Ivan the Terrible]], the story follows Nykishka, a talented serf and inventor living in the village of the boyar Lupatov. Fascinated by the idea of flight, Nykishka crafts a pair of homemade wings. He shares his dream of flying with his beloved serf, Fima.  
+
+Nearby, in the estate of the boyar Kurlyatev, a mechanical clock breaks. During a raid, Kurlyatev captures the ingenious mechanic Nykishka and his beloved Fima, forcibly taking them to his estate. Discovering Nykishka's "devilish invention," Kurlyatev tortures him while seducing Fima by luring her to his chambers.  
+
+Lupatov submits a petition to Ivan the Terrible, accusing Kurlyatev of lawlessness. Seizing the opportunity to settle an old grudge, the tsar sends his [[Oprichnik]]s to destroy Kurlyatev's estate and bring his serfs to the tsar's court at [[Alexandrovskaya Sloboda]].  
+
+At the court, the tsar is preoccupied with flax trading and owns a flax-breaking wheel, which unexpectedly breaks. While no one can repair it, Nykishka succeeds. Tsarina [[Maria Temryukovna]] asks what reward Nykishka desires for fixing the wheel, and he replies that he wants to build wings to enable human flight.  
+
+Intrigued, Ivan the Terrible decides to entertain foreign guests and orders Nykishka to demonstrate his invention. During [[Bright Week]], in front of a crowd, Nykishka successfully flies. However, the tsar declares the invention demonic, imprisons Nykishka, and sentences him to death.  
+
+Tsarina Maria, captivated by the serf's beauty, helps him escape. When Ivan the Terrible discovers this betrayal, he storms into Maria's chambers and strangles her. Nykishka dies during his attempt to flee.
+
+==Cast==
+* [[Leonid Leonidov]] as Tsar Ivan the Terrible  
+* [[Ivan Klyukvin]] as Nikita, serf-inventor  
+* [[Safiyat Askarova]] as Tsar's wife Maria  
+* [[Vladimir Korsh]] as Tsar's son Ivan  
+* [[Nikolai Prozorovsky]] as Fedor Basmanov, courtier
+* [[M. Arkanoff]] as Kurliator
+* [[Ivan Arkanov]] as Prince Kurlyatev
+* [[Tatyana Barysheva]] as Court maid
+* [[Vasily Bokarev]]
+* [[O. Britan]] as Appearing
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* Christie, Ian & Taylor, Richard. ''The Film Factory: Russian and Soviet Cinema in Documents 1896-1939''. Routledge, 2012.
+
+== External links ==
+* {{IMDb title|0017047}}
+
+{{DEFAULTSORT:Wings of a Serf}}
+[[Category:1926 films]]
+[[Category:1926 historical drama films]]
+[[Category:Soviet historical drama films]]
+[[Category:Soviet silent feature films]]
+[[Category:Soviet silent drama films]]
+[[Category:Soviet black-and-white films]]
+[[Category:1926 Soviet films]]
+[[Category:1926 Russian-language films]]
+[[Category:Russian-language historical drama films]]
+[[Category:Films set in the 16th century]]
+
+{{1920s-USSR-film-stub}}

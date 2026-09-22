@@ -1,0 +1,54 @@
+{{short description|2010 film}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| name                 = Boxing Gym
+| image                = Boxing Gym poster.jpg
+| alt                  = 
+| caption              = Film poster
+| director             = [[Frederick Wiseman]]
+| producer             = Frederick Wiseman
+| writer               = 
+| starring             = Richard Lord
+| music                = 
+| cinematography       = John Davey
+| editing              = Frederick Wiseman
+| production_companies = Zipporah Films<br />KO Films
+| distributor          = Zipporah Films<br />Tuckman Media
+| released             = {{Film date|2010|5|20|[[2010 Cannes Film Festival|Cannes]]|2010|10|22|[[IFC Center]]|ref2=<ref>{{cite news|last=Fernandez|first=Jay|title=Zipporah, mTuckman acquire 'Boxing Gym'|url=https://www.hollywoodreporter.com/news/zipporah-mtuckman-acquire-boxing-gym-24165|accessdate=August 23, 2019|work=[[The Hollywood Reporter]]|publisher=Valence Media|date=June 1, 2010}}</ref>}}
+| runtime              = 91 minutes
+| country              = United States
+| language             = English
+| budget               = 
+| gross                = 
+}}
+'''''Boxing Gym''''' is a 2010 American documentary film edited, produced, and directed by [[Frederick Wiseman]]. The film premiered at the [[2010 Cannes Film Festival|63rd Cannes Film Festival]] on May 20, 2010.<ref name="Nelson">{{cite web|last=Nelson|first=Rob|title=Boxing Gym|url=https://variety.com/2010/film/markets-festivals/boxing-gym-1117942880/|website=[[Variety (magazine)|Variety]]|accessdate=August 23, 2019|date=May 20, 2010}}</ref>
+
+==Critical response==
+''Boxing Gym'' received critical acclaim from critics. [[Manohla Dargis]] of ''[[The New York Times]]'' designated it an "NYT Critics Pick", and stated that "It's... easy to get swept up by the beats in the film because Mr. Wiseman, among the most celebrated direct-cinema practitioners, eschews voiceovers, talking-head interviews, extraneous footage and the customary and sometimes superfluous like."<ref>{{cite web|last=Dargis|first=Manohla|author-link=Manohla Dargis|title=Sweat, Blood and Philosophy to the Rhythms of the Sweet Science|url=https://www.nytimes.com/2010/10/22/movies/22box.html|website=[[The New York Times]]|accessdate=August 23, 2019|date=October 21, 2010}}</ref> Rob Nelson of ''[[Variety (magazine)|Variety]]'' also praised the film, noting that while it is shorter than most of Wiseman's works, "the viewer learns an enormous amount from [''Boxing Gym'',] but not at all in the conventional documentary manner", and instead through "images that put the audience in close contact with the boxers’ routines". Eric Kohn of ''[[IndieWire]]'' remarked that Wiseman's filmmaking method resulted in "an ethnographic snapshot of restless people in their natural habitat."<ref>{{cite web|last=Kohn|first=Eric|title=REVIEW &#124; Sweat Ballet: Frederick Wiseman's "Boxing Gym"|url=https://www.indiewire.com/2010/10/review-sweat-ballet-frederick-wisemans-boxing-gym-244653/|website=[[IndieWire]]|publisher=[[Penske Media Corporation|Penske Business Media, LLC]]|accessdate=23 August 2019|date=October 18, 2010}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.zipporah.com/films/38 Zipporah Films official site]
+*{{IMDb title|1653827}}
+
+{{Frederick Wiseman}}
+
+[[Category:2010 films]]
+[[Category:2010 documentary films]]
+[[Category:American sports documentary films]]
+[[Category:Documentary films about boxing]]
+[[Category:Documentary films about Texas]]
+[[Category:Films directed by Frederick Wiseman]]
+[[Category:Films set in 2007]]
+[[Category:Films shot in Austin, Texas]]
+[[Category:2010 English-language films]]
+[[Category:2010 American films]]
+[[Category:English-language documentary films]]
+[[Category:Boxing in Texas]]
+[[Category:Sports in Austin, Texas]]
+
+{{2010s-US-documentary-film-stub}}
+{{sport-documentary-film-stub}}

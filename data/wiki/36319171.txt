@@ -1,0 +1,68 @@
+{{Infobox film
+| name           = Trás-os-Montes
+| image          = 
+| caption        = 
+| director       = [[António Reis]]<br />[[Margarida Cordeiro]]
+| producer       = Pedro Paulo
+| screenplay     = [[António Reis]]<br />[[Margarida Cordeiro]]
+| based_on       = 
+| starring       = The inhabitants of Trás-os-Montes
+| music          = 
+| cinematography = [[Acácio de Almeida]]
+| editing        = [[António Reis]]<br />Margarida Cordeiro
+| studio         = Centro Português de Cinema (CPC)
+| distributor    = 
+| released       = {{Film date|1976|06|11|[[Lisbon]]|df=y}}
+| runtime        = 111 minutes
+| country        = Portugal
+| language       = Portuguese
+| budget         = 
+}}
+'''''Trás-os-Montes''''' is a [[Portuguese cinema|Portuguese]] independent [[docufiction]]al and [[ethnofiction]]al [[feature film]], [[Scriptwriting|written]], [[film director|directed]] and [[Film editor|edited]] by [[António Reis]] and [[Margarida Cordeiro]] and released in 1976. It takes its name from the Portuguese region of [[Trás-os-Montes (region)|Trás-os-Montes]] from which the film emanated.
+
+== Release and reception ==
+Upon watching ''Trás-os-Montes'' the French filmmaker and anthropologist [[Jean Rouch]] wrote about the film: 
+<blockquote>
+''For me, this film reveals a new cinematographic language.''<ref name="Jean Rouch's letter about Trás-os-Montes">{{cite web |url= http://antonioreis.blogspot.pt/2006/04/143-trs-os-montes-carta-de-jean-rouch.html|title=Jean Rouch's letter about Trás-os-Montes|access-date=2012-07-03}}</ref>
+</blockquote>
+Since its release, the film has been part of the official selection of numerous film festivals and events, from 1976 to nowadays, where it has been awarded several prizes. Among them are:
+* 1976 – Toulon Film Festival – Special Prize of the Jury, Critics Award
+* 1976 – Pesaro Film Festival – Critics Award
+* 1976 – Bedford Film Festival
+* 1976 – XI Challenge de Cartago
+* 1977 – [[International Filmfestival Mannheim-Heidelberg|Mannheim Film Festival]] – Main Award of Mannheim <ref name="1977 Mannheim-Heidelberg Festival at the Festival's website archive">{{cite web |url=http://www.iffmh.de/en/1977/Films|title=1977 Mannheim-Heidelberg Festival at the Festival's website archive|access-date=2012-07-03|work=iffmh.de}}</ref><ref name="Mannheim 1977 Awards at IMDb">{{cite web |url=https://www.imdb.com/event/ev0000358/1977|title=Mannheim 1977 Awards at IMDb|access-date=2012-07-03|work=imdb.com}}</ref>
+* 1977 – [[Rotterdam Film Festival]]
+* 1977 – Anvers Film Festival
+* 1977 – Bedalmena Film Festival
+* 1977 – London Film Festival
+* 1978 – Viermole Film Festival – Award for Best Film, Award for Best Directing
+* 1978 – Belgrado Film Festival
+* 1978 – [[Venice Film Festival]]
+* 1978 – [[São Paulo International Film Festival|São Paulo's Mostra Internacional de Cinema]]
+* 1979 – Lecce Film Festival – Honorable Mention to the Cinematography
+
+In 2011, ''Trás-os-Montes'' was screened at the [[Jeonju International Film Festival]], marking the beginning of the international rediscovery of the work of António Reis and Margarida Cordeiro.<ref name="Trás-os-Montes at the Jeonju International Film Festival">{{cite web|url=http://12theng.jiff.or.kr/b20_screen/20_screening_detail.asp?idx=2516|title=Trás-os-Montes at the Jeonju International Film Festival|access-date=2012-07-05|work=12theng.jiff.or.kr|url-status=dead|archive-url=https://archive.today/20121220024352/http://12theng.jiff.or.kr/b20_screen/20_screening_detail.asp?idx=2516|archive-date=2012-12-20}}</ref>
+In 2012, the film was screened in the United States at the [[Harvard Film Archive]],<ref name="The School of Reis official page at the Harvard Film Archive website">{{cite web |url=http://hcl.harvard.edu/hfa/films/2012aprjun/reis.html#tras|title=The School of Reis official page at the Harvard Film Archive website|access-date=2012-07-01|work=ves.fas.harvard.edu}}</ref> the [[Anthology Film Archives]],<ref name="The School of Reis page at the Anthology Film Archives website">{{cite web |url=http://anthologyfilmarchives.org/film_screenings/series/39198|title=The School of Reis page at the Anthology Film Archives website|access-date=2012-07-01|work=anthologyfilmarchives.org}}</ref> at the [[UCLA Film and Television Archives]]<ref name="The School of Reis page at the UCLA Film & Television Archive website">{{cite web |url=http://www.cinema.ucla.edu/events/2012-07-06/films-and-legacy-antonio-reis-and-margarida-cordeiro|title=The School of Reis page at the UCLA Film & Television Archive website|access-date=2012-07-01|work=cinema.ucla.edu}}</ref> and at the [[Pacific Film Archive]] as part of ''[[The School of Reis]]'' program.
+
+== See also ==
+* [[Docufiction]]
+* [[List of docufiction films]]
+
+== References ==
+{{reflist}}
+
+== External connections ==
+* {{imdb title|0075354}}
+* [http://antonioreis.blogspot.pt/2006/04/143-trs-os-montes-carta-de-jean-rouch.html Jean Rouch's letter about ''Trás-os-Montes'']
+* [http://antonioreis.blogspot.pt/2006/08/146-trs-os-montes-entrevista-por-serge.html Serge Daney interview to António Reis about ''Trás-os-Montes''] (fr)
+* [http://hcl.harvard.edu/hfa/films/2012aprjun/reis.html#tras ''Trás-os-Montes'' at ''The School of Reis'' page at the Harvard Film Archive website]
+* [http://www.cinema.ucla.edu/events/2012-07-06/trás-os-montes-portugal-1976 ''Trás-os-Montes'' at ''The School of Reis'' page at the UCLA Film and Television Archive website]
+* [http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=06&year=2012#showing-39253 ''Trás-os-Montes'' at ''The School of Reis''] (Anthology Film Archives website]
+
+[[Category:1976 drama films]]
+[[Category:1976 films]]
+[[Category:Films directed by António Reis]]
+[[Category:1970s Portuguese-language films]]
+[[Category:Ethnofiction films]]
+[[Category:Portuguese drama films]]
+[[Category:Portuguese-language drama films]]

@@ -1,0 +1,140 @@
+{{short description|1997 film by Michael Haneke}}
+{{Use dmy dates|date=June 2019}}
+{{Infobox film
+| name           = Funny Games
+| image          = Funny Games1997.jpg
+| caption        = Austrian film poster
+| director       = [[Michael Haneke]]
+| producer       = Veit Heiduschka
+| writer         = Michael Haneke
+| starring       = {{Plainlist|
+* [[Susanne Lothar]]
+* [[Ulrich Mühe]]
+* [[Arno Frisch]]
+* [[Frank Giering]]
+* Stefan Clapczynski
+}}
+| cinematography = Jürgen Jürges
+| editing        = Andreas Prochaska
+| studio         = [[ORF (broadcaster)|Österreichischer Rundfunk]]<br />{{ill|Wega Film|de}}
+| distributor    = Wega Film<ref name="ofi">{{Cite web |title=Funny Games |url=https://filminstitut.at/filme/funny-games |access-date=9 July 2025 |website=[[Österreichisches Filminstitut]] |language=de-DE}}</ref>
+| released       = {{Film date|df=yes|1997|5|14|[[Cannes Film Festival|Cannes]]|1997|9|11|Austria|ref2=<ref name="ofi" />}}
+| runtime        = 109 minutes<!--Theatrical runtime: 108:59--><ref>{{cite web|title=''Funny Games'' (18)|url=http://www.bbfc.co.uk/releases/funny-games-1998-0|archive-url=https://archive.today/20130707032621/http://www.bbfc.co.uk/releases/funny-games-1998-0|url-status=dead|archive-date=7 July 2013|work=[[British Board of Film Classification]]|date=13 March 1998|access-date=29 May 2013}}</ref>
+| country        = Austria
+| language       = German<br />French
+| budget         = 
+| gross          = 
+}}
+'''''Funny Games''''' is a 1997 Austrian [[Satire|satirical]] [[psychological thriller]] film<!--According to the director, both original and remake are not intended to be a horror film, which usually as a thriller film with satirical elements that features fourth wall breaks. If any suggestions about the genre, please feel free to the talk page.--> written and directed by [[Michael Haneke]], and starring [[Susanne Lothar]], [[Ulrich Mühe]], and [[Arno Frisch]]. The plot involves two young men who hold a family hostage in their vacation home and [[torture]] them with [[Sadomasochism|sadistic]] games.
+
+The film was entered into the [[1997 Cannes Film Festival]], where it generated controversy among both critics and audiences for its depiction of graphic violence and torture.<ref name="festival-cannes.com">{{cite web|url=http://www.festival-cannes.com/en/archives/ficheFilm/id/4807/year/1997.html |title=Festival de Cannes: Funny Games |access-date=21 September 2009 |work=festival-cannes.com |url-status=dead |archive-url=https://web.archive.org/web/20110710235317/http://www.festival-cannes.com/en/archives/ficheFilm/id/4807/year/1997.html |archive-date=10 July 2011  }}</ref>
+
+A [[Shot-for-shot#Film to film|shot-for-shot]] [[Funny Games (2007 film)|remake]], filmed and set in the United States, was released in 2007, also directed by Haneke, this time with an English-speaking cast and a mostly American crew.
+
+==Plot==
+Georg Schober, his wife Anna, their son Georgie, and their dog Rolfi arrive at their lakefront holiday home in Austria. On the drive over, they spot their next-door neighbors Fred and Eva accompanied by two young [[Vienna|Viennese]] men whom they do not recognize. Upon arrival, they notice their daughter Sissi is absent. Fred visits minutes later with one of the men, whom he introduces as Paul, the son of a friend.
+
+While Georg sets up the boat, the other young man Peter comes to Anna's kitchen to borrow eggs on Eva's behalf, only to drop them and knock the family's phone into the sink, seemingly done by accident.
+
+Paul arrives shortly thereafter and decides to try one of Georg's golf clubs. Anna demands that the men leave, but Peter breaks Georg's leg with a golf club and reveals to Anna that they killed Rolfi before taking the family hostage.
+
+Over the following hours, Peter and Paul subject the family to sadistic games. Paul places a bet that the family will not survive past 9:00 in the morning. He then puts a pillowcase over Georgie's head and pressures Georg to ask Anna to undress. She complies, only to be told to put her clothes back on. 
+
+Georgie escapes and flees to Fred's house, where he finds Sissi's corpse. Paul corners Georgie as Georgie attempts to shoot him, but the [[shotgun]] is unloaded. Paul returns Georgie to the home as Peter plays a [[counting-out game]] between the family while Paul makes sandwiches in the kitchen. Georgie panics and runs, which results in Peter shooting him dead. Paul berates Peter for being trigger-happy, and the two men decide to leave.
+
+After grieving, Anna flees the house as Georg attempts to repair the malfunctioning phone. Anna tries to find help, but is captured by Peter and Paul and returned to the house.
+
+During another game, Anna grabs the shotgun and kills Peter; however, Paul finds and uses a remote control to [[Fourth Wall|rewind the movie]], "reversing" the events that just happened and preventing Peter's death from happening. Paul then shoots and kills Georg, and both men take Anna out on the family's boat early the next morning. Around 8:00, Paul nonchalantly pushes Anna into the water to drown, thus winning their bet. Paul arrives at Gerda's house and knocks on the door, asking for some eggs on Anna’s behalf. She heads to the kitchen as Paul stares at the camera and smirks.
+
+==Cast==
+{{Cast listing|
+* [[Susanne Lothar]] as Anna Schober
+* [[Ulrich Mühe]] as Georg Schober
+* Stefan Clapczynski as Georg "Georgie" Schober Jr.
+* [[Arno Frisch]] as Paul
+* [[Frank Giering]] as Peter
+* [[Christoph Bantzer]] as Fred Berlinger
+* Monika Zallinger as Eva Berlinger
+* [[Doris Kunstmann]] as Gerda
+* [[Wolfgang Glück]] as Robert
+}}
+
+==Themes==
+{{Original research section|date=March 2025|reason=This section contains largely unsourced claims about the film's thematic content.}}
+The film frequently blurs the line between fiction and reality, especially highlighting the act of observation. The character Paul [[breaking the fourth wall|breaks the fourth wall]] five times throughout the film and addresses the camera in various ways. As he directs Anna to look for her dead dog, he turns, winks, and smirks at the camera. When he asks the family to bet on their survival, he turns to the camera and asks the audience whether they will bet as well. At the end of the film, when requesting eggs from the next family, he looks into the camera and smirks again. By addressing the audience, Haneke forces the viewer to acknowledge their complicity. Author Joanna Bourke states that through these fourth wall breaks, "audiences have to take responsibility for being desensitized to violence and the pain of others."<ref>{{cite journal |last1=Bourke |first1=Joanna |author-link1=Joanna Bourke |title=Elaine Scarry, Michael Haneke's Funny Games and the Structure of Cruelty |journal=Body & Society |date=September 2019 |volume=25 |issue=3 |pages=136–152 |doi=10.1177/1357034X19856092 }}</ref>
+
+Paul also frequently states his intentions to follow the standards of film plot development. When he asks the audience to bet, he guesses that the audience wants the family to win. After the killers vanish in the third act, Paul later explains that he had to give the victims a last chance to escape or else it would not be dramatic. Toward the end of the film, he postpones killing the rest of the family because the film has not yet reached [[feature length]]. Throughout the film, Paul shows awareness of the audience's expectations.
+
+However, Paul also causes the film to defy convention on a number of occasions. In [[horror film|horror]] and [[thriller film|thrillers]], [[Final girl|one protagonist that the audience can sympathize with]] usually survives, but here all three family members die. When Anna successfully shoots Peter, potentially initiating a heroic escape for the family, Paul uses a remote control to rewind the film itself and undo the event. After Peter shoots Georgie, Paul scolds him for killing the child first because it goes against convention and weakens whatever suspense remains in the storyline. At the end of the film, the murderers prevent Anna from using a knife in the boat to cut her bonds. An earlier [[close-up]] points out the knife's location as a possible set-up for a final-act escape, but this turns out to be a [[Red herring (plot device)|red herring]]. At the end of the film, Paul again smirks triumphantly at the audience. As a self-aware character, he is able to subvert viewer expectations and emerges triumphant.
+
+After killing Anna, Peter and Paul argue about the line between reality and fiction. Paul believes fiction that is observed is just as real as anything else, but Peter dismisses this idea. Unlike Paul, Peter never demonstrates any awareness that he is a character in a film.
+
+Haneke states that ''Funny Games'' was not intended to be a [[horror film]]. He says he wanted to deliver a message about violence in the media by making an incredibly violent, but otherwise pointless film. His short essay revealing how he felt on the issue—called "Violence + Media"—is included as a chapter in the book ''A Companion to Michael Haneke.''<ref>[[Michael Haneke|Haneke, Michael]] (2010). "Violence and the Media". In Roy Grundmann (Ed.), A Companion to Michael Haneke, pp. 575–579. Chichester, West Sussex: Wiley-Blackwell. {{ISBN|978-1-4051-8800-5}}</ref>
+
+Film scholar Brigitte Peucker argues that the film functions to "assault the spectator", adding: "On the surface, ''Funny Games'' appears to exemplify ... [[Stephen Prince]]'s idea of responsibly filmmaking... but, by means of modernist strategies such as the direct look out of the frame, it establishes a complicity between the film's spectators and the murderers depicted in its narrative. It takes, therefore, an aggressive—not to say sadistic—posture toward its audience."{{sfn|Peucker|2007|p=142}}
+
+==Production==
+Haneke wanted to make a film set in the United States, but for practical reasons he had to set it in Austria.<ref name="CineasteFG">{{Cite magazine |last=Koehler |first=Robert |date=2008 |title=Funny Games |url=http://www.cineaste.com/articles/funny-games.htm |archive-url=https://web.archive.org/web/20131002065215/http://www.cineaste.com/articles/funny-games.htm |archive-date=2 October 2013 |magazine=Cineaste}}</ref>
+
+After the [[Funny Games (2007 film)|2007 American remake]] directed by Haneke used the same house including props and tones, Robert Koehler of ''[[Cineaste (magazine)|Cineaste]]'' wrote that this "proves for certain that—whether he uses the great cinematographer Jürgen Jürges (for the 1997 version) or the great [[Darius Khondji]] (for the new film)—Haneke is fundamentally his own cinematographer exercising considerable control over the entire look of his films."<ref name=CineasteFG/>
+
+==Critical response==
+European and English-language critics, according to Robert Koehler of ''[[Cineaste (magazine)|Cineaste]]'', "generally set their criticism against the backdrop of the American [[slasher film]] that the film was subverting" and "expressed mild forms of outrage along with admiration".<ref name=CineasteFG/> In an interview, film director and critic [[Jacques Rivette]] made his displeasure with the movie clear, calling it "a disgrace", "vile", and "a complete piece of shit."<ref>{{cite web|url=http://sensesofcinema.com/2001/french-cinema-present-and-past/rivette-2/ |title=The Captive Lover - An Interview with Jacques Rivette|access-date=7 November 2014 |publisher=Senses of Cinema | first=Frédéric | last=Bonnaud | author-link=Frédéric Bonnaud | date=25 March 1998}}</ref> When first shown at the [[1997 Cannes Film Festival]], one-third of the audience walked out.<ref>{{cite web |last1=Johnston |first1=Sheila |title=Palme d'Or winner Michael Haneke: cruel to his characters and to us |url=https://www.telegraph.co.uk/culture/film/starsandstories/5477889/Palme-dOr-winner-Michael-Haneke-cruel-to-his-characters-and-to-us.html |date=8 June 2009 |quote=A shock-sensation in Cannes, where it provoked mass walkouts}}</ref>
+
+On [[Rotten Tomatoes]], the film has an approval rating of 73% based on reviews from 40 critics, with an average rating of 7.2/10. The site's critical consensus states: "Violent images and blunt audience provocation make up this nihilistic experiment from one of cinema's more difficult filmmakers".<ref>{{cite web |date= 11 March 1998 |title= Funny Games |url= http://www.rottentomatoes.com/m/1083791-funny_games/ |website= [[Rotten Tomatoes]] |access-date= 16 November 2023 }}</ref> On [[Metacritic]], the film has a score of 69 out of 100 based on reviews from 10 critics, indicating "generally favorable reviews".<ref>{{cite web |title= Funny Games |url= https://www.metacritic.com/movie/funny-games-1997 |website= [[Metacritic]] |access-date= 10 January 2020 }}</ref>
+
+''[[Variety (magazine)|Variety]]''{{'}}s David Rooney wrote: "The film is shocking and upsetting, but never truly gets under the skin the way this kind of material often can. Whatever reservations are prompted by Haneke's approach, his direction is controlled and edgy." Rooney criticized the length of the film, saying it "outstays its welcome and is more than a little too knowing in its manipulation of standard audience expectations for the genre."<ref>{{cite web |date= 25 May 1997 |last= Rooney |first= David |title= Funny Games |url= https://variety.com/review/VE1117329710 |website= Variety }}</ref>
+
+In 2015, Taste of Cinema ranked the film among the "30 Great [[Psychopathy|Psychopath]] Movies That Are Worth Your Time".<ref>{{Cite web |last=Turer |first=Jason |date=2015-04-09 |title=30 Great Psychopath Movies That Are Worth Your Time |url=https://www.tasteofcinema.com/2015/30-great-psychopath-movies-that-are-worth-your-time/ |access-date=2025-03-08 |website=Taste of Cinema - Movie Reviews and Classic Movie Lists |language=en-US}}</ref>
+
+==Home media==
+On 14 May 2019, the film was released on [[DVD]] and [[Blu-ray]] as part of [[the Criterion Collection]].<ref name="Criterion">{{Cite web |title=Funny Games |url=https://www.criterion.com/films/28836-funny-games |access-date=2025-11-11 |website=The Criterion Collection |language=en}}</ref> In July 2025 the film was included in the Michael Haneke Collection Blu-ray which was put out by [[Umbrella Entertainment]].<ref>{{Cite web |title=Michael Haneke Collection Blu-ray |url=https://shop.umbrellaent.com.au/products/michael-haneke-collection-1976-2012-blu-ray |access-date=2025-12-11 |website=Umbrella Entertainment |language=en-AU}}</ref>On October 6 2025 [[Curzon Cinemas|Curzon]] included the film in their Haneke collection box-set.<ref>{{Cite web |last=Powster |title=Michael Haneke: A Curzon Collection |url=https://film.curzon.com/film/michael-haneke-collection/ |access-date=2025-12-11 |website=Curzon Film - Find The Latest Curzon Film Releases |language=en}}</ref>
+
+==American remake==
+{{main|Funny Games (2007 film)}}
+Haneke wrote and directed an American [[remake]] [[Funny Games (2007 film)|of the same name]], released in 2007. It stars [[Tim Roth]], [[Michael Pitt]], [[Brady Corbet]] and [[Naomi Watts]].<ref>{{cite magazine | date = 12 March 2008 | last = Gleiberman | first = Owen | author-link = Owen Gleiberman | title = Funny Games | magazine = [[Entertainment Weekly]] | url = https://ew.com/article/2008/03/12/funny-games-2/ |access-date= 10 January 2020 }}</ref>
+
+==See also==
+* [[List of films featuring home invasions]]
+
+* [[List of films featuring psychopaths and sociopaths]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+* {{cite book|last=Peucker|first=Brigitte|author-link=Brigitte Peucker|year=2007|title=The Material Image: Art and the Real in Film|publisher=[[Stanford University Press]]|location=Stanford, California|isbn=978-0-804-75431-6}}
+
+==External links==
+* {{IMDb title|0119167}}
+* {{rotten-tomatoes|1083791-funny_games}}
+* [https://www.criterion.com/current/posts/6347-funny-games-don-t-you-want-to-see-how-it-ends ''Funny Games: Don't You Want to See How It Ends?''] an essay by [[Bilge Ebiri]] at the [[Criterion Collection]]
+
+{{Michael Haneke}}
+
+{{Authority control}}
+
+[[Category:1997 drama films]]
+[[Category:1997 crime thriller films]]
+[[Category:1997 independent films]]
+[[Category:1997 multilingual films]]
+[[Category:1997 psychological thriller films]]
+[[Category:1997 German-language films]]
+[[Category:1997 French-language films]]
+[[Category:1990s serial killer films]]
+[[Category:Austrian multilingual films]]
+[[Category:Austrian crime thriller films]]
+[[Category:Austrian drama films]]
+[[Category:Austrian independent films]]
+[[Category:Films about home invasion]]
+[[Category:Films about hostage takings]]
+[[Category:Films about psychopaths and sociopaths]]
+[[Category:Films about torture]]
+[[Category:Films about vacationing]]
+[[Category:Films directed by Michael Haneke]]
+[[Category:Films set in Austria]]
+[[Category:Films set in country houses]]
+[[Category:Films set on lakes]]
+[[Category:Obscenity controversies in film]]
+[[Category:Self-reflexive films]]
+[[Category:1997 Austrian films]]

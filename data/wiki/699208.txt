@@ -1,0 +1,315 @@
+{{short description|2004 film by Jon Turteltaub}}
+{{about|the 2004 film|the franchise|National Treasure (franchise)}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=June 2017}}
+{{Infobox film
+| name           = National Treasure
+| image          = Movie national treasure.JPG
+| caption        = Theatrical release poster
+| director       = [[Jon Turteltaub]]
+| producer       = {{Plainlist|
+* [[Jerry Bruckheimer]]
+* Jon Turteltaub}}
+| screenplay     = {{Plainlist|
+* [[Jim Kouf]]
+* [[Cormac and Marianne Wibberley|Cormac Wibberley<br>Marianne Wibberley]]
+}}
+| story          = {{Plainlist|
+* Jim Kouf
+* Oren Aviv
+* [[Charles Segars]]}}
+| starring       = {{Plainlist|<!--- Per poster billing. --->
+* [[Nicolas Cage]]
+* [[Harvey Keitel]]
+* [[Jon Voight]]
+* [[Diane Kruger]]
+* [[Sean Bean]]
+* [[Justin Bartha]]
+* [[Christopher Plummer]]}}
+| music          = [[Trevor Rabin]]
+| cinematography = [[Caleb Deschanel]]
+| editing        = [[William Goldenberg]]
+| studio         = {{Plainlist|
+* [[Walt Disney Pictures]]
+* [[Jerry Bruckheimer Films]]
+* Junction Entertainment
+* [[Saturn Films]]}}
+| distributor    = [[Buena Vista Pictures Distribution]]
+| released       = {{Film date|2004|11|19}}
+| runtime        = 131 minutes
+| country        = United States
+| language       = English
+| budget         = $100 million<ref name="BOM">{{Cite web | url = https://www.boxofficemojo.com/movies/?id=nationaltreasure.htm | title = Box office statistics for ''National Treasure'' (2004) | website = [[Box Office Mojo]] | access-date = April 10, 2007}}.</ref>
+| gross          = $347.5 million<ref name="BOM" />
+}}
+'''''National Treasure''''' is a 2004 [[action-adventure film|action-adventure]] [[heist film]]<ref>{{cite web | url=https://www.tonganoxiemirror.com/news/2004/nov/18/national_treasure_cashes/ | title='National Treasure' cashes in on wacky heist }}</ref> released by [[Walt Disney Pictures]]. It was directed by [[Jon Turteltaub]], written by [[Jim Kouf]] and the [[Cormac and Marianne Wibberley|Wibberleys]], and produced by [[Jerry Bruckheimer]]. It is the first film in the [[National Treasure (franchise)|''National Treasure'' franchise]] and stars [[Nicolas Cage]] in the lead role, [[Harvey Keitel]], [[Jon Voight]], [[Diane Kruger]], [[Sean Bean]], [[Justin Bartha]] and [[Christopher Plummer]]. In the film, Benjamin Franklin Gates, a historian, along with computer expert Riley Poole and archivist Abigail Chase, search for a massive lost [[Freemason]] treasure, which includes a map hidden on the back of the [[United States Declaration of Independence]].
+
+''National Treasure'' was released worldwide on November 19, 2004. The film grossed $347 million worldwide and received mixed reviews from critics. A sequel, ''[[National Treasure: Book of Secrets]]'', was released in 2007.
+
+A sequel television series, ''[[National Treasure: Edge of History]]'', premiered on the [[Disney+]] streaming service in 2022.
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. -->
+
+In 1974, a child named Benjamin Franklin Gates is told by his grandfather about a fabled treasure hidden in America. The treasure, passed down from ancient times to the [[Knights Templar]], [[Founding Fathers]], and [[Freemasons]], has long been the obsession of the entire Gates family. In 1832, a dying [[Charles Carroll of Carrollton|Charles Carroll]] told their ancestor Thomas Gates about the treasure, leaving him with the cryptic phrase "the secret lies with Charlotte." While the story convinces Ben, his skeptical father, Patrick, dismisses it as nonsense.
+
+Thirty years later, Ben is an American historian, [[cryptographer]], and treasure hunter. He and his friend, computer expert Riley Poole, head an expedition financed by wealthy Englishman Ian Howe to find the ''Charlotte'', revealed to be a ship found in the [[Arctic]]. Within the ship, they find a [[meerschaum pipe]]. Its engravings reveal the next clue is a map hidden on the back of the [[United States Declaration of Independence|Declaration of Independence]]. When Ian reveals himself as a [[crime boss]] and suggests stealing the Declaration, a fight ensues, and the group splits. Ben and Riley report Ian's plan to the [[FBI]], and to Dr. Abigail Chase of the [[National Archives and Records Administration]], but are not believed. Ben decides to protect the Declaration by stealing it from the Archives' preservation room during a gala event before Ian does. Obtaining Abigail's fingerprints, he successfully acquires the Declaration, but is spotted by Ian's group just as they break in to steal it. Ben tries to leave via the [[gift shop]] but has to pay for the Declaration when the cashier mistakes it for a souvenir copy. Suspecting something amiss, Abigail confronts Ben and takes back the document. Ian promptly kidnaps her, but Ben and Riley rescue Abigail, tricking Ian by leaving behind a souvenir copy of the Declaration. The FBI, led by Special Agent Peter Sadusky, begins hunting Ben.
+
+Fleeing to Patrick's house, the trio studies the Declaration and discovers a [[book cipher]] written in invisible ink. The message refers to [[Benjamin Franklin]]'s [[Silence Dogood]] letters. Patrick formerly owned them but donated them to the [[Franklin Institute]]. Patrick scolds the trio for their naivete, believing the treasure was invented as a hoax by American revolutionaries to distract the British. He discovers their thievery of the Declaration and mourns his son's choices. Several hours later, the FBI discovers Patrick, tied to a chair by Ben, who has left for Philadelphia. 
+
+Paying a schoolboy to view the letters at the Institute and help them crack the cipher, Ben, Riley, and Abigail discover a message leading to [[Independence Hall]]'s bell tower. Ian also pieces together the clue. At the tower, Ben cuts out a marked brick containing a pair of spectacles with multiple colored lenses, which, when used to read the back of the Declaration, reveal a clue pointing to [[Trinity Church (Manhattan)|Trinity Church]]. Ian's associates chase the trio through [[Philadelphia]] until the FBI arrests Ben. Abigail and Riley lose the Declaration to Ian, but Abigail convinces Ian to help them rescue Ben in exchange for the next clue. Ian agrees, contacts the FBI, and arranges a meeting at the [[Intrepid Museum|USS ''Intrepid'']], where they help Ben escape the FBI.
+
+Ian returns the Declaration and asks for the next clue, but when Ben remains coy, Ian reveals he has taken Patrick hostage. The group travels to the Trinity Church, where they find an underground passage that appears to lead to a dead end, lit by a lone lantern. Patrick claims it is a reference to the Midnight Ride of [[Paul Revere]], pointing Ian to the [[Old North Church]] in [[Boston]], a claim that Ben supports. Ian traps the group in the chamber and leaves for Boston. Ben and Patrick reveal they lied to get Ian out of the way, having anticipated his betrayal. Ben finds a secret door; however, they discover only an empty room. Despairing, Ben believes the treasure was moved or stolen, and that his quest has been in vain. Patrick encourages Ben to continue pursuing the treasure, having regained his faith in its existence. 
+
+Ben then finds a notch the meerschaum pipe from the ''Charlotte'' fits into and found out the pipe is also a key to open the treasure room, opening a large chamber containing the treasure, with a staircase to the surface. Ben meets with Sadusky—himself a Freemason—at ground level to return the Declaration. In exchange for dropping the charges on him, Abigail, and Riley, Ben decides to donate the treasure to museums worldwide, crediting the Gates family and Riley for the discovery, and helps the FBI track down Ian. Ian and his henchmen are quickly arrested while breaking into the Old North Church in Boston.
+
+Later, Ben and Abigail start a relationship, and Riley is somewhat upset that Ben turned down the 10% finder's fee for the treasure. However, the 1% he did accept has made them all wealthy, with Riley owning a brand new [[Ferrari|Ferrari 360]], while Ben and Abigail enjoy each other's company at their new lavish mansion.
+
+==Cast==
+{{multiple image
+  | direction = horizontal |total_width = 300
+  | footer = [[Nicolas Cage]] in 2011 (''left'') and [[Sean Bean]] in 2015
+  | image1 = Nicolas Cage 2011 CC.jpg
+  | alt1   = A caucasian man with short brown hair. He is looking towards the right and has a microphone in front of him.
+  | image2 = Sean Bean TIFF 2015.2.jpg
+  | alt2   = A caucasian man with short dirty blonde hair. He is looking towards the left and is wearing a suit.
+}}
+* [[Nicolas Cage]] as Benjamin Franklin Gates:<ref>{{cite web |url=https://www.mondofox.it/2018/04/13/il-mistero-dei-templari-national-treasure-trama-e-cast-del-primo-film-con-nicolas-cage/ |title=Il mistero dei Templari - National Treasure, trama e cast del primo film con Nicolas Cage |last=Vitale |first=Simona |access-date=12 May 2018 |work=Mondo Fox |language=it |publisher=[[Fox Networks Group]] |archive-date=May 13, 2018 |archive-url=https://web.archive.org/web/20180513152102/https://www.mondofox.it/2018/04/13/il-mistero-dei-templari-national-treasure-trama-e-cast-del-primo-film-con-nicolas-cage/ |url-status=dead }}</ref> An American treasure hunter and cryptographer.
+** [[Hunter Gomez]] as young Benjamin Gates
+* [[Sean Bean]] as Ian Howe: An entrepreneur, crime boss and treasure hunter who is a former friend of Benjamin Gates.<ref name="SeanBean" />
+* [[Diane Kruger]] as Dr. Abigail Chase: An archivist at the National Archives who aids Benjamin Gates in treasure hunting.
+* [[Justin Bartha]] as Riley Poole: A sardonic computer expert and friend of Benjamin Gates.
+* [[Jon Voight]] as Patrick Henry Gates: A former treasure hunter and the father of Benjamin Gates.
+* [[Harvey Keitel]] as Agent Peter Sadusky: An FBI Special Agent in pursuit of the stolen Declaration of Independence.
+* [[Christopher Plummer]] as John Adams Gates: The father of Patrick Gates and the grandfather of Benjamin Gates.
+
+[[David Dayan Fisher]] appears as Shaw, [[Stewart Finlay-McLennan]] as Powell, [[Oleg Taktarov]] as Viktor Shippen, and Stephen Pope as Phil McGregor (Ian's henchmen); [[Annie Parisse]], [[Mark Pellegrino]], [[Armando Riesco]], and [[Erik King]] play agents Dawes, Ted Johnson, Hendricks, and Colfax, respectively. [[Don McManus]] appears as Dr. Stan Herbert, [[Arabella Field]] appears as Abigail's secretary. [[Sharon Wilkins]] portrays a butcher. [[Jason Earles]] portrays Thomas Gates, and Terrence Currier portrays Founding Father [[Charles Carroll of Carrollton|Charles Carroll]].
+
+==Production==
+
+===Development===
+By early 1999, it was revealed that [[Jon Turteltaub]] was developing ''National Treasure'' based on an idea developed by Oren Aviv and [[Charles Segars]] in 1997, with a script by [[Jim Kouf]].<ref name="Variety1" /> By 2001, the project was relocated to [[Touchstone Pictures]].<ref name="Variety2" />
+
+[[Image:NationalTreasureFilmSet.jpg|thumb|Film set for the underground chambers beneath Trinity Church]]
+In May 2003, [[Nicolas Cage]] was cast as the lead.<ref name="NicolasCage" /> New drafts were written by nine scribers, including [[Cormac and Marianne Wibberley]],<ref name="NicolasCage" /> [[E. Max Frye]], and [[Jon Turteltaub]].<ref name="Draft2003"/> By October, [[Sean Bean]] was cast.<ref name="SeanBean"/>
+
+===Filming locations===
+''National Treasure'' was filmed primarily in [[Los Angeles]], [[Washington, D.C.]], [[New York City]], [[Philadelphia]] and [[Utah]]. Most scenes were filmed [[Location shooting|on location]], with the exceptions of the [[Independence Hall]] scene, portions of which were filmed at the replica of Independence Hall at [[Knott's Berry Farm]], and the Arctic scene, which was filmed in Utah.<ref name="imdblocations">{{cite web|title=Locations for National Treasure |work=Internet Movie Database |url=https://www.imdb.com/title/tt0368891/locations |access-date=March 2, 2013}}</ref>
+
+==Soundtrack==
+{{Infobox album
+| name       = National Treasure (Original Score)
+| type       = film
+| artist     = [[Trevor Rabin]]
+| cover      =
+| alt        =
+| released   = November 16, 2004
+| recorded   = 2004
+| venue      =
+| studio     =
+| genre      = Stage & screen
+| length     = {{Duration|m=38|s=45}}
+| label      = [[Hollywood Records|Hollywood]]
+| producer   = Trevor Rabin
+| prev_title =
+| prev_year  =
+| next_title =
+| next_year  =
+}}
+
+{{music ratings
+|rev1=[[AllMusic]]
+|rev1score={{rating|3|5}}<ref>{{cite web|url=https://www.allmusic.com/album/national-treasure-original-score-mw0000633171|title=Trevor Rabin, National Treasure (Original Score)| publisher=[[AllMusic.com]] | first=Richie | last=Unterberger| access-date=December 10, 2015}}</ref>
+}}
+
+{{Track listing
+| all_writing = [[Trevor Rabin]]
+| title1 = National Treasure Suite
+| length1 = 3:17
+| title2 = Ben
+| length2 = 4:03
+| title3 = Finding Charlotte
+| length3 = 1:04
+| title4 = Library of Congress
+| length4 = 2:27
+| title5 = Preparation Montage
+| length5 = 4:53
+| title6 = Arrival at National Archives
+| length6 = 1:54
+| title7 = The Chase
+| length7 = 4:22
+| title8 = Declaration of Independence
+| length8 = 1:43
+| title9 = Foot Chase
+| length9 = 3:34
+| title10 = Spectacle Discovery
+| length10 = 3:18
+| title11 = Interrogation
+| length11 = 4:30
+| title12 = Treasure
+| length12 = 3:39
+| total_length = 38:45
+}}
+
+==Portrayal of the Declaration of Independence==
+The film's suggestion that the original [[U.S. Declaration of Independence|Declaration of Independence]] still has clearly visible ink is inaccurate. The document's ink faded over time due to exposure to damaging lighting, with little ink still existing by 1876.<ref>{{Cite web|url=https://www.popularmechanics.com/technology/a22025447/declaration-of-independence-science/|title = The Declaration of Independence Has Had a Fairly Rough Time, but Preservationists Have Saved It|date = July 3, 2020|website=PopularMechanics.com}}</ref><ref>{{Cite news |url=https://www.washingtonpost.com/local/was-the-declaration-of-independence-defaced-experts-say-yes/2016/10/21/5bb6efaa-96d9-11e6-bb29-bf2701dbe0a3_story.html |title=Was the Declaration of Independence 'defaced'? Experts say yes. |first=Michael E. |last=Ruane |date=October 21, 2016 |newspaper=[[Washington Post]] }}</ref> In addition, the [[U.S. National Archives]] released a video in 2019 that the Declaration of Independence does not contain a hidden treasure map. Instead, "Original Declaration of Independence, dated 4th July 1776" is written along the edge on the back, which served as identification of the document when it was rolled up and stored, as posted by the US National Archives Twitter in a tweet published July 4.<ref>{{Cite web |title=The Declaration of Independence |publisher=U.S. National Archives |url=https://www.archives.gov/founding-docs/declaration |archive-date=22 July 2025 |archive-url=https://web.archive.org/web/20250722175826/https://www.archives.gov/founding-docs/declaration }}</ref><ref>{{cite web | last=Mays | title=National Treasure: US National Archives Says Declaration of Independence Doesn't Have Hidden Treasure Map | date=8 July 2019 |url=https://comicbook.com/movies/2019/07/08/us-national-archives-confirms-declaration-of-independence-no-secret-map-national-treasure-movie/}}</ref>
+
+==Reception==
+===Box office===
+''National Treasure'' earned $11,119,073 on its opening day in the United States, ranking first ahead of ''[[The SpongeBob SquarePants Movie]]'' (which earned $9,559,752).<ref>{{cite web|url=https://www.boxofficemojo.com/daily/chart/?sortdate=2004-11-19&p=.htm|title=Daily Box Office for Friday, November 19, 2004|website=Box Office Mojo|year=2004}}</ref><ref>{{cite web|last=Duong|first=Senh|title=BOX OFFICE: Friday Estimates - 1. ?Treasure? $11M, 2. ?Square pants? $9.4M|url=https://www.rottentomatoes.com/m/spongebob_squarepants_movie/news/1644425/box_office__friday_estimates_-_1_treasure_11m_2_square_pants_94m/|publisher=Rotten Tomatoes|access-date=August 18, 2013|date=November 20, 2004}}</ref> It grossed $35,142,554 during its opening weekend, on 4,300 screens at 3,243 theaters, averaging $11,648 per venue.<ref name="OW">{{cite web|title=November 19-21, 2004 Weekend|url=https://www.boxofficemojo.com/weekend/chart/?yr=2004&wknd=47&p=.htm|website=Box Office Mojo|access-date=August 18, 2013}}</ref><ref>{{cite web|last=Gray|first=Brandon|title='National Treasure,' 'SpongeBob' Clean Up|url=https://www.boxofficemojo.com/news/?id=1573&p=.htm|website=Box Office Mojo|access-date=August 18, 2013|date=November 22, 2004}}</ref><ref name=BBC>{{cite web|title=SpongeBob squeezed at box office|url=https://news.bbc.co.uk/2/hi/entertainment/4031439.stm|publisher=BBC|access-date=August 18, 2013|date=November 22, 2004}}</ref><ref>{{cite web|last=Peterson|first=Todd|title=Treasure Makes Bank at the Box Office|url=https://people.com/movies/treasure-makes-bank-at-the-box-office/|work=People|access-date=August 18, 2013|date=November 22, 2004}}</ref> The film had the best opening weekend for a Disney film released in November until it was surpassed by ''[[Chicken Little (2005 film)|Chicken Little]]'' in 2005. It held on to the No. 1 spot for three weekends. In Japan, ''National Treasure'' bested the double-billing ''[[MegaMan NT Warrior|MegaMan NT Warrior: Program of Light and Dark]]'' and ''[[Duel Masters|Duel Masters: Curse of the Deathphoenix]]'', grossing $11,666,763 in its first week. The film closed on June 2, 2005, with a domestic gross of $173,008,894 and earning $174,503,424 internationally. Worldwide, ''National Treasure'' grossed over $347,512,318, against a budget of $100 million.<ref name="BOM"/>
+
+===Critical reception===
+On [[Rotten Tomatoes]], the film has an approval rating of 47% based on 176 reviews, and an average rating of 5.30/10. The site's consensus reads, "''National Treasure'' is no treasure, but it's a fun ride for those who can forgive its highly improbable plot."<ref>{{cite web |url=https://rottentomatoes.com/m/national_treasure/ |title=National Treasure |work= [[Rotten Tomatoes]] |access-date=January 21, 2021 }}</ref> On [[Metacritic]], the film has a score of 40 out of 100, based on 35 critics, indicating "mixed or average reviews".<ref>{{cite web |url=https://www.metacritic.com/movie/national-treasure |title=National Treasure |work=[[Metacritic]] |access-date=May 23, 2015}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on an A+ to F scale.<ref>{{cite web |author=Mark Hofmeyer | date= November 19, 2019 |title= 5 Reasons National Treasure Is Still a Fan Favorite |url= https://editorial.rottentomatoes.com/article/5-reasons-national-treasure-is-still-a-fan-favorite/ |website= [[Rotten Tomatoes]] }}</ref><ref>{{cite web |date=November 22, 2004 |author1=Brandon Gray |title='National Treasure,' 'SpongeBob' Clean Up |url=https://www.boxofficemojo.com/article/ed3262514180/ |website=Box Office Mojo |quote=Families made up 24% of moviegoers and couples were 55%, while, gender-wise, males were the majority at 55%. Opening night attendees gave the picture an "A-" on average}}</ref><ref>{{cite web |url= https://www.cinemascore.com/publicsearch/index/title/ |title= Cinemascore |url-status= dead |archive-url= https://web.archive.org/web/20181220122629/https://www.cinemascore.com/publicsearch/index/title/ |archive-date= 2018-12-20 }}</ref>
+
+[[Roger Ebert]] gave the film 2/4 stars, calling it "so silly that the [[Monty Python]] version could use the same screenplay, line for line."<ref>{{cite news |last=Ebert |first=Roger |url=https://www.rogerebert.com/reviews/national-treasure-2004 |work=[[Chicago Sun-Times]] |title=National Treasure }}</ref> Academic [[David Bordwell]] has expressed a liking for the film, placing it in the tradition of 1950s [[Walt Disney Pictures|Disney]] children's adventure movies,<ref>{{cite web |last=Bordwell |first=David |title=Your trash, my Treasure |url=http://www.davidbordwell.net/blog/?p=1781 |date=January 5, 2008 |access-date=January 30, 2010}}</ref> and using it as the basis for an essay on scene transitions in [[classical Hollywood cinema]].<ref>{{cite web |last=Bordwell |first=David |title=The Hook: Scene Transitions in Classical Cinema |url=http://www.davidbordwell.net/essays/hook.php |date=January 2008 |access-date=January 30, 2010}}</ref>
+
+==Accolades==
+{{Anchor|Awards|Accolades}}
+{| class="wikitable sortable" border="1" style="text-align: center"
+|-
+! Year
+! Award
+! Category
+! Notes
+! Result
+|-
+| 2005
+| BMI Film & TV Awards
+| BMI Film Music Award
+| BMI Film Music Award for Trevor Rabin
+| {{won}}
+|-
+| 2005
+| rowspan="2" |Academy of Science Fiction, Fantasy & Horror Films, USA
+| Saturn Award for Best Action/Adventure/Thriller Film
+|
+| {{nom}}
+|-
+| 2005
+| Saturn Award for Best Supporting Actress
+| [[Diane Kruger]]
+| {{nom}}
+|-
+| 2005
+| Teen Choice Awards
+| Movie: Action/Adventure
+|
+| {{nom}}
+|-
+| 2005
+| Visual Effects Society Awards
+| Outstanding Models and Miniatures in a Motion Picture
+| Matthew Gratzner, Forest Fischer, Scott Beverly,<br />and Leigh-Alexandra Jacob, for the treasure room
+| {{nom}}
+|-
+| 2005
+| World Stunt Awards
+| Taurus Award for Best Overall Stunt by a Stunt Woman
+| Lisa Hoyle
+| {{nom}}
+|-
+| 2005
+| Young Artist Awards
+| Best Family Feature Film: Drama
+|
+| {{nom}}
+|-
+| 2005
+| Young Artist Awards
+| Best Performance in a Feature Film, Supporting Young Actor
+| [[Hunter Gomez]]
+| {{nom}}
+|-
+|}
+
+==Home media==
+''National Treasure'' was released on Disney DVD in May 2005. In keeping with the movie's theme, the DVD contains a "Bonus Treasure Hunt": viewers who watch the Special Features on the disc are rewarded with puzzles and codes that unlock more features.
+
+===Collector's Edition DVD===
+To help promote ''Book of Secrets'', a special collector's edition, two-disc DVD set of the movie was released on December 18, 2007. The set features a bonus disc containing additional deleted scenes and documentaries.<ref>{{cite web|url=http://www.dvdmg.com/nationaltreasurece.shtml|title=Collectors Edition|publisher=dvdmg.com|access-date=March 8, 2018}}</ref>
+
+===Blu-ray===
+[[Walt Disney Studios Home Entertainment]] released [[Blu-ray]] versions of ''National Treasure'' and its sequel, ''National Treasure 2: Book of Secrets'', on May 20, 2008.<ref>{{cite web | url= http://bluray.highdefdigest.com/pressrelease_disney2008bluray.html | title= Walt Disney Studios Home Entertainment Announces the Disney Blu-Ray Title Wave Coming 2008 | date= August 17, 2007 | publisher= High-Def Digest | access-date= September 27, 2007 | archive-date= September 27, 2007 | archive-url= https://web.archive.org/web/20070927230421/http://bluray.highdefdigest.com/pressrelease_disney2008bluray.html | url-status= dead }}</ref>
+
+==Sequels==
+{{main|National Treasure (franchise)}}
+Although the DVD commentary stated that there were no plans for a sequel, the film's box office gross of an unexpected $347.5 million worldwide warranted a second film, which was given the green light in 2005. ''[[National Treasure: Book of Secrets]]'' was released on December 21, 2007.
+
+In 2008, director Jon Turteltaub said that the filmmaking team would take its time on another ''National Treasure'' sequel.<ref>{{cite web | publisher = Canoe | place = [[Canada|CA]] | url = http://jam.canoe.com/Video/DVD_Column/2008/05/30/5721241-sun.html | archive-url = https://web.archive.org/web/20150723043246/http://jam.canoe.com/Video/DVD_Column/2008/05/30/5721241-sun.html | url-status = dead | archive-date = July 23, 2015 | title = 'National Treasure 3' in works | first = Bruce | last = Kirkland | work = Jam! | date = May 30, 2008 | df = mdy-all }}</ref> In October 2013, Turteltaub confirmed that he, the studio, producer Jerry Bruckheimer, and the actors all wanted to do a third film, saying: "We want to do the movie, Disney wants to do the movie. We're just having the damnedest time writing it. I'll bet that within two years, we'll be shooting that movie. I'd say we're about halfway there."<ref>{{cite web |url=http://www.darkhorizons.com/news/29299/a-national-treasure-3-is-on-the-way |title=A "National Treasure 3" Is On The Way?|last=Franklin|first=Garth|website=Dark Horizons|date=22 October 2013|access-date=March 21, 2018|archive-url=https://web.archive.org/web/20140331140233/http://www.darkhorizons.com/news/29299/a-national-treasure-3-is-on-the-way|archive-date=March 31, 2014|url-status=dead}}</ref> In May 2016, Cage confirmed the film was still in the writing process,<ref>{{cite web |url=https://collider.com/national-treasure-3-nicolas-cage/ |title='National Treasure 3': Nic Cage Says the Writers Are Still Fact-Checking|website=[[Collider (website)|Collider]] |date=May 25, 2016}}</ref> and in July 2018, Turtletaub reiterated that a script for a possible third film was "close", but Disney still was not completely sold on it.<ref>{{cite web |url=https://uproxx.com/movies/national-treasure-3-delay-explained/ |title=The Director Of 'National Treasure' Explains Why We Haven't Gotten A Third Movie Yet|date=July 30, 2018|access-date=July 30, 2018|author=Alyssa Fikse|publisher=[[Uproxx]]}}</ref> In January 2020, it was announced that Chris Bremner, the writer of ''[[Bad Boys for Life]]'', would write a new script.<ref>{{cite news|last=Kit|first=Borys|url=https://www.hollywoodreporter.com/heat-vision/bad-boys-4-works-1269915|title='Bad Boys 4' in the Works (Exclusive) |work=[[The Hollywood Reporter]] |date=January 17, 2020|access-date=January 17, 2020}}</ref>
+
+In May 2020, [[Jerry Bruckheimer]] confirmed that, not only was there a third film in development with the original cast returning, but also that a [[Disney+]] series was in the works with the same premise as the original, but focusing on a much younger cast.<ref>{{Cite web|title=Exclusive: 'National Treasure' Disney+ Series In Development |url=https://collider.com/national-treasure-disney-plus-tv-series/ |last=Mancuso|first=Vinnie|date=2020-05-07|website=Collider |access-date=2020-05-07}}</ref>
+
+In an April 2022 "[[R/IAmA|Ask Me Anything]]" thread on [[Reddit]], Cage responded to a question about his involvement in possible future installments: "No, the priority was to turn it into a TV show so I would say probably not."<ref>{{Cite web|title=r/movies Nicolas Cage's AMA |url=https://www.reddit.com/r/movies/comments/tzxev3/hello_im_nicolas_cage_and_welcome_to_ask_me/i42fygo/?context=3 |website=Reddit |date=2022-04-10}}</ref><ref>{{Cite web |last=DiBenedetto |first=Chase |date=2022-04-10 |title=Nicolas Cage's Reddit AMA was a nostalgic, honest delight |url=https://mashable.com/article/nicolas-cage-reddit-ama |access-date=2023-05-16 |website=Mashable |language=en}}</ref> However, in October 2025, Bruckheimer stated that the script for a third film is nearing completion and Cage is slated to reprise his role.<ref name="Part3_SR">{{cite web|url=https://screenrant.com/national-treasure-3-nicolas-cage-return-update/|work=ScreenRant|title=National Treasure 3 Update: Nicolas Cage's Return Teased by Producer Jerry Bruckheimer|author=Northrup, Ryan|date=October 1, 2025|accessdate=October 12, 2025}}</ref>
+
+==See also==
+* [[Arnold Cipher]]
+* [[Beale ciphers]]
+
+==References==
+{{Reflist|refs=
+<ref name="Variety1">{{cite web|url=https://variety.com/1999/film/news/treasure-found-1117491542/|title='Treasure' found|first1=Dan|last1=Cox|first2=Benedict|last2=Carver|publisher=[[Variety (magazine)|Variety]]|date=February 22, 1999|access-date=October 5, 2016|archive-url=https://web.archive.org/web/20161006143909/http://variety.com/1999/film/news/treasure-found-1117491542/|archive-date=October 6, 2016|url-status=live|df=mdy-all}}</ref>
+
+<ref name="NicolasCage">{{cite web|url=https://variety.com/2003/film/markets-festivals/cage-unearths-treasure-1117886974/|title=Cage unearths 'Treasure'|first=Michael|last=Fleming|publisher=[[Variety (magazine)|Variety]]|date=May 27, 2003|access-date=October 5, 2016|archive-url=https://web.archive.org/web/20161006050857/http://variety.com/2003/film/markets-festivals/cage-unearths-treasure-1117886974/|archive-date=October 6, 2016|url-status=live|df=mdy-all}}</ref>
+
+<ref name="Variety2">{{cite web|url=https://variety.com/2001/film/news/helmer-digs-for-treasure-1117850589/|title=Helmer digs for 'Treasure'|first=Michael|last=Fleming|publisher=[[Variety (magazine)|Variety]]|date=July 31, 2001|access-date=October 5, 2016|archive-url=https://web.archive.org/web/20161006051926/http://variety.com/2001/film/news/helmer-digs-for-treasure-1117850589/|archive-date=October 6, 2016|url-status=live|df=mdy-all}}</ref>
+
+<ref name="Draft2003">{{cite web|url=http://www.patriotresource.com/nationaltreasure/insights/030409.pdf|title=National Treasure Draft|author=The Wibberley's|publisher=Patriot Resource|date=April 9, 2003|access-date=October 5, 2016|archive-url=https://web.archive.org/web/20150924065125/http://www.patriotresource.com/nationaltreasure/insights/030409.pdf|archive-date=September 24, 2015|url-status=live|df=mdy-all}}</ref>
+
+<ref name="SeanBean">{{cite web|url=https://variety.com/2003/scene/people-news/sean-bean-2-1117893976/|title=Sean Bean|last1=Feiwell|first1=Jill|first2=Dana|last2=Harris|publisher=[[Variety (magazine)|Variety]]|date=October 13, 2003|access-date=October 5, 2016|archive-url=https://web.archive.org/web/20161006053913/http://variety.com/2003/scene/people-news/sean-bean-2-1117893976/|archive-date=October 6, 2016|url-status=live|df=mdy-all}}</ref>
+
+<!-- <ref name="CageInterview">{{cite web|url=http://www.blackfilm.com/20041112/features/nicolascage.shtml|title=National Treasure: An Interview with Nicolas Cage|last=Gilchrist|first=Todd|publisher=blackfilm.com|date=November 12, 2004|access-date=October 5, 2016|archive-url=https://web.archive.org/web/20160822012452/http://blackfilm.com/20041112/features/nicolascage.shtml|archive-date=August 22, 2016|url-status=live}}</ref> -->}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* {{Official website|http://movies.disney.com/national-treasure}}
+* {{IMDb title|0368891}}
+* {{Mojo title|nationaltreasure}}
+* {{Rotten Tomatoes|national_treasure}}
+
+{{National Treasure films}}
+{{Jon Turteltaub}}
+{{Jerry Bruckheimer}}
+{{Authority control}}
+{{Portal bar|Film|Disney|2000s|United States|}}
+
+[[Category:National Treasure (film series)]]
+[[Category:2000s heist films]]
+[[Category:2004 adventure films]]
+[[Category:2004 American films]]
+[[Category:2004 English-language films]]
+[[Category:2004 films]]
+[[Category:American adventure films]]
+[[Category:American heist films]]
+[[Category:American Revolutionary War films]]
+[[Category:Cultural depictions of Benjamin Franklin]]
+[[Category:Cultural depictions of Thomas Jefferson]]
+[[Category:English-language adventure films]]
+[[Category:English-language crime films]]
+[[Category:Fiction about cryptography]]
+[[Category:Films about conspiracy theories]]
+[[Category:Films about Freemasonry]]
+[[Category:Films about George Washington]]
+[[Category:Films about the Knights Templar]]
+[[Category:Films about treasure hunting]]
+[[Category:Films directed by Jon Turteltaub]]
+[[Category:Films produced by Jerry Bruckheimer]]
+[[Category:Films scored by Trevor Rabin]]
+[[Category:Films set in 1974]]
+[[Category:Films set in 2004]]
+[[Category:Films set in Massachusetts]]
+[[Category:Films set in New Jersey]]
+[[Category:Films set in New York City]]
+[[Category:Films set in Pennsylvania]]
+[[Category:Films set in Philadelphia]]
+[[Category:Films set in Washington, D.C.]]
+[[Category:Films shot in New York City]]
+[[Category:Films with screenplays by Cormac and Marianne Wibberley]]
+[[Category:Films with screenplays by Jim Kouf]]
+[[Category:Hollywood Records soundtracks]]
+[[Category:Jerry Bruckheimer Films films]]
+[[Category:Museums in popular culture]]
+[[Category:Saturn Films films]]
+[[Category:Secret histories]]
+[[Category:United States Declaration of Independence]]
+[[Category:Walt Disney Pictures films]]

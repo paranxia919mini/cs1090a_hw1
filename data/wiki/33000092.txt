@@ -1,0 +1,67 @@
+{{short description|1939 film by John Brahm}}
+{{Use American English|date=August 2026}}
+{{use mdy dates |date=August 2020}}
+{{Infobox film
+| name           = Let Us Live
+| image          = Let Us Live poster.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[John Brahm]]
+| producer       = [[William Perlberg]]
+| screenplay     = [[Anthony Veiller]]<br>[[Allen Rivkin]]
+| based_on       = {{based on|''Murder in Massachusetts''<br>1936 ''[[Harper's Magazine]]''|[[Joseph F. Dinneen]]}}
+| starring       = [[Maureen O'Sullivan]]<br>[[Henry Fonda]]<br>[[Ralph Bellamy]]
+| music          = [[Karol Rathaus]]
+| cinematography = [[Lucien Ballard]]
+| editing        = [[Al Clark (film editor)|Al Clark]]
+| studio         = Columbia Pictures
+| distributor    = [[Columbia Pictures]]
+| released       = {{Film date|1939|03|29}}
+| runtime        = 68 minutes
+| country        = United States
+| language       = English
+| budget         = 
+}}
+
+'''''Let Us Live''''' is a 1939 American [[crime film]] directed by [[John Brahm]] starring [[Maureen O'Sullivan]],  [[Henry Fonda]] and [[Ralph Bellamy]].<ref>{{AFI film|4678|Let Us Live}}</ref><ref>[https://www.tcm.com/this-month/article/179040 Let Us Live]</ref>
+
+The script of the film was adapted from the 1936 [[Harper's Magazine|Harper's Magazine story]] "Murder in Massachusetts" by [[Joseph F. Dinneen]] about [[History of Dedham, Massachusetts, 1900–1999#Millen/Faber trial|a real criminal case]].<ref name="Clarens">{{cite book |title=Crime Movies |last=Clarens |first=Carlos |year=1997 |publisher=Da Capo Press |location=New York, NY |isbn= 978-0306807688|pages= 164–166}}</ref> In 1934 two Boston taxi drivers were identified by several witnesses as the culprits who murdered a man during a theater robbery in [[Lynn, Massachusetts]]. Their trial was in progress for two weeks and it seemed likely that the two were going to be found guilty when the real killers were arrested for another crime and then admitted to the Lynn robbery-murder.<ref>{{cite book |title=Murder and the Death Penalty in Massachusetts |last=Rogers |first=Alan |year=2008 |publisher=Univ. of Massachusetts Press |location=Amherst, MA |isbn= 978-1558496330|pages=344–345|url=https://books.google.com/books?id=1sRSYaLh2wIC&pg=PA345 }}</ref>
+
+Columbia Pictures had planned a much bigger production, but after political pressure from the state of Massachusetts the film's budget and publicity were scaled down considerably, and it was ultimately released as a [[B movie]].<ref name="Clarens" />
+
+==Plot==
+On the eve of his marriage to waitress Mary Roberts, taxi driver "Brick" Tennant is questioned as a murder suspect along with 120 other drivers, because a taxi served as the getaway car in a theater robbery in which a man was killed. When one of the witnesses swears that Brick and his friend, Joe Linden, were the killers, the district attorney, eager for a conviction, brings the taxi drivers to trial even though Brick and Mary were in a church when the robbery took place. Although innocent, Brick and Joe are found guilty and sentenced to die in the electric chair. Mary, however, refuses to give up hope, and when she unearths a bullet from another robbery that was shot from the murder weapon, she convinces police lieutenant Everett that the wrong men have been convicted. To prove Brick and Joe's innocence, Everett and Mary search for the real culprits. As the time of his execution approaches, Brick is transformed from an idealistic youth into a man whose faith in the system has been shattered. On the day of the execution, Mary and Everett finally find the real culprits. The governor then pardons Brick, but although his life has been spared, his faith can never be repaired.
+
+==Cast==
+{{div col}}
+* [[Maureen O'Sullivan]] - Mary Roberts
+* [[Henry Fonda]] - 'Brick' Tennant
+* [[Ralph Bellamy]] - Lieutenant Everett
+* [[Alan Baxter (actor)|Alan Baxter]] - Joe Linden
+* [[Stanley Ridges]] - District Attorney
+* [[Henry Kolker]] - Chief of Police
+* [[George Lynn (actor)|George Lynn]] - Joe Taylor (as Peter Lynn)
+* [[George Douglas (actor)|George Douglas]] - Ed Walsh
+* [[Phillip Trent]] - Frank Burke (as Philip Trent)
+* [[Martin Spellman]] - Jimmy Dugan 
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0031566|Let Us Live}}
+* {{TCMDb title|81247|Let Us Live}}
+* {{AFI film|id=4678|title=Let Us Live}}
+
+{{John Brahm}}
+
+[[Category:1939 films]]
+[[Category:American black-and-white films]]
+[[Category:Columbia Pictures films]]
+[[Category:American crime thriller films]]
+[[Category:Films directed by John Brahm]]
+[[Category:1930s crime thriller films]]
+[[Category:Films produced by William Perlberg]]
+[[Category:1939 American films]]
+[[Category:Films scored by Karol Rathaus]]

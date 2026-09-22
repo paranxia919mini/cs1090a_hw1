@@ -1,0 +1,53 @@
+{{Infobox film
+| name           = The Day a Pig Fell Into the Well
+| image          = The Day the Pig Fell Into the Well movie poster.jpg
+| caption        = Theatrical poster
+| native_name = {{Infobox Korean film name|hangul=^돼지가 우물에 빠진 날}}
+| director       = [[Hong Sang-soo]]
+| producer       =
+| writer         = [[Kyo Hyo-seo]]
+| starring       = [[Kim Eui-sung]]<br />[[Lee Eung-kyung]]<br />[[Jo Eun-sook]]<br />[[Park Jin-song]]<br />[[Bang Eun-hee]]
+| music          = [[Ok Kil-sung]]
+| cinematography = [[Cho Dong-kwan]]
+| editing        = [[Park Gok-ji]]
+| distributor    =
+| released       = {{Film date|df=y|1996|05|15}}
+| runtime        = 115 minutes
+| country        = South Korea
+| language       = Korean
+| budget         = 
+}}
+'''''The Day a Pig Fell Into the Well''''' ({{Korean|hangul=돼지가 우물에 빠진 날}}) is a [[1996 in film|1996]] [[Cinema of South Korea|South Korean]] [[Drama (film and television)|drama film]] and the directorial debut of [[Hong Sang-soo]].<ref>{{Cite news|url=https://variety.com/1997/film/reviews/the-day-a-pig-fell-into-the-well-2-1200448456/|title=The Day a Pig Fell Into the Well|last=Eisner|first=Ken|date=1997-01-13|work=Variety|access-date=2018-10-15|language=en-US}}</ref> It stars [[Bang Eun-hee]], [[Jo Eun-sook]], [[Park Jin-song]], [[Lee Eung-kyung]] and [[Kim Eui-sung]]. It was also the feature film debut of [[Song Kang-ho]]. The title derives from a 1954 book by [[John Cheever]].
+
+Hong earned the Best Director award at the Korean [[Blue Dragon Film Awards]] for his work as well as awards at [[Rotterdam International Film Festival|Rotterdam]] and [[Vancouver International Film Festival|Vancouver]].
+
+==Synopsis==
+The plot focuses on the desires and lives of four characters in diverse circumstances: a poor novelist, a cheating wife, her germophobic husband, and a ticket girl.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{kmdb film|04824|The Day a Pig Fell Into the Well}}
+* {{IMDb title|0116005|The Day a Pig Fell Into the Well}}
+* [http://www.koreanfilm.org/kfilm96.html#pig Korean films of 1996] at koreanfilm.org
+* [http://www.cine21.com/Movies/Mov_Movie/movie_detail.php?id=205 Cine21 profile]
+
+==Bibliography==
+* {{cite book |last=Kim|first=Kyung-hyun|title=The Remasculinization of Korean Cinema|year=2004|publisher=Duke University Press|location=Durham and London|isbn=0-8223-3267-1|pages=223–230|chapter=7. New Korean Cinema Auteurs: Too Early/Too Late: Temporality and Repetition in Hong Sang-su's Films: The Day a Pig Fell into the Well}}
+* {{cite book |last=Gateward|first=Frances K.|title=Seoul searching: culture and identity in contemporary Korean cinema|year=2007|publisher=State University of New York Press|location=New York|isbn=978-0-7914-7226-2|pages=xi, 314 }} see p.&nbsp;133
+
+{{Hong Sang-soo}}
+
+{{DEFAULTSORT:Day a Pig Fell into the Well, The}}
+[[Category:1996 films]]
+[[Category:1996 drama films]]
+[[Category:1996 Korean-language films]]
+[[Category:1996 South Korean films]]
+[[Category:Films directed by Hong Sang-soo]]
+[[Category:South Korean drama films]]
+[[Category:1996 directorial debut films]]
+[[Category:Korean-language drama films]]
+
+
+{{1990s-SouthKorea-film-stub}}

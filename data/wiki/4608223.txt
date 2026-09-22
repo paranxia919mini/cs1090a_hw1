@@ -1,0 +1,472 @@
+{{short description|1961 film directed by Robert Wise and Jerome Robbins}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=July 2014}}
+{{Infobox film
+| name           = West Side Story
+| image          = West Side Story 1961 film poster.jpg
+| alt            = 
+| caption        = Theatrical release poster by [[Joe Caroff]]
+| director       = {{Plainlist|
+* [[Robert Wise]]
+* [[Jerome Robbins]]
+}}
+| screenplay     = [[Ernest Lehman]]
+| based_on       = {{Plainlist|
+* {{Based on|''[[West Side Story]]''<br />1957 musical|Jerome Robbins<br />[[Leonard Bernstein]]<br />[[Stephen Sondheim]]<br />[[Arthur Laurents]]}}
+* {{Based on|''[[Romeo and Juliet]]''|[[William Shakespeare]]}}
+}}
+| producer       = Robert Wise
+| starring       = {{Plainlist|
+* [[Natalie Wood]]
+* [[Richard Beymer]]
+* [[Russ Tamblyn]]
+* [[Rita Moreno]]
+* [[George Chakiris]]
+}}
+| music          = [[Leonard Bernstein]]
+| cinematography = [[Daniel L. Fapp]]
+| editing        = [[Thomas Stanford (film editor)|Thomas Stanford]]
+| studio         = {{Plainlist|
+* [[The Mirisch Company|Mirisch Pictures]]
+* [[Seven Arts Productions]]
+}}
+| distributor    = [[United Artists]]
+| released       = {{Film date|1961|10|18|ref1=<ref name=AFI>{{AFI film|23857}}</ref>}}
+| runtime        = 152 minutes<!--Theatrical runtime: 151:44--><ref>{{cite web|title=''West Side Story'' (PG)|url=https://www.bbfc.co.uk/release/west-side-story-q29sbgvjdglvbjpwwc0ynzm3mzq|website=[[British Board of Film Classification]]|date=January 12, 1962|access-date=June 19, 2013|archive-date=November 13, 2013|archive-url=https://web.archive.org/web/20131113111027/http://www.bbfc.co.uk/releases/west-side-story-scope-70mm|url-status=live}}</ref>
+| country        = United States
+| language       = English
+| budget         = $6.75 million<ref>{{Cite book |last=Mirisch |first=Walter |title=I Thought We Were Making Movies, Not History |publisher=The University of Wisconsin Press |year=2008 |isbn=978-0-299-22640-4 |location=Madison, Wisconsin |page=127 |url=https://uwpress.wisc.edu/books/4336.htm |access-date=August 27, 2020 |archive-date=December 27, 2017 |archive-url=https://web.archive.org/web/20171227122423/https://uwpress.wisc.edu/books/4336.htm |url-status=live}}</ref>
+| gross          = $44.1 million<ref>{{cite web | url=https://www.boxofficemojo.com/title/tt0055614/ | title=West Side Story (1961) | work=[[Box Office Mojo]] | access-date=2021-10-15 | archive-date=October 15, 2021 | archive-url=https://web.archive.org/web/20211015193603/https://www.boxofficemojo.com/title/tt0055614/ | url-status=live}}</ref>
+}}
+
+'''''West Side Story''''' is a 1961 American [[Musical film|musical]] [[romantic drama]] film directed by [[Robert Wise]] and [[Jerome Robbins]], written by [[Ernest Lehman]], and produced by Wise. The film is an adaptation of the 1957 [[West Side Story|Broadway musical of the same title]], which in turn was inspired by [[William Shakespeare|Shakespeare]]'s play ''[[Romeo and Juliet]]''. It stars [[Natalie Wood]], [[Richard Beymer]], [[Russ Tamblyn]], [[Rita Moreno]], and [[George Chakiris]] and was photographed by [[Daniel L. Fapp]] in [[Super Panavision 70]]. The music was composed by [[Leonard Bernstein]], with lyrics by [[Stephen Sondheim]].
+
+Released on October 18, 1961, through [[United Artists]], the film received praise from critics and viewers, and became [[1961 in film|the highest-grossing film of 1961]]. It was nominated for 11 [[Academy Awards]] and won 10, including [[Academy Award for Best Picture|Best Picture]] (in addition to a special award for Robbins), becoming the record holder for the most wins for a musical. ''West Side Story'' is regarded as [[List of films considered the best#Genres or media|one of the greatest musical films of all time]]. The film was designated as being "culturally, historically, or aesthetically significant" by the [[Library of Congress]] and was selected for preservation in the United States [[National Film Registry]] in 1997.<ref name="Berson">{{cite book|url=https://books.google.com/books?id=fBiowVCwTeoC&pg=PA155|title=Something's Coming, Something Good: West Side Story and the American Imagination|last=Berson|first=Misha|publisher=Applause Theatre & Cinema Books|year=2011|page=155|isbn=9781557837660|access-date=March 16, 2016|archive-date=February 28, 2021|archive-url=https://web.archive.org/web/20210228222130/https://books.google.com/books?id=fBiowVCwTeoC&pg=PA155|url-status=live}}</ref> A [[West Side Story (2021 film)|second film adaptation]] by [[Steven Spielberg]] was released in December 2021.
+
+== Plot ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words! -->
+In New York City in 1957, two teenage gangs compete for control on the [[Upper West Side]]. The Jets, a group of whites led by Riff, brawl with the Sharks, [[Stateside Puerto Ricans|Puerto Rican]]s led by Bernardo. Lieutenant Schrank and Officer Krupke arrive and break it up. The Jets challenge the Sharks to a [[Street fighting|rumble]] to be held after an upcoming dance.
+
+Riff wants his best friend Tony, a co-founder and former member of the Jets, to fight at the rumble. Riff invites Tony to the dance, but Tony says he senses something important is coming. Riff suggests it could happen at the dance. Tony finally agrees to go. Meanwhile, Bernardo's younger sister, Maria, tells her best friend and Bernardo's girlfriend, Anita, how excited she is about the dance. At the dance, the two gangs and their girls refuse to intermingle. Tony arrives; he and Maria fall in love instantly, but Bernardo angrily demands that Tony stay away from her and sends her home. Riff proposes a midnight meeting with Bernardo at Doc's drug store to settle the rules for the rumble.
+
+Anita argues that Bernardo is overprotective of Maria, and they compare the advantages of Puerto Rico and the US mainland. Tony sneaks onto Maria's fire escape where they reaffirm their love. Krupke, who suspects the Jets are planning something, warns them not to cause trouble. The Sharks arrive, and the gangs agree to a showdown the following evening under the highway, with a one-on-one fistfight. When Schrank arrives, the gangs feign friendship. Schrank orders the Sharks out and fails to discover information about the fight.
+
+The next day at the bridal shop where they work, Anita accidentally tells Maria about the rumble. Tony arrives to see Maria. Anita, shocked, warns them about the consequences if Bernardo learns of their relationship. Maria makes Tony promise to prevent the rumble. Tony and Maria fantasize about their wedding.
+
+The gangs approach the area under the highway. Tony arrives to stop the fight, but Bernardo antagonizes him. Unwilling to watch Tony be humiliated, Riff initiates a knife fight. Tony intervenes, leading to Bernardo stabbing and killing Riff. Tony kills Bernardo with Riff's knife, and a melee ensues. Police sirens blare, and everyone flees, leaving behind the dead bodies. Maria waits for Tony on the roof of her apartment building; her fiancé Chino (an [[arranged marriage|arranged engagement]]) arrives and tells her what happened. Tony arrives and asks for Maria's forgiveness. He plans to turn himself in to the police. Maria is devastated but confirms her love for Tony and asks him to stay.
+
+The Jets and their new leader, Ice, reassemble outside a garage and focus on reacting to the police. Anybodys arrives and warns them that Chino is after Tony with a gun. Ice sends the Jets to warn Tony. A grieving Anita enters the apartment while Tony and Maria are in the bedroom. The lovers arrange to meet at Doc's, where they will pick up getaway money to elope. Anita spots Tony leaving through the window and chides Maria for the relationship with Bernardo's killer, but Maria convinces her to help them elope. Schrank arrives and questions Maria about the rumble. Maria sends Anita to tell Tony that Maria is detained from meeting him.
+
+[[File:West Side Story (1961) still 2.jpg|thumb|The Jets attacking Anita at Doc's drug store]]
+When Anita reaches Doc's, the Jets harass and sexually assault her, stopping only when Doc appears and intervenes. Anita angrily lies, saying that Chino has killed Maria. Doc banishes the Jets, gives Tony his getaway money and delivers Anita's message. Tony, distraught, runs into the streets, shouting for Chino to kill him, too. In the playground next to Doc's, Tony spots Maria and they run toward each other, only for Chino to shoot Tony. The gangs arrive to find Maria holding Tony, who dies in her arms. Maria takes the gun from Chino and threatens to shoot everyone, blaming their hate for the deaths, but cannot do so. Schrank and Krupke arrive to arrest Chino, and the gangs end their feud by uniting to carry Tony's body away in a funeral procession with Maria following.
+
+== Cast ==
+* [[Natalie Wood]] as Maria, Bernardo's younger sister and Chino's arranged fiancée,<ref name="Miller 2019" /> who falls in love with Tony
+** [[Marni Nixon]] as Maria's singing voice (also Anita's singing voice in Quintet)
+* [[Richard Beymer]] as Tony, co-founder and one-time member of the Jets and best friend of Riff, who works at Doc's drugstore and falls in love with Maria
+** [[Jimmy Bryant (singer)|Jimmy Bryant]] as Tony's singing voice
+* [[Russ Tamblyn]] as Riff, leader of the Jets, best friend of Tony
+** [[Tucker Smith]] as Riff's singing voice for "Jet Song"
+* [[Rita Moreno]] as Anita, Bernardo's girlfriend, and Maria's closest confidante
+** [[Betty Wand]] as Anita's singing voice for "A Boy Like That"
+** Marni Nixon as Anita’s singing voice for "Tonight Quintet"
+* [[George Chakiris]] as Bernardo, leader of the Sharks, older brother of Maria and Anita's boyfriend
+* [[Simon Oakland]] as Lieutenant Schrank, a hard-boiled plainclothes detective
+* [[Ned Glass]] as Doc, Tony's boss; a decent, elderly Jewish drugstore owner
+* [[William Bramley]] as Sergeant Krupke, a brusque beat cop (Bramley played the role in the original Broadway production)
+
+'''Uncredited:'''
+* [[John Astin]] as Glad Hand, well-meaning but ineffective social worker
+* [[Penny Santon]] as Madam Lucia, bridal shop owner
+
+{{Col-begin}}
+{{Col-break}}
+
+=== Jets ===
+<!--This cast list is for the 1961 film, NOT for the musical or any of its revivals.
+If you add cast members here that do not appear in IMDB, you MUST provide a reference.
+-->
+* [[Tucker Smith]] as Ice (a character created for the film), Riff's lieutenant; becomes leader of the Jets after Riff's death
+* [[Tony Mordente]] as Action, a short-tempered Jet.
+* [[David Winters (choreographer)|David Winters]] as A-Rab, Baby John's best friend
+* [[Eliot Feld]] as Baby John, the youngest member of the Jets; a relative innocent
+* [[Bert Michaels]] as Snowboy
+* David Bean as Tiger
+* [[Robert Banas]] as Joyboy
+* [[Anthony 'Scooter' Teague]] as Big Deal
+* [[Harvey Evans]] (Harvey Hohnecker) as Mouthpiece
+* [[Tommy Abbott]] as Gee-Tar
+
+=== Jet girls ===
+<!--This cast list is for the 1961 film, NOT for the musical or any of its revivals.
+If you add cast members here that do not appear in IMDB, you MUST provide a reference.
+-->
+* Susan Oakes as Anybodys, a tomboy and wannabe Jet
+* Gina Trikonis as Graziella, Riff's girlfriend
+* Carole D'Andrea as Velma, Ice's girlfriend
+'''Uncredited:'''
+* Rita Hyde d'Amico as Clarice, Big Deal's girlfriend
+* Pat Tribble as Minnie, Baby John's girlfriend
+* Francesca Bellini as Debby, Snowboy's girlfriend
+* [[Elaine Joyce]] as Hotsie, Tiger's girlfriend
+{{Col-break}}
+
+=== Sharks ===
+<!--This cast list is for the 1961 film, NOT for the musical or any of its revivals.
+If you add cast members here that do not appear in IMDB, you MUST provide a reference.
+-->
+* [[Jose De Vega]] as Chino Martin, Bernardo's best friend, who is the arranged fiancé of Maria<ref name="Miller 2019">{{cite web | last=Miller | first=Robin | title=A story of love and acceptance: Ascension Community Theatre opens 'West Side Story' April 25 | website=The Advocate | date=April 23, 2019 | url=https://www.theadvocate.com/baton_rouge/entertainment_life/arts/article_6e44fcee-6002-11e9-a284-57d1a3833e83.html | access-date=July 27, 2019 | archive-date=July 27, 2019 | archive-url=https://web.archive.org/web/20190727190357/https://www.theadvocate.com/baton_rouge/entertainment_life/arts/article_6e44fcee-6002-11e9-a284-57d1a3833e83.html | url-status=live}}</ref>
+* [[Jay Norman]] as Pepe, Bernardo's lieutenant
+* [[Gus Trikonis]] as Indio, Pepe's best friend
+* [[Eddie Verso]] as Juano
+* [[Jaime Rogers]] as Loco
+* [[Larry Roquemore]] as Rocco
+* [[Robert Thompson (dancer)|Robert Thompson]] as Luis
+* [[Nick Covacevich]] as Toro
+* [[Rudy Del Campo]] as Del Campo
+* [[Andre Tayir]] as Chile
+
+=== Shark girls ===
+<!--This cast list is for the 1961 film, NOT for the musical or any of its revivals.
+If you add cast members here that do not appear in IMDB, you MUST provide a reference.
+-->
+* [[Yvonne Wilder]] as Consuelo, Pepe's girlfriend (In credits as Yvonne Othon)
+* [[Suzie Kaye]] as Rosalia, Indio's girlfriend
+* [[Nobuko JoAnne Miyamoto|Joanne Miya]] as Francisca, Toro's girlfriend
+'''Uncredited:'''
+* [[Maria Jimenez Henley]] as Teresita, Juano's girlfriend
+* Luci Stone as Estella, Loco's girlfriend
+* Olivia Perez as Margarita, Rocco's girlfriend
+{{col-end}}
+
+== Musical numbers ==
+{{col-begin}}
+{{col-2}}
+'''Act I'''
+# "Overture" – Orchestra
+# "Prologue" – Orchestra
+# "Jet Song" – Riff and Jets
+# "[[Something's Coming (song)|Something's Coming]]" – Tony
+# "Dance at the Gym: (Blues, Promenade, Mambo, Cha-cha, and Jump)" – Orchestra
+# "[[Maria (West Side Story song)|Maria]]" – Tony
+# "[[America (West Side Story song)|America]]" – Anita, Bernardo, Sharks and Girls
+# "[[Tonight (West Side Story song)|Tonight]]" – Tony and Maria
+# "[[Gee, Officer Krupke]]" – Riff and Jets
+# "Maria (violin)" – Orchestra
+{{col-break}}
+'''Act II'''
+# "[[I Feel Pretty]]" – Maria, Consuelo, Rosalia, and Francisca
+# "[[One Hand, One Heart]]" – Tony and Maria
+# "[[Tonight Quintet]]" – Maria, Tony, Anita, Riff, Bernardo, Jets, and Sharks
+# "The Rumble" – Orchestra
+# "[[Somewhere (song)|Somewhere]]" – Tony and Maria
+# "[[Cool (West Side Story song)|Cool]]" – Ice and Jets
+# "[[A Boy Like That|A Boy Like That/I Have a Love]]" – Anita and Maria
+# "Somewhere" (reprise) – Maria
+# "Finale" – Orchestra
+{{col-end}}
+
+== Production ==
+Executive producer [[Walter Mirisch]] enlisted the services of [[Jerome Robbins]], who had directed and choreographed the stage version of ''[[West Side Story]]''. Because Robbins had no previous film experience, Mirisch hired [[Robert Wise]] to co-direct and produce because of his "experience in gritty subject matter" and his ability to complete motion pictures under budget and ahead of schedule. Robbins was to direct the musical sequences, and Wise would handle the story's dramatic elements.<ref>{{Cite book |last=Mirisch |first=Walter |title=I Thought We Were Making Movies, Not History |publisher=The University of Wisconsin Press |year=2008 |isbn=978-0-299-22640-4 |location=Madison, Wisconsin |page=115 |url=https://uwpress.wisc.edu/books/4336.htm |access-date=August 27, 2020 |archive-date=December 27, 2017 |archive-url=https://web.archive.org/web/20171227122423/https://uwpress.wisc.edu/books/4336.htm |url-status=live}}</ref> Robbins directed his portion of the film first, spending a great deal of time on retakes and on-set rehearsals as well as discussing setups with Wise.<ref>{{Cite book |last=Mirisch |first=Walter |title=I Thought We Were Making Movies, Not History |publisher=The University of Wisconsin Press |year=2008 |isbn=978-0-299-22640-4 |location=Madison, Wisconsin |page=125 |url=https://uwpress.wisc.edu/books/4336.htm |access-date=August 27, 2020 |archive-date=December 27, 2017 |archive-url=https://web.archive.org/web/20171227122423/https://uwpress.wisc.edu/books/4336.htm |url-status=live}}</ref><ref>{{cite book |last1=Acevedo-Muñoz |first1=Ernesto |title=West Side Story as Cinema: The Making and Impact of an American Masterpiece |date=2013 |publisher=University Press of Kansas |location=Lawrence, Kansas |isbn=978-0-7006-1921-4 |page=47 |url=https://kansaspress.ku.edu/978-0-7006-1921-4.html |access-date=4 September 2020 |archive-date=August 3, 2020 |archive-url=https://web.archive.org/web/20200803100045/https://kansaspress.ku.edu/978-0-7006-1921-4.html |url-status=live}}</ref> Assistant director [[Robert Relyea]] recalled an unusual number of injuries endured by the dancers.<ref>{{cite book |last1=Relyea |first1=Robert |title=Not So Quiet on the Set: My Life in Movies During Hollywood's Macho Era |date=2008 |publisher=iUniverse |location=Bloomington, Indiana |isbn=978-0-595-71332-5 |page=155 |url=https://www.iuniverse.com/en/bookstore/bookdetails/109145-Not-So-Quiet-On-The-Set |access-date=4 September 2020 |archive-date=March 3, 2022 |archive-url=https://web.archive.org/web/20220303005810/https://www.iuniverse.com/en/bookstore/bookdetails/109145-Not-So-Quiet-On-The-Set |url-status=live}}</ref> After 45 days of shooting, the picture was 24 days behind schedule.<ref>{{cite book |last1=Acevedo-Muñoz |first1=Ernesto |title=West Side Story as Cinema: The Making and Impact of an American Masterpiece |date=2013 |publisher=University Press of Kansas |location=Lawrence, Kansas |isbn=978-0-7006-1921-4 |page=48 |url=https://kansaspress.ku.edu/978-0-7006-1921-4.html |access-date=4 September 2020 |archive-date=August 3, 2020 |archive-url=https://web.archive.org/web/20200803100045/https://kansaspress.ku.edu/978-0-7006-1921-4.html |url-status=live}}</ref> With the film over budget, Wise dismissed Robbins.<ref>{{Cite book |last=Mirisch |first=Walter |title=I Thought We Were Making Movies, Not History |publisher=The University of Wisconsin Press |year=2008 |isbn=978-0-299-22640-4 |location=Madison, Wisconsin |page=126 |url=https://uwpress.wisc.edu/books/4336.htm |access-date=August 27, 2020 |archive-date=December 27, 2017 |archive-url=https://web.archive.org/web/20171227122423/https://uwpress.wisc.edu/books/4336.htm |url-status=live}}</ref> The remaining dance numbers were directed with the help of Robbins's assistants. Recognizing Robbins's considerable creative contribution to the film, Wise agreed that Robbins should be given co-directing credit. Robbins and Wise also kept in contact and discussed the production, with Wise's taking many of Robbins's suggestions about the editing of the film.<ref>{{Cite book|title=Jerome Robbins: His Life, His Theater, His Dance|last1=Robbins|first1=Jerome|last2=Jowitt|first2=Deborah|publisher=Simon & Schuster| year=2004|pages=283–292}}</ref> The titles and end credits sequences were designed by [[Saul Bass]] with [[Elaine Makatura Bass]]. Bass was credited as visual consultant for creating the opening sequence over the film's overture.<ref>{{Cite book|title=Saul Bass: Anatomy of Film Design|last=Horak|first=Jan-Christopher|publisher=University Press of Kentucky|year=2014}}</ref>
+
+On location shooting for the "Prologue" and "Jet Song" occurred at two different Manhattan, New York locations. A playground located at East 110th Street, now Tito Puente Way, between 2nd and 3rd Avenues, served as the backdrop for introducing the two gangs. West 68th Street between West End and Amsterdam Avenues, three blocks north of the [[San Juan Hill, Manhattan|San Juan Hill]] community, provided additional realism for where the gangs roamed.<ref>{{Cite book |last=Barrios |first=Richard |title=West Side Story: The Jets, The Sharks, and The Making of a Classic |publisher=Running Press |year=2020 |isbn=9780762469482 |location=New York |pages=70–74 |url=https://www.runningpress.com/titles/richard-barrios/west-side-story/9780762469482/ |access-date=August 10, 2020 |archive-date=October 21, 2020 |archive-url=https://web.archive.org/web/20201021072139/https://www.runningpress.com/titles/richard-barrios/west-side-story/9780762469482/ |url-status=live}}</ref> The [[sound stage]]s at the [[Samuel Goldwyn Studio]], located in West Hollywood, California, were used for rehearsals and studio shooting.<ref>{{Cite book |last=Barrios |first=Richard |title=West Side Story: The Jets, The Sharks, and The Making of a Classic |publisher=Running Press |year=2020 |isbn=9780762469482 |location=New York |page=36 |url=https://www.runningpress.com/titles/richard-barrios/west-side-story/9780762469482/ |access-date=August 10, 2020 |archive-date=October 21, 2020 |archive-url=https://web.archive.org/web/20201021072139/https://www.runningpress.com/titles/richard-barrios/west-side-story/9780762469482/ |url-status=live}}</ref>
+
+=== Casting ===
+[[File:West Side Story (1961) still 4.jpg|thumb|[[Jose De Vega]] as Chino, [[Natalie Wood]] as Maria, and [[George Chakiris]] as Bernardo]]
+Although Robbins pushed for 29-year-old [[Carol Lawrence]], the first Maria, to be cast in the same role in the film, after seeing her screen test the producers agreed she was too old to play the part. A number of other cast members from the Broadway and West End productions were cast in the film. [[Tony Mordente]], who played A-Rab on stage, was cast as Action in the film, and [[George Chakiris]], Riff in the London stage production, played Bernardo in the film.<ref>{{cite news |first=Stephen |last=Vagg |date=January 2, 2026 |access-date=January 2, 2026 |magazine=Filmink |url=https://www.filmink.com.au/not-quite-movie-stars-george-chakiris |title=Not Quite Movie Stars: George Chakiris |archive-date=January 2, 2026 |archive-url=https://web.archive.org/web/20260102125736/https://www.filmink.com.au/not-quite-movie-stars-george-chakiris/ |url-status=live }}</ref> [[Tucker Smith]], who joined the Broadway production several months into its run, played Diesel, renamed Ice for the film. [[David Winters (choreographer)|David Winters]], the first Baby John on stage, played A-Rab. [[Eliot Feld]], an ensemble member and understudy for Baby John on Broadway, played Baby John. Jay Norman, Juano on stage, appeared as Pepe. Reprising their stage roles in the film were Carole D'Andrea as Velma, Tommy Abbott as Gee-Tar, and William Bramley as Officer Krupke.
+
+[[Elvis Presley]] was approached for Tony, but his manager [[Colonel Tom Parker]] turned down the part.<ref>{{Cite book|title=Elvis: By Those Who Knew Him Best|last1=Clayton|first1=Dick|last2=Heard|first2=James|publisher=Virgin Publishing|year=2003|pages=226}}</ref> Others who were considered for the part included [[Russ Tamblyn]],<ref>{{cite magazine |first=Stephen |last=Vagg |magazine=Filmink |url=https://www.filmink.com.au/not-quite-movie-stars-russ-tamblyn |date=January 12, 2026|access-date=January 12, 2026 |title=Not Quite Movie Stars: Russ Tamblyn}}</ref><ref>{{Cite web|url=https://www.theguardian.com/culture/2012/jun/11/how-made-west-side-story|title=How we made ... Russ Tamblyn and George Chakiris on West Side Story|last=Abbott|first=Kate|date=June 11, 2012|website=The Guardian|access-date=6 February 2019|archive-date=February 15, 2019|archive-url=https://web.archive.org/web/20190215215828/https://www.theguardian.com/culture/2012/jun/11/how-made-west-side-story|url-status=live}}</ref> [[Warren Beatty]], [[Burt Reynolds]], [[Anthony Perkins]], [[Bobby Darin]], [[Troy Donahue]], [[Marlon Brando]], [[Richard Chamberlain]], and [[Robert Redford]].<ref name=Mell>{{Cite book|title=Casting Might-Have-Beens: A Film by Film Directory of Actors Considered for Roles Given to Others|last=Mell|first=Elia|publisher=McFarland & Company|year=2015|pages=253}}</ref><ref>{{cite web|last=Gross|first=Terry|author-link=Terry Gross|url=https://www.npr.org/2021/12/10/1062709348/actors-rita-moreno-and-george-chakiris-remember-the-original-west-side-story|title=Actors Rita Moreno and George Chakiris remember the original ''West Side Story''|publisher=NPR|date=December 10, 2021|access-date=December 18, 2022|archive-date=December 18, 2022|archive-url=https://web.archive.org/web/20221218232644/https://www.npr.org/2021/12/10/1062709348/actors-rita-moreno-and-george-chakiris-remember-the-original-west-side-story|url-status=live}}</ref> Reynolds was considered "too tough" for the part. Chamberlain was believed to be "too mature" for the role. Tamblyn impressed Wise and was given the supporting role of Riff.<ref name=Mell/> Ultimately, [[Richard Beymer]] won the part of Tony despite having no history of singing or dancing.<ref>{{cite magazine|url=https://www.filmink.com.au/not-quite-movie-stars-richard-beymer |first=Stephen |last=Vagg |title=Not Quite Movie Stars: Richard Beymer |date=17 January 2026 |access-date=17 January 2026|magazine=Filmink}}</ref>
+
+[[Natalie Wood]] was filming ''[[Splendor in the Grass]]'' with Warren Beatty and was involved with him romantically off-screen. The producers were not considering her for the role of Maria at that time. When considering Beatty for the role of Tony, Wise requested a reel of his work. However, after seeing a clip from ''Splendor in the Grass'', the producers decided his co-star Wood was perfect for Maria, but Beatty was not suitable for the role of Tony.<ref>{{Cite book|title=Natalie Wood (Turner Classic Movies): Reflections on a Legendary Life|last=Bowman|first=Manoah|publisher=Hatchette UK|year=2016}}</ref> [[Jill St. John]], [[Audrey Hepburn]], [[Diane Baker]], [[Elizabeth Ashley]], [[Suzanne Pleshette]] and [[Angela Dorian]] were among the many actresses who were considered for the role of Maria in the film.<ref name=Mell/><ref>{{Cite book|title=Not So Quiet On The Set: My Life In Movies During Hollywood's Macho Era|last=Relyea|first=Robert E.|publisher=iUniverse, Inc.|year=2008|isbn=9780595713325|page=151}}</ref>
+
+=== Editing ===
+[[Thomas Stanford (film editor)|Thomas Stanford]] won the [[Academy Award for Best Film Editing]] for his work on ''West Side Story''.<ref>{{Cite book|last=Franks|first=Don|url=https://books.google.com/books?id=dOKoBQAAQBAJ&q=Thomas+Stanford+&pg=PA233|title=Entertainment awards a music, cinema, theatre and broadcasting guide, 1928 through 2003|publisher=McFarland|year=2005|isbn=9781476608068|location=Jefferson, N.C|pages=223|access-date=October 30, 2020|archive-date=March 3, 2022|archive-url=https://web.archive.org/web/20220303005813/https://books.google.com/books?id=dOKoBQAAQBAJ&q=Thomas+Stanford+&pg=PA233|url-status=live}}</ref> The film was listed as the 38th best-edited film of all time in a 2012 survey of members of the [[Motion Picture Editors Guild]].<ref>{{cite journal |title=The 75 Best Edited Films |journal=Editors Guild Magazine |date=May 2012 |volume=1 |issue=3 |url=https://www.editorsguild.com/magazine.cfm?ArticleID=1102 |archive-url=https://web.archive.org/web/20150317101140/https://www.editorsguild.com/magazine.cfm?ArticleID=1102 |archive-date=March 17, 2015}}</ref> The dance sequences in particular have been noted by critics.<ref>{{cite news |title=The Greatest Dance Movies of All Time, According to the Dance Magazine Staff |last=Stahl |first=Jennifer |date=September 6, 2019 |work=[[Dance Magazine]] |quote=this Technicolor film version totally wraps you up in the drama – mixing full-body dance shots (thank you!) with emotional close-ups, and making sharp, musical cuts from the Jets to the Sharks and back again. |url=https://www.dancemagazine.com/best-dance-movies-2640231496.html |access-date=March 7, 2020 |archive-date=August 4, 2020 |archive-url=https://web.archive.org/web/20200804053302/https://www.dancemagazine.com/best-dance-movies-2640231496.html |url-status=live}}</ref> In Louis Giannetti's textbook ''Understanding Movies'', he writes: "Musicals are often edited in a radically formalist style, without having to observe the cutting conventions of ordinary dramatic movies. The editing of ''West Side Story'' is very abstract. The music...and the dance numbers...are edited together for maximum aesthetic impact, rather than to forward the story. Nor are the shots linked by some principle of thematic association. Rather, the shots are juxtaposed primarily for their lyrical and kinetic beauty, somewhat like a music video".<ref>{{cite book |first=Louis D. |last=Giannetti |title=Understanding Movies |chapter=Editing |edition=14 |date=2018 |publisher=Pearson |location=Boston |oclc=950611437 |isbn=9780134492087 |page=160}}</ref> In his retrospective review, Roger Ebert singled out the dances as extraordinary.<ref name=Ebert04 /> Robbins participated in the editing of the musical numbers along with Stanford, Wise, and [[Walter Mirisch]]. His notes to Stanford stress that the editing should reveal the characters' emotions even if that compromised the dancing.<ref>{{cite book |title=Jerome Robbins: His Life, His Theater, His Dance |first=Deborah |last=Jowitt |publisher=Simon and Schuster |date=2005 |isbn=9780684869858 |oclc=1064225701 |pages=289–291 |url=https://books.google.com/books?id=A9iRFgSn_ysC&pg=PA289 |access-date=March 6, 2020 |archive-date=January 20, 2022 |archive-url=https://web.archive.org/web/20220120205126/https://books.google.com/books?id=A9iRFgSn_ysC&pg=PA289 |url-status=live}}</ref> The quote from Giannetti above indicates that the notes didn't strongly affect the final cuts of the dance numbers.
+
+== Reception ==
+
+=== Critical response ===
+''West Side Story'' is regarded as [[List of films considered the best#Musical|one of the greatest musical films ever made]].<ref>{{cite web |url=http://www.starpulse.com/news/index.php/2007/02/19/west_side_story_tops_best_movie_musical_/ |title=West Side Story Tops Best Movie Musical |date=19 February 2007 |publisher=Starpulse.com|archive-url=https://web.archive.org/web/20070222014926/http://www.starpulse.com/news/index.php/2007/02/19/west_side_story_tops_best_movie_musical_| archive-date=22 February 2007 |access-date=4 August 2011}}</ref> It holds a {{RT data|score}} rating on Rotten Tomatoes based on {{RT data|count}} reviews, with an average rating of {{RT data|average}}. The site's critical consensus states: "Buoyed by Robert Wise's dazzling direction, Leonard Bernstein's score, and Stephen Sondheim's lyrics, ''West Side Story'' remains perhaps the most iconic of all the Shakespeare adaptations to visit the big screen".<ref>{{Cite Rotten Tomatoes| id=west_side_story| type=m| title=West Side Story (1961)|access-date=August 7, 2023}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 86 out of 100, based on 17 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''West Side Story'' |url=https://www.metacritic.com/movie/west-side-story |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date= |archive-url= |archive-date= |url-status=}}</ref><ref>{{Cite Metacritic|id=west-side-story|type=movie|title=West Side Story (1961)|access-date=July 10, 2023}}</ref>
+
+[[File:West Side Story trailer.webm|thumb|Original [[teaser trailer]] for ''West Side Story'']]
+[[Bosley Crowther]] of ''The New York Times'' wrote that "moving [the story] from stage to screen is to reconstruct its fine material into nothing short of a cinema masterpiece".<ref>{{Cite web| url=https://archive.nytimes.com/www.nytimes.com/packages/html/movies/bestpictures/west-re.html|work=The New York Times|title=Best Pictures|date=October 19, 1961|author=Bosley Crowther|author-link=Bosley Crowther| access-date=11 April 2021|archive-date=May 17, 2018|archive-url=https://web.archive.org/web/20180517153430/https://archive.nytimes.com/www.nytimes.com/packages/html/movies/bestpictures/west-re.html| url-status=live}}</ref> Whitney Williams of ''Variety'' was also effusive, writing: "Technically, it is superb; use of color is dazzling, camera work often is thrilling, editing fast with dramatic punch, production design catches mood as well as action itself".<ref>{{Cite web|url=https://variety.com/1961/film/reviews/west-side-story-3-1200420009/|title=West Side Story|last=Williams|first=Whitney|date=1961-09-27|website=Variety|access-date=2019-02-15| archive-date=February 15, 2019|archive-url=https://web.archive.org/web/20190215215811/https://variety.com/1961/film/reviews/west-side-story-3-1200420009/|url-status=live}}</ref> Arthur Knight from the ''[[Saturday Review (U.S. magazine)|Saturday Review]]'' called it a "triumphant work of art."<ref>{{Cite web |title=The Age of Movies: Selected Writings of Pauline Kael (paperback) |url=https://www.loa.org/books/348-the-age-of-movies-selected-writings-of-pauline-kael-paperback/ |access-date=2025-10-06 |website=Library of America |language=en-US |archive-date=June 19, 2025 |archive-url=https://web.archive.org/web/20250619130530/https://www.loa.org/books/348-the-age-of-movies-selected-writings-of-pauline-kael-paperback/ |url-status=live }}</ref> A review in ''The Hollywood Reporter'' called it "a magnificent show, a milestone in movie musicals, a box-office smash. It is so good that superlatives are superfluous. Let it be noted that the film musical, the one dramatic form that is purely American and purely Hollywood, has never been done better".<ref>{{Cite web|last=Powers|first=James| url=https://www.hollywoodreporter.com/review/west-side-story-1961-film-939258|title=''West Side Story'': THR's 1961 Review|website=[[The Hollywood Reporter]]| orig-date=September 22, 1961|date=October 18, 2016|access-date=May 10, 2019|archive-date=April 29, 2019|archive-url=https://web.archive.org/web/20190429162123/https://www.hollywoodreporter.com/review/west-side-story-1961-film-939258| url-status=live}}</ref> By contrast, [[Pauline Kael]] derided the film as "frenzied hokum", decrying that the dialogue was "painfully old-fashioned and mawkish" and the dancing was a "simpering, sickly romantic ballet".<ref>{{Cite web|url=https://www.rogerebert.com/reviews/great-movie-west-side-story-1961| title=''West Side Story'' Movie Review & Film Summary (1961)|last=Ebert|first=Roger|author-link=Roger Ebert|website=rogerebert.com|access-date=2019-02-15|archive-date=December 4, 2019|archive-url=https://web.archive.org/web/20191204183158/https://www.rogerebert.com/reviews/great-movie-west-side-story-1961|url-status=live}}</ref> In 1962, Mae Tinee of the ''Chicago Tribune'' gave a mixed review. She praised the cast, cinematography, dancing and script but wrote: "[T]his is a case when the big screen sometimes is a handicap. When the giant-sized, tear-stained faces of a desolated boy and girl fill the entire front of a theater, it seems incongruous for these young lovers to break into song. Some of the music is fresh and bright, some of it tiresomely repetitious, but all the members of the cast dance like demons. ... It's a cleverly stylized and dramatized depiction of a bloody story which probably will appeal most to those who like lengthy musicals, and to the younger generation who are fascinated by 'rumbles'. Their elders may find it depressing."<ref>Tinee, Mae. [https://www.newspapers.com/article/chicago-tribune-west-side-story/89882864 "''West Side Story'' Movie Is Savage Tale of Slums"] {{Webarchive|url=https://web.archive.org/web/20240401034601/https://www.newspapers.com/article/chicago-tribune-west-side-story/89882864/ |date=April 1, 2024 }}, ''Chicago Tribune'', February 21, 1962, p. B3.</ref>
+
+Writing in 2004, [[Roger Ebert]] included the film in his list of "[[Great Movies]]": "So the dancing is remarkable, and several of the songs have proven themselves by becoming standards, and there are moments of startling power and truth. ''West Side Story'' remains a landmark of musical history. But if the drama had been as edgy as the choreography, if the lead performances had matched Moreno's fierce concentration, if the gangs had been more dangerous and less like bad-boy [[Archie Andrews|Archies]] and [[Jughead Jones|Jugheads]], if the ending had delivered on the pathos and tragedy of the original, there's no telling what might have resulted".<ref name=Ebert04>{{cite news|title=Great Movie: ''West Side Story''|last=Ebert|first=Roger| author-link=Roger Ebert|date=February 15, 2004|url=https://www.rogerebert.com/reviews/great-movie-west-side-story-1961|access-date=February 15, 2019|archive-date=December 4, 2019| archive-url=https://web.archive.org/web/20191204183158/https://www.rogerebert.com/reviews/great-movie-west-side-story-1961|url-status=live}}</ref>
+
+=== Box office ===
+''West Side Story'' was a commercial success upon its release. It became [[1961 in film|the highest-grossing film of 1961]], earning rentals of $19,645,000 in the United States and Canada. It remained [[List of highest-grossing musicals#Timeline of highest-grossing musical films|the highest-grossing musical film of all time]]<ref>{{cite book|last=Pirie|first=David|author-link=David Pirie|date=1981|title=Anatomy of the Movies|publisher=[[Macmillan Inc.]]|location=New York|page=[https://archive.org/details/anatomyofmovies00piri/page/254 254] |isbn=0-02-597540-4 |url=https://archive.org/details/anatomyofmovies00piri/page/254}}</ref> until the release of ''[[The Sound of Music (film)|The Sound of Music]]'' in 1965. The film grossed $44.1 million worldwide (${{Inflation|US|44.1|1961}} million in {{Inflation/year|US}}). Because of profit participation, United Artists earned a profit of only $2.5 million on the film (${{Inflation|US|2.5|1961}} million in {{Inflation/year|US}}).<ref>Tino Balio, ''United Artists: The Company That Changed the Film Industry'', University of Wisconsin Press, 1987, p. 177</ref>
+
+== Accolades ==
+''West Side Story'' won 10 [[Academy Awards]], making it the musical film with the most Oscar wins (including [[Academy Award for Best Picture|Best Picture]]).<ref>{{cite book|last=Grant|first=Barry Keith|title=The Hollywood Film Musical|year=2012|publisher=Wiley-Blackwell|page=100|isbn=9781405182539|url=https://books.google.com/books?id=VKfAEMu9j9MC&pg=PA100|access-date=March 16, 2016|archive-date=June 4, 2021|archive-url=https://web.archive.org/web/20210604234202/https://books.google.com/books?id=VKfAEMu9j9MC&pg=PA100|url-status=live}}</ref> It was the first film to share the [[Academy Award for Best Director]] between two people, with Wise winning in the Best Picture and Best Director categories.<ref>{{cite web|url=https://www.oscars.org/oscars/ceremonies/2008|title=The 80th Academy Awards (2008)|publisher=The Academy of Motion Pictures Arts and Sciences (AMPAS)|date=February 24, 2008|access-date=July 28, 2022|archive-date=April 19, 2018|archive-url=https://web.archive.org/web/20180419044110/https://www.oscars.org/oscars/ceremonies/2008|url-status=live}}</ref>
+
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! {{Reference column heading}}
+|-
+| rowspan="12"| [[34th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Motion Picture]]
+| [[Robert Wise]]
+| {{won}}
+| align="center" rowspan="12"| <ref>{{Cite web |url=http://www.oscars.org/oscars/ceremonies/1962 |title=The 34th Academy Awards (1962) Nominees and Winners |date=October 5, 2014 |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=February 19, 2015 |archive-url=https://web.archive.org/web/20150215223044/http://www.oscars.org/oscars/ceremonies/1962 |archive-date=February 15, 2015 |url-status=live}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| Robert Wise and [[Jerome Robbins]]
+| {{won}}
+|-
+| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]
+| [[George Chakiris]]
+| {{won}}
+|-
+| [[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Rita Moreno]]
+| {{won}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay – Based on Material from Another Medium]]
+| [[Ernest Lehman]]
+| {{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction – Color]]
+| Art Direction: [[Boris Leven]]; <br> Set Decoration: [[Victor A. Gangelin]]
+| {{won}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography – Color]]
+| [[Daniel L. Fapp]]
+| {{won}}
+|-
+| [[Academy Award for Best Costume Design|Best Costume Design – Color]]
+| [[Irene Sharaff]]
+| {{won}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Thomas Stanford (film editor)|Thomas Stanford]]
+| {{won}}
+|-
+| [[Academy Award for Best Original Score|Best Scoring of a Musical Picture]]
+| [[Saul Chaplin]], [[Johnny Green]], [[Irwin Kostal]], and [[Sid Ramin]]
+| {{won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Fred Hynes]] and [[Gordon E. Sawyer]]
+| {{won}}
+|-
+| [[Academy Honorary Award]]<ref>{{Cite web|url=http://jeromerobbins.org/awards-honors/|title=Jerome Robbins|website=jeromerobbins.org|access-date=August 11, 2019|archive-date=July 27, 2019|archive-url=https://web.archive.org/web/20190727150830/http://jeromerobbins.org/awards-honors/|url-status=live}}</ref>
+| Jerome Robbins
+| {{won}}
+|-
+| [[16th British Academy Film Awards|British Academy Film Awards]]
+| colspan="2"| [[BAFTA Award for Best Film|Best Film]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://awards.bafta.org/award/1963/film |title=BAFTA Awards: Film in 1963 |publisher=[[British Academy Film Awards]] |access-date=November 26, 2024 |archive-date=April 22, 2016 |archive-url=https://web.archive.org/web/20160422015615/http://awards.bafta.org/award/1963/film |url-status=live }}</ref>
+|-
+| [[14th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Robert Wise and Jerome Robbins
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://www.dga.org/Awards/History/1960s/1961.aspx?value=1961 |title=14th Annual DGA Awards |publisher=[[Directors Guild of America Awards]] |access-date=November 26, 2024 |archive-date=June 26, 2018 |archive-url=https://web.archive.org/web/20180626192521/https://www.dga.org/Awards/History/1960s/1961.aspx?value=1961 |url-status=live }}</ref>
+|-
+| rowspan="7"| [[19th Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical]]
+| {{won}}
+| align="center" rowspan="7"| <ref>{{cite web |url=https://goldenglobes.com/film/west-side-story/ |title=West Side Story |publisher=[[Golden Globe Awards]] |access-date=November 26, 2024 |archive-date=December 2, 2024 |archive-url=https://web.archive.org/web/20241202171739/https://goldenglobes.com/film/west-side-story/ |url-status=live }}</ref>
+|-
+| [[Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy|Best Actor in a Motion Picture – Musical or Comedy]]
+| [[Richard Beymer]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Supporting Actor – Motion Picture|Best Supporting Actor – Motion Picture]]
+| George Chakiris
+| {{won}}
+|-
+| [[Golden Globe Award for Best Supporting Actress – Motion Picture|Best Supporting Actress – Motion Picture]]
+| Rita Moreno
+| {{won}}
+|-
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| Robert Wise and Jerome Robbins
+| {{nom}}
+|-
+| rowspan="2"| [[Golden Globe Award for New Star of the Year – Actor|Most Promising Newcomer – Male]]
+| Richard Beymer
+| {{nom}}
+|-
+| George Chakiris
+| {{nom}}
+|-
+| [[4th Annual Grammy Awards|Grammy Awards]]
+| [[Grammy Award for Best Sound Track Album or Recording of Original Cast From a Motion Picture or Television|Best Sound Track Album or Recording of Original Cast From a Motion Picture or Television]]
+| ''[[West Side Story (1961 soundtrack)|West Side Story]]'' <br> Saul Chaplin, Johnny Green, Irwin Kostal, and Sid Ramin
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://www.grammy.com/awards/4th-annual-grammy-awards |title=4th Annual GRAMMY Awards |publisher=[[Grammy Awards]] |access-date=November 26, 2024 |archive-date=April 7, 2014 |archive-url=https://web.archive.org/web/20140407021440/http://www.grammy.com/awards/4th-annual-grammy-awards |url-status=live }}</ref>
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |title=Complete National Film Registry Listing |publisher=[[Library of Congress]] |access-date=December 16, 2015 |archive-date=December 4, 2024 |archive-url=https://web.archive.org/web/20241204005725/https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |url-status=live }}</ref>
+|-
+| rowspan="2"| [[1961 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]
+| colspan="2"| [[New York Film Critics Circle Award for Best Film|Best Film]]
+| {{won}}
+| align="center" rowspan="2"| 
+|-
+| [[New York Film Critics Circle Award for Best Director|Best Director]]
+| Robert Wise and Jerome Robbins
+| {{nom}}
+|-
+| [[10th Golden Laurel Awards|Producers Guild of America Awards]]
+| colspan="2"| PGA Hall of Fame – Motion Pictures
+| {{won}}
+| align="center"| 
+|-
+| [[Sant Jordi Awards]]
+| Best Foreign Film
+| Robert Wise and Jerome Robbins
+| {{won}}
+| align="center"| 
+|-
+| [[16th Satellite Awards|Satellite Awards]]
+| colspan="2"| [[Satellite Award for Best Classic DVD|Best Classic DVD]]
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://www.pressacademy.com/award_cat/2011/ |title=2011 Satellite Awards |publisher=[[International Press Academy]] |access-date=November 26, 2024 |archive-date=June 5, 2021 |archive-url=https://web.archive.org/web/20210605190252/https://www.pressacademy.com/award_cat/2011/ |url-status=live }}</ref>
+|-
+| [[14th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Written Musical|Best Written American Musical]]
+| Ernest Lehman
+| {{won}}
+| align="center"| <ref>{{cite web |url=http://www.wga.org/awards/awardssub.aspx?id=1551 |title=Awards Winners |publisher=[[Writers Guild of America Awards]] |archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551 |archive-date=December 5, 2012 |access-date=June 6, 2010 |url-status=live}}</ref>
+|}
+
+'''[[American Film Institute]]''' lists:
+* [[AFI's 100 Years...100 Movies]] – #41
+* [[AFI's 100 Years...100 Passions]] – #3
+* [[AFI's 100 Years...100 Songs]]:
+** "[[Somewhere (song)|Somewhere]]" – #20
+** "[[America (West Side Story song)|America]]" – #35
+** "[[Tonight (West Side Story song)|Tonight]]" – #59
+* [[AFI's Greatest Movie Musicals]] – #2
+* [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – #51
+
+The film's cast appeared and was honored at the 50th anniversary of ''West Side Story'' at the 2011 Ventura Film Festival.<ref>{{Cite web|url=http://venturafilmfestival.org/|title=Ventura Film Festival|website=Ventura Film Festival|access-date=January 12, 2013|archive-date=April 21, 2013|archive-url=https://web.archive.org/web/20130421001423/http://venturafilmfestival.org/|url-status=live}}</ref>
+
+== Score and soundtrack ==
+{{main|West Side Story (1961 soundtrack)|l1=''West Side Story'' (1961 soundtrack)}}
+[[Leonard Bernstein]] was displeased with the [[orchestration]] for the movie, which was the work of [[Sid Ramin]] and [[Irwin Kostal]], who had orchestrated the original Broadway production. That show had been orchestrated for roughly 30 musicians; for the movie, United Artists<!-- Original reference says "MGM" but later correction there properly states UA made the film; MGM wasn't involved until it bought UA. --> allowed them triple that, including six saxophone parts, eight trumpets, five pianos and five xylophones.<ref name=newscore>{{Citation | last = Wakin | first = Daniel | title = Classic Score by Bernstein is Remade | newspaper = The New York Times | date = September 6, 2011 | url = https://www.nytimes.com/2011/09/07/arts/music/west-side-story-score-to-be-played-by-philharmonic.html?pagewanted=1&_r=1&hpw | access-date = September 7, 2011 | archive-date = December 7, 2013 | archive-url = https://web.archive.org/web/20131207140720/http://www.nytimes.com/2011/09/07/arts/music/west-side-story-score-to-be-played-by-philharmonic.html?pagewanted=1&_r=1&hpw | url-status = live}}</ref> Bernstein found it "overbearing and lacking in texture and subtlety".<ref name=Berson/>
+
+[[Stephen Sondheim]], who did not like the sequence of the songs in the Broadway version, had the song "Gee, Officer Krupke" being sung before the rumble in place of the song "Cool" which is sung instead ''after'' the rumble; the song "I Feel Pretty" is also sung before the rumble instead of after. In addition, the song "America" was sung in-between the two love songs "Maria" and "Tonight", instead of having the two love songs being sung consecutively. Though mentioned in earlier scripts, the "Somewhere" dream ballet was not well defined for the film and was put on the back burner for Robbins to conceive and execute towards the end of shooting. With Robbins relieved of his duties midway in the production, the dance sequence was eliminated.<ref>{{Cite book |last=Barrios |first=Richard |title=West Side Story: The Jets, The Sharks, and The Making of a Classic |publisher=Running Press |year=2020 |isbn=9780762469482 |location=New York |page=109 |url=https://www.runningpress.com/titles/richard-barrios/west-side-story/9780762469482 |access-date=August 10, 2020 |archive-date=October 21, 2020 |archive-url=https://web.archive.org/web/20201021072139/https://www.runningpress.com/titles/richard-barrios/west-side-story/9780762469482/ |url-status=live}}</ref> "Somewhere" was left to be sung by Tony and Maria in her bedroom. Reprises of the lyrics were omitted as well, especially in the songs "One Hand, One Heart" and "A Boy Like That". Some lyrics were changed in order to avoid censorship, especially in the songs "Jet Song", "Gee, Officer Krupke", "America" and the "Tonight Quintet". Even the phrase "womb to tomb, sperm to worm" between Riff and Tony had to be replaced with "womb to tomb, birth to earth" between Riff and Tony near the beginning of the film and "one-two-three, one-two-three" between Riff and Diesel in the Quintet.
+
+As provided in her contract, Wood prerecorded her songs and allowed the production team to decide whether to use her voice. She found the songs challenging, but was allowed to film her scenes lip-synching to her own vocals and was led to believe that these versions would be used, although music supervisors [[Saul Chaplin]] and [[Johnny Green]] had already decided to use [[Marni Nixon]]'s voice. Wood's singing voice is only heard during the reprise of the song "Somewhere" when Tony dies. Though Nixon had recorded the songs in the same orchestra sessions as Wood, she had to re-record them to synch with Wood's filmed performances. Even the one song for which Wood had lip-synched to Nixon's voice, "One Hand, One Heart", had to be recorded again because Wood's lip-synching was unsatisfactory.<ref>{{cite book|last=Nixon|first=Marni|author-link=Marni Nixon|title=I Could Have Sung All Night: My Story|year=2006|publisher=Billboard Books|pages=132ff|isbn=9780823083657|url=https://archive.org/details/icouldhavesungal00nixo|url-access=registration}}</ref> When Marni Nixon learned that she had not signed a contract for participating in the recording and demanded a percentage of the [[LP record]], she was told that all percentages had been allocated. Bernstein gave her 0.25% of his album royalties. This set a precedent for all future "[[ghost singer]]s".<ref>[https://theartsdesk.com/tv/secret-voices-hollywood-bbc-four "Secret Voices of Hollywood, BBC Four"] {{Webarchive|url=https://web.archive.org/web/20190209124414/https://theartsdesk.com/tv/secret-voices-hollywood-bbc-four |date=February 9, 2019}} by Claudia Pritchard, ''[[The Arts Desk]]'', 30 September 2013; review of [https://www.bbc.co.uk/programmes/b03bxrxj this program] {{Webarchive|url=https://web.archive.org/web/20190209130729/https://www.bbc.co.uk/programmes/b03bxrxj |date=February 9, 2019}}.</ref>
+
+Beymer's vocals were performed by [[Jimmy Bryant (singer)|Jimmy Bryant]]. [[Tucker Smith]], who played Ice, dubbed the singing voice of Riff in "Jet Song", instead of [[Russ Tamblyn]]. Tamblyn's own voice was used in "Gee, Officer Krupke" and the "Quintet". [[Rita Moreno]] was dubbed by [[Betty Wand]] in the song "A Boy Like That" because the song needed to be performed at a register that was too low for her. However, Moreno sang her own vocals in "America". Marni Nixon sang some of Moreno's parts in the "Quintet" when illness prevented Moreno from doing so. Wand was also ill on the day of final recording, and so Nixon recorded Anita's vocal line as well.
+
+For the 50th anniversary of the film's 1961 release, a score closer to the Broadway version was created by Garth Edwin Sunderland of the Leonard Bernstein Office to be performed live at screenings of the movie with the score removed, but with the original vocals maintained. The score's New York City premiere was presented at [[Lincoln Center]]'s [[David Geffen Hall]], called Avery Fisher Hall at the time, built atop the original film locations, which were razed in a late 1950s [[urban renewal]] project.<ref name=newscore />
+
+== Legacy ==
+A scene in the 1965 French movie "[[Gendarme in New York]]" pastiches ''West Side Story''.<ref>{{Cite web |date=December 21, 2020 |title=''West Side Story'': Le creuset, son monument, ses grumeaux |url=https://www.rayonvertcinema.org/west-side-story-robert-wise |access-date=August 14, 2024 |website=Le Rayon Vert |language=fr-FR |archive-date=August 14, 2024 |archive-url=https://web.archive.org/web/20240814211616/https://www.rayonvertcinema.org/west-side-story-robert-wise/ |url-status=live }}</ref>
+
+In 2009, photographer [[Mark Seliger]] re-created scenes from the film for magazine ''Vanity Fair'' called ''West Side Story Revisited'', using [[Camilla Belle]] as Maria, [[Ben Barnes (actor)|Ben Barnes]] as Tony, [[Jennifer Lopez]] as Anita, [[Rodrigo Santoro]] as Bernardo and [[Chris Evans (actor)|Chris Evans]] as Riff. Portraying the Sharks are [[Minka Kelly]], [[Jay Hernandez]], [[Natalie Martinez]], [[Brandon T. Jackson]] and [[Melonie Diaz]]. Portraying the Jets are [[Ashley Tisdale]], [[Sean Faris]], [[Robert Pattinson]], [[Cam Gigandet]], [[Trilby Glover]], [[Brittany Snow]] and [[Drake Bell]].<ref>{{cite news|url=http://www.vanityfair.com/culture/features/2009/03/west-side-story-portfolio200903|title=West Side Story Revisited|last=Seliger|first=Mark|author-link=Mark Seliger|date=March 17, 2009|work=[[Vanity Fair (magazine)|Vanity Fair]]|access-date=July 18, 2010|archive-date=July 22, 2010|archive-url=https://web.archive.org/web/20100722001906/http://www.vanityfair.com/culture/features/2009/03/west-side-story-portfolio200903|url-status=live}}</ref>
+
+''West Side Story'' influenced [[Michael Jackson]]'s "[[Beat It#Music video|Beat It]]" and "[[Bad (Michael Jackson song)#Music video|Bad]]" music videos.<ref>Hombach, Jean-Pierre. ''[https://books.google.com/books?id=RkyOtwhcCy8C&pg=PT35 Michael Jackson King of PoP] {{Webarchive|url=https://web.archive.org/web/20220112043405/https://books.google.com/books?id=RkyOtwhcCy8C&pg=PT35 |date=January 12, 2022}}'', epubli, 2010, p. 27</ref><ref>''[https://books.google.com/books?id=-q00hUnUljMC&pg=PA134 Dance: From Ballet to Breakin' – Step into the Dazzling World of Dance] {{Webarchive|url=https://web.archive.org/web/20220112043358/https://books.google.com/books?id=-q00hUnUljMC&pg=PA134 |date=January 12, 2022}}'', New York, DK Publishing, 2012, p. 134</ref> The first features Jackson as a peacemaker between two rival gangs in an homage to his favorite film.<ref>George, Nelson. ''The Michael Jackson Story'', New York, Dell Publishing, 1984, p. 167</ref>
+
+== 2021 film ==
+{{Main|West Side Story (2021 film)|l1=''West Side Story'' (2021 film)}}
+A second film adaptation of the musical was released by [[20th Century Studios]] on December 10, 2021,<ref>{{cite news|url = https://variety.com/2020/film/news/black-widow-west-side-story-eternals-release-date-delay-1234773491/|title = 'Black Widow', 'West Side Story', 'Eternals' Postpone Release Dates|work = [[Variety (magazine)|Variety]]|date = September 23, 2020|access-date = September 23, 2020|archive-date = January 6, 2021|archive-url = https://web.archive.org/web/20210106222446/https://variety.com/2020/film/news/black-widow-west-side-story-eternals-release-date-delay-1234773491/|url-status = live}}</ref> directed by [[Steven Spielberg]] and choreographed by [[Justin Peck]], with a screenplay by [[Tony Kushner]].<ref>{{cite news| url=https://deadline.com/2019/01/steven-spielberg-west-side-story-cast-ariana-debose-david-alvarez-josh-andres-rivera-rachel-zegler-1202535002/|title=Steven Spielberg's ''West Side Story'' Finds its Maria, Anita, Bernardo and Chino|last=D'Alessandro|first=Anthony|date=January 14, 2019|work=[[Deadline Hollywood]]|access-date=February 2, 2019|archive-date=February 25, 2019|archive-url=https://web.archive.org/web/20190225192355/https://deadline.com/2019/01/steven-spielberg-west-side-story-cast-ariana-debose-david-alvarez-josh-andres-rivera-rachel-zegler-1202535002/|url-status=live}}</ref> It stars [[Ansel Elgort]] as Tony, [[Rachel Zegler]] as Maria and [[Ariana DeBose]] as Anita; Moreno returns as a new character, Valentina, who is Doc's widow.<ref>{{cite news| last=Chang| first=Justin| url=https://www.npr.org/2021/12/09/1062380664/steven-spielbergs-west-side-story-review| title=Steven Spielberg's ''West Side Story'' will make you believe in movies again| date=December 9, 2021| access-date=December 10, 2021| archive-date=December 10, 2021| archive-url=https://web.archive.org/web/20211210184211/https://www.npr.org/2021/12/09/1062380664/steven-spielbergs-west-side-story-review| url-status=live}}</ref> It received seven nominations at the [[94th Academy Awards]], including Best Picture,<ref>{{cite web |url=https://www.nytimes.com/2022/02/08/movies/2022-oscars-nominees-list.html |title=2022 Oscars Nominees List |last=Cohn |first=Gabe |date=February 8, 2022 |website=[[The New York Times]] |access-date=February 8, 2022 |archive-date=February 8, 2022 |archive-url=https://web.archive.org/web/20220208132358/https://www.nytimes.com/2022/02/08/movies/2022-oscars-nominees-list.html |url-status=live}}</ref> winning one Oscar for DeBose's performance.<ref>{{cite web |url=https://www.oscars.org/oscars/ceremonies/2022 |title=2022 Oscars Winners |date=March 19, 2024 |access-date=March 29, 2022 |archive-date=March 25, 2022 |archive-url=https://web.archive.org/web/20220325152056/https://www.oscars.org/oscars/ceremonies/2022 |url-status=live }}</ref>
+
+== See also ==
+* [[List of American films of 1961]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{wikiquote|West Side Story}}
+* {{IMDb title|0055614|West Side Story}}
+* [https://www.allmovie.com/movie/west-side-story-am7159 ''West Side Story'' at AllMovie]
+* {{TCMDb title|23623|West Side Story}}
+* {{AFI film|23857|West Side Story}}
+* [https://www.westsidestory.com/1961-film 1961 Original Film page on ''West Side Story'' official website]
+* [https://www.popspotsnyc.com/west_side_story/ ''West Side Story'' on location filming in New York City]
+* {{rotten-tomatoes|west_side_story|West Side Story}}
+
+{{West Side Story}}
+{{Romeo and Juliet film adaptations}}
+{{Leonard Bernstein}}
+{{Stephen Sondheim}}
+{{Jerome Robbins}}
+{{Robert Wise}}
+{{Navboxes
+|title = Awards for ''West Side Story''
+|list =
+{{AcademyAwardBestPicture 1961-1980}}
+{{GoldenGlobeBestMotionPictureMusicalComedy 1961-1980}}
+{{New York Film Critics Circle Award for Best Film}}
+}}
+{{Portal bar|Film|New York City|1960s}}
+{{Authority control}}
+
+{{DEFAULTSORT:West Side Story}}
+[[Category:1961 films]]
+[[Category:1961 musical films]]
+[[Category:1961 romantic drama films]]
+[[Category:1961 American films]]
+[[Category:1961 English-language films]]
+[[Category:1960s gang films]]
+[[Category:1961 historical drama films]]
+[[Category:1960s historical romance films]]
+[[Category:1960s musical drama films]]
+[[Category:1960s romantic musical films]]
+[[Category:1960s teen drama films]]
+[[Category:1960s teen romance films]]
+[[Category:American dance films]]
+[[Category:American gang films]]
+[[Category:American historical drama films]]
+[[Category:American historical romance films]]
+[[Category:American musical drama films]]
+[[Category:American romantic drama films]]
+[[Category:American romantic musical films]]
+[[Category:American teen drama films]]
+[[Category:American teen musical films]]
+[[Category:American teen romance films]]
+[[Category:Articles containing video clips]]
+[[Category:Best Musical or Comedy Picture Golden Globe winners]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:English-language musical drama films]]
+[[Category:English-language romantic drama films]]
+[[Category:English-language romantic musical films]]
+[[Category:English-language teen drama films]]
+[[Category:English-language teen romance films]]
+[[Category:Films about interracial romance]]
+[[Category:Films about juvenile delinquency]]
+[[Category:Films about prejudice]]
+[[Category:Films about race and ethnicity]]
+[[Category:Films about racism in the United States]]
+[[Category:Films based on adaptations]]
+[[Category:Films based on Romeo and Juliet]]
+[[Category:Films based on works by Stephen Sondheim]]
+[[Category:Films directed by Robert Wise]]
+[[Category:Films featuring a Best Supporting Actor Academy Award–winning performance]]
+[[Category:Films featuring a Best Supporting Actor Golden Globe winning performance]]
+[[Category:Films featuring a Best Supporting Actress Academy Award–winning performance]]
+[[Category:Films featuring a Best Supporting Actress Golden Globe–winning performance]]
+[[Category:Films produced by Robert Wise]]
+[[Category:Films scored by Leonard Bernstein]]
+[[Category:Films scored by Saul Chaplin]]
+[[Category:Films scored by Johnny Green]]
+[[Category:Films scored by Irwin Kostal]]
+[[Category:Films set in slums]]
+[[Category:Films set in the 1950s]]
+[[Category:Films set in Manhattan]]
+[[Category:Films shot in New York City]]
+[[Category:Films that won the Best Costume Design Academy Award]]
+[[Category:Films that won the Best Original Score Academy Award]]
+[[Category:Films that won the Best Sound Mixing Academy Award]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:Films with screenplays by Ernest Lehman]]
+[[Category:Modern adaptations of works by William Shakespeare]]
+[[Category:United Artists films]]
+[[Category:United States National Film Registry films inducted in 1997]]
+[[Category:West Side Story|Film 1961]]

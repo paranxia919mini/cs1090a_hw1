@@ -1,0 +1,373 @@
+{{Short description|1949 film by Carol Reed}}
+{{About||3=Third Man (disambiguation)}}
+{{Use British English|date=September 2024}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox film
+| name           = The Third Man
+| image          = The Third Man (1949 American theatrical poster).jpg
+| alt            = 
+| caption        = US theatrical release poster
+| director       = [[Carol Reed]]
+| screenplay     = {{Plainlist|
+* [[Graham Greene]]
+* [[Alexander Korda]]
+* Carol Reed
+* [[Orson Welles]]
+}}
+| producer       = {{Plainlist|
+* Carol Reed
+* Alexander Korda<ref>{{cite web|url=http://www.screenonline.org.uk/people/id/446996/credits.html|title=''Alexander Korda Credits''}} -B.F.I. Accessed 10 January 2016</ref>
+* [[David O. Selznick]]
+}}
+| starring       = {{Plain list|
+* [[Joseph Cotten]]
+* [[Alida Valli]]
+* Orson Welles
+* [[Trevor Howard]]
+}}
+| cinematography = [[Robert Krasker]]
+| editing        = [[Oswald Hafenrichter]]
+| music          = [[Anton Karas]]
+| studio         = [[London Films]]
+| distributor    = {{Plainlist|
+* [[British Lion Film Corporation]] (UK)
+* [[Selznick Releasing Organization]]<ref name="afi"/> (US)
+}}
+| released       = {{Film date|df=yes|1949|9|1|UK|ref1=<ref name="Art & Hue">{{cite web|url=http://artandhue.com/shop/the-third-man/|title=The Third Man |work=Art & Hue |date=2018 |access-date=2 February 2018}}</ref>|1950|2|2|US|ref2=<ref name="afi"/>}}
+| runtime        = 104 minutes
+| country        = {{Plainlist|
+* United Kingdom<ref name="afi">{{cite web |url=https://catalog.afi.com/Film/27593-THE-THIRDMAN |title=The Third Man (1949) |website=[[AFI Catalog of Feature Films]] |access-date=7 October 2023}}</ref><ref name="bfi">{{cite web |title=The Third Man (1949) |url=https://www.bfi.org.uk/films-tv-people/4ce2b6b824610 |archive-url=https://web.archive.org/web/20160302130808/http://www.bfi.org.uk/films-tv-people/4ce2b6b824610 |archive-date=2 March 2016 |publisher=[[British Film Institute]] |access-date=22 March 2020}}</ref>
+* United States<ref name="afi"/><ref name="bfi"/>
+}}
+| language       = {{Plainlist|
+* English
+* German
+}}
+| gross          = £277,549 (UK) ({{Inflation|UK|277549|1949|r=-3|cursign=£|fmt=eq}})<ref>Vincent Porter, 'The Robert Clark Account', ''Historical Journal of Film, Radio and Television'', Vol 20 No 4, 2000 p489</ref>
+}}
+<!-- Do not attribute this film to a particular nationality, e.g. "British" or "British and American", without consensus on the talk page. -->
+
+'''''The Third Man''''' is a 1949 [[film noir]] directed by [[Carol Reed]], written by [[Graham Greene]], and starring [[Joseph Cotten]], [[Alida Valli]], [[Orson Welles]] and [[Trevor Howard]]. Set in [[post-World War II]] [[Allied-occupied Austria|Allied-occupied]] [[Vienna]], the film centres on American writer Holly Martins (Cotten), who arrives in the city to accept a job with his friend Harry Lime (Welles), only to learn that he has died. Martins stays in Vienna to investigate Lime's death, becoming infatuated with Lime's girlfriend Anna Schmidt (Valli).
+
+The use of black-and-white [[German expressionist cinema|German expressionist]]-influenced cinematography by [[Robert Krasker]], with its harsh lighting and [[Dutch angle]]s, is a major feature of ''The Third Man''. Combined with the use of ruined locations in Vienna, the style evokes exhaustion and cynicism at the start of the [[Cold War]].
+
+Greene wrote a [[The Third Man (novel)|novella]] as a [[Film treatment|treatment]] for the screenplay. Composer [[Anton Karas]]' title composition "[[The Third Man Theme]]" aka "Harry Lime Theme", topped the international music charts in 1950, bringing international fame to the previously unknown performer. ''The Third Man'' is considered one of the [[greatest films of all time]], celebrated for its acting, musical score, and atmospheric cinematography.<ref>[[Leslie Halliwell|Halliwell, Leslie]] and John Walker, ed. (1994). ''Halliwell's Film Guide''. New York: Harper Perennial. {{ISBN|0-06-273241-2}}. p 1192.</ref>
+
+In 1999, the [[British Film Institute]] voted ''The Third Man'' the [[BFI Top 100 British films|greatest British film of all time]]. In 2011, a poll for ''Time Out'' ranked it the second-best British film ever.<ref name="Time Out (2011)">{{Cite news |date=9 February 2011 |title=100 best British films: the full list |url=http://www.timeout.com/london/feature/886/100-best-british-films-the-full-list |archive-url=https://web.archive.org/web/20110213045530/https://www.timeout.com/london/feature/886/100-best-british-films-the-full-list |archive-date=13 February 2011 |work=[[Time Out (company)|Time Out]] |location=London}}</ref>
+
+==Plot==
+<!-- [[MOS:FILMPLOT]] advises plot summaries for feature films should be between 400 and 700 words. Please do not expand this section any further. Please do not remove this message. -->
+Holly Martins, an American author of [[western fiction|Western]] [[pulp novels]], arrives in the British sector of [[Allied-occupied Austria|Allied-occupied]] Vienna seeking Harry Lime, a childhood friend who has offered him a job. However, Martins is told that Lime was killed by a car while crossing the street. At Lime's funeral, Martins meets two Field Security Section men, part of the [[ICPO]]: Sergeant Paine, a fan of Martins' novels, and Major Calloway. Afterward, Martins is asked to lecture at a book club a few days later. He then meets a friend of Lime's, "Baron" Kurtz, who tells Martins that he and another friend, Popescu, carried Lime to the side of the street after the accident, and that, before he died, Lime asked them to take care of Martins and Lime's girlfriend, actress Anna Schmidt.
+
+As Martins and Anna query Lime's death, they realise that accounts differ as to whether Lime was able to speak before his death, and how many men carried away the body. The porter at Lime's apartment tells them that he saw a third man helping. He offers to give Martins more information but is murdered before they can speak again; Martins and Anna flee the scene after a mob begins to suspect him of the murder. When Martins confronts Major Calloway and demands that Lime's death be investigated, Calloway reveals that Lime was stealing [[penicillin]] from military hospitals, diluting it, and then selling it on the [[black market]], injuring or killing countless people. Martins agrees to drop his investigation and leave.
+
+An inebriated Martins visits Anna and confesses his feelings for her. A man crosses the street towards her front door, but moves away after seeing Martins at the window. After leaving, Martins walks the streets until he notices Anna's cat and realises someone is watching from a darkened doorway. In a momentary flash of light, Martins sees that the man is Lime. Martins calls out, but Lime flees and vanishes. Martins summons Calloway, who realises that Lime has escaped through the city's sewers to the Soviet sector. The British police exhume Lime's coffin and discover that the body is that of a hospital orderly who had been assisting him. Anna, who is Czech, is to be sent to the Soviet sector after the British police discover that she has a forged Austrian passport, and is questioned again by Calloway.
+
+Martins goes to Kurtz and asks to see Lime. Lime and Martins meet and talk as they ride the [[Wiener Riesenrad]]. Lime speaks cynically of the insignificance of his victims' lives and the personal gains to be earned from the city's chaos and deprivation. Martins realises that Lime sold Anna out to the Soviet authorities for his own benefit. Lime obliquely threatens Martins as he is now the only 'proof' that Lime is alive, however Martins retorts that the authorities are aware of the false burial. Lime then offers Martins a chance to join in on his scheme before leaving quickly. Calloway asks Martins to help arrest Lime; he agrees provided that Calloway will arrange for Anna to leave Vienna rather than be handed over to the Soviets. The British authorities arrange for Anna to take a train to Paris, but she spots Martins, who has come to observe her departure, at the station. After persuading Martins to reveal the plan to capture Lime, she leaves in order to warn him. Exasperated, Martins decides to leave Vienna; on the way to the airport, Calloway stops at a hospital to show Martins children dying of [[meningitis]] who were treated with Lime's diluted penicillin, which convinces him to stay and assist in capturing Lime.
+
+Lime arrives at a café in the international zone to meet Martins, but Anna is able to warn him that the police are closing in. He flees into the sewer, with the police following him underground. Lime shoots and kills Sgt Paine, but Calloway shoots and badly wounds Lime. Lime drags himself up a cast-iron stairway to a street grating but cannot lift it. Martins, armed with Paine's gun, runs after Lime finding him beneath the grating where they stare at each other. Calloway, realising Martins has chased Lime, shouts that Martins must not take any chances and shoot on sight. Lime nods his head slightly at Martins. Calloway follows down the tunnel as a single shot is heard.
+
+Martins attends Lime's second funeral at the risk of missing his flight out of Vienna. He waits on the road to the cemetery to speak with Anna, but she walks past without glancing in his direction.
+
+==Cast==
+<!--- Notable & "cast worth identifying" only, as per [[MOS:FILMCAST]] & [[WP:NOTDATABASE]] ordered first by Opening then Closing [[Motion picture credits]]. Do NOT list "Uncredited" cast without an RS cite ref. "All [Role] names should be referred to as Credited, OR by common name supported by a Reliable Source" as per [[WP:FILMOGRAPHY]].
+--->
+{{castlist|
+<!-- Opening credits in order: "Starring" -->
+* [[Joseph Cotten]] as Holly Martins
+* [[Alida Valli]] {{small|(credited as 'Valli')}} as Anna Schmidt
+* [[Orson Welles]] as Harry Lime 
+* [[Trevor Howard]] as Major Calloway
+ <!-- post-Title opening credits -->
+* [[Paul Hörbiger]] as Karl, Lime's porter
+* [[Ernst Deutsch]] as "Baron" Kurtz
+* [[Erich Ponto]] as Dr Winkel
+* [[Siegfried Breuer]] as Popescu
+* [[Hedwig Bleibtreu]] as Anna's landlady
+* [[Bernard Lee]] as Sergeant Paine
+* [[Wilfrid Hyde-White]] as Crabbin
+;Uncredited
+* Alexis Chesnakov as Brodsky, Russian official<ref name="afi"/>
+* Herbert Halbik as Hansel, the boy with a ball<ref name="afi"/>
+* Leo Bieber as Casanova, barman<ref name="afi"/>
+* [[Robert Brown (British actor)|Robert Brown]] and [[Geoffrey Keen]] as British MPs<ref name=":0">{{Cite web |title=BFI Screenonline: Third Man, The (1949) Credits |url=http://www.screenonline.org.uk/film/id/441258/credits.html |access-date=2026-06-15 |website=www.screenonline.org.uk}}</ref>
+* [[Reed De Rouen]] as American MP
+* [[Paul Hardtmuth]] as [[Hotel Sacher]] porter<ref name=":0" />
+* [[Annie Rosar]] as porter's wife<ref name=":0" />
+* [[Eric Pohlmann]] as ''Smolka's'' waiter<ref name=":0" />
+* [[Brother Theodore]] as man on street<ref>{{Cite web |title=The Unique Beauty of Brother Theodore’s ‘Stand-up Tragedy’ – Vulture {{!}} The Official Website of Lenny Bruce |url=https://lennybruce.org/2019/07/03/the-unique-beauty-of-brother-theodores-stand-up-tragedy-vulture/ |access-date=2026-06-15 |language=en-US}}</ref>
+* [[Nelly Arno]] as Kurtz's mother<ref name="afi"/><ref name=BFI>{{cite web|title=Nelly Arno|url=http://explore.bfi.org.uk/4ce2bafc07929|website=BFI|access-date=22 July 2015|archive-url=https://web.archive.org/web/20140816093402/http://explore.bfi.org.uk/4ce2bafc07929|archive-date=16 August 2014|url-status=dead}}</ref>
+* [[Karel Štěpánek]] as [[Josefstadt Theatre]] actor
+* Joseph Cotten as the narrator (pre-1999 US version)
+* [[Carol Reed]] as the narrator (pre-1999 UK, and all post-'99 versions)
+}}
+==Production==
+
+Before writing the screenplay, Graham Greene worked out the atmosphere, characterisation, and mood of the story by writing a novella as a [[film treatment]]. He never intended for it to be read by the general public, although it was later published under the same name as the film. The novella is narrated in the first person from Calloway's perspective. In 1948, Greene met [[Elizabeth Varley|Elizabeth Montagu]] in Vienna; she gave him tours of the city, its sewers, and some of its less reputable nightclubs. She also introduced Greene to [[Peter Smolka]], the central European correspondent for ''The Times'', who gave Greene stories about the black market in Vienna.<ref>{{cite journal |journal=The Guardian |date=10 July 1999 |title=Harry in the shadow |url=https://www.theguardian.com/books/1999/jul/10/books.guardianreview10 |access-date=23 December 2015}}</ref>
+
+During the shooting of the film, the final scene was the subject of a dispute between producer [[David O. Selznick]] and Reed. While Selznick preferred the hopeful ending of the novella, with Martins and Anna walking away arm-in-arm, Reed refused to end the film on what he felt was an artificially happy note.<ref>{{cite book|title=Encountering Directors|first=Charles Thomas|last=Samuels|publisher=G. P. Putnam's Sons|year=1974|pages=169–170|isbn=0399110232}}</ref> Greene later wrote: "One of the very few major disputes between Carol Reed and myself concerned the ending, and he has been proved triumphantly right."<ref>{{cite web|url=https://www.nytimes.com/books/00/02/20/specials/greene-astory.html |title='The Third Man' as a Story and a Film |work=[[The New York Times]] |date=19 March 1950 |access-date=2 September 2013}}</ref> Selznick's contribution, according to himself, was mainly enlisting Cotten and Welles and producing the shortened US version.<ref>{{cite book |last=Haver |first=Ronald |title=David O. Selznick's Hollywood |publisher=[[Alfred A. Knopf]] |date=12 October 1980 |isbn=978-0-394-42595-5}}</ref>
+
+Through the years there was occasional speculation that Welles was the ''de facto'' director of ''The Third Man'' rather than Reed. [[Jonathan Rosenbaum]]'s 2007 book ''Discovering Orson Welles'' calls this a "popular misconception",<ref>Rosenbaum, Jonathan, ''Discovering Orson Welles'', University of California Press; 1st edition (2 May 2007), p.25 {{ISBN|0-520-25123-7}}</ref> although Rosenbaum did note that the film "began to echo the Wellesian theme of betrayed male friendship and certain related ideas from ''[[Citizen Kane]]''."<ref name=rosenweb>Rosenbaum, Jonathan. [http://www.jonathanrosenbaum.net/?p=6466 ''Welles in the Limelight''] ''JonathanRosenbaum.net'' n.p. 30 July 1999. Web. 18 October 2010.</ref> Rosenbaum writes that Welles "didn't direct anything in the picture; the basics of his shooting and editing style, its music and meaning, are plainly absent. Yet old myths die hard, and some viewers persist in believing otherwise."<ref name=rosenweb/> Welles himself fuelled this theory in a 1958 interview, in which he said he "entirely wrote the role" of the Harry Lime character and that he'd had an unspecified role in making the film—more than the contribution he made to ''[[Journey into Fear (1943 film)|Journey into Fear]]''—but that it was a "delicate matter" he did not want to discuss because he wasn't the film's producer.<ref>Welles, Orson; Epstein, Mark W. ''Orson Welles: Interviews''. Mississippi: University Press of Mississippi, 2002. Print.</ref> However, in a 1967 interview with [[Peter Bogdanovich]], Welles said that his involvement was minimal: "It was Carol's picture".<ref>Bogdanovich, Peter, ''This Is Orson Welles'', Da Capo Press (21 March 1998) p. 220, {{ISBN|978-0-306-80834-0}}</ref> Welles did contribute some of the film's best-known dialogue. Bogdanovich also stated in the introduction to the DVD: 
+<blockquote>However, I think it's important to note that the look of ''The Third Man''—and, in fact, the whole film—would be unthinkable without ''[[Citizen Kane]]'', ''[[The Stranger (1946 film)|The Stranger]]'' and ''[[The Lady from Shanghai]]'', all of which Orson made in the '40s, and all of which preceded ''The Third Man''. Carol Reed, I think, was definitely influenced by Orson Welles, the director, from the films he had made.<ref>Janus Films. ''The Janus Films Director Introduction Series presents Peter Bogdanovich on Carol Reed's'' The Third Man.</ref></blockquote>
+
+===Principal photography===
+Six weeks of [[principal photography]] were shot on location in Vienna, ending on 11 December 1948.<ref>[http://www.spectator.co.uk/print/the-magazine/features/3521266/i-half-expected-to-see-welles-run-towards-me.thtml I half expected to see Welles run towards me]{{dead link|date=December 2017|bot=InternetArchiveBot|fix-attempted=yes}}, a 7 April 2009 article from ''[[The Spectator]]''</ref> Some use was made of the [[Sievering Studios]] facilities in the city.<ref>Drazin, Charles. ''Korda: Britain's Movie Mogul''. I. B. Tauris, 2011. p. 320.</ref> Production then moved to [[Worton Hall Studios]] in [[Isleworth]]<ref>[http://ftvdb.bfi.org.uk/sift/organisation/38034?view=credit Worton Hall Studios] {{Webarchive|url=https://web.archive.org/web/20090902212448/http://ftvdb.bfi.org.uk/sift/organisation/38034?view=credit |date=2 September 2009 }} from a [[British Film Institute]] website</ref> and [[Shepperton Studios]] in Surrey and was completed in March 1949.<ref name="ccbehind">{{cite book |last=Drazin |first=Charles |url=https://www.criterion.com/current/posts/1020 |title=Carol Reed's ''The Third Man'' |date=21 May 2007 |publisher=[[Criterion Collection]] |section=Behind ''The Third Man'' |access-date=11 January 2024}}</ref> Thomas Riegler emphasises the opportunities for Cold War espionage that the Vienna locations made available, and notes that "the audio engineer Jack Davies noticed at least one mysterious person on the set."<ref>{{Cite journal|last=Riegler|date=2020|title=The Spy Story Behind The Third Man|url=https://www.jstor.org/stable/10.5325/jaustamerhist.4.0001|journal=Journal of Austrian-American History|volume=4|pages=1–37|doi=10.5325/jaustamerhist.4.0001|jstor=10.5325/jaustamerhist.4.0001|s2cid=226400749|url-access=subscription|doi-access=free}}</ref>
+
+The scenes of Harry Lime in the sewer were shot on location or on sets built at Shepperton; most of the location shots used doubles for Welles.<ref name="Documentary">{{cite web|url=https://www.bbc.co.uk/bbcfour/documentaries/features/shadowing-third-man.shtml|title=Shadowing the Third Man|publisher=[[BBC Four]]|work=documentary|date=December 2007|url-status=dead|archive-url=https://web.archive.org/web/20080420120218/http://www.bbc.co.uk/bbcfour/documentaries/features/shadowing-third-man.shtml|archive-date=20 April 2008}}</ref> However, Reed claimed that, despite initial reluctance, Welles quickly became enthusiastic and stayed in Vienna to finish the film.<ref>Noble, Peter. ''The Fabulous Orson Welles''. Hutchison, 1956.</ref>
+
+According to the 2015 recollection of assistant director [[Guy Hamilton]], Greene and Reed worked very well together but Welles "generally annoyed everyone on the set". His temporary absence forced Hamilton to step in as a body double, and the filming of the sewer scenes was moved to studios in the UK as a result of Welles' complaints about shooting in the actual sewers.<ref name=FT>{{cite news | last = Aspden| first = Peter| title = Sewers, zithers and cuckoo clocks| newspaper = Financial Times| pages = Arts 16 | date = 13<!--/14--> June 2015| url = https://www.ft.com/content/e1adc13c-0e8c-11e5-9ae0-00144feabdc0 }}</ref>
+
+Reed had four different camera units shooting around Vienna for the duration of the production. He worked around the clock, using [[Benzedrine]] to stay awake.<ref>{{cite web |last=Feehan |first=Deirdre |url=http://sensesofcinema.com/2003/great-directors/reed/ |title=Senses of Cinema – Carol Reed |publisher=Sensesofcinema.com |access-date=2 September 2013 |archive-url=https://web.archive.org/web/20130604003559/http://sensesofcinema.com/2003/great-directors/reed/ |archive-date=4 June 2013 |url-status=dead }}</ref>
+
+==="Cuckoo clock" speech===
+In a famous scene, Lime meets Martins on the [[Wiener Riesenrad]] in the [[Leopoldstadt|Prater]] amusement park. Looking down on the people below from his vantage point, Lime compares them to dots, and says that it would be insignificant if one of them or a few of them "stopped moving, forever". Back on the ground, he notes:
+
+<blockquote>You know what the fellow said—in Italy, for 30 years under the [[Borgias]], they had warfare, terror, murder and bloodshed; but they produced [[Michelangelo]], [[Leonardo da Vinci]] and the [[Renaissance]]. In Switzerland, they had brotherly love; they had 500 years of democracy and peace—and what did that produce? The [[cuckoo clock]]!</blockquote>
+
+According to scriptwriter Graham Greene, "the popular line of dialogue concerning Swiss cuckoo clocks was written into the script by Mr Welles himself"<ref>{{Cite book |last=Greene |first=Graham |title=The Third Man |publisher=[[Viking Press]] |year=1950 |isbn= |author-link=Graham Greene|oclc=1675444|page=9|publication-place=New York|via=[[Internet Archive]]|url-access=registration|access-date=30 May 2026|url=https://archive.org/details/thirdman0000grah/page/8/mode/2up}}</ref> (in the published script, it is in a footnote).<ref>{{Cite book |last=Greene |first=Graham |author-link=Graham Greene |url=http://archive.org/details/thirdman00gree_0 |title=The Third Man |publisher=[[Faber & Faber|Faber and Faber]] |others=Directed by [[Carol Reed]]. Introduction by [[Andrew Sinclair]] |year=1984 |isbn=978-0-571-12634-7 |edition=Revised |publication-place=London |page=100 |via=[[Internet Archive]]|access-date=31  May 2026}}</ref> Greene wrote in a letter that "What happened was that during the shooting of ''The Third Man'' it was found necessary for the timing to insert another sentence."<ref>13 October 1977</ref> Welles apparently said the lines came from "an old Hungarian play"—in any event the idea is not original to Welles, as acknowledged by the phrase "what the fellow said". The likeliest source is the painter [[James Abbott McNeill Whistler]]; in an 1885 lecture published in ''Mr Whistler's "Ten O'Clock{{"-}}'' in 1888, he said that "The Swiss in their mountains&nbsp;... What more worthy people!&nbsp;... yet, the perverse and scornful [goddess, Art] will have none of it, and the sons of patriots are left with the clock that turns the mill, and the sudden cuckoo, with difficulty restrained in its box! For this was [[William Tell|Tell]] a hero! For this did [[Albrecht Gessler|Gessler]] die!" In a 1916 reminiscence, American painter [[Theodore Wores]] said that he "tried to get an acknowledgment from Whistler that San Francisco would some day become a great art center on account of our climatic, scenic and other advantages. 'But environment does not lead to a production of art,' Whistler retorted. 'Consider Switzerland. There the people have everything in the form of natural advantages—mountains, valleys and blue sky. And what have they produced? The cuckoo clock!"<ref>''San Francisco Town Talk'', 26 February 1916, reported in [https://archive.org/stream/californiaartres10hail#page/n255/mode/2up ''California Art Research'': Charles J. Dickman, Xavier Martinez, Charles R. Peters, Theodore Wores, 1936].</ref>
+
+''This Is Orson Welles'' (1993) quotes Welles: "When the picture came out, the Swiss very nicely pointed out to me that they've never made any cuckoo clocks",<ref>Nigel Rees, ''Brewer's Famous Quotations'', Sterling, 2006, pp. 485–86.</ref> as cuckoo clocks were actually invented in the German [[Black Forest]] (however, it is not true that the Swiss have never made any cuckoo clocks: they contributed a whole subtype, the [[Cuckoo clock#Chalet style, the Swiss contribution|chalet style]]). Writer [[John McPhee]] pointed out that when the Borgias flourished in Italy, Switzerland had "the most powerful and feared military force in Europe" and was not the neutral country it later became.<ref>[[McPhee, John]]. ''La Place de la Concorde Suisse''. New York, Noonday Press ([[Farrar, Straus and Giroux]]), 1984. McPhee is quoting "The Swiss at War" by Douglas Miller.</ref>
+
+===Music===
+{{Quote box|quote= What sort of music it is, whether jaunty or sad, fierce or provoking, it would be hard to reckon; but under its enthrallment, the camera comes into play&nbsp;... The unseen zither-player&nbsp;... is made to employ his instrument much as the Homeric bard did his lyre.|source = William Whitebait, ''[[New Statesman and Nation]]'' (1949)<ref>Quoted in "Round Town with Herb Rau: In A Dither Over The Zither", ''The Miami News'' 20 January 1950 [https://news.google.com/newspapers?id=XDs0AAAAIBAJ&sjid=cOsFAAAAIBAJ&pg=4735,2628537&dq=under-its-enthrallment&hl=en] {{Webarchive|url=https://web.archive.org/web/20150908133323/https://news.google.com/newspapers?id=XDs0AAAAIBAJ&sjid=cOsFAAAAIBAJ&pg=4735,2628537&dq=under-its-enthrallment&hl=en |date=8 September 2015 }}</ref> |align = right|width = 30em|border = 1px|salign = right}}
+[[Zither]] player [[Anton Karas]] composed and performed the film's score. Before the production came to Vienna, Karas was an unknown performer in local [[Heuriger|''Heurigers'']].  According to ''[[Time (magazine)|Time]]'': "The picture demanded music appropriate to post-World War II Vienna, but director Reed had made up his mind to avoid schmaltzy, heavily orchestrated waltzes. In Vienna one night Reed listened to a wine-garden zitherist named Anton Karas, [and] was fascinated by the jangling melancholy of his music."<ref name="time1949">{{cite magazine| url=http://www.time.com/time/magazine/article/0,9171,856412,00.html| title=Zither Dither| magazine=Time| date=28 November 1949| access-date=15 August 2009| archive-date=24 July 2008| archive-url=https://web.archive.org/web/20080724201123/http://www.time.com/time/magazine/article/0,9171,856412,00.html| url-status=dead}}</ref>
+
+According to Guy Hamilton, Reed met Karas by coincidence at a party in Vienna, where he was playing the zither.<ref name="FT"/> Reed brought Karas to London, where the musician worked with Reed on the score for six weeks.<ref name="time1949"/> Karas stayed at Reed's house during that time.<ref name="FT"/> The American film critic [[Roger Ebert]] later asked: "Has there ever been a film where the music more perfectly suited the action than in Carol Reed's ''The Third Man''?"<ref>[https://www.rogerebert.com/reviews/great-movie-the-third-man-1949 ''The Third Man'' review], [[Roger Ebert]], 8 December 1996</ref>
+
+Additional music for the film was written by the Australian-born composer [[Hubert Clifford]] under the pseudonym of Michael Sarsfield. From 1944 until 1950 Clifford was Musical Director for Korda at [[London Film Productions]], where he chose the composers and conducted the scores for films, as well as composing many original scores of his own.<ref name=MT>[https://www.jstor.org/stable/936984 Hubert Clifford obituary, ''Musical Times'', October 1959, p 546]</ref> An extract from his ''Third Man'' music, ''The Casanova Melody'', was orchestrated by Rodney Newton in 2000.<ref>[http://www.musicweb-international.com/classrev/2003/Mar03/Bainton_Clifford.htm ''Clifford/Bainton Vol.2'', Chandos CD 10019 (2003), reviewed at MusicWeb International]</ref>
+
+===Differences between releases===
+As the original British release begins, the voice of director [[Carol Reed]] (uncredited) describes post-war Vienna from a racketeer's point of view. The version shown in American cinemas cut eleven minutes of footage<ref name=imdb>{{IMDb title|id=041959|title=The Third Man}}</ref><!-- also confirmed in the Criterion DVD documentary --> and replaced Reed's voice-over with narration by Cotten as Holly Martins. Selznick instituted the replacement narration because he did not think American audiences would relate to the seedy tone of the original.<ref>Drazin, Charles: "In Search of the Third Man", page 36. Limelight Editions, 1999</ref> Today, Reed's original version appears on American DVDs, in showings on [[Turner Classic Movies]], and in U.S. cinema releases with the eleven minutes of footage restored, including a shot of a near-topless dancer that would have violated the [[Hays Code]]. Both [[the Criterion Collection]] and [[StudioCanal]] DVD releases of the film include both opening monologues.
+
+A restored version of the film was released in the United Kingdom on 26 June 2015.<ref name="FT"/>
+
+In September 2024, [[StudioCanal]] released a 4K restoration of the film to celebrate its 75th anniversary. It had a short run in UK cinemas and was later released on 4K Blu-ray.
+
+==Reception==
+The Grand Gala World Premiere of the film was held at the Ritz Cinema in [[Hastings]] on 1 September 1949.<ref name="Art & Hue"/>
+
+===Box office===
+''The Third Man'' was the most popular film at the British box office in 1949.<ref>{{cite news |url=https://trove.nla.gov.au/newspaper/article/49700937 |title=TOPS AT HOME. |newspaper=[[The Courier-Mail]] |location=Brisbane |date=31 December 1949 |access-date=24 April 2012 |page=4 |publisher=National Library of Australia |archive-url=https://web.archive.org/web/20250414061841/https://trove.nla.gov.au/newspaper/article/49700937 |archive-date=2025-04-14 |url-status=live}}</ref>
+
+===Critical response===
+In Austria, "local critics were underwhelmed",<ref name=Cook>{{cite news|newspaper= The Guardian|title=The Third Man's view of Vienna|url= https://www.theguardian.com/film/2006/dec/08/3|last=Cook|first=William|date=8 December 2006|access-date=15 August 2009}}</ref> and the film ran for only a few weeks. The Viennese [[Arbeiter-Zeitung (Vienna)|''Arbeiter-Zeitung'']], although critical of a "not-too-logical plot", praised the film's "masterful" depiction of a "time out of joint" and the city's atmosphere of "insecurity, poverty and post-war immorality".<ref>{{cite news|title=Kunst und Kultur. (…) Filme der Woche. Der dritte Mann|access-date=6 June 2012|newspaper=[[Arbeiter-Zeitung (Vienna)|Arbeiter-Zeitung]]|date=12 March 1950|url=http://www.arbeiter-zeitung.at/cgi-bin/az/flash.pl?seite=19500312_A07;html=1|location=Vienna|page=7|archive-date=17 June 2013|archive-url=https://web.archive.org/web/20130617113752/http://www.arbeiter-zeitung.at/cgi-bin/az/flash.pl?seite=19500312_A07;html=1|url-status=dead}}</ref> William Cook, after his 2006 visit to Vienna's [[Third Man Museum]], wrote: "In Britain it's a thriller about friendship and betrayal. In Vienna it's a tragedy about Austria's troubled relationship with its past."<ref name=Cook/>
+
+Some critics at the time criticised the film's [[Dutch angle]]s. [[C. A. Lejeune]] in ''The Observer'' described Reed's "habit of printing his scenes askew, with floors sloping at a diagonal and close-ups deliriously tilted" as "most distracting". Reed's friend [[William Wyler]] sent him a [[spirit level]] with a note stating: "Carol, next time you make a picture, just put it on top of the camera, will you?"<ref>[http://www.wellesnet.com/?p=172 Interview with Carol Reed from the book ''Encountering Directors'' by Charles Thomas Samuels (1972)] from wellesnet.com</ref>
+
+Upon its release in Britain and America, the film received overwhelmingly positive reviews.<ref>"The Third Man was a huge box-office success both in Europe and America, a success that reflected great critical acclamation&nbsp;... The legendary French critic [[André Bazin]] was echoing widespread views when, in October 1949, he wrote of The Third Man's director: "Carol Reed&nbsp;... definitively proves himself to be the most brilliant of English directors and one of the foremost in the world." The positive critical reaction extended to all parts of the press, from popular daily newspapers to specialist film magazines, from niche consumer publications to the broadsheet establishment papers&nbsp;... Dissenting voices were very rare, but there were some. {{cite web |first=Rob |last=White |title=The Third Man – Critical Reception |publisher=Screenonline.org |url=http://www.screenonline.org.uk/film/id/591618/index.html}}</ref> [[Time (magazine)|''Time'']] wrote that the film was "crammed with cinematic plums that would do the early Hitchcock proud—ingenious twists and turns of plot, subtle detail, full-bodied bit characters, atmospheric backgrounds that become an intrinsic part of the story, a deft commingling of the sinister with the ludicrous, the casual with the bizarre."<ref name="time19500206">{{cite magazine | url=http://www.time.com/time/magazine/article/0,9171,811872,00.html | title=The New Pictures | magazine=Time | date=1950-02-06 | access-date=12 February 2015 | url-status=dead | archive-url=https://web.archive.org/web/20100523042718/http://www.time.com/time/magazine/article/0,9171,811872,00.html | archive-date=2010-05-23}}</ref>
+
+''[[The New York Times]]'' movie critic [[Bosley Crowther]] gave the film a mixed review, stating that the film:
+<blockquote>
+... for all the awesome hoopla it has received, is essentially a first-rate contrivance in the way of melodrama—and that's all. ... It doesn't present any 'message.' It hasn't a point of view. It is just a bang-up melodrama, designed to excite and entertain.
+</blockquote>
+Nonetheless he also described it as "an extraordinarily fascinating picture" and that: 
+<blockquote>
+[Reed] brilliantly packaged the whole bag of his cinematic tricks, his whole range of inventive genius for making the camera expound. His eminent gifts for compressing a wealth of suggestion in single shots, for building up agonized tension and popping surprises are fully exercised. His devilishly mischievous humor also runs lightly through the film, touching the darker depressions with little glints of the gay or macabre.<ref>{{cite news|title=The Screen in Review: ''The Third Man'', Carol Reed's Mystery-Thriller-Romance, Opens Run of Victoria|url= https://movies.nytimes.com/movie/review?res=9A02E4DB1E39E43BBC4B53DFB466838B649EDE|last=Crowther|first=Bosley|author-link= Bosley Crowther|series=NYT Critics Pick|work=The New York Times|date=3 February 1950|access-date=15 August 2009}}</ref>
+</blockquote>
+
+A rare negative review came from the British communist newspaper ''[[Daily Worker (UK newspaper)|Daily Worker]]'', which complained that "no effort is spared to make the Soviet authorities as sinister and unsympathetic as possible."<ref>Quoted in the British Film Institute's [[Screenonline]] {{cite web |publisher=Screenonline.org |title=The Third Man – Critical Reception |first=Bob |last=White |url=http://www.screenonline.org.uk/film/id/591618/index.html}}</ref>
+
+In a 1997 book, [[Roger Ebert]] praised the film and wrote: "It was a rainy day in Paris in 1962, and I was visiting Europe for the first time. A little cinema on the [[Rive Gauche|Left Bank]] was showing ''The Third Man,'' and I went, into the humid cave of [[Gauloises|Gauloise]] smoke and perspiration, and saw the movie for the first time. When Welles made his entrance, I was lost to the movies."<ref>{{Cite book |last=Ebert |first=Roger |title=Roger Ebert's Book of Film: From Tolstoy to Tarantino, The Finest Writing From a Century of Film |year=1997 |pages=14 |url=https://archive.org/stream/tolstoytotarantino/Roger%20Ebert%20-From%20Tolstoy%20to%20Tarantino%2C%20the%20Finest%20Writing%20From%20a%20Century%20of%20Film%281996%29_djvu.txt}}</ref> He added it to his canon of "Great Movies" and wrote, "Of all the movies that I have seen, this one most completely embodies the romance of going to the movies."<ref>{{cite news |last=Ebert |first=Roger |date=8 December 1996 |title=The Third Man (1949) |work=[[Chicago Sun-Times]] |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19961208/REVIEWS08/401010366/1023 |url-status=dead |access-date=2 January 2022 |archive-url=https://web.archive.org/web/20130324015429/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F19961208%2FREVIEWS08%2F401010366%2F1023 |archive-date=24 March 2013}}</ref> In a 1994 episode of ''Siskel & Ebert'', Ebert named Lime as his favourite film villain. [[Gene Siskel]] remarked that ''The Third Man'' was an "exemplary piece of moviemaking, highlighting the ruins of World War II and juxtaposing it with the characters' own damaged histories".{{Citation needed|date=August 2024}}
+
+The film has a 99% rating on Rotten Tomatoes based on 96 reviews, with an average rating of 9.3/10 and the following consensus: "This atmospheric thriller is one of the undisputed masterpieces of cinema, and boasts iconic performances from Joseph Cotten and Orson Welles."<ref>{{cite web |title=The Third Man (1949) |url=https://www.rottentomatoes.com/m/the-third-man/ |archive-url=https://web.archive.org/web/20170108204238/https://www.rottentomatoes.com/m/the-third-man/ |archive-date=8 January 2017 |work=Rotten Tomatoes |access-date=28 May 2025 |url-status=dead }}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 97 out of 100, based on 30 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''The Third Man'' |url=https://www.metacritic.com/movie/the-third-man |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=October 29, 2025 |archive-url= |archive-date= |url-status=}}</ref><ref>{{Cite Metacritic |title=The Third Man |id=the-third-man |type=movie |access-date=October 29, 2025}}</ref>
+
+[[Akira Kurosawa]] cited ''The Third Man'' as one of his 100 favourite films.<ref name="farout">{{cite web |last=Thomas-Mason |first=Lee |title=From Stanley Kubrick to Martin Scorsese: Akira Kurosawa once named his top 100 favourite films of all time |url=https://faroutmagazine.co.uk/akira-kurosawa-100-favourite-films-list/ |website=Far Out Magazine |date=12 January 2021 |access-date=23 January 2023}}</ref>{{better source needed|date=May 2026}}
+
+[[Pauline Kael]] for ''[[The New Yorker]]'' later said that the film had an atmosphere of "[[baroque]] glamour and evil."<ref>{{Cite book |last=Kael |first=Pauline |url=https://www.google.com/books/edition/The_Age_of_Movies_Selected_Writings_of_P/tkShTL84MrcC?hl=en&gbpv=1&dq=the+age+of+movies+selected+writings+of+pauline+kael&printsec=frontcover |title=The Age of Movies: Selected Writings of Pauline Kael: A Library of America Special Publication |date=2011-10-27 |publisher=Library of America |isbn=978-1-59853-171-8 |pages=382 |language=en}}</ref>
+
+==Soundtrack release==
+{{main|The Third Man Theme}}
+
+"[[The Third Man Theme]]" was released as a single in 1949/1950 (Decca in the UK, London Records in the US). It became a best-seller. By November 1949, 300,000 records had been sold in Britain, and the teen-aged [[Princess Margaret]] was reportedly a fan.<ref name="time1949"/> Following its release in the US in 1950, "''The Third Man'' Theme" spent 11 weeks at number one on ''[[Billboard (magazine)|Billboard]]''{{'}}s [[Billboard Hot 100|Best Sellers in Stores]] chart, from 29 April to 8 July.<ref>{{cite web|url=http://tsort.info/music/3hq6ab.htm |title=Song title 199 – Third Man Theme |publisher=Tsort.info |access-date=2 September 2013}}</ref> The exposure made Anton Karas an international star;<ref>[https://web.archive.org/web/20070817142147/http://www.tcm.com/movienews/index/?cid=157596 "The Third Man" DVD review], Sean Axmaker, ''Turner Classic Movies.''</ref> the trailer for the film stated that "the famous musical score by Anton Karas" would have the audience "in a dither with his zither".<ref name="ultimatetrailer">''The Ultimate Trailer Show''. HDNet, 22 September 2010.</ref><ref>Archived at [https://ghostarchive.org/varchive/youtube/20211211/M7d9VpSdGhA Ghostarchive]{{cbignore}} and the [https://web.archive.org/web/20110721160333/http://www.youtube.com/watch?v=M7d9VpSdGhA Wayback Machine]{{cbignore}}: {{cite AV media | url=https://www.youtube.com/watch?v=M7d9VpSdGhA | title=The Third Man Trailer | publisher=YouTube | date=17 February 2010}}{{cbignore}}</ref>
+
+==Awards and honours==
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+|-
+| rowspan="3"| [[23rd Academy Awards|Academy Awards]]
+| [[Academy Award for Best Director|Best Director]] 
+| [[Carol Reed]]
+| {{nom}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography – Black and White]]
+| [[Robert Krasker]]
+| {{won}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]] 
+| [[Oswald Hafenrichter]]
+| {{nom}}
+|-
+| rowspan="2"| [[3rd British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Film|Best Film]] 
+| rowspan="4"| Carol Reed
+| {{nom}}
+|-
+| [[BAFTA Award for Outstanding British Film|Best British Film]]
+| {{won}}
+|-
+| [[1949 Cannes Film Festival|Cannes Film Festival]]
+| [[Palme d'Or]]
+| {{won}}
+|-
+| [[2nd Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| {{nom}}
+|-
+| [[National Board of Review Awards 1950|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Five International Films|Top Ten Foreign Films]]
+| {{draw|3rd Place}}
+|}
+
+Besides its top ranking in the [[BFI Top 100 British films]] list, in 2004 the magazine ''[[Total Film]]'' ranked it the fourth-greatest British film of all time. In 2005, viewers of BBC Television's ''[[Newsnight Review]]'' voted the film their fourth favourite of all time, the only film in the top five made before 1970.
+
+The film also placed 57th on the [[American Film Institute]]'s list of [[AFI's 100 Years...100 Movies|top American films]] in 1998, though the film's only American connections were Selznick, Welles, and Cotten. In June 2008, the AFI's ''[[AFI's 10 Top 10|10 Top 10]]'' series of lists ranked it as the fifth-best American mystery film.<ref>{{cite news|publisher = [[American Film Institute]]|title = AFI's 10 Top 10|date =17 June 2008|url = http://www.afi.com/10top10/mystery.html|access-date=18 June 2008}}</ref> The film also placed 75th on AFI's list of [[AFI's 100 Years...100 Thrills|100 Years...100 Thrills]],<ref>{{Cite web |title=AFI's 100 YEARS...100 THRILLS |url=http://connect.afi.com/site/DocServer/thrills100.pdf?docID=250 |archive-url=https://web.archive.org/web/20110716072119/http://connect.afi.com/site/DocServer/thrills100.pdf?docID=250 |archive-date=2011-07-16 |access-date=2026-01-02 |website=connect.afi.com}}</ref> and Harry Lime was listed as the 37th-greatest villain in [[100 Heroes and Villains]].<ref>{{Cite web |title=AFI's 100 YEARS...100 HEROES & VILLAINS |url=http://connect.afi.com/site/DocServer/handv100.pdf?docID=246 |archive-url=https://web.archive.org/web/20090919175346/http://connect.afi.com/site/DocServer/handv100.pdf?docID=246 |archive-date=2009-09-19 |access-date=2026-01-02 |website=connect.afi.com}}</ref>
+
+It has also consistently been listed on the ''[[Sight and Sound]]'' Poll of the Greatest Films of All Time, conducted every decade. In 1982 it was 14th, 42nd in 1992, 32nd in 2002, 73rd in 2012 and 63rd in the latest poll in 2022.<ref>{{cite web|url=https://thereveal.substack.com/p/63-the-third-man-the-reveal-discusses|title=#63: 'The Third Man': The Reveal discusses all 100 of Sight & Sound's Greatest Films of All Time|website=thereveal.substack.com|access-date=26 October 2025}}</ref> In 2006, [[Writers Guild of America West]] ranked its screenplay 33rd in WGA's list of 101 Greatest Screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-02 |language=en}}</ref>
+
+==Copyright status==
+In the United Kingdom, films of this vintage are copyright protected as dramatic works until 70 years after the end of the year in which that last "principal author" died. The principal authors are generally the writer/s, director/s or composer/s of original work, and since in the case of ''The Third Man'' Graham Greene died in 1991, the film is protected until the end of 2061.
+
+The film lapsed into public domain in the United States when the copyright was not renewed after Selznick's death. In 1996, the [[Uruguay Round Agreements Act#Copyright restorations|Uruguay Round Agreements Act]]<ref name="cornellCopyright">{{cite web |last=Hirtle |first=Peter B. |date=3 January 2014 |title=Copyright Term and the Public Domain in the United States |url=https://guides.library.cornell.edu/copyright/publicdomain |access-date=11 January 2024 |publisher=Cornell Copyright Information Center}}</ref> restored the film's U.S. copyright protection to [[StudioCanal|StudioCanal Image UK Ltd]]. The Criterion Collection released a digitally restored DVD of the original British print of the film. In 2008, Criterion released a [[Blu-ray]] edition,<ref>{{cite web|url=http://www.criterion.com/films/236 |title=The Third Man (1949) – The Criterion Collection |publisher=Criterion.com |access-date=6 March 2010}}</ref> and in September 2010, [[Lionsgate Studios|Lionsgate]] reissued the film on Blu-ray.{{r|ultimatetrailer}}
+
+On 18 January 2012, the [[Supreme Court of the United States]] ruled in ''[[Golan v. Holder]]'' that the copyright clause of the [[United States Constitution]] does not prevent the U.S. from meeting its treaty obligations towards copyright protection for foreign works. Following the ruling, films such as ''The Third Man'' and ''[[The 39 Steps (1935 film)|The 39 Steps]]'' were taken back out of the public domain and became fully copyrighted in the United States.<ref>{{cite web|url=http://aplegal.com/2014/06/19/u-s-supreme-court-takes-39-steps-back-from-the-public-domain/|title=Supreme Court Takes "39 Steps" Back From Public Domain|publisher=Aplegal.com|date=19 June 2014|access-date=27 June 2014|archive-date=24 June 2014|archive-url=https://web.archive.org/web/20140624030355/http://aplegal.com/2014/06/19/u-s-supreme-court-takes-39-steps-back-from-the-public-domain/|url-status=dead}}</ref> Under current U.S. copyright law, ''The Third Man'' will remain copyrighted until 1 January 2045.<ref name = cornellCopyright/>
+
+==Adaptations==
+Cotten reprised his role as Holly Martins in a one-hour ''[[The United States Steel Hour|Theatre Guild on the Air]]'' radio adaptation on 7 January 1951. It was also adapted as a one-hour radio play on two broadcasts of ''[[Lux Radio Theatre]]'': on 9 April 1951 with Joseph Cotten again reprising his role and on 8 February 1954 with [[Ray Milland]] as Martins.
+
+On 26 December 1950, the [[BBC Home Service]] broadcast a radio adaptation by [[Desmond Carrington]], using the actual soundtrack of the film with linking narration performed by [[Wilfrid Thomas|Wilfred Thomas]].<ref>{{cite web|url=http://genome.ch.bbc.co.uk/50b3f5064cba4914b47882a0dfead3cd|title=BBC Home Service: The Third Man|website=BBC Programme Index|date=26 December 1950 |access-date=22 July 2024}}</ref>
+
+On 13 November 1971, as part of the ''[[Saturday Night Theatre]]'', [[BBC Radio 4]] broadcast an adaptation from the screenplay by Richard Wortley, with [[Ed Bishop]] as Holly Martins, [[Ian Hendry]] as Harry Lime, [[Ann Lynn]] as Anna and [[John Bentley (actor)|John Bentley]] as Col. Calloway,<ref>{{cite web|url=http://genome.ch.bbc.co.uk/eeac943ffa8f4279b71f94085a26d06c|title=Saturday Night Theatre: The Third Man (1971)|website=BBC Programme Index|date=13 November 1971 |access-date=22 July 2024}}</ref>
+
+In November 1994, a new dramatisation directed by Robert Robinson was performed and recorded by the [[L.A. Theatre Works]] in front of a live audience at the Guest Quarter Suite Hotel in [[Santa Monica, California]].<ref>{{cite web|url=http://latw.org/title/third-man|title=LATW: The Third Man|website=latw.org|access-date=23 July 2024}}</ref> The cast included [[Kelsey Grammer]] as Holly Martins, [[Rosalind Ayres]] as Anna Schmidt, [[John Vickery (actor)|John Vickery]] as Harry Lime and [[John Mahoney]] as Major Calloway.
+
+==Spin-offs==
+The British radio series ''[[The Adventures of Harry Lime]]'' (broadcast in the US as ''The Lives of Harry Lime'') created as a prequel to the film, centres on Lime's adventures prior to the film, and Welles reprises his role as a somewhat less nefarious adventurer anti-hero than the sociopathic opportunist depicted in the film's incarnation. Fifty-two episodes aired in 1951 and 1952, several of which Welles wrote, including "Ticket to Tangiers", which is included on the Criterion Collection and StudioCanal releases of ''The Third Man''. Recordings of the 1952 episodes "Man of Mystery", "Murder on the Riviera", and "Blackmail Is a Nasty Word" are included on the Criterion Collection DVD ''The Complete [[Mr. Arkadin]]''.
+
+Harry Lime appeared in two comic book stories in the fourth issue of ''Super Detective Library'':<ref>{{cite web|url=http://comicbookplus.com/?dlid=61088|title=Super Detective Library 4 - "The Return of The Third Man"|website=Comic Book Plus|date=May 1953 |access-date=1 August 2024}}</ref> "The Secret of the Circus" and "Too Many Crooks".
+
+A [[The Third Man (TV series)|television spin-off]] starring [[Michael Rennie]] as Harry Lime ran for five seasons from 1959 to 1965. Seventy-seven episodes were filmed; directors included [[Paul Henreid]] (10 episodes) and [[Arthur Hiller]] (six episodes). [[Jonathan Harris]] played [[sidekick]] Bradford Webster for 72 episodes, and [[Roger Moore]] guest-starred in the instalment "The Angry Young Man", which Hiller directed.
+
+==See also==
+{{Portal|Film}}
+* [[Third Man Museum]]
+*[[BFI Top 100 British films]]
+* [[Schönlaterngasse]], alleyway in Vienna
+* ''[[The Third Man: The Official Story of the Film]]'', 2024 non-fiction book
+
+==References==
+{{Reflist}}
+
+;Bibliography
+{{Refbegin}}
+* Vermilye, Jerry. ''The Great British Films'', 1978, pp.&nbsp;134–136, Citadel Press. {{ISBN|0-8065-0661-X}}
+* {{cite book |last=Drazin |first=Charles |title=In Search of the Third Man |publisher=Limelight Editions |location=New York |year=2000 |isbn=978-0-87910-294-4}}
+* {{cite book |last=Glück |first=Alexander |title=On the Trail of The Third Man in Vienna |publisher=Styriabooks |location=Vienna |year=2014 |isbn=978-3-85431-665-7}}
+* {{cite book |last=Moss |first=Robert |title=The Films of Carol Reed |publisher=Columbia University Press |location=New York |year=1987 |isbn=978-0-231-05984-8 |url-access=registration |url=https://archive.org/details/filmsofcarolreed0000moss}}
+* {{cite book |last=Timmermann |first=Brigitte |title=The Third Man's Vienna |publisher=Shippen Rock Publishing |location=Austria |year=2005 |isbn=3-9502050-1-2}}
+{{Refend}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category|The Third Man (1949 film)}}
+
+'''Essays'''
+* [https://www.criterion.com/current/posts/25-the-third-man ''The Third Man''], an essay by Michael Wilmington at the [[Criterion Collection]]
+
+'''Geography'''
+* [https://web.archive.org/web/20191116184818/http://www.theory.physics.ubc.ca/thirdman/thirdman.html ''The Third Man'' locations] - [[W. G. Unruh]]<!-- https://web.archive.org/web/20190704035032/http://www.theory.physics.ubc.ca/thirdman/reichs/reichsbruecke.htm -->
+* [https://web.archive.org/web/20180320024539/http://www.theory.physics.ubc.ca/thirdman/Wienmap.html ''The Third Man'' map] - [[W. G. Unruh]]
+* [https://web.archive.org/web/20180715184057/http://www.thethirdman.net:80/pages/derdrittemann.html ''The Third Man'': Vienna in the Footsteps of a Film Classic], a 2002 essay by  Brigitte Timmermann - ''thethirdman.net''
+
+'''[[Turner Classic Movies]]'''
+* [https://web.archive.org/web/20180916100223/http://www.tcm.com/tcmdb/title/92904/The-Third-Man/articles.html ''The Third Man'' articles]
+* [https://www.tcm.com/watchtcm/titles/92904 Watch ''The Third Man'']
+* [https://web.archive.org/web/20201023025146/https://www.tcm.com/video/536501/third-man-the-1949-death-at-double-x-ranch (Movie Clip) "Death at Double-X Ranch"]
+* [https://web.archive.org/web/20241008132132/https://www.tcm.com/video/536519/third-man-the-1949-movie-clip-friend-of-harry-lime (Movie Clip) ''Friend Of Harry Lime'']
+* [[Ben Mankiewicz]] - [https://www.tcm.com/video/1383213/Ben%20Mankiewicz%20Intro%20--%20The%20Third%20Man%20%281949%29/ Introduction]<!-- https://web.archive.org/web/20201023025146/https://www.tcm.com/video/1390246/ben-mankiewicz-intro-the-third-man-1949 -->
+
+'''Film'''
+* [https://archive.org/details/third-man-1949 ''The Third Man''], full film, colourised, [[archive.org]]
+
+'''Audio'''
+* [https://archive.org/download/TheaterGuildontheAir/Tgoa_51-01-07_ep057-The_Third_Man.mp3 ''The Third Man''] on [[Theater Guild on the Air]]: 7 January 1951
+* [https://archive.org/download/Lux16/Lux_51-04-09_The_Third_Man.mp3 ''The Third Man''] on [[Lux Radio Theater]]: 9 April 1951
+* [https://web.archive.org/web/20171231211911/http://www.johnbrown.tv/harrylime/ "The Lives of Harry Lime" Radio Series]
+
+'''Metadata'''
+* {{AFI film|27593}}
+* {{TCMDb title|92904}}
+* {{Screenonline title|441258}}
+* {{Rotten-tomatoes|m/the_third_man}}
+* {{Metacritic film}}
+* {{IMDb title|0041959}}
+
+'''Tourism'''
+* [http://www.3mpc.net/englsamml.htm ''The Third Man'' Museum], [[Vienna, Austria]]
+* [https://web.archive.org/web/20021225073745/http://www.thethirdman.net/ ''The Third Man'' tour] - ''[https://web.archive.org/web/20180625024636/http://www.viennawalks.com/?page=impressum Vienna Walks & Talks]'', Timmermann & Co OG <!-- https://web.archive.org/web/*/http://www.thethirdman.net/pages/* -->
+
+{{Navboxes
+| title = Awards for ''The Third Man''
+| list1 =
+{{BAFTA Best British Film}}
+{{Palme d'Or 1939-1959}}
+}}
+{{Navboxes
+|list1=
+{{Graham Greene}}
+{{Alexander Korda}}
+{{Carol Reed}}
+{{David O. Selznick}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Third Man}}
+[[Category:1940s mystery thriller films]]
+[[Category:1940s psychological thriller films]]
+[[Category:1949 films]]
+[[Category:Best British Film BAFTA Award winners]]
+[[Category:British black-and-white films]]
+[[Category:British mystery thriller films]]
+[[Category:British novellas]]
+[[Category:Cold War films]]
+[[Category:Culture in Vienna]]
+[[Category:Expressionist films]]
+[[Category:Film noir]]
+[[Category:Films about writers]]
+[[Category:Films adapted into radio programs]]
+[[Category:Films adapted into television shows]]
+[[Category:Films based on short fiction]]
+[[Category:Films based on works by Graham Greene]]
+[[Category:Films directed by Carol Reed]]
+[[Category:Films produced by David O. Selznick]]
+[[Category:Films set in Vienna]]
+[[Category:Films shot at Isleworth Studios]]
+[[Category:Films shot at Shepperton Studios]]
+[[Category:Films shot at Sievering Studios]]
+[[Category:Films shot in Vienna]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Films with screenplays by Graham Greene]]
+[[Category:1949 German-language films]]
+[[Category:Leopoldstadt]]
+[[Category:London Films films]]
+[[Category:Novels set in Vienna]]
+[[Category:Palme d'Or winners]]
+[[Category:1949 Russian-language films]]
+[[Category:1949 English-language films]]
+[[Category:1949 British films]]
+[[Category:1949 American films]]
+[[Category:English-language mystery thriller films]]
+[[Category:American black-and-white films]]
+[[Category:American mystery thriller films]]
+[[Category:American novellas]]
+<!-- 
+* [
+* [
+* [
+* [
+* [
+ -->

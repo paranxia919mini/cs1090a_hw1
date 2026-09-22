@@ -1,0 +1,60 @@
+{{short description|1935 Japanese film}}
+{{use dmy dates|date=July 2023}}
+{{about||the 1954 film by Kenji Mizoguchi|The Woman in the Rumor}}
+{{Infobox film
+| name           = The Girl in the Rumor
+| image          = Uwasa_no_musume_(1935).jpg
+| caption        = 
+| native_name    = {{Infobox Japanese| kanji = 噂の娘}}
+| director       = [[Mikio Naruse]]
+| producer       = 
+| writer         = Mikio Naruse
+| starring       = {{ubl|Sachiko Chiba|Ryuko Umezono|Kō Mihashi}}
+| music          = Noboru Itō
+| cinematography = Hiroshi Suzuki
+| editing        = Kōichi Iwashita
+| studio         = P.C.L.
+| distributor    = P.C.L.
+| released       = {{film date|1935|12|22|Japan|df=yes|ref1=<ref name="jmdb">{{cite web|url=http://www.jmdb.ne.jp/1935/bk004520.htm |title=噂の娘 |website=Japanese Movie Database |language=ja |access-date=26 October 2022}}</ref><ref name="kinenote">{{cite web|url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=65723 |title=噂の娘 |website=Kinenote |language=ja |access-date=26 October 2022}}</ref>}}
+| runtime        = 55 minutes
+| country        = Japan
+| language       = Japanese 
+}}
+'''''The Girl in the Rumor''''' ({{langx|ja|噂の娘|Uwasa no musume}}) is a 1935 Japanese [[drama film]] written and directed by [[Mikio Naruse]].<ref name="galbraith">{{cite book |last=Galbraith IV |first=Stuart |date=2008 |title=The Toho Studios Story: A History and Complete Filmography |location=Lanham, Toronto, Plymouth |publisher=Scarecrow Press |isbn=978-0-8108-6004-9}}</ref><ref name="russell">{{cite book |last=Russell |first=Catherine |date=2008 |title=[[The Cinema of Naruse Mikio: Women and Japanese Modernity]] |location=Durham and London |publisher=Duke University Press |isbn=978-0-8223-4290-8}}</ref>
+
+==Plot==
+The film opens with a conversation between a barber and his customer about the Nadaya food store across the street which, in their words, is "going downhill" since the former owner Keisaku retired and his son Kenkichi took over. Keisaku starts drinking the store's sake already early in the day, complaining that the sake's quality is decreasing lately. While Kenkichi's more modern daughter Kimiko lives a life of ease, the more traditional Kunie is working in her father's store. Now that his wife has died, Kenkichi offers his mistress Oyo to move into their house, a plan endorsed by Kunie but opposed by Kimiko. 
+
+The sisters' uncle arranges an [[Miai|omiai]] between Kunie and Shintarō, son of a wealthy family, which Kenkichi is against as he himself was forced into an arranged and unhappy marriage. After the meeting between the marriage prospects, Shintarō shows more interest in Kimiko. Kunie's father and uncle soon learn of Shintarō preferring Kimiko over her, but hide the fact from Kunie. When Kunie finds out that Kimiko is dating Shintarō, her sister confesses her deed in the most insensitive way, leaving Kunie in grief. 
+
+Kenkichi finally arranges a meeting between Kimiko and Oyo in his house, explaining that Oyo is her real mother and that he and his wife brought her up as their second daughter. Kimiko refuses to accept the truth and makes preparations to leave the house. At this moment the police arrive and ask Kenkichi to follow them to the station for an interrogation, as he had cut the sake sold in his store. In the barber shop, the barber and a customer shrug off the Nadaya's fate, joking what kind of store will open in its place.
+
+==Cast==
+* Sachiko Chiba as Kunie
+* Ryuko Umezono as Kimiko
+* Kō Mihashi as Kenkichi, the father
+* Yō Shiomi as Keisaku, the grandfather
+* [[Kamatari Fujiwara]] as the uncle
+* Toshiko Itō as Oyo
+* [[Heihachiro Okawa|Heihachirō Ōkawa]] as Shintarō
+* Masao Mishima as the barber
+
+==Reception==
+In his 1959 book ''The Japanese Film – Art & Industry'', film historian [[Donald Richie]] described ''The Girl in the Rumor'' as "a triumph of technique over old-fashioned material" and "opposed to the melodramatics of the period".<ref name="Anderson-Richie">{{cite book |last1=Anderson |first1=Joseph L. |last2=Richie |first2=Donald |author-link= |date=1959 |title=The Japanese Film – Art & Industry |url= |location=Rutland, Vermont and Tokyo |publisher=Charles E. Tuttle Company |page= |isbn=}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0027163}}
+* {{cite web|url=https://windowsonworlds.com/2019/12/22/the-girl-in-the-rumor-%E5%99%82%E3%81%AE%E5%A8%98-mikio-naruse-1935/ |title=The Girl in the Rumor |website=Windows on Worlds |date=22 December 2019 |first=Hayley |last=Scanlon |access-date=9 September 2021}}
+
+{{Mikio Naruse}}
+
+{{DEFAULTSORT:Girl in the Rumor, The}}
+[[Category:1935 films]]
+[[Category:1935 drama films]]
+[[Category:Japanese drama films]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:1930s Japanese-language films]]
+[[Category:Japanese-language drama films]]

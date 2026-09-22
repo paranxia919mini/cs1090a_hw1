@@ -1,0 +1,57 @@
+{{short description|1940 Japanese film}}
+{{use dmy dates|date=July 2023}}
+{{Infobox film
+| name           = Travelling Actors
+| image          = Actores itinerantes (Tabi yakusha) 1.jpg
+| caption        = 
+| native_name    = {{Infobox Japanese| kanji = 旅役者}}
+| director       = [[Mikio Naruse]]
+| producer       = Himuro Teppei
+| writer         = {{ubl|Mikio Naruse|Mushū Ui (short story)}}
+| starring       = {{ubl|[[Kamatari Fujiwara]]|Kan Yanagiya|[[Minoru Takase]]}}
+| music          = Fumio Hayasaki
+| cinematography = Seiichi Kizuka
+| editing        = 
+| studio         = [[Toho]]
+| distributor    = Toho
+| released       = {{film date|1940|12|18|Japan|df=y|ref1=<ref name="jmdb">{{cite web |url=http://www.jmdb.ne.jp/1940/bp004840.htm |title=旅役者 (Travelling Actors) |website=Japanese Movie Database |language=Japanese |access-date=11 May 2021}}</ref><ref name="kinenote">{{cite web |url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=68035 |title=旅役者 (Travelling Actors) |website=Kinenote |language=Japanese |access-date=11 May 2021}}</ref>}}
+| runtime        = 71 minutes<ref name="jmdb" /><ref name="kinenote" />
+| country        = Japan
+| language       = Japanese 
+}}
+'''''Travelling Actors''''' ({{langx|ja|旅役者|Tabi yakusha}}) is a 1940 Japanese [[comedy film]] written and directed by [[Mikio Naruse]]. It is based on a short story by Mushū Ui.<ref name="jmdb" /><ref name="kinenote" /><ref name="Galbraith">{{cite book |last=Galbraith IV |first=Stuart |date=2008 |title=The Toho Studios Story: A History and Complete Filmography |location=Lanham, Toronto, Plymouth |publisher=Scarecrow Press |page=44 |isbn=978-0-8108-6004-9}}</ref>
+
+==Plot==
+A [[kabuki]] theatre troupe from [[Tokyo]], led by the "famous" Kikugoro, arrives at a rural village for a series of performances. Jin, the town's barber, who was talked into co-sponsoring the event, realises that the "star" is only an actor who uses the famous family name as a publicity stunt. While drunk and angrily searching for his business partner Wakasaya, Jin accidentally destroys the head of the horse costume of actors Hyoroku and Senpei. When Hyoroku rejects to perform in the sloppily repaired costume, Kikugoro decides to use a real horse for the play instead and makes Hyoroku the stable boy. Hyoroku, drunk and enraged about the degradation, puts on the horse costume with Senpei and chases the real horse away.
+
+==Cast==
+* [[Kamatari Fujiwara]] as Hyoroku
+* Kan Yanagiya as Senpei
+* [[Minoru Takase]] as Nakamura Kikugoro VI
+* Zekō Nakamura as Jin, the barber
+* Kō Mihashi as Wakasaya
+* Sōji Kiyokawa as Shichiemon Ichikawa
+
+==Legacy==
+In later years, director Mikio Naruse cited ''Travelling Actors'', despite interventions from the censors during production, as one of his personal favourites.<ref>{{cite book|title=Mikio Naruse
+|editor1-first=Shigehiko |editor1-last=Hasumi |editor2-first=Sadao |editor2-last=Yamane |publisher=Festival Internacional de Cine de San Sebastián |year=1998}}</ref> Naruse biographer Catherine Russell saw ''Travelling Actors'', alongside ''[[Hideko the Bus Conductor]]'' and ''This Happy Life'', as part of a series of films with an "interesting twist on national policy principles in that they point to a certain sacred character of everyday life […] and characters gaining some kind of insight in [its] value".<ref name="russell">{{cite book |last=Russell |first=Catherine |date=2008 |title=[[The Cinema of Naruse Mikio: Women and Japanese Modernity]] |location=Durham and London |publisher=Duke University Press |page=159 |isbn=978-0-8223-4290-8}}</ref>
+
+''Travelling Actors'' was screened at the [[Harvard Film Archive]] in 2005 as part of its retrospective on Mikio Naruse.<ref>{{cite web|url=https://harvardfilmarchive.org/calendar/traveling-actors-2005-10 |title=Traveling Actors |website=Harvard Film Archive |access-date=19 July 2023}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0033131}}
+
+{{Mikio Naruse}}
+
+[[Category:1940 films]]
+[[Category:1940 comedy films]]
+[[Category:1940 Japanese films]]
+[[Category:Japanese comedy films]]
+[[Category:Films based on short fiction]]
+[[Category:Films based on works by Japanese writers]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:1940s Japanese-language films]]
+[[Category:Japanese-language comedy films]]

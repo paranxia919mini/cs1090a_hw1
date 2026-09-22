@@ -1,0 +1,169 @@
+{{short description|1984 film by Alex Cox}}
+{{About|the 1984 film|the unrelated 2010 science fiction thriller|Repo Men{{!}}''Repo Men''}}
+{{Use mdy dates|date=December 2024}}
+{{Use American English|date=September 2020}}
+{{Infobox film
+| name           = Repo Man
+| image          = Repo-Man-Poster.jpg
+| alt            =
+| caption        = Theatrical release poster
+| director       = [[Alex Cox]]
+| producer       = {{Plain list |
+* [[Jonathan Wacks]]
+* [[Peter McCarthy (American film producer)|Peter McCarthy]]
+}}
+| writer         = Alex Cox
+| starring = {{Plainlist|
+* [[Harry Dean Stanton]]
+* [[Emilio Estevez]]
+}}
+| music          = {{Plainlist|
+* Steven Hufsteter
+* [[Tito Larriva|Humberto Larriva]]
+}}
+| cinematography = [[Robby Müller]]
+| editing        = Dennis Dolan
+| studio         = Edge City Productions
+| distributor    = [[Universal Pictures]]
+| released       = {{Film date|1984|03|02}}
+| runtime        = 92 minutes<!--Theatrical runtime: 92:24--><ref>{{Cite web|date=September 16, 1984|title=''REPO MAN'' (18)|url=http://www.bbfc.co.uk/releases/repo-man-1970-1|archive-url=https://archive.today/20130731172523/http://www.bbfc.co.uk/releases/repo-man-1970-1|url-status=dead|archive-date=July 31, 2013|access-date=July 31, 2013|website=[[British Board of Film Classification]]}}</ref>
+| country        = United States
+| language       = {{ubl|English|Spanish}}
+| budget         = $1.5 million<ref>The Criterion Collection 2013 release booklet, pg. 51</ref>
+| gross          = $3.7 million<ref>{{mojo title|repoman|Repo Man}} Retrieved July 31, 2013</ref>
+}}
+
+'''''Repo Man''''' is a 1984 American [[science fiction]] [[black comedy]] film written and directed by [[Alex Cox]] in his [[directorial debut]]. It stars [[Harry Dean Stanton]] and [[Emilio Estevez]], with [[Tracey Walter]], [[Olivia Barash]], [[Sy Richardson]], [[Vonetta McGee]], [[Fox Harris]], and [[Dick Rude]] among the supporting cast. Set in [[Los Angeles]], the plot concerns a young  [[punk subculture|punk man]] (Estevez) who is recruited by a car [[repossession]] agency and gets caught up in the pursuit of a mysterious [[Chevrolet Malibu]] that might be connected to extraterrestrials.
+
+A [[satire (film and television)|satire]] of [[Domestic policy of the Ronald Reagan administration|America under the Reagan administration]], [[consumerism]] and the [[Atomic Age]], ''Repo Man'' was developed by Cox in partnership with his fellow film school graduates from [[UCLA]], [[independent film|independent]] producers [[Jonathan Wacks]] and [[Peter McCarthy (American film producer)|Peter McCarthy]]. His inspiration for the film came from his own experiences working with repossession agent Mark Lewis. Originally conceiving of it as a [[road movie]], Cox reconfigured the story to take place mostly in Los Angeles to maintain its budget. [[Michael Nesmith]] of [[the Monkees]] came on board the project as an [[executive producer]], and secured a [[negative pickup deal]] with [[Universal Pictures]]. Principal photography ran through summer 1983, during which Cox encouraged improvisation from the cast; the film's ending notably differed from what had originally been written.<ref name="AFI">{{Cite web|title=Repo Man (1984)|url=https://catalog.afi.com/Film/67289-REPO-MAN?sid=81730ab1-8821-4a8e-bb1f-973779004466&sr=4.5347095&cp=1&pos=0|access-date=March 11, 2020|website=[[American Film Institute|AFI]]}}</ref><ref name="Weirdest">{{Cite web|date=December 19, 2014|title=The Weirdest Things You Never Knew About The Making Of Repo Man|url=https://io9.gizmodo.com/the-weirdest-things-you-never-knew-about-the-making-of-1673079559?IR=T|access-date=March 11, 2020|website=Gizmodo}}</ref><ref name="Truths">{{Cite web|last=Ciampaglia|first=Dante A.|date=August 21, 2015|title=15 Atomic Truths About Repo Man|url=https://www.mentalfloss.com/article/67675/15-atomic-truths-about-repo-man|access-date=March 11, 2020|website=Mental Floss}}</ref> The soundtrack, headlined by a main theme composed and performed by [[Iggy Pop]], is noted as a snapshot of 1980s [[hardcore punk]];<ref name="Burks">{{Cite web|last=Burks|first=Brian|title=Repo Man (soundtrack)|url=http://starling.rinet.ru/music/temp/repoman.html|access-date=April 23, 2002|website=Creative Noise}}</ref> Cox wanted the music to underscore the life of repo men.<ref name="Burks" /><ref name="Repo Man Film">{{Cite web|title=REPO MAN – Music From The Original Motion Picture Soundtrack|url=http://www.repomanfilm.com/music.htm|access-date=January 24, 2019|website=Repo Man Film|archive-date=July 11, 2022|archive-url=https://web.archive.org/web/20220711144814/http://www.repomanfilm.com/music.htm|url-status=dead}}</ref>
+
+Despite a troubled initial release due to Universal's skepticism towards the film's commercial viability, ''Repo Man'' received widespread acclaim and many critics named it one of the best films of 1984.<ref name="The 10 Best Movies of 1984">{{Cite web|title=The 10 Best Movies of 1984|url=http://www.film.com/features/story/10-best-movies-of-1984/15492765|url-status=dead|archive-url=https://web.archive.org/web/20081204103324/http://www.film.com/features/story/10-best-movies-of-1984/15492765|archive-date=December 4, 2008|access-date=May 21, 2010|publisher=[[RealNetworks|Film.com]]}}</ref><ref name="The Best Movies of 1984 by Rank">{{Cite web|title=The Best Movies of 1984 by Rank|url=http://www.films101.com/y1984r.htm|access-date=May 21, 2010|publisher=Films101.com|archive-url=https://web.archive.org/web/20070305003401/http://www.films101.com/y1984r.htm|archive-date=March 5, 2007}}</ref> It has since gained a [[cult film|cult following]], particularly surrounding Cox's [[Re-edited film|re-edited version of the film for television]] due to its deliberate inclusion of surreal [[overdub]]s to replace [[profanity]].<ref name="Weirdest" /> A [[stand-alone sequel]] based on an unproduced screenplay by Cox, ''[[Waldo's Hawaiian Holiday]]'', was published as a [[graphic novel]] in 2008, while a [[spiritual successor]], ''[[Repo Chick]]'', was released in 2009.
+
+== Plot ==
+In the [[Mojave Desert]], a policeman pulls over a 1964 [[Chevrolet Malibu]] driven by J. Frank Parnell. The policeman opens the trunk, sees a blinding flash of white light, and instantly vaporizes, leaving only his boots behind.
+
+Otto Maddox, a young punk rocker in L.A., is fired from his job as a supermarket stock clerk. His girlfriend leaves him for his best friend. Depressed and broke, Otto is wandering the streets when a man named Bud drives up and offers him $25 to drive a car out of the neighborhood, supposedly for his wife. Otto follows Bud in the car to the Helping Hand Acceptance Corporation, where he learns the car he drove was being repossessed. He refuses to join Bud as a "repo man" and goes to see his parents. After learning that his burned-out ex-hippie parents have donated the money they promised to reward him for graduating from college to a [[televangelist]], he takes the repo job.
+
+After repossessing a flashy red Cadillac, Otto sees a woman named Leila running down the street. He gives her a ride to her workplace, the United Fruitcake Outlet. On the way, she shows him pictures of aliens that she says are in the trunk of a Chevy Malibu. She says they are dangerous due to the radiation they emit. Meanwhile, Helping Hand is offered a $20,000 bounty notice for the Malibu. Most assume that the repossession is drug-related because the bounty is far above the value of the car.
+
+Parnell arrives in L.A. driving the Malibu but cannot meet his waiting UFO compatriots because of a team of government agents led by a woman with a metal hand. When Parnell pulls into a gas station, Helping Hand's competitors, the Rodriguez brothers, take the Malibu. They stop for sodas because the car's trunk is hot. While they are out of the car, a trio of Otto's punk friends, who are on a crime spree, steal it.
+
+After visiting a nightclub, Parnell appears and tricks the punks into opening the trunk, killing one of them and scaring the other two away. Later, he picks up Otto and drives aimlessly before collapsing and dying from radiation. After surviving a convenience store shootout with the punks that leaves Bud wounded and punk Duke dead, Otto takes the Malibu back to Helping Hand and leaves it in the lot. The car is stolen again, and a chase ensues. By this time, the car is glowing bright green.
+
+Eventually, the Malibu reappears at the Helping Hand lot with Bud behind the wheel. The various groups (government agents, UFO scientists, and even the televangelist and his followers) trying to acquire the car converge on the lot, and Bud is shot by an agent in a helicopter. The glowing car resists anyone trying to approach it with arcs of electricity. Only Miller, an eccentric mechanic at Helping Hand who had explained earlier to Otto that aliens exist and can [[Time-traveler UFO hypothesis|travel through time in their spaceships]], can enter the car. He slides behind the wheel and beckons Otto to join him. After Otto settles into the passenger seat, the Malibu lifts straight into the air, and flies away through the city's skyline. Miller echoes Bud's line from earlier in the film: "The life of a repo man is ALWAYS intense", and the car catapults into outer space.
+
+== Cast ==
+{{Cast listing|
+* [[Harry Dean Stanton]] as Bud
+* [[Emilio Estevez]] as Otto Maddox
+* [[Tracey Walter]] as Miller
+* [[Olivia Barash]] as Leila
+* [[Sy Richardson]] as Lite
+* [[Vonetta McGee]] as Marlene
+* [[Richard Foronjy]] as Arnold Plettschner
+* Susan Barnes as Agent Rogersz
+* [[Fox Harris]] as J. Frank Parnell
+* Tom Finnegan as Oly
+* Del Zamora as Lagarto Rodriguez
+* [[Eddie Velez]] as Napoleon "Napo" Rodriguez
+* [[Zander Schloss]] as Kevin
+* Jennifer Balgobin as Debbi
+* [[Dick Rude]] as Duke
+* [[Miguel Sandoval]] as Archie
+* [[Helen Martin]] as Mrs. Parks
+* [[Luis Contreras (actor)|Luis Contreras]] as Mr. Humphries' Security Guard
+* [[The Circle Jerks]] as Nightclub Band
+*[[The Untouchables (Los Angeles band)|The Untouchables]] as Scooter Gang
+}}
+
+==Production==
+===Filming===
+Numerous scenes were filmed around the [[Downtown Los Angeles]], such as south of downtown in the [[Los Angeles Fashion District|Garment/Fashion District]] and southeast of downtown in the [[Arts District, Los Angeles|Arts District]]. Early in the film when Otto was walking along the tracks, the 4th Street bridge over the [[Los Angeles River]] was in the background.<ref name="Weirdest"/> When Parnell and Leila are in nearby phone booths talking to each other, the scene is located at the corner of Wilson and Violet in Los Angeles.
+
+== Reception ==
+''Repo Man'' garnered widespread praise upon its release, and is widely considered to be one of the best films of 1984.<ref name="The 10 Best Movies of 1984" /><ref name="The Best Movies of 1984 by Rank" /> In 2008, the film was voted by a group of ''[[Los Angeles Times]]'' writers and editors as the eighth-best film set in Los Angeles in the last 25 years.<ref name="Boucher">{{Cite news|last=Boucher|first=Geoff|date=August 31, 2008|title=The 25 best L.A. films of the last 25 years|work=[[Los Angeles Times]]|url=http://www.latimes.com/entertainment/news/movies/la-ca-25films31-2008aug31,0,70218.htmlstory|access-date=August 31, 2008}}</ref>{{Refn|There were two criteria: "The movie had to communicate some inherent truth about the L.A. experience, and only one film per director was allowed on the list".}} ''[[Entertainment Weekly]]'' ranked the film seventh on their list of "The Top 50 Cult Films".<ref>{{Cite web|title=Entertainment Weekly's ''The Top 50 Cult Movies''|url=http://www.filmsite.org/cultfilmsew.html|access-date=May 21, 2010|publisher=[[AMC (TV channel)|AMC Filmsite.org]]}}</ref>
+
+[[Roger Ebert]] of ''[[Chicago Sun-Times|The Chicago Sun-Times]]'' gave the film 3 stars out of a possible 4, and wrote:
+{{blockquote|I saw ''Repo Man'' near the end of a busy stretch on the movie beat: Three days during which I saw more relentlessly bad movies than during any comparable period in memory. Most of those bad movies were so cynically constructed out of formula ideas and "commercial" ingredients that watching them was an ordeal. ''Repo Man'' comes out of left field, has no big stars, didn't cost much, takes chances, dares to be unconventional, is funny, and works. There is a lesson here.<ref>{{Cite web|last=Ebert|first=Roger|author-link=Roger Ebert|date=January 1, 1984|title=Repo Man|url=http://www.rogerebert.com/reviews/repo-man-1984|website=Chicago Sun-Times|via= RogerEbert.com}}</ref>}}
+
+[[Neil Gaiman]] reviewed ''Repo Man'' for ''[[Imagine (game magazine)|Imagine]]'' magazine, and stated that "one of last year's cult movie successes was ''Repo Man'' [...] and it's not hard to see why. A lobotomised nuclear scientist is driving around Los Angeles in a car with something in the boot. Dead extraterrestrials, a neutron bomb or something even more bizarre?"<ref name="Imagine28">{{cite journal|last=Gaiman|first=Neil|author-link=Neil Gaiman|title=Fantasy Media|type=review|journal=[[Imagine (AD&D magazine)|Imagine]]|issue=28|pages=54|publisher=TSR Hobbies (UK), Ltd.|date=July 1985|issn=}}</ref>
+
+The review aggregator [[Rotten Tomatoes]] gives the film a 93% approval rating based on 54 reviews. The site's critical consensus reads, "''Repo Man'' is many things: an alien-invasion film, a punk-rock musical, a send-up of consumerism. One thing it isn't is boring."<ref>{{Cite web|title=''Repo Man''|url=http://www.rottentomatoes.com/m/repo_man/|access-date=January 12, 2026|website=[[Rotten Tomatoes]]}}</ref> On [[Metacritic]], the film received a score of 82 based on 21 reviews, indicating "universal acclaim", and was given the "Must-See" badge.<ref>{{cite web|title=Repo Man|url=https://www.metacritic.com/movie/repo-man|access-date=June 20, 2022|website=[[Metacritic]]}}</ref>
+
+== Accolades ==
+{{Anchor|Awards|Accolades}}
+'''[[Academy of Science Fiction, Fantasy & Horror Films]]'''
+* Won – [[Saturn Award for Best Supporting Actor]] – [[Tracey Walter]]
+* Nominated – [[Saturn Award for Best Writing]] – [[Alex Cox]]<ref>{{Cite web |title=1984 12th Saturn Awards |url=http://theenvelope.latimes.com/extras/lostmind/year/1984/1984sat.htm |archive-url=https://web.archive.org/web/20061017175629/http://theenvelope.latimes.com/extras/lostmind/year/1984/1984sat.htm |archive-date=2006-10-17 |access-date=2026-05-08 |website=The Envelope {{!}} Los Angeles Times}}</ref>
+
+'''[[American Film Institute]] Lists'''
+* [[AFI's 100 Years...100 Laughs]] – Nominated<ref>{{Cite web|title=AFI's 100 Years...100 Laughs Nominees|url=http://www.afi.com/Docs/100Years/laughs500.pdf|archive-url=https://web.archive.org/web/20110313150538/http://www.afi.com/Docs/100Years/laughs500.pdf|archive-date=March 13, 2011}}</ref>
+* [[AFI's 10 Top 10]] – Nominated Science Fiction Film<ref>{{Cite web|title=AFI's 10 Top 10 Ballot|url=http://www.afi.com/drop/ballot.pdf|archive-url=https://web.archive.org/web/20110911161721/http://www.afi.com/drop/ballot.pdf|archive-date=September 11, 2011}}</ref>
+
+== Soundtrack ==
+{{Anchor|Music|Soundtrack|Score}}
+{{Main|Repo Man (soundtrack)}}
+The soundtrack features songs by various [[punk rock]] musicians such as [[The Plugz]], [[Black Flag (band)|Black Flag]], the [[Circle Jerks]], [[Suicidal Tendencies]], [[Iggy Pop]] (with [[Steve Jones (musician)|Steve Jones]], [[Nigel Harrison]], and [[Clem Burke]] as his backing band) and others. The film score was created by [[Tito Larriva]], Steven Hufsteter, [[Charlie Quintana]] and [[Tony Marsico]] of [[The Plugz]].<ref name="Cook">{{Cite web|last=Cook|first=Stephen|title=Repo Man|url=http://www.allmusic.com/album/repo-man-mw0000691845|website=[[AllMusic]]}}</ref> Iggy Pop volunteered to write the title song after his manager viewed a screening of the film.<ref name="Repo Man Film" />
+
+== Sequels ==
+=== ''Waldo's Hawaiian Holiday'' ===
+{{Main|Waldo's Hawaiian Holiday}}
+Chris Bones saw the script on Cox's website and asked, and received, permission to adapt the script into a [[graphic novel]]. The book, ''Waldo's Hawaiian Holiday'',<ref>{{Cite magazine|date=February 11, 2008|title=First Look: 'Waldo's Hawaiian Holiday'|magazine=Entertainment Weekly|url=http://www.ew.com/ew/article/0,,20177132,00.html|archive-url=https://web.archive.org/web/20080213090406/http://www.ew.com/ew/article/0,,20177132,00.html|url-status=dead|archive-date=February 13, 2008|access-date=October 23, 2010}}</ref> was released in March 2008 by [[Gestalt Publishing]].<ref>{{Cite web|date=July 4, 2012|title=Waldo's Hawaiian Holiday|url=http://www.gestaltcomics.com/shelf/graphic-novels/waldos-hawaiian-holiday/|access-date=August 12, 2019|website=Gestalt Comics}}</ref>
+
+=== ''Repo Chick'' ===
+{{Main|Repo Chick}}
+On December 3, 2008, a sequel was reported to be going into development with the working title ''Repo Chick''. The story would be set in 2008 and the resulting boom in repossession that extends far beyond cars and homes.<ref>{{Cite web|title=Slashfilm|url=http://www.slashfilm.com/2008/12/04/repo-man-sequel-starts-filming-next-month/|url-status=dead|archive-url=https://web.archive.org/web/20081205142058/http://www.slashfilm.com/2008/12/04/repo-man-sequel-starts-filming-next-month/|archive-date=December 5, 2008|access-date=December 4, 2008}}</ref> On February 13, 2009, Cox announced on his blog that shooting had finished and the film was in post-production.<ref name="AC">{{Cite web|title=BLOG|url=http://www.alexcox.com/blog.htm|url-status=dead|archive-url=https://web.archive.org/web/20130420061714/http://www.alexcox.com/blog.htm|archive-date=April 20, 2013|access-date=March 30, 2009|publisher=[[Alex Cox]]}}</ref> The bulk of the film was shot in front of a [[Chroma key|green screen]], with backgrounds filmed and [[Compositing|composited-in]] during post-production.<ref name="AC" />
+
+==See also==
+* [[Generic brand]]
+*[[List of cult films]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Wikiquote|Repo Man (film)}}
+* {{IMDb title|0087995}}
+* {{AFI film|67289}}
+* {{TCMDb title|87994}}
+* {{Letterboxd film}}
+* {{mojo title|repoman}}
+* {{rotten-tomatoes|repo_man}}
+* {{Metacritic film}}
+* {{Cite web|title=''Repo Man'' page|url=http://www.alexcox.com/dir_repoman.htm|url-status=dead|archive-url=https://web.archive.org/web/20070224053356/http://www.alexcox.com/dir_repoman.htm|archive-date=February 24, 2007|publisher=Alex Cox}}
+* {{Cite web|last=Sam McPheeters|author-link=Sam McPheeters|title=''Repo Man: A Lattice of Coincidence''|url=https://www.criterion.com/current/posts/2736-repo-man-a-lattice-of-coincidence|website=[[The Criterion Collection]]}}
+* [https://www.bobcantor.com/repo/repoman.htm Bob Cantor: everything you ever wanted to know about Repo Man]
+
+{{Alex Cox}}
+{{portal bar|film}}
+
+[[Category:1984 black comedy films]]
+[[Category:1984 independent films]]
+[[Category:1980s crime comedy films]]
+[[Category:1984 science fiction comedy films]]
+[[Category:1984 directorial debut films]]
+[[Category:1984 films]]
+[[Category:1980s satirical films]]
+[[Category:American crime comedy films]]
+[[Category:American independent films]]
+[[Category:American satirical films]]
+[[Category:American science fiction comedy films]]
+[[Category:1984 English-language films]]
+[[Category:Films adapted into comics]]
+[[Category:Films directed by Alex Cox]]
+[[Category:Films set in Los Angeles]]
+[[Category:Films shot in Los Angeles]]
+[[Category:Films with screenplays by Alex Cox]]
+[[Category:Punk films]]
+[[Category:1984 Spanish-language films]]
+[[Category:1984 multilingual films]]
+[[Category:American multilingual films]]
+[[Category:Postmodern films]]
+[[Category:1984 American films]]
+[[Category:Reagan Era]]
+[[Category:Films set in deserts]]
+[[Category:English-language black comedy films]]
+[[Category:English-language science fiction comedy films]]
+[[Category:English-language crime comedy films]]
+[[Category:Saturn Award–winning films]]
+[[Category:Spanish-language American films]]

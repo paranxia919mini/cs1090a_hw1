@@ -1,0 +1,336 @@
+{{Short description|1975 British comedy film by Terry Gilliam and Terry Jones}}
+{{Use British English|date=March 2020}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox film
+| name           = Monty Python and the Holy Grail
+| image          = Monty-Python-1975-poster.png
+| caption        = Theatrical release poster
+| director       = {{Plainlist|
+* [[Terry Gilliam]]
+* [[Terry Jones]]
+}}
+| producer       = {{Plainlist|
+* [[Mark Forstater]]
+* [[Michael White (producer)|Michael White]]
+}}
+| writer         = {{Plainlist|
+* [[Graham Chapman]]
+* [[John Cleese]]
+* [[Eric Idle]]
+* Terry Gilliam
+* Terry Jones
+* [[Michael Palin]]
+}}
+| starring       = {{Plainlist|
+* Graham Chapman
+* John Cleese
+* Terry Gilliam
+* Eric Idle
+* Terry Jones
+* Michael Palin
+}}
+| narrator       = Michael Palin
+| music          = [[Neil Innes]] <small>(songs)</small><br>[[De Wolfe Music]]
+| cinematography = [[Terry Bedford]]
+| editing        = John Hackney
+| production_companies = {{Plainlist|
+* [[Python (Monty) Pictures]]
+* Michael White Productions
+* National Film Trustee Company
+}}
+| distributor    = [[EMI Films]]
+| released       = {{Film date|1975|04|03|df=y}}
+| runtime        = 92 minutes<!--Theatrical runtime: 92:10--><ref>{{cite web | url=http://www.bbfc.co.uk/releases/monty-python-and-holy-grail-film | title=''Monty Python and the Holy Grail'' (12A) | work=[[British Board of Film Classification]] | date=28 August 2015 | access-date=24 September 2016 | archive-date=12 August 2020 | archive-url=https://web.archive.org/web/20200812073421/https://www.bbfc.co.uk/releases/monty-python-and-holy-grail-film | url-status=dead }}</ref>
+| country        = United Kingdom
+| language       = English
+| budget         = £282,035<ref name="money">Chapman, J. (2022). The Money Behind the Screen: A History of British Film Finance, 1945-1985. Edinburgh University Press p 357. Income is distributor's receipts, combined domestic and international, as at 31 Dec 1978.</ref>
+| gross          = £2,358,229 (1975 run)<ref name="money"/><br />$5,507,090 (rereleases)<ref>{{cite web |url=https://www.the-numbers.com/movie/Monty-Python-and-the-Holy-Grail-(1975)#tab=box-office |title=Monty Python and the Holy Grail (1975) |work=The Numbers |access-date=6 December 2023 |archive-date=11 August 2014 |archive-url=https://web.archive.org/web/20140811125828/http://www.the-numbers.com/movies/1975/0MNTP.php#tab=box-office |url-status=live }}</ref>
+}}
+
+'''''Monty Python and the Holy Grail''''' is a 1975 British [[comedy film]]<!-- Do not alter genre without discussion. -->  based on the [[Arthurian legend]], written and performed by the [[Monty Python]] comedy group ([[Graham Chapman]], [[John Cleese]], [[Terry Gilliam]], [[Eric Idle]], [[Terry Jones]], and [[Michael Palin]]) and directed by Gilliam and Jones in their feature directorial debuts. It was conceived during the hiatus between the third and fourth series of their [[BBC Television]] series ''[[Monty Python's Flying Circus]]''.
+
+While the group's first film, ''[[And Now for Something Completely Different]]'', was a compilation of [[sketch comedy|sketches]] from the first two television series, ''Holy Grail'' is an original story that parodies the legend of [[King Arthur]]'s quest for the [[Holy Grail]]. Thirty years later, Idle used the film as the basis for the 2005 [[Tony Award]]–winning musical ''[[Spamalot]]''.
+
+''Monty Python and the Holy Grail'' grossed more than any other [[Cinema of the United Kingdom|British film]] screened in the US in 1975, and has since been considered one of the [[List of films voted the best|greatest comedy films of all time]]. In the US, it was selected in 2011 as the second-best comedy of all time in the [[American Broadcasting Company|ABC]] special ''Best in Film: The Greatest Movies of Our Time'' behind ''[[Airplane!]]''. In the UK, readers of ''[[Total Film]]'' magazine in 2000 ranked it the fifth-greatest comedy film of all time;<ref name="BBC News">[https://news.bbc.co.uk/2/hi/entertainment/948331.stm "Life of Brian tops comedy poll"]. [[BBC News]]. Retrieved 18 January 2014</ref> a similar poll of [[Channel 4]] viewers in 2006 placed it sixth.<ref name="Channel 4">{{Cite web |year=2006 |title=50 Greatest Comedy Films |url=https://www.channel4.com/film/newsfeatures/microsites/G/greatest-comedyfilms/results/10-6.html |url-status=dead |archive-url=https://web.archive.org/web/20060415140210/http://www.channel4.com/film/newsfeatures/microsites/G/greatest-comedyfilms/results/10-6.html |archive-date=15 April 2006 |access-date=25 August 2019 |publisher=[[Channel 4]] |location=London}}</ref>
+
+==Plot==
+In AD 932, [[King Arthur]] and his [[squire]] Patsy, who bangs [[coconut]] shells together as Arthur mimes riding a horse, travel [[Britain (place name)|Britain]] searching for men to join the [[Knights of the Round Table]]. Along the way, Arthur debates whether coconuts could be found in a [[temperate climate]], passes through a town infected with a plague, recounts receiving [[Excalibur]] from the [[Lady of the Lake]] to two [[anarcho-syndicalism|anarcho-syndicalist]] peasants, and defeats the [[Black Knight (Monty Python)|Black Knight]]. At an impromptu [[Witch-hunt|witch trial]], he recruits [[Bedivere|Sir Bedevere the Wise]], later joined by [[Lancelot|Sir Lancelot the Brave]], [[Galahad|Sir Galahad the Pure]], Sir Robin the Not-Quite-So-Brave-as-Sir-Lancelot, and the aptly named Sir Not-Appearing-in-this-Film, along with their squires and Robin's minstrels. Arthur leads the knights to [[Camelot]], but changes his mind after the knights in the castle perform a musical number, deeming it "a silly place". [[God]] then appears and orders Arthur to find the [[Holy Grail]].
+
+Arthur and his knights arrive at a castle occupied by French soldiers, who claim to have the Grail and taunt the Britons, driving them back with a barrage of barnyard animals. Bedevere concocts a plan to sneak in using a [[Trojan Horse|Trojan Rabbit]], but forgets to tell the others to hide inside it; the Knights are forced to flee when it is flung back at them. Arthur decides the knights should go their separate ways to search for the Grail. Meanwhile, a modern-day historian filming a documentary on the Arthurian legends is killed by an unknown knight on horseback, triggering a police investigation.
+
+Arthur and Bedevere are given directions by an old soothsayer and attempt to satisfy the strange requests of the dreaded [[Knights Who Say "Ni!"]]. Robin avoids a fight with a Three-Headed Knight by running away while the heads are arguing amongst themselves. Galahad is led by a grail-shaped beacon to Castle Anthrax, which is occupied exclusively by nubile young women, all of whom attempt to woo him, but is "rescued" against his will by Lancelot. Lancelot receives an arrow-shot note from the nearby Swamp Castle. Believing the author is a lady being forced to marry against her will, he storms the castle and slaughters several wedding party members, only to discover the author is an effeminate prince.
+
+Arthur and his knights regroup and are joined by Brother Maynard, his monk brethren, and three new knights: [[Bors]], [[Gawain]] and [[Ector (Arthurian legend)|Ector]]. They meet Tim the Enchanter, a [[pyromancy|pyromancer]] who directs them to a cave where the location of the Grail is said to be written. The entrance to the cave is guarded by the [[Rabbit of Caerbannog]]. Underestimating it, the knights attack, but the Rabbit easily kills Bors, Gawain and Ector. Arthur uses the "[[Sovereign's Orb|Holy Hand Grenade]] of [[Antioch]]", provided by Brother Maynard, to destroy the creature; the police officers investigating the historian's murder hear the explosion and begin pursuing them. Inside the cave, they find an inscription from [[Joseph of Arimathea]], directing them to "the Castle of Arrrghhh". They are interrupted by an attack from the animated "Legendary Black Beast of Arrrghhh"<ref>{{cite book | last1 = Chapman | first1 = Graham | last2 = Jones | first2 = Terry |  title = Monty Python and the Holy Grail (BOOK) / Monty Python's second film: a first draft | publisher = Methuen | date = 1977 | location = London | pages = 78 | url = https://books.google.com/books?id=TiEcAQAAIAAJ&q=%22Legendary+Black+Beast+of+Arrrghhh%22 | isbn = 0458929700  }}</ref> that lives in the cave, which devours Brother Maynard and pursues the others. Arthur and the knights escape after the film's animator unexpectedly suffers a fatal heart attack, erasing the Black Beast.
+
+The knights approach the Bridge of Death, where the bridgekeeper, the soothsayer Arthur and Bedevere met earlier, demands they each answer three questions in order to pass or else be cast into the Gorge of Eternal Peril. Lancelot easily answers simple questions and crosses. An overly cocky Robin is defeated by an unexpectedly difficult question, and an indecisive Galahad fails an easy one; both are magically flung into the gorge. When Arthur asks for clarification on a question regarding the airspeed velocity of an unladen [[swallow]], the bridgekeeper cannot answer and is himself thrown into the gorge.
+
+Arthur and Bedevere cannot find Lancelot, unaware that he has been arrested by police investigating the historian's death. They find Castle Arrrghhh occupied by the French soldiers from earlier in the film. After being repelled by showers of manure, they summon an army of knights and prepare to assault the castle. As the army charges, the police arrive, arrest Arthur and Bedevere on suspicion of the murder of the historian, and break the camera, abruptly ending the film.
+
+==Cast==
+[[File:Monty Python and the Holy Grail - 1974 U.S. Silver Gelatin Single-Weight Photo (cropped).jpg|thumb|King Arthur ([[Graham Chapman]], centre) with three of his knights: Sir Bedevere, Sir Lancelot and Sir Robin ([[Terry Jones]], [[John Cleese]] and [[Eric Idle]])]]
+{{cast listing|
+* [[Graham Chapman]] as:
+** [[King Arthur|Arthur, King of the Britons]]
+** The hiccuping guard
+** The middle head of the Three-Headed Giant
+** The voice of [[God]]
+* [[John Cleese]] as: 
+** [[Lancelot|Sir Lancelot the Brave]]
+** The [[Black Knight (Monty Python)|Black Knight]]
+** French Taunter
+** Tim the Enchanter
+** And other roles
+* [[Terry Gilliam]] as:
+** Patsy (Arthur's servant)
+** The Soothsayer / The Bridgekeeper
+** The Green Knight
+** [[Bors|Sir Bors]]
+** The Weak-Hearted Animator
+** And other roles
+* [[Eric Idle]] as:
+** Sir Robin the-not-quite-so-brave-as-Sir-Lancelot
+** Lancelot's squire Concorde
+** The collector of the dead
+** Roger the Shrubber
+** Brother Maynard
+** And other roles
+* [[Terry Jones]] as:
+** [[Bedivere|Sir Bedevere the Wise]]
+** Prince Herbert
+** Dennis' mother
+** The left head of the Three-Headed Giant
+** And other roles
+* [[Michael Palin]] as:
+** [[Galahad|Sir Galahad the Pure]] 
+** Leader of the [[Knights Who Say Ni]] 
+** Lord of Swamp Castle
+** Dennis
+** The right head of the Three-Headed Giant
+** The Narrator
+** And other roles
+* [[Neil Innes]] as:
+** Leader of Robin's Minstrels 
+** Head Monk 
+** Knight of Camelot 
+** Servant Crushed by Rabbit.
+* [[Sandy Johnson (director)|Sandy Johnson]] as: 
+** Knight Who Says Ni 
+** Villager at Witch Burning
+** Musician at Wedding 
+** Monk 
+** Knight in Battle
+* [[Connie Booth]] as Miss Islington (the Witch)
+* [[Carol Cleveland]] as Zoot and Dingo, the [[Twin#Monozygotic (identical) twins|identical twin]] sisters who run Castle Anthrax
+* Bee Duffell as the Old Crone
+* [[John Young (actor, born 1916)|John Young]] as Frank the Historian
+* Rita Davies as Frank's Wife
+* Avril Stewart as Dr. Piglet
+* Sally Kinghorn as Dr. Winston
+* [[Julian Doyle (filmmaker)|Julian Doyle]] as Police Sergeant (uncredited)
+* [[Charles Knode]] as Camp Guard and Robin's Minstrel (uncredited)
+* [[Roy Forge Smith]] as Inspector at End of Film (uncredited)
+* [[Maggie Weston (make-up artist)|Maggie Weston]] as Page Turner (uncredited)
+}}
+
+==Production==
+===Development===
+[[File:Galahad grail.jpg|350px|thumb|The legend of the [[Holy Grail]] ([[Holy Grail tapestries|1895 tapestry]] depicted) provided a unifying motif for the film.]]
+In January 1973, the Monty Python troupe wrote the first draft of the screenplay.{{sfn|Palin|2006|p=174}}<ref name="BBCLocation">{{cite AV media|author=Monty Python troupe |chapter=BBC Film Night: Monty Python & the Holy Grail Location Report |title=Monty Python and the Holy Grail |year=2001 |publisher=Columbia Tristar |medium=DVD }}</ref> Half of the material was set in the [[Middle Ages]] and half in the present day. The group decided to set the film during the Middle Ages and focus on the legend of the [[Holy Grail]]. By the fourth or fifth draft, the story was complete, and the cast joked that the fact that the Grail was never retrieved would be "a big let-down ... a great anti-climax".<ref name="BBCLocation" /> [[Graham Chapman]] said a challenge was incorporating scenes that did not fit the Holy Grail motif.<ref>{{cite AV media|last=Chapman |first=Graham |chapter=BBC Film Night: Monty Python & the Holy Grail Location Report |title=Monty Python and the Holy Grail |year=2001 |publisher=Columbia Tristar |medium=DVD}}</ref>
+
+Neither [[Terry Gilliam]] nor [[Terry Jones]] had directed a film before, and described it as a learning experience in which they would learn to make a film by making an entire full-length film.<ref>{{cite AV media|last1=Gilliam |first1=Terry |last2=Jones |first2=Terry |chapter=BBC Film Night: Monty Python & the Holy Grail Location Report |title=Monty Python and the Holy Grail |year=2001 |publisher=Columbia Tristar |medium=DVD}}</ref> The cast humorously described the novice directing style as employing the level of mutual disrespect always found in Monty Python's work.<ref name="BBCLocation" />
+
+===Financing===
+According to Gilliam, the Pythons contacted rock bands like [[Pink Floyd]] and [[Led Zeppelin]] for financing because no studio would fund the film, and the rock stars saw it as "a good tax write-off" because the top rate of UK [[income tax]] was "as high as 90%" at the time.<ref name="guardian">{{cite news|url=https://www.theguardian.com/film/2002/mar/09/features.phelimoneill|title=Snake Charmer-Monty Python and the Holy Grail was Terry Gilliam's first film as a director. Here he remembers how he taught the nation to laugh at castles|first=Phelim|last=O'Neill|date=9 March 2002|access-date=19 February 2018|work=[[The Guardian]]|quote=There was no studio interference because there was no studio; none of them would give us any money. This was at the time income tax was running as high as 90%, so we turned to rock stars for finance. Elton John, Pink Floyd, Led Zeppelin, they all had money, they knew our work and we seemed a good tax write-off. Except, of course we weren't. It was like [[The Producers (1967 film)|''The Producers'']].|archive-date=5 September 2019|archive-url=https://web.archive.org/web/20190905112428/https://www.theguardian.com/film/2002/mar/09/features.phelimoneill|url-status=live}}</ref> Producer [[Mark Forstater]] wrote in his book ''The 7th Python'' that funding came from himself, co-producer [[Michael White (producer)|Michael White]], Led Zeppelin, Pink Floyd, [[Ian Anderson]] from the band [[Jethro Tull (band)|Jethro Tull]], Gladiola Films, [[Tony Stratton Smith]], and three record companies, [[Island Records]], [[Chrysalis Records]], and [[Charisma Records]], the label that had released Python's early comedy albums.<ref>{{cite book |author=[[Mark Forstater]] |title=The 7th Python |date=November 2015 |publisher=Psychology News Press Limited |isbn=9780907633525 |page=55}}</ref> A 2021 tweet by Eric Idle<ref>{{Cite web |url=https://twitter.com/ericidle/status/1369081521655619584 |title=Eric Idle Tweet |date=8 March 2021 |access-date=7 July 2021 |via=[[Twitter]] |archive-date=29 June 2021 |archive-url=https://web.archive.org/web/20210629234610/https://twitter.com/EricIdle/status/1369081521655619584 |url-status=live }}</ref> revealed that the entire original budget of £175,350 (about $410,000 in 1974) was provided by eight investors: Led Zeppelin (£31,500), Pink Floyd (£21,000), Ian Anderson (£6,300), Michael White (£78,750), Heartaches (a cricket team founded by lyricist [[Tim Rice]]) (£5,250), and the record companies Island Records (£21,000), Chrysalis Records (£6,300), and Charisma Records (£5,250).<ref name="Mental Floss">{{cite web|url=http://mentalfloss.com/article/65207/15-facts-about-monty-python-and-holy-grail|title=15 Facts about Monty Python and the Holy Grail|first=Sean|last=Hutchinson|date=16 June 2016|access-date=19 February 2018|archive-date=14 February 2018|archive-url=https://web.archive.org/web/20180214032038/http://mentalfloss.com/article/65207/15-facts-about-monty-python-and-holy-grail|url-status=live}}</ref><ref name=RS>{{Cite magazine |last=Grow |first=Kory |date=2021-03-09 |title=How Led Zeppelin, Pink Floyd, and Jethro Tull Helped Make 'Monty Python and the Holy Grail' |url=https://www.rollingstone.com/music/music-news/monty-holy-grail-python-led-zeppelin-pink-floyd-1138962/ |access-date=2024-09-15 |magazine=Rolling Stone |language=en-US }}</ref>  The investors also received part of the proceeds from the 2005 musical ''[[Spamalot]]''.<ref name=RS/>
+
+===Filming===
+{{multiple image
+| align = left
+| direction = vertical
+| image1 = Doune Castle Scotland.jpg
+| caption1 = [[Doune Castle]], used in several scenes
+| image2 = Castle Stalker - geograph.org.uk - 204092.jpg
+| width = 230px
+| caption2 = [[Castle Stalker]], the location of the final scene
+| total_width = 
+| alt1 = 
+}}
+''Monty Python and the Holy Grail'' was mostly shot on location in [[Scotland]],<ref>{{cite web |url=http://www.ukonscreen.com/egjcibb-Monty-Python-and-the-Holy-Grail-%281975%29.html |title=Monty Python and the Holy Grail filming locations |publisher=Ukonscreen.com |access-date=16 June 2011 |archive-date=7 October 2011 |archive-url=https://web.archive.org/web/20111007190405/http://www.ukonscreen.com/egjcibb-Monty-Python-and-the-Holy-Grail-(1975).html |url-status=dead }}</ref> particularly around [[Doune Castle]], [[Glen Coe]], and the privately owned [[Castle Stalker]].{{sfn|Li|2011}} The many castles seen throughout the film were mainly either Doune Castle shot from different angles or [[hanging miniature]]s.<ref name="QuestLocation">{{cite AV media|last=Jones |first=Terry |chapter=The Quest for the Holy Grail Locations |title=Monty Python and the Holy Grail |year=2001 |publisher=Columbia Tristar |medium=DVD }}</ref> There are several exceptions to this: the first exterior shot of a castle at the beginning of the film is [[Kidwelly Castle]] in South Wales, and the single exterior shot of the Swamp Castle during "Tale of Sir Lancelot" is [[Bodiam Castle]] in East Sussex;<ref>{{cite news |url=https://www.theguardian.com/news/2007/jun/02/guardianspecial4.guardianspecial2 |title=Bodiam Castle, East Sussex |access-date=18 April 2013 |location=London |date=5 June 2007 |archive-date=5 October 2014 |archive-url=https://web.archive.org/web/20141005030402/http://www.theguardian.com/news/2007/jun/02/guardianspecial4.guardianspecial2 |url-status=live }}</ref> all subsequent shots of the exterior and interior of those scenes were filmed at Doune Castle. Production designer Julian Doyle recounted that his crew constructed walls in the forest near Doune.<ref>{{cite AV media|last=Doyle |first=Julian |chapter=The Quest for the Holy Grail Locations |title=Monty Python and the Holy Grail |year=2001 |publisher=Columbia Tristar |medium=DVD }}</ref> Terry Jones later recalled the crew had selected more castles around Scotland for locations, but during the two weeks prior to [[principal photography]], the Scottish Department of the Environment declined permission for use of the castles in its jurisdiction, for fear of damage.<ref name="QuestLocation"/>
+
+At the start of "The Tale of Sir Robin", there is a slow camera zoom in on rocky scenery (that in the voice-over is described as "the dark forest of Ewing"). This is actually a still photograph of the gorge at [[Mount Buffalo National Park]] in Victoria, Australia. Doyle stated in 2000 during an interview with ''[[Hotdog (magazine)|Hotdog]]'' magazine<ref>{{cite magazine|url=https://www.angelfire.com/ny5/mpholygrail/article5.html|title=Never have so few suffered for the enjoyment of so many: the making of Monty Python And The Holy Grail|date=October 2000|at=via [[Angelfire.com]] (convenience link)|magazine=[[Hotdog (magazine)|Hotdog]]|access-date=2 May 2015|archive-date=4 September 2015|archive-url=https://web.archive.org/web/20150904002614/http://www.angelfire.com/ny5/mpholygrail/article5.html|url-status=live}}</ref> that it was a still image filmed with candles underneath the frame (to give a heat haze). This was a low-cost method of achieving a convincing location effect.
+ 
+On the DVD audio commentary, Cleese described challenges shooting and editing Castle Anthrax in "The Tale of Sir Galahad", with what he felt the most comedic [[take]] being unused because an anachronistic coat was visible in it.<ref>{{cite AV media|last=Cleese |first=John |title=Monty Python and the Holy Grail commentary |year=2001 |publisher=Columbia Tristar |medium=DVD }}</ref> Castle Anthrax was also shot in one part of Doune, where costume designer [[Hazel Pethig]] advised against [[Nudity in film|nudity]], dressing the girls in [[Shift (clothing)|shifts]].<ref name="QuestLocation"/>
+
+The scene in which the knights fight the [[Rabbit of Caerbannog]] was filmed at [[Tomnadashan mine]]. A real white rabbit was used, switched with [[puppet]]s for its killings.<ref name="GilliamJones">{{cite AV media|last1=Gilliam |first1=Terry |last2=Jones |first2=Terry |title=Monty Python and the Holy Grail commentary |year=2001 |publisher=Columbia Tristar |medium=DVD }}</ref> The bite effects were done with special puppetry by both Gilliam and SFX technician John Horton. According to Gilliam, the rabbit was covered with red liquid to simulate blood, though its owner did not want the animal dirty and was kept unaware. The liquid was difficult to remove from the fur.<ref name="GilliamJones"/> Gilliam also stated that he thought, in hindsight, the crew could have just purchased their own rabbit instead. Regardless, the rabbit itself was unharmed.
+
+As chronicled in ''The Life of Python'', ''The First 20 Years of Monty Python'', and ''The Pythons' Autobiography'', Chapman suffered from [[acrophobia]], trembling and bouts of forgetfulness during filming due to his [[alcoholism]], prompting him to refrain from drinking while the production continued in order to remain "on an even keel". Nearly three years later, in December 1977, Chapman achieved [[sobriety]].
+
+Originally the knight characters were going to ride real horses, but after it became clear that the film's small budget precluded real horses (except for a lone horse appearing in a couple of scenes), the Pythons decided their characters would mime horse-riding while their [[Porter (carrier)|porters]] trotted behind them banging [[coconut]] shells together. The joke was derived from the old-fashioned [[Foley (filmmaking)|sound effect]] used by radio shows to convey the sound of hooves clattering. This was later referred to in the German release of the film, which translated the title as ''Die Ritter der Kokosnuß'' (''The Knights of the Coconut'').<ref>{{Cite news|url=http://www.spiegel.de/einestages/monty-python-ritter-der-kokosnuss-wird-40-a-1026828.html|title=Kult-Comedygruppe Monty Python: Mit Hase, Gral und Handgranate|last1=Pitzke|first1=Marc|date=9 April 2015|work=[[Der Spiegel]]|access-date=9 January 2019|archive-date=1 January 2019|archive-url=https://web.archive.org/web/20190101113358/http://www.spiegel.de/einestages/monty-python-ritter-der-kokosnuss-wird-40-a-1026828.html|url-status=live}}</ref> Similarly, the Hungarian title ''Gyalog galopp'' translates to "Galloping on Foot".<ref>Foster, Simon (April 12, 2013). [https://www.sbs.com.au/movies/article/2013/04/12/film-fact-hungary "Film Fact: Hungary"] {{Webarchive|url=https://web.archive.org/web/20210603134255/https://www.sbs.com.au/movies/article/2013/04/12/film-fact-hungary |date=3 June 2021 }}. [[Special Broadcasting Service]].</ref>
+
+==Soundtrack==
+{{See also|The Album of the Soundtrack of the Trailer of the Film of Monty Python and the Holy Grail}}
+
+In addition to several songs written by Python regular [[Neil Innes]], several pieces of music were licensed from [[De Wolfe Music]] Library. These include:
+* "Wide Horizon", composed by Pierre Arvay; used during the opening titles.
+* "Ice Floe 9", composed by Pierre Arvay; used during the opening titles.
+* "Countrywide",<ref>{{cite web |url=http://www.dewolfemusic.co.uk/musicsearch/track_detail.php?primaryid=18731 |title=Countrywide |publisher=Dewolfemusic.co.uk |access-date=16 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111003081713/http://www.dewolfemusic.co.uk/musicsearch/track_detail.php?primaryid=18731 |archive-date=3 October 2011 }}</ref> composed by Anthony Mawer; used during the beginning titles after the first titlers are "sacked".
+* "Homeward Bound", composed by [[Jan Stoeckart|Jack Trombey]]; used as King Arthur's heroic theme.
+* "Crossed Swords",<ref>{{cite web |url=http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=3917 |title=Crossed Swords |publisher=Dewolfe.co.uk |access-date=1 March 2013 }}{{Dead link|date=September 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> composed by Dudley Matthew; played during King Arthur's battle with the Black Knight.
+* "The Flying Messenger",<ref>{{cite web |url=http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=18572 |title=Flying Messenger |publisher=Dewolfe.co.uk |access-date=16 June 2011 |archive-date=22 July 2011 |archive-url=https://web.archive.org/web/20110722054550/http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=18572 |url-status=dead }}</ref> composed by Oliver Armstrong; played during Sir Lancelot's misguided storming of Swamp Castle.
+* "The Promised Land",<ref>{{cite web |url=http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=39658 |title=The Promised Land |publisher=Dewolfe.co.uk |access-date=16 June 2011 |archive-date=22 July 2011 |archive-url=https://web.archive.org/web/20110722054650/http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=39658 |url-status=dead }}</ref> composed by [[Stanley Black]]; used in the scene where Arthur approaches the castle on the island.
+* "Starlet in the Starlight",<ref>{{cite web |url=http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=18667 |title=Starlet in the Starlight |publisher=Dewolfe.co.uk |access-date=16 June 2011 |archive-date=22 July 2011 |archive-url=https://web.archive.org/web/20110722054714/http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=18667 |url-status=dead }}</ref> composed by Kenneth Essex; briefly used for Prince Herbert's attempts to express himself in song.
+* "Love Theme",<ref>{{cite web |url=http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=20680 |title=Love Theme |publisher=Dewolfe.co.uk |access-date=16 June 2011 |archive-date=22 July 2011 |archive-url=https://web.archive.org/web/20110722054721/http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=20680 |url-status=dead }}</ref> composed by [[Peter Knight (composer)|Peter Knight]]; also used briefly for Prince Herbert.
+* "Revolt",<ref>{{cite web |url=http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=13136 |title=Revolt |publisher=Dewolfe.co.uk |access-date=1 March 2013 |archive-date=12 October 2006 |archive-url=https://web.archive.org/web/20061012220934/http://www.dewolfe.co.uk/musicsearch/track_detail.php?primaryid=13136 |url-status=dead }}</ref> composed by Eric Towren; used as the army charges on Castle Aaargh.
+
+Innes was supposed to write the film's soundtrack in its entirety, but after the team watched the movie with Innes's soundtrack, they decided to go instead with "canned" music, music borrowed from existing stock recordings. One problem with Innes's music, apparently, was that they considered it too appropriate, so that, according to Python scholar Darl Larsen, it "undercut the Pythons' attempt at undercutting the medieval world they were trying to depict".{{sfn|Larsen|2015|pp=2–3}}
+
+==Release==
+Advance publicity for ''Monty Python and the Holy Grail'' included a theatrical trailer incorporating scenes from the film, footage not included in the film (Arthur knighting a peasant only to stab him when the prop castle in the background falls over), and excerpts of [[Graeme Garden]] and Terry Jones in a parody of [[Ingmar Bergman]]'s ''[[The Seventh Seal]]'' filmed for the 1967 sketch comedy series ''[[Twice a Fortnight]]''. Narrated largely by British actor [[Burt Kwouk]] in [[Mandarin Chinese]], the trailer concludes by advertising a Chinese restaurant ostensibly located four minutes from where the film is playing.
+
+''Monty Python and the Holy Grail'' had its theatrical debut in London on 3 April 1975,{{sfn|Palin|2006|p=225}} followed by a screening on 27 April 1975 at the Century Plaza Cinemas in Los Angeles.{{sfn|Palin|2006|p=231}} It opened to the public in the United States at Cinema II in New York City on 28 April.<ref name=open/>
+
+The film had its television premiere 25 February 1977 on the ''[[CBS Late Movie]]''.{{sfn|McCall|2013}} Reportedly, the Pythons were displeased to discover a number of edits were done by the network to reduce use of [[profanity]] and the showing of blood. The troupe pulled back the rights and thereafter had it broadcast in the United States only on [[PBS]] and later other channels such as [[Comedy Central]] and [[Independent Film Channel|IFC]], where it runs uncut.<ref>{{cite web|url=http://web.ukonline.co.uk/sotcaa/sotcaa_python.html?/sotcaa/pythonpages/python_films01.html|title=Monty Python – Films – Page 1|archive-url=https://web.archive.org/web/20081210080124/http://web.ukonline.co.uk/sotcaa/pythonpages/python_films01.html|archive-date=10 December 2008|url-status=dead}}</ref>
+
+The book ''Monty Python and the Holy Grail (Book)'' (titled ''Mønti Pythøn ik den Hølie Gräilen (Bøk)'' on the spine) was published by [[Methuen Publishing]] in 1977. The book includes two versions of the script - the 1973 first draft (titled ''Monty Python's Second Film'') and the 1974 final draft - as well as various photographs and ancillary material such as the film's Statement of Financial Position and Cost of Production Statement.
+
+The film has been periodically re-released. A "21st anniversary edition" was released on video in 1995 with 24 seconds of extra footage. This version with a new stereo soundtrack was released in theatres starting 15 June 2001 in the United States.<ref>{{cite news |url=https://www.latimes.com/archives/la-xpm-2001-jun-15-ca-10596-story.html |title=Monty Python's 'Holy Grail' Remains an Inspired Romp |first=Kevin |last=Thomas |date=15 June 2001 |newspaper=Los Angeles Times |access-date=5 December 2023 |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205221846/https://www.latimes.com/archives/la-xpm-2001-jun-15-ca-10596-story.html |url-status=live }}</ref> It was re-released on 14 October 2015 in the United Kingdom.<ref>{{cite magazine|url=http://www.ew.com/article/2015/08/04/monty-python-holy-grail-40th-anniversary-rerelease|title=Monty Python and the Holy Grail returning to theaters for 40th anniversary|magazine=[[Entertainment Weekly]]|access-date=5 August 2015|archive-date=5 August 2015|archive-url=https://web.archive.org/web/20150805155059/http://www.ew.com/article/2015/08/04/monty-python-holy-grail-40th-anniversary-rerelease|url-status=live}}</ref> It was re-released together with a special "quote-along" version in early December 2023 to celebrate its "48th-and-a-half anniversary".<ref>{{cite magazine |url=https://www.rollingstone.com/tv-movies/tv-movie-news/monty-python-holy-grail-return-theaters-1234856201/ |title=Bring Out Your Dead Again: 'Monty Python and the Holy Grail' Is Headed Back to Theaters |first=Jon |last=Blistein |magazine=Rolling Stone |date=October 17, 2023 |access-date=5 December 2023 |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205214150/https://www.rollingstone.com/tv-movies/tv-movie-news/monty-python-holy-grail-return-theaters-1234856201/ |url-status=live }}</ref>
+
+===Box office===
+The film grossed $122,200 in its first three weeks in London.<ref name=open>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|url=https://archive.org/details/sim_variety_1975-05-07_278_13/page/272/mode/2up?view=theater|page=273|title=Congratulate Mark Forstater (advertisement)|date=7 May 1975|access-date=13 April 2024|via=[[Internet Archive]]}}</ref> In its first week in New York it grossed $35,000.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|url=https://archive.org/details/sim_variety_1975-05-07_278_13/page/n17/mode/2up?view=theater|page=19|title=Picture Grosses|date=7 May 1975|access-date=13 April 2024|via=[[Internet Archive]]}}</ref>
+
+According to records of the NFFC, as of 31 December 1978 the distributor earned receipts of £2,358,229 in the United Kingdom.<ref name="money"/> It earned rentals in the US and Canada of $5.17 million.<ref>{{Cite book|url=https://archive.org/details/americanfilmdist0000dona/page/293/mode/1up|title= American film distribution : the changing marketplace|last=Donahue|first= Suzanne Mary|year=1987 |publisher=UMI Research Press |page=293|isbn= 9780835717762}} Please note figures are for rentals in US and Canada</ref>
+
+===Home media===
+In [[DVD region code#1|Region 1]], [[The Criterion Collection]] released a [[LaserDisc]] version of the film featuring [[audio commentary]] from directors Jones and Gilliam.<ref name="Conrad">{{cite web |last=Conrad |first=Jeremy |date=25 October 2001 |title=Monty Python and the Holy Grail: Special Edition |url=https://ca.ign.com/articles/2001/10/25/monty-python-and-the-holy-grail-special-edition |access-date=14 August 2017 |work=[[IGN]]}}</ref>
+
+In 2001, [[Sony Pictures Home Entertainment|Columbia TriStar]] published a two-disc, special-edition [[DVD-Video|DVD]]. Disc one includes the Jones and Gilliam commentary, a second commentary with Idle, Palin and Cleese, the film's screenplay on a subtitle track and "Subtitles for People Who Don't Like the Film"–consisting of lines taken from [[William Shakespeare]]'s ''[[Henry IV, Part 2]]''.<ref name="Conrad" /> Disc two includes ''Monty Python and the Holy Grail in Lego'', a "[[brickfilm]]" version of the "Camelot Song" as sung by [[Lego]] [[minifigure]]s.<ref>{{cite web |url=http://www.spike.com/video/monty-python-lego/2405283 |title=Monty Python LEGO |publisher=Spike.com |date=13 September 2001 |access-date=16 June 2011 |archive-url=https://web.archive.org/web/20110221154432/http://www.spike.com/video/monty-python-lego/2405283 |archive-date=21 February 2011 |url-status=dead }}</ref> It was created by [[Spite Your Face Productions]] on commission from the [[Lego Group]] and Python Pictures. The project was conceived by the original film's respective producer and co-director, John Goldstone and Terry Gilliam.<ref name="dailyllama">[http://www.dailyllama.com/news/2004/llama262.html NEWS 2004_12_14 – Monty Python is Animators' Delight] {{Webarchive|url=https://web.archive.org/web/20130510063243/http://www.dailyllama.com/news/2004/llama262.html |date=10 May 2013 }}. Daily Llama. Retrieved 3 August 2014.</ref> Disc two also includes two scenes from the film's Japanese dub, literally translated back into English through subtitles. "The Quest for the Holy Grail Locations", hosted by Palin and Jones,<ref name="Galbraith">{{cite web |last=Galbraith |first=Stuart IV |title=Monty Python and the Holy Grail (Extraordinarily Deluxe Two-Disc Edition) |url=http://www.dvdtalk.com/reviews/24505/monty-python-and-the-holy-grail-extraordinarily-deluxe-two-disc-edition/ |work=[[DVD Talk]] |date=3 October 2006 |access-date=14 August 2017 |archive-date=15 August 2017 |archive-url=https://web.archive.org/web/20170815065600/http://www.dvdtalk.com/reviews/24505/monty-python-and-the-holy-grail-extraordinarily-deluxe-two-disc-edition/ |url-status=live }}</ref> shows places in Scotland used for the setting titled as "England 932 A.D." (as well as the two Pythons purchasing a copy of their own script as a guide). Also included is a who's who page, advertising galleries and sing-alongs.<ref name="Galbraith" /> A "Collector's Edition" DVD release additionally included a book of the screenplay, a limited-edition film cell/senitype, and limited-edition art cards.<ref>{{cite web |url=http://www.play.com/DVD/DVD/4-/166283/Monty-Python-and-the-Holy-Grail-Box-Set/Product.html |archive-url=https://web.archive.org/web/20071028205654/http://www.play.com/DVD/DVD/4-/166283/Monty-Python-and-the-Holy-Grail-Box-Set/Product.html |url-status=dead |archive-date=28 October 2007 |title=Buy Monty Python and the Holy Grail Box Set online at Play.com and read reviews. Free delivery to UK and Europe! |publisher=Play.com |date=23 January 2011 |access-date=3 May 2012 }}</ref>
+
+On the special edition DVD, the studio logos, opening credits and a brief portion of the opening scene of 1961 British Film ''[[Dentist on the Job]]'' is added to the start of the film. The clip ends with a spluttering, unseen "projectionist" realising he has played the wrong film. A "slide" then appears urging the audience to wait one moment please while the operator changes reels.{{Citation needed|date=December 2022}}<ref>Bradshaw, Peter (15 October 2015). [https://www.theguardian.com/film/2015/oct/15/monty-python-and-the-holy-grail-review-rerelease ''Monty Python and the Holy Grail review – timelessly brilliant''] ''The Guardian''. Retrieved 8 December 2021.</ref>
+
+A 35th-anniversary edition on [[Blu-ray]] was released in the US on 6 March 2012.<ref>{{cite web |url=http://bluray.highdefdigest.com/5113/monty_python_grail.html |title=Bluray Review: Monty Python and the Holy Grail &#124; High-Def Digest |publisher=Bluray.highdefdigest.com |access-date=3 May 2012 |archive-date=3 May 2012 |archive-url=https://web.archive.org/web/20120503171946/http://bluray.highdefdigest.com/5113/monty_python_grail.html |url-status=live }}</ref> Special features include "The Holy Book of Days," a second-screen experience that can be downloaded as an app on an iOS device and played with the Blu-ray to enhance its viewing, lost animation sequences with a new intro from animator Terry Gilliam, outtakes and extended scenes with Python member and the movie's co-director Terry Jones.<ref>{{cite web|last=Whitman|first=Howard|title=Blu-ray Review: Monty Python and the Holy Grail|url=http://www.technologytell.com/hometech/84095/blu-ray-review-monty-python-and-the-holy-grail/|work=Technologytell|publisher=technologytell.com|access-date=22 March 2012|archive-date=22 August 2017|archive-url=https://web.archive.org/web/20170822205717/http://www.technologytell.com/hometech/84095/blu-ray-review-monty-python-and-the-holy-grail/|url-status=dead}}</ref>
+
+It was released on Blu-ray again for the film's 40th anniversary on 27 October 2015, including a new special feature consisting of a Q&A with the Pythons at the [[Tribeca Festival|Tribeca Film Festival]]. Its physical release had a limited edition box set resembling a castle with a catapult and rubber animals to launch.<ref>{{Cite web |title='Monty Python and the Holy Grail' turns 40 with a special-edition Blu-ray |url=https://ew.com/article/2015/08/14/monty-python-holy-grail-blu-ray/ |access-date=2025-06-09 |website=EW.com |language=en |archive-date=5 May 2025 |archive-url=https://web.archive.org/web/20250505121512/https://ew.com/article/2015/08/14/monty-python-holy-grail-blu-ray/ |url-status=dead }}</ref><ref>{{Cite web |last=Osborn |first=Alex |date=2015-08-17 |title=Monty Python and the Holy Grail: 40th Anniversary Edition Blu-ray Announced |url=https://www.ign.com/articles/2015/08/17/monty-python-and-the-holy-grail-40th-anniversary-edition-blu-ray-announced |access-date=2025-06-09 |website=IGN |language=en}}</ref>
+
+For the film's 50th anniversary, Sony Pictures Home Entertainment released ''Monty Python and the Holy Grail'' on [[Ultra HD Blu-ray]] on 26 August 2025.<ref>{{Cite web |last=Archer |first=John |title='Monty Python And The Holy Grail' To Get 50th Anniversary 4K Blu-Ray Release |url=https://www.forbes.com/sites/johnarcher/2025/06/05/monty-python-and-the-holy-grail-to-get-50th-anniversary-4k-blu-ray-release/ |access-date=2025-06-09 |website=Forbes |language=en}}</ref><ref>{{Cite web |date=2025-06-05 |title=Monty Python And The Holy Grail; Arrives On 4K Ultra HD Steelbook August 26, 2025 From Sony {{!}} Screen-Connections |url=https://screen-connections.com/2025/06/05/monty-python-and-the-holy-grail-4k-uhd-steelbook-release-details/ |access-date=2025-06-09 |website=screen-connections.com |language=en-US}}</ref>
+
+==Reception and legacy==
+Contemporary reviews were mixed. [[Vincent Canby]] of ''[[The New York Times]]'' wrote in a favourable review that the film had "some low spots," but had gags which were "nonstop, occasionally inspired and should not be divulged, though it's not giving away too much to say that I particularly liked a sequence in which the knights, to gain access to an enemy castle, come up with the idea of building a Trojan rabbit."<ref>{{cite news |last=Canby |first=Vincent |author-link=Vincent Canby |date=28 April 1975 |title=Monty Python and the Holy Grail |newspaper=[[The New York Times]] |page=31}}</ref> [[Charles Champlin]] of the ''[[Los Angeles Times]]'' was also positive, writing that the film, "like [[Mad (magazine)|''Mad'']] comics, is not certain to please every taste. But its youthful exuberance and its rousing zaniness are hard not to like. As a matter of fact, the sense of fun is dangerously contagious."<ref>[[Charles Champlin|Champlin, Charles]] (23 July 1975). "'Monty Python Opens at Plaza". ''[[Los Angeles Times]]''. Part IV, p. 1.</ref> [[Penelope Gilliatt]] of ''[[The New Yorker]]'' called the film "often recklessly funny and sometimes a matter of comic genius."<ref>{{cite magazine |last=Gilliatt |first=Penelope |author-link=Penelope Gilliatt |date=5 May 1975 |title=The Current Cinema |magazine=[[The New Yorker]] |page=117}}</ref>
+
+Other reviews were less enthusiastic. ''[[Variety (magazine)|Variety]]'' wrote that the storyline was "basically an excuse for set pieces, some amusing, others overdone."<ref>{{cite magazine |date=19 March 1975 |title=Film Reviews: Monty Python And The Holy Grail |magazine=[[Variety (magazine)|Variety]] |page=32 }}</ref> [[Gene Siskel]] of the ''[[Chicago Tribune]]'' gave the film two-and-a-half stars, writing that he felt "it contained about 10 very funny moments and 70 minutes of silence. Too many jokes took too long to set up, a trait shared by both ''[[Blazing Saddles]]'' and ''[[Young Frankenstein]]''. I guess I prefer Monty Python in chunks, in its original, television revue format."<ref>[[Gene Siskel|Siskel, Gene]] (9 June 1975). "Now comes King Arthur to cut 'em off at the pass". ''[[Chicago Tribune]]''. Section 3, p. 22.</ref> Gary Arnold of ''[[The Washington Post]]'' called the film "a fitfully amusing spoof of the Arthurian legends" but "rather poky" in tempo, citing the running gag of Swedish subtitles in the opening credits as an example of how the Pythons "don't know when to let go of any ''shtik''".<ref>{{cite news |last=Arnold |first=Gary |date=17 July 1975 |title=...Python's Arthurian Knights |newspaper=[[The Washington Post]] |page=C1, C11}}</ref> Geoff Brown of ''[[The Monthly Film Bulletin]]'' wrote in a mixed review that "the team's visual buffooneries and verbal rigamaroles (some good, some bad, but mostly indifferent) are piled on top of each other with no attention to judicious timing or structure, and a form which began as a jaunty assault on the well-made revue sketch and an ingenious misuse of television's fragmented style of presentation, threatens to become as unyielding and unfruitful as the conventions it originally attacked."<ref>{{cite journal |last=Brown |first=Geoff |date=April 1975 |title=Monty Python and the Holy Grail |journal=[[The Monthly Film Bulletin]] |page=85}}</ref>
+
+[[File:Helmet of Black Knight from Monty Python and the Holy Grail.JPG|thumb|upright|The [[Black Knight (Monty Python)|Black Knight]]'s helmet. His lines, "Tis but a scratch" and "It's just a flesh wound…" are often quoted.<ref>{{cite news |title=49 of Monty Python's most absurdly funny jokes and quotes |url=https://www.yorkshirepost.co.uk/read-this/49-of-monty-pythons-most-absurdly-funny-jokes-and-quotes/ |access-date=18 August 2019 |newspaper=Yorkshire Post |archive-date=18 August 2019 |archive-url=https://web.archive.org/web/20190818192829/https://www.yorkshirepost.co.uk/read-this/49-of-monty-pythons-most-absurdly-funny-jokes-and-quotes/ |url-status=dead }}</ref>]]
+The film's reputation grew over time. In 2000, readers of ''[[Total Film]]'' magazine voted ''Holy Grail'' the fifth-greatest comedy film of all time.<ref name="BBC News" /> The next Python film, ''[[Monty Python's Life of Brian|Life of Brian]]'', was ranked first.<ref name="BBC News" /> A 2006 poll of [[Channel 4]] viewers on the [[100 Greatest (TV series)|50 Greatest Comedy Films]] saw ''Holy Grail'' placed sixth (with ''Life of Brian'' again topping the list).<ref name="Channel 4"/> In 2011, an [[American Broadcasting Company|ABC]] prime-time special, ''Best in Film: The Greatest Movies of Our Time'', counted down the best films chosen by fans based on results of a poll conducted by ABC and ''[[People (American magazine)|People]]''. ''Holy Grail'' was selected as the second best comedy after ''[[Airplane!]]'' In 2016, ''[[Empire (film magazine)|Empire]]'' magazine ranked ''Holy Grail'' 18th in their list of the 100 best British films (''Life of Brian'' was ranked 2nd), their entry stating, "[[Elvis Presley|Elvis]] ordered a print of this comedy classic and watched it five times. If it's good enough for the King, it's good enough for you."<ref>{{cite news |title=The 100 best British films |url=https://www.empireonline.com/movies/features/100britishfilms/ |access-date=4 September 2019 |work=Empire |archive-date=4 September 2019 |archive-url=https://web.archive.org/web/20190904144411/https://www.empireonline.com/movies/features/100britishfilms/ |url-status=live }}</ref>
+
+In a 2017 interview at [[Indiana University Bloomington|Indiana University]] in Bloomington, John Cleese expressed disappointment with the film's conclusion.<!--Recheck quotations as cited in source. DO NOT change double-quotations that are required by Wikipedia since Cleese's remarks are quoted in the cited article itself. Also, DO NOT alter Wikipedia's preferred standard quotation marks, replacing them with any different style. A personal opinion that "Cleese has become a curmudgeon" is entirely irrelevant to editing any source-cited text of his documented remarks.--> "'The ending annoys me the most...It ends the way it does because we couldn't think of any other way'".<ref>Keck, Mary (2017). [http://news.iu.edu/stories/2017/10/iub/05-matters-mcrobbie-john-cleese.html "Comedian John Cleese talks Monty Python and the secret of happiness with IU President McRobbie"] {{Webarchive|url=https://web.archive.org/web/20200113215241/https://news.iu.edu/stories/2017/10/iub/05-matters-mcrobbie-john-cleese.html |date=13 January 2020 }}, campus news article, 5 October 2017, Indiana University Bloomington. Retrieved 15 September 2019.</ref> However, scripts for the film and notebooks that are among Michael Palin's private archive, which he donated to the British Library in 2017, do document at least one alternative ending that the troupe considered: "a battle between the knights of Camelot, the French, and the Killer Rabbit of Caerbannog".<ref name="NYMag">Wright, Megh (2018). [http://www.vulture.com/2018/08/monty-pythons-michael-palin-reveals-cut-holy-grail-scenes.html "Comedy's Holy Grail, Lost Monty Python Scenes, Found in Michael Palin's Archive"] {{Webarchive|url=https://web.archive.org/web/20190630011148/https://www.vulture.com/2018/08/monty-pythons-michael-palin-reveals-cut-holy-grail-scenes.html |date=30 June 2019 }}, 1 August 2018, Vulture, the culture and entertainment website for ''New York'' magazine. Retrieved 15 September 2019.</ref><ref>Ellis-Petersen, Hannah (2017).[https://www.theguardian.com/culture/2017/jun/13/michael-palin-donates-notebooks-to-british-library-monty-python "Michael Palin donates 22 years' worth of notebooks to British Library"], ''The Guardian'', UK and US editions, 13 June 2017. Retrieved 15 September 2019.</ref> Due to the film's small production budget, that idea for a "much pricier option" was discarded by the Pythons in favour of the ending with "King Arthur getting arrested", which Palin deemed "cheaper" and "funnier".<ref name="NYMag"/>
+
+Review aggregator [[Rotten Tomatoes]] offers a 92% approval rating from reviews of 131 critics. The consensus reads, "A cult classic as gut-bustingly hilarious as it is blithely ridiculous, ''Monty Python and the Holy Grail'' has lost none of its exceedingly silly charm."<ref>{{Citation|title=Monty Python and the Holy Grail (1975)|url=https://www.rottentomatoes.com/m/monty_python_and_the_holy_grail|language=en|access-date=2026-04-14|archive-date=20 January 2021|archive-url=https://web.archive.org/web/20210120115359/https://www.rottentomatoes.com/m/monty_python_and_the_holy_grail|url-status=live}}</ref> On [[Metacritic]], the film has a score of 91 out of 100 based on 24 critics' reviews, indicating "universal acclaim".<ref>{{cite web|url=https://www.metacritic.com/movie/monty-python-and-the-holy-grail|title=Monty Python and the Holy Grail Reviews|publisher=[[Metacritic]]|accessdate=12 March 2022|archive-date=3 April 2022|archive-url=https://web.archive.org/web/20220403135628/https://www.metacritic.com/movie/monty-python-and-the-holy-grail|url-status=live}}</ref>
+
+=== ''Spamalot'' ===
+[[File:Azariaspamalot.jpg|230px|thumb|[[Hank Azaria]] in the original Broadway production of ''[[Spamalot]]'']]
+The film was adapted as the 2005 [[Tony Award]]-winning [[Broadway theatre|Broadway]] musical ''[[Spamalot]]''. Written primarily by Idle, the stage show offers a revised plot, while retaining many jokes from the film.<ref>{{cite magazine|last=McGuigan|first=Cathleen|title=A Very Swordid Affair|magazine=Newsweek|date=24 January 2005|volume=145|issue=4|pages=64–65}}</ref>
+
+In May 2018, [[20th Century Fox]] [[green-light|green-lit]] a film adaptation of the musical. Idle would write the screenplay and stage director [[Casey Nicholaw]] would direct. Slated to begin filming in early 2019, production was delayed as a result of the [[Acquisition of 21st Century Fox by Disney|acquisition of 20th Century Fox by The Walt Disney Company]].<ref name="SpamalotFilm">{{cite news|author1=Anita Busch|author2=Mike Fleming Jr.|title=Fox Sets Broadway 'Mean Girls' Casey Nicholaw For 'Spamalot' Monty Python Movie: Eric Idle Scripting|url=https://deadline.com/2018/05/spamalot-movie-monty-python-fox-mean-girls-casey-nicholaw-eric-idle-1202382256/|date=May 3, 2018|work=[[Deadline Hollywood]]|access-date=May 4, 2018|archive-date=10 January 2021|archive-url=https://web.archive.org/web/20210110082043/https://deadline.com/2018/05/spamalot-movie-monty-python-fox-mean-girls-casey-nicholaw-eric-idle-1202382256/|url-status=live}}</ref> The project announced a [[turnaround (filmmaking)|move]] to [[Paramount Pictures]] on January 6, 2020, with Idle and Nicholaw still attached as writer and director, and [[Dan Jinks]] joining as a producer.<ref>[https://deadline.com/2021/01/spamalot-paramount-pictures-movie-musical-eric-idle-casey-nicholaw-monty-python-and-the-holy-grail-1234665944/ "Paramount Acquires Monty Python Musical 'Spamalot'; Casey Nicholaw Directing Eric Idle Script"] {{Webarchive|url=https://web.archive.org/web/20210106200814/https://deadline.com/2021/01/spamalot-paramount-pictures-movie-musical-eric-idle-casey-nicholaw-monty-python-and-the-holy-grail-1234665944/ |date=6 January 2021 }}. ''Deadline''. Retrieved 25 July 2021</ref> However, in 2021, Idle confirmed on his [[Twitter]] account that the film would not be made because two of his former colleagues opposed it.<ref name="twitter.com">{{Cite tweet|author=Eric Idle|author link=Eric Idle|user=EricIdle|number=1630577631233212416|title=One of the best things about the Pythons killing the movie is that Spamalot the stage Show is coming back big time. I love it! See todays news! @TRWShows}}</ref>
+
+A Broadway revival began previews on October 31, 2023, at the [[St. James Theatre]], with an official opening night of November 16, 2023.<ref>{{Cite web |title=SPAMALOT on Broadway {{!}} Official Site |url=https://spamalotthemusical.com/ |access-date=2023-08-02 |website=spamalotthemusical.com |archive-date=22 August 2023 |archive-url=https://web.archive.org/web/20230822162258/https://spamalotthemusical.com/ |url-status=live }}</ref>
+
+In 2013, the Pythons lost a legal case to [[Mark Forstater]], the film's producer, owing a combined £800,000 in legal fees and back royalties to Forstater for the derivative work of ''Spamalot''.<ref>{{cite news |author=Tom Bryant |title=John Cleese: Monty Python reunion is happening because of my £800,000 legal bill |url=https://www.mirror.co.uk/tv/tv-news/john-cleese-monty-python-reunion-3591253 |quote=Last July, the Pythons lost a royalties case to Mark Forstater, who produced 1975 film Monty Python And The Holy Grail. ... |newspaper=[[Daily Mirror]] |date=23 May 2014 |access-date=28 December 2014 |archive-date=21 December 2014 |archive-url=https://web.archive.org/web/20141221111045/http://www.mirror.co.uk/tv/tv-news/john-cleese-monty-python-reunion-3591253 |url-status=live }}</ref><ref>{{cite news
+| title        = Monty Python sued over Spamalot royalties
+| url        = https://www.bbc.co.uk/news/entertainment-arts-20556684
+| work        = [[BBC News]]
+| quote        = Mr Forstater claimed he was entitled to one-seventh of this figure, the same share enjoyed by each of the other Pythons – but was told he was only entitled to one-fourteenth, and has been paid accordingly since 2005. ...
+| date        = 30 November 2012
+| access-date        = 30 November 2012
+| archive-date        = 30 November 2012
+| archive-url        = https://web.archive.org/web/20121130191718/http://www.bbc.co.uk/news/entertainment-arts-20556684
+| url-status        = live
+}}</ref> To help cover the cost of these royalties and fees, the group arranged and performed in a stage show, ''[[Monty Python Live (Mostly)]]'', held at [[The O2 Arena|the O<sub>2</sub> Arena]] in London in July 2014.<ref>{{cite news |last= Wilkinson |first= Peter |url= http://www.cnn.com/2013/11/25/showbiz/monty-python-sellout/ |title= Monty Python reunion show sells out in 43 seconds |publisher= CNN |date= 25 November 2013 |access-date= 20 August 2019 |archive-date= 20 August 2019 |archive-url= https://web.archive.org/web/20190820093428/https://www.cnn.com/2013/11/25/showbiz/monty-python-sellout/ |url-status= live }}</ref><ref>{{cite magazine |date= 30 June 2014 |author= Kory Grow |title= Watch Mick Jagger Dryly Accuse Monty Python of Being 'Wrinkly Old Men' |url= https://www.rollingstone.com/music/music-news/watch-mick-jagger-dryly-accuse-monty-python-of-being-wrinkly-old-men-62152/ |access-date= 1 November 2019 |magazine= [[Rolling Stone]] |archive-date= 24 October 2019 |archive-url= https://web.archive.org/web/20191024023452/https://www.rollingstone.com/music/music-news/watch-mick-jagger-dryly-accuse-monty-python-of-being-wrinkly-old-men-62152/ |url-status= live }}</ref>
+
+===Games===
+In 1996, the film adapted into the computer game ''[[Monty Python & the Quest for the Holy Grail]]''.<ref>{{cite web|url=http://www.7thlevel.com/corp/press/1996/grail2.htm|archiveurl=https://web.archive.org/web/19980129211438/http://www.7thlevel.com/corp/press/1996/grail2.htm|title=7thLevel Wishes to Make Known the Arrival of Monty Python and the Quest for the Holy Grail Voted Best Game of 932 A.D|website=7thlevel.com|archivedate=January 29, 1998|date=March 26, 1996|accessdate=August 18, 2023}}</ref> In 2022, [[tabletop role-playing game]] company Exalted Funeral launched a [[Kickstarter]] for ''Monty Python's Cocurricular Mediaeval Reenactment Programme'',<ref>{{cite web|url=https://www.montypython.com/news_crowbarannounce/527|title=NEW Python Role Playing Game|publisher=Monty Python |access-date= 11 April 2026}}</ref>  an RPG mostly based on ''Holy Grail'' while taking elements from other Monty Python productions, such as [[Spam (Monty Python)|Spam]], the giant foot from ''Flying Circus'', the Judean revolutionaries from ''[[Life of Brian]]'', and the [[Grim Reaper]] from ''[[Monty Python's The Meaning of Life|The Meaning of Life]]''.<ref>{{cite web|url=https://www.dicebreaker.com/games/monty-pythons-cocurricular-mediaeval-reenactment-programme/feature/monty-python-rpg-designer-interview-holy-grail-dnd|title=Monty Python RPG creators on taking the piss out of D&D, letting players get silly - and why it's not just Holy Grail|publisher=Dice Breaker|access-date= 11 April 2026}}</ref> The game was released in 2025,<ref>{{cite web|url=https://www.polygon.com/impressions/534336/monty-python-tabletop-rpg-impressions-exalted-funeral/|title=The Monty Python RPG does exactly what it says on the tin|author=Hall, Charlie|publisher=Polygon|access-date= 11 April 2026}}</ref> and won two Silver Awards at the [[ENNIE Awards]].<ref>{{Cite web |title=2025 Winners and Nominees – ENNIE Awards |url=https://ennie-awards.com/2025-winners/ |access-date=2025-09-22 |language=en-US}}</ref>
+
+==See also==
+* [[List of cult films]]
+* [[List of films considered the best#United Kingdom|List of films considered the best]]
+* [[Surrealist cinema]]
+* [[Postmodernist film]]
+* [[Production music]]
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* {{cite book |title=A Book about the Film Monty Python and the Holy Grail: All the References from African Swallows to Zoot |author1-first=Darl |author1-last=Larsen |publisher=Rowman & Littlefield |year=2015 |isbn=9781442245549 |chapter=Title and Credit Sequence |pages=1&ndash;26 |url=https://books.google.com/books?id=DX0xBwAAQBAJ |access-date=15 April 2022 |archive-date=15 April 2022 |archive-url=https://web.archive.org/web/20220415233641/https://books.google.com/books?id=DX0xBwAAQBAJ |url-status=live }}
+* {{cite book|last=Li |first=Martin |chapter=Scotland on Film |title=Glasgow & the River Clyde |publisher=Hunter Publishing, Inc |date=2011 |isbn=978-1588437853}}
+* {{Cite book|url=https://books.google.com/books?id=RS0FAgAAQBAJ |title=Monty Python: A Chronology, 1969–2012 |edition=2 |last=McCall |first=Douglas |date=2013 |publisher=McFarland |isbn=9780786478118 |language=en |via=[[Google Books]]}}
+* ''[[Monty Python and the Holy Grail (Book)]]'', Eyre Methuen, 1977, {{ISBN|0 413 38520 5}}. Contains screenplay, photographs, and other material.
+* {{cite book|last=Palin |first=Michael |title=[[Diaries 1969–1979: The Python Years]] |publisher=Weidenfeld & Nicolson |date=2006}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* {{Official website|https://www.sonypictures.com/movies/montypythonandtheholygrail}}
+* {{IMDb title|0071853|Monty Python and the Holy Grail}}
+* {{IMDb title|0353751|Monty Python and the Holy Grail in Lego}}
+* {{TCMDb title|id=83921}}
+* [https://flexiblehead.blog/2013/02/24/carol-cleveland/ 2012 interview with Carol Cleveland, covering ''Holy Grail'' and the TV series]; {{Webarchive|url=https://web.archive.org/web/20210907111029/https://flexiblehead.blog/2013/02/24/carol-cleveland/ |date=7 September 2021 }}
+* [https://www.style.org/unladenswallow/ Estimating the Airspeed Velocity of an Unladen Swallow]; {{Webarchive|url=https://web.archive.org/web/20040403213640/http://www.style.org/unladenswallow/ |date=3 April 2004 }}
+* {{Metacritic film|title=Monty Python and the Holy Grail}}
+* {{Rotten-tomatoes|monty_python_and_the_holy_grail|Monty Python and the Holy Grail}}
+
+{{Monty Python}}
+{{Terry Gilliam}}
+{{Terry Jones}}
+{{Graham Chapman}}
+{{Films based on Arthurian legends}}
+{{Authority control}}
+
+{{DEFAULTSORT:Monty Python And The Holy Grail}}
+[[Category:Monty Python and the Holy Grail| ]]
+[[Category:1970s adventure comedy films]]
+[[Category:1970s fantasy adventure films]]
+[[Category:1970s fantasy comedy films]]
+[[Category:1970s parody films]]
+[[Category:1970s satirical films]]
+[[Category:1975 films]]
+[[Category:British fantasy comedy films]]
+[[Category:British independent films]]
+[[Category:British self-reflexive films]]
+[[Category:Films directed by Terry Gilliam]]
+[[Category:Films directed by Terry Jones]]
+[[Category:Films set in 10th-century Anglo-Saxon England]]
+[[Category:Films set in castles]]
+[[Category:Films shot in Scotland]]
+[[Category:British films with live action and animation]]
+[[Category:Films adapted into plays]]
+[[Category:Religious adventure films]]
+[[Category:British religious comedy films]]
+[[Category:Religious satire films]]
+[[Category:Metafictional works]]
+[[Category:Monty Python films]]
+[[Category:Films with screenplays by Eric Idle]]
+[[Category:Films with screenplays by Graham Chapman]]
+[[Category:Films with screenplays by John Cleese]]
+[[Category:Films with screenplays by Michael Palin]]
+[[Category:Films with screenplays by Terry Gilliam]]
+[[Category:Films with screenplays by Terry Jones]]
+[[Category:Films about the Holy Grail]]
+[[Category:Films about God]]
+[[Category:Films about wizards]]
+[[Category:Religion in fantasy fiction]]
+[[Category:Parodies of literature]]
+[[Category:EMI Films films]]
+[[Category:1975 directorial debut films]]
+[[Category:1975 comedy films]]
+[[Category:1975 English-language films]]
+[[Category:1975 British films]]
+[[Category:1975 independent films]]
+[[Category:Postmodern films]]
+[[Category:British adventure comedy films]]
+[[Category:British fantasy adventure films]]
+[[Category:British parody films]]
+[[Category:Arthurian films]]
+[[Category:Films about kings]]
+[[Category:Films about rabbits and hares]]
+[[Category:Films about treasure hunting]]
+[[Category:English-language independent films]]
+[[Category:English-language fantasy comedy films]]
+[[Category:English-language adventure comedy films]]

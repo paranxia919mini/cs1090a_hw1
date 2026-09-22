@@ -1,0 +1,269 @@
+{{short description|1971 film by Alan J. Pakula}}
+{{About|the film|other uses|Klute (disambiguation)}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox film
+| name           = Klute
+| image          = Klute-Poster.jpg
+| alt            =
+| caption        = Theatrical release poster
+| director       = [[Alan J. Pakula]]
+| writer         = {{Plainlist|
+* [[Andy Lewis (screenwriter)|Andy Lewis]]
+* Dave Lewis
+}}
+| producer       = Alan J. Pakula
+| starring       = {{Plainlist|<!-- Per the poster billing block -->
+* [[Jane Fonda]]
+* [[Donald Sutherland]]
+* [[Charles Cioffi]]
+* [[Nathan George]]
+* [[Dorothy Tristan]]
+* [[Roy Scheider]]
+* [[Rita Gam]]
+}}
+| cinematography = [[Gordon Willis]]
+| editing        = [[Carl Lerner]]
+| music          = [[Michael Small]]
+| studio         = Gus Productions
+| distributor    = [[Warner Bros. Pictures]]
+| released       = {{Film date|1971|06|23|ref1=<ref name=crittenden/>}}
+| runtime        = 114 minutes
+| country        = United States
+| language       = English
+| budget         = $2.5 million
+| gross          = $12.5 million<ref name=number>{{cite web |url= https://www.the-numbers.com/movie/Klute#tab=summary |title= Klute (1971) – Financial Information |website= [[The Numbers (website)|The Numbers]] | access-date= April 5, 2024}}</ref>
+}}
+
+'''''Klute''''' is a 1971 American [[neo-noir]] [[psychological thriller]]{{sfn|Parish|1990|p=316}}{{sfn|Thomson|2009|p=124}} film directed and produced by [[Alan J. Pakula]] and starring [[Jane Fonda]], [[Donald Sutherland]], [[Charles Cioffi]], [[Nathan George]], [[Dorothy Tristan]], [[Roy Scheider]] and [[Rita Gam]]. Its plot follows a high-priced New York City [[call girl]] who assists a detective from Pennsylvania in solving the [[missing person]] case of a [[Client (prostitution)|john]] who may be [[stalking]] her.{{sfn|Silver|Ward|1992|p=404}} It is the first installment of what has informally come to be known as Pakula's "paranoia trilogy", followed by ''[[The Parallax View]]'' (1974) and ''[[All the President's Men (film)|All the President's Men]]'' (1976), all films dealing with themes of paranoia, [[conspiracy|conspiracies]] and [[surveillance]].{{sfn|LoBrutto|2021|p=55}}{{sfn|Dean|2003|p=371}}
+
+The original screenplay for ''Klute'' was written by brothers [[Andy Lewis (screenwriter)|Andy]] and Dave Lewis, with Andy drawing inspiration from a [[Serial (literature)|serial]] he read as a child about a man attempting to solve his brother's murder in a city. Principal photography took place in late 1970 and early 1971 in New York City.
+
+''Klute'' was released theatrically in the United States on June 23, 1971, by [[Warner Bros. Pictures]] to critical and commercial success. Reviewers praised the film's direction and screenplay, with Fonda's performance receiving widespread critical acclaim, while the film grossed over $12 million against a $2.5 million budget.
+
+''Klute'' received two nominations at the [[44th Academy Awards]], including [[Academy Award for Best Original Screenplay|Best Original Screenplay]], with Fonda winning [[Academy Award for Best Actress|Best Actress]]. At the [[25th British Academy Film Awards]], Fonda received a nomination for [[BAFTA Award for Best Actress in a Leading Role|Best Actress in a Leading Role]]. At the [[29th Golden Globe Awards]], it received a nomination for [[Golden Globe Award for Best Screenplay|Best Screenplay]], with Fonda winning [[Golden Globe Award for Best Actress in a Motion Picture – Drama|Best Actress in a Motion Picture – Drama]].
+
+==Plot==
+After Pennsylvania chemical company executive Tom Gruneman disappears, the police find an obscene letter in his office addressed to a New York City [[call girl]] named Bree Daniels, who had received several such letters. After six months of fruitless police work, Peter Cable, a fellow executive at Gruneman's company, hires family friend and detective John Klute to investigate the disappearance.
+
+Klute rents an apartment in the basement of Bree's building, taps her phone, and follows her as she turns tricks. Bree appears to enjoy the freedom of freelancing as a call girl while auditioning for acting and modeling jobs, but she reveals the emptiness of her life to her psychiatrist. After learning that Klute has been watching her, Bree says that she does not recognize Gruneman. She acknowledges having been beaten up by a john two years earlier but cannot identify Gruneman from a photo. She further admits to Klute that she is a nervous and [[Paranoia|paranoid]] person. Bree takes Klute to meet her former [[pimp]] Frank Ligourin, who had managed Jane McKenna, a prostitute who had referred the abusive client to Bree. McKenna has apparently committed suicide, and their other colleague Arlyn Page has since become a drug addict and disappeared.
+
+Klute and Bree develop a romance, although she tells her psychiatrist that she wishes their relationship would end because she felt more in control of herself when turning tricks. They find Page, who tells them that the photo of Gruneman is not that of the client, who was an older man. Page's body is later found in the river. Klute connects the apparent suicides of the two prostitutes, surmising that the client was using Gruneman's name. He also thinks the client killed Gruneman and might kill Bree next. Klute revisits Gruneman's acquaintances. By typographic comparison, the obscene letters are traced to Cable, to whom Klute has been reporting during his investigation. Klute asks Cable for money to buy the "[[Address book|black book]]" of McKenna's clients to learn the identity of the abusive client. He leaves enough bread crumbs to see whether Cable reveals his own complicity in the murders.
+
+Cable follows Bree to a client's office and reveals that he sent her the letters. He tells her that after Gruneman accidentally found him physically abusing McKenna, Cable was worried that Gruneman would use the incident to sabotage Cable's career, so he tried to frame Gruneman by planting the letter in his office. After playing a [[Snuff film|snuff]] audiotape he recorded as he murdered Page, he attacks Bree. When he sees Klute rush in, Cable lurches backward, crashing through a window to his death.
+
+Bree vacates her apartment with Klute's help. A [[Voice-over|voiceover]] conversation with her psychiatrist reveals her hesitancy to surrender her life of autonomy to enter a traditional relationship with Klute, saying that she would lose her mind if she turned to a domestic lifestyle. She admits that, although she will miss Klute, she is unable to tell him and jokes that the doctor will likely see her again the next week. As they leave the apartment, Bree receives a telephone call from a client and informs him she is leaving New York and does not expect to return. She and Klute leave the apartment together.
+
+==Cast==
+<!--- [[MOS:FILMCAST]] [[WP:NOTDATABASE]] - cast and order per main opening tombstone credits, roles per closing credits scroll --->
+{{cast listing|
+* [[Jane Fonda]] as Bree Daniels
+* [[Donald Sutherland]] as John Klute
+* [[Charles Cioffi]] as Peter Cable
+* [[Roy Scheider]] as Frank Ligourin
+* [[Dorothy Tristan]] as Arlyn Page
+* [[Rita Gam]] as Trina
+* [[Nathan George]] as Trask
+* [[Vivian Nathan]] as the psychiatrist
+* [[Robert Milli]] as Tom Gruneman
+* Morris Strassberg as Mr. Goldfarb
+* [[Jean Stapleton]] as Goldfarb's secretary
+* [[Sylvester Stallone]] as Club Patron (uncredited extra)<ref>{{cite book |last=Eichhorn |first=Dennis P. |author-link=Dennis Eichhorn |title=Stallone |year=1986 |location=Seattle |publisher=Turman Pub. Co. |isbn=978-0-89872-205-5 |page=26 |url=https://archive.org/details/stallone0000eich/page/26/mode/2up |url-access=limited |via=[[Internet Archive#Text collection|Internet Archive Book Reader]]}}</ref>
+* [[Candy Darling]] as Discothèque Patron (uncredited)<ref>{{cite web|url=https://www.imdb.com/title/tt0067309/fullcredits/?ref_=tt_cst_sm |title=Klute : Full cast & crew|website=IMDb.com|access-date=5 July 2026}}</ref>
+}}
+
+==Themes==
+Writer Karen Gai Dean notes [[paranoia]] and [[surveillance]] as principal themes in ''Klute''.{{sfn|Dean|2003|p=371}} She writes that the film's recurrent use of audio tapes as both "visual and aural themes ... presciently evoke the paranoia of the [[Watergate scandal|Watergate]] era."{{sfn|Dean|2003|p=371}}
+
+The film is widely regarded as the first entry in Pakula's informal "paranoia trilogy," followed by ''[[The Parallax View]]'' (1974) and ''[[All the President's Men (film)|All the President's Men]]'' (1976).<ref name="Guardian502">{{cite news |last=Tobias |first=Scott |date=25 June 2021 |title=Klute at 50: a thriller less interested in a killer and more in character |url=https://www.theguardian.com/film/2021/jun/25/klute-film-50th-anniversary-jane-fonda |access-date=2 November 2025 |work=The Guardian}}</ref>{{sfn|LoBrutto|2021|p=55}} Scott Tobias of ''[[The Guardian]]'' noted that while the film "doesn't have the conspiratorial flavor of Pakula's more political films, ''Klute'' approaches the genre with the same creepy ambience, with camera angles that suggest surveillance, and an excellent score, by Michael Small, that would seem more suited to [[Horror film|horror]], with its jangling of keys on the far end of a piano. There's an aura of danger and instability that keeps the film on edge."<ref name=tobias>{{cite news|newspaper=[[The Guardian]]|last=Tobias|first=Scott|url=https://www.theguardian.com/film/2021/jun/25/klute-film-50th-anniversary-jane-fonda|date=June 25, 2021|title=Klute at 50: a thriller less interested in a killer and more in character|archive-url=https://archive.today/20230529061840/https://www.theguardian.com/film/2021/jun/25/klute-film-50th-anniversary-jane-fonda|archive-date=May 29, 2023|url-status=live}}</ref>
+
+==Production==
+===Development===
+[[Andy Lewis (screenwriter)|Andy Lewis]], a writer who had primarily worked in television, developed the screenplay for ''Klute'' with the goal of wanting to transition into feature films.<ref name=tru>{{cite web|url=https://trustory.fm/blog/a-qa-with-klute-co-writer-andy-lewis/|website=TruStory FM|title=A Q&A with "Klute" Co-Writer Andy Lewis|date=April 10, 2013|url-status=live|archive-url=https://archive.today/20230529062932/https://trustory.fm/blog/a-qa-with-klute-co-writer-andy-lewis/|archive-date=May 29, 2023}}</ref> His initial inspiration for the screenplay originated from a serial story he had read as a child in ''[[The Saturday Evening Post]]'' about a man from the country who ventures into the city in an attempt to solve the murder of his brother who was killed there in an empty lot.<ref name=tru/> Lewis focused on two themes he felt were resonant to Americans, firstly "the [[Yokel|rube]] who turns the tables on the city slickers", and secondly, paranoia: "I'm sure this afflicts people all over the world, but I somehow think of it as typically American. The hidden pattern of things. The darkness. The people out there watching you, plotting against you, waiting to hurt you. Sounds you hear at night. Silences on the phone. All that stuff. I figured I would write this thing, however it went, to take the fullest possible advantage of this—what should we call it?—instinct. Deliberately."<ref name=tru/>
+
+The [[spec script]] was completed by Andy Lewis in collaboration with his older brother, Dave.<ref name=tru/> The brothers corresponded by letters and phone—Andy from his [[Massachusetts]] residence, and Dave from his home in [[California]]—with Andy undertaking much of the scripting.<ref name=tru/> Andy commented that the writing was highly collaborative, concluding: "I'd have trouble attributing any part of the original script to one or the other of us solely."<ref name=tru/>
+
+===Casting===
+The casting of Jane Fonda, who had recently completed ''[[They Shoot Horses, Don't They? (film)|They Shoot Horses, Don't They?]]'' (1969) was announced in April 1970.<ref>{{cite news|url=https://www.newspapers.com/article/the-calgary-albertan/125491738/|newspaper=[[The Calgary Albertan]]|date=April 23, 1970|page=11|title=Jane Fonda stars in Klute|via=Newspapers.com}}</ref> At the time, Fonda had attracted significant scrutiny [[Jane Fonda#Opposition to the Vietnam War|for her activism against the Vietnam War]],<ref name=tobias/> and much of the publicity surrounding the film made note of this.{{sfn|Kachmar|2015|p=27}} To prepare for the role, Fonda spent a week in New York City observing high-class call girls and [[Procuring (prostitution)|madams]]. She also accompanied them on their outings to after-hours clubs to solicit men. Fonda noticed that none of the men showed any interest in her, which she believed was because they could see that she was really just an "upper-class, privileged pretender".<ref>{{cite video| title=Jane Fonda in Five Acts| title-link=Jane Fonda in Five Acts| author=Susan Lacy| publisher=[[HBO Films]]| year=2018}}</ref>
+
+Fonda had doubts about whether she could portray the role and asked Alan Pakula to release her from her contract and hire [[Faye Dunaway]] instead, but Pakula refused.<ref>{{cite magazine|url=https://dujour.com/cities/new-york/jane-fonda-on-klute-i-said-i-cant-do-it-hire-faye-dunaway/|magazine=[[DuJour Media]]|title=Jane Fonda on "Klute": I Said, "I Can't Do It. Hire Faye Dunaway"|last=Pascual|first=Ivy|date=September 2, 2012|archive-url=https://web.archive.org/web/20221005192255/https://dujour.com/cities/new-york/jane-fonda-on-klute-i-said-i-cant-do-it-hire-faye-dunaway/|archive-date=October 5, 2022}}</ref> One of Fonda's primary concerns was that she, as an emerging feminist, should not play a prostitute, but when Fonda admitted this concern to a longstanding feminist, she was told "If the script is good, and it's an opportunity to be three-dimensional, of course you should do it!" To overcome her doubts that she could play such a role, Fonda turned to her memories of several call girls whom she had known while living in France, all of whom worked for the famed [[Madame Claude]]. She remembered that all of them had been sexually abused as children, and Fonda used this as an "entry" to her own character and as a way to understand Bree's motivations in becoming a prostitute.<ref>{{cite interview|archive-url=https://web.archive.org/web/20190212134921/https://www.youtube.com/watch?v=p7SAg5nyW_w|archive-date=February 12, 2019|url-status=bot: unknown|url=https://www.youtube.com/watch?v=p7SAg5nyW_w|title=In conversation with...Jane Fonda|publisher=[[British Film Institute]]|via=[[YouTube]]|date=November 16, 2018|last=Fonda|first=Jane|interviewer=Samira Ahmed|interviewer-link=Samira Ahmed|access-date=March 30, 2019}}</ref>
+
+Donald Sutherland was cast as private investigator, John Klute, signing onto the project in May 1970.<ref>{{cite news|url=https://www.newspapers.com/article/press-and-sun-bulletin/125491712/|date=May 23, 1970|title=Sutherland Signed|newspaper=[[Press & Sun-Bulletin]]|page=16|via=Newspapers.com}}</ref> Sutherland later admitted that he clashed with Pakula during the production, commenting that it "was a film where the director had a specific idea, which I didn't particularly understand, nor was I particularly interested in."{{sfn|Kachmar|2015|p=27}} Roy Scheider was cast as Bree's pimp, Frank Ligourin, a role that brought him significant attention and notably furthered his career.{{sfn|Kachmar|2015|pages=27–29}}
+
+===Filming===
+Principal photography of ''Klute'' began in December 1970 in New York City.<ref>{{cite news|url=https://www.newspapers.com/article/calgary-herald/125487395/|newspaper=[[Calgary Herald]]|title=Entertainment Stars Winging In And Out For Upcoming Christmas Holiday Season|via=Newspapers.com|date=December 11, 1970|page=30|last=Beck|first=Marilyn}}</ref><ref>{{cite news|newspaper=[[Windsor Star]]|url=https://www.newspapers.com/article/the-windsor-star/125487324/|title=Klute film starts|date=December 22, 1970|via=Newspapers.com|page=38}}</ref> In March 1971, it was reported that filming had completed.<ref>{{cite news|newspaper=[[Dayton Daily News]]|url=https://www.newspapers.com/article/dayton-daily-news/125487264/|title=Poitier Plaint Ousts Director|via=Newspapers.com|date=March 6, 1971|last=Haber|first=Joyce|page=18}}</ref>
+
+The film was shot by cinematographer [[Gordon Willis]], a frequent collaborator of Pakula known for his employment of darkness and shadows in his cinematography.{{sfn|LoBrutto|2021|p=55}} Film scholar Terence McSweeney writes in ''The Other Hollywood Renaissance'' (2020) that the film's cinematography is deliberately destabilizing and disorienting, utilizing close-up shots while lacking establishing shots, and that its editing style features abrupt transitions and a lack of traditional film cues.{{sfn|McSweeney|2020|pages=254–255}} Donald Sutherland, reflecting on the film, commented that, "there were a lot of things in ''Klute'' that didn't make any sense in terms of movies."{{sfn|McSweeney|2020|p=254}}
+
+==Music==
+=== Soundtrack ===
+The film's soundtrack was composed by [[Michael Small]]. ''Klute'' was Small's second film score,<ref name=":0">{{Cite web |last=Greiving |first=Tim |title=Michael Small, Film Music’s Prince of Paranoia |url=https://www.criterion.com/current/posts/7301-michael-small-film-music-s-prince-of-paranoia |access-date=2026-01-07 |website=The Criterion Collection |language=en}}</ref> and first in Hollywood after [[Out of It (1969 film)|''Out of It'']] (1969). The consulting editor of that film, [[Carl Lerner]], subsequently recommended Small to Pakula.<ref name=":0" /> Small was afforded a large amount of freedom in his development of the score, and made use of a [[chamber orchestra]],<ref name=":1">{{Cite web |title="KLUTE" & "ALL THE PRESIDENT'S MEN" SOUNDTRACKS RELEASED ON CD |url=https://cinemaretro.com/index.php?/archives/1248-KLUTE-ALL-THE-PRESIDENTS-MEN-SOUNDTRACKS-RELEASED-ON-CD.html |access-date=2026-01-07 |website=Cinema Retro}}</ref> with a [[Microtonality|microtonal]] [[xylophone]], unorthodox percussion, and female vocals. A central motif within the score is the idea of a "siren call", used to identify both Fonda's character and the killer.
+
+Like several of Small's other film scores, ''Klute''<nowiki/>'s soundtrack was pressed in relatively small numbers, and copies of its original pressing on [[LP record|vinyl]] have fetched high prices in the second-hand market.<ref>{{Cite web |title=KLUTE |url=https://www.starburstmagazine.com/reviews/klute-ost-review/ |access-date=2026-01-07 |website=[[Starburst (magazine)|Starburst]] |language=en-GB}}</ref> In 2007, it was released on CD in a double-bill with the soundtrack for ''All The President's Men'', which was composed by [[David Shire]].<ref name=":1" />
+
+Small and Pakula's working relationship lasted for a number of years, with him also scoring ''The Parallax View'', ''[[Love and Pain and the Whole Damn Thing]]'' (1973), ''[[Comes a Horseman]]'' (1978), and [[See You in the Morning (film)|''See You in the Morning'']] (1989).
+
+==Release==
+===Theatrical===
+''Klute'' was released theatrically in the United States by [[Warner Bros. Pictures|Warner Bros.]], premiering on June 23, 1971, in Los Angeles and New York City<ref name=crittenden>{{cite news|url=https://www.newspapers.com/article/the-record/125490039/|newspaper=[[The Record (North Jersey)|The Record]]|date=June 23, 1971|title='Klute' Proves Enjoyable Psycho Film|via=Newspapers.com|last=Crittenden|first=John|page=C–16}}</ref> before opening wide on June 25.<ref name=afi>{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/53858|website=[[AFI Catalog of Feature Films]]|title=Klute (1971)|access-date=May 29, 2023}}</ref>
+
+===Home media===
+[[Warner Bros. Home Entertainment]] released ''Klute'' on DVD first in February 2002.<ref>{{cite web|url=https://www.dvdtalk.com/reviews/3379/klute/|website=[[DVD Talk]]|title=Klute|first=Gil|last=Jawetz|date=February 11, 2002|url-status=live|archive-date=May 29, 2023|archive-url=https://archive.today/20230529064732/https://www.dvdtalk.com/reviews/3379/klute/}}</ref> [[The Criterion Collection]] released the film on [[Blu-ray]] in July 2019 featuring a new [[4K resolution|4K restoration]] from the original film elements.<ref>{{cite web|website=[[Slant Magazine]]|url=https://www.slantmagazine.com/dvd/blu-ray-review-alan-j-pakulas-klute-on-the-criterion-collection/|title=Blu-ray Review: Alan J. Pakula's Klute on the Criterion Collection|last=Bowen|first=Chuck|date=August 8, 2019|url-status=live|archive-date=May 29, 2023|archive-url=https://archive.today/20230529033053/https://www.slantmagazine.com/dvd/blu-ray-review-alan-j-pakulas-klute-on-the-criterion-collection/}}</ref>
+
+==Reception==
+===Box office===
+The film earned US$8 million ({{Inflation|US|8000000|1971|fmt=eq}}) in [[theatrical rental]]s at the North American box office.<ref>{{cite magazine|title=All-Time Film Rental Champs|magazine=[[Variety (magazine)|Variety]]|date=January 7, 1976|page=44}}</ref>
+
+===Critical response===
+[[File:Jane Fonda discusses Vietnam.png|thumb|150px|[[Jane Fonda]]'s performance received widespread critical acclaim, earning her the [[Academy Award for Best Actress]].]]
+''Klute'' was widely praised by critics for its screenplay and Fonda's performance, though some criticized Pakula's unconventional direction.{{sfn|Kachmar|2015|p=27}} On the [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 92% based on 48 reviews, with an average rating of 8.2/10. The website's critics consensus reads, "Donald Sutherland is coolly commanding and Jane Fonda a force of nature in ''Klute'', a cuttingly intelligent thriller that generates its most agonizing tension from its stars' repartee."<ref>{{cite web|url=https://www.rottentomatoes.com/m/klute|title=Klute|website=[[Rotten Tomatoes]]|access-date=May 31, 2026}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 81 out of 100, based on 15 critics, indicating "universal acclaim".<ref>{{cite web|url=https://www.metacritic.com/movie/klute|title=Klute|website=[[Metacritic]]|access-date=December 8, 2017}}</ref>
+
+The ''[[Los Angeles Times]]''{{'}}s [[Charles Champlin]] praised Fonda and Sutherland's performances, summarizing: "''Klute'' is visually stunning, full of surprises, bewildering and suspenseful, faultless in its timing...&nbsp;Like the best mysteries always, ''Klute'' offers more than its diversions and redeems its sordid materials by understanding them and finding them worth pity, not amusement."<ref>{{cite news|url=https://www.newspapers.com/article/the-los-angeles-times/65529949/|newspaper=[[Los Angeles Times]]|last=Champlin|first=Charles|author-link=Charles Champlin|date=June 24, 1971|title=Jane Fond in Sex, Suspense Thriller|via=Newspapers.com|page=63}}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' awarded ''Klute'' 3.5 stars out of a possible 4, writing that while the thriller elements were poorly executed, the performances of Sutherland and especially Fonda carried the film. He suggested that the film should have been titled ''Bree'' after her character, who is the "soul" of the film and avoids the [[hooker with a heart of gold]] stereotype: {{blockquote|What is it about Jane Fonda that makes her such a fascinating actress to watch? She has a sort of nervous intensity that keeps her so firmly locked into a film character that the character actually seems distracted by things that come up in the movie.<ref>{{Cite news|url=https://www.rogerebert.com/reviews/klute-1971|title=Klute Movie Review & Film Summary (1971)|author-link=Roger Ebert|first=Roger|last=Ebert|newspaper=[[Chicago Sun-Times]]|via=[[RogerEbert.com]]|date=January 1, 1971|archive-url=https://archive.today/20160413123404/http://www.rogerebert.com/reviews/klute-1971|archive-date=April 13, 2016|url-status=live}}</ref>}}
+
+[[Gene Siskel]] of the ''[[Chicago Tribune]]'' was similarly appreciative, writing: "More interesting than the mystery is the character of Bree...&nbsp;the nicest part of her character (due to the script and Miss Fonda's fine performance) is that this prostitute doesn't have a heart of gold. She's a hungup little broad who, when cornered by violence or tenderness, will scratch and bite. Director Alan Pakula's...&nbsp;crisply edited movie runs too long only in drawing out its conclusion….Sharp eyes will solve the mystery midway thru the film. Miss Fonda's performance is superior to her most recent work in ''They Shoot Horses, Don't They?''...&nbsp;Sutherland...&nbsp;presents a controlled posture as the industrious detective. His low profile nicely balances Miss Fonda's incendiary role."<ref>{{cite news|last=Siskel|first=Gene|author-link=Gene Siskel|title= The Movies: 'Klute'|newspaper=[[Chicago Tribune]]|date=July 1, 1971|url=https://www.newspapers.com/article/chicago-tribune-gene-siskel-movie-review/89037506/|via=Newspapers.com|page=22}}</ref>
+
+J. Luria, writing for the ''[[Professional Psychology: Research and Practice]]'' journal, praised the film for its psychological elements, particularly its nuanced depiction of prostitution, noting that "a good mystery plot and excellent acting make this film entertaining. But the sociopsychological scrutiny of the prostitution subculture makes it outstanding. The film unfolds on several levels, the description of the call girl, the struggle for her growth, the relationship of Klute and Bree, and the mystery theme. Overall, it is an excellent blending of the clinical and the literal."<ref>{{cite journal|journal=[[Professional Psychology: Research and Practice]]|title=After hours: "Klute"|last=Luria|first=J.|date=1972|volume=3|issue=1|page=82|doi=10.1037/h0021505}}</ref>
+
+[[Roger Greenspun]] of ''[[The New York Times]]'', in one of the few negative reviews, wrote, "Pakula, when he is not indulging in subjective camera, strives to give his film the look of structural geometry, but despite the sharp edges and dramatic spaces and cinema presence out of ''[[Citizen Kane]]'' it all suggests a tepid, rather tasteless mush. The acting in ''Klute'' seems semi-improvisatory, and in this Jane Fonda, who is good at confessing, is generally successful. Everybody else merely talks a lot, except for Sutherland, who scarcely talks at all. A normally inventive actor, he is here given precisely the latitude to evoke a romantic figure with all the mysterious intensity of a youthful [[Calvin Coolidge]]."<ref>{{cite news|last=Greenspun|first=Roger|author-link=Roger Greenspun|title='Klute,' a Thriller with Jane Fonda and Donald Sutherland|newspaper=[[The New York Times]]|date= June 24, 1971|url=https://www.nytimes.com/1971/06/24/archives/-klute-a-thriller-with-jane-fonda-and-donald-sutherland.html|url-status=live|archive-date=May 29, 2023|archive-url=https://archive.today/20230529054047/https://www.nytimes.com/1971/06/24/archives/-klute-a-thriller-with-jane-fonda-and-donald-sutherland.html}}</ref>
+
+Writing for the ''[[Chicago Reader]]'' in 1985, critic [[Dave Kehr]] declared the film "as close to a classic as anything [[New Hollywood]] produced."<ref>{{cite web|newspaper=[[Chicago Reader]]|date=October 26, 1985|url=https://chicagoreader.com/film/klute/|title=Klute|last=Kehr|first=Dave|author-link=Dave Kehr|archive-date=May 29, 2023|url-status=live|archive-url=https://archive.today/20230529065835/https://chicagoreader.com/film/klute/}}</ref>
+
+===Accolades===
+{| class="wikitable plainrowheaders"
+! scope="col"| Award
+! scope="col"| Category
+! scope="col"| Nominee(s)
+! scope="col"| Result
+! scope="col"| {{abbr|Ref.|Reference}}
+|-
+! scope="row" rowspan="2"| [[44th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Actress|Best Actress]]
+| [[Jane Fonda]]
+| {{won}}
+| align="center" rowspan="2"| <ref>{{Cite web |url=http://www.oscars.org/oscars/ceremonies/1972 |title=The 44th Academy Awards (1972) Nominees and Winners |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=December 6, 2011 |url-status=live |archive-url=https://web.archive.org/web/20141111072026/http://www.oscars.org/oscars/ceremonies/1972 |archive-date=November 11, 2014}}</ref>
+|-
+| [[Academy Award for Best Original Screenplay|Best Original Screenplay]]
+| [[Andy Lewis (screenwriter)|Andy Lewis]] and Dave Lewis
+| {{nom}}
+|-
+! scope="row"| [[25th British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Actress in a Leading Role|Best Actress in a Leading Role]]
+| Jane Fonda
+| {{nom}}
+| align="center"| <ref>{{cite web|publisher=[[British Academy Film Awards]]|url=http://awards.bafta.org/award/1972/film|title=Film in 1972|url-status=live|archive-url=https://archive.today/20130502230024/http://awards.bafta.org/award/1972/film|archive-date=May 2, 2013}}</ref>
+|-
+! scope="row"| [[Edgar Awards|Edgar Allan Poe Awards]]
+| [[List of Edgar Allan Poe Award for Best Motion Picture Screenplay winners|Best Motion Picture Screenplay]]
+| Andy Lewis and Dave Lewis
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://edgarawards.com/category-list-best-motion-picture/ |title=Category List – Best Motion Picture |publisher=[[Edgar Awards]] |access-date=November 17, 2024}}</ref>
+|-
+! scope="row" rowspan="2"| [[29th Golden Globe Awards|Golden Globe Awards]]
+| [[Golden Globe Award for Best Actress in a Motion Picture – Drama|Best Actress in a Motion Picture – Drama]]
+| Jane Fonda
+| {{won}}
+| align="center" rowspan="2"| <ref>{{cite web |url=https://www.goldenglobes.com/film/klute/ |title=Klute |publisher=[[Golden Globe Awards]] |url-status=live |archive-date=May 29, 2023 |archive-url=https://archive.today/20230529050318/https://www.goldenglobes.com/film/klute}}</ref>
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay – Motion Picture]]
+| Andy Lewis and Dave Lewis
+| {{nom}}
+|-
+! scope="row"| [[Gotham Independent Film Awards 1999|Gotham Independent Film Awards]]
+| Classic Film Tribute Award
+| ''Klute''
+| {{won}}
+| align="center"| 
+|-
+! scope="row"| [[Kansas City Film Critics Circle|Kansas City Film Critics Circle Awards]]
+| Best Actress
+| Jane Fonda
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://kcfcc.org/kcfcc-award-winners-1970-79/ |title=KCFCC Award Winners – 1970–79 |publisher=[[Kansas City Film Critics Circle]] |date=December 14, 2013 |url-status=live |archive-url=https://archive.today/20140715093254/http://kcfcc.org/kcfcc-award-winners-1970-79/ |archive-date=July 15, 2014}}</ref>
+|-
+! scope="row"| [[London Film Critics' Circle Awards]]
+| Best Director
+| Alan J. Pakula
+| {{won}}
+| align="center"| <ref name=afi/>
+|-
+! scope="row" rowspan="2"| [[NAACP Image Awards]]
+| [[NAACP Image Award for Outstanding Actor in a Motion Picture|Outstanding Actor in a Motion Picture]]
+| [[Donald Sutherland]]
+| {{won}}
+| align="center" rowspan="2"| 
+|-
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| rowspan="3"| Jane Fonda
+| {{won}}
+|-
+! scope="row"| [[1971 National Society of Film Critics Awards|National Society of Film Critics Awards]]
+| [[National Society of Film Critics Award for Best Actress|Best Actress]]
+| {{won}}
+| align="center"| <ref>{{cite news|newspaper=[[The New York Times]]|title='Claire's Knee,' Jane Fonda and Finch Picked by National Critics|url=https://www.nytimes.com/1971/12/30/archives/-claires-knee-jane-fonda-and-finch-picked-by-national-critics.html|last=Thompson|first=Howard|author-link=Howard Thompson (film critic)|date=December 30, 1971|url-status=live|archive-url=https://archive.today/20230529051310/https://www.nytimes.com/1971/12/30/archives/-claires-knee-jane-fonda-and-finch-picked-by-national-critics.html|archive-date=May 29, 2023}}</ref>
+|-
+! scope="row"| [[1971 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]
+| [[New York Film Critics Circle Award for Best Actress|Best Actress]]
+| {{won}}
+| align="center"| <ref>{{cite news|title='Clockwork Orange' Wins Critics' Prize|newspaper=[[The New York Times]]|last=Weiler|first=A. H.|url=https://www.nytimes.com/1971/12/29/archives/-clockwork-orange-wins-critics-prize.html|date=December 29, 1971|url-status=live|archive-url=https://archive.today/20230529051417/https://www.nytimes.com/1971/12/29/archives/-clockwork-orange-wins-critics-prize.html|archive-date=May 29, 2023|author-link=A. H. Weiler}}</ref>
+|-
+! scope="row"| [[24th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Original Screenplay|Best Drama – Written Directly for the Screen]]
+| Andy Lewis and Dave Lewis
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://www.wga.org/awards/awardssub.aspx?id=1551 |title=Awards Winners |publisher=[[Writers Guild of America Awards]] |archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551 |archive-date=December 5, 2012 |access-date=June 6, 2010 |url-status=dead}}</ref>
+|}
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+{{refbegin|30em}}
+* {{cite book|last=Dean|first=Karen Gai|editor-last=Knight|editor-first=Peter|year=2003|title=Conspiracy Theories in American History: An Encyclopedia|volume=1|publisher=ABC-CLIO|location=Santa Barbara, California|isbn=978-1-576-07812-9}}
+* {{cite book|last=Kachmar|first=Diane C.|title=Roy Scheider: A Film Biography|year=2015|publisher=McFarland|location=Jefferson, North Carolina|isbn= 978-1-476-60903-4}}
+* {{cite book|last=LoBrutto|first=Vincent|year=2021|title=The Seventies: The Decade That Changed American Film Forever|publisher=Rowman & Littlefield|location=Lanham, Maryland|isbn= 978-1-538-13719-2}}
+* {{cite book|last=McSweeney|first=Terence|year=2020|editor1-last=Lennard|editor1-first=Dominic|editor2-last=Palmer|editor2-first=R. Barton|editor3-last=Pomerance|editor3-first=Murray|title=The Other Hollywood Renaissance|pages=250–264|chapter="There Will Be No Questions": 1970s American Cinema as Parallax in Alan J. Pakula's "Paranoia Trilogy"|publisher=Edinburgh University Press|location=Edinburgh, Scotland|isbn= 978-1-474-44265-7}}
+* {{cite book|last=Parish|first=James Robert|author-link=James Robert Parish|year=1990|title=The Great Cop Pictures|publisher=Scarecrow Press|location=Lanham, Maryland|isbn= 978-0-810-82316-7}}
+* {{cite book|editor1-last=Silver|editor1-first=Alain|editor1-link=Alain Silver|editor2-last=Ward|editor2-first=Elizabeth|year=1992|title=Film Noir: An Encyclopedic Reference to the American Style|edition=Third|location=Woodstock, New York|publisher=[[The Overlook Press]]|isbn=978-0-879-51479-2}}
+* {{cite book|last=Thomson|first=David|author-link=David Thomson (film critic)|year=2009|title=The Moment of Psycho: How Alfred Hitchcock Taught America to Love Murder|publisher=Basic Books|location=New York|isbn= 978-0-465-02009-6}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title}}
+* {{Rotten Tomatoes}}
+* {{AFI film}}
+* {{TCMDb title}}
+* [https://www.criterion.com/current/posts/6492-klute-trying-to-see-her ''Klute: Trying to See Her''] – an essay by [[Mark Harris (journalist)|Mark Harris]] at [[The Criterion Collection]]
+
+{{Alan J. Pakula}}
+
+{{Authority control}}
+
+[[Category:1971 American films]]
+[[Category:1971 crime thriller films]]
+[[Category:1971 English-language films]]
+[[Category:1970s feminist films]]
+[[Category:1970s psychological thriller films]]
+[[Category:1970s serial killer films]]
+[[Category:American crime thriller films]]
+[[Category:American detective films]]
+[[Category:American neo-noir films]]
+[[Category:American psychological thriller films]]
+[[Category:American serial killer films]]
+[[Category:Films about actors]]
+[[Category:Films about missing people]]
+[[Category:Films about prostitution in the United States]]
+[[Category:Films about security and surveillance]]
+[[Category:Films about stalking]]
+[[Category:Films directed by Alan J. Pakula]]
+[[Category:Films featuring a Best Actress Academy Award–winning performance]]
+[[Category:Films featuring a Best Drama Actress Golden Globe–winning performance]]
+[[Category:Films scored by Michael Small]]
+[[Category:Films set in apartment buildings]]
+[[Category:Films set in New York City]]
+[[Category:Films shot in New York City]]
+[[Category:Warner Bros. films]]
+[[Category:English-language crime thriller films]]
+[[Category:English-language psychological thriller films]]

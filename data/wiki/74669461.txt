@@ -1,0 +1,34 @@
+{{short description|2023 American documentary film}}
+{{other uses}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+| starring       = [[Robert D. Putnam|Robert Putnam]]
+| released       = {{Film date|2023}}
+| country        = United States
+}}
+'''''Join or Die''''' is a 2023 American [[documentary film]] regarding community connections and club participation, based on the work of political scientist [[Robert D. Putnam|Robert Putnam]].<ref name=cap>{{cite web |url=https://caps.gov.harvard.edu/calendar_event/join-or-die-film-screening-with-bob-putnam/#:~:text=In%20this%20feature%20documentary%2C%20follow,to%20our%20democracy%27s%20present%20crisis |title=JOIN or DIE: Film Screening with Bob Putnam – Center for American Political Studies |year=2023 |publisher=[[Center for American Political Studies]] |access-date=August 25, 2023 |url-status=live |archive-url=https://web.archive.org/web/20230825123342/https://caps.gov.harvard.edu/calendar_event/join-or-die-film-screening-with-bob-putnam/#:~:text=In%20this%20feature%20documentary%2C%20follow,to%20our%20democracy%27s%20present%20crisis |archive-date=August 25, 2023 |quote= }}</ref>
+
+The film includes interviews with [[Hillary Clinton]], [[Pete Buttigieg]], Surgeon General [[Vivek Murthy]], [[Eddie Glaude Jr.]], [[Raj Chetty]], and [[Priya Parker]].<ref>{{Cite web|url=https://www.rogerebert.com/festivals/sxsw-2023-no-ordinary-campaign-the-arc-of-oblivion-join-or-die|title=SXSW 2023: No Ordinary Campaign, The Arc of Oblivion, Join or Die &#124; Festivals & Awards &#124; Roger Ebert|first=Matt Zoller|last=Seitz|website=www.rogerebert.com}}</ref>
+
+Putnam's research into [[social capital]] were popularized by his 2000 book ''[[Bowling Alone]]''.<ref>{{Cite web |last=Ninesling |first=Chris Hughes, Rosie |date=March 17, 2023 |title=The Films We Loved Most at SXSW 2023 |url=https://www.austinmonthly.com/the-films-we-loved-most-at-sxsw-2023/ |access-date=January 20, 2026}}</ref>
+
+==Reception==
+''Join or Die'' has a 95% approval rating on [[Rotten Tomatoes]], with an average rating of 7.2 out of 10 based on 20 reviews.<ref>{{cite web |title=Join or Die |url=https://www.rottentomatoes.com/m/join_or_die |website=Rotten Tomatoes}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://joinordiefilm.com/}}
+* {{Rotten Tomatoes|join_or_die}}
+* {{Metacritic film|id=join-or-die}}
+
+[[Category:Documentary films about psychology]]
+[[Category:2023 films]]
+[[Category:2023 documentary films]]
+[[Category:American documentary films]]
+[[Category:2023 American films]]
+
+{{2020s-US-documentary-film-stub}}
+{{Sci-documentary-film-stub}}

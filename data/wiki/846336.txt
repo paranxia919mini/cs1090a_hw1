@@ -1,0 +1,199 @@
+{{Short description|1953 Japanese film by Yasujiro Ozu}}
+{{Use American English|date=July 2020}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox film
+| name           = Tokyo Story
+| image          = Tokyo monogatari poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Yasujirō Ozu]]
+| producer       = Takeshi Yamamoto
+| screenplay     = [[Kogo Noda]]<br>Yasujirō Ozu
+| starring       = {{Plainlist|<!-- Per the Japanese film poster -->
+* [[Setsuko Hara]]
+* [[Chishū Ryū]]
+* [[Chieko Higashiyama]]
+* [[Kyōko Kagawa]]
+* [[Haruko Sugimura]]
+* [[So Yamamura]]
+* [[Kuniko Miyake]]
+* Shirō Ōsaka
+* [[Eijirō Tōno]]
+* [[Nobuo Nakamura]]
+* Hisao Toake
+* [[Toru Abe]]
+}}
+| music          = Takanobu Saitō
+| cinematography = Yūharu Atsuta
+| editing        = Yoshiyasu Hamamura
+| studio         = [[Shochiku]]
+| distributor    = Shochiku
+| released       = {{Film date|1953|11|3}}
+| runtime        = 136 minutes
+| country        = Japan
+| language       = Japanese
+| budget         =
+| gross          = {{JPY|132 million}} {{nowrap|(Japan rentals)}} <br> 177,456 tickets (Europe)
+}}
+
+{{Nihongo|'''''Tokyo Story'''''|東京物語|Tōkyō Monogatari|lead=yes}} is a 1953 [[Cinema of Japan|Japanese]] [[Drama (film and television)|drama film]] directed by [[Yasujirō Ozu]] and starring [[Chishū Ryū]] and [[Chieko Higashiyama]], about an aging couple who travel to [[Tokyo]] to visit their grown children.
+
+Upon release, it did not immediately gain international recognition and was considered "too Japanese" to be marketable by Japanese film exporters. It was screened in 1957 in London, where it won the inaugural [[Sutherland Trophy]] the following year, and received praise from U.S. film critics after a 1972 screening in New York City.
+
+''Tokyo Story'' is widely regarded as Ozu's ''[[masterpiece|magnum opus]]'' and [[List of films voted the best|one of the greatest films in the history of cinema]]. It was voted the greatest film of all time in the 2012 edition of a poll of film directors by ''[[Sight and Sound]]'' magazine.
+
+==Plot summary==
+Retired couple Shūkichi and Tomi Hirayama live in [[Onomichi]] in western Japan with their daughter Kyōko, a primary school teacher. They have five adult children, four of whom are living in [[Tokyo]]. The couple travels to [[Tokyo]] to visit their son, daughter, and widowed daughter-in-law.
+
+Their eldest son, Kōichi, is a physician who runs a small clinic in Tokyo's suburbs, and their eldest daughter, Shige, runs a hairdressing salon. Kōichi and Shige are both busy and do not have much time for their parents. Only their widowed daughter-in-law, Noriko, the wife of their middle son Shōji, who was missing in action and presumed dead during the [[Pacific War]], goes out of her way to entertain them. She takes time from her demanding office job to take Shūkichi and Tomi on a sightseeing tour of metropolitan Tokyo.
+
+Feeling conflicted that they do not have time to entertain them, Kōichi and Shige pay for their parents to stay at a [[onsen|hot spring spa]] at [[Atami]], but they return early because the nightlife disturbs their sleep. Tomi also has an unexplained dizzy spell. Upon returning, a frustrated Shige explains she sent them to Atami because she wanted to use their bedroom for a meeting; the elderly couple has to leave for the evening. They spend the afternoon in [[Ueno Park]] before splitting up to seek accommodations for the night. Tomi goes to stay with Noriko, with whom she deepens their emotional bond, and advises her to remarry. Shūkichi, meanwhile, gets drunk with some old friends from Onomichi. The three men drunkenly ramble about their children and lives. A policeman brings Shūkichi and one of his friends to Shige's salon. Shige is outraged her father is lapsing into the alcoholic ways that overshadowed her childhood.
+
+The couple remarks on how their children have changed, returning home earlier than planned, intending to see their younger son Keizō when the train stops in [[Osaka]]. However, Tomi suddenly becomes ill during the journey and they decide to disembark the train, staying until she feels better the next day. They return to Onomichi, and Tomi falls critically ill. Kōichi, Shige, and Noriko rush to Onomichi to see Tomi, who dies shortly afterwards. Keizō arrives too late, as he has been away on business.
+
+After the funeral, Kōichi, Shige, and Keizō leave immediately; only Noriko remains. After they leave, Kyōko criticises her siblings over their selfishness toward their parents. She believes that Kōichi, Shige, and Keizō do not care how hard it will be for their father now that he has lost their mother. She is also upset at Shige for asking so quickly for Tomi's clothes as keepsakes. Noriko responds that while she understands Kyōko's disappointment, everyone has their own life and the growing chasm between parents and children is inevitable. She convinces Kyōko not to be too hard on her siblings because one day she will understand how hard it is to take time away from one's own life.
+
+After Kyōko leaves for school, Noriko informs her father-in-law that she must return to Tokyo that afternoon. Shūkichi tells her that she has treated them better than their own children despite not being a blood relation. Noriko protests that she is selfish and has not always thought about her missing husband, and Shūkichi credits her self-assessment to humility. He gives her a watch from the late Tomi as a memento. Noriko cries and confesses her loneliness and Shūkichi encourages her to remarry. Noriko travels from Onomichi back to Tokyo, contemplating the watch, while Shūkichi remains behind, resigned to the solitude he must endure.
+
+===Hirayama family tree===
+[[File:So Yamamura 3.jpg|thumb|250 px|right|From left to right: Kōichi ([[So Yamamura]]), Fumiko ([[Kuniko Miyake]]), Shūkichi ([[Chishū Ryū]]), Noriko ([[Setsuko Hara]]), Shige ([[Haruko Sugimura]]) and Tomi ([[Chieko Higashiyama]])]]
+{{tree chart/start|align=center}}
+{{tree chart| | | | | |GF   |y|GM   | | | | | | | | | | | | | | |GF =Shūkichi<br /><small>(husband)</small> |GM =Tomi<br /><small>(wife)</small>
+|boxstyle_GF = background-color: #9cf;
+|boxstyle_GM = background-color: pink;}}
+{{tree chart| | |,|-|-|-|-|-|^|-|-|-|-|-|v|-|-|-|v|-|-|-|-|-|-|-|v|-|-|-|.| | |}}
+{{tree chart| |O1   |y|S1   | |S2   |~|O2   | |O3   |~|S3   | |O4   | |O5   | O1=Kōichi<br /><small>(eldest son)</small> |O2=Shige Kaneko<br /><small>(eldest daughter)</small> |O3=Shōji<br /><small>(second son)<br />deceased</small> |O4=Keizō<br /><small>(youngest son)</small> |O5=Kyōko<br /><small>(youngest daughter)</small> |S1=Fumiko<br /><small>(daughter-in-law)</small> |S2=Kurazō Kaneko<br /><small>(son-in-law)</small> |S3=Noriko<br /><small>(daughter-in-law)</small>
+|boxstyle_O1 = background-color: #9cf;
+|boxstyle_O2 = background-color: pink;
+|boxstyle_O3 = background-color: #9cf;
+|boxstyle_O4 = background-color: #9cf;
+|boxstyle_O5 = background-color: pink;
+|boxstyle_S1 = background-color: pink;
+|boxstyle_S2 = background-color: #9cf;
+|boxstyle_S3 = background-color: pink;}}
+{{tree chart| | |,|-|^|-|.| | | | | | | | | | | | | | | | | |}}
+{{tree chart| |GS1  | |GS2  | | | | | | | | | | | | | | | |GS1=Minoru<br /><small>(grandson)</small>|GS2=Isamu<br /><small>(grandson)</small>
+|boxstyle_GS1 = background-color: #9cf;
+|boxstyle_GS2 = background-color: #9cf;}}
+{{tree chart| |}}
+{{tree chart/end}}
+
+==Cast==
+{{Cast listing|
+* [[Setsuko Hara]] as {{nihongo|Noriko Hirayama|平山 紀子|Hirayama Noriko}}
+* [[Chishū Ryū]] as {{nihongo|Shūkichi Hirayama|平山 周吉|Hirayama Shukichi}}
+* [[Chieko Higashiyama]] as {{nihongo|Tomi Hirayama|平山 とみ|Hirayama Tomi}}
+* [[Haruko Sugimura]] as {{nihongo|Shige Kaneko|金子 志げ|Kaneko Shige}}
+* [[So Yamamura]] as {{nihongo|Kōichi Hirayama|平山 幸一|Hirayama Koichi}}
+* [[Kuniko Miyake]] as {{nihongo|Fumiko Hirayama|平山 文子|Hirayama Fumiko}}
+* [[Kyōko Kagawa]] as {{nihongo|Kyōko Hirayama|平山 京子|Hirayama Kyoko}}
+* [[Eijirō Tōno]] as {{nihongo|Sanpei Numata|沼田 三平|Numata Sanpei}}
+* [[Nobuo Nakamura]] as {{nihongo|Kurazō Kaneko|金子 庫造|Kaneko Kurazo}}
+* Shirō Ōsaka as {{nihongo|Keizō Hirayama|平山 敬三|Hirayama Keizo}}
+* Hisao Toake as {{nihongo|Osamu Hattori|服部 修|Hattori Osamu}}
+* Teruko Nagaoka as {{nihongo|Yone Hattori|服部 よね|Hattori Yone}}
+* [[Mutsuko Sakura]] as a patron of the Oden Restaurant
+* Toyo Takahashi as Shūkichi Hirayama's neighbour
+* [[Toru Abe]] as a railway employee
+* Sachiko Mitani as Noriko's neighbour
+* Zen Murase as Minoru Hirayama, Kōichi's son
+* Mitsuhiro Mori as Isamu Hirayama, Kōichi's son
+* Junko Anami as a beauty salon assistant
+* Ryōko Mizuki as a beauty salon client
+* Yoshiko Togawa as a beauty salon client
+* Kazuhiro Itokawa as a student
+* Keijirō Morozumi as a police agent
+* Tsutomu Nijima as Noriko's office boss
+* Shōzō Suzuki as Noriko's office colleague
+* Yoshiko Tashiro as a hotel maid
+* Haruko Chichibu as a hotel maid
+* Takashi Miki as a singer
+* Binnosuke Nagao as the doctor at Onomichi
+}}
+
+==Production==
+[[File:Setsuko Hara and Yasujiro Ozu in Tokyo Story.jpg|thumb|Ozu (far right) on set during shooting.]]
+''Tokyo Story'' was inspired by the 1937 American film ''[[Make Way for Tomorrow]]'', directed by Leo McCarey, which it loosely adapts to the Japanese context and Ozu’s style. Noda, a long-time collaborator of Ozu, initially suggested the plot of the older film to Ozu, who had not seen it. Noda remembered it from its initial release in Japan.<ref>{{cite web|url=https://www.tcm.com/this-month/article/176232|access-date=May 30, 2011|publisher=TCM|title=Tokyo Story|archive-date=November 21, 2015|archive-url=https://web.archive.org/web/20151121225924/http://www.tcm.com/this-month/article/176232%7C0/Tokyo-Story.html|url-status=live}}</ref>{{sfn|Desser|1997|p=26}} Both films depict an elderly couple, their problems with family{{sfn|Desser|1997|p=28}} and travelling to visit their children.{{sfn|Desser|1997|p=69}} Differences include the older film taking place in [[Depression-era]] US, with the couple's problem being economical and ''Tokyo Story'' taking place in post-war Japan, where the problems are cultural and emotional.{{sfn|Desser|1997|p=28}} The films end differently.{{sfn|Desser|1997|p=46}} [[David Bordwell]] wrote that Ozu "re-cast" the original film instead of adapting it.{{sfn|Desser|1997|p=25}}
+
+The script was developed by Ozu and Noda over a period of 103 days in a [[ryokan]] called ''[[Chigasakikan]]'' in [[Chigasaki, Kanagawa|Chigasaki]], [[Kanagawa Prefecture|Kanagawa]].{{sfn|Desser|1997|p=20}} Ozu, Noda and cinematographer Yūharu Atsuta scouted locations in Tokyo and [[Onomichi]] for another month before shooting started. Shooting and editing took place from July to October 1953. Filming locations were in Tokyo ([[Adachi, Tokyo|Adachi]], [[Chūō, Tokyo|Chūō]], [[Taitō]] and [[Chiyoda, Tokyo|Chiyoda]]), Onomichi, [[Atami, Shizuoka|Atami]] and [[Osaka]]. Among the major cast members only Ryū, Hara and Kagawa participated in the Onomichi location. All indoor scenes, except those at the [[Tokyo Station]] waiting area and in a [[Passenger car (rail)|passenger car]], were shot at the Shochiku Ōfuna Studio in [[Kamakura]], Kanagawa. Ozu used the same film crew and actors he had worked with for many years.{{sfn|Desser|1997|pp=20-21}}{{sfn|Eleftheriotis|Needham|2006|pp=17–26}} Actor [[Chishū Ryū]] said Ozu was always happiest when finishing the final draft of a script and there were never any changes to the final draft.{{sfn|Desser|1997|p=152}}
+
+==Style and themes==
+Like all of Ozu's sound films, ''Tokyo Story'''s pacing is slow,{{sfn|Bordwell|Thompson|2003|p=[https://archive.org/details/filmhistoryintro00thom_325/page/n429 396]}} though Ozu called it his film "that tends most strongly to melodrama."{{sfn|Desser|1997|p=122}}<ref name=SS>{{cite magazine|magazine=[[Sight and Sound]]|date=February 1994|pages=63|title=Re-release, Tokyo Monogatari (Tokyo Story)|last=Rayns|first=Tony}}</ref> In his narrative storytelling, Ozu often had certain key scenes take place off camera, with the viewer only learning about them through the characters' dialogue. For example, the train journeys to and from Tokyo are not depicted, the audience never sees Shūkichi and Tomi visit their son Keizō, and Tomi's illness begins off-screen.{{sfn|Desser|1997|pp=6-7}}{{sfn|Desser|2005|pp=462–3}}
+
+Ozu favored a stationary camera{{sfn|Desser|1997|p=41}} and believed strongly in [[minimalism]].{{sfn|Desser|1997|p=157}} A distinctive camera style is used, in which the camera height is low and almost never moves; film critic [[Roger Ebert]] noted that the camera moves once in the film, which is "more than usual" for an Ozu film.<ref name="ebert">{{cite web |url=http://www.rogerebert.com/reviews/great-movie-tokyo-story-1953 |date=November 9, 2003 |title=Tokyo Story Movie Review & Film Summary (1953) |first=Roger |last=Ebert |access-date=6 August 2012 |archive-date=March 1, 2018 |archive-url=https://web.archive.org/web/20180301155406/https://www.rogerebert.com/reviews/great-movie-tokyo-story-1953 |url-status=live }}</ref> The low camera positions are reminiscent of sitting on a traditional Japanese [[tatami mat]].{{sfn|Desser|1997|p=4}} Ozu rarely shot [[master shot]]s{{sfn|Desser|1997|p=15}} and often broke the [[180-degree rule]] of filmmaking and screen direction. Characters, who often sit side by side in scenes, often appear to be facing the same direction when speaking to each other, such as in the first scene with Shūkichi and Tomi.{{sfn|Desser|1997|pp=12-15}} During some transitions, characters exit a scene screen right and then enter the next scene screen right.{{sfn|Desser|1997|p=19}}
+
+David Desser has compared the film's style and "de-emphasized plot" to [[Zen Buddhism]] and the modern world's fascination with surface value and materialism.{{sfn|Desser|1997|p=5}} Many of the transitional shots are still lifes of non-human subjects, such as smokestacks and landscapes.{{sfn|Desser|1997|p=10}}
+
+Themes in the film include the break-up and [[Westernization]] of the traditional Japanese family after [[World War II]] and the inevitability of children growing apart from their parents.{{sfn|Desser|1997|p=4}} It contrasts the urban life of the children in Tokyo with the rural life of their parents.<ref name=SS/> The film takes place in 1953 post-war Japan, a few years after the new Civil Code of 1948 stimulated the country's rapid re-growth and embraced Western capitalist ideals, while simultaneously destroying older traditions such as the Japanese family and its values.{{sfn|Desser|1997|pp=30-31}} Ozu was very close to his own mother, living with her as a surrogate wife and never marrying.{{sfn|Desser|1997|p=95}} It is considered a [[Shomin-geki]] film for its depiction of ordinary people.{{sfn|Desser|1997|p=26}}
+
+==Release and reception==
+''Tokyo Story'' was released on November 3, 1953, in Japan. The following year [[Haruko Sugimura]] won the [[Mainichi Film Award for Best Supporting Actress]] for her role as the eldest daughter Shige.<ref>{{cite web |url=http://mainichi.jp/enta/cinema/mfa/etc/history/9.html |title=第9回 |publisher=THE MAINICHI NEWSPAPERS |access-date=October 13, 2016 |archive-date=October 18, 2016 |archive-url=https://web.archive.org/web/20161018201657/http://mainichi.jp/enta/cinema/mfa/etc/history/9.html |url-status=live }}</ref>
+
+It was screened at the [[National Film Theatre]] in London in 1957.{{sfn|Desser|1997|p=145}} It is Ozu's best known film in both the East and the West. After the success of [[Akira Kurosawa]]'s ''[[Rashomon]]'' at the [[12th Venice International Film Festival|1951 Venice Film Festival]], Japanese films began getting international distribution.{{sfn|Desser|1997|p=2}} However, Japanese film exporters considered Ozu's work "too Japanese" and unmarketable. It was not until the 1960s that Ozu's films began to be screened in New York City at film festivals, museums, and theaters.{{sfn|Desser|1997|p=3}}
+
+In 1958, it was awarded the first [[Sutherland Trophy]] for the most original and creative film.<ref>{{cite web|year=2013|title=Sutherland Trophy|url=http://www.lff.org.uk/sutherland-trophy.html|access-date=6 June 2016|archive-date=March 10, 2016|archive-url=https://web.archive.org/web/20160310142319/http://www.lff.org.uk/sutherland-trophy.html|url-status=live}}</ref> UK critic [[Lindsay Anderson]] wrote that "It is a film about relationships, a film about time, and how it affects human beings (particularly parents and children) and how we must reconcile ourselves to its workings."{{sfn|Desser|1997|p=149}}
+
+After a screening at the [[Studio 54#New Yorker Theatre|New Yorker Theatre]] in 1972, it received rave reviews from prominent critics who were unfamiliar with the film or Ozu.{{sfn|Desser|1997|p=155}} Charles Micherer of ''[[Newsweek]]'' said it was "like a Japanese paper flower that is dropped into water and then swells to fill the entire container with its beauty."{{sfn|Desser|1997|p=156}} [[Stanley Kauffmann]] put it on his 10 Best list of 1972 and wrote "Ozu, a lyrical poet, whose lyrics swell quietly into the epic."{{sfn|Desser|1997|p=151}}
+
+===Box office===
+In Japan, it was the [[List of highest-grossing Japanese films|eighth-highest-grossing film]] of 1953 with {{JPY|131.65 million}} in [[distributor rental]] earnings.<ref>{{cite magazine |title=キネマ旬報ベスト・テン85回全史 1924-2011 |magazine=[[Kinema Junpo]] |date=2012 |page=104 |lang=ja}}</ref> In France, the film sold 84,646 tickets upon release in 1978.<ref>{{cite web |title=Tôkyô Monogatari (1978) |url=http://www.jpbox-office.com/fichfilm.php?id=11845 |website=JP's Box-Office |language=fr |access-date=12 April 2022 |archive-date=January 11, 2023 |archive-url=https://web.archive.org/web/20230111200155/https://www.jpbox-office.com/fichfilm.php?id=11845 |url-status=live }}</ref> In other European countries, the film sold 92,810 tickets between 1996 and 2021,<ref>{{cite web |title=Tokyo monogatari |url=https://lumiere.obs.coe.int/movie/21824 |website=[[Lumiere (database)|Lumiere]] |access-date=12 April 2022 |archive-date=April 12, 2022 |archive-url=https://web.archive.org/web/20220412150202/https://lumiere.obs.coe.int/movie/21824 |url-status=live }}</ref> for a combined {{formatnum:{{#expr:84646+92810}}|}} tickets sold in Europe.
+
+===Critical reception===
+{{RT prose|100|9.6|53|''Tokyo Story'' is a Yasujiro Ozu masterpiece whose rewarding complexity has lost none of its power more than half a century on.|access-date=}}<ref>{{Cite web |date=3 November 1953 |title=Tokyo Story (Tôkyô monogatari) |url=http://www.rottentomatoes.com/m/tokyo_story/ |url-status=live |archive-url=https://web.archive.org/web/20201111202321/https://www.rottentomatoes.com/m/tokyo_story |archive-date=November 11, 2020 |access-date=14 July 2025|website=rottentomatoes.com}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 100 out of 100, based on 19 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''Tokyo Story'' |url=https://www.metacritic.com/movie/tokyo-story |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=17 June 2023 |archive-url= |archive-date= |url-status=}}</ref> It is also jointly ranked #1 on Metacritic's Filtered "Best Movies of All Time".<ref>{{Cite web |title=Best Movies of All Time |url=https://www.metacritic.com/browse/movies/score/metascore/all/filtered |access-date=17 June 2023 |website=[[Metacritic]]}}</ref> John Walker, former editor of the ''[[Leslie Halliwell|Halliwell's Film Guides]]'', places ''Tokyo Story'' at the top of his published list of the best 1000 films ever made. ''Tokyo Story'' is also included in film critic [[Derek Malcolm]]'s ''The Century of Films'',<ref>{{Cite journal |last=Malcolm |first=Derek |author-link=Derek Malcolm |date=4 May 2000 |title=Yasujiro Ozu: Tokyo Story |url=https://www.theguardian.com/culture/2000/may/04/artsfeatures1 |url-status=live |journal=The Guardian |archive-url=https://web.archive.org/web/20170211083057/https://www.theguardian.com/culture/2000/may/04/artsfeatures1 |archive-date=February 11, 2017 |access-date=7 August 2012}}</ref><ref>{{Cite book |last=Malcolm |first=Derek |author-link=Derek Malcolm |title=A Century of Film |publisher=IB Tauris |year=2000 |pages=85–87}}</ref> a list of films which he deems artistically or culturally important, and ''[[Time (magazine)|Time]]'' magazine lists it among its [[Time's All-Time 100 Movies|All-Time 100 Movies]].
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' included it in his series of great movies,<ref name="ebert" /> and [[Paul Schrader]] placed it in the "Gold" section of his Film Canon.<ref>{{Cite web |last=Jeffrey M. Anderson |date=14 November 2006 |title=Paul Schrader's Film Canon, Film Comment – September/October 2006 |url=http://news.moviefone.com/2006/11/14/paul-schraders-film-canon/ |url-status=dead |archive-url=https://web.archive.org/web/20140531170556/http://news.moviefone.com/2006/11/14/paul-schraders-film-canon/ |archive-date=2014-05-31 |access-date=2014-05-31}}</ref> [[Martin Scorsese]] included it on a list of "39 Essential Foreign Films for a Young Filmmaker."<ref>{{Cite web |date=15 October 2014 |title=Martin Scorsese Creates a List of 39 Essential Foreign Films for a Young Filmmaker |url=http://www.openculture.com/2014/10/scorseses-list-of-39-essential-foreign-films.html |url-status=live |archive-url=https://web.archive.org/web/20150207201938/http://www.openculture.com/2014/10/scorseses-list-of-39-essential-foreign-films.html |archive-date=February 7, 2015 |access-date=1 February 2015 |publisher=Open Culture}}</ref>
+
+Arthur Nolletti Jr, writing an essay in the book titled ''Ozu's Tokyo Story'', compared the film to its USA predecessor film, McCarey's 1937 ''[[Make Way for Tomorrow]]'', and indicated that: "David Bordwell sees Ozu as 'recasting' the American film – borrowing from it, adapting it – and briefly mentions that there are similarities in story, theme and plot structure. Indeed these similarities are striking. Both films focus on an elderly couple who discover that their grown children regard them as a burden; both films are structured as journeys in which the couple are shuffled from one household to another; both films explore much of the same thematic material (e.g., sibling self-centeredness and parental disillusionment); and both films are about the human condition – the cyclical pattern of life with its concomitant joys and sorrows – and the immediate social realities that affect and shape that condition: in McCarey's film, [[The Great Depression]]; in Ozu's, the intensified postwar push toward industrialization. Primarily sober in tone but possessing rich and gentle humor, both films belong to a genre that in Japanese cinema is called ''shomin-geki'', films dealing with the everyday lives of the lower middle classes."{{sfn|Desser|1997|pp=25-26}}
+
+''Tokyo Story'' is often admired as a work that achieves great emotional effect while avoiding [[melodrama]]. Critic Wally Hammond stated that "the way Ozu builds up emotional empathy for a sense of disappointment in its various characters is where his mastery lies."<ref>{{Cite news |last=Hammond |first=Wally |date=2009-12-24 |title=Tokyo Story |url=https://www.timeout.com/london/film/tokyo-story |url-status=live |archive-url=https://web.archive.org/web/20171224101505/https://www.timeout.com/london/film/tokyo-story |archive-date=December 24, 2017 |access-date=2017-12-23 |work=Time Out London |language=en}}</ref> [[Roger Ebert]] wrote that the work "lacks sentimental triggers and contrived emotion; it looks away from moments a lesser movie would have exploited. It doesn't want to force our emotions, but to share its understanding."<ref name=ebert/> In ''[[The Village Voice]]'', Eric Hynes argued that "time itself is [Ozu]'s most potent weapon. Protracted sequences make you impatient for forward motion, but then, in an instant, you’re left to mourn beauties hastened away."<ref>{{Cite news |last=Hynes |first=Eric |date=2010-11-24 |title=Family Ties, Unbound, in Tokyo Story |url=https://www.villagevoice.com/2010/11/24/family-ties-unbound-in-tokyo-story/ |url-status=dead |archive-url=https://web.archive.org/web/20171224101239/https://www.villagevoice.com/2010/11/24/family-ties-unbound-in-tokyo-story/ |archive-date=December 24, 2017 |access-date=2017-12-23}}</ref> In 2010, [[David Thomson (film critic)|David Thomson]] rhetorically asked whether any other family drama in cinematic history was more moving than ''Tokyo Story''.<ref name="Thomson">{{Cite news |last=Thomson |first=David |date=2010-10-20 |title=Tokyo Story: No 4 best arthouse film of all time |url=https://www.theguardian.com/film/2010/oct/20/tokyo-story-ozu-arthouse |url-status=live |archive-url=https://web.archive.org/web/20170202143039/https://www.theguardian.com/film/2010/oct/20/tokyo-story-ozu-arthouse |archive-date=February 2, 2017 |access-date=2017-01-30 |work=The Guardian}}</ref> Ebert called Ozu "universal", reported having never heard more weeping in an audience than during its showing, and later stated that the work "ennobles the cinema. It says, yes, a movie can help us make small steps against our imperfections."<ref name=ebert/> [[Leonard Maltin]] gave it four of four stars: "Quietly powerful story of old age, the disappointments parents experience with their children, and the fears the young have of time passing. A masterpiece."<ref>{{cite book |last1=Maltin |first1=Leonard |title=Leonard Maltin's Classic Movie Guide |date=2015 |publisher=Plume Book |isbn=978-0-14-751682-4 |edition=3rd}}</ref> ''[[The Village Voice]]'' ranked the film at number 36 in its Top 250 "Best Films of the Century" list in 1999, based on a poll of critics.<ref>{{Cite web |year=1999 |title=Take One: The First Annual Village Voice Film Critics' Poll |url=http://www.villagevoice.com/specials/take/one/full_list.php3?category=10 |archive-url=https://web.archive.org/web/20070826201343/http://www.villagevoice.com/specials/take/one/full_list.php3?category=10 |archive-date=26 August 2007 |access-date=27 July 2006 |website=The Village Voice}}</ref>
+
+''Tokyo Story'' was voted at No. 14 on the list of "100 Greatest Films" by the prominent French magazine ''[[Cahiers du Cinéma]]'' in 2008.<ref name=":2">{{Cite web |date=23 November 2008 |title=Cahiers du cinéma's 100 Greatest Films |url=http://www.filmdetail.com/2008/11/23/cahiers-du-cinemas-100-greatest-films/ |url-status=live |archive-url=https://web.archive.org/web/20180716224153/http://www.filmdetail.com/2008/11/23/cahiers-du-cinemas-100-greatest-films/ |archive-date=July 16, 2018 |access-date=May 15, 2021}}</ref> In 2009 the film was named ''The Greatest Japanese Film of All Time'' by Japanese film magazine ''[[Kinema Junpo]]''.<ref>{{Cite web |title=Greatest Japanese films by magazine Kinema Junpo (2009 version) |url=http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version |url-status=dead |archive-url=https://archive.today/20120711021342/http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version |archive-date=July 11, 2012 |access-date=2011-12-26}}</ref> ''[[Entertainment Weekly]]'' voted it the 95th Greatest film of all time.<ref>{{Cite web |title=Entertainment Weekly's 100 Greatest Movies of All Time |url=http://www.filmsite.org/ew100.html |url-status=live |archive-url=https://web.archive.org/web/20140331185517/http://www.filmsite.org/ew100.html |archive-date=31 March 2014 |access-date=19 January 2009 |publisher=[[Filmsite.org]] |df=dmy-all}}</ref> Since 1992, the film has appeared consistently in the [[British Film Institute]]'s "[[BFI The Top 50 Greatest Films of All Time|polls of the greatest films]]" of directors and critics published in ''[[Sight and Sound]]''. On the critics' poll, it was third in 1992, fifth in 2002, and third again in 2012. On the directors' poll, it was 17th in 1992, tied at number 16 with ''[[Psycho (1960 film)|Psycho]]'' and ''[[The Mirror (1975 film)|The Mirror]]'' in 2002, and in 2012 it topped the poll, receiving 48 votes out of the 358 directors polled. In 2022, it was fourth in both the critics' and directors' polls.<ref>{{Cite web |date=2 August 2012 |title=The 2012 Sight & Sound Directors' Top Ten |url=http://www.bfi.org.uk/news/sight-sound-2012-directors-top-ten |url-status=dead |archive-url=https://web.archive.org/web/20120811100640/http://www.bfi.org.uk/news/sight-sound-2012-directors-top-ten |archive-date=August 11, 2012 |access-date=3 June 2016 |website=[[Sight & Sound]] |publisher=[[British Film Institute]]}}</ref><ref>{{Cite web |title=Top Ten Poll 1992 – Directors' and Critics' Poll |url=http://www.bfi.org.uk/sightandsound/topten/history/1992.html |archive-url=https://web.archive.org/web/20120111103418/http://www.bfi.org.uk/sightandsound/topten/history/1992.html |archive-date=2012-01-11 |access-date=October 29, 2010 |website=[[Sight & Sound]] |publisher=Published by [[British Film Institute]]}}</ref><ref>{{Cite web |title=Sight & Sound Top Ten Poll 2002 – The rest of the directors' list |url=http://www.bfi.org.uk/sightandsound/topten/poll/directors-long.html |archive-url=https://web.archive.org/web/20120309163857/https://www.bfi.org.uk/sightandsound/topten/poll/directors-long.html |archive-date=2012-03-09 |access-date=October 29, 2010 |website=[[Sight & Sound]] |publisher=Published by [[British Film Institute]]}}</ref><ref>{{Cite web |date=1 August 2012 |title=The Top 50 Greatest Films of All Time |url=http://www.bfi.org.uk/news/50-greatest-films-all-time |url-status=dead |archive-url=https://web.archive.org/web/20170301135739/http://www.bfi.org.uk/news/50-greatest-films-all-time |archive-date=March 1, 2017 |access-date=2 August 2012 |publisher=Published by [[British Film Institute]]}}</ref><ref>{{Cite web |title=Tokyo Story (1953) |url=https://www.bfi.org.uk/film/65edaa59-6546-57b5-9fa3-9409f93d1383/tokyo-story |url-status=live |archive-url=https://web.archive.org/web/20221201205120/https://www.bfi.org.uk/film/65edaa59-6546-57b5-9fa3-9409f93d1383/tokyo-story |archive-date=December 1, 2022 |access-date=2022-12-01 |website=BFI |language=en}}</ref> In 2010, ''[[The Guardian]]'' ranked the film fourth in its list of 25 greatest [[Art Film|arthouse films]].<ref name=Thomson/> It ranked third in BBC's 2018 list of The 100 greatest foreign language films voted by 209 
+film critics from 43 countries around the world.<ref>{{Cite web |date=2018-10-29 |title=The 100 Greatest Foreign Language Films |url=https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films |url-status=live |archive-url=https://web.archive.org/web/20201225005824/https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films |archive-date=December 25, 2020 |access-date=2021-01-10 |website=[[BBC]]}}</ref>
+
+==Influence==
+German director [[Doris Dörrie]] drew inspiration from ''Tokyo Story'' for her 2008 film ''[[Cherry Blossoms (film)|Cherry Blossoms]]'', which follows a similar storyline.<ref>{{cite web|url=http://www.berlinale.de/de/archiv/jahresarchive/2008/02_programm_2008/02_Filmdatenblatt_2008_20080122.php#tab=boulevard|title=Kirschblüten – Hanami, Filmdatenblatt berlinale 2008|access-date=February 4, 2014|archive-date=February 22, 2014|archive-url=https://web.archive.org/web/20140222224147/http://www.berlinale.de/de/archiv/jahresarchive/2008/02_programm_2008/02_Filmdatenblatt_2008_20080122.php#tab=boulevard|url-status=live}}</ref>
+
+In 2013, [[Yōji Yamada]] remade the film as ''[[Tōkyō Kazoku]]''.<ref>{{cite web|url=http://www.sankei.com/west/print/131116/wst1311160063-c.html|date=16 November 2013|access-date=3 June 2016|publisher=Sankei News|title=世界３５８監督が選んだベスト１映画は小津安二郎「東京物語」…没後５０年、こだわった「家族」と「戦争」|work=産経ニュース |archive-date=July 1, 2016|archive-url=https://web.archive.org/web/20160701085808/http://www.sankei.com/west/print/131116/wst1311160063-c.html|url-status=live}}</ref>
+
+==Home media==
+The film was restored and released on DVD and Blu-ray by [[The Criterion Collection]] ([[DVD region code#Region codes and countries|Region 1]]) and by [[Palisades Tartan|Tartan Video]] in Region 2. In 2010, the BFI released a Region 2 dual-format edition (Blu-ray + DVD).<ref>{{cite web|url=http://filmstore.bfi.org.uk/acatalog/info_17155.html|title=Tokyo Story: Dual Format Edition|access-date=2 August 2012|archive-date=March 3, 2012|archive-url=https://web.archive.org/web/20120303150118/http://filmstore.bfi.org.uk/acatalog/info_17155.html|url-status=dead}}</ref> Included with this release is a [[standard-definition]] presentation of ''[[Brothers and Sisters of the Toda Family]]''.
+
+==References==
+{{Reflist|22em}}
+
+==Bibliography==
+{{refbegin}}
+* {{cite book |first1=David |last1=Bordwell |first2=Kristin |last2=Thompson |title=Film History: An Introduction |url=https://archive.org/details/filmhistoryintro00thom_325 |url-access=limited |year=2003 |edition=2nd |publisher=McGraw-Hill |isbn=9780070384293 |name-list-style=amp }}
+* {{cite book |editor-last=Desser |editor-first=David |editor-link=David Desser |title=Ozu's Tokyo Story |publisher=Cambridge University Press |location=Cambridge, UK |year=1997 |isbn=0-521-48435-9 |url=http://www.cambridge.org/9780521484350 |access-date=March 14, 2013 |archive-date=April 13, 2020 |archive-url=https://web.archive.org/web/20200413010322/https://www.cambridge.org/us/academic/subjects/arts-theatre-culture/media-mass-communication/ozus-tokyo-story?format=PB&isbn=9780521484350 |url-status=live }}
+* {{cite book |first=David |last=Desser |chapter=The Space of Ambivalence |title=Film Analysis |editor-first=Jeffrey |editor-last=Geiger |publisher=Norton |year=2005 }}
+* {{cite book |last1=Eleftheriotis |first1=Dimitris |first2=Gary |last2=Needham |title=Asian Cinemas: A Reader and Guide |publisher=University of Hawai'i Press |date=May 2006 |isbn=978-0-8248-3085-4 |name-list-style=amp}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+{{Commons category}}
+* {{IMDb title|0046438}}
+* {{TCMDb title|id=93512}}
+* {{rotten-tomatoes|tokyo_story}}
+* [https://www.criterion.com/current/posts/301-tokyo-story-compassionate-detachment ''Tokyo Story: Compassionate Detachment''] an essay by [[David Bordwell]] at the [[Criterion Collection]]
+
+{{Yasujirō Ozu}}
+{{Sutherland Trophy}}
+{{Authority control}}
+
+[[Category:1953 drama films]]
+[[Category:1953 films]]
+[[Category:Films about death]]
+[[Category:Films about old age]]
+[[Category:Films about widowhood]]
+[[Category:Films directed by Yasujirō Ozu]]
+[[Category:Films set in Atami]]
+[[Category:Films set in Tokyo]]
+[[Category:Films shot in Onomichi]]
+[[Category:Films shot in Tokyo]]
+[[Category:Films with screenplays by Kogo Noda]]
+[[Category:Films with screenplays by Yasujirō Ozu]]
+[[Category:Japanese black-and-white films]]
+[[Category:Japanese drama films]]
+[[Category:1953 Japanese-language films]]
+[[Category:Shochiku films]]
+[[Category:Films about social realism]]
+[[Category:1953 Japanese films]]

@@ -1,0 +1,90 @@
+{{Use dmy dates|date=June 2026}}
+{{Infobox film
+| name           = A Comédia de Deus
+| image          = AComédiadeDeus1996Cover.jpg
+| alt            = 
+| caption        = Portuguese DVD cover
+| native_name    = {{Infobox name module|pt|A Comédia de Deus}}
+| director       = [[João César Monteiro]]
+| producer       = Joaquim Pinto
+| writer         = João César Monteiro
+| based_on       = ''Um mover de olhos brando e piadoso''<br />by [[Luís Vaz de Camões]]
+| starring       = {{Plainlist|
+* Cláudia Teixeira
+* João César Monteiro
+* Manuela de Freitas
+}}
+| cinematography = Mário Barroso
+| editing        = Carla Bogalheiro
+| studio         = {{Plainlist|
+* G.E.R. (Grupo de Estudos e Realizações)
+* Pierre Grise Productions
+* [[Zentropa Productions]]
+* Mikado Film
+* [[La Sept]]/[[Arte]]
+}}
+| distributor    = Madragoa Filmes (Portugal)
+| released       = {{Film date|1995|9||[[1995 Venice Film Festival|Venice]]|1996|1|19|Portugal}}
+| runtime        = 165 minutes
+| country        = {{Plainlist|
+* Portugal
+* France
+* Italy
+* Denmark
+}}
+| language       = Portuguese
+}}
+
+'''''God's Comedy''''' ({{langx|pt|'''A Comédia de Deus'''}}) is a 1995 comedy-drama film written, directed and starring [[João César Monteiro]]. It is the second entry in an informal trilogy, preceded by ''[[Recollections of the Yellow House]]'' (1989) and followed by ''[[As Bodas de Deus]]'' (1999). God is symbolized through the character ''João de Deus'' (lit.: John of God), played by Monteiro himself.
+
+The film had its world premiere at the main competition of the [[52nd Venice International Film Festival]] in September 1995, where it won the [[Grand Jury Prize (Venice Film Festival)|Grand Special Jury Prize]]. It was theatrically released in Portugal on 19 January 1996.
+
+The film was submitted as the Portuguese entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[68th Academy Awards]], but was not nominated.<ref name=":0">Margaret Herrick Library, Academy of Motion Picture Arts and Sciences</ref><ref name="68thSubmissions">{{Cite web|url=http://www.filmfestivals.com/news/newsl1.htm |title=41 to Compete for Foreign Language Oscar Nominations |access-date=4 October 2015 |work=FilmFestivals.com |url-status=dead |archive-url=https://web.archive.org/web/20120407001102/http://www.filmfestivals.com/news/newsl1.htm |archive-date=7 April 2012}}</ref>
+
+== Premise ==
+Haunted by memories, having left the asylum, João de Deus prospered, becoming responsible for the Ice Cream Paradise and even inventing the store's specialty. He spends his free time at home, alone, with a collection of female pubic hairs, which he jealously guards in a Book of Thoughts. The owner of the Paradise, Judite, aims to expand the business to a French counterpart, counting on a delicacy from her protégé to convince the potential Parisian partner. But things go wrong, while God's own behavior begins to deteriorate into a sickly insanity. The closest cause is Joaninha, the daughter of the neighborhood's stern butcher.
+
+== Cast ==
+
+* [[João César Monteiro]] as João de Deus (lit.: John of God)
+* Cláudia Teixeira as Joaninha
+* Manuela de Freitas as Judite
+* Raquel Ascensão as Rosarinho
+* Rui Luís as Talhante
+* [[Glicínia Quartin]] as Dona Antónia
+* [[Mário Barroso]] as Pedro Cruel
+* Gracinda Nave as Felícia
+* Patrícia Abreu as Alexandra
+* Maria Ribeiro as Carmen
+* Bruno de Sousa as Bruno
+* André Gago as Romão
+* João Pedro Gil as God's voice
+
+== Release ==
+The film had its world premiere at the main competition of the [[52nd Venice International Film Festival]] in September 1995, where it won the [[Grand Jury Prize (Venice Film Festival)|Grand Special Jury Prize]]. It was theatrically released in Portugal on 19 January 1996.
+
+The film was submitted as the Portuguese entry for the [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[68th Academy Awards]], but was not nominated.<ref name=":0" /><ref name="68thSubmissions" />
+
+==See also==
+* [[List of submissions to the 68th Academy Awards for Best Foreign Language Film]]
+* [[List of Portuguese submissions for the Academy Award for Best Foreign Language Film]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0112710}}
+
+{{Venice Film Festival Grand Jury Prize}}
+{{Portuguese submissions for Academy Awards}}
+
+{{DEFAULTSORT:God's Comedy}}
+[[Category:1995 films]]
+[[Category:1995 drama films]]
+[[Category:Films directed by João César Monteiro]]
+[[Category:Grand Jury Prize (Venice Film Festival) winners]]
+[[Category:Portuguese drama films]]
+[[Category:1990s Portuguese-language films]]
+[[Category:1995 Portuguese films]]
+
+{{Portugal-film-stub}}

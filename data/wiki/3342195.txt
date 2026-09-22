@@ -1,0 +1,129 @@
+{{short description|2001 Hungarian drama mystery film}}
+{{Infobox film
+| name           = Werckmeister Harmonies
+| image          = Werckmeister Harmonies.jpg
+| caption        = Theatrical release poster
+| director       = {{ubl
+  | [[Béla Tarr]]
+  | [[Ágnes Hranitzky]]
+}}
+| screenplay     = {{ubl
+  | [[László Krasznahorkai]]
+  | Béla Tarr
+}}
+| based_on       = {{Based on|''[[The Melancholy of Resistance]]''|László Krasznahorkai}}
+| producer       = Béla Tarr
+| starring       = {{ubl
+  | [[Lars Rudolph]]
+  | [[Peter Fitz]]
+  | [[Hanna Schygulla]]
+}}
+| cinematography = {{ubl
+  | Milós Gurbán
+  | Erwin Lanzensberger
+  | Gábor Medvigy
+  | Emil Novák
+  | Patrick de Ranter
+  | [[Rob Tregenza]]
+  | Jörg Widmer
+}}
+| editing        = Ágnes Hranitzky
+| music          = [[Mihály Vig]]
+| distributor    = 
+| released       = {{Film date|df=y|2000|5||Cannes|2000|7|12|Belgium|2001|2|1|Hungary}}
+| runtime        = 145 minutes<!--Theatrical runtime: 145:25--><ref>{{cite web |url=https://www.bbfc.co.uk/release/werckmeister-harmoniak-werckmeister-harmonies-q29sbgvjdglvbjpwwc0zmtk2mzu |title=''Werckmeister Harmonies'' (12A) |website=[[British Board of Film Classification]] |date=30 January 2003 |access-date=30 June 2023}}</ref>
+| country        = Hungary
+| language       = Hungarian
+| budget         = $1.6 million
+| gross          = $73,404<ref>{{cite web|url= https://www.the-numbers.com/movie/Werckmeister-harmoniak-(Hungary)#tab=summary|title=Werckmeister Harmonies (2023)|website=[[The Numbers (website)|The Numbers]]|access-date=July 28, 2023}}</ref><ref>{{cite web|url= https://www.boxofficemojo.com/release/rl1234469633/?ref_=bo_wl_table_48|title=Werckmeister Harmonies (2023)|website=[[Box Office Mojo]]|access-date=July 28, 2023}}</ref>
+}}
+'''''Werckmeister Harmonies''''' ({{IPA|de|verkˈmaɪ̯stɐ|pron}}; {{langx|hu|'''Werckmeister harmóniák'''}}) is a 2000 [[Hungary|Hungarian]] [[Drama (film and television)|drama film]]<ref name="ebert-greatmovies" /> directed by [[Béla Tarr]] and [[Ágnes Hranitzky]], based on the 1989 novel ''[[The Melancholy of Resistance]]'' by [[László Krasznahorkai]]. Shot in [[black-and-white]] and composed of thirty-nine languidly paced shots, the film portrays the life of János and his uncle György during the communist era in Hungary. It also recounts their journey among helpless citizens as a sinister visiting [[circus]] casts a shadow over everyone's lives.
+
+The title refers to the 17th century [[Baroque music|Baroque musical]] theorist [[Andreas Werckmeister]]. György Eszter, a major character in the film, delivers a monologue asserting that Werckmeister's [[Andreas Werckmeister#Theoretical works|harmonic principles]] are responsible for aesthetic and philosophical problems in all subsequent music, and should be replaced by a new theory of [[musical tuning|tuning]] and [[harmony]].
+
+The film was screened in the [[Directors' Fortnight]] section in [[2000 Cannes Film Festival|53rd Cannes Film Festival]] in 2000''.''<ref>{{Cite web |title=Édition |url=https://www.quinzaine-cineastes.fr/fr/edition/2000 |access-date=2026-04-28 |website=Quinzaine des cinéastes |language=fr}}</ref> ''Werckmeister Harmonies'' opened to wide acclaim from critics, and has come to be regarded by many as one of the best films of the 21st century. In the ''[[Sight and Sound]]'' [[The Sight and Sound Greatest Films of All Time 2022|2022 decennial critics poll]], ''Werckmeister Harmonies'' ranks 243rd.<ref>{{Cite web |title=Werckmeister Harmonies (2000) |url=https://www.bfi.org.uk/film/d64af508-9bcf-5eca-b0c9-29a57d225810/werckmeister-harmonies |access-date=2026-03-04 |website=[[British Film Institute|BFI]] |language=en}}</ref><ref>{{Cite web |title=The Greatest Films of All Time |url=https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time |access-date=2026-03-04 |website=[[British Film Institute|BFI]] |language=en}}</ref>
+
+== Plot ==
+In an unnamed, desolate and isolated small town in Hungary<ref group="N">Although the country is not named.</ref> during a winter season in recent times,<ref group="N">The period may correspond to the [[Hungarian People's Republic]] era but that too is not mentioned.</ref> János Valuska, a young newspaper-delivery man, conducts a performance with drunken bar patrons about the total eclipse of the sun, which disturbs, then silences the animals. It finishes with the grand return of the warm sunlight.
+
+János is devoted to his 'uncle' György Eszter, a composer and musicologist, who is like a father to him. György records his observations about the imperfection and compromise of the musical scale, as defined by Werckmeister. György proposes changes to the [[Scale (music)|natural scale]] to make its harmonies more natural.
+
+János goes to the post office to pick up his newspapers for delivery. The workers are unsettled by the ominous signs of the circus' arrival and the cloud that settles over each town it visits.
+
+A "circus" built around a huge stuffed smelly whale and its star performer, "The Prince", who is never seen, come to town in the night. János sees them arrive and philosophizes about God and the whale.
+
+György's estranged wife, Tünde, tries to leverage her political and social status by giving György a list of names to recruit for the "Clean Up the Town movement," with the blessing of the police chief, and demands that György become chairman of the movement, or else she will move back in with him that very evening. She sends her suitcase ahead of her with János. György's struggling cobbler brother, Uncle Lajos, takes the list and passes it on to the agitated crowd in the town square who are unhappy with the failing public services. János is accosted by a thug in front of the open truck housing the whale. Tünde sleeps with the drunk gun-toting police chief.
+
+The presence of the whale and the "Prince" stir up the crowd. János overhears the circus master losing control of his faceless Prince, who speaks (in Slovak<ref>{{Cite web |date=2020-01-01 |title=Decay of a Mortal God: Béla Tarr's "Werckmeister Harmonies" |url=https://vigouroffilmlines.com/2020/01/01/werckmeister-harmonies-bela-tarr-symbolism-of-the-whale/ |access-date=2023-08-01 |website=Vigour of Film Lines |language=en}}</ref>) through a translator of revolutions and ruins. The circus master is afraid of consequences and disowns him. The Prince, now free, inflames the mob who, holding clubs, march, then run into a hospital,<ref group="N">The institution is probably psychiatric; one supposes dissidents opposing the regime are kept there.</ref> drag inmates out of their beds and beat them. When the rioters finally find a helpless old naked patient, who is extremely emaciated, they withdraw silently.
+
+After the riot, János comes across the diary of a rioter. It explains that the rioters did not know what they were angry with; so they were angry at everything. Then it recounts the mob's horrendous rape of two post-office girls. On his way home, he witnesses from a distance a meeting between Tünde and a military officer. They depart together on a military vehicle to reclaim the town, accompanied by soldiers and a tank.
+
+János then comes across the body of Lajos, who was killed in the riot. János is told by Lajos's wife to leave for his own safety, as his name was on a list held by the rioters. János runs away on the railroad tracks but is intercepted by a helicopter. He finds himself committed to a mental institution with caged beds. When György visits him, János simply stares into the blank space and does not respond to György, who recounts to János what has happened since the riot. György has been evicted from their house but gets to live in a shed in the garden whilst his wife, Tünde, with her new status as a collaborator, now occupies the big house with the police chief. György tells János, in the ward, that, if he is released from the mental institution, they can live contentedly together in the shed with his piano. György also mentions that he has re-tuned the piano so that it is now like any other, a personal capitulation apparently abandoning any present hopes of reform. János just stares into the blank space.
+
+The film ends with György walking through the town square and looking directly into the eye of the abandoned whale, then walking away and looking back at the now sad and disheveled whale and the “circus” destroyed by the rioters the night before. The whale's rotting carcass is slowly enveloped by the thickening fog.
+
+=== Notes ===
+{{reflist|group=N}}
+
+
+== Production ==
+The film is an international production<ref>{{Cite book |last1=Ritz-Buranbaeva |first1=Oksana |url=https://books.google.com/books?id=WK_130Hqbr4C&dq=Werckmeister+Harmonies+production&pg=PA152 |title=Culture and Customs of Hungary |last2=Mladineo |first2=Vanja |date=2011-09-22 |publisher=ABC-CLIO |isbn=978-0-313-38370-0 |language=en}}</ref> whose financing took a long time for Tarr to secure.<ref>{{Cite book |last=Kovács |first=András |url=https://books.google.com/books?id=NyatAgAAQBAJ&dq=Werckmeister+Harmonies+production&pg=PA11 |title=The Cinema of Béla Tarr: The Circle Closes |date=2013-05-28 |publisher=Columbia University Press |isbn=978-0-231-16531-0 |language=en}}</ref>
+
+The credits indicate that filming took place between 1997 and 2000.
+
+Cinematographer [[Rob Tregenza]] and actress [[Hanna Schygulla]] criticized the film's production. Tregenza claimed Tarr was dishonest about the film's financing. He also claimed credit for the film's opening scene and hospital sequence.<ref>{{cite news|url=https://thefilmstage.com/all-great-dps-become-alcoholics-rob-tregenza-on-shooting-bela-tarrs-werckmeister-harmonies/|title=“All Great DPs Become Alcoholics”: Rob Tregenza on Shooting Béla Tarr’s Werckmeister Harmonies|last = Newman|first = Nick|work = The Film Stage|date= 29 April 2024}}</ref> Schygulla characterized her experience on the film as disappointing and noted the pay was poor. She said of Tarr, "Everything just goes into his obsession and nothing is for the people who work for it and they work so hard."<ref>{{cite news|url=https://www.villagevoice.com/the-imperfect-storm/|title=The Imperfect Storm|last = Susan|first=Sontag|website=[[The Village Voice]]|date = 25 February 2003|access-date=12 September 2026}}</ref>
+
+== Cast ==
+* [[Lars Rudolph]] as János Valuska, dubbed in Hungarian by {{ill|Tamás Bolba|hu|Bolba Tamás}}
+* [[Peter Fitz]] as György Eszter, dubbed in Hungarian by [[Péter Haumann]]
+* [[Hanna Schygulla]] as Tünde Eszter, dubbed in Hungarian by [[Marianna Moór]]
+* [[János Derzsi]] as the Man In The Broad-Cloth Coat
+* [[Đoko Rosić]] as the Man In Western Boots
+* [[Tamás Wichmann]] as the Man In The Sailor-Cap
+* [[Ferenc Kállai]] as the Circus Master
+*[[:hu:Dobai_Péter|Péter Dobai]] as the Police Captain
+
+== Reception and legacy ==
+=== Critical response ===
+''Werckmeister Harmonies'' received critical acclaim. [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 93 out of 100, based on 9 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''Werckmeister Harmonies'' |url=https://www.metacritic.com/movie/werckmeister-harmonies |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=22 October 2025 |archive-url= |archive-date= |url-status=}}</ref> Based on 58 reviews, [[Rotten Tomatoes]] reports a 97% approval rating, with an average score of 9.1/10. The website's critics consensus reads, "Mesmerizingly lovely and thematically thought-provoking, ''Werckmeister Harmonies'' adds another indelible achievement to Bela Tarr's fascinating filmography."<ref name="RottenTomatoes">{{Cite web |url= http://www.rottentomatoes.com/m/werckmeister-harmoniak/ |title= Werckmeister Harmóniák  |work=[[Rotten Tomatoes]] |publisher=[[Flixster]] |access-date=27 February 2025}}</ref>
+
+[[Lawrence Van Gelder|Lawrence van Gelder]] of ''[[The New York Times]]'' called the film "elusive" and argued that it "beckons filmgoers who complain about the vapidity of Hollywood movie making and yearn for a film to ponder and debate."<ref>{{cite news |url=https://www.nytimes.com/2001/10/10/movies/10HARM.html |title=Yielding to the Power of Persuasion |access-date=16 August 2014|work=[[The New York Times]]|date=10 October 2001 |last1=Gelder |first1=Lawrence Van }}</ref> [[David Sterritt]], writing for the [[Christian Science Monitor]], awarded it a full four stars, remarking, "Tarr wants to stir the imagination and awaken the conscience of his audience rather than divert us with easy entertainment."<ref>{{cite journal |url=https://www.csmonitor.com/2001/1012/p14s1-almo.html |title=Movie Guide: New Releases |journal=Christian Science Monitor |access-date=16 August 2014|publisher=csmonitor.com}}</ref>
+
+=== Legacy ===
+In a [[BBC's 100 Greatest Films of the 21st Century|2016 BBC poll]] of the best films since 2000, the film was placed 56th.<ref>{{Cite web |date=2016-08-23 |title=The 21st Century’s 100 greatest films |url=https://www.bbc.com/culture/article/20160819-the-21st-centurys-100-greatest-films |access-date=2025-10-22 |website=BBC |language=en-GB}}</ref><ref>{{Cite web |title=30 great films of the 2000s {{!}} Polls and surveys {{!}} Sight & Sound |url=https://www2.bfi.org.uk/news-opinion/sight-sound-magazine/polls-surveys/30-best-films-2000s |access-date=2022-06-29 |website=British Film Institute |language=en}}</ref><ref>{{Cite web |last=Cabin |first=Chris |date=2016-08-23 |title=BBC Unveils 100 Best Movies of the 21st Century List |url=https://collider.com/bbc-best-movies-21st-century-list/ |access-date=2022-06-29 |website=Collider |language=en-US}}</ref>
+
+Film critic [[Roger Ebert]] described the movie as "unique and original", writing that it "feels as much like [[cinéma vérité]] as the works of [[Frederick Wiseman]]." He went on to add the film to his "Great Movies" collection in 2007.<ref name="ebert-greatmovies">Roger Ebert's "Great Movies" essay about [http://www.rogerebert.com/reviews/werckmeister-harmonies-2000 Werckmeister Harmonies.]</ref>
+
+In the 2012 [[British Film Institute]]'s decennial ''[[Sight & Sound]]'' poll, ten critics and five directors voted ''Werckmeister Harmonies'' among their ten favorite films — placing it 171st in the critics' poll and 132nd in the directors' poll.<ref name=":0">{{cite web |url=https://explore.bfi.org.uk/sightandsoundpolls/2012/film/4ce2b848e226c |archive-url=https://web.archive.org/web/20120820044758/http://explore.bfi.org.uk/sightandsoundpolls/2012/film/4ce2b848e226c |url-status=dead |archive-date=20 August 2012 |title=Werckmeister Harmonies, The |work=[[British Film Institute]] |publisher=explore.bfi.org.uk |access-date=16 August 2014}}</ref> In the [[The Sight and Sound Greatest Films of All Time 2022|2022 critics' poll]], it was ranked 243rd.<ref>{{Cite web |title=Werckmeister Harmonies (2000) |url=https://www.bfi.org.uk/film/d64af508-9bcf-5eca-b0c9-29a57d225810/werckmeister-harmonies |access-date=2026-03-04 |website=[[British Film Institute|BFI]] |language=en}}</ref><ref>{{Cite web |title=The Greatest Films of All Time |url=https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time |access-date=2026-03-04 |website=[[British Film Institute|BFI]] |language=en}}</ref> 
+
+In 2025, it was one of the films voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century," finishing at number 316.<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |access-date=2 July 2025}}</ref>
+
+=== Home video ===
+The only home video release for a long time in [[DVD region code|Region 1]] (U.S. and Canada) was released by [[Facets Multi-Media|Facets]], and had gone out of print. The restored version was released by [[The Criterion Collection]] on 4K, Blu-ray, and DVD formats on 16 April 2024. On 18 November 2024 [[Curzon Film|Curzon]] released it in 4K for [[DVD region code|Region 2]] (UK, Europe, Japan, and the Middle East). Curzon also included it their ''Béla Tarr | A Curzon Collection - Limited Edition'' boxset which released on 2 December 2024.
+
+=== Restoration ===
+The movie was restored in 4K resolution by [[National Film Institute Hungary]] and Cinegrell in 2022.<ref>{{Cite AV media |url=https://www.blu-ray.com/movies/Werckmeister-Harmonies-4K-Blu-ray/352956/ |title=Werckmeister Harmonies 4K Blu-ray (Werckmeister harmóniák / includes "Family Nest" (1979) on BD) |access-date=2026-01-14 |via=www.blu-ray.com}}</ref> [[Film at Lincoln Center]] (FLC) announced the new restoration of ''Werckmeister Harmonies'', opening 26 May 2023, in the [[Film at Lincoln Center|Walter Reade Theater]].<ref>{{Cite web |last=Azad |first=Navid Nikkhah |title=Film at Lincoln Center announces 4K restoration of Béla Tarr and Ágnes Hranitzky's Werckmeister Harmonies |url=https://www.deed.news/news/press-release/film-at-lincoln-center-announces-4k-restoration-of-bela-tarr-and-agnes-hranitzky-werckmeister-harmonies/ |url-status=usurped |archive-url=https://web.archive.org/web/20230412183041/https://www.deed.news/news/press-release/film-at-lincoln-center-announces-4k-restoration-of-bela-tarr-and-agnes-hranitzky-werckmeister-harmonies/ |archive-date=2023-04-12 |access-date=2023-04-12 |website=Deed News |language=en-US}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0249241}}
+* {{Rotten Tomatoes}}
+
+{{Béla Tarr}}
+{{László Krasznahorkai}}
+{{Authority control}}
+
+[[Category:2000 films]]
+[[Category:2000 drama films]]
+[[Category:2000s Hungarian-language films]]
+[[Category:2000 Hungarian films]]
+[[Category:2000 directorial debut films]]
+[[Category:Films based on Hungarian novels]]
+[[Category:Films directed by Béla Tarr]]
+[[Category:Films with screenplays by László Krasznahorkai]]
+[[Category:Hungarian drama films]]
+[[Category:Films scored by Mihály Víg]]
+[[Category:Hungarian-language drama films]]
+[[Category:Films directed by Ágnes Hranitzky]]

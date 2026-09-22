@@ -1,0 +1,655 @@
+{{short description|1997 Japanese animated film by Hayao Miyazaki}}
+{{good article}}
+{{Use shortened footnotes|date=February 2026}}
+{{Use mdy dates|date=September 2024}}
+{{Use American English|date=January 2024}}
+{{Infobox film
+| name           = Princess Mononoke
+| native_name    = {{Infobox Japanese
+ | japanese      = もののけ姫
+ | revhep        = Mononoke-hime}}
+| image          = Princess Mononoke Japanese poster.png
+| caption        = Theatrical release poster
+| alt            = A teenage girl with blood on her mouth stands in front of a large white wolf. The film's title and credits are below.
+| director       = [[Hayao Miyazaki]]
+| producer       = [[Toshio Suzuki]]
+| writer         = Hayao Miyazaki
+| starring       = <!-- Order per poster. -->{{Plainlist|
+* [[Yōji Matsuda]]
+* [[Yuriko Ishida]]
+* [[Yūko Tanaka]]
+* [[Kaoru Kobayashi (actor)|Kaoru Kobayashi]]
+* [[Masahiko Nishimura]]
+* [[Tsunehiko Kamijō]]
+* [[Akihiro Miwa]]
+* [[Mitsuko Mori]]
+* [[Hisaya Morishige]]
+}}
+| music          = [[Joe Hisaishi]]
+| cinematography = Atsushi Okui
+| editing        = [[Takeshi Seyama]]
+| studio         = [[Studio Ghibli]]
+| distributor    = [[Toho]]
+| released       = {{Film date|1997|07|12}}
+| runtime        = 133&nbsp;minutes<!--Theatrical runtime: 133:24-->
+| country        = Japan
+| language       = Japanese
+| budget         = {{JPY|2.35 billion}}
+| gross          = {{USD|231.3 million}}<!-- Please do not change the price here without the proper sources to WP:VERIFY! When changing the prices, please change the access date of the websites. -->
+}}
+
+{{Nihongo foot|'''''Princess Mononoke'''''|もののけ姫|Mononoke-hime|lead=yes|group=lower-alpha}} is a 1997 Japanese animated [[Historical fantasy|historical]] [[fantasy film]]<!--Per [[WP:FILMLEAD]] only primary genre in lead.--> written and directed by [[Hayao Miyazaki]]. Set in the [[Muromachi period]] of Japanese history, the film follows Ashitaka, a young [[Emishi]] prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves. Produced by [[Toshio Suzuki]], animated by [[Studio Ghibli]], and distributed by [[Toho]], it stars the voices of [[Yōji Matsuda]], [[Yuriko Ishida]], [[Yūko Tanaka]], [[Kaoru Kobayashi (actor)|Kaoru Kobayashi]], [[Masahiko Nishimura]], [[Tsunehiko Kamijō]], [[Akihiro Miwa]], [[Mitsuko Mori]], and [[Hisaya Morishige]].
+
+Miyazaki began developing early concepts in 1980 and later considered basing a film on the {{lang|ja-Latn|[[Hōjōki]]}}{{nbsp}}(1212), a Japanese literary classic; elements of both evolved substantially into the eventual film. After taking a break to direct ''[[On Your Mark (music video)|On Your Mark]]''{{nbsp}}(1995), he led the production with a budget of {{JPY|2.35 billion}}, making it the most expensive animated film at the time. Some [[computer-generated imagery]] and other digital techniques were used in conjunction with [[hand-drawn animation]], a first for Miyazaki. The film explores themes of [[environmentalism]] and societal diversity, partly inspired by Miyazaki's readings into novel historical and cultural studies, and presents a [[feminist]] portrayal of its characters. It also blends fantastical elements with its depiction of medieval Japanese history, influenced by the {{lang|ja-Latn|[[jidaigeki]]}} style. The score was composed by [[Joe Hisaishi]], a longtime collaborator of Miyazaki's.
+
+''Princess Mononoke'' was theatrically released in Japan on July 12, 1997, and broke several box office records. Suzuki led the film's marketing, then the largest advertisement campaign in Japan. It eventually became the [[List of highest-grossing films in Japan|highest-grossing film in the country]]. Following a distribution deal struck between [[Tokuma Shoten]] and [[Walt Disney Studios (division)|Walt Disney Studios]], it was the first of Studio Ghibli's films to be released internationally and was given to [[Miramax Films]] to be dubbed into English and distributed in North America. [[Neil Gaiman]] wrote the translation, making significant alterations for its American audience; the dub underperformed at the box office. {{As of|2026}}, the film has grossed {{USD|231.3 million}} through various theatrical and home media releases. It received a broadly positive critical response in both Japan and the United States<!--Per WP:FILMLEAD, any summary statement "should reflect an overall consensus explicitly summarized by one or more reliable sources".--> and earned a number of major Japanese accolades, including top awards at the [[Mainichi Film Awards]] and the [[Japan Academy Film Prize]]. Its sustained popularity and cultural impact have since made it a [[cult film]].
+
+== Plot summary ==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words. -->
+In [[Muromachi]]-era Japan, the last [[Emishi]] prince, Ashitaka, kills a gigantic demon to protect his village, but his arm is afflicted by its curse. The demon, once the boar god Nago, was corrupted by an iron ball embedded in its body. Learning that the curse will eventually kill him, Ashitaka is exiled to the west, seeking a cure by uncovering the source of Nago's hatred.
+
+On his journey, Ashitaka discovers that the curse grants him supernatural strength. He encounters a monk named Jigo, who advises him to seek answers in the nearby mountains from the Forest Spirit{{nbsp}}– a deer-like god of life and death that transforms into the giant [[Daidarabotchi|Nightwalker]] at sunset. Guided by tiny {{lang|ja-Latn|[[Kodama (spirit)|kodama]]}}, Ashitaka passes through the forest of the gods, where he catches a glimpse of the Forest Spirit. Meanwhile, Lady Eboshi and her men repel an attack by a pack of wolves led by the [[Japanese wolf|wolf]] goddess Moro and her adopted human daughter, San.
+
+Ashitaka arrives at Irontown,{{efn|[[Japanese language|Japanese]]: {{lang|ja|タタラ場}}, [[Hepburn romanization|Hepburn]]: {{tlit|ja|Hepburn|Tataraba}}; named after the Japanese {{lang|ja-Latn|[[Tatara (furnace)|tatara]]}} furnace.{{sfn|Sakakibara|2023}} }} a settlement that has deforested the surrounding area to mine iron, leading to conflicts with the animal gods of the forest. The town shelters former prostitutes, who stoke massive furnaces, and people with [[leprosy]], who manufacture firearms. Eboshi, the town's leader, admits to shooting Nago, instilling the hatred that corrupted him. She also reveals her plan to kill the Forest Spirit, hoping to eradicate the gods and enable Irontown to prosper. Ashitaka's cursed arm tries to kill her, but he resists its influence. Eboshi is collaborating with the mercenary Jigo, who stands to be richly rewarded for delivering the Forest Spirit's head{{nbsp}}– believed to grant immortality{{nbsp}}– to the [[Emperor of Japan|Emperor]].
+
+The wolves attack; San, whom the townspeople call "Princess [[Mononoke]]", infiltrates Irontown and duels Eboshi. Ashitaka subdues them both and attempts to negotiate peace, but a townsperson shoots him. Strengthened by the curse, he takes San out of the town before collapsing. San threatens to kill him for sparing Eboshi, but is taken aback when he compliments her beauty. She brings Ashitaka to the Forest Spirit, who heals his wound but leaves the curse. The next day, a boar clan led by the blind god Okkoto declares its intention to attack Irontown, preferring to die in battle rather than witness their kind diminish. Ashitaka recovers and implores Moro to let San escape with him, but is banished from the forest instead.
+
+The boars assault Irontown's forces but are annihilated by their weaponry. San and the mortally wounded Okkoto retreat to the forest, unknowingly followed by Eboshi and Jigo, who use the carcasses of the fallen boars to deceive Okkoto into leading them to the Forest Spirit. San tries to stop Okkoto, but his pain transforms him into a demon, engulfing her. With Moro's remaining strength, she and Ashitaka free San. The Forest Spirit grants peaceful deaths to Okkoto and Moro. As it transforms into the Nightwalker, Eboshi beheads it. Its body explodes into a dark, chaotic fluid that expands in search of its head, killing everything it touches{{nbsp}}– including the forest{{nbsp}}– and briefly reanimates Moro's head, which bites off Eboshi's arm.
+
+Though reluctant to help the humans, San joins Ashitaka in pursuing Jigo to recover the Forest Spirit's head. Ashitaka evacuates Irontown as the Nightwalker's body floods it, and together, he and San fight Jigo for the head and return it to the Nightwalker. As the sun rises, the Nightwalker dies and dissolves into the wind. In its place, the devastated land is renewed with abundant flora, and Ashitaka's curse is lifted. A repentant Eboshi resolves to rebuild Irontown better, and Ashitaka chooses to remain and help. San, while admitting to Ashitaka that she loves him, is unable to forgive humanity and stays in the forest. They promise to meet as often as they can.
+
+== Voice cast ==
+
+{{Multiple image
+| align     = right
+| direction = vertical
+| width     = 150
+| image1    = Billy Crudup 2015 1b.jpg
+| caption1  = [[Billy Crudup]] ''(pictured in 2015)'' voiced Ashitaka in the English dub.
+| image2    = Claire Danes in 2015.jpg
+| caption2  = [[Claire Danes]] ''(pictured in 2015)'' voiced San.
+}}
+
+{{Plain row headers}}
+{| class="wikitable plain-row-headers"
+|+ {{sronly|Characters and voice cast}}
+! scope="colgroup" colspan="2" | Character name
+! scope="colgroup" colspan="2" | Voice actor{{sfn|''Nausicaa.net'' b}}
+|-
+! scope="col" width="25%" | English
+! scope="col" width="25%" | Japanese
+! scope="col" width="25%" | Japanese<br />{{small|(1997)}}
+! scope="col" width="25%" | English<br />{{small|(1999)}}
+|-
+! scope="row" | Ashitaka
+| {{Nihongo|2=アシタカ|3=Ashitaka}}|| [[Yōji Matsuda]] || [[Billy Crudup]]
+|-
+! scope="row" | San
+| {{Nihongo|2=サン|3=San}}|| [[Yuriko Ishida]] || [[Claire Danes]]
+|-
+! scope="row" | Lady Eboshi
+| {{Nihongo|2=エボシ御前|3=Eboshi Gozen}}|| [[Yūko Tanaka]] || [[Minnie Driver]]
+|-
+! scope="row" | Jigo
+| {{Nihongo|2=ジコ坊|3=Jiko-bō}}|| [[Kaoru Kobayashi (actor)|Kaoru Kobayashi]] || [[Billy Bob Thornton]]
+|-
+! scope="row" | Kohroku
+| {{Nihongo|2=甲六|3=Kōroku}}|| [[Masahiko Nishimura]] || [[John DeMita]]
+|-
+! scope="row" | Gonza
+| {{Nihongo|2=ゴンザ|3=Gonza}}|| [[Tsunehiko Kamijō]] || [[John DiMaggio]]
+|-
+! scope="row" | Toki
+| {{Nihongo|2=トキ|3=Toki}}|| [[Sumi Shimamoto]] || [[Jada Pinkett Smith]]
+|-
+! scope="row" | Wolf
+| {{Nihongo|2=山犬|3=Yama-inu}}|| [[Tetsu Watanabe]] || {{unknown}}
+|-
+! scope="row" | Nago
+| {{Nihongo|2=ナゴの守|3=Nago no Kami}}|| [[Makoto Satō (actor)|Makoto Satō]] || John DiMaggio{{sfn|Searle|2023}}
+|-
+! scope="row" | Cattleman Leader
+| {{Nihongo|2=牛飼いの長|3=Ushikai no Osa}}|| [[Akira Nagoya]] || {{unknown}}
+|-
+! scope="row" | Moro
+| {{Nihongo|2=モロの君|3=Moro no Kimi}}|| [[Akihiro Miwa]] || [[Gillian Anderson]]
+|-
+! scope="row" | Oracle
+| {{Nihongo|2=ヒイ様|3=Hī-sama}}|| [[Mitsuko Mori]] || [[Debi Derryberry]]
+|-
+! scope="row" | Okkoto
+| {{Nihongo|2=乙事主|3=Okkoto-nushi}}|| [[Hisaya Morishige]] || [[Keith David]]
+|}
+
+== Development ==
+
+=== Early concepts and pre-production ===
+
+[[Hayao Miyazaki]] composed the preliminary ideas for what would become ''Princess Mononoke'' in 1980 after releasing his first film, ''[[The Castle of Cagliostro]]''{{nbsp}}(1979),{{sfn|Denison|2018|p=3}} drawing sketches of a princess living in the woods with a beast.{{sfn|McCarthy|2002|p=182}} The story was roughly based on the "[[Beauty and the Beast]]"{{nbsp}}(1740) fairy tale, set in historical Japan.{{sfnm|Denison|2018|1p=3|McCarthy|2002|2p=182}} The Beast was realized as an animalistic spirit ({{lang|ja-Latn|mononoke}}) whom the protagonist, the daughter of a nobleman, is forced to marry.{{sfnm|Kanō|2006|1p=189|McCarthy|2002|2p=182}} After unsuccessfully proposing the film project to several production companies, Miyazaki published his concepts in a book in 1983,{{sfn|Greenberg|2018|p=136}} republished in 2014 as ''[[Princess Mononoke: The First Story]]''.{{sfn|Green|2014}} He reused various ideas from this project in works such as ''[[My Neighbor Totoro]]''{{nbsp}}(1988) and ''[[Porco Rosso]]''{{nbsp}}(1992).{{sfn|Kanō|2006|pp=189–190}} ''[[Shuna's Journey]]''{{nbsp}}(1983) in particular bears the closest resemblance to the eventual film, featuring a protagonist who rides an elk to the land of gods.{{sfn|Greenberg|2018|pp=137–138}} A few fundamental ideas from the 1980 concept appear in the final film, but the character designs and plot are entirely different.{{sfnm|Denison|2018|1p=3|Greenberg|2018|2p=136}} The film scholar [[Raz Greenberg]] wrote that the original concept also {{nowrap|"[portrayed]}} the end of tyranny vividly", in contrast with the film, showing the antagonist's fortress destroyed and its slaves emancipated.{{sfn|Greenberg|2018|p=137}} According to the film scholar [[Rayna Denison]], the stark difference between the original idea and the final film demonstrates the radical change of Miyazaki's filmmaking philosophies during that time.{{sfn|Denison|2018|p=3}} He took cues from Japanese folklore, especially the tale of a princess with a birthmark, which evolved over time into Ashitaka's curse.<ref>Cited in {{harvnb|McCarthy|2002|pp=182–183}}.</ref>
+
+[[File:Shiratani Unsui Gorge 17.jpg|thumb|Some of the film's natural scenery was inspired by a visit to the forests of [[Yakushima]].{{sfnm|Napier|2018|1p=189|Yanagihara|2018}}|upright=1.1|alt=A dense forest floor.]]
+
+Inspired by the writings of [[Yoshie Hotta]], Miyazaki also considered creating a film adaptation of the {{lang|ja-Latn|[[Hōjōki]]}}{{nbsp}}(1212), a Japanese literary classic on the ephemerality of life.{{sfn|Napier|2018|p=180}} It was written by the poet [[Kamo no Chōmei]] during a period of political turmoil and natural disasters, which the animation scholar [[Susan J. Napier]] felt resonated with the "increasing sense of vulnerability" in Japanese culture during the time of the film's production.{{sfn|Napier|2018|p=181}}{{efn|See {{slink|#Conflicts of nature, technology, and humanity}} for further information.}} However, Miyazaki felt the concept was "far removed from common sense" and had no possibility of commercial success;<ref>Cited in {{harvnb|Kanō|2006|p=190}}.</ref> he never moved forward with this concept but continued to consider creating a historical piece.{{sfn|Napier|2018|p=181}} Upon the completion of his [[manga]] series ''[[Nausicaä of the Valley of the Wind (manga)|Nausicaä of the Valley of the Wind]]''{{nbsp}}(1982–1994), Miyazaki began work on the project proposal for the film in August 1994.{{sfnm|Kanō|2006|1pp=191–192|McCarthy|2002|2p=185}} However, encountering [[writer's block]] in December, he took a break from the production to direct the short film ''[[On Your Mark (music video)|On Your Mark]]''{{nbsp}}(1995) as a side project.{{sfnm|Greenberg|2018|1p=140|McCarthy|2002|2p=185}} Miyazaki returned to the film in April 1995 and began working on the storyboards in May.{{sfn|McCarthy|2002|p=185}} The film's broad scope and high level of detail extended the pre-production process.{{sfn|Napier|2018|p=178}} That month, Miyazaki took four of the art directors to visit the island of [[Yakushima]],{{sfn|Kanō|2006|p=193}} which had already inspired some environments in ''Nausicaä of the Valley of the Wind'', to achieve the environmental depiction that he was seeking to portray.{{sfnm|McCarthy|2002|1p=186|Yanagihara|2018}} The island's relative lack of development informed their sketches of the film's forest of the gods.{{sfn|McCarthy|2002|pp=186–187}} The fifth art director, [[Kazuo Oga]], went to the [[Shirakami-Sanchi]] mountains to draw inspiration for the Emishi village.{{sfn|McCarthy|2002|p=186}}
+
+=== Production and animation ===
+
+''Princess Mononoke'' was the most expensive animated film ever produced in Japan at the time.{{sfn|Schilling|1999|p=5}} It was originally allocated a budget of {{JPY|2 billion}}, which was expanded to {{JPY|2.35 billion}}{{efn|Equivalent to {{JPY|{{Format price|{{Inflation|JP|2350000000|1997}}}}}} in {{Inflation/year|JP}}{{sfn|''Rateinflation.com''}} }} later in the production,{{sfn|Kanō|2006|p=195}} more than double that of any previous Studio Ghibli film.{{sfn|Schilling|1999|p=5}} Miyazaki stated, "I don't care if the studio goes bankrupt."<ref>Cited in {{harvnb|Kanō|2006|p=193}}.</ref> The animation production commenced in July 1995.{{sfn|McCarthy|2002|p=185}} Miyazaki created the [[storyboard]]s using the approach he took toward serialized manga, writing the film's plot as he drew the scenes.{{sfn|Kanō|2006|p=194}} His declining sight initially caused him to use oversized paper, but he switched back to the normal size to increase the pace of the storyboarding.{{sfn|Kanō|2006|pp=193–194}} This process was done in parallel with the animation, and the final boards outlining the end of the film were not finished until January 1997.{{sfn|Kanō|2006|p=195}}
+
+An unusually high level of detail was afforded illustrating backgrounds and animating background characters due to the large budget available.{{sfn|Denison|2018|p=7}} The decision to assign five art directors to the film was also unprecedented.{{sfn|Denison|2018|p=10}} Each tackled a different aspect; for example, one handled daylight shots while another covered the nighttime.{{sfn|Denison|2018|pp=10–11}} The film used approximately 144,000 [[cel]]s, 80,000 of them being [[key animation]] frames, more than any other Studio Ghibli film.{{sfnm|Schilling|1999|1p=5|Toyama}} Miyazaki is estimated to have drawn or retouched nearly 80,000 cels himself.{{sfn|Denison|2018|pp=8–9}} The final shots were completed in June 1997, less than a month from the release date.{{sfn|McCarthy|2002|p=185}}
+
+=== Computer graphics ===
+
+[[File:Mononoke hime cgi.png|thumb|[[3D rendering]] was used to create writhing demon flesh that was [[Digital compositing|digitally composited]] onto a [[Hand-drawn animation|hand-drawn]] Ashitaka.{{sfn|Denison|2023|p=114}}|upright=1.1|alt=Ashitaka draws a bow with dark demon flesh on his arm.]]
+
+The film was created using a combination of [[hand-drawn animation]] and [[computer-generated imagery]]; approximately five minutes were animated entirely using digital processes. A further ten minutes use [[digital ink and paint]], a technique used in all subsequent Studio Ghibli films.{{sfnm|Denison|2018|1p=13|Napier|2018|2p=177}} The company's hand-drawn methods were becoming outdated by the late 1990s,{{sfn|Denison|2023|pp=106–107}} and by 1997, members of Studio Ghibli's computer graphics team felt that the adoption was made largely out of necessity.<ref>{{harvnb|Shimamura|Sugano|1997}}, cited in {{harvnb|Denison|2023|p=107}}.</ref> According to [[Mamoru Oshii]]{{nbsp}}– a contemporary of Miyazaki's{{nbsp}}– digital painting was adopted at the insistence of [[Michiyo Yasuda]], a senior colorist at Studio Ghibli.<ref>{{harvnb|Oshii|Ueno|2004|p=89}}, cited in {{harvnb|Napier|2018|p=275|loc=note 3}}.</ref> While Studio Ghibli had already begun experimenting with digital techniques a few years prior on ''[[Pom Poko]]''{{nbsp}}(1994), its computer graphics department was opened during the production of ''Princess Mononoke''.{{sfn|Denison|2023|p=108}}
+
+Miyazaki's distaste for digital animation techniques was well known in Japan before the film's release, so his use of computer graphics came as a surprise, according to Denison.{{sfn|Denison|2023|p=107}} He made the decision to use the new techniques early in the production, starting with the demon god in the opening sequence.{{sfn|Denison|2018|p=12}} Certain sequences were created using 3D tools and then processed to resemble a traditionally animated sequence using a program called Toon Shader, developed by [[Microsoft]] at the studio's request.{{sfnm|Denison|2023|1p=113|Kanō|2006|2p=203}} Some of this work was outsourced to the animation studio [[Toyo Links]].<ref>{{harvnb|Clements|2013|p=200}}, cited in {{harvnb|Denison|2023|p=108}}.</ref> Three broad categories of digital techniques were applied to the animation: the use of digital ink and paint to finish coloring hand-drawn frames; [[3D rendering]] and [[digital compositing]], which put the hand-drawn images in a three-dimensional environment to create more visual depth; and [[morphing]] and [[particle effects]], which create additional detail and smoother transitions.{{sfnm|Denison|2018|1p=12|Denison|2023|2p=113}} {{ill|Yoshinori Sugano|ja|菅野嘉則}}, the head of the computer graphics department, recalled that the most involved uses of digital techniques were to mask the transitions between the digital and hand-drawn elements on screen. Some characters, particularly the gods, alternate between rendering approaches in different shots.{{sfn|Denison|2023|p=114}}
+
+== Themes ==
+<!-- This section is not for personal theories and observations on the themes in the film. It is a summary of published relevant real world information. Simple associations are trivial and undue for mention. Relevant rules: [[WP:OR]], [[WP:MOSFILM]], [[WP:NOT]] -->
+
+{{Multiple image
+| total_width       = 305
+| perrow            = 3
+| image1            = Rayna Denison, Pokemon X Kogei Exhibition 2024 (cropped).jpg
+| image2            = Susan J. Napier (2012 New York Comic Con - Day 3 - 014) (further cropped).jpg
+| image3            = Shiro Yoshioka, 2017 (cropped).jpg
+| image4            = Michelle Le Blanc and Colin Odell portrait (cropped).jpg
+| image5            = Helen McCarthy, Anime North 2011 (cropped).jpg
+| image6            = Jonathan Clements Loncon (cropped).jpg
+| footer            = ''(Clockwise from top left)'' [[Rayna Denison]], [[Susan J. Napier]], Shiro Yoshioka, [[Jonathan Clements]], [[Helen McCarthy]], [[Michelle Le Blanc and Colin Odell|Colin Odell, and Michelle Le Blanc]]<hr />Several scholars have explored the themes of ''Princess Mononoke'' in their work.
+}}
+
+=== Conflicts of nature, technology, and humanity ===
+
+[[Environmentalism]] is a central theme of ''Princess Mononoke''.{{sfnm|Napier|2018|1p=xiii|2a1=Odell|2a2=Le Blanc|2y=2009|2p=109}} In the war between the forest gods and the people of Irontown, Ashitaka serves as the mediator.{{sfn|Daniels-Lerberg|Lerberg|2018|p=57}} Unlike many Western works with similar themes, the film does not present these positions as complete opposites,{{sfn|Daniels-Lerberg|Lerberg|2018|p=58}} nor does it outright reject modernity and technology.{{sfn|Napier|2005|pp=245–246}} The scholars Tracey Daniels-Lerberg and Matthew Lerberg wrote that it instead {{nowrap|"[embraces]}} the unpredictable outcomes that emerge in the uncertainty that remains."{{sfn|Daniels-Lerberg|Lerberg|2018|p=58}} Both humanity and nature are given equal standing in the film's world, and Napier wrote that the film "offers a vision of life as a densely interwoven design, rather than a simple allegory of dichotomized opposites."{{sfn|Napier|2018|p=185}} Additionally, the film portrays internal strife within parties on both sides of the conflict: the different clans of spirits disagree on how to handle the conflict, and the humans war amongst themselves for various reasons.{{sfnm|1a1=Odell|1a2=Le Blanc|1y=2009|1p=110|Thevenin|2013|2pp=161–162}} Ashitaka's relationships with both parties are volatile and "even dissatisfying at moments", according to Daniels-Lerberg and Lerberg. They attribute this sense of unease to the focus on emotion, rather than strict logic, that the film puts on the conflict.<ref>{{harvnb|Chan|2015|p=93}}, cited in {{harvnb|Daniels-Lerberg|Lerberg|2018|p=57}}.</ref> According to the film critic [[Roger Ebert]], ''Princess Mononoke'' is not a "simplistic tale of good and evil, but the story of how humans, forest animals, and nature gods all fight for their share of the new emerging order."{{sfn|Ebert|1999b}}
+
+The film scholars [[Colin Odell and Michelle Le Blanc]] wrote that the film simultaneously mounts a criticism of humanity's mistreatment of the natural world and "grudgingly admits" that some disputes are inevitable to facilitate technological progress.{{sfn|Odell|Le Blanc|2009|p=109}} While Irontown is shown to be a haven for downtrodden members of society, who have the opportunity to live honest lives and enjoy fair treatment from Eboshi,{{sfnm|Greenberg|2018|1p=137|Thevenin|2013|2p=161}} the conflict arises from the harm that the settlement causes to the surrounding environment. Greenberg identified this dynamic as a marked increase in complexity from Miyazaki's earlier works, which typically presented a [[utopian]] model as an answer to social issues.{{sfn|Greenberg|2018|p=137}} Miyazaki expressed that he "meant to state [his] objection to the way environmental issues are treated",<ref>{{harvnb|Miyazaki|2014|pp=85–86}}, cited in {{harvnb|Denison|2018|p=3}}.</ref> referring to the general exclusion of humanity's role in environmental discourse in Japan.{{sfn|Denison|2018|pp=3–4}} The ecological writings of the historian {{ill|Sasuke Nakao|ja|中尾佐助}}, especially his "evergreen forest culture theory", were greatly influential on Miyazaki when creating the film's forest of the gods.<ref>{{harvnb|Napier|2005|p=242}}; {{harvnb|Miyazaki|2009|p=358}}, cited in {{harvnb|Yoshioka|2018|p=29}}.</ref> Miyazaki stated that {{nowrap|"[Nakao's}} book] taught me what I was the descendent of", and provided him an alternative to many traditional depictions of Japanese history that he disliked.<ref>{{harvnb|Komatsu|1997|p=49}}, cited in {{harvnb|Napier|2005|p=242}}; {{harvnb|Yoshioka|2018|p=29}}.</ref>
+
+Napier saw the film as an "elegy for a lost Japan", a version of the country that predates the modern [[patriarchal]] society and was controlled by nature.{{sfn|Napier|2005|p=232}} Setting the film in the Muromachi period allowed Miyazaki to depict the country before it had been deforested and altered by rice agriculture{{sfn|Denison|2018|p=4}} and positions the film within the moment of history when "humankind pushed nature into submission", according to the animation writers [[Jonathan Clements]] and [[Helen McCarthy]].{{sfn|Clements|McCarthy|2015|p=653}} Miyazaki intended to portray the gods as "living animals, tortured by humans", feeling it to be an important aspect to depict in the relationship between nature and humanity.<ref>{{harvnb|Miyazaki|2014|p=31}}, cited in {{harvnb|Denison|2018|p=2}}.</ref> He was inspired for the film's concept by the [[Epic of Gilgamesh]]{{nbsp}}({{abbr|c.|circa}}{{nbsp}}2100–1200 BCE), an ancient [[epic poem]] that depicts the death of the forest god and the ruin of humanity.{{sfn|Kanō|2006|p=197}} The philosopher [[Takeshi Umehara]], who wrote a stage play titled ''[[Gilgamesh (play)|Gilgamesh]]''{{nbsp}}(1988), had previously suggested that Miyazaki adapt his work into a film; Miyazaki had declined the offer at the time but later stated that he had unconsciously included elements similar to the play in ''Princess Mononoke''.{{sfn|Yoshioka|2018|p=30}} The film shares several themes with the ''Nausicaä of the Valley of the Wind'' manga, which Miyazaki had completed in 1994,{{sfn|Napier|2018|pp=176–177}} namely the "environmental catastrophe, the role of technology and warfare, and human interactions with nonhuman species", according to Napier.{{sfn|Napier|2018|p=182}} Clements and McCarthy wrote that the film was conceived partly due to Miyazaki's discontent with the narrative of [[Nausicaä of the Valley of the Wind (film)|the manga's film adaptation]]{{nbsp}}(1984), in which the environmental theme was suddenly resolved via a ''[[deus ex machina]]''.{{sfn|Clements|McCarthy|2015|p=653}}
+
+Miyazaki's filmmaking style changed considerably in the 1990s in response to various geopolitical conflicts, including the [[Gulf War]] and the [[Yugoslav Wars]] following the [[dissolution of the Soviet Union]].{{sfn|Yoshioka|2018|p=26}} He was especially critical of Japan's decision to provide military aid in the Gulf War, which he considered a violation of [[Article 9 of the Japanese Constitution]].<ref>{{harvnb|Miyazaki|2009|p=147}}, cited in {{harvnb|Yoshioka|2018|pp=26–27}}.</ref> These events disheartened Miyazaki, who compared them to the [[Causes of World War I|preamble to World War I]] and felt he was watching history repeat itself.<ref>{{harvnb|Miyazaki|2002|p=95}}, cited in {{harvnb|Yoshioka|2018|p=27}}.</ref> In 1995, two disasters occurred in Japan that had a marked negative impact on its culture: the [[Great Hanshin earthquake]], which killed thousands and became the worst on record since 1923, and the [[Tokyo subway sarin attack]] perpetrated by the [[Aum Shinrikyo]] cult. Napier wrote that these had an effect "on both a psychological and an environmental level" and heightened the country's cultural "emptiness" following the [[Japanese asset price bubble]] bursting in 1992.{{sfn|Napier|2018|p=181}} After finishing ''Porco Rosso'', Miyazaki resolved to create a "substantial film" that acknowledged academic discourse, eschewing the [[Escapist fiction|escapist]] philosophy of his earlier works.{{sfn|Yoshioka|2018|pp=27–28}} He instead set out to depict the philosophy that, "no matter how messy things get, we have no choice but to go on living."<ref>{{harvnb|Miyazaki|2009|p=386}}, cited in {{harvnb|Yoshioka|2018|p=27}}.</ref>
+
+=== Heterogeneity of society ===
+
+[[File:Tama-Zenshoen Houses.jpg|thumb|upright=1.1|The [[Tama Zenshoen Sanatorium]], which Miyazaki was inspired by during the production.{{sfn|Napier|2018|p=184}}|alt=A road lined with small houses.]]
+
+Napier wrote that "the sense of a broken heterogeneous world is stridently manifest" within ''Princess Mononoke''.{{sfn|Napier|2005|p=232}} The film challenges popular cultural beliefs, such as the existence of a homogenous Japanese ethnicity ({{lang|ja-Latn|[[minzoku]]}}{{--)}}, by depicting social outcasts and peoples not of [[Yamato people|Yamato]] origin.{{sfn|Napier|2005|pp=232–233}} The Emishi people are related to the modern [[Ainu people]],{{sfnm|Napier|2005|1pp=234–235|Niskanen|2018|2pp=42–43}} and Miyazaki highlights this difference in the film: Ashitaka is immediately treated as a stranger at many of the villages he visits.{{sfn|Niskanen|2018|p=48}} The film scholar Eija Niskanen wrote that the film also critiques the {{lang|ja-Latn|[[Nihonjinron]]}}, a group of ethnonationalist theories about Japan that claim its culture is unique from others and depict the nation's people as uniform.{{sfn|Niskanen|2018|p=48}} The film scholar Shiro Yoshioka felt that the writing of [[Yoshihiko Amino]], another historical scholar, influenced Miyazaki's writing in this regard.{{sfn|Yoshioka|2018|p=30}} According to Denison, his explorations result in highly polarized characters and participants on both sides of the conflict becoming "monstrous".{{sfn|Denison|2018|p=2}} Miyazaki said that more recent historical studies had increasingly focused on the lifestyles of common people outside the nobility, many of which do not align with the theories of a {{lang|ja-Latn|minzoku}}.<ref>Cited in {{harvnb|Yoshioka|2018|pp=29–30}}.</ref> He was also inspired to portray people with leprosy after visiting the [[Tama Zenshoen Sanatorium]] near his home in Tokyo. He commented afterwards, "In the middle of no matter what kind of misery there is joy and laughter. In human life which tends toward ambiguity, I have never seen a place which shows this with such clarity."<ref>{{harvnb|Kanō|2006|p=201}}, cited in {{harvnb|Napier|2018|p=184}}.</ref>
+
+Napier felt that the film proposes a possible future Japanese identity that highlights non-uniformity and the role of women.{{sfn|Napier|2005|p=232}} [[Toshio Suzuki]]{{nbsp}}– the film's producer and a longtime friend of Miyazaki's{{nbsp}}– stated that Miyazaki was a [[feminist]] and brought ideals of gender equality to his professional life as well as his fictional works.<ref>Cited in {{harvnb|McCarthy|2018|p=98}}.</ref> However, McCarthy felt that his prior portrayals of women were predicated in a fundamentally patriarchal worldview; Miyazaki's female characters succeed only when given the opportunity to in a society ultimately governed by men.{{sfn|McCarthy|2018|pp=98–99}} She argued that the protagonists Ashitaka and San were constructed incrementally through various predecessors in Miyazaki's works.{{sfn|McCarthy|2018|p=98}} His earlier films also portrayed young characters as able and driven to change the world, which is not continued here.{{sfn|Greenberg|2018|p=137}} San, according to Napier, is an "embodiment of Miyazaki's anger with what he increasingly perceived as a stupid and chaotic world."{{sfn|Napier|2018|p=183}} She also found San's early appearance in the film with a bloodstained face to create a vivid image of violence, wildness, and "aggressive sexuality that is confrontational rather than alluring."{{sfn|Napier|2005|pp=238–239}} McCarthy wrote that San is Miyazaki's only female protagonist to be entirely unbound from patriarchy, refusing to accept a domestic life even despite her love for Ashitaka.{{sfn|McCarthy|2018|p=99}} In a divergence from Miyazaki's previous works that close with clearly optimistic outlooks, the film ends in an ambiguous manner; the Forest Spirit's death revives nature, but the wild forests remain felled,{{sfn|Napier|2018|p=194}} and Ashitaka and San do not stay together but agree to occasionally meet.{{sfn|Napier|2005|p=236}}
+
+Napier felt that the film's conflicting philosophies do not facilitate the inclusion of an antagonist of a similar kind to the Count from ''The Castle of Cagliostro'' or Muska from ''[[Castle in the Sky]]''{{nbsp}}(1986).{{sfn|Napier|2018|p=177}} Eboshi's initial characterization sets her in the role of a villain: the belligerent of the environmental conflict and the cause of Nago's demonic corruption.{{sfn|Vernon|2018|p=117}} However, this impression is repeatedly challenged by depictions of her leadership and caregiving qualities; the community of Irontown holds sincere respect for her, and her sheltering of former prostitutes and people affected by leprosy contravenes many traditional roles of femininity.{{sfnm|Napier|2005|1p=240|2a1=Odell|2a2=Le Blanc|2y=2009|2p=110|Vernon|2018|3pp=118–119}} Miyazaki's depictions of female characters working on iron and people with leprosy manufacturing weapons are considerable departures from historical views.{{sfn|Napier|2018|p=184}} Napier emphasized that the decision to place a female character in this leadership position prevents her stance from being viewed as a cliché of oppressive militarism or the interpretation of technology as inherently detrimental.{{sfn|Napier|2005|pp=240–241}} She wrote that Eboshi can be viewed as a tragic character because she is not evil but is forced to become an aggressor to safeguard her progressive community.{{sfn|Napier|2005|p=241}} Although Eboshi and San represent diametrically opposed views, they share many leadership and nurturing characteristics,{{sfn|Vernon|2018|p=119}} and the scholar Alice Vernon examined the relationship between the two as a symbiotic one, where Eboshi represents a possible future image of San.{{sfn|Vernon|2018|p=127}}
+
+== Style ==
+
+[[File:Kaparamipu and attushi, Ainou clothings. Museum der Kulturen Basel.jpg|thumb|upright=0.9|Some of the costumes in the film resemble traditional [[Ainu clothing]].{{sfn|Niskanen|2018|pp=45–46}}|alt=Two robes in a display.]]
+
+''Princess Mononoke'' marked the first time Miyazaki explored a {{lang|ja-Latn|[[jidaigeki]]}} style{{nbsp}}– a [[period drama]] focusing on the lives of historic Japanese people.{{sfn|Napier|2018|p=176}} He particularly appreciated the works of [[Akira Kurosawa]], who had directed several key films in the genre.{{sfn|Napier|2018|p=181}} The film subverts many traditional elements of the {{lang|ja-Latn|jidaigeki}}, such as the portrayals of the Emperor and the samurai as sacred and noble.{{sfn|Napier|2018|p=183}} Miyazaki chose not to align with typical depictions of the Muromachi period, such as the development of high culture or [[Zen]] aesthetics in the capital city of [[Kyoto]].{{sfn|Napier|2005|p=233}} Napier wrote that the forest of the gods also subverts typical depictions of nature in the Muromachi period; as opposed to carefully tended [[Zen gardens]], it is untamed, violent, and largely avoided by humans.{{sfn|Napier|2005|p=243}} The film exaggerates its historical perspective to facilitate the narrative; Irontown, for example, was inspired primarily by metalworking settlements in China<ref>{{harvnb|Miyazaki|2014|p=64}}, cited in {{harvnb|Denison|2018|p=4}}.</ref> as well as a {{lang|ja-Latn|[[Tatara (furnace)|tatara]]}} furnace in the [[Shimane Prefecture]].{{sfn|Sakakibara|2023}} Miyazaki lacked a historical reference for the Emishi people's garments, so the clothing worn by the girls in Ashitaka's village is influenced by styles from Bhutan and Thailand,<ref>{{harvnb|Miyazaki|2002|p=166}}, cited in {{harvnb|Yoshioka|2018|p=30}}; {{harvnb|Niskanen|2018|p=47}}.</ref> and other characters' embroidered fabrics resemble traditional [[Ainu clothing]].{{sfn|Niskanen|2018|pp=45–46}} Instead of traditional arms, guns are the primary weapons in the film's conflict.{{sfn|Napier|2005|p=235}} [[Isao Takahata]]{{nbsp}}– a fellow director and longtime friend of Miyazaki's{{nbsp}}– said that the film was "dangerously liable to give the audiences misconceived impressions of history."<ref>{{harvnb|Kanō|2006|p=218}}, cited in {{harvnb|Napier|2018|p=185}}.</ref> Napier wrote that the film goes "beyond realism" to support its themes,{{sfn|Napier|2018|p=185}} and the critic Kazuhiko Komatsu felt that its world, while sometimes consistent with historical fact, is essentially Miyazaki's fantasy.<ref>{{harvnb|Komatsu|1997|p=51}}, cited in {{harvnb|Napier|2005|p=237}}.</ref>
+
+According to Napier, the film presents a much "grimmer" tone than Miyazaki's previous works, inspired by the themes of the {{lang|ja-Latn|Hōjōki}}.{{sfn|Napier|2018|pp=180–181}} She contrasted Miyazaki's previous depictions of historical settings to the film's rendering of the Muromachi period, which she wrote "refuses to sentimentalize the medieval history it highlights".{{sfn|Napier|2005|pp=236–237}} The film is unusual in Miyazaki's filmography for its lack of flying sequences. Napier suggested that its focus on lateral motion over vertical can be tied to the "sense of entrapment and desperation" it presents.{{sfn|Napier|2005|pp=324–325|loc=note 7}} Studio Ghibli had begun hiring full-time animators by the early 1990s, in contrast to the industry standard of staff being employed on short-term contracts. Denison wrote that this helped the studio develop an animated "house style" over time.{{sfn|Denison|2018|pp=9–10}} Miyazaki felt that an important aspect of this style was the studio's aptitude for illustrating the natural world;<ref>{{harvnb|Miyazaki|2014|p=90}}, cited in {{harvnb|Denison|2018|p=10}}.</ref> Denison observed from an interview with the art directors that their approach was to "simplify and caricature nature's essential meanings", prioritizing moments of contemplation and mindfulness of the surrounding landscape.{{sfn|Denison|2018|p=10}} The film uses a palette for the forest that contrasts with the [[pastel colors]] typically used in Miyazaki films, employing darker shades of green and brown.{{sfn|Napier|2005|p=243}} Napier emphasized that the medium of animation, compared to [[live action]], is well suited for exploring the film's themes.{{sfn|Napier|2018|p=186}} The film depicts a number of animals and gods, but she noted that they are entirely distinct from the humans; most notably, the Forest Spirit presents a serene yet entirely foreign visage.{{sfn|Napier|2018|pp=186–187}}
+
+== Release ==
+
+{{Multiple image
+| align             = right
+| direction         = vertical
+| width             = 150
+| image1            = HayaoMiyazakiCCJuly09.jpg
+| caption1          = [[Hayao Miyazaki]] ''(pictured in 2009)'', the director
+| image2            = Toshio Suzuki, Howl's Moving Castle premiere.jpg
+| caption2          = [[Toshio Suzuki]] ''(pictured in 2004)'', the producer
+}}
+
+=== Marketing and Japanese release ===
+
+The promotional strategy was spearheaded by Suzuki, who by 1997 had already developed relationships within the media industry while promoting previous Studio Ghibli releases.{{sfn|Yoshioka|2018|p=33}} Napier noted that the marketing put the film under the Studio Ghibli brand for the first time{{nbsp}}– as opposed to previous works that were labeled primarily as Miyazaki films{{nbsp}}– which she felt reflected Suzuki's rising position as the studio's main producer.{{sfn|Napier|2018|p=179}} According to Suzuki, three important elements of the campaign were the repeated use of a recognizable title logo, key imagery from the film, and a tagline.<ref>{{harvnb|Suzuki|2005|p=122}}, cited in {{harvnb|Denison|2018|p=6}}.</ref> The tagline underwent several iterations before, with Suzuki's input, the final phrase was chosen: "Live."{{sfn|Kanō|2006|pp=209–210}} Suzuki also changed the title from the original intention of ''The Legend of Ashitaka''{{hair space}}{{efn|[[Japanese language|Japanese]]: {{lang|ja|アシタカせっ記}}, [[Hepburn romanization|Hepburn]]: {{tlit|ja|Hepburn|Ashitaka Sekki}}. Napier alternatively translated this title as ''The Tale of Ashitaka''.{{sfn|Napier|2018|pp=182–183}} }} without Miyazaki's initial approval, as he found it less interesting.<ref>{{harvnb|McCarthy|2002|p=182}}; {{harvnb|Suzuki|2016|p=71}}, cited in {{harvnb|Napier|2018|p=276|loc=note 12}}.</ref> The budget allotted for the film's promotion was at least {{JPY|2.6 billion}},{{efn|Equivalent to {{JPY|{{Format price|{{Inflation|JP|2600000000|1997}}}}}} in {{Inflation/year|JP}}{{sfn|''Rateinflation.com''}} }} even higher than the production budget, making it the largest film advertisement campaign in Japan at the time.{{sfn|Kanō|2006|p=209}} Yoshioka argued that it was essential for ''Princess Mononoke'' to be a commercial success to make up for the large production budget, and the scale of its campaign was significantly expanded from previous films' as a result.{{sfn|Yoshioka|2018|p=33}} Several types of merchandise, such as [[Stuffed toy|stuffed]] {{lang|ja-Latn|kodama}} and copies of San's mask, were sold.{{sfn|Denison|2018|pp=16–17}} A number of preview screenings were organized before the release to advertise the film by [[Word-of-mouth marketing|word of mouth]]; 130 of them were originally scheduled, and 70 were ultimately held, a number that the film scholar [[Seiji Kanō]] still found "astonishing". Miyazaki's previous film, ''Porco Rosso'', had had only 23 screenings by comparison.<ref>{{harvnb|Kanō|2006|p=210}}, cited in {{harvnb|Yoshioka|2018|p=33}}.</ref>
+
+After [[Walt Disney Studios (division)|Walt Disney Studios]] and Studio Ghibli's then–parent company, [[Tokuma Shoten]], secured their distribution deal in 1997, the film would be the first among Miyazaki's works to receive a worldwide release. While the arrangement did extend the studio's reach to new regions, the announcement was made primarily to attract local audiences.{{sfnm|Napier|2018|1p=179|Denison|2023|2p=173}} Miyazaki also hinted at his retirement following the film's release, further piquing audience interest.{{sfn|Yoshioka|2018|p=34}} The film was marketed as a split between an [[anime]] and an [[art house film]], avoiding advertising in the mainstream ahead of its release.{{sfn|Denison|2008|pp=106–107}} Denison felt that this choice was indicative of the studio's initial lack of confidence in the film's commercial viability{{sfn|Denison|2008|p=107}} and their perception of its financial riskiness.{{sfn|Denison|2018|pp=5–6}} {{ill|Yasuyoshi Tokuma|ja|徳間康快}}, the president of Tokuma Shoten who frequently worked with Miyazaki, said in an interview before the release that it would be a "huge success" just to make back the investments that had been put into the film.<ref>Cited in {{harvnb|Denison|2018|p=5}}.</ref> Denison argued, however, that the marketing campaign's scale revealed the studio's ultimate aim to achieve a commercial success;{{sfn|Denison|2008|p=107}} she interpreted this approach as a "local equivalent of the 'calculated' [[Blockbuster (entertainment)|blockbuster]] film."{{sfn|Denison|2018|p=5}}
+
+''Princess Mononoke'' was presented by Tokuma Shoten, [[Nippon Television]], and [[Dentsu]], and released by [[Toho]] in Japan on July 12, 1997.{{sfnm|Galbraith|2008|1pp=399, 414|Miyazaki|1999|2p=217}} It was the subject of immense public anticipation, and it was screened at 260 of the country's 1800 cinemas,<ref>{{harvnb|Kanō|2006|p=211}}, cited in {{harvnb|Yoshioka|2018|p=34}}.</ref> many of which reported audiences queueing to purchase tickets in previously unseen numbers.{{sfn|Yoshioka|2018|p=34}} Tokuma Shoten's specialist magazine ''[[Animage]]'', which had been closely associated with Studio Ghibli since the 1980s, released special issues on the film, as did several other publications.{{sfnm|Denison|2018|1p=5|Yoshioka|2018|2pp=31–32}} Newspapers began to refer to the film's release as the "''Mononoke'' phenomenon",{{sfn|Yoshioka|2018|p=34}} as by the end of its first week, the film had brought in over a million viewers and earned {{JPY|1.5 billion}}{{efn|Equivalent to {{JPY|{{Format price|{{Inflation|JP|1500000000|1997}}}}}} in {{Inflation/year|JP}}{{sfn|''Rateinflation.com''}} }} at the box office.{{sfn|Kanō|2006|p=212}} Advertising for the film labeled it a blockbuster ({{lang|ja-Latn|daihitto}}), and it increasingly competed with many high-profile films in the Japanese market, including Hollywood imports such as ''[[The Lost World: Jurassic Park]]''{{nbsp}}(1997).{{sfnm|McCarthy|2002|1p=185|Denison|2008|2pp=108–109}} By November, it had surpassed {{JPY|9.65 billion}}{{efn|Equivalent to {{JPY|{{Format price|{{Inflation|JP|2650000000|1997}}}}}} in {{Inflation/year|JP}}{{sfn|''Rateinflation.com''}} }} in [[distribution rental]] sales, breaking the national record previously held by ''[[E.T. the Extra-Terrestrial]]''{{nbsp}}(1982).{{sfn|Kanō|2006|p=212}} During that period, 12{{nbsp}}million people, a tenth of Japan's population at the time, saw the film in theaters.{{sfn|McCarthy|2002|pp=185–186}} A year after the film's release, it had attracted over 14.2{{nbsp}}million viewers{{sfn|Kanō|2006|p=212}} and earned {{JPY|11.3 billion}}{{efn|Equivalent to {{JPY|{{Format price|{{Inflation|JP|11300000000|1997}}}}}} in {{Inflation/year|JP}}{{sfn|''Rateinflation.com''}} }} in gross revenue,{{sfn|Yoshioka|2018|p=33}} making it the all-time [[List of highest-grossing films in Japan|highest-grossing film in the country]].{{sfn|McCarthy|2002|p=186}}{{efn|The film was overtaken as the highest-grossing film in Japan shortly afterward by ''[[Titanic (1997 film)|Titanic]]''{{nbsp}}(1997).{{sfn|McCarthy|2002|p=186}} }}
+
+=== English dub and American release ===
+
+[[File:Gaiman, Neil (2007).jpg |thumb |upright=0.7 |[[Neil Gaiman]] ''(pictured in 2007)'', who wrote the English script]]
+
+As part of the Disney–Tokuma deal, the film was handed over to [[Miramax Films]], a Disney subsidiary at the time, to dub and distribute in the United States and other regions.{{sfn|Denison|2018|p=14}} The dub was directed by [[Jack Fletcher (voice actor)|Jack Fletcher]], who had previously worked on the dubs of other Studio Ghibli films such as ''Kiki's Delivery Service'',{{sfn|Kanō|2006|p=215}} and its script was written by the fantasy author [[Neil Gaiman]], who was an unusual choice for anime localizations at the time, according to Denison.{{sfn|Denison|2018|p=15}} Gaiman claimed that [[Harvey Weinstein]], who was the head of Miramax at the time, initially offered the role to the film director [[Quentin Tarantino]], who had then recommended Gaiman instead. Gaiman had intended to decline the offer before being impressed by a scene in which a stone wets in the falling rain, saying, "I have never seen anything like this. This is real filmmaking."{{sfn|Kelly|2022}} [[Steve Alpert]], an executive at Studio Ghibli, assisted with the translation.{{sfn|Nicholson|2018|p=134}}
+
+Denison wrote that Miramax's approach to the dub "might be termed a project of indigenization" with an intent to form a new identity for the film outside of Japan.{{sfn|Denison|2005|p=2}} The language scholar Jennifer{{nbsp}}E. Nicholson wrote that the English dub's changes more closely approach an adaptation than a translation.{{sfn|Nicholson|2018|p=135}} Cultural differences between the United States and Japan, amplified by the film's discussion of specifically Japanese elements, resulted in a script that co-mingled the two languages and cultures.{{sfnm|Denison|2005|1p=2|Nicholson|2018|2p=135}} Gaiman inserted dialog for off-screen characters elucidating cultural concepts considered obscure for American audiences.{{sfn|Denison|2018|p=15}} Humor in particular demanded significant alterations; Gaiman approached the issue by searching for an "emotional equivalent" for the lines instead of considering the reason the originals were humorous.<ref>{{harvnb|Biodrowski|2009}}, cited in {{harvnb|Nicholson|2018|p=135}}.</ref> However, the title and dialog retained the Japanese word {{lang|ja-Latn|mononoke}}, which Nicholson argued could create the misconception that San's name is "Princess Mononoke", as well as downplaying the implications of the name ''San'' (which can refer to the number three in Japanese or the ''[[-san]]'' honorific).{{sfn|Nicholson|2018|pp=133–135}} Gaiman later recalled that although he oversaw the writing process, some script alterations were made without his knowledge. Several of the changes removed terms that identified the setting, such as substituting {{lang|ja-Latn|[[sake]]}} with ''wine'' and removing mentions of Japan and China.<ref>{{harvnb|Biodrowski|2009}}, cited in {{harvnb|Nicholson|2018|p=136}}.</ref> Nicholson found these decisions indicative of Miramax's intent to strip the film of its cultural context and divorce it from history entirely.{{sfn|Nicholson|2018|p=136}} Gaiman also recalled his drafts receiving contradictory corrections from both Miramax and Studio Ghibli, to which he responded by writing two sets of revisions and asking them to "go fight it out amongst [themselves]."<ref>{{harvnb|Townsend|1999}}, cited in {{harvnb|Nicholson|2018|p=136}}.</ref>
+
+The film featured a variety of celebrity voice actors who had developed followings in both traditional acting and voice acting roles.{{sfn|Carter|2018|p=163}} Denison wrote that various American and British accents were chosen to further remove elements of Japanese culture and color the film with "the 'American' voice that narrates it."<ref>{{harvnb|Denison|2005|p=12}}, cited in {{harvnb|Carter|2018|p=168}}.</ref> The English-language release was marketed primarily as an art house film,{{sfn|Denison|2018|p=15}} and the media scholar Emma Pett felt that choosing the Miramax label rather than the family film–oriented Buena Vista label helped target the film towards a "middlebrow, culturally sophisticated audience" outside the mainstream.{{sfn|Pett|2018|p=175}} By this time, Weinstein had developed a reputation for importing and cutting international films to appeal to domestic audiences.{{sfn|Kelly|2022}} However, among the terms of the distribution deal were that Studio Ghibli would approve and have ultimate control of the translation and that the film would not have any time cut.{{sfn|Nicholson|2018|p=134}} Weinstein attempted to convince Miyazaki and Suzuki otherwise but was unsuccessful.{{efn|The potential editing of ''Princess Mononoke'' by [[Miramax Films]] has been the subject of rumor.{{sfn|Pett|2018|p=185}} ''[[The Guardian]]''{{'s}} Xan Brooks reported in 2005 that Miyazaki was rumored to have sent the then–head of Miramax, [[Harvey Weinstein]], a samurai sword in the mail with the attached message, "No cuts." In response, Miyazaki stated, "Actually, my producer did that." He also claimed he "defeated" Weinstein's attempts to shorten the film's length.{{sfn|Brooks|2005}} The claim has subsequently appeared in other media coverage.<ref>{{harvnb|Collin|2014}}, cited in {{harvnb|Pett|2018|p=185}}.</ref> Emma Pett wrote in 2018 that Miyazaki was "complicit in the construction of his {{lang|fr|auteur}} image" and the perpetuation of the rumor by these responses.{{sfn|Pett|2018|p=185}} [[Steve Alpert]] recalled the events in his 2020 memoir, writing that [[Toshio Suzuki]], after procuring a replica sword from a shop in Tokyo, presented it to Weinstein at a meeting in New York. He then "shouted in English and in a loud voice: '<nowiki/>''Mononoke-hime'', no cut!{{'"}}{{sfn|Alpert|2020|p=76}} }} Gaiman said that Miramax rolled back the planned marketing campaign and opened the film in a very limited number of screens.{{sfn|Kelly|2022}} The English dub was first screened at the [[48th Berlin International Film Festival]] on February 11, 1998,{{sfn|Kanō|2006|p=215}} and premiered at the [[Avery Fisher Hall]] in New York City on September 26, 1999.{{sfn|Kanō|2006|p=216}} It underperformed at the American box office, earning only {{USD|2.3 million}}.{{sfn|Kelly|2022}}
+
+=== Home media and other releases ===
+
+The film was released on [[VHS]] in Japan by [[Buena Vista Home Entertainment]] in 1997 and on [[LaserDisc]] by Tokuma Shoten in 1998.{{sfn|''Nausicaa.net'' d}} Several related books have been published, including a manga series derived from the film's cels, art books with early sketches and storyboards, and [[reference work]]s written by various academics.{{sfn|''Nausicaa.net'' a}} The English dub was released theatrically in Japan on April 29, 2000, with Japanese-language subtitles. A documentary titled ''Mononoke-hime in U.S.A.'' was released concurrently.{{sfn|Galbraith|2008|p=414}} These and other screenings internationally brought the English dub's total earnings to {{USD|159 million}} at the time.{{sfn|''Box Office Mojo''|2025}} The film has also been released on home media in various European and Asian regions.{{sfn|''Nausicaa.net'' a}}
+
+The DVD release in North America was not initially set to include the Japanese audio track. Online petitions were opened to retain it,{{sfn|''Anime News Network''|2000a}} and the planned August 2000 release was consequently delayed.{{sfn|''Anime News Network''|2000b}} Miramax released the DVD on December 19, 2000, featuring the original Japanese audio, the English dub audio, and extras including a trailer and a documentary.{{sfn|''Anime News Network''|2000c}} ''[[Nikkei Business]]'' reported that 4.4{{nbsp}}million [[DVD]] units were sold in Japan {{As of|2007|lc=y}}.{{sfn|Nakamura|2007}}
+
+[[Walt Disney Studios Home Entertainment]] released the film on [[Blu-ray]] in 2014, and it was included in a collection of Miyazaki's films in 2015.{{sfn|Polo|2015}} [[GKIDS]] re-issued it on DVD and Blu-ray in 2017.{{sfn|Giardina|2017}} {{As of|2020|10}}, the film has grossed {{USD|9.2 million}} from Blu-ray sales in the United States.{{sfn|''The Numbers''}} It has since received multiple worldwide theatrical re-releases, including at the annual [[Studio Ghibli Fest]] organized by GKIDS.{{sfn|''Box Office Mojo''}} GKIDS released the film in [[IMAX]] theaters in March 2025, featuring a remastered version in [[4K resolution]]. {{ill|Atsushi Okui|ja|奥井敦}}, the vice president of Studio Ghibli, said that the original [[Negative (photography)|negatives]] had been preserved and rescanned in 4K over 10 years prior.{{sfn|Pulliam-Moore|2025}} The remaster grossed {{USD|6.8 million}} at the North American box office,{{sfn|''Box Office Mojo''}} bringing the film's cumulative worldwide total to {{USD|231.3 million}} {{As of|2026|02|lc=yes|df=us}}.{{sfn|''The Numbers''}}
+
+== Music ==
+
+{{Infobox album
+| name       = Princess Mononoke Soundtrack
+| type       = soundtrack
+| artist     = [[Joe Hisaishi]]
+| released   = July 2, 1997
+| length     = 65:05
+| label      = [[Tokuma Japan Communications]]
+| producer   = Joe Hisaishi
+| prev_title = Parasite Eve
+| prev_year  = 1997
+| next_title = [[Hana-bi#Soundtrack|Hana-bi]]
+| next_year  = 1998
+}}
+
+[[File:Joe Hisaishi 2011.jpg|thumb|upright=0.7|[[Joe Hisaishi]] ''(pictured in 2011)'', the soundtrack composer]]
+
+As with most of Miyazaki's previous films, ''Princess Mononoke''{{'s}} score was composed by [[Joe Hisaishi]].{{sfn|McCarthy|2002|p=196}} According to McCarthy, the score's development involved a much closer collaboration between the two than on previous works.{{sfn|McCarthy|2002|p=189}} Hisaishi first composed an [[image album]]{{nbsp}}– a collection of demos and musical sketches that serve as a precursor to the finished score{{nbsp}}– which he shared with Miyazaki and Suzuki.{{sfn|McCarthy|2002|p=189}} The unused title ''The Legend of Ashitaka'' appears here as the title of the opening theme.{{sfnm|1a1=Matsumoto|1a2=Hamada|1y=2013|2a1=Miyazaki|2y=2009|2pp=272–274}} With their input, the demos were then worked into the final score, performed by the Tokyo City Philharmonic Orchestra.<!-- Not to be confused with the Tokyo Philharmonic. -->{{sfnm|McCarthy|2002|1p=189|Torres|2020}} Tokuma Shoten released the image album in July 1996 and the soundtrack album in July 1997.{{sfn|Hisaishi}} The vocal theme song performed by the [[countertenor]] singer [[Yoshikazu Mera]] was released as a single before the film's release and became popular with Japanese audiences.{{sfn|Denison|2005|p=4}} A third version of the soundtrack, arranged for [[symphony orchestra]] and performed by the [[Czech Philharmonic]], was released in 1998. All three albums were issued on [[vinyl record]]s in 2020.{{sfn|Torres|2020}}
+
+The vocal theme was re-recorded for the English dub by the American vocalist [[Sasha Lazard]]. Denison argued that this was a part of Miramax's efforts to remove the film's Japanese elements, but she also acknowledged that the score deviates substantially from a typical Hollywood-style compositional approach. For example, [[leitmotif]]s, which are commonly used to represent characters or settings, are instead used in transitional moments between more significant narrative events.{{sfn|Denison|2005|p=4}} McCarthy wrote that the film complements the scenes featuring music and dialog with a liberal use of silence and ambient sounds to augment the tension of certain moments, a significant departure from American scoring approaches.{{sfn|McCarthy|2002|pp=189–190}} The musicology scholar Stacey Jocoy highlighted the emphatic use of [[brass instrument]]s to accompany the film's epic story.{{sfn|Jocoy|2024|pp=166–167}} Hisaishi employs [[Japanese musical scales|Japanese pentatonic scales]] in conjunction with Western tonalities,{{sfn|McCarthy|2002|p=189}} and Jocoy analyzed the melody featuring this scale in San's theme as symbolic of her desire for "peace and beauty". The contrasting [[cluster chords]]{{nbsp}}– which she found similar to those of [[Igor Stravinsky]]'s ''[[The Rite of Spring]]''{{nbsp}}(1913){{nbsp}}– are used to represent San's aggression.{{sfn|Jocoy|2024|p=167}}
+
+{| class="wikitable plain-row-headers sortable"
+|+ Music releases for ''Princess Mononoke''{{hairspace}}{{sfnm|1a1=Hisaishi|2a1=Kanō|2y=2006|2p=209|3a1=Mera|3y=1997}}
+! scope="col" | Release&nbsp;date
+! scope="col" | English title
+! scope="col" | Japanese title
+! scope="col" | Estimated units
+|-
+| {{dts|July 22, 1996}}
+! scope="row" | ''Princess Mononoke Image Album''
+| {{lang|ja|もののけ姫 イメージアルバム}}
+| style="text-align: right" | {{nts|75000}}
+|-
+| {{dts|June 25, 1997}}
+! scope="row" | {{sort|Princess Mononoke|"Princess Mononoke"}}{{efn|Released as a single by [[Yoshikazu Mera]] featuring the vocal theme song{{sfn|Mera|1997}} }}
+| {{lang|ja|もののけ姫}}
+| style="text-align: right" | {{nts|605000}}
+|-
+| {{dts|July 2, 1997}}
+! scope="row" | ''Princess Mononoke Soundtrack''
+| {{lang|ja|もののけ姫 サウンドトラック}}
+| style="text-align: right" | {{nts|500000}}
+|-
+| {{dts|July 8, 1998}}
+! scope="row" | ''Princess Mononoke Symphonic Suite''
+| {{lang|ja|交響組曲 もののけ姫}}
+| style="text-align: right" | {{nts|80000}}
+|}
+
+== Reception ==
+
+=== Critical response ===
+
+The film was generally well received by critics in Japan, and Kanō described a "flurry of praise" in the Japanese media following its box office success.{{sfn|Kanō|2006|pp=217–218}} ''[[The Asahi Shimbun]]''{{'s}} Noboru Akiyama felt that the work displayed a "strong artistic quality" and a number of reviews in animation magazines highlighted its visual fidelity.<ref>Cited in {{harvnb|Kanō|2006|pp=217–218}}.</ref> Several publications featured articles from critics and academics covering several aspects of the film's production as well as interviews with key staff.{{sfn|Yoshioka|2018|pp=31–32}} According to Yoshioka, a variety of academics were attracted to write about the film due to themes such as Japanese cultural history being relatively "easy topics" to cover, as well as in response to Miyazaki's growing status as a [[public intellectual]] ({{lang|ja-Latn|bunkajin}}) within Japanese society.{{sfn|Yoshioka|2018|p=32}} Some scholars speculated on the contributing factors to the film's success; a number commented on the reactions of younger audience members, who found the themes relatable to their personal struggles and empathized with its motifs of hope.{{sfn|Yoshioka|2018|pp=34–35}} Napier also wrote that the themes of conflict and coexistence with nature and the spirit world resonated strongly with Japanese viewers.{{sfn|Napier|2018|p=177}} Very few reviews directed criticism at the film, and among them Kanō found many of the comments to be "highly questionable".{{sfn|Kanō|2006|p=218}} Kenichiro Horii of the ''[[Shūkan Bunshun]]'' found the text difficult to parse, and others were disappointed by the fantasy that Miyazaki had constructed. A few critics also faulted the female characters' lack of sex appeal.<ref>Cited in {{harvnb|Kanō|2006|p=218}}.</ref>
+
+Despite its poor performance in the American box office, the film received widespread praise from critics in the United States.{{sfnm|Kanō|2006|1p=216|Pett|2018|2p=176}} On the [[review aggregator]] website [[Metacritic]], the film was assigned a [[weighted average]] score of 76 out of 100 based on 29 critics, indicating "generally favorable" reviews.{{sfn|''Metacritic''}} On [[Rotten Tomatoes]], {{RT data|score}} of the {{RT data|count}} critics' reviews are positive, with an average rating of 8 out of 10. The website's consensus reads, "With its epic story and breathtaking visuals, ''Princess Mononoke'' is a landmark in the world of animation."{{sfn|''Rotten Tomatoes''}} In 2018, Pett conducted a [[meta-analysis]] of 1065 critical reviews published in the United States and the United Kingdom.{{sfn|Pett|2018|p=173}} Initial reviews often discussed the cultural differences that the film would exhibit and the alterations that Miramax had made to the presentation; [[Ty Burr]] of ''[[Entertainment Weekly]]'' was generally appreciative but felt "very curious to see if American audiences can handle it."<ref>{{harvnb|Burr|1999}}, cited in {{harvnb|Pett|2018|pp=175–176}}.</ref> While [[Janet Maslin]] of ''[[The New York Times]]'' felt that the film had been "effectively translated{{nbsp}}[...] without losing its Japanese essence",<ref>{{harvnb|Maslin|1999}}, cited in {{harvnb|Pett|2018|p=175}}.</ref> Michael Atkinson wrote in ''Mr. Showbiz'' that "an enormous amount of something or other got lost in the translation."<ref>{{harvnb|Atkinson}}, cited in {{harvnb|Pett|2018|p=176}}.</ref>
+
+Many critics compared the film with the family-oriented works, primarily produced by Disney, which defined audience expectations for animations in the United States.{{sfn|Pett|2018|p=178}} ''[[Variety (magazine)|Variety]]''{{'s}} Leonard Klady wrote that the film {{nowrap|"[flies]}} in the face of popular Western animation" by eschewing musical numbers or narratives written to appeal to children.<ref>{{harvnb|Klady|1998}}, cited in {{harvnb|Pett|2018|p=178}}.</ref> [[Stephen Hunter]] commented in an article for ''[[The Washington Post]]'' that the animation is "completely vivid and exquisitely detailed", but lacks the fluidity of Disney's works.<ref>{{harvnb|Hunter|1999}}, cited in {{harvnb|Pett|2018|p=176}}.</ref> Critics also highlighted the violence and mature themes as aspects inappropriate for children.{{sfn|Pett|2018|p=179}} Burr and others favorably compared the film's fantasy elements with those of ''[[Star Wars: Episode I – The Phantom Menace]]''{{nbsp}}(1999){{nbsp}}– which had been released a few months prior{{nbsp}}– and novels such as ''[[The Lord of the Rings]]''{{nbsp}}(1954–1955) and ''[[The Chronicles of Narnia]]''{{nbsp}}(1950–1956).{{sfn|Pett|2018|pp=181–182}} Roger Ebert of the ''[[Chicago Sun-Times]]'' considered the film Miyazaki's best and recommended it for an [[Academy Award]] nomination.<ref>{{harvnb|Ebert|1999a}}, cited in {{harvnb|Pett|2018|pp=183–184}}.</ref> In the United Kingdom, however, the film received a very limited number of reviews and was largely panned by critics. Pett and the journalist [[Andrew Osmond (journalist)|Andrew Osmond]] ascribed this to a general negative perception of anime in British society at the time, rooted in controversies caused by some violent and sexually explicit animations.<ref>{{harvnb|Osmond|2000}}, cited in {{harvnb|Pett|2018|pp=176–177}}.</ref>
+
+Several publications have featured ''Princess Mononoke'' in their lists of best films. ''Animage'' ranked it 47th in their list of the 100 best anime in 2001.{{sfn|''Anime News Network''|2001}} ''[[Empire (magazine)|Empire]]'' ranked it 488th on their list of the 500 greatest films{{sfn|''Empire''}} and placed it 3rd on their 2024 list of the 50 greatest animated films.{{sfn|Travis|2024}} It also ranked 13th on ''[[Paste (magazine)|Paste]]''{{'s}} list of the 100 best anime films{{sfn|Egan|2024}} and 26th on ''[[Time Out (company)|Time Out]]'' and ''[[Total Film]]''{{'s}} lists of the greatest animated films.{{sfnm|1a1=Jenkins|2a1=Kinnear|2a2=Winning|2y=2014}}
+
+=== Accolades ===
+
+[[List of Japanese submissions for the Academy Award for Best Foreign Language Film|Japan submitted]] ''Princess Mononoke'' for [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]] at the [[70th Academy Awards]],{{sfn|''Academy of Motion Picture Arts and Sciences''|1997}} but it was not nominated.{{sfn|Sharf|2019}}
+
+{| class="wikitable sortable plain-row-headers"
+|+ {{sronly|Accolades received by Princess Mononoke}}
+! scope="col" | Award / Publication
+! scope="col" | Year
+! scope="col" | Category
+! scope="col" | Recipient
+! scope="col" | Result
+! scope="col" class="unsortable" | {{Refh}}
+|-
+! scope="rowgroup" rowspan="3" | ''[[Kinema Junpo]]''
+| rowspan="15" style="text-align:center;" | {{dts|1997}}
+| Best Ten (Critics' Choice)
+| rowspan="2" | ''Princess Mononoke''
+| {{runner up}}
+| rowspan="3" style="text-align:center;" | {{sfn|''Nausicaa.net'' c}}
+|-
+| Best Ten (Readers' Choice)
+| {{won}}
+|-
+| Best Director (Readers' Choice)
+| {{sort|Miyazaki, Hayao|[[Hayao Miyazaki]]}}
+| {{won}}
+|-
+! scope="rowgroup" rowspan="3" | 52nd [[Mainichi Film Award]]s
+| [[Mainichi Film Award for Best Film|Best Film]]
+| rowspan="3" | ''Princess Mononoke''
+| {{won}}
+| rowspan="3" style="text-align:center;" | {{sfn|''Mainichi Shimbun''}}
+|-
+| [[Mainichi Film Award for Best Animation Film|Best Animation Film]]
+| {{won}}
+|-
+| Japanese Movie Fans' Choice
+| {{won}}
+|-
+! scope="rowgroup" rowspan="2" | 10th [[Nikkan Sports Film Award]]s
+| [[Nikkan Sports Film Award for Best Director|Best Director]]
+| {{sort|Miyazaki, Hayao|[[Hayao Miyazaki]]}}
+| {{won}}
+| rowspan="2" style="text-align:center;" | {{sfn|''Nikkan Sports''}}
+|-
+| [[Nikkan Sports Film Award for Yūjirō Ishihara Award|Yūjirō Ishihara Award]]
+| rowspan="4" | ''Princess Mononoke''
+| {{won}}
+|-
+! scope="row" | 1st [[Japan Media Arts Festival]]
+| Grand Prize in Animation
+| {{won}}
+| rowspan="3" style="text-align:center;" | {{sfn|''Nausicaa.net'' c}}
+|-
+! scope="row" | 7th [[Tokyo Sports Film Award]]
+| [[Tokyo Sports Film Award for Best Director|Best Director]]
+| {{won}}
+|-
+! scope="row" | [[Osaka Film Festival]]
+| Special Award
+| {{won}}
+|-
+! scope="row" | 21st {{ill|Fumiko Yamaji Award|ja|山路ふみ子映画賞}}
+| Cultural Award
+| {{sort|Suzuki, Toshio|[[Toshio Suzuki]]}}
+| {{won}}
+| style="text-align:center;" | {{sfn|''Fumiko Yamaji Cultural Foundation''}}
+|-
+! scope="row" | 15th {{ill|Golden Gross Award|ja|ゴールデングロス賞}}
+| Gold Award
+| ''Princess Mononoke''
+| {{won}}
+| style="text-align:center;" | {{sfn|''Japan Association of Theater Owners''}}
+|-
+! scope="rowgroup" rowspan="2" | [[39th Japan Record Awards]]
+| Best Composer
+| {{sort|Hisaishi, Joe|[[Joe Hisaishi]]}}
+| {{won}}
+| style="text-align:center;" rowspan="2" | {{sfn|''Japan Composer's Association''}}
+|-
+| Best Album Production
+| ''Princess Mononoke Soundtrack''
+| {{won}}{{efn|Shared with [[Sayuri Yoshinaga]]'s ''Second Movement'', [[Shimizu Yasuaki]]'s ''Bach Box'', and ''[[Music of Neon Genesis Evangelion#Neon Genesis Evangelion|Neon Genesis Evangelion]]'' (all 1997){{sfn|''Japan Composer's Association''}} }}
+|-
+! scope="rowgroup" rowspan="2" | 21st [[Japan Academy Film Prize]]
+| rowspan="6" style="text-align:center;" | {{dts|1998}}
+| [[Japan Academy Film Prize for Picture of the Year|Picture of the Year]]
+| ''Princess Mononoke''
+| {{won}}{{efn|name=JAFP|text=''Princess Mononoke'' was the first animated film to be nominated for, and receive, this award.{{sfn|Odell|Le Blanc|2009|p=112}} }}
+| rowspan="2" style="text-align:center;" | {{sfn|''Japan Academy Film Prize''}}
+|-
+| Special Award
+| {{sort|Mera, Yoshikazu|[[Yoshikazu Mera]]}}
+| {{won}}
+|-
+! scope="row" | 40th [[Blue Ribbon Awards]]
+| [[Blue Ribbon Awards for Special Award|Special Award]]
+| rowspan="2" | ''Princess Mononoke''
+| {{won}}
+| style="text-align:center;" | {{sfn|''Nausicaa.net'' c}}
+|-
+! scope="row" | 22nd [[Hochi Film Award]]s
+| Special Award
+| {{won}}
+| style="text-align:center;" | {{sfn|''Sports Hochi''}}
+|-
+! scope="row" | 12th {{ill|Takasaki Film Festival|ja|高崎映画祭}}
+| Best Director
+| {{sort|Miyazaki, Hayao|[[Hayao Miyazaki]]}}
+| {{won}}{{efn|Shared with [[Jun Ichikawa]]{{sfn|''Takasaki Film Festival''}} }}
+| style="text-align:center;" | {{sfn|''Takasaki Film Festival''}}
+|-
+! scope="row" | [[Elan d'or Awards]]
+| [[Elan d'or Award Special Prize|Special Prize]]
+| ''Princess Mononoke''
+| {{won}}
+| style="text-align:center;" | {{sfn|''Nausicaa.net'' c}}
+|-
+! scope="row" | [[28th Annie Awards]]
+| rowspan="2" style="text-align:center;" | {{dts|2000}}
+| Outstanding Individual Achievement for Directing in an Animated Feature Production
+| {{sort|Miyazaki, Hayao|[[Hayao Miyazaki]]}}
+| {{nom}}{{efn|name=Annie|text=Awarded for the English-language version of the film{{sfn|''Annie Awards''}} }}
+| style="text-align:center;" | {{sfn|''Annie Awards''}}
+|-
+! scope="row" | [[4th Golden Satellite Awards]]
+| [[Satellite Award for Best Animated or Mixed Media Feature|Best Animated or Mixed Media Film]]
+| rowspan="3" | ''Princess Mononoke''
+| {{nom}}
+| style="text-align:center;" | {{sfn|''International Press Academy''}}
+|-
+! scope="row" | [[27th Saturn Awards]]
+| rowspan="2" style="text-align:center;" | {{dts|2001}}
+| Best Home Video Release
+| {{won}}
+| style="text-align:center;" | {{sfn|''Saturn Awards''}}
+|-
+! scope="row" | 36th [[Nebula Award]]s
+| [[Nebula Award for Best Script|Best Script]]
+| {{nom}}
+| style="text-align:center;" | {{sfn|''Science Fiction and Fantasy Writers of America''}}
+|}
+
+== Legacy ==
+
+[[File:James Cameron by Gage Skidmore.jpg|thumb|upright=0.7|[[James Cameron]] ''(pictured in 2016)'' cited ''Princess Mononoke'' as an influence on his science fiction film ''[[Avatar (2009 film)|Avatar]]''{{nbsp}}(2009).{{sfn|Ito|2009}}]]
+
+According to Napier, the film is commonly considered to be Miyazaki's most significant feature film.{{sfn|Napier|2018|p=182}} She wrote that it marked a "new chapter" in his filmography on account of its nuanced and intermingled themes and the unprecedented scope of its production.{{sfn|Napier|2018|pp=176–177}} The film was longer and more expensive to produce than any Studio Ghibli film up to that point, which Napier reported induced a high level of stress and demanded "almost superhuman efforts" from the entire staff, including Miyazaki. Some senior employees, worn out from the film's production, left Studio Ghibli in its aftermath, with Miyazaki himself increasingly withdrawing from public relations.{{sfn|Napier|2018|p=178}} Suzuki recounted that Miyazaki was overtaxed from supervising the storyboards, music, and vocal recordings and had "given his body and soul" to the production.<ref>{{harvnb|Suzuki|2016|pp=100, 105}}, cited in {{harvnb|Napier|2018|p=178}}.</ref> In an interview before the film's release, Miyazaki said that, "Physically, I just can't go on."<ref>Cited in {{harvnb|McCarthy|2002|p=189}}.</ref> He resigned in 1998 but returned shortly after to direct ''[[Spirited Away]]''{{nbsp}}(2001) following the death of [[Yoshifumi Kondō]], who was intended to be Miyazaki's successor at Studio Ghibli.{{sfn|Napier|2018|p=195}}
+
+''Princess Mononoke'' was the first film in which Miyazaki directly referenced scholarly writing, which strongly contributed to his status in Japanese society as a {{lang|ja-Latn|bunkajin}} and marked his works out for further academic inquiry.{{sfn|Yoshioka|2018|pp=25, 35–36}} Alongside ''[[Neon Genesis Evangelion]]''{{nbsp}}(1995–1996), the film laid the foundation for anime to become the subject of study by academics and critics.{{sfn|Yoshioka|2018|p=26}} Yoshioka suggested that Miyazaki's growing reputation may have constrained his later creations{{nbsp}}– as he never wrote a feature film in the style of his earlier action-adventure works after ''Princess Mononoke''{{nbsp}}– and motivated him to retire from the public eye.{{sfn|Yoshioka|2018|p=36}} McCarthy, however, felt that the film provides a novel view of femininity that allows the female characters to express themselves without needing comparison to the men but writes that Miyazaki "opened the gates of this marvelous possibility" only to revert to traditional storytelling and character archetypes in later films.{{sfn|McCarthy|2018|pp=110–111}}
+
+Yoshioka felt the film's widespread success turned Miyazaki into an "icon of contemporary Japanese cinema" on the international stage and primed many of his subsequent works to become commercial successes in turn.{{sfn|Yoshioka|2018|pp=26, 36}} It has since become a [[cult film]] due to its sustained popularity among fans,{{sfnm|Denison|2018|1p=17|Eiss|2010|2p=162}} and Pett wrote that the film is now an "established cultural touchstone", identifying multiple other works that it had influenced.{{sfn|Pett|2018|pp=185–186}} [[James Cameron]], for example, cited the film as an influence on his science fiction film ''[[Avatar (2009 film)|Avatar]]''{{nbsp}}(2009).{{sfn|Ito|2009}} Critics have also named a number of video games that take influence from the film, including ''[[Ori and the Blind Forest]]''{{nbsp}}(2015){{sfn|Myers|2020}} and ''[[The Legend of Zelda: Breath of the Wild]]''{{nbsp}}(2017).{{sfn|Rowe|2023}} Pett identified a shift in critical writings that reinterpreted San as a feminist figure.{{sfn|Pett|2018|p=188}} In April 2013, Studio Ghibli partnered with the English production company Whole Hog Theatre to create a stage adaptation of the film.{{sfn|Tanaka|2013}} It premiered at the [[New Diorama Theatre]] in London after selling out a year ahead of time{{sfn|Lussier|2012}} and moved to [[Tokyo]] later that year.{{sfn|Tanaka|2013}} In 2025, a newly discovered species of deepwater [[tilefish]] was named ''[[Branchiostegus sanae]]'' after the character San.{{sfn|Molloy|2025}}
+<!--#endregion Legacy-->
+
+== Notes ==
+
+{{notelist|30em}}
+
+== References ==
+
+=== Citations ===
+
+{{reflist|30em}}
+
+=== Book and journal sources ===
+
+{{refbegin|30em}}
+* <!-- Alpert 2020 --> {{cite book |last1=Alpert |first1=Steve |author-link=Steve Alpert |title=Sharing a House with the Never-Ending Man: 15 Years at Studio Ghibli |date=2020 |publisher=[[Stone Bridge Press]] |isbn=978-1-6117-2057-0}}
+* <!-- Chan 2015 --> {{cite book |last=Chan |first=Melanie |chapter=Environmentalism and the animated landscape in ''Nausicaä of the Valley of the Wind'' and ''Princess Mononoke'' |editor-last=Pallant |editor-first=Chris |editor-link=Chris Pallant |title=Animated Landscapes: History, Form, and Function |year=2015 |publisher=[[Bloomsbury Academic]] |isbn=978-1-6289-2349-0 |url=https://archive.org/details/animated-landscapes-history-form-and-function |url-access=registration}}
+* <!-- Clements 2013 --> {{cite book |last=Clements |first=Jonathan |author-link=Jonathan Clements |title=Anime: A History |publisher=[[British Film Institute]] |date=2013 |isbn=978-1-84457-390-5}}
+* <!-- Clements & McCarthy 2015 --> {{cite encyclopedia |last1=Clements |first1=Jonathan |author-link1=Jonathan Clements |last2=McCarthy |first2=Helen |author-link2=Helen McCarthy |title=The Anime Encyclopedia: A Century of Japanese Animation |edition=3rd |year=2015 |orig-date=2006 |publisher=[[Stone Bridge Press]] |isbn=978-1-6117-2018-1 |title-link=The Anime Encyclopedia}}
+* <!-- Denison 2005 --> {{cite journal |last=Denison |first=Rayna |author-link=Rayna Denison |date=November 2005 |title=Disembodied stars and the cultural meanings of ''Princess Mononoke''{{'s}} soundscape |journal=Scope |issue=3 |url=https://www.nottingham.ac.uk/scope/documents/2005/october-2005/denison.pdf |issn=1465-9166 |archive-date=March 8, 2024 |archive-url=https://web.archive.org/web/20240308043718/https://www.nottingham.ac.uk/scope/documents/2005/october-2005/denison.pdf |url-status=live}}
+* <!-- Denison 2008 --> {{cite book |last=Denison |first=Rayna |author-link=Rayna Denison |chapter=The language of the blockbuster: promotion, ''Princess Mononoke'', and the ''daihitto'' in Japanese film culture |editor-last1=Hunt |editor-first1=Leon |editor-last2=Wing-Fai |editor-first2=Leung |title=East Asian Cinemas: Exploring Transnational Connections on Film |publisher=[[I.B. Tauris]] |date=2008 |isbn=978-1-84511-615-6}}
+* <!-- Denison 2018 --> {{Cite book |title=Princess Mononoke: Understanding Studio Ghibli's Monster Princess |publisher=[[Bloomsbury Academic]] |year=2018 |isbn=978-1-5013-2976-0 |editor-last=Denison |editor-first=Rayna |editor-link=Rayna Denison |url=https://www.bloomsburycollections.com/monograph?docid=b-9781501329753}}<!-- Please do not add archive links to this source; they are unnecessary. -->
+** {{harvc |last=Denison |first=Rayna |author-link=Rayna Denison |c=Introducing Studio Ghibli's monster princess: from ''Mononokehime'' to ''Princess Mononoke'' |in=Denison |year=2018 |pages=1–20 |nb=yes |id=Denison intro |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753-005.pdf&tocid=b-9781501329753-0000097}}
+** {{harvc |last=Yoshioka |first=Shiro |c=''Princess Mononoke'': a game changer |in=Denison |year=2018 |pages=25–40 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-001.pdf&tocid=b-9781501329753-chapter1}}
+** {{harvc |last=Niskanen |first=Eija |c=Deer gods, nativism, and history: mythical and archeological layers in ''Princess Mononoke'' |in=Denison |year=2018 |pages=41–56 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-002.pdf&tocid=b-9781501329753-chapter2}}
+** {{harvc |last1=Daniels-Lerberg |first1=Tracey |last2=Lerberg |first2=Matthew |c=To 'see with eyes unclouded by hate': ''Princess Mononoke'' and the quest for environmental balance |in=Denison |year=2018 |pages=57–73 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-003.pdf&tocid=b-9781501329753-chapter3}}
+** {{harvc |last=McCarthy |first=Helen |author-link=Helen McCarthy |c=Teenage wildlife: ''Princess Mononoke'' and Hayao Miyazaki's theory of the feminine |in=Denison |year=2018 |pages=97–114 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-005.pdf&tocid=b-9781501329753-chapter5}}
+** {{harvc |last=Vernon |first=Alice |c=Beyond girlhood in Ghibli: mapping heroine development against the adult woman anti-hero in ''Princess Mononoke'' |in=Denison |year=2018 |pages=115–129 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-006.pdf&tocid=b-9781501329753-chapter6}}
+** {{harvc |last=Nicholson |first=Jennifer E |c=The translation and adaptation of Miyazaki's spirit princess in the West |in=Denison |year=2018 |pages=133–150 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-007.pdf&tocid=b-9781501329753-chapter7}}
+** {{harvc |last=Carter |first=Laz |c=Marketing ''Mononoke'': the ''daihitto'' becoming Disney |in=Denison |year=2018 |pages=151–172 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-007.pdf&tocid=b-9781501329753-chapter8}}
+** {{harvc |last=Pett |first=Emma |c=Homer, Ovid, Disney, and ''Star Wars'': the critical reception and transcultural popularity of ''Princess Mononoke'' |in=Denison |year=2018 |pages=173–192 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-009.pdf&tocid=b-9781501329753-chapter9}}
+* <!-- Denison 2023 --> {{cite book |last=Denison |first=Rayna |author-link=Rayna Denison |date=2023 |title=Studio Ghibli: An Industrial History |publisher=[[Palgrave Macmillan]] |isbn=978-3-031-16843-7}}
+* <!-- Eiss 2010 --> {{cite book |last=Eiss |first=Jennifer |title=500 Essential Cult Movies: The Ultimate Guide |year=2010 |publisher=[[Ilex Press]] |isbn=978-1-9058-1488-6 |url=https://archive.org/details/500essentialcult0000eiss |url-access=registration}}
+* <!-- Galbraith 2008 --> {{cite book |last=Galbraith |first=Stuart IV |title=The Toho Studios Story: A History and Complete Filmography |year=2008 |publisher=[[Scarecrow Press]] |isbn=978-1-4616-7374-3 |author-link=Stuart Galbraith IV}}
+* <!-- Greenberg 2018 --> {{Cite book |title=Hayao Miyazaki: Exploring the Early Work of Japan's Greatest Animator |last=Greenberg |first=Raz |author-link=Raz Greenberg |publisher=[[Bloomsbury Academic]] |year=2018 |isbn=978-1-5013-3594-5 |url=https://www.bloomsburycollections.com/monograph?docid=b-9781501335976&st=hayao+miyazaki}}<!-- Please do not add archive links to this source; they are unnecessary. -->
+* <!-- Jocoy 2024 --> {{cite book |last=Jocoy |first=Stacey |chapter=Scoring Japan's pasts and futures: legends, folklore, monsters, and historical drama |pages=147–172 |editor-last=Pellitteri |editor-first=Marco |title=The Palgrave Handbook of Music and Sound in Japanese Animation |publisher=[[Palgrave Macmillan]] |year=2024 |isbn=978-981-97-0428-6 |chapter-url=https://books.google.com/books?id=4FIhEQAAQBAJ&pg=PA166}}
+* <!-- Kanō 2006 --> {{Cite book |script-title=ja:宮崎駿全書 |title-link=The Complete Hayao Miyazaki |last=Kanō |first=Seiji |author-link=Seiji Kanō |publisher=Film Art |year=2006 |language=ja |trans-title=The Complete Hayao Miyazaki |isbn=978-4-8459-0687-1}}
+* <!-- McCarthy 2002 --> {{cite book |last=McCarthy |first=Helen |author-link=Helen McCarthy |year=2002 |orig-date=1999 |title=Hayao Miyazaki: Master of Japanese Animation |title-link=Hayao Miyazaki: Master of Japanese Animation |publisher=[[Stone Bridge Press]] |isbn=978-1-8806-5641-9}}
+* <!-- Miyazaki 1999 --> {{Cite book |title=Princess Mononoke: The Art and Making of Japan's Most Popular Film of All Time |last=Miyazaki |first=Hayao |translator-last1=Schilling |translator-first1=Mark |publisher=[[Hachette Books|Hyperion]] |year=1999 |orig-date=1997 |isbn=978-0-7868-6609-0 |author-link=Hayao Miyazaki |translator-link1=Mark Schilling |url=https://archive.org/details/princessmononoke0000unse_x4x2 |url-access=registration}}
+** {{harvc |last=Schilling |first=Mark |author-link=Mark Schilling |c=Introduction |in=Miyazaki |year=1999 |nb=yes |pp=3–8}}
+* <!-- Miyazaki 2002 --> {{cite book |last=Miyazaki |first=Hayao |author-link=Hayao Miyazaki |script-title=ja:風の帰る場所ナウシカから千尋までの軌跡 |trans-title=Where the Wind Returns: The Path from Nausicaä to Chihiro |language=ja |year=2002 |publisher=[[Rockin' On]] |isbn=978-4-8605-2007-6}}
+* <!-- Miyazaki 2009 --> {{Cite book |last=Miyazaki |first=Hayao |author-link=Hayao Miyazaki |title=Starting Point: 1979–1996 |title-link=Starting Point: 1979–1996 |publisher=[[Viz Media]] |year=2009 |orig-date=1996 |translator-last1=Cary |translator-first1=Beth |translator-last2=Schodt |translator-first2=Frederik L. |translator-link2=Frederik L. Schodt |isbn=978-1-4215-6104-2}}
+* <!-- Miyazaki 2014 --> {{cite book |last=Miyazaki |first=Hayao |author-link=Hayao Miyazaki |title=Turning Point: 1997–2008 |title-link=Turning Point: 1997–2008 |publisher=[[Viz Media]] |year=2014 |orig-date=2008 |translator-last1=Cary |translator-first1=Beth |translator-last2=Schodt |translator-first2=Frederik L. |translator-link2=Frederik L. Schodt |isbn=978-1-9747-2450-5}}
+* <!-- Napier 2005 --> {{Cite book |last=Napier |first=Susan J. |author-link=Susan J. Napier |title=Anime from Akira to Howl's Moving Castle: Experiencing Contemporary Japanese Animation |year=2005 |publisher=[[Palgrave Macmillan]] |isbn=978-1-4039-7051-0 |orig-date=2001 |title-link=Anime from Akira to Princess Mononoke}}
+* <!-- Napier 2018 --> {{Cite book |title=Miyazakiworld: A Life in Art |title-link=Miyazakiworld |last=Napier |first=Susan J. |author-link=Susan J. Napier |publisher=[[Yale University Press]] |year=2018 |isbn=978-0-3002-2685-0}}
+* <!-- Odell & Le Blanc 2009 --> {{Cite book |title=Studio Ghibli: The Films of Hayao Miyazaki and Isao Takahata |title-link=Studio Ghibli: The Films of Hayao Miyazaki and Isao Takahata |last1=Odell |first1=Colin |last2=Le Blanc |first2=Michelle |author1-link=Michelle Le Blanc and Colin Odell |author2-link=Michelle Le Blanc and Colin Odell |publisher=Kamera Books |year=2009 |isbn=978-1-84243-279-2}}
+* <!-- Oshii & Ueno 2004 --> {{cite book |last1=Oshii |first1=Mamoru |author-link1=Mamoru Oshii |last2=Ueno |first2=Toshiya |author-link2=Toshiya Ueno |year=2004 |script-chapter=ja:宮崎駿の功罪 |trans-chapter=The good and the bad of Hayao Miyazaki |script-title=ja:宮崎駿の世界 |trans-title=The World of Hayao Miyazaki |publisher=[[Takeshobo]] |isbn=978-4-8124-1943-4}}
+* <!-- Suzuki 2005 --> {{cite book |last=Suzuki |first=Toshio |author-link=Toshio Suzuki |script-title=ja:映画道楽 |trans-title=My Film Hobby |language=ja |publisher=[[Pia Corporation]] |year=2005 |isbn=978-4-8356-1540-0}}
+* <!-- Suzuki 2016 --> {{cite book |last=Suzuki |first=Toshio |author-link=Toshio Suzuki |script-title=ja:ジブリの仲間たち |trans-title=Friends of Ghibli |language=ja |date=2016 |publisher=[[Shinchosha]] |isbn=978-4-1061-0674-3}}
+* <!-- Thevenin 2013 --> {{cite journal |last1=Thevenin |first1=Benjamin |title=''Princess Mononoke'' and beyond: new nature narratives for children |journal= Interactions: Studies in Communication & Culture|date=October 2013 |volume=4 |issue=2 |pages=147–170 |doi=10.1386/iscc.4.2.147_1 |issn=1757-2681}}
+{{refend}}
+
+=== Magazine and news sources ===
+
+{{refbegin|30em}}
+* <!-- Biodrowski 2009 --> {{cite magazine |last=Biodrowski |first=Steve |title=Changing ''sake'' into wine – Neil Gaiman on adapting ''Princess Mononoke'' for America |date=2009-02-05 |magazine=[[Cinefantastique]] |access-date=2024-10-25 |url=http://blog.cinefantastiqueonline.com/wordpress/changing-sake-into-wine-neil-gaiman-on-adapting-princess-mononke-for-america/ |archive-date=February 21, 2024 |archive-url=https://web.archive.org/web/20240221153724/http://blog.cinefantastiqueonline.com/wordpress/changing-sake-into-wine-neil-gaiman-on-adapting-princess-mononke-for-america/ |url-status=live}}
+* <!-- Brooks 2005 --> {{cite news |url=https://www.theguardian.com/film/2005/sep/14/japan.awardsandprizes |title=A god among animators |newspaper=[[The Guardian]] |date=September 14, 2005 |first=Xan |last=Brooks |access-date=May 22, 2010 |archive-date=June 25, 2008 |archive-url=https://web.archive.org/web/20080625111513/http://film.guardian.co.uk/interview/interviewpages/0,6737,1569689,00.html |url-status=live}}
+* <!-- Burr 1999 --> {{cite magazine |last=Burr |first=Ty |author-link=Ty Burr |title=Here's the next ''Star Wars''–like epic |date=1999-11-03 |magazine=[[Entertainment Weekly]] |url=https://ew.com/article/1999/11/03/heres-next-star-wars-epic/ |access-date=2024-12-18 |archive-url=https://web.archive.org/web/20220722103138/https://ew.com/article/1999/11/03/heres-next-star-wars-epic/ |archive-date=2022-07-22 |url-status=live}}
+* <!-- Collin 2014 --> {{cite news |last=Collin |first=Robbie |title=Goodbye Studio Ghibli, your genius will endure |work=[[The Daily Telegraph]] |date=2014-08-04 |url=https://www.telegraph.co.uk/culture/film/film-news/11009842/Goodbye-Studio-Ghibli-your-genius-will-endure.html |access-date=2024-10-27 |archive-date=April 9, 2018 |archive-url=https://web.archive.org/web/20180409125705/https://www.telegraph.co.uk/culture/film/film-news/11009842/Goodbye-Studio-Ghibli-your-genius-will-endure.html |url-status=live |author-link=Robbie Collin}}
+* <!-- Ebert 1999a --> {{cite news |last=Ebert |first=Roger |author-link=Roger Ebert |title=Director Miyazaki draws American attention |work=[[Chicago Sun-Times]] |date=October 24, 1999a |url=http://www.industrycentral.net/director_interviews/HM01.HTM |access-date=August 27, 2009 |archive-url=https://web.archive.org/web/20180131080957/http://www.industrycentral.net/director_interviews/HM01.HTM |archive-date=January 31, 2018 |via=Industry Central}}
+* <!-- Ebert 1999b --> {{cite web |url=https://www.rogerebert.com/reviews/princess-mononoke-1999 |title=''Princess Mononoke'' |last=Ebert |first=Roger |author-link=Roger Ebert |website=[[RogerEbert.com]] |date=October 29, 1999b |access-date=January 29, 2016 |archive-date=March 6, 2016 |archive-url=https://web.archive.org/web/20160306121035/http://www.rogerebert.com/reviews/princess-mononoke-1999 |url-status=live}}
+* <!-- Egan 2024 --> {{cite magazine |last=Egan |first=Toussaint |title=The 100 best anime movies of all time |magazine=[[Paste (magazine)|Paste]] |date=2024-02-15 |url=https://www.pastemagazine.com/movies/best-anime-movies/the-100-best-anime-movies-of-all-time |access-date=2025-01-09 |archive-url=https://web.archive.org/web/20241230192522/https://www.pastemagazine.com/movies/best-anime-movies/the-100-best-anime-movies-of-all-time |archive-date=2024-12-30 |url-status=live}}
+* <!-- ''Empire'' --> {{cite magazine |url=https://www.empireonline.com/500/3.asp |title=The 500 greatest movies of all time |magazine=[[Empire (film magazine)|Empire]] |access-date=June 14, 2010 |archive-date=November 20, 2011 |archive-url=https://web.archive.org/web/20111120231503/http://www.empireonline.com/500/3.asp |ref={{harvid|Empire}}}}
+* <!-- Giardina 2017 --> {{cite web |url=https://www.hollywoodreporter.com/behind-screen/gkids-studio-ghibli-ink-home-entertainment-deal-1021746 |title=GKIDS, Studio Ghibli ink home entertainment deal |last=Giardina |first=Carolyn |work=[[The Hollywood Reporter]] |date=July 17, 2017 |access-date=July 17, 2017 |archive-date=August 3, 2017 |archive-url=https://web.archive.org/web/20170803090028/http://www.hollywoodreporter.com/behind-screen/gkids-studio-ghibli-ink-home-entertainment-deal-1021746 |url-status=live}}
+* <!-- Green 2014 --> {{Cite news |title=Viz to release Hayao Miyazaki's ''Princess Mononoke: The First Story'' |url=https://www.crunchyroll.com/news/latest/2014/3/7/viz-to-release-hayao-miyazakis-princess-mononoke-the-first-story |last=Green |first=Scott |date=March 14, 2014 |access-date=December 25, 2023 |work=[[Crunchyroll]] |archive-date=December 30, 2023 |archive-url=https://web.archive.org/web/20231230005301/https://www.crunchyroll.com/news/latest/2014/3/7/viz-to-release-hayao-miyazakis-princess-mononoke-the-first-story |url-status=live}}
+* <!-- Hunter 1999 --> {{cite news |last=Hunter |first=Stephen |author-link=Stephen Hunter |title=The bland violence of ''Mononoke'' |newspaper=[[The Washington Post]] |date=1999-11-05 |url=https://www.washingtonpost.com/archive/lifestyle/1999/11/05/the-bland-violence-of-mononoke/0d7b674b-329b-47c9-a5ed-a5a1be0c0d26/ |access-date=2025-01-12}}
+* <!-- Ito 2009 --> {{cite web |url=http://sankei.jp.mstn.com/entertainments/entertainers/091225/tnr0912250750004-n2.htm |archive-url=https://web.archive.org/web/20091228082425/http://sankei.jp.msn.com/entertainments/entertainers/091225/tnr0912250750004-n2.htm |archive-date=December 28, 2009 |script-title=ja:新作「アバター」宮崎アニメにオマージュ Ｊ・キャメロン監督 |trans-title=New film ''Avatar'' pays homage to Miyazaki's animated film: J. Cameron |access-date=March 10, 2010 |last=Ito |first=Norihiro |date=December 25, 2009 |work=[[Sankei Shimbun]] |language=ja}}
+* <!-- Kelly 2022 --> {{Cite web |last=Kelly |first=Stephen |date=2022-07-13 |title=''Princess Mononoke'': the masterpiece that flummoxed the US |url=https://www.bbc.com/culture/article/20220713-princess-mononoke-the-masterpiece-that-flummoxed-the-us |access-date=August 22, 2023 |work=[[BBC]] |archive-date=August 22, 2023 |archive-url=https://web.archive.org/web/20230822101308/https://www.bbc.com/culture/article/20220713-princess-mononoke-the-masterpiece-that-flummoxed-the-us |url-status=live}}
+* <!-- Klady 1998 --> {{cite magazine |url=https://www.variety.com/review/VE1117467127 |title=''Princess Mononoke'' |last=Klady |first=Leonard |magazine=[[Variety (magazine)|Variety]] |date=January 29, 1998 |access-date=September 14, 2012 |archive-date=October 20, 2012 |archive-url=https://web.archive.org/web/20121020125832/http://www.variety.com/review/VE1117467127/ |url-status=live}}
+* <!-- Komatsu 1997 --> {{cite magazine |last=Komatsu |first=Kazuhiko |script-title=ja:森の神殺しとその呪い |trans-title=The killing of the Forest Spirit and its curse |date=August 1997 |magazine=[[Eureka (Japanese magazine)|Eureka]] |volume=29 |issue=11 |issn=1342-5641}}
+* <!-- Lussier 2012 --> {{cite web |last=Lussier |first=Germain |title=Official stage adaptation of ''Princess Mononoke'' coming to London; sold out almost a year in advance |url=https://www.slashfilm.com/official-stage-adaptation-of-princess-mononoke-coming-to-london-sold-out-almost-a-year-in-advance/ |work=[[:/Film]] |access-date=March 11, 2013 |date=September 24, 2012 |archive-date=March 30, 2013 |archive-url=https://web.archive.org/web/20130330155929/http://www.slashfilm.com/official-stage-adaptation-of-princess-mononoke-coming-to-london-sold-out-almost-a-year-in-advance/ |url-status=live}}
+* <!-- ''Mainichi Shimbun'' --> {{cite news |title=52nd Mainichi Film Awards Winners |newspaper=[[Mainichi Shimbun]] |url=http://mainichi.jp/mfa/history/052.html |url-status=live |access-date=January 28, 2024 |archive-url=https://web.archive.org/web/20191028075209/http://mainichi.jp/enta/cinema/mfa/etc/history/52.html |archive-date=October 28, 2019 |ref={{harvid|Mainichi Shimbun}}}}
+* <!-- Maslin 1999 --> {{cite news |last=Maslin |first=Janet |author-link=Janet Maslin |title=Waging a mythic battle to preserve a pristine forest |date=1999-09-27 |work=[[The New York Times]] |page=E1 |url=https://www.nytimes.com/1999/09/27/movies/film-review-waging-a-mythic-battle-to-preserve-a-pristine-forest.html |access-date=<!-- No -->}}<!-- Please do not add archive links to this source; they are unnecessary. -->
+* <!-- Molloy 2025 --> {{cite news |last=Molloy |first=Maddie |title=''Princess Mononoke''{{'s}} San inspires naming of deep-sea fish |work=[[BBC]] |date=2025-02-11 |url=https://www.bbc.com/news/articles/cwywq42ng8yo |access-date=2025-02-11 |archive-url=https://web.archive.org/web/20250211231341/https://www.bbc.com/news/articles/cwywq42ng8yo |archive-date=2025-02-11 |url-status=live}}
+* <!-- Myers 2020 --> {{cite web |last=Myers |first=Maddy |title=Studio Ghibli's influence on game designers is extensive and expanding |website=[[Polygon (website)|Polygon]] |date=2020-05-28 |url=https://www.polygon.com/gaming/2020/5/28/21272451/studio-ghibli-movies-inspired-games-ori-battle-chef-brigade-mutazione-totoro-spirited-away |access-date=2024-11-24 |archive-url=https://web.archive.org/web/20241116030448/https://www.polygon.com/gaming/2020/5/28/21272451/studio-ghibli-movies-inspired-games-ori-battle-chef-brigade-mutazione-totoro-spirited-away |archive-date=2024-11-16 |url-status=live}}
+* <!-- Osmond 2000 --> {{cite news |last=Osmond |first=Andrew |author-link=Andrew Osmond (journalist) |title=Beauty and the beastly |work=[[The Guardian]] |date=2000-04-14 |url=https://www.theguardian.com/film/2000/apr/14/1 |access-date=2024-12-19 |archive-url=https://web.archive.org/web/20210919041828/https://www.theguardian.com/film/2000/apr/14/1 |archive-date=2021-09-19 |url-status=live}}
+* <!-- Polo 2015 --> {{cite web |title=The complete Hayao Miyazaki collection is pretty enough to spirit you away |url=http://www.polygon.com/2015/7/30/9075583/complete-hayao-miyazaki-collection |last=Polo |first=Susana |date=July 30, 2015 |website=[[Polygon (website)|Polygon]] |access-date=April 30, 2015 |archive-date=July 31, 2015 |archive-url=https://web.archive.org/web/20150731214407/http://www.polygon.com/2015/7/30/9075583/complete-hayao-miyazaki-collection |url-status=live}}
+* <!-- Pulliam-Moore 2025 --> {{cite news |last=Pulliam-Moore |first=Charles |title=Studio Ghibli's new ''Princess Mononoke'' 4K restoration was a labor of love |work=[[The Verge]] |date=2025-03-26 |url=https://www.theverge.com/entertainment/634951/studio-ghibli-mononoke-4k-restoration-atsushi-okui |access-date=2025-03-28 |archive-url=https://web.archive.org/web/20250326131948/https://www.theverge.com/entertainment/634951/studio-ghibli-mononoke-4k-restoration-atsushi-okui |archive-date=2025-03-26 |url-status=live}}
+* <!-- Rowe 2023 --> {{Cite news |title=''Tears of the Kingdom'' doubles down on ''Breath of the Wild''{{'s}} best inspiration |url=https://www.inverse.com/gaming/zelda-tears-kingdom-studio-ghibli |last=Rowe |first=Willa |date=May 16, 2023 |access-date=August 9, 2023 |work=[[Inverse (website)|Inverse]] |archive-url=https://web.archive.org/web/20230810225124/https://www.inverse.com/gaming/zelda-tears-kingdom-studio-ghibli |archive-date=August 10, 2023 |url-status=live}}
+* <!-- Sakakibara 2023 --> {{cite news |last=Sakakibara |first=Orika |script-title=ja:「もののけ姫」たたら場のモデル 11年がかりで修復、操業時の姿に |trans-title=Model of ''Princess Mononoke''{{'s}} Irontown restored over 11 years to its original appearance |date=2023-04-26 |work=[[The Asahi Shimbun]] |url=https://www.asahi.com/articles/ASR4T6X7YR4TPTIB00Z.html |access-date=2025-07-14 |archive-url=https://web.archive.org/web/20240708192116/https://www.asahi.com/articles/ASR4T6X7YR4TPTIB00Z.html |archive-date=2024-07-08 |url-status=live}}
+* <!-- Searle 2023 --> {{cite web |last=Searle |first=Tyler B. |title=The 10 best ''Princess Mononoke'' characters, ranked |website=[[Collider (website)|Collider]] |date=2023-10-20 |url=https://collider.com/princess-mononoke-best-characters-ranked/ |access-date=2025-01-08 |archive-url=https://web.archive.org/web/20241003232615/https://collider.com/princess-mononoke-best-characters-ranked/ |archive-date=2024-10-03 |url-status=live}}
+* <!-- Sharf 2019 --> {{cite news |last=Sharf |first=Zack |title=Makoto Shinkai's ''Your Name'' follow-up is Japan's first anime Oscar entry in over 20 years |work=[[IndieWire]] |date=2019-08-26 |url=https://www.indiewire.com/features/general/japan-anime-oscar-contender-makoto-shinkai-1202168666/ |access-date=2025-01-09 |archive-url=https://web.archive.org/web/20230622064557/https://www.indiewire.com/features/general/japan-anime-oscar-contender-makoto-shinkai-1202168666/ |archive-date=2023-06-22 |url-status=live}}
+* <!-- Shimamura & Sugano 1997 --> {{cite magazine |last1=Shimamura |first1=Tomio |last2=Sugano |first2=Yoshinori |script-title=ja:本格的デジタル化に医とんだ「もののけ姫」のＣＧ現場から |trans-title=From the site of ''Princess Mononoke''{{'s}} CG standard digitization |lang=ja |date=September 1997 |magazine=[[Kinema Junpo]] |issue=1233 |pages=74–82 |issn=1342-5412}}
+* <!-- Tanaka 2013 --> {{cite news |last=Tanaka |first=Nobuko |title=U.K. stage group to rework ''Mononoke'' magic |work=[[The Japan Times]] |date=2013-04-19 |url=https://www.japantimes.co.jp/culture/2013/04/19/stage/u-k-stage-group-to-rework-mononoke-magic/ |access-date=2024-10-21 |archive-url=https://web.archive.org/web/20130419193557/https://www.japantimes.co.jp/culture/2013/04/19/stage/u-k-stage-group-to-rework-mononoke-magic/#.UXGcosfP1qY |archive-date=2013-04-19 |url-status=live}}
+* <!-- Torres 2020 --> {{cite news |last=Torres |first=Eric |title=Studio Ghibli's ''Princess Mononoke'' soundtracks coming to vinyl for the first time |work=[[Pitchfork (website)|Pitchfork]] |date=2020-04-15 |url=https://pitchfork.com/news/studio-ghiblis-princess-mononoke-soundtracks-coming-to-vinyl-for-the-first-time/ |access-date=2025-01-09 |archive-url=https://web.archive.org/web/20240121215128/https://pitchfork.com/news/studio-ghiblis-princess-mononoke-soundtracks-coming-to-vinyl-for-the-first-time/ |archive-date=2024-01-21 |url-status=live}}
+* <!-- Travis 2024 --> {{cite magazine |last=Travis |first=Ben |title=The 50 best animated movies |magazine=[[Empire (magazine)|Empire]] |date=2024-10-18 |url=https://www.empireonline.com/movies/features/best-animated-movies/ |access-date=2025-01-09 |archive-url=https://web.archive.org/web/20241229114323/https://www.empireonline.com/movies/features/best-animated-movies/ |archive-date=2024-12-29 |url-status=live}}
+* <!-- Yanagihara 2018 --> {{Cite magazine |last=Yanagihara |first=Hanya |author-link=Hanya Yanagihara |date=May 17, 2018 |title=A real-life enchanted forest |magazine=[[T (magazine)|T]] |publisher=[[The New York Times Company]] |url=https://www.nytimes.com/2018/05/17/t-magazine/yakushima-japan-hayao-miyazaki-princess-mononoke.html |access-date=November 19, 2023 |archive-date=February 22, 2021 |archive-url=https://web.archive.org/web/20210222165442/https://www.nytimes.com/2018/05/17/t-magazine/yakushima-japan-hayao-miyazaki-princess-mononoke.html |url-status=live}}
+{{refend}}
+
+=== Online and other sources ===
+
+{{refbegin|30em}}
+* <!-- ''Academy of Motion Picture Arts and Sciences'' 1997 --> {{cite press release |title=44 countries hoping for Oscar nominations |work=[[Academy of Motion Picture Arts and Sciences]] |date=November 24, 1997 |url=http://www.oscars.org/pressreleases/97.11.24.html |access-date=December 7, 2008 |archive-url=https://web.archive.org/web/19980213090309/http://www.oscars.org/pressreleases/97.11.24.html |archive-date=February 13, 1998 |ref={{harvid|Academy of Motion Picture Arts and Sciences|1997}}}}
+* <!-- ''Anime News Network'' 2000a --> {{cite news |url=https://www.animenewsnetwork.com/news/2000-07-03/new-petition-for-mononoke |title=New petition for ''Mononoke'' |website=[[Anime News Network]] |date=July 3, 2000a |access-date=September 15, 2012 |archive-date=September 1, 2013 |archive-url=https://web.archive.org/web/20130901072519/http://www.animenewsnetwork.com/news/2000-07-03/new-petition-for-mononoke |url-status=live |ref={{harvid|Anime News Network|2000a}}}}
+* <!-- ''Anime News Network'' 2000b --> {{cite news |url=https://www.animenewsnetwork.com/news/2000-08-01/disney-blinks |title=Disney blinks |website=[[Anime News Network]] |date=August 1, 2000b |access-date=September 15, 2012 |archive-date=December 17, 2013 |archive-url=https://web.archive.org/web/20131217093633/http://www.animenewsnetwork.com/news/2000-08-01/disney-blinks |url-status=live |ref={{harvid|Anime News Network|2000b}}}}
+* <!-- ''Anime News Network'' 2000c --> {{cite news |url=https://www.animenewsnetwork.com/news/2000-10-11/princess-mononoke-dvd-confirmed |title=''Princess Mononoke'' DVD confirmed |website=[[Anime News Network]] |date=October 11, 2000c |access-date=September 15, 2012 |archive-date=December 17, 2013 |archive-url=https://web.archive.org/web/20131217093638/http://www.animenewsnetwork.com/news/2000-10-11/princess-mononoke-dvd-confirmed |url-status=live |ref={{harvid|Anime News Network|2000c}}}}
+* <!-- ''Anime News Network'' 2001 --> {{cite web |url=http://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing |title=''Animage'' top 100 anime listing |date=January 15, 2001 |website=[[Anime News Network]] |access-date=March 10, 2013 |archive-date=April 15, 2019 |archive-url=https://web.archive.org/web/20190415220509/https://www.animenewsnetwork.com/news/2001-01-15/animage-top-100-anime-listing |url-status=live |ref={{harvid|Anime News Network|2001}}}}
+* <!-- ''Annie Awards'' --> {{cite web |title=28th Annual Annie Awards |url=http://annieawards.org/28th-annie-awards |work=[[Annie Awards]] |archive-url=https://web.archive.org/web/20150630112936/http://annieawards.org/28th-annie-awards |archive-date=June 30, 2015 |access-date=May 2, 2015 |ref={{harvid|Annie Awards}}}}
+* <!-- Atkinson --> {{cite web |last=Atkinson |first=David |title=''Princess Mononoke'' |website=Mr. Showbiz |url=http://mrshowbiz.go.com/reviews/moviereviews/movies/PrincessMononoke_1999.html |access-date=2025-01-12 |archive-url=https://web.archive.org/web/20000817072050/http://mrshowbiz.go.com/reviews/moviereviews/movies/PrincessMononoke_1999.html |archive-date=2000-08-17}}
+* <!-- ''Box Office Mojo'' --> {{cite web |url=https://www.boxofficemojo.com/title/tt0119698/ |title=''Princess Mononoke'' |website=[[Box Office Mojo]] |publisher=[[IMDb]] |access-date=2026-04-10 |archive-url=https://web.archive.org/web/20260410043508/https://www.boxofficemojo.com/title/tt0119698/ |archive-date=2026-04-10 |url-status=live |ref={{harvid|Box Office Mojo}}}}
+* <!-- ''Box Office Mojo'' 2025 --> {{cite web |url=https://www.boxofficemojo.com/releasegroup/gr2396541445/ |title=''Princess Mononoke'' |website=[[Box Office Mojo]] |publisher=[[IMDb]] |access-date=2026-04-10 |archive-url=https://web.archive.org/web/20250902203316/https://www.boxofficemojo.com/releasegroup/gr2396541445/ |archive-date=2025-09-02 |ref={{harvid|Box Office Mojo|2025}}}}
+* <!-- ''Fumiko Yamaji Cultural Foundation'' --> {{cite web |url=http://www.yamaji-fumiko.org/movieaward/prizelist.html |title=映画賞 受賞者一覧 |trans-title=List of film award winners |language=ja |work=Fumiko Yamaji Cultural Foundation |access-date=January 28, 2024 |ref={{harvid|Fumiko Yamaji Cultural Foundation}} |archive-date=February 2, 2018 |archive-url=https://web.archive.org/web/20180202071954/http://www.yamaji-fumiko.org/movieaward/prizelist.html |url-status=live}}
+* <!-- Hisaishi --> {{cite web |last=Hisaishi |first=Joe |author-link=Joe Hisaishi |title=Discography |url=http://joehisaishi.com/discography.php |website=Joe Hisaishi Official Site |access-date=March 11, 2023 |archive-date=June 4, 2010 |archive-url=https://web.archive.org/web/20100604184310/http://joehisaishi.com/discography.php?cat=soundtrack |language=ja}}
+* <!-- ''International Press Academy'' --> {{Cite web |title=International Press Academy: Satellite Awards |url=https://pressacademy.com/satawards/awards2000.shtml |archive-url=https://web.archive.org/web/20100106221121/http://pressacademy.com/satawards/awards2000.shtml |access-date=January 28, 2024 |archive-date=January 6, 2010 |work=[[International Press Academy]] |ref={{harvid|International Press Academy}}}}
+* <!-- ''Japan Academy Film Prize'' --> {{cite web |url=http://www.japan-academy-prize.jp/prizes/?t=21 |title=21st Japan Academy Film Prize winners |work=[[Japan Academy Film Prize]] |access-date=May 1, 2015 |archive-date=September 3, 2017 |archive-url=https://web.archive.org/web/20170903222412/http://www.japan-academy-prize.jp/prizes/?t=21 |url-status=live |ref={{harvid|Japan Academy Film Prize}}}}
+* <!-- ''Japan Association of Theater Owners'' --> {{cite web |url=https://www.zenkoren.or.jp/zenkoren/goldengross/15_goldengross |title=第15回ゴールデングロス賞受賞作品 |trans-title=15th Golden Gross Award Winners |language=ja |work=Japan Association of Theater Owners |access-date=January 28, 2024 |ref={{harvid|Japan Association of Theater Owners}} |archive-date=June 4, 2023 |archive-url=https://web.archive.org/web/20230604174126/https://www.zenkoren.or.jp/zenkoren/goldengross/15_goldengross/ |url-status=live}}
+* <!-- ''Japan Composer's Association'' --> {{cite web |url=http://www.jacompa.or.jp/record/39.php |title=第39回日本レコード大賞 |trans-title=39th Japan Record Awards |language=ja |work=[[Japan Composer's Association]] |access-date=January 28, 2024 |ref={{harvid|Japan Composer's Association}} |archive-date=January 5, 2024 |archive-url=https://web.archive.org/web/20240105224959/https://jacompa.or.jp/record/39.php |url-status=live}}
+* <!-- Jenkins --> {{cite web |last=Jenkins |first=David |url=https://www.timeout.com/film/features/show-feature/8838/ |title=''Time Out''{{'s}} 50 greatest animated films: part 3 |work=[[Time Out (company)|Time Out]] |access-date=September 15, 2012 |archive-url=https://web.archive.org/web/20091008102752/http://www.timeout.com/film/features/show-feature/8838/ |archive-date=October 8, 2009}}
+* <!-- Kinnear & Winning 2014 --> {{cite web |last1=Kinnear |first1=Simon |last2=Winning |first2=Josh |url=http://www.totalfilm.com/features/50-greatest-animated-movies |title=75 greatest animated movies |date=2014-05-13 |website=[[Total Film]] |access-date=December 18, 2012 |archive-date=May 23, 2014 |archive-url=https://web.archive.org/web/20140523152706/http://www.totalfilm.com/features/50-greatest-animated-movies}}
+* <!-- Matsumoto & Hamada 2013 --> {{Cite episode |script-title=ja:鈴木 敏夫 |trans-title=Toshio Suzuki |series=100秒博士アカデミー |last1=Matsumoto |first1=Hitoshi |author-link1=Hitoshi Matsumoto |last2=Hamada |first2=Masatoshi |author-link2=Masatoshi Hamada |station=[[TBS Television (Japan)|TBS Television]] |network=[[RCC Broadcasting]] |language=ja |airdate=November 26, 2013}}
+* <!-- Mera 1997 --> {{cite AV media |last=Mera |first=Yoshikazu |author-link=Yoshikazu Mera |script-title=ja:もののけ姫 |trans-title=Princess Mononoke |date=1997-06-25 |type=CD |language=ja |location=Japan |publisher=[[Tokuma]] |id=TKDA-71167}}
+* <!-- ''Metacritic'' --> {{cite web |url=https://www.metacritic.com/movie/princess-mononoke |title=''Princess Mononoke'' |website=[[Metacritic]] |publisher=[[Fandom, Inc.]] |access-date=June 19, 2023 |archive-date=April 26, 2022 |archive-url=https://web.archive.org/web/20220426130147/https://www.metacritic.com/movie/princess-mononoke |url-status=live |ref={{harvid|Metacritic}}}}
+* <!-- Nakamura 2007 --> {{cite news |last=Nakamura |first=Hitoshi |title=110万冊無料配布。"ゲドを読む。"の狙いを読む 宮崎吾朗監督作品「ゲド戦記」DVDのユニークなプロモーション |url=https://business.nikkeibp.co.jp/article/manage/20070521/125248/ |work=[[Nikkei Business]] |date=May 23, 2007 |language=ja |access-date=August 16, 2018 |archive-url=https://web.archive.org/web/20180816194818/https://business.nikkeibp.co.jp/article/manage/20070521/125248/ |archive-date=August 16, 2018}}
+* <!-- ''Nausicaa.net'' a --> {{cite web |title=''Princess Mononoke'' – book list |url=http://www.nausicaa.net/miyazaki/books/mh/ |access-date=2024-12-23 |website=[[Nausicaa.net]] |archive-url=https://web.archive.org/web/20241202024543/http://www.nausicaa.net/miyazaki/books/mh/ |archive-date=2024-12-02 |url-status=live |ref={{harvid|Nausicaa.net a}}}}
+* <!-- ''Nausicaa.net'' b --> {{Cite web |url=http://www.nausicaa.net/miyazaki/mh/credits.html |title=''Princess Mononoke'' – credits |access-date=December 28, 2023 |website=[[Nausicaa.net]] |ref={{harvid|Nausicaa.net b}} |archive-date=June 12, 2010 |archive-url=https://web.archive.org/web/20100612093154/http://www.nausicaa.net/miyazaki/mh/credits.html |url-status=live}}
+* <!-- ''Nausicaa.net'' c --> {{cite web |url=http://www.nausicaa.net/miyazaki/mh/filminfo.html |title=''Princess Mononoke'' – film information |website=[[Nausicaa.net]] |access-date=August 7, 2024 |ref={{harvid|Nausicaa.net c}} |archive-url=https://web.archive.org/web/20230108053349/http://www.nausicaa.net/miyazaki/mh/filminfo.html |archive-date=January 8, 2023 |url-status=live}}
+* <!-- ''Nausicaa.net'' d --> {{cite web |url=http://www.nausicaa.net/miyazaki/video/mh |title=''Princess Mononoke'' – video list |access-date=January 22, 2024 |website=[[Nausicaa.net]] |ref={{harvid|Nausicaa.net d}} |archive-date=June 7, 2009 |archive-url=https://web.archive.org/web/20090607023737/http://www.nausicaa.net/miyazaki/video/mh/ |url-status=live}}
+* <!-- ''Nikkan Sports'' --> {{cite news |url=https://www.nikkansports.com/entertainment/award/ns-cinema/history/index.html |title=日刊スポーツ映画大賞 – 歴代受賞者・作品 |trans-title=Nikkan Sports Film Award – past winners and works |work=[[Nikkan Sports]] |access-date=January 22, 2024 |ref={{harvid|Nikkan Sports}} |archive-date=September 3, 2017 |archive-url=https://web.archive.org/web/20170903171200/https://www.nikkansports.com/entertainment/award/ns-cinema/history/index.html |url-status=live}}
+* <!-- ''The Numbers'' --> {{cite web |title=''Princess Mononoke'' |url=https://www.the-numbers.com/movie/Princess-Mononoke-(1997-Japan) |access-date=2026-04-10 |website=[[The Numbers (website)|The Numbers]] |publisher=Nash Information Services |archive-url=https://web.archive.org/web/20260219091505/https://www.the-numbers.com/movie/Princess-Mononoke-(1997-Japan)#tab=video-sales |archive-date=2026-02-19 |ref={{harvid|The Numbers}}}}
+* <!-- ''Rateinflation.com'' --> {{cite web |title=Japanese consumer price index: 1970 to 2025 |url=https://www.rateinflation.com/consumer-price-index/japan-historical-cpi/ |work=Rateinflation.com |access-date=2025-03-02 |archive-url=https://web.archive.org/web/20250118214125/https://www.rateinflation.com/consumer-price-index/japan-historical-cpi/ |archive-date=2025-01-18 |url-status=live |ref={{harvid|Rateinflation.com}}}}
+* <!-- ''Rotten Tomatoes'' --> {{cite web |url=https://www.rottentomatoes.com/m/princess_mononoke_1999/ |title=''Princess Mononoke'' |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |access-date={{Rotten Tomatoes data|access-date}} |archive-url=https://web.archive.org/web/20250516004710/https://www.rottentomatoes.com/m/princess_mononoke |archive-date=2025-05-16 |url-status=live |ref={{harvid|Rotten Tomatoes}}}} {{Rotten Tomatoes data|edit}}
+* <!-- ''Saturn Awards'' --> {{cite web |url=http://www.saturnawards.org/past.html |title=Past Saturn Awards |work=[[Saturn Awards]] |access-date=January 30, 2024 |archive-url=https://web.archive.org/web/20110927071657/http://www.saturnawards.org/past.html#homevideo |archive-date=September 27, 2011 |ref={{harvid|Saturn Awards}}}}
+* <!-- ''Science Fiction and Fantasy Writers of America'' --> {{cite web |url=https://nebulas.sfwa.org/award-year/2000/ |title=2000 Nebula Awards |access-date=January 29, 2024 |work=[[Science Fiction and Fantasy Writers of America]] |ref={{harvid|Science Fiction and Fantasy Writers of America}} |archive-date=January 29, 2022 |archive-url=https://web.archive.org/web/20220129042431/https://nebulas.sfwa.org/award-year/2000/ |url-status=live}}
+* <!-- ''Sports Hochi'' --> {{cite web |url=https://www.hochi.co.jp/html/db/geinou/hochimovie.htm |title=報知映画賞 受賞作品・受賞者 |trans-title=Hochi Film Award winning works |language=ja |website=[[Sports Hochi]] |access-date=January 27, 2024 |archive-url=https://web.archive.org/web/20051214224355/https://www.hochi.co.jp/html/db/geinou/hochimovie.htm |archive-date=December 14, 2005 |ref={{harvid|Sports Hochi}}}}
+* <!-- ''Takasaki Film Festival'' --> {{cite web |url=https://takasakifilmfes.jp/awards/405/ |script-title=ja:第12回高崎映画祭 受賞者・受賞作品 |trans-title=12th Takasaki Film Festival winning works |language=ja |work=[[Takasaki Film Festival]] |access-date=January 28, 2024 |ref={{harvid|Takasaki Film Festival}} |archive-date=May 30, 2023 |archive-url=https://web.archive.org/web/20230530082623/https://takasakifilmfes.jp/awards/405/ |url-status=live}}
+* <!-- Townsend 1999 --> {{cite web |last=Townsend |first=Emru |title=Neil Gaiman: the ''Sandman'' scribe on anime and Miyazaki |url=http://purpleplanetmedia.com/eye/inte/ngaiman.php |date=1999-11-08 |work=The Critical Eye |access-date=2024-11-13 |archive-url=https://web.archive.org/web/20171113020430/http://purpleplanetmedia.com/eye/inte/ngaiman.php |archive-date=2017-11-13}}
+* <!-- Toyama --> {{Cite web |last=Toyama |first=Ryoko |title=''Princess Mononoke'' – frequently asked questions |url=http://www.nausicaa.net/miyazaki/mh/faq.html |url-status=live |access-date=July 30, 2021 |website=[[Nausicaa.net]] |archive-date=February 13, 2017 |archive-url=https://web.archive.org/web/20170213124627/http://www.nausicaa.net/miyazaki/mh/faq.html}}
+{{refend}}
+
+== Further reading ==
+
+{{refbegin|30em}}
+* <!-- Alekseyeva 2018 --> {{harvc |last=Alekseyeva |first=Julia |c=Spirit princess and Snow Queen: the Soviet roots of ''Princess Mononoke'' |in=Denison |year=2018 |pages=77–96 |nb=yes |url=https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501329753&pdfid=9781501329753.ch-004.pdf&tocid=b-9781501329753-chapter4}}
+* <!-- Bartolomei, Ippolito, & Mezzino 2023 --> {{cite journal |last1=Bartolomei |first1=Cristiana |last2=Ippolito |first2=Alfonso |last3=Mezzino |first3=Davide |title=Representation of landscape and ecological vision in Miyazaki's filmography |journal=[[Sustainability (journal)|Sustainability]] |volume=15 |issue=20 |date=2023-10-22 |issn=2071-1050 |doi=10.3390/su152015132 |doi-access=free |article-number=15132 |bibcode=2023Sust...1515132B |hdl=11585/945939 |hdl-access=free}}
+* <!-- Cheng 2019 --> {{cite journal |last1=Cheng |first1=Catherine |date=June 2019 |title=Nature and the smiths in Hayao Miyazaki's ''Princess Mononoke'' |url=https://www.academia.edu/40841904 |journal=Tamkang Review |volume=49 |issue=2 |pages=27–48 |doi=10.6184/TKR.201906_49(2).0002 |format=PDF |issn=0049-2949 |archive-date=April 28, 2023 |access-date=April 28, 2023 |archive-url=https://web.archive.org/web/20230428033148/https://www.academia.edu/40841904/Nature_and_the_Smiths_in_Hayao_Miyazakis_Princess_Mononoke |url-status=live}}
+* <!-- Lamarre 2009 --> {{cite book |last=Lamarre |first=Thomas |author-link=Thomas Lamarre |title=The Anime Machine: A Media Theory of Animation |title-link=The Anime Machine |publisher=[[University of Minnesota Press]] |date=2009 |isbn=978-0-8166-5155-9}}
+* <!-- Morgan 2015 --> {{Cite journal |last=Morgan |first=Gwendolyn |year=2015 |title=Creatures in crisis: apocalyptic environmental visions in Miyazaki's ''Nausicaä of the Valley of the Wind'' and ''Princess Mononoke'' |journal=Resilience |volume=2 |issue=3 |pages=172–183 |doi=10.5250/resilience.2.3.0172 |doi-access=free |issn=2996-4849}}
+* <!-- Napier 2001 --> {{cite journal |last=Napier |first=Susan J. |author-link=Susan J. Napier |date=Fall 2001 |title=Confronting master narratives: history as vision in Miyazaki Hayao's cinema of de-assurance |journal=Positions |volume=9 |number=2 |pages=467–493 |doi=10.1215/10679847-9-2-467 |issn=1527-8271 |id={{Project MUSE|27987}}}}
+* <!-- Napier 2011 --> {{cite journal |last=Napier |first=Susan J. |author-link=Susan J. Napier |title=The garden and the sky: gender and space in the films of Miyazaki Hayao |journal=[[Proceedings of the Association for Japanese Literary Studies]] |volume=11 |date=2011-01-25 |issn=1531-5533 |doi=10.26812/pajls.v11i.1305 |doi-access=free}}
+* <!-- Sierra et al. 2015 --> {{Cite journal |last1=Sierra |first1=Wendi |last2=Berwald |first2=Alysah |last3=Guck |first3=Melissa |last4=Maeder |first4=Erica |date=Fall 2015 |title=Nature, technology, and ruined women: ecofeminism and ''Princess Mononoke'' |url=https://fisherpub.sjf.edu/sfd/vol1/iss1/5/ |journal=The Seneca Falls Dialogues Journal |volume=1 |issue=1 |s2cid=191180518 |ref={{harvid|Sierra et al.|2015}} |archive-date=January 4, 2025 |access-date=January 4, 2025 |archive-url=https://web.archive.org/web/20250104013020/https://fisherpub.sjf.edu/sfd/vol1/iss1/5/ |url-status=live}}
+* <!-- Rendell 2018 --> {{cite journal |last=Rendell |first=James |title=Bridge builders, world makers: transcultural Studio Ghibli fan crafting |journal=[[East Asian Journal of Popular Culture]] |volume=4 |issue=1 |date=April 2018 |issn=2051-7084 |doi=10.1386/eapc.4.1.93_1 |doi-access=free |pages=93–109}}
+* <!-- Smith & Parsons 2012 --> {{Cite journal |last1=Smith |first1=Michelle J. |last2=Parsons |first2=Elizabeth |title=Animating child activism: environmentalism and class politics in Ghibli's ''Princess Mononoke'' and Fox's ''Fern Gully'' |journal=[[Continuum (journal)|Continuum]] |volume=26 |issue=1 |pages=25–37 |date=February 2012 |doi=10.1080/10304312.2012.630138 |issn=1030-4312}}
+* <!-- Yoshioka 2018 --> {{cite journal |last=Yoshioka |first=Shiro |title=Toshio's movie castle: a historical overview of Studio Ghibli's collaboration and promotional strategies |journal=[[East Asian Journal of Popular Culture]] |volume=4 |issue=1 |date=2018-04-01 |issn=2051-7084 |doi=10.1386/eapc.4.1.15_1 |doi-access=free |pages=15–29 |ref=none}}
+{{refend}}
+
+== External links ==
+{{Sister project links
+ |1=''Princess Mononoke'' |display= |auto= |collapsible= |position= |style=
+ |wikt=no |c=yes |n=no |q=yes |s=no |b=no |v=no
+ |voy=no |species=no |d=Q186572 |m=no |mw=no}}
+* {{Official website|https://www.ghibli.jp/works/mononoke}} (in Japanese)
+* {{anime News Network|movie|197}}
+* {{IMDb title|0119698}}
+
+{{Navboxes
+|title=Related topics|state=collapsed
+|list1=
+{{Hayao Miyazaki}}
+{{Studio Ghibli Films}}
+{{Animation Kobe Feature Film Award}}
+{{Japan Academy Prize for Best Film}}
+{{Japanese submissions for the Academy Award}}
+{{Mainichi Film Award for Best Film}}
+{{Mainichi Film Award - Animation Film Award}}
+{{Japan Media Arts Festival for Animation of the Year}}
+{{Nikkan Sports Film Award for Yūjirō Ishihara Award}}
+}}
+{{Portal bar|Anime and manga|Film|Japan|Speculative fiction|Fantasy}}
+{{Authority control}}
+
+[[Category:1997 anime films]]
+[[Category:1997 fantasy films]]
+[[Category:1997 films]]
+[[Category:1997 in Japanese cinema]]
+[[Category:1990s historical fantasy films]]
+[[Category:1997 Japanese-language films]]
+[[Category:Ainu in fiction]]
+[[Category:Animated films about demons]]
+[[Category:Animated films about orphans]]
+[[Category:Animated films about princesses]]
+[[Category:Animated films about wolves]]
+[[Category:Animated films based on Japanese myths and legends]]
+[[Category:Animated films set in forests]]
+[[Category:Animated films set in Japan]]
+[[Category:Animated films set in the 14th century]]
+[[Category:Animated films set in the 15th century]]
+[[Category:Animated films set in the 16th century]]
+[[Category:Animated films set in the Middle Ages]]
+[[Category:Anime films with original screenplays]]
+[[Category:Films about environmental issues]]
+[[Category:Feminism in anime and manga]]
+[[Category:Fiction about deicide]]
+[[Category:Films about curses]]
+[[Category:Films directed by Hayao Miyazaki]]
+[[Category:Films produced by Toshio Suzuki]]
+[[Category:Films scored by Joe Hisaishi]]
+[[Category:Films set in the Muromachi period]]
+[[Category:Films with screenplays by Hayao Miyazaki]]
+[[Category:Historical fantasy anime and manga]]
+[[Category:Japanese animated fantasy films]]
+[[Category:Japanese epic films]]
+[[Category:Japanese fantasy adventure films]]
+[[Category:Japanese IMAX films]]
+[[Category:Miramax animated films]]
+[[Category:Nippon Television films]]
+[[Category:Philosophical anime and manga]]
+[[Category:Picture of the Year Japan Academy Prize winners]]
+[[Category:Saturn Award–winning films]]
+[[Category:Shenmo fiction]]
+[[Category:Shinto kami in anime and manga]]
+[[Category:Studio Ghibli animated films]]
+[[Category:Toho animated films]]
+[[Category:Tokuma Shoten anime]]

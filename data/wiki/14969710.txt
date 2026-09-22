@@ -1,0 +1,99 @@
+{{use dmy dates |date=August 2020}}
+{{Infobox television
+| image          = The Spider's Stratagem.jpg
+| caption        = U.S. home video cover
+| genre          = Political drama<br />Mystery
+| creator        = 
+| based_on       = ''[[Theme of the Traitor and the Hero]]'' <br> by [[Jorge Luis Borges]]
+| writer         = [[Bernardo Bertolucci]]<br>[[Marilù Parolini]]<br>Edoardo De Gregorio
+| director       = Bernardo Bertolucci
+| starring       = [[Giulio Brogi]]<br />[[Alida Valli]]
+| narrator       = 
+| music          = 
+| country        = Italy
+| language       = Italian
+| producer       = Giovanni Bertolucci
+| cinematography = [[Vittorio Storaro]]<br>[[Franco Di Giacomo]]
+| editor         = [[Roberto Perpignani]]
+| runtime        = 100 minutes
+| company        = [[RAI]]<br/>Red Film
+| budget         = 
+| network        = [[Rai 1]]
+| released       = {{Start date|df=y|1970|10|25}} 
+}}
+
+'''''The Spider's Stratagem''''' ({{langx|it|'''Strategia del ragno'''}}) is a 1970 Italian [[television film|made-for-television]] [[political drama|political]] [[mystery film|mystery-drama]] film written and directed by [[Bernardo Bertolucci]] and produced by [[RAI]].<ref name=Vacche>{{cite book |url=https://www.jstor.org/stable/j.ctt7ztjdv.12 |last=Vacche |first=Angela Dalle |title=The Body in the Mirror: Shapes of History in Italian Cinema |chapter=Antifascism after May 1968 |date=1992 |pages=219–250 |publisher=[[Princeton University Press]] |jstor=j.ctt7ztjdv.12 |access-date=7 May 2022 }}</ref> The screenplay is based on the 1944 short story ''[[Theme of the Traitor and the Hero]]'' by [[Jorge Luis Borges]].<ref name=Vacche/> The film stars [[Giulio Brogi]] and [[Alida Valli]], and follows the son of an [[antifascist]] [[martyr]] who travels to his namesake’s father’s hometown, uncovering secrets of his father’s past in the process.<ref name=Vacche/>
+
+The film was screened at the [[31st Venice International Film Festival]] before premiering on [[Rai 1]] on 25 October 1970, then rebroadcasting on [[Rai 2]] five days later. It received a limited theatrical release in [[Europe]] and the United States.<ref>{{cite web |url=https://www.sensesofcinema.com/2020/cteq/into-the-web-the-spiders-stratagem-bernardo-bertolucci-1970/ |last=Dixon |first=Wheeler Winston |title=Into the Web: ''The Spider's Stratagem'' (Bernardo Bertolucci, 1970) |date=January 2020 |publisher=[[Senses of Cinema]] |access-date=7 May 2022 }}</ref>
+
+==Plot==
+At the request of his father's mistress, Draifa, Athos Magnani arrives by train in the town of Tara, where his father, also named Athos Magnani, was killed before his birth. The father, remembered as a resistance hero and whom his son greatly resembles, was killed by unknown fascists in 1936—or so says Draifa, the statue in the square, and everyone in the town. Draifa contacted Athos after seeing his picture in a newspaper and expects him to solve or avenge his father's murder. He hears that a few days before his father's death, a fortune teller had predicted his death, as in ''[[Macbeth]]'', and on his corpse was an unopened letter warning him not to go ahead, as in ''[[Julius Caesar (play)|Julius Caesar]]''.
+
+His enquiries about his father's death are met with evasion or hostility. Eventually three acquaintances of his father tell him that he planned to blow up [[Benito Mussolini]] in the local theatre, during a performance of ''[[Rigoletto]]''. The plot failed and his father died after being betrayed to the police. Athos does not believe this tale.
+
+Unsure whether to stay in this claustrophobic town where the truth is never told, he hears the sound of ''Rigoletto'' coming from the theatre. Entering, he is told that his father failed to carry out the bombing out of fear, and himself tipped off the police. For this, his fellow conspirators killed him, with his agreement, and ascribed the death to unknown fascists.
+
+At a ceremony in front of his father's statue, Athos starts to tell this story but stops. Whether it was through betrayal or cowardice that his father had become a hero, the town, in his view, needs its myth. Resolving to leave, at the railway station he hears announcements that trains are increasingly late and, looking at the tracks, sees they are rusted and overgrown. He, too, is caught in the web.
+
+==Cast==
+{{castlist|
+*[[Giulio Brogi]] as Athos Magnani, father and son
+*[[Alida Valli]] as Draifa
+*[[Tino Scotti]] as Costa
+*[[Pippo Campanini]] as Garibazzi
+*Franco Giovannelli as Rasori
+*Allen Midgette as Sailor
+*[[Giuseppe Bertolucci]] as Lion bearer
+}}
+
+==Production==
+The film was shot in the summer of 1969.<ref name=":0">{{Cite web |last=Vigna |first=Nicolò |date=2018-06-22 |title=Strategia del ragno (Bernardo Bertolucci, 1970) - Recensione |url=https://specchioscuro.it/strategia-del-ragno/ |access-date=2026-02-09 |website=Lo Specchio Scuro |language=it-IT}}</ref> Locations included [[Sabbioneta]] for most scenes in Tara. The theater's exterior is Sabbioneta's Palazzo Ducale, and its interior is [[Fidenza]]'s Teatro Magnani. The square of the hotel is in [[Pomponesco]], with a levee in the background. Draifa's villa is the Villa Longari Ponzoni in [[Rivarolo del Re ed Uniti]]. The train station is that of [[Brescello]].<ref>{{Cite web |last=Svanoni |first=Massimo |date=13 December 2010 |title=Le location esatte di Strategia del ragno |url=https://www.davinotti.com/articoli/le-location-esatte-di-strategia-del-ragno/382 |access-date=2026-02-09 |website=il Davinotti |language=it}}</ref>
+
+== Distribution ==
+The film premiered on August 25, 1970, at the 31st Venice International Film Festival.<ref>{{Cite news |last=Pestelli |first=Leo |date=26 August 1970 |title=Nella "tela" di Bertolucci |url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,7/articleid,0132_01_1970_0177_0007_4823366/ |work=La Stampa |page=7 |volume=104 |issue=177}}</ref><ref>{{Cite web |title=Strategia del ragno |url=http://asac.labiennale.org/it/passpres/cinema/ava-ricerca.php?scheda=10394&nuova=1&Sidopus=10394&ret=/it/ricerca/index.php?c=f&s=Strategia+del+ragno |archive-url=https://web.archive.org/web/20201204084628/http://asac.labiennale.org/it/passpres/cinema/ava-ricerca.php?scheda=10394&nuova=1&Sidopus=10394&ret=/it/ricerca/index.php?c=f&s=Strategia+del+ragno |archive-date=2020-12-04 |access-date=2026-02-09 |website=ASAC Dati |language=it}}</ref> It was broadcast in prime time on the national television channel Programma Nazionale on October 25, 1970, and then repeated on Secondo Programma on October 30 of the same year.<ref>{{cite news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,6/articleid,1525_02_1970_0227_0006_21377301/|title=Mao, is it allowed?|author=Ugo Buzzolan|newspaper=[[Stampa Sera]]|date=October 31, 1970|access-date=September 16, 2019|volume=102|issue=227|page=6}}</ref><ref>{{cite news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,7/articleid,0133_01_1970_0234_0007_6481594/|title=Theology and slaps|author=Ugo Buzzolan|newspaper=[[La Stampa]]|date=October 31, 1970|access-date=September 16, 2019|volume=104|issue=234|page=7}}</ref><ref>{{cite news|url=http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,6/articleid,0133_01_1970_0229_0006_4838183/|title=Today on television|newspaper=[[La Stampa]]|date=October 25, 1970|access-date=September 16, 2019|volume=104|issue=229|page=6}}</ref>
+
+==Themes and reception==
+Upon its initial release, the film was harshly criticized by critic [[Goffredo Fofi]], but defended by other critics such as [[Gian Luigi Rondi]] and [[Tullio Kezich]]. In France, reviews were more positive,<ref name=":0" /> receiving good reviews from publications such as ''[[Le Monde]]''.<ref>{{Cite news |date=1971-11-30 |title=" LA STRATÉGIE DE L'ARAIGNÉE ", de Bernardo Bertolucci |url=https://www.lemonde.fr/archives/article/1971/11/30/la-strategie-de-l-araignee-de-bernardo-bertolucci_2451278_1819218.html |access-date=2026-02-09 |work=Le Monde |language=fr}}</ref>
+
+Film historian/scholar [[Robert P. Kolker]] wrote about ''The Spider's Stratagem'' in his 1985 book ''Bernardo Bertolucci''. Writing about Bertolucci's portrayal of the hero and his son, and the son's attempt to find out the "truth" of his martyred father's past, Kolker said, "The truth, he discovers, is a complex web of illusions and deception, of lies, fear, and paralysis, of perceptions gone awry, and of time brought to a stop."<ref name=Music-Letters>{{cite journal |last1=Crisp |first1=Deborah |last2=Hillman |first2=Roger |date=May 2001 |title=Verdi and Schoenberg in Bertolucci's ''The Spider's Stratagem'' |url=https://www.jstor.org/stable/3526061 |journal=Music & Letters |publisher=[[Oxford University Press]] |volume=82 |issue=2 |pages=251–267 |doi=10.1093/ml/82.2.251 |jstor=3526061 |access-date=7 May 2022 |url-access=subscription }}</ref> Kolker observed the film was "about the political effects of spectacle, in the fascist penchant for rhetorical action...By alluding to the operatic spectacle without actually showing it, Bertolucci permits the viewer to comprehend participating in the spectacle."<ref name=Music-Letters/> Kolker said the film was Bertolucci's "most modernist," a modernism based on identification rather than distance.<ref name=Vacche/>
+
+American film critic [[Jay Cocks]], in a contemporary review for [[Time (magazine)|Time Magazine]], wrote, “''The Spider’s Stratagem'' boasts no superstars in the cast, no odor of brimstone and no heavy hype. It should not need them. Less exotic than [[The Conformist (1970 film)|''The Conformist'']] or [[Last Tango in Paris|''Tango'']], certainly more subtle and contained, ''The Spider’s Stratagem'' is Bertolucci’s best movie.” <ref>{{cite web |url=https://time.com/archive/6639860/cinema-labyrinths/ |title=Cinema: Labyrinths |last=Cocks |first=Jay |date=January 29, 1973 |website=Time Magazine |publisher=Time |access-date=September 11, 2024 |quote=}}</ref>
+
+[[Roger Ebert]] writing for ''[[Chicago Sun-Times]]'' said the film had "a beautiful cinematic grace, a way of establishing atmosphere and furthering plot without a lot of talking," and that it wasn't a mass-audience movie. He added that the film would "have most appeal to people sensitive to Bertolucci's audacious use of camera movements and colors."<ref>{{cite web |url=https://www.rogerebert.com/reviews/the-spiders-stratagem-1970 |last=Ebert |first=Roger |title=Reviews: ''The Spider's Stratagem'' |date=1 January 1970 |publisher=[[Chicago Sun-Times]] |access-date=11 May 2022 }}</ref>
+
+Pauline Kael, critic for ''The New Yorker,'' wrote that "it didn't have enough content to justify the atmosphere of mystification."<ref>{{Cite book |last=Kael |first=Pauline |url=https://www.google.com/books/edition/The_Age_of_Movies_Selected_Writings_of_P/tkShTL84MrcC?hl=en&gbpv=1&dq=the+age+of+movies+selected+writing+of+pauline+kael&printsec=frontcover |title=The Age of Movies: Selected Writings of Pauline Kael: A Library of America Special Publication |date=2011-10-27 |publisher=Library of America |isbn=978-1-59853-171-8 |pages=276 |language=en}}</ref>
+
+{{Rotten Tomatoes prose|100|8.6|13|ref=yes|access-date={{RT data|access date}}}}
+
+==Notes==
+<references/>
+
+==External links==
+* {{IMDb title| id=0066413|title=The Spider's Stratagem}}.
+* {{cite web
+ |last         = Allen B. Ruch
+ |title        = Borges - Film: The Spider's Stratagem
+ |date = 21 September 2019
+ |url          = http://shipwrecklibrary.com/borges/borges-film-spiders-stratagem
+}}
+
+{{Bernardo Bertolucci}}
+
+{{DEFAULTSORT:Spider's Stratagem}}
+[[Category:1970 films]]
+[[Category:1970 television films]]
+[[Category:1970 drama films]]
+[[Category:Films based on short fiction]]
+[[Category:Films directed by Bernardo Bertolucci]]
+[[Category:Films set in 1936]]
+[[Category:Italian independent films]]
+[[Category:Italian television films]]
+[[Category:1970 Italian-language films]]
+[[Category:Italian political drama films]]
+[[Category:Films based on works by Jorge Luis Borges]]
+[[Category:1970s mystery drama films]]
+[[Category:1970 mystery films]]
+[[Category:Films about Italian resistance movement]]
+[[Category:Films shot in Lombardy]]
+[[Category:Films about Fascist Italy]]
+[[Category:Films with screenplays by Bernardo Bertolucci]]

@@ -1,0 +1,504 @@
+{{Short description|1971 film directed by Stanley Kubrick}}
+{{Use British English|date=March 2020}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox film
+| image          = A Clockwork Orange (1971).png
+| caption        = <!--See talkpage before editing-->US theatrical release poster{{efn|There is conflicting information about who made this poster, with some sources crediting [[Philip Castle]]<ref>{{cite web |url=https://www.theguardian.com/artanddesign/2016/jul/07/stanley-kubrick-and-me-designing-clockwork-orange-poster |title=Stanley Kubrick and me: designing the poster for A Clockwork Orange |website=The Guardian |date=July 7, 2016 |access-date=December 13, 2025}}</ref><ref>{{cite web |url=https://clockworkorangeart.co.uk/ |title=Philip Castle's Clockwork Orange Art |website=Clockwork Orange Art |access-date=December 13, 2025}}</ref> while many others credit [[Bill Gold]]<ref>{{cite web |url=https://www.afi.com/news/meet-bill-gold-the-man-behind-the-most-iconic-movie-posters-ever/ |title=Meet Bill Gold: The Man Behind the Most Iconic Movie Posters Ever |website=AFI |date=February 10, 2016 |access-date=December 13, 2025}}</ref><ref>{{cite web |url=https://www.postersandprints.com.au/blogs/poster-artists/bill-gold-designed-posters-for-casablanca-and-a-clockwork-orange |title=Bill Gold – Casablanca & Clockwork Orange |website=Posters + Prints |access-date=December 13, 2025}}</ref>.}}
+| director       = [[Stanley Kubrick]]
+| producer       = Stanley Kubrick
+| screenplay     = Stanley Kubrick
+| based_on       = {{based on|''[[A Clockwork Orange (novel)|A Clockwork Orange]]''|[[Anthony Burgess]]}}
+| starring       = {{plainlist|
+* [[Malcolm McDowell]]
+* [[Patrick Magee (actor)|Patrick Magee]]
+* [[Adrienne Corri]]
+* [[Miriam Karlin]]
+<!-- Per poster billing block -->
+}}
+| music          = [[Wendy Carlos]]{{efn|The film credits her birth name of Walter.}}
+| cinematography = [[John Alcott]]
+| editing        = [[Bill Butler (film editor)|Bill Butler]]
+| studio         = {{plainlist|
+* Polaris Productions
+* [[Hawk Films]]
+}}
+| distributor    = [[Warner Bros. Pictures|Warner Bros.]] (United States)<br>[[Columbia Pictures|Columbia]]-Warner Distributors (United Kingdom)
+| released       = {{film date|df=yes|1971|12|19|New York City|1972|01|13|United Kingdom<ref name=UKgross />|1972|02|02|United States}}
+| runtime        = 136 minutes<!--Theatrical runtime: 136:25--><ref>{{cite news |title=A Clockwork Orange |url=https://www.bbfc.co.uk/release/a-clockwork-orange-q29sbgvjdglvbjpwwc0yodm5ode |website=BBFC |date=13 February 2019 |access-date=6 August 2021 |archive-date=26 October 2022 |archive-url=https://web.archive.org/web/20221026100554/https://www.bbfc.co.uk/release/a-clockwork-orange-q29sbgvjdglvbjpwwc0yodm5ode |url-status=live }}</ref>
+| country        = {{plainlist|
+* United Kingdom<ref name="BFI">{{cite web |title=A Clockwork Orange (1971) |url=http://explore.bfi.org.uk/4ce2b6a7b69f6 |publisher=[[British Film Institute]] |access-date=20 September 2014 |archive-url=https://web.archive.org/web/20140811023512/http://explore.bfi.org.uk/4ce2b6a7b69f6 |archive-date=11 August 2014 |url-status=dead}}</ref>
+* United States<ref name="BFI" />
+}}
+| language       = English<!-- [[Nadsat]] is pidgin, not a distinct language. -->
+| budget         = $1.3&nbsp;million<ref name=la>{{cite news |title=Kubrick Keeps 'em in Dark with 'Eyes Wide Shut' |url=https://www.latimes.com/archives/la-xpm-1998-sep-29-fi-27418-story.html |page=[https://web.archive.org/web/20160929001636/http://articles.latimes.com/1998/sep/29/business/fi-27418/2 2] |newspaper=[[Los Angeles Times]] |date=29 September 1998 |access-date=15 April 2021 |archive-date=12 January 2019 |archive-url=https://web.archive.org/web/20190112143031/http://articles.latimes.com/1998/sep/29/business/fi-27418 |url-status=live}}</ref>
+| gross          = $114&nbsp;million<ref name=la />
+}}
+
+'''''A Clockwork Orange''''' is a 1971 [[dystopian fiction|dystopian]] [[crime film]]<!--This was agreed to on the Talk page. Please do not add sub-genres without discussion there.--> written, produced, and directed by [[Stanley Kubrick]]. It is based on [[Anthony Burgess]]'s [[A Clockwork Orange (novel)|1962 novel]]. The film employs disturbing and violent themes to comment on [[psychiatry]], [[juvenile delinquency]], youth gangs, and broader social, political, and economic issues in a dystopian near-future Britain.
+
+[[Alex (A Clockwork Orange)|Alex]] ([[Malcolm McDowell]]), the central character, is a charismatic,<ref>{{cite web | last=Romney | first=Jonathan | title=A Clockwork Orange at 40 | website=The Independent | date=8 January 2012 | url=https://www.independent.co.uk/arts-entertainment/films/news/a-clockwork-orange-at-40-6286748.html | access-date=13 January 2023 | archive-date=1 July 2019 | archive-url=https://web.archive.org/web/20190701185623/https://www.independent.co.uk/arts-entertainment/films/news/a-clockwork-orange-at-40-6286748.html | url-status=live }}</ref> anti-social delinquent<!-- See section below #Differences_between_the_film_and_the_novel for discussion about last name --> whose interests include [[classical music]] (especially that of [[Ludwig van Beethoven|Beethoven]]), committing rape, theft, and "ultra-violence". He leads a small gang of thugs, Pete ([[Michael Tarn]]), Georgie ([[James Marcus (English actor)|James Marcus]]), and Dim ([[Warren Clarke]]), whom he calls his ''droogs'' (from the [[Russian language|Russian]] word {{lang|ru|друг}}, which is "friend", "buddy"). The film chronicles the horrific crime spree of his gang, his capture, and attempted rehabilitation via an experimental psychological conditioning technique (the "Ludovico Technique") promoted by the Minister of the Interior ([[Anthony Sharp]]). Alex narrates most of the film in [[Nadsat]], a fractured adolescent slang composed of [[Slavic languages]] (especially Russian), English, and [[Rhyming slang|Cockney rhyming slang]].
+
+The film premiered in New York City on 19 December 1971 and was released in the United Kingdom on 13 January 1972. The film was met with polarised reviews from critics and was controversial due to its depictions of graphic violence. After it was cited as having inspired [[Copycat crime|copycat acts]] of violence, the film was withdrawn from British cinemas at Kubrick's behest, and it was also banned in several other countries. In the years following, the film underwent a critical re-evaluation and earned a [[cult following]]. It received several awards and nominations, with four nominations at the [[44th Academy Awards]], including [[Academy Award for Best Picture|Best Picture]].
+
+In the [[British Film Institute]]'s 2012 ''[[Sight & Sound]]'' polls of the world's greatest films, ''A Clockwork Orange'' was ranked 75th in the directors' poll and 235th in the critics' poll. In 2020, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".
+
+== Plot ==
+<!-- Per Film project guidelines, please keep this plot section between 400 and 700 words long. -->
+[[File:Stanley Kubrick The Exhibition - LACMA - A Clockwork Orange - Korova Milk Bar (8998526527).jpg|thumb|right|[[Human furniture]] from the Korova milk bar, where the "milk-plus" was served]]
+In a futuristic Britain, [[Alex (A Clockwork Orange)|Alex DeLarge]] is leader of a gang of "droogs": Georgie, Dim, and Pete. They engage in an intoxicated evening of "ultra-violence", which includes beating a vagrant and fighting a rival gang.  They beat writer Frank Alexander to the point of crippling him, and Alex rapes Alexander's wife while singing "[[Singin' in the Rain (song)|Singin' in the Rain]]".  The next day Alex's probation officer, P. R. Deltoid, cautions him.
+
+Alex's droogs are not content with petty crime and want more equality and high-yield thefts, but Alex asserts his authority by attacking them. Alex invades the home of a wealthy "[[Cat lady|cat-lady]]" and bludgeons her with a phallic sculpture while his droogs remain outside. On hearing sirens, Alex tries to flee, but Dim smashes a bottle in his face and leaves him to be arrested. The woman dies of her injuries, and Alex is sentenced to 14 years in prison for murder.
+
+Two years into the sentence, Alex accepts an offer to be a test subject for the Minister of the Interior's new [[Ludovico technique]], an experimental [[aversion therapy]] for rehabilitating criminals within two weeks. Alex is strapped to a chair, his eyes clamped open, and injected with drugs. He is forced to watch films of sex and violence, some accompanied by his favourite composer, [[Ludwig van Beethoven]]. Alex is nauseated and, fearing he will be sick upon hearing Beethoven, begs for an end to the treatment.
+
+The Minister demonstrates Alex's rehabilitation to officials. Alex is unable to fight back against an actor who taunts and attacks him, and becomes ill upon attempting to grope a topless woman. The prison chaplain complains that Alex has been robbed of his free will; the Minister asserts that the Ludovico technique will cut crime and alleviate crowding in prisons, allowing more space for [[political prisoner]]s.
+
+Released from prison, Alex finds his possessions have been sold to provide compensation for his victims and his parents have let out his room. A vagrant whom Alex attacked years earlier attacks him with his friends. Alex is saved by two policemen whom he is shocked to find are his former droogs Dim and Georgie. They beat and nearly drown him before abandoning him. Alex collapses on the doorstep of a nearby home.
+
+Alex wakes to find himself in the home of Mr Alexander, who now uses a wheelchair. Alexander does not recognise Alex from the previous attack but knows of him and the Ludovico technique from the newspapers. He prepares to present Alex to his colleagues as a political weapon. Alex breaks into "Singin' in the Rain" while bathing, and Alexander realises it was he who assaulted his wife and him. Alexander drugs Alex and locks him in a bedroom, then plays [[Symphony No. 9 (Beethoven)|Beethoven's Ninth Symphony]] loudly from the floor below. Unable to withstand the pain, Alex attempts suicide by jumping from the window.
+
+Alex awakes in hospital with multiple injuries. During psychological tests, he finds he no longer has aversions to violence and sex. The Minister arrives and apologises, saying the government has had Mr Alexander institutionalised. He offers to take care of Alex and get him a job in return for his co-operation with his election campaign and public relations counter-offensive. The Minister brings in a stereo system playing Beethoven's Ninth. Alex contemplates violence and has thoughts of having sex with a woman in front of an approving crowd, thinking, "I was cured, all right!"
+
+==Cast==
+[[File:Malcolm McDowell Clockwork Orange.png|thumb|Malcolm McDowell as Alex DeLarge]]
+{{Cast listing|
+* [[Malcolm McDowell]] as [[Alex (A Clockwork Orange)|Alex DeLarge]]
+* [[Patrick Magee (actor)|Patrick Magee]] as Frank Alexander
+* [[Michael Bates (actor)|Michael Bates]] as Chief Guard Barnes
+* [[Warren Clarke]] as Dim
+* [[John Clive]] as stage actor
+* [[Adrienne Corri]] as Mary Alexander
+* [[Carl Duering]] as Dr Brodsky
+* [[Paul Farrell]] as tramp
+* [[Clive Francis]] as Joe the Lodger
+* [[Michael Gover]] as prison governor
+* [[Miriam Karlin]] as "Catlady" Weathers
+* [[James Marcus (English actor)|James Marcus]] as Georgie
+* [[Aubrey Morris]] as P. R. Deltoid
+* [[Godfrey Quigley]] as prison chaplain
+* [[Sheila Raynor]] as Alex's mother
+* [[Madge Ryan]] as Dr Branom
+* [[John Savident]] as conspirator Dolin
+* [[Anthony Sharp]] as Frederick, Minister of the Interior
+* [[Philip Stone]] as Alex's father
+* Pauline Taylor as Dr Taylor
+* [[Margaret Tyzack]] as conspirator Rubinstein
+* [[Michael Tarn]] as Pete
+* [[Gillian Hills]] as Sonietta, one of the record shop girls.
+* [[Virginia Wetherell]] as Stage Dancer
+}}
+
+The film provided early roles for [[Steven Berkoff]], [[David Prowse]], and [[Carol Drinkwater]], who appeared as a police officer, Mr Alexander's attendant Julian, and a nurse, respectively.<ref>{{cite web |title=A Clockwork Orange (1971) |website=[[AFI Catalog of Feature Films]] |url=https://catalog.afi.com/Catalog/moviedetails/54041 |access-date=28 May 2022 |archive-date=27 October 2020 |archive-url=https://web.archive.org/web/20201027031942/https://catalog.afi.com/Catalog/moviedetails/54041 |url-status=live }}</ref>
+
+==Themes==
+===Morality===
+The film's central moral question is the definition of "goodness" and whether it makes sense to use aversion therapy to stop immoral behaviour.<ref>{{cite web |work=[[Reason (magazine)|Reason]] |date=1 June 2005 |title=Should We Cure Bad Behavior? |url=http://reason.com/archives/2005/06/01/should-we-cure-bad-behavior|access-date=23 December 2009|archive-url=https://web.archive.org/web/20110606014445/http://reason.com/archives/2005/06/01/should-we-cure-bad-behavior|archive-date=6 June 2011|url-status=live}}</ref> Kubrick, writing in ''Saturday Review'', described the film: "A social satire dealing with the question of whether behavioural psychology and psychological conditioning are dangerous new weapons for a totalitarian government to use to impose vast controls on its citizens and turn them into little more than robots."<ref>{{cite book |last1=Sperry |first1=Len |title=Mental Health and Mental Disorders |date=2015 |publisher=[[Bloomsbury Publishing]] |isbn=979-8-216-11675-2 |page=146 |url=https://books.google.com/books?id=suTNEAAAQBAJ&dq=%22A+social+satire+dealing+with+the+question+of+whether+behavioural+psychology+and+psychological+conditioning+are+dangerous+new+weapons+for+a+totalitari&pg=RA3-PT146 |access-date=29 October 2023 |archive-date=24 November 2023 |archive-url=https://web.archive.org/web/20231124221353/https://books.google.com/books?id=suTNEAAAQBAJ&dq=%22A+social+satire+dealing+with+the+question+of+whether+behavioural+psychology+and+psychological+conditioning+are+dangerous+new+weapons+for+a+totalitari&pg=RA3-PT146 |url-status=live }}</ref> Similarly, on the production's call sheet, Kubrick wrote: "It is a story of the dubious redemption of a teenage delinquent by condition-reflex therapy. It is, at the same time, a running lecture on free-will."
+
+After aversion therapy, Alex behaves like a good member of society, though not through choice. His goodness is involuntary; he has become the titular clockwork orange—organic on the outside, mechanical on the inside. After Alex has undergone the Ludovico technique, the chaplain criticises his new attitude as false, arguing that true goodness ''must'' come from within. This leads to the theme of abusing liberties—personal, governmental, civil—by Alex, with two conflicting political forces, the Government and the Dissidents, both manipulating Alex purely for their own political ends.<ref>{{cite news |work=[[The New York Times]] |title=Books of The Times |date=19 March 1963 |url=https://www.nytimes.com/books/97/11/30/home/burgess-orange.html|access-date=4 February 2017|archive-url=https://web.archive.org/web/20170202042027/http://www.nytimes.com/books/97/11/30/home/burgess-orange.html|archive-date=2 February 2017|url-status=live}}</ref> The story portrays the "conservative" and "leftist" parties as equally worthy of criticism. The writer Frank Alexander, a victim of Alex and his gang, wants revenge against Alex and sees him as a means of definitively turning the populace against the incumbent government and its new regime. He fears the new government and, in a telephone conversation, he says: "Recruiting brutal young roughs into the police; proposing debilitating and will-sapping techniques of conditioning. Oh, we've seen it all before in other countries; the thin end of the wedge! Before we know where we are, we shall have the full apparatus of [[totalitarianism]]."
+
+On the other side, the Minister of the Interior (the Government) jails Mr Alexander (the Dissident Intellectual) on the excuse of his endangering Alex (the People), rather than the government's totalitarian regime (described by Mr Alexander). It is unclear whether he has been harmed; however, the Minister tells Alex that the writer has been denied the ability to write and produce "subversive" material that is critical of the incumbent government and meant to provoke political unrest.
+
+===Psychology===
+[[File:LudovicoMalcolmMcDowellAClockworkOrangetrailer.png|thumb|Ludovico technique apparatus]]
+
+The film critiques the [[behaviourism]] or "behavioural psychology" propounded by psychologists [[John B. Watson]] and [[B. F. Skinner]]. Burgess disapproved of behaviourism, calling Skinner's book ''[[Beyond Freedom and Dignity]]'' (1971) "one of the most dangerous books ever written". Although behaviourism's limitations were conceded by its principal founder, Watson, Skinner argued that [[behaviour modification]]—specifically, [[operant conditioning]] (learned behaviours via systematic reward-and-punishment techniques) rather than the [[Classical conditioning|"classical" Watsonian conditioning]]—is the key to an ideal society. The film's Ludovico technique is widely perceived as a parody of [[aversion therapy]], which is a form of classical conditioning.<ref>{{cite web |author=Theodore Dalrymple |title=A Prophetic and Violent Masterpiece |url=http://www.city-journal.org/html/16_1_oh_to_be.html | work=City Journal |date=1 January 2006 |access-date=13 March 2011 | archive-url=https://web.archive.org/web/20110201170544/http://www.city-journal.org/html/16_1_oh_to_be.html | archive-date=1 February 2011 | url-status=live}}</ref>
+
+Author Paul Duncan said: "Alex is the narrator so we see everything from his point of view, including his mental images. The implication is that all of the images, both real and imagined, are part of Alex's fantasies."{{sfn|Duncan|2003|p=142}}
+
+Psychiatrist Aaron Stern, the former head of the MPAA rating board, believed that Alex represents man in his natural state, the unconscious mind. Alex becomes "civilised" after receiving his Ludovico "cure" and the sickness in the aftermath Stern considered to be the "neurosis imposed by society".{{sfn|Duncan|2003|p=128}}
+
+Kubrick told film critics Philip Strick and [[Penelope Houston (film critic)|Penelope Houston]]: "Alex makes no attempt to deceive himself or the audience as to his total corruption or wickedness. He is the very personification of evil. On the other hand, he has winning qualities: his total candour, his wit, his intelligence, and his energy; these are attractive qualities and ones, I might add, which he shares with [[Richard III (play)#Richard as anti-hero|Richard III]]."{{sfn|Duncan|2003|p=129}}
+
+===Society===
+The society depicted in the film was perceived by some as communist (as [[Michel Ciment]] pointed out in an interview with Kubrick) due to its slight ties to Russian culture. The teenage slang has a heavy Russian influence, as in the novel; Burgess explains the slang as being, in part, intended to draw a reader into the world of the book's characters and to prevent the book from becoming outdated. There is some evidence to suggest that the society is a socialist one, or perhaps a society evolving from failed socialism into an authoritarian society. In the novel, streets have paintings of working men in the style of Russian socialist art, and the film shows a mural of socialist artwork with obscenities drawn on it. As Malcolm McDowell points out on the DVD commentary, Alex's residence was shot on failed municipal architecture and the name "Municipal Flat Block 18A, Linear North" alludes to socialist-style housing.<ref name="Ciment1982Clockwork">[[#Ciment1982Clockwork|Ciment 1982.]] Online at: [http://www.visual-memory.co.uk/amk/doc/interview.aco.html Kubrick on A Clockwork Orange: An interview with Michel Ciment] {{Webarchive|url=https://web.archive.org/web/20190417145347/http://www.visual-memory.co.uk/amk/doc/interview.aco.html|date=17 April 2019}}</ref><ref name="Sprach">{{Cite web |url=https://www.sprachcaffe.com/english/magazine-article/in-the-presence-of-stars-famous-filming-locations-near-sprachcaffe-schools-2017-03-31.htm |title=In the presence of stars: Famous filming locations near Sprachcaffe schools |last1=Zicari |first1=Greta |last2=MacPherson |first2=Tom |date=31 March 2017 |access-date=15 June 2018|archive-url=https://web.archive.org/web/20180615111056/https://www.sprachcaffe.com/english/magazine-article/in-the-presence-of-stars-famous-filming-locations-near-sprachcaffe-schools-2017-03-31.htm|archive-date=15 June 2018|url-status=live}}</ref>
+
+When the new right-wing government takes power, the atmosphere is evidently more authoritarian than the anarchist air of the film's first half. Kubrick's response to Ciment's question remained ambiguous as to what kind of society it is. Kubrick asserted that the film held comparisons between both ends of the political spectrum and that there is little difference between the two. Kubrick stated: "The Minister, played by Anthony Sharp, is clearly a figure of the Right. The writer, Patrick Magee, is a lunatic of the Left... They differ only in their dogma. Their means and ends are hardly distinguishable."<ref name="Ciment1982Clockwork"/>
+
+==Comparison of film and novel==
+Kubrick's film is relatively faithful to the Burgess novel, omitting only the final, positive chapter, in which Alex matures and outgrows sociopathy. While the film ends with Alex being offered an open-ended government job, implying he remains a sociopath at heart, the novel ends with Alex's positive change in character. This plot discrepancy occurred because Kubrick based his screenplay on the novel's American edition, in which the final chapter had been deleted on the insistence of its American publisher.<ref>{{cite web |url=http://www.visual-memory.co.uk/faq/index2.html#slot21 |title=The Kubrick FAQ Part 2 | website=Visual-memory.co.uk| access-date=1 May 2006| archive-url=https://web.archive.org/web/20080818015944/http://www.visual-memory.co.uk/faq/index2.html#slot21| archive-date=18 August 2008| url-status=live}}</ref> He claimed not to have read the complete, original version of the novel until he had almost finished writing the screenplay, and that he never considered using it.{{citation needed|date=December 2023}} The introduction to the 1996 edition of ''A Clockwork Orange'' says that Kubrick found the end of the original edition too blandly optimistic and unrealistic.
+* Critic Randy Rasmussen has argued that the government in the film is in a shambolic state of desperation, whereas the government in the novel is quite strong and self-confident. The former reflects Kubrick's preoccupation with the theme of acts of self-interest masked as simply following procedure.<ref>{{Cite book |last=Rasmussen |first=Randy |url=https://books.google.com/books?id=7BBmAAAAMAAJ |title=Stanley Kubrick: Seven Films Analyzed |date=2001 |publisher=McFarland |isbn=978-0-7864-0870-2 |pages=112 |language=en}}</ref>
+* In the film, Alex has a pet snake. There is no mention of this in the novel.<ref>{{Cite book |last=Baxter |first=John |url=https://archive.org/details/stanleykubrickbi00baxt |title=Stanley Kubrick: A Biography |date=1998 |publisher=HarperCollins |isbn=978-0-00-638445-8 |pages=255 |language=en}}</ref>
+* In the novel, F. Alexander recognises Alex through several careless references to the previous attack (such as his wife then claiming they did not have a telephone). In the film, Alex is recognised when singing the song 'Singing in the Rain' in the bath, which he had hauntingly done while attacking F. Alexander's wife. The song does not appear at all in the book, as it was an improvisation by actor Malcolm McDowell when Kubrick asked him if he could dance on the fifth day of filming the scene, after complaining that the rape scene was too "stiff". McDowell picked 'Singing in the Rain' because it was the only song he "sort of knew half the lyrics to".<ref>{{Cite book |last=LoBrutto |first=Vincent |url=https://archive.org/details/stanleykubrickbi0000lobr |title=Stanley Kubrick: A Biography |date=1998 |publisher=Faber & Faber |isbn=978-0-571-19393-6 |pages=365–366 |language=en}}</ref><ref>{{Cite book |last1=Walker |first1=Alexander |url=https://books.google.com/books?id=rwhy4BKnGNcC |title=Stanley Kubrick, Director |last2=Taylor |first2=Sybil |last3=Ruchti |first3=Ulrich |date=October 3, 2000 |publisher=W. W. Norton & Company |isbn=978-0-393-04601-4 |pages=204 |language=en}}</ref><ref>{{Cite web |last=Mirjalili |first=Fatemeh |date=2021-12-27 |title=The Improvised Scene In Clockwork Orange That Cost $10,000 |url=https://www.slashfilm.com/717460/the-improvised-scene-in-clockwork-orange-that-cost-10000/ |access-date=2025-12-13 |website=SlashFilm |language=en-US}}</ref><ref>{{Cite magazine |last=Ferrier |first=Aimee |date=11 February 2024 |title=The classic improvised moment in Stanley Kubrick's 'A Clockwork Orange' |url=https://faroutmagazine.co.uk/classic-improvised-moment-in-stanley-kubricks-a-clockwork-orange/ |magazine=Far Out}}</ref>
+
+==Production==
+===Background===
+Anthony Burgess sold the film rights of his novel for {{US$|500|1962|round=-2}}, shortly after its publication in 1962.<ref name="AFI">{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/54041|title=AFI{{!}}Catalog - A Clockwork Orange|work=[[American Film Institute]]|access-date=27 November 2020|archive-date=27 October 2020|archive-url=https://web.archive.org/web/20201027031942/https://catalog.afi.com/Catalog/moviedetails/54041|url-status=live}}</ref> Originally, the film was projected to star the rock band [[the Rolling Stones]], with the band's lead singer [[Mick Jagger]] expressing interest in playing the lead role of Alex, and British filmmaker [[Ken Russell]] attached to direct.<ref name="AFI"/> According to film historian [[William K. Everson]] while hosting a 1972 ''[[Camera Three]]'' interview with Burgess and McDowell<ref>[https://www.youtube.com/watch?v=JH3IZSM7J2U ''An Examination of Kubrick's A Clockwork Orange''], Camera Three, February 1972 (statement starting at c. 14:20 in the video)</ref> and the International Anthony Burgess Foundation,<ref>{{Cite web|url=https://www.anthonyburgess.org/a-clockwork-orange/a-clockwork-orange-film/|title=A Clockwork Orange on film}}</ref> both the Rolling Stones and [[the Beatles]] were alternatively considered to play Alex and his droogs at various times throughout the 1960s, before Kubrick got involved on the project. According to ''225 Magazine'', [[Screenwriter|screenplay writer]] [[Terry Southern]] had written a first script for the film with specifically the Beatles in mind for the main cast, before the film's executive producer [[Si Litvinoff]] sent a letter to its prospective director [[John Schlesinger]] in February 1968, attaching a petition signed by Jagger as well as all four Beatles requesting Alex to be played by Jagger and the film's soundtrack to be composed by the Beatles.<ref>[https://www.225batonrouge.com/article/red-stick-cannabis-street-fair-returns-downtown-baton-rouge-second-year ''A Clockwork Orange that almost was - How about this: Early version was to include Jagger, Beatles''], 225 Magazine, 30 September 2013</ref> However, this never came to fruition due to problems with the [[British Board of Film Classification]] (BBFC), and the rights ultimately fell to Kubrick.<ref name="AFI"/>
+
+===Casting===
+McDowell was chosen for the role of Alex after Kubrick saw him in the film ''[[if....]]'' (1968). When he asked why he was picked for the role, Kubrick told him: "You can exude intelligence on the screen."<ref>{{Cite web |url=https://www.nme.com/features/film-interviews/a-clockwork-orange-at-50-malcolm-mcdowell-3058239 |title=Malcolm McDowell talks 'A Clockwork Orange' at 50 - NME |website=[[NME]] |date=30 September 2021 |access-date=7 October 2021 |archive-date=30 September 2021 |archive-url=https://web.archive.org/web/20210930210504/https://www.nme.com/features/film-interviews/a-clockwork-orange-at-50-malcolm-mcdowell-3058239 |url-status=live }}</ref> He also helped Kubrick on the uniform of Alex's gang, when he showed Kubrick the cricket whites he had. Kubrick asked him to put the [[Cricket clothing and equipment#Clothing and protective gear|box (jockstrap)]] not under but on top of the costume.<ref>{{cite web |url=https://collider.com/malcolm-mcdowell-leon-vitali-interview-a-clockwork-orange/ |title=Malcolm McDowell and Leon Vitali Talk A CLOCKWORK ORANGE on the 40th Anniversary |website=Collider.com |date=18 May 2011 |access-date=13 April 2015 |archive-url=https://web.archive.org/web/20150413070146/http://collider.com/malcolm-mcdowell-leon-vitali-interview-a-clockwork-orange/ |archive-date=13 April 2015 |url-status=live}}</ref><ref>{{cite web |url=http://www.washingtontimes.com/news/2011/may/19/mcdowells-cricket-gear-inspired-clockwork-thug/?page=all |title=McDowell's cricket gear inspired 'Clockwork' thug |work=Washington Times |date=19 May 2011 |access-date=13 April 2015|archive-url=https://web.archive.org/web/20150425124408/http://www.washingtontimes.com/news/2011/may/19/mcdowells-cricket-gear-inspired-clockwork-thug/?page=all|archive-date=25 April 2015|url-status=live}}</ref>
+
+===Adaptation===
+The cinematic adaptation of ''A Clockwork Orange'' (1962) was not initially planned. Terry Southern gave Kubrick a copy of the novel, but, as he was developing a [[Napoleon Bonaparte]]-related project, Kubrick put it aside. Kubrick's wife, in an interview, said she had given Kubrick the novel after having read it. Kubrick said: "I was excited by everything about it: the plot, the ideas, the characters, and, of course, the language. The story functions, of course, on several levels: political, sociological, philosophical, and, what's most important, on a dreamlike psychological-symbolic level." Kubrick wrote a screenplay faithful to the novel, saying: "I think whatever Burgess had to say about the story was said in the book, but I did invent a few useful narrative ideas and reshape some of the scenes."<ref>{{cite web |url=http://www.visual-memory.co.uk/amk/doc/0012.html |title=The Kubrick Site: The ACO Controversy in the UK |website=Visual-memory.co.uk |access-date=13 March 2011 |archive-url=https://web.archive.org/web/20120910035527/http://www.visual-memory.co.uk/amk/doc/0012.html |archive-date=10 September 2012 |url-status=live}}</ref> Kubrick based the script on the shortened US edition of the book, which omitted the final chapter.<ref name="AFI"/>
+
+===Direction===
+[[File:Thamesmead Housing Estate 01.jpg|thumb|[[Thamesmead]] South Housing Estate where Alex knocks his rebellious droogs into the lake]]
+Kubrick was a perfectionist who researched meticulously, with thousands of photographs taken of potential locations, and many scene takes. He was so meticulous that McDowell stated: "If Kubrick hadn't been a film director he'd have been a General Chief of Staff of the US Forces. No matter what it is—even if it's a question of buying a shampoo it goes through him. He just likes total control."{{sfn|Baxter|1997|pp=6–7}} Technically, to achieve and convey the fantastic, dream-like quality of the story, he filmed with extreme wide-angle lenses such as the Kinoptik Tegea 9.8&nbsp;mm for 35&nbsp;mm [[Arri]]flex cameras.<ref>{{cite news |url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19720211/REVIEWS/202110301/1023 |work=[[Chicago Sun-Times]] |title=A Clockwork Orange |date=11 February 1972 | access-date=24 March 2020 | archive-url=https://web.archive.org/web/20121128133405/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F19720211%2FREVIEWS%2F202110301%2F1023 | archive-date=28 November 2012 | url-status=live}}</ref><ref>{{cite web |url=http://www.chalkthefilm.com/film/a-clockwork-orange--film-.html |title=A Clockwork Orange |website=Chalkthefilm.com |access-date=13 March 2011 |archive-url=https://web.archive.org/web/20110708133639/http://www.chalkthefilm.com/film/a-clockwork-orange--film-.html |archive-date=8 July 2011 |url-status=live}}</ref>
+
+===Filming===
+Filming took place between September 1970 and April 1971.
+
+During the filming of the Ludovico technique scene, McDowell scratched a cornea<ref name=MarvelAge>"Art Adams interview". "The Mutant Report." Volume 3. ''[[Marvel Age]]'' #71 (February 1989). Marvel Comics. pp. 12–15.</ref> and was temporarily blinded. The doctor standing next to him in the scene, dropping saline solution into Alex's forced-open eyes, was a real physician present to prevent the actor's eyes from drying. McDowell also cracked some ribs filming the humiliation stage show.<ref>{{cite web |url=http://worldtv.com/blog/misc/ |title=Misc |website=Worldtv.com |access-date=13 March 2011 |archive-url=https://web.archive.org/web/20110412145120/http://worldtv.com/blog/misc/ |archive-date=12 April 2011 |url-status=dead}}</ref> A unique [[Special effects|special effect]] technique was used when Alex jumps out of the window in a suicide attempt, showing the camera approaching the ground from Alex's point of view. This effect was achieved by dropping a [[Newman-Sinclair]] clockwork camera in a box, lens-first, from the third storey<!--Correct British spelling for 'storey' in the house-floor sense --> of the [[Corus Hotels|Corus Hotel]]. To Kubrick's surprise, the camera survived six takes.<ref name ="Sight">{{cite web |url=http://www.visual-memory.co.uk/amk/doc/0070.html |last1=Strick |first1=Philip |last2=Houston |first2=Penelope |title=Interview with Stanley Kubrick regarding A Clockwork Orange |work=Sight&Sound (Spring 1972) |access-date=13 April 2015 |archive-url= https://web.archive.org/web/20181220101303/http://www.visual-memory.co.uk/amk/doc/0070.html |archive-date= 20 December 2018 |url-status= live}}</ref>
+
+===Music===
+{{main|A Clockwork Orange (soundtrack)}}
+The main theme is an electronic arrangement of a short excerpt from [[Henry Purcell]]'s ''[[Music for the Funeral of Queen Mary]]'', and the soundtrack has two of [[Edward Elgar]]'s ''[[Pomp and Circumstance Marches]]''.{{citation needed|date=May 2022}} Kubrick wanted to use the [[Pink Floyd]] song "[[Atom Heart Mother (suite)|Atom Heart Mother]]" in the film, but they refused.<ref>{{cite web | url=https://faroutmagazine.co.uk/why-pink-floyd-turned-down-stanley-kubrick/ | title=The reason why Pink Floyd didn't let Stanley Kubrick use their music - Far Out Magazine | date=13 April 2021 | access-date=10 December 2023 | archive-date=10 December 2023 | archive-url=https://web.archive.org/web/20231210023535/https://faroutmagazine.co.uk/why-pink-floyd-turned-down-stanley-kubrick/ | url-status=live }}</ref>
+
+Alex is fanatical about [[Ludwig van Beethoven]] in general and his [[Symphony No. 9 (Beethoven)|Ninth Symphony]] in particular, and the soundtrack includes an electronic version specially arranged by [[Wendy Carlos]] of the Scherzo and other parts of the Symphony. The soundtrack contains more music by [[Rossini]] than by Beethoven. The fast-motion sex scene with the two girls, the slow-motion fight between Alex and his Droogs, the fight with Billy Boy's gang, the drive to the writer's home ("playing 'hogs of the road'"), the invasion of the Cat Lady's home, and the scene in which Alex looks into the river and contemplates suicide before being approached by the beggar are all accompanied by Rossini's ''[[William Tell Overture]]'' or ''[[The Thieving Magpie]]'' Overture.{{sfn|McDougal|2003|p=123}}<ref>{{cite journal |url=https://www.csmonitor.com/Innovation/2012/0229/You-ve-heard-Gioachino-Rossini-s-music-even-if-you-ve-never-heard-of-him/The-Thieving-Magpie |title=You've heard Gioachino Rossini's music, even if you've never heard of him |date=29 February 2012 |journal=Christian Science Monitor|access-date=26 September 2014|archive-url=https://web.archive.org/web/20130306022008/http://www.csmonitor.com/Innovation/2012/0229/You-ve-heard-Gioachino-Rossini-s-music-even-if-you-ve-never-heard-of-him/The-Thieving-Magpie|archive-date=6 March 2013|url-status=live}}</ref>
+
+==Reception==
+[[File:A Clockwork Orange (1971) - Trailer.webm|thumb|thumbtime=57|Original trailer for ''A Clockwork Orange'']]
+
+===Critical reception===
+On release, ''A Clockwork Orange'' was met with mixed reviews.<ref name="AFI"/> [[Vincent Canby]] of ''[[The New York Times]]'' praised the film: "McDowell is splendid as tomorrow's child, but it is always Mr. Kubrick's picture, which is even technically more interesting than ''2001''. Among other devices, Mr. Kubrick constantly uses what I assume to be a wide-angle lens to distort space relationships within scenes, so that the disconnection between lives, and between people and environment, becomes an actual, literal fact."<ref name=canby>{{cite news |work=[[The New York Times]] |title=A Clockwork Orange (1971) 'A Clockwork Orange' Dazzles the Senses and Mind |author-link=Vincent Canby |first=Vincent |last=Canby |date=20 December 1971 |url=https://movies.nytimes.com/movie/review?res=9a02e1d61038ef34bc4851dfb467838a669ede|access-date=4 February 2017|archive-url=https://web.archive.org/web/20120516010817/http://movies.nytimes.com/movie/review?res=9A02E1D61038EF34BC4851DFB467838A669EDE|archive-date=16 May 2012|url-status=live}}</ref> The following year, after the film won the [[New York Film Critics Award]], he called it "a brilliant and dangerous work, but it is dangerous in a way that brilliant things sometimes are".<ref>{{cite news |work=[[The New York Times]] |quote=Stanley Kubrick's ninth film, 'A Clockwork Orange,' which has just won the New York Film Critics Award as the best film of 1971, is a brilliant and dangerous work, but it is dangerous in a way that brilliant things sometimes are. ... |title=Orange - Disorienting But Human Comedy |author-link=Vincent Canby |first=Vincent |last=Canby |date=9 January 1972 |url=https://query.nytimes.com/gst/abstract.html?res=9F05E6DD173DE53ABC4153DFB7668389669EDEe|access-date=4 February 2017|url-status=live |archive-url=https://web.archive.org/web/20160305030230/http://query.nytimes.com/gst/abstract.html?res=9F05E6DD173DE53ABC4153DFB7668389669EDEe|archive-date=5 March 2016}}</ref> The film also had notable detractors. Film critic [[Stanley Kauffmann]] commented, "Inexplicably, the script leaves out Burgess' reference to the title".<ref>{{cite book |first=John |last=Walker |title=Halliwell's Film, Video & DVD Guide 2006 |page=223 |publisher=[[HarperCollins]] |year=2005 |isbn=0-00-720550-3}}</ref> [[Roger Ebert]] gave ''A Clockwork Orange'' two stars out of four, calling it an "ideological mess".<ref>{{cite web |last=Ebert |first=Roger |author-link=Roger Ebert |url=https://www.rogerebert.com/reviews/a-clockwork-orange-1972 |title=A Clockwork Orange |date=11 February 1972 |work=RogerEbert.com |publisher=Ebert Digital LLC|access-date=22 March 2018|archive-url=https://web.archive.org/web/20190701195957/https://www.rogerebert.com/reviews/a-clockwork-orange-1972 |archive-date=1 July 2019|url-status=live}}</ref>  In her ''New Yorker'' review titled "Stanley Strangelove", [[Pauline Kael]] called it pornographic because of how it dehumanised Alex's victims while highlighting the sufferings of the protagonist. Kael noted the Billyboy's gang extended stripping of the woman they intended to rape, claiming it was offered for titillation.<ref>{{cite magazine |url=http://www.visual-memory.co.uk/amk/doc/0051.html |magazine=[[The New Yorker]] |first=Pauline |last=Kael |title=Stanley Strangelove |access-date=22 March 2018|date=January 1972 |archive-url=https://web.archive.org/web/20121125054715/http://www.visual-memory.co.uk/amk/doc/0051.html|archive-date=25 November 2012|url-status=live}}</ref>
+
+In a retrospective review in his reference book ''Halliwell's Film and Video Guide'', [[Leslie Halliwell]] described it as "a repulsive film in which intellectuals have found acres of social and political meaning; the average judgement is likely to remain that it is pretentious and nasty rubbish for sick minds who do not mind jazzed-up images and incoherent sound."<ref>{{cite web|url=https://www.theguardian.com/commentisfree/2009/jan/21/leslie-halliwell-film-guide|title=Halliwell: cinema's real champion|work=[[The Guardian]]|first=Inayat|last=Bunglawala|authorlink=Inayat Bunglawala|date=21 January 2009|accessdate=23 May 2024}}</ref>
+
+[[John Simon (critic)|John Simon]] noted that the novel's most ambitious effects were based on language and the alienating effect of the narrator's Nadsat slang, making it a poor choice for a film. Concurring with some of Kael's criticisms about the depiction of Alex's victims, Simon noted that the character of Mr Alexander, who was young and likeable in the novel, was played by [[Patrick Magee (actor)|Patrick Magee]], "a very quirky and middle-aged actor who specialises in being repellent". Simon comments further that "Kubrick over-directs the basically excessive Magee until his eyes erupt like missiles from their silos and his face turns every shade of a Technicolor sunset".<ref>{{Cite book |url=https://archive.org/details/reverseangeldeca00simo |title=Reverse-Angel A decade of American film |last=Simon |first=John |date=1982 |publisher=Potter |isbn=9780517546970 |location=New York |oclc=1036817554|url-access=registration}}</ref>
+
+Over the years, ''A Clockwork Orange'' gained a status as a [[Cult film|cult classic]]. For ''[[The Guardian]]'', [[Philip French]] stated that the film's controversial reputation likely stemmed from the fact that it was released during a time when fear of teenage delinquency was high.<ref>{{cite web|url=https://www.theguardian.com/film/2000/feb/27/6|title=You looking at me?|work=[[The Guardian]]|first=Philip|last=French|author-link=Philip French|date=28 February 2000|access-date=27 November 2020|archive-date=29 April 2018|archive-url=https://web.archive.org/web/20180429013057/https://www.theguardian.com/film/2000/feb/27/6|url-status=live}}</ref> Adam Nayman of ''[[The Ringer (website)|The Ringer]]'' wrote that the film's themes of delinquency, corrupt power structures and dehumanisation are relevant in today's society.<ref>{{cite web|url=https://www.theringer.com/movies/2019/3/13/18262905/revisiting-a-clockwork-orange-stanley-kubrick|title='A Clockwork Orange' in the Age of Cancellation|work=[[The Ringer (website)|The Ringer]]|first=Adam|last=Nayman|date=13 March 2019|access-date=27 November 2020|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108003557/https://www.theringer.com/movies/2019/3/13/18262905/revisiting-a-clockwork-orange-stanley-kubrick|url-status=live}}</ref> Simon Braund of ''[[Empire (magazine)|Empire]]'' praised the "dazzling visual style" and McDowell's "simply astonishing" portrayal of Alex.<ref>{{cite web|url=https://www.empireonline.com/movies/reviews/empire-essay-clockwork-orange-review/|title=EMPIRE ESSAY: A Clockwork Orange Review|work=[[Empire (magazine)|Empire]]|first=Simon|last=Braund|date=1 January 2000|access-date=27 November 2020|archive-date=20 June 2021|archive-url=https://web.archive.org/web/20210620222716/https://www.empireonline.com/movies/reviews/empire-essay-clockwork-orange-review/|url-status=live}}</ref> Roger Ebert softened on the film years after first viewing it, declaring on his program [[At the Movies (1986 TV program)|''At the Movies'']] in 1987 that while he still thought the film had "all head and no heart", he felt Kubrick's detachments from the violence more so than he did in the first viewing.<ref name="Siskel & Ebert">{{cite web|url=https://siskelebert.org/?p=6069|title=Cult Movies on Videocassete, 1987|website=Siskel And Ebert Movie Reviews|access-date=17 November 2022|archive-date=13 February 2022|archive-url=https://web.archive.org/web/20220213171401/https://siskelebert.org/?p=6069|url-status=live}}</ref>
+
+On [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 86% based on 85 reviews, with an average rating of 8.9/10. The website's critical consensus reads: "Disturbing and thought-provoking, ''A Clockwork Orange'' is a cold, dystopian nightmare with a very dark sense of humor".<ref>{{cite web|url=http://rottentomatoes.com/m/clockwork_orange/|title=A Clockwork Orange (1971)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media]]|access-date=29 April 2025|archive-url=https://web.archive.org/web/20160522084447/http://www.rottentomatoes.com/m/clockwork_orange/|archive-date=22 May 2016|url-status=live}}</ref> [[Metacritic]] gives the film a score of 77 out of 100, based on reviews by 21 critics, indicating "generally favorable reviews".<ref>{{cite web|url=https://www.metacritic.com/movie/a-clockwork-orange|title=A Clockwork Orange Reviews|publisher=[[Metacritic]]|access-date=24 November 2020|archive-date=13 November 2020|archive-url=https://web.archive.org/web/20201113102851/https://www.metacritic.com/movie/a-clockwork-orange|url-status=live}}</ref>
+
+===Box office===
+The film was a box-office success, grossing $41&nbsp;million in the United States and about $73&nbsp;million overseas for a worldwide total of $114&nbsp;million on a budget of $1.3&nbsp;million.<ref name=la />
+
+The film was also successful in the United Kingdom, playing for over a year at the [[Vue West End|Warner West End]] in London. After two years of release, the film had earned Warner Bros. rentals of $2.5&nbsp;million in the United Kingdom and was the number three film for 1973 behind ''[[Live and Let Die (film)|Live and Let Die]]'' and ''[[The Godfather]]''.<ref name=UKgross>{{cite magazine |magazine=[[Variety (magazine)|Variety]] |title=Think 'Orange' Took $2,500,000 In Gt. Britain |date=16 January 1974}}</ref>
+
+The film was the most popular film of 1972 in France with 7,611,745 admissions.<ref>{{cite web |url=http://www.boxofficestory.com/france-1972-c23749525 |title=Box Office France 1972 Top 10 |work=Box Office Story |last=Soyer |first= Renaud |date=22 July 2016 |access-date=22 March 2018|archive-url=https://web.archive.org/web/20190608205347/http://www.boxofficestory.com/france-1972-c23749525|archive-date=8 June 2019|url-status=live}}</ref>
+
+The film was re-released in North America in 1973 and earned $1.5&nbsp;million in rentals.<ref>{{cite magazine |title=Big Rental Films of 1973 |magazine=[[Variety (magazine)|Variety]] |date=9 January 1974 |url=http://www.varietyultimate.com/archive/issue/WV-01-09-1974-19 |access-date=22 March 2018|archive-url=https://web.archive.org/web/20190629060729/https://varietyultimate.com/archive/issue/WV-01-09-1974-19|archive-date=29 June 2019|url-status=live}}</ref>
+
+=== Novelist's response ===
+Burgess had mixed reception about the film adaptation of his novel, publicly saying he loved [[Malcolm McDowell]] and [[Michael Bates (actor)|Michael Bates]], and the use of music. He praised it as so "brilliant" that it might be dangerous. He was concerned that it lacked the novel's [[A Clockwork Orange (novel)#Omission of the final chapter in the US|redemptive final chapter]], an absence he blamed upon his American publisher and not Kubrick. All US editions of the novel prior to 1986 omit the final chapter. Kubrick called the missing chapter "an extra chapter" and claimed that he had not read the original version until he had virtually finished the screenplay, and that he had never seriously considered using it.<ref>{{Cite web |last=Ciment |first=Michel |year=1981 |title=Kubrick on ''A Clockwork Orange'' |url=http://www.visual-memory.co.uk/amk/doc/interview.aco.html |url-status=live |archive-url=https://web.archive.org/web/20121224095523/http://www.visual-memory.co.uk/amk/doc/interview.aco.html |archive-date=24 December 2012 |access-date=14 April 2016 |website=The Kubrick Site}}</ref> In Kubrick's opinion – as in the opinion of other readers, including the original American editor – the final chapter was unconvincing and inconsistent with the book.<ref name=":02">{{Cite web |last1=Zicari |first1=Greta |last2=MacPherson |first2=Tom |date=31 March 2017 |title=In the presence of stars: Famous filming locations near Sprachcaffe schools |url=https://www.sprachcaffe.com/english/magazine-article/in-the-presence-of-stars-famous-filming-locations-near-sprachcaffe-schools-2017-03-31.htm |url-status=live |archive-url=https://web.archive.org/web/20180615111056/https://www.sprachcaffe.com/english/magazine-article/in-the-presence-of-stars-famous-filming-locations-near-sprachcaffe-schools-2017-03-31.htm |archive-date=15 June 2018 |access-date=15 June 2018}}</ref>
+
+Burgess reports in his autobiography ''You've Had Your Time''&nbsp;(1990) that he and Kubrick at first enjoyed a good relationship, each holding similar philosophical and political views and each very interested in literature, cinema, music, and Napoleon Bonaparte. Burgess's novel ''[[Napoleon Symphony]]'' (1974) was dedicated to Kubrick. Their relationship soured when Kubrick left Burgess to defend the film from accusations of glorifying violence. A [[lapsed Catholic]], Burgess tried many times to explain the Christian moral points of the story to outraged Christian organisations and to defend it against newspaper accusations that it supported fascist dogma. He also went to receive awards given to Kubrick on his behalf. He was in no way involved in the production of the film. The only profit he made directly from the film was the initial $500 that had been given to him for the rights to the adaptation.{{citation needed|date=May 2022}}
+
+Burgess's own stage adaptation of the novel, ''A Clockwork Orange: A Play with Music'' (1984), contains a direct reference to Kubrick. In the final moment of the play Alex joins in a song with the other characters. In the script's stage directions it states that while this happens: "A man bearded like Stanley Kubrick comes on playing, in exquisite counterpoint, '[[Singin' in the Rain (song)|Singin' in the Rain]]' on the trumpet. He is kicked off the stage."<ref>{{Cite web |title=A Clockwork Orange on Stage webpage on The International Anthony Burgess Foundation website |url=https://www.anthonyburgess.org/a-clockwork-orange-on-stage/ |url-status=live |archive-url=https://web.archive.org/web/20210517130544/https://www.anthonyburgess.org/a-clockwork-orange-on-stage/ |archive-date=17 May 2021 |access-date=17 May 2021}}</ref><ref>{{cite book |last1=Burgess |first1=Anthony |url=https://books.google.com/books?id=C-PTAwAAQBAJ&dq=a%20clockwork%20orange%20play&pg=PP1 |title=A Clockwork Orange |date=January 1998 |publisher=Bloomsbury Methuen Drama |isbn=978-0-413-73590-4 |pages=50–51 |access-date=20 May 2021 |archive-url=https://web.archive.org/web/20210620222745/https://www.google.co.uk/books/edition/A_Clockwork_Orange/C-PTAwAAQBAJ?hl=en&gbpv=1&dq=a+clockwork+orange+play&pg=PP1&printsec=frontcover |archive-date=20 June 2021 |url-status=live}}</ref>
+
+===Accolades===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| rowspan="4"| [[44th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| rowspan="3"| [[Stanley Kubrick]]
+| {{nom}}
+| align="center" rowspan="4"| <ref>{{Cite web |url=http://www.oscars.org/oscars/ceremonies/1972 |title=The 44th Academy Awards (1972) Nominees and Winners |publisher=[[Academy of Motion Picture Arts and Sciences]] |access-date=6 December 2011 |url-status=live |archive-url=https://web.archive.org/web/20141111072026/http://www.oscars.org/oscars/ceremonies/1972 |archive-date=11 November 2014}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay – Based on Material from Another Medium]]
+| {{nom}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Bill Butler (film editor)|Bill Butler]]
+| {{nom}}
+|-
+| rowspan="7"| [[26th British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Film|Best Film]]
+| rowspan="3"| Stanley Kubrick
+| {{nom}}
+| align="center" rowspan="7"| <ref>{{cite web |url=http://awards.bafta.org/award/1973/film |title=BAFTA Awards: Film in 1973 |publisher=[[British Academy Film Awards]] |access-date=16 September 2016 |archive-date=4 January 2014 |archive-url=https://web.archive.org/web/20140104005312/http://awards.bafta.org/award/1973/film |url-status=live}}</ref>
+|-
+| [[BAFTA Award for Best Direction|Best Direction]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Screenplay|Best Screenplay]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Editing|Best Editing]]
+| Bill Butler
+| {{nom}}
+|-
+| [[BAFTA Award for Best Production Design|Best Production Design]]
+| [[John Barry (production designer)|John Barry]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| [[John Alcott]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Sound|Best Sound]]
+| Brian Blamey, John Jordan, and [[Bill Rowe (sound engineer)|Bill Rowe]]
+| {{nom}}
+|-
+| [[24th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Stanley Kubrick
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://www.dga.org/Awards/History/1970s/1971.aspx?value=1971 |title=24th Annual DGA Awards |publisher=[[Directors Guild of America Awards]] |access-date=5 July 2021 |archive-date=23 March 2019 |archive-url=https://web.archive.org/web/20190323131227/http://www.dga.org/Awards/History/1970s/1971.aspx?value=1971 |url-status=live}}</ref>
+|-
+| rowspan="2"| [[Evening Standard British Film Awards]]
+| colspan="2"| Best Film
+| {{won}}
+| align="center" rowspan="2"| 
+|-
+| Best Actor
+| [[Malcolm McDowell]]
+| {{won}}
+|-
+| rowspan="3"| [[29th Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| {{nom}}
+| align="center" rowspan="3"| <ref>{{cite web |url=https://www.goldenglobes.com/film/clockwork-orange-a/ |title=A Clockwork Orange |publisher=[[Golden Globe Awards]] |access-date=5 July 2021 |archive-date=29 July 2021 |archive-url=https://web.archive.org/web/20210729124306/https://www.goldenglobes.com/film/clockwork-orange-a/ |url-status=live}}</ref>
+|-
+| [[Golden Globe Award for Best Actor in a Motion Picture – Drama|Best Actor in a Motion Picture – Drama]]
+| Malcolm McDowell
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| Stanley Kubrick
+| {{nom}}
+|-
+| [[Hugo Award]]s
+| [[Hugo Award for Best Dramatic Presentation|Best Dramatic Presentation]]
+| Stanley Kubrick and [[Anthony Burgess]]
+| {{won}}
+| align="center"| <ref>{{cite web |url=http://www.thehugoawards.org/hugo-history/1972-hugo-awards/ |title=The Hugo Awards: 1972 |publisher=[[Hugo Award]]s |date=26 July 2007 |access-date=1 November 2008 |archive-date=12 June 2010 |archive-url=https://web.archive.org/web/20100612033831/http://www.thehugoawards.org/hugo-history/1972-hugo-awards/ |url-status=live}}</ref>
+|-
+| [[Kansas City Film Critics Circle|Kansas City Film Critics Circle Awards]]
+| colspan="2"| Best Film
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://kcfcc.org/kcfcc-award-winners-1970-79/ |title=KCFCC Award Winners – 1970-79 |publisher=[[Kansas City Film Critics Circle]] |date=14 December 2013 |access-date=15 May 2021 |archive-date=16 December 2013 |archive-url=https://web.archive.org/web/20131216202319/https://kcfcc.org/kcfcc-award-winners-1970-79/ |url-status=live}}</ref>
+|-
+| [[Nastro d'Argento]]
+| Best Foreign Director
+| Stanley Kubrick
+| {{won}}
+| align="center"| 
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |title=Complete National Film Registry Listing |publisher=[[Library of Congress]] |access-date=16 November 2024}}</ref>
+|-
+| rowspan="3"| [[1971 National Society of Film Critics Awards|National Society of Film Critics Awards]]
+| colspan="2"| [[National Society of Film Critics Award for Best Film|Best Film]]
+| {{draw|3rd Place}}
+| align="center" rowspan="3"| <ref>{{cite web |date=19 December 2009 |title=Past Awards |url=https://nationalsocietyoffilmcritics.com/about-2/ |url-status=live |archive-url=https://web.archive.org/web/20150928060427/http://nationalsocietyoffilmcritics.com/about-2/ |archive-date=28 September 2015 |access-date=5 July 2021 |publisher=[[National Society of Film Critics]]}}</ref>
+|-
+| [[National Society of Film Critics Award for Best Director|Best Director]]
+| Stanley Kubrick
+| {{nom}}
+|-
+| [[National Society of Film Critics Award for Best Actor|Best Actor]]
+| Malcolm McDowell
+| {{nom}}
+|-
+| rowspan="3"| [[1971 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]
+| colspan="2"| [[New York Film Critics Circle Award for Best Film|Best Film]]
+| {{won}}
+| align="center" rowspan="3"| <ref>{{cite web |url=https://mubi.com/awards-and-festivals/nyfccas?year=1969 |title=1969 New York Film Critics Circle Awards |publisher=[[Mubi (streaming service)|Mubi]] |access-date=5 July 2021 |archive-date=27 July 2021 |archive-url=https://web.archive.org/web/20210727203920/https://mubi.com/awards-and-festivals/nyfccas?year=1969 |url-status=live}}</ref>
+|-
+| [[New York Film Critics Circle Award for Best Director|Best Director]]
+| Stanley Kubrick
+| {{won}}
+|-
+| [[New York Film Critics Circle Award for Best Actor|Best Actor]]
+| Malcolm McDowell
+| {{Runner-up}}
+|-
+| Online Film & Television Association Awards
+| colspan="2"| Film Hall of Fame: Productions
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame Productions |publisher=Online Film & Television Association |access-date=15 May 2021 |archive-date=11 September 2016 |archive-url=https://web.archive.org/web/20160911025446/http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |url-status=live}}</ref>
+|-
+| [[Rondo Hatton Classic Horror Awards]]
+| Best DVD Commentary
+| Malcolm McDowell
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://www.tapatalk.com/groups/monsterkidclassichorrorforum/here-s-the-complete-rondo-winner-list-for-2007-t15497.html |title=2007 Rondo Awards |publisher=[[Rondo Hatton Classic Horror Awards]] |date=13 March 2008 |access-date=12 March 2018 |archive-date=12 April 2020 |archive-url=https://web.archive.org/web/20200412125748/https://www.tapatalk.com/groups/monsterkidclassichorrorforum/here-s-the-complete-rondo-winner-list-for-2007-t15497.html |url-status=live}}</ref>
+|-
+| [[16th Satellite Awards|Satellite Awards]]
+| colspan="2"| [[Satellite Award for Best Classic DVD|Best Classic DVD]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://www.pressacademy.com/award_cat/2011/ |title=2011 Satellite Awards |publisher=[[International Press Academy]] |access-date=10 July 2021 |archive-date=5 June 2021 |archive-url=https://web.archive.org/web/20210605190252/https://www.pressacademy.com/award_cat/2011/ |url-status=live}}</ref>
+|-
+| [[34th Saturn Awards|Saturn Awards]] {{small|(2008)}}
+| [[Saturn Award for Best DVD or Blu-ray Collection|Best DVD Collection]]
+| ''A Clockwork Orange'' {{small|(as part of ''Stanley Kubrick: Warner Home Video Directors Series'')}}
+| {{nom}}
+| align="center" rowspan="3"| <ref>{{cite web |url=http://www.saturnawards.org/past.html |title=Past Saturn Awards |publisher=[[Saturn Awards]] |access-date=1 November 2008 |url-status=dead |archive-url=https://web.archive.org/web/20081219234921/http://www.saturnawards.org/past.html |archive-date=19 December 2008}}</ref>
+|-
+| [[38th Saturn Awards|Saturn Awards]] {{small|(2012)}}
+| [[Saturn Award for Best DVD or Blu-ray Collection|Best DVD Collection]]
+| ''A Clockwork Orange'' {{small|(as part of ''Stanley Kubrick: The Essential Collection'')}}
+| {{won}}
+|-
+| [[41st Saturn Awards|Saturn Awards]] {{small|(2015)}}
+| [[Saturn Award for Best DVD or Blu-ray Collection|Best DVD or Blu-ray Collection]]
+| ''A Clockwork Orange'' {{small|(as part of ''Stanley Kubrick: The Masterpiece Collection'')}}
+| {{nom}}
+|-
+| [[Turkish Film Critics Association|Turkish Film Critics Association Awards]]
+| colspan="2"| Best Foreign Film
+| {{draw|5th Place}}
+| align="center"| 
+|-
+| [[33rd Venice International Film Festival|Venice International Film Festival]]
+| Pasinetti Award (Best Foreign Film)
+| rowspan="2"| Stanley Kubrick
+| {{won}}
+| align="center"| 
+|-
+| [[24th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Adapted Screenplay|Best Drama – Adapted from Another Medium]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://www.wga.org/awards/awardssub.aspx?id=1551 |title=Awards Winners |publisher=[[Writers Guild of America Awards]] |archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551 |archive-date=5 December 2012 |access-date=6 June 2010}}</ref>
+|}
+
+==Controversies==
+===American release===
+In the United States, ''A Clockwork Orange'' was given an [[X rating]] in its original release in 1972. Later, Kubrick replaced approximately 30 seconds of sexually explicit footage from two scenes with less explicit action to obtain an [[Motion Picture Association of America film rating system|R rating]] re-release later in 1972.<ref>{{Cite news |date=25 August 1972 |title='CLOCKWORK ORANGE' TO GET AN 'R' RATING |language=en-US |work=The New York Times |url=https://www.nytimes.com/1972/08/25/archives/-clockwork-orange-to-get-an-r-rating.html |access-date=21 December 2023 |issn=0362-4331 |archive-date=9 January 2021 |archive-url=https://web.archive.org/web/20210109022009/https://www.nytimes.com/1972/08/25/archives/-clockwork-orange-to-get-an-r-rating.html |url-status=live }}</ref><ref name="AFI"/><ref>{{cite magazine |title='Godfather': & Rest of Pack |magazine=[[Variety (magazine)|Variety]] |date=3 January 1973 |page=7 |last=Frederick |first=Robert B.}}</ref>
+
+Because of the explicit sex and violence, The [[United States Conference of Catholic Bishops' Office for Film and Broadcasting|National Catholic Office for Motion Pictures]] rated it ''C'' ("condemned"), a rating which recommended against [[Roman Catholic]]s seeing the film. In 1982, the office abolished the "condemned" rating. Subsequently, films deemed to have unacceptable levels of sex and violence by the [[Conference of Bishops]] are rated ''O'', "morally offensive".<ref>{{cite book |last=Gillis |first=Chester |title=Roman Catholicism in America |date=1999 |publisher=Columbia University Press |location=United States of America |isbn=0-231-10870-2 |page=[https://archive.org/details/romancatholicism00gill_0/page/226 226]|url-access=registration |url=https://archive.org/details/romancatholicism00gill_0/page/226}}</ref>
+
+===British withdrawal===
+Although it was passed uncut for UK cinemas in December 1971, British authorities considered the [[sexual violence]] in the film to be extreme. In March 1972, during the trial of a 14-year-old boy accused of the manslaughter of a classmate, the prosecutor referred to ''A Clockwork Orange'', suggesting that the film had a macabre relevance to the case.<ref name="School">"Serious pockets of violence at London school, QC says", ''[[The Times]]'', 21 March 1972.</ref>  The film was linked to the murder of an elderly vagrant by a 16-year-old boy in [[Bletchley]], Buckinghamshire, who pleaded guilty after telling police that friends had told him of the film "and the beating up of an old boy like this one". Roger Gray, for the defence, told the court that "the link between this crime and sensational literature, particularly ''A Clockwork Orange'', is established beyond reasonable doubt".<ref name="Bletchley">" 'Clockwork Orange' link with boy's crime", ''The Times'', 4 July 1973.</ref> The press also blamed the film for a rape in which the attackers sang "[[Singin' in the Rain (song)|Singin' in the Rain]]" as "Singin' in the Rape".<ref>{{cite web |url=http://www.sparknotes.com/film/clockworkorange/context.html |title=A Clockwork Orange: Context |website=SparkNotes |date=7 March 1999 |access-date=13 March 2011 |archive-url=https://web.archive.org/web/20110214090843/http://www.sparknotes.com/film/clockworkorange/context.html |archive-date=14 February 2011 | url-status=live}}</ref> [[Christiane Kubrick]], the director's wife, has said that the family received threats and had protesters outside their home.<ref>{{cite news |url=https://www.theguardian.com/film/video/2011/may/20/cannes-2011-clockwork-orange-malcolm-mcdowell-video |title=Cannes 2011: Re-winding A Clockwork Orange with Malcolm McDowell – video |work=The Guardian |date=20 May 2011 |access-date=21 May 2011 |first1=Henry |last1=Barnes |first2=Xan |last2=Brooks |archive-url=https://web.archive.org/web/20110521075206/http://www.guardian.co.uk/film/video/2011/may/20/cannes-2011-clockwork-orange-malcolm-mcdowell-video |archive-date=21 May 2011 | url-status=live}}</ref>
+
+The film was withdrawn from British release in 1973 by Warner Bros. at the request of Kubrick.<ref>{{cite news |last=Bradshaw |first=Peter |url=https://www.theguardian.com/film/2000/mar/03/fiction |title=The old ultra-violence |work=The Guardian |date=23 March 2000 |access-date=8 October 2016|archive-url=https://web.archive.org/web/20190422203318/https://www.theguardian.com/film/2000/mar/03/fiction|archive-date=22 April 2019|url-status=live}}</ref> In response to allegations that the film was responsible for copycat violence, Kubrick stated: {{Blockquote|To try and fasten any responsibility on art as the cause of life seems to me to put the case the wrong way around. Art consists of reshaping life, but it does not create life, nor cause life. Furthermore, to attribute powerful suggestive qualities to a film is at odds with the scientifically accepted view that, even after deep hypnosis in a posthypnotic state, people cannot be made to do things which are at odds with their natures.{{sfn|Duncan|2003|p=136}} }}
+
+The [[Scala (club)|Scala Cinema Club]] went into [[administrative receivership|receivership]] in 1993 after losing a legal battle following an unauthorised screening of the film.<ref>{{cite web |url=http://www.scala-london.co.uk/scala/scalashistory.php |title=Scala's History |website=scala-london.co.uk |access-date=12 November 2007 |archive-url=https://web.archive.org/web/20071024112525/http://www.scala-london.co.uk/scala/scalashistory.php |archive-date=24 October 2007 |url-status=live}}</ref> In the same year, [[Channel 4]] broadcast ''Forbidden Fruit'', a 27-minute documentary about the withdrawal of the film in Britain.<ref>{{cite web |title=Without Walls: Forbidden Fruit (1993) A Clockwork Orange BBC Special – Steven Berkoff |url=http://www.geocities.com/malcolmtribute/aco/forbidden.html |archive-url=https://web.archive.org/web/20091022102027/http://geocities.com/malcolmtribute/aco/forbidden.html |archive-date=22 October 2009 |url-status=dead}}</ref> It contains footage from ''A Clockwork Orange''. It was difficult to see ''A Clockwork Orange'' in the United Kingdom for 27 years. It was only after Kubrick died in 1999 that the film was re-released theatrically, on VHS, and on DVD. On 4 July 2001, the uncut version premiered on [[BSkyB|Sky TV]]'s ''Sky Box Office'', where it ran until mid-September.
+
+===Censorship in other countries===
+In Ireland, the film was banned on 10 April 1973. Warner Bros. decided against appealing the decision. Eventually, the film was passed uncut for cinema on 13 December 1999 and released on 17 March 2000.<ref>{{Cite web |url=http://merlin.obs.coe.int/iris/2000/2/article15.en.html |title=Ireland : The Banning and Unbanning of Films |website=merlin.obs.coe.int |access-date=4 March 2018|archive-url=https://web.archive.org/web/20181001172144/http://merlin.obs.coe.int/iris/2000/2/article15.en.html|archive-date=1 October 2018|url-status=dead}}</ref><ref>{{Cite news |url=https://comeheretome.com/2013/07/21/banned-like-clockwork/ |title=Banned like Clockwork. |date=21 July 2013 |work=Come Here To Me!|access-date=4 March 2018 |language=en-US|archive-url=https://web.archive.org/web/20180304231525/https://comeheretome.com/2013/07/21/banned-like-clockwork/|archive-date=4 March 2018|url-status=live}}</ref><ref>{{cite news|url=https://www.irishtimes.com/news/passed-like-clockwork-following-a-26-year-delay-1.260852 |last1=Dwyer |first1=Michael |title=Passed like 'Clockwork' following a 26-year delay |newspaper=The Irish Times |date=14 December 1999}}</ref> The re-release poster, a replica of the original British version, was rejected due to the words "ultra-violence" and "rape" in the tagline. Head censor Sheamus Smith explained his rejection to ''[[The Irish Times]]'': "I believe that the use of those words in the context of advertising would be offensive and inappropriate."<ref>{{cite news|last=Dwyer |first=Michael |title=Kubrick film arrives – minus its poster |newspaper=The Irish Times |date=4 March 2000}}</ref>
+
+In Singapore, the film was banned for over 30 years, before an attempt at release was made in 2006. However, the submission for an [[NC-16|M18]] rating was rejected, and the ban was not lifted.<ref name="tonight ggs">{{cite news |url=https://www.iol.co.za/entertainment/movies/gratuitous-gore-and-sex-971425 |title=Gratuitous Gore and Sex |last=Davis |first=Laura |date=16 August 2009 |work=Tonight |publisher=Tonight & Independent Online |access-date=25 April 2023 |location=New Zealand |archive-date=28 October 2022 |archive-url=https://web.archive.org/web/20221028081722/https://www.iol.co.za/entertainment/movies/gratuitous-gore-and-sex-971425 |url-status=live }}</ref> The ban was later lifted and the film was shown uncut (with an [[NC-16|R21]] rating) on 28 October 2011, as part of the Perspectives Film Festival.<ref>{{cite web |url=http://www.perspectivesfilmfestival.com/film_clockwork_orange.php |title=Perspective Film Festival 2011 Brochure |access-date=28 November 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111221022259/http://perspectivesfilmfestival.com/film_clockwork_orange.php |archive-date=21 December 2011}}</ref><ref>{{cite news |last1=Tan |first1=Jeanette |title='A Clockwork Orange' to premiere at S'pore film fest |url=https://sg.entertainment.yahoo.com/blogs/advanced-screening/controversial-films-premiere-pore-student-film-fest-025008083.html |access-date=2 October 2014 |agency=Yahoo! Singapore |publisher=Yahoo! |date=11 October 2011|url-status=dead |archive-url=https://web.archive.org/web/20141006140226/https://sg.entertainment.yahoo.com/blogs/advanced-screening/controversial-films-premiere-pore-student-film-fest-025008083.html |archive-date=6 October 2014}}</ref>
+
+In South Africa, it was banned under the [[apartheid]] regime for 13 years, then in 1984 was released with one cut and only made available to people over the age of 21.<ref name="visual-memory.co.uk">{{cite web |url=http://www.visual-memory.co.uk/amk/doc/0024.html |title=The Kubrick Site: Censorship of Kubrick's Films in South Africa |access-date=15 May 2019|archive-url=https://web.archive.org/web/20190606042658/http://www.visual-memory.co.uk/amk/doc/0024.html|archive-date=6 June 2019|url-status=live}}</ref> It was banned in South Korea<ref name="tonight ggs" /> and in the Canadian provinces of Alberta and Nova Scotia.<ref name="Canada, Malcolm Dean 1981">''Censored! Only in Canada'', Malcolm Dean, Virgo Press, 1981.</ref> The [[Maritime Film Classification Board]] also reversed the ban eventually. Both jurisdictions now grant an ''R'' rating to the film.
+
+In Brazil, the film was banned under the [[Military dictatorship in Brazil|military dictatorship]] until 1978, when the film was released in a version with black dots covering the genitals and breasts of the actors in the nude scenes.<ref>{{cite web |title=Filmes Censurados pela Ditadura Militar |url=https://cinemacao.com/2018/10/05/filmes-censurados-pela-ditadura-militar/ |website=Cinem(ação) |access-date=11 January 2021 |language=pt-BR |date=5 October 2018 |archive-date=12 January 2021 |archive-url=https://web.archive.org/web/20210112234423/https://cinemacao.com/2018/10/05/filmes-censurados-pela-ditadura-militar/ |url-status=live }}</ref>
+
+In Spain, the film debuted at the 1975 [[Valladolid International Film Festival]] under the [[Francoist Spain|dictatorship]] of [[Francisco Franco]]. It was expected to be screened in the [[University of Valladolid]] but, due to student protests, the university had been closed for two months. The final screenings were in the commercial festival venues, with long queues of expectant students. After the festival, the film went into the arthouse circuit and later in commercial cinemas successfully.<ref name="El Diario">{{cite news |last1=Camazón |first1=Alba |title=El estreno de 'La Naranja Mecánica' en España: universitarios sin clases, un antiguo festival cristiano y una falsa amenaza de bomba |url=https://www.eldiario.es/castilla-y-leon/cultura/estreno-naranja-mecanica-espana-universitarios-clases-antiguo-festival-cristiano-falsa-amenaza-bomba_1_8185423.html |access-date=17 August 2021 |work=ElDiario.es |date=15 August 2021 |language=es |archive-date=16 August 2021 |archive-url=https://web.archive.org/web/20210816144527/https://www.eldiario.es/castilla-y-leon/cultura/estreno-naranja-mecanica-espana-universitarios-clases-antiguo-festival-cristiano-falsa-amenaza-bomba_1_8185423.html |url-status=live }}</ref>
+
+In Malta, a ban on the film was lifted in 2000, when it was shown in local cinemas for the first time.<ref>{{cite web|title=Film Conversation - A Clockwork Orange plus Q&A with Malcolm McDowell|url=https://dev.kreattivita.org/event/film-conversation-a-clockwork-orange/|access-date=22 January 2022|website=Fondazzjoni Kreattività|language=en-GB}}</ref> The film was brought up during the compilation of evidence on the rape and murder of Paulina Dembska, which took place on 2 January 2022 in [[Sliema]], for the accused attacker compared himself to Alex during police interrogation.<ref>{{cite web|last=Cacciottolo|first=Diana|title=Sliema murder: Aquilina told police he didn't want to hurt victim 'that much'|url=https://timesofmalta.com/articles/view/sliema-murder-aquilina-told-police-he-didnt-want-to-hurt-victim-that.929254|url-status=live|access-date=22 January 2022|website=Times of Malta |date=21 January 2022 |language=en-GB|archive-url=https://web.archive.org/web/20220121185956/https://timesofmalta.com/articles/view/sliema-murder-aquilina-told-police-he-didnt-want-to-hurt-victim-that.929254 |archive-date=21 January 2022}}</ref><ref>{{cite web |last=Agius |first=Matthew|title=Dembska murder: Accused told police his mind was a 'cooker' and received 'frequencies' |url=http://www.maltatoday.com.mt/news/court_and_police/114515/live_paulina_dembska_murder_compilation_of_evidence_against_abner_aquilina_begins1 |url-status=live|access-date=22 January 2022 |website=MaltaToday.com.mt|archive-url=https://web.archive.org/web/20220121101108/https://www.maltatoday.com.mt/news/court_and_police/114515/live_paulina_dembska_murder_compilation_of_evidence_against_abner_aquilina_begins1 |archive-date=21 January 2022}}</ref>
+
+==Home media==
+In the US, the film has been widely available on home video since 1980 and was re-released several times on [[VHS]]. It was first released on [[DVD]] in the US on 29 June 1999.
+
+In the UK, the film was eventually released by [[Warner Home Video]] on 13 November 2000 (on both VHS and DVD), individually and as part of ''The Stanley Kubrick Collection'' DVD set.<ref>{{cite news|url=https://www.nytimes.com/2001/06/08/arts/home-video-stanley-kubrick-a-film-odyssey.html|title=Home Video: Stanley Kubrick, a Film Odyssey|work=[[The New York Times]]|date=8 June 2001|access-date=15 January 2022|archive-date=15 January 2022|archive-url=https://web.archive.org/web/20220115192110/https://www.nytimes.com/2001/06/08/arts/home-video-stanley-kubrick-a-film-odyssey.html|url-status=live}}</ref> Due to negative comments from fans, Warner Bros re-released the film, its image digitally restored and its soundtrack remastered. A limited-edition collector's set with a soundtrack disc, film poster, booklet, and filmstrip followed, and was discontinued. In 2005, a British re-release, packaged as an "Iconic Film" in a limited-edition slipcase was published, identical to the remastered DVD set, except for different package cover art. In 2006, Warner Bros. announced the September publication of a two-disc special edition featuring a Malcolm McDowell commentary, and the releases of other two-disc sets of Stanley Kubrick films. Several British retailers had set the release date as 6 November 2006. The release was delayed and re-announced for the 2007 Holiday Season.
+
+An [[HD DVD]], [[Blu-ray Disc|Blu-ray]], and DVD version was re-released on 23 October 2007, alongside four other Kubrick classics, with 1080p video transfers and remixed Dolby TrueHD 5.1 (for HD DVD) and uncompressed 5.1 PCM (for Blu-ray) audio tracks.<ref name="Review">{{cite web|url=http://www.dvdbeaver.com/film/DVDReviews16/clockwork_orange_dvd_review.htm|title=A Clockwork Orange|website=DVD Beaver|access-date=15 January 2022|archive-date=21 October 2021|archive-url=https://web.archive.org/web/20211021120552/http://www.dvdbeaver.com/film/DVDReviews16/clockwork_orange_dvd_review.htm|url-status=live}}</ref> Unlike the previous version, the DVD re-release edition is anamorphically enhanced. The Blu-ray was reissued for the 40th anniversary of the film's release, identical to the previously released Blu-ray, plus a Digibook and the ''[[Stanley Kubrick: A Life in Pictures]]'' documentary as a bonus feature.<ref name="Review" />
+
+In 2021, a 4K restoration was completed with Kubrick's former assistant [[Leon Vitali]] working closely with Warner Bros.<ref>{{cite web|first=Maggie|last=Lovitt|url=https://collider.com/a-clockwork-orange-4k-bluray-digital-release-date-details-bonus-content/|title=Stanley Kubrick's 'A Clockwork Orange' Gets a 4K Ultra HD Release Date|website=[[Collider (website)|Collider]]|date=3 August 2021|access-date=15 January 2022|archive-date=15 January 2022|archive-url=https://web.archive.org/web/20220115191134/https://collider.com/a-clockwork-orange-4k-bluray-digital-release-date-details-bonus-content/|url-status=live}}</ref> It was released in the US on 21 September 2021 and 4 October 2021 in the UK.
+
+In 2026 it was announced that ''A Clockwork Orange'' was to be released by the [[The Criterion Collection|Criterion Collection]] alongside Kubrick's entire filmography as part of a special 4K UHD Blu-Ray box set titled ''The Complete Kubrick'',<ref>{{Cite web |title=The Complete Kubrick |url=https://www.criterion.com/boxsets/9000-the-complete-kubrick |access-date=23 August 2026 |website=The Criterion Collection |language=en}}</ref> due to be released in October 2026.<ref>{{Cite web |last=Lattanzio |first=Ryan |date=2026-06-22 |title=Criterion to Release Stanley Kubrick Box Set with All 13 of His Films, Including ‘The Shining’ International Cut |url=https://www.indiewire.com/news/general-news/stanley-kubrick-criterion-box-set-1235201484/ |access-date=23 August 2026 |website=IndieWire |language=en-US}}</ref>
+
+==Legacy and influence ==
+Along with ''[[Bonnie and Clyde (film)|Bonnie and Clyde]]'' (1967), ''[[Night of the Living Dead]]'' (1968), ''[[The Wild Bunch]]'' (1969), ''[[Soldier Blue]]'' (1970), ''[[Dirty Harry]]'' (1971), and ''[[Straw Dogs (1971 film)|Straw Dogs]]'' (1971), the film is considered a landmark in the relaxation of control on violence in cinema.<ref>{{Cite book |last=MacDonald |first=Ian |url=https://archive.org/details/revolutioninhead0000macd_q9m6 |title=Revolution in the Head: The Beatles' Records and the Sixties |date=2008 |publisher=Vintage |isbn=978-0-09-952679-7 |pages=235 |language=en}}</ref>
+
+''A Clockwork Orange'' remains an influential work in cinema and other media. The film is [[List of cultural references to A Clockwork Orange|frequently referenced in popular culture]], which Adam Chandler of ''[[The Atlantic]]'' attributes to Kubrick's "genre-less" directing techniques that brought novel innovation in filming, music, and production that had not been seen at the time of the film's original release.<ref>{{cite web |url=https://www.theatlantic.com/entertainment/archive/2012/02/a-clockwork-orange-strikes-40/252430/ |title='A Clockwork Orange' Strikes 40 |first=Adam |last=Chandler |date=2 February 2012 |access-date=6 October 2017 |work=[[The Atlantic]] | archive-url = https://web.archive.org/web/20171006212507/https://www.theatlantic.com/entertainment/archive/2012/02/a-clockwork-orange-strikes-40/252430/ | archive-date = 6 October 2017 | url-status = live}}</ref>
+
+''[[The Village Voice]]'' ranked ''A Clockwork Orange'' at number 112 in its Top 250 "Best Films of the Century" list in 1999, based on a poll of critics.<ref>{{cite web|url=http://www.villagevoice.com/specials/take/one/full_list.php3?category=10 |title=Take One: The First Annual Village Voice Film Critics' Poll |access-date=27 July 2006 |year=1999 |work=The Village Voice |archive-url=https://web.archive.org/web/20070826201343/http://www.villagevoice.com/specials/take/one/full_list.php3?category=10 |archive-date=26 August 2007}}</ref> The film appears several times on the [[American Film Institute]]'s (AFI) top movie lists. The film was listed at No. 46 in the 1998 [[AFI's 100 Years... 100 Movies]],<ref>{{cite web |title=AFI's 100 Years...100 Movies |url=http://www.afi.com/Docs/100Years/movies100.pdf |url-status= |archive-url=https://web.archive.org/web/20190412113202/http://www.afi.com/Docs/100Years/movies100.pdf |archive-date=12 April 2019 |access-date=14 January 2015 |website=afi.com |publisher=American Film Institute}}</ref> at No. 70 in the 2007 [[AFI's 100 Years... 100 Movies (10th Anniversary Edition)|second listing]].<ref>{{cite web |title=AFI's 100 Years...100 Movies (10th Anniversary Edition) |url=http://www.afi.com/Docs/100Years/100Movies.pdf |url-status= |archive-url=https://web.archive.org/web/20130606072909/http://www.afi.com/Docs/100Years/100Movies.pdf |archive-date=6 June 2013 |access-date=14 January 2015 |website=afi.com |publisher=American Film Institute}}</ref> "Alex DeLarge" is listed 12th in the villains section of the [[AFI's 100 Years... 100 Heroes and Villains]].<ref>{{cite web |title=AFI's 100 Years...100 Heroes & Villains |url=http://www.afi.com/Docs/100Years/handv100.pdf |url-status= |archive-url=https://web.archive.org/web/20140328082215/http://www.afi.com/Docs/100Years/handv100.pdf |archive-date=28 March 2014 |access-date=14 January 2015 |website=afi.com |publisher=American Film Institute}}</ref> In 2008, the [[AFI's 10 Top 10#Science fiction|AFI's 10 Top 10]] rated ''A Clockwork Orange'' as the fourth greatest science-fiction movie to date.<ref>{{cite web |title=AFI's 10 Top 10: Top 10 Sci-Fi |url=http://www.afi.com/10top10/category.aspx?cat=7 |website=afi.com |publisher=American Film Institute |access-date=14 January 2015 |archive-url=https://web.archive.org/web/20140328081240/http://www.afi.com/10top10/category.aspx?cat=7 |archive-date=28 March 2014 |url-status=live}}</ref> The film was also placed 21st in the [[AFI's 100 Years... 100 Thrills]].<ref>{{cite web |title=AFI's 100 Years...100 Thrills |url=http://www.afi.com/Docs/100Years/thrills100.pdf |url-status= |archive-url=https://web.archive.org/web/20140328082214/http://www.afi.com/Docs/100Years/thrills100.pdf |archive-date=28 March 2014 |access-date=14 January 2015 |website=afi.com |publisher=[[American Film Institute]]}}</ref>
+
+In the [[British Film Institute]]'s 2012 ''[[Sight & Sound]]'' polls of the world's greatest films, ''A Clockwork Orange'' was ranked 75th in the directors' poll and 235th in the critics' poll.<ref>{{cite web |url=http://explore.bfi.org.uk/sightandsoundpolls/2012/film/4ce2b6a7b69f6 |title=A Clockwork Orange |access-date= 6 July 2014 |archive-url=https://web.archive.org/web/20140710110331/http://explore.bfi.org.uk/sightandsoundpolls/2012/film/4ce2b6a7b69f6 |archive-date=10 July 2014 |url-status=dead }}</ref> In 2010, ''[[Time (magazine)|Time]]'' magazine placed it ninth on their list of the Top 10 Ridiculously Violent Movies.<ref>{{cite magazine |url=https://entertainment.time.com/2010/09/03/top-10-ridiculously-violent-movies/slide/a-clockwork-orange/ |title=Top 10 Ridiculously Violent Movies |access-date=17 February 2013 |magazine=Time |date=3 September 2010|archive-url=https://web.archive.org/web/20130217004917/http://entertainment.time.com/2010/09/03/top-10-ridiculously-violent-movies/slide/a-clockwork-orange/|archive-date=17 February 2013|url-status=live}}</ref> In 2008, ''[[Empire (magazine)|Empire]]'' ranked it 37th on their list of "The 500 Greatest Movies of All Time", and in 2013, ''Empire'' ranked it 11th on their list of "The 100 Best British Films Ever".<ref>{{Cite magazine |date=October 2011 |title=The 100 Best British Films Ever |url=http://www.empireonline.com/100britishfilms/film.asp?film=11 |archive-url=https://web.archive.org/web/20150723025531/http://www.empireonline.com/100britishfilms/film.asp?film=11 |archive-date=23 July 2015 |magazine=Empire}}</ref> In 2010, [[The Guardian]] ranked the film sixth in its list of 25 greatest [[Art Film|arthouse films]].<ref>{{Cite news |last=Patterson |first=John |date=2010-10-20 |title=A Clockwork Orange: No 6 best arthouse film of all time |url=https://www.theguardian.com/film/2010/oct/20/clockwork-orange-kubrick-arthouse |url-status=live |archive-url=https://web.archive.org/web/20210719073940/https://www.theguardian.com/film/2010/oct/20/clockwork-orange-kubrick-arthouse |archive-date=2021-07-19 |access-date=2025-12-13 |work=The Guardian |language=en}}</ref> The Spanish director [[Luis Buñuel]] praised the film highly. He once said: "''A Clockwork Orange'' is my current favourite. I was predisposed against the film. After seeing it, I realised it is only a movie about what the modern world really means".{{sfn|Duncan|2003|p=129}} In 2024, Far Out Magazine named Alex one of the "10 most accurate movie [[Psychopathy|psychopaths]] according to the [[Federal Bureau of Investigation|FBI]]".<ref>{{Cite magazine |last=Taylor |first=Tom |date=21 November 2024 |title=The 10 most accurate movie psychopaths, according to the FBI |url=https://faroutmagazine.co.uk/10-movie-accurate-psychopaths-fbi/ |magazine=Far Out Magazine}}</ref>
+
+''A Clockwork Orange'' was added to the United States' [[National Film Registry]] in 2020 as a work considered to be "culturally, historically or aesthetically" significant.<ref name="variety nfr">{{cite web | url = https://variety.com/2020/film/news/dark-knight-shrek-grease-blues-brothers-national-film-registry-1234852610/ | title = 'Dark Knight,' 'Shrek,' 'Grease,' 'Blues Brothers' Added to National Film Registry | first = Dave | last = McNary | date = 14 December 2020 | access-date = 14 December 2020 | work = [[Variety (magazine)|Variety]] | archive-date = 18 February 2021 | archive-url = https://web.archive.org/web/20210218043613/https://variety.com/2020/film/news/dark-knight-shrek-grease-blues-brothers-national-film-registry-1234852610/ | url-status = live }}</ref>
+
+== See also ==
+* [[BFI Top 100 British films]]
+* [[London in film]]
+* [[List of cult films]]
+* [[List of cultural references to A Clockwork Orange|List of cultural references to ''A Clockwork Orange'']]
+* [[List of films featuring home invasions]]
+* [[Violence in art]]
+* [[Kubrick stare]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+;Bibliography
+* {{cite book |last=Baxter |first=John |title=Stanley Kubrick: A Biography |date=1997 |publisher=HarperCollins |isbn=978-0-00-638445-8 }}
+* {{cite book |last=Duncan |first=Paul |year=2003 |title=Stanley Kubrick: The Complete Films |publisher=Taschen GmbH |isbn=978-3836527750 }}
+* {{cite book |last=McDougal |first=Stuart Y. |title=Stanley Kubrick's A Clockwork Orange |url=https://books.google.com/books?id=Uwj5qK-RUj0C&pg=PA1 |date=2003 |publisher=Cambridge University Press |isbn=978-0-521-57488-4}}
+
+==Further reading==
+* {{cite book |last=Burgess |first=Anthony |title=Stanley Kubrick's a Clockwork Orange: Based on the Novel by Anthony Burgess |url=https://books.google.com/books?id=R2qLPwAACAAJ |year=2000 |publisher=ScreenPress Books |isbn=978-1-901680-47-8}}
+* {{cite book |last=Heide |first=Thomas von der |title=A Clockwork Orange - The presentation and the impact of violence in the novel and in the film |url=https://books.google.com/books?id=B5AuCZPMfRMC |date=1 June 2006 |publisher=GRIN Verlag |isbn=978-3-638-50681-6}}
+* {{cite book |last=Volkmann |first=Maren |title="A Clockwork Orange" in the Context of Subculture |url=https://books.google.com/books?id=riZm78qnGTcC |date=16 October 2006 |publisher=GRIN Verlag |isbn=978-3-638-55498-5}}
+* [https://timesofmalta.com/articles/view/a-clockwork-orange-cited-abner-aquilina-dembska-murder.929314 A Clockwork Orange has been cited in a murder case. It is not the first time - Times of Malta 21 January 2022]
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+* {{IMDb title|0066921}}
+* {{TCMDb title|71092}}
+* {{AFI film|54041}}
+* {{rotten-tomatoes|clockwork_orange}}
+* {{Metacritic film}}
+* {{Screenonline title|459628}}
+* {{Discogs master|76290}}
+* [http://www.hobotrashcan.com/2008/10/02/one-on-one-with-malcolm-mcdowell/ "One on One with Malcolm McDowell"] from HoboTrashcan.com (2008)
+* {{YouTube|id=WnJhAle1Doc|title=''A Clockwork Orange'' – The Droogs turn against Alex}}
+* {{YouTube|id=Ul-HYtbnh3M|title=''Kubrick's A Clockwork Orange pays homage to Antonioni''}}
+
+{{A Clockwork Orange}}
+{{Stanley Kubrick}}
+{{Navboxes
+|title = Awards for ''A Clockwork Orange''
+|list =
+{{Hugo Award for Best Dramatic Presentation 1958–1980}}
+{{New York Film Critics Circle Award for Best Film}}
+{{Seiun Award - Best Media}}
+}}
+
+{{portal bar|Film|Speculative fiction}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clockwork Orange (film), A}}
+[[Category:1971 films]]
+[[Category:1971 British films]]
+[[Category:1971 crime drama films]]
+[[Category:1971 English-language films]]
+[[Category:1970s crime comedy films]]
+[[Category:1970s dystopian films]]
+[[Category:1970s prison drama films]]
+[[Category:1971 science fiction comedy films]]
+[[Category:A Clockwork Orange]]
+[[Category:Articles containing video clips]]
+[[Category:British crime comedy-drama films]]
+[[Category:British dystopian films]]
+[[Category:British exploitation films]]
+[[Category:British films about revenge]]
+[[Category:British prison drama films]]
+[[Category:British science fiction films]]
+[[Category:Censored films]]
+[[Category:English-language crime comedy-drama films]]
+[[Category:English-language science fiction comedy films]]
+[[Category:Existentialist films]]
+[[Category:Fictional-language films]]
+[[Category:Films about gang rape]]
+[[Category:Films about home invasion]]
+[[Category:Films about mind control]]
+[[Category:Films about psychopaths and sociopaths]]
+[[Category:Films based on British novels]]
+[[Category:Films based on science fiction novels]]
+[[Category:Film censorship in the United Kingdom]]
+[[Category:Films directed by Stanley Kubrick]]
+[[Category:Films produced by Stanley Kubrick]]
+[[Category:Films scored by Wendy Carlos]]
+[[Category:Films set in London]]
+[[Category:Films set in the future]]
+[[Category:Films shot at Pinewood Studios]]
+[[Category:Films shot in Berkshire]]
+[[Category:Films shot in Buckinghamshire]]
+[[Category:Films shot in Hertfordshire]]
+[[Category:Films shot in London]]
+[[Category:Films shot in Oxfordshire]]
+[[Category:Films with screenplays by Stanley Kubrick]]
+[[Category:Hugo Award for Best Dramatic Presentation–winning works]]
+[[Category:Obscenity controversies in film]]
+[[Category:Rating controversies in film]]
+[[Category:Saturn Award–winning films]]
+[[Category:United States National Film Registry films inducted in 2020]]
+[[Category:Warner Bros. films]]

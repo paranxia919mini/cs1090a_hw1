@@ -1,0 +1,346 @@
+{{Short description|2000 animated comedy film}}
+{{pp|small=yes}}
+{{About|the film| the video game based on the film|Chicken Run (video game){{!}}''Chicken Run'' (video game)}}
+{{Use British English|date=January 2025}}
+{{Use dmy dates|date=January 2025}}
+{{Infobox film
+| image          = Chicken run ver1.jpg
+| caption        = British theatrical release poster
+| director       = {{Plain list|
+* [[Peter Lord]]
+* [[Nick Park]]
+}}
+| screenplay     = [[Karey Kirkpatrick]]
+| story          = {{Plain list|
+* Peter Lord
+* Nick Park
+}}
+| producer       = {{Plain list|
+* Peter Lord
+* [[David Sproxton]]
+* Nick Park
+}}
+| starring       = {{Plain list|<!--Per end credits in alphabetical order by last name-->
+* [[Phil Daniels]]
+* [[Lynn Ferguson]]
+* [[Mel Gibson]]
+* [[Tony Haygarth]]
+* [[Jane Horrocks]]
+* [[Miranda Richardson]]
+* [[Julia Sawalha]]
+* [[Timothy Spall]]
+* [[Imelda Staunton]]
+* [[Benjamin Whitrow]]
+}}
+| music          = {{Plain list|
+* [[John Powell (film composer)|John Powell]]
+* [[Harry Gregson-Williams]]
+}}
+| editing        = Mark Solomon
+| cinematography = {{Plain list|
+* [[Dave Alex Riddett]]
+* Tristan Oliver
+* Frank Passingham
+}}
+| production_companies = {{Plain list|
+* [[DreamWorks Animation]]<ref name=afi>{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/61096|title=Chicken Run (2000)|work=[[AFI Catalog of Feature Films]]|access-date=16 August 2018|archive-date=17 August 2018|archive-url=https://web.archive.org/web/20180817060102/https://catalog.afi.com/Catalog/moviedetails/61096|url-status=live}}</ref><ref name="ChickenRunNumbers">{{cite the numbers |title=Chicken Run |id=Chicken-Run |access-date=22 February 2021}}</ref>
+* [[Aardman Features]]<ref name=afi />
+}}
+| distributor    = {{Plain list|
+* [[DreamWorks Pictures]] (through DreamWorks Distribution; worldwide){{efn|name=Distributor|In July 2014, the film's distribution rights were purchased by [[DreamWorks Animation]] from [[Paramount Pictures]] (owners of the pre-2005 [[DreamWorks Pictures]] catalog)<ref>{{cite news |last1=Cheney |first1=Alexandra |title=DreamWorks Animation Q2 Earnings Fall Short of Estimates, SEC Investigation Revealed |url=https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/ |access-date=July 30, 2014 |work=Variety |date=July 29, 2014|archive-url=https://web.archive.org/web/20180623141606/https://variety.com/2014/biz/news/dreamworks-animation-q2-earnings-fall-short-of-estimates-1201271262/|archive-date=June 23, 2018|url-status=live}}</ref> and transferred to [[20th Century Fox]] before reverting to [[Universal Pictures]] in 2018.}}<ref name=afi/><ref name=VarietyFeatClay /><ref name="mojo"/>
+* [[Pathé Distribution]] and [[StudioCanal]] (select European territories)<ref name=afi/><ref name=VarietyFeatClay /><ref>{{cite web|title=Canal Plus joins Paramount on Travolta comedy|website=[[Screen International]]|first=Mike|last=Goodridge|date=29 March 2000|access-date=4 December 2023|url=https://www.screendaily.com/canal-plus-joins-paramount-on-travolta-comedy/401902.article|quote=Through C+P, its joint acquisition venture with Pathe, it also has a deal with Mandalay Entertainment for rights in France and the UK to 12 films kicking off with Sleepy Hollow as well as European rights to animated movie Chicken Run, which was co-financed with DreamWorks SKG.}}</ref>
+}}
+| released       = {{Film date|df=y|2000|6|23|United States|2000|6|30|United Kingdom}}
+| runtime        = 84 minutes<ref name="mojo" />
+| country        = {{Plain list|
+* United Kingdom<ref name=bfi>{{cite web|url=https://www2.bfi.org.uk/films-tv-people/4ce2b8048e7c2|title=Chicken Run (2000)|work=[[British Film Institute]]|access-date=4 May 2016|archive-url=https://web.archive.org/web/20170310062802/http://www.bfi.org.uk/films-tv-people/4ce2b8048e7c2|archive-date=10 March 2017|url-status=dead}}</ref>
+* United States<ref name=bfi/>
+* France<ref name=afi/>
+}}
+| language       = English
+| budget         = $42–45 million<ref name="numbers">{{cite web |title=Chicken Run (2000) – Financial Information |url=https://www.the-numbers.com/movie/Chicken-Run#tab=summary |website=[[The Numbers (website)|The Numbers]] |access-date=10 November 2025 |archive-date=4 March 2018 |archive-url=https://web.archive.org/web/20180304054642/https://www.the-numbers.com/movie/Chicken-Run#tab=summary |url-status=live }}</ref><ref name="mojo">{{cite Box Office Mojo |id=tt0120630|title=Chicken Run |accessdate=4 May 2016|archive-url=https://www.webcitation.org/65kph0OyM?url=http://www.boxofficemojo.com/movies/?id=chickenrun.htm|archive-date=27 February 2012|url-status=live}}</ref>
+| gross          = $228 million<ref name="numbers" />
+}}
+
+'''''Chicken Run''''' is a 2000 [[stop motion]] animated [[adventure comedy]] film<ref>{{cite magazine |last=Corliss |first=Richard |date=4 December 2000 |title=Run, Chicken Run! |magazine=Time |url=https://content.time.com/time/world/article/0,8599,2047283,00.html |access-date=23 March 2023 |issn=0040-781X |archive-date=24 January 2023 |archive-url=https://web.archive.org/web/20230124033415/https://content.time.com/time/world/article/0,8599,2047283,00.html |url-status=live }}</ref> directed by [[Peter Lord]] and [[Nick Park]] and written by [[Karey Kirkpatrick]] from an original story by Lord and Park''.'' Produced by [[Aardman Features]] in partnership with [[Pathé]] and [[DreamWorks Animation]], it is Aardman's first feature-length film. The film stars the voices of [[Julia Sawalha]], [[Mel Gibson]], [[Tony Haygarth]], [[Miranda Richardson]], [[Phil Daniels]], [[Lynn Ferguson]], [[Timothy Spall]], [[Imelda Staunton]], and [[Benjamin Whitrow]]. Set in the countryside of [[Yorkshire]], the film centres on a group of British [[Anthropomorphism|anthropomorphic]] [[Chicken|chickens]] in an oppressive [[poultry farming|egg farm]] who see an American rooster named Rocky Rhodes as their only hope for escape.
+
+Lord and Park concieved of ''Chicken Run'' in 1995, inspired by prison escape films like 1963's ''[[The Great Escape (film)|The Great Escape]]''. Pathé agreed to finance the film in 1996 and DreamWorks officially came on board in 1997, beating out other interested Hollywood studios and securing distribution in most countries. DreamWorks co-chairman [[Jeffrey Katzenberg]] had been interested in working with Aardman ever since seeing their 1989 short film, ''[[Creature Comforts]]''. [[Principal photography]] began in January 1998 and wrapped in June 1999. During production, 30 sets were used with 80 animators working to film a minute of footage a week.
+
+''Chicken Run'' was released in the United States on 23 June 2000 and in the United Kingdom on 30 June 2000. It was a critical and commercial success, grossing $228 million and becoming the [[List of highest-grossing animated films#Stop motion animation|highest-grossing stop-motion animated film in history]]. At the time, this film was DreamWorks Animation's most successful release, but this was overtaken by ''[[Shrek]]'' the following year''.'' A sequel, titled ''[[Chicken Run: Dawn of the Nugget]]'', was released on [[Netflix]] on 15 December 2023.
+
+== Plot ==
+<!--Per WP: FILMPLOT, plot summaries should be between 400 and 700 words.-->
+In the countryside of Yorkshire,<ref>{{cite web |title=Poultry in Motion: the Making of Chicken Run |url=https://www.youtube.com/watch?v=GnvgQ0bMIo0&ab_channel=Gunner%27sEntertainmentShack |access-date=15 March 2023 |website=YouTube |archive-date=15 March 2023 |archive-url=https://web.archive.org/web/20230315195504/https://www.youtube.com/watch?v=GnvgQ0bMIo0&ab_channel=Gunner%27sEntertainmentShack |url-status=live }}</ref> a flock of chickens live on an [[Poultry farming|egg farm]] structured like a [[prisoner-of-war camp]]. The farm is run by the cruel Mrs Tweedy and her submissive husband, Mr Tweedy, who kill and eat any chicken that is no longer able to lay eggs. Led by the rebellious Ginger, the chickens constantly devise new ways to try to escape but are always caught. Mr Tweedy suspects the chickens are organised and plotting [[Resistance movement|resistance]], but his wife dismisses his theories while being frustrated with making minuscule profits.
+
+One night, Ginger sees an American rooster named Rocky Rhodes glide over the farm's fences and crash-land; the chickens put his sprained wing in a cast and hide him from the Tweedys, who have been promised a handsome reward by Rocky's owner for his return. Inspired by Rocky's apparent flying abilities, Ginger begs him to help teach her and the other chickens to fly so they can escape, threatening to turn him in if he refuses. Rocky reluctantly gives them training lessons. One evening, a load of equipment is delivered to the farm, containing the parts for a chicken pie machine that Mrs Tweedy has ordered as part of a plan to convert the farm into a profitable pie-making factory. When the Tweedys increase the chickens' food rations and ignore the decline in egg production, Ginger deduces that the couple's new plan is to fatten the chickens for slaughter. The chickens become despondent, but Rocky holds a morale-boosting dance party during which it is revealed that his wing is healed. Ginger talks Rocky into agreeing to give a flying demonstration the next day.  Mr Tweedy finishes assembling the machine and puts Ginger in it for a test run. Rocky saves her and sabotages the machine, buying them time to warn the chickens and plan an escape from the farm.
+
+The next day, Ginger finds Rocky has escaped overnight, leaving behind part of a poster that shows he is part of a "chicken cannonball" act with no ability to fly on his own, and that their chance to learn how to fly has been crushed. While devastated, Ginger is inspired by elderly rooster Fowler's stories of his time as a [[mascot]] in the [[Royal Air Force]] to build an aircraft to flee the farm. The chickens assemble parts for the plane as Mr Tweedy fixes the pie-making machine. Meanwhile, Rocky comes across a billboard advertising Mrs Tweedy's chicken pies and returns to the farm out of guilt.
+
+Mrs Tweedy orders Mr Tweedy to gather all the chickens for the machine, but the chickens subdue him and finish the plane, which Ginger persuades Fowler to pilot. As the plane approaches the take-off ramp, Mr Tweedy escapes and manages to knock over the ramp before being knocked out; Ginger races to reset the ramp, but a now-alerted Mrs Tweedy attacks her. Rocky returns and subdues Mrs. Tweedy, before helping Ginger re-raise the ramp, allowing the plane to take flight. Rocky and Ginger grab onto the runway lights, which have been snagged by the departing plane. An axe-wielding Mrs Tweedy follows them by climbing up the lights, but Ginger tricks Mrs Tweedy into cutting the line, sending her falling into the pie machine, blocking the [[safety valve]] and causing the machine to explode in a [[mushroom cloud]] of [[gravy]].
+
+The chickens celebrate their victory while Ginger and Rocky kiss, and they fly to an island [[bird sanctuary]]. Sometime later, the chickens have settled into their new home, and Rocky and Ginger have continued their romantic relationship.
+
+== Voice cast ==
+{{Multiple image|perrow=4.9|total_width=350
+| image1 = Mel Gibson Cannes 2016 2.jpg
+| image2 = Stronger PC 02 (37216444535).jpg
+| image3 = Timothy Spall (30374074181).jpg
+| image4 = Jane Horrocks waxwork.jpg
+| image5 = Imelda Staunton, October 2019.jpg
+| image6 = Lynn Ferguson.png
+| footer = '''Top row:''' [[Mel Gibson]], [[Miranda Richardson]], [[Timothy Spall]], [[Jane Horrocks]] respectively play the roles of Rocky, Mrs Tweedy, Nick, and Babs.<br />'''Bottom row:''' [[Imelda Staunton]] and [[Lynn Ferguson]] respectively play the roles of Bunty and Mac.
+}}
+
+* [[Julia Sawalha]] as Ginger, the [[de facto]] British leader of the chickens
+* [[Mel Gibson]] as Rocky, an American circus rooster and Ginger's love interest
+* [[Miranda Richardson]] as Mrs Tweedy, the owner of the farm
+* [[Tony Haygarth]] as Mr Tweedy, Mrs Tweedy's henpecked husband and the co-owner of the farm
+* [[Benjamin Whitrow]] as Fowler, an elderly rooster
+* [[Timothy Spall]] as Nick, a cynical, conniving rat
+* [[Phil Daniels]] as Fetcher, Nick's dim-witted partner
+* [[Jane Horrocks]] as Babs, a chubby chicken who loves knitting
+* [[Imelda Staunton]] as Bunty, a straightforward hen and champion egg-layer
+* [[Lynn Ferguson]] as Mac, Ginger's Scottish second in command
+
+== Production ==
+
+=== Development ===
+''Chicken Run'' was first conceived in 1995 by Aardman co-founder Peter Lord and ''[[Wallace and Gromit]]'' creator Nick Park. According to Park, the project started as a spoof on the 1963 film ''[[The Great Escape (film)|The Great Escape]]''.<ref>{{cite news|title=Chat with Nick Park and Peter Lord|url=http://www.bbc.co.uk/films/2000/07/14/peter_lord_nick_park_article.shtml|publisher=[[BBC]]|date=28 October 2014|archive-date=16 December 2019|archive-url= https://web.archive.org/web/20191216084326/http://www.bbc.co.uk/films/2000/07/14/peter_lord_nick_park_article.shtml|url-status=live}}</ref><ref>{{cite news|last1=McCarthy|first1=Todd|title=Review: 'Chicken Run'|url=https://variety.com/2000/film/reviews/chicken-run-1200462982/|access-date=1 October 2015|work=Variety|date=12 June 2000|archive-url=https://web.archive.org/web/20151002105932/http://variety.com/2000/film/reviews/chicken-run-1200462982/|archive-date=2 October 2015|url-status=live}}</ref><ref>{{cite news|title=Chat with Nick Park and Peter Lord|url=http://www.bbc.co.uk/films/2000/07/14/peter_lord_nick_park_article.shtml|publisher=[[BBC]]|date=28 October 2014|archive-date=16 December 2019|archive-url= https://web.archive.org/web/20191216084326/http://www.bbc.co.uk/films/2000/07/14/peter_lord_nick_park_article.shtml|url-status=live}}</ref> ''Chicken Run'' was Aardman Animations' first feature-length production, which would be executive produced by [[Jake Eberts]]. [[Nick Park]] and [[Peter Lord]], who run Aardman, directed the film,<ref>{{cite web |author=Weiner, Rex |date=10 April 1997 |url=https://variety.com/1997/scene/vpage/aardman-on-run-1117435154/ |title=Aardman on 'Run' |publisher=[[Variety (magazine)|Variety]] |access-date=18 February 2010 |archive-url= https://web.archive.org/web/20170813013314/http://variety.com/1997/scene/vpage/aardman-on-run-1117435154/ |archive-date=13 August 2017 |url-status=live  }}</ref> while [[Karey Kirkpatrick]] scripted, with additional input from [[Mark Burton (writer)|Mark Burton]]{{citation needed|date=June 2020}} and [[John O'Farrell (author)|John O'Farrell]].{{citation needed|date=June 2020}}
+
+When a chicken speaks, each sound corresponds to a different beak that was placed on the character.<ref>{{cite journal |last1=Stempel |first1=Tom |title=Let the Credits Roll: Interviews with Film Crews (review) |journal=Film & History: An Interdisciplinary Journal of Film and Television Studies |date=2004 |volume=34 |issue=2 |pages=95 |doi=10.1353/flm.2004.0048 |s2cid=108235807 }}</ref>
+
+Pathé agreed to finance the film in 1996, putting their finances into script development and model design. [[DreamWorks Pictures|DreamWorks]] officially came on board in 1997.<ref name=VarietyFeatClay /><ref name=chickenrundevelopment>{{cite AV media |people=Spall, Timothy |year=2000 |title=Fowl Play: The Making of Chicken Run |publisher=Picture Production }}</ref> They beat out studios including [[Walt Disney Pictures|Disney]], [[20th Century Fox]] (which had distributed many of Aardman's earlier projects, including the [[Wallace & Gromit]] shorts, in the U.S.), and [[Warner Bros. Pictures|Warner Bros.]] (which had also distributed some of Aardman's earlier projects in the U.S.) and largely won due to the perseverance of DreamWorks co-chairman [[Jeffrey Katzenberg]]; as a company they were eager to make their presence felt in the animation market in an attempt to compete with Disney's dominance of the field.<ref name=VarietyFeatClay>{{cite news|last1=Cox|first1=Dan|title=D'Works' feat of clay|url=https://variety.com/1997/film/news/d-works-feat-of-clay-1116678798/|access-date=17 August 2014|work=Variety|date=3 December 1997|archive-url=https://web.archive.org/web/20140819090702/http://variety.com/1997/film/news/d-works-feat-of-clay-1116678798/|archive-date=19 August 2014|url-status=live}}</ref> Katzenberg explained that he had "been chasing these guys for five or six years, ever since I first saw ''[[Creature Comforts]]''."<ref name=VarietyFeatClay /> DreamWorks secured their first animated feature with the film, and they handled distribution in all territories except Europe, which Pathé handled.<ref name=VarietyFeatClay /> The two studios co-financed the film.<ref name=VarietyFeatClay /><ref name="afi" /><ref>{{cite web|url=https://www.sfgate.com/movies/amp/Chicken-Recipe-Simply-Divine-Action-comedy-3239861.php|title='Chicken' Recipe Simply Divine / Action comedy blends great story, animation|date=21 June 2000|access-date=2 June 2021|archive-date=2 June 2021|archive-url=https://web.archive.org/web/20210602214504/https://www.sfgate.com/movies/amp/Chicken-Recipe-Simply-Divine-Action-comedy-3239861.php|url-status=live}}</ref>  DreamWorks also retains rights to worldwide merchandising.<ref name=VarietyFeatClay />
+
+=== Animation ===
+[[Principal photography]] began on 29 January 1998. During production, 30 sets were used with 80 animators working along with 180 people working overall. The result was one minute of film completed for each week of filming, and production wrapped on 18 June 1999.<ref name=chickenrundevelopment />
+
+=== Music ===
+{{Main|Chicken Run (soundtrack)}}
+[[John Powell (film composer)|John Powell]] and [[Harry Gregson-Williams]] composed the music for the film, which was released on 20 June 2000 under the [[RCA Records|RCA Victor]] label.<ref>{{cite web |url=https://www.allmusic.com/album/chicken-run-original-motion-picture-soundtrack-mw0000608937 |title=Chicken Run [Original Motion Picture Soundtrack] – John Powell &#124; Songs, Reviews, Credits, Awards &#124; AllMusic |website=[[AllMusic]] |access-date=20 August 2012 |archive-url=https://web.archive.org/web/20151210205206/http://www.allmusic.com/album/chicken-run-original-motion-picture-soundtrack-mw0000608937 |archive-date=10 December 2015 |url-status=live  }}</ref><ref>{{cite web |url=https://www.amazon.com/Chicken-Run-John-Powell/dp/B00004TRTW |title=Amazon.com: Chicken Run: Music |website=Amazon |access-date=11 October 2014 |archive-url=https://web.archive.org/web/20141016061844/http://www.amazon.com/Chicken-Run-John-Powell/dp/B00004TRTW |archive-date=16 October 2014 |url-status=live  }}</ref><ref>{{cite web |url=https://www.soundtrack.net/album/chicken-run/ |title=Chicken Run Soundtrack (2000) |publisher=[[Soundtrack.Net]] |access-date=11 October 2014 |archive-url=https://web.archive.org/web/20141018125929/http://www.soundtrack.net/album/chicken-run/ |archive-date=18 October 2014 |url-status=live  }}</ref> It was recorded at the [[Abbey Road Studios]] in London.<ref>{{cite web |title=Hans Zimmer Website |url=https://hans-zimmer.com/discography/46/project/348 |access-date=19 April 2024 |website=hans-zimmer.com}}</ref> Powell incorporated some [[Kazoo|kazoos]] and whistles to create an even funnier soundtrack.
+
+== Reception ==
+=== Critical response ===
+The review aggregator website [[Rotten Tomatoes]] reported {{a or an|{{RT data|score}}}} approval rating and an average rating of {{RT data|average}}, based on {{RT data|count}} reviews. The website's critics consensus reads: "''Chicken Run'' has all the charm of Nick Park's ''[[Wallace & Gromit]]'', and something for everybody. The voice acting is fabulous, the slapstick is brilliant, and the action sequences are spectacular."<ref>{{cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y}} |type=m |title=Chicken Run |archive-url=https://web.archive.org/web/20151226013804/http://www.rottentomatoes.com/m/chicken_run/ |archive-date=26 December 2015 |url-status=live|access-date={{RT data|access date|df=dmy}}}}{{RT data|edit}}</ref> At [[Metacritic]] the film has a weighted average score of 88 out of 100, based on 34 critics, indicating "universal acclaim".<ref>{{cite Metacritic|id=chicken-run|type=movie|title=Chicken Run|accessdate=7 February 2011 |archive-url=https://web.archive.org/web/20110228202537/https://www.metacritic.com/movie/chicken-run |archive-date=28 February 2011 |url-status=live  }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on an A+ to F scale.<ref>{{cite web |url= https://cinemascore.com/publicsearch/index/title/ |title= ''Chicken Run'' (2000) |publisher= [[CinemaScore]] |url-status= dead |archive-url= https://web.archive.org/web/20181220122629/https://cinemascore.com/publicsearch/index/title/ |archive-date= 20 December 2018 |access-date= 8 July 2019 }}</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave three and a half stars out of four, writing: "So it truly is a matter of life and death for the chickens to escape from the Tweedy Chicken Farm in ''Chicken Run'', a magical new animated film that looks and sounds like no other. Like the otherwise completely different ''[[Babe (film)|Babe]]'', this is a movie that uses animals as surrogates for our hopes and fears, and as the chickens run through one failed escape attempt after another, the charm of the movie wins us over."<ref>{{cite web|url=https://www.rogerebert.com/reviews/chicken-run-2000|title=Chicken Run Movie Review & Film Summary (2000) – Roger Ebert|first=Roger|last=Ebert|website=www.rogerebert.com|access-date=5 November 2017|archive-url=https://web.archive.org/web/20171107015643/https://www.rogerebert.com/reviews/chicken-run-2000|archive-date=7 November 2017|url-status=live}}</ref>
+
+''Chicken Run'' and its sequel have been noted for their depiction of [[feminism]],<ref name="bitch"/><ref name="rejects"/><ref name="queer">{{cite web |title=Judith Jack Halberstam. 2011. The Queer Art of Failure. Durham and London: Duke University Press. 224 pp. Paperback |url=https://www.gjss.org/sites/default/files/issues/chapters/bookreviews/Journal-09-02--13-Szczygielska.pdf |access-date=19 August 2022 |archive-date=23 June 2022 |archive-url=https://web.archive.org/web/20220623054944/http://www.gjss.org/sites/default/files/issues/chapters/bookreviews/Journal-09-02--13-Szczygielska.pdf |url-status=live }}</ref><ref name="allegory">{{cite journal |last1=Meighoo |first1=Sean |title=The Function of HumAnimAllegory |journal=Humanities |date=22 January 2017 |volume=6 |issue=1 |pages=2 |doi=10.3390/h6010002 |doi-access=free }}</ref> [[political revolution|revolution]],<ref name="bitch"/><ref name="rejects"/> [[Marxism]],<ref name="Dallas">{{cite web |title=Dallas Observer {{!}} dallasobserver.com {{!}} Film |url=https://www.dallasobserver.com/issues/2000-06-22/film2.html |access-date=3 September 2022 |date=21 February 2002|archive-url=https://web.archive.org/web/20020221101510/https://www.dallasobserver.com/issues/2000-06-22/film2.html |archive-date=21 February 2002 }}</ref><ref name="bitch">{{cite web |title=Revisiting "Chicken Run," the Film That Pecked out the Poultriarchy |url=https://www.bitchmedia.org/article/revisiting-chicken-run-labor-organizing |website=Bitch Media |access-date=3 September 2022 |archive-date=3 September 2022 |archive-url=https://web.archive.org/web/20220903013105/https://www.bitchmedia.org/article/revisiting-chicken-run-labor-organizing |url-status=live }}</ref><ref name="comment">{{cite journal |id={{ProQuest|210265783}} |last1=Anderson |first1=John |title=Chicken Run |journal=Film Comment |location=New York |volume=36 |issue=4 |date=2000 |pages=77 }}</ref> [[veganism]]<ref name="guardian1">{{cite news|title=
+A vegan morality tale? Chicken Run sequel puts factory farming in spotlight|url=https://www.theguardian.com/film/2023/dec/10/a-vegan-morality-tale-chicken-run-sequel-puts-factory-farming-in-spotlight|date=10 December 2023|author=Catherine Shoard|newspaper=The Guardian |archive-url=https://web.archive.org/web/20231220023347/https://www.theguardian.com/film/2023/dec/10/a-vegan-morality-tale-chicken-run-sequel-puts-factory-farming-in-spotlight|archivedate=20 December 2023}}</ref> and [[fascism]].<ref name="fascism">{{cite journal |last1=Strzelczyk |first1=Florentine |title=Fascism and Family Entertainment |journal=Quarterly Review of Film and Video |date=16 April 2008 |volume=25 |issue=3 |pages=196–211 |doi=10.1080/10509200601091433 |s2cid=191494968 }}</ref> According to Florentine StrzeIczyk, ''Chicken Run'' points to the way that [[masculinity]] and [[femininity]] are mediated in popular film genres.<ref name="fascism" /> It also received attention for its [[Women in film#Pay and representation|female-led cast]]. [[Film School Rejects]] called the movie feminist, noting that "the stereotypical '[[Women's work|woman's work]]' of these female chickens (such as their [[sewing]] and [[knitting]]) is crucial in constructing their mechanism for escape and vital towards the revolution itself."<ref name="rejects">{{cite web |last1=Zigler |first1=Brianna |title=The Revolutionary Spirit of 'Chicken Run' |url=https://filmschoolrejects.com/revolutionary-spirit-of-chicken-run/ |website=Film School Rejects |date=11 February 2019 |access-date=19 August 2022 |archive-date=19 August 2022 |archive-url=https://web.archive.org/web/20220819214023/https://filmschoolrejects.com/revolutionary-spirit-of-chicken-run/ |url-status=live }}</ref>
+
+=== Box office ===
+On opening weekend, the film grossed $17,506,162 for a $7,027 average from 2,491 theatres. Overall, the film placed second behind ''[[Me, Myself & Irene]]''.<ref>{{cite web|url=https://www.screendaily.com/carrey-tops-us-box-office-chickens-in-at-two/402785.article|title=Carrey tops US box office, Chickens in at two|access-date=13 October 2022|archive-date=2 December 2022|archive-url=https://web.archive.org/web/20221202164005/https://www.screendaily.com/carrey-tops-us-box-office-chickens-in-at-two/402785.article|url-status=live}}</ref><ref>{{cite web|url=https://www.boxofficemojo.com/weekend/2000W25/|title=Weekend Box Office Results for June 23–25, 2000|publisher=Box Office Mojo. IMDb.|access-date=13 June 2014|archive-url=https://web.archive.org/web/20140602051458/http://www.boxofficemojo.com/weekend/chart/?yr=2000&wknd=25&p=.htm|archive-date=2 June 2014|url-status=live}}</ref> In its second weekend, the film held well as it slipped only 25% to $13,192,897 for a $4,627 average from expanding to 2,851 theatres and finishing in fourth place.<ref>{{cite web|url=https://www.boxofficemojo.com/weekend/2000W26/|title=Weekend Box Office Results for June 30 – July 2, 2000 |publisher=Box Office Mojo. IMdb.|access-date=26 June 2014|archive-url=https://web.archive.org/web/20140714192916/http://www.boxofficemojo.com/weekend/chart/?yr=2000&wknd=26&p=.htm|archive-date=14 July 2014|url-status=live}}</ref> The film's widest release was 2,953 theatres, after grossing $106,834,564 in the United States and Canada. In the United Kingdom, it was the third highest-grossing film of the year behind ''[[Toy Story 2]]'' and ''[[Gladiator (2000 film)|Gladiator]]'' with a gross of $43 million.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|page=32|title=U.K.'s Top 10 in 2000|date=19 February 2001|edition=AFM 2001: Film Market Preview}}</ref> At the time, this film was DreamWorks Animation's most successful release, but this was overtaken by ''[[Shrek]]'' the following year''.''<ref>{{cite web|title=The Longer View: British animation|work=BBC Timelines |url=http://www.bbc.co.uk/timelines/z9xvcwx|publisher=[[BBC]]|access-date=9 October 2015|archive-url=https://web.archive.org/web/20150928030113/http://www.bbc.co.uk/timelines/z9xvcwx|archive-date=28 September 2015|url-status=live}}</ref> With an additional $75 million from other markets, it grossed $224,834,564 worldwide. Produced on an estimated budget of $42–45 million, the film was a huge box office hit. To date, it is still the [[List of highest-grossing animated films#Stop motion animation|highest-grossing stop motion animated movie]].
+
+=== Accolades ===
+{| class="wikitable sortable"
+! Group
+! Category (Recipient)
+! Result
+|-
+| rowspan="3" | [[Annie Awards]]<ref>{{cite web|title=28th Annual Annie|url=https://annieawards.org/28th-annie-awards|publisher=Annie Awards|access-date=9 September 2014|archive-url=https://web.archive.org/web/20130102053351/http://annieawards.org/28th-annie-awards|archive-date=2 January 2013|url-status=live}}</ref>
+| Outstanding Achievement in an Animated Theatrical Feature
+| {{nom}}
+|-
+| Outstanding Individual Achievement for Directing in an Animated Feature Production ([[Nick Park]] and [[Peter Lord]])
+| {{nom}}
+|-
+| Outstanding Individual Achievement for Writing in an Animated Feature Production (Karey Kirkpatrick)
+| {{nom}}
+|-
+| rowspan="2" | [[British Academy Film Awards]]<ref>{{cite news|title=Bigger Better Baftas|url=https://www.empireonline.com/news/story.asp?nid=13704|access-date=9 September 2014|work=Empire|date=31 January 2001|archive-url=https://web.archive.org/web/20140910195315/http://www.empireonline.com/news/story.asp?nid=13704|archive-date=10 September 2014|url-status=live}}</ref>
+| Best British Film
+| {{nom}}
+|-
+| Best Visual Effects
+| {{nom}}
+|-
+| [[British Academy Children's Awards]]<ref>{{cite web|url=http://awards.bafta.org/award/2000/childrens|title=Children's in 2000|website=[[British Academy of Film and Television Arts]]|accessdate=19 February 2023|archive-date=8 March 2023|archive-url=https://web.archive.org/web/20230308212901/http://awards.bafta.org/award/2000/childrens|url-status=live}}</ref>
+| [[British Academy Children's Award for Feature Film|Feature Film]]
+| {{nom}}
+|-
+| [[6th Critics' Choice Awards|Broadcast Film Critics]]<ref>{{cite web|last1=Armstrong|first1=Mark|title=Broadcast Critics Eat Crowe|url=https://www.eonline.com/news/40898/broadcast-critics-eat-crowe|publisher=E! Online UK|access-date=9 September 2014|date=19 December 2000|archive-date=7 October 2014|archive-url=https://web.archive.org/web/20141007011732/http://www.eonline.com/news/40898/broadcast-critics-eat-crowe|url-status=live}}</ref>
+| rowspan="2" | Best Animated Feature
+| {{won}}
+|-
+| [[Dallas-Fort Worth Film Critics Association Awards 2000|Dallas-Fort Worth Film Critics]]<ref>{{cite news|last1=Reifsteck|first1=Greg|title=Dallas crix pick 'Traffic'|url=https://variety.com/2001/film/news/dallas-crix-pick-traffic-1117791461/|access-date=9 September 2014|work=Variety|date=8 January 2001|archive-url=https://web.archive.org/web/20140910195843/http://variety.com/2001/film/news/dallas-crix-pick-traffic-1117791461/|archive-date=10 September 2014|url-status=live}}</ref>
+| {{won}}
+|-
+| rowspan="3" | [[Empire Awards]]
+| Best British Director (Nick Park and Peter Lord)
+| {{nom}}
+|-
+| Best British Film
+| {{nom}}
+|-
+| Best Debut (Nick Park and Peter Lord)
+| {{nom}}
+|-
+| [[European Film Awards]]<ref>{{cite web|title=Billy aims to conquer Europe|url=http://news.bbc.co.uk/2/hi/entertainment/1013092.stm|work=BBC News|access-date=9 September 2014|date=8 November 2000|archive-url=https://web.archive.org/web/20140910200252/http://news.bbc.co.uk/2/hi/entertainment/1013092.stm|archive-date=10 September 2014|url-status=live}}</ref>
+| Best Film
+| {{nom}}
+|-
+| [[Florida Film Critics Circle Awards 2000|Florida Film Critics]]<ref>{{cite web|title=Traffic is Florida favourite|url=http://news.bbc.co.uk/2/hi/entertainment/1102080.stm|work=BBC News|access-date=9 September 2014|date=5 January 2011|archive-url=https://web.archive.org/web/20140910200158/http://news.bbc.co.uk/2/hi/entertainment/1102080.stm|archive-date=10 September 2014|url-status=live}}</ref>
+| Best Animated Feature
+| {{won}}
+|-
+| [[Genesis Awards]]<ref>{{cite web|title=FIRST LOOK: The News in Brief, February 27, 2001|url=https://www.eonline.com/news/41227/first-look-the-news-in-brief-february-27-2001|publisher=E! Online UK|access-date=9 September 2014|date=27 February 2001|archive-date=11 September 2014|archive-url=https://web.archive.org/web/20140911082717/http://www.eonline.com/news/41227/first-look-the-news-in-brief-february-27-2001|url-status=live}}</ref>
+| Best Feature Film
+| {{won}}
+|-
+| [[Golden Globe Awards]]<ref>{{cite web|last1=DeMott|first1=Rick|title=Chicken Run Lays A Golden Globe Nom|url=https://www.awn.com/news/chicken-run-lays-golden-globe-nom|publisher=Animated World Network|access-date=9 September 2014|date=21 December 2000|archive-url=https://web.archive.org/web/20140911002357/http://www.awn.com/news/chicken-run-lays-golden-globe-nom|archive-date=11 September 2014|url-status=live}}</ref>
+| Best Motion Picture – Musical or Comedy
+| {{nom}}
+|-
+| Kansas City Film Critics<ref>{{cite web|title=KCFCC Award Winners – 2000–09|date=14 December 2013|url=https://kcfcc.org/kcfcc-award-winners-2000-09/|publisher=Kansas City Film Critics Circle|access-date=9 September 2014|archive-url=https://web.archive.org/web/20141006143201/http://kcfcc.org/kcfcc-award-winners-2000-09/|archive-date=6 October 2014|url-status=live}}</ref>
+| Best Animated Feature
+| {{won}}
+|-
+|[[2001 Kids' Choice Awards|Nickelodeon Kids’ Choice Awards]]<ref>{{cite news|last1=DeMott|first1=Rick|title=Nick Announces Kid's Choice Noms|url=https://www.awn.com/news/nick-announces-kids-choice-noms|work=Animation World Network|date=23 January 2001|archive-url=https://web.archive.org/web/20240614093313/https://www.awn.com/news/nick-announces-kids-choice-noms|archive-date=14 June 2024|url-status=live}}</ref>
+|Favorite Voice From an Animated Movie (Mel Gibson)
+|{{Nominated}}
+|-
+| Las Vegas Film Critics<ref>{{cite news|last1=Scherzer|first1=Barbara|title=Las Vegas critics fete 'Erin,' 'Gladiator'|url=https://variety.com/2000/film/news/las-vegas-critics-fete-erin-gladiator-1117790967/|access-date=9 September 2014|work=Variety|date=26 December 2000|archive-url=https://web.archive.org/web/20140910200229/http://variety.com/2000/film/news/las-vegas-critics-fete-erin-gladiator-1117790967/|archive-date=10 September 2014|url-status=live}}</ref>
+| Best Family Film
+| {{won}}
+|-
+| [[Los Angeles Film Critics Association Awards 2000|Los Angeles Film Critics]]<ref>{{cite news|last1=King|first1=Susan|title='Crouching Tiger' Wins Top Prize from L.A. Critics|url=https://www.latimes.com/archives/la-xpm-2000-dec-17-me-1258-story.html|access-date=9 September 2014|work=Los Angeles Times|quote=17 December 2000|archive-url=https://web.archive.org/web/20140910201512/http://articles.latimes.com/2000/dec/17/local/me-1258|archive-date=10 September 2014|url-status=live}}</ref>
+| rowspan="4" | Best Animated Feature
+| {{won}}
+|-
+| [[National Board of Review Awards 2000|National Board of Review]]<ref>{{cite news|last1=King|first1=Susan|title='Quills' Named Best Film by National Board of Review|url=https://www.latimes.com/archives/la-xpm-2000-dec-07-ca-62250-story.html|access-date=9 September 2014|work=Los Angeles Times|date=7 December 2000|archive-url=https://web.archive.org/web/20140910215730/http://articles.latimes.com/2000/dec/07/entertainment/ca-62250|archive-date=10 September 2014|url-status=live}}</ref>
+| {{won}}
+|-
+| [[New York Film Critics Circle Awards 2000|New York Film Critics]]<ref>{{cite web|title=Traffic wows New York critics|url=http://news.bbc.co.uk/2/hi/entertainment/1070240.stm|work=BBC News|access-date=9 September 2014|date=14 December 2000|archive-url=https://web.archive.org/web/20140910200042/http://news.bbc.co.uk/2/hi/entertainment/1070240.stm|archive-date=10 September 2014|url-status=live}}</ref>
+| {{won}}
+|-
+| rowspan="3" | Phoenix Film Critics<ref>{{cite web|title=Flashes From the week of January 18, 2001|url=https://www.phoenixnewtimes.com/news/flashes-6418963|publisher=Phoenix New Times|access-date=9 September 2014|date=18 January 2001|archive-url=https://web.archive.org/web/20140910195246/http://www.phoenixnewtimes.com/content/printVersion/168743/|archive-date=10 September 2014|url-status=live}}</ref>
+| {{won}}
+|-
+| Best Family Film
+| {{won}}
+|-
+| Best Original Score ([[John Powell (film composer)|John Powell]] and [[Harry Gregson-Williams]])
+| {{nom}}
+|-
+| rowspan="2" | [[Satellite Awards 2000|Satellite Awards]]<ref>{{cite news|last1=Reifsteck|first1=Greg|title='Gladiator,' 'Traffic' lead Golden Sat noms|url=https://variety.com/2000/film/news/gladiator-traffic-lead-golden-sat-noms-1117790733/|access-date=9 September 2014|work=Variety|date=18 December 2000|archive-url=https://web.archive.org/web/20140910200226/http://variety.com/2000/film/news/gladiator-traffic-lead-golden-sat-noms-1117790733/|archive-date=10 September 2014|url-status=live}}</ref><ref>{{cite web|last1=Minotta|first1=Mauricio|title='Traffic,' 'Betty' Are Golden|work=Tickets to Movies in Theaters, Broadway Shows, London Theatre & More &#124; Hollywood.com |url=https://www.hollywood.com/general/traffic-betty-are-golden-57166531/|publisher=Hollywood.com|access-date=9 September 2014|date=31 July 2011|archive-url=https://web.archive.org/web/20140910200133/http://www.hollywood.com/news/brief/313500/traffic-betty-are-golden|archive-date=10 September 2014|url-status=live}}</ref>
+| Best Motion Picture—Animated or Mixed Media
+| {{won}}
+|-
+| Best Sound
+| {{nom}}
+|-
+| Southeastern Film Critics<ref>{{cite web|title=2000 SEFCA Best Films of the Year|url=http://www.sefca.org/a2000.html|publisher=Southeastern Film Critics Association|access-date=9 September 2014|url-status=usurped|archive-url=https://web.archive.org/web/20040613054846/http://www.sefca.org/a2000.html|archive-date=13 June 2004}}</ref>
+| Best Film
+| {{nom}}
+|}
+
+== Home media ==
+''Chicken Run'' was released on [[VHS]] and [[DVD]] in the United States on 21 November 2000 by [[DreamWorks Home Entertainment]].<ref>{{cite web|last1=DeMott|first1=Rick|title=Chicken Run Flies Into Stores|url=https://www.awn.com/news/chicken-run-flies-stores|publisher=Animation World Network|access-date=27 June 2014|date=22 November 2000|archive-url=https://web.archive.org/web/20140826114929/http://www.awn.com/news/chicken-run-flies-stores|archive-date=26 August 2014|url-status=live}}</ref>
+
+[[Universal Pictures Home Entertainment]] released ''Chicken Run'' on [[Blu-ray]] in North America on 22 January 2019.<ref>{{citation|title=Chicken Run Blu-ray|url=https://www.blu-ray.com/movies/Chicken-Run-Blu-ray/44125/|access-date=23 November 2018|archive-url=https://web.archive.org/web/20181124055202/https://www.blu-ray.com/movies/Chicken-Run-Blu-ray/44125/|archive-date=24 November 2018|url-status=live}}</ref>
+
+== Sequel ==
+{{Main|Chicken Run: Dawn of the Nugget{{!}}''Chicken Run: Dawn of the Nugget''}}
+In January 2022, the title for the sequel was revealed as ''[[Chicken Run: Dawn of the Nugget]]'' and was announced for a 2023 release on [[Netflix]].<ref name="December2023">{{cite web |last=Robinson |first=Jacob |date=17 April 2023 |title='Chicken Run: Dawn of the Nugget' Netflix Movie Release Date & What We Know So Far |url=https://www.whats-on-netflix.com/news/aardman-sequel-chicken-run-dawn-of-the-nugget-everything-we-know-so-far/ |url-status=live |archive-url=https://web.archive.org/web/20230421220959/https://www.whats-on-netflix.com/news/aardman-sequel-chicken-run-dawn-of-the-nugget-everything-we-know-so-far/ |archive-date=21 April 2023 |access-date=17 April 2023 |website=What's on Netflix }}</ref><ref name="ColliderRelease">{{cite web |last=Raynor |first=Josh |date=2 January 2023 |title=10 Animated Movies To Look Out For In 2023 |url=https://collider.com/animated-movies-releasing-in-2023/ |url-status=live |archive-url=https://web.archive.org/web/20230112235049/https://collider.com/animated-movies-releasing-in-2023/ |archive-date=12 January 2023 |access-date=13 January 2023 |website=[[Collider (website)|Collider]]}}</ref><ref name="Q42023">{{cite web |last1=Beaird |first1=Ryan |title=Aardman / Start Licensing Interview: Brands & Retail UK Summer Conference |url=https://www.brandsretail.uk/aardman |url-status=live |archive-url=https://web.archive.org/web/20221128181523/https://www.brandsretail.uk/aardman |archive-date=28 November 2022 |access-date=14 January 2023 |website=Brands & Retail UK}}</ref> [[Zachary Levi]], [[Thandiwe Newton]], [[Romesh Ranganathan]] and [[Daniel Mays]] were revealed to be replacing Gibson, Sawalha, Spall and Daniels as the voices of Rocky, Ginger, Nick and Fetcher; [[David Bradley (English actor)|David Bradley]] voiced Fowler due to Whitrow's death in 2017, while Horrocks, Staunton and Ferguson reprised their roles as Babs, Bunty and Mac.<ref name="THR 2022"/> [[Bella Ramsey]] was cast as Molly, while [[Nick Mohammed]] and Josie Sedgwick-Davies voiced two new characters, Dr Fry and Frizzle, respectively. [[Sam Fell]] directed with Steve Pegram and Leyla Hobart producing. Kirkpatrick and O'Farrell wrote the script with Rachel Tunnard.<ref name="THR 2022">{{cite web|url=https://www.hollywoodreporter.com/movies/movie-news/wallace-gromit-new-film-chicken-run-2-cast-title-aardman-netflix-1235077972/|title=New 'Wallace & Gromit' Film in Works From Aardman/Netflix; 'Chicken Run 2' Cast and Title Unveiled|date=20 January 2022|website=The Hollywood Reporter|access-date=20 January 2022|archive-date=5 February 2023|archive-url=https://web.archive.org/web/20230205032600/https://www.hollywoodreporter.com/movies/movie-news/wallace-gromit-new-film-chicken-run-2-cast-title-aardman-netflix-1235077972/|url-status=live}}</ref> In June 2023, Gregson-Williams was revealed to be composing the sequel.<ref>{{cite web |url=https://filmmusicreporter.com/2023/06/12/harry-gregson-williams-scoring-aardmans-chicken-run-dawn-of-the-nugget/ |title=Harry Gregson-Williams Scoring Aardman's 'Chicken Run: Dawn of the Nugget' |website=Film Music Reporter |date=12 June 2023 |access-date=12 June 2023}}</ref> Later that month, it was officially announced that the film would release on Netflix on 15 December 2023.<ref name="ReleaseDateReveal">{{cite web |last=Giardina |first=Carolyn |date=14 June 2023 |title=Netflix at Annecy: 'Nimona' Debuts; 'Chicken Run 2' Gets Release Date |url=https://www.hollywoodreporter.com/movies/movie-news/annecy-netflix-nimona-trailer-chicken-run-2-release-date-1235508264/ |access-date=14 June 2023 |website=The Hollywood Reporter }}</ref><ref>{{cite web |last=Blair |first=Elizabeth |date=13 December 2023 |title=It took 23 years, but a 'Chicken Run' sequel has finally hatched |url=https://www.npr.org/2023/12/13/1218765634/chicken-run-sequel-dawn-of-the-nugget-netflix |website=NPR}}</ref> Its Netflix release followed its world premiere at the 67th [[BFI London Film Festival]] on 14 October 2023, which would also see preview screenings taking place at UK cinemas at the same time.<ref name="BFI. 23 August 2023">{{cite news |url=https://www.bfi.org.uk/london-film-festival/news/chicken-run-dawn-nugget-67th-bfi-london-film-festival|title=Chicken Run: Dawn of the Nugget to receive world premiere at 67th BFI London Film Festival| publisher=BFI. 23 August 2023 | accessdate=26 August 2023 }}</ref>
+
+== Video game ==
+{{Main|Chicken Run (video game){{!}}''Chicken Run'' (video game)}}
+
+''Chicken Run'' is a stealth-based 3-D platformer based on the movie. It was released in November 2000 on most consoles. The game is a loose parody of the film ''[[The Great Escape (film)|The Great Escape]]'', which is set during [[World War II]].<ref>{{cite web|url=https://www.gamespot.com/reviews/chicken-run-review/1900-2674949/|title=Chicken Run Review|website=GameSpot|access-date=26 September 2019|archive-date=9 November 2020|archive-url=https://web.archive.org/web/20201109041137/https://www.gamespot.com/reviews/chicken-run-review/1900-2674949/|url-status=live}}</ref>
+
+== See also ==
+* [[Lists of animated feature films]]
+* [[List of stop motion films]]
+* [[Colditz Cock]], a [[glider (aircraft)|glider]] built by British prisoners of war for an escape attempt during [[World War II]]
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category}}
+* {{Official website|https://www.dreamworks.com/movies/chicken-run}}
+* {{IMDb title|0120630}}
+* {{Rotten Tomatoes}}
+
+{{Aardman Animations}}
+{{Chicken Run (franchise)}}
+{{Nick Park}}
+{{DreamWorks animated films}}
+{{Navboxes
+|title = Awards for ''Chicken Run''
+|list  =
+{{Broadcast Film Critics Association Award for Best Animated Feature}}
+{{Dallas–Fort Worth Film Critics Association Award for Best Animated Film}}
+{{Florida Film Critics Circle Award for Best Animated Film}}
+{{Los Angeles Film Critics Association Award for Best Animated Film}}
+{{National Board of Review Award for Best Animated Film}}
+{{New York Film Critics Circle Award for Best Animated Film}}
+{{Satellite Award Best Animated or Mixed Media Feature Film}}
+}}
+{{Authority control}}
+{{Portal bar|2000s|United Kingdom|United States|France|Film|Animation|Cartoon|Comedy|Animals}}
+
+[[Category:2000 films]]
+[[Category:2000 adventure comedy films]]
+[[Category:2000s British animated films]]
+[[Category:2000s children's adventure films]]
+[[Category:2000 children's animated films]]
+[[Category:2000s French animated films]]
+[[Category:2000s stop-motion animated films]]
+[[Category:2000 American animated films]]
+[[Category:2000 directorial debut films]]
+[[Category:2000 children's comedy films]]
+[[Category:2000 English-language films]]
+[[Category:Aardman Animations feature films]]
+[[Category:Allied Filmmakers films]]
+[[Category:American children's animated adventure films]]
+[[Category:American children's animated comedy films]]
+[[Category:American adventure comedy films]]
+[[Category:American prison comedy films]]
+[[Category:American aviation films]]
+[[Category:British adventure comedy films]]
+[[Category:British animated comedy films]]
+[[Category:British aviation films]]
+[[Category:British children's adventure films]]
+[[Category:British children's animated films]]
+[[Category:British children's comedy films]]
+[[Category:British prison films]]
+[[Category:French adventure comedy films]]
+[[Category:French animated comedy films]]
+[[Category:French aviation films]]
+[[Category:French children's adventure films]]
+[[Category:French children's comedy films]]
+[[Category:French prison films]]
+[[Category:English-language French films]]
+[[Category:English-language adventure comedy films]]
+[[Category:Animal adventure films]]
+[[Category:Animated films about aviation]]
+[[Category:Animated films about chickens]]
+[[Category:Animated films about rats]]
+[[Category:Animated films about revenge]]
+[[Category:Animated films about talking animals]]
+[[Category:Animated films set in the 1950s]]
+[[Category:Animated films set on farms]]
+[[Category:Animated films set on islands]]
+[[Category:Best Animated Feature Broadcast Film Critics Association Award winners]]
+[[Category:Chicken Run (franchise)]]
+[[Category:Claymation films]]
+[[Category:DreamWorks Animation films]]
+[[Category:DreamWorks Pictures films]]
+[[Category:Films about animal rights]]
+[[Category:Films about chickens]]
+[[Category:Films about farmers]]
+[[Category:Films directed by Nick Park]]
+[[Category:Films directed by Peter Lord]]
+[[Category:Films produced by Nick Park]]
+[[Category:Films produced by Peter Lord]]
+[[Category:Films scored by Harry Gregson-Williams]]
+[[Category:Films scored by John Powell (film composer)]]
+[[Category:Films set in Yorkshire]]
+[[Category:Films with screenplays by Karey Kirkpatrick]]
+[[Category:Pathé films]]
+[[Category:Satellite Award–winning films]]
+[[Category:Works featuring anthropomorphic chickens]]

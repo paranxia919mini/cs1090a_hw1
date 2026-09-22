@@ -1,0 +1,94 @@
+{{Use dmy dates|date=November 2019}}
+{{Infobox film
+| name           = Ten Dark Women
+| image          = TenDarkWomen.jpg
+| caption        = Theatrical release poster
+| director       = [[Kon Ichikawa]]
+| producer       = [[Hiroaki Fujii (producer)|Hiroaki Fujii]]<br>[[Masaichi Nagata]]
+| writer         = [[Natto Wada]]
+| based_on       = 
+| starring       = 
+| music          = [[Yasushi Akutagawa]]
+| cinematography = [[Setsao Kobayashi]]
+| editing        = [[Tatsuji Nakashizu]]
+| distributor    = [[Daiei Film]]
+| released       = {{film date|1961|5|3|df=yes}}
+| runtime        = 105 minutes
+| country        = Japan
+| language       = Japanese
+| budget         = 
+}}
+'''''Ten Dark Women''''' ({{nihongo||黒い十人の女|Kuroi jûnin no onna}}, literally "ten black women") is a 1961 Japanese film directed by [[Kon Ichikawa]].<ref name=kinemajumpo>{{cite web|url=http://www.kinejun.jp/cinema/%E9%BB%92%E3%81%84%E5%8D%81%E4%BA%BA%E3%81%AE%E5%A5%B3|title=Kinema Junpo Eiga Detabesu - Kuroi Junin No Onna|accessdate=26 February 2012}}</ref><ref name=richie>{{richie-japanese-movie|164}}</ref><ref>{{cite web|url=https://kotobank.jp/word/%E9%BB%92%E3%81%84%E5%8D%81%E4%BA%BA%E3%81%AE%E5%A5%B3-751604|title=黒い十人の女|publisher=kotobank|accessdate=27 December 2020}}</ref><ref>{{cite web|url=https://www.japanese-cinema-db.jp/Details?id=8514|title=黒い十人の女|publisher=[[Agency for Cultural Affairs]]|accessdate=27 December 2020}}</ref>
+
+==Plot==
+A married television executive has many mistresses. Nine of the mistresses and his wife band together and plan to kill him. His wife tells him they are planning to kill him and they fake his death at a meeting of all ten women using a pistol loaded with blanks and a tomato.
+
+The other women tell her that they were not really serious about killing him and run away. One of the women, Miwako, commits [[suicide]], and her ghost comes back to view the proceedings. Then they find out that he is not really dead, and they decide to kill him again.
+
+His wife divorces him and one of the other women takes him on.
+
+==Staff==
+{| class=wikitable
+|Sound Recordist
+| Kenichi Nishii
+|-
+|Art Director
+| Tomoo Shimokawahara
+|-
+|[[Special effects]]
+| [[Yonesaburo Tsukiji]]<ref>{{Cite web|title=築地米三郎|url=http://www.jmdb.ne.jp/person/p0267680.htm|access-date=2021-08-06|website=www.jmdb.ne.jp}}</ref>
+|}
+
+==Reception==
+Donald Richie describes it as "an extraordinarily black comedy ... the hilarious hell of a man whose wife, mistresses and girlfriends conspire to murder him".<ref name=richie/>
+
+==Cast==
+{|class=wikitable
+!Role
+!Actor
+|-
+|Futaba Kaze
+|[[Fujiko Yamamoto]]
+|-
+|Matsuyoshi Kaze
+|[[Eiji Funakoshi]]
+|-
+|Sayoko Goto
+|[[Kyōko Kishida]]
+|-
+|Ichiko Ishinoshita
+|[[Keiko Kishi]]
+|-
+|
+|[[Juzo Itami]]
+|-
+|Shiomura
+|[[Tamao Nakamura]]
+|-
+|Miwako Mikishi
+|[[Mariko Miyagi]]
+|-
+|Themselves
+|[[Hajime Hana]] and the Crazy Cats
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|0055062}}
+
+{{Kon Ichikawa}}
+
+[[Category:Japanese crime comedy-drama films]]
+[[Category:1961 films]]
+[[Category:Films with screenplays by Natto Wada]]
+[[Category:Films directed by Kon Ichikawa]]
+[[Category:1961 Japanese-language films]]
+[[Category:Films scored by Yasushi Akutagawa]]
+[[Category:1961 Japanese films]]
+[[Category:1961 crime films]]
+[[Category:Japanese black-and-white films]]
+
+
+{{1960s-Japan-film-stub}}

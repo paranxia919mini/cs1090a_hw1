@@ -1,0 +1,110 @@
+{{Short description|2024 film by Hong Sang-soo}}
+{{Infobox film
+| name           = By the Stream
+| image          = By the Stream 수유천 (poster).jpg
+| alt            = 
+| native_name    = {{Infobox Korean film name
+| hangul = ^수유천
+}}
+| director       = [[Hong Sang-soo]]
+| writer         = Hong Sang-soo
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{Based on|title of the original work|creator of the original work|additional creator(s), if necessary}} -->
+| producer       = Hong Sang-soo
+| starring       = {{Plainlist|
+* [[Kim Min-hee (actress, born 1982)|Kim Min-hee]]
+* [[Kwon Hae-hyo]]
+* Cho Yun-hee
+* Ha Seong-guk
+}}
+| narrator       = 
+| cinematography = Hong Sang-soo
+| editing        = Hong Sang-soo
+| music          = Hong Sang-soo
+| studio         = Jeonwonsa Film
+| distributor    = 
+| released       = {{Film date|df=y|2024|08|16|[[77th Locarno Film Festival|Locarno]]|ref1=}}
+| runtime        = 111 minutes
+| country        = South Korea
+| language       = Korean
+| budget         = 
+| gross          = 
+}}
+'''''By the Stream''''' ({{Korean/auto|hangul=^수유천|rr=yes}}, also known as ''Suyoocheon'') is a 2024 [[Cinema of South Korea|South Korean]] [[drama film]] written and directed by [[Hong Sang-soo]].<ref name="var">{{cite news |last1=Frater |first1=Patrick |title=Hong Sang-soo's 'By the Stream' Picked Up by Korea's Finecut Ahead of Locarno Premiere |url=https://variety.com/2024/film/news/hong-sang-soo-locarno-by-the-stream-1236064547/ |access-date=10 July 2024 |agency=Variety}}</ref> In August 2024, the film was selected to compete for the [[Golden Leopard]] at the [[77th Locarno Film Festival]], where [[Kim Min-hee (actress, born 1982)|Kim Min-hee]] won [[Best Performance Award (Locarno International Film Festival)|Pardo for Best Performance Award]].<ref>{{Cite web|title=Locarno77: The Pardo d'Oro goes to Akiplėša (Toxic) by Saulė Bliuvaitė, a striking vision of the teenage female body as a battleground|url=https://www.locarnofestival.ch/press/press-releases/2024/palmares-locarno77-pardo-d-oro-to-akiplesa.html|website=[[Locarno Film Festival]]|date=August 17, 2024|access-date=August 18, 2024|archive-date=August 17, 2024|archive-url=https://web.archive.org/web/20240817213653/https://www.locarnofestival.ch/press/press-releases/2024/palmares-locarno77-pardo-d-oro-to-akiplesa.html|url-status=live}}</ref>
+
+== Premise ==
+Art instructor Jeonim asks her uncle Sieon, a former actor, to write and direct a play for the theatre festival at the university where she teaches. Her boss, Jeong, is a fan of Sieon, and the pair develop feelings for each other to Jeonim's dismay.<ref name="plot">{{cite news |last1=Lodge |first1=Guy |title='By the Stream' Review: Hong Sangsoo's Wry, Strangely Sweet Ode to Art, Love and Eel |url=https://variety.com/2024/film/reviews/by-the-stream-review-1236108756/ |access-date=19 August 2024 |agency=Variety}}</ref>
+
+== Cast ==
+* [[Kim Min-hee (actress, born 1982)|Kim Min-hee]] as Jeonim, a university art instructor
+* [[Kwon Hae-hyo]] as Sieon, a former actor turned bookstore owner
+* Cho Yun-hee as Jeong, Jeonim's boss
+* Ha Seong-guk
+* Kang Soyi
+* Park Hanbitnara
+* O Yoonsoo
+* Park Miso
+* Lee Kyoungmin
+* Han Nuri
+* Kim Sunjin
+
+== Release ==
+''By the Stream'' debuted on 16 August 2024 in the ''Concorso Internazionale'' competition at the [[77th Locarno Film Festival]].<ref name="locarno">{{cite web |title=Suyoocheon |url=https://www.locarnofestival.ch/festival/program/film.html?fid=6407996a-75bb-4889-b731-dbc5d6d7b892&l=en&eid= |website=Locarno Film Festival |access-date=10 July 2024}}</ref> Ahead of the film's premiere, it was acquired for international sales by Finecut,<ref name="var" /> from whom [[The Cinema Guild|Cinema Guild]] purchased North American theatrical distribution rights.<ref name="dist">{{cite news |last1=Frater |first1=Patrick |title=Hong Sang-soo's Locarno-Bound 'By the Stream' Set for North American Release (EXCLUSIVE) |url=https://variety.com/2024/film/news/hong-sang-soo-by-the-stream-north-american-release-1236091199/ |access-date=6 August 2024 |agency=Variety}}</ref>
+
+In September 2024, ''By the Stream'' will screen in the Centrepiece section of the [[Toronto International Film Festival]], marking the film's North American debut.<ref name="tiff">{{cite web |last1=Pond |first1=Steve |title=Toronto Film Festival Adds 43 International Movies From 41 Countries |url=https://www.thewrap.com/toronto-international-film-festival-movies-countries-tiff/ |website=The Wrap |date=6 August 2024 |access-date=6 August 2024}}</ref> The film is also slated to screen at the [[2024 New York Film Festival]].<ref name="nyff">{{cite web |last1=Lattanzio |first1=Ryan |title=NYFF Reveals Main Slate: Sean Baker, Mike Leigh, Brady Corbet Join Lineup
+|url=https://www.indiewire.com/news/festivals/nyff-2024-reveals-main-slate-anora-the-shrouds-more-1235032878/ |website=Indiewire |date=6 August 2024 |access-date=6 August 2024}}</ref>
+
+== Reception ==
+=== Critical response ===
+{{Rotten Tomatoes prose|100|8|10|consensus=|ref=yes|access-date=September 9, 2024}}
+
+=== Accolades ===
+{| class="wikitable sortable plainrowheaders"
+! scope="col" | Award
+! scope="col" | Ceremony date
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" | Ref.
+|-
+! scope="row" rowspan=2|  [[Locarno Film Festival]]
+| rowspan=2|[[77th Locarno Film Festival|17 August 2024]]
+| [[Golden Leopard]]
+| ''By the Stream''
+| {{nom}}
+| align="center" | <ref name="locarno" />
+|-
+| [[Best Performance Award (Locarno International Film Festival)|Leopard for Best Performance]] 
+| [[Kim Min-hee (actress, born 1982)|Kim Min-hee]]
+| {{won}}
+| align="center" | <ref>{{Cite news|author=Guy Lodge|title=Lithuanian Teen Drama 'Toxic' Wins Big at Locarno Film Festival|url=https://variety.com/2024/film/news/lithuanian-teen-drama-toxic-wins-at-locarno-film-festival-1236109849/|website=[[Variety (magazine)|Variety]]|date=August 17, 2024|access-date=August 17, 2024|archive-date=August 17, 2024|archive-url=https://web.archive.org/web/20240817142910/https://variety.com/2024/film/news/lithuanian-teen-drama-toxic-wins-at-locarno-film-festival-1236109849/|url-status=live}}</ref>
+|-
+! scope="row" rowspan=2|  [[Gijón International Film Festival]]
+| rowspan=2|23 November 2024
+| Best Feature Film
+| ''By the Stream''
+| {{won}}
+| align="center" rowspan=2| <ref>{{Cite news|title=AWARD LIST 62 GIJÓN/XIXÓN INTERNATIONAL FILM FESTIVAL - Gijon International Film Festival|url=https://ficx.tv/en/award-list-62-gijon-xixon-international-film-festival/|website=[[Gijón International Film Festival]]|access-date=January 20, 2025|archive-date=January 20, 2025|archive-url=https://archive.today/20250120234518/https://ficx.tv/en/award-list-62-gijon-xixon-international-film-festival/|url-status=live}}</ref>
+|-
+| Best Actress
+| [[Kim Min-hee (actress, born 1982)|Kim Min-hee]]
+| {{won}}
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb title|tt32880592}}
+
+{{Hong Sang-soo}}
+
+{{DEFAULTSORT:By the Stream}}
+[[Category:2024 drama films]]
+[[Category:2024 films]]
+[[Category:Films directed by Hong Sang-soo]]
+[[Category:2024 Korean-language films]]
+[[Category:South Korean drama films]]
+[[Category:2024 South Korean films]]
+[[Category:South Korean independent films]]

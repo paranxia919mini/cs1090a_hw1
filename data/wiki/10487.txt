@@ -1,0 +1,227 @@
+{{Short description|1987 film by Sam Raimi}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2016}}
+{{Infobox film
+| name = Evil Dead II
+| image = Evil Dead II poster.jpg
+| caption = Theatrical release poster
+| director = [[Sam Raimi]]
+| producer = [[Rob Tapert]]
+| writer = {{Plainlist|
+* Sam Raimi
+* [[Scott Spiegel]]
+}}
+| starring = {{Plainlist|
+* [[Bruce Campbell]]
+* Sarah Berry
+* [[Dan Hicks (actor)|Dan Hicks]]
+* [[Kassie DePaiva|Kassie Wesley]]
+* Richard Domeier
+}}<!-- per poster billing block -->
+| music = [[Joseph LoDuca]]
+| cinematography = [[Peter Deming]]
+| editing = Kaye Davis
+| production_companies = Renaissance Pictures<ref name="AFI">{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/57615|publisher=[[American Film Institute|AFI]]|title=Evil Dead II (1987)|access-date=28 January 2020|archive-date=January 28, 2020|archive-url=https://web.archive.org/web/20200128024846/https://catalog.afi.com/Catalog/moviedetails/57615|url-status=live}}</ref>
+| distributor = [[De Laurentiis Entertainment Group|Rosebud Releasing Corporation]]<ref name="AFI"/>
+| released = {{Film date|1987|03|13|United States}}
+| runtime = 84 minutes<!--Submitted runtime: 84:25--><ref>{{cite web|title=''EVIL DEAD II'' (18) (!)|url=https://glasgowfilm.org/shows/evil-dead-ii-18 |work=[[British Board of Film Classification]]|date=1987-05-22|access-date=2013-03-28}}{{cbignore|bot=medic}}</ref>
+| country = United States
+| language = English
+| budget = $3.5 million<ref name="Evil Dead 2">{{cite web |title=The Numbers Evil Dead 2 |url=https://www.the-numbers.com/movie/Evil-Dead-2#tab=summary |website=The Numbers |access-date=March 29, 2020}}</ref>
+| gross = $5.9 million<ref>{{cite web|title=Evil Dead II (1987)|url=https://boxofficemojo.com/movies/?id=evildead2.htm|publisher=[[Box Office Mojo]]|access-date=October 20, 2014|archive-date=July 14, 2014|archive-url=https://web.archive.org/web/20140714235852/http://boxofficemojo.com/movies/?id=evildead2.htm|url-status=live}}</ref><ref>{{cite web | url=https://www.the-numbers.com/movie/Evil-Dead-II#tab=summary | title=Evil Dead II (1987) - Financial Information | access-date=January 6, 2023 | archive-date=January 6, 2023 | archive-url=https://web.archive.org/web/20230106194419/https://www.the-numbers.com/movie/Evil-Dead-II#tab=summary | url-status=live }}</ref>
+}}
+'''''Evil Dead II''''' (also known in publicity materials as '''''Evil Dead 2: Dead by Dawn''''')<ref name="companion" />{{Reference page|page=206}} is a 1987 American [[comedy horror]] film directed by [[Sam Raimi]], who co-wrote it with [[Scott Spiegel]]. It is the sequel to ''[[The Evil Dead]]'' (1981) and the second installment in the [[Evil Dead|''Evil Dead'' franchise]]. It stars [[Bruce Campbell]] as [[Ash Williams]], who vacations with his girlfriend to a remote cabin in the woods. He discovers an audio tape of recitations from a book of ancient texts, and when the recording is played, it unleashes a number of [[demon]]s which [[Demonic possession|possess]] and torment him.
+
+After the critical and commercial failure of ''[[Crimewave]]'' (1985), Raimi, producer [[Rob Tapert]], and Campbell began work on a sequel to ''The Evil Dead'' at the insistence of their publicist [[Irvin Shapiro]]. Having endorsed the original film, author [[Stephen King]] brought the project to the attention of producer [[Dino De Laurentiis]], with whom he had been making his [[directorial debut]] ''[[Maximum Overdrive]]'' (1986). De Laurentiis agreed to provide financial backing, and assigned the filmmakers a considerably larger budget than they had worked with on the original film. Although Raimi had devised a premise set in the [[Middle Ages]] and involving [[time travel]], De Laurentiis requested that the film be similar to its predecessor.
+
+''Evil Dead II'' was shot in [[Wadesboro, North Carolina]] and [[Detroit]], [[Michigan]] in 1986, and featured extensive [[stop-motion animation]] and [[prosthetic makeup]] effects created by a team of artists that included [[Mark Shostrom]], [[Greg Nicotero]], [[Robert Kurtzman]] and [[Tom Sullivan (special effects artist)|Tom Sullivan]], the latter of whom returned from the original film. The finished film was released in the United States on March 13, 1987; due to its high level of violence, it was released through a pseudonymous distributor to curb an anticipated [[X rating]] from the [[Motion Picture Association of America]]. Much like ''The Evil Dead'', it was widely acclaimed by critics, who praised its humor, Raimi's direction, and Campbell's performance; many have considered it superior to its predecessor and similarly as one of the greatest horror films ever made. Despite being given a somewhat [[limited release]], it was a minor box office success, grossing just under $6 million.
+
+As with the first film, ''Evil Dead II'' has accumulated a large, international [[Cult film|cult following]]. In 1992, it was followed by the direct sequel ''[[Army of Darkness]]'', which utilized Raimi's original premise; in 2013, it was followed by standalone sequel ''[[Evil Dead (2013 film)|Evil Dead]]''; and in 2015, it was followed by the television series ''[[Ash vs Evil Dead]]'', a direct sequel to the first three films. A fifth film in the series, ''[[Evil Dead Rise]]'', was released on April 21, 2023. A sixth film, ''[[Evil Dead Burn]]'', was released on July 10, 2026. A prequel, ''[[Evil Dead Wrath]]'', is set to be released on April 7, 2028.
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be set between 400 to 700 words only. -->
+[[Michigan State University]] students [[Ash Williams]] and his girlfriend, Linda, take a romantic getaway to a seemingly abandoned cabin in the woods. While in it, Ash plays a tape of [[archaeologist]] Raymond Knowby, the cabin's previous inhabitant, reciting passages from the "Book of the Dead", ''[[Necronomicon Ex-Mortis]]'', which he uncovered during an archaeological dig. The recorded incantation unleashes an unseen evil force, known as the Kandarian Demon, that kills and possesses Linda, turning her into a "deadite". Ash decapitates Linda with a shovel and buries her in a shallow grave near the cabin. As dawn approaches, the evil force throws Ash through the woods.{{efn|This is an alternate version of the events of ''[[The Evil Dead]]'' (1981)}} He briefly becomes possessed by the demon, but the sunlight expels it from him.
+
+Ash attempts to flee the area but finds that the bridge to the cabin has been destroyed. The entity chases him back to the cabin, where Linda's revived head bites his hand. He runs to the toolshed and destroys the deadite Linda with a chainsaw, but his bitten right hand becomes possessed and tries to kill him. Ash severs it with the chainsaw and tries to shoot it with a shotgun, but the hand mocks him and escapes. Meanwhile, Knowby's daughter Annie and her research partner, Ed Getley, return from the dig with the missing pages of the ''Necronomicon''. Blocked by the destroyed bridge, they enlist handyman Jake and his girlfriend Bobby Joe to lead them to the cabin on foot. There they find an embattled Ash, who accidentally grazes Bobby Joe while trying to shoot his possessed hand. Assuming that he murdered Annie's parents, the newcomers lock him in the cellar.
+
+The four new arrivals listen to the rest of the tape recording, where Knowby explains that he killed his wife Henrietta after she was possessed by the Kandarian Demon, then buried her in the cellar. The deadite Henrietta bursts from her grave and possesses Ed, whom Ash, now freed from the cellar, dismembers with an axe. Bobby Joe flees through the woods when Ash's severed hand latches onto hers, but demonically possessed trees drag her to her death. Annie translates two of the ''Necronomicon''{{'}}s pages, which portray a fabled hero with a blade for a hand and detail a ritual that will make the evil take physical form and then open a portal through which it may be banished. Before they can perform the ritual, Jake turns on them and throws the pages into the cellar, forcing them at gunpoint to locate Bobby Joe. In the woods, Ash becomes possessed once more and attacks Jake. Annie retreats to the cabin and accidentally stabs Jake with a Kandarian dagger, mistaking him for the possessed Ash, before Henrietta kills him. Deadite Ash tries to kill Annie, but returns to his normal self upon seeing Linda's necklace.
+
+With Annie's help, Ash modifies the chainsaw, attaches it to the stump of his right arm, and [[sawn-off shotgun|cuts the shotgun's barrel]]. After finding the missing pages of the ''Necronomicon'' in the cellar, Ash kills Henrietta. Annie starts reciting the incantation, which makes the demon physically manifest and attack Ash. As she attempts to finish the incantation, Ash's severed hand stabs her in the back. Annie completes the ritual with her dying breath, opening up a whirling temporal vortex which sucks in not only the demon, but also Ash and his [[Oldsmobile Delta 88]].
+
+Ash and his Oldsmobile land in the [[Middle Ages]]. A group of knights confront him and initially mistake him for a deadite, but when a [[harpy]]-like Deadite appears and Ash blasts it with his shotgun, they hail him as their champion. Realizing that he is the hero prophesied in the book, Ash breaks down and screams in dismay.
+
+==Cast==
+* [[Bruce Campbell]] as [[Ash Williams]], who ventures out to a cabin in the woods with his girlfriend Linda and discovers a recording of the [[Necronomicon|Necronomicon Ex-Mortis]], the [[Sumer|Sumerian]] [[Book of the Dead]]
+* Sarah Berry as Annie Knowby, the daughter of Professor Knowby
+* [[Dan Hicks (actor)|Dan Hicks]] as Jake, a gas station owner and Bobby Joe's boyfriend
+* [[Kassie DePaiva|Kassie Wesley]] as Bobby Joe, Jake's girlfriend
+* Denise Bixler as Linda, Ash's girlfriend
+** Snowy Winters as Dancing demon Linda<ref>{{cite book|last=Mitchell|first=Charles P.|date=2001|title=The Complete H. P. Lovecraft Filmography|url=https://books.google.com/books?id=e_CzPwJrwQcC&pg=PA107|series=Bibliographies and Indexes in the Performing Arts, Number 26|publisher=[[Greenwood Press]]|page=107|isbn=978-0313316418}}</ref>
+* Richard Domeier as Professor Ed Getley, an archeology professor and the boyfriend of Annie Knowby
+* John Peaks as Professor Knowby, Annie Knowby's father, who unearthed the Necronomicon
+* Lou Hancock as Henrietta Knowby, Annie Knowby's mother
+** [[Ted Raimi]] as Possessed Henrietta
+* William Preston Robertson as the voice of the Evil Dead
+
+==Production==
+===Development===
+The concept of a [[sequel]] to ''The Evil Dead'' was discussed during location shooting on the first film. [[Irvin Shapiro]], the film's publicist, pushed writer/director [[Sam Raimi]] to devise a premise for such a film. Working with screenwriter [[Sheldon Lettich]], Raimi settled on a story in which Ash was sucked through a [[time portal]] to the [[Middle Ages]], where he would encounter more [[deadites]]. Shapiro was enticed by the concept, and took out advertisements in trade magazines to promote the project, then titled ''Evil Dead II: Evil Dead and the Army of Darkness'', in May 1984. After [[Universal Pictures]] and [[20th Century Fox]] passed on it, the sequel was shelved in favor of Raimi's next film, ''[[Crimewave]]'' (1985), a [[comedy film|comedy]]/[[crime film]] co-written with [[Coen brothers|Joel and Ethan Coen]].<ref name="BookDead">{{cite web|url=http://www.bookofthedead.ws/website/evil_dead_2_production.html|title=Evil Dead II - Production|publisher=Book of the Dead|access-date=March 26, 2020|archive-date=March 26, 2020|archive-url=https://web.archive.org/web/20200326143945/http://www.bookofthedead.ws/website/evil_dead_2_production.html|url-status=live}}</ref>
+
+After ''Crimewave'' was released to critical and audience disinterest, Raimi and his partners at Renaissance Pictures, producer [[Rob Tapert]] and actor and co-producer [[Bruce Campbell]], took Shapiro up on his sequel offer, knowing that another flop would further stall their already-lagging careers. Development of ''Evil Dead II'' initially began in collaboration with [[ELP Communications|Embassy Pictures]], which had co-financed and distributed ''Crimewave'', but the filmmakers eventually felt that they were being stalled after five months' pre-production work, and began conducting interviews with prospective cast and crew members.<ref name="BookDead" /> Around this time, producer [[Dino De Laurentiis]], the owner of production and distribution company [[De Laurentiis Entertainment Group]] (DEG), asked Raimi if he would be interested in directing an adaptation of the [[Stephen King]] novel ''[[Thinner (novel)|Thinner]]''. Raimi turned down the offer, but De Laurentiis remained in touch with the young filmmaker.<ref name=companion>{{cite book|title=The Evil Dead Companion|last=Warren|first=Bill|publisher=[[Macmillan Publishers]]|year=2001|isbn=9780312275013|url=https://books.google.com/books?id=wBrJ3M71rUIC}}</ref>{{rp|135}}
+
+The ''Thinner'' adaptation was part of a deal between De Laurentiis and King to produce several adaptations of King's successful [[horror fiction|horror]] novels and short stories. At the time, King was directing the first such adaptation, ''[[Maximum Overdrive]]'' (1986), based on his short story "[[Trucks (short story)|Trucks]]". He had dinner with a crew member who had been among those interviewed by Raimi and his colleagues about ''Evil Dead II'', and told King that the film was having trouble attracting funding. Upon hearing this, King, who had written a glowing review of the first film that helped it become an audience favorite at [[Cannes Film Festival|Cannes]], called De Laurentiis and asked him to fund the film.<ref name=companion/>{{rp|104}} While he was initially skeptical, De Laurentiis met with Renaissance, who highlighted the first film's extremely high revenue in the Italian market. Within twenty minutes, De Laurentiis agreed to finance ''Evil Dead II'' for $3.6 million. Raimi and Tapert had desired $4 million for the production, but De Laurentiis requested a film that was similar to its predecessor instead of their original medieval-themed proposal, which was instead used for the second sequel, ''[[Army of Darkness]]'' (1992).<ref name=companion/>{{rp|106}}
+
+===Writing===
+Despite Raimi's crew having only recently received the funding necessary to produce the film, the script had been written for some time, having been composed largely during the production of ''Crimewave''. Raimi contacted his old friend [[Scott Spiegel]], who had collaborated with Campbell and others on the [[Super 8 mm film]]s they had produced during their childhood in [[Michigan]]. Most of these films had been comedies, and Spiegel felt that ''Evil Dead II'' should be less straight horror than the first. Initially, the opening sequence included all five of the original film's characters; however, in an effort to save time and money, all but Ash and Linda were cut from the final draft. The film went through several other drafts, including a group of escaped convicts holding Ash captive in the cabin while searching for buried treasure.<ref name=companion/>{{rp|109–110}}
+
+Spiegel and Raimi wrote most of the film in their house in [[Silver Lake, Los Angeles|Silver Lake, Los Angeles, California]], where they were living with the aforementioned Coen brothers, as well as actors [[Frances McDormand]], [[Kathy Bates]], and [[Holly Hunter]] (the primary inspiration for the Bobby Joe character). Due both to the distractions of their house guests and the films they were involved with, ''Crimewave'' and [[Josh Becker (filmmaker)|Josh Becker]]'s ''[[Thou Shalt Not Kill... Except]]'', the script took a long time to finish.<ref name=companion/>{{rp|109}}
+
+Among the film's many inspirations include the [[The Three Stooges|Three Stooges]] and [[slapstick comedy]] films. Ash's fights with his disembodied hand come from a film made by Spiegel as a teenager titled ''[[Attack of the Helping Hand]]'', which was itself inspired by television commercials advertising [[Hamburger Helper]]. The "laughing room" scene, where all the objects in the room seemingly come to life and begin to cackle maniacally along with Ash, came about after Spiegel jokingly used a gooseneck lamp to visually demonstrate a [[Popeye]]-esque laugh. Spiegel's humorous influence can be seen throughout the film, perhaps most prominently in certain visual jokes. For instance, when Ash traps his rogue hand under a pile of books, on top is ''[[A Farewell to Arms]]''.<ref name=companion/>{{rp|111}}
+
+While Raimi and Campbell have stated that ''Evil Dead II'' was intended as a direct sequel, there are differences between the first installment and the recap at the beginning of the second: for example, Ash and Linda's friends from the first film are absent from the intro and their corpses are no longer in the cabin and are never mentioned. The cabin itself remains perfectly intact until the events of this film, despite much of it having been destroyed in the original film.
+
+===Filming===
+With the script completed and a production company secured, [[principal photography]] began on ''Evil Dead II''. The production commenced in [[Wadesboro, North Carolina]], not far from De Laurentiis' offices in [[Wilmington, North Carolina|Wilmington]]. De Laurentiis had wanted them to film in his elaborate Wilmington studio, but the production team felt uneasy being so close to the producer, so they moved to Wadesboro, approximately three hours away. [[Steven Spielberg]] had previously filmed ''[[The Color Purple (1985 film)|The Color Purple]]'' in Wadesboro, and the large white farmhouse used as an exterior location in that film became the production office for ''Evil Dead II''. Most of the film was shot in the woods near that farmhouse, or J.R. Faison Junior High School, where the interior cabin set was located.<ref name=companion/>{{rp|113}}
+
+[[Mark Shostrom]] served as the film's makeup effects supervisor, and delegated work to [[Robert Kurtzman]], [[Greg Nicotero]], and [[Howard Berger]] of [[KNB EFX Group]].{{sfn|Uram|1992|p=39}} The shot of undead Henrietta's flying eyeball was accomplished using a [[ping pong ball]] provided and painted by KNB EFX.{{sfn|Uram|1992|p=40}} Effects artist Verne Hyde, who joined the North Carolina unit in 1986 after filming had already begun, experimented with various rigs in order to achieve the effect Raimi desired.{{sfn|Uram|1992|p=40}} It was ultimately achieved by mounting the eyeball on a small, spinning motor, attached to a wand bolted directly onto the camera.{{sfn|Uram|1992|p=40}}
+
+[[Ted Raimi]], director Sam's younger brother, had been briefly involved in the first film, acting as a [[fake Shemp]]. However, in ''Evil Dead II'', he plays a larger role as the undead Henrietta. Ted wore a full-body, [[latex]] costume, and was also made to crouch in a small hole in the floor acting as a "cellar"; on one day, he did both. Raimi became extremely overheated to the point that his costume was filled with liters of sweat; Nicotero describes pouring the fluid into several [[Dixie Cup|Dixie cups]] so as to get it out of the costume. The sweat is also visible on-screen, dripping out of the costume's ear, in the scene where Henrietta spins around over Annie's head.<ref name=companion/>{{rp|125}}
+
+For Ash's chainsaw hand, effects artist Verne Hyde modified a real chainsaw, replacing its gasoline engine with a small, 12-volt [[electric motor]], leaving space for Campbell to insert his hand into the body of the saw.{{sfn|Uram|1992|p=40}} The teeth of the saw were filed down for safety purposes, and tobacco smoke was pumped through a plastic tube that ran up Campbell's leg to simulate chainsaw smoke.{{sfn|Uram|1992|p=40}}
+
+The crew sneaked various [[in-joke]]s into the film itself, such as the clawed glove of [[Freddy Krueger]] (the primary antagonist of [[Wes Craven]]'s [[A Nightmare on Elm Street (franchise)|''A Nightmare on Elm Street'' series]] of [[slasher film]]s) which hangs in the cabin's basement and tool shed.<ref>{{Cite web |last=Squires |first=John |date=December 8, 2016 |title=The Long History of Wes Craven and Sam Raimi's Communication Through Film |url=https://bloody-disgusting.com/news/3417253/long-history-wes-craven-sam-raimis-communication-film/ |url-status=live |archive-url=https://web.archive.org/web/20260130074213/https://bloody-disgusting.com/news/3417253/long-history-wes-craven-sam-raimis-communication-film/ |archive-date=2026-01-30 |access-date=2026-07-04 |website=Bloody Disgusting |language=en-US}}</ref> This was, at least partially, a reference to a scene in the original ''[[A Nightmare on Elm Street]]'', where the character Nancy Thompson (portrayed by [[Heather Langenkamp]]) dozes off watching the original ''Evil Dead'' on a television set in her room. In turn, that scene was a reference to the torn ''[[The Hills Have Eyes (1977 film)|The Hills Have Eyes]]'' poster seen in the original ''Evil Dead'' film, which was itself a reference to a torn ''[[Jaws (film)|Jaws]]'' poster in ''The Hills Have Eyes''.<ref>{{Cite web |last=Laukhuf |first=Adam |date=2007-03-05 |title=Q&amp;A with Sam Raimi |url=https://www.esquire.com/entertainment/interviews/a2367/esq0804-aug-qaraimi/ |access-date=2026-07-04 |website=Esquire |language=en-US}}</ref> The real life clawed glove appearing in ''Evil Dead II'' has been attributed to Shostrom, who was also working on ''[[A Nightmare on Elm Street 3: Dream Warriors]]'' at around the same time as ''Evil Dead II'', suggesting he borrowed it from the ''Dream Warriors'' set for a day.<ref>{{cite web | title=A Nightmare On Elm Street 3: Dream Warriors – Stalking Dreams 30 Years Later | url=https://crypticrock.com/nightmare-elm-street-3-dream-warriors-stalking-dreams-30-years-later/ | date=February 20, 2017 | access-date=January 1, 2020 | author=Wamsley | website=Cryptic Rock | archive-date=March 9, 2017 | archive-url=https://web.archive.org/web/20170309214838/https://crypticrock.com/nightmare-elm-street-3-dream-warriors-stalking-dreams-30-years-later/ | url-status=live |first=Jon}}</ref> The rat seen in the cellar was nicknamed "Señor Cojones" by the crew ("[[Spanish profanity#Cojones|cojones]]" is [[Spanish language|Spanish slang]] for "[[testicles]]").<ref name="companion" />{{Reference page|page=253}}
+
+At the film's [[wrap party]], the crew held a talent contest where Raimi and Campbell sang [[the Byrds]]' "[[Eight Miles High]]", with Nicotero on [[guitar]].<ref>Mentioned in Evil Dead II audio commentary</ref>
+
+==Music==
+The [[Film score|score]] was composed by [[Joseph LoDuca]], who also composed the other two scores in the ''Evil Dead'' trilogy. In 2017, Waxwork Records released the soundtrack on vinyl for the film's 30th anniversary.<ref>{{cite web|url=https://pitchfork.com/news/73878-evil-dead-2-soundtrack-gets-vinyl-reissue/|title=Evil Dead 2 Soundtrack Gets Vinyl Reissue|location=Pitchfork|author=Blais-Billie, Braudie|website=[[Pitchfork (website)|Pitchfork]]|date=31 May 2017|access-date=11 August 2020|archive-date=September 26, 2020|archive-url=https://web.archive.org/web/20200926061725/https://pitchfork.com/news/73878-evil-dead-2-soundtrack-gets-vinyl-reissue/|url-status=live}}</ref>
+
+==Release==
+===Pre-release===
+Like the original film, ''Evil Dead II'' had censorship difficulties due to its high level of violence. Because DEG was a member of the [[Motion Picture Association|Motion Picture Association of America]] (MPAA), Raimi was contractually obliged to shoot the film with the intention of it earning an [[Motion Picture Association of America film rating system#R rating|R rating]]. Upon reviewing the completed film, DEG's executives felt that ''Evil Dead II'' would almost certainly receive an [[X rating]], which would limit its commercial prospects.<ref name="BookDead" /> Lawrence Gleason, the company's president of marketing and distribution, felt that if it were to be cut for an R, the film "would have been about 62 minutes long" and that both Raimi's vision and the audience's enjoyment would have been sabotaged as a result.<ref name="Los Angeles Times">{{cite web| url = https://www.latimes.com/archives/la-xpm-1987-03-13-ca-5536-story.html| title = How 'Evil Dead 2' doged the Kiss of Death--an X| author = Jack Mathews| work = [[Los Angeles Times]]| date = March 13, 1987| access-date = March 26, 2020| archive-date = March 26, 2020| archive-url = https://web.archive.org/web/20200326143944/https://www.latimes.com/archives/la-xpm-1987-03-13-ca-5536-story.html| url-status = live}}</ref>
+
+Ultimately, DEG decided against submitting ''Evil Dead II'' to the MPAA for review or be credited onscreen for their involvement in it. Instead, Rosebud Releasing Corporation, a [[shell company]] run by De Laurentiis' son-in-law Alex De Benedetti, was set up to handle the film's US release, allowing it to be shown unrated. Although Rosebud technically did not have a distribution network, DEG had already booked the film in 340 cinemas across the country, and had created and paid for the film's advertising campaign.<ref name="Los Angeles Times" /> Rosebud's logo, a rose blooming in [[time-lapse]] photography against a painted sky backdrop, was designed and shot by Raimi himself.<ref name="BookDead" />
+
+===Home media===
+The film was released on [[VHS]] by [[Vestron Video]] in 1987. Another VHS release came from [[Anchor Bay Entertainment]] on February 17, 1998.<ref>{{Cite book|title=Evil Dead 2 [VHS]|via=[[Amazon.com]]|asin = 6304819935}}</ref> In a similar fashion to the first ''Evil Dead'' film and ''Army of Darkness'', there have been numerous [[DVD]] releases of ''Evil Dead II''. The film was released on DVD by Anchor Bay on August 29, 2000, in the form of a limited edition tin, and was re-released by Anchor Bay on September 27, 2005, designed to resemble the ''Necronomicon''.<ref name="videoreleases">{{cite web|url=http://www.deadites.net/the-evil-dead-films/evil-dead-2-dead-by-dawn/evil-dead-2-dead-video-releases/|title=Evil Dead 2 Dead by Dawn Video Releases|website=Deadites Online|access-date=16 April 2017|archive-date=April 25, 2017|archive-url=https://web.archive.org/web/20170425020445/http://www.deadites.net/the-evil-dead-films/evil-dead-2-dead-by-dawn/evil-dead-2-dead-video-releases/|url-status=deviated}}</ref><ref>{{cite web|url=https://www.amazon.com/Evil-Dead-Book-Limited/dp/B000A3XY9Q/|title=The Evil Dead 2 (Book Of The Dead 2 Limited Edition)|website=[[Amazon.com]]|date=September 27, 2005 |access-date=16 April 2017|archive-date=May 19, 2016|archive-url=https://web.archive.org/web/20160519001458/http://www.amazon.com/Evil-Dead-Book-Limited/dp/B000A3XY9Q|url-status=live}}</ref> On October 2, 2007, the film was released on [[Blu-ray]], and on November 15, 2011, it was re-released on Blu-ray and DVD by [[Lionsgate Home Entertainment]] for its 25th anniversary.<ref name=videoreleases /><ref>{{cite web|url=https://www.amazon.com/Evil-Dead-25th-Anniversary-Blu-ray/dp/B005J9ZE5I/|title=Evil Dead 2 (25th Anniversary Edition) [Blu-ray]|website=[[Amazon.com]]|date=November 15, 2011 |access-date=16 April 2017|archive-date=April 17, 2017|archive-url=https://web.archive.org/web/20170417155548/https://www.amazon.com/Evil-Dead-25th-Anniversary-Blu-ray/dp/B005J9ZE5I|url-status=live}}</ref><ref>{{cite web|url=https://www.amazon.com/Evil-Dead-2-DVD-Campbell/dp/B005J9ZFQG/|title=Evil Dead 2 [DVD]|website=[[Amazon.com]]|date=November 15, 2011 |access-date=16 April 2017|archive-date=April 18, 2017|archive-url=https://web.archive.org/web/20170418081822/https://www.amazon.com/Evil-Dead-2-DVD-Campbell/dp/B005J9ZFQG|url-status=live}}</ref> On September 13, 2016, the film was re-released on Blu-ray by Lionsgate.<ref>{{cite web|url=https://www.amazon.com/Evil-Dead-Blu-ray-Digital-HD/dp/B01IN8C35U/%3Bqid%3D%26sr%3D|title=Evil Dead 2 [Blu-ray + Digital HD]|website=[[Amazon.com]]|date=September 13, 2016 |access-date=16 April 2017|archive-date=March 19, 2021|archive-url=https://web.archive.org/web/20210319164555/https://www.amazon.com/Evil-Dead-Blu-ray-Digital-HD/dp/B01IN8C35U/%3Bqid%3D%26sr%3D|url-status=live}}</ref> A 4K [[Ultra HD Blu-ray]] version of the film was released on December 11, 2018.<ref name="Blu-Ray">{{cite web |url=https://www.blu-ray.com/news/?id=24078 |title=Lionsgate: 4k Restoration of Sam Raimi's Evil Dead 2 Coming to 4K Blu-ray |date=October 15, 2018 |access-date=October 16, 2018 |archive-date=October 17, 2018 |archive-url=https://web.archive.org/web/20181017001752/https://www.blu-ray.com/news/?id=24078 |url-status=live }}</ref>
+
+The film was released on DVD in the United Kingdom in 2003 as part of a [[DVD region code|region 2]] ''Evil Dead'' trilogy box set.<ref name=videoreleases /> In 2013, the trilogy saw another UK release on Blu-ray, released by [[StudioCanal]].<ref name=videoreleases /><ref>{{cite web|url=https://www.amazon.com/Evil-Dead-Trilogy-Boxset-Blu-ray/dp/B00D9SRBUC/|title=Evil Dead Trilogy Boxset [Blu-ray]|website=[[Amazon.com]]|date=August 20, 2013 |access-date=16 April 2017|archive-date=April 18, 2017|archive-url=https://web.archive.org/web/20170418081404/https://www.amazon.com/Evil-Dead-Trilogy-Boxset-Blu-ray/dp/B00D9SRBUC|url-status=live}}</ref> A 25th Anniversary Wood Edition was released in Germany by StudioCanal in 2007.<ref name=videoreleases /><ref>{{cite web|url=https://www.amazon.de/Tanz-Teufel-Anniversary-Extended-Blu-ray/dp/B00E90Z54S/|title=Tanz der Teufel 2 - 25th Anniversary Edition/ Extended Cut [Blu-ray]|website=[[Amazon.com|Amazon.de]]|date=September 24, 2013 |access-date=16 April 2017|archive-date=April 18, 2017|archive-url=https://web.archive.org/web/20170418081643/https://www.amazon.de/Tanz-Teufel-Anniversary-Extended-Blu-ray/dp/B00E90Z54S|url-status=live}}</ref> The film was released on Blu-ray in Australia in 2014, alongside ''The Evil Dead'', ''Army of Darkness'', and the 2013 reboot, as part of an ''Evil Dead'' Anthology box set.<ref name=videoreleases /> The film has been released together with the first ''Evil Dead'' film by Green Nara Media in South Korea in [[Blu-ray#Region codes|region A]].<ref name=videoreleases />
+
+==Reception==
+===Box office===
+''Evil Dead II'' opened on March 13, 1987, to an unimpressive weekend gross of $807,260, due to its [[limited release]] in 310 theaters at the time. However, after spending a little over a month in theaters, it ultimately grossed (only) $5,924,421 worldwide.<ref name="BOM">{{cite web|url=https://boxofficemojo.com/movies/?page=main&id=evildead2.htm|title=Evil Dead 2 (1987)|work=[[Box Office Mojo]]|publisher=[[IMDb]]|access-date=November 15, 2019|archive-date=April 15, 2016|archive-url=https://web.archive.org/web/20160415161612/http://www.boxofficemojo.com/movies/?page=main&id=evildead2.htm|url-status=live}}</ref>
+
+===Critical response===
+{{Rotten Tomatoes prose|88|7.5|84|Less a continuation than an outright reimagining, Sam Raimi transforms his horror tale into a comedy of terrors -- and arguably even improves on the original formula.|ref=yes}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 72 out of 100, based on 18 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Evil Dead II'' |url=https://www.metacritic.com/movie/evil-dead-ii |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=May 21, 2010 |archive-url= |archive-date= |url-status=}}</ref> ''[[Empire (magazine)|Empire]]'' magazine praised the film, saying "the gaudily gory, virtuoso, hyper-kinetic horror sequel uses every trick in the cinematic book" and confirms that "Bruce Campbell and Raimi are gods".<ref>{{cite web|url=https://empireonline.com/reviews/reviewcomplete.asp?DVDID=5047|title=Evil Dead II|author=<!-- Staff -->|work=[[Empire (magazine)|Empire]]|access-date=February 11, 2015|archive-url=https://web.archive.org/web/20150211212832/http://www.empireonline.com/reviews/reviewcomplete.asp?DVDID=5047|archive-date=February 11, 2015|url-status=dead}}</ref> Caryn James of ''[[The New York Times]]'' called it "genuine, if bizarre, proof of Sam Raimi's talent and developing skill."<ref>{{cite news |url=https://movies.nytimes.com/movie/review?res=9B0DE2D6103EF930A25750C0A961948260|last1=James|first1=Caryn |work=The New York Times |title=''Evil Dead 2'' Movie Review |date=March 13, 1987 |access-date=February 8, 2015 |archive-date=October 29, 2013 |archive-url=https://web.archive.org/web/20131029233214/http://movies.nytimes.com/movie/review?res=9B0DE2D6103EF930A25750C0A961948260 |url-status=live }}</ref> Leonard Maltin originally rated the film with two stars,<ref>Maltin, 2001, p. 426.</ref> but later increased the rating to three stars.<ref>Maltin, 2009, 424.</ref>
+
+[[Roger Ebert]] of the ''[[Chicago Sun-Times]]'' gave the film three stars out of four, describing it as "a fairly sophisticated satire, that makes you want to get up and shuffle." He praised the film's sense of surrealism, comedic timing, and "grubby, low-budget intensity." Ebert states that "if you know it's all special effects, and if you've seen a lot of other movies and have a sense of humor, you might have a great time at ''Evil Dead 2''."<ref name="ebert">{{cite news|author-link=Roger Ebert|first=Roger|last=Ebert|url=https://www.rogerebert.com/reviews/evil-dead-2-dead-by-dawn-1987|title=Evil Dead 2: Dead By Dawn|work=Chicago Sun-Times|publisher=|date=April 10, 1987|access-date=March 9, 2026|via=RogerEbert.com}}</ref> Richard Harrington of ''[[The Washington Post]]'' wrapped up his review stating that "the acting is straight out of '50s B-movies. The exposition is clumsy, the sound track corny, the denouement silly. Then again, who said bad taste was easy?"<ref name="WP">{{cite news|first=Richard|last=Harrington|url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/evildead2deadbydawnnrharrington_a0aa40.htm|title=Evil Dead 2: Dead By Dawn|newspaper=The Washington Post|publisher=washingtonpost.com|date=April 30, 1987|access-date=February 6, 2012|archive-date=July 24, 2008|archive-url=https://web.archive.org/web/20080724134455/http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/evildead2deadbydawnnrharrington_a0aa40.htm|url-status=live}}</ref> Conversely, Pat Graham of ''Chicago Reader'' disliked the mix of horror and comedy, writing in his review that "the pop-up humor and smirkiness suggest Raimi's aspiring to the fashionable company of the brothers Coen, though on the basis of this strained effort I'd say he's overshot the mark."<ref>{{cite web|title=Evil Dead II|work=[[Rotten Tomatoes]]|url=https://rottentomatoes.com/m/evil-dead-2/reviews/?sort=rotten|access-date=November 15, 2019|archive-date=March 13, 2021|archive-url=https://web.archive.org/web/20210313172936/https://www.rottentomatoes.com/m/evil-dead-2/reviews?sort=rotten|url-status=live}}</ref>
+
+''[[Entertainment Weekly]]'' ranked the film #19 on their list of the "Top 50 Cult Films".<ref>{{cite web|url=https://bloody-disgusting.com/news/26668/evil-dead-ii-25th-anniversary-edition-dated-for-blu-ray/|title='Evil Dead II: 25th Anniversary Edition' Dated for Blu-ray|last=Miska|first=Brad|date=October 10, 2011|website=[[Bloody Disgusting]]|access-date=February 6, 2020|archive-date=February 6, 2020|archive-url=https://web.archive.org/web/20200206143858/https://bloody-disgusting.com/news/26668/evil-dead-ii-25th-anniversary-edition-dated-for-blu-ray/|url-status=live}}</ref>
+
+''[[Sight and Sound]]'' ranked it #34 on their 50 Funniest Films of All Time list. In 2008, ''Empire'' magazine included ''Evil Dead II'' on their list of ''The 500 Greatest Movies of All Time'', ranked No. 49.<ref>{{cite magazine | title =The 500 greatest movies of all time | url =https://empireonline.com/500/88.asp | magazine =[[Empire (magazine)|Empire]] | access-date =September 14, 2009 | archive-url =https://web.archive.org/web/20081119033831/http://www.empireonline.com/500/88.asp | archive-date =November 19, 2008 | url-status =dead |date=2008}}</ref>
+
+J.C. Maçek III of ''[[PopMatters]]'' wrote, "Equal parts remake and sequel, the second film brought back Bruce Campbell as Ash and was every bit as gory and horrific as the first film with more tree rape and dismemberment and blood splatters than ever. On the other hand, ''Evil Dead II'' is also an absolutely hilarious and uproarious intentional comedy."<ref name="PM">{{cite web|work=[[PopMatters]]|title=Books of the Dead: The Followers and Clones of 'The Evil Dead'|first=J.C.|last=Maçek III|date=2013-04-26|url=https://popmatters.com/pm/column/170551-books-of-the-dead-the-followers-and-clones-of-the-evil-dead/|access-date=November 15, 2019|archive-date=August 30, 2013|archive-url=https://web.archive.org/web/20130830001425/http://www.popmatters.com/pm/column/170551-books-of-the-dead-the-followers-and-clones-of-the-evil-dead/|url-status=dead}}</ref>
+
+In 2016, James Charisma of ''[[Playboy]]'' ranked the film #12 on a list of ''15 Sequels That Are Way Better Than The Originals''.<ref name="Playboy">{{cite magazine | title = Revenge of the Movie: 15 Sequels That Are Way Better Than The Originals | magazine = [[Playboy]] | url = http://www.playboy.com/articles/15-sequels-better-than-the-original | author = Charisma, James | date = March 15, 2016 | access-date = July 19, 2016 | archive-url = https://web.archive.org/web/20160726093750/http://www.playboy.com/articles/15-sequels-better-than-the-original | archive-date = July 26, 2016 | url-status=dead }}</ref>
+
+===Accolades===
+{{More citations needed section|date=July 2026}}
+{| class="wikitable"
+|- style="background:#b0c4de; text-align:center;"
+! Award
+! Subject
+! Nominee
+! Result
+|-
+|rowspan=3|[[15th Saturn Awards|Saturn Awards]]<ref>{{Cite web |title=1987 15th Saturn Awards |url=http://theenvelope.latimes.com/extras/lostmind/year/1987/1987sat.htm |archive-url=https://web.archive.org/web/20061017175642/http://theenvelope.latimes.com/extras/lostmind/year/1987/1987sat.htm |archive-date=2006-10-17 |access-date=2026-07-04 |website=The Envelope {{!}} Los Angeles Times}}</ref>
+|[[Saturn Award for Best Horror or Thriller Film|Best Horror Film]]
+|[[Sam Raimi]]
+|{{Nom}}
+|-
+|[[Saturn Award for Best Special Effects|Best Special Effects]]
+|Vern Hyde, Doug Beswick, and [[Tom Sullivan (special effects artist)|Tom Sullivan]]
+|{{Nom}}
+|-
+|[[Saturn Award for Best Make-up|Best Make-up]]
+|[[Mark Shostrom]]
+|{{Nom}}
+|-
+|rowspan=1|[[Sitges - Catalan International Film Festival]]
+|rowspan=2|Best Film
+|rowspan=2|Sam Raimi
+|{{Nom}}
+|-
+|rowspan=1|[[Fantasporto|Fantasporto Awards]]
+|{{Nom}}
+|-
+|}
+
+==In popular culture==
+''[[The Elvis Dead]]'', an English comic stage show, retells ''Evil Dead II'' in the style of [[Elvis Presley]]. (Bruce Campbell has also played Elvis, in 2002's ''[[Bubba Ho-Tep]]''.)
+
+The 1993 hit [[first-person shooter]] video game ''[[Doom (1993 video game)|Doom]]'' was inspired by ''Evil Dead II''. The game's programmer [[John Carmack]] came up with the game's concept about using technology to fight demons, inspired by the ''[[Dungeons & Dragons]]'' campaigns the team played, combining the styles of ''Evil Dead II'' and ''[[Aliens (film)|Aliens]]''.<ref name="MOD118121">{{cite book |title=Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture |last=Kushner |first=David |publisher=[[Random House]] |date=2004 |isbn=978-0-8129-7215-3|title-link=Masters of Doom |pages=118–121}}</ref><ref name="GDC2011">{{cite AV media |url=http://www.gdcvault.com/play/1014627/Classic-Game-Postmortem |title=Classic Game Postmortem – Doom |medium=Video |people=[[John Romero|Romero, John]]; [[Tom Hall|Hall, Tom]] |publisher=[[Game Developers Conference]] |date=2011 |access-date=2018-02-06 |archive-url=https://web.archive.org/web/20170806110612/http://www.gdcvault.com/play/1014627/Classic-Game-Postmortem |archive-date=2017-08-06 |url-status=live}}</ref>
+
+The 2023 music video for "Bogus Operandi" by [[The Hives]] is heavily inspired by ''Evil Dead II''. The music video features a demonic tape, forest point-of-view shots, and white eyed zombies.<ref>{{Cite web |last=Ulitski |first=Rob |date=5 May 2023 |title=The Hives 'Bogus Operandi' by Aube Perrie |url=https://www.promonews.tv/videos/2023/05/05/hives-bogus-operandi-aube-perrie/81422 |access-date=2026-07-04 |website=Promonewstv |language=en}}</ref>
+
+==See also==
+*[[List of cult films]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+* {{cite book|last=Campbell|first=Bruce|author-link=Bruce Campbell|date=2002|title=If Chins Could Kill: Confessions of a B Movie Actor|publisher=LA Weekly Books for [[Thomas Dunne Books]]/[[St. Martin's Press]]|isbn=9780312291457}}
+* Raimi, Sam. Spiegel, Scott. Nicotero, Greg. Campbell, Bruce. ''Evil Dead II'' DVD, audio commentary.
+* {{cite magazine|last=Uram|first=Sue|date=August 1992|title=Evil Dead II: Making the First Sequel|url=|magazine=[[Cinefantastique]]|volume=23|issue=1|issn=0145-6032}}
+
+==External links==
+* {{IMDb title|0092991}}
+* {{Mojo title|evildeadii}}
+* {{Rotten Tomatoes|evil_dead_ii}}
+* [https://evildeadarchives.com/films/evil-dead-2/ ''Evil Dead II'' at Evil Dead Archives]
+
+{{Evil Dead}}
+{{Sam Raimi}}
+
+{{DEFAULTSORT:Evil Dead II}}
+[[Category:1987 comedy horror films]]
+[[Category:1987 fantasy films]]
+[[Category:1987 films]]
+[[Category:1987 American films]]
+[[Category:1980s dark fantasy films]]
+[[Category:1987 English-language films]]
+[[Category:1987 supernatural horror films]]
+[[Category:American comedy horror films]]
+[[Category:American dark fantasy films]]
+[[Category:American haunted house films]]
+[[Category:1980s haunted house films]]
+[[Category:American sequel films]]
+[[Category:American splatter films]]
+[[Category:American supernatural horror films]]
+[[Category:De Laurentiis Entertainment Group films]]
+[[Category:1980s demon films]]
+[[Category:The Evil Dead (franchise) films]]
+[[Category:Films about amputees]]
+[[Category:Films about archaeology]]
+[[Category:Films about spirit possession]]
+[[Category:1980s films about time travel]]
+[[Category:Films about vacationing]]
+[[Category:Films directed by Sam Raimi]]
+[[Category:Films produced by Rob Tapert]]
+[[Category:Films set in 1982]]
+[[Category:Films set in forests]]
+[[Category:Films set in the Middle Ages]]
+[[Category:Films shot in Detroit]]
+[[Category:Films shot in Michigan]]
+[[Category:Films shot in North Carolina]]
+[[Category:Films using stop-motion animation]]
+[[Category:Films with screenplays by Sam Raimi]]
+[[Category:Renaissance Pictures productions]]
+[[Category:Films with screenplays by Scott Spiegel]]
+[[Category:Films scored by Joseph LoDuca]]
+[[Category:English-language comedy horror films]]
+[[Category:English-language fantasy films]]
+[[Category:Films distributed by Elite Entertainment]]

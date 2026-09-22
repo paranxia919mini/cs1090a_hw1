@@ -1,0 +1,73 @@
+{{Infobox film
+| name           = Jonathan
+| image          = Jonathan-poster-1970.jpg
+| alt            = 
+| caption        = 
+| director       = [[Hans W. Geißendörfer]]
+| producer       = Hellmut Haffner
+| writer         = Hans W. Geißendörfer
+| screenplay     = 
+| story          = 
+| based_on       = {{based on|''[[Dracula]]''|Bram Stoker}}
+| narrator       = 
+| starring       = {{plainlist|
+*{{Ill|Jürgen Jung|de}}
+*{{Ill|Hans-Dieter Jendreyko|de}}
+*{{Ill|Paul Albert Krumm|de}}
+*[[Hertha von Walther]]
+*{{Ill|Oskar von Schab|de}}
+*[[Thomas Astan]]
+}}
+| music          = Roland Kovač
+| cinematography = [[Robby Müller]]
+| editing        = Wolfgang Hedinger
+| studio         = Iduna Film<ref name="Browning" />
+| distributor    = Atlas Film GmbH
+| released       = {{Film date|1970|05|17|West Germany}}
+| runtime        = 97 minutes<ref name="Browning" />
+| country        = West Germany
+| language       = German<ref name="Browning">Browning, 2011. p. 106</ref>
+| budget         = 
+| gross          = 
+}}
+
+'''''Jonathan''''' is a 1970 West German [[vampire film|vampire]] horror film directed by [[Hans W. Geißendörfer]]. The film stars {{Ill|Jürgen Jung|de}}, {{Ill|Hans-Dieter Jendreyko|de}}, {{Ill|Paul Albert Krumm|de}}, [[Hertha von Walther]] and {{Ill|Oskar von Schab|de}}.<ref name="Browning" />
+
+==Synopsis==
+The world of the 19th century has been taken over by [[vampire]]s who are immune to sunlight. Human rebels band together for a battle of life and the control of civilization.
+
+==Release==
+''Jonathan'' was released on 17 May 1970 in West Germany.<ref name="filmportal.de">{{cite web|url=http://www.filmportal.de/en/movie/jonathan_ea43d4a6a2295006e03053d50b37753d|work=filmportal.de|title=Jonathan|accessdate=December 25, 2012}}</ref> Director Hans W. Geißendörfer won the Film Award in Gold at the [[Deutscher Filmpreis]] for Best New Direction for his work on ''Jonathan''.<ref name="filmportal.de" />
+
+==Notes==
+{{reflist}}
+
+===References===
+*{{cite book
+
+ | last= Browning
+ | first= John Edgar
+ |author2=Picart, Caroline Joan 
+ | title= Dracula in Visual Media:Film, Television, Comic Book and Electronic Game Appearances, 1921–2010
+ |publisher= [[McFarland & Company|McFarland]]
+ |year= 2010
+ |isbn= 978-0-7864-3365-0
+}}
+
+== External links ==
+* {{IMDb title|0065917}}
+
+[[Category:1970 directorial debut films]]
+[[Category:1970 horror films]]
+[[Category:1970s historical horror films]]
+[[Category:Dracula films]]
+[[Category:Films directed by Hans W. Geißendörfer]]
+[[Category:Films set in castles]]
+[[Category:Films set in the 19th century]]
+[[Category:German historical horror films]]
+[[Category:1970 German-language films]]
+[[Category:West German films]]
+[[Category:1970 German films]]
+[[Category:1970s vampire films]]
+{{1970s-Germany-film-stub}}
+{{1970s-horror-film-stub}}

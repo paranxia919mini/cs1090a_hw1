@@ -1,0 +1,371 @@
+{{Short description|1940 film by Alfred Hitchcock}}
+{{Use American English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}
+{{Infobox film
+| name           = Rebecca
+| image          = Rebecca (1939 poster).jpeg
+| caption        = Theatrical release poster
+| director       = [[Alfred Hitchcock]]
+| producer       = [[David O. Selznick]]
+| screenplay     = {{plainlist|
+* [[Robert E. Sherwood]]
+* [[Joan Harrison (screenwriter)|Joan Harrison]]
+}}
+{{Infobox|decat=yes|child=yes|label1=Adaptation by|data1={{ubl|[[Philip MacDonald]]|[[Michael Hogan (screenwriter)|Michael Hogan]]}}}}
+| based_on       = {{based on|''[[Rebecca (novel)|Rebecca]]''|[[Daphne du Maurier]]}}
+| starring       = 
+{{plainlist|
+* [[Laurence Olivier]]
+* [[Joan Fontaine]]
+* [[Judith Anderson]]
+* [[George Sanders]]
+* [[Reginald Denny (actor)|Reginald Denny]]
+* [[Gladys Cooper]]
+* [[C. Aubrey Smith]]
+}}
+| music          = [[Franz Waxman]]
+| cinematography = [[George Barnes (cinematographer)|George Barnes]]
+| editing        = [[Hal C. Kern]]<br />[[James E. Newcom]]
+| studio         = [[Selznick International Pictures]]<!-- DO NOT change to "The Selznick Studio"; film was made by Selznick International shortly before it was dissolved in 1940 for tax reasons. (Correction pending at IMDb.) Anchor Bay DVD with Selznick Studio name came from a 1956 reissue print; Criterion & MGM DVDs with Selznick International name are from original 1940 release. Original 1940 release posters (including the one in this article) all say "Selznick International". -->
+| distributor    = [[United Artists]]
+| released       = {{Film date|1940|3|21|Miami|1940|4|12|United States}}
+| runtime        = 130 minutes
+| country        = United States
+| language       = English
+| budget         = $1.29 million<ref name="numbers">[https://www.the-numbers.com/movie/Rebecca Box Office Information for ''Rebecca'']. The Numbers. Retrieved January 30, 2013.</ref> 
+| gross          = $6 million<ref name="numbers"/>
+}}
+
+'''''Rebecca''''' is a 1940 American [[Romance film|romantic]] [[psychological thriller]] film directed by [[Alfred Hitchcock]]. It was Hitchcock's first American project, and his first film under contract with producer [[David O. Selznick]]. The screenplay by [[Robert E. Sherwood]] and [[Joan Harrison (screenwriter)|Joan Harrison]], and adaptation by [[Philip MacDonald]] and [[Michael Hogan (screenwriter)|Michael Hogan]], were based on the 1938 [[Rebecca (novel)|novel of the same name]] by [[Daphne du Maurier]].
+
+The film stars [[Laurence Olivier]] as the brooding, aristocratic widower Maxim de Winter and [[Joan Fontaine]] as the young, never-named woman who becomes his second wife, with [[Judith Anderson]], [[George Sanders]] and [[Gladys Cooper]] in supporting roles. The film is a [[Gothic fiction|gothic tale]] shot in [[Black and white|black-and-white]]. Maxim de Winter's first wife Rebecca, who died before the events of the film, is never seen. Her reputation and recollections of her, however, are a constant presence in the lives of Maxim, his new wife and the housekeeper, [[Mrs. Danvers]].
+
+''Rebecca'' was theatrically released on April 12, 1940, to critical and commercial success. It received eleven nominations at the [[13th Academy Awards]], more than any other film that year. It won two awards: [[Academy Award for Best Picture|Best Picture]] and [[Academy Award for Best Cinematography|Best Cinematography]], becoming the only film directed by Hitchcock to win the former award. In 2018, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".
+
+==Plot==
+[[File:Rebecca (1940) - Trailer.webm|thumb|thumbtime=2:18|Trailer for ''Rebecca'']]
+[[File:Rebecca-Olivier-Bates-Fontaine.jpg|thumb|In Monte Carlo, Maxim de Winter ([[Laurence Olivier]]) stops to speak to Mrs. Edythe Van Hopper ([[Florence Bates]]) only after recognizing her companion ([[Joan Fontaine]]), the woman he had encountered earlier.]]
+On the [[French Riviera]], Maxim de Winter stands at a cliff edge, seemingly contemplating suicide. A young woman shouts at him to stop him in his tracks, but he curtly asks her to walk on.
+
+Later, at a [[Monte Carlo]] hotel, the same young woman, serving as a paid companion to the pompous, elderly Mrs. Van Hopper, again encounters the debonair widower de Winter.  Aspiring to social prominence, Mrs. Van Hopper is obsequious to the aristocratic de Winter, but is soon confined to her room due to illness. Maxim invites the companion on excursions, which she conceals from her employer. The young woman soon becomes infatuated, though puzzled by Maxim's attention. Upon her recovery, Mrs. Van Hopper decides to leave Monte Carlo; her companion furtively informs Maxim of her departure, and he unexpectedly proposes marriage. After being informed of the proposal by Maxim, a shocked Mrs. Van Hopper privately tells her companion that Maxim is marrying her as a desperate distraction, because he is still tormented by thoughts of his beloved dead wife, Rebecca. She asserts that her companion is ill-prepared to be the second Mrs. de Winter and cannot hope to succeed as the mistress of the stately [[Manderley]].
+
+Maxim brings his new bride back to Manderley, his grand mansion by the sea in [[Cornwall]]. Manderley is dominated by its austere housekeeper, Mrs. Danvers, a cold and unyielding woman, a confidante of the first Mrs. de Winter. Danvers harbors deep resentment for the new Mrs. de Winter, whom she views as a usurper. Danvers feeds the bride's insecurity by showing her Rebecca's lavish bedroom suite, left untouched and denied to the new wife, and by retaining items throughout the house with Rebecca's monogram.
+{{multiple image
+   | direction = vertical
+   | width     = 250
+   | image1    = Rebecca-Great-Hall.jpg 
+   | caption1  = The new Mrs. de Winter is intimidated by the grandeur of Manderley and its staff.
+   | image2  =Rebecca-Costume-Ball.jpg 
+   | caption2  =Danvers tricks the insecure second Mrs. de Winter into wearing the same costume Rebecca wore at her last costume ball.
+   | image3   =RebeccaTrailer.jpg 
+   | caption3  =Danvers tries to convince the dispirited second Mrs. de Winter to end a hopeless marriage by jumping out a window to her death.
+   | image4  =Rebecca-Inquest.jpg 
+   | caption4  = Mrs. Danvers is questioned by Jack Favell during a break in the inquest proceedings into Rebecca's death.
+   }}
+
+Eventually, constant reminders of Rebecca's glamour and sophistication convince the new Mrs. de Winter that Maxim is still in love with his tragically drowned first wife, which could explain his restlessness and irrational outbursts of anger. She tries to assert her new role by holding a costume party as Maxim and Rebecca had done annually. Danvers suggests she copy the dress that one of Maxim's ancestors is seen wearing in a portrait. However, when she appears in the costume, Maxim is appalled as Rebecca had worn an identical dress at her last ball, just before her death.
+
+When Mrs. de Winter confronts Danvers about this, Danvers tells her she can never take Rebecca's place and tries to persuade her to jump to her death from the second-story window of Rebecca's room. At that moment, however, the alarm is raised because a ship has run aground due to the fog and, during the rescue of its crew, a sunken boat with Rebecca's body in it has been discovered.
+
+Maxim now confesses to his new wife that his first marriage had been a sham from the start. Rebecca had declared that she had no intention of keeping to her vows but would pretend to be the perfect wife and hostess for the sake of appearances. When Rebecca implied she was pregnant by her cousin and lover, Jack Favell, she taunted Maxim that the estate might pass to someone other than Maxim's line. During a heated argument, Rebecca fell, struck her head, and died. Afraid he would be blamed for her death, Maxim took the body out in a boat which he then scuttled; some days later, he identified another body that washed ashore as Rebecca's.
+
+The crisis causes the second Mrs. de Winter to shed her naïve ways. When the inquest considers the possibility of suicide, Favell attempts to blackmail Maxim, threatening to reveal a letter from Rebecca hinting at a pregnancy that made suicide improbable. When Maxim informs the police of the attempted blackmail, they must investigate Favell's accusations that Maxim murdered Rebecca. Further investigation with a doctor, however, reveals that Rebecca was not pregnant but terminally ill due to cancer, so the suicide verdict stands. Maxim realizes Rebecca had been trying to goad him into killing her to ruin him.
+
+His innocence validated, Maxim returns home to see Manderley on fire, set ablaze by the deranged Mrs. Danvers. The second Mrs. de Winter and all the staff escape save for Danvers, who is seen through the windows in Rebecca's bedroom; she dies as the ceiling collapses on her.
+
+==Cast==
+{{Cast listing|<!-- Order per opening credits -->
+* [[Laurence Olivier]] as George Fortescue Maximilian "Maxim" de Winter, owner of Manderley
+* [[Joan Fontaine]] as the second Mrs. de Winter
+* [[George Sanders]] as Jack Favell, Rebecca's first cousin
+* [[Judith Anderson]] as [[Mrs. Danvers]], housekeeper of Manderley
+* [[Nigel Bruce]] as Major Giles Lacy, Beatrice's husband
+* [[Reginald Denny (actor)|Reginald Denny]] as Frank Crawley, Maxim's estate manager of Manderley and friend
+* [[C. Aubrey Smith]] as Colonel Julyan
+* [[Gladys Cooper]] as Beatrice Lacy, Maxim's sister
+* [[Florence Bates]] as Mrs. Edythe Van Hopper, employer of the second Mrs. de Winter
+* [[Melville Cooper]] as coroner at trial
+* [[Leo G. Carroll]] as Dr. Baker, Rebecca's doctor
+* [[Leonard Carey]] as Ben, the beach hermit at Manderley
+* [[Lumsden Hare]] as Mr. Tabbs, boat builder
+* [[Edward Fielding]] as Frith, oldest butler of Manderley
+* Philip Winter as Robert, a servant at Manderley
+* [[Forrester Harvey]] as Chalcroft, the innkeeper
+}}
+
+[[List of cameo appearances by Alfred Hitchcock|Hitchcock's cameo appearance]], a signature feature of his films, takes place near the end; he is seen walking, back turned to the audience, outside a phone box just after Jack Favell completes a call.
+
+==Preproduction==
+In 1938, Hitchcock read the [[galley proofs]] of ''Rebecca'' whilst filming ''[[Jamaica Inn (film)|Jamaica Inn]]'', an adaptation of another [[Daphne du Maurier]] novel. Hitchcock considered independently purchasing the film rights, but was unable to match the high amounts offered by major studios. The high projected sales figures for the novel made ''Rebecca'' a highly desirable property, and the rights ultimately went to [[Selznick International]] for $50,000 - the same price Selznick had paid for Margaret Mitchell's ''[[Gone with the Wind (novel)|Gone with the Wind]]''.{{r|HaS|pp=37-38}} Selznick officially assigned Hitchcock to direct the adaptation in September 1938.{{r|HaS|p=39}}
+
+Hitchcock and David O. Selznick clashed over the adaptation of ''Rebecca'', with Selznick favouring fidelity to the novel while Hitchcock wished to make changes, particularly hoping to add some dynamism to the character of the second Mrs. de Winter.{{r|HaS|pp=40-43}}{{r|only}}
+
+Selznick first offered the job of writing the screenplay to Daphne du Maurier, but she declined.{{r|HaS|p=39}} Selznick unsuccessfully pitched a number of writers to Hitchcock to script ''Rebecca'' including [[Clemence Dane]], [[John L. Balderston|John Balderston]], [[Ben Hecht]], and [[Hugh Walpole]].{{r|HaS|p=40}} By November 1938, Selznick eventually agreed to pay Hitchcock $5,000 to write an initial outline. Hitchcock worked with his wife, [[Alma Hitchcock]], assistant [[Joan Harrison (screenwriter)|Joan Harrison]], and British writer [[Michael Hogan (screenwriter)|Michael Hogan]] to produce a 45-page double-spaced "storyline" which he submitted to Selznick on 3 June 1939.{{r|HaS|pp=44-45}} Selznick responded with a lengthy memo, describing himself as "shocked beyond words" and criticizing the ways in which the treatment diverged from the source material. Of the unnamed protagonist, Selznick wrote:
+
+<blockquote>Every little thing that the girl does in the book, her reactions of running away from the guests, and the tiny things that indicate her nervousness and her self-consciousness and her gaucherie are all so brilliant in the book that every woman who has read it has adored the girl and has understood her psychology... We have removed all the subtleties and substituted big broad strokes.{{r|HaS|p=46}}</blockquote>
+
+In response to Selznick's notes, Hitchcock, with Joan Harrison and Scottish writer [[Philip MacDonald]], began work on a new treatment which hewed closer to du Maurier's novel.{{r|HaS|p=47}} A first script was completed on 29 July 1939.{{r|HaS|p=52}} In the final weeks before shooting was to begin, Selznick hired [[Robert E. Sherwood]] to make some final revisions to the script and rework the story's climax, paying him $15,000.{{r|HaS|pp=52-53}} A final shooting script was dated September 7.{{r|HaS|p=54}} [[Charles Bennett (screenwriter)|Charles Bennett]], who was in close contact with Hitchcock and Selznick at the time they were working on ''Rebecca'', stated that the final script was "ninety percent the work of Michael Hogan, although some rewrites were done by Joan. Very little, at the end, was contributed by the one who is most famous and therefore most credited, Sherwood".{{r|dark|pp=213-214}}
+
+Although Selznick insisted that the film be faithful to the novel, Hitchcock did make some other changes, though not as many as he had made in a previously rejected screenplay, in which he altered virtually the entire story. In the novel, Mrs. Danvers is something of a jealous mother figure, and her past is mentioned in the book. In the film, Mrs. Danvers is a much younger character (Judith Anderson would have been about 42 at the time of shooting), and her past is not revealed at all. The only thing known about her in the film is that she came to Manderley when Rebecca was a bride.{{citation needed|date=June 2024}}
+
+===Casting===
+The process of casting ''Rebecca'' occurred in parallel with the development of the screenplay over the course of several months leading up to the beginning of shooting in September 1939.
+
+For the role of Maxim de Winter, Selznick and Hitchcock originally sought [[Ronald Colman]], whom Selznick had under contract. Colman declined the role over concerns that the film would be a "woman-starring vehicle" and over the "murder angle".{{r|HaS|p=49}} Selznick subsequently pitched actors [[Melvyn Douglas]], [[Walter Pidgeon]], [[Leslie Howard]], and [[William Powell]], before he and Hitchcock ultimately settled on English actor [[Laurence Olivier]].{{r|HaS|p=49}}
+
+The casting of the second Mrs. de Winter was contentious and no fewer than 126 actresses, ranging from major stars to unknowns, were considered for the role.{{r|White}} Relative newcomer [[Joan Fontaine]] was ultimately selected less than two weeks before the start of principal photography.{{r|HaS|pp=56-57}} Selznick initially argued for English actress [[Nova Pilbeam]], having been impressed by her performance in Hitchcock's ''[[Young and Innocent]]'' (1937). Hitchcock rejected her, arguing that while she was "correct casting according [to the] book", she was not appropriate for his vision of the character.{{r|HaS|pp=49-51}} Laurence Olivier unsuccessfully advocated for the role to go to his lover (and later wife) [[Vivien Leigh]].{{r|HaS|p=51}} Among the actresses Hitchcock tested for the role were [[Lucile Fairbanks]], [[Marjorie Reynolds]], and [[Jean Muir (actress)|Jean Muir]].{{r|HaS|pp=51-52}} By August 19, the list of finalists for the role had been narrowed to [[Margaret Sullavan]], [[Anne Baxter]], [[Olivia de Havilland]] and [[Joan Fontaine]].{{r|dark}} Selznick ultimately offered the role to Fontaine, announcing her casting on 5 September 1939, just three days before filming was to begin.{{r|White}}
+
+Australian stage actress [[Judith Anderson]] was cast in the role of Mrs. Danvers at the suggestion of [[Kay B. Barrett|Kay Brown]] of Selznick International. As a condition of auditioning, Anderson insisted that Hitchcock personally direct her screen test.{{r|HaS|p=48}} Other actresses who had been considered for the role included [[Flora Robson]], [[Elsa Lanchester]], and [[Alla Nazimova]].{{r|White}}
+
+[[Lucile Watson]], [[Laura Hope Crews]], [[Mary Boland]], [[Alice Brady]], [[Virginia Brissac]] and [[Cora Witherspoon]] were considered for the minor role of Mrs. van Hopper, the protagonist's social-climbing employer in the beginning of the story.{{r|dark}} Hitchcock ultimately selected [[Florence Bates]] for the role after seeing her in a theatrical production at the [[Pasadena Playhouse]].{{r|dark}} Bates, a lawyer by training who had only appeared on camera once before, required an unusually large number of retakes for some of her scenes. Selznick was displeased with her line readings, stating "I think there is no line which she could not improve on".{{r|HaS|p=72}}
+
+==Censorship==
+Before Selznick purchased the rights to ''Rebecca'', he submitted a synopsis of the novel to the [[Production Code]] office, an industry body administered by [[Joseph Breen]] which strictly policed the morality of films released by major US studios. In the final act of the novel, Maxim de Winter confesses to the narrator that he shot Rebecca to death after she taunted him with her infidelities and claimed to be pregnant with another man's child. The discovery of Rebecca's body triggers an inquest into her death. Maxim avoids being charged, despite Jack Favell, Rebecca's cousin and lover, suspecting his guilt and directing the police to investigate him. The Production Code office described this as "a clear violation of the Production Code, since it apparently justifies and condones murder".{{r|HatC}}
+
+Selznick proceeded with the adaptation despite this warning. Breen's office rejected an initial script, outlining three chief issues (along with a long list of objectionable phrases to be excised such as "for God's sake", "you ass" and "lovers"):{{r|HatC}}
+
+<blockquote>
+1. As now written, it is the story of a murderer, who is permitted to go off "scot free."
+
+2. The quite inescapable inference of sex perversion.
+
+3.&nbsp;The repeated references, in the dialogue, to the alleged illicit relationship between Favell and the first Mrs. de Winter, and the frequent references to the alleged illegitimate child-to-be.{{r|HatC}}</blockquote>
+
+To remedy the first issue, Breen demanded that either de Winter be punished for his crime, or that Rebecca's death be rewritten to be accidental. The latter solution, which was ultimately adopted, had been first proposed by Hitchcock in a meeting with Breen and his assistant at the Victor Hugo Restaurant.{{r|HatC}} Selznick, a strident critic of the Production Code, was annoyed at having to make this concession, complaining that "the whole story of ''Rebecca'' is of a man who has murdered his wife, and it now becomes the story of a man who buried a wife who was killed accidentally!"{{r|HatC}}
+
+The "sex perversion" mentioned in the second point was in reference to the implied lesbian attraction felt by Mrs. Danvers toward Rebecca.{{r|HatC}} Breen complained of the impropriety of "Mrs. Danvers' description of Rebecca's physical attributes, [and] her handling of the various garments, particularly the night gown".{{r|HaS|p=70}} Breen insisted that in the final cut "there must be no suggestion whatever of a perverted relationship between Mrs. Danvers and Rebecca."{{r|HaS|p=70}} Scholar David Boyd describes Danvers' attraction to Rebecca as "inescapably clear to all but the most innocent of viewers" in the present day, though it is unclear whether this interpretation would have been accessible to audiences in 1940.{{r|HatC}} Asked about it later in life, Judith Anderson denied intentionally playing Mrs. Danvers as a lesbian, stating that "we never thought of such things at that time".{{r|HatC}}
+
+The references to the extramarital affair between Favell and Rebecca de Winter remained explicit in the final cut of the film, as well as Rebecca's illegitimate pregnancy.{{r|HatC}}{{r|HaS|p=71}}
+
+==Production==
+[[File:Laurence Olivier Joan Fontaine Rebecca.JPG|thumb|left|upright|[[Laurence Olivier]] and [[Joan Fontaine]], stars of the film]]
+
+Principal photography on ''Rebecca'' began on 8 September 1939, having been postponed twice from 30 August and then 5 September.{{r|HaS|p=57}} The film was budgeted at $800,000 and 36 days of shooting,{{r|HaS|p=58}} but went significantly behind schedule, ultimately concluding after 63 days on 20 November 1939.{{r|HaS|p=78}} The start of production coincided with the beginning of World War II, Britain having declared war on Germany on 3 September. Hitchcock and the mostly British cast feared for their families in Britain, with fears circulating that London might soon experience German bombing.{{r|dark}}
+
+Selznick initially assigned [[Harry Stradling]] as cinematographer, but he withdrew from the project after the distressing experience of being fired from ''[[Intermezzo (1939 film)|Intermezzo]]'' by Selznick. Selznick sought [[Gregg Toland]] as a replacement, but, finding him unavailable, instead hired Toland's mentor, [[George Barnes (cinematographer)|George Barnes]].{{r|asc}}
+
+Art director [[Lyle Wheeler]] designed 40 sets for ''Rebecca'', 25 of them interiors, mostly of Manderley.{{r|asc}} [[Matte painting]] was used to fill out shots of the sets with hand-painted details such as upper walls, ceilings and chandeliers.{{r|asc}}
+
+Two [[Miniature effect|miniatures]] of Manderley were created. The larger miniature occupied most of a large stage. It was used for relatively close shots, such as the views of flames through the windows during the burning of Manderley. The size of this miniature made it impossible to position a camera to encompass the full house and grounds, so a smaller version was constructed for long shots. This half-size miniature was used for the opening of the film.{{r|asc}}
+
+Hitchcock later said that Selznick wanted the smoke from the burning Manderley to spell out a huge "R", which Hitchcock thought lacked subtlety. While Selznick was preoccupied by ''[[Gone with the Wind (film)|Gone with the Wind]]'' (1939), Hitchcock was able to replace the smoky "R" with the burning of a monogrammed négligée case lying atop a bed pillow. Hitchcock edited the film "[[In-camera editing|in camera]]" (shooting only what he wanted to see in the final film) to restrict the producer's power to re-edit the picture.<ref name=only>{{cite book |last=Chandler |first=Charlotte |date=2005 |title=It's Only a Movie: Alfred Hitchcock, A Personal Biography |location=New York |publisher=[[Simon & Schuster]] |page=129 |author-link=Charlotte Chandler }}</ref> But Selznick relished the post-production process; he personally edited the footage, laid in [[Franz Waxman]]'s score, and supervised retakes and extensive re-recording of the dialogue of Sanders, Bates and Fontaine. Rewrites and reshooting were called for after a rough cut was previewed on December 26, 1939.<ref name="Leff">{{cite book |last=Leff |first=Leonard J. |date=1987 |title=Hitchcock and Selznick: The Rich and Strange Collaboration of Alfred Hitchcock and David O. Selznick in Hollywood |url=https://books.google.com/books?id=BqfKN15yPNMC |location=New York |publisher=Weidenfeld & Nicolson |isbn=1-55584-057-4 |access-date=January 18, 2022}}</ref>{{Rp|78–80}}
+
+''[[The Hollywood Reporter]]'' reported in 1944 that Edwina Levin MacDonald sued Selznick, Daphne du Maurier, United Artists and Doubleday for plagiarism. MacDonald claimed that the film ''Rebecca'' was stolen from her novel ''Blind Windows'', and sought an undisclosed amount of accounting and damages.<ref>''The Hollywood Reporter'', January 13, 1944</ref> The complaint was dismissed on January 14, 1948,<ref>''The Fresno Bee Republican'', January 17, 1948 – see ''e.g.'' [https://www.dumaurier.org/guestbook.html here] {{webarchive|url=https://web.archive.org/web/20120807025002/http://www.dumaurier.org/guestbook.html|date=August 7, 2012 }}</ref> and the judgment can be read online.<ref>{{cite web|url=https://www.leagle.com/decision/194873075fsupp6551561|title=MacDONALD v. DU MAURIER|work=leagle.com|access-date=April 19, 2016|archive-date=December 30, 2020|archive-url=https://web.archive.org/web/20201230052040/https://www.leagle.com/decision/194873075fsupp6551561|url-status=live}}</ref>
+
+===Production credits===
+The production credits on the film were as follows:
+* Director – [[Alfred Hitchcock]]
+* Producer – [[David O. Selznick]]
+* Screenplay – [[Robert E. Sherwood]] and [[Joan Harrison (screenwriter)|Joan Harrison]] 
+* Cinematography – [[George Barnes (cinematographer)|George Barnes]] (photography)
+* Art direction – [[Lyle R. Wheeler]] (art direction), Joseph B. Platt (interiors designed), [[Howard Bristol]] (interior decoration)
+* Music – [[Franz Waxman]] (music), Lou Forbes (music associate)
+* Special effects – [[Jack Cosgrove (special effects artist)|Jack Cosgrove]]
+* Film editor – [[Hal C. Kern]] (supervising film editor), [[James E. Newcom]] (associated film editor)
+* Scenario assistant – Barbara Keon 
+* Sound – Jack Noyes (recorder)
+* Assistant director – Edmond Bernoudy
+
+==Release==
+===Box office===
+The film earned $3 million in [[box office|theater rentals]] from the U.S. and Canada<ref name=HitchcockBook>{{cite book|first=James|last=Chapman|title=Hitchcock and the Spy Film|date=2018|publisher=Bloomsbury Academic |isbn=978-1-78076-844-1|quote=Although his most successful films of the war years were Selznick pictures – ''Rebecca'' (with a domestic box office gross of $3 million) and ''Spellbound'' ($4.9 million), with ''Rebecca'' also winning the Academy Award for Best Picture of 1940 – Hitchcock seems on the whole to have preferred his other assignments where he evidently enjoyed greater creative freedom.}}</ref> and $1 million in Britain on its initial release. It was re-released in Britain in 1945 and made $460,000.<ref>BY WAY OF REPORT: Presented by the Royal Air Force
+By A.H. WEILER. New York Times March 3, 1946: X3.</ref>
+
+According to ''[[Kinematograph Weekly]]'', it was the most popular film of 1940 in Britain.<ref>{{cite book|page=231|title=Blackout : reinventing women for wartime British cinema|last=Lant|first= Antonia|year=1991 |publisher=Princeton University Press }}</ref>
+
+==Reception==
+[[File:Visalia Fox Theatre ad - 19 April 1940, Visalia, CA.png|thumb|Theatrical advertisement from 1940]]
+When it premiered at the [[Radio City Music Hall]], [[Frank Nugent|Frank S. Nugent]] of ''[[The New York Times]]'' called it "an altogether brilliant film, haunting, suspenseful, handsome and handsomely played".<ref>{{cite web |url=https://www.nytimes.com/movie/review?res=9C06E5D61430E43ABC4151DFB566838B659EDE |title=Movie Review - Rebecca |last=Nugent |first=Frank |author-link=Frank Nugent |date=March 29, 1940 |website=[[The New York Times]] |access-date=November 28, 2015 |archive-date=December 30, 2020 |archive-url=https://web.archive.org/web/20201230052040/https://www.nytimes.com/reviews/movies?res=9C06E5D61430E43ABC4151DFB566838B659EDE |url-status=live }}</ref> ''[[Variety (magazine)|Variety]]'' called it "an artistic success" but warned it was "too tragic and deeply psychological to hit the fancy of wide audience appeal".<ref>{{cite magazine |date=March 27, 1940 |title=Rebecca |magazine=[[Variety (magazine)|Variety]] |location=New York |publisher=Variety, Inc. |page=17 }}</ref> ''[[Film Daily]]'' wrote: "Here is a picture that has the mark of quality in every department - production, direction, acting, writing and photography - and should have special appeal to femme fans. It creates a new star in Joan Fontaine, who does fine work in a difficult role, while Laurence Olivier is splendid."<ref>{{cite journal |date=March 26, 1940 |title=Reviews |journal=[[Film Daily]] |location=New York |publisher=Wid's Films and Film Folk, Inc. |page=6 }}</ref> ''[[Harrison's Reports]]'' declared: "A powerful psychological drama for adults. David O. Selznick has given it a superb production, and Alfred Hitchcock has again displayed his directorial skill in building up situations that thrill and hold the spectator in tense suspense."<ref>{{cite journal |date=April 6, 1940 |title='Rebecca' with Laurence Olivier and Joan Fontaine |journal=[[Harrison's Reports]] |page=54 }}</ref> [[John Mosher (writer)|John Mosher]] of ''[[The New Yorker]]'' wrote that Hitchcock "labored hard to capture every tragic or ominous nuance, and presents a romance which is, I think, even more stirring than the novel".<ref>{{cite magazine |last=Mosher |first=John |author-link=John Mosher (writer) |date=March 30, 1940 |title=The Current Cinema |magazine=[[The New Yorker]] |location=New York |publisher=F-R Publishing Corp. |page=71 }}</ref> [[Leslie Halliwell]] gave ''Rebecca'' four of four stars, stating: "The supreme Hollywood entertainment package...with generous helpings of romance, comedy, suspense, melodrama and mystery..."<ref>Halliwell's Film Guide, 7th Edition ISBN 0-06-016322-4</ref> [[Pauline Kael]] called it "Magnificent romantic-gothic corn, full of Alfred Hitchcock's humor and inventiveness."<ref>{{cite book |last1=Kael |first1=Pauline |title=5001 Nights at the Movies |date=1991 |publisher=A William Abrahams/Owl Book |isbn=0-8050-1366-0}}</ref>
+
+The film holds a 98% approval rating on [[Rotten Tomatoes]] based on 104 reviews, with an [[weighted arithmetic mean|average rating]] of 8.90/10. The site's consensus describes it as "a masterpiece of haunting atmosphere, Gothic thrills, and gripping suspense".<ref>{{cite web |url=https://www.rottentomatoes.com/m/1017293_rebecca |title=Rebecca (1940)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media]] |access-date=August 8, 2022 }}</ref> On&nbsp;[[Metacritic]]&nbsp;it has a score of 86 out of 100, based on reviews from 16 critics, indicating "universal acclaim".<ref>{{cite web|title=Rebecca|url=https://www.metacritic.com/movie/rebecca-1940/critic-reviews|website=Metacritic}}</ref> ''Rebecca'' won the ''Film Daily'' year-end poll of 546 critics nationwide naming the best films of the year.<ref>{{cite journal |date=January 14, 1941 |title='Rebecca' Wins Critics' Poll |journal=[[Film Daily]] |location=New York |publisher=Wid's Films and Film Folk, Inc. |page=1 }}</ref>
+
+[[File:Leytonstone tube station - Hitchcock Gallery- Rebecca (1940) (geograph 4081905).jpg|thumb|''Rebecca'' mosaic commissioned in 2001 in the [[London Underground]]]]
+''Rebecca'' was the opening film at the [[1st Berlin International Film Festival]] in 1951.<ref name="Berlinale 1951">{{cite web|url=https://www.berlinale.de/en/archive/jahresarchive/1951/01_jahresblatt_1951/01_jahresblatt_1951.html|title=1st Berlin International Film Festival|publisher=[[Berlin International Film Festival]]|access-date=December 2, 2020|archive-date=December 30, 2020|archive-url=https://web.archive.org/web/20201230052042/https://www.berlinale.de/en/archive/jahresarchive/1951/01_jahresblatt_1951/01_jahresblatt_1951.html|url-status=live}}</ref> ''[[The Guardian]]'' called it "one of Hitchcock's creepiest, most oppressive films".<ref>{{cite web|last1=Hann|first1=Michael|title=My Favourite Hitchcock: Rebecca|url=https://www.theguardian.com/film/filmblog/2012/aug/07/my-favourite-alfred-hitchcock-rebecca|website=[[The Guardian]]|date=August 7, 2012}}</ref> In a poll held by the ''[[Empire (film magazine)|Empire]]'' magazine in 2008, it was voted 318th 'Greatest Movie of All Time' from a list of 500.<ref>{{cite web|last1=Green|first1=Willow|title=The 500 Greatest Movies of All Time|url=https://www.empireonline.com/movies/features/500-greatest-movies/|website=Empire|date=October 3, 2008}}</ref> In 2016, ''Empire'' ranked the film at No. 23 on their list of "The 100 best British films" because although it was an American production the film was set in England and mainly starred English actors and actresses.<ref>{{cite web|last1=Green|first1=Willow|title=The 100 best British films|url=https://www.empireonline.com/movies/features/100britishfilms/|website=Empire|date=September 5, 2016}}</ref> In 2018, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref>{{Cite web | url=https://www.npr.org/2018/12/12/675384976/jurassic-park-the-shining-and-23-other-movies-added-to-national-film-registry | title='Jurassic Park,' 'The Shining,' and 23 Other Movies Added to National Film Registry | website=[[NPR]] | access-date=December 12, 2018 | archive-date=December 20, 2018 | archive-url=https://web.archive.org/web/20181220023427/https://www.npr.org/2018/12/12/675384976/jurassic-park-the-shining-and-23-other-movies-added-to-national-film-registry | url-status=live }}</ref> A restored nitrate print of ''Rebecca'' was shown at the [[Grauman's Egyptian Theatre]] in Hollywood in 2019. The screening was introduced by [[Christopher Nolan]].<ref name="IndiNolan 2019">{{cite web|url=https://www.indiewire.com/2019/11/nitrate-film-flammable-egyptian-theatre-george-eastman-1202190206/|title=Christopher Nolan Hopes Nitrate Print of 'Rebecca' Will Reestablish the Film's Place in Hitchcock's Legacy|publisher=[[IndieWire]]|date=November 17, 2019}}</ref>
+
+===Accolades===
+''Rebecca'' won two [[Academy Awards]]: Best Picture and Best Cinematography; and was nominated for nine more:<ref name="Oscars1941">{{cite web|url=https://www.oscars.org/oscars/ceremonies/1941|title=The 13th Academy Awards (1941) Nominees and Winners|access-date=June 19, 2013|publisher=Academy of Motion Picture Arts and Sciences|archive-date=March 3, 2012|archive-url=https://web.archive.org/web/20120303110034/http://www.oscars.org/awards/academyawards/legacy/ceremony/13th-winners.html|url-status=live}}</ref>  It is the only film since 1936 (when awards for actors in supporting roles were first introduced) that, despite winning Best Picture, received no Academy Award for acting, directing or writing.
+
+{| class="wikitable sortable"
+!Year
+! Organization
+! Category
+! Subject
+! Result
+!Ref.
+|-
+|[[1940 New York Film Critics Circle Awards|1940]]
+|[[New York Film Critics Circle]]
+|[[New York Film Critics Circle Award for Best Actress|Best Actress]]
+|[[Joan Fontaine]]
+|{{Nominated}}
+|<ref>{{Cite web |title=1940 Awards |url=https://www.nyfcc.com/awards/ |access-date=2025-08-25 |website=[[New York Film Critics' Circle]] |language=en-US}}</ref>
+|-
+| rowspan="11" |[[13th Academy Awards|1941]]
+| rowspan="11" | [[13th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Outstanding Production]]
+| [[David O. Selznick]] (for [[Selznick International Pictures]])
+| {{won}}
+| rowspan="11" |<ref>{{Cite web |date=2014-10-05 |title=The 13th Academy Awards {{!}} 1941 |url=https://www.oscars.org/oscars/ceremonies/1941 |access-date=2025-08-25 |website=www.oscars.org |language=en}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| [[Alfred Hitchcock]]
+| {{nom}}
+|-
+| [[Academy Award for Best Actor|Best Actor]]
+| [[Laurence Olivier]]
+| {{nom}}
+|-
+| [[Academy Award for Best Actress|Best Actress]]
+| Joan Fontaine
+| {{nom}}
+|-
+| [[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Judith Anderson]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay]]
+| [[Robert E. Sherwood]] and [[Joan Harrison (screenwriter)|Joan Harrison]]
+| {{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction – Black and White]]
+| [[Lyle R. Wheeler]]
+| {{nom}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography – Black and White]]
+| [[George Barnes (cinematographer)|George Barnes]]<ref name="NY Times">{{cite web|url=https://movies.nytimes.com/movie/40592/Rebecca/awards|archive-url=https://web.archive.org/web/20120217171155/http://movies.nytimes.com/movie/40592/Rebecca/awards|url-status=dead|archive-date=February 17, 2012|department=Movies & TV Dept.|work=[[The New York Times]]|date=2012|title=Critic's Pick: Rebecca|access-date= December 13, 2008}}</ref>
+| {{won}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Hal C. Kern]]
+| {{nom}}
+|-
+| [[Academy Award for Best Original Score|Best Original Score]]
+| [[Franz Waxman]]
+| {{nom}}
+|-
+| [[Academy Award for Best Visual Effects|Best Special Effects]]
+| [[Jack Cosgrove (special effects artist)|Jack Cosgrove]] and [[Arthur Johns (sound engineer)|Arthur Johns]]
+| {{nom}}
+|}
+
+''Rebecca'' was twice honored by the [[American Film Institute|AFI]] in their [[AFI 100 Years... series]]
+* [[AFI's 100 Years...100 Thrills]]{{spaced ndash}} {{abbr|No.|Number}} 80
+* [[AFI's 100 Years...100 Heroes and Villains]]{{spaced ndash}} Mrs. Danvers, No. 31 Villain. ''Rebecca'' was entered into the Library of Congress's Registry of significant American films.<ref>{{Cite web | title=Complete National Film Registry Listing {{!}} Film Registry {{!}} National Film Preservation Board {{!}} Programs {{!}} Library of Congress | url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ | access-date=2026-07-21 | website=www.loc.gov}}</ref>
+
+==See also==
+{{Portal|Cornwall|Film}}
+<!-- alphabetical order please [[WP:SEEALSO]] -->
+<!-- please add a short description [[WP:SEEALSO]], via {{subst:AnnotatedListOfLinks}} or {{Annotated link}} -->
+* {{Annotated link |A Sucessora|''A Sucessora''}}
+* {{Annotated link|Gas Light|''Gas Light''}}
+* {{Annotated link |Gothic romance film}}
+* {{Annotated link |Rebecca (2020 film)|''Rebecca''}}
+* {{Annotated link|Suspicion (1941 film)|''Suspicion''}}
+
+==References==
+{{Reflist|refs=
+<ref name=HaS>{{cite book
+|last=Leff|first=Leonard J.
+|title=Hitchcock & Selznick
+|publisher=Weidenfeld & Nicolson|year=1987
+|isbn=1-55584-057-4
+}}</ref>
+<ref name=HatC>{{cite book
+|last=Billheimer|first=John W.
+|title=Hitchcock and the Censors
+|publisher=The University Press of Kentucky
+|year=2019
+|isbn=9780813177434
+}}</ref>
+<ref name=dark>{{cite book
+|last=Spoto
+|first=Donald
+|author-link=Donald Spoto
+|title=The Dark Side of Genius: The Life of Alfred Hitchcock
+|publisher=[[Da Capo Press]]
+|year=1999
+|isbn=978-0-306-80932-3
+|url=https://archive.org/details/darksideofgenius00spot_0
+}}</ref>
+<ref name=White>{{cite book
+|title=BFI Film Classics: Rebecca
+|last=White|first=Patricia
+|year=2021
+|publisher=Bloomsbury Publishing
+|isbn=9781911239444
+}}</ref>
+<ref name=asc>{{cite journal
+|title=Du Maurier + Selznick + Hitchcock = ''Rebecca''
+|last=Turner|first=George E.
+|journal=American Cinematographer
+|date=July 1997
+|url=https://theasc.com/articles/du-maurier-selznick-hitchcock-rebecca
+}}</ref>
+}}
+
+==External links==
+{{wikiquote|Rebecca (film)}}
+{{commons category|Rebecca (film)}}
+* {{IMDb title}}
+* {{AFI film}}
+* {{TCMDb title}}
+* [https://www.filmsite.org/rebec.html ''Rebecca''] at [[Filmsite]]
+* [https://www.criterion.com/current/posts/170-rebecca-the-two-mrs-de-winters "''Rebecca'': The Two Mrs. de Winters"], a 2001 essay by [[Robin Wood (critic)|Robin Wood]] at [[The Criterion Collection]]
+* [https://www.criterion.com/current/posts/4897-rebecca-welcome-to-the-haunted-house "''Rebecca'': Welcome to the Haunted House"], a 2017 essay by [[David Thomson (film critic)|David Thomson]] at The Criterion Collection
+*[https://theasc.com/article/du-maurier-selznick-hitchcock-rebecca/ "Du Maurier + Selznick + Hitchcock = Rebecca"], a 2021 profile from ''[[American Cinematographer]]''
+
+'''Streaming audio'''
+* [https://archive.org/download/ScreenGuildTheater/Sgt_43-05-31_ep146_Rebecca.mp3 ''Rebecca''] on [[Screen Guild Theater]]: May 31, 1943
+* [https://archive.org/download/Lux15/Lux_50-11-06_Rebecca.mp3 ''Rebecca''] on [[Lux Radio Theater]]: November 6, 1950
+
+{{Rebecca (novel)}}
+{{David O. Selznick}}
+{{Alfred Hitchcock}}
+{{Academy Award Best Picture}}
+
+{{Authority control}}
+
+[[Category:1940 films]]
+[[Category:1940 mystery films]]
+[[Category:1940 romantic drama films]]
+[[Category:1940 American films]]
+[[Category:1940 English-language films]]
+[[Category:1940s erotic thriller films]]
+[[Category:1940s mystery thriller films]]
+[[Category:1940s psychological thriller films]]
+[[Category:1940s romantic thriller films]]
+[[Category:American black-and-white films]]
+[[Category:American erotic thriller films]]
+[[Category:American mystery thriller films]]
+[[Category:American romantic drama films]]
+[[Category:American romantic thriller films]]
+[[Category:Articles containing video clips]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:Censored films]]
+[[Category:English-language erotic thriller films]]
+[[Category:English-language mystery thriller films]]
+[[Category:English-language romantic drama films]]
+[[Category:English-language romantic thriller films]]
+[[Category:Films about adultery in the United Kingdom]]
+[[Category:American films about cancer]]
+[[Category:Films about remarriage]]
+[[Category:Films about sexual repression]]
+[[Category:Films about suicide]]
+[[Category:Films about widowhood]]
+[[Category:Films based on British novels]]
+[[Category:Films based on romance novels]]
+[[Category:Films based on works by Daphne du Maurier]]
+[[Category:Films directed by Alfred Hitchcock]]
+[[Category:Films involved in plagiarism controversies]]
+[[Category:Films produced by David O. Selznick]]
+[[Category:Films scored by Franz Waxman]]
+[[Category:Films set in Cornwall]]
+[[Category:Films set in country houses]]
+[[Category:Films set in Monaco]]
+[[Category:Films shot at Culver Studios]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Gothic films]]
+[[Category:Selznick International Pictures films]]
+[[Category:United States National Film Registry films inducted in 2018]]
+[[Category:Works based on Rebecca (novel)]]
+[[Category:United Artists films]]

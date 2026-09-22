@@ -1,0 +1,341 @@
+{{short description|1994 comedy-drama film by Ang Lee}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=August 2011}}
+{{Infobox film
+| name           = Eat Drink Man Woman
+| image          = Eat Drink Man Woman.jpg
+| caption        = Theatrical release poster
+| native_name    ={{Infobox Chinese|child=yes| t = 飲食男女
+| s     = 饮食男女
+| p         = Yǐn shí nán nǚ}}
+| director       = [[Ang Lee]]
+| producer       = [[Hsu Li-kong]]<br />Hsu Kong
+| writer         = Ang Lee<br />[[James Schamus]]<br />[[Hui-Ling Wang]]
+| starring = {{Plain list |
+* [[Sihung Lung]]{{#tag:ref|Sihung Lung was credited as Lang Hsiung.|group=N}}
+* [[Yang Kuei-mei|Kuei-mei Yang]]
+* [[Jacklyn Wu|Chien-lien Wu]]
+* [[Wang Yu-wen (Taiwanese actress)|Yu-wen Wang]]
+* [[Winston Chao]]
+* [[Gua Ah-leh|Ah-Leh Gua]]
+* [[Sylvia Chang]]}}
+| music          = Thierry Mader Schollhammer
+| cinematography = [[Jong Lin]]
+| editing        = Ang Lee<br />[[Tim Squyres]]
+| studio         = {{unbulleted list|Ang Lee Pictures|[[Central Motion Picture Corporation|Central Motion Pictures]]|[[Good Machine]]|Xiongfa Film Company}}
+| distributor    = Central Motion Pictures (Taiwan)<br />[[The Samuel Goldwyn Company]] (United States)
+| released       = {{Film date|1994|7|2|Taiwan|1994|8|3|United States}}
+| runtime        = 123 minutes
+| country        = Taiwan<br />United States
+| language       = Mandarin
+| gross          = $24.2 million<ref name=worldwide>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=February 13, 1995|page=28|title=Worldwide rentals beat domestic take}}</ref>
+}}
+
+'''''Eat Drink Man Woman''''' ({{lang-zh|t=飲食男女|first=t}}) is a 1994 [[comedy-drama]] film directed by [[Ang Lee]], from a script co-written with [[James Schamus]] and [[Hui-Ling Wang]].<ref name="Howe">Howe, Desson. "[https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/eatdrinkmanwomannrhowe_a019c0.htm ‘Eat Drink Man Woman’]." ''[[The Washington Post]]''. 19 October 1994. Retrieved on 20 November 2013.</ref> It stars [[Sihung Lung]], [[Wang Yu-wen (Taiwanese actress)|Wang Yu-wen]], [[Jacklyn Wu|Wu Chien-lien]], and [[Yang Kuei-mei]]<ref>{{cite journal|last=Dickenson|first=Victoria|date=2012-09-25|title=Eat Drink Man Woman, Art Gallery of Mississauga, November 10–December 22, 2011, Curated by Tara Marshall|journal=Cuizine|volume=3|issue=2|doi=10.7202/1012464ar|issn=1918-5480|doi-access=free}}</ref> as members of the Zhu family navigating the challenges of love, life, tradition and family. Part of Lee's "Father Knows Best" trilogy<ref>{{Cite book|chapter=7. Breaking the Soy Sauce Jar: Diaspora and Displacement in the Films of Ang Lee|date=2017-12-31|chapter-url=http://dx.doi.org/10.1515/9780824865290-010|title=[[Transnational Chinese Cinemas]]|pages=187–220|publisher=University of Hawaii Press|doi=10.1515/9780824865290-010|isbn=978-0-8248-6529-0|access-date=2021-06-14|last1=Dariotis |first1=Wei Ming |last2=Fung |first2=Eileen }}</ref> and similar to Lee's other works, this film deals with the transition from tradition to modernity.<ref>Wei Ming Dariotis, Eileen Fung, "[https://books.google.com/books?id=X-JEtlBzDUEC&dq=hsiao-peng+father+knows+best+trilogy&pg=PA212 Breaking the Soy Sauce Jar: Diaspora and Displacement in the Films of Ang Lee]," in Hsiao-peng Lu, ed., ''Transnational Chinese Cinemas: Identity, Nationhood, Gender'' (Honolulu: University of Hawaii Press, 1997), p. 242.</ref> It is Lee's only film, to date, to be shot entirely in his native [[Taiwan]].
+
+The film premiered in Taiwan on July 2, 1994, and it was both a critical and box office success.<ref name="rotten">{{cite web |url=https://www.rottentomatoes.com/m/eat_drink_man_woman |title=Eat Drink Man Woman (Yin shi nan nu) (1994) |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media|Fandango]] |access-date=7 February 2019}}</ref> It received several accolades including an [[Academy Award]] nomination for [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]].<ref name="Oscars1995">{{Cite web|url=http://www.oscars.org/oscars/ceremonies/1995 |title=The 67th Academy Awards (1995) Nominees and Winners |access-date=26 September 2015 |work=oscars.org}}</ref> It was also nominated for both a [[Golden Globe]] and [[BAFTA Award]], as well as three [[Golden Horse Award]]s and six [[Independent Spirit Awards]]. It would inspire films like ''[[Tortilla Soup]]'' and ''Joyful Reunion'' <ref name="Chang2">{{cite web|last=Chang|first=Justin|date=2012-03-27|title=Joyful Reunion|url=https://variety.com/2012/scene/markets-festivals/joyful-reunion-1117947301/|access-date=2021-06-14|website=Variety|language=en-US}}</ref> and has an eponymous musical rendition.<ref>{{Cite web|title=2019新舞臺藝術節─音樂劇《飲食男女》 - 最新節目 {{!}} 衛武營國家藝術文化中心 Weiwuying National Kaohsiung Center for the Arts|url=https://www.npac-weiwuying.org/programs/5d2ef1162f7e790006461eea|access-date=2021-06-14|website=www.npac-weiwuying.org|language=zh-Hant-TW}}</ref> A [[BBC Culture]] poll of film critics ranked the film at number 54 of the 100 Greatest Non-English Language Films.<ref>{{Cite web|title=The 100 greatest foreign-language films|url=https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films|access-date=2022-01-10|website=www.bbc.com|language=en}}</ref>
+
+The title is a quote from the ''[[Book of Rites]]'', one of the Confucian classics, referring to the basic human desires and accepting them as natural. The beginning of the quote reads as follows: “The things which men greatly desire are comprehended in food and drink and sexual pleasure.”{{efn|Chinese:{{lang|zh-hant|「飲食男女，人之大欲存焉」}}}}<ref>{{Citation|title=Lǐjì 《禮記》|trans-title=Book of Rites|trans-chapter=Ceremonial usages; their origins, development, and intention|chapter=Lǐyùn 禮運 19|chapter-url=http://ctext.org/liji/li-yun#n59925}}</ref>
+
+==Plot==
+On a Sunday afternoon in [[Taipei]], semi-retired chef and widower Zhu prepares a feast for his three daughters. Jia-Jen, the eldest, is a chemistry teacher who devotes her life to Christianity and has become emotionally guarded long after a heartbreak in her college years. The second daughter, Jia-Chien, is a successful and busy executive at an airline company. She retains a suppressed passion for cooking that her father discouraged in her formative years. Jia-Ning, the youngest, is a college student who works part-time at a [[Wendy's]] fast food restaurant.
+
+At dinner, Jia-Chien announces that she has invested in a new apartment and will be moving out once construction is complete. Surprisingly, Mr. Zhu approves. Jia-Chien criticizes her father's cooking, saying Mr. Zhu's taste is deteriorating. Mr. Zhu dismisses the idea before suddenly rushing off to help his (and Jia-Chien's) long-time friend and "taster", Old Wen, at a banquet. Afterwards, Mr. Zhu wonders with Old Wen if there is anything more to life than eating, drinking, man, and woman. Meanwhile, family friend Jin-Rong stops by the Zhu residence with her daughter Shan-Shan. Jin-Rong vocalizes her difficulties with a messy divorce while being responsible for work, Shan-Shan, and her opinionated mother, Madame Liang, as she returns to Taipei from America. Jia-Jen comforts her while Shan-Shan colors a caricature of Mr. Zhu.
+
+The next morning, Mr. Zhu meets Shan-Shan, learns that the lunches Jin-Rong provides her are suboptimal, and decides to cook for her. Shan-Shan agrees, letting Mr. Zhu eat the lunches her mom made to prevent her from discovering their secret. At school, Jia-Jen meets the new volleyball coach Ming-Dao and they take interest in one another. Jia-Chien meets the chief negotiator Li Kai during a meeting at work and they flirt with one another. She has a chance to relocate to Amsterdam due to a potential promotion. Jia-Ning meets up with Guo-Lun, her friend Rachel's on-and-off boyfriend. As Guo-Lun mopes about his unrequited love, Jia-Ning comforts him, telling him that true love is being with someone he can express his feelings to comfortably, leading Guo-Lun to realize his love for Jia-Ning.
+
+Meanwhile, Old Wen becomes hospitalized. Jia-Jen is fooled by love letters she believes are from Ming-Dao, falling for a prank by her students. Jia-Chien's apartment investment falls through as she discovers that the apartment company went bankrupt and ran away with her savings. She also learns that it was Li Kai who broke Jia-Jen's heart in college and confronts him about it. Li Kai says he never dated Jia-Jen. Jia-Ning faces a dilemma when she begins dating Guo-Lun even after Rachel confesses that she loves him. Mr. Zhu's health deteriorates and secretly visits the hospital, unaware that Jia-Chien saw him while visiting Old Wen. Eventually, Old Wen passes away and Mr. Zhu concludes that his sense of taste has officially departed.
+
+At another Sunday feast, Jia-Chien announces that she will no longer be moving out; Mr. Zhu tells her not to worry. Later, Jia-Ning reveals her relationship with Guo-Lun and her pregnancy. The next dinner, Jia-Jen divulges that she and Ming-Dao have eloped. Jia-Jen and Jia-Ning move out of the residence, leaving Mr. Zhu with Jia-Chien. Troubled, Mr. Zhu begins to confide in and meet Madame Liang, leading the daughters to believe that the two are romantically involved.
+
+Worried about her father's health, Jia-Chien rejects her promotion. Soon, the sisters, their partners, and Jin-Rong's family gather for a large Sunday feast. Mr. Zhu announces his engagement, not to Madame Liang, but to Jin-Rong, also revealing that his visit to the hospital was to show good health to gain Madame Liang's blessing. Madame Liang goes into shock, abruptly ending the dinner. Later, Jia-Ning and Guo-Lun have their baby, Jia-Jen converts Ming-Dao to Christianity, and Mr. Zhu sells the family home and buys a condo with Jin-Rong and Shan-Shan. Jia-Chien, no longer needing to take care of her father, accepts the job in Amsterdam. Before she leaves she prepares a final feast for the family in the family home, but only Mr. Zhu arrives. When Mr. Zhu tastes her cooking he suddenly realizes that his sense of taste has returned. The two hold each other's hands in the dining room, and call each other “Father” and “Daughter”.
+
+==Cast==
+{{div col}}
+* [[Sihung Lung|Lung Sihung]] as Zhu ({{lang-zh|first=t|t=老朱|p=Lǎo Zhū|l=Old Zhu}}), an aging master Chinese chef who works at [[Grand Hotel (Taipei)|Grand Hotel]] in [[Taipei]] and the widower father of three adult daughters.
+* [[Yang Kuei-mei]] as Zhu Jia-Jen ({{lang-zh|first=t|t=朱家珍|p=Zhū Jiāzhēn|labels=no}}), the eldest daughter, who works as a [[high school]] [[chemistry]] [[teacher]]. Ultimately she marries a new boyfriend after being abstinent for nine years. Her family members seem puzzled when they realize he is not a Christian but Jia-Jen says "He will be."<ref name=Howe/>
+* [[Jacklyn Wu|Wu Chien-lien]] as Zhu Jia-Chien ({{lang-zh|first=t|t=朱家倩|p=Zhū Jiāqiàn|labels=no}}), the second daughter, an executive at an [[China Airlines|airline]] company. Unlike her elder sister, Jia-Chien is sexually liberated, and suspects she disapproves of her moral system.<ref name=DariotisFungp211/>
+**Chien-lien Wu, who plays Jia-Chien, also portrays Mr. Chu's dead wife. Lizzie Francke wrote that Jia-Chien taking the role of the cook "makes manifest the various needs that bind a family by setting a mother back at the heart of it".<ref name=DariotisFungp212>Dariotis and Fung, p. [https://books.google.com/books?id=X-JEtlBzDUEC&dq=%22But+as+they+verbally+reaffirm+their+relationship+as+father+and+daughter%22&pg=PA212 212].</ref> Dariotis and Fung wrote that therefore the phrase from Francke has multiple meanings since Jia-Chien takes her father's role of being a chef and therefore "is trying to be the son her father never had" and she takes the role of the mother.<ref name=DariotisFungp212/>
+* [[Wang Yu-wen (Taiwanese actress)|Wang Yu-wen]] as Zhu Jia-Ning ({{lang-zh|first=t|t=朱家寧|p=Zhū Jiāníng|labels=no}}), the youngest daughter, who works at [[Wendy's]] fast food restaurant. She becomes involved with an on-and-off boyfriend of her friend Rachel and gets into a love triangle.
+* [[Winston Chao]] as Li Kai ({{lang-zh|first=t|t=李凱|p=Lǐ Kǎi|labels=no}}), Jia-Chien's co-worker and love interest. She believes that Li Kai broke Jia-Jen's heart, and Dariotis and Fung wrote that the event seems to have caused Jia-Jen to turn away from the world.<ref name=DariotisFungp211>Dariotis and Fung, p. [https://books.google.com/books?id=X-JEtlBzDUEC&dq=%22Each+suspects+the+other+of+disapproving+of+her+morals%22&pg=PA211 211].</ref> Later in the film it is revealed that Jia-Jen fabricated the story, in order to "create a barrier against intimacy—even with her family" according to Dariotis and Fung.<ref name=DariotisFungp211/>
+* [[Sylvia Chang]] as Liang Jin-Rong ({{lang-zh|first=t|t=梁錦榮|p=Liáng Jǐnróng|labels=no}}), a [[single mother]] and neighbour of Chu's, going through a messy divorce.
+* [[Gua Ah-leh]] as Madame Liang ({{lang-zh|first=t|t=梁伯母|p=Liáng bómǔ|labels=no}}), Jin-Rong's mother who has recently moved back to Taiwan from the [[United States]].
+* [[Chen Chao-jung]] as Guo Lun ({{lang-zh|first=t|t=國倫|p=Guólún|labels=no}}), Rachel's ex-boyfriend and eventually Jia-Ning's love interest.
+* Lu Chin-cheng as Ming-Dao, the high school [[volleyball]] coach whom Jia-Jen falls in love with.
+* Lester Chit-Man Chan as Raymond ({{lang-zh|first=t|t=雷蒙|p=Léiméng|labels=no}}), Jia-Chien's ex-boyfriend.
+* Yu Chen ({{lang-zh|first=t|t=陳妤|p=Chén Yú|labels=no}}) as Rachel ({{lang-zh|first=t|t=小芝芝|p=Xiǎo Zhīzhī|labels=no}}), Jia-Ning's friend and co-worker.
+* Tang Yu-Chien ({{lang-zh|first=t|t=唐語謙|p=Táng Yǔqiān|labels=no}}) as Shan-Shan ({{lang-zh|first=t|t=珊珊|p=Shānshān|labels=no}}), Jin-Rong's six-year-old daughter.
+* [[Wang Jui]] as Old Wen ({{lang-zh|first=t|t=老溫|p=Lǎo Wēn|labels=no}}), Chu's longtime friend and fellow chef.
+* Hsu Gin-Ming as Coach Chai
+* Lin Huel-Yi as Sister Chang
+{{div col end}}
+
+== Themes ==
+Wei Ming Dariotis and Eileen Fung, authors of "Breaking the Soy Sauce Jar: Diaspora and Displacement in the Films of Ang Lee", wrote that Jia-Jen's story is that of a "spinster turned sensual woman".<ref name="DariotisFungp211" /> They wrote that her Christianity was there "perhaps to match her role as a mother-figure". She suspects Jia-Chien of disapproving of her moral system.<ref name="DariotisFungp211" /> Dariotis and Fung wrote that after Jia-Chien states that she needs not a mother but sister, Jia-Jen "is able to become who she really is with all the complexity that entails" rather than being someone she believed her family needed, with "who she really is" being "a modern, conservative, Christian, sexually aggressive Taiwanese woman".<ref name="DariotisFungp211" /> Desson Howe of ''[[The Washington Post]]'' wrote that of the actresses, Yang was the "most memorable".<ref name="Howe" />
+
+Dariotis and Fung wrote that Jia-Ning's story is of "naïveté and immature love" and that the love triangle involving her, Guo Lun, and Rachel "is in many ways a parody of comic book romance."<ref name="DariotisFungp211" /> Dariotis and Fung argue that Jia-Ning's story, along with Jia-Jen's, is "not only flat but also dangerously uncomplicated."<ref name="DariotisFungp211" /> They further state that "[t]he lack of inquiry is endemic of this storyline" and that its "superficial treatment" is "quite disturbing."<ref name="DariotisFungp211" />
+
+“Due to love and traditional matters, they have to obey, they have to care well. They’re not really level with each other. I think that’s the biggest problem in that family, so the food and that banquet in the movie has become a ritual,” said Ang Lee.<ref>{{cite web|title=Ang Lee talks about his movie "Eat Drink Man Woman"|url=https://www.youtube.com/watch?v=efDFSqvBgoI|url-status=live|archive-url=https://ghostarchive.org/varchive/youtube/20211222/efDFSqvBgoI|archive-date=2021-12-22|access-date=2021-06-14|website=[[YouTube]]|language=en}}{{cbignore}}</ref> The banquet becomes a burden on the family.
+
+The authors Hong Zhao and Haixin Jin argue in their article ''破坏中的重建与传承——《饮食男女》解读'' that in the film ''Eat Drink Man Woman'', Zhu's family first maintains a semblance of calm when everyone represses their desires, then, the family is destructed when members throw off the shackles of their family roles to pursue their own desires. The family structure is eventually reconstructed when everyone's desire for eat, drink and sex is well balanced. At the beginning of the film, Zhu's&nbsp;family struggles between maintaining the banquet (eat and drink) and their sexual desire (man and woman). Food is the bond that holds the family together. However, though they dine together every week, they are afraid to confide in each other. When they focus on “eat drink” but suppress sexual desire, the family is unhappy. No one enjoys the meal and Zhu even loses his sense of taste. When Zhu, Jia Jen, and Jia Ning chase after their sexual desires (man and woman), the original family structure disintegrates, but the family becomes happier since everyone gets what they want. The desire for food and sex eventually reach a balance and Zhu's sense of taste is back at this moment.<ref>{{cite journal|title=万方数据知识服务平台|url=https://d.wanfangdata.com.cn/periodical/trsfgdzkxxxb200704005|doi=10.3969/j.issn.1673-9639.2007.04.005|access-date=2021-06-14|website=d.wanfangdata.com.cn}}</ref>
+
+Each character in this film has their own desire but at the beginning of the film, due to the concern with their family roles, they cannot express themselves.
+
+== Production ==
+''Eat Drink Man Woman'' was filmed on-location in director [[Ang Lee]]'s hometown [[Taipei]]. As of 2022, it is Lee's only film to be shot entirely in [[Taiwan]].
+
+The opening sequence - in which a Sunday lunch is lovingly prepared - took over a week to film and was accomplished with the use of an actual master chef, who [[Body double|doubled]] for actor [[Sihung Lung]].
+
+== Music ==
+The musical score was composed by French musician Thierry Schollhammer, credited under the mononym "Mader",<ref>{{Cite web|title=ABOUT|url=https://www.madermusic.com/about|access-date=2022-01-10|website=MADER|language=en-US}}</ref> and arranged by Sarah Plant. The soundtrack was released by [[Varèse Sarabande]].<ref>{{Cite web|title=Eat Drink Man Woman Soundtrack (1994)|url=https://www.soundtrack.net/album/eat-drink-man-woman/|access-date=2021-06-14|website=www.soundtrack.net}}</ref>
+
+=== Track listing ===
+{| class="wikitable"
+|No.
+|Title
+|Artist(s)
+|Length
+|-
+|1
+|Awake
+|Mader
+|2:32
+|-
+|2
+|Good Morning, My Life!
+|Mader
+|1:12
+|-
+|3
+|Mambo City
+|Mader
+|10:53
+|-
+|4
+|The Daughters Heart - I
+|Mader
+|4:08
+|-
+|5
+|Night Moon
+|Mader
+|2:41
+|-
+|6
+|Destiny
+|Mader
+|1:54
+|-
+|7
+|Pas Kitchen - I
+|Mader
+|1:09
+|-
+|8
+|Emptiness
+|Mader
+|0:58
+|-
+|9
+|Up Or Down
+|Mader
+|0:24
+|-
+|10
+|Pas Kitchen - II
+|Mader
+|1:40
+|-
+|11
+|Loneliness
+|Mader
+|0:34
+|-
+|12
+|The Banquet
+|Mader
+|1:54
+|-
+|13
+|Pas Secret
+|Mader
+|0:46
+|-
+|14
+|Whos With Me
+|Mader
+|3:33
+|-
+|15
+|Kitchen Impro
+|Mader
+|1:33
+|-
+|16
+|Darkroom
+|Mader
+|0:40
+|-
+|17
+|Revelation
+|Mader
+|0:47
+|-
+|18
+|The Daughters Heart - II
+|Mader
+|4:08
+|}
+Included in the film but not on the soundtrack, are several [[Mandopop]] tracks and classical excerpts from "[[Israel in Egypt]]", "[[All Creatures of Our God and King]]", and "[[Quattro pezzi sacri]]."
+
+==Reception==
+
+=== Box office ===
+The film grossed $24.2 million worldwide generating the third biggest percentage return on cost of films released in the year, behind ''[[Four Weddings and a Funeral]]'' and ''[[The Lion King]]''. It was the highest-grossing foreign-language film in the United States and Canada for the year with a gross of $7.3 million.<ref>{{mojo title|eatdrinkmanwoman|Eat Drink Man Woman}}</ref><ref>{{cite magazine|date=January 9, 1995|title=The Year In Pictures|magazine=[[Variety (magazine)|Variety]]|page=8}}</ref><ref name=worldwide/>
+
+===Critical response===
+In her review in ''The New York Times'', [[Janet Maslin]] praised Ang Lee as "a warmly engaging storyteller". She wrote, "Wonderfully seductive, and nicely knowing about all of its characters' appetites, ''Eat Drink Man Woman'' makes for an uncomplicatedly pleasant experience".<ref name="maslin">{{cite news|last=Maslin |first=Janet |author-link=Janet Maslin |url=https://movies.nytimes.com/movie/review?res=9A03E2DA1231F930A3575BC0A962958260 |title=Film Review: Avoiding Basic Human Desires, or Trying To |newspaper=The New York Times |date=3 August 1994 |access-date=8 July 2011}}</ref>
+
+In his review in ''The Washington Post'', Hal Hinson called the film a "beautiful balance of elements ... mellow, harmonious and poignantly funny". Hinson concluded:
+{{blockquote|As the relationships evolve and deepen, there seems to be a surprise around every corner—for both the characters and the audience. But what is most surprising, perhaps, is how involved we become with these people. As satisfying as food can be, the fullness we feel at the end here is far richer and more complex than that offered by the most extravagant meal. “ Eat Drink Man Woman” is a delicacy but also something more—something like food for the heart.<ref name="washingtonpost">{{cite news|last=Hinson |first=Hal |title=Eat Drink Man Woman |newspaper=The Washington Post |date=19 August 1994 |url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/eatdrinkmanwomannrhinson_a019c2.htm |access-date=28 February 2012}}</ref>}}
+
+According to the [[review aggregator]] website [[Rotten Tomatoes]], 88% of critics have given the film a positive review based on 49 reviews. The site's critics consensus reads, "A richly layered look at the complex interactions between a widowed chef and his daughters, Ang Lee's generational comedy ''Eat Drink Man Woman'' offers filmgoers a tasty cinematic treat."<ref name="rotten" /> On [[Metacritic]], the film has a [[weighted arithmetic mean|weighted average score]] of 80 out of 100, based on 29 critics, indicating "generally favorable reviews".<ref>{{Cite web|url=https://www.metacritic.com/movie/eat-drink-man-woman/?ftag=MCD-06-10aaa1c|title=Eat Drink Man Woman Reviews - Metacritic|website=www.metacritic.com}}</ref>
+
+===Awards and nominations===
+{| class="wikitable"
+|-
+! scope="col" style="width:5%;" | Award
+! scope="col" style="width:10%;" | Category
+! scope="col" style="width:9%;" | Recipient
+! scope="col" style="width:5%;" | Result
+|-
+| [[Academy Awards]]
+| [[Academy Award for Best Foreign Language Film|Best Foreign Language Film]]
+| {{N/A}}
+| {{nom}}
+|-
+| rowspan="2" | [[Asia Pacific Film Festival]]
+| Best Film
+| Ang Lee
+| {{won}}
+|-
+| Best Film Editing
+|[[Tim Squyres]]
+| {{won}}
+|-
+| [[BAFTA Award]]s
+| [[BAFTA Award for Best Film Not in the English Language|Best Film Not in the English Language]]
+| {{N/A}}
+| {{nom}}
+|-
+| [[Dallas–Fort Worth Film Critics Association|Dallas–Fort Worth Film Critics Association Awards]]
+| Best Foreign Language Films
+| {{N/A}}
+| {{nom}}
+|-
+| [[Golden Globe Awards]]
+| [[Golden Globe Award for Best Foreign Language Film|Best Foreign Language Film]]
+| {{N/A}}
+| {{nom}}
+|-
+| rowspan="3" | [[Golden Horse Film Festival and Awards|Golden Horse Film Awards]]
+| [[Golden Horse Award for Best Feature Film|Best Feature Film]]
+| {{N/A}}
+| {{nom}}
+|-
+| [[Golden Horse Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Gua Ah-leh]]
+| {{nom}}
+|-
+| [[Golden Horse Award for Best Original Screenplay|Best Original Screenplay]]
+| Ang Lee, Wang Hui-ling, James Schamus
+| {{nom}}
+|-
+| rowspan="2" |[[National Board of Review]]
+|[[National Board of Review Award for Best Foreign Language Film|Best Foreign Language Film]]
+|{{N/A}}
+|{{won}}
+|-
+|Top Foreign Films
+|{{N/A}}
+|{{won}}
+|-
+| rowspan="6" | [[Independent Spirit Awards]]
+| [[Independent Spirit Award for Best Feature|Best Feature]]
+| Hsu Li-kong, Ted Hope, James Schamus
+| {{nom}}
+|-
+| [[Independent Spirit Award for Best Director|Best Director]]
+| Ang Lee
+| {{nom}}
+|-
+| [[Independent Spirit Award for Best Male Lead|Best Male Lead]]
+| Sihung Lung
+| {{nom}}
+|-
+| [[Independent Spirit Award for Best Female Lead|Best Female Lead]]
+| Wu Chien-lien
+| {{nom}}
+|-
+| [[Independent Spirit Award for Best Screenplay|Best Screenplay]]
+| Ang Lee, Wang Hui-ling, James Schamus
+| {{nom}}
+|-
+| [[Independent Spirit Award for Best Cinematography|Best Cinematography]]
+| Jong Lin
+| {{nom}}
+|}
+
+== Legacy ==
+''[[Tortilla Soup]]'', a 2001 American comedy-drama film directed by Maria Ripoll, is based on ''Eat Drink Man Woman''. A semi-sequel, ''Eat Drink Man Woman 2012'' [饮食男女2012] (billed as ''Joyful Reunion'' in English) was released, with Jui-Yuan Tsao, producer for the original film, serving as director,<ref>{{Cite web|url=http://www.taipeitimes.com/News/feat/archives/2012/03/23/2003528469|title = Movie review: Joyful Reunion (飲食男女— 好遠又好近) - Taipei Times|date = March 23, 2012}}</ref> and a new set of characters exploring similar themes.<ref>{{Cite web|url=https://variety.com/2012/scene/markets-festivals/joyful-reunion-1117947301/|title=Joyful Reunion|date=March 27, 2012}}</ref><ref name="Chang2"/><ref>{{cite web|last=Ho|first=Yi|date=Mar 23, 2012|title=Movie review: Joyful Reunion (飲食男女— 好遠又好近)|url=http://taipeitimes.com/News/feat/archives/2012/03/23/2003528469|url-status=live|archive-url=https://web.archive.org/web/20120801223943/http://www.taipeitimes.com:80/News/feat/archives/2012/03/23/2003528469 |archive-date=August 1, 2012 }}</ref>
+
+The film was adapted off-screen as well. In 2019, produced by PerfectMatch Theatre co., LTD, the National Kaohsiung Centre for the Arts put on a musical production titled, ''Eat Drink Man Woman: The Musical''. The musical is a direct adaptation of the film. With a total runtime of 160 minutes, the production strived to showcase as many iconic aspects from Ang Lee's film, such as the character's unique qualities and the beauty of food, through song and dance as possible. Unfortunately, the musical only ran for a recorded three days in September 2019; the production had a total of one night showing and two matinees.<ref>{{Cite web|title=Eat Drink Man Woman, the musical - Programs {{!}} National Kaohsiung Center for the Arts (Weiwuying)|url=https://www.npac-weiwuying.org/programs/5d2ef1162f7e790006461eea|access-date=2021-06-14|website=www.npac-weiwuying.org|language=en}}</ref>
+
+== Father Knows Best trilogy ==
+''Eat Drink Man Woman'' is Ang Lee's third feature film and forms the final part of his ‘Father Knows Best’ Trilogy, following ''[[Pushing Hands (film)|Pushing Hands]]'' (1991) and ''[[The Wedding Banquet]]'' (1993). All three films depict a clash between cultures like youth and old age, tradition and progress, east and west, and investigate the freedoms and constraints inherent in family structures particularly those between fathers, daughters and sons.<ref>{{Citation|last=Schwartz|first=Susan E.|chapter=Idealization of father – a tomb of illusion|date=2020-11-29|chapter-url=http://dx.doi.org/10.4324/9780429343728-11|title=The Absent Father Effect on Daughters|pages=110–116|location=New York|publisher=Routledge|doi=10.4324/9780429343728-11|isbn=978-0-429-34372-8|s2cid=225116337|access-date=2021-06-14|chapter-url-access=subscription}}</ref> Si-hung Lung takes the place of a father in all three films - here as Mr. Zhu, a retired master chef - and He had used it as the motif (idealization of the household's head) to resolve all the contradictions and conflict that happened within the family members. The trilogy also takes the repression of individual desire in the face of social pressure as one of its central themes.
+
+==See also==
+* [[List of submissions to the 67th Academy Awards for Best Foreign Language Film]]
+* [[List of Taiwanese submissions for the Academy Award for Best Foreign Language Film]]
+
+==Notes==
+{{reflist|group=N}}
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{cite book |last=Vick |first=Tom |title=Asian Cinema: A Field Guide |publisher=Harper Perennial |location=New York |year=2008 |isbn=978-0061145858 |url-access=registration |url=https://archive.org/details/asiancinemafield0000vick}}
+* Dariotis, Wei Ming and Eileen Fung. "Breaking the Soy Sauce Jar: Diaspora and Displacement in the Films of Ang Lee." in: Lu, Sheldon Hsiao-peng (Xiaopeng) (editor). ''[[Transnational Chinese Cinemas: Identity, Nationhood, Gender]]''. [[University of Hawaii Press]], 1 January 1997. {{ISBN|0824818458}}, 9780824818456.
+{{refend}}
+
+==External links==
+* {{IMDb title|0111797|Eat Drink Man Woman}}
+* {{rotten-tomatoes|eat_drink_man_woman|Eat Drink Man Woman}}
+* {{mojo title|eatdrinkmanwoman|Eat Drink Man Woman}}
+* {{AFI film|id=65075|title=Eat Drink Man Woman}}
+
+{{Ang Lee}}
+{{National Board of Review Award for Best Foreign Language Film}}
+{{Taiwanese submissions for the Academy Award}}
+{{Authority control}}
+
+[[Category:1994 films]]
+[[Category:1994 comedy-drama films]]
+[[Category:American comedy-drama films]]
+[[Category:Taiwanese comedy-drama films]]
+[[Category:1994 Mandarin-language films]]
+[[Category:Cooking films]]
+[[Category:American interfaith romance films]]
+[[Category:Films directed by Ang Lee]]
+[[Category:Films with screenplays by Ang Lee]]
+[[Category:Films with screenplays by James Schamus]]
+[[Category:1994 independent films]]
+[[Category:Films shot in Taipei]]
+[[Category:The Samuel Goldwyn Company films]]
+[[Category:Central Motion Picture Corporation films]]
+[[Category:1994 American films]]
+[[Category:Chinese-language American films]]
+[[Category:1990s Taiwanese films]]

@@ -1,0 +1,53 @@
+{{Infobox film
+| name           = Silvestre
+| image          = Silvestre (film).jpeg
+| director       = [[João César Monteiro]]
+| writer         = João César Monteiro
+| starring       = [[Maria de Medeiros]]
+| music          = Teresa Caldas <br />  João César Monteiro <br />  [[Manuela Viegas]]
+| cinematography = [[Acácio de Almeida]]
+| editing        = 
+| producer       = [[Paulo Branco]]
+| based_on       = 
+| released       = {{Film date|1981}}
+| language       = Portuguese
+}}
+'''''Silvestre''''' is a 1981 Portuguese [[drama film]] directed by [[João César Monteiro]]. It was the debut film of [[Maria de Medeiros]].<ref>{{cite news|last1=Gilberto Silva Jr.|title=Silvestre|url=http://www.contracampo.com.br/62/silvestre.htm|access-date=1 November 2015|work=Contracampo}}</ref><ref>{{cite book|last1=José de Matos Cruz|title=Cinema português: o dia do século|year=1998|publisher=Grifo, 1998|isbn=9728178190}}</ref>
+
+The film was entered into the main competition at the [[38th Venice International Film Festival|38th edition]] of the [[Venice Film Festival]].<ref>[[Adriano Aprà]], Giuseppe Ghigi, Patrizia Pistagnesi. ''Cinquant'anni di cinema a Venezia''. La Biennale di Venezia, 1982. {{ISBN|8820802988}}.</ref>
+
+== Plot ==
+The film is based in a fusion of the [[Portugal|Portuguese]] version of an [[Romancero|Iberian ballad]] with a [[Mulan]]-style plot (because a man from a knightly family is too old to answer the call of his kingdom to go to war, his daughter dresses-up as a man and fights as his son), ''A donzela guerreira'' ("The Warrior Maiden"), and a Portuguese [[Bluebeard]] or [[The Robber Bridegroom (fairy tale)|The Robber Bridegroom]] variant (where the spouse-killing villain has a hand cut off in the first encounter with the leading lady, and then comes back under a respectable identity), ''A mão do finado'' ("The Deadman's Hand").<ref>[https://www.cinematheque.fr/film/43763.html «Silvestre (João César Monteiro, 1981) - La Cinémathèque française»]. www.cinematheque.fr. Retrieved October 21, 2025</ref><ref>[https://mubi.com/en/pt/films/silvestre Silvestre]. [[MUBI]].com. Retrieved October 21, 2025</ref>
+
+In [[15th century]] Portugal, The daughters of nobleman Don Rodrigo ([[João Guedes]]) give shelter to a stranger identifying himself as the pilgrim on the [[Camino de Santiago|Saint James Way]] ([[Luís Miguel Cintra]]) during their father's absence (despite his warnings for them to open the doors to no one).<ref>de Matos-Cruz, José (1999). ''Cais do Olhar''. [S.l.]: Cinemateca Portuguesa. "1981" entry.</ref> After that visit leads to the (hinted) rape of her sister ([[Teresa Madruga]]), the youngest daughter Sílvia ([[Maria de Medeiros]]) severs his hand to save herself from assault, keeping the man's hand as a token, hidden at home.
+
+After their father returns (the sisters hiding what transpired in his absence from him), the engagement of Sílvia to a foppish suitor ([[Jorge Silva Melo]]) is celebrated. The ceremony is interrupted by a knight, who asks for Sílvia's hand. Don Rodrigo agrees, if he can kill the dragon Sílvia raised as a pet, which he does (his triumph is shown just in a still tableau showing Sílvia facing the dead dragon and the knight on horse, the knight on horse then advancing some inches before the scene ends; this scene forms the film's poster). Sílvia and her sister Susana go live at the knight's castle, where they discover that he is the pilgrim (actually, a robber gang chief) who took another form to take revenge on them.<ref>Portugal, Rádio e Televisão de. [https://www.rtp.pt/programa/tv/p34726 «Silvestre - Filmes - RTP»]. www.rtp.pt. Retrieved October 21, 2025</ref> Susana helps Sílvia escape, and then joins her back at her father's manor.
+
+By now the nobleman had gone missing, kidnapped, and the king (a, mostly voice, cameo by the director João César Monteiro) orders his [[Army|hosts]] to march on in the search of Don Rodrigo and the fight against his enemies. Against her sister's warnings, Sílvia poses as a knight called "Silvestre" to save him. During the war, "Silvestre" grows near to her [[Alférez|Alferes]] (a rank equivalent to the ancient French-inspired continental European [[Furir|fourier]] or the Anglo-Saxon [[colour sergeant]] or [[Ensign (rank)|ensign]] ([[Xosé Maria Straviz]]). After an injury, the Alferes discovers her gender. Despite her father not being found, she returns to female civilian life at court and is now in love with her former host commanding officer. A stranger comes to court, introducing himself as the scion of a long outcast courtly line, Don Raimundo Montenegro, introducing himself as middleman to negotiate Don Rodrigo's release in exchange for "the warrior maiden's" hand in marriage. Sílvia accepts and in the ceremony, again by her father, mid feasting, Susana reveals to Don Raimundo the severed hand, unmasking him as the same ([[undead]] entity?) who took the form of the pilgrim and the knight. In trying to attack Sílvia, the Alferes saves her life, allowing them a happy ending in which they walk away from the remainder of the feast participants and walk into some sort of [[astral plane]].<ref>[http://www.contracampo.com.br/62/silvestre.htm Silvestre], in «contracampo :: revista de cinema». www.contracampo.com.br. Retrieved October 21, 2025</ref>
+
+== Cast == 
+   
+*[[Maria de Medeiros]]  as  Sílvia / Silvestre
+*[[Teresa Madruga]]  as  Susana
+*[[Luís Miguel Cintra]]  as  Pilgrim / Knight / D. Raimundo
+* Jorge Silva Melo   as  D. Paio
+* João Guedes  as  D. Rodrigo
+* Xosé Maria Straviz   as Lt. Alferes 
+* Ruy Furtado  as Matias
+* [[Raquel Maria]] as Marta
+* Cucha Carvalheiro   as Elsa
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb title|0083082}}
+
+[[Category:1981 drama films]]
+[[Category:1981 films]]
+[[Category:Portuguese drama films]]
+[[Category:Films produced by Paulo Branco]]
+[[Category:1980s Portuguese-language films]]
+[[Category:1980s Portuguese films]]
+{{1980s-drama-film-stub}}
+{{Portugal-film-stub}}

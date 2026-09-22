@@ -1,0 +1,518 @@
+{{for|the playwright|Barré Lyndon}}
+{{Short description|1975 film by Stanley Kubrick}}
+{{Use British English|date=March 2025}}
+{{Use dmy dates|date=March 2025}}
+{{Infobox film
+| name           = Barry Lyndon
+| image          = Barry Lyndon A.jpg
+| caption        = Re-release poster by Jouineau Bourduge
+| director       = [[Stanley Kubrick]]
+| producer       = Stanley Kubrick
+| screenplay     = Stanley Kubrick
+| based_on       = {{Based on|''[[The Luck of Barry Lyndon]]'' by [[William Makepeace Thackeray]]}}
+| starring       = {{Plainlist|
+* [[Ryan O'Neal]]
+* [[Marisa Berenson]]
+* [[Patrick Magee (actor)|Patrick Magee]]
+* [[Hardy Kruger]]
+* [[Diana Körner]]
+* [[Gay Hamilton]]
+}}
+| narrator       = [[Michael Hordern]]
+| cinematography = [[John Alcott]]
+| editing        = Tony Lawson
+| studio         = {{Plainlist|
+* [[Hawk Films]]
+* Peregrine Productions
+}}
+| distributor    = {{Plainlist|
+* [[Warner Bros. Pictures|Warner Bros.]] (United States)
+* [[Columbia Pictures|Columbia]]-Warner Distributors (United Kingdom)<ref name="bbfc" />
+}}
+| released       = {{Film date|df=y|1975|12|11|[[Vue West End|Warner West End]]|1975|12|18|United Kingdom and United States}}
+| runtime        = 185 minutes<!--Theatrical runtime: 185:03--><ref name="bbfc">{{cite web | url=https://www.bbfc.co.uk/release/barry-lyndon-q29sbgvjdglvbjpwwc0yodm5mzc | title=Barry Lyndon (A) | work=[[British Board of Film Classification]] | date=26 November 1975 | access-date=26 February 2022 | archive-date=27 February 2022 | archive-url=https://web.archive.org/web/20220227061637/https://www.bbfc.co.uk/release/barry-lyndon-q29sbgvjdglvbjpwwc0yodm5mzc | url-status=live }}</ref>
+| country        = {{Plainlist|
+* United Kingdom
+* United States
+}}
+| language       = English
+| budget         = $11–12 million<ref name="film">SECOND ANNUAL GROSSES GLOSS
+Byron, Stuart. Film Comment; New York Vol. 13, Iss. 2, (Mar/Apr 1977): 35-37, 64.</ref><ref name= "numbers"/>
+| gross          = $20.3 million<ref name="numbers">{{Cite web |url=https://www.the-numbers.com/movie/Barry-Lyndon |website=The Numbers|title=Barry Lyndon (1975) |access-date=20 December 2025 }}</ref>
+}}
+
+'''''Barry Lyndon''''' is a 1975 [[Epic film|epic]] [[historical drama]] film written, directed, and produced by [[Stanley Kubrick]], based on the 1844 novel ''[[The Luck of Barry Lyndon]]'' by [[William Makepeace Thackeray]].<ref name="BFIsearch">{{Cite web |title=Barry Lyndon |url=https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150046269 |access-date=21 August 2024 |website=British Film Institute Collections Search}}</ref> Narrated by [[Michael Hordern]], and starring [[Ryan O'Neal]], [[Marisa Berenson]], [[Patrick Magee (actor)|Patrick Magee]], [[Leonard Rossiter]], and [[Hardy Krüger]], the film recounts the early exploits and later unravelling of an 18th-century Irish rogue and [[gold digger]] who marries a rich widow in order to attempt to climb the social ladder and assume her late husband's aristocratic position.
+
+Kubrick began production on ''Barry Lyndon'' after his 1971 film ''[[A Clockwork Orange (film)|A Clockwork Orange]]''. He had originally intended to direct a [[Stanley Kubrick's unrealized projects#Napoleon|biopic on Napoleon]], but lost his financing because of the commercial failure of the similar 1970 [[Dino De Laurentiis]]–produced ''[[Waterloo (1970 film)|Waterloo]]''. Kubrick eventually directed ''Barry Lyndon'', set partially during the [[Seven Years' War]], utilising his research from the Napoleon project. Filming began in December 1973 and lasted roughly eight months, taking place in [[England]], [[Ireland]], and [[Germany]].
+
+The film's [[cinematography]] has been described as ground-breaking. Especially notable are the long [[Two shot|double shots]], usually ended with a slow backwards zoom, the scenes shot entirely in candlelight, and the settings based on [[William Hogarth]] paintings. The exteriors were filmed on location in England, Ireland, and Germany, with the interiors shot mainly in London.<ref name="production"/> The production had problems related to logistics, weather,<ref name="production">{{cite web|url=https://www.independent.co.uk/arts-entertainment/films/marisa-berenson-on-the-making-of-barry-lyndon-kubrick-wasnt-a-difficult-ogre-he-was-a-perfectionist-a7134716.html|website=[[The Independent]]|title=Marisa Berenson on the making of Barry Lyndon: Kubrick wasn't a 'difficult ogre – he was a perfectionist'|date=13 July 2016|access-date=20 June 2020|archive-date=20 August 2016|archive-url=https://web.archive.org/web/20160820023434/http://www.independent.co.uk/arts-entertainment/films/marisa-berenson-on-the-making-of-barry-lyndon-kubrick-wasnt-a-difficult-ogre-he-was-a-perfectionist-a7134716.html|url-status=live}}</ref> and politics (Kubrick feared that he might be an [[Provisional Irish Republican Army|IRA]] hostage target).<ref name="Whitington"/><ref name="rte"/>
+
+''Barry Lyndon'' won four Oscars at the [[48th Academy Awards]]: [[Academy Award for Best Original Score|Best Scoring: Original Song Score and Adaptation or Scoring: Adaptation]], [[Academy Award for Best Costume Design|Best Costume Design]], [[Academy Award for Best Production Design|Best Art Direction]], and [[Academy Award for Best Cinematography|Best Cinematography]], while Kubrick himself was nominated for [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Director|Best Director]] and [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]. Although some critics took issue with the film's slow pace and restrained emotion, its reputation, like that of many of Kubrick's works, has grown over time, and it is widely considered one of the [[list of films voted the best|greatest films of all time.]] In the [[The Sight and Sound Greatest Films of All Time 2022|2022 ''Sight & Sound'' Greatest Films of All Time]] poll, ''Barry Lyndon'' placed 12th in the directors' poll and 45th in the critics' poll.
+
+==Plot==
+===Part I: ''"By What Means Redmond Barry Acquired the Style and Title of Barry Lyndon"''===
+In 1750, in the [[Kingdom of Ireland]],<!--- there is literally no reason to shorten/remove this, remember how common geo-historical illiteracy is --> Redmond Barry's father is killed in a [[duel]]. Barry, of a genteel but impoverished [[Irish Protestant]] family,<ref>{{Cite web|url=https://www.theburkean.ie/articles/2022/06/07/barry-lyndon-cinema-from-the-big-house|title=Barry Lyndon: Cinema From The Big House|date=7 June 2022}}</ref> becomes infatuated with his cousin Nora Brady, and shoots her suitor, [[Irish Army (1661–1801)|Army]] captain John Quin, in a duel. He flees but is robbed by [[highwaymen]] on his way to [[Dublin]]. Penniless, Barry enlists in the Army. Family friend Captain Grogan informs him that Quin is not dead: the duel was staged, Barry's bullet having been swapped for a [[Tow (fibre)|plug of tow]], so that Nora's family could get rid of Barry and improve their finances through her marriage to Quin.
+
+Barry serves with his regiment in Germany during the [[Seven Years' War]], but [[desertion|deserts]] after Grogan dies in combat against [[French Royal Army|the French]]. Absconding with a lieutenant's horse and uniform, Barry has a brief affair with Frau Lieschen, a married German peasant woman. On his way to [[Bremen]], he encounters Captain Potzdorf, who sees through his attempted deception and [[Impressment|impresses]] him into the [[Prussian Army]]. Barry later saves Potzdorf's life and receives a commendation from [[Frederick the Great]].
+
+At the end of the war, Barry is recruited by Captain Potzdorf's uncle into the Prussian Ministry of Police. The Prussians suspect that the Chevalier de Balibari, an Austrian [[diplomat]] and professional gambler, is in fact an Irishman and a spy for Empress [[Maria Theresa]], and assign Barry to become his manservant. An emotional Barry confides everything to the Chevalier and they become confederates. After they win an enormous sum from the Prince of Tübingen at cards, the Prince correctly accuses the Chevalier of cheating (though without proof), refuses to pay his debt, and [[Duel#Offence and satisfaction|demands satisfaction]]. To avoid a scandal, the Ministry of Police quietly escorts the Chevalier outside Prussian borders, which allows Barry, disguised as the Chevalier, to leave the country as well, the Chevalier himself having uneventfully crossed the border the night before.
+
+Barry and the Chevalier travel across Europe, perpetrating similar gambling scams, with Barry forcing payment from debtors with sword duels. In [[Spa, Belgium|Spa]], he encounters the beautiful, wealthy, and visibly depressed Lady Lyndon. He seduces her, and goads her elderly husband Sir Charles Lyndon to death with verbal repartee.
+
+This is followed by an intermission.
+
+===Part II: ''"Containing an Account of the Misfortunes and Disasters Which Befell Barry Lyndon"''===
+In 1773, Barry marries Lady Lyndon, adds her last name to his and settles in England. The Countess bears Barry a son, Bryan Patrick, whom Barry spoils. The marriage is unhappy: Barry is openly unfaithful and squanders his wife's wealth while keeping her in seclusion. Lord Bullingdon, Lady Lyndon's son by Sir Charles, still grieves for his father and sees Barry as a rake who married his mother as a means to improve his standing and wealth. Barry responds with years of escalating [[Psychological abuse|emotional]] and [[physical abuse]].
+
+Barry's mother comes to live with him and warns him that if Lady Lyndon dies, Bullingdon will inherit everything. She advises her son to obtain a title. To this end, Barry cultivates the influential Earl of Wendover and spends even larger sums of Lady Lyndon's money to ingratiate himself with [[high society]]. Bullingdon, now a young adult, interrupts a society party Barry throws. He publicly accuses his stepfather of infidelity, abuse, and financial mismanagement, and announces that he will leave the Lyndon estate for as long as Barry remains there. Barry responds by attacking Bullingdon until they are physically separated by the party attendees. In the aftermath, Barry is ostracised by the British well-to-do and plunges further into financial ruin.
+
+Barry arranges to give Bryan a full-grown horse for his ninth birthday. An impatient Bryan rides the horse unaccompanied and dies from complications following a riding accident. Barry sinks into [[alcoholism]], while Lady Lyndon seeks religious counseling from clergyman Samuel Runt, who had been tutor to Bullingdon and Bryan and a longtime companion of Lady Lyndon. When Barry's mother dismisses Runt to keep her son from losing control, Lady Lyndon attempts suicide. Runt and Graham, the family's steward, write to Bullingdon, who returns to the estate and challenges his stepfather to a duel.
+
+When the duel takes place, Bullingdon's first shot is an accidental misfire. Instead of exploiting his stepson's mistake, Barry deliberately [[Delope|fires into the ground]]. This gives Bullingdon grounds to claim satisfaction and end the duel, which he refuses. Bullingdon fires again, shooting Barry in the leg. This wound forces Barry to have an amputation below the knee. While Barry is recovering, Bullingdon takes control of the Lyndon estate. Through Graham, he reminds Barry that his credit is exhausted and offers him 500 [[Guinea (coin)|guineas]] a year to leave Lady Lyndon, her estates, and England forever. Barry grudgingly accepts and resumes his former gambling profession, but without any real success. In December 1789, Lady Lyndon signs Barry's annuity cheque as her son looks on.
+
+===''"Epilogue"''===
+It was in the reign of George III that the aforesaid personages lived and quarreled; good or bad, handsome or ugly, rich or poor they are all equal now.
+
+==Cast==
+{{multiple image
+ | direction = vertical
+ | width = 340
+ | footer = Costumes worn in ''Barry Lyndon''
+ | image1 = Suits.BarryLyndon.jpg
+ | alt1 = Two suits hung on valet stands in a display exhibit, a black one on the left and a tan one on the right
+ | image2 = Barrylyndon.suits2.jpg
+ | alt2 = Two suits hung on valet stands in a display exhibit, a red one on the left and a white one with red cuffs on the right
+}}
+
+{{cast listing|
+* [[Michael Hordern]] (voice) as Narrator
+* [[Ryan O'Neal]] as Redmond Barry (later Redmond Barry Lyndon)
+* [[Marisa Berenson]] as Lady Honoria Lyndon
+* [[Patrick Magee (actor)|Patrick Magee]] as the Chevalier de Balibari
+* [[Hardy Krüger]] as Captain Potzdorf
+* [[Gay Hamilton]] as Nora Brady
+* [[Godfrey Quigley]] as Captain Grogan
+* [[Steven Berkoff]] as Lord Ludd
+* [[Marie Kean]] as Belle, Barry's mother
+* [[Murray Melvin]] as Reverend Samuel Runt
+* [[Frank Middlemass]] as Sir Charles Reginald Lyndon
+* [[Leon Vitali]] as Lord Bullingdon
+* [[Dominic Savage]] as young Bullingdon
+* [[Leonard Rossiter]] as Captain John Quin
+* [[André Morell]] as Lord Wendover
+* [[Anthony Sharp]] as Lord Hallam
+* [[Philip Stone]] as Graham
+* [[David Morley (musician)|David Morley]] as Bryan Patrick Lyndon
+* [[Diana Körner|Diana Koerner]] as Lieschen (German Girl)
+* [[Arthur O'Sullivan]] as Captain Feeney
+* [[Billy Boyle]] as Seamus Feeney
+* [[Jonathan Cecil]] as Lt. Jonathan Fakenham
+* [[Peter Cellier]] as Sir Richard Brevis
+* [[Geoffrey Chater]] as Dr Broughton
+* [[Wolf Kahler]] as Prince of Tübingen
+* [[Liam Redmond]] as Mr Brady
+* [[Roger Booth (actor)|Roger Booth]] as King [[George III]]
+* [[Ferdy Mayne]] as Colonel Bulow
+* [[John Sharp (actor)|John Sharp]] as Doohan
+* [[Pat Roach]] as Corporal Toole
+* [[Hans Meyer (actor)|Hans Meyer]] as Schulffen
+}}
+Critic Tim Robey suggests that the film "makes you realise that the most undervalued aspect of Kubrick's genius could well be his way with actors."<ref name="TelegraphReview"/> He adds that the [[Supporting character|supporting cast]] is a "glittering procession of [[Cameo appearance|cameo]]s, not from star names but from vital character players."<ref name="TelegraphReview"/>
+
+Leon Vitali, who played the older Lord Bullingdon, later became Kubrick's [[personal assistant]], working as the [[casting director]] on his following films and supervising film-to-video transfers. Their relationship lasted until Kubrick's death. The film's cinematographer, [[John Alcott]], appears at the men's club in the non-speaking role of the man asleep in a chair near the title character when Lord Bullingdon challenges Barry to a duel. Kubrick's daughter [[Vivian Kubrick|Vivian]] also appears (in an uncredited role) as a guest at Bryan's birthday party.
+
+Other Kubrick featured regulars were Leonard Rossiter (''[[2001: A Space Odyssey]]''), Steven Berkoff, Patrick Magee, Godfrey Quigley, Anthony Sharp, and Philip Stone (''[[A Clockwork Orange (film)|A Clockwork Orange]]''). Stone went on to feature in ''[[The Shining (film)|The Shining]]''.
+
+==Thematic analysis==
+A main theme explored in ''Barry Lyndon'' is one of fate and destiny. Barry is pushed through life by a series of key events, some of which seem unavoidable. As critic [[Roger Ebert]] says, "He is a man to whom things happen."<ref name="ebert 2009" /> He declines to eat with the highwayman Captain Feeney, where he would most likely have been robbed, but is robbed anyway farther down the road. The narrator repeatedly emphasizes the role of fate as he announces events before they unfold on screen, like Bryan's death and Bullingdon seeking satisfaction. This theme of fate is also developed in the recurring motif of the painting. Just like the events featured in the paintings, Barry is participating in events which always were.
+
+Another major theme is between father and son. Barry lost his father at a young age and throughout the film he seeks and attaches himself to father-figures. Examples include his uncle, Grogan, and the Chevalier. When given the chance to be a father, Barry loves his son to the point of spoiling him. This contrasts with his role as a (step)father to Lord Bullingdon, whom he disregards and punishes.<ref name="ebert 2009" /><ref>{{cite web |url=https://www.dazeddigital.com/artsandculture/article/32367/1/why-barry-lyndon-is-stanley-kubrick-s-seminal-masterpiece |title=Why Barry Lyndon is Stanley Kubrick's secret masterpiece |author=Charlie Graham-Dixon |date=8 August 2016 |website=Dazed |access-date=10 February 2019 |archive-date=12 February 2019 |archive-url=https://web.archive.org/web/20190212012851/https://www.dazeddigital.com/artsandculture/article/32367/1/why-barry-lyndon-is-stanley-kubrick-s-seminal-masterpiece |url-status=live }}</ref><ref>{{cite news|url=https://www.theguardian.com/film/2016/jul/28/barry-lyndon-review-stanley-kubrick-ryan-o-neal|title=Barry Lyndon review – Kubrick's intimate epic of utter lucidity|first=Peter|last=Bradshaw|date=28 July 2016|newspaper=[[The Guardian]]|access-date=9 December 2018|archive-date=10 December 2018|archive-url=https://web.archive.org/web/20181210064726/https://www.theguardian.com/film/2016/jul/28/barry-lyndon-review-stanley-kubrick-ryan-o-neal|url-status=live}}</ref>
+
+==Production==
+===Development===
+After completing post production on ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'', Kubrick resumed planning a film about [[Napoleon]]. During pre-production, [[Sergei Bondarchuk]] and [[Dino De Laurentiis]]'s ''[[Waterloo (1970 film)|Waterloo]]'' was released, and failed at the box office. Reconsidering, Kubrick's financiers pulled funding, and he turned his attention towards a [[A Clockwork Orange (film)|film adaptation]] of [[Anthony Burgess]]'s 1962 novel ''[[A Clockwork Orange (novel)|A Clockwork Orange]]''. Subsequently, Kubrick showed an interest in Thackeray's ''[[Vanity Fair (novel)|Vanity Fair]]'' but dropped the project when a serialised version for television was produced. He told an interviewer, "At one time, ''Vanity Fair'' interested me as a possible film but, in the end, I decided the story could not be successfully compressed into the relatively short time-span of a feature film ... as soon as I read ''Barry Lyndon'' I became very excited about it."<ref>{{cite web|first=Michel|title=Kubrick on Barry Lyndon|url=http://www.visual-memory.co.uk/amk/doc/interview.bl.html |access-date=31 May 2007|last=Ciment| archive-url= https://web.archive.org/web/20070505010625/http://www.visual-memory.co.uk/amk/doc/interview.bl.html| archive-date= 5 May 2007 | url-status=live}}</ref>
+
+Having earned Oscar nominations for ''[[Dr. Strangelove]]'', ''2001: A Space Odyssey'' and ''A Clockwork Orange'', Kubrick's reputation in the early 1970s was that of "a perfectionist [[auteur]] who loomed larger over his movies than any concept or star".<ref name="TelegraphReview">{{Cite news|last=Robey|first=Tim|date=27 July 2016|title=Kubrick by candlelight: how Barry Lyndon became a gorgeous, period-perfect masterpiece|language=en-GB|work=The Telegraph|url=https://www.telegraph.co.uk/films/2016/07/27/kubrick-by-candlelight-how-barry-lyndon-became-a-gorgeous-period/|access-date=12 May 2020|issn=0307-1235|archive-url=https://web.archive.org/web/20190826130615/https://www.telegraph.co.uk/films/2016/07/27/kubrick-by-candlelight-how-barry-lyndon-became-a-gorgeous-period/|archive-date=26 August 2019}}</ref> His studio—Warner Bros.—was therefore "eager to bankroll" his next project, which Kubrick kept "shrouded in secrecy" from the press partly due to the furor surrounding the controversially violent ''A Clockwork Orange'' (particularly in the UK) and partly due to his "long-standing paranoia about the [[tabloid press]]".<ref name="TelegraphReview"/> Kubrick was initially rumored to be developing an adaptation of [[Arthur Schnitzler]]'s 1926 novella ''[[Dream Story]]'', which would serve as the source material for his later film ''[[Eyes Wide Shut]]'' (1999).<ref name=":0">{{Cite web |title=Barry Lyndon |url=https://catalog.afi.com/Film/55666-BARRY-LYNDON-?cxt=filmography |access-date=2023-04-18 |website=AFI Catalog |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418045533/https://catalog.afi.com/Film/55666-BARRY-LYNDON-?cxt=filmography |url-status=live }}</ref>
+
+In 1972 Kubrick finally set his sights on Thackeray's 1844 "satirical [[picaresque]] about the fortune-hunting of an Irish rogue", ''The Luck of'' ''Barry Lyndon'', the setting of which allowed Kubrick to take advantage of the copious period research he had done for the now-aborted ''Napoleon''.<ref name="TelegraphReview"/><ref name=":0" /> At the time, Kubrick merely announced that his next film would star [[Ryan O'Neal]] (deemed "a seemingly un-Kubricky choice of leading man"<ref name="TelegraphReview"/>) and [[Marisa Berenson]], a former ''[[Vogue (magazine)|Vogue]]'' and ''[[Time (magazine)|Time]]'' magazine cover model,<ref name="Grdn2019">{{cite news |last=Saner |first=Emine |title='I did the first nude in Vogue': Marisa Berenson on being a blazing star of the 70s and beyond: Interview |url=https://www.theguardian.com/film/2019/oct/30/marisa-berenson-warhol-dali-vogue-cabaret |access-date=25 November 2019 |work=The Guardian |date=30 October 2019 |archive-date=16 November 2019 |archive-url=https://web.archive.org/web/20191116022317/https://www.theguardian.com/film/2019/oct/30/marisa-berenson-warhol-dali-vogue-cabaret |url-status=live }}</ref> and be shot largely in Ireland.<ref name="TelegraphReview"/> So heightened was the secrecy surrounding the film that "Even Berenson, when Kubrick first approached her, was told only that it was to be an 18th-century costume piece [and] she was instructed to keep out of the sun in the months before production, to achieve the period-specific pallor he required."<ref name="TelegraphReview"/>
+
+===Screenplay===
+Kubrick based his adapted screenplay on [[William Makepeace Thackeray]]'s ''[[The Luck of Barry Lyndon]]'' (republished as the novel ''Memoirs of Barry Lyndon, Esq.),'' a picaresque tale written and published in serial form in 1844.
+
+The film departs from the novel in several ways. In Thackeray's writings, events are related in the [[First-person narrative|first person]] by Barry himself. A comic tone pervades the work, as Barry proves both a [[raconteur]] and an [[unreliable narrator]]. Kubrick's film, by contrast, presents the story objectively. Though the film contains voice-over (by actor [[Michael Hordern]]), the comments expressed are not Barry's, but those of an [[omniscient narrator]]. Kubrick felt that using a first-person narrative would not be useful in a film adaptation:<ref>{{cite web|url=http://www.visual-memory.co.uk/amk/doc/interview.bl.html |title=Visual memory | place = UK | type = interview |access-date=7 March 2010| archive-url= https://web.archive.org/web/20100210204149/http://www.visual-memory.co.uk/amk/doc/interview.bl.html| archive-date= 10 February 2010 | url-status=live}}</ref>
+
+{{blockquote|I believe Thackeray used Redmond Barry to tell his own story in a deliberately distorted way because it made it more interesting. Instead of the omniscient author, Thackeray used the imperfect observer, or perhaps it would be more accurate to say the dishonest observer, thus allowing the reader to judge for himself, with little difficulty, the probable truth in Redmond Barry's view of his life. This technique worked extremely well in the novel but, of course, in a film you have objective reality in front of you all of the time, so the effect of Thackeray's first-person story-teller could not be repeated on the screen. It might have worked as comedy by the juxtaposition of Barry's version of the truth with the reality on the screen, but I don't think that Barry Lyndon should have been done as a comedy.}}
+
+Kubrick made several changes to the plot, including the addition of the final duel.<ref>{{Cite web|date=2015-04-09|title=All hail Kubrick's 'Barry Lyndon,' a masterclass in bringing a unique filmmaker's vision to life • Cinephilia & Beyond|url=https://cinephiliabeyond.org/stanley-kubricks-barry-lyndon/|access-date=2021-07-22|website=Cinephilia & Beyond|language=en-US|archive-date=11 May 2021|archive-url=https://web.archive.org/web/20210511164517/https://cinephiliabeyond.org/stanley-kubricks-barry-lyndon/|url-status=live}}</ref>
+
+===Principal photography===
+[[Principal photography]] lasted 300 days, from spring 1973 through to early 1974, with a break for Christmas.<ref name =date>{{Cite book|title = Making Time in Stanley Kubrick's Barry Lyndon: Art, History, and Empire|url = https://books.google.com/books?id=0_I8BQAAQBAJ|publisher = Bloomsbury Academic|date = 18 December 2014|isbn = 9781441167750|language = en|first = Maria|last = Pramaggiore}}</ref> Kubrick initially wished to film the entire production near his home in [[Borehamwood]], but Ken Adam convinced him to relocate the shoot to [[Ireland]].<ref name=":0" /> The crew arrived in Dublin in May 1973. [[Jan Harlan]] recalls that Kubrick "loved his time in Ireland – he rented a lovely house west of Dublin, he loved the scenery and the culture and the people".
+<ref name="Whitington">{{cite web|url=https://www.independent.ie/entertainment/movies/kubrick-in-ireland-the-making-of-barry-lyndon-31073211.html|access-date=12 January 2019|date=22 March 2015|work=[[The Independent]]|title=Kubrick in Ireland: the making of Barry Lyndon|first1=Paul|last1=Whitington|archive-date=22 September 2018|archive-url=https://web.archive.org/web/20180922141221/https://www.independent.ie/entertainment/movies/kubrick-in-ireland-the-making-of-barry-lyndon-31073211.html|url-status=live}}</ref>
+
+Many of the exteriors were shot in Ireland, playing "itself, England, and [[Prussia]] during the [[Seven Years' War]]".<ref name="TelegraphReview"/> Kubrick and cinematographer Alcott drew inspiration from "the [[landscape painting|landscape]]s of [[Watteau]] and [[Thomas Gainsborough|Gainsborough]]", and also relied on the [[art director|art direction]] of [[Ken Adam]] and [[Roy Walker (production designer)|Roy Walker]].<ref name="TelegraphReview"/> Alcott, Adam and Walker were among those who would win [[Academy Awards|Oscars]] for their work on the film.<ref name="TelegraphReview"/><ref>{{Cite web |url=https://m.youtube.com/watch?v=fKUnAJ-05lI |title=John Alcott winning the Oscar® for Cinematography for "Barry Lyndon" – Oscars on YouTube |website=[[YouTube]] |date=7 November 2012 |access-date=23 June 2022 |archive-date=8 August 2022 |archive-url=https://web.archive.org/web/20220808133523/https://m.youtube.com/watch?v=fKUnAJ-05lI |url-status=live }}</ref>
+
+Several of the interior scenes were filmed in [[Powerscourt Estate|Powerscourt House]], an 18th-century mansion in [[County Wicklow]]. The house was destroyed in an accidental fire several months after filming (November 1974), so the film serves as a record of the lost interiors, particularly the "Saloon" which was used for more than one scene. The [[Wicklow Mountains]] are visible, for example, through the window of the saloon during a scene set in Berlin. Other locations included [[Kells Priory]], [[County Kilkenny]] (the English [[Redcoat (British army)|Redcoat]] encampment);<ref>{{cite web|url=http://www.movie-locations.com/movies/b/BarryLyndon.html#kells|work=Movie-locations.com|title=Barry Lyndon film locations|access-date=6 May 2012|archive-url=https://web.archive.org/web/20170716220534/http://www.movie-locations.com/movies/b/BarryLyndon.html#kells|archive-date=16 July 2017|url-status=dead}}</ref> [[Huntington Castle, Clonegal|Huntington Castle]], [[County Carlow]] (exterior) and [[Dublin Castle]], [[County Dublin]] (the chevalier's home). Some exterior shots were also filmed at [[Waterford Castle]], [[County Waterford]] (now a luxury hotel and golf course) and [[Little Island, Waterford]]. [[Moorstown Castle]] in [[County Tipperary]] also featured. Several scenes were filmed at [[Castletown House]] in [[Celbridge]], [[County Kildare]]; outside [[Carrick-on-Suir]], [[County Tipperary]], and at [[Youghal]], [[County Cork]].
+
+The filming took place in the backdrop of some of the most intense years of [[the Troubles]] in Ireland, during which the [[Provisional Irish Republican Army]] (Provisional IRA) was waging an armed campaign in order to unite the island. On 30 January 1974, while filming in Dublin City's [[Phoenix Park]], shooting had to be cancelled due to the chaos caused by 14 bomb threats.<ref name = date/> One day a phone call was received and Kubrick was given 24 hours to leave the country; he left within 12 hours. The phone call alleged that the Provisional IRA had him on a hit list and Harlan recalls: "Whether the threat was a hoax or it was real, almost doesn't matter ... Stanley was not willing to take the risk. He was threatened, and he packed his bag and went home."<ref name="rte">{{cite web|url=https://www.rte.ie/entertainment/2015/0320/688601-ryan-oneal-stanley-kubrick/|title=Ryan O'Neal tells TEN about Kubrick's IRA fears|date=20 March 2015 |publisher=RTÉ|access-date=13 August 2018|archive-date=13 August 2018|archive-url=https://web.archive.org/web/20180813143309/https://www.rte.ie/amp/688601/|url-status=live}}</ref><ref name="Whitington" /> Production of the film was one-third completed when this occurred, and it was rumored that the film would be abandoned. Nonetheless, Kubrick continued shooting the remainder of the film at locations in England, mainly [[southern England]], and in [[Scotland]], [[West Germany]], and [[East Germany]].<ref name=":0" />
+
+Locations in England include [[Blenheim Palace]], [[Oxfordshire]]; [[Castle Howard]], [[North Yorkshire]] (exteriors of the Lyndon estate, "Castle Hickham"); [[Corsham Court]], [[Wiltshire]] (various interiors and the music room scene); [[Petworth House]], [[West Sussex]] (chapel); [[Stourhead]], Wiltshire (lake and temple); [[Longleat]], Wiltshire; [[Wilton House]], Wiltshire (interior and exterior) and [[Lavenham Guildhall]] at [[Lavenham]] in [[Suffolk]] (amputation scene). Filming took place at [[Dunrobin Castle]] (exterior and garden as [[Spa, Belgium|Spa]]) in [[Sutherland]], Scotland. Locations in West Germany include [[Ludwigsburg Palace]] in [[Ludwigsburg]] and [[Hohenzollern Castle]] in [[Hechingen]], both near [[Stuttgart]]. [[Frederick the Great|Frederick II of Prussia]]'s [[New Palace (Potsdam)|Neues Palais]] at [[Potsdam]] near Berlin, at the time East Germany, was also used as a location (suggesting Berlin's main street [[Unter den Linden]] as construction in Potsdam had just begun in 1763).<ref>{{cite web | url=https://movie-locations.com/movies/b/Barry-Lyndon.php | title=Filming Locations for Stanley Kubrick's Barry Lyndon (1975), in Ireland, Wiltshire, Dorset, Oxfordshire, Sussex, Somerset, Suffolk, Yorkshire, Scotland and Germany }}</ref>
+
+===Cinematography===
+[[File:Barry12.jpg|thumb|Special [[Lens speed|ultra-fast lenses]] were used for ''Barry Lyndon'' to allow filming using only natural light.]]
+[[File:Marriage A-la-Mode 2, The Tête à Tête - William Hogarth.jpg|thumb|''[[Marriage à-la-mode (Hogarth)|Marriage à-la-mode]]'', ''[[Marriage à-la-mode: 2. The Tête à Tête|Shortly After the Marriage]]'' (scene two of six).]]
+[[File:William Hogarth 035.jpg|thumb|Hogarth's ''Country Dance'' (c.1745) illustrates the type of interior scene that Kubrick sought to emulate with ''Barry Lyndon''.]]
+The film, as with "almost every Kubrick film", is a "showcase for [a] major innovation in technique".<ref name= "TelegraphReview" /> While ''2001: A Space Odyssey'' had featured "revolutionary effects", and ''The Shining'' would later feature heavy use of the [[Steadicam]], ''Barry Lyndon'' saw a considerable number of sequences shot "without recourse to [[electric light]]".<ref name= "TelegraphReview" /> The film's [[cinematography]] was overseen by director of photography [[John Alcott]] (who won an Oscar for his work), and is particularly noted for the technical innovations that made some of its most spectacular images possible. To achieve photography without electric lighting "[f]or the many densely furnished interior scenes&nbsp;… meant shooting by [[candle]]light", which is known to be difficult in still photography, "let alone with moving images".<ref name= "TelegraphReview"/>
+
+Kubrick was "determined not to reproduce the set-bound, [[stage lighting instrument|artificially lit]] look of other [[costume drama]]s from that time".<ref name= "TelegraphReview"/> After "tinker[ing] with different combinations of [[Photographic lens|lenses]] and [[film stock]]," the production obtained three super-fast 50mm lenses ([[Carl Zeiss Planar 50mm f/0.7|Carl Zeiss Planar 50mm ''f''/0.7]]) developed by [[Carl Zeiss AG|Zeiss]] for use by [[NASA]] in the [[Apollo program|Apollo Moon landing]]s, which Kubrick had discovered.<ref name= "TelegraphReview"/><ref name= DiGiulio>[http://www.visual-memory.co.uk/sk/ac/len/page1.htm Two Special Lenses for "Barry Lyndon"] {{Webarchive|url=https://web.archive.org/web/20191113112409/http://www.visual-memory.co.uk/sk/ac/len/page1.htm |date=13 November 2019 }}, Ed DiGiulio (President, Cinema Products Corp.), ''American Cinematographer''</ref> These super-fast lenses "with their huge [[lens aperture|aperture]] (the film actually features the lowest [[f-number|f-stop]] in film history) and fixed [[focal length]]" were problematic to mount, and were extensively modified into three versions by [[Cinema Products Corporation]] for Kubrick to gain a wider angle of view, with input from optics expert Richard Vetter of [[Todd-AO]].<ref name="TelegraphReview"/><ref name= DiGiulio/> The rear element of the lens had to be 2.5&nbsp;mm away from the film plane, requiring special modification to the rotating camera shutter.<ref>{{cite web|last1=Ciment|first1=Michel|title=Three Interviews with Stanley Kubrick|url=http://www.visual-memory.co.uk/amk/doc/interview.bl.html|website=The Kubrick Site|access-date=15 January 2007|archive-date=4 July 2006|archive-url=https://web.archive.org/web/20060704093937/http://www.visual-memory.co.uk/amk/doc/interview.bl.html|url-status=live}}</ref> This allowed Kubrick and Alcott to shoot scenes lit in candlelight to an average lighting volume of only three [[candela]], "recreating the huddle and glow of a pre-electrical age".<ref name= "TelegraphReview"/> In addition, Kubrick had the entire film [[Push processing|push-developed]] by one stop.<ref name= DiGiulio/>
+
+Although Kubrick and Alcott sought to avoid electric lighting where possible, most shots were achieved with conventional lenses and lighting, but were lit to deliberately mimic natural light rather than for compositional reasons. In addition to potentially seeming more realistic, these methods also gave a particular period look to the film which has often been likened to 18th-century paintings (which of course depict a world devoid of electric lighting), in particular owing "a lot to [[William Hogarth]], with whom Thackeray had always been fascinated".<ref name= "TelegraphReview"/>
+
+The film is widely regarded as having a stately, static, painterly quality,<ref name= "TelegraphReview"/> mostly due to its lengthy, wide-angle long shots. To illuminate the more notable interior scenes, artificial lights called "Mini-Brutes" were placed outside and aimed through the windows, which were covered in a diffuse material to scatter the light evenly through the room rather than being placed inside for maximum use as most conventional films do. In some instances, the natural daylight was allowed to come through, which when recorded on the film stock used by Kubrick showed up as blue-tinted compared to the incandescent electric light.<ref name="Lightman">{{cite web |date=16 March 2018 |author=Herb A. Lightman |title=Photographing Stanley Kubrick's Barry Lyndon |url=https://ascmag.com/articles/flashback-barry-lyndon |website=[[American Cinematographer]] |quote=In some instances, I let the natural blue daylight come through in the background without correcting it. |access-date=16 September 2021 |archive-date=16 September 2021 |archive-url=https://web.archive.org/web/20210916153823/https://ascmag.com/articles/flashback-barry-lyndon |url-status=live }}</ref>
+
+Despite such slight tinting effects, this method of lighting not only gave the look of natural daylight coming in through the windows, but it also protected the historic locations from the damage caused by mounting the lights on walls or ceilings and the heat from the lights. This helped the film "fit&nbsp;... perfectly with Kubrick's [[wikt:gilded cage|gilded-cage]] aesthetic – the film is consciously a museum piece, its characters pinned to the frame like butterflies".<ref name= "TelegraphReview"/><ref name="Lightman" />
+
+===Music===
+{{Infobox album
+| name         = Barry Lyndon
+| type         = soundtrack
+| artist       = various artists
+| cover        =
+| alt          =
+| released     = {{Start date|df=yes|1975|12|27}}
+| recorded     =
+| venue        =
+| studio       =
+| genre        = [[Classical music|Classical]], [[Folk music|folk]]
+| length       = 49:48
+| label        = Warner Bros.
+| producer     = [[Leonard Rosenman]]
+| prev_title   =
+| prev_year    =
+| next_title   =
+| next_year    =
+}}
+
+The film's period setting allowed Kubrick to indulge his penchant for using classical music, and the film score includes pieces by [[Antonio Vivaldi|Vivaldi]], [[Johann Sebastian Bach|Bach]], [[George Frideric Handel|Handel]], [[Giovanni Paisiello|Paisiello]], [[Wolfgang Amadeus Mozart|Mozart]], and [[Franz Schubert|Schubert]].{{efn|The soundtrack album attributes the composition of the Hohenfriedberger March to Frederick II of Prussia; the origin of this attribution is uncertain.}} The piece most associated with the film, however, is the main title music, Handel's [[Keyboard suite in D minor (HWV 437)|Sarabande from the Keyboard suite in D minor (HWV 437)]]. Originally for solo [[harpsichord]], the versions for the main and end titles are performed with strings, timpani, and [[basso continuo|continuo]]. The score also includes [[Folk music of Ireland|Irish folk music]], including [[Seán Ó Riada]]'s song "[[Mná na hÉireann|Women of Ireland]]", arranged by [[Paddy Moloney]] and performed by [[The Chieftains]]. "[[The British Grenadiers]]" also features in scenes with Redcoats marching.
+
+{{Track listing
+| extra_column = Performer/conductor/arranger
+| total_length = 49:48
+| title1 = [[Keyboard suite in D minor (HWV 437)|Sarabande–Main Title]]
+| writer1 = [[George Frideric Handel]]
+| extra1 = [[National Philharmonic Orchestra]]
+| length1 = 2:38
+| title2 = [[Mná na hÉireann|Women of Ireland]]
+| writer2 = [[Seán Ó Riada]]
+| extra2 = [[The Chieftains]]
+| length2 = 4:08
+| title3 = Piper's Maggot Jig
+| writer3 = ''traditional''
+| extra3 = The Chieftains
+| length3 = 1:39
+| title4 = [[The Sea-Maiden]]
+| writer4 = ''traditional''
+| extra4 = The Chieftains
+| length4 = 2:02
+| title5 = Tin Whistles
+| writer5 = Ó Riada
+| extra5 = [[Paddy Moloney]] & [[Seán Potts]]
+| length5 = 3:41
+| title6 = [[The British Grenadiers]]
+| writer6 = ''traditional''
+| extra6 = Fifes & Drums
+| length6 = 2:12
+| title7 = [[Der Hohenfriedberger|Hohenfriedberger March]]
+| writer7 = [[Frederick the Great|Frederick II of Prussia]]
+| extra7 = Fifes & Drums
+| length7 = 1:12
+| title8 = [[Lillibullero]]
+| writer8 = ''traditional''
+| extra8 = Fifes & Drums
+| length8 = 1:06
+| title9 = Women of Ireland
+| writer9 = Ó Riada
+| extra9 = [[Derek Bell (musician)|Derek Bell]]
+| length9 = 0:52
+| title10 = March from ''[[Idomeneo]]''
+| writer10 = [[Wolfgang Amadeus Mozart]]
+| extra10 = National Philharmonic Orchestra
+| length10 = 1:29
+| title11 = Sarabande–Duel
+| writer11 = Handel
+| extra11 = National Philharmonic Orchestra
+| length11 = 3:11
+| title12 = Lillibullero
+| writer12 = ''traditional''
+| extra12 = Leslie Pearson
+| length12 = 0:52
+| title13 = German Dance no. 1 in C major
+| writer13 = [[Franz Schubert]]
+| extra13 = National Philharmonic Orchestra
+| length13 = 2:12
+| title14 = Sarabande–Duel
+| writer14 = Handel
+| extra14 = National Philharmonic Orchestra
+| length14 = 0:48
+| title15 = Film Adaptation of the Cavatina from ''[[The Barber of Seville (Paisiello)|Il barbiere di Siviglia]]''
+| writer15 = [[Giovanni Paisiello]]
+| extra15 = National Philharmonic Orchestra
+| length15 = 4:28
+| title16 = Cello Concerto in E minor (third movement)
+| writer16 = [[Antonio Vivaldi]]
+| extra16 = [[Lucerne Festival Strings]]/[[Pierre Fournier]]/[[Rudolf Baumgartner]]
+| length16 = 3:49
+| title17 = Adagio from ''[[Concerto for two harpsichords in C minor, BWV 1060|Concerto for two harpsichords in C minor]]''
+| writer17 = [[Johann Sebastian Bach]]
+| extra17 = [[Münchener Bach-Orchester]]/[[Hedwig Bilgram]]/[[Karl Richter (conductor)|Karl Richter]]
+| length17 = 5:10
+| title18 = Film Adaptation of ''[[Piano Trio No. 2 (Schubert)|Piano Trio in E-flat, op. 100]]'' (second movement)
+| writer18 = Schubert
+| extra18 = Moray Welsh/[[Anthony Goldstone]]/[[Ralph Holmes]]
+| length18 = 4:12
+| title19 = Sarabande–End Title
+| writer19 = Handel
+| extra19 = National Philharmonic Orchestra
+| length19 = 4:07
+}}
+
+====Charts====
+{| class="wikitable"
+!Chart (1976)
+!Position
+|-
+|Australia ([[Kent Music Report]])<ref name=aus>{{cite book|last=Kent|first=David|author-link=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=282}}</ref>
+|align="center"|99
+|}
+
+====Certifications====
+{{certification Table Top}}
+{{certification Table Entry|type=album|region=France|artist=B.O.F.|title=Barry Lindon|award=Platinum|certyear=2001|relyear=1976}}
+{{Certification Table Bottom | noshipments=true}}
+
+==Reception==
+===Contemporaneous===
+The film "was not the commercial success [[Warner Bros. Pictures|Warner Bros.]] had been hoping for" within the United States,<ref name= "TelegraphReview"/> although it fared better in Europe. In the US it earned $9.1 million.<ref name="film"/> 
+The film grossed a worldwide total of $20.3 million against a production budget of $11–12 million.<ref name= "film"/><ref name= "numbers"/>
+
+This mixed reaction saw the film (in the words of one retrospective review) "greeted, on its release, with dutiful admiration – but not love. Critics&nbsp;... rail[ed] against the perceived coldness of Kubrick's style, the film's self-conscious artistry and slow pace. Audiences, on the whole, rather agreed".<ref name="TelegraphReview"/>
+
+[[Roger Ebert]] gave the film three and a half stars out of four and wrote that it "is almost aggressive in its cool detachment. It defies us to care, it forces us to remain detached about its stately elegance." He added, "This must be one of the most beautiful films ever made."<ref>{{cite web |url=https://www.rogerebert.com/reviews/barry-lyndon-1974 |title=Barry Lyndon |last=Ebert |first=Roger |date=20 September 1975 |website=[[RogerEbert.com]] |access-date=17 December 2018 |archive-date=18 December 2018 |archive-url=https://web.archive.org/web/20181218010405/https://www.rogerebert.com/reviews/barry-lyndon-1974 |url-status=live }}</ref> [[Vincent Canby]] of ''[[The New York Times]]'' called the film "another fascinating challenge from one of our most remarkable, independent-minded directors."<ref>{{Cite news|last=Canby|first=Vincent|date=19 December 1975|title=Screen: Kubrick's 'Barry Lyndon' Is Brilliant in Its Images|language=en-US|work=The New York Times|url=https://www.nytimes.com/1975/12/19/archives/screen-kubricks-barry-lyndon-is-brilliant-in-its-images.html|access-date=11 May 2020|issn=0362-4331|archive-date=20 August 2020|archive-url=https://web.archive.org/web/20200820160320/https://www.nytimes.com/1975/12/19/archives/screen-kubricks-barry-lyndon-is-brilliant-in-its-images.html|url-status=live}}</ref> [[Gene Siskel]] of the ''[[Chicago Tribune]]'' gave the film three and a half stars out of four and wrote "I found ''Barry Lyndon'' to be quite obvious about its intentions and thoroughly successful in achieving them. Kubrick has taken a novel about a social class and has turned it into an utterly comfortable story that conveys the stunning emptiness of upper-class life only 200 years past."<ref>Siskel, Gene (26 December 1975). "'Barry Lyndon': Beauty and grace outweigh pace in a Kubrick classic". ''[[Chicago Tribune]]''. Section 3, p. 1.</ref> He ranked the film fifth on his year-end list of the best films of 1975.<ref>Siskel, Gene (4 January 1976). "Ten films outclass the publicity pitch". ''[[Chicago Tribune]]''. Section 6, p. 2.</ref>
+
+[[Charles Champlin]] of the ''[[Los Angeles Times]]'' called it "the motion picture equivalent of one of those very large, very heavy, very expensive, very elegant and very dull [[coffee table book|books that exist solely to be seen on coffee tables]]. It is ravishingly beautiful and incredibly tedious in about equal doses, a succession of salon quality still photographs—as often as not very still indeed."<ref>Champlin, Charles (19 December 1975). "A Rake's Lack of Progress". ''[[Los Angeles Times]]''.  Part IV, p. 1.</ref> ''[[The Washington Post]]'' wrote, "It's not inaccurate to describe 'Barry Lyndon' as a masterpiece, but it's a deadend masterpiece, an [[objet d'art]] rather than a movie. It would be more at home, and perhaps easier to like, on the bookshelf, next to something like 'The Age of the [[Grand Tour]],' than on the silver screen."<ref>"'Barry' Is All Dressed Up, but Going Where?" ''[[The Washington Post]]''. 25 December 1975. H14.</ref> [[Pauline Kael]] of ''[[The New Yorker]]'' wrote that "Kubrick has taken a quick-witted story" and "controlled it so meticulously that he's drained the blood out of it," adding, "It's a coffee-table movie; we might as well be at a three-hour slide show for art-history majors."<ref>Kael, Pauline (29 December 1975). "The Current Cinema". ''[[The New Yorker]]''. 49.</ref> Steven Spielberg compared the experience of watching Barry Lyndon to “going through the [[Museo del Prado|Prado]] without lunch”.<ref>{{Cite news |last=Gilbey |first=Ryan |date=2016-07-14 |title=Stanley Kubrick’s Barry Lyndon: ‘It puts a spell on people’ |url=https://www.theguardian.com/film/2016/jul/14/stanley-kubrick-barry-lyndon-put-spell-on-people |access-date=2026-02-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+[[Jean Baudrillard]] referenced Barry Lyndon in his seminal work ''[[Simulacra and Simulation]]'' as an example of [[hyperreality]] in cinema. "Let's understand each other: [Barry Lyndon's] quality is not in question. The problem is rather that in some sense we are left completely indifferent... one never did better, one will never do better in . . . in what? Not in evoking, not even in evoking, in ''simulating''".<ref>{{cite book |last=Baudrillard |first=Jean |author-link=Jean Baudrillard |title=Simulacra and Simulation |translator-last=Glaser |translator-first=Sheila Faria |publisher=University of Michigan Press |year=1994 |orig-year=1981 |location=Ann Arbor |isbn=978-0-472-06521-9 |pages=45–46}}</ref>
+
+This "air of disappointment"<ref name= "TelegraphReview"/> affected Kubrick's choice for his next film, an adaption of [[Stephen King]]'s ''[[The Shining (film)|The Shining]]'', a project that would not only please him artistically, but was more likely to succeed financially.
+
+===Re-evaluation===
+In the decades following its release, the film gained a more positive reaction.<ref name="ebert 2009"/> On review aggregator [[Rotten Tomatoes]], the film holds an approval rating of 78% based on 156 reviews, with an average rating of 8.4/10. The website's critical consensus reads, "Visually astonishing and placid as a pond in the English countryside, Stanley Kubrick's maddening and masterful ''Barry Lyndon'' renders a hollow life with painterly poise."<ref>{{cite web|url=http://www.rottentomatoes.com/m/barry_lyndon/|title=Barry Lyndon (1975)|access-date=17 March 2026|publisher=[[Rotten Tomatoes]]|archive-date=14 August 2015|archive-url=https://web.archive.org/web/20150814034659/http://www.rottentomatoes.com/m/barry_lyndon/|url-status=live}}</ref> On [[Metacritic]], the film has a weighted average score of 89 out of 100 based on reviews from 21 critics, indicating "universal acclaim".<ref>{{cite web|url=https://www.metacritic.com/movie/barry-lyndon|title=Critic Reviews for Barry Lyndon (1975)|access-date=24 October 2021|publisher=[[Metacritic]]|archive-date=24 October 2021|archive-url=https://web.archive.org/web/20211024194106/https://www.metacritic.com/movie/barry-lyndon|url-status=live}}</ref> [[Roger Ebert]] added the film to his 'Great Movies' list on 9 September 2009 and increased his original rating from three and a half stars to four, writing, "Stanley Kubrick's ''Barry Lyndon'', received indifferently in 1975, has grown in stature in the years since and is now widely regarded as one of the master's best. It is certainly in every frame a Kubrick film: technically awesome, emotionally distant, remorseless in its doubt of human goodness."<ref name="ebert 2009">{{cite news |date=9 September 2009 |author=Roger Ebert |author-link=Roger Ebert |title=Technically awesome, emotionally distant, and classically Kubrick |url=https://www.rogerebert.com/reviews/barry-lyndon-1975 |website=RogerEbert.com |access-date=11 September 2021 |archive-date=6 September 2021 |archive-url=https://web.archive.org/web/20210906132419/https://www.rogerebert.com/reviews/barry-lyndon-1975 |url-status=live }}</ref>
+
+''[[The Village Voice]]'' ranked the film at number 46 in its Top 250 "Best Films of the Century" list in 1999, based on a poll of critics.<ref>{{cite web|url=http://www.villagevoice.com/specials/take/one/full_list.php3?category=10 |title=Take One: The First Annual Village Voice Film Critics' Poll |access-date=27 July 2006 |year=1999 |work=The Village Voice |archive-url=https://web.archive.org/web/20070826201343/http://www.villagevoice.com/specials/take/one/full_list.php3?category=10 |archive-date=26 August 2007}}</ref> Director [[Martin Scorsese]] has named ''Barry Lyndon'' as his favourite Kubrick film,<ref>{{Cite book|title = Kubrick: The Definitive Edition|url = https://books.google.com/books?id=apbst3-ZYNoC|publisher = Macmillan|date = 1 September 2003|access-date = 19 April 2015|isbn = 9780571211081|first1 = Michel|last1 = Ciment|first2 = Gilbert|last2 = Adair|first3 = Robert|last3 = Bononno|quote = "I'm not sure if I can have a favourite Kubrick picture, but somehow I keep coming back to Barry Lyndon."|page = vii}}</ref> and it is also one of [[Lars von Trier]]'s favourite films.<ref>{{cite news|url=https://www.theguardian.com/film/2004/jan/12/1|title=It was like a nursery – but 20 times worse|newspaper=The Guardian|date=11 January 2004|access-date=29 March 2017|archive-date=30 March 2019|archive-url=https://web.archive.org/web/20190330070511/https://www.theguardian.com/film/2004/jan/12/1|url-status=live}}</ref> ''Barry Lyndon'' was included on ''[[Time (magazine)|Time]]''{{'}}s [[Time magazine's "All-TIME" 100 best movies|All-Time 100 best movies]] list.<ref>{{cite magazine |title=''Barry Lyndon'' |url=https://entertainment.time.com/2005/02/12/all-time-100-movies/slide/barry-lyndon-1975/ |magazine=[[Time (magazine)|Time]] |date=13 January 2010 |last1=Schickel |first1=Richard |access-date=24 February 2021 |archive-date=7 March 2021 |archive-url=https://web.archive.org/web/20210307115900/https://entertainment.time.com/2005/02/12/all-time-100-movies/slide/barry-lyndon-1975/ |url-status=live }}</ref> In the 2012 ''[[Sight & Sound]]'' Greatest Films of All Time poll, ''Barry Lyndon'' placed 19th in the directors' poll and 59th in the critics' poll.<ref>{{Cite web|title=Votes for Barry Lyndon (1975) {{!}} BFI|url=https://www.bfi.org.uk/films-tv-people/4ce2b6bc285f7/sightandsoundpoll2012|archive-url=https://web.archive.org/web/20160806074656/http://www.bfi.org.uk/films-tv-people/4ce2b6bc285f7/sightandsoundpoll2012|url-status=dead|archive-date=6 August 2016|publisher=British Film Institute|access-date=11 May 2020}}</ref> The film ranked 27th in [[BBC]]'s 2015 list of the 100 greatest American films.<ref>{{cite web|title=The 100 Greatest American Films|url=https://www.bbc.com/culture/article/20150720-the-100-greatest-american-films|publisher=BBC|date=20 July 2015|access-date=24 February 2021|archive-date=14 January 2021|archive-url=https://web.archive.org/web/20210114132906/https://www.bbc.com/culture/article/20150720-the-100-greatest-american-films|url-status=live}}</ref> In the 2022 ''[[Sight & Sound]]'' Greatest Films of All Time poll, ''Barry Lyndon'' placed 12th in the directors' poll and 45th in the critics' poll.<ref>{{Cite web |title=Barry Lyndon (1975) |url=https://www.bfi.org.uk/film/7232754d-299f-5b3c-9c4e-f1758809c8ed/barry-lyndon |access-date=2023-08-01 |website=BFI |language=en |archive-date=1 August 2023 |archive-url=https://web.archive.org/web/20230801042226/https://www.bfi.org.uk/film/7232754d-299f-5b3c-9c4e-f1758809c8ed/barry-lyndon |url-status=live }}</ref>
+
+The Japanese filmmaker [[Akira Kurosawa]] cited the movie as one of his 100 favorite films.<ref name="farout">{{cite web |last1=Thomas-Mason |first1=Lee |title=From Stanley Kubrick to Martin Scorsese: Akira Kurosawa once named his top 100 favourite films of all time |url=https://faroutmagazine.co.uk/akira-kurosawa-100-favourite-films-list/ |website=Far Out Magazine |date=12 January 2021 |access-date=23 January 2023 |archive-date=10 June 2021 |archive-url=https://web.archive.org/web/20210610003407/https://faroutmagazine.co.uk/akira-kurosawa-100-favourite-films-list/ |url-status=live }}</ref>{{better source needed|date=May 2026}}
+
+In a list compiled by ''[[The Irish Times]]'' critics Tara Brady and Donald Clarke in 2020, ''Barry Lyndon'' was named the greatest Irish film of all time.<ref>{{Cite news|url=https://www.irishtimes.com/culture/film/the-50-best-irish-films-ever-made-in-order-1.4238979|title=The 50 best Irish films ever made, in order|first1=Tara|last1=Brady|first2=Donald|last2=Clarke|newspaper=[[The Irish Times]]|access-date=8 May 2020|archive-date=11 May 2020|archive-url=https://web.archive.org/web/20200511081156/https://www.irishtimes.com/culture/film/the-50-best-irish-films-ever-made-in-order-1.4238979|url-status=live}}</ref>
+
+By the time of the film's re-release on its half-centenary in 2025, it was considered a masterpiece.<ref name=ft/> The ''Financial Times'' attributed its popularity with 2020s audience to an influential 2021 edit which overlayed scenes from the film with [[21 Savage]]'s "[[A Lot]]" which "took the internet by storm".<ref name=ft>{{cite news|url=https://www.ft.com/content/f1a897cc-f593-4ad1-9351-b0628a46929e?syn-25a6b1a6=1 |work=Financial Times |first=Robert |last=Smith |title=''Barry Lyndon'' — how a Kubrick classic gripped TikTok |date=July 17, 2025 |access-date=September 4, 2026}}</ref>
+
+===Accolades===
+{| class="wikitable plainrowheaders"
+|-
+! scope="col"| Award
+! scope="col"| Category
+! scope="col"| Recipient
+! scope="col"| Result
+! scope="col"| Ref.
+|-
+! scope="row" rowspan="7"| [[48th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+|rowspan=3| [[Stanley Kubrick]]
+| {{nom}}
+|rowspan=7|<ref>{{Cite web|title=The 48th Academy Awards {{!}} 1976|date=4 October 2014 |url=https://www.oscars.org/oscars/ceremonies/1976|publisher=Academy of Motion Picture Arts and Sciences|language=en|access-date=11 May 2020|archive-date=1 July 2019|archive-url=https://web.archive.org/web/20190701234129/https://www.oscars.org/oscars/ceremonies/1976|url-status=live}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| {{nom}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+| {{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| Art Direction: [[Ken Adam]] and [[Roy Walker (production designer)|Roy Walker]];<br>Set Decoration: [[Vernon Dixon]]
+| {{won}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[John Alcott]]
+| {{won}}
+|-
+| [[Academy Award for Best Costume Design|Best Costume Design]]
+| [[Milena Canonero]] and [[Ulla-Britt Söderlund]]
+| {{won}}
+|-
+| [[Academy Award for Best Original Score|Best Music, Scoring Original Song Score and/or Adaptation]]
+| [[Leonard Rosenman]]
+| {{won}}
+|-
+! scope="row" rowspan="5"| [[29th British Academy Film Awards|British Academy Film Awards]]
+| colspan="2"| [[BAFTA Award for Best Film|Best Film]]
+| {{nom}}
+|rowspan=5|<ref>{{Cite web|title=Film in 1976 {{!}} BAFTA Awards|url=http://awards.bafta.org/award/1976/film|website=awards.bafta.org|access-date=11 May 2020|archive-date=29 April 2014|archive-url=https://web.archive.org/web/20140429183623/http://awards.bafta.org/award/1976/film|url-status=live}}</ref>
+|-
+| [[BAFTA Award for Best Direction|Best Director]]
+| Stanley Kubrick
+| {{won}}
+|-
+| [[BAFTA Award for Best Production Design|Best Art Direction]]
+| Ken Adam
+| {{nom}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| John Alcott
+| {{won}}
+|-
+| [[BAFTA Award for Best Costume Design|Best Costume Design]]
+| Milena Canonero and Ulla-Britt Söderlund
+| {{nom}}
+|-
+! scope="row"| [[British Society of Cinematographers]]
+| [[British Society of Cinematographers Award for Best Cinematography in a Theatrical Feature Film|Best Cinematography]]
+| John Alcott
+| {{won}}
+|
+|-
+! scope="row"| [[2nd César Awards|César Awards]]
+| [[César Award for Best Foreign Film|Best Foreign Film]]
+|rowspan=2|Stanley Kubrick
+| {{nom}}
+|
+|-
+! scope="row"| [[28th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directing – Feature Film]]
+| {{nom}}
+|
+|-
+! scope="row" rowspan="2"| [[33rd Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| {{nom}}
+|rowspan=2|<ref>{{Cite web|title=Barry Lyndon|url=https://goldenglobes.com/film/barry-lyndon/|publisher=Golden Globe Awards|language=en|access-date=11 May 2020|archive-date=21 February 2024|archive-url=https://web.archive.org/web/20240221162018/https://goldenglobes.com/film/barry-lyndon/|url-status=live}}</ref>
+|-
+| [[Golden Globe Award for Best Director|Best Director]]
+| Stanley Kubrick
+| {{nom}}
+|-
+! scope="row"| [[1975 Los Angeles Film Critics Association Awards|Los Angeles Film Critics Association Awards]]
+| [[Los Angeles Film Critics Association Award for Best Cinematography|Best Cinematography]]
+| John Alcott
+| {{won}}
+|<ref>{{Cite web|title=1st Annual Los Angeles Film Critics Association Awards {{!}} 1975|url=http://www.lafca.net/Years/1975.php|website=Los Angeles Film Critics Association|language=en-US|access-date=11 May 2020|archive-date=8 December 2019|archive-url=https://web.archive.org/web/20191208145050/http://www.lafca.net/Years/1975.php|url-status=live}}</ref>
+|-
+! scope="row" rowspan="3"| [[National Board of Review Awards 1975|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review Award for Best Film|Best Film]]
+| {{won}}{{efn|name=NBRFilm|Tied with ''[[Nashville (film)|Nashville]]''.}}
+|rowspan=3|<ref>{{Cite web|title=Award Winners {{!}} 1975|url=https://nationalboardofreview.org/award-years/1975/|website=National Board of Review|language=en-US|access-date=11 May 2020|archive-date=25 May 2020|archive-url=https://web.archive.org/web/20200525081643/https://nationalboardofreview.org/award-years/1975/|url-status=live}}</ref>
+|-
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{won}}{{efn|name=Multiple|This award does not have a single winner, but recognizes multiple films.}}
+|-
+| [[National Board of Review Award for Best Director|Best Director]]
+| Stanley Kubrick
+| {{won}}{{efn|name=NBRDirector|Tied with [[Robert Altman]] for ''[[Nashville (film)|Nashville]]''.}}
+|-
+! scope="row"| [[1975 National Society of Film Critics Awards|National Society of Film Critics Awards]]
+| [[National Society of Film Critics Award for Best Cinematography|Best Cinematography]]
+| John Alcott
+| {{won}}
+|<ref>{{Cite web|title=Past Awards {{!}} 1975|url=https://nationalsocietyoffilmcritics.com/about-2/|website=National Society of Film Critics|date=19 December 2009 |language=en-US|access-date=11 May 2020|archive-date=31 May 2015|archive-url=https://web.archive.org/web/20150531032303/https://nationalsocietyoffilmcritics.com/about-2/|url-status=live}}</ref>
+|-
+! scope="row"| [[Sant Jordi Awards]]
+| Best Foreign Film
+|rowspan=2|Stanley Kubrick
+| {{won}}
+|
+|-
+! scope="row"| [[28th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Adapted Screenplay|Best Drama Adapted from Another Medium]]
+| {{nom}}
+|
+|}
+
+== Home media ==
+''Barry Lyndon'' was released by [[Warner Home Video]] on DVD in 1999.<ref>{{Cite web |last=Pflug |first=Michael |date=2001-06-14 |title=Barry Lyndon |url=http://www.dvdreview.com/2001/06/barry-lyndon/ |access-date=2025-06-04 |website=DVD Review & High Definition |language=en-US}}</ref> The film was released on [[Blu-ray]] by Warner Bros. in 2011. It was released on Blu-ray and DVD by [[The Criterion Collection]] in October 2017, featuring a new remaster in the film's original 1.66:1 aspect ratio (compared to the Warner Blu-ray's 16:9 aspect ratio).<ref>{{Cite web |title=Blu-ray News and Reviews {{!}} High Def Digest |url=https://bluray.highdefdigest.com/49376/barrylyndon2.html |access-date=2025-06-04 |website=bluray.highdefdigest.com}}</ref> The film was released on [[Ultra HD Blu-ray]] by Criterion in July 2025. This release will be included in the upcoming [[The Criterion Collection|Criterion Collection]] box set ''The Complete Kubrick'' which will feature Kubrick's entire filmography presented on 4K UHD Blu-Rays. The set is due to be released in October 2026.<ref>{{Cite web |title=4k Movie, Streaming, Blu-Ray Disc, and Home Theater Product Reviews & News {{!}} High Def Digest |url=https://ultrahd.highdefdigest.com/145077/barrylyndon4kultrahdbluray.html |access-date=4 June 2025 |website=ultrahd.highdefdigest.com}}</ref> <ref>{{Cite web |title=The Complete Kubrick |url=https://www.criterion.com/boxsets/9000-the-complete-kubrick |access-date=23 August 2026 |website=The Criterion Collection |language=en}}</ref>
+
+==See also==
+* [[List of American films of 1975]]
+* ''[[Overlord (1975 film)|Overlord]]'' – the 1975 [[Stuart Cooper]] WWII film cinematographer John Alcott also worked on
+* [[Cinema of Ireland]]
+
+==Notes==
+{{Reflist|group=note}}
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Tibbetts, John C., and James M. Welsh, eds. ''The Encyclopedia of Novels into Film'' (2nd ed. 2005) pp 23–24.
+
+==External links==
+{{wikiquote}}
+* {{IMDb title|0072684}}
+* {{TCMDb title|16197}}
+* {{AFI film|55666}}
+* {{Screenonline title|498104}}
+* [https://www.criterion.com/current/posts/5047-barry-lyndon-time-regained ''Barry Lyndon: Time Regained''] an essay by [[Geoffrey O'Brien]] at the [[Criterion Collection]]
+* [http://www.dailyscript.com/scripts/BarryLyndon.html Screenplay of Barry Lyndon (18 February 1973)] at Daily script.
+* [http://www.indelibleinc.com/kubrick/films/blyndon/pressbook2.html ''Barry Lyndon'' Press Kit] at Indelible Inc.
+* [http://www.visual-memory.co.uk/amk/ The Kubrick Site], a "non-profit resource archive for documentary materials", including essays and articles.
+* [http://somecamerunning.typepad.com/some_came_running/2011/06/test.html Stanley Kubrick’s letter to projectionists on ''Barry Lyndon''] at Some Came Running.
+
+{{Stanley Kubrick}}
+{{National Board of Review Award for Best Film}}
+{{Authority control}}
+
+{{DEFAULTSORT:Barry Lyndon}}
+[[Category:1975 films]]
+[[Category:1975 American films]]
+[[Category:1975 British films]]
+[[Category:1975 English-language films]]
+[[Category:1970s Irish films]]
+[[Category:1975 war drama films]]
+[[Category:American films about gambling]]
+[[Category:American war drama films]]
+[[Category:British films about gambling]]
+[[Category:British war drama films]]
+[[Category:Cultural depictions of George III]]
+[[Category:English-language war drama films]]
+[[Category:Films about adultery]]
+[[Category:Films based on British novels]]
+[[Category:Films based on works by William Makepeace Thackeray]]
+[[Category:Films directed by Stanley Kubrick]]
+[[Category:Films produced by Stanley Kubrick]]
+[[Category:Films with screenplays by Stanley Kubrick]]
+[[Category:Films set in England]]
+[[Category:Films set in Ireland]]
+[[Category:Films set in the Kingdom of Prussia]]
+[[Category:Films set in the 1750s]]
+[[Category:Films set in 1763]]
+[[Category:Films set in 1773]]
+[[Category:Films set in the 1780s]]
+[[Category:Films set in the 18th century]]
+[[Category:Films shot in County Wicklow]]
+[[Category:Films shot in County Waterford]]
+[[Category:Films shot in Dublin (city)]]
+[[Category:Films shot at EMI-Elstree Studios]]
+[[Category:Films shot in Germany]]
+[[Category:Films shot in the Republic of Ireland]]
+[[Category:Films shot in Scotland]]
+[[Category:Films shot in North Yorkshire]]
+[[Category:Films shot in Oxfordshire]]
+[[Category:Films shot in Somerset]]
+[[Category:Films shot in West Sussex]]
+[[Category:Films shot in Wiltshire]]
+[[Category:Films that won the Best Costume Design Academy Award]]
+[[Category:Films that won the Best Original Score Academy Award]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Films whose director won the Best Direction BAFTA Award]]
+[[Category:Saturn Award–winning films]]
+[[Category:Seven Years' War films]]
+[[Category:Warner Bros. films]]

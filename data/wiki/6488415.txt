@@ -1,0 +1,68 @@
+{{Short description|American television series}}
+{{more citations needed|date=July 2023}}
+{{Use mdy dates|date=March 2025}}
+{{Infobox television
+| image                =
+| caption              = 
+| genre                = [[Sketch comedy]]
+| creator              = Deborah McKay
+| developer            = Deborah McKay<br />Vince Manze
+| writer               = Deborah McKay<br />Steve Mackal<br />[[Tom Burkhard]]
+| director             = Jon Ezrine<br />Dominic Orlando<br />Rick Squire
+| starring             = Patrick J. Dancy<br />Eddie Garcia<br />Bobby Leslie<br />[[Damon Sharpe]]<br />Chris Wolf
+| judges               = 
+| voices               = [[Corey Burton]]
+| narrator             = 
+| theme_music_composer = [[Charlie Midnight]]<br>[[Dan Hartman]]
+| open_theme            = "(We're The) Guys Next Door"
+| end_theme             = 
+| composer             = David Shapiro<br>Howie Hersh
+| country              = United States
+| language             = English
+| num_seasons          = 1
+| num_episodes         = 13
+| list_episodes        = 
+| executive_producer   = Vince Manze<br />Deb Leibling
+| producer             = Deborah McKay
+| editor               = Lynne Lussier
+| location             = [[The Burbank Studios|NBC Studios, Burbank, California]]
+| cinematography       = 
+| camera               = 
+| runtime              = 30 minutes
+| company              = [[NBC Productions]]
+| channel              = [[NBC]]
+| first_aired          = {{start date|1990|8|27|df=y}}
+| last_aired           = {{end date|1991|2|16|df=y}}
+| related              =  
+}}
+
+'''''Guys Next Door''''' is an American sketch comedy television series aired on [[NBC]] in the 1990–91 season as part of its Saturday morning lineup.<ref name=Daytime>{{cite book |last1=Hyatt |first1=Wesley |title=The Encyclopedia of Daytime Television |date=1997 |publisher=Watson-Guptill Publications |isbn=978-0823083152 |url=https://archive.org/details/encyclopediaofda00hyat/page/202/mode/2up|accessdate=22 March 2020|page=203}}</ref> It featured a [[boy band]] performing comedy sketches and spoofs, as a combination of [[New Kids on the Block]] with ''[[The Monkees (TV series)|The Monkees]]''.<ref>{{cite book |last1=Leszczak |first1=Bob |title=Single Season Sitcoms of the 1990s: A Complete Guide |date=2018 |publisher=McFarland & Co |isbn=9781476670775 |page=79 |url=https://books.google.com/books?id=C3JuDwAAQBAJ&dq=%22guys+next+door%22&pg=PA79 |accessdate=25 March 2020}}</ref> The show starred Patrick J. Dancy, Eddie Garcia, Bobby Leslie, [[Damon Sharpe]], and Chris Wolf.  Several music videos were created for the individual episodes; they were produced by Joseph Sassone and directed by Dominic Orlando.
+
+As a band, the group was signed to [[SBK Records]] and released a self-titled album, which spawned a single titled "I've Been Waiting for You". The single peaked at #42 on the [[Billboard Hot 100]] singles chart on February 23, 1991.<ref>[https://www.billboard.com/charts/hot-100/1991-02-23/ Billboard Hot 100 Singles, February 23, 1991]</ref>
+
+While Wolf and Leslie dropped out of the public eye after the show ended, Dancy and Garcia are still active as actors.  Sharpe is currently a music producer and songwriter who has worked with such artists as [[Jennifer Lopez]], [[Kylie Minogue]], [[Anastacia (singer)|Anastacia]], [[Kelly Rowland]], [[Big Time Rush (TV series)|Big Time Rush]], [[New Boyz]], and [[Monica (singer)|Monica]].<ref>{{cite web |url=http://www.hitquarters.com/index.php3?page=intrview%2F2003%2FMarch3_15_27_0.html |title=A&R, Record Label / Company, Music Publishing, Artist Manager and Music Industry Directory |website=www.hitquarters.com |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20170823072238/http://www.hitquarters.com/index.php3?page=intrview%2F2003%2FMarch3_15_27_0.html |archive-date=23 August 2017 |url-status=dead}}</ref>
+
+The series sparked criticism by parents, teachers, and media experts due to airing a targeted program for young adult audiences on Saturday mornings that was since attended to be a marathon for children, causing the series to be cancelled after one season.<ref>Osborne, Barbara (Summer 1997). [https://www.media.mit.edu/explain/papers/cme-cta.pdf" A Field Guide to the Children's Television Act"]. {{webarchive |url=https://web.archive.org/web/20000919055242/https://www.media.mit.edu/explain/papers/cme-cta.pdf |date=September 19, 2000 }}. Washington, D.C.: CME/InfoActive Kids, pp.&nbsp;1–16. Retrieved December 24, 2023.</ref> Prior to its cancellation in 1991, then-President [[George H. W. Bush]] signed a deal to require educational content on [[NBC]] by the [[Children's Television Act]],<ref>{{cite web|title=Children and Television|url=http://iml.jou.ufl.edu/projects/Spring03/Wells/history.htm|author=Landrea Wells|publisher=[[University of Florida]]|access-date=December 24, 2023}}</ref> which became a downfall for the network and completely eliminating children’s programming in Summer 1992.<ref>{{Cite news |last=Andrews |first=Edmund L. |date=1993-03-04 |title='Flintstones' and Programs Like It Aren't Educational, F.C.C. Says |language=en-US |work=The New York Times |url=https://www.nytimes.com/1993/03/04/us/flintstones-and-programs-like-it-aren-t-educational-fcc-says.html |access-date=December 24, 2023 |issn=0362-4331}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{IMDb title|id=0122348}}
+
+{{Children's programming on NBC in the 1990s}}
+
+[[Category:NBC original programming]]
+[[Category:1990 American television series debuts]]
+[[Category:1990 English-language television series debuts]]
+[[Category:1991 American television series endings]]
+[[Category:1991 English-language television series endings]]
+[[Category:1990s American children's comedy television series]]
+[[Category:1990s American musical comedy television series]]
+[[Category:1990s American sketch comedy television series]]
+[[Category:Children's sketch comedy]]
+[[Category:English-language American television shows]]
+[[Category:American boy bands]]
+[[Category:Television series by Universal Television]]
+
+{{US-comedy-tv-prog-stub}}

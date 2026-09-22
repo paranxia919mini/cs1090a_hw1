@@ -1,0 +1,170 @@
+{{Short description|1984 soundtrack album by various artists}}
+{{more citations needed|date=April 2016}}
+{{Infobox album
+| name       = Against All Odds
+| type       = soundtrack
+| artist     = Various artists
+| cover      = Against All Odds soundtrack.jpg
+| alt        = 
+| released   = March 1984
+| recorded   = 
+| venue      = 
+| studio     = 
+| genre      = [[Rock music|Rock]]
+| length     = 
+| label      = [[Virgin Records|Virgin]] (UK & Éire)<br />[[Atlantic Records|Atlantic]] (Rest of the free world)
+| producer   = 
+| prev_title = 
+| prev_year  = 
+| next_title = 
+| next_year  = 
+| misc       = {{Singles
+ | name        = Against All Odds
+ | type        = soundtrack
+ | single1     = [[Against All Odds (Take a Look at Me Now)]]
+ | single1date = February 1984
+ | single2     = [[Walk Through the Fire (song)|Walk Through the Fire]]
+ | single2date = May 1984<ref>{{cite web|url=https://www.worldradiohistory.com/UK/Music-Week/1984/Music-Week-1984-05-19.pdf|title=Music Week|page=14}}</ref>
+ | single3     = My Male Curiosity
+ | single3date = June 1984
+}}
+}}
+{{Album reviews
+| rev1 = [[AllMusic]]
+| rev1Score = {{Rating|3|5}}<ref>{{cite web|url=https://www.allmusic.com/album/against-all-odds-original-soundtrack--mw0000188904|title=AllMusic Review|last=Heather Phares|work=Against All Odds [Original Soundtrack]|publisher=All Media Network|accessdate=3 April 2016}}</ref>
+}}
+
+'''''Against All Odds: Music from the Original Motion Picture Soundtrack''''' is the soundtrack for the 1984 film ''[[Against All Odds (1984 film)|Against All Odds]]''.
+
+The album includes the original score by [[Michel Colombier]] and [[Larry Carlton]], as well as several tracks by artists popular at the time of the film's release. Best known of the tracks is "[[Against All Odds (Take a Look at Me Now)]]", a [[Phil Collins]] single which topped the [[Billboard Hot 100|''Billboard'' Hot 100]] song chart and became Collins's first American number one song. It gave him a [[27th Annual Grammy Awards#Award winners|Grammy Award]] for [[Grammy Award for Best Male Pop Vocal Performance#Recipients|Best Pop Vocal Performance, Male]] and another nomination for [[Grammy Award for Song of the Year#Recipients|Song of the Year]]. The song received an [[57th Academy Awards#Awards|Academy Award]] nomination for [[Academy Award for Best Original Song#1980s|Best Original Song]] as well as a [[42nd Golden Globe Awards#Winners and nominees|Golden Globe Award]] nomination for [[Golden Globe Award for Best Original Song#1980s|Best Original Song]].
+
+Other prior and current members of [[Genesis (band)|Genesis]], guitarist [[Mike Rutherford]] and former lead vocalist [[Peter Gabriel]], also contribute tracks. The album received a [[Grammy Award]] nomination for [[Grammy Award for Best Score Soundtrack for Visual Media#Recipients|Best Album of Original Score Written for a Motion Picture or a Television Special]] in [[27th Annual Grammy Awards|1985]].
+
+==Track listing==
+{{track listing
+| total_length    = 
+| extra_column    = Producer(s)
+| headline        = Side one
+
+| title1          = [[Against All Odds (Take a Look at Me Now)]]
+| note1           = performed by [[Phil Collins]]
+| writer1         = Phil Collins
+| extra1          = [[Arif Mardin]]
+| length1         = 3:23
+| title2          = Violet and Blue
+| note2           = performed by [[Stevie Nicks]]
+| writer2         = Stevie Nicks
+| extra2          = [[Jimmy Iovine]]
+| length2         = 5:03
+| title3          = [[Walk Through the Fire (song)|Walk Through the Fire]]
+| note3           = performed by [[Peter Gabriel]]
+| writer3         = Peter Gabriel
+| extra3          = Peter Gabriel
+| length3         = 3:59
+| title4          = Balcony
+| note4           = performed by [[Big Country]]
+| writer4         = [[Stuart Adamson]]
+| extra4          = [[Chris Thomas (record producer)|Chris Thomas]]
+| length4         = 3:56
+| title5          = Making a Big Mistake
+| note5           = performed by [[Mike Rutherford]]
+| writer5         = Mike Rutherford
+| extra5          = Mike Rutherford
+| length5         = 3:45
+| title6          = My Male Curiosity
+| note6           = performed by [[Kid Creole & The Coconuts]]
+| writer6         = [[August Darnell]]
+| extra6          = August Darnell
+| length6         = 4:39
+}}
+
+{{track listing
+| total_length    = 
+| extra_column    = Producer(s)
+| headline        = Side two
+
+| title7          = The Search (Main Title Theme)
+| note7           = performed by [[Larry Carlton]] & [[Michel Colombier]]
+| writer7         = Michel Colombier
+| extra7          = Larry Carlton, Michel Colombier
+| length7         = 3:33
+| title8          = El Solitario
+| note8           = performed by Michel Colombier & Larry Carlton
+| writer8         = Michel Colombier
+| extra8          = Michel Colombier
+| length8         = 2:34
+| title9          = Rock and Roll Jaguar
+| note9           = performed by Larry Carlton & Michel Colombier
+| writer9         = Michel Colombier
+| extra9          = Larry Carlton, Michel Colombier
+| length9         = 2:17
+| title10         = For Love Alone
+| note10          = performed by Larry Carlton
+| writer10        = Larry Carlton
+| extra10         = Larry Carlton
+| length10        = 3:00
+| title11         = The Race
+| note11          = performed by Larry Carlton
+| writer11        = Larry Carlton
+| extra11         = Larry Carlton
+| length11        = 2:36
+| title12         = Murder of a Friend
+| note12          = performed by Larry Carlton & Michel Colombier
+| writer12        = Michel Colombier
+| extra12         = Michel Colombier
+| length12        = 6:11
+}}
+
+==Charts==
+{{col-begin}}
+{{col-2}}
+
+===Weekly charts===
+{|class="wikitable sortable plainrowheaders"
+|-
+!scope="col"| Chart (1984)
+!scope="col"| Peak<br/>position
+|-
+!scope="row"| Australia ([[Kent Music Report]])<ref name=aus>{{cite book|last=Kent|first=David|authorlink=David Kent (historian)|title=Australian Chart Book 1970–1992|edition=illustrated|publisher=Australian Chart Book|location=St Ives, N.S.W.|year=1993|isbn=0-646-11917-6|page=283}}</ref>
+| style="text-align:center;"| 33
+|-
+{{album chart|Austria|20|artist=Soundtrack|album=Against All Odds|rowheader=true|access-date=8 August 2025}}
+|-
+{{album chart|Canada|8|chartid=6754a|rowheader=true|access-date=8 August 2025}}
+|-
+{{album chart|Netherlands|40|artist=Soundtrack|album=Against All Odds|rowheader=true|access-date=8 August 2025}}
+|-
+{{album chart|Germany|24|id=128|artist=Soundtrack|album=Against All Odds|rowheader=true|access-date=8 August 2025}}
+|-
+{{album chart|New Zealand|39|artist=Soundtrack|album=Against All Odds|rowheader=true|access-date=8 August 2025}}
+|-
+{{album chart|Sweden|42|artist=Soundtrack|album=Against All Odds|rowheader=true|access-date=8 August 2025}}
+|-
+{{album chart|Switzerland|13|artist=Soundtrack|album=Against All Odds|rowheader=true|access-date=8 August 2025}}
+|-
+{{album chart|UK2|29|date=19840506|rowheader=true|access-date=8 August 2025}}
+|-
+!scope="row"| US [[Billboard 200|''Billboard'' 200]]<ref>{{cite web|url=https://www.billboard.com/charts/billboard-200/1984-04-28/ |title=''Billboard'' 200 |date=April 28, 1984 |website=[[Billboard (magazine)|Billboard]] |access-date=February 20, 2025}}</ref>
+| style="text-align:center;"| 12
+|}
+{{col-2}}
+
+=== Year-end charts ===
+{| class="wikitable plainrowheaders"
+|-
+!scope="col"| Chart (1984)
+!scope="col"| Position
+|-
+{{album chart|Canada|43|chartid=9642|rowheader=true|access-date=8 August 2025|refname=CA_YE}}
+|}
+{{col-end}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:1984 soundtrack albums]]
+[[Category:Thriller film soundtracks]]
+[[Category:Virgin Records soundtracks]]
+[[Category:Atlantic Records soundtracks]]

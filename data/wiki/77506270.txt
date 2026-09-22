@@ -1,0 +1,92 @@
+{{Short description|2024 film directed by Ben Rivers}}
+{{Infobox film
+| name           = 
+| image          = Bogancloch poster.jpg
+| alt            = 
+| caption        = Film poster
+| director       = [[Ben Rivers]]
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{Based on|title of the original work|creator of the original work|additional creator(s), if necessary}} -->
+| producer       = {{Plainlist|
+* Ben Rivers
+* Sarah Neely
+* John Archer
+}}
+| starring       = Jake Williams
+| narrator       = 
+| cinematography = Ben Rivers
+| editing        = Ben Rivers
+| music          = 
+| studio         = {{Plainlist|
+* Urth Productions
+* Hopscotch Films
+}}
+| distributor    = New Wave Films (United Kingdom)<ref name="bbfc">{{Cite web |last= |date=May 19, 2025 |title=''Bogancloch'’ (U) |url=https://www.bbfc.co.uk/release/bogancloch-q29sbgvjdglvbjpwwc0xmdmwmdg4 |access-date=May 20, 2025 |website=[[British Board of Film Classification]] |language=en}}</ref>
+| released       = {{Film date|df=y|2024|08|09|[[Locarno Film Festival|Locarno]]|ref1=<ref name="lff">{{cite web |title=Bogancloch |url=https://www.locarnofestival.ch/festival/program/film.html?fid=227a6a95-9bcc-4855-be27-922cb511acb4&eid= |website=Locarno Film Festival |access-date=2 August 2024}}</ref>|2024|08|18|[[Edinburgh International Film Festival|Edinburgh]]|ref2=<ref name="eff">{{cite web |title=Bogancloch |url=https://www.edfilmfest.org/film/bogancloch/ |website=Edinburgh Film Festival |access-date=2 August 2024}}</ref>}}
+| runtime        = 86 minutes<ref name="bbfc" />
+| country        = {{Plainlist|
+* [[United Kingdom]]
+* [[Germany]]
+* [[Iceland]]
+}}
+| language       = {{Plainlist|
+* [[English language|English]]
+*[[Scots language|Scots]]}}
+| budget         = 
+| gross          = 
+}}
+'''''Bogancloch''''' is a 2024 [[documentary film]] directed by [[Ben Rivers]]. A follow-up to the director's 2011 documentary ''Two Years at Sea'', the film once again concerns the daily life of Jake Williams, a modern day [[hermit]] in rural [[Scotland]].<ref name="lff" />
+
+''Bogancloch'' competed for the [[Golden Leopard]] at the [[77th Locarno Film Festival]] in August 2024.<ref name="lff" />
+
+== Premise ==
+For the past four decades, Jake Williams has led a solitary life in the [[Clashindarroch Forest]] in rural Scotland. ''Bogancloch'' follows Williams through both his daily routines and staged scenarios.<ref name="fidm">{{cite web |title=Bogancloch |url=https://fidmarseille.org/en/film/bogancloch/ |website=FIDMarseille |access-date=2 August 2024}}</ref>
+
+== Production ==
+Rivers met Jake Williams in 2005. The pair first collaborated on the short film ''This Land is My Land'', followed by the 2011 feature documentary ''Two Years at Sea''. As he did for ''Two Years at Sea'', Rivers shot ''Bogancloch'' in [[black-and-white]] on [[16 mm film]].<ref name="var">{{cite news |last1=Lang |first1=Jamie |title=‘Bogancloch’ Director Ben Rivers on Reuniting With ‘Two Years at Sea’ Protagonist Jake Williams: ‘I Will No Doubt Continue Making Films With Him Until One of Us Dies’ (EXCLUSIVE) |url=https://variety.com/2024/film/global/bogancloch-trailer-ben-rivers-locarno-1236093772/ |access-date=2 August 2024 |agency=Variety}}</ref>
+
+== Cast ==
+* Jake Williams as himself
+
+== Release ==
+''Bogancloch'' was acquired for international sales by Rediance and debuted on 9 August 2024 in competition at the [[Locarno Film Festival]]. The film will also screen at the [[Edinburgh International Film Festival]].<ref name="var" />
+
+== Reception ==
+=== Accolades ===
+{| class="wikitable sortable plainrowheaders"
+! scope="col" | Award
+! scope="col" | Ceremony date
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable" | Ref.
+|-
+! scope="row" | [[Locarno Film Festival]]
+| [[77th Locarno Film Festival|18 August 2024]]
+| [[Golden Leopard]]
+| ''Bogancloch''
+| {{Nominated}}
+| align="center" | <ref name="lff" />
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IMDb title|tt32810133}}
+
+[[Category:2024 documentary films]]
+[[Category:2024 films]]
+[[Category:2024 black-and-white films]]
+[[Category:Scottish documentary films]]
+[[Category:2024 German films]]
+[[Category:German documentary films]]
+[[Category:Icelandic documentary films]]
+[[Category:Films shot in Scotland]]
+[[Category:2024 British films]]
+[[Category:British documentary films]]
+[[Category:British black-and-white films]]
+[[Category:2024 English-language films]]
+[[Category:Scots-language films]]
+[[Category:English-language documentary films]]

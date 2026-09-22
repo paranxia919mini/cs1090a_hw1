@@ -1,0 +1,63 @@
+{{distinguish|text=the 1971 comedy film [[The Hospital]]}}
+{{italic title}}
+{{Infobox film
+| name           = Hospital
+| image          = 
+| alt            = 
+| caption        = 
+| native_name      = <!--(for non-English films: film's name in its native language)-->
+| director       = [[Frederick Wiseman]]
+| producer       = <!-- or: |producers = -->
+| writer         = <!-- or: |writers = -->
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{based on|title of the original work|writer of the original work}} -->
+| starring       = 
+| narrator       = <!-- or: |narrators = -->
+| music          = 
+| cinematography = 
+| editing        = 
+| studio         = <!-- or: |production_companies = -->
+| distributor    = [[National Educational Television|NET]]
+| released       = {{film date|1970}}
+| runtime        = 84 minutes
+| country        = United States
+| language       = 
+| budget         = 
+| gross          = <!--(please use condensed and rounded values, e.g. "£11.6 million" not "£11,586,221")-->
+}}
+'''''Hospital''''' is an 84-minute 1970 American documentary film directed by [[Frederick Wiseman]], which explores the daily activities of the people at [[Metropolitan Hospital Center]], a large-city hospital in [[New York City]], with emphasis on its emergency ward and outpatient clinics.
+
+The film won two [[Emmy Award]]s for Outstanding Achievement in News Documentary Programming - Individuals and Outstanding Achievement in News Documentary Programming - Programs. In 1994, it was selected for preservation in the United States [[National Film Registry]] as being deemed  "culturally, historically, or aesthetically significant".<ref>{{Cite web|title=Complete National Film Registry Listing {{!}} Film Registry {{!}} National Film Preservation Board {{!}} Programs at the Library of Congress {{!}} Library of Congress|url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/|website=Library of Congress, Washington, D.C. 20540 USA|access-date=2020-04-30}}</ref> The film was selected for screening as part of the Cannes Classics section at the [[2016 Cannes Film Festival]].<ref name="Classics">{{cite web |url=https://www.festival-cannes.com/fr/69-editions/retrospective/2016/actualites/articles/cannes-classics-2016|title=Cannes Classics 2016 |access-date=10 December 2018 |date=20 April 2016 |work=Cannes Film Festival}}</ref><ref>{{Cite news|date=1994-11-15|title=25 Films Added to National Registry|language=en-US|work=The New York Times|url=https://www.nytimes.com/1994/11/15/movies/25-films-added-to-national-registry.html|access-date=2020-06-25|issn=0362-4331}}</ref>
+
+==Plot==
+The film follows hospital staff and a variety of patients in an episodic manner. The film is highly [[Documentary_film#Observational|observational]], using no [[voice-over]] narration or interviews. No names are formally given, and the hospital is only mentioned once as "Metropolitan" by a doctor on a phone call. The patients come from a variety of [[ethnic group|ethnic backgrounds]] and [[social class|social classes]], but most are [[poverty|poor]] and [[social exclusion|marginalized]]. Doctors, nurses, police officers, and social workers attempt to aid patients with medical care and [[Well-being|social welfare]]. The staff's actions are often compassionate but limited by an overwhelmed public system. Among the patients are a man who fears he has cancer, a [[child neglect|neglected toddler]] who fell out a window, an art student who ingested an unknown drug and is suffering a [[bad trip]], a [[gay]], [[transsexual]] teenager trying to obtain welfare, and an elderly women who has a [[pulmonary embolism]] and is in [[medical state|critical condition]]. A group of patients attend a [[Mass in the Catholic Church|Catholic mass]] as the closing sequence.
+
+==See also==
+* [[List of American films of 1970]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official|https://zipporahfilms.com/hospital}}
+*''Hospital'' essay by Barry Keith Grant on the National Film Registry website [https://www.loc.gov/static/programs/national-film-preservation-board/documents/hospital.pdf]
+*''Hospital'' essay by Daniel Eagan in America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry, A&C Black, 2010 {{ISBN|0826429777}}, pages 660-662 [https://books.google.com/books?id=deq3xI8OmCkC&source=gbs_similarbooks]
+*{{IMDb title|id=0065853|title=Hospital}}
+
+{{Frederick Wiseman}}
+
+[[Category:1970 documentary films]]
+[[Category:1970 films]]
+[[Category:American documentary films]]
+[[Category:Black-and-white documentary films]]
+[[Category:Documentary films about healthcare in the United States]]
+[[Category:Films directed by Frederick Wiseman]]
+[[Category:United States National Film Registry films inducted in 1994]]
+[[Category:1970 black-and-white films]]
+[[Category:American black-and-white films]]
+[[Category:Films set in hospitals]]
+[[Category:NYC Health + Hospitals]]
+[[Category:Works about emergency services]]
+
+{{documentary-tv-film-stub}}

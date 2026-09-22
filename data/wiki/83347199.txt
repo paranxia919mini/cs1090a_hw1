@@ -1,0 +1,50 @@
+{{Short description|2025 documentary film}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=June 2026}}
+{{Infobox film
+| name           = Heightened Scrutiny
+| image          = 
+| alt            = 
+| caption        = 
+| native_name    = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = [[Sam Feder]]
+| writer         = 
+| screenplay     = 
+| story          = 
+| based_on       = <!-- {{Based on|title of the original work|creator of the original work|additional creator(s), if necessary}} -->
+| producer       = Sam Feder<br />[[Amy Scholder]]<br />[[Paola Mendoza]]
+| starring       = [[Chase Strangio]]
+| narrator       = 
+| cinematography = Martin DiCicco<br />Mariam Dwedar
+| editing        = Emelie Mahdavian
+| music          = Jonathan Sanford
+| studio         = 
+| distributor    = Fourth Act Film
+| released       = {{Film date|2025|01|27|[[Sundance Film Festival]]|ref1=}}<!-- {{Film date|YYYY|MM|DD|location|ref1=}} -->
+| runtime        = 89 minutes
+| country        = USA
+| language       = English
+| budget         = 
+| gross          = 
+}}
+'''''Heightened Scrutiny''''' is a 2025 documentary film directed by [[Sam Feder]]. The film follows [[Chase Strangio]], lawyer for the [[American Civil Liberties Union]] (ACLU), as he becomes the first openly [[transgender]] person to argue before the [[Supreme Court of the United States|US Supreme Court]].<ref name="guard-28jan2025">{{cite news |last1=Horton |first1=Adrian |title=‘A reminder that we can resist’: hard-hitting documentary takes aim at anti-trans rhetoric |url=https://www.theguardian.com/film/2025/jan/28/heightened-scrutiny-review-documentary |access-date=June 3, 2026 |work=[[The Guardian]] |date=January 28, 2025}}</ref><ref name="nbc-26may2025">{{cite news |last1=Yurcaba |first1=Jo |title='Heightened Scrutiny' details the high-stakes Supreme Court case over trans health care |url=https://www.nbcnews.com/nbc-out/out-news/heightened-scrutiny-documentary-chase-strangio-supreme-court-rcna208833 |access-date=June 3, 2026 |work=[[NBC News]] |date=May 26, 2025 |archive-date=June 4, 2026 |archive-url=https://web.archive.org/web/20260604000910/https://www.nbcnews.com/nbc-out/out-news/heightened-scrutiny-documentary-chase-strangio-supreme-court-rcna208833 |url-status=live }}</ref><ref name="npr-20jul2025">{{cite news |last1=Ma |first1=Adrian |title=A documentary follows the first openly trans person to argue before the Supreme Court |url=https://www.npr.org/2025/07/20/nx-s1-5466140/a-documentary-follows-the-first-openly-trans-person-to-argue-before-the-supreme-court |access-date=June 3, 2026 |work=[[NPR]] |date=July 20, 2025 |archive-date=June 3, 2026 |archive-url=https://web.archive.org/web/20260603233629/https://www.npr.org/2025/07/20/nx-s1-5466140/a-documentary-follows-the-first-openly-trans-person-to-argue-before-the-supreme-court |url-status=live }}</ref> Strangio represented the plaintiffs in the case ''[[United States v. Skrmetti]]'', arguing that a [[Tennessee]] state law banning access to [[gender-affirming healthcare]] violated the [[Equal Protection Clause]] of the [[14th Amendment to the U.S. Constitution|14th Amendment]].<ref name="guard-28jan2025" />
+
+In addition to Strangio, the film features interviews with trans actors and activists [[Elliot Page]], [[Laverne Cox]], and [[Peppermint (entertainer)|Peppermint]], trans media executive [[Gina Chua]], journalist and [[Columbia Journalism School]] dean [[Jelani Cobb]], and other media figures.<ref name="guard-28jan2025" /><ref name="nbc-26may2025" /><ref name="var-28jan2025">{{cite news |last1=Adlakha |first1=Siddhant |title=‘Heightened Scrutiny’ Review: A Transgender Attorney Heads to the Supreme Court in an Emotional and Informative Doc |url=https://variety.com/2025/film/reviews/heightened-scrutiny-review-sundance-trans-sam-feder-1236287930/ |access-date=June 3, 2026 |work=[[Variety (magazine)|Variety]] |date=January 28, 2025 |archive-date=June 4, 2026 |archive-url=https://web.archive.org/web/20260604000708/https://variety.com/2025/film/reviews/heightened-scrutiny-review-sundance-trans-sam-feder-1236287930/ |url-status=live }}</ref> Cox also served as one of the executive producers.<ref name="av-14jul2025">{{cite news |last1=Oller |first1=Jacob |title=The Supreme Court failed trans people, but Heightened Scrutiny reveals how the media targeted them |url=https://www.avclub.com/heightened-scrutiny-documentary-atlantic-new-york-times-targeted-trans-people |access-date=June 3, 2026 |work=[[The A.V. Club]] |date=July 14, 2025 |archive-date=June 4, 2026 |archive-url=https://web.archive.org/web/20260604000910/https://www.avclub.com/heightened-scrutiny-documentary-atlantic-new-york-times-targeted-trans-people |url-status=live }}</ref>
+
+The documentary premiered at the [[2025 Sundance Film Festival]].<ref name="nbc-26may2025" /> It was nominated for Outstanding Documentary at the [[37th GLAAD Media Awards]].<ref name="dl-7jan2026">{{cite news |last1=Pedersen |first1=Erik |title=GLAAD Media Awards: ‘Heated Rivalry’, ‘Stranger Things’ & ‘Christy’ Among 2026 Nominees |url=https://deadline.com/2026/01/glaad-media-awards-2026-nominations-list-1236665542/ |access-date=June 3, 2026 |work=[[Deadline Hollywood|Deadline]] |date=January 7, 2026}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|https://www.heightenedscrutinydoc.com}}
+*{{IMDb title|tt34966548}}
+
+{{authority control}}
+
+[[Category:2025 documentary films]]
+[[Category:American LGBTQ-related documentary films]]
+[[Category:Documentary films about transgender people in the United States]]
+[[Category:2025 American films]]
+[[Category:2025 LGBTQ-related films]]
+[[Category:2025 English-language films]]

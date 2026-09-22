@@ -1,0 +1,500 @@
+{{short description|1983 film directed by Philip Kaufman}}
+{{About|the 1983 film|the 2020 television series|The Right Stuff (TV series){{!}}''The Right Stuff'' (TV series)|5=The Right Stuff (disambiguation)}}
+{{Use mdy dates|date=February 2026}}
+{{Use American English|date=January 2025}}
+{{Infobox film
+| name           = The Right Stuff
+| image          = Right_stuff_ver1.jpg
+| alt            =
+| caption        = Theatrical release poster
+| director       = [[Philip Kaufman]]
+| producer       = {{Plainlist|
+* [[Irwin Winkler]]
+* [[Robert Chartoff]]
+}}
+| writer         = Philip Kaufman
+| based_on       = {{Based on|''[[The Right Stuff (book)|The Right Stuff]]''|[[Tom Wolfe]]}}
+| narrator       = 
+| starring       = {{Plainlist|
+* [[Sam Shepard]]
+* [[Scott Glenn]]
+* [[Ed Harris]]
+* [[Dennis Quaid]]
+* [[Fred Ward]]
+* [[Barbara Hershey]]
+* [[Kim Stanley]]
+* [[Veronica Cartwright]]
+* [[Pamela Reed]]
+* [[Scott Paulin]]
+* [[Charles Frank]]
+* [[Lance Henriksen]]
+}}
+| music          = [[Bill Conti]]
+| cinematography = [[Caleb Deschanel]]
+| editing        = {{Plainlist|
+* [[Glenn Farr]]
+* [[Lisa Fruchtman]]
+* [[Stephen A. Rotter]]
+* [[Douglas Stewart (film editor)|Douglas Stewart]]
+* [[Tom Rolf]]
+}}
+| studio         = [[The Ladd Company]]<br>Chartoff-Winkler Productions
+| distributor    = [[Warner Bros. Pictures|Warner Bros.]]
+| released       = {{Film date|1983|10|16|[[John F. Kennedy Center for the Performing Arts|Kennedy Center]]|1983|10|21|United States}}<!--WP:FILMRELEASE-->
+| runtime        = 192 minutes<!--Theatrical runtime: 192:36--><ref>[https://web.archive.org/web/20131017083455/http://www.bbfc.co.uk/releases/right-stuff-1970-3 The Right Stuff"]. [[Columbia Pictures|Columbia]]-[[EMI Records|EMI]] [[Warner Bros. Pictures|Warner]]. ''[[British Board of Film Classification]]'', November 29, 1983, Retrieved: October 16, 2013.</ref>
+| country        = United States
+| language       = English
+| budget         = $27 million
+| gross          = $21.1 million (domestic only)<ref>{{mojo title|rightstuff|The Right Stuff}}</ref> 
+}}
+
+'''''The Right Stuff''''' is a 1983 American [[Epic film|epic]] [[historical drama|historical drama film]] written and directed by [[Philip Kaufman]] and based on the 1979 [[The Right Stuff (book)|book of the same name]] by [[Tom Wolfe]]. The film follows the [[United States Navy|Navy]], [[United States Marine Corps|Marine]], and [[United States Air Force|Air Force]] [[test pilots]] who were involved in [[aeronautics|aeronautical research]] at [[Edwards Air Force Base]], [[California]], as well as the [[Mercury Seven]], the seven military pilots who were selected to be the [[astronauts]] for [[Project Mercury]], the first [[human spaceflight]] by the United States. The film stars [[Sam Shepard]], [[Ed Harris]], [[Scott Glenn]], [[Fred Ward]], [[Dennis Quaid]], [[Barbara Hershey]] and [[Kim Stanley]] (in her final film); [[Levon Helm]] narrates and plays Air Force test pilot [[Jack Ridley (pilot)|Jack Ridley]].
+
+''The Right Stuff'' was a [[box-office bomb]], grossing about $21 million (domestically) against a $27 million budget. However, it received widespread critical acclaim and was nominated for eight [[Academy Awards|Oscars]], including Best Picture, at the [[56th Academy Awards]], winning 4. The film was a huge success on the home video market. In 2013, it was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant."<ref name="2013Add">[https://www.washingtonpost.com/entertainment/movies/library-of-congress-announces-2013-national-film-registry-selections/2013/12/17/eba98bce-6737-11e3-ae56-22de072140a2_story.html?tid=hpModule_ef3e52c4-8691-11e2-9d71-f0feafdd1394 "Library of Congress announces 2013 National Film Registry selections" (Press release).] {{Webarchive|url=https://web.archive.org/web/20160610201044/https://www.washingtonpost.com/entertainment/movies/library-of-congress-announces-2013-national-film-registry-selections/2013/12/17/eba98bce-6737-11e3-ae56-22de072140a2_story.html?tid=hpModule_ef3e52c4-8691-11e2-9d71-f0feafdd1394 |date=2016-06-10 }}  ''[[Washington Post]]'',  December 18, 2013.  Retrieved: December 18, 2013.</ref> The film was ranked #19 on the American Film Institute's most [[AFI's 100 Years...100 Cheers|inspiring]] movies.
+
+The film was later expanded into its [[The Right Stuff (franchise)|titular franchise]], including a [[The Right Stuff (TV series)|television series]] and a documentary film.
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 to 700 words. -->
+In 1947, over the Muroc Army Air Field in California, a number of [[test pilots]] are killed while flying high-speed aircraft such as the rocket-powered [[Bell X-1]]. After another pilot, [[Slick Goodlin]], demands $150,000  ({{Inflation|US|150000|1947|r=-3|fmt=eq}}) to attempt to break the [[sound barrier]], war hero Captain [[Chuck Yeager]] receives the chance to fly the X-1. Yeager becomes the first person to fly at [[supersonic]] speed, defeating the "demon in the sky."
+
+Six years later, Muroc, now [[Edwards Air Force Base]], still attracts the best test pilots. Yeager (now a major) and friendly rival [[Albert Scott Crossfield|Scott Crossfield]] repeatedly break each other's speed records. They often visit the [[Happy Bottom Riding Club]] run by [[Pancho Barnes]], who classifies the pilots at Edwards as either "prime" (such as Yeager and Crossfield) that fly the best equipment or newer "pudknockers" who only dream about it. [[Gordon Cooper|Gordon "Gordo" Cooper]],  [[Gus Grissom|Virgil "Gus" Grissom]] and [[Deke Slayton|Donald "Deke" Slayton]], captains of the [[United States Air Force]], are among the "pudknockers" who hope to also prove that they have "the Right Stuff." The tests are no longer secret, as the military soon recognizes that it needs good publicity for funding. Cooper's wife, Trudy, and other wives are afraid of becoming widows but cannot change their husbands' ambitions and desire for success and fame.
+
+In 1957, the launch of the Soviet [[Sputnik]] satellite [[Sputnik crisis|alarms the United States government]]. Politicians such as Senator [[Lyndon B. Johnson]] and military leaders demand that [[NASA]] help America defeat the Soviets in the new [[Space Race]]. The search for the first Americans in space excludes Yeager because he lacks a college degree. Grueling physical and mental tests select the [[Mercury Seven]] astronauts, including [[John Glenn]] of the [[United States Marine Corps]], [[Alan Shepard]], [[Walter Schirra]] and [[Scott Carpenter]] of the [[United States Navy]], as well as Cooper, Grissom and Slayton; they immediately become national heroes. Although many early NASA rockets explode during launch, the ambitious astronauts all hope to be the first in space as part of [[Project Mercury]]. Although engineers see the men as passengers, the pilots insist for the Mercury spacecraft to have a window, a hatch with explosive bolts, and [[pitch-yaw-roll]] controls. However, the Soviet Union beats them into space on April 12, 1961, with the launch of [[Vostok 1]] carrying [[Yuri Gagarin]]. The seven astronauts are determined to match and to surpass the Soviets.
+
+Shepard is the first American to reach space on the 15-minute sub-orbital flight of [[Mercury-Redstone 3]] on May 5. After Grissom's similar flight of [[Mercury-Redstone 4]] on July 21, the capsule's hatch blows open and quickly fills with water. Grissom escapes, but the spacecraft, overweight with seawater, sinks. Many criticize Grissom for possibly panicking and opening the hatch prematurely. Glenn becomes the first American to orbit the Earth on [[Mercury-Atlas 6]] on February 20, 1962; he survives a possibly loose heat shield and receives a [[ticker-tape parade]]. He, his colleagues, and their families become celebrities, including a gigantic celebration in the [[Sam Houston Coliseum]] to announce the opening of the [[Manned Spacecraft Center]] in [[Houston]], despite the fear of Glenn's wife, [[Annie Glenn|Annie]], of public speaking because of a [[stutter]].
+
+Although test pilots at Edwards mock the Mercury program for sending "spam in a can" into space, they recognize that they are no longer the fastest men on Earth, and Yeager states that "it takes a special kind of man to volunteer for a suicide mission, especially when it's on national TV." While testing the new [[Lockheed NF-104A]], Yeager attempts to set a new altitude record at the edge of space but is nearly killed in a high-speed ejection when his engine fails. Though seriously burned after reaching the ground, Yeager gathers up his parachute and walks to the ambulance, which proves his worth.
+
+On May 15, 1963, Cooper has a successful launch on [[Mercury-Atlas 9]], which ends the Mercury program. As the last American to fly into space alone, he "went higher, farther, and faster than any other American ... for a brief moment, Gordo Cooper became the greatest pilot anyone had ever seen."
+
+==Cast==
+{{castlist|
+* [[Sam Shepard]] as [[Chuck Yeager]], USAF
+* [[Fred Ward]] as [[Gus Grissom|Virgil I. "Gus" Grissom]], [[USAF]]
+* [[Dennis Quaid]] as [[Gordon Cooper|Gordon "Gordo" Cooper]], USAF
+* [[Ed Harris]] as [[John Glenn]], [[U.S. Marine Corps|USMC]]
+* [[Scott Glenn]] as [[Alan Shepard]], [[U.S. Navy|USN]]
+* [[Lance Henriksen]] as [[Wally Schirra|Walter "Wally" Schirra]], USN
+* [[Scott Paulin]] as [[Deke Slayton|Donald K. "Deke" Slayton]], USAF
+* [[Barbara Hershey]] as Glennis Yeager
+* [[Veronica Cartwright]] as [[Betty Grissom]]
+* [[Jane Dornacker]] as Nurse Murch
+* [[Kim Stanley]] as [[Pancho Barnes]]
+* [[Pamela Reed]] as Trudy Cooper
+* [[Charles Frank]] as [[Scott Carpenter]], USN
+* [[Donald Moffat]] as U.S. Senator and Vice President [[Lyndon B. Johnson]]
+* [[Levon Helm]] as [[Jack Ridley (pilot)|Jack Ridley]], USAF; Helm also provides voice-over at the beginning and end of the film
+* [[Mary Jo Deschanel]] as [[Annie Glenn]]
+* [[Jeff Goldblum]] as NASA recruiter
+* [[Harry Shearer]] as NASA recruiter
+* [[Scott Wilson (actor)|Scott Wilson]] as [[Scott Crossfield]], civilian test pilot for [[North American Aviation]]
+* [[Kathy Baker]] as [[Louise Shepard]]
+* Mickey Crocker as Marge Slayton
+* Susan Kase as [[Rene Carpenter]]
+* Mittie Smith as [[Jo Schirra]]
+* [[Royal Dano]] as a minister
+* [[David Clennon]] as a liaison man
+* [[Scott Beach]] as a chief scientist, based on German [[aerospace engineer]] [[Wernher von Braun]]
+* [[John P. Ryan (actor)|John P. Ryan]] as the Head of the Manned Space Program
+* [[Eric Sevareid]] as himself
+* [[William Russ]] as [[Slick Goodlin]]
+* Robert Beer as President [[Dwight D. Eisenhower]]
+* Peggy Davis as [[Sally Rand]]
+* [[John Dehner]] as [[Henry Luce]]
+* Royce Grones as the first X-1 pilot, [[Jack Woolams]]
+* [[Brigadier General]] [[Chuck Yeager]], USAF  as Fred, the bartender at Pancho's saloon
+* [[Anthony Muñoz]] as Gonzales
+* [[David Gulpilil]] as aboriginal man
+}}
+
+The following appeared as themselves in archive footage: [[Ed Sullivan]] with [[Bill Dana]] (in character as [[José Jiménez (character)|José Jiménez]]); [[Yuri Gagarin]] and [[Nikita Khrushchev]] embracing at a review, joined by [[Georgi Malenkov]], [[Nikolai Bulganin]], [[Kliment Voroshilov]], and [[Anastas Mikoyan]]; [[Lyndon B. Johnson]]; [[John F. Kennedy]]; [[Alan Shepard]] (in Kennedy footage); and [[James E. Webb]], director of NASA during the Kennedy and Johnson administrations.
+
+==Production==
+===Development===
+In 1979, independent producers [[Robert Chartoff]] and [[Irwin Winkler]] outbid [[Universal Pictures]] for the movie rights to [[Tom Wolfe]]'s book, paying $350,000.<ref name="Ansen">Ansen, David and Katrine Ames. "A Movie with All 'The Right Stuff'." ''[[Newsweek]]'', October 3, 1983, p. 38.</ref> They hired [[William Goldman]] to write the screenplay. Goldman wrote in his memoirs that his adaptation focused on the astronauts, and he entirely ignored Chuck Yeager.<ref>Goldman 2001, p. 254.</ref> Goldman was inspired to accept the job because he wanted to say something patriotic about America in the wake of the [[Iran hostage crisis]]. Winkler writes in his memoirs that he was disappointed that Goldman's adaptation ignored Yeager.<ref name="wink">{{cite book |first=Irwin |last=Winkler |author-link=Irwin Winkler |title=A Life in Movies: Stories from Fifty Years in Hollywood |page=1717/3917 |edition=Kindle |publisher=Abrams Press |year=2019}}</ref>
+
+In June 1980, [[United Artists]] agreed to finance the film up to $20 million, and the producers began looking for a director. [[Michael Ritchie (film director)|Michael Ritchie]] was originally attached but fell through; so did [[John Avildsen]] who, four years prior, had won an Oscar for his work under Winkler and Chartoff on the original ''[[Rocky]]''. (''The Right Stuff'' would have reunited Avildsen with both producers and also with a fourth ''Rocky'' veteran, composer [[Bill Conti]].)<ref>Goldman 2001, p 257.</ref>
+
+Ultimately, Chartoff and Winkler approached director [[Philip Kaufman]], who agreed to make the film but did not like Goldman's script. Kaufman disliked the emphasis on patriotism and wanted Yeager put back in the film.<ref>Goldman 2001, p. 258.</ref> Eventually, Goldman quit the project in August 1980, and United Artists pulled out.
+
+When Wolfe showed no interest in adapting his own book, Kaufman wrote a draft in eight weeks.<ref name="Ansen" /> His draft restored Yeager to the story, because "if you're tracing how the future began, the future in space travel, it began really with Yeager and the world of the test pilots. The astronauts descended from them."<ref name="Wilford">Wilford, John Noble. [https://movies.nytimes.com/movie/review?_r=3&res=9C0DE5DB143BF935A25753C1A965948260&scp=73&sq=%22The+Right+Stuff%22&st=nyt "'The Right Stuff': From Space to Screen."] {{Webarchive|url=https://web.archive.org/web/20201115205722/https://www.nytimes.com/1983/10/16/movies/the-right-stuff-from-space-to-the-screen.html |date=2020-11-15 }} ''[[The New York Times]]'', October 16, 1983. Retrieved: December 29, 2008.</ref>
+
+After the financial failure of ''[[Heaven's Gate (film)|Heaven's Gate]]'', the studio put ''The Right Stuff'' in [[Turnaround (filmmaking)|turnaround]]. Then, [[The Ladd Company]] stepped in with an estimated $17 million.
+
+===Casting===
+Actor Ed Harris auditioned twice in 1981 for the role of John Glenn. Originally, Kaufman wanted to use a troupe of contortionists to portray the press corps, but he settled on the improvisational comedy troupe [[Fratelli Bologna]], known for its sponsorship of "St. Stupid's Day" in [[San Francisco]].<ref name="Williams">Williams, Christian. "A Story that Pledges Allegiance to Drama and Entertainment."  ''[[Washington Post]]'', October 20, 1983, A18.</ref> The director created a locust-like chatter to accompany the press corps whenever they appear, which was achieved through a sound combination of (among other things) motorized Nikon cameras and clicking beetles.<ref name="Williams" />
+
+Professional American football player [[Anthony Muñoz]] has a minor role in the film as a hospital orderly named Gonzales; the soft-spoken Muñoz was asked to [[lip sync]] his lines, and a "deeper, gruffer voice" was [[dubbing|dubbed]] over him in post-production.<ref>{{cite web|url=https://www.latimes.com/archives/la-xpm-1985-11-13-sp-5324-story.html|title=His Faith Produced Miracles : Munoz Needed It to Come Back and Excel in the NFL|last=Newhan|first=Ross|date=November 13, 1985|work=[[Los Angeles Times]]|access-date=September 11, 2023}}</ref>
+
+===Filming===
+Most of the film was shot in and around San Francisco between March and October 1982, with additional filming continuing into January 1983. A waterfront warehouse there was transformed into a studio.<ref name="Ansen" />{{refn|Downtown San Francisco doubled for [[Lower Manhattan]] in the [[ticker-tape parade]] scene after John Glenn's return to Earth. The scene was shot at the intersection of California and Montgomery Streets, in the [[Financial District, San Francisco|District]], and the [[Pacific Stock Exchange]], on the corner of Sansome and Pine Streets can be spotted doubling for the [[New York Stock Exchange]] in the final part of the scene.<ref name= "Ansen"/>|group = Note}} Location shooting took place primarily at the abandoned [[Hamilton Air Force Base]], north of San Francisco, which was converted into a sound stage for the numerous interior sets.<ref>Farmer 1984, p. 34.</ref> No location could substitute for the distinctive [[Edwards Air Force Base]] landscape and so the entire production crew moved to the [[Mojave Desert]] to shoot the opening sequences that framed the story of the test pilots at Muroc Army Air Field, later Edwards AFB.<ref>Farmer 1984, p. 41.</ref> Additional shooting took place in [[California City, California|California City]] in early 1983. During the filming of a sequence portraying Chuck Yeager's ejection from an NF-104,<ref>Note that Yeager's ejection was from the highly-specialized [[NF-104]] rocket jet, but the movie used a common unmodified F-104.</ref> stuntman Joseph Svec, a former [[Special Forces (United States Army)|Green Beret]], was killed when he failed to open his parachute because he may have been unconscious from smoke.<ref>{{Cite web |url=http://www.check-six.com/Crash_Sites/TheRightStuff-Svec.htm |title=Svec's Freefall, Check-Six.com |access-date=2016-08-14 |archive-date=2016-08-18 |archive-url=https://web.archive.org/web/20160818000901/http://www.check-six.com/Crash_Sites/TheRightStuff-Svec.htm |url-status=live }}</ref>
+
+In 1982, the scene of the wives of the astronauts watching the television broadcast was filmed on military housing in [[Novato, California]].
+
+Yeager was hired as a technical consultant on the film. He took the actors flying, studied the storyboards and special effects, and pointed out the errors. To prepare for their roles, Kaufman gave the actors playing the seven astronauts an extensive videotape collection to study.<ref name="Ansen" />
+
+The effort to make an authentic feature led to the use of many full-size aircraft, scale models and special effects to replicate the scenes at Edwards Air Force Base and [[Cape Canaveral Air Force Station]].<ref>Farmer 1983, p. 47.</ref> Special visual effects supervisor Gary Gutierrez said the first special effects were too clean for the desired "dirty, funky, early NASA look."<ref name="Ansen" /> That made Gutierrez and his team start from scratch and employ unconventional techniques like going up a hill with model airplanes on wires and fog machines to create clouds or shooting model F-104s from a crossbow device and capturing their flight with up to four cameras.<ref name="Ansen" /> Avant-garde filmmaker [[Jordan Belson]] created the background of the Earth as seen from high-flying planes and from orbiting spacecraft.<ref name="Wilford" />
+
+Kaufman gave his five editors a list of documentary images that he needed, and he sent them off to search for film from [[NASA]], the [[Air force|Air Force]] and [[Bell Aircraft]] vaults.<ref name="Ansen" /> They also discovered Russian stock footage not viewed in 30 years. During production, Kaufman met with resistance from the Ladd Company and threatened to quit several times. In December 1982, one reel of cut workprint of the film that included portions of John Glenn's flight disappeared from Kaufman's editing facility in San Francisco's Dogpatch neighborhood. The missing reel of cut workprint was never found but was reconstructed by using a black-and-white duplicate copy of the reel as a guide and by reprinting a new workprint from the original negative, which was always safely in storage at the film lab.
+
+===Historical accuracy===
+Although ''The Right Stuff'' was based on historic events and real people, as previously interpreted by Tom Wolfe in his book, some substantial dramatic liberties were taken. Neither Yeager's flight in the X-1 to break the sound barrier early in the film or his later nearly-fatal flight in the NF-104A was a spur-of-moment capriciously decided event, as the film seems to imply. Both were actually part of the routine testing program for both aircraft. Yeager had already test-flown both aircraft a number of times and was very familiar with them.<ref>Young, Dr. James.. [http://www.chuckyeager.com/1945-1947-mach-buster "Mach Buster."] {{Webarchive|url=https://web.archive.org/web/20201115205711/http://www.chuckyeager.com/1945-1947-mach-buster |date=2020-11-15 }} ''Air Force Flight Test Center History Office'', 2014. Retrieved: July 14, 2014.</ref><ref>[http://www.check-six.com/Crash_Sites/NF104-YeagerInterview.htm "Chuck Yeager, in his our words, regarding his experience with the NF-104."] {{Webarchive|url=https://web.archive.org/web/20201115205704/http://www.check-six.com/Crash_Sites/NF104-YeagerInterview.htm |date=2020-11-15 }} ''Check-six.com'',  April 23, 2014. Retrieved: July 14, 2014.</ref><ref>[https://www.youtube.com/watch?v=e32CPRXEZ7s Complete Video: Then Col. Chuck Yeager Crash In NF-104A Dec 10, 1963 At Edwards Air Force Base], Photography Branch Edwards Air Force Base, December 10, 1963, uploaded to YouTube by Edwards Air Force Base December 10, 2019.</ref>
+Jack Ridley had actually died in 1957,<ref>[https://history.nasa.gov/x1/ridley.html "Jack Ridley."] {{Webarchive|url=https://web.archive.org/web/20201115205827/https://history.nasa.gov/x1/ridley.html |date=2020-11-15 }} ''Nasa'' September 18, 1997. Retrieved: July 14, 2014.</ref> even though his character appears in several key scenes taking place after that, most notably including Yeager's 1963 flight of the NF-104A.
+
+Other notable inaccuracies include the early termination of Glenn's flight after three orbits, instead of seven, when the flight was scheduled for at most three orbits, and the engineers who built the Mercury craft portrayed as Germans though they were mostly Americans.<ref name="Wilford"/>
+
+''The Right Stuff'' depicts Cooper arriving at Edwards in 1953, reminiscing with Grissom there about the two of them having supposedly flown together at the [[Langley Field|Langley Air Force Base]], and then hanging out with Grissom and Slayton, including all three supposedly being present at Edwards when [[Scott Crossfield]] flew at [[Supersonic speed|Mach 2]] in November 1953.<ref>[http://www.seattlepi.com/local/article/Famed-aviator-Scott-Crossfield-dies-in-plane-crash-1201589.php "Famed aviator Scott Crossfield dies in plane crash."] {{Webarchive|url=https://web.archive.org/web/20140714122154/http://www.seattlepi.com/local/article/Famed-aviator-Scott-Crossfield-dies-in-plane-crash-1201589.php |date=2014-07-14 }} ''The Seattle Times,'' April 19, 2006.</ref> The film shows the three of them being recruited together there for the astronaut program in late 1957, with Grissom supposedly expressing keen interest in becoming a "star-voyager". According to their respective NASA biographies, none of the three was posted to Edwards before 1955 (Slayton in 1955<ref>Gray, Tara. [https://history.nasa.gov/40thmerc7/slayton.htm "Donald K. 'Deke' Slayton".] {{Webarchive|url=https://web.archive.org/web/20201115205713/https://history.nasa.gov/40thmerc7/slayton.htm |date=2020-11-15 }} ''NASA''. Retrieved: July 14, 2014.</ref> and Grissom and Cooper in 1956,<ref name="Grissom">Zornio, Mary C. [https://history.nasa.gov/40thmerc7/grissom.htm Virgil Ivan 'Gus' Grissom."] {{Webarchive|url=https://web.archive.org/web/20201115205718/https://history.nasa.gov/40thmerc7/grissom.htm |date=2020-11-15 }} ''NASA''. Retrieved: July 14, 2014.</ref><ref>Gray, Tara. [https://history.nasa.gov/40thmerc7/cooper.htm "L. Gordon Cooper, Jr."] {{Webarchive|url=https://web.archive.org/web/20201115205707/https://history.nasa.gov/40thmerc7/cooper.htm |date=2020-11-15 }} ''NASA''. Retrieved: July 14, 2014.</ref>) and neither of the last two had trained at Langley. When astronaut recruitment began in late 1957, after the Soviets had orbited [[Sputnik]], Grissom had already left Edwards and returned to [[Wright-Patterson Air Force Base]], where he had served and was happy with his new assignment there. Grissom did not even know that he was under consideration for the astronaut program until he received mysterious orders "out of the blue" to report to Washington in civilian clothing for what turned out to be a recruitment session for NASA.<ref name="Grissom"/> <!--There has also been criticism from his fellow astronauts of the way the film portrayed Grissom’s loss of his capsule, feeling it unfairly cast him in an unfavorable light.---See much more detailed explanation of the Liberty 7 incident in the 'Reviews' section of the "Reception"---->
+
+The film drew heaviest criticism for its portrayal of [[Gus Grissom]] during the splashdown of ''[[Liberty Bell 7]]'', which left readers and viewers with the impression that Grissom panicked and blew the hatch bolts, whereas the book stated that only some people considered that he may have done so. Most historians, as well as engineers working for or with [[NASA]] and many of the related contractor agencies within the aerospace industry, are now convinced that the premature detonation of the spacecraft hatch's explosive bolts was caused by mechanical failure that was not associated with direct human error or deliberate detonation by Grissom.{{refn|Schirra proved that activating the hatch explosives would have left a large welt on any part of the body that came in contact with the trigger. He proved that on his Mercury flight when he intentionally blew the hatch on October 3, 1962 when his spacecraft was on the deck of the recovery carrier.<ref name ="Buckbee">Buckbee and Schirra 2005, pp. 72–73.</ref>|group = Note}} That determination had been made long before the film was completed.<ref name="Buckbee" /> Many astronauts, including Schirra, Cooper and Shepard, were critical of ''The Right Stuff'' for its treatment of Grissom,<ref>Buckbee and Schirra 2005, p. 72.</ref><ref>Cooper 2000, p. 33.</ref><ref name="ShepardRose" /> who had been killed in the [[Apollo 1]] launch pad fire in January 1967 and thus unable to defend himself when the film was being made.
+
+===Film models===
+[[File:Kansas Cosmosphere Right Stuff Glamorous Glennis Replica 2013.JPG|thumb|A replica of the ''Glamorous Glennis'' which was used in filming ''The Right Stuff''. Now on display at the [[Cosmosphere]] in Hutchinson, Kansas. The same museum has the flown Liberty Bell 7 spacecraft on display.]]
+
+A large number of film models were assembled for the production; for the more than 80 aircraft appearing in the film, static [[mock-up]]s and models were used as well as authentic aircraft of the period.<ref name="Farmer p.49">Farmer 1983, p. 49.</ref> Lieutenant Colonel Duncan Wilmore, USAF (Ret) acted as the [[United States Air Force]] liaison to the production, beginning his role as a technical consultant in 1980 when the pre-production planning had begun. The first draft of the script in 1980 had concentrated only on the Mercury 7, but as subsequent revisions developed to the treatment into more of the original story that Wolfe had envisioned, the aircraft of the late-1940s that would have been seen at Edwards AFB were required. Wilmore gathered World War II era "prop" aircraft such as the following:
+* [[Douglas A-26 Invader]]
+* [[North American P-51 Mustang]]
+* [[North American T-6 Texan]] and
+* [[Boeing B-29 Superfortress]]
+
+The first group were mainly "set dressing" on the ramp while the Confederate Air Force (now renamed to the [[Commemorative Air Force]]) B-29 [[FIFI (aircraft)|"Fifi"]] was modified to act as the B-29 "mothership" to carry the [[Bell X-1]] and [[Bell X-1#X-1A|X-1A]] rocket-powered record-breakers.<ref name="Farmer p. 50–51">Farmer 1983, pp. 50–51.</ref>
+
+Other "real" aircraft included the early jet fighters and trainers as well as current USAF and [[United States Navy]] examples. These flying aircraft and helicopters included:
+* [[Douglas A-4 Skyhawk]]
+* [[LTV A-7 Corsair II]]
+* [[North American F-86 Sabre]]
+* [[Convair F-106 Delta Dart]]
+* [[McDonnell Douglas F-4 Phantom II]]
+* [[Sikorsky H-34|Sikorsky H-34 Choctaw]]
+* [[Sikorsky SH-3 Sea King]]
+* [[Lockheed T-33 Shooting Star]]
+* [[Northrop T-38 Talon]]<ref>Farmer 1983, p. 51.</ref>
+
+A number of aircraft significant to the story had to be recreated. The first was an essentially static X-1 that had to at least roll along the ground and realistically "belch flame" by a simulated rocket blast from the exhaust pipes.<ref name="Farmer p.49" /> A series of wooden mock-up X-1s were used to depict interior shots of the cockpit, the mating up of the X-1 to a modified B-29 fuselage and bomb bay and ultimately to recreate flight in a combination of model work and live-action photography. The "follow-up" X-1A was also an all-wooden model.<ref name="Farmer p. 50–51" />
+
+The U.S. Navy's [[Douglas D-558-2 Skyrocket]] that Crossfield duelled with Yeager's X-1 and X-1A was recreated from a modified [[Hawker Hunter]] jet fighter. The climactic flight of Yeager in a [[Lockheed NF-104A]] was originally to be made with a modified [[Lockheed F-104 Starfighter]] but ultimately, Wilmore decided that the production had to make do with a repainted Luftwaffe F-104G, which lacks the rocket engine of the NF-104.<ref name="Farmer p. 50–51" />
+
+Wooden mock-ups of the Mercury space capsules also realistically depicted the NASA spacecraft and were built from the original mold.<ref name="Wilford" />
+
+For many of the flying sequences, scale models were produced by USFX Studios and filmed outdoors in natural sunlight against the sky. Even off-the-shelf plastic scale models were used for aerial scenes. The X-1, F-104 and B-29 models were built in large numbers as a number of the more than 40 scale models were destroyed in the process of  filming.<ref>Farmer 1984, pp. 72–73.</ref> The blending together of miniatures, full-scale mock-ups, and actual aircraft was seamlessly integrated into the live-action footage. The addition of original newsreel footage was used sparingly but to effect and provided another layer of authenticity.<ref>Farmer 1984, p. 66.</ref>
+
+==Reception and legacy==
+===Box office===
+''The Right Stuff'' had its [[film premiere|world premiere]] on October 16, 1983, at the [[Kennedy Center]] in [[Washington, D.C.]], to benefit the [[American Film Institute]].<ref name="Morganthau">Morganthau, Tom and Richard Manning. "Glenn Meets the Dream Machine." ''[[Newsweek]]'', October 3, 1983, p. 36.</ref><ref name="Arnold">Arnold, Gary. "The Stuff of Dreams."  ''[[Washington Post]]'', October 16, 1983, p. G1.</ref> It was given a [[limited release]] on October 21, 1983, in 229 theaters, grossing a disappointing $1.6 million on its opening weekend.<ref>{{cite news|newspaper=[[Los Angeles Times]]|page=1, Part VI, Calendar|last=London|first=Michael|date=October 26, 1983|title='Right Stuff' fails to soar in public takeoff}}</ref> It went into [[wide release]] on February 17, 1984, in 627 theaters, where it grossed an additional $1.6 million on that weekend. The movie went on to gross only $21.1 million in the United States and Canada. The failure of the film and ''[[Twice Upon a Time (1983 film)|Twice Upon a Time]]'' caused The Ladd Company to shut down.
+
+As part of the promotion for the film, Veronica Cartwright, Chuck Yeager, Gordon Cooper, Scott Glenn and Dennis Quaid appeared in 1983 at ConStellation, the [[41st World Science Fiction Convention]] in Baltimore.<ref>[http://www.fanac.org/worldcon/ConStellation/w83p008.html "1983 World Science Fiction Convention."] {{Webarchive|url=https://web.archive.org/web/20201115205725/http://www.fanac.org/photohtm.php?worldcon%2FConStellation%2Fw83p008 |date=2020-11-15}} ''fanac.org,'' 2012. Retrieved: September 5, 2012.</ref>
+
+===Reviews===
+''The Right Stuff'' received overwhelming acclaim from critics. The film holds a 96% approval rating on [[Rotten Tomatoes]] based on 52 reviews, with an average score of 8.80/10. The website's critical consensus reads: "''The Right Stuff'' packs a lot of movie into its hefty running time, spinning a colorful, fact-based story out of consistently engaging characters in the midst of epochal events."<ref>{{cite web | url = http://www.rottentomatoes.com/m/right_stuff/ | title = The Right Stuff | website = [[Rotten Tomatoes]] | publisher = [[Fandango Media]] | access-date = May 20, 2021 | archive-date = February 21, 2010 | archive-url = https://web.archive.org/web/20100221083349/http://www.rottentomatoes.com/m/right_stuff/ | url-status = live }}</ref> On [[Metacritic]] — which assigns a weighted mean score — the film has a score of 91 out of 100 based on 16 critics, indicating "universal acclaim".<ref>{{Cite web |title=The Right Stuff Reviews |url=https://www.metacritic.com/movie/the-right-stuff |access-date=December 1, 2022 |website=[[Metacritic]] |publisher=[[Fandom, Inc.]]}}</ref>
+
+[[Roger Ebert]] named ''The Right Stuff'' best film of 1983 and wrote: "There was a lot going on, and there's a lot going on in the movie, too. ''The Right Stuff'' is an adventure film, a special effects film, a social commentary and a satire... it joins a short list of recent American movies that might be called experimental epics: movies that have an ambitious reach through time and subject matter, that spend freely for locations or special effects, but that consider each scene as intently as an art film.... It's a great film."<ref>{{Cite news |last=Ebert |first=Roger |date=1983 |title=The Right Stuff |work=[[Chicago Sun-Times]] |url=https://www.rogerebert.com/reviews/the-right-stuff-1983}}</ref> He later named it one of the best films of the decade, and wrote: "''The Right Stuff'' is a greater film because it is not a straightforward historical account but pulls back to chronicle the transition from Yeager and other test pilots to a mighty public relations enterprise". He later put it at #2 on his 10 best of the 1980s, behind [[Martin Scorsese]]'s ''[[Raging Bull]].''
+
+[[Gene Siskel]], Ebert's co-host of ''[[At the Movies (1982–1990 TV series)|At the Movies]]'', also named ''The Right Stuff'' the best film of 1983 and said: "It's a great film, and I hope everyone sees it."<ref>{{cite web|url=https://www.newspapers.com/clip/81014194/gene-siskels-top-ten-films-of-1983/|title=Movie year 1983: Box office was better than the films|work=[[Chicago Tribune]]|date=December 25, 1983|first=Gene|last=Siskel|accessdate=June 1, 2022}}</ref> Siskel also went on to include ''The Right Stuff'' at #3 on his list of the best films of the 1980s, behind ''[[Shoah (film)|Shoah]]'' and ''[[Raging Bull]]''.<ref>[http://siskelandebert.org/video/8OHG6RGH2A6W/At-the-Movies-Best-of-1983 "At the Movies-Best of 1983."] {{Webarchive|url=https://web.archive.org/web/20130507132207/http://siskelandebert.org/video/8OHG6RGH2A6W/At-the-Movies-Best-of-1983 |date=2013-05-07 }} ''Youtube.'' Retrieved: May 14, 2013.</ref>
+
+In his review for ''[[Newsweek]]'', [[David Ansen]] wrote: "When ''The Right Stuff'' takes to the skies, it can't be compared with any other movie, old or new: it's simply the most thrilling flight footage ever put on film".<ref name="Ansen" /> Gary Arnold in his review for ''[[The Washington Post]]'', wrote: "The movie is obviously so solid and appealing that it's bound to go through the roof commercially and keep on soaring for the next year or so".<ref name="Arnold" /> In his review for ''[[The New York Times]]'', Vincent Canby praised Shepard's performance: "Both as the character he plays and as an iconic screen presence, Mr. Shepard gives the film much well-needed heft. He is the center of gravity".<ref name="Kael">Kael, Pauline. "The Sevens". ''[[The New Yorker]]'', October 17, 1983.</ref>
+
+[[Colin Greenland]] reviewed ''The Right Stuff'' for ''[[Imagine (game magazine)|Imagine]]'' and stated: "It is the film's willingness to question [...] idealism, while laying down some very fine footage of things that are moving ''very'' fast, which makes ''The Right Stuff'' thoroughly absorbing for nearly three and a quarter hours."<ref name="Imagine15">{{cite journal | last = Greenland|first = Colin |authorlink=Colin Greenland| title =Fantasy Media  | type = review | journal = [[Imagine (AD&D magazine)|Imagine]] | issue = 15| pages =43 | publisher = TSR Hobbies (UK), Ltd. |date=June 1984| issn = }}</ref>
+
+Tom Wolfe made no secret of his dislike for the film, especially because of changes from his original book. William Goldman also disliked the choices made by Kaufman and wrote in his 1983 book ''[[Adventures in the Screen Trade]]'': "Phil [Kaufman]'s heart was with Yeager. And not only that, he felt the astronauts, rather than being heroic, were really minor leaguers, mechanical men of no particular quality, not great pilots at all, simply the product of hype."<ref>{{cite book |last=Goldman |first=William |title=Adventures in the Screen Trade: A Personal View of Hollywood and Screenwriting (reissue ed.) |year=1989 |publisher=Grand Central Publishing |isbn=0-446-39117-4 |url-access=registration |url=https://archive.org/details/adventuresinscre00gold_0 }}</ref>
+
+The Mercury Seven astronauts were mostly negative about the film. In an early interview, Deke Slayton said that none of the film "was all that accurate, but it was well done."<ref name="Bumiller">Bumiller, Elisabeth and Phil McCombs. "The Premiere: A Weekend Full of American Heroes and American Hype." ''[[Washington Post]]'', October 17, 1983,  p.  B1.</ref> However, in his memoirs, Slayton described the film as being "as bad as the book was good, just a joke".<ref>Slayton 1994, p. 317.</ref> Wally Schirra liked the book a lot, but expressed disappointment and dislike for the movie, and he never forgave the producers for portraying Gus Grissom as a "bungling sort of coward", which was totally untrue.<ref name="Burgess">Colin Burgess, ''Sigma 7: The Six Mercury Orbits of Walter M. Schirra, Jr.'', Springer Praxis Books, 2016.</ref> In an interview, Schirra said: "It was the best book on space, but the movie was distorted and warped... All the astronauts hated [the movie]. We called it ''Animal House in Space''."<ref>Vernon Scott, article "Schirra debunks notions about astronauts," ''The Tribune newspaper'', San Diego, CA, 9 May 1985, p. D-12.</ref> In another interview, Schirra said: "They insulted the lovely people who talked us through the program - the NASA engineers. They made them like bumbling Germans".<ref name="Bumiller" /> Scott Carpenter said that it was a "great movie in all regards".<ref name="Bumiller" /> Alan Shepard harshly criticized both the movie and the book: "Neither Tom Wolfe nor [Philip Kaufman] had talked to any of the original seven guys, at any time... ''The Right Stuff'' [both the film and the book] is fiction... The movie assumed that Grissom had panicked, which wasn't true at all. The movie made him look like a bad guy for the whole movie. They were very hard on John Glenn's wife, who had a mild speech problem. They made [[Lyndon B. Johnson|Lyndon Johnson]] look like a clown. It was just totally fiction."<ref name="ShepardRose">Alan Shepard's Interview to Charlie Rose, July 20, 1994.</ref>
+
+Chuck Yeager said of his characterization: "Sam [Shepard] is not a real flamboyant actor, and I'm not a real flamboyant-type individual ... he played his role the way I fly airplanes".<ref name="Ansen" />
+
+[[Robert Osborne]], who introduced showings of the film on [[Turner Classic Movies]], was quite enthusiastic about the film. The cameo appearance by the real Chuck Yeager in the film was a particular "treat", which Osborne cited. The recounting of many of the legendary aspects of Yeager's life was left in place, including the naming of the X-1, "Glamorous Glennis" after his wife and his superstitious preflight ritual of asking for a stick of [[Beemans gum|Beemans chewing gum]] from his best friend, Jack Ridley.{{refn|This allusion to Beemans chewing gum was later included in ''[[The Rocketeer (film)|The Rocketeer]]'' (1991).|group = Note}}
+
+The February 2020 issue of ''[[New York (magazine)|New York]]'' magazine lists ''The Right Stuff'' among "The Best Movies That Lost Best Picture at the Oscars."<ref>{{cite news|title=The Best Movies That Lost Best Picture at the Oscars|url=https://www.vulture.com/article/best-oscar-best-picture-losers.html|magazine=[[New York Magazine]]|access-date=March 17, 2025}}</ref>
+
+===Awards and nominations===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+|-
+| rowspan="8"| [[56th Academy Awards|Academy Awards]]<ref name="Oscars1984">[http://www.oscars.org/oscars/ceremonies/1984 "The 56th Academy Awards (1984) Nominees and Winners."] {{Webarchive|url=https://web.archive.org/web/20171102051926/https://www.oscars.org/oscars/ceremonies/1984 |date=2017-11-02 }} ''oscars.org.'' Retrieved: October 10, 2011.</ref><ref name="NY Times">[https://movies.nytimes.com/movie/41416/The-Right-Stuff/awards "'The Right Stuff'."] {{Webarchive|url=https://web.archive.org/web/20201115205728/https://www.nytimes.com/reviews/movies |date=2020-11-15 }} ''[[The New York Times]]''. Retrieved: January 1, 2009.</ref> 
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Robert Chartoff]] and [[Irwin Winkler]]
+| {{nom}}
+|-
+| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Sam Shepard]]
+| {{nom}}
+|-
+| [[Academy Award for Best Production Design|Best Art Direction]]
+| Art Direction: [[Geoffrey Kirkland]], [[Richard Lawrence (art director)|Richard Lawrence]], [[W. Stewart Campbell]] and [[Peter R. Romero]]; <br> Set Decoration: [[Jim Poynter]] and [[George R. Nelson]]
+| {{nom}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[Caleb Deschanel]]
+| {{nom}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Glenn Farr]], [[Lisa Fruchtman]], [[Tom Rolf]], [[Stephen A. Rotter]] and [[Douglas Stewart (film editor)|Douglas Stewart]]
+| {{won}}
+|-
+| [[Academy Award for Best Original Score|Best Original Score]]
+| [[Bill Conti]]
+| {{won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Mark Berger (sound engineer)|Mark Berger]], [[Tom Scott (sound engineer)|Tom Scott]], [[Randy Thom]] and [[David MacMillan (sound engineer)|David MacMillan]]
+| {{won}}
+|-
+| [[Academy Award for Best Sound Editing|Best Sound Effects Editing]]
+| [[Jay Boekelheide]]
+| {{won}}
+|-
+| [[American Cinema Editors|American Cinema Editors Awards]]
+| [[American Cinema Editors Award for Best Edited Feature Film – Dramatic|Best Edited Feature Film]]
+| Glenn Farr, Lisa Fruchtman, Stephen A. Rotter and Tom Rolf
+| {{nom}}
+|-
+| [[Blue Ribbon Awards]]
+| [[Blue Ribbon Awards for Best Foreign Film|Best Foreign Language Film]]
+| rowspan="4"| [[Philip Kaufman]]
+| {{won}}
+|-
+| [[Bodil Awards]]
+| [[Bodil Award for Best American Film|Best Non-European Film]]
+| {{won}}
+|-
+| [[Cahiers du Cinéma's Annual Top 10 Lists|Cahiers du Cinéma]]
+| Best Film
+| {{draw|7th Place}}
+|-
+| [[36th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| {{nom}}
+|-
+| [[41st Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| {{nom}}
+|-
+| [[Motion Picture Sound Editors|Golden Reel Awards]]
+| [[Golden Reel Award for Outstanding Achievement in Sound Editing – Dialogue and ADR for Feature Film|Best Sound Editing – ADR]]
+| C.J. Appel, [[Richard Hymns]], Vivien Hillgrove Gilliam and Barbara McBane
+| {{won}}
+|-
+| [[Hugo Award]]s<ref>[http://www.thehugoawards.org/?page_id=35 "1984 Hugo Awards."] {{Webarchive|url=https://web.archive.org/web/20071225194510/http://www.thehugoawards.org/?page_id=35 |date=2007-12-25 }} ''thehugoawards.org.'' Retrieved: September 5, 2012.</ref>
+| [[Hugo Award for Best Dramatic Presentation|Best Dramatic Presentation]]
+| Philip Kaufman <small>(screenplay/director)</small> and [[Tom Wolfe]] <small>(based on the book)</small>
+| {{nom}}
+|-
+| [[Japan Academy Film Prize]]
+| colspan="2"| [[Japan Academy Prize for Outstanding Foreign Language Film|Outstanding Foreign Language Film]]
+| {{nom}}
+|-
+| Kansas City Film Critics Circle Awards
+| Best Director
+| rowspan="2"| Philip Kaufman
+| {{won}}
+|-
+| [[London Film Critics' Circle|London Critics' Circle Film Awards]]
+| [[London Film Critics' Circle Award for Screenwriter of the Year|Screenwriter of the Year]]
+| {{won}}
+|-
+| [[National Board of Review Awards 1983|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{draw|5th Place}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+|-
+| [[National Society of Film Critics Awards 1983|National Society of Film Critics Awards]]
+| [[National Society of Film Critics Award for Best Director|Best Director]]
+| Philip Kaufman
+| {{draw|2nd Place}}
+|-
+| rowspan="3"| [[1983 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]
+| colspan="2"| [[New York Film Critics Circle Award for Best Film|Best Film]]
+| {{Runner-up}}
+|-
+| [[New York Film Critics Circle Award for Best Director|Best Director]]
+| Philip Kaufman
+| {{Runner-up}}
+|-
+| [[New York Film Critics Circle Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Ed Harris]]
+| {{Runner-up}}
+|-
+| [[36th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best  Adapted Screenplay|Best Drama Adapted from Another Medium]]
+| Philip Kaufman
+| {{nom}}
+|-
+| [[6th Youth in Film Awards|Young Artist Awards]]
+| colspan="2"| Best Family Motion Picture – Drama
+| {{nom}}
+|}
+'''[[AFI 100 Years... series|American Film Institute]]'''
+
+* [[AFI's 100 Years... 100 Cheers]] – #19<ref>{{Cite web |title=AFI's 100 YEARS…100 CHEERS |url=https://www.afi.com/afis-100-years-100-cheers/ |access-date=2023-12-13 |website=American Film Institute |language=en}}</ref>
+
+==Home media==
+On June 23, 2003, [[Warner Home Video]] released a two-disc [[DVD]] Special Edition that featured scene-specific commentaries with key cast and crew members, deleted scenes, three documentaries on the making of ''The Right Stuff'' including interviews with Mercury astronauts and Chuck Yeager, and a feature-length PBS documentary, ''John Glenn: American Hero''. The extras are also included in the November 5, 2013 release of the 30th Anniversary edition, which also includes a 40-page book binding case, with the film in [[Blu-ray]] format. The extras are in standard DVD format.
+
+In addition, the [[British Film Institute]] published a book on ''The Right Stuff'' by Tom Charity in October 1997 that offered a detailed analysis and behind-the-scenes anecdotes.
+
+A 4K restoration of the film will be released on Blu-ray and Ultra HD Blu-ray on November 24, 2026, as part of [[the Criterion Collection]].<ref>{{cite web|url=https://www.criterion.com/films/34871-the-right-stuff|title=The Right Stuff|website=[[The Criterion Collection]]|access-date=August 14, 2026}}</ref><ref>{{cite web|url=https://thefilmstage.com/the-criterion-collections-november-lineup-features-wild-at-heart-marie-antoinette-sergei-parajanov-and-francois-truffaut-on-4k/|title=The Criterion Collection’s November Lineup Features Wild at Heart, Marie Antoinette, Sergei Parajanov, and François Truffaut on 4K|website=The Film Stage|date=August 14, 2026|access-date=August 14, 2026|first=Nick|last=Newman}}</ref>
+
+==Soundtrack==
+Although an album mix had been prepared by [[Bill Conti]] in 1983, and the poster indeed contains the credit "Original Soundtrack Available On [[Geffen Records]]"), the soundtrack album release was canceled following the film's disappointing box office.<ref name="ReferenceA">Liner notes, ''The Right Stuff'' Original Motion Picture Soundtrack, VCL 0609 1095</ref> In 1986, Conti conducted a re-recording of selections from the score and from his music for ''[[North and South (miniseries)|North and South]]'', performed by the [[London Symphony Orchestra]] and released by [[Varèse Sarabande]]<ref>[http://www.allmusic.com/album/original-scores-by-bill-conti-the-right-stuff-north-and-south-mw0000191468 "The Right Stuff/North and South."] {{Webarchive|url=https://web.archive.org/web/20201115205808/https://www.allmusic.com/album/original-scores-by-bill-conti-the-right-stuff-north-and-south-mw0000191468 |date=2020-11-15 }} ''AllMusic''. Retrieved: July 15, 2015.</ref> The original soundtrack was released by Varèse Sarabande on September 20, 2013, prepared from the 1983 album mix (as the original masters of the complete score were lost).<ref name="ReferenceA"/>
+
+{{Track listing
+| extra_column    = Artist
+| total_length    = 37:31<ref>[http://www.allmusic.com/album/the-right-stuff-original-motion-picture-soundtrack-mw0002595588 "The Right Stuff Soundtrack."] {{Webarchive|url=https://web.archive.org/web/20201115205704/https://www.allmusic.com/album/the-right-stuff-original-motion-picture-soundtrack-mw0002595588 |date=2020-11-15 }} ''AllMusic''. Retrieved: February 2, 2014.</ref>
+
+| title1          = Breaking The Sound Barrier
+| length1         = 4:46
+| extra1          = [[Bill Conti]]
+
+| title2          = Mach I
+| length2         = 1:23
+| extra2          = Bill Conti
+
+| title3          = Training Hard / Russian Moon
+| length3         = 2:17
+| extra3          = Bill Conti
+
+| title4          = Tango
+| length4         = 2:20
+| extra4          = Bill Conti
+
+| title5          = Mach II
+| length5         = 1:58
+| extra5          = Bill Conti
+
+| title6          = [[The Eyes of Texas|The Eyes of Texas Are Upon You]]" / "[[The Yellow Rose of Texas (song)|The Yellow Rose of Texas]]" / "[[Deep in the Heart of Texas]]" / "[[Dixie (song)|Dixie]]
+| length6         = 2:50
+| extra6          = Bill Conti
+
+| title7          = Yeager and the F104
+| length7         = 2:26
+| extra7          = Bill Conti
+
+| title8          = Light This Candle
+| length8         = 2:45
+| extra8          = Bill Conti
+
+| title9          = Glenn's Flight
+| length9         = 5:08
+| extra9          = Bill Conti
+
+| title10         = Daybreak in Space
+| length10        = 2:48
+| extra10         = Bill Conti
+
+| title11         = Yeager's Triumph
+| length11        = 5:39
+| extra11         = Bill Conti
+
+| title12         = The Right Stuff (Single)
+| length12        = 3:11
+| extra12         = Bill Conti
+}}
+
+==See also==
+{{Portal|Aviation|Film|United States}}
+* [[1983 in film]]
+* [[Ed Harris filmography]]
+* [[Flight airspeed record]]
+* [[History of post-WWII aviation]]
+* [[Philip Kaufman filmography]]
+* [[Sam Shepard filmography]]
+* [[The Right Stuff (TV series)|''The Right Stuff'' (TV series)]]
+
+==Notes==
+{{Reflist|group=Note}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{Refbegin}}
+* Buckbee, Ed and Walter Schirra. [http://www.apogeebooks.com/Books/Space_Cowboys.html ''The Real Space Cowboys''.] {{Webarchive|url=https://web.archive.org/web/20120209085942/http://www.apogeebooks.com/Books/Space_Cowboys.html |date=2012-02-09 }} Burlington, Ontario: [[Apogee Books]], 2005. {{ISBN|1-894959-21-3}}.
+* Charity, Tom. ''The Right Stuff'' (BFI Modern Classics). London: British Film Institute, 1991. {{ISBN|0-85170-624-X}}.
+* [[Bill Conti|Conti, Bill]] (with London Symphony Orchestra). ''The Right Stuff: Symphonic Suite; North and South: Symphonic Suite''. North Hollywood, California: Varèse Sarabande, 1986 [http://worldcat.org/oclc/15749038 (WorldCat)] {{Webarchive|url=https://web.archive.org/web/20081226165700/http://www.worldcat.org/oclc/15749038 |date=2008-12-26 }}.
+* Cooper, Gordon. ''Leap of Faith''. New York: HarperCollins Publishers, 2000. {{ISBN|0-06-019416-2}}.
+* Farmer, Jim. "Filming the Right Stuff." ''Air Classics'', Part One: Vol. 19, No. 12, December 1983, Part Two: Vol. 20, No. 1, January 1984.
+* Glenn, John. ''John Glenn: A Memoir''. New York: Bantam, 1999.  {{ISBN|0-553-11074-8}}.
+* Goldman, William. ''Which Lie Did I Tell?: More Adventures in the Screen Trade''. New York: Vintage Books USA, 2001. {{ISBN|0-375-70319-5}}.
+* Hansen, James R. ''[[First Man: The Life of Neil A. Armstrong]]''. New York: Simon & Schuster, 2005. {{ISBN|0-7432-5631-X}}.
+* Wolfe, Tom. ''The Right Stuff''. New York: Bantam, 2001. {{ISBN|0-553-38135-0}}.
+* Slayton, Deke and Michael Cassutt. ''Deke!  U.S. Manned Space: From Mercury to the Shuttle''. New York: Tom Doherty Associates, 1994. {{ISBN|0-312-85503-6}}.
+{{Refend}}
+
+==External links==
+{{Commons category}}
+{{wikiquote}}
+* {{IMDb title|0086197}}
+* {{TCMDb title|16091}}
+* {{AFI film|58061}}
+* {{mojo title|rightstuff}}
+* {{rotten-tomatoes|right_stuff}}
+
+{{Philip Kaufman}}
+{{Tom Wolfe}}
+{{Navboxes
+|title = Awards for ''The Right Stuff''
+|list1 =
+{{Blue Ribbon Award for Best Foreign Film}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Right Stuff (film), The}}
+[[Category:1983 films]]
+[[Category:1983 American films]]
+[[Category:1983 English-language films]]
+[[Category:1983 historical drama films]]
+[[Category:American aviation films]]
+[[Category:American films based on actual events]]
+[[Category:American historical drama films]]
+[[Category:American space adventure films]]
+[[Category:1980s space adventure films]]
+[[Category:Cold War aviation films]]
+[[Category:Cultural depictions of Dwight D. Eisenhower]]
+[[Category:English-language historical drama films]]
+[[Category:Films about astronauts]]
+[[Category:Films about NASA]]
+[[Category:Films about test pilots]]
+[[Category:Films about the United States Air Force]]
+[[Category:Films about the United States Marine Corps]]
+[[Category:Films about the United States Navy]]
+[[Category:Films adapted into television shows]]
+[[Category:Films based on non-fiction books]]
+[[Category:Films based on works by Tom Wolfe]]
+[[Category:Films directed by Philip Kaufman]]
+[[Category:Films produced by Irwin Winkler]]
+[[Category:Films produced by Robert Chartoff]]
+[[Category:Films scored by Bill Conti]]
+[[Category:Films set in California]]
+[[Category:Films set in 1947]]
+[[Category:Films set in 1953]]
+[[Category:Films set in 1957]]
+[[Category:Films set in 1959]]
+[[Category:Films set in 1961]]
+[[Category:Films set in 1962]]
+[[Category:Films set in 1963]]
+[[Category:Films shot in San Francisco]]
+[[Category:Films that won the Best Original Score Academy Award]]
+[[Category:Films that won the Best Sound Editing Academy Award]]
+[[Category:Films that won the Best Sound Mixing Academy Award]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:Films with screenplays by Philip Kaufman]]
+[[Category:Project Mercury]]
+[[Category:Science docudramas]]
+[[Category:The Ladd Company films]]
+[[Category:United States National Film Registry films inducted in 2013]]
+[[Category:Warner Bros. films]]
+[[Category:Scott Carpenter]]
+[[Category:Gordon Cooper]]
+[[Category:John Glenn]]
+[[Category:Gus Grissom]]
+[[Category:Wally Schirra]]
+[[Category:Alan Shepard]]
+[[Category:Deke Slayton]]
+[[Category:Films about engineers]]
+[[Category:1980s epic films]]

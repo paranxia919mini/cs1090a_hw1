@@ -1,0 +1,245 @@
+{{Short description|1985 film by Sylvester Stallone}}
+{{Use American English|date=June 2023}}
+{{Use mdy dates|date=November 2021}}
+{{Infobox film
+| name           = Rocky IV
+| image          = Rocky_IV.jpg
+| caption        = Theatrical release poster
+| director       = [[Sylvester Stallone]]
+| producer       = {{Plainlist|
+* [[Irwin Winkler]]
+* [[Robert Chartoff]]
+}}
+| writer         = Sylvester Stallone
+| based_on       = {{Based on|[[List of Rocky characters|Characters]]|Sylvester Stallone}}
+| starring       = {{Plainlist|
+* Sylvester Stallone
+* [[Talia Shire]]
+* [[Burt Young]]
+* [[Carl Weathers]]
+* [[Brigitte Nielsen]]
+* [[Dolph Lundgren]]
+}}
+| music          = [[Vince DiCola]]
+| cinematography = [[Bill Butler (cinematographer)|Bill Butler]]
+| editing        = {{Plainlist|
+* [[Don Zimmerman (film editor)|Don Zimmerman]]
+* John W. Wheeler
+}}
+| studio         = {{Plainlist|
+* [[United Artists]]
+* Chartoff-Winkler Productions
+}}
+| distributor    = [[MGM/UA Entertainment Co.]]
+| released       = {{Film date|1985|11|21|Premiere|1985|11|27|United States}}
+| runtime        = 91 minutes (theatrical cut)<br />93 minutes (director's cut)
+| country        = United States
+| language       = English
+| budget         = $28 million<ref>{{Cite news |last=Harmetz |first=Aljean |title=At the Movies |date=November 29, 1985 |work=[[The New York Times]] |url=https://www.nytimes.com/1985/11/29/movies/at-the-movies.html |access-date=June 13, 2011}}</ref>
+| gross          = $300.5 million<ref>[https://www.boxofficemojo.com/title/tt0089927 Box Office Information for Rocky IV] [[Box Office Mojo]]. Retrieved February 8, 2023.</ref><ref name="The Numbers">{{Cite The Numbers |id=Rocky-IV|title=Rocky IV|access-date=January 26, 2023}}</ref>
+}}
+
+'''''Rocky IV''''' is a 1985 American [[Sports film|sports]] [[Drama (film and television)|drama film]] starring, written and directed by [[Sylvester Stallone]].<ref name="Rocky IV">{{cite web |url=https://www.tcm.com/tcmdb/title/20886/rocky-iv |archive-url=https://web.archive.org/web/20151019230434/http://www.tcm.com/tcmdb/title/20886/Rocky-IV/ |url-status=dead |archive-date=October 19, 2015 |title=Rocky IV |work=TCM database |publisher=[[Turner Classic Movies]]|access-date=February 28, 2016}}</ref> The film is the sequel to ''[[Rocky III]]'' (1982) and the fourth installment in the [[Rocky (franchise)|''Rocky'' franchise]]. It also stars [[Talia Shire]], [[Burt Young]], [[Carl Weathers]], [[Brigitte Nielsen]], and [[Dolph Lundgren]]. In the film, [[Rocky Balboa]] (Stallone) confronts [[Ivan Drago]] (Lundgren), a Soviet boxer responsible for another personal tragedy in Balboa's life.
+
+Development for a fourth ''[[Rocky (franchise)|Rocky]]'' film began soon after the success of ''Rocky III''. [[Principal photography]] began in 1984, with filming locations including [[Philadelphia]], [[Wyoming]], and [[Vancouver]]. ''Rocky IV'' was Lundgren's American film debut, and Stallone's last directorial effort until ''[[Rocky Balboa (film)|Rocky Balboa]]'' in 2006; they engaged in authentic punching in their fight scenes, which led to Stallone being admitted to [[intensive care]]. Filming also featured new special effects and bona fide, groundbreaking sport methods and equipment, some of which were years removed from public use. ''Rocky IV'' is known for its strong [[Cold War]] themes, as well as its successful theme songs "[[Burning Heart (song)|Burning Heart]]" by [[Survivor (band)|Survivor]] and "[[Living in America (James Brown song)|Living in America]]" by [[James Brown]]. It is also the first installment in the series not to be composed by [[Bill Conti]], who composed the first three films. [[Vince DiCola]] served as the composer to this film instead.
+
+''Rocky IV'' premiered in [[Los Angeles]] on November 21, 1985, and was theatrically released in the United States by [[Metro-Goldwyn-Mayer|MGM/UA Entertainment Co.]] under its [[United Artists]] label on November 27.<ref>{{cite web |title=Sports Drama |url=https://www.boxofficemojo.com/genres/chart/?id=sportsdrama.htm |website=Box Office Mojo}}</ref> The film initially was panned by critics, with praise for Drago's credibility as a villain, but criticized the predictable screenplay. Scholars note that Drago's ultimate defeat and the Soviet crowd's embrace of Rocky represented the [[dissolution of the Soviet Union]], while others criticized the film as propaganda through its Cold War themes and negative portrayals of Russians.<ref name=Rollin />{{sfn|Strada|Troper|1997|p=158}}<ref>{{cite journal |title=The Frankenstein myth in contemporary cinema |first1=J. H. |last1=Rushing |first2=T. S. |last2=Frentz |journal=Critical Studies in Media |year=1989 |volume=6 |issue=1 |pages=61–80 |doi=10.1080/15295038909366731}}</ref><ref>{{cite web |last=Smith |first=Edison |date=July 10, 2018 |title=Burning Hearts and Iron Curtains: Rocky IV & Cold War Propaganda |url=https://vhsrevival.com/2018/07/10/burning-hearts-and-iron-curtains-rocky-iv-and-cold-war-propaganda/ |accessdate=April 26, 2022}}</ref>
+
+''Rocky IV'' grossed $300.5 million worldwide, becoming the highest-grossing ''Rocky'' film, the third-highest-grossing US film of 1985 and the second-highest-grossing film worldwide. Later reviews were more favorable, with praise for the training montages.<ref>{{cite web |title=Rocky Movies|access-date = September 17, 2007 |work=Box Office Mojo |publisher=Box Office Mojo, LLC. |url=https://boxofficemojo.com/franchises/chart/?id=rocky.htm|archive-url = https://web.archive.org/web/20070607221410/http://boxofficemojo.com/franchises/chart/?id=rocky.htm|archive-date = June 7, 2007}}</ref> The film is considered an icon of 1980s pop culture, and [[Cult film|gained a cult following]]. In 2021, a director's cut was released with the title '''''Rocky IV: Rocky vs Drago – The Ultimate Director's Cut''''', receiving positive reviews. A sequel, ''[[Rocky V]],'' was released in 1990 and was directed by [[John G. Avildsen]], after directing [[Rocky|the original film]], with Conti returning as the composer. The film's storylines are continued in ''[[Creed II]]'' (2018), part of the sequel series to the ''Rocky'' films.
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for featured films should be set between 400-700 words. -->
+
+In 1985, Russian boxer and [[Soviet Ground Forces|Soviet Army]] Captain [[Ivan Drago]] arrives in the United States from the [[Soviet Union]] with his wife Ludmilla, his trainers and his manager, Nicolai Koloff. Koloff takes every opportunity to promote Drago's athleticism as a hallmark of Soviet superiority. Motivated by [[patriotism]] and a desire to step back in the ring, former heavyweight champion [[Apollo Creed]] challenges Drago to an [[exhibition fight]]. Rocky Balboa has reservations about his much larger opponent and about Apollo coming out of retirement but agrees to help train Apollo for the match.
+
+The boxing exhibition takes place at the [[Bally's Las Vegas|MGM Grand Hotel]] in [[Las Vegas]].<ref>Block, Marcelline (2011). ''World Film Locations: Las Vegas''. Intellect Books. Pages 40–41. {{ISBN|9781841505886}}.</ref> Apollo enters the ring in an over-the-top patriotic entrance with [[James Brown]] performing "[[Living in America (James Brown song)|Living in America]]", complete with showgirls. The bout starts tamely with Apollo landing several punches that are ineffective against Drago, but Drago suddenly retaliates with devastating effects. By the end of the first round, Rocky and Apollo's trainer, Duke Evers, plead with him to stop the match, but Apollo refuses to do so. Drago aggressively pummels him in the second round. Apollo falls after a particularly savage blow and lies twitching on the ground. After the match is called in Drago's favor, he displays no contrition, commenting to the assembled media: "If he dies, he dies." Apollo dies as a result of his injuries.
+
+Rocky decides to challenge Drago himself, but has to surrender his championship to do so. Drago's camp agrees to an unsanctioned 15-round fight in [[Moscow]] on [[Christmas|Christmas Day]], an arrangement meant to protect Drago from the threats of violence he has been receiving in the United States. Rocky travels to the Soviet Union without his wife Adrian due to her disapproval of the match, setting up his training base in a remote cabin in [[Siberia]] with only Duke and Paulie to accompany him while being constantly watched by [[KGB]] Agents. Duke opens up to Rocky, stating that he actually raised Apollo and that his death felt like a father losing his son, and expresses his faith in Rocky that he will emerge victorious. To prepare for the match, Drago uses high-tech equipment, a team of trainers and doctors monitoring his every movement, and regular doses of [[anabolic steroids]]. Rocky, on the other hand, does roadwork in deep snow over mountainous terrain and workouts utilizing antiquated farm equipment. Adrian arrives unexpectedly five days before the fight to give Rocky her support.
+
+On the night of the match, Rocky enters to a hostile jeering crowd. Drago is introduced with cheers and an elaborate patriotic ceremony, with the Soviet [[General Secretary of the Communist Party of the Soviet Union|General Secretary]] and [[Politburo of the Communist Party of the Soviet Union|Politburo]] in attendance. In contrast to his match with Apollo, Drago immediately goes on the offensive. Rocky takes a pounding in the first round, but toward the end of the second round he lands a right hook that cuts Drago's left eye. Between rounds, Duke encourages Rocky by telling him he's proven Drago is only human, and Drago comments to his trainers that Rocky "is like a piece of iron."
+
+The two boxers spend the next dozen rounds trading blows, with Rocky managing to hold his ground despite Drago's best efforts. As the 12th round begins, the Russian crowd starts to cheer for Rocky. After Koloff berates Drago for not finishing the fight and seeing the crowd turn on him, Drago rebels, throwing him from the ring and directly addressing the Soviet leadership, stating he fights only for himself. In the final round, with both fighters exhausted, Rocky unleashes a series of blows that KOs Drago, avenging Apollo's death.
+
+Rocky gives a victory speech, acknowledging the crowd's initial disdain of him, but points out that it changed to respect during the fight. He compares it to the wider disdain between Russians and Americans, except that he and the crowd have come to respect and admire each other during the course of the fight. Rocky adds that the crowd has seen "two guys killin' each other, but I guess that's better than [[World War III|20 million]]". Rocky finally declares, "If I can change, and you can change, then everybody can change!" The General Secretary stands and passionately applauds Rocky, and his aides follow suit. Rocky ends his speech by wishing his son Rocky Jr. a Merry Christmas, and throws his arms into the air in victory as the crowd applauds.
+
+==Cast==
+[[File:Sylvester Stallone & Dolph Lundgren (4840073885).jpg|thumb|Lead actors [[Sylvester Stallone]] and [[Dolph Lundgren]]]]
+{{see also|List of Rocky characters}} 
+* [[Sylvester Stallone]] as [[Rocky Balboa|Robert "Rocky" Balboa]], "The Italian Stallion": The reigning two-time Heavyweight Champion of the World.
+* [[Talia Shire]] as Adrian Pennino Balboa: Rocky's wife and support through his boxing career.
+* [[Burt Young]] as [[Paulie Pennino]]: Rocky's friend and brother-in-law.
+* [[Carl Weathers]] as [[Apollo Creed]]: Former Heavyweight Champion of the World, and close friend to Rocky.
+* [[Brigitte Nielsen]] as [[List of Rocky characters#Ludmilla Vobet Drago|Ludmilla Vobet Drago]]: Wife and supporter of Ivan Drago, and Olympic swimming champion. In real life, Nielsen was engaged to Stallone during the production, and married shortly after the release. They appeared together once again in 1986's ''[[Cobra (1986 film)|Cobra]]'', before they divorced in 1987. She later reprised the role in ''[[Creed II]]'' (2018).
+* [[Dolph Lundgren]] as [[Ivan Drago|Captain Ivan Drago]]: the Soviets' prize Champion boxer "The Siberian Express" and a Soviet Army infantry captain. Lundgren would also return in ''Creed II''.
+* [[Tony Burton]] as [[Tony "Duke" Evers]]: Apollo's father-figure, friend, trainer and manager, who becomes Rocky's trainer for his match against Drago.
+* [[Michael Pataki]] as [[List of Rocky characters#Nicolai Koloff|Nicolai Koloff]]: Trainer, promoter, and manager of Ivan Drago.
+* Rocky Krakoff as [[List of Rocky characters#Rocky Balboa Jr.|Rocky Balboa Jr.]]<ref>{{Citation |title=Rocky IV (1985)  |url=http://www.imdb.com/title/tt0089927/fullcredits|access-date=October 11, 2019|work=IMDb}}</ref>
+* David Lloyd Austin as [[Mikhail Gorbachev]] 
+* Sylvia Meals as [[List of Rocky characters#Mary Anne Creed|Mary Anne Creed]]: Wife of Apollo
+* George Rogan as Sergei Rimsky: Another Ivan Drago trainer.
+ 
+[[LeRoy Neiman]] plays the ring announcer in the Creed-Drago match. [[Burgess Meredith]] and [[Mr. T]] appear as [[Mickey Goldmill]] and [[Clubber Lang]], respectively, in archive footage. Appearing as themselves are singer [[James Brown]] and commentators [[Stu Nahan]], [[Warner Wolf]], [[R. J. Adams]], [[Barry Tompkins]] and [[Al Bandiero]].
+
+==Production==
+===Casting===
+Sportscaster [[Stu Nahan]] makes his fourth appearance in the ''[[Rocky (franchise)|Rocky]]'' series as commentator for the [[Apollo Creed]] ([[Carl Weathers]])–[[Ivan Drago]] ([[Dolph Lundgren]]) fight. [[Warner Wolf]] replaces Bill Baldwin, who died following filming for ''[[Rocky III]]'', as co-commentator. For the fight between [[Rocky Balboa]] ([[Sylvester Stallone]]) and Drago, commentators [[Barry Tompkins]] and [[Al Bandiero]] portray themselves as [[USA Network]] broadcasters.
+
+Apollo Creed's wife Mary Anne (Sylvia Meals) made her second appearance in the series, the first being ''[[Rocky]]'' (portrayed by Lavelle Roby), although the character was mainly featured in ''[[Rocky II]]''. Stallone's future wife, [[Brigitte Nielsen]], appeared as Drago's wife, Ludmilla Vobet Drago.
+
+The Soviet premier in the sky box during the Rocky–Drago match, played by David Lloyd Austin, strongly resembles contemporary (and last) Soviet leader [[Mikhail Gorbachev]]. Austin later played Gorbachev in ''[[The Naked Gun: From the Files of Police Squad!|The Naked Gun]]'', and Russian characters in other films.
+
+===Filming===
+[[Wyoming]] doubled for the frozen expanse of Russia. The small farm where Rocky lived and trained was in [[Jackson Hole]],<ref name="parentpreviews/about-the-morgans">{{cite web |last1=Bennett |first1=Kerry |title=Did You Hear About The Morgans? |url=https://parentpreviews.com/movie-reviews/did-you-hear-about-the-morgans |website=Parent Previews |access-date=26 July 2023 |date=15 March 2010}}</ref> and [[Grand Teton National Park]] was used for filming many of the outdoor sequences in the Soviet Union. The [[PNE Agrodome]] at [[Hastings Park]] in [[Vancouver]], [[British Columbia]] served as the location of Rocky's [[Moscow]] bout.
+
+Sylvester Stallone has stated that the original punching scenes filmed between him and Dolph Lundgren in the first portion of the fight are completely authentic. Stallone wanted to capture a realistic scene and Lundgren agreed that they would engage in legitimate sparring. One particularly forceful punch to Stallone's chest slammed his heart against his breastbone, causing the heart to swell. Stallone, suffering from labored breathing and a blood pressure over 200, was flown from the set in Vancouver, British Columbia to [[Saint John's Health Center|Saint John's Regional Medical Center]] in [[Santa Monica, California]] and was forced into intensive care for eight days. Stallone later commented that he believed Lundgren had the athletic ability and talent to fight in the professional heavyweight division of boxing.<ref name="AICN">{{cite web |url=https://legacy.aintitcool.com/node/30932 |title=Stallone Interview With Ain't It Cool News |publisher=AICN |access-date=January 25, 2007}}</ref> Producer [[Irwin Winkler]] describes the exact same event in his autobiography, observing not Lundgren, rather, "Sly took a punch from a [[stand-in]] fighter and ended up in the emergency room with his blood pressure dangerously high."<ref>{{Cite book |last=Winkler |first=Irwin |title=A Life in Movies |publisher=Abrams Press |year=2019 |isbn=9781683355281 |location=New York|pages=111}}</ref>
+
+Additionally, Stallone has stated that Lundgren nearly forced Carl Weathers to quit during the filming of the Apollo vs. Drago exhibition fight. At one point in the filming of the scene, Lundgren tossed Weathers into the corner of the boxing ring. Weathers shouted profanities at Lundgren while leaving the ring and announced that he was calling his agent and quitting the movie. Only after Stallone forced the two actors to reconcile did filming continue. The event caused a four-day work stoppage, while Weathers was talked back into the part and Lundgren agreed to tone down his aggressiveness.<ref name="AICN"/>
+
+===Post-production===
+''Rocky IV'' is one of the few sport movies that applies genuine sound effects from actual punches, bona fide training methods created by boxing consultants, and a bevy of other new [[special effects]].<ref>{{cite journal |title='It's in the game': sport fans, film and digital gaming |first=G. |last=Crawford |journal=Sport in Society |year=2008 |volume=11 |issue=2–3 |pages=130–145 |doi=10.1080/17430430701823380 |s2cid=145127121|url=https://salford-repository.worktribe.com/output/1465185/its-in-the-game-sport-fans-film-and-digital-gaming }}</ref> The film is recognized as being ahead of its time in its demonstration of groundbreaking high-tech sporting equipment, some of which was experimental and 20 years from public use.<ref>{{cite journal |last=Von Hoff |first=D. |title=Rocky IV-Fight Medicine |journal=Medical Grand Rounds Presented at University of Texas Health Science Centre}}</ref><ref>{{cite book |title=Boxing and Medicine |first=R. C. |last=Cantu |year=1995 |publisher=Human Kinetics |location=Champaign, IL |isbn=0873227972}}</ref> In 2012, Olympians [[Michael Phelps]] and [[Ryan Lochte]] noted that the training sequences in ''Rocky IV'' inspired them to use a cabin similar to what the resourceful Balboa utilized in the film.<ref>{{cite news |title=London 2012 Olympics: US swimmers Michael Phelps and Ryan Lochte go head to head in first heavyweight battle |first=Duncan |last=White |date=July 28, 2012 |url=https://www.telegraph.co.uk/sport/olympics/swimming/9433247/London-2012-Olympics-US-swimmers-Michael-Phelps-and-Ryan-Lochte-go-head-to-head-in-first-heavywright-battle.html |archive-url=https://ghostarchive.org/archive/20220112/https://www.telegraph.co.uk/sport/olympics/swimming/9433247/London-2012-Olympics-US-swimmers-Michael-Phelps-and-Ryan-Lochte-go-head-to-head-in-first-heavywright-battle.html |archive-date=January 12, 2022 |url-access=subscription |url-status=live |newspaper=Telegraph}}{{cbignore}}</ref>
+
+Paulie Pennino ([[Burt Young]])'s robot, a character that through the years has enjoyed a cult following of its own, was created by International Robotics Inc. in [[New York City]]. The robot's initial voice was that of the company's CEO, Robert Doornick. The robot is identified by its engineers as "SICO" and is/was a member of the [[Screen Actors Guild]]. It toured with [[James Brown]] in the 1980s.<ref>{{cite web |url=https://www.longislandtechfest.com/robots-games-attractions.htm |title=Welcome to the Long Island Tech Fest! August 19 - 21, 2005 - Robots, Games & Attractions! |access-date=March 23, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20081121002222/http://www.longislandtechfest.com/robots-games-attractions.htm |archive-date=November 21, 2008 }}</ref> The robot was written into the movie after it had been used to help treat Stallone's [[autistic]] son, Seargeoh.<ref>Edwards, Phil. [https://triviahappy.com/articles/the-rocky-iv-robots-secret-connection-to-autism-treatment "The Rocky IV robot’s secret connection to autism treatment,"] ''Trivia Happy'' (March 27, 2014).</ref>
+
+==Music==
+===Soundtrack===
+{{Main|Rocky IV: Original Motion Picture Soundtrack}}
+
+The [[film score|musical score]] for ''Rocky IV'' was composed by [[Vince DiCola]], who would later compose the music for ''[[The Transformers: The Movie]]''. ''Rocky IV'' is the only film in the series prior to ''[[Creed]]'' not to feature original music by [[Bill Conti]]; however, it does feature arrangements of themes composed by Conti from previous films in the series, such as "The Final Bell". Conti, who was too busy with the first two ''[[The Karate Kid (franchise)|Karate Kid]]'' films at the time, would return for ''[[Rocky V]]'' and ''[[Rocky Balboa (film)|Rocky Balboa]]''. Conti's famous piece of music from the Rocky series, "[[Gonna Fly Now]]", does not appear at all in ''Rocky IV'' (the first time in the series this happened), though a few bars of it are incorporated into DiCola's training montage instrumental.
+
+Songs from the movie include "[[Living in America (James Brown song)|Living in America]]" by James Brown, as well as music by [[John Cafferty]] ("[[Heart's on Fire (John Cafferty song)|Heart's on Fire]]", featuring Vince DiCola), [[Survivor (band)|Survivor]] ("[[Burning Heart (song)|Burning Heart]]"), [[Kenny Loggins]], and [[Robert Tepper]]. Four of these songs became U.S. chart hits, two of which reached the top five of the [[Billboard Hot 100|''Billboard'' Hot 100]]. [[Go West (band)|Go West]] wrote "One Way Street" for the movie by request of Sylvester Stallone. [[Europe (band)|Europe]]'s hit "[[The Final Countdown (song)|The Final Countdown]]", written earlier in the decade by lead singer [[Joey Tempest]], is often incorrectly stated as being featured in the film due to its similarity to DiCola's "Training Montage."{{citation needed|date=December 2014}} However, Europe's track was not released as a single until late 1986, after ''Rocky IV''<nowiki>'</nowiki>s release.
+
+According to singer [[Peter Cetera]], he originally wrote his best-selling solo single "[[Glory of Love (Peter Cetera song)|Glory of Love]]" as the end title for this film, but was passed over by [[United Artists]], and was instead subsequently used as the theme for ''[[The Karate Kid Part II]]''.<ref>{{cite magazine |url=https://www.rollingstone.com/music/videos/flashback-peter-cetera-honors-the-glory-of-karate-kids-love-20160414 |title=Flashback: Peter Cetera Honors the 'Glory' of Karate Kid|magazine=[[Rolling Stone]] |access-date=March 18, 2017}}</ref>
+
+==Release==
+===Theatrical===
+''Rocky IV'' premiered in [[Westwood, Los Angeles]] on November 21, 1985.<ref>{{cite magazine |magazine=[[Variety (magazine)|Variety]] |date=November 6, 1985 |page=30 |title=Hollywood Soundtrack}}</ref> It opened Wednesday, November 27 on 1,325 screens in the United States and Canada prior to the [[Thanksgiving]] holiday.
+
+===Lawsuit===
+The script development was the subject of a famous copyright lawsuit, ''[[Anderson v. Stallone]]''. Timothy Anderson developed a treatment for ''Rocky IV'' on [[Spec script|spec]]; after the studio decided not to buy his treatment, he sued when the resulting movie script was similar to his treatment. The court held that Anderson had prepared an unauthorized [[derivative work]] of the characters Stallone had developed in ''Rocky I'' through ''III'', and thus no part of his infringing work was [[Copyrightability|eligible for copyright restriction]].<ref>[https://kentlaw.iit.edu/faculty/rwarner/classes/legalaspects_ukraine/copyright/cases/anderson_v_stallone.html ''Anderson v. Stallone''], 11 U.S.P.Q.2d 1161 (C.D. Cal 1989)</ref>
+
+===''The Ultimate Director's Cut''===
+In August 2020, Stallone announced that a [[director's cut]] edition of the film would be released to commemorate the film's 35th anniversary.<ref>{{cite web |url=https://screenrant.com/rocky-4-directors-cut-footage-drago-creed-sylvester-stallone/ |title=Sylvester Stallone Releases New Footage of Rocky 4 Director's Cut |first=Mike |last=Jones |website=[[Screen Rant]] |date=September 10, 2020 |access-date=November 2, 2020}}</ref> Approximately 38 minutes of previously unreleased footage consisting of both new scenes and alternate takes was added to the film, including significant extensions of both fight scenes and the Apollo Creed funeral scene, in addition to a lengthier recap of ''Rocky III'' at the beginning of the film. A significant amount of original footage was removed or replaced to make way for these additions, as the director's cut runs 93 minutes compared to the original cut's 91 minutes.<ref name=movie-cen/><ref>{{cite web |url=https://www.empireonline.com/movies/reviews/rocky-iv-rocky-vs-drago-the-ultimate-director-cut |title=Sylvester Stallone Says Director's Cut of 'Rocky IV' Coming for Film's Anniversary |first=Terri |last=White |website=Empireonline.com |date=October 18, 2021 |access-date=October 18, 2021}}</ref><ref>{{Cite web |date=October 18, 2021 |title=Rocky IV: Rocky vs. Drago – The Ultimate Director's Cut Review |url=https://www.empireonline.com/movies/reviews/rocky-iv-rocky-vs-drago-the-ultimate-director-cut/|access-date=October 18, 2021 |website=Empireonline.com |language=en-US}}</ref>
+
+One major cut was that of the scenes featuring Paulie's robot. "The robot is going to the junkyard forever, no more robot," Stallone commented.<ref>{{cite web |url=https://www.hollywoodreporter.com/heat-vision/sylvester-stallone-says-directors-cut-of-rocky-iv-coming-for-films-anniversary |title=Sylvester Stallone Says Director's Cut of 'Rocky IV' Coming for Film's Anniversary |first=Ryan |last=Parker |website=[[The Hollywood Reporter]] |date=August 30, 2020 |access-date=November 2, 2020}}</ref><ref>{{cite web |url=https://screenrant.com/rocky-4-directors-cut-paulie-robot-sylvester-stallone/ |title=Rocky IV Director's Cut Won't Include That Ridiculous Robot |first=Humza |last=Hussain |website=Screen Rant |date=August 31, 2020 |access-date=November 2, 2020}}</ref> Robert Doornick, founder of International Robotics and the voice of the robot, commented that Stallone cut all of the robot scenes in the director's cut to save money on royalty fees that were given to Doornick in the original cut.<ref>{{cite magazine |url=https://www.empireonline.com/movies/news/rocky-iv-robot-creator-speaks-out-directors-cut-exclusive/ |title=Rocky IV: Paulie's Robot Creator Speaks Out About Director's Cut Controversy – Exclusive |first=Ben |last=Travis |magazine=[[Empire (magazine)|Empire]] |date=September 29, 2020 |access-date=November 2, 2020}}</ref> Scenes with Brigitte Nielsen playing Ludmilla, Ivan Drago's wife, were also substantially diminished, particularly the scenes where she spoke for her husband at press conferences and her encounter with Mary Anne Creed in [[Las Vegas]] just before the tragic fight between Creed and Drago.
+
+Other scenes from the 1985 version removed in the new cut include Rocky celebrating his wedding anniversary with Adrian Pennino Balboa ([[Talia Shire]]) and the Soviet regime leaders "Mikhail Gorbachev" applauding Rocky for his speech after winning the final fight, with them instead leaving the room, as well as the scene which Rocky says "Merry Christmas" at the end of the speech was diminished. The director's cut also features the addition of some of Bill Conti's musical themes from the previous films onto the soundtrack, and the toning down of sound effects, particularly the exaggerated punching sounds heard in the original cut. The new cut is also presented in an [[aspect ratio]] of 2.39:1 compared to the original's 1.85:1.<ref name=movie-cen>{{Cite web |date=November 22, 2021 |title=Rocky IV (Comparison: Director's Cut (Rocky vs. Drago) - Theatrical Version) |first= |last= |url=https://www.movie-censorship.com/report.php?ID=777252|access-date=November 25, 2021 |website=Movie-Censorship.com}}</ref>
+
+The director's cut, titled ''Rocky IV: Rocky vs. Drago – The Ultimate Director's Cut'', had a one-night theatrical release on November 11, 2021, and was released in digital formats the following day.<ref>{{Cite web |date=June 8, 2021 |title=Rocky 4 Director's Cut Gets November 2021 Theatrical Release Date |url=https://screenrant.com/rocky-4-directors-cut-release-date-sylvester-stallone/|access-date=June 8, 2021 |website=ScreenRant |language=en-US}}</ref><ref>{{Cite web |last=D'Alessandro |first=Anthony |date=September 30, 2021 |title=Sylvester Stallone's Rocky IV: Rocky vs. Drago - The Ultimate Director's Cut Hitting Theaters & Digital |url=https://deadline.com/2021/09/sylvester-stallones-rocky-iv-rocky-vs-drago-ultimate-directors-cut-hitting-theaters-digital-1234847353/|access-date=September 30, 2021 |website=Deadline |language=en-US}}</ref> Unlike the original cut, the director's cut was distributed through [[United Artists Releasing]]. A "making of" video was released on [[YouTube]] a week prior to the director's cut release.<ref>{{Cite web |last=Stallone |first=Sylvester |date=October 30, 2021 |title=The Making of ROCKY VS. DRAGO by Sylvester Stallone |url=https://www.youtube.com/watch?v=suhqtn_brBs |access-date=May 10, 2023 |website=YouTube |publisher=Sly Stallone Shop}}</ref>
+
+It was also re-released theatrically by [[Fathom Entertainment]] on November 5 and 9, 2025, for its 40th anniversary.<ref>{{Cite web | title=Step Into the Ring While “Living in America” and Enjoy the Ultimate Movie Experience with Rocky IV: Rocky vs. Drago (Ultimate Director’s Cut), Coming to Theatres Nationwide for its 40th Anniversary from Fathom Entertainment and Park Circus, November 5 and 9 - Fathom Entertainment | url=https://www.fathomentertainment.com/news/step-into-the-ring-while-living-in-america-and-enjoy-the-ultimate-movie-experience-with-rocky-iv-rocky-vs-drago-ultimate-directors-cut-coming-to-theatres-nationwide-for/ | access-date=2026-07-11 | website=www.fathomentertainment.com}}</ref>
+
+==Reception==
+===Box office===
+Over the 5-day Thanksgiving weekend, it grossed a non-summer record $31,770,105.<ref>{{cite magazine |magazine=[[Variety (magazine)|Variety]] |page=6 |date=November 29, 1989 |title='Future II' blitzes b.o. with $43-mil; Harlem shaggy, 'Talking' quieter}}</ref> In its fourth week of release it expanded to a then-record 2,232 screens.<ref>{{AFI film|id=58336|title=Rocky IV}}</ref> It spent a total of six weeks as the [[List of 1985 box office number-one films in the United States|number one film at the US box office]], staying on top through the Christmas and [[New Year]]s period, and grossed a total of $127.8 million in United States and Canada, and $300.5 million worldwide, the most of any ''Rocky'' film. It was the highest-grossing sports film of all time, until ''[[The Blind Side (film)|The Blind Side]]'' (2009), which grossed $309 million (without accounting for inflation). It was also the highest-grossing fourth installment of a film in the United States and Canada, surpassing the record of ''[[Sudden Impact]]'' (1983).<ref>{{cite magazine |magazine=[[Variety (magazine)|Variety]] |date=June 30, 1997 |page=19 |title=Top Five Fourth Chapters}}</ref> Its success led to other studios opening major films over the Thanksgiving holiday.<ref>{{cite magazine |magazine=[[Variety (magazine)|Variety]] |page=7 |date=November 20, 1995 |title=Holiday B.O. looks tasty but not filling|last=Klady|first=Leonard}}</ref>
+
+In the United Kingdom it also had a record opening, grossing £1,780,894 in its first five days.<ref>{{cite magazine|magazine=[[Screen International]]|date=3 January 1987|pages=8–9|title=That Was The Year That Was|last=Newport|first=David}}</ref>
+
+Stallone has been quoted as saying the enormous financial success and fan-following of ''Rocky IV'' once had him envisioning another ''Rocky'' movie, devoted to Drago and his post-boxing life, with Balboa's storyline running parallel to Drago's. However, he noted the damage both boxers sustained in the fight made them "incapable of reason", and thus instead planned ''Rocky V'' as a showcase of the dangers of boxing.<ref>{{cite journal |title=Acting His Age? The Resurrection of the 80s Action Heroes and their Aging Stars |first=P. |last=Gates |journal=Quarterly Review of Film and Video |year=2010 |volume=27 |issue=4 |pages=276–289 |doi=10.1080/10509200802371113 |s2cid=192139757}}</ref>
+
+===Critical response===
+====Theatrical cut (1985)====
+''Rocky IV'' has a 39% approval rating on review aggregator [[Rotten Tomatoes]], based on 51 critics. The website's critical consensus states, "''Rocky IV'' inflates the action to absurd heights, but it ultimately rings hollow thanks to a story that hits the same basic beats as the first three entries in the franchise."<ref>{{cite web |url=https://www.rottentomatoes.com/m/rocky_iv/ |title=Rocky IV |website=Rotten Tomatoes|access-date=March 29, 2022}}</ref> On [[Metacritic]], the film has a score of 40 out of 100, based on 13 critics, indicating "mixed or average reviews".<ref name="MCReviews">{{cite web |url=https://www.metacritic.com/movie/rocky-iv |title=Rocky IV |website=[[Metacritic]]|access-date=November 27, 2015}}</ref>
+
+[[Roger Ebert]] gave the film two out of four stars, stating that with this film the ''Rocky'' series began "finally losing its legs. It's been a long run, one hit movie after another, but ''Rocky IV'' is a last gasp, a film so predictable that viewing it is like watching one of those old sitcoms where the characters never change and the same situations turn up again and again."<ref>{{Cite web |url=https://www.rogerebert.com/reviews/rocky-iv-1985 |title=Rocky Iv Movie Review & Film Summary (1985) |author-link=Roger Ebert |last=Ebert |first=Roger |website=www.rogerebert.com |access-date=July 22, 2017}}</ref> Ian Nathan of ''[[Empire (magazine)|Empire]]'' gave the film two out of five stars, calling the script a "laughable turd" and describing ''Rocky IV'' as "the [film] where the ''Rocky'' series threw in the towel on the credibility."<ref>{{Cite web |url=https://www.empireonline.com/movies/rocky-iv/review/ |title=Rocky IV |last=Nathan |first=Ian |website=Empire |date=July 31, 2006 |access-date=July 22, 2017}}</ref>
+
+[[Gene Siskel]] of the ''[[Chicago Tribune]]'' gave the film a 3.5 out of 4 stars, and stated in his review, "[Stallone] creates credible villains worthy of his heroic character."<ref>{{cite web |url=https://www.chicagotribune.com/1985/11/27/rocky-iv-produces-a-villain-youll-love-to-hate/ |title='Rocky Iv' Produces A Villain You'll Love To Hate |last=Siskel |first=Gene |website=[[Chicago Tribune]] |date=November 27, 1985 |language=en}}</ref>
+
+====Director's cut (2021)====
+The new cut, entitled ''Rocky IV: Rocky vs. Drago'', received better reviews from critics, mainly praising the fights (new choreography and sound),<ref name="Smith">{{Cite web|last=Smith|first=Jeremy|date=November 11, 2021|title=Stallone radically recut Rocky IV into another mixed (punching) bag|url=https://www.polygon.com/reviews/22777136/rocky-iv-directors-cut-review-stallone-rocky-vs-drogo|access-date=February 18, 2022|website=Polygon|language=en-US}}</ref> more dramatic tone and character development, but still criticizing the plot.<ref name="empireonline.com">{{Cite web|title=Rocky IV: Rocky vs. Drago – The Ultimate Director's Cut|url=https://www.empireonline.com/movies/reviews/rocky-iv-rocky-vs-drago-the-ultimate-director-cut/|access-date=February 18, 2022|website=Empire|date=November 18, 2021 }}</ref> On the [[review aggregator]] website Rotten Tomatoes, 72% of 18 critics' reviews are positive, with an average rating of 6.9/10.<ref>{{cite web |title=Rocky IV: Rocky vs. Drago |url=https://www.rottentomatoes.com/m/rocky_iv_rocky_vs_drago |access-date=March 16, 2024 |website=[[Rotten Tomatoes]]}}</ref>
+
+Jeremy Smith, from ''[[Polygon (website)|Polygon]]'', stated: "The triumph of Stallone’s director’s cut—with a pin-sharp focus on Apollo and Rocky’s relationship and its ruthless removal of anything which distracts—is that it not only nails the central message of the film, but the very point of it existing at all (montages aside)".<ref name="Smith"/>
+
+In her review for ''Empire'', Terri White praised the clearer motivations in the director's cut: "It's a much more sombre context for the film (and goes some way to recontextualising the first three outings) and serves to subdue its worst indulgences. Without the gills of excess breathing quite so hard, the story of Rocky then pledging to fight Drago in [[Christmas in Russia|Russia on Christmas Day]] becomes clear: it's not about solving the [[Cold War]] or even a simple revenge yarn wrapped in bombastic patriotism. Rocky needs to find a way to break free of the code. To find a way to change. Apollo couldn't, it says now more explicitly, and he died because of it".<ref name="empireonline.com"/>
+
+===Accolades===
+Dolph Lundgren received acclaim for his performance as Ivan Drago. He won the Marshall Trophy for Best Actor at the Napierville Cinema Festival.<ref>{{cite web |url=https://www.imdb.com/title/tt0089927/awards |title=''Rocky IV'': Award Wins and Nominations |publisher=[[IMDb]] |access-date= September 3, 2010}}</ref> ''Rocky IV'' also won [[West Germany|Germany]]'s [[Goldene Leinwand|Golden Screen Award]].
+
+The film won five [[Golden Raspberry Awards]], including [[Golden Raspberry Award for Worst Actor|Worst Actor]] (Sylvester Stallone, along with ''[[Rambo: First Blood Part II]]''), [[Golden Raspberry Award for Worst Director|Worst Director]] (Stallone), [[Golden Raspberry Award for Worst Supporting Actress|Worst Supporting Actress]] (Brigitte Nielsen), [[Golden Raspberry Award for Worst New Star|Worst New Star]] (Nielsen, and also for ''[[Red Sonja (1985 film)|Red Sonja]]'') and [[Golden Raspberry Award for Worst Musical Score|Worst Musical Score]] (Vince DiCola). It also received nominations for [[Golden Raspberry Award for Worst Picture|Worst Picture]], [[Golden Raspberry Award for Worst Supporting Actress|Worst Supporting Actress]] (Talia Shire), [[Golden Raspberry Award for Worst Supporting Actor|Worst Supporting Actor]] (Burt Young) and [[Golden Raspberry Award for Worst Screenplay|Worst Screenplay]] at the [[6th Golden Raspberry Awards]].<ref>{{cite web |url=https://razzies.com/asp/content/XcNewsPlus.asp?cmd=view&articleid=26 |title=1985 Archive |author=Wilson, John |publisher=[[Golden Raspberry Award|Razzies.com]] |date=January 2, 2002 |access-date=October 22, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20141013200532/http://razzies.com/asp/content/XcNewsPlus.asp?cmd=view&articleid=26 |archive-date=October 13, 2014 }}</ref>
+
+===Analysis===
+Scholars note that the film's strong yet formulaic structure emphasizes the power of the individual, embodied by Rocky, the prototypically American hero who is inventive, determined, and idealistic.<ref>{{cite journal |title=Rocky IV, Rambo II, and the Place of the Individual in Modern American Society |first1=S. C. |last1=LeSueur |first2=D. |last2=Rehberger |journal=Journal of American Culture |volume=11 |issue=2 |pages=25–33 |year=1988 |doi=10.1111/j.1542-734X.1988.1102_25.x}}</ref> 
+They contrast that with Ivan Drago's hyperbolic characterization as a representation of [[Soviet empire|Soviet power]] in the context of the latter part of the Cold War.<ref name=Lee>{{cite journal |last=Lee |first=Christina |title=Lock and Load(up): The Action Body in The Matrix |journal=Continuum: Journal of Media & Cultural Studies |year=2005 |volume=19 |issue=4 |page=560 |doi=10.1080/10304310500322909 |s2cid=143745508}}</ref><ref name=Lukynov>{{cite journal |last=Lukynov |first=Fyodor |title=America as the Mirror of Russian Phobias |journal=Social Research |year=2005 |volume=72 |issue=4 |pages=859–872 |doi=10.1353/sor.2005.0027 |jstor=40971800|s2cid=142242456 }}</ref> Writer/director Stallone highlights the nationalistic overtones of the Balboa–Drago fight throughout the film, such as when Drago's wife claims the United States is filled with "threats of violence" to her husband. Drago's trainer comments that [[Society of the United States|American society]] has become "pathetic and weak" and "antagonistic and violent", which has been likened to a common [[Definitions of fascism#By scholars|fascist trope]] depicting an enemy both weak and strong at the same time.<ref>{{cite book |chapter=Yo America, let's beat those Commies: Pro-American Propaganda in Rocky IV |first=M. |last=Munfa |title=Living in the Digital World |year=2003}}</ref> Drago represents the [[Totalitarianism|totalitarian regime]], demonstrating his power when he topples an arrogant opponent (Creed).<ref name=Rollin>{{cite book |chapter=Rocky IV Meets La Grande Illusion: Pedagogy and Theory in Popular Culture Study |title=The Americanization of the Global Village: Essays in Comparative Popular Culture |first=Roger B. |last=Rollin |publisher=Popular Press |year=1989 |isbn=0879724692}}</ref> Later on, the radio announcer says, "Ivan Drago is a man with an entire country in his corner."<ref name=Strada>{{cite book |last1=Strada |first1=Michael J. |title=Friend Or Foe?: Russians in American Film and Foreign Policy, 1933-1991 |year=1997 |publisher=Scarecrow Press |isbn=0810832453 |page=157 |last2=Troper |first2=Harold R.}}</ref>
+
+===Reaction in Russia===
+
+Russia's state-run ''[[Russia Beyond]]'' published an article in 2021, detailing the trip of a Russian [[goodwill ambassador]] [[Katya Lycheva]] to America in the 1980s. In the article, it is claimed that she objected to the character Ivan Drago, saying that the film uses him to vilify the Russian people: "In the movie ''Rocky IV'' there is not a word of truth about the Soviet Union. We don't even have such faces."<ref>{{cite web |url=https://aif.ru/society/history/devochka_kotoraya_hotela_mira_chto_plohogo_sdelala_katya_lycheva |title=The girl who wanted peace. What did Katya Lycheva do wrong? |work=[[Argumenty i Fakty]] |date=March 21, 2016 |language=ru}}</ref> Russia Beyond quoted an alleged American journalist saying: "What this film can be blamed for is the constant and shameless pressure on the audience to treat the Russians and their government with contempt, pity and disgust".<ref>{{Cite web |url=https://ru.rbth.com/read/388-katya-lycheva-america |title=Как девочка Катя Лычева встретилась с Рейганом и пыталась помирить СССР и США |access-date=2022-06-14 |archive-date=2021-06-13 |archive-url=https://web.archive.org/web/20210613170020/https://ru.rbth.com/read/388-katya-lycheva-america }} In Russian</ref> In 2020, Russia's ''[[Maxim (magazine)|Maxim]]'' magazine ranked the film 8th in the list of "12 most delusional films about Russia", noting that "cinema takes its grudge against the most unpleasant, pre-Gorbachev Soviet realities. […] Soviet sports and party [[apparatchik]]s are portrayed in the film with incredible poison and malice".<ref>[https://www.maximonline.ru/longreads/_article/12-samykh-bredovykh-filmov-pro-rossiyu-v-poryadke-narastaniya-gradusa-klyukvy/ 12 most crazy films about Russia. In ascending order of degree cranberry]</ref>
+
+==Franchise==
+===Sequel===
+{{see also|Rocky V}}
+A sequel titled ''Rocky V'', was released in November 16, 1990.
+
+===Spin-off===
+{{see also|Creed II}}
+Sylvester Stallone, Dolph Lundgren, and Brigitte Nielsen reprise their roles from ''Rocky IV'' in ''[[Creed II]]'', the sequel to the 2015 film ''[[Creed (film)|Creed]]''. The plot involves Drago's son Viktor ([[Florian Munteanu]]) fighting [[Adonis Creed]] ([[Michael B. Jordan]]) for his title as a way of his father Ivan regaining some of the prestige he lost after his defeat in ''Rocky IV.''<ref>{{cite web |last1=Grech |first1=Kevin |title=Sylvester Stallone – The making of Rocky IV: Rocky vs. Drago |url=https://www.evolutionofbodybuilding.net/sylvester-stallone-making-of-rocky-iv-rocky-vs-drago/ |website=Evolutionofbodybuilding.net |date=November 13, 2021 |publisher=Evolution of Bodybuilding |access-date=November 13, 2021}}</ref>
+
+==Other media==
+===Novelization===
+A [[novelization]] was published by [[Ballantine Books]] in 1985. Sylvester Stallone was credited as the author.<ref>{{cite book |title=Rocky IV |first=Sylvester |last=Stallone |date=January 1, 1985 |publisher=Ballantine Bks. |oclc=12923839}}</ref> The novel included some backstory for Drago and Ludmilla. Drago was a former coal miner who had come to the government's attention after being featured in a Party promotional film about mining. Ludmilla, born in [[Kiev]] to a Party official, had begun training to become a swimming Olympic champion when she was nine.
+
+===Video games===
+{{main|Rocky (1987 video game)|Rocky (2002 video game)|Rocky Legends}}
+
+In 1987, ''Rocky'' was released, based on the first four ''Rocky'' films. 2002 saw the release of ''Rocky'', based on the first five ''Rocky'' films. 2004 saw the release of ''Rocky Legends'', also based on the first five ''Rocky'' films.
+
+==See also==
+* [[Blonde versus brunette rivalry]]<ref name=Page>{{cite news |last1=Page-Kirby |first1=Kristin |title=The battle of the blondes (and the brunettes) |url=https://www.washingtonpost.com/express/wp/2016/05/05/the-battle-of-the-blondes-and-the-brunettes/ |newspaper=[[The Washington Post]] |access-date=28 April 2023}}</ref>
+* [[List of boxing films]]
+* [[List of Christmas films]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.rocky.com/flash.html Official ''Rocky'' Anthology Site] {{Webarchive|url=https://web.archive.org/web/20090721182617/http://www.rocky.com/flash.html|date=July 21, 2009}}
+* [https://www.avclub.com/dolph-lundgren-1798213273 Dolph Lundgren Interview]
+* {{IMDb title|0089927}}
+* {{Mojo title|rocky4}}
+* {{Rotten Tomatoes|rocky_4}}
+
+{{Rocky|Title=Rocky IV}}
+{{Sylvester Stallone}}
+{{Golden Raspberry Award for Worst Musical Score}}
+{{Authority control}}
+
+[[Category:1985 drama films]]
+[[Category:1985 American films]]
+[[Category:1980s Christmas films]]
+[[Category:1985 English-language films]]
+[[Category:1980s sports drama films]]
+[[Category:American films about revenge]]
+[[Category:American boxing films]]
+[[Category:American Christmas films]]
+[[Category:American robot films]]
+[[Category:American sequel films]]
+[[Category:American sports drama films]]
+[[Category:Cold War films]]
+[[Category:Cultural depictions of Mikhail Gorbachev]]
+[[Category:Films directed by Sylvester Stallone]]
+[[Category:Films produced by Robert Chartoff]]
+[[Category:Films produced by Irwin Winkler]]
+[[Category:Films scored by Vince DiCola]]
+[[Category:Films set in the 1980s]]
+[[Category:Films set in 1985]]
+[[Category:Films set in Asia]]
+[[Category:Films set in the Las Vegas Valley]]
+[[Category:Films set in Nevada]]
+[[Category:Films set in Moscow]]
+[[Category:Films set in Philadelphia]]
+[[Category:Films set in Pennsylvania]]
+[[Category:Films set in Russia]]
+[[Category:Films set in the Soviet Union]]
+
+[[Category:Films shot in Los Angeles]]
+[[Category:Films shot in Vancouver]]
+[[Category:Films shot in Wyoming]]
+[[Category:Films with screenplays by Sylvester Stallone]]
+[[Category:Golden Raspberry Award–winning films]]
+[[Category:Metro-Goldwyn-Mayer films]]
+[[Category:Rocky (franchise) films]]
+[[Category:United Artists films]]
+[[Category:English-language Christmas films]]
+[[Category:English-language sports drama films]]
+[[Category:American anti-communist propaganda films]]
+[[Category:Russian-language American films]]

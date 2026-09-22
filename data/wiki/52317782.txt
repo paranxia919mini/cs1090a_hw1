@@ -1,0 +1,65 @@
+{{Short description|1966 film by Mikio Naruse}}
+{{Infobox film
+| name           = The Stranger Within a Woman
+| image          = The Stranger Within a Woman.jpg
+| alt            = 
+| caption        = Japanese film poster
+| native_name    = 女の中にいる他人
+| director       = [[Mikio Naruse]]
+| producer       = {{ubl|[[Sanezumi Fujimoto]]|Masakatsu Kaneko}}
+| writer         = {{ubl|[[Toshirō Ide]]|[[Edward Atiyah]] (novel)}}
+| starring       = {{ubl|[[Keiju Kobayashi]]|[[Michiyo Aratama]]|[[Tatsuya Mihashi]]|[[Mitsuko Kusabue]]}}
+| music          = [[Hikaru Hayashi]]
+| cinematography = Yasumichi Fukuzawa
+| editing        = Eiji Ooi
+| studio         = [[Toho]]
+| distributor    = Toho
+| released       = {{Film date|df=yes|1966|1|25|Japan}}<ref name="jmdb">{{cite web|url=http://www.jmdb.ne.jp/1966/cp000150.htm |title=The Stranger Within a Woman |website=Japanese Movie Database |language=ja |access-date=31 January 2021}}</ref><ref name="galbraith">{{cite book |last=Galbraith IV |first=Stuart |title=The Toho Studios Story: A History and Complete Filmography |publisher=Scarecrow Press |location=Lanham |date=2008 |page=227 |isbn=978-1461673743}}</ref>
+| runtime        = 102 minutes
+| country        = Japan
+| language       = Japanese
+}}
+{{nihongo|'''''The Stranger Within a Woman''''' {{aka}} '''''The Thin Line'''''|女の中にいる他人|Onna no naka ni iru tanin|lead=yes}} is a 1966 Japanese [[Drama (film and television)|drama film]] directed by [[Mikio Naruse]]. It is based on the 1951 novel [[The Thin Line (novel)|''The Thin Line'']] by [[Edward Atiyah]].<ref name="galbraith" />
+
+==Plot==
+Isao and Masako Toshiro are what looks like a happily married middle-class couple with two children. One day, Sayuri, wife of close friend Ryukichi Sugimoto, is found strangled. As it turns out, Sayuri had an affair with another man. Isao, struggling with his conscience, confesses to Masako that he was the man Sayuri had the affair with, and was responsible for her death, although inadvertently. To preserve the family's reputation and sheltered life, Masako begs her husband to keep his deed a secret. Isao also confesses to Ryukichi, who slaps him in return, but refrains from bringing charges against him. When Isao eventually announces to turn himself in to the police, which he sees as the only way to find peace and maintain his personal honour, Masako poisons him with a [[Hypnotic|soporific]]. His death is classified as suicide. Some time later, while taking a walk on the beach with her children, Masako wonders how she will be able to live with her secret.
+
+==Cast==
+* [[Keiju Kobayashi]] as Isao Tashiro
+* [[Michiyo Aratama]] as Masako Tashiro
+* [[Mitsuko Kusabue]] as Yumiko Kato
+* [[Tatsuya Mihashi]] as Ryukichi Sugimoto
+* [[Akiko Wakabayashi]] as Sayuri Sugimoto
+* [[Daisuke Katō]] as bar owner
+* [[Toshio Kurosawa (actor)|Toshio Kurosawa]] as bartender
+* [[Chieko Nakakita]] as Chiyoko
+
+==Release and legacy==
+''The Stranger Within a Woman'' was produced and distributed by [[Toho]] and received a [[roadshow theatrical release]] on January 25, 1966. The film was released with English subtitles in the United States by Toho International in July 1967.<ref name="galbraith" />
+
+Edward Atiyah's novel was again adapted for the screen by [[Claude Chabrol]] for ''[[Just Before Nightfall]]'' (1971). ''The Stranger Within a Woman'' was also remade twice for Japanese television in 1981 (again scripted by [[Toshirō Ide]])<ref>{{cite web|url=http://www.tvdrama-db.com/drama_info/p/id-19014 |title=女の中にいる他人 (The Stranger Within a Woman |website=TV Drama Database |language=ja |access-date=31 January 2021}}</ref> and 2017.<ref>{{cite web|url=https://www.nhk.or.jp/pd/onnanonaka/ |title=女の中にいる他人 (The Stranger Within a Woman) |website=NHK (Japan Broadcasting Corporation) |language=ja |access-date=31 January 2021}}</ref>
+
+==Awards==
+*[[Mainichi Film Awards|Mainichi Film Concour]] for Best Supporting Actor Tatsuya Mihashi<ref>{{cite web |title=21st Mainichi Film Awards |url=https://mainichi.jp/mfa/history/021.html |website=Mainichi.jp |access-date=31 January 2021 |language=ja}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{IMDb title|tt0060786}}
+*{{jmdb title|1966|cp000150}}
+*{{cite web|url=https://mikionaruse.wordpress.com/the-stranger-within-a-woman/ |title=Stranger Within a Woman |website=mikionaruse.wordpress.com |date=5 April 2016 |access-date=31 January 2021}}
+
+{{Mikio Naruse}}
+
+{{DEFAULTSORT:Stranger Within a Woman, The}}
+[[Category:1966 films]]
+[[Category:1966 black-and-white films]]
+[[Category:1966 drama films]]
+[[Category:Japanese drama films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:Toho films]]
+[[Category:Films based on British novels]]
+[[Category:1966 Japanese films]]
+[[Category:Films scored by Hikaru Hayashi]]

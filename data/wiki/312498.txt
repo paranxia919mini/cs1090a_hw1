@@ -1,0 +1,213 @@
+{{Short description|1961 jidaigeki film by Akira Kurosawa}}
+{{other uses}}
+{{Infobox film
+| name            = Yojimbo
+| image           = Yojimbo film poster.jpg
+| alt             = 
+| caption         = Theatrical release poster
+| native_name     = {{Infobox Japanese| kanji=用心棒 | revhep=Yōjinbō | l=Bodyguard}}
+| director        = [[Akira Kurosawa]]
+| screenplay      = {{plainlist|
+* [[Ryūzō Kikushima]]
+* Akira Kurosawa
+* [[Hideo Oguni]]{{sfn|Galbraith|1996|p=448}}}}
+| story           = Akira Kurosawa
+| based_on        = <!-- {{Based on|title of the original work|writer of the original work}} -->
+| producer        = {{Plainlist|
+* [[Tomoyuki Tanaka]]
+* Ryūzō Kikushima
+* Akira Kurosawa{{sfn|Galbraith|1996|p=448}}
+}}
+| starring        = {{plainlist|<!-- Per poster -->
+* [[Toshiro Mifune]]
+* [[Tatsuya Nakadai]]
+* [[Yoko Tsukasa]]
+* [[Isuzu Yamada]]
+* [[Daisuke Katō]]
+* [[Takashi Shimura]]
+* [[Kamatari Fujiwara]]
+* [[Atsushi Watanabe (actor, born 1898)|Atsushi Watanabe]]
+}}
+| narrator       = 
+| cinematography = [[Kazuo Miyagawa]]{{sfn|Galbraith|1996|p=448}}
+| editing        = Akira Kurosawa{{sfn|Galbraith|1996|p=448}}
+| music          = [[Masaru Sato]]{{sfn|Galbraith|1996|p=448}}
+| studio         = {{plainlist|
+* Kurosawa Production
+* [[Toho]]
+}}
+| distributor    = Toho{{sfn|Galbraith|1996|p=448}}
+| released       = {{Film date|df=yes|1961|4|25|Japan}}
+| runtime        = 110 minutes{{sfn|Galbraith|1996|p=448}}
+| country        = Japan
+| language       = Japanese
+| budget         = {{¥|90.87 million (US$631,000)}}{{sfn|Jiji Press|1962|p=211}}
+| gross          = $2.5 million ({{estimation}})
+}}
+
+{{nihongo|'''''Yojimbo'''''|用心棒|Yōjinbō|{{lit.}} ''Bodyguard''|lead=yes}} is a 1961 Japanese ''[[jidaigeki]]'' film directed by [[Akira Kurosawa]], who also co-wrote the screenplay and was one of the producers. The film stars [[Toshiro Mifune]], [[Tatsuya Nakadai]], [[Yoko Tsukasa]], [[Isuzu Yamada]], [[Daisuke Katō]], [[Takashi Shimura]], [[Kamatari Fujiwara]], and [[Atsushi Watanabe (actor, born 1898)|Atsushi Watanabe]]. In the film, a ''[[rōnin]]'' arrives in a small town where competing crime lords fight for supremacy. The two bosses each try to hire the newcomer as a bodyguard.
+
+Based on the success of ''Yojimbo'', Kurosawa's next film, ''[[Sanjuro]]'' (1962), was altered to incorporate the lead character of this film.<ref name="Richie 156">{{cite book|last=Richie|first=Donald|author-link=Donald Richie|title=The films of Akira Kurosawa|page=156}}</ref><ref>{{cite video|title=Kurosawa Akira: Tsukuru to iu koto wa subarashii|trans-title=Akira Kurosawa: It is Wonderful to Create|people=Yoshinari Okamoto (director)|date=2002|language=ja}}</ref> In both films, the character wears a worn dark kimono bearing the same family ''[[Mon (emblem)|mon]]''.{{efn|The mon Mifune's character wears in both films is the ''Maruni Kenkatabami'' ([[:w:jp:家紋の一覧#片喰紋（酢漿）|丸に剣片喰]]), which is the mon of director [[Akira Kurosawa#Style, themes and techniques|Akira Kurosawa]].}}
+
+The film was released and produced by [[Toho]] on April 25, 1961. ''Yojimbo'' received highly positive reviews, and, over the years, became widely regarded as one of the best films by Kurosawa. The film grossed an estimated US$2.5 million worldwide with a budget of ¥90.87 million ($631,000). Its story was [[Plagiarism|plagiarized]] by [[Sergio Leone]] in his [[Spaghetti Western]] ''[[A Fistful of Dollars]]'' (1964),<ref>{{Cite web|date=2017-12-18|title=Yojimbo, A Fistful of Dollars and the curious case of Kurosawa vs Leone |url=https://www.firstpost.com/entertainment/yojimbo-a-fistful-of-dollars-and-the-curious-case-of-kurosawa-vs-leone-4263631.html|website=[[Firstpost]]|access-date=2020-07-17}}</ref> leading to a lawsuit by Toho.
+
+==Plot==
+In 1860, during the [[Bakumatsu|final years]] of the [[Edo period]], a ''[[rōnin]]'' wanders through a desolate countryside. Stopping at a farmhouse for water, he overhears an elderly couple lamenting that their only son has run off to join the "gamblers" in a nearby town, which is overrun with criminals and contested by two rival [[yakuza]] gangs.
+
+In the town, the rōnin stops at a small ''[[izakaya]]'' (tavern). The owner Gonji advises the rōnin to leave, and tells him that the two warring bosses, Ushitora and Seibei, are fighting over the lucrative gambling trade run by Seibei. Ushitora had been Seibei's right-hand man until Seibei decided that his successor would be his son Yoichiro, a useless youth. The town's mayor, a silk merchant named Tazaemon, had long been in Seibei's pocket, so Ushitora aligned himself with the local [[sake]] brewer, Tokuemon, proclaiming him the new mayor.
+
+After sizing up the situation and recognizing that no one in town cares about ending the violence, the rōnin says he intends to stay, as the town would be better off with both sides dead. He convinces the weaker Seibei to hire his services by effortlessly killing three of Ushitora's men. When asked his name, he sees a [[Morus (plant)|mulberry field]] and states his name is Kuwabatake ("mulberry field") Sanjuro ("thirty-years-old") ({{lang|ja|桑畑三十郎}}).{{efn|三十郎 Sanjuro is a proper given name (and therefore could very well be the rōnin's true name), but it can also be interpreted as meaning "thirty-years-old", and Sanjuro wryly adds that "it's closer to forty".}}
+
+Seibei decides that with the rōnin's help, it is time to deal with Ushitora. Sanjuro eavesdrops on Seibei's wife, who orders Yoichiro to prove himself by killing the rōnin after the upcoming raid, saving them from having to pay him. Sanjuro leads the attack on Ushitora's faction, but then "resigns" over Seibei's treachery, expecting both sides to massacre each other. His plan is foiled due to the unexpected arrival of a ''[[bugyō]]'' (a government official), which prompts both Seibei and Ushitora to make a bloodless retreat.
+ 
+The ''bugyō'' leaves soon after to investigate the assassination of a fellow official in another town. Overhearing the assassins discussing the hit in Gonji's tavern, Sanjuro later captures them and sells them to Seibei. Then he comes to Ushitora and tells him Seibei's men caught the assassins. Alarmed, Ushitora generously rewards Sanjuro for his "help" and kidnaps Yoichiro to exchange for the two assassins. At the swap, Ushitora's brother Unosuke kills the assassins with a pistol.
+
+Anticipating this, Seibei reveals he had ordered the kidnapping of Tokuemon's mistress. The next morning, she is exchanged for Yoichiro. Sanjuro learns that the mistress, Nui, is a local farmer's wife. After he sold her to Ushitora to settle a gambling debt, Ushitora gave her to Tokuemon as [[Personal property|chattel]] to gain his support. After tricking Ushitora into revealing where Nui is held, Sanjuro kills the guards and reunites the woman with her husband and son. He gives them some money and orders them to leave town immediately. He comes to Ushitora and informs him that Seibei is responsible for killing his men. 
+
+The gang war escalates, with Ushitora burning down Tazaemon's silk warehouse and Seibei retaliating by trashing Tokuemon's sake brewery. After some time, Unosuke becomes suspicious of Sanjuro and the circumstances surrounding Nui's escape, eventually uncovering evidence of the rōnin's betrayal. Sanjuro is severely beaten and imprisoned by Ushitora's thugs, who torture him to find out Nui's whereabouts. When Ushitora decides to eliminate Seibei once and for all, Sanjuro escapes. Smuggled out of town in a coffin by Gonji, Sanjuro witnesses the brutal end of Seibei and his family. He then recuperates in a small temple near a cemetery. 
+
+Upon learning that Gonji has been captured by Ushitora, Sanjuro returns to town and dispatches Ushitora, Unosuke, and their gang in a final confrontation. He spares a terrified young man, the son of the elderly couple from the opening, and sends him back to his parents. As Sanjuro surveys the damage, a now deranged Tazaemon comes out of his home in a samurai outfit and stabs Tokuemon to death. Sanjuro frees Gonji, proclaims that the town will be quiet from then on, and departs.
+
+==Cast==
+{{div col}}
+* [[Toshiro Mifune]] as {{nihongo|"Kuwabatake Sanjuro"|桑畑 三十郎}}, a wandering rōnin and master swordsman who provokes two gangs into open war.
+* [[Eijirō Tōno]] as {{nihongo|Gonji|権爺}}, the [[izakaya]] (tavern) owner and the rōnin's ally and confidant.
+* [[Tatsuya Nakadai]] as {{nihongo|Unosuke|卯之助}}, a gun-toting gangster and younger brother to both Ushitora and Inokichi.
+* Seizaburo Kawazu as {{nihongo|Seibei|清兵衛}}, the original boss of the town's underworld. He operates out of a brothel.
+* [[Kyū Sazanka]] as {{nihongo|Ushitora|丑寅}}, the other gang leader in town. He was originally Seibei's lieutenant but broke ranks to start his own syndicate in a succession dispute.
+* [[Isuzu Yamada]] as {{nihongo|Orin|おりん}}, the wife of Seibei and the brains behind her husband's criminal operations.
+* [[Daisuke Katō]] as {{nihongo|Inokichi|亥之吉}}, younger brother of Ushitora and older brother to Unosuke. He is a strong fighter but is very dim-witted and easily fooled.
+* [[Takashi Shimura]] as {{nihongo|Tokuemon|徳右衛門}}, a sake brewer who claims to be the new mayor.
+* Hiroshi Tachikawa as {{nihongo|Yoichiro|倅与一郎}}, the timid son of Seibei and Orin who shows little inclination to take over his father's gang.
+* [[Yosuke Natsuki]] as the farmer's son, a young man seen running away from home at the beginning of the film who joins Ushitora's gang.
+* [[Kamatari Fujiwara]] as {{nihongo|Tazaemon|多左衛門}}, the town mayor and silk merchant who is going insane from fear.
+* Ikio Sawamura as {{nihongo|Hansuke|半助}}, the town constable who is completely corrupt and concerned only with keeping himself alive.
+* [[Atsushi Watanabe (actor, born 1898)|Atsushi Watanabe]] as the town's coffin maker, who is profiting heavily from the gang war but ultimately chooses to help Sanjuro and Gonji put an end to it.
+* [[Susumu Fujita]] as {{nihongo|Honma|本間}}, Seibei's "master swordsman" who deserts his employer before a battle with Ushitora's men, allowing Sanjuro to take his place.
+* [[Sachio Sakai]] as [[Ashigaru]]
+* [[Yoko Tsukasa]] as {{nihongo|Nui|ぬい}}, the wife of Kohei. She was taken prisoner by Tokuemon because of her beauty after her husband could not pay back his gambling debts.
+* [[Yoshio Tsuchiya]] as {{nihongo|Kohei|小平}}, the husband of Nui who lost all of his money gambling and frequently gets beaten for trying to visit his wife.
+* {{illm|Tsunagoro Rashomon|ja|羅生門綱五郎}} as {{nihongo|Kannuki|かんぬき}}, Ushitora's [[acromegalic]] enforcer.
+{{div col end}}
+
+==Production==
+
+===Writing===
+Kurosawa stated that a major source for the plot was the 1942 [[film noir]] classic ''[[The Glass Key (1942 film)|The Glass Key]]'', an adaptation of [[Dashiell Hammett]]'s 1931 [[The Glass Key|novel of the same name]]. It has been noted that the overall plot of ''Yojimbo'' is closer to that of another Hammett novel, ''[[Red Harvest]]'' (1929).<ref>{{cite journal|last=Desser|first=David|title=Towards a Structural Analysis of the Postwar Samurai Film|journal=Quarterly Review of Film Studies|year=1983|volume=8|issue=1|page=33|publisher=Redgrave Publishing Company|doi=10.1080/10509208309361143|type=Print|issn=0146-0013}}</ref>  Kurosawa scholar David Desser, and film critic [[Manny Farber]] claim that ''Red Harvest'' was the inspiration for the film; however, [[Donald Richie]] and other scholars believe the similarities are coincidental.<ref>{{cite web|first=Allen|last=Barra|url=http://dir.salon.com/story/books/feature/2005/02/28/hammett/index.html?pn=1|title=From Red Harvest to Deadwood|work=Salon|year=2005|access-date=2006-06-22|archive-url=https://web.archive.org/web/20081205032124/http://dir.salon.com/story/books/feature/2005/02/28/hammett/index.html?pn=1|archive-date=2008-12-05|url-status=dead}}</ref>
+
+When asked his name, the samurai calls himself "Kuwabatake Sanjuro", which he seems to make up while looking at a [[mulberry]] field by the town. Thus, the character can be viewed as an early example of the "[[Man with No Name]]" (other examples of which appear in several earlier works, including ''Red Harvest'').<ref>{{cite book|author=Dashiell Hammett|title=Red Harvest|year=1992|publisher=Knopf Doubleday Publishing |isbn=0-679-72261-0}}</ref>
+
+===Casting===
+Many of the actors in ''Yojimbo'' worked with Kurosawa before and after, especially [[Toshiro Mifune]], [[Takashi Shimura]] and [[Tatsuya Nakadai]].<ref>{{cite web|title=Kurosawa's Actors|url=http://www.kurosawamovies.com/actors.htm|archive-url=https://web.archive.org/web/20080204222853/http://kurosawamovies.com/actors.htm|url-status=usurped|archive-date=February 4, 2008|website=kurosawamovies.com|access-date=18 November 2016}}</ref> Kannuki, Ushitora's giant enforcer, is played by [[Taiwan under Japanese rule|Taiwanese]]-born Tsunagoro Rashomon (Zhao Yiyue), a former [[sumo wrestling|sumo wrestler]] and [[professional wrestling in Japan|professional wrestler]].
+
+===Filming===
+After Kurosawa scolded Mifune for arriving late to the set one morning, Mifune made it a point to be ready on set at 6:00{{nbsp}}a.m. every day in full makeup and costume for the rest of the film's shooting schedule.<ref>{{cite web| url=http://www.geraldpeary.com/interviews/mno/mifune.html | archive-url=https://web.archive.org/web/20021211212934/http://www.geraldpeary.com/interviews/mno/mifune.html | url-status=usurped | archive-date=December 11, 2002 |first=Gerald |last=Peary|author-link=Gerald Peary|quote="One day Kurosawa said, 'I won't mention names, but the actors are late.' I said. 'What are you talking about? I'm the actor.' Every day after that, when Kurosawa arrived, I would be there already, in costume and makeup from 6 a.m. I showed him."|publisher=The Globe and Mail|date=June 6, 1986|title=Toshiro Mifune|access-date=2013-04-30}}</ref>
+
+This was the second film where director Akira Kurosawa worked with cinematographer [[Kazuo Miyagawa]] (the first being ''[[Rashomon]]'' in 1950).<ref>{{cite web|last1=Bergan|first1=Ronald|title=Kazuo Miyagawa The innovative Japanese cinematographer whose reputation was made by Rashomon|url=https://www.theguardian.com/news/1999/aug/20/guardianobituaries2|website=theguardian.com|date=20 August 1999|access-date=18 November 2016}}</ref>
+The sword instruction and choreography for the film were done by [[Yoshio Sugino]] of the [[Tenshin Shōden Katori Shintō-ryū]] and Ryū Kuze.<ref>{{cite web|last1=Li|first1=Christopher|title=Interview with Yoshio Sugino of Katori Shinto-ryu, 1961|url=http://www.aikidosangenkai.org/blog/interview-yoshio-sugino-katori-shinto/|website=aikidosangenkai.org|date=18 April 2015|access-date=18 November 2016}}</ref>
+
+===Music===
+The soundtrack for the film has received positive reviews. [[Michael Wood (academic)|Michael Wood]] writing retrospectively for the ''London Review of Books'' found the film's soundtrack by [[Masaru Sato]] as effective in its "jaunty and jangling" approach stating:<ref name="Books, Vol 2007, page 17">Wood, Michael (22 February 2007). "[https://www.lrb.co.uk/the-paper/v29/n04/michael-wood/at-the-movies ''Yojimbo'']{{-"}}. At the Movies. ''London Review of Books'', Vol. 29, No. 4. p. 17.</ref>
+
+<blockquote>The film is full of music, for instance, a loud, witty soundtrack by Masaru Sato, who said his main influence was Henry Mancini. It doesn't sound like ''Breakfast at Tiffany's'', though, or ''Days of Wine and Rose''s. The blaring Latin sound of ''Touch of Evil'' comes closer, but actually you wouldn't think of Mancini if you hadn't been told. Sato's effect has lots of drums, mixes traditional Japanese flutes and other instruments with American big band noises, and feels jaunty and jangling throughout, discreetly off, as if half the band was playing in the wrong key. It's distracting at first, then you realise it's not decoration, it's commentary. It's a companion to ''Sanjuro'', the sound of his mind, discordant and undefeated and unserious, even when he's grubby and silent and apparently solemn.<ref name="Books, Vol 2007, page 17"/></blockquote>
+
+==Release==
+''Yojimbo'' was released in Japan on 25 April 1961.{{sfn|Galbraith|1996|p=448}} The film was released by Seneca International in both a subtitled and dubbed format in the United States in September 1961.{{sfn|Galbraith|1996|p=448}}
+
+===Box office===
+''Yojimbo'' was [[List of highest-grossing films in Japan|Japan's fourth highest-grossing film]] of 1961, earning a [[distribution rental]] income of {{JPY|351 million|link=yes}}.{{sfn|''Kinema Junpo''|2012|p=180}} This was equivalent to estimated [[box office]] gross receipts of approximately {{JPY|{{#expr:<!--rentals-->351*<!--1961 rental-receipts ratio-->(73003/38869) round 0}} million}}<ref name="Statistics">{{cite web |title=Statistics of Film Industry in Japan |url=http://www.eiren.org/statistics_e/index.html |website=Eiren |publisher=Motion Picture Producers Association of Japan |access-date=20 June 2020}}</ref> ({{US$|{{#expr:659/360 round 2}} million|long=no|link=yes}}).<ref>{{cite web |title=Official exchange rate (LCU per US$, period average) - Japan |url=https://data.worldbank.org/indicator/PA.NUS.FCRF?end=1971&locations=JP&start=1960 |website=[[World Bank]] |year=1961 |access-date=20 June 2020}}</ref>
+
+Overseas, the film had a September 1961 release in [[North America]], but the box office income of this release is currently unknown.<ref>{{cite web |title=Yojimbo |url=https://www.boxofficemojo.com/releasegroup/gr895635973/ |website=[[Box Office Mojo]] |access-date=20 June 2020}}</ref> At the 2002 Kurosawa & Mifune Festival in the United States, the film grossed $561,692.<ref>{{cite web |title=Kurosawa & Mifune Festival |url=https://www.boxofficemojo.com/releasegroup/gr11096581/ |website=[[Box Office Mojo]] |access-date=20 June 2020}}</ref> In South Korea, a 2012 re-release grossed {{KRW|1.566 million|link=yes}}<ref>{{cite web |title=영화정보 |trans-title=Movie Information |url=http://www.kobis.or.kr/kobis/business/mast/mvie/searchMovieList.do |website=KOFIC |publisher=[[Korean Film Council]] |language=ko |access-date=26 August 2019 }}</ref> ({{US$|{{To USD|1566000|KOR|year=2012|round=yes}}|long=no}}).
+
+In Europe, a January 1991 limited French re-release sold 14,178 tickets,<ref>{{cite web |title=Yojimbo (1961) |url=http://www.jpbox-office.com/fichfilm.php?id=20392 |website=JP's Box-Office |language=fr |access-date=20 June 2020}}</ref> equivalent to an estimated gross revenue of approximately {{Currency|{{#expr:14178*4.5 round 0}}|code=Euro|linked=yes}}<ref name="Europe">{{cite book |chapter=Cinema market |title=Cinema, TV and radio in the EU: Statistics on audiovisual services (Data 1980-2002) |date=2003 |publisher=[[Office for Official Publications of the European Communities]] |isbn=92-894-5709-0 |issn=1725-4515 |pages=31–64 (61) |edition=2003 |chapter-url=https://ec.europa.eu/eurostat/documents/3217494/5648553/KS-BT-03-001-EN.PDF/3758081d-5ae4-4e21-9d78-fca7bcc68d5c#page=67 |via=[[Europa (web portal)|Europa]] |access-date=23 May 2020}}</ref> ($87,934).<ref>{{cite web |title=Historical currency converter with official exchange rates (EUR) |url=https://fxtop.com/en/historical-currency-converter.php?A=63801&C1=EUR&C2=USD&DD=31&MM=01&YYYY=1991 |date=31 January 1991 |access-date=23 May 2020}}</ref> Other limited European re-releases sold 3,392 tickets between 2000 and 2018,<ref>{{cite web |title=Film #16103: Yojimbo |url=http://lumiere.obs.coe.int/web/film_info/?id=16103 |website=[[Lumiere (database)|Lumiere]] |publisher=[[European Audiovisual Observatory]] |access-date=20 June 2020}}</ref> equivalent to an estimated gross revenue of at least {{Currency|{{#expr:3392*5.6 round 0}}|code=Euro}}<ref name="Europe"/> ({{US$|{{To USD|18995|EUR|year=2008|round=yes}}|long=no}}). This adds up to an estimated {{US$|{{#expr:561692+1390+87934+27934}}|long=no}} grossed overseas, and an estimated {{US$|{{#expr:1830000+678950}}|long=no}} grossed worldwide.
+
+Adjusted for ticket price inflation, at 2012 Japanese ticket prices, its Japanese gross receipts are equivalent to an estimated {{JPY|{{#expr:<!--1961 gross-->0.659*<!--2012/1961 ratio-->(1258/85) round 2}} billion}}<ref name="Statistics"/> ({{US$|{{To USD|9750|JPN|year=2012|round=yes}} million|long=no}}), or {{US$|{{Inflation|US|122|2012}} million|long=no}} [[adjusted for inflation]] in {{Inflation/year|US}}. The overseas gross revenue of North American and European re-releases since 1991 are equivalent to approximately {{US$|{{Inflation|US|0.678950|1991|r=1}} million|long=no}} adjusted for inflation, adding up to an estimated inflation-adjusted total gross of over {{US$|{{#expr:136+1.3 round 0}} million|long=no}} worldwide.
+
+===Critical response===
+''Yojimbo'' was nominated for the [[Academy Award for Best Costume Design]] at the [[34th Academy Awards]]. Toshiro Mifune won the [[Volpi Cup for Best Actor]] at the [[22nd Venice International Film Festival|22nd Venice Film Festival]]. 
+
+A 1968 screening in the planned community of [[Columbia, Maryland]] was considered too violent for viewers, causing the hosts to hide in the bathroom to avoid the audience.<ref>{{cite book|title=New City Upon a Hill|author=Joseph Rocco Mitchell, David L. Stebenne|page=116}}</ref>
+
+[[Pauline Kael]] described the film as Kurosawa's "first shaggy man" movie<ref>{{Cite web |title=The Age of Movies: Selected Writings of Pauline Kael (paperback) |url=https://www.loa.org/books/348-the-age-of-movies-selected-writings-of-pauline-kael-paperback/ |access-date=2025-10-06 |website=Library of America |language=en-US}}</ref> going on to call it a wonderful satire-comedy and "farce of force."
+
+In a retrospective look at the film [[Michael Wood (academic)|Michael Wood]] writing for the ''London Review of Books'' found the film to span several genres and compared it to other western and samurai films from the 1950s, 60s, and 70s, such as ''[[Seven Samurai]]'', ''[[A Fistful of Dollars]]'', ''[[High Noon]]'', ''[[The Outlaw Josey Wales]]'', and ''[[Rashomon]]'', stating, "(The film contains) comedy, satire, folk tale, action movie, Western, samurai film, and something like a musical without songs. As everyone says, this work is not as deep as ''Rashomon'' or as immediately memorable as ''Seven Samurai.'' But it is funnier than any Western from either side of the world, and its only competition, in a bleaker mode, would be Clint Eastwood’s ''The Outlaw Josey Wales'' (1976)."<ref name="Books, Vol 2007, page 17"/> In 2009 the film was voted at No. 23 on the list of ''The Greatest Japanese Films of All Time'' by Japanese film magazine [[Kinema Junpo]].<ref>{{cite web|url=http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version|title=Greatest Japanese films by magazine Kinema Junpo (2009 version)|access-date=2011-12-26|archive-url=https://archive.today/20120711021342/http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version|archive-date=July 11, 2012|url-status=dead}}</ref> ''Yojimbo'' was also ranked at #95 in ''[[Empire (magazine)|Empire]]'' magazine's list of the ''500 Greatest Films of All Time''.<ref>{{cite web|url=http://www.empireonline.com/500/81.asp|title=The 500 Greatest Movies Of All Time|work=Empire|publisher=Bauer Media Group|access-date=August 17, 2011|archive-url=https://web.archive.org/web/20110814081404/http://www.empireonline.com/500/1.asp|archive-date=2011-08-14|url-status=live}}</ref>
+
+{{Rotten Tomatoes prose|96|9|50|consensus=As effortlessly engaging as it is widely influential, ''Yojimbo'' represents Kurosawa at the peak of his powers -- and lays the groundwork for the modern American western.|ref=yes|access-date=April 19, 2025}} [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the {{#switch:  | episode = episode | series = series | season = season | film }} a score of 93 out of 100, based on 16 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''Yojimbo'' |url=https://www.metacritic.com/movie/yojimbo |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=April 19, 2025 |archive-url= |archive-date= |url-status=}}</ref><ref>{{Cite Metacritic |title=Yojimbo |id=yojimbo |type=movie |access-date=April 19, 2025}}</ref>
+
+==Sequel==
+{{Main|Sanjuro{{!}}''Sanjuro''}}
+In 1962, Kurosawa directed ''[[Sanjuro]]'', originally intended to be a straight adaptation of [[Shūgorō Yamamoto]]'s short story {{nihongo|''Hibi Heian''|日日平安||lit. "Peaceful Days"}}, but was reworked to include Mifune and his character following the success of ''Yojimbo''.<ref name="Richie 156"/>
+
+In both films, he takes his surname from the plants he happens to be looking at when asked his name: in ''Yojimbo'' it is the mulberry trees that feed the town's silkworms, and in ''Sanjuro'' it is camellia bushes used to make tea.{{sfn|Conrad|2022|p=}}
+
+==Legacy==
+{{stack|[[File:Toshiro Mifune as a lone hero in Yojimbo (1961).jpg|thumb|Western-influencing cinematography; Toshiro Mifune as a lone hero in wide framing.]]}}
+Both in Japan and in the West, ''Yojimbo'' has influenced various forms of entertainment.
+
+''Yojimbo'' has been [[Remake|remade]] several times, starting with ''[[A Fistful of Dollars]]'' (1964), a [[Western (genre)|Western]] directed by [[Sergio Leone]] and starring [[Clint Eastwood]] in his first appearance as the [[Man with No Name]].{{sfn|Curti|2016|pp=25-26}} Leone and his production company failed to secure the remake rights to Kurosawa's film, resulting in a lawsuit. It was settled out of court for an undisclosed agreement before the U.S. release.{{sfn|Galbraith|2002|p=312}} A second, looser western adaptation, ''[[Django (1966 film)|Django]]'' (1966), was directed by [[Sergio Corbucci]] and featured [[Franco Nero]] in [[Django (character)|the title role]].<ref name="Western2">Marco Giusti, ''Dizionario del western all'italiana'', 1st ed. Milan, Mondadori, August 2007. {{ISBN|978-88-04-57277-0}}.</ref><ref name="One2">{{cite video |title=Django (Django: The One and Only) |date=1966 |medium=DVD |publisher=[[Blue Underground]] |location=Los Angeles, California}}</ref><ref name="Cox2">{{cite book |last=Cox |first=Alex |title=10,000 Ways to Die: A Director's Take on the Spaghetti Western |date=2009-09-01 |publisher=Oldcastle Books |isbn=978-1842433041 |authorlink=Alex Cox}}</ref> Other retellings include ''[[The Warrior and the Sorceress]]'' (1984), a [[sword and sorcery]] take,<ref>[http://www.dvdtalk.com/reviews/46610/roger-cormans-cult-classics-double-feature-the-warrior-and-the-sorceress-barbarian-queen DVD Talk - Roger Corman's Cult Classics Double Feature: The Warrior and the Sorceress/Barbarian Queen]</ref> and ''[[Inferno (1999 film)|Inferno]]'' (1999, aka ''Desert Heat'').<ref>{{cite encyclopedia |title=Desert Heat &#124; film by Avildsen &#91;1999&#93; &#124; Britannica |encyclopedia=Encyclopedia Britannica |url=https://www.britannica.com/topic/Desert-Heat}}</ref> ''[[Last Man Standing (1996 film)|Last Man Standing]]'' (1996), a [[Prohibition in the United States|Prohibition]]-era [[action film]] directed by [[Walter Hill]] and starring [[Bruce Willis]], is an official remake of ''Yojimbo'': both Kikushima and Kurosawa specifically listed in this movie's credits as having provided the original story.<ref>{{cite web |date=30 September 2003 |title=A Comparison of 'Yojimbo', 'A Fistful of Dollars' and 'Last Man Standing' |url=https://h2g2.com/edited_entry/A1161271 |access-date=2018-08-19}}</ref>
+
+The film ''[[Zatoichi Meets Yojimbo]]'' (1970) features Mifune as a somewhat similar character. It is the twentieth of a series of movies featuring the blind swordsman [[Zatoichi]]. Although Mifune is clearly not playing the same "Yojimbo"<ref name="archive.animeigo.com liner notes2">{{cite web |title=archive.animeigo.com liner notes |url=https://archive.animeigo.com/liner/out-print/incident-blood-pass.html |access-date=2018-08-18}}</ref> as he did in the two Kurosawa films (his name is Sasa Daisaku {{lang|ja|佐々大作}}, and his personality and background are different in many key respects), the movie's title and some of its content do intend to suggest the image of the two iconic ''[[jidaigeki]]'' characters confronting each other.{{citation needed|date=June 2023}} ''[[Machibuse|Incident at Blood Pass]]'' (1970), made the same year, stars Mifune as a rōnin who looks and acts even more similarly to Sanjuro and is referred to simply as "Yojimbo"<ref name="archive.animeigo.com liner notes2" /> throughout the film, but whose name is Shinogi Tōzaburō.<ref>{{cite web |title=待ち伏せ |url=https://eiga.com/movie/39492/ |url-status=live |archive-url=https://web.archive.org/web/20210909043650/https://eiga.com/movie/39492/ |archive-date=2021-09-09 |access-date=2018-08-17 |website=[[:ja:映画.com|Eiga.com]] |publisher=[[Kakaku.com]] |language=Japanese}}</ref> As was the case with ''Sanjuro'', this character's surname of ''Shinogi'' ({{lang|ja|鎬}}) is not an actual proper family name, but rather a term that means "ridges on a blade".<ref>{{cite web |title=Shinogi 鎬 (しのぎ) |url=http://www.gokanji.com/cgi-bin/j-e/jis/nocolor/dosearch?sDict=on&H=PW&L=J&T=%1B%24Bo.%1B%28B&WC=none |access-date=2025-01-08 |website=和英／英和辞典 - Japanese⇔English Dictionary}}</ref>
+
+Outside of remakes, several other films and other works have been inspired by the basic premise of an outsider joining a criminal group to defeat them from within. James Bond screenwriter [[Michael G. Wilson]] compared the story of ''[[Licence to Kill]]'' (1989) to ''Yojimbo'', as both feature their leads "without any attacking of the villain or its cohorts, only sowing the seeds of distrust, he manages to have the villain bring himself down".<ref name="comm2">{{cite video |title=[[Audio commentary]] |medium=DVD |publisher=MGM |year=1999 |location=''Licence to Kill'': Ultimate Edition |people=John Cork}}</ref> Screenwriter [[Lawrence Kasdan]] stated that his inspiration for ''[[The Bodyguard (1992 film)|The Bodyguard]]'' (1992) was "''Yojimbo'' with [[Steve McQueen]] as the lead."<ref>Schreger, Charles (October 6, 1979). "Writer's Hot, but No Credits: Film Clips". Los Angeles Times. p. B6.</ref> [[Nancy A. Collins]]'s novel ''A Dozen Black Roses'' (1996), the fourth book in her series about vampire killer Sonja Blue, is a retelling of ''Yojimbo'' featuring warring vampire clans with Blue taking the role of protagonist.{{Citation needed|date=August 2024}} After the writers of season one of ''[[Barry (TV series)|Barry]]'' (2018) discovered they had "kinda just did ''Yojimbo''," they added an acknowledgement of the similarity in the show itself.<ref>{{cite web |title='Barry' Finale: Bill Hader, Alec Berg on That Shocking End and What's Next |publisher=[[Hollywood Reporter]] |date=May 13, 2018 |first=Pete |last=Keeley |url=https://www.hollywoodreporter.com/tv/tv-news/barry-finale-recap-explained-bill-hader-alec-berg-season-2-preview-1111435/}}</ref>
+
+Other works that pay narrative and visual homage to ''Yojimbo'' include ''[[Star Wars Episode IV: A New Hope]]'' (1977),<ref>{{cite web |title=Star Wars Episodes IV-VI: Influences |url=https://www.sparknotes.com/film/starwars/section3/ |access-date=2022-04-26 |publisher=[[Spark Notes]]}}</ref> ''[[Star Wars: The Last Jedi]]'' (2017),<ref>{{cite web |date=2018-01-25 |title=HOW AKIRA KUROSAWA INSPIRED STAR WARS & THE LAST JEDI 40 YEARS APART |work=In A Far Away Galaxy |url=https://www.inafarawaygalaxy.com/2018/01/kurosawa-references-star-wars.html |access-date=2022-07-28}}</ref> ''[[Samurai Jack]]'' (2002)<ref>{{cite web |title=Samurai Jack: Season 1 : DVD Talk Review of the DVD Video |url=http://www.dvdtalk.com/reviews/10528/samurai-jack-season-1 |access-date=2014-04-08 |publisher=Dvdtalk.com}}</ref> and ''[[Usagi Yojimbo]]''.{{Citation needed|date=August 2024}}
+
+Mifune's character became the model for [[John Belushi]]'s [[Samurai Futaba]] character on ''[[Saturday Night Live]]''.<ref>{{cite news |last=Barra |first=Allen |date=2010-08-17 |title=That Nameless Stranger, Half a Century Later |url=https://www.wsj.com/articles/SB10001424052748703309704575413672923186974 |access-date=2012-01-10 |newspaper=Wall Street Journal}}</ref> [[Roger Clark (actor, born 1978)|Roger Clark]] cited ''Yojimbo'' as an inspiration for his portrayal of [[Arthur Morgan]] in ''[[Red Dead Redemption 2]]''.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=zavWTWYZxWI |title=The REAL Arthur Morgan Reacts to Red Dead Redemption 2 |date=2024-07-31 |last=Gamology |access-date=2025-07-06 |via=YouTube}}</ref>
+
+==See also==
+*[[List of cult films]]
+
+== References ==
+=== Explanatory notes ===
+{{Notelist}}
+
+===Footnotes===
+{{Reflist}}
+
+===Sources===
+{{Refbegin}}
+* {{Cite book |last=Conrad |first=David A. |year=2022 |title=Akira Kurosawa and Modern Japan |publisher=McFarland & Company |isbn=978-1476686745}}
+* {{Cite book |last=Curti |first=Roberto |year=2016 |title=Tonino Valerii: The Films |publisher=McFarland & Company |isbn=978-1476626185}}
+* {{Cite book |last=Galbraith |first=Stuart IV |author-link=Stuart Galbraith IV |year=2002 |title=The Emperor and the Wolf: The Lives and Films of Akira Kurosawa and Toshiro Mifune |url=https://archive.org/details/emperorwolf00galb |url-access=registration |publisher=Faber and Faber |page=312 |isbn=978-0-571-19982-2}}
+* {{Cite book |last=Galbraith |first=Stuart IV |date=1996 |title=The Japanese Filmography: 1900 through 1994 |publisher=McFarland |isbn=0-7864-0032-3 }}
+* {{Cite book |title=Movie Yearbook: 1962 Edition |publisher=Jiji Press |year=1962 |language=Japanese |ref={{Harvid |Jiji Press|1962}}}}
+* {{Cite magazine |title=Kinema Junpo Best Ten 85th Complete History 1924–2011 |language=Japanese |magazine=[[Kinema Junpo]] |date=May 17, 2012 |isbn=9784873767550 |ref={{harvid|''Kinema Junpo''|2012}}}}
+{{Refend}}
+
+==External links==
+{{wikiquote|Yojimbo}}
+* {{IMDb title|0055630}}
+* {{tcmdb title|id=96427}}
+* {{mojo title|id=yojimbo}}
+* {{Rotten-tomatoes|yojimbo}}
+* [https://www.criterion.com/current/posts/60-west-meets-east ''West Meets East''] an essay by Alexander Sesonske at the [[Criterion Collection]]
+* [https://h2g2.com/edited_entry/A1161271 A Comparison of ''Yojimbo'', ''A Fistful of Dollars'' and ''Last Man Standing'']
+* ''[http://www.jmdb.ne.jp/1961/ck002050.htm Yojimbo]'' {{in lang|ja}} at the [[Japanese Movie Database]]
+
+{{Yojimbo}}
+{{Akira Kurosawa}}
+
+{{Portal bar|Japan|Film|1960s}}
+{{Authority control}}
+
+[[Category:1961 films]]
+[[Category:1961 Japanese-language films]]
+[[Category:1960s action drama films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Japanese action drama films]]
+[[Category:Jidaigeki films]]
+[[Category:Films directed by Akira Kurosawa]]
+[[Category:1960s samurai films]]
+[[Category:Films set in the 1860s]]
+[[Category:Toho films]]
+[[Category:Films with screenplays by Akira Kurosawa]]
+[[Category:Films with screenplays by Ryuzo Kikushima]]
+[[Category:Films produced by Ryūzō Kikushima]]
+[[Category:Films produced by Tomoyuki Tanaka]]
+[[Category:Films scored by Masaru Sato]]
+[[Category:1961 drama films]]
+[[Category:1961 Japanese films]]
+[[Category:Japanese action adventure films]]
+[[Category:Japanese adventure drama films]]
+[[Category:Japanese historical adventure films]]
+[[Category:Japanese historical drama films]]

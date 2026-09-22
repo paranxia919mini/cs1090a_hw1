@@ -1,0 +1,388 @@
+{{short description|1952 film by Gene Kelly and Stanley Donen}}
+{{other uses}}
+{{Use American English|date=March 2020}}
+{{Use mdy dates|date=March 2020}}
+{{Infobox film
+| name           = Singin' in the Rain
+| image          = Singin' in the Rain (1952 poster).jpg
+| caption        = Theatrical release poster
+| director       = {{Plain list}}
+* [[Gene Kelly]]
+* [[Stanley Donen]]
+{{endplainlist}}
+| writer         = <!-- Film credits explicitly state "Story and Screen Play by" -->{{Plainlist|
+* [[Betty Comden]]
+* [[Adolph Green]]
+}} {{Infobox|decat=yes|child=yes|label1=Suggested by|data1={{Based on|"[[Singin' in the Rain (song)|Singin' in the Rain]]"}}}}
+| producer       = [[Arthur Freed]]
+| starring       = {{Plainlist|
+<!-- Per poster billing block -->
+* [[Gene Kelly]]
+* [[Donald O'Connor]]
+* [[Debbie Reynolds]]
+* [[Jean Hagen]]
+* [[Millard Mitchell]]
+* [[Cyd Charisse]]
+}}
+| music          = {{Plainlist|
+* [[Lennie Hayton]] {{small|(musical direction)}}
+* '''Songs:'''
+* [[Arthur Freed]] {{small|(lyrics)}}
+* [[Nacio Herb Brown]] {{small|(music)}}
+}}
+| cinematography = [[Harold Rosson]]
+| editing        = [[Adrienne Fazan]]
+| studio         = [[Metro-Goldwyn-Mayer]]
+| distributor    = [[Loews Cineplex Entertainment|Loew's Inc.]]
+| released       = {{Film date|1952|3|27|[[Radio City Music Hall]]|1952|4|11|United States}}
+| runtime        = 103 minutes
+| color_process  = [[Technicolor]]
+| country        = United States
+| language       = English
+| budget         = $2.54 million<ref name="NUM">{{cite web |title=Singin' In The Rain (1952) |url=https://the-numbers.com/movie/Singin-in-the-Rain#tab=summary |website=[[The Numbers (website)|The Numbers]] |access-date=July 18, 2020}}</ref>
+| gross          = $7.2 million<ref name="NUM"/>
+}}
+'''''Singin' in the Rain''''' is a 1952 American [[Musical film|musical]] [[romantic comedy]] film directed and choreographed by [[Gene Kelly]] and [[Stanley Donen]], starring Kelly, [[Donald O'Connor]] and [[Debbie Reynolds]], with [[Jean Hagen]], [[Millard Mitchell]], [[Douglas Fowley]], [[Rita Moreno]] and [[Cyd Charisse]] in supporting roles. It offers a lighthearted depiction of [[Cinema of the United States|Hollywood]] in the late 1920s, with the three stars portraying performers caught up in the transition from [[silent film]]s to "[[Sound film|talkies]]".
+
+[[Arthur Freed]] conceived the idea of the film based on the back catalogs of songs written by himself and [[Nacio Herb Brown]]. Because many of the songs had been written during the transition from silent films to "talkies", writers [[Betty Comden]] and [[Adolph Green]] decided that was when the story should be set. When the story morphed into that of a romantic hero with a vaudevillian background surviving the transition period in Hollywood and falling back onto his old song-and-dance habits, Kelly, who was chosen for the lead along with Donen, responded enthusiastically to it. After a premiere at the [[Radio City Music Hall]], the film was released nationwide on April 11, 1952. Film historians note that ''Singin' in the Rain'' was not initially expected to become a classic, as MGM treated it as a routine musical project during production.
+
+The film was only a modest hit when it was first released. Today it is frequently cited as the [[List of films voted the best#Musical|greatest musical film]] and one of the greatest films ever made.<ref>Haley, Jack Jr.: ''[[That's Entertainment!]]'', Frank Sinatra segments. [[Metro-Goldwyn-Mayer]], 1974</ref> It topped the [[AFI's Greatest Movie Musicals]] list, ranked as the fifth-greatest American motion picture of all time in its updated [[AFI's 100 Years...100 Movies (10th Anniversary Edition)|list of the greatest American films]] in 2007, having ranked as the tenth greatest in the [[AFI's 100 Years...100 Movies|original 1998 list]], and Kelly's rendition of "[[Singin' in the Rain (song)|Singin' in the Rain]]" ranked third in their [[AFI's 100 Years...100 Songs|list of the greatest film songs]].
+
+In 1989, ''Singin' in the Rain'' was one of the first 25 films selected by the United States [[Library of Congress]] for preservation in the [[National Film Registry]] for being "culturally, historically, or aesthetically significant".<ref>{{cite news |date=September 19, 1989 |title=Entertainment: Film Registry Picks First 25 Movies |url=https://www.latimes.com/archives/la-xpm-1989-09-19-mn-347-story.html |work=[[Los Angeles Times]] |access-date=April 22, 2020}}</ref> The film has undergone several major restorations, including one in 4K in 2012 for the film's 60th anniversary (Eagan, 2013).
+
+In 2005, the [[British Film Institute]] included it in its list of the 50 films to be seen by the age of 14. In 2008, ''[[Empire (magazine)|Empire]]'' magazine ranked it as the eighth-best film of all time. In ''[[Sight & Sound]]'' magazine's 2022 list of the greatest films of all time, ''Singin' in the Rain'' placed 10th.<ref name=":0">{{Cite web |date=2022-12-01 |title=The Greatest Films of All Time |url=https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time |access-date=2022-12-15 |website=BFI |language=en}}</ref> Previously, it had ranked third in their 1982 list and tenth in their 2002 list.
+
+==Plot==
+<!-- Per [[MOS:FILMPLOT]], plot summaries for feature films should be between 400 and 700 words-->
+In 1927, [[silent film]] stars Don Lockwood and Lina Lamont attend the premiere of their latest film, ''The Royal Rascal'', produced by Hollywood studio Monumental Pictures. On the red carpet, Don tells the story of his rise to stardom, claiming to have grown up cultured and highly educated. His words are contradicted by [[Flashback (narrative)|flashbacks]] showing his humble roots as a [[hoofer]], [[vaudeville]] musician and [[stuntman]] alongside his childhood best friend and longtime collaborator Cosmo Brown, accompanied by the song "Fit as a Fiddle". Don also expresses his admiration for Lina, feeding rumors of a secret romance between them. In reality, the rumors are a publicity stunt and Don barely tolerates Lina, although she believes that he loves her.
+
+After the premiere, Don is mobbed by fans and escapes by jumping into a passing car driven by Kathy Selden. Kathy reluctantly gives Don a lift. She claims to be a theatre actress and expresses disdain for film acting, particularly Don's hammy performances. Don responds by mocking her acting aspirations, and they part on bad terms.
+
+Don arrives at the afterparty, where Monumental Pictures' [[CEO]] R. F. Simpson shows a demonstration of a [[Sound film|talking picture]],{{efn|This scene pays homage to the original 1921 DeForest [[Phonofilm]] demonstration, featuring DeForest explaining the system.}} though his guests dismiss it as a [[fad]]. A group of chorus girls then performs, Kathy among them ("All I Do is Dream of You"). Furious at Don's teasing, Kathy attempts to throw a cake at him, but he dodges it and it hits Lina instead. In the confusion, Kathy runs away.
+
+Three weeks later, Don has searched unsuccessfully for Kathy. Cosmo tries to cheer Don up ("[[Make 'Em Laugh]]"). Lina reveals that she had Kathy fired, infuriating Don. Cosmo finds Kathy working as an [[Extra (acting)|extra]] in another Monumental Pictures film ("Beautiful Girl"). Kathy admits to actually being a fan of Don's, while Don professes his love for her ("[[You Were Meant for Me (Arthur Freed and Nacio Herb Brown song)|You Were Meant for Me]]").
+
+[[File:Encina Drive-in Ad - 16 May 1952, Santa Cruz, CA.jpg|150px|thumb|A [[Drive-in theater|drive-in]] advertisement from 1952]]
+
+When [[Warner Bros.]] releases its first talking picture, ''[[The Jazz Singer]]'', and it is an enormous hit, R. F. decides he has to convert the next Lockwood and Lamont film, ''The Dueling Cavalier'', into a talkie. Lina and Don take elocution lessons ("Moses Supposes"), but the production is beset with difficulties, most notably Lina's grating, high-pitched voice and unfamiliarity with the new recording technology, which leads to numerous situations that drive director Roscoe Dexter to tears. The film's preview screening is a failure due to multiple complications, including awkward microphone placements, Don's uninspired improvising{{efn|This is a reference to a scene by [[John Gilbert (actor)|John Gilbert]] in his first talkie, ''[[His Glorious Night]]''.}} and the audio going out of synchronization.
+
+Later that night, Kathy and Cosmo suggest ''The Dueling Cavalier'' be turned into a musical ("[[Good Morning (1939 song)|Good Morning]]"), and Cosmo, inspired by the film{{'}}s synchronization error, suggests that Kathy [[Dubbing|dub]] Lina's voice. Don happily agrees, then takes Kathy home and dances through her neighborhood in the rain ("[[Singin' in the Rain (song)|Singin' in the Rain]]"). Don and Cosmo pitch their idea to R. F., changing the title of the film to ''The Dancing Cavalier'' and adding a modern framing device ("Broadway Melody"). R. F. approves but tells them not to inform Lina of Kathy's involvement.
+
+Don helps Kathy dub Lina's lines ("Would You"), but Lina is tipped off by another actress. When Lina realizes that Don and Kathy are in love and learns that R. F. intends to give Kathy a screen credit for her dubbing, she gives interviews across Hollywood promoting her (non-existent) vocal talent. A clause in Lina's contract allows her to sue the studio for negative press, so R. F. is forced to leave Kathy [[Billing (performing arts)#Unbilled appearances|uncredited]] and agree to Lina's demand that Kathy continue anonymously dubbing for her.
+
+The premiere of ''The Dancing Cavalier'' is a success, but when the audience clamors for Lina to sing live, Don, Cosmo, and R. F. tell her to [[lip sync]] into a microphone while Kathy, concealed behind the curtain, sings into a second microphone. While Lina is "singing" ("Singin' in the Rain Reprise"), the men raise the curtain, revealing the ruse. Lina and Kathy both flee in embarrassment, but Don has the audience stop Kathy and proudly announces that she is "the real star of the picture" ("You Are My Lucky Star"). Some time later, Kathy and Don kiss in front of a billboard for their new film, ''Singin' in the Rain''.
+
+==Cast==
+* [[Gene Kelly]] as Donald "Don" Lockwood
+* [[Donald O'Connor]] as Cosmo Brown
+* [[Debbie Reynolds]] as Kathy Selden
+* [[Jean Hagen]] as Lina Lamont. Fresh from her role in ''[[The Asphalt Jungle]]'', Hagen won the role reading for the part for producer [[Arthur Freed]], doing a dead-on impression of Billie Dawn, [[Judy Holliday]]'s character from ''[[Born Yesterday (1950 film)|Born Yesterday]]''<!--– for which Hagen had been Holliday's understudy – this needs a better source, IBDB does not show Jean Hagen as the understudy or replacement -->.<ref>Susman, Gary (March 29, 2012; updated December 6, 2017) [https://www.huffingtonpost.com/2012/03/27/singin-in-the-rain-60th-anniversary_n_1390079.html "'Singin' in the Rain' 60th Anniversary: 25 Things You Didn't Know About Hollywood's Greatest Musical"] ''[[Huffington Post]]''</ref>
+* [[Millard Mitchell]] as R. F. Simpson. The initials of the fictional head of Monumental Pictures are a reference to producer Arthur Freed, who is further emulated by the use of one of his favorite expressions when R. F. says of the "Broadway Melody" sequence that he "cannot quite visualize it”. 
+* [[Cyd Charisse]] as the woman in the green [[sequin]]ed dress and hair in the style of [[Louise Brooks]] as well as in a white dress and long wind-blown train, who [[Vamp (woman)|vamps]] Gene Kelly in the "Broadway Melody" sequence
+* [[Douglas Fowley]] as Roscoe Dexter, the director of Don and Lina's films
+* [[Rita Moreno]] as Zelda Zanders, the "Zip Girl" and Lina's friend. As of July 2026, Moreno is the last surviving credited star from the film.
+
+'''Uncredited'''
+* [[Dawn Addams]] as "Teresa", a [[lady-in-waiting]] to Lina's character in ''The Duelling Cavalier''
+* [[Madge Blake]] as Dora Bailey, a Hollywood gossip columnist based on [[Louella Parsons]]
+* [[Mae Clarke]] as the hairdresser who puts the finishing touches on Lina Lamont's hairdo
+* [[John Dodsworth (actor)|John Dodsworth]] as "Baron de la Bonnet de la Toulon", the new husband of Olga Mara.
+* [[King Donovan]] as Rod, head of the publicity department at Monumental Pictures
+* [[Tommy Farrell]] as Sid Phillips, the director of the movie featuring "Beautiful Girl"
+* [[Kathleen Freeman]] as Phoebe Dinsmore, Lina's [[diction coach]]
+* [[Stuart Holmes]] as J. Cumberland Spendrill III, famed flapper Zelda Zanders' current love interest and escort to the premiere of ''The Royal Rascal''
+* [[Judy Landon]] as Olga Mara, a silent screen vamp who attends the premiere of ''The Royal Rascal''
+* [[Betty Noyes]] as the singing voice of Debbie Reynolds on "Would You"<ref name="The Observer 18 March 2007">{{cite news |last=Kermode |first=Mark |author-link=Mark Kermode |date=18 March 2007 |title=The 50 greatest film soundtracks: 11. Singin' In The Rain |url=https://www.theguardian.com/music/2007/mar/18/features.musicmonthly14 |access-date=4 August 2015 |newspaper=[[The Observer]] |location=London}}</ref> and "You Are My Lucky Star"<ref name="Debbie Reynolds My Life"/>
+* [[Julius Tannen]] as the man demonstrating the technology of talking pictures<ref>{{Cite web|url=http://performingartsarchive.com/Vaudeville-Acts/Vaudeville-Acts_J/Julius-Tannen/Julius-Tannen.htm|title=Julius Tannen, Chatterbox, "Speaking the Public Mind"|website=performingartsarchive.com}}</ref><ref>{{Cite web|url=https://www.youtube.com/watch?v=-j8GwkniGrU|title=Singin in the Rain- Talking picture !.avi|date=February 13, 2010|via=YouTube}}</ref>
+* Jimmy Thompson as the singer of "Beautiful Girl"<ref>{{cite web | url=https://www.imdb.com/name/nm0860302/ | title=Jimmy Thompson &#124; Actor, Additional Crew, Soundtrack | website=[[IMDb]] }}</ref>
+* [[Bobby Watson (actor)|Bobby Watson]] as Don's diction coach during the "Moses Supposes" number
+
+==Songs==
+{{see also|Singin' in the Rain (soundtrack)}}
+''Singin' in the Rain'' was originally conceived by MGM producer [[Arthur Freed]], the head of the "Freed Unit" responsible for turning out MGM's lavish musicals, as a vehicle for his catalog of songs written with [[Nacio Herb Brown]] for previous MGM musical films of the 1929–39 period.<ref name="producer">Feltenstein, George (2002). "Producer's Note", included in the liner notes of the ''Music from the original motion picture soundtrack (deluxe edition) Singin' in the Rain'' double CD by [[Rhino Entertainment]] and [[Turner Classic Movies]]</ref> Screenwriters Betty Comden and Adolph Green wrote one entirely new song, "Moses Supposes", with music director [[Roger Edens]] providing the music (see below).<ref name="tracklist">Track list in the liner notes of the ''"Music from the original motion picture soundtrack (deluxe edition) Singin' in the Rain"'' double CD by [[Rhino Entertainment]] and [[Turner Classic Movies]].</ref> Freed and Brown wrote a new song for the movie, "[[Make 'Em Laugh]]", though it bears a striking resemblance to [[Cole Porter]]'s "[[Be a Clown]]" from another MGM Freed-produced musical, ''[[The Pirate (1948 film)|The Pirate]]'' (1948). Donen, who had asked the pair to write a song inspired by "Be a Clown", considered the result to be "100% [[plagiarism]]".<ref>{{cite web | last = Adams | first = Cecil | author-link = Cecil Adams | title = Aren't the show tunes "Be a Clown" and "Make 'Em Laugh" suspiciously similar? | work = The Straight Dope | url = https://www.straightdope.com/classics/a1_365b.html | archive-url = https://web.archive.org/web/20010123062900/https://www.straightdope.com/classics/a1_365b.html | access-date = 2009-02-11| archive-date = 2001-01-23 }}</ref> However, Porter never sued for copyright infringement.<ref>{{Cite web|url=https://www.songfacts.com/facts/donald-oconnor/make-em-laugh|title=Make 'Em Laugh by Donald O'Connor|website=Songfacts.com|access-date=2 May 2021}}</ref><ref>{{Cite journal|url=https://www.academia.edu/34252083|title="Be A Clown" and "Make 'Em Laugh:" Comic Timing, Rhythm, and Donald O'Connor's Face|first=Jonas|last=Westover|access-date=2 May 2021|website=Academia.edu}}</ref>
+
+All songs have lyrics by Freed and music by Brown unless otherwise indicated.<ref name="tracklist"/> Some of the songs, such as "Broadway Rhythm", "You Are My Lucky Star", "[[Should I? (song)|Should I?]]", and especially "[[Singin' in the Rain (song)|Singin' in the Rain]]" itself, had been featured in prior films. The films listed below mark the first time each song was presented on screen.
+* "[[Fit as a Fiddle (And Ready for Love)]]", originally published in 1932 with music by [[Al Hoffman]] and [[Al Goodhart]], lyrics by Freed.
+* "[[Temptation (Nacio Herb Brown and Arthur Freed song)|Temptation]]" (instrumental only) from ''[[Going Hollywood]]'' (1933).
+* "[[All I Do Is Dream of You]]" from ''[[Sadie McKee]]'' (1934).<ref name="tracklist"/> The arrangement in "Singin' in the Rain" is an uptempo, upbeat, "flapper" version of the song with full instrumentation. In contrast, the "Sadie McKee" version is slower tempo, and appears routinely throughout the film as a love ballad accompanied by a solo ukulele. An instrumental only version with full orchestration is also part of the film's opening and closing theme. An instrumental version was also played on the [[piano]] by [[Chico Marx]] in the 1935 [[Marx Brothers]] film ''[[A Night at the Opera (film)|A Night at the Opera]]''.
+* "[[Singin' in the Rain (song)|Singin' in the Rain]]" from ''[[The Hollywood Revue of 1929]]'' (1929).<ref name="tracklist"/> Kelly's performance in the song is now considered iconic.<ref name="storybehind">Betty Comden and Adolph Green (2002). ''The story Behind Singin' in the Rain: Now It Can be Told'', reprint of the ''Singin' In the Rain'' screenplay introduction, originally published in 1972, included in the liner notes of the ''Music from the original motion picture soundtrack (deluxe edition) Singin' in the Rain'' double CD by [[Rhino Entertainment]] and [[Turner Classic Movies]].</ref>
+* "[[Make 'Em Laugh]]"
+* "Beautiful Girl Montage" comprising "I've Got a Feelin' You're Foolin'" from ''[[Broadway Melody of 1936]]'' (1935),<ref name="tracklist"/> "The Wedding of the Painted Doll" from ''[[The Broadway Melody]]'' (1929),<ref name="tracklist"/> "[[Should I? (song)|Should I?]]" from ''[[Lord Byron of Broadway]]'' (1930)<ref name="tracklist"/> and "[[Beautiful Girl (Bing Crosby song)|Beautiful Girl]]" from ''[[Stage Mother (1933 film)|Stage Mother]]'' (1933)<ref name="tracklist"/>
+* "[[You Were Meant for Me (1929 song)|You Were Meant for Me]]" from ''The Broadway Melody'' (1929)<ref name="tracklist"/>
+* "You Are My Lucky Star" from ''Broadway Melody of 1936'' (1935)<ref name="tracklist"/>
+* "Moses Supposes" (music by [[Roger Edens]], lyrics by Comden and Green), from a 1944 version based on the [[Moses supposes his toeses are roses|tongue-twister with the same title]].
+* "[[Good Morning (1939 song)|Good Morning]]" from ''[[Babes in Arms (film)|Babes in Arms]]'' (1939)<ref name="tracklist"/>
+* "Would You?" from ''[[San Francisco (1936 film)|San Francisco]]'' (1936)<ref name="tracklist"/>
+* "Broadway Melody" composed of "The Broadway Melody" from ''[[The Broadway Melody]]'' (1929)<ref name="tracklist"/> and "Broadway Rhythm" from ''[[Broadway Melody of 1936]]'' (1935).<ref name="tracklist"/> The music for the "Broadway Ballet" section is by Nacio Herb Brown.<ref name=afi>{{AFI film|50652}}</ref>
+
+==Production==
+===History===
+Arthur Freed, the head of the "Freed Unit" at MGM responsible for the studio's glossy and glamorous musicals, conceived the idea of a movie based on the back catalog of songs written by himself and Nacio Herb Brown, and called in Betty Comden and Adolph Green from New York to come up with a story to tie the songs together and to write the script. Comden and Green first refused the assignment, as their agent had assured them that their new contract with MGM called for them to write the lyrics to all songs unless the score was by [[Irving Berlin]], [[Cole Porter]], or [[Rodgers and Hammerstein]]. After a two-week hold-out, their new agent, [[Irving Lazar|Irving "Swifty" Lazar]], having looked over the contract, told them that the clause had been entirely an invention of their previous agent, and that there was no such language in the contract. After hearing this, Comden and Green began working on the story and script.<ref>Comden & Green (1972), pp. 1–4</ref>
+
+Because many of the songs had originally been written during the time when silent films were giving way to "talkies" and musicals were popular with audiences, Comden and Green came up with the idea that the story should be set during that transitional period in Hollywood, an era they were intimately familiar with. When [[Howard Keel]] was mentioned as the possible lead, they tried to work up a story involving a star of Western films who makes a comeback as a singing cowboy, but they kept gravitating to a story about a swashbuckling romantic hero with a vaudeville background who survives the transition by falling back on his abilities as a song-and-dance man, a story which Gene Kelly was well suited for.<ref>Comden & Green (1972), pp. 4–5</ref>
+
+Kelly could not be approached at the time, as he was deeply immersed in ''[[An American in Paris (film)|An American in Paris]]'' (1951), which he was co-choreographing with Stanley Donen, and in which he was starring. Comden and Green continued to work on the script, and had at that time three possible openings for the film: a silent movie premiere, a magazine interview with a Hollywood star, and a star-meets-girl, star-loses-girl sequence. Unable to decide which to use or how to proceed, they had just decided to return their advance to MGM and admit defeat, when Betty Comden's husband arrived from New York and suggested that they combine all three openings into one. The script with the re-written opening was approved by Freed and by MGM's head of production [[Dore Schary]], who had recently replaced [[Louis B. Mayer]].<ref>Comden & Green (1972), pp. 5–8</ref>
+
+By this time shooting on ''An American in Paris'' had completed, and Freed suggested that Kelly be given the script to read. Kelly and Donen responded enthusiastically, and immediately became involved in re-writes and adjustments to the script. Comden, Green, Kelly, and Donen were all old friends, and the process went smoothly. Besides the Freed-Brown songs, Comden and Green contributed the lyrics to "Moses Supposes", which was set to music by [[Roger Edens]]. Shortly before shooting began, "The Wedding of the Painted Doll", which Comden and Green had "painfully wedged into the script as a cheering-up song" was replaced with a new Freed/Brown song, "Make 'Em Laugh",<ref>{{cite web|url=https://digitalcollections.oscars.org/digital/collection/p15759coll30/id/13746|website=Margaret Herrick Library Digital Collections|title=Singin' in the Rain, 1952|access-date=June 26, 2021}}</ref> which bore a remarkable resemblance to [[Cole Porter]]'s 1948 song "[[Be a Clown]]".<ref>{{cite web |last=Adams |first=Cecil |author-link=Cecil Adams |title=Aren't the show tunes "Be a Clown" and "Make 'Em Laugh" suspiciously similar? |url=https://www.straightdope.com/classics/a1_365b.html |archive-url=https://web.archive.org/web/20010123062900/https://www.straightdope.com/classics/a1_365b.html |archive-date=January 23, 2001 |access-date=February 11, 2009 |work=The Straight Dope}}</ref>
+
+After Comden and Green had returned to New York to work on other projects, they received word that a new song was needed for a love-song sequence between Kelly and Debbie Reynolds. The original had been a song-and-dance medley involving different sets in different soundstages on the studio lot, but they were asked for a romantic love song set in an empty sound stage, and it was needed immediately. Comden and Green provided such a scene for "You Were Meant for Me" and sent it off to Hollywood.<ref>Comden & Green (1972), pp. 9–10</ref>
+
+===Revisions from early drafts===
+[[File:Singin' in the Rain trailer (1952).webm|thumb|thumbtime=29|upright=1.5|Trailer]]
+* In an early draft of the script, the musical number "Singin' in the Rain" was to be sung by Reynolds, O'Connor, and Kelly, emerging from a restaurant after the flop preview of ''The Dueling Cavalier'', to celebrate the idea of changing the film into a musical.<ref name="Hess">Hess & Dabholkar (2009), p. 124</ref>
+* Kelly's singing "You Were Meant For Me" to Reynolds on an empty sound stage was not included in that draft. The number was originally conceived as Kelly's singing a medley of other songs to her as they romped around various studio back lot sets.<ref name=Hess23-24>Hess & Dabholkarm (2009), pp. 23–24</ref>
+* Rita Moreno was originally to have sung the lead in "I've Got a Feelin' You're Foolin'" with other showgirls, but this ended up as part of the "Beautiful Girl Montage" without her.<ref name=Hess70>Hess & Dabholkar (2009), p. 70</ref>
+
+===Scenes filmed but cut before release===
+* Gene Kelly sang a reprise of "All I Do Is Dream of You" after the party at R.&nbsp;F. Simpson's house when Kelly chases after Reynolds. The song, ending in Kelly's bedroom, was cut from the release version after two [[test screening|previews]], and the footage has been lost.<ref name=Hess173>Hess & Dabholkarm (2009), p. 173</ref>
+* Reynolds's solo rendition of "You Are My Lucky Star" (to a billboard showing an image of Lockwood) was cut after previews.<ref name=Hess173/> This number has survived and is included on the original soundtrack and DVD version of the film.<ref name="glorious"/> It also was used in the retrospective film [[That's Entertainment! III|That's Entertainment III]].
+* In the steamy "Vamp Dance" segment of the "Broadway Melody Ballet" with Cyd Charisse and Gene Kelly, reviewers from both the [[Motion Picture Production Code|Production Code]] and the Catholic [[National Legion of Decency|Legion of Decency]] objected to a brief, suggestive pose or movement between the dancers. Although there is no precise documentation of what or where it was, close examination of footage toward the end of the dance shows an abrupt and noticeable cut to both visual and audio when Charisse is wrapped around Kelly, indicating the probable location.<ref>Hess & Dabholkarm (2009), pp.180-181</ref>
+
+===Other notes===
+Reynolds's singing in two songs was dubbed by [[Betty Noyes]], one of them when Kathy is shown dubbing Lina Lamont, while her high notes and taps were dubbed in the entire film. Although the film revolves around the idea that Kathy has to dub for Lina's piercing voice, in the scene where Kathy is portrayed recording a line of Lina's dialogue during the movie within a movie ''The Dancing Cavalier'', Hagen's normal voice was used, because it was preferred over Reynolds'.<ref name="The Observer 18 March 2007"/><ref name="Debbie Reynolds My Life">{{cite book |last1=Reynolds |first1=Debbie |last2=Columbia |first2=David Patrick |name-list-style=amp |title=Debbie: My Life |publisher=[[Pocket Books]] |year=1989 |page=97 |isbn=978-0671687922}}</ref><ref>Hess & Dabholkarm (2009), p. 145</ref> Donen once explained that Reynolds' "mid-western" accent was not right for this one scene, preferring Hagen's natural, cultured speaking voice.<ref>{{cite book|last=North|first=Michael|url=https://books.google.com/books?id=gOpcCAAAQBAJ&dq=%22Singin%27+in+the+Rain%22+Reynolds+dubbed&pg=PT12|title=The Dialect of Modernism|location=New York City|publisher=[[Oxford University Press]]|year=1997|page=12|isbn=978-0-19-028411-4}}</ref>
+
+In the sequence in which Gene Kelly dances and sings the title song while spinning an umbrella, splashing through puddles and getting soaked with rain, Kelly was sick with a {{convert|103|F}} fever.<ref>{{cite magazine |last=Sanburn |first=Josh |date=December 2, 2010 |title=Top Ten Movie Dance Scenes: A Wet, Soft Shoe in ''Singin' in the Rain'' |url=https://entertainment.time.com/2010/12/03/top-10-movie-dance-scenes/ |magazine=[[Time (magazine)|Time]]}}</ref><ref>{{cite web |title=The Biography Channel |url=http://www.thebiographychannel.co.uk/biography_story/255:304/1/Eugene_Gene_Kelly.htm |access-date=2008-06-03 |url-status=dead |archive-url=https://web.archive.org/web/20150402202717/http://www.thebiographychannel.co.uk/biographies/eugene-gene-kelly.html |archive-date=2015-04-02}}</ref> The water used in the scene caused Kelly's wool suit to shrink during filming.<ref>{{cite news |last1=Sheridan |first1=Peter |title=The dark side of Singin' In The Rain star Gene Kelly |url=https://www.express.co.uk/life-style/life/799001/Gene-Kelly-Singing-In-The-Rain-An-American-In-Paris-biography |website=[[Daily Express]]|date=May 2, 2017 |access-date=31 May 2020}}</ref> A common myth is that Kelly managed to perform the entire song in one take, thanks to cameras placed at predetermined locations. However, this was not the case; filming the sequence took two to three days.<ref name="psm">{{cite web |url=https://pictureshowman.com/singing-in-the-rain/ |title=Singin' in the Rain (1952) – Hollywood's Greatest Musical! |date=December 16, 2020 |publisher=The Picture Show Man}}</ref> Another myth is that the rain was mixed with milk in order for the drops to show up better on camera; but the desired visual effect was produced, albeit with difficulty, through [[Backlighting (lighting design)|backlighting]].<ref>{{cite news |last=Bubbeo |first=Daniel |title=Gene Kelly's widow Patricia chats about her late husband and 'Singin' in the Rain' |url=https://www.newsday.com/entertainment/movies/gene-kelly-s-widow-patricia-chats-about-her-late-husband-and-singin-in-the-rain-l23258 |archive-url=https://web.archive.org/web/20120825031432/http://www.newsday.com/entertainment/movies/gene-kelly-s-widow-patricia-chats-about-her-late-husband-and-singin-in-the-rain-1.3832472 |url-status=live |archive-date=August 25, 2012 |access-date=July 27, 2012 |newspaper=[[Newsday]] |date=July 11, 2012}}</ref><ref>{{cite web|url=http://genekellyfans.com/musicals/myth-sitr/|title=The Basics: Was There Really Milk in Singin' in the Rain?|website=genekellyfans.com|date=June 24, 2011|archive-url=https://web.archive.org/web/20140819083756/http://genekellyfans.com/musicals/myth-sitr/ |archive-date=August 19, 2014|quote=Gene Kelly himself described what happened in several interviews, including ''American Film'' (1979): 'Shooting the title number was just terrible for the photographer {{sic|[[Harold Rosson|Hal Rossen]]}}. He had to backlight all the rain and then he had to put frontlight on the performer. That was as tough a job as I've ever seen, because you can't photograph in rain and see it.'"}}</ref>
+
+Debbie Reynolds was not a dancer when she made ''Singin' in the Rain''; her background was as a gymnast.<ref name="glorious">New 50th Anniversary Documentary ''What a Glorious Feeling'', hosted by Debbie Reynolds on the film's DVD.</ref> Kelly apparently insulted her for her lack of dance experience, which upset her. Later, when [[Fred Astaire]] was in the studio, he found her crying under a piano. On hearing what had happened, Astaire let her watch one of his rehearsals to show her that dancing is very hard work even for professionals, but hard work is necessary, and in the end, worth it. Kelly later admitted that he had not been kind to Reynolds and was surprised that she was still willing to talk to him afterwards. After shooting the "Good Morning" routine, which had taken from 8:00&nbsp;a.m. until 11:00&nbsp;p.m. to shoot,<ref name="Unsinkable207">{{cite book |last=Reynolds |first=Debbie |title=Unsinkable: A Memoir |publisher=[[HarperCollins]] |location=New York City|year=2013 |page=207 |isbn=978-0-06-221365-5}}</ref> Reynolds' feet were bleeding.<ref name="glorious"/> Years later, she said, "''Singin' in the Rain'' and childbirth were the two hardest things I ever had to do in my life."<ref>{{cite news|first=Patrick|last=Perry|title=On Tour with Debbie Reynolds: Feisty and Fit Actress Speaks Out About An All-Too-Common Problem – Overactive Bladder|newspaper=[[The Saturday Evening Post]]|date=January–February 2003}}</ref>
+
+Donald O'Connor, a four-pack-a-day smoker at the time, had to stay in bed in the hospital for several days after filming the "Moses Supposes" sequence.<ref name="psm"/><ref>[[Ben Mankiewicz|Mankiewicz, Ben]] (2017) "Intro to ''Singin' in the Rain'' 65th Anniversary Theatrical Release" Accessed: January 15, 2017</ref>
+
+Most of the costumes from this film were eventually acquired by Reynolds and became part of her vast collection of original film costumes, sets, and props. Many of these items were sold at a 2011 auction in Hollywood. While most were sold to private collectors, Donald O'Connor's green check "Fit As a Fiddle" suit and shoes were purchased by Costume World, Inc. They are now on permanent display at the Costume World Broadway Collection Museum in [[Pompano Beach, Florida]].<ref>{{cite web |title=The Lesser-Known Stories from the Set of Singin' In the Rain |url=https://musicoholics.com/backstage-stories/the-lesser-known-stories-from-the-set-of-singin-in-the-rain/32/ |website=musicoholics.com |date=April 5, 2020 |publisher=Musicoholics |access-date=12 December 2022}}</ref>
+
+==Reception==
+According to MGM records, during the film's initial theatrical release, it made $3.263 million in the US and Canada, and $2.367 million internationally, earning the studio a net profit of $666,000.<ref name="Mannix">{{citation |title=The Eddie Mannix Ledger |publisher=Margaret Herrick Library, Center for Motion Picture Study |location=Los Angeles}}.</ref> It was the tenth-highest-grossing movie of the year in the US and Canada.<ref name=numbers>{{cite news |title=Singin' in the Rain – Box Office Data |url=http://www.the-numbers.com/movies/1952/0SNTR.php |publisher=The Numbers |access-date=14 November 2011}}</ref><ref>'Top Box-Office Hits of 1952', ''Variety'', January 7, 1953</ref>
+
+===Critical response===
+[[Bosley Crowther]] of ''[[The New York Times]]'' wrote: "Compounded generously of music, dance, color spectacle and a riotous abundance of Gene Kelly, Jean Hagen and Donald O'Connor on the screen, all elements in this rainbow program are carefully contrived and guaranteed to lift the dolors of winter and put you in a buttercup mood."<ref>{{cite journal |last=Crowther |first=Bosley |authorlink=Bosley Crowther |date=March 28, 1952 |title='Singin' in the Rain,' Starring Gene Kelly, Ushers In Spring at the Music Hall |journal=[[The New York Times]] |page=27}}</ref> ''[[Variety (magazine)|Variety]]'' was also positive, writing: "Arthur Freed has produced another surefire grosser for Metro in ''Singin' in the Rain''. Musical has pace, humor, and good spirits a-plenty, in a breezy, good-natured spoof at the film industry itself ... Standout performances by Gene Kelly and Donald O'Connor, especially the latter, enhance the film's pull."<ref>{{cite magazine|date=March 12, 1952 |title=Singin' in the Rain |magazine=[[Variety (magazine)|Variety]]|page=6}}</ref>
+
+''[[Harrison's Reports]]'' called it "top-notch entertainment in every department—music, dancing, singing, staging and story".<ref>{{cite journal |date=March 15, 1952 |title='Singin' in the Rain' with Gene Kelly, Donald O'Connor and Debbie Reynolds |journal=[[Harrison's Reports]] |page=42}}</ref> [[Richard L. Coe]] of ''[[The Washington Post]]'' called it "yet another fresh and breezy, colorful and funny musical" from Gene Kelly, adding, "Of the players there's not a dud in the lot, from Kelly's facile performing to the brief but electric dance appearance by Cyd Charisse, a swell partner for him."<ref>{{cite news |last=Coe |first=Richard L. |authorlink=Richard L. Coe| date=May 1, 1952 |title=Again Kelly Rings Those Chimes! |newspaper=[[The Washington Post]] |page=18}}</ref>
+
+[[Pauline Kael]], the long-time film critic for ''[[The New Yorker]]'', praised the film: "This exuberant and malicious satire of Hollywood in the late 20s...is probably the most enjoyable of all American movie musicals. The teamwork of the stars, Gene Kelly, Donald O'Connor, and Debbie Reynolds, is joyful and the material is first-rate..."<ref name=comden10>Comden & Green (1972), p. 10</ref> [[Roger Ebert]] placed ''Singin' in the Rain'' on his [[The Great Movies|Great Movies]] list, calling the film "a transcendent experience, and no one who loves movies can afford to miss it."<ref>{{cite web |url=https://www.rogerebert.com/reviews/great-movie-singin-in-the-rain-1952 |title=Singin' in the Rain |last=Ebert |first=Roger |authorlink=Roger Ebert |date=February 14, 1999 |website=[[Chicago Sun-Times]] |via=[[RogerEbert.com]] |access-date=June 21, 2018}}</ref> [[Leslie Halliwell]] gave it four of four stars, stating: "Brilliant comic musical, the best picture by far of Hollywood in transition, with the catchiest tunes, the liveliest choreography, the most engaging performances and the most hilarious jokes of any musical."<ref>Halliwell's Film Guide, 7th Edition {{ISBN|0-06-016322-4}}</ref>
+
+On review aggregator [[Rotten Tomatoes]], the film has [[List of films with a 100% rating on Rotten Tomatoes|a perfect 100% approval rating]] based on 64 reviews, with an average rating of 9.3/10. The website's critical consensus reads: "Clever, incisive, and funny, ''Singin' In The Rain'' is a masterpiece of the classical Hollywood musical."<ref>{{cite web |url=http://www.rottentomatoes.com/m/singin_in_the_rain/ |title=Singin' In The Rain |website=[[Rotten Tomatoes]] |access-date=April 5, 2021}}</ref> On [[Metacritic]], it has a weighted average score of 99 out of 100, based on 17 critics, indicating "universal acclaim".<ref>{{cite web |title=Singin' in the Rain Reviews |url=https://www.metacritic.com/movie/singin-in-the-rain |publisher=[[Metacritic]]. [[CBS Interactive]] |access-date=July 14, 2020}}</ref> The film made each site's list of best-rated films, ranked 46th on Rotten Tomatoes (as of 2021)<ref>{{cite web |url=http://www.rottentomatoes.com/top/bestofrt/ |title=Top 100 Movies Of All Time |website=[[Rotten Tomatoes]] |access-date=July 24, 2017}}</ref> and 15th on Metacritic.<ref>{{cite web |title=Best Movies |url=https://www.metacritic.com/browse/movie/|website=[[Metacritic]] |access-date=May 9, 2026}}</ref>
+
+===Admiration in the film industry===
+Betty Comden and Adolph Green report that when they met [[François Truffaut]] at a party in Paris, Truffaut was very excited to meet the authors of ''Chantons Sous la Pluie'' (as ''Singin' in the Rain'' was titled in French). He told them that he had seen the film so many times that he knew it frame by frame, and that he and fellow director and screenwriter [[Alain Resnais]], among others, went to see it regularly at a small Parisian movie theatre where it sometimes ran for months at a time.<ref name=comden10/>
+
+==Accolades==
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| rowspan="2"| [[25th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Jean Hagen]]
+| {{nom}}
+| align="center" rowspan="2"| <ref>{{cite web |url=http://www.oscars.org/oscars/ceremonies/1953 |title=The 25th Academy Awards (1953) Nominees and Winners |access-date=August 20, 2011 |publisher=[[Academy of Motion Picture Arts and Sciences]] |archive-url=https://web.archive.org/web/20110706093830/http://www.oscars.org/awards/academyawards/legacy/ceremony/25th-winners.html |archive-date=July 6, 2011 |url-status=live}}</ref>
+|-
+| [[Academy Award for Best Original Score|Best Scoring of a Musical Picture]]
+| [[Lennie Hayton]]
+| {{nom}}
+|-
+| [[6th British Academy Film Awards|British Academy Film Awards]]
+| colspan="2"| [[BAFTA Award for Best Film|Best Film from any Source]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=http://awards.bafta.org/award/1953/film |title=BAFTA Awards: Film in 1953 |publisher=[[British Academy Film Awards]] |access-date=September 16, 2016}}</ref>
+|-
+| [[5th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| [[Gene Kelly]] and [[Stanley Donen]]
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://www.dga.org/Awards/History/1950s/1952.aspx?value=1952 |title=5th Annual DGA Awards |publisher=[[Directors Guild of America Awards]] |access-date=May 22, 2021}}</ref>
+|-
+| rowspan="2"| [[DVD Exclusive Awards]]
+| Best Overall New Extra Features, Library Release
+| ''Singin' in the Rain: 50th Anniversary Edition''
+| {{nom}}
+| align="center" rowspan="2"| <ref>{{cite web |url=http://www.dvdexclusive.com/article.asp?articleID=1841&categoryID=22 |title=DVD Premiere Awards 2002 Nominations & Winners |archive-url=https://web.archive.org/web/20050114192121/http://www.dvdexclusive.com/article.asp?articleID=1841&categoryID=22|archive-date=January 14, 2005}}</ref>
+|-
+| Original Retrospective Documentary, Library Release
+| ''Musicals Great Musicals: The Arthur Freed Unit at MGM''
+| {{nom}}
+|-
+| rowspan="2"| [[10th Golden Globe Awards|Golden Globe Awards]]
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]]
+| {{nom}}
+| align="center" rowspan="2"| <ref>{{cite web |url=https://goldenglobes.com/film/singin-in-the-rain/ |title=Singin' in the Rain |publisher=[[Golden Globe Awards]] |access-date=September 16, 2016}}</ref>
+|-
+| [[Golden Globe Award for Best Actor in a Motion Picture – Musical or Comedy|Best Actor in a Motion Picture – Musical or Comedy]]
+| [[Donald O'Connor]]
+| {{won}}
+|-
+| [[National Board of Review Awards 1952|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{draw|8th place}}
+| align="center"| <ref>{{cite web |url=https://nationalboardofreview.org/award-years/1952/ |title=1952 Award Winners |publisher=[[National Board of Review]] |access-date=December 16, 2024}}</ref>
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref>{{cite news |last1=Molotsky |first1=Irvin |url=https://www.nytimes.com/1989/09/20/movies/25-films-chosen-for-the-national-registry.html |title=25 Films Chosen for the National Registry |date=September 20, 1989 |work=[[The New York Times]] |access-date=February 27, 2020 |language=en-US |issn=0362-4331}}</ref>
+|-
+| rowspan="2"| Online Film & Television Association Awards
+| colspan="2"| Film Hall of Fame: Productions
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame Inductees: Productions |publisher=Online Film & Television Association |access-date=May 22, 2021}}</ref>
+|-
+| Film Hall of Fame: Songs
+| "[[Singin' in the Rain (song)|Singin' in the Rain]]"
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-songs/ |title=Hall of Fame Inductees: Songs |publisher=Online Film & Television Association |access-date=May 22, 2021}}</ref>
+|-
+| [[Photoplay#The Photoplay Magazine Medal of Honor|Photoplay Awards]]
+| Best Performances of the Month (June)
+| Gene Kelly, Donald O'Connor, and Jean Hagen
+| {{won}}
+| align="center"| <ref>[https://www.imdb.com/title/tt0045152/awards "Singin' in the Rain: Awards"] [[IMDb.com]]</ref>
+|-
+| rowspan="2"| [[7th Golden Satellite Awards|Satellite Awards]]
+| colspan="2"| [[Satellite Award for Outstanding Youth Blu-Ray/DVD|Outstanding Youth DVD]]
+| {{nom}}
+| align="center" rowspan="2"| <ref>{{cite web |url=http://www.pressacademy.com/satawards/awards2003.shtml |title=International Press Academy website – 2003 7th Annual Satellite Awards |publisher=[[International Press Academy]] |archive-url=https://web.archive.org/web/20080201175700/http://www.pressacademy.com/satawards/awards2003.shtml |archive-date=February 1, 2008}}</ref>
+|-
+| colspan="2"| [[Satellite Award for Best DVD Extras|Best DVD Extras]]
+| {{nom}}
+|-
+| [[5th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Written Musical|Best Written American Musical]]
+| [[Betty Comden]] and [[Adolph Green]]
+| {{won}}
+| align="center"| <ref>{{cite web |url=http://www.wga.org/awards/awardssub.aspx?id=1551 |title=Awards Winners |publisher=[[Writers Guild of America Awards]] |archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551 |archive-date=December 5, 2012 |access-date=June 6, 2010 |url-status=live}}</ref>
+|}
+
+The film is recognized by the [[American Film Institute]] in these lists:
+* 1998: [[AFI's 100 Years...100 Movies]] – #10<ref>{{cite web |title=AFI's 100 Years...100 Movies |url=http://www.afi.com/Docs/100Years/movies100.pdf |archive-url=https://web.archive.org/web/20110313150543/http://www.afi.com/Docs/100Years/movies100.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |publisher=[[American Film Institute]]}}</ref>
+* 2000: [[AFI's 100 Years...100 Laughs]] – #16<ref>{{cite web |title=AFI's 100 Years...100 Laughs |url=http://www.afi.com/Docs/100Years/laughs100.pdf |archive-url=https://web.archive.org/web/20110313150533/http://www.afi.com/Docs/100Years/laughs100.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |publisher=[[American Film Institute]]}}</ref>
+* 2002: [[AFI's 100 Years...100 Passions]] – #16<ref>{{cite web |title=AFI's 100 Years...100 Passions |url=http://www.afi.com/Docs/100Years/passions100.pdf |archive-url=https://web.archive.org/web/20110313150603/http://www.afi.com/Docs/100Years/passions100.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |publisher=[[American Film Institute]]}}</ref>
+* 2003: [[AFI's 100 Years...100 Heroes & Villains]]:
+** Lina Lamont – Nominated Villain<ref>{{cite web |title=AFI's 100 Years...100 Heroes & Villains Nominees |url=http://www.afi.com/Docs/100Years/handv400.pdf |archive-url=https://web.archive.org/web/20110313150527/http://www.afi.com/Docs/100Years/handv400.pdf |archive-date=March 13, 2011 |access-date=2016-07-17}}</ref>
+* 2004: [[AFI's 100 Years...100 Songs]]:
+** "[[Singin' in the Rain (song)|Singin' in the Rain]]" – #3<ref name="afisongs">{{cite web |title=AFI's 100 Years...100 Songs |url=http://www.afi.com/Docs/100Years/songs100.pdf |archive-url=https://web.archive.org/web/20110313151657/http://www.afi.com/Docs/100Years/songs100.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |publisher=[[American Film Institute]]}}</ref>
+** "[[Make 'Em Laugh]]" – #49<ref name=afisongs/>
+** "[[Good Morning (1939 song)|Good Morning]]" – #72<ref name=afisongs/>
+* 2005: [[AFI's 100 Years...100 Movie Quotes]]:
+** Lina Lamont: "What do they think I am, dumb or something? Why, I make more money than Calvin Coolidge! Put together!" – Nominated<ref>{{cite web |title=AFI's 100 Years...100 Movie Quotes Nominees |url=http://www.afi.com/Docs/100Years/quotes400.pdf |archive-url=https://web.archive.org/web/20110313150620/http://www.afi.com/Docs/100Years/quotes400.pdf |archive-date=March 13, 2011 |access-date=2016-07-17}}</ref>
+* 2006: [[AFI's Greatest Movie Musicals]] – #1<ref>{{cite web |title=AFI's Greatest Movie Musicals |url=http://www.afi.com/Docs/100Years/musicals25.pdf |archive-url=https://web.archive.org/web/20110313150553/http://www.afi.com/Docs/100Years/musicals25.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |publisher=[[American Film Institute]]}}</ref>
+* 2007: [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – #5<ref>{{cite web |title=AFI's 100 Years...100 Movies (10th Anniversary Edition) |url=http://www.afi.com/Docs/100Years/100Movies.pdf |archive-url=https://web.archive.org/web/20110313150457/http://www.afi.com/Docs/100Years/100Movies.pdf |archive-date=March 13, 2011 |access-date=2016-07-17 |publisher=[[American Film Institute]]}}</ref>
+
+In 1989, ''Singin' in the Rain'' was among the first 25 films chosen for the newly established [[National Film Registry]] for films that are deemed "culturally, historically or aesthetically significant" by the United States [[Library of Congress]] and selected for preservation.<ref name="The New York Times">{{cite news |last1=Molotsky |first1=Irvin |url=https://www.nytimes.com/1989/09/20/movies/25-films-chosen-for-the-national-registry.html |title=25 Films Chosen for the National Registry |date=1989-09-20 |work=The New York Times |access-date=2020-02-27 |language=en-US |issn=0362-4331}}</ref>
+
+''Singin' in the Rain'' has appeared three times on ''[[Sight & Sound]]''{{'}}s list of the ten [[List of films voted the best|best films of all time]], in 1982, 2002 and 2022. Its position in 1982 was at number 3 on the critics list; on the 2002 critics' list, it was listed as number 10, and it tied for 19 on the directors' list; on the 2022 critics' list, it was listed again as number 10.<ref>{{cite web |url=http://www.bfi.org.uk/sightandsound/polls/topten/poll/critics.html |title=Sight & Sound &#124; Top Ten Poll 2002 - Critics' top ten films of all time |publisher=BFI |date=2011-08-02 |access-date=2011-10-30 |url-status=dead |archive-url=https://web.archive.org/web/20111028111931/http://www.bfi.org.uk/sightandsound/polls/topten/poll/critics.html |archive-date=2011-10-28 }}</ref><ref name=":0"/> In 2006, [[Writers Guild of America West]] ranked its screenplay 65th in WGA’s list of 101 Greatest Screenplays.<ref>{{Cite news |title=101 Greatest Screenplays |url=https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-url=https://web.archive.org/web/20210518183340/https://www.wga.org/writers-room/101-best-lists/101-greatest-screenplays/list |archive-date=2021-05-18 |access-date=2026-01-01 |language=en}}</ref> In 2008, ''Singin' in the Rain'' was placed on Empire's 500 Greatest Movies of All Time List, ranking at #8, the highest-ranked G-rated movie on the list.<ref>{{Cite web|url=http://www.cinemarealm.com/best-of-cinema/empires-500-greatest-movies-of-all-time/|title=Empire's 500 Best Movies of All Time|website=CinemaRealm|language=en-US|access-date=October 30, 2018}}</ref>
+
+==Home media==
+The 40th Anniversary Edition VHS version released in 1992 include a documentary, the original trailer, and Reynolds' solo rendition of "You Are My Lucky Star", which had been cut from the final film.<ref>{{cite web |title=VHS back cover |url=https://www.amazon.com/gp/customer-media/product-gallery/630233683X |access-date=2010-03-06 |publisher=Amazon.com}}</ref>
+
+According to the [[audio commentary]] on the 2002 Special Edition DVD, the original negative was destroyed in a fire. Despite this, the film was digitally restored for its DVD release. A [[Blu-ray]] Ultimate Collector's Edition was released in July 2012, featuring the high-definition digital transfer sourced from the [[4K resolution|4K]] transfer. A [[Ultra HD Blu-ray]] was released on April 26, 2022.
+
+The digital version of the film is currently available to stream on [[HBO Max]].<ref>{{cite web |title=Singin' in the Rain |url=https://www.hbomax.com/feature/urn:hbo:feature:GXjS6HwuDQo-njwEAAAT1 |website=HBO MAX |access-date=19 May 2021}}</ref>
+
+==Adaptations==
+[[File:Singin' in the Rain - geograph.org.uk - 3256647.jpg|thumb|''[[Singin' in the Rain (musical)|Singin' in the Rain]]'' playing at the [[Palace Theatre, London|Palace Theatre]] in London's [[West End theatre|West End]], December 2012]]
+The musical ''[[Singin' in the Rain (musical)|Singin' in the Rain]]'' was adapted from the motion picture, and the plot of the stage version closely adheres to the original. Directed and choreographed by post-modern choreographer [[Twyla Tharp]], the opening night cast at the [[London Palladium]] in 1983 starred [[Don Correia]] as Don Lockwood, Mary D'Arcy as Kathy Selden, [[Richard Fancy]] as Roscoe Dexter, [[Faye Grant]] as Lina Lamont, and Peter Slutsker as Cosmo Brown. The musical opened on July 2, 1985, at the [[Gershwin Theatre]] after 39 previews, and ran for 367 performances, closing on May 18, 1986.<ref>[https://www.ibdb.com/broadway-production/singin-in-the-rain-4376 ''Singin' in the Rain''] on the [[Internet Broadway Database]]</ref>
+
+A comic book adaptation was published as [[Eastern Color Printing|Eastern Color]] Movie Love #14 (April 1952).<ref>{{Grand Comics Database issue|id=264021|title=Movie Love #14}}</ref>
+
+==In popular culture==
+:{{For|the title song|Singin' in the Rain (song)#In popular culture}}
+<!-- ABOUT THE FILM, NOT THE SONG "SINGIN" IN THE RAIN" -->
+* Kelly's hometown [[Pittsburgh Pirates]] games at [[PNC Park]] play the scene from the film during rain delays.<ref>{{cite news |url=http://old.post-gazette.com/ae/20030709rawson0709p5.asp |title=On Stage: Kate Hepburn, Richard Rauh and old Nixon |newspaper=Post-Gazette |date=July 9, 2003 |access-date=February 1, 2016 |archive-date=October 25, 2014 |archive-url=https://web.archive.org/web/20141025144931/http://old.post-gazette.com/ae/20030709rawson0709p5.asp |url-status=dead }}</ref>
+* 1979 – In ''[[Alien (film)|Alien]]'', [[Sigourney Weaver]]'s main character Ellen Ripley quietly sings parts of "You Are My Lucky Star" to herself while hiding from and preparing to fight the [[Xenomorph|eponymous antagonist]].
+* 1983 – In the television special ''Paddington Goes to the Movies'', [[Paddington Bear]] performs a version of Gene Kelly's famous dance from the film.<ref>{{cite news |last=Kyriazis|first=Stefan|date=December 29, 2016|title=Singin' In The Rain versions – Strictly's Ore to Paddington Bear: Watch our Top 5 & VOTE|url=https://www.express.co.uk/entertainment/films/747249/Singin-in-the-Rain-Gene-Kelly-Ore-Strictly-Paddington-Morecambe-Wise-Robbie-Williams-Glee |access-date=May 13, 2021|website=[[Daily Express]]|language=en}}</ref>
+* 2005 – The dance to the title song is parodied in the [[Monty Python]] Broadway musical ''[[Spamalot]]'' in the dance break to "[[Always Look on the Bright Side of Life]]", complete with tap-dancing knights spinning bright-yellow umbrellas around.<ref>{{cite web |title=Spamalot: And now for something completely silly |date=September 30, 2016 |url=http://www.itemlive.com/lifestyle/entertainment/spamalot-and-now-for-something-completely-silly/ |website=ItemLive |access-date=29 December 2016}}</ref>
+* 2010 – Two songs from the film were featured in [[The Substitute (Glee)|"The Substitute"]], a second-season episode of the [[musical comedy]] television series ''[[Glee (TV series)|Glee]]''.
+* 2012 – In the film ''[[Silver Linings Playbook]]'', [[Jennifer Lawrence]]'s character is inspired by a clip of Donald O'Connor and Gene Kelly dancing to "Moses Supposes" from ''Singin' in the Rain''.
+* 2013 – The [[anime]] short ''Gisoku no Moses'' features a young female ghost dancing with a pair of haunted dance shoes to the tune of "Moses Supposes".<ref>{{cite web |url=http://www.nerdwatch.com/2014/08/gisoku-no-moses-a-delightful-anime-short-inspired-by-gene-kelly/ |title="Gisoku no Moses", a delightful anime short inspired by Gene Kelly |work=Nerdwatch! |date=August 26, 2014 |access-date=20 April 2016}}</ref>
+* 2015 – In the romantic drama film ''[[Brooklyn (film)|Brooklyn]]'', Tony Fiorello ([[Emory Cohen]]) takes Eilis Lacey ([[Saoirse Ronan]]) out on a date to see the film. In the next scene, he emulates Gene Kelly's iconic swinging on the lamppost.<ref>{{cite news |first=Jason |last=Chen |date=November 16, 2015|title='Brooklyn' wins critical favor through bland nostalgia|url=https://www.dailycal.org/2015/11/16/brooklyn-wins-critical-favor-through-bland-nostalgia/|access-date=May 13, 2021|website=The Daily Californian|language=en-US}}</ref>
+* 2015 – The scene in which Gene Kelly sings "You Were Meant for Me" is featured in the [[Nancy Meyers]] film ''[[The Intern (2015 film)|The Intern]]''.<ref>{{cite news |last=Olsen|first=Mark|date=September 25, 2015|title=Review: 'The Intern' is a Nancy Meyers comedy, for better or worse|url=https://www.latimes.com/entertainment/movies/la-et-mn-the-intern-review-20150925-story.html |access-date=May 13, 2021|website=[[Los Angeles Times]]|language=en-US}}</ref> 
+* 2015 – [[Tropicana Products]] used ''Singin' in the Rain'' in their commercial throughout 2015 advertising their [[orange juice]].
+* 2016 – ''Singin' in the Rain'' was an inspiration for the musical film ''[[La La Land (film)|La La Land]]'', directed by [[Damien Chazelle]].<ref>{{cite news |url=http://www.slate.com/blogs/browbeat/2016/12/13/la_la_land_s_many_references_to_classic_movies_from_singin_in_the_rain_to.html |title=La La Land's Many References to Classic Movies: A Guide |work=[[Slate (magazine)|Slate]] |first=Aisha |last=Harris |date=December 13, 2016 |access-date=May 13, 2017}}</ref>
+* 2017 – The song [[Good Morning (1939 song)|"Good Morning"]] was featured in the third-season ''[[Legends of Tomorrow]]'' episode "Phone Home".<ref>{{cite web |url=http://comicbook.com/dc/2017/10/31/legends-of-tomorrow-phone-home/#6 |title='Legends of Tomorrow' Recap With Spoilers: "Phone Home" |website=comicbook.com |date=October 31, 2017|access-date=November 5, 2017}}</ref>
+* 2022 – The plot lines closely resembling ''Singin' in the Rain'' are used in the feature film ''[[Downton Abbey: A New Era]]''.<ref>{{cite web|url=https://www.cbr.com/downton-abbey-2-singin-in-the-rain-lina-lamont-homage/|title=Downton Abbey: A New Era Homages (& Redeems) a Singin' in the Rain Character|website=[[Comic Book Resources]]|date=June 8, 2022 }}</ref><ref>{{cite web|url=https://www.indiewire.com/2022/05/downton-abbey-a-new-era-singin-in-the-rain-1234725091/|title='Downton Abbey: A New Era': Filmmakers Say, Don't Call It a 'Singin' in the Rain' Ripoff!|website=[[Indiewire]]|date=May 18, 2022 }}</ref>
+* 2022 – The plot and scenes from the film itself are referenced and depicted in the comedy-drama film ''[[Babylon (2022 film)|Babylon]]'', directed by Damien Chazelle.
+
+==See also==
+* [[List of cult films]]
+* [[List of films voted the best]]
+* [[List of films with a 100% rating on Rotten Tomatoes]], a film review aggregation website
+* [[List of films featuring fictional films]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|23em}}
+
+==Bibliography==
+*{{Cite book |last=Barrios |first=Richard |url=https://doi.org/10.1093/acprof:oso/9780195377347.001.0001 |title=A Song in the Dark |date=2009-10-14 |publisher=Oxford University PressNew York |doi=10.1093/acprof:oso/9780195377347.001.0001 |isbn=978-0-19-537734-7}}
+*{{Cite journal |last1=Goldmark |first1=Daniel |last2=Cohan |first2=Steven |last3=Dickinson |first3=Kay |date=2004 |title=Hollywood Musicals, the Film Reader |url=https://doi.org/10.2307/3592976 |journal=American Music |volume=22 |issue=1 |pages=187 |doi=10.2307/3592976 |jstor=3592976 |issn=0734-4392|url-access=subscription }}
+*{{Cite journal |date=1998-09-01 |title=The talkies: American cinema's transition to sound, 1926-1931 |url=https://doi.org/10.5860/choice.36-0220 |journal=Choice Reviews Online |volume=36 |issue=1 |pages=36–0220–36–0220 |doi=10.5860/choice.36-0220 |doi-broken-date=January 8, 2026 |issn=0009-4978|url-access=subscription }}
+*{{Cite journal |date=2010-06-01 |title=America's film legacy: the authoritative guide to the landmark movies in the National Film Registry |url=https://doi.org/10.5860/choice.47-5375 |journal=Choice Reviews Online |volume=47 |issue=10 |pages=47–5375-47-5375 |doi=10.5860/choice.47-5375 |doi-broken-date=January 8, 2026 |issn=0009-4978|url-access=subscription }}
+*{{Cite journal |last=Maltby |first=Richard |date=January 1984 |title=The Hollywood Musical. By Jane Feuer. Bloomington, Ind.: Indiana University Press; London: Macmillan, in conjunction with the British Film Institute, 1982. 131 pp. - The Hollywood Musical Goes to War. By Allen L. Woll. Chicago: Nelson-Hall, 1983. 186 pp. |url=https://doi.org/10.1017/s0261143000006346 |journal=Popular Music |volume=4 |pages=333–337 |doi=10.1017/s0261143000006346 |issn=0261-1430|url-access=subscription }}
+* [[Betty Comden|Comden, Betty]] & [[Adolph Green|Green, Adolph]] (1972) "Introduction" ''Singin' in the Rain''. New York: Viking. SBN 670-01946-1
+* {{cite book |last1=Hess |first1=Earl J. |last2=Dabholkar |first2=Pratibha A. |name-list-style=amp |title=Singin' in the Rain: The Making of an American Masterpiece |url=https://archive.org/details/isbn_9780700616565 |publisher=[[University Press of Kansas]] |location=Lawrence, Kansas |year=2009 |isbn=978-0-7006-1656-5}}
+
+==Further reading==
+* {{cite book |last1=Comden |first1=Betty |author-link=Betty Comden |last2=Green |first2=Adolph |author2-link=Adolph Green |name-list-style=amp |title=Singin' in the Rain |location=New York |publisher=Lorrimer Publishing |date=1986 |isbn=0-85647-116-X |oclc=13125781 |url=https://archive.org/details/singininrainclas00bett}}
+* {{cite web |url=http://www.filmsite.org/sing.html |title=FilmSite Review: ''Singin' in the Rain'' (1952) |website=[[Filmsite.org]] |author=Dirks, Tim |publisher=[[AMC (TV channel)|AMC]] |access-date=February 14, 2016}}
+* {{cite web |url=http://www.cinemademerde.com/Essay-Singin_Rain.shtml |last=Telek |first=Scott |title=Speaking vs. Dancing in the Rain |website=Cinema de Merde |date=11 November 2007 |access-date=2016-02-14 |archive-date=July 22, 2012 |archive-url=https://web.archive.org/web/20120722055346/http://cinemademerde.com/Essay-Singin_Rain.shtml |url-status=dead }}
+* {{cite book |last=Wollen |first=Peter |author-link=Peter Wollen |title=Singin' in the Rain |location=London |publisher=BFI Publishing |date=1992 |isbn=0-85170-351-8 |oclc=27108548}}
+
+==External links==
+{{Commons category|Singin' in the Rain (film)}}
+{{Wikiquote|Singin' in the Rain}}
+* {{AFI film|50652}}
+* {{IMDb title|0045152}}
+*{{Cite AV media |url=https://www.allmovie.com/movie/singin-in-the-rain-am6785 |title=Singin' in the Rain (1952) - Gene Kelly, Stanley Donen {{!}} Synopsis, Movie Info, Moods, Themes and Related {{!}} AllMovie |language=en |access-date=2026-05-30 |via=www.allmovie.com}}
+* {{TCMDb title|418}}
+* {{Rotten Tomatoes|singin_in_the_rain}}
+* {{Cite web |title=CINEMACLASSIC : SINGIN'IN THE RAIN |url=http://cinemaclassic.free.fr/sing/singin.html |access-date=2026-05-30 |website=cinemaclassic.free.fr}}
+* {{Cite web |title=Singin' in the Rain (1952) - Photos, Cast & Movie Stills |url=https://www.virtual-history.com/movie/film/1680/singin-in-the-rain |access-date=2026-05-30 |website=www.virtual-history.com |language=en}}
+
+{{Navboxes
+|title=Articles and topics related to ''Singin' in the Rain''
+|state=collapsed
+|list1=
+{{Gene Kelly}}
+{{Stanley Donen}}
+{{Arthur Freed}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Singin' In The Rain}}
+[[Category:1952 films]]
+[[Category:1952 musical comedy films]]
+[[Category:1952 romantic comedy films]]
+[[Category:American musical comedy films]]
+[[Category:American romantic comedy films]]
+[[Category:American romantic musical films]]
+[[Category:American satirical films]]
+[[Category:Films about filmmaking]]
+[[Category:Films about Hollywood, Los Angeles]]
+[[Category:Films about actors]]
+[[Category:Films set in 1927]]
+[[Category:Films set in the 1920s]]
+[[Category:Films set in Los Angeles]]
+[[Category:Films directed by Stanley Donen]]
+[[Category:Films directed by Gene Kelly]]
+[[Category:Films scored by Lennie Hayton]]
+[[Category:Films with screenplays by Betty Comden and Adolph Green]]
+[[Category:Films featuring a Best Musical or Comedy Actor Golden Globe winning performance]]
+[[Category:Metro-Goldwyn-Mayer films]]
+[[Category:United States National Film Registry films inducted in 1989]]
+[[Category:Backstage musicals]]
+[[Category:Jukebox musical films]]
+[[Category:Films produced by Arthur Freed]]
+[[Category:Films adapted into comics]]
+[[Category:Films adapted into plays]]
+[[Category:Articles containing video clips]]
+[[Category:1952 English-language films]]
+[[Category:1952 American films]]
+[[Category:1950s satirical films]]
+[[Category:English-language romantic comedy films]]
+[[Category:English-language musical comedy films]]
+[[Category:English-language satirical films]]

@@ -1,0 +1,67 @@
+{{short description|2023 Swedish-Norwegian drama film}}
+{{Infobox film
+| name           = Opponent
+| native_name    = {{infobox name module|sv|Motståndaren}}
+| image          = Opponent (film) poster.jpg
+| caption        = Promotional release poster
+| director       = [[Milad Alami]]
+| producer       = Annika Rogell
+| writer         = Milad Alami
+| starring       = [[Payman Maadi]]<br>[[Marall Nasiri]]<br>Björn Elgerd
+| music          = Carl-Johan Sevedag<br>Jan Ekstrand
+| cinematography = Sebastian Winterø
+| editing        = Olivia Neergaard-Holm
+| studio         = Ape&Bjørn<br>Tangy
+| distributor    = TriArt Film
+| released       = {{film date|2023|2|18|[[73rd Berlin International Film Festival|Berlin]]|df=y}}
+| runtime        = 119 minutes
+| country        = Sweden<br>Norway
+| language       = Swedish<br>Persian
+| budget         = 
+}}
+
+'''''Opponent''''' ({{langx|sv|Motståndaren}}; {{langx|fa|دشمن}}) is a 2023 [[Drama (film and television)|drama]] film written and directed by [[Milad Alami]].<ref>Guy Lodge, [https://variety.com/2023/film/reviews/opponent-review-1235550321/ "‘Opponent’ Review: A Refugee Turns to Wrestling in a Sharp, Stressful Social Thriller"]. ''[[Variety (magazine)|Variety]]'', 11 March 2023.</ref> The film stars [[Payman Maadi]] as Iman, an [[Iran]]ian man who has moved to Sweden as a refugee with his wife Maryam ([[Marall Nasiri]]) and their daughters Asal (Nicole Mehrbod) and Sahar (Diana Farzami). A [[wrestling|wrestler]] in Iran before being forced to escape the country, he turns back to the sport in hopes of speeding up his asylum application by trying out for the Swedish national wrestling team, building toward the revelation that the real reason he was forced to leave Iran was that one of his former teammates outed him to the community as a closeted [[gay]] man, which carries the penalty of execution in the Islamic Republic of Iran.<ref>David Rooney, [https://www.hollywoodreporter.com/movies/movie-reviews/opponent-review-payman-maadi-1235334218/ "‘Opponent’ (‘Motstandaren’) Review: Payman Maadi Brings Searing Intensity to Character Study of an Iranian Refugee in Sweden"]. ''[[The Hollywood Reporter]]'', 25 February 2023.</ref>
+
+The cast also includes Björn Elgerd, Amirali Abanzad, Ahmed Abdullahi, Robin Ahlqvist, Leyla Aksoy, Anton Andersson, William Arvidsson, Helya Beikzadeh, Anton Carlsson, [[Ardalan Esmaili]], Diana Farzami, Sevin Fidan, Anton Jalneskog, Jonatan Jednell, Tobias Johansson, Arvin Kananian and Max Karlsson.
+
+It was selected as the Swedish entry for the [[Academy Award for Best International Feature Film|Best International Feature Film]] at the [[96th Academy Awards]],<ref>{{Cite web|url=https://cineuropa.org/en/newsdetail/447661/#european-countries |title= European titles submitted for the Oscars race |date=17 October 2023|access-date=29 October 2023 |website= [[Cineuropa]] |language=en}}</ref><ref>{{Cite web|url=https://en.pressroom.filminstitutet.se/posts/pressreleases/milad-alamis-opponent-is-swedens-academy-awar |title=Milad Alami's Opponent is Sweden's Academy Award submission |access-date=29 October 2023 |website=Swedish Film Institute |language=en}}</ref> but it was not nominated.
+
+==Distribution==
+An excerpt from the film was screened as a work in progress at the 2021 [[Les Arcs Film Festival]], where it was the winner of the TitraFilm Award.<ref>Elsa Keslassy, [https://variety.com/2021/film/global/les-arcs-festival-industry-prizes-1235132849/ "Les Arcs’s Industry Village Awards ‘Opponent,’ ‘Silver Haze,’ ‘Marriage By Abduction’"]. ''[[Variety (magazine)|Variety]]'', 14 December 2021.</ref> 
+
+The film premiered at the [[73rd Berlin International Film Festival]] in February 2023.<ref>Vladan Petkovic, [https://cineuropa.org/en/newsdetail/438962/ "Review: Opponent"]. ''Cineuropa'', 19 February 2023.</ref> It was later screened at the 2023 [[Inside Out Film and Video Festival]],<ref>Valerie Complex, [https://deadline.com/2023/05/inside-out-2slgbtq-full-lineup-for-33rd-annual-film-festival-passages-1235357267/ "Inside Out 2SLGBTQ+ Announces Full Lineup For 33rd Annual Film Festival; Will Open With Ira Sachs’ Romantic Drama ‘Passages’"]. ''[[Deadline Hollywood]]'', 5 May 2023.</ref> the [[Seattle International Film Festival]],<ref name=stranger>Chase Hutchinson, [https://www.thestranger.com/film/2023/05/22/79003038/a-full-list-of-this-years-siff-winners "A Full List of This Year’s SIFF Winners"]. ''[[The Stranger (newspaper)|The Stranger]]'', 22 May 2023.</ref> and the [[57th Karlovy Vary International Film Festival]].<ref>Ben Dalton, [https://www.screendaily.com/news/karlovy-vary-competition-title-opponent-scores-uk-ireland-distribution-deal-exclusive/5183680.article "Karlovy Vary competition title ‘Opponent’ scores UK-Ireland distribution deal"]. ''[[Screen Daily]]'', 3 July 2023.</ref>
+
+==Reception==
+===Critical response===
+''Opponent'' has an approval rating of 94% on [[review aggregator]] website [[Rotten Tomatoes]], based on 16 reviews, and an average rating of 7.5/10.<ref>{{cite web | url=https://www.rottentomatoes.com/m/opponent | title=Opponent &#124; Rotten Tomatoes | website=[[Rotten Tomatoes]] }}</ref>
+
+===Awards===
+At Seattle, Nasiri received a Special Jury Prize for her performance.<ref name=stranger/>
+
+==See also==
+
+* [[List of submissions to the 96th Academy Awards for Best International Feature Film]]
+* [[List of Swedish submissions for the Academy Award for Best International Feature Film]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{imdb title|16311444}}
+
+{{Swedish submission for Academy Awards}}
+[[Category:2023 films]]
+[[Category:2023 drama films]]
+[[Category:2023 LGBTQ-related films]]
+[[Category:Norwegian drama films]]
+[[Category:Norwegian gay-related films]]
+[[Category:Swedish drama films]]
+[[Category:Swedish gay-related films]]
+[[Category:2020s LGBTQ-related drama films]]
+[[Category:Films about refugees]]
+[[Category:Wrestling films]]
+[[Category:LGBTQ-related sports drama films]]
+[[Category:2023 Swedish-language films]]
+[[Category:2023 Persian-language films]]
+[[Category:2023 Swedish films]]
+[[Category:2023 Norwegian films]]

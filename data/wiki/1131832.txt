@@ -1,0 +1,494 @@
+{{short description|1992 film directed by Brian Henson}}
+{{Use mdy dates|date=September 2018}}
+{{Use American English|date=September 2018}}
+{{Infobox film
+| name           = The Muppet Christmas Carol
+| image          = Muppet christmas carol.jpg
+| alt            =
+| caption        = Theatrical release poster by [[Drew Struzan]]
+| director       = [[Brian Henson]]
+| producer       = {{Plainlist|
+* Brian Henson
+* Martin G. Baker
+}}
+| screenplay     = [[Jerry Juhl]]
+| based_on       = {{Plainlist|
+{{Based on|''[[The Muppet Show]]''|[[Jim Henson]]}}
+{{Based on|''[[A Christmas Carol]]''|[[Charles Dickens]]}}
+}}
+| starring       = {{Plainlist|<!--PER POSTER BILLING-->
+* [[Michael Caine]]
+* [[Dave Goelz]]
+* [[Steve Whitmire]]
+* [[Jerry Nelson]]
+* [[Frank Oz]]
+}}
+| music          = [[Miles Goodman]] (score)<br>[[Paul Williams (songwriter)|Paul Williams]] (songs)
+| cinematography = John Fenner
+| editing        = Michael Jablow
+| production_companies = {{Plainlist|
+* [[Walt Disney Pictures]]<ref name="AFI"/>
+* [[Jim Henson Productions]]<ref name="AFI"/>
+}}
+| distributor    = [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution]]<ref name="AFI">{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/59335|title=The Muppet Christmas Carol|work=[[American Film Institute]]|access-date=November 15, 2022}}</ref>
+| released       = {{Film date|1992|12|11}}
+| runtime        = 86 minutes<!--Theatrical runtime: 85:48--><ref>{{cite web | url= https://www.bbfc.co.uk/release/the-muppet-christmas-carol-q29sbgvjdglvbjpwwc0zmjc5mdu | title=''The Muppet Christmas Carol'' (U) | work=[[British Board of Film Classification]] | date=December 2, 1992 | access-date=July 27, 2015 | archive-date=November 2, 2015 | archive-url=https://web.archive.org/web/20151102005435/http://www.bbfc.co.uk/releases/muppet-christmas-carol | url-status=live }}</ref>
+| country        = United States<ref>{{cite web|url=https://www2.bfi.org.uk/films-tv-people/4ce2b7bd7d6d9|title=The Muppet Christmas Carol (1992)|website=Bfi.org.uk|access-date=October 30, 2017|archive-date=November 7, 2017|archive-url=https://web.archive.org/web/20171107022051/http://www.bfi.org.uk/films-tv-people/4ce2b7bd7d6d9|url-status=dead}}</ref>
+| language       = English
+| budget         = $12 million
+| gross          = $34.5 million<ref name="boxoffice">{{cite web |title=The Muppet Christmas Carol (1992) |url=https://boxofficemojo.com/title/tt0104940/ |publisher=[[Box Office Mojo]] |access-date=14 September 2026 |archive-date=September 25, 2020 |archive-url=https://web.archive.org/web/20200925140031/https://www.boxofficemojo.com/release/rl3395651073/weekend/ |url-status=live }}</ref>
+}}
+'''''The Muppet Christmas Carol''''' is a 1992 American [[Christmas film|Christmas]] [[musical film]] produced and directed by [[Brian Henson]] (in his feature [[directorial debut]]). It is the fourth theatrical film featuring [[the Muppets]]. Adapted from the 1843 novella ''[[A Christmas Carol]]'' by [[Charles Dickens]] with a screenplay written by [[Jerry Juhl]], the film takes artistic license to suit the aesthetic of the Muppets, but follows Dickens' original story closely. It is the first Muppet film where a human is the main protagonist.<ref>{{cite news |last=Rainer |first=Peter |date=1992-12-11 |title=The Muppets Take On Dickens' 'Carol' |url=https://www.latimes.com/archives/la-xpm-1992-12-11-ca-1527-story.html |url-status=live |archive-url=https://web.archive.org/web/20201122143322/https://www.latimes.com/archives/la-xpm-1992-12-11-ca-1527-story.html |archive-date=November 22, 2020 |access-date=2018-08-07 |work=[[Los Angeles Times]]}}</ref>
+
+The film stars [[Michael Caine]] as [[Ebenezer Scrooge]] alongside Muppet performers [[Dave Goelz]], [[Steve Whitmire]], [[Jerry Nelson]], and [[Frank Oz]]. It is the first Muppet film to be produced following the deaths of creator [[Jim Henson]] and performer [[Richard Hunt (puppeteer)|Richard Hunt]]; the film is dedicated to both.
+
+The film was released in the United States on December 11, 1992, by [[Buena Vista Pictures Distribution]] under its [[Walt Disney Pictures]] label. It was a modest box office success and received generally favorable reviews. It is the first Muppets film to be produced by Disney, whose [[The Walt Disney Company|parent company]] would later acquire the rights to the [[The Muppets Studio|Muppets characters and assets]] in 2004. The film's reputation has grown in the years since its release, and it is often listed as one of the best [[Christmas films]] of all time.<!--cited in body-->
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries for feature films should be between 400 and 700 words! -->
+[[Charles Dickens]] ([[Gonzo (Muppet)|Gonzo]]) and his friend [[Rizzo the Rat|Rizzo]] serve as [[narrators]] of the story of [[Ebenezer Scrooge]], a greedy, penny-pinching and lonely moneylender of 19th-century [[London]], who does not share the merriment of Christmas. On [[Christmas Eve]], he rejects his nephew Fred's invitation to Christmas dinner, dismisses two gentlemen ([[Bunsen Honeydew]] and [[Beaker (Muppet)|Beaker]]) collecting money for charity, and hurls a wreath at a carol-singing [[Bean Bunny]]. His kind, humble employee [[Bob Cratchit]] ([[Kermit the Frog]]) and the other bookkeepers request not to work on Christmas Day, since there will be no business for Scrooge on the day, to which he reluctantly agrees.
+
+That night, Scrooge encounters the shackled ghosts of his late business partners, [[Jacob Marley|Jacob and Robert Marley]] ([[Statler and Waldorf]]), in his bed chambers. They warn him to repent of his wicked ways, or be condemned to wear chains and suffer in the afterlife as they do. They tell Scrooge that three spirits will visit him during the night to help him change his ways.
+
+At one o'clock, Scrooge is visited by the childlike [[Ghost of Christmas Past]], who shows him visions of his childhood and early adult life. Along with Dickens and Rizzo, they visit his lonely school days and then his time as an employee at [[Mr. Fezziwig|Fozziwig]]'s ([[Fozzie Bear]]) [[rubber chicken]] factory. There, at Fozziwig's Christmas party, Scrooge meets a young woman named Belle, with whom he falls in love but she leaves him as he chooses money over her. A despondent Scrooge tells the Ghost to leave him and is returned to his home.
+
+Scrooge next meets the gigantic, merry [[Ghost of Christmas Present]], who shows him the joys and wonders of Christmas Day. Scrooge and the Ghost visit Fred's house, where Scrooge is made fun of for his stinginess and general ill will toward all. Scrooge and the spirit then visit Bob Cratchit's house, learning his family is content with the little they have. Scrooge also takes pity on Bob's ill son [[Tiny Tim (A Christmas Carol)|Tiny Tim]] ([[Robin the Frog]]), whom the Ghost comments will soon die if things continue the way they are. 
+
+The Ghost leaves Scrooge to the mysterious [[Ghost of Christmas Yet to Come]], who takes Scrooge into the future where a recent death elicits no sympathy from the inhabitants of London, and the stolen possessions of the deceased are sold to a [[Fence (criminal)|fence]] named Old Joe. Due to the creepy atmosphere, the narrators decide to leave. The Ghost also shows Scrooge the Cratchits' home, where they find Bob and his family mourning the death of Tiny Tim. Scrooge is led to the cemetery, where the Ghost points out the neglected grave of the unloved man; Scrooge wipes the snow away on the tombstone to see that it bears his name. Horrified, Scrooge tearfully vows to change his ways and suddenly finds himself back in his bedroom.
+
+Finding it is Christmas Day, an overjoyed Scrooge begins spreading happiness and joy around London, agreeing to give money to the gentlemen's charity, reconciling with Fred and his wife, and leaving coals for his bookkeepers. The narrators return to resume the story. Scrooge tells Bean to buy the poulterer's prize turkey, and they, along with Dickens, Rizzo, and the gentlemen, deliver it to Bob's family; Scrooge announces to Bob that he will raise his salary and pay off his mortgage, as Dickens tells that Tiny Tim escaped death thanks to Scrooge's new generosity, and everyone celebrates Christmas together.
+
+==Cast==
+* [[Michael Caine]] as [[Ebenezer Scrooge]]
+** Edward Sanders, Theo Sanders, Kristopher Milnes, Russell Martin, and [[Ray Coulthard]] as Young Scrooge
+* [[Steven Mackintosh]] as Fred, Ebenezer Scrooge's nephew.
+* [[Meredith Braun]] as Belle, Scrooge's former love interest.
+* [[Robin Weaver]] as Clara, Ebenezer Scrooge's niece-in-law and Fred's wife.
+
+===Muppet performers===
+{| class="wikitable sortable" style=
+|-
+! scope="col"| Performer
+! scope="col"| Muppet character
+! scope="col"| ''A Christmas Carol'' character
+|-
+| rowspan="8" | [[Dave Goelz]]
+|| [[The Great Gonzo]]
+| [[Charles Dickens]] (Narrator)
+|-
+|| [[Statler and Waldorf|Waldorf]]
+| Robert Marley
+|-
+|| [[Dr. Bunsen Honeydew]]
+| Charity collector
+|-
+|| [[Zoot (Muppet)|Zoot]]
+| Fozziwig party entertainer
+|-
+|[[Whatnot (Muppet)|Whatnots]]
+|Background characters
+|-
+| rowspan="3"| Original
+| Betina Cratchit
+|-
+|Pigs
+|-
+|Richmond the Horse
+|-
+| rowspan="9" |[[Steve Whitmire]]
+|| [[Rizzo the Rat]]
+| Co-narrator
+|-
+|| [[Kermit the Frog]]
+| [[Bob Cratchit]]
+|-
+|| [[Beaker (Muppet)|Beaker]]
+| Charity collector
+|-
+|| [[Bean Bunny]]
+| Boy
+|-
+|| [[Lips (Muppet)|Lips]]
+| Fozziwig party entertainer
+|-
+| rowspan="4"| Original
+| Belinda Cratchit
+|-
+|[[Punch and Judy|Stage puppeteer]]
+|-
+|Pigs
+|-
+|Laundress
+|-
+| rowspan="7" | [[Frank Oz]]
+|| [[Miss Piggy]]
+| Emily Cratchit
+|-
+|| [[Fozzie Bear]]
+| [[Mr. Fezziwig|Fozziwig]]
+|-
+|| [[Sam Eagle]]
+| Schoolmaster
+|-
+|| [[George the Janitor]]
+| Himself
+|-
+|| [[Animal (Muppet)|Animal]]
+| Fozziwig party entertainer
+|-
+| rowspan="2" |Original
+|Vegetable seller
+|-
+|Mr. Bitte
+|-
+| rowspan="16" | [[Jerry Nelson]]
+|| [[Robin the Frog]]
+| [[Tiny Tim Cratchit]]
+|-
+|| [[Lew Zealand]]
+| Himself
+|-
+|| [[Statler and Waldorf|Statler]]
+| [[Jacob Marley]]
+|-
+|| [[Emily Bear (Muppet)|Ma Bear]]
+| Ma Fozziwig
+|-
+|| [[Floyd Pepper]]
+| Fozziwig party entertainer
+|-
+|Dr. Julius Strangepork
+| rowspan="1" |Fred's guest
+|-
+|| [[Pops (Muppet)|Pops]]
+| rowspan="4" |Background characters
+|-
+|Inkspot
+|-
+|| [[List of Muppets#D|Droop]]
+|-
+|Frackle
+|-
+| rowspan="6" |Original
+|[[Ghost of Christmas Present]] (face and voice performance)
+|-
+|Bookkeeper rat
+|-
+|Pigs
+|-
+|Crocodile
+|-
+| Mr. Applegate
+|-
+|Mouse
+|-
+| rowspan="5" | [[David Rudman]]
+| rowspan="3" |Original
+| Peter Cratchit
+|-
+| Old Joe (puppeteer only)
+|-
+|Beggar
+|-
+|| [[The Swedish Chef]]
+| Fozziwig party cook
+|-
+|[[Fraggle Rock|Wander McMooch]]
+|Fred's guest
+|-
+| rowspan="3"| [[Louise Gold]]
+| rowspan="2" | Original
+| Mrs. Dilber
+|-
+|Cockney Woman
+|-
+|Brool
+|Fred's guest
+|-
+| rowspan="3"| [[Karen Prell]]
+| rowspan="2" |Original
+| [[Ghost of Christmas Past]] (puppeteer only)
+|-
+|Daughter mouse
+|-
+|[[Fraggle Rock|Aretha]]
+|Singer in "Scrooge" number
+|-
+| rowspan="2" | Rob Tygner
+| rowspan="2" | Originals
+| [[Ghost of Christmas Past]] (puppeteer only)
+|-
+| [[Ghost of Christmas Yet to Come]] (puppeteer only)
+|-
+|| William Todd Jones
+|| Original
+| [[Ghost of Christmas Past]] (puppeteer only)
+|-
+| rowspan="2" | [[Don Austen|Donald Austen]]
+| rowspan="2" | Originals
+| [[Ghost of Christmas Present]] (in-suit performer)
+|-
+| [[Ghost of Christmas Yet to Come]] (in-suit performer)
+|-
+| rowspan="2" |[[Mike Quinn (puppeteer)|Mike Quinn]]
+| rowspan="2" |Original
+|Undertaker
+|-
+|Pig
+|-
+| [[Jessica Fox (actress)|Jessica Fox]]
+| rowspan="2" |Originals
+| [[Ghost of Christmas Past]] (voice only)
+|-
+| David Shaw Parker
+| Old Joe (voice only)
+|}
+
+==Production==
+Following [[Jim Henson]]'s death in May 1990, the [[talent agent]] Bill Haber approached Henson's son [[Brian Henson|Brian]], with the idea of filming an adaptation. Haber told Henson that "''Christmas Carol'' is the greatest story of all time, you should do that" and later informed Henson that he had sold the idea to [[American Broadcasting Company|ABC]] as a [[television film]].<ref name="Howwemade">{{cite interview|url=https://www.theguardian.com/culture/2015/dec/21/how-we-made-the-muppet-christmas-carol|title=How we made: The Muppet Christmas Carol|subject=Brian Henson, Steve Whitmire|interviewer=Ben Beaumont-Thomas|work=[[The Guardian]]|date=21 December 2015|access-date=25 December 2015|archive-date=December 30, 2016|archive-url=https://web.archive.org/web/20161230023140/https://www.theguardian.com/culture/2015/dec/21/how-we-made-the-muppet-christmas-carol|url-status=live}}</ref> The longtime Muppets writer [[Jerry Juhl]] was hired to write the script and decided to insert [[Charles Dickens]] (portrayed by [[Gonzo (Muppet)|Gonzo]]) as the stand-in narrator in order to remain faithful to the original prose of the written material.<ref>{{cite interview|subject=Brian Henson|interviewer=Alyssa Fikse|url=https://uproxx.com/movies/2015/12/the-muppet-christmas-carol-fascinating-facts/2/|title=The 'Rainbow Connection' Connection And Other 'Muppet Christmas Carol' Facts|work=[[Uproxx]]|date=December 18, 2015|access-date=December 25, 2015|archive-date=December 25, 2015|archive-url=https://web.archive.org/web/20151225180820/http://uproxx.com/movies/2015/12/the-muppet-christmas-carol-fascinating-facts/2/|url-status=live}}</ref> Henson stated that Gonzo was chosen because he was the least likely choice to play Dickens,<ref name="Henson3" /> while [[Rizzo the Rat]] was added to inject some humor and serve as a [[Greek chorus]].<ref name="mentalfloss">{{cite web|first=Kristy|last=Puchko|url=https://www.mentalfloss.com/article/71757/14-things-you-might-not-know-about-muppet-christmas-carol|title=14 Things You Might Not Know About 'The Muppet Christmas Carol'|work=[[Mental Floss]]|date=December 1, 2015|access-date=November 17, 2020|archive-date=November 25, 2020|archive-url=https://web.archive.org/web/20201125102554/https://www.mentalfloss.com/article/71757/14-things-you-might-not-know-about-muppet-christmas-carol|url-status=live}}</ref> Established Muppet characters were initially written to portray the ghosts, with various accounts stating [[Robin the Frog]] or [[Scooter (Muppet)|Scooter]] was to be the [[Ghost of Christmas Past]], [[Miss Piggy]] to be the [[Ghost of Christmas Present]], and Gonzo (before he was written to portray Dickens) or [[Animal (Muppet)|Animal]] as the [[Ghost of Christmas Yet to Come]].<ref name="Howwemade" /><ref name="Henson3" /> However, the idea was scrapped in favor of new Muppet characters that would better underline the ghosts' ominous nature.<ref name="mentalfloss" /> After the script was submitted for approval to ABC, the executives of [[Walt Disney Pictures]] offered to purchase the script for a feature film instead of a television release.<ref name="Henson3">{{cite interview|subject=Brian Henson|interviewer=Alyssa Fikse|url=https://uproxx.com/movies/2015/12/brian-henson-interview/3/|title=Brian Henson On What Makes 'A Muppet Christmas Carol' So Special And His Father's Legacy|work=Uproxx|date=December 23, 2015|access-date=December 25, 2015|archive-date=December 25, 2015|archive-url=https://web.archive.org/web/20151225171309/http://uproxx.com/movies/2015/12/brian-henson-interview/3/|url-status=live}}</ref>
+
+The English actors [[David Hemmings]], [[Ron Moody]], and [[David Warner (actor)|David Warner]] and the American comedian [[George Carlin]] were considered to portray Ebenezer Scrooge.<ref>{{cite web|last=Heaney|first=Katie|title=14 Things You Didn't Know About "The Muppet Christmas Carol"|url=https://www.buzzfeed.com/katieheaney/14-things-you-didnt-know-about-the-muppet-christmas-carol#.jkvZGmP3a|work=[[BuzzFeed]]|date=December 12, 2013|access-date=December 25, 2015|archive-date=December 16, 2015|archive-url=https://web.archive.org/web/20151216050415/http://www.buzzfeed.com/katieheaney/14-things-you-didnt-know-about-the-muppet-christmas-carol#.jkvZGmP3a|url-status=live}}</ref> Henson later offered the role to [[Michael Caine]], who replied: "I'm going to play this movie like I'm working with the [[Royal Shakespeare Company]]. I will never wink, I will never do anything Muppety. I am going to play Scrooge as if it is an utterly dramatic role and there are no puppets around me."<ref name="Howwemade" /> He took inspiration for the role from "Wall Street cheats and embezzlers; I thought they represented a very good picture of meanness and greed."<ref>{{cite web |last1=Hunter |first1=Allan |title=Ebenezer's Good |url=https://archive.list.co.uk/the-list/1992-12-18/26/ |publisher=The List |access-date=2 July 2019 |date=18 December 1992 |archive-date=July 2, 2019 |archive-url=https://web.archive.org/web/20190702121148/https://archive.list.co.uk/the-list/1992-12-18/26/ |url-status=dead}}</ref>
+
+Production took place at the [[Shepperton Studios]], England.<ref>{{cite news |title=Ghosts of Music Past: 'The Muppet Christmas Carol' songwriter Paul Williams undergoes a metamorphosis no less powerful than Scrooge's |work=[[Los Angeles Times]] |date=December 13, 1992 |url=https://www.latimes.com/archives/la-xpm-1992-12-13-ca-3948-story.html |access-date=December 18, 2010 |first=Don |last=Heckman |archive-date=August 8, 2020 |archive-url=https://web.archive.org/web/20200808200734/https://www.latimes.com/archives/la-xpm-1992-12-13-ca-3948-story.html |url-status=live }}</ref> During filming, in order to allow for the Muppets and the human actors to be in the shot, floors had to be removed and re-inserted, with Michael Caine having to walk across narrow planks between the Muppets and their performers.<ref name="dvdaudiocommentary" /> Additionally, the buildings in the London street scenes were constructed by hand but [[Forced perspective|diminished in size]] in order to achieve the appearance that the streets were relatively longer. When the musical sequence "It Feels Like Christmas" ends with a [[crane shot]], the short buildings became apparent in the background; Brian Henson explained on the DVD [[audio commentary]] that they were aware of the problem during shooting, but eventually decided that the closing shot was worth it as they believed not many people would notice the error.<ref name="dvdaudiocommentary">{{cite AV media notes|title=The Muppet Christmas Carol|others=Brian Henson |type=Audio commentary|publisher=Walt Disney Home Entertainment|location=Burbank, California|id=B000065V41|year=2002}}</ref>
+
+==Release==
+===Box office===
+[[Walt Disney Pictures]] appeared to have high expectations for the film, being their widest-released film of the holiday season and the second-widest release under the Disney banner that year.<ref>{{cite news |first=David J. |last=Fox |url=https://www.latimes.com/archives/la-xpm-1992-12-15-ca-1985-story.html |title=Weekend Box Office : 'Home Alone' Passes $100 Million |work=[[Los Angeles Times]] |date=1992-12-15 |access-date=2012-07-06 |archive-date=January 15, 2021 |archive-url=https://web.archive.org/web/20210115094704/https://www.latimes.com/archives/la-xpm-1992-12-15-ca-1985-story.html |url-status=live }}</ref> However, the film opened in sixth place, initially reported to have collected $5.9&nbsp;million in box office estimates,<ref>{{cite news |first=David J. |last=Fox |url=https://www.latimes.com/archives/la-xpm-1992-12-14-ca-1593-story.html |title='Good Men' Salutes Its $16 Million |work=Los Angeles Times |date=December 14, 1992 |access-date=December 27, 2015 |archive-date=August 13, 2020 |archive-url=https://web.archive.org/web/20200813183837/https://www.latimes.com/archives/la-xpm-1992-12-14-ca-1593-story.html |url-status=live }}</ref> which was later revised to $5&nbsp;million.<ref>{{cite web |url=https://www.boxofficemojo.com/weekend/1992W50/ |title=Weekend Box Office Results for December 11-13, 2015 |work=Box Office Mojo |access-date=December 27, 2015 |archive-date=January 1, 2021 |archive-url=https://web.archive.org/web/20210101190338/https://www.boxofficemojo.com/weekend/1992W50/ |url-status=live }}</ref> Ultimately, ''The Muppet Christmas Carol'' grossed a total of $27.4&nbsp;million in North America.<ref name="boxoffice" /> Despite being a modest box office success, ''The Muppet Christmas Carol'' did not have a large effect during its theatrical release, having to face competition from ''[[Home Alone 2: Lost in New York]]'' and Disney's own ''[[Aladdin (1992 Disney film)|Aladdin]]''.
+
+=== Critical response ===
+[[File:Michael Caine - Viennale 2012 b cropped.jpg|alt=|thumb|right|upright|Michael Caine received praise for his performance as Ebenezer Scrooge. Caine himself has expressed delight over the film.<ref>{{cite web|url=https://www.gq.com/story/michael-caine-muppet-christmas-carol-interview |title=Michael Caine Loves 'The Muppet Christmas Carol' as Much as You do |date=December 15, 2016 }}</ref>]]
+On [[Rotten Tomatoes]], the film has an approval rating of 77% based on 56 reviews, with an average rating of 7/10. The site's consensus states, "It may not be the finest version of Charles Dickens' tale to grace the screen, but ''The Muppet Christmas Carol'' is funny and heartwarming, and serves as a good introduction to the story for young viewers."<ref>{{Citation|title=The Muppet Christmas Carol (1992)|url=https://www.rottentomatoes.com/m/muppet_christmas_carol|language=en|access-date=2023-12-14|archive-date=December 20, 2016|archive-url=https://web.archive.org/web/20161220212916/https://www.rottentomatoes.com/m/muppet_christmas_carol/|url-status=live}}</ref> On [[Metacritic]], the film has a score of 64 out of 100, based on 27 critics, indicating "generally favorable reviews".<ref>{{Citation|title=The Muppet Christmas Carol|url=https://www.metacritic.com/movie/the-muppet-christmas-carol|access-date=2020-07-14|archive-date=January 8, 2021|archive-url=https://web.archive.org/web/20210108051329/https://www.metacritic.com/movie/the-muppet-christmas-carol|url-status=live}}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A" on an A+ to F scale.<ref>{{Cite web|title=Home – Cinemascore|url=https://www.cinemascore.com|access-date=July 13, 2020|website=CinemaScore|archive-date=January 2, 2018|archive-url=https://web.archive.org/web/20180102130540/https://www.cinemascore.com/|url-status=live}}</ref>
+
+[[Janet Maslin]], reviewing for ''[[The New York Times]]'', said that there wasn't "great show of wit or tunefulness here, and the ingenious cross-generational touches are fairly rare. But there ''is'' a lively kiddie version of the Dickens tale, one that very young viewers ought to understand."<ref>{{cite news |last=Maslin |first=Janet |author-link=Janet Maslin |url=https://www.nytimes.com/1992/12/11/movies/review-film-kermit-etc-do-dickens-up-green.html |title=The Muppet Christmas Carol – Review/Film; Kermit, Etc. Do Dickens Up Green |work=[[The New York Times]] |date=1992-12-11 |access-date=2012-07-06 |archive-date=November 27, 2020 |archive-url=https://web.archive.org/web/20201127195636/https://www.nytimes.com/1992/12/11/movies/review-film-kermit-etc-do-dickens-up-green.html |url-status=live }}</ref> Kathleen Carroll of the ''[[New York Daily News]]'' gave it three and a half stars, calling it "a delightfully imaginative musical adaptation of Charles Dickens' classic tale" and noting that "it's a measure of Michael Caine's talents as an actor that he's able to give a straight-faced, remarkably convincing performance as the notorious tightwad Ebenezer Scrooge while surrounded by pint-sized veteran scene-stealers", though she did write that "the songs by Paul Williams tend to sound exactly alike."<ref>{{cite news
+| last         = Carroll
+| first        = Kathleen
+| date         = December 11, 1992
+| title        = KERMIT & MISS PIGGY GET SCROOGED
+| url          = https://nydailynews.newspapers.com/article/daily-news/136792402/
+| work         = [[Daily News (New York)|Daily News]]
+| location     = New York, New York
+| access-date  = December 13, 2023
+}}</ref>
+
+Peter Rainer of the ''[[Los Angeles Times]]'' said that "die-hard Muppet fans may get a boost from the film but Dickens lovers will fare less well. Somewhere along the way—'round about the Ghost of Christmas Past stuff—the magic has fallen out of the story. The treacly score by [[Miles Goodman]], with songs by [[Paul Williams (songwriter)|Paul Williams]], doesn't help. The Muppets are at their best when they're anarchic, without all this soggy whimsy."<ref>{{cite news
+| last         = Rainer
+| first        = Peter
+| date         = December 11, 1992
+| title        = MOVIE REVIEW: Muppets Take On Dickens' 'Carol'
+| url          = https://www.latimes.com/archives/la-xpm-1992-12-11-ca-1527-story.html
+| work         = [[Los Angeles Times]]
+| location     =
+| access-date  = December 14, 2023
+}}</ref> [[Norman Wilner]] of ''[[The Toronto Star]]'', in contrast, called the film "one of the most loyal renderings of Dickens", writing that "Caine, who has always been able to fully become the characters he plays, delivers an unexpectedly strong performance as a human being who plays every scene with hand puppets [and] makes us believe he's been relating to the little fuzzies all his life"; however, he had a mixed review of Williams' songs in the film, and was particularly critical of its closing number.<ref>{{cite news
+| last         = Wilner
+| first        = Norman
+| date         = December 11, 1992
+| title        = Muppet Carol worth singing about
+| url          = https://www.newspapers.com/article/the-toronto-star/136792387/
+| work         = [[The Toronto Star]]
+| location     =
+| access-date  = December 14, 2023
+}}</ref>
+
+The ''[[Chicago Sun-Times]]'' film critic [[Roger Ebert]], who gave the film three stars out of four, praised the technical achievements, but felt it "could have done with a few more songs than it has, and the merrymaking at the end might have been carried on a little longer, just to offset the gloom of most of Scrooge's tour through his lifetime spent spreading misery."<ref>{{cite news |last=Ebert |first=Roger |author-link=Roger Ebert |url=https://www.rogerebert.com/reviews/the-muppet-christmas-carol-1992 |title=The Muppet Christmas Carol Movie Review (1992) |publisher=rogerebert.com |date=December 11, 1992 |access-date=2012-07-06 |archive-date=October 2, 2019 |archive-url=https://web.archive.org/web/20191002133218/https://www.rogerebert.com/reviews/the-muppet-christmas-carol-1992 |url-status=live }}</ref> On the television program ''[[At the Movies (1986 TV program)|Siskel & Ebert]]'', his partner ''[[Chicago Tribune]]'' film critic [[Gene Siskel]], who did not review the film in print, gave the film a Thumbs Down although he was favorable towards Michael Caine's performance.<ref>{{cite episode|last1=Siskel|first1=Gene (host)|last2=Ebert|first2=Roger (host)|series=[[At the Movies (1986 TV program)|Siskel & Ebert]]|season=7|number=13|title=A Few Good Men/The Muppets Christmas Carol/Passion Fish|date=December 12, 1992}}</ref> Also from the ''Chicago Tribune'', [[Dave Kehr]] reviewed the film as "a talky, plodding film that seems likely to bore children and adults in equal measure." Nevertheless, Kehr praised Val Strazovec's production design and John Fenner's cinematography believing its "shadowy, naturalistic lighting creates a new look for a puppet film," but derided Paul Williams's songs as unmemorable.<ref>{{cite news |last=Kehr |first=Dave |author-link=Dave Kehr |url=https://www.chicagotribune.com/news/ct-xpm-1992-12-11-9204220855-story.html |title='Muppet Christmas Carol' Is Short On Holiday Spirit |work=[[Chicago Tribune]] |date=December 11, 1992 |access-date=December 27, 2015 |archive-date=August 3, 2020 |archive-url=https://web.archive.org/web/20200803184014/https://www.chicagotribune.com/news/ct-xpm-1992-12-11-9204220855-story.html |url-status=live }}</ref>
+
+Likewise, ''[[Variety (magazine)|Variety]]'' praised the production design and criticized Williams's songs, writing ''Muppets Christmas Carol'' is "not as enchanting or amusing as the previous entries in the Muppet series. But nothing can really diminish the late [[Jim Henson]]'s irresistibly appealing characters."<ref>{{cite news |author=Variety Staff |url=https://variety.com/1991/film/reviews/the-muppet-christmas-carol-1200429198/ |title=Review: 'The Muppet Christmas Carol' |magazine=[[Variety (magazine)|Variety]] |date=December 31, 1991 |access-date=July 6, 2012 |archive-date=December 18, 2013 |archive-url=https://web.archive.org/web/20131218094828/http://variety.com/1991/film/reviews/the-muppet-christmas-carol-1200429198/ |url-status=live }}</ref> Giving the film three stars out of five, Almar Haflidason of the [[BBC]] wrote the film is "liberal but fun adaptation of a classic" that "turns out to be quite touching as Muppet movies go. Less pleasing are the forgettable songs that offer both clumsy word construction and dire music that eats away at the aesthetic quality of the movie. But you'll be too busy looking out for the assorted Muppets to care much."<ref>{{cite web |first=Almar |last=Haflidason |url=https://www.bbc.co.uk/films/2000/12/14/a_muppet_christmas_carol_1992_review.shtml |title=Films – review – The Muppet Christmas Carol |publisher=BBC |date=December 14, 2000 |access-date=July 6, 2012 |archive-date=September 25, 2015 |archive-url=https://web.archive.org/web/20150925050810/http://www.bbc.co.uk/films/2000/12/14/a_muppet_christmas_carol_1992_review.shtml |url-status=live }}</ref>
+
+In London, the ''[[Evening Standard]]''{{'}}s [[Alexander Walker (critic)|Alexander Walker]] said that "the Muppets pass their first screen test playing characters other than their felt or furry selves with great exuberance."<ref>{{cite news
+| last         = Walker
+| first        = Alexander
+| date         = December 18, 1992
+| title        = Caine, Kermit and Cratchit
+| url          =
+| work         = [[Evening Standard]]
+| location     = London, Greater London, England
+| access-date  =
+}}</ref> [[Derek Malcolm]] of ''[[The Guardian]]'' was less welcoming, saying that "Scrooge's nightmare is rendered silly and so his turning from swine to saint hasn't the required kick. Not only that, but the jokes are thin on the ground, as if only a certain amount of piss-taking was thought appropriate."<ref>{{cite news
+| last         = Malcolm
+| first        = Derek
+| date         = December 18, 1992
+| title        = Cardboard clown
+| url          = https://theguardian.newspapers.com/article/the-guardian/136792611/
+| work         = [[The Guardian]]
+| location     = London, Greater London, England
+| access-date  = December 14, 2023
+}}</ref>
+
+The film has grown in critical acclaim over the years, and was declared "the greatest Christmas film ever made" as well as "among the most glorious of all Dickens adaptations" by ''The Guardian'' in 2023.<ref>{{Cite news |last=Gilbey |first=Ryan |date=2023-12-14 |title=The 25 best Christmas films – ranked! |url=https://www.theguardian.com/film/2023/dec/14/the-25-best-christmas-films-ranked |access-date=2024-02-06 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Anthony McGlynn of ''[[Screen Rant]]'' similarly called ''The Muppet Christmas Carol'' "a work of genius on every level" and "the greatest Christmas movie ever made", praising the original songs that were written for the film and Michael Caine's performance as Scrooge.<ref>{{cite web|author=McGlynn, Anthony|url=https://screenrant.com/best-christmas-movies-all-time/2/|title=Best Christmas Movies Of All-Time|publisher=[[Screen Rant]]|date=December 23, 2018|access-date=December 23, 2018|archive-date=August 19, 2019|archive-url=https://web.archive.org/web/20190819194741/https://screenrant.com/best-christmas-movies-all-time/2/|url-status=live}}</ref> Robert Keeling of ''[[Den of Geek]]'' praised Caine's performance, the adaptation's use of Gonzo and Rizzo, as well as the various musical songs.<ref name=":13">{{Cite web |last=Keeling |first=Robert |date=2019-12-13 |title=A Christmas Carol: The Best and Worst Adaptations |url=https://www.denofgeek.com/movies/a-christmas-carol-the-best-and-worst-adaptations/ |access-date=2023-12-20 |website=Den of Geek}}</ref> It is often ranked among the best Christmas films.<ref>{{Cite web |url=https://www.thetoptens.com/top-christmas-movies/ |title=Top Ten Christmas Movies Of All Time |website=TheTopTens.com |access-date=December 11, 2018 |archive-date=January 4, 2021 |archive-url=https://web.archive.org/web/20210104163635/https://www.thetoptens.com/top-christmas-movies/ |url-status=live }}</ref><ref>{{Cite web |url=https://editorial.rottentomatoes.com/guide/best-christmas-movies/ |title=The 50 Best Christmas Movies of All Time |publisher=Rotten Tomatoes |access-date=December 11, 2018 |archive-date=January 4, 2021 |archive-url=https://web.archive.org/web/20210104163648/https://editorial.rottentomatoes.com/guide/best-christmas-movies/ |url-status=live }}</ref><ref>{{Cite web |url=https://www.thrillist.com/entertainment/nation/best-christmas-movies-of-all-time |title=The 50 Best Christmas Movies of All Time |first=Dan |last=Jackson |date=December 22, 2017 |website=Thrillist |access-date=December 11, 2018 |archive-date=October 9, 2017 |archive-url=https://web.archive.org/web/20171009214702/https://www.thrillist.com/entertainment/nation/best-christmas-movies-of-all-time |url-status=live }}</ref>
+
+===Home media===
+This is the first ''Muppet'' film co-produced and released by Walt Disney Pictures—and the rights to the Muppets featured in the film would later be purchased by the [[The Walt Disney Company|studio's parent company]]. In addition to theatrical releases, the film has also been made available on home video formats. It was first released on VHS in the United States on November 5, 1993, in the United Kingdom on November 15 that year, and later on DVD in both countries. The first US DVD release was on October 8, 2002, in a full-screen-only format. [[Walt Disney Home Entertainment]] released the film in the US on DVD on November 29, 2005, in conjunction with Kermit the Frog's 50th anniversary celebration; this time the DVD contained both full-screen and widescreen presentations. The UK has also had similar DVD releases.
+
+[[Walt Disney Studios Home Entertainment]] released a 20th anniversary collector's edition on [[Blu-ray]], DVD, and [[digital copy]] on November 6, 2012.<ref>{{cite web|url=https://www.highdefdigest.com/news/show/Disc_Announcements/Disney%2FBuena_Vista/The_Muppet_Christmas_Carol_20th_Anniversary_Edition_Dated_for_Blu-ray/9849|title='The Muppet Christmas Carol: 20th Anniversary Edition' Dated for Blu-ray|publisher=High-Def Digest|access-date=30 July 2012|archive-date=August 9, 2020|archive-url=https://web.archive.org/web/20200809114936/https://www.highdefdigest.com/news/show/Disc_Announcements/Disney%2FBuena_Vista/The_Muppet_Christmas_Carol_20th_Anniversary_Edition_Dated_for_Blu-ray/9849|url-status=live}}</ref> The release does not include the film's extended cut. However, the song "When Love Is Gone" and its accompanying scene can be viewed in its entirety on the full-screen version of the anniversary edition of ''The Muppet Christmas Carol'', though it is cut in the widescreen format.<ref>{{cite web|last=Brown|first=Kenneth|title=The Muppet Christmas Carol Blu-ray Review|url=https://www.blu-ray.com/movies/The-Muppet-Christmas-Carol-Blu-ray/35027/#Review|publisher=Blu-ray.com|access-date=6 November 2012|date=6 November 2012|archive-date=March 1, 2020|archive-url=https://web.archive.org/web/20200301195535/https://www.blu-ray.com/movies/The-Muppet-Christmas-Carol-Blu-ray/35027/#Review|url-status=live}}</ref><ref>{{Cite web |last=Nikkhah Azad |first=Navid |date=2022-11-30 |title=THE MUPPET CHRISTMAS CAROL back in cinemas |url=https://www.deed.news/news/press-release/the-muppet-christmas-carol-back-in-cinemas/ |access-date=2022-11-30 |website=www.deed.news |language=en-US}}</ref>
+
+On December 9, 2022, [[Disney+]] released a 30th anniversary edition via [[streaming media]] which includes the song "When Love Is Gone" as an option in its menu.<ref>{{cite news|url=https://variety.com/2022/film/news/muppet-christmas-carol-when-love-is-gone-meredith-braun-1235457150/|title=When Love is Found: 'Muppet Christmas Carol' Star Meredith Braun on Her Long-Lost Song's Triumphant Return|first=Katcy|last=Stephan|date=December 11, 2022|work=Variety}}</ref>
+
+A story album of the movie was nominated for a [[Grammy Award for Best Spoken Word Album for Children]] in 1994.<ref name=Grammy1994>{{cite news|url=http://www.deseretnews.com/article/330586/HUNDREDS-NOMINATED-FOR-GRAMMYS.html?pg=6|archive-url=https://web.archive.org/web/20121024050815/http://www.deseretnews.com/article/330586/HUNDREDS-NOMINATED-FOR-GRAMMYS.html?pg=6|archive-date=October 24, 2012|title=Hundreds Nominated For Grammys|date=January 10, 1994|access-date=July 13, 2010|page=6|work=Deseret News|publisher=Deseret News Publishing Company}}</ref>
+
+==Music==
+The film's [[original score]] was composed by [[Miles Goodman]] with songs written by [[Paul Williams (songwriter)|Paul Williams]]. Williams previously worked with the Muppets on the soundtrack to ''[[The Muppet Movie]]'' (1979) in which he and [[Kenneth Ascher]] were nominated for an [[Academy Award]] for writing "[[Rainbow Connection]]". Goodman previously scored several films that were directed by Muppet performer [[Frank Oz]].<ref>{{cite web|last=Plume|first=Kenneth|title=INTERVIEW WITH FRANK OZ|date=10 February 2000|publisher=IGN|url=https://www.ign.com/articles/2000/02/10/interview-with-frank-oz-part-3-of-4|access-date=12 March 2015|archive-date=May 20, 2020|archive-url=https://web.archive.org/web/20200520125158/https://www.ign.com/articles/2000/02/10/interview-with-frank-oz-part-3-of-4|url-status=live}}</ref>
+
+===Soundtrack===
+{{Infobox album
+| name       = The Muppet Christmas Carol: Original Motion Picture Soundtrack
+| type       = soundtrack
+| artist     = [[The Muppets]]
+| cover      =
+| alt        =
+| released   = November 10, 1992
+| recorded   =
+| venue      =
+| studio     = {{flat list|*BMG Studios, New York Citywide
+* [[Sony Pictures Studios|Sony Scoring Stage]], Culver City}}
+| genre      = [[Soundtrack album|Soundtrack]]
+| length     =
+| label      = [[Jim Henson Records|Jim Henson]]
+| producer   =
+| chronology = [[The Muppets]]
+| prev_title = [[The Muppets Take Manhattan#Music|The Muppets Take Manhattan: The Original Soundtrack]]
+| prev_year  = 1984
+| next_title = [[Muppet Treasure Island#Music|Muppet Treasure Island: Original Motion Picture Soundtrack]]
+| next_year  = 1996
+}}
+{{Music ratings
+| rev1   = [[AllMusic]]
+| rev1Score = {{Rating|4.5|5}}<ref>{{cite web|url=https://www.allmusic.com/album/the-muppet-christmas-carol-original-soundtrack-mw0000089924|title=The Muppet Christmas Carol [Original Soundtrack] – The Muppets – Songs, Reviews, Credits|website=[[AllMusic]]|access-date=October 30, 2017|archive-date=November 7, 2017|archive-url=https://web.archive.org/web/20171107015158/https://www.allmusic.com/album/the-muppet-christmas-carol-original-soundtrack-mw0000089924|url-status=live}}</ref>
+}}
+
+''The Muppet Christmas Carol: Original Motion Picture Soundtrack'' contains all of the songs from the film, which were written by [[Paul Williams (songwriter)|Paul Williams]], as well as several cues from the score by [[Miles Goodman]]. However, most of them are different arrangements than as they are featured in the film. The performances are by the Muppet characters as well as Caine, and the album also includes the songs "Room in Your Heart" and "Chairman of the Board" that were recorded but never filmed. As with all preceding Muppet films, ''The Muppet Christmas Carol'' was shot as a [[Musical film|musical]]. The soundtrack album peaked at number 189 on the [[Billboard 200|''Billboard'' 200]] chart. The soundtrack was re-released on digital by [[Walt Disney Records]] on November 6, 2012.
+
+====Track listing====
+{{Track listing
+| extra_column  =  Performer
+| all_writing   = [[Paul Williams (songwriter)|Paul Williams]] (songs) and [[Miles Goodman]] (score), except where noted
+| title1        = Overture
+| length1       = 2:29
+| title2        = Scrooge
+| extra2        = The Muppet Cast
+| length2       = 2:27
+| title3        = Room in Your Heart
+| note3         = deleted song
+| extra3        = [[Dr. Bunsen Honeydew]] and [[Beaker (Muppet)|Beaker]]
+| length3       = 1:49
+| title4        = [[Good King Wenceslas]]
+| extra4        = The Muppet Brass Buskers
+| length4       = 1:05
+| title5        = One More Sleep 'Til Christmas
+| extra5        = [[Kermit the Frog|Kermit]]
+| length5       = 2:50
+| title6        = Marley and Marley
+| extra6        = [[Statler and Waldorf]]
+| length6       = 3:13
+| title7        = Christmas Past
+| length7       = 1:09
+| title8        = Chairman of the Board
+| note8         = deleted song
+| extra8        = [[Sam Eagle]]
+| length8       = 1:50
+| title9        = Fozziwig's Party
+| extra9        = [[Dr. Teeth and the Electric Mayhem]]
+| length9       = 2:22
+| title10       = When Love Is Gone
+| extra10       = [[Meredith Braun]]
+| length10      = 3:38
+| title11       = It Feels Like Christmas
+| extra11       = [[Ghost of Christmas Present]]
+| length11      = 2:42
+| title12       = Christmas Scat
+| extra12       = [[Robin The Frog|Robin]] and Kermit
+| length12      = 0:23
+| title13       = Bless Us All
+| extra13       = Robin and family
+| length13      = 2:50
+| title14       = Christmas Future
+| length14      = 1:46
+| title15       = Christmas Morning
+| length15      = 0:57
+| title16       = Thankful Heart
+| extra16       = [[Michael Caine]] and the Cast
+| length16      = 2:16
+| title17       = Finale — When Love Is Found/It Feels Like Christmas
+| extra17       = Ghost of Christmas Present, Caine, the Muppet Cast, Robin
+| length17      = 4:01
+| title18       = When Love Is Gone
+| note18        = Pop Version
+| extra18       = [[Martina McBride]]
+| length18      = 3:48
+| total_length  =41:41
+}}
+
+==="When Love Is Gone"===
+"When Love Is Gone" is a song sung by the character Belle (portrayed by [[Meredith Braun]]) as she laments that Scrooge's love of money has replaced his love of her. American country singer [[Martina McBride]] reprises the song for the film's [[end credits]].<ref>{{cite web|title=The Muppet Christmas Carol gets extended cut for 30th anniversary|last=Plate|first=Matthew|url=https://www.joblo.com/the-muppet-christmas-carol-gets-extended-cut-for-30th-anniversary/|website=JoBlo.com|date=September 13, 2022|access-date=December 25, 2025}}</ref> The song itself was cut from the original 1992 American theatrical edition of the film by [[Jeffrey Katzenberg]], the then-chairman of [[Walt Disney Studios (division)|Walt Disney Studios]], who argued that the song would not appeal to young viewers. Instead, the song was played during the film's end credits scene.<ref>{{cite web|last=Grace|first=Willie|url=http://stylemagazine.com/news/2014/dec/12/why-muppet-christmas-carols-deleted-song-was-cut-r/|title=Why The Muppet Christmas Carol's song Was cut, But Really Should Have Stayed|work=Houston Style Magazine|date=December 12, 2014|access-date=December 25, 2015|archive-date=December 25, 2015|archive-url=https://web.archive.org/web/20151225213633/http://stylemagazine.com/news/2014/dec/12/why-muppet-christmas-carols-deleted-song-was-cut-r/|url-status=dead}}</ref> Brian Henson objected to this decision as the concluding song, "When Love Is Found", was a direct counterpoint to it.<ref name="dvdaudiocommentary" />
+
+Henson commented: {{"'}}When Love Is Gone' was not in the theatrical release, and is presently missing from some copies of the movie, which is a real shame." "When Love Is Gone" is only included on some home media releases of ''The Muppet Christmas Carol'' which are now out of print. The song is included on all of the 1993 [[VHS]] and [[LaserDisc]] releases of the film,<ref name="Henson3" /> as well as at least one UK VHS release.<ref>{{citation |url=https://www.lddb.com/laserdisc/05208/1729-AS/Muppet-Christmas-Carol-The |title=LaserDisc Database – Muppet Christmas Carol, The [1729 AS] |access-date=November 17, 2020 |archive-date=October 27, 2020 |archive-url=https://web.archive.org/web/20201027062119/https://www.lddb.com/laserdisc/05208/1729-AS/Muppet-Christmas-Carol-The |url-status=live }}</ref>
+
+The 2002 and 2005 [[DVD]] releases of the film retain the song in the 90-minute [[Aspect ratio|full-screen]] version of the film, but not in the 86-minute widescreen version on the same disc. A 2012 standalone DVD release of the film uses the same disc from the 2005 release, so it also contains the song. However, a different DVD was used for the 2012 Blu-ray combo pack which does not contain the song. The digital download release of the film contains the entire "When Love Is Gone" as a bonus feature, in widescreen and in high definition.
+
+In a 2018 interview with ''[[The Big Issue]]'', Henson said he believed that the song was "unlikely" to appear in any further releases of the film, because Disney had reportedly lost the original video master and [[Original camera negative|film negative]].<ref>{{cite news|url=https://www.bigissue.com/culture/why-is-the-best-part-of-the-muppet-christmas-carol-still-missing/|title=Why is the best part of 'The Muppet Christmas Carol' still missing|last=MacKenzie|first=Steven|date=18 December 2018|work=[[The Big Issue]]|access-date=7 December 2019|archive-date=December 7, 2019|archive-url=https://web.archive.org/web/20191207210813/https://www.bigissue.com/culture/why-is-the-best-part-of-the-muppet-christmas-carol-still-missing/|url-status=live}}</ref> In 2019, Robert Keeling of ''[[Den of Geek]]'' felt it an "excellent choice" for the song to be omitted, feeling it to be "thoroughly depressing and out of place".<ref name=":13" /> However, on December 9, 2020, Henson confirmed to [[BBC Radio 2]] that the original film negative featuring the entire footage of the song had been found by Disney archivists and would be included in all future [[4K resolution|4K]] releases. Due to time constraints, Disney+ was unable to include the new full version on its Christmas 2020 streaming release of the film.<ref>{{cite news|url=https://www.bbc.co.uk/news/entertainment-arts-55232499|title=Lost Muppet Christmas Carol song rediscovered|date=9 December 2020|work=[[BBC News]]|access-date=9 December 2020|archive-date=December 9, 2020|archive-url=https://web.archive.org/web/20201209122135/https://www.bbc.co.uk/news/entertainment-arts-55232499|url-status=live}}</ref> At the 2022 [[D23 (Disney)|D23 Expo]] in September, Henson stated the version of the film with the song restored would be available on Disney+ later that year.<ref>{{cite web |url=https://whatsondisneyplus.com/the-muppet-christmas-carol-extended-edition-coming-soon-to-disney/ |title="The Muppet Christmas Carol" Extended Edition Coming Soon to Disney+ |website=What's On Disney Plus |date=September 11, 2022 |access-date=September 12, 2022}}</ref> The streaming service released the full-length version as an option in the film's "extras" section on December 9, 2022.<ref>{{cite news|last=Culwell-Block|first=Logan|url=https://www.playbill.com/article/disney-restores-cut-song-to-muppet-christmas-carol-december-9|title=Disney+ Restores Cut Song to Muppet Christmas Carol December 9|website=playbill.com|date=December 9, 2022|access-date=December 9, 2022}}</ref>
+
+==See also==
+* [[List of Christmas films]]
+* [[List of ghost films]]
+* [[List of puppet films]]
+* [[Adaptations of A Christmas Carol|Adaptations of ''A Christmas Carol'']]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{Official website|https://movies.disney.com/the-muppet-christmas-carol}}
+* {{IMDb title|id=0104940}}
+* {{mojo title}}
+* {{rotten-tomatoes}}
+* {{Muppets}}
+
+{{The Muppets}}
+{{A Christmas Carol}}
+{{Brian Henson}}
+{{Disney Christmas films}}
+{{Authority control}}
+
+{{DEFAULTSORT:Muppet Christmas Carol, The}}
+[[Category:1990s children's fantasy films]]
+[[Category:1990s Christmas films]]
+[[Category:1990s films about time travel]]
+[[Category:1990s ghost films]]
+[[Category:1992 supernatural films]]
+[[Category:1990s musical comedy films]]
+[[Category:1990s musical fantasy films]]
+[[Category:1992 American films]]
+[[Category:1992 children's films]]
+[[Category:1992 comedy films]]
+[[Category:1992 directorial debut films]]
+[[Category:1992 English-language films]]
+[[Category:1992 films]]
+[[Category:1992 musical films]]
+[[Category:American children's fantasy films]]
+[[Category:American Christmas films]]
+[[Category:American ghost films]]
+[[Category:American musical comedy films]]
+[[Category:American musical fantasy films]]
+[[Category:American self-reflexive films]]
+[[Category:Christmas musical films]]
+[[Category:Cultural depictions of Charles Dickens]]
+[[Category:English-language Christmas films]]
+[[Category:English-language musical comedy films]]
+[[Category:English-language musical fantasy films]]
+[[Category:Films based on A Christmas Carol]]
+[[Category:Films directed by Brian Henson]]
+[[Category:Films produced by Brian Henson]]
+[[Category:Films scored by Miles Goodman]]
+[[Category:Films set in England]]
+[[Category:Films set in London]]
+[[Category:Films set in the 1840s]]
+[[Category:Films set in the Victorian era]]
+[[Category:Films shot at Shepperton Studios]]
+[[Category:Films shot in England]]
+[[Category:Films shot in Vancouver]]
+[[Category:Films with screenplays by Jerry Juhl]]
+[[Category:Musicals based on A Christmas Carol]]
+[[Category:Musicals by Paul Williams (songwriter)]]
+[[Category:The Jim Henson Company films]]
+[[Category:The Muppets films]]
+[[Category:Walt Disney Pictures films]]

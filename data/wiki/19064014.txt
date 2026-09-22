@@ -1,0 +1,67 @@
+{{Short description|1965 film}}
+{{Infobox film
+| name           = A Man Named John
+| image          = A man named John (movie).jpg
+| caption        = 
+| director       = [[Ermanno Olmi]]
+| writer         = [[Pope John XXIII]]<br>Ermanno Olmi<br>[[Vincenzo Labella]]
+| producer       = Vincenzo Labella<br>[[Harry Saltzman]]
+| starring       = [[Rod Steiger]]
+| narrator       = 
+| cinematography = [[Piero Portalupi]]
+| editing        = Carla Colombo
+| music          = 
+| distributor    = 
+| released       = {{Film date|1965}}
+| runtime        = 90 minutes
+| country        = [[Italy]]
+| language       = [[Italian language|Italian]]
+| budget         =  
+}}
+
+'''''A Man Named John''''' ({{langx|it|E venne un uomo}}) is a [[1965 in film|1965]] [[drama film]] directed by [[Ermanno Olmi]] and starring [[Rod Steiger]].<ref name="NY Times">{{cite web |url=https://movies.nytimes.com/movie/83691/E-Venne-un-Uomo/overview |archive-url=https://web.archive.org/web/20110520123251/http://movies.nytimes.com/movie/83691/E-Venne-un-Uomo/overview |url-status=dead |archive-date=2011-05-20 |department=Movies & TV Dept. |work=[[The New York Times]] |author=Clarke Fountain |date=2011 |title=New York Times: A Man Named John |accessdate=2008-08-27}}</ref>
+
+==Plot==
+
+The film is a biography of [[Pope John XXIII]], who, however, does not appear in the film as an actual character. Instead [[Rod Steiger]] acts as an "intermediary", telling the Pope's life story while traveling through the places in [[Province of Bergamo|Bergamo]] where he grew up.
+
+==Cast==
+* [[Rod Steiger]] - The Intermediary
+* [[Adolfo Celi]] - Msgr. Radini Tedeschi
+* [[Giorgo Fortunato]] - Secretary of Nunzio Roncalli
+* [[Ottone Candiani]] - The Sinful Priest of Venice
+* [[Alfonso Orlando]] - Parish priest
+* [[Alberto Rossi (actor)|Alberto Rossi]] - Angelo Roncalli - Age 7
+* [[Giovanni Rossi (actor)|Giovanni Rossi]] - Angelo Roncalli - Age 10 (as Giovannio Rossi)
+* [[Fabrisio Rossi]] - Angelo Roncalli - Age 4
+* [[Pietro Germi]] - Pontiff's Father
+* [[Rita Bertocchi]] - Pontiff's Mother
+* [[Antonio Bertocchi]] - Uncle Xavier
+* [[Antonio Ruttigni]] - Don Pietro, parish priest of Carviso
+* [[Romolo Valli]] - The Intermediary (voice)
+
+==Critical reception==
+[[Stanley Kauffmann]] of [[The New Republic]] described A Man Named John as a 'mistake'.<ref>{{cite book |title=Before My Eyes Film Criticism & Comment|last1=Kauffmann|first1=Stanley |publisher=Harper & Row Publishers |year=1979 |page=339}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|id=0059142|title=A Man Named John}}
+
+{{Ermanno Olmi}}
+{{Harry Saltzman}}
+
+{{DEFAULTSORT:Man Named John, A}}
+[[Category:1965 films]]
+[[Category:Italian drama films]]
+[[Category:1965 Italian-language films]]
+[[Category:1965 drama films]]
+[[Category:Films directed by Ermanno Olmi]]
+[[Category:Films produced by Harry Saltzman]]
+[[Category:Cultural depictions of Pope John XXIII]]
+[[Category:1965 Italian films]]
+[[Category:Italian-language drama films]]
+[[Category:1965 biographical films]]
+
+{{1960s-Italy-drama-film-stub}}

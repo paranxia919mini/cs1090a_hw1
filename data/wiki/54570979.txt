@@ -1,0 +1,36 @@
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=February 2026}}
+{{Infobox film
+|name           = Public Housing
+|director       = [[Frederick Wiseman]]<ref>{{cite web |url=https://letterboxd.com/film/public-housing/|title=Public Housing 1997 Directed by Frederick Wiseman|accessdate=2017-07-16|publisher=letterboxd.com}}</ref>
+|starring       = 
+|runtime        = 200 minutes
+|released       = {{Film date|1997|10|04|df=y|ref1=<ref>{{cite web |url=http://notcoming.com/reviews/publichousing/|title=Public Housing|accessdate=2017-07-16|publisher=notcoming.com}}</ref>}}
+|country        = United States
+|distributor    = [[Zipporah Films]]
+|language       = [[English language|English]]
+}}
+'''''Public Housing''''' is a [[1997 in film|1997]] American documentary  film directed by [[Frederick Wiseman]].<ref>{{cite web |url=http://www.zipporah.com/films/7/|title=Public Housing|accessdate=2017-07-16|publisher=zipporah.com}}</ref> It records the daily life in the [[Ida B. Wells Homes|Ida B. Wells public housing development]] in Chicago, Illinois.<ref>{{cite web |url=http://www.zipporah.com/films/7/|title=Public Housing|accessdate=2017-07-16|publisher=zipporah.com}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0130200}}
+* {{Rotten Tomatoes |public_housing}}
+
+{{Frederick Wiseman}}
+
+[[Category:1997 films]]
+[[Category:1997 documentary films]]
+[[Category:American documentary films]]
+[[Category:Documentary films about Chicago]]
+[[Category:Public housing in Chicago]]
+[[Category:1997 English-language films]]
+[[Category:1997 American films]]
+[[Category:English-language documentary films]]
+[[Category:Films directed by Frederick Wiseman]]
+
+{{US-documentary-film-stub}}
+{{1990s-documentary-film-stub}}
+{{1990s-US-film-stub}}

@@ -1,0 +1,67 @@
+{{short description|1954 Japanese film}}
+{{redirect|Yama no Oto|the novel|The Sound of the Mountain}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox film
+| name           = Sound of the Mountain
+| image          = Yama no oto poster.jpg
+
+| caption        = Theatrical release poster
+| director       = [[Mikio Naruse]]
+| producer       = [[Sanezumi Fujimoto]]
+| writer         = {{ubl|[[Yoko Mizuki]]|[[Yasunari Kawabata]] (novel)}}
+| starring       = {{ubl|[[Setsuko Hara]]|[[So Yamamura]]|[[Ken Uehara]]|[[Yoko Sugi]]}}
+| music          = [[Ichirō Saitō]]
+| cinematography = Masao Tamai
+| editing        = Eiji Ooi (credited as Hideji Ooi)
+| studio         = [[Toho]]
+| distributor    = Toho
+| released       = {{Film date|1954|01|15|Japan|df=y|ref1=<ref name="jmdb">{{cite web |url=http://www.jmdb.ne.jp/1954/cd000200.htm |title=山の音 (Sound of the Mountain) |website=Japanese Movie Database |language=Japanese |access-date=20 January 2021 }}</ref>}}
+| runtime        = 95 minutes<ref name="jmdb" />
+| country        = Japan
+| language       = Japanese
+}}
+{{nihongo|'''''Sound of the Mountain'''''|山の音|Yama no oto|lead=yes}} is a 1954 Japanese [[Drama (film and television)|drama film]] directed by [[Mikio Naruse]]. It is based on the novel ''[[The Sound of the Mountain]]'' by [[Nobel Prize]] winner [[Yasunari Kawabata]].<ref name="jmdb" /> Naruse declared ''Sound of the Mountain'' one of his favourites of his films.<ref name="russell">{{cite book |last=Russell |first=Catherine |date=2008 |title=[[The Cinema of Naruse Mikio: Women and Japanese Modernity]] |location=Durham and London |publisher=Duke University Press |isbn=978-0-8223-4290-8}}</ref>
+
+==Plot==
+Shingo, an aging businessman, sees the marriage of his son Shuichi and his daughter-in-law Kikuko, who live in the same household, fall apart due to Shuichi's coldness and adulterous behaviour. Flattered by Kikuko's overt adoration for him, he tries to act as a cornerstone for her. His own daughter Fusako, who left her husband and moved back into her parents' home with her children, blames Shingo for her arranged and failed marriage and for his preference of Kikuko over her. Shingo accompanies Kikuko to a hospital visit, only to learn later that she aborted the child she expected from Shuichi. A secretary from Shingo's company helps him to find Kinu, Shuichi's mistress and an independent businesswoman, who tells him of his son's abusive behaviour. Kikuko finally decides to divorce her husband and, meeting Shingo in a park, tells her father-in-law that she wants to try to live a life on her own.
+
+==Cast==
+* [[Setsuko Hara]] as Kikuko Ogata
+* [[Sō Yamamura]] as Shingo Ogata
+* [[Ken Uehara]] as Shuichi Ogata
+* [[Yōko Sugi]] as Hideko Tanizaki
+* Teruko Nagaoka as Yasuko
+* [[Yatsuko Tan'ami]] as Ikeda
+* [[Chieko Nakakita]] as Fusako Aihara
+* Rieko Sumi as Kinuko (Kinu)
+
+==Themes==
+Naruse biographer Catherine Russell sees ''Sound of the Mountain'' as a woman's film, as it reduces the book's perspective of Shingo in favour of the female characters who, with the exception of the passive Kikuko, act outspoken and independently, "trying to make their way in a world in which men like Shuichi have been psychologically destroyed by the war".<ref name="russell2">{{cite book |last=Russell |first=Catherine |date=2011 |title=Classical Japanese Cinema Revisited |location=New York |publisher=Bloomsbury Publishing USA |isbn=978-1-4411-1681-9}}</ref> The last scene suggests the possibility of change for Kikuko, achieving a positive resolution of her problems.<ref name="Jacoby">{{cite book |last=Jacoby |first=Alexander |date=2008 |title=Critical Handbook of Japanese Film Directors: From the Silent Era to the Present Day |location=Berkeley |publisher=Stone Bridge Press |isbn=978-1-933330-53-2}}</ref>
+
+==Legacy==
+''Sound of the Mountain'' was screened at the [[Berkeley Art Museum and Pacific Film Archive]] in 1981,<ref>{{cite web|url=https://bampfa.org/event/sound-mountain-yama-no-oto |title=Sound of the Mountain (Yama no Oto) |website=BAMPFA |date=22 December 2014 |access-date=20 July 2023}}</ref> at the [[Museum of Modern Art]] in 1985<ref name="moma">{{cite web|url=https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6228/releases/MOMA_1985_0082_79.pdf |title=Mikio Naruse: A Master of the Japanese Cinema Opens at MoMA September 23 |website=Museum of Modern Art |access-date=20 July 2023}}</ref> and at the [[Harvard Film Archive]] in 2005<ref>{{cite web|url=https://harvardfilmarchive.org/calendar/sound-of-the-mountain-yama-no-oto-2005-10 |title=Sound of the Mountain AKA The Thunder of the Mountain |website=Harvard Film Archive |date=9 October 2005 |access-date=20 July 2023}}</ref> as part of their retrospectives on Mikio Naruse.
+
+==Awards==
+* 1954: [[Mainichi Film Awards|Mainichi Film Award]] for Best Actor Sō Yamamura (for ''Sound of the Mountain'' and ''Kuroi ushio'')<ref>{{cite web|url=http://mainichi.jp/mfa/history/009.html |title=毎日映画コンクール 第9回（1954年） |website=Mainichi |language=ja |access-date=20 July 2023}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{IMDb title|0047682}}
+* {{cite web |url=http://sensesofcinema.com/2001/cteq/mountain/ |title=Sound of the Mountain: The Beauty of Pessimism |last=Sødtholt |first=Dag |date=November 2001 |website=Senses of Cinema |access-date=20 January 2021}}
+
+{{Mikio Naruse}}
+{{Yasunari Kawabata}}
+
+[[Category:1954 films]]
+[[Category:1954 drama films]]
+[[Category:Japanese drama films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Films based on Japanese novels]]
+[[Category:Films based on works by Yasunari Kawabata]]
+[[Category:Toho films]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:Films produced by Sanezumi Fujimoto]]
+[[Category:Films scored by Ichirō Saitō]]
+[[Category:1954 Japanese films]]

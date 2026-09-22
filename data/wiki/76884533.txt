@@ -1,0 +1,308 @@
+{{Short description|2024 animated film by Gints Zilbalodis}}
+{{Use dmy dates|date=October 2024}}
+{{Infobox film
+| name           = Flow
+| image          = Flow movie poster.jpg
+| alt            = A black cat swims (seen looking at the viewer) underwater with a school of fish swimming in circles. The film's title and other accolades appear below.
+| caption        = International theatrical release poster
+| native_name    = {{Infobox name module|lv|Straume}}
+| director       = [[Gints Zilbalodis]]
+| writer         = {{Plainlist|
+* Gints Zilbalodis
+* [[Matīss Kaža]]
+}}
+| producer       = {{Plainlist|
+* Matīss Kaža
+* Gints Zilbalodis
+* [[Ron Dyens]]
+* Gregory Zalcman
+}}
+| cinematography = Gints Zilbalodis
+| editing        = Gints Zilbalodis
+| music          = {{Plainlist|
+* Gints Zilbalodis
+* Rihards Zaļupe
+}}
+| studio         = {{idp|
+* Sacrebleu Productions
+* Take Five
+* [[Dream Well Studio]]
+}}
+| distributor    = {{idp|<!-- Original distributor only! Neither Janus Films nor Madman Entertainment count as original distributors. -->
+* Baltic Content Media (Latvia)
+* UFO Distribution (France)
+* Le Parc Distribution (Belgium)
+}}
+| released       = {{Film date|df=yes|2024|05|22|[[2024 Cannes Film Festival|Cannes]]|2024|8|29|Latvia|2024|10|30|France|2025|01|15|Belgium}}
+| runtime        = 85 minutes<ref>{{Cite web |date=23 August 2024 |title=''Flow'' (U) |url=https://www.bbfc.co.uk/release/flow-q29sbgvjdglvbjpwwc0xmdiznzaw |access-date=3 September 2025 |website=[[British Board of Film Classification]] |language=en}}</ref>
+| country        = {{Plainlist|
+* Latvia
+* France
+* Belgium
+}}
+| budget         = €3.5 million<ref name="Zahed">{{cite magazine |url=https://www.animationmagazine.net/2024/08/flow-director-gints-zilbalodis-sets-adventure-adrift-in-an-animal-waterworld/ |title=''Flow'' Director Gints Zilbalodis Sets Adventure Adrift in an Animal Waterworld |last=Zahed |first=Ramin |magazine=[[Animation Magazine]] |access-date=30 August 2024}}</ref>
+| gross          = €50 million<ref name="Gross">{{cite magazine |url=https://variety.com/2025/film/global/flow-box-office-50-million-1236418880/ |title=''Flow'' Continues Its Historic Box Office Run, Passing €50 Million Milestone (EXCLUSIVE) |last=Lang |first=Jamie |magazine=[[Variety (magazine)|Variety]] |access-date=6 June 2025}}</ref>
+}}
+
+'''''Flow''''' ({{langx|lv|'''Straume'''}}) is a 2024 [[independent film|independent]] [[Animated film|animated]] [[Dystopian fiction|dystopian]] [[adventure film]] directed by [[Gints Zilbalodis]], written and produced by Zilbalodis and [[Matīss Kaža]]. A Latvian, French, and Belgian co-production, it features no dialogue and follows a cat trying to survive along with other animals in a seemingly [[post-apocalyptic]] world as the water level dramatically rises.
+
+Production of ''Flow'' started in 2019 and lasted five and a half years. The animation was done using the [[Free and open-source software|free and open-source]] software [[Blender (software)|Blender]]. [[Jacques Tati]] and ''[[Future Boy Conan]]'' served as inspirations for the film. No [[storyboard]]s were used for the production, and there are no [[deleted scene]]s.<ref name="Zahed"/>
+
+''Flow'' premiered on 22 May 2024 at the [[2024 Cannes Film Festival|Cannes Film Festival]] in the ''[[Un Certain Regard]]'' section and was released in Latvian theaters on 29 August. It received critical acclaim and broke several Latvian box-office records, becoming the most-viewed film in Latvian theaters in history. At the [[97th Academy Awards]], ''Flow'' won [[Academy Award for Best Animated Feature|Best Animated Feature]]. It was also nominated for [[Academy Award for Best International Feature Film|Best International Feature Film]] as [[List of Latvian submissions for the Academy Award for Best International Feature Film|Latvia's submission]], becoming the first film from Latvia to receive an Academy Award nomination and a win. ''Flow'' also won the [[Golden Globe Award for Best Animated Feature Film]]. Both of the award statuettes were put on display at the [[Latvian National Museum of Art]].
+
+==Plot==
+<!-- Per WP:FILMPLOT, plot summaries should be between 400 and 700 words -->
+
+A dark grey<ref>{{Cite tweet |number=1879483915699892512 |user=gintszilbalodis |title=Even though I've said this many times, there is still some confusion about the color of the cat in Flow. It's dark grey, not black. |first=Gints |last=Zilbalodis |author-link=Gints Zilbalodis |date=16 January 2025 |access-date=11 February 2025 |archive-url=https://ghostarchive.org/archive/sPFPg |archive-date=2 July 2025 |url-status=live}}</ref> cat wanders through a forest. A pack of dogs arrives by the river and chases the cat after it takes a fish the dogs fought over. The cat escapes but notices a deer stampede before it is caught in a massive flood. The cat and dogs survive the flood and reach higher ground. A yellow [[Labrador Retriever]] from the pack follows the cat to its abandoned cabin with wooden cat sculptures. They both notice the water level rising, and the Labrador joins the other dogs on a passing boat. As the flood consumes the cabin, the cat climbs atop a giant cat statue until the waters reach the top of the statue's head. As the rising water completely submerges the statue, the cat jumps into an approaching sailboat with a [[capybara]] aboard.
+
+The next morning, as the boat sails through a partially submerged forest, the cat goes overboard and begins to sink while trying to avoid a white [[secretarybird]]. A mutated whale saves it from drowning, but another secretarybird seizes it, and during the flight, the cat catches a glimpse of massive stone pillars in the distance. The secretarybird then releases the cat over the boat. Soon after, as the water level continues to rise, the capybara invites a [[ring-tailed lemur]] to hop aboard with its basket of trinkets, to which the lemur adds a mirror found on the boat. While sleeping, the cat has a nightmare where it is being circled by a herd of deer and looks to the massive stone pillars before being swept away by a flood. Later that day, the three animals land on shore and are joined by the Labrador. They encounter a flock of secretarybirds that show hostility toward them, causing the cat to run away. The younger secretarybird that first encountered the cat pleads with the leader to spare its life, only to lose in a duel and have its wing injured before the flock abandons it. With a diminished ability to fly, the secretarybird joins the crew.
+
+The crew arrives at a half-submerged city near the base of the massive stone pillars. The Labrador takes the lemur's [[glass float]] to the secretarybird to play fetch, but the secretarybird kicks it off the boat. The lemur gets angry and starts fighting with the secretarybird, who is steering the boat. Due to loss of control, the boat's mast is caught in a tree. The whale [[Cetacean surfacing behaviour|breaches]] out of the water, producing waves that free the boat from the tree. After learning from the capybara, the cat improves its ability to swim and catch fish. Later, the crew sees the other dogs stranded in a bell tower and rescues them.
+
+As the boat sails through the huge stone pillars during a heavy storm, the secretarybird flies away. The cat falls off the boat but swims ashore. It climbs the stairs to the top of a stone pillar and finds the secretarybird there, on a [[labyrinth]]-like carving on the floor. For a short duration, gravity vanishes, and a bright portal opens above them. They are both temporarily weightless, but the cat floats back to the ground, while the secretarybird flies toward the light and disappears.
+
+The cat rushes down the stairs and tries to swim back to the boat, but it is too far. It finds the lemur's glass float and uses it to stay afloat. The water level drops quickly as massive fault lines open in the earth, draining the water. While roaming through the forest, the cat finds the lemur, and they find the boat hanging on a tree soon after. The dogs jump off the boat, but just as the capybara is about to exit, the tree begins to fracture. The cat climbs the tree and passes the boat's rope to the lemur and dogs, who pull the boat toward them. When a rabbit scampers by, the other dogs abandon the Labrador and its friends to chase it. The cat falls but is caught by the capybara. They both manage to jump off the boat before it falls with the tree into a ravine below. Just as the crew celebrates, another deer stampede occurs. The cat flees but stops when it comes upon the whale beached in the forest. The cat comforts the whale and looks at the massive stone pillars. Saddened by the whale's loss, the cat sees its reflection in a puddle of water as it is joined by its friends.
+
+In a post-credits scene, a whale is seen surfacing on the ocean.
+
+==Production==
+{{multiple image |align=right |direction=horizontal |total_width=300
+| image1 = Gints Zilbalodis in January 2025 (cropped).jpeg | image2 = Matīss Kaža.png
+| footer = [[Gints Zilbalodis]] and [[Matīss Kaža]] worked together for the film. }}
+
+In 2012, Zilbalodis produced ''Aqua'', a short film about a cat overcoming its fear of the ocean. The premise of ''Aqua'' served as the basis for ''Flow''.{{sfn|Desowitz|2024}} Zilbalodis used [[Autodesk Maya|Maya]] to animate his previous works up to his 2019 film ''[[Away (2019 film)|Away]]''. That year, he switched to [[Blender (software)|Blender]], due to its real-time renderer EEVEE,{{sfn|Siddi|2025}}<ref>{{Cite web |last=Foley |first=Joe |date=29 January 2025 |title=How Oscar-nominated Flow was created using free software. Yes, really |url=https://www.creativebloq.com/entertainment/movies-tv-shows/how-blender-helped-gints-zilbalodis-make-oscar-nominated-flow |access-date=15 February 2025 |website=Creative Bloq |language=en}}</ref> and used it to animate ''Flow''.{{sfn|Desowitz|2024}}
+
+Production started in 2019, and it took Zilbalodis and his production team five-and-a-half years to complete ''Flow''.{{sfn|Siddi|2025}} The film features no dialogue, and Zilbalodis stated that he was inspired by [[Jacques Tati]], as well as the anime series ''[[Future Boy Conan]]''.{{sfn|Shachat|2024}}<ref>{{Cite tweet |last=Zilbalodis |first=Gints |author-link=Gints Zilbalodis |user=gintszilbalodis |number=1887172432445784345 |date=6 February 2025 |title=One of my biggest influences on Flow is Future Boy Conan by Hayao Miyazaki which is also set in a flooded, post-apocalyptic world. |access-date=11 February 2025}}</ref> No [[storyboard]]s were used, and Zilbalodis instead placed the animals into the scene and "explored them with the camera".{{sfn|Cannes Film Festival|2024}} There are no [[deleted scene]]s from the film.{{sfn|Blauvelt|Perella|2025}}
+
+{{ill|Take Five (film production company)|lt=Take Five|fr|Take Five (société de production)}} and {{ill|Sacrebleu Productions|fr}} joined the production in 2022, and worked on character animation and sound.{{sfn|Siddi|2025}} While ''Flow'' was still in development, materials from the film were presented at the 2022 Cartoon Movie forum in [[Bordeaux]].<ref>{{cite web |url=https://cineuropa.org/newsdetail/423158/ |title=Gints Zilbalodis' ''Flow'' and Edmunds Jansons' ''Born Happy'' form the Latvian contingent at this year's Cartoon Movie |last=Abbatescianni |first=Davide |website=[[Cineuropa]] |date=16 March 2022 |access-date=11 May 2024 |archive-date=3 May 2024 |archive-url=https://web.archive.org/web/20240503145455/https://cineuropa.org/newsdetail/423158/ |url-status=live}}</ref> The film was produced with financial support from the National Film Centre of Latvia, the State Culture Capital Foundation of Latvia, the [[Centre national du cinéma et de l'image animée]], [[ARTE France]], [[Eurimages]], [[RTBF]], and the Belgian Tax Shelter. Animation for the film was completed in France and Belgium.{{sfn|Abbatescianni|2024}}
+
+An episode of the [[Latvian Television|LTV]] documentary series ''[[Aizliegtais paņēmiens]]'' about the film's production was released in March 2025.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=Zl2lH_dq_VQ |title="Dream Cat." Or how the "Flow" reached the Oscars (English) |date=2025-03-19 |last= |publisher=[[Latvian Television]] |access-date=2025-03-24 |via=YouTube}}</ref><ref>{{Cite AV media |url=https://replay.lsm.lv/lv/skaties/ieraksts/ltv/350588/aizliegtais-panemiens-sapnu-kakis |title=Aizliegtais paņēmiens. Sapņu kaķis - REplay.lv |date=2025-03-03 |language=lv |access-date=2025-03-24 |via=replay.lsm.lv}}</ref>
+
+===Animals===
+[[File:Miut the cat (cropped).png|thumb|Miut, the cat of sound designer Gurwal Coïc-Gallas, provided the voice of the cat in ''Flow'']]
+Capybaras and lemurs were studied at zoos,{{sfn|Gularte|2025}} such as the [[Izu Shaboten Zoo]] in Japan.<ref>{{Cite tweet |author=[[Izu Shaboten Zoo]] |user=izushabotenpark |number=1892862613606060350 |date=21 February 2025 |title=ラトビア出身のギンツ・ジルバロディス監督は過去に来日した際、本作に登場する カピバラ をリサーチするために、なんと…！ 伊豆シャボテン動物公園 にご来園下さったというエピソードが！！ |trans-title=When Latvian director Gints Zilbalodis visited Japan in the past, he actually came to Izu Shaboten Zoo to research on capybaras.) which appears in this film! |access-date=5 March 2025}}</ref> The whale was originally supposed to be based on a real whale, but it was redesigned to look more mythical.<ref>{{Cite tweet |last=Zilbalodis |first=Gints |author-link=Gints Zilbalodis |user=gintszilbalodis |number=1887659276295958872 |date=7 February 2025 |title=Originally I'd planned for the whale in Flow to look like a real whale, but it needed to be more scary so we decided to redesign it into a more mystical creature. |access-date=7 February 2025}}</ref> Additionally, the secretarybird was originally planned to be a seagull but was changed because the seagull was too small.<ref>{{Cite web |url=https://www.polygon.com/movies/524245/flow-director-cat-bird-dog-animals |title=The animated movie Flow went through big changes on its way to the Oscars |last=Radulovic |first=Petrana |website=[[Polygon (website)|Polygon]] |date=15 February 2025 |access-date=15 February 2025}}</ref> The boat used by the main characters was inspired by Mediterranean [[felucca]]s.<ref>{{Cite tweet |last=Zilbalodis |first=Gints |author-link=Gints Zilbalodis |user=gintszilbalodis |number=1891486640972972042 |date=17 February 2025 |title=The design of the boat in Flow is inspired by Mediterranean, boats called feluccas. Since this is the most important prop/location in the film, we spent a lot of time on designing all the details. |access-date=24 February 2025}}</ref>
+
+===Sound design===
+Sound designer Gurwal Coïc-Gallas used actual animal sounds for each character depicted in the film.{{sfn|Shachat|2024}} Coïc-Gallas's cat, named Miut, served as the voice of the cat.{{sfn|Gularte|2025}} Coïc-Gallas and Zilbalodis felt that the high-pitched and unpleasant sound of an actual capybara being tickled did not properly represent the calm and peaceful capybara in the film. They considered using a moose or llama before they selected the sound of a baby camel instead.{{sfn|Gularte|2025}}{{sfn|Blauvelt|2024}} The sound of a tiger pitched down was used for the whale.{{sfn|Gularte|2025}}
+
+==Music==
+{{Infobox album
+| name         = Flow: Original Motion Picture Soundtrack
+| type         = soundtrack
+| artist       = [[Gints Zilbalodis]] and Rihards Zaļupe
+| cover        = Flow soundtrack cover.jpg
+| alt          = 
+| released     = {{start date|2024|11|01|df=y}}
+| recorded     = <!-- Do not add unsourced recording dates/years -->
+| studio       = 
+| genre        = [[Film score]]
+| length       = 53:51
+| label        = [[Milan Records|Milan]]
+| producer     = Gints Zilbalodis
+| prev_title   = 
+| prev_year    = 
+| next_title   = 
+| next_year    = 
+}}
+The film's score was composed by Zilbalodis and Rihards Zaļupe, and mixed by [[Mikko Raita]].<ref>{{cite web |url=https://www.liquidsonics.com/2025/03/09/mikko-raita-on-mixing-the-cinematic-score-of-oscar-winning-flow/ |title=Mikko Raita on Mixing The Cinematic Score of Oscar Winning ''Flow'' |website=LiquidSonics |date=9 March 2025 |access-date=15 March 2025}}</ref> Seven hours of music was composed by Zilbalodis and 50 minutes of it was used in the film.{{sfn|Shachat|2024}} The soundtrack was released on [[streaming media]] platforms by [[Milan Records]] on 1 November 2024.<ref>{{cite web |url=https://milanrecords.com/release/flow/ |title=''Flow'' – Soundtrack |publisher=[[Milan Records]] |access-date=23 December 2024 |archive-date=27 December 2024 |archive-url=https://web.archive.org/web/20241227152026/https://milanrecords.com/release/flow/ |url-status=live}}</ref><ref>{{cite web |url=https://filmmusicreporter.com/2024/11/01/flow-soundtrack-album-released/ |title=''Flow'' Soundtrack Album Released |website=Film Music Reporter |date=1 November 2024 |access-date=23 December 2024 |archive-date=30 December 2024 |archive-url=https://web.archive.org/web/20241230034712/https://filmmusicreporter.com/2024/11/01/flow-soundtrack-album-released/ |url-status=live}}</ref>
+
+{{Track listing
+| total_length  = 53:51
+| all_writing   = [[Gints Zilbalodis]] and Rihards Zaļupe
+| title1        = Home
+| length1       = 2:04
+| title2        = Dog Chase
+| length2       = 1:34
+| title3        = Panic
+| length3       = 0:59
+| title4        = Flood
+| length4       = 5:24
+| title5        = Capybara
+| length5       = 0:48
+| title6        = Unexpected Visitor
+| length6       = 0:32
+| title7        = Lemur
+| length7       = 2:07
+| title8        = Bananas
+| length8       = 1:27
+| title9        = Deer Cyclone
+| length9       = 1:23
+| title10       = Windmill Island
+| length10      = 2:11
+| title11       = Birds
+| length11      = 3:45
+| title12       = Outcast
+| length12      = 2:26
+| title13       = Showing Off
+| length13      = 0:59
+| title14       = Abandoned City
+| length14      = 2:24
+| title15       = Splash
+| length15      = 1:38
+| title16       = Fishing
+| length16      = 3:05
+| title17       = Storm
+| length17      = 2:03
+| title18       = Flow Away
+| length18      = 4:33
+| title19       = Forest Emerging
+| length19      = 1:55
+| title20       = Amphitheater
+| length20      = 1:51
+| title21       = Following
+| length21      = 3:36
+| title22       = Reflection
+| length22      = 3:29
+| title23       = Acceptance
+| length23      = 2:43
+}}
+
+==Release==
+''Flow'' was selected to premiere in the ''[[Un Certain Regard]]'' section of the [[2024 Cannes Film Festival]] on 22 May 2024. It was the first Latvian film shown in that section since ''[[The Shoe (film)|The Shoe]]'' in 1998.{{sfn|Abbatescianni|2024}} It was also shown at the [[2024 Annecy International Animation Film Festival]], where it was awarded the Jury Award, the Audience Award, and the Gan Foundation Award for Distribution in the Feature Film category.<ref name="annecy">{{cite magazine |url=https://variety.com/2024/awards/global/annecy-winners-memoir-of-a-snail-flow-percebes-1236039204/ |title=''Memoir of a Snail'', ''Flow'' Split Feature Honors at Annecy, ''Percebes'' Wins Best Short |last=Lang |first=Jamie |magazine=[[Variety (magazine)|Variety]] |date=15 June 2024 |access-date=15 June 2024 |archive-date=15 June 2024 |archive-url=https://web.archive.org/web/20240615201142/https://variety.com/2024/awards/global/annecy-winners-memoir-of-a-snail-flow-percebes-1236039204/ |url-status=live}}</ref> ''Flow'' was submitted to the 2024 [[Ottawa International Animation Festival]], where it received the Grand Prize for Feature Animation.<ref name="AnimationFestival">{{Cite web |url=https://www.animationfestival.ca/wp-content/uploads/2024/09/28_09_2024_MR_EMBARGOEDOIAFAwardWinners_EN.pdf |title=''Flow'' and ''La Voix des Sirènes'' make waves at OIAF, winning top prizes |publisher=[[Ottawa International Animation Festival]] |date=28 September 2024 |access-date=3 October 2024 |archive-date=4 October 2024 |archive-url=https://web.archive.org/web/20241004134158/https://www.animationfestival.ca/wp-content/uploads/2024/09/28_09_2024_MR_EMBARGOEDOIAFAwardWinners_EN.pdf |url-status=live}}</ref> The film was also screened at the [[2024 Toronto International Film Festival]] and [[2024 Vancouver International Film Festival]].<ref>{{cite web |url=https://tiff.net/events/flow |title=''Flow'' |publisher=[[Toronto International Film Festival]] |access-date=31 October 2024 |archive-date=13 November 2024 |archive-url=https://web.archive.org/web/20241113224558/https://tiff.net/events/flow |url-status=live}}</ref><ref>{{cite web |last1=Chai |first1=Daniel |title=Vancouver International Film Festival reveals first official selections |url=https://dailyhive.com/vancouver/vancouver-international-film-festival-2024 |publisher=Daily Hive Vancouver |access-date=27 January 2025}}</ref> The film was invited to 'Open Cinema' at the [[29th Busan International Film Festival]] and was screened at the outdoor theater in October 2024.<ref name="biff:variety">{{Cite magazine |url=https://variety.com/2024/film/news/busan-film-festival-program-funding-cut-1236127897/ |title=Busan Film Festival Sets Park Chan-wook Scripted Netflix Title ''Uprising'' as Opener, Expands Program Despite Slashed Funding |last=Frater |first=Patrick |magazine=[[Variety (magazine)|Variety]] |date=3 September 2024 |access-date=7 September 2024 |archive-date=7 September 2024 |archive-url=https://web.archive.org/web/20240907030039/https://variety.com/2024/film/news/busan-film-festival-program-funding-cut-1236127897/ |url-status=live}}</ref> ''Flow'' was screened in competition at the 2024 [[Melbourne International Film Festival]], where it won the Special Jury Award.<ref>{{cite web |url=https://miff.com.au/miff-awards/2024-winners |title=MIFF Awards 2024 |publisher=[[Melbourne International Film Festival]] |access-date=12 February 2025 }}</ref>
+
+''Flow'' premiered at the {{ill|Splendid Palace|lv}} cinema in [[Riga]], Latvia, on 28 August 2024 and was released nationwide the following day by Baltic Content Media.<ref>{{cite web |url=https://www.lsm.lv/raksts/kultura/kino-foto-un-tv/31.07.2024-video-ginta-zilbaloza-animacijas-straume-latvijas-pirmizrade-tuvojas-noskaties-treileri.a563381/ |title=VIDEO: Ginta Zilbaloža animācijas «Straume» Latvijas pirmizrāde tuvojas; noskaties treileri! |trans-title=VIDEO: The Latvian premiere of Gints Zilbaložs' animation "Straume" is approaching; watch the trailer! |website=LSM.lv |language=lv |date=31 July 2024 |access-date=9 January 2024}}</ref><ref>{{cite web |url=https://www.forumcinemas.lv/eng/event/304076/title/flow/ |title=Flow |publisher=[[Finnkino|Forum Cinemas]] |access-date=9 January 2024 |quote=Distributor: Baltic Content Media}}</ref> UFO Distribution released the film theatrically in France on 30 October 2024.<ref>{{cite magazine |url=https://www.boxofficepro.fr/les-distributeurs-ajustent-leurs-line-ups-19/ |title=Les distributeurs ajustent leurs line-ups |magazine=[[Boxoffice Pro]] |language=fr |date=7 June 2024 |access-date=10 June 2024}}</ref> It was given a limited release in the United States by [[Janus Films]] and Sideshow in New York and Los Angeles on 22 November 2024, before being released to 200 theatres on 6 December.<ref>{{cite web |last=Blauvelt |first=Christian |date=26 September 2024 |title='Flow' Trailer: Behold a Wondrous Cannes Triumph That Should Also Be Your Kids' Next Animated Obsession |website=[[IndieWire]] |url=https://www.indiewire.com/news/trailers/flow-trailer-cannes-animated-film-1235050986/ |url-status=live |archive-url=https://web.archive.org/web/20250110125138/https://www.indiewire.com/news/trailers/flow-trailer-cannes-animated-film-1235050986/ |archive-date=10 January 2025 |ref=none}}</ref> The film was released in Belgium on 15 January 2025 by Le Parc Distribution.<ref>{{cite web |url=https://www.rtbf.be/article/flow-le-chat-qui-n-avait-plus-peur-de-l-eau-de-gints-zilbalodis-un-film-d-animation-d-une-puissance-visuelle-et-narrative-exceptionnelle-11487638 |title="''Flow'': le chat qui n'avait plus peur de l'eau", de Gints Zilbalodis, un film d'animation d'une puissance visuelle et narrative exceptionnelle |publisher=[[RTBF]] |date=14 January 2025 |access-date=16 January 2025 |language=fr}}</ref> It opened in 800 theatres in Mexico on 1 January 2025.{{sfn|Aguilar|2025}} [[PVR Inox Pictures]] released ''Flow'' in [[India]] on 28 February 2025.<ref>{{Cite web |url=https://www.koimoi.com/hollywood-news/golden-globe-award-winning-animated-film-flow-to-release-in-indian-theatres-on-this-date/ |title=Golden Globe Award-Winning Animated Film ''Flow'' to Release in Indian Theatres on This Date |website=Koimoi |date=25 February 2025 |access-date=28 February 2025}}</ref> [[Madman Entertainment]] released the film theatrically in Australia on 20 March 2025.<ref>{{cite web |url=https://www.madman.com.au/flow/ |title=''Flow'' – In Cinemas March 20 |publisher=[[Madman Entertainment]] |access-date=16 December 2024 |archive-date=23 December 2024 |archive-url=https://web.archive.org/web/20241223062743/https://www.madman.com.au/flow/ |url-status=live}}</ref>
+
+A board game based on the film was released in January 2025.<ref>{{cite web |url=https://eglobuss.lv/en/article/the-board-game-flow-brings-the-unique-atmosphere-of-the-film-straume-to-life-in-a-whole-new-way |title=The board game ''Flow'' brings the unique atmosphere of the film ''Straume'' to life in a whole new way. |website=Globuss |access-date=28 January 2025 |language=lv}}</ref> [[HarperCollins]] published a picture book adaptation of the film on 2 December 2025.<ref>{{cite web |url=https://www.harpercollins.com/products/flow-picture-book-flow-the-movie?variant=43869691183138 |title=Flow Picture Book (Flow the Movie) |publisher=[[HarperCollins]] |access-date=29 August 2026}}</ref>
+
+===Home media===
+On 4 Mar 2025, ''Flow'' was released on Blu-ray by [[Fnac]].<ref>{{cite web |url=https://www.fnac.com/a21086685/Flow-le-chat-qui-n-avait-plus-peur-de-l-eau-Exclusivite-Fnac-Blu-ray-Blu-ray|title=Flow, le chat qui n'avait plus peur de l'eau Exclusivité Fnac Blu-ray |website=[[Fnac]] |access-date=14 December 2025}}</ref><ref>{{cite web |url=https://www.blu-ray.com/movies/Flow-Blu-ray/379264/|title=Flow Blu-ray (Fnac Exclusive DigiPack) |website=Blu-ray.com |access-date=14 December 2025}}</ref> In the UK, it was released on [[4K Blu-ray]] by [[Curzon Film]] on 30 June 2025. The Blu-ray release includes the short films ''Aqua'' and ''Priorities'' and the making-of documentary ''Dream Cat''.<ref>{{cite web |url=https://film.curzon.com/film/flow-4k-uhd/ |title=''Flow'' 4K UHD |publisher=[[Curzon Film]] |access-date=17 June 2025}}</ref> In the United States, ''Flow'' was released in 4K Blu-ray by [[The Criterion Collection]] on 23 September 2025.<ref>{{cite magazine |url=https://www.animationmagazine.net/2025/02/double-oscar-nominee-flow-joins-criterion-collection-floats-past-box-office-milestone/ |title=Double Oscar Nominee ''Flow'' Joins Criterion Collection, Floats Past Box Office Milestone |magazine=[[Animation Magazine]] |date=13 February 2025 |access-date=14 February 2025}}</ref><ref>{{cite web |url=https://www.indiewire.com/news/breaking-news/flow-joins-criterion-collection-1235094966/ |title=''Flow'' Will Join the Criterion Collection Later This Year with 4K Special Edition |first=Christian |last=Blauvelt |website=[[IndieWire]] |date=13 February 2025 |access-date=14 February 2025 |ref=none}}</ref><ref>{{cite web |url=https://www.thewrap.com/flow-heads-to-criterion-collection/ |title=Critical Darling Animated Film ''Flow'' to Join the Criterion Collection |first=Drew |last=Taylor |website=[[TheWrap]] |date=13 February 2025 |access-date=14 February 2025}}</ref> The Blu-ray includes roughly the same features as the UK release but also added Zilbalodis' 2019 debut feature ''[[Away (2019 film)|Away]]''.<ref>{{cite web |url=https://www.criterion.com/films/34685-flow |title=''Flow'' |publisher=[[The Criterion Collection]] |access-date=17 June 2025}}</ref>
+
+==Reception==
+[[File:Matīss Kaža with Golden Globe award.png|thumb|Co-producer [[Matīss Kaža]] with the film's [[Golden Globe Awards|Golden Globe]] trophy]]
+
+===Box office===
+''Flow'' has become the most-viewed theatrical film in Latvian history.<ref>{{Cite web |title=''Flow'' becomes most viewed film ever in Latvian cinemas |url=https://eng.lsm.lv/article/culture/culture/26.01.2025-flow-becomes-most-viewed-film-ever-in-latvian-cinemas.a585222/ |access-date=12 February 2025 |website=eng.lsm.lv}}</ref><ref name="Radulovic">{{Cite web |last=Radulovic |first=Petrana |date=11 February 2025 |title=Latvia is full of love for the ''Flow'' kitty |url=https://www.polygon.com/news/522108/flow-cat-latvia-popular |access-date=12 February 2025 |website=[[Polygon (website)|Polygon]]}}</ref> Over 306,000 tickets were sold in Latvia,<ref name="Variety20Mil">{{cite magazine |url=https://variety.com/2025/film/global/flow-global-box-office-passes-20-million-1236306430/ |title=Oscar Nominee ''Flow'' Passes $20 Million at Global Box Office in Indie Animation Milestone (Exclusive) |first=Jamie |last=Lang |magazine=[[Variety (magazine)|Variety]] |date=13 February 2025 |access-date=14 February 2025}}</ref> overtaking ''[[Blizzard of Souls (film)|Blizzard of Souls]]'' to become the most attended film in the country's history.{{sfn|Public Broadcasting of Latvia|2025}}
+
+''Flow'' became Janus Films' highest-grossing film in the U.S. with {{USD}}4 million in ticket sales, surpassing the domestic earnings of ''[[Drive My Car (film)|Drive My Car]]'' (2021).<ref>{{cite web |url=https://deadline.com/2025/01/indie-film-box-office-awards-season-golden-oscar-nominations-1236247006/|title= Indies Surge In Heart Of Awards Season Ahead Of Golden Globes, Oscar Nominations – Specialty Box Office |first=Jill |last=Goldsmith |website=[[Deadline Hollywood]] |date=5 January 2025 |access-date=26 January 2025}}</ref> As of June 2025, it had grossed over €50 million at the global box office.<ref name="Gross"/> The film became a success in [[Mexico]], where it grossed over {{USD}}6.3 million in ticket sales. Zilbalodis celebrated the success in the country by screening the film for free at the [[Zócalo]] in [[Mexico City]] on 30 April 2025 in front of 15,000 people.<ref>{{cite news |url=https://mexiconewsdaily.com/culture/director-of-flow-open-air-screening-mexico-city/ |title=Director of ''Flow'' to present Oscar-winning film before Mexico City’s Zócalo |newspaper=Mexico News Daily |date=22 April 2025 |access-date=19 March 2026}}</ref>
+
+===Critical response===
+{{Rotten Tomatoes prose|97|3=193|consensus=Thanks to its innovative animation and mature themes, going with this ''Flow'' proves irresistible.|access-date={{RT data|access date}}}}<ref>{{Rotten Tomatoes|m/flow_2024|Flow}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 87 out of 100, based on 31 critics, indicating "universal acclaim".<ref name="Metacritic">{{cite web |title=''Flow'' |url=https://www.metacritic.com/movie/flow |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=7 December 2024 |archive-url= |archive-date= |url-status=}}</ref>
+
+Writing for ''[[The New York Times]]'', Calum Marsh noted that "the animals act like animals, and that gives their adventure an authenticity that, in moments of both delight and peril, makes the emotion that much more powerful."<ref name="nyt-marsh-rev-24">{{cite news |last=Marsh |first=Calum |title=''Flow'' Review: A Cat's Life |url=https://www.nytimes.com/2024/11/21/movies/flow-review.html |access-date=7 December 2024 |newspaper=[[The New York Times]] |date=21 November 2024 |archive-date=8 December 2024 |archive-url=https://web.archive.org/web/20241208053108/https://www.nytimes.com/2024/11/21/movies/flow-review.html |url-status=live}}</ref> Jake Coyle of the [[Associated Press]] called ''Flow'' the best animated film of 2024, writing that the "computer generated animation adds to its dreamy, curiously real surrealism."<ref name="ap-coyle-24">{{cite news |last=Coyle |first=Jake |title=Movie Review: A wordless Latvian cat parable about climate change is the year's best animated movie |url=https://apnews.com/article/flow-animated-movie-review-98940a387edd5f83354719f51139bc33 |access-date=7 December 2024 |work=[[Associated Press News]] |date=6 December 2024 |archive-date=7 December 2024 |archive-url=https://web.archive.org/web/20241207215628/https://apnews.com/article/flow-animated-movie-review-98940a387edd5f83354719f51139bc33 |url-status=live}}</ref>
+
+Christian Blauvelt, writing for ''[[IndieWire]]'', gave ''Flow'' an A rating and praised it as "brimming with sentiment but not sentimentality" and compared its limited dialogue and non-anthropomorphized animals to ''[[Spirit: Stallion of the Cimarron]]''.<ref>{{cite news |last=Blauvelt |first=Christian |date=21 November 2024 |title='Flow' Review: A Cute Kitty Centers One of the Most Groundbreaking Animated Films About Nature Since 'Bambi' |work=[[IndieWire]] |url=https://www.indiewire.com/criticism/movies/flow-review-animated-film-gints-zilbalodis-1235008455/ |url-status=live |archive-url=https://web.archive.org/web/20250110125604/https://www.indiewire.com/criticism/movies/flow-review-animated-film-gints-zilbalodis-1235008455/ |archive-date=10 January 2025 |ref=none}}</ref> Actor and director [[Bill Hader]] named ''Flow'' his favorite film of 2024, saying that he watched it three times and that it made him want to get a cat despite being [[allergy to cats|allergic to them]].<ref>{{cite news |last1=O'Flat |first1=Chris |title=65 Directors Pick Their Favorite Films of 2024 |url=https://www.indiewire.com/gallery/directors-pick-best-films-2024/ |access-date=30 December 2024 |work=IndieWire |date=30 December 2024}}</ref> In June 2025, ''[[IndieWire]]'' ranked the film at number 26 on its list of "The 100 Best Movies of the 2020s (So Far)."<ref>{{cite web |url=https://www.indiewire.com/lists/best-movies-2020s/ |title=The 100 Best Movies of the 2020s (So Far) |website=[[IndieWire]] |date=16 June 2025 |access-date=23 June 2025}}</ref> In July 2025, it was one of the films voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century," finishing at number 224.<ref>{{cite news |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |title=Readers Choose Their Top Movies of the 21st Century |newspaper=[[The New York Times]] |access-date=2 July 2025}}</ref>
+
+===Accolades===
+{{Main|List of accolades received by Flow{{!}}List of accolades received by ''Flow''}}
+
+''Flow'' was the first Latvian production to win an Academy Award and a Golden Globe.{{sfn|Canadian Broadcasting Corporation|2025}} It was also the first independent film to win the [[Academy Award for Best Animated Feature]],{{sfn|Dockterman|2025}} and the second animated film to be nominated for both the [[Academy Award for Best International Feature Film]] and Best Animated Feature after ''[[Flee (film)|Flee]]''.{{sfn|Blauvelt|2025}} The film's [[Golden Globe Award for Best Animated Feature Film|Golden Globe Award]] and [[Academy Awards|Academy Award]] were featured at the [[Latvian National Museum of Art]].{{sfn|Aguilar|2025}}{{sfn|Brikmane|2025}} 15,000 people came over ten days to see the Golden Globe award.{{sfn|Canadian Broadcasting Corporation|2025}} The film's win for the [[Independent Spirit Award for Best International Film]] marked the first time an animated feature to win an Independent Spirit Award for any category.<ref name="Winners">{{cite web |url=https://deadline.com/2025/02/spirit-awards-2025-winners-list-1236297955/ |title=Spirit Awards: ''Anora'' Takes Best Feature, Director & Lead Performance; Three Wins for ''Baby Reindeer'' & Two Each for ''A Real Pain'' & ''Didi'' – Full List |last1=Pedersen |first1=Erik |last2=Topel |first2=Fred |last3=D'Alessandro |first3=Anthony |work=[[Deadline Hollywood]] |date=22 February 2025 |access-date=22 February 2025}}</ref><ref>{{cite web |url=https://eng.lsm.lv/article/culture/culture/24.02.2025-latvian-flow-picks-up-another-award.a588982/ |title=Latvian ''Flow'' picks up another award |author=LSM+ English |publisher=[[Public Broadcasting of Latvia|Latvian Public Media]] |date=24 February 2025 |access-date=25 February 2025}}</ref><ref>{{cite web |url=https://www.filmneweurope.com/news/latvia-news/item/126642-flow-wins-independent-spirit-award-2025-for-best-international-film |title=''Flow'' Wins Independent Spirit Award 2025 for Best International Film |author=FNE Staff |publisher=[[Film New Europe Association|Film New Europe]] |date=25 February 2025 |access-date=25 February 2025}}</ref>
+
+==Legacy==
+[[File:Latvia commemorative Flow coin.png|thumb|A commemorative silver coin issued by the [[Bank of Latvia]] depicting characters from the film]]
+Due to the film's popularity in Latvia, a statue of the cat from ''Flow'' was installed in [[Riga]]. It was initially installed outside of the [[Freedom Monument]], and was moved to the Brīvības Square in April 2025.<ref name="Radulovic" /><ref>{{Cite web |title=Star cat from '''Flow''' sits by Freedom Monument in Rīga |url=https://eng.lsm.lv/article/culture/culture/04.02.2025-star-cat-from-flow-sits-by-freedom-monument-in-riga.a586356/ |access-date=12 February 2025 |website=eng.lsm.lv}}</ref> Statues of the lemur, capybara, and dog from the film were also installed in other parks in Riga in 2025.<ref>{{Cite web |title='Flow' animals watch over Rīga |url=https://eng.lsm.lv/article/culture/culture/21.05.2025-flow-animals-watch-over-riga.a599947/ |access-date=2025-11-09 |website=eng.lsm.lv |language=en}}</ref> In addition, the national Latvian post service, [[Latvijas Pasts]] released a limited edition commemorative postage stamp dedicated to the film.<ref>{{Cite web |title=Latvijas Pasts Unveils New Customer Centre and Stamp Dedicated to Animated Film Flow |url=https://www.pasts.lv/en/News/8257-latvijas-pasts-unveils-new-customer-centre-and-stamp-dedicated-to-animated-film-flow |access-date=2025-03-24 |website=www.pasts.lv}}</ref> Zilbalodis was honored as "Riga Citizen of the Year" in 2024.{{sfn|Aguilar|2025}} Due to the success of ''Flow'', the Latvian film industry saw increased investment. Zilbalodis said that he had been approached to create a sequel to ''Flow'' but chose not to make one, instead focusing on a different project with dialogue titled ''Limbo''.<ref>{{Cite web |last=Ntim |first=Zac |date=24 January 2025 |title=Gints Zilbalodis On How ''Flow'' Has "Activated" Local Film Investment In Latvia & Avoiding Pitches To Produce A Sequel |url=https://deadline.com/2025/01/gints-zilbalodis-flow-latvia-animation-sequel-oscars-1236266264/ |access-date=15 February 2025 |website=[[Deadline Hollywood]] |language=en-US}}</ref>
+
+In December 2025, the [[Bank of Latvia]] issued a commemorative silver collector coin featuring characters from the film. The coin had a limited mintage of six thousand.<ref>{{cite web |url=https://eng.lsm.lv/article/economy/banks/05.12.2025-new-silver-coin-to-flow-from-latvian-central-bank.a625216/ |title=New silver coin to ''Flow'' from Latvian Central Bank |publisher=[[Public Broadcasting of Latvia]] |date=5 December 2025 |access-date=5 December 2025}}</ref><ref>{{cite web |url=https://www.bank.lv/en/news-and-events/news-and-articles/news/17230-changes-to-the-coin-programme?template=tonga |title=Changes to the Coin Programme |publisher=[[Bank of Latvia]] |date=22 April 2025 |access-date=5 December 2025}}</ref>
+
+==See also==
+* [[List of Latvian submissions for the Academy Award for Best International Feature Film]]
+* [[List of submissions to the 97th Academy Awards for Best International Feature Film]]
+* {{anl|Minimalist film}}
+
+==References==
+{{reflist}}
+
+==Works cited==
+===News===
+* {{Cite news |last=Aguilar |first=Carlos |date=12 February 2025 |title=One Wordless, Animated Cat Movie. Two Oscar Nominations. |work=[[The New York Times]] |url=https://www.nytimes.com/2025/02/12/movies/gints-zilbalodis-interview-flow.html |url-status=live |archive-url=https://web.archive.org/web/20250214012913/https://www.nytimes.com/2025/02/12/movies/gints-zilbalodis-interview-flow.html |archive-date=14 February 2025}}
+* {{Cite news |last=Blauvelt |first=Christian |date=2 March 2025 |title='Flow' Wins Best Animated Feature Oscar, the First Indie Film to Do So |work=[[IndieWire]] |url=https://www.indiewire.com/awards/results/flow-wins-best-animated-feature-oscar-first-indie-1235099706/ |url-status=live |archive-url=https://web.archive.org/web/20250303180232/https://www.indiewire.com/awards/results/flow-wins-best-animated-feature-oscar-first-indie-1235099706/ |archive-date=3 March 2025 }}
+* {{Cite news |last1=Blauvelt |first1=Christian |last2=Perella |first2=Vincent |date=5 January 2025 |title=The Budget for Animated Hit 'Flow' Was So Tight, the Film Has No Deleted Scenes |work=[[IndieWire]] |url=https://www.indiewire.com/news/events/animated-hit-flow-no-deleted-scenes-budget-1235082287/ |url-status=live |archive-url=https://web.archive.org/web/20250110123618/https://www.indiewire.com/news/events/animated-hit-flow-no-deleted-scenes-budget-1235082287/ |archive-date=10 January 2025 }}
+* {{cite web |last=Blauvelt |first=Christian |date=4 December 2024 |title=Watch the Director of ''Flow'' Go Behind the Scenes of the Best Animated Movie of the Year|url=https://www.indiewire.com/news/general-news/flow-director-best-animated-movie-of-the-year-1235072425/ |website=[[IndieWire]] |url-status=live |archive-url=https://web.archive.org/web/20241217192156/https://www.indiewire.com/news/general-news/flow-director-best-animated-movie-of-the-year-1235072425/ |archive-date=17 December 2024 }}
+* {{Cite news |last=Brikmane |first=Zane |date=5 March 2025 |title=Flow's Oscar to be displayed at Latvian Art Museum |work=[[Public Broadcasting of Latvia]] |url=https://eng.lsm.lv/article/culture/culture/05.03.2025-flows-oscar-to-be-displayed-at-latvian-art-museum.a590269/ |url-status=live |archive-url=https://archive.today/20250320212536/https://eng.lsm.lv/article/culture/culture/05.03.2025-flows-oscar-to-be-displayed-at-latvian-art-museum.a590269/ |archive-date=20 March 2025}}
+* {{Cite news |last=Desowitz |first=Bill |date=18 November 2024 |title='Flow' Director Gints Zilbalodis Doesn't Need Dialogue to Tell His Stories |work=[[IndieWire]] |url=https://www.indiewire.com/features/animation/flow-director-gints-zilbalodis-silent-animation-water-interview-1235060706/ |url-status=live |archive-url=https://web.archive.org/web/20250110124623/https://www.indiewire.com/features/animation/flow-director-gints-zilbalodis-silent-animation-water-interview-1235060706/ |archive-date=10 January 2025 }}
+* {{Cite news |last=Dockterman |first=Eliana |date=2 March 2025 |title=The 2025 Oscar Winners Who Made History |magazine=[[Time (magazine)|Time]] |url=https://time.com/7263574/oscars-historic-wins-records-2025/ |url-status=live |archive-url=https://web.archive.org/web/20250303175714/https://time.com/7263574/oscars-historic-wins-records-2025/ |archive-date=3 March 2025}}
+* {{Cite news |date=26 January 2025 |title='Flow' becomes most viewed film ever in Latvian cinemas |work=[[Public Broadcasting of Latvia]] |url=https://eng.lsm.lv/article/culture/culture/26.01.2025-flow-becomes-most-viewed-film-ever-in-latvian-cinemas.a585222/ |url-status=live |archive-url=https://archive.today/20250214013923/https://eng.lsm.lv/article/culture/culture/26.01.2025-flow-becomes-most-viewed-film-ever-in-latvian-cinemas.a585222/ |archive-date=14 February 2025 |ref={{harvid|Public Broadcasting of Latvia|2025}}}}
+* {{Cite news |last=Gularte |first=Alejandra |date=2 March 2025 |title=How Flow's Filmmakers Decided a Tiger Could Voice a Whale |work=[[Vulture (website)|Vulture]] |url=https://www.vulture.com/article/how-flow-filmmakers-decided-a-tiger-could-voice-a-whale.html |url-status=live |archive-url=https://web.archive.org/web/20250305033415/https://www.vulture.com/article/how-flow-filmmakers-decided-a-tiger-could-voice-a-whale.html |archive-date=5 March 2025 }}
+* {{Cite news |last=Shachat |first=Sarah |date=29 November 2024 |title='Flow' Doesn't Have Dialogue — But Its Sound Design Speaks Volumes |work=[[IndieWire]] |url=https://www.indiewire.com/features/animation/flow-sound-design-movie-got-lemurs-cats-more-talk-interview-1235068547/ |url-status=live |archive-url=https://web.archive.org/web/20250110124057/https://www.indiewire.com/features/animation/flow-sound-design-movie-got-lemurs-cats-more-talk-interview-1235068547/ |archive-date=10 January 2025 }}
+* {{Cite news |date=3 March 2025 |title=Surprise win of Flow brings 1st ever Oscar to Latvia, sparking national pride |work=[[Canadian Broadcasting Corporation]] |url=https://www.cbc.ca/news/entertainment/flow-latvia-oscars-1.7473162 |url-status=live |archive-url=https://web.archive.org/web/20250320212830/https://www.cbc.ca/news/entertainment/flow-latvia-oscars-1.7473162 |archive-date=20 March 2025 |ref={{harvid|Canadian Broadcasting Corporation|2025}}}}
+<!-- unused
+* {{Cite news |last=Ford |first=Rebecca |date=3 December 2024 |title=''The Brutalist'' Tops NYFCC Awards |magazine=[[Vanity Fair (magazine)|Vanity Fair]] |url=https://www.vanityfair.com/hollywood/story/nyfcc-winners-2024-awards-insider |url-status=live |archive-url=https://web.archive.org/web/20241204025916/https://www.vanityfair.com/hollywood/story/nyfcc-winners-2024-awards-insider |archive-date=4 December 2024 }} 
+* {{Cite news |first=Clayton |last=Davis |date=8 December 2024 |title=''Anora'' Nabs Best Picture at L.A. Film Critics Awards, Marianne Jean-Baptiste Makes History With Lead Win (Full Winners List) |magazine=[[Vanity Fair (magazine)|Vanity Fair]] |url=https://variety.com/2024/film/awards/los-angeles-film-critics-lafca-winners-2024-1236242522/ |url-status=live |archive-url=https://web.archive.org/web/20241208232247/https://variety.com/2024/film/awards/los-angeles-film-critics-lafca-winners-2024-1236242522/ |archive-date=8 December 2024 }}
+-->
+
+===Web===
+* {{Cite web |last=Abbatescianni |first=Davide |date=3 May 2024 |title=Gints Zilbalodis's sophomore feature, ''Flow'', set to world-premiere in Cannes' Un Certain Regard |publisher=[[Cineuropa]] |url=https://cineuropa.org/en/newsdetail/441911/ |url-status=live |archive-url=https://web.archive.org/web/20240503145323/https://cineuropa.org/en/newsdetail/441911/ |archive-date=3 May 2024}}
+* {{Cite web |last=Siddi |first=Francesco |date=22 January 2025 |title=Making Flow – Interview with director Gints Zilbalodis |publisher=[[Blender Foundation]] |url=https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/ |url-status=live |archive-url=https://web.archive.org/web/20250214014830/https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/ |archive-date=14 February 2025}}
+* {{Cite web |date=22 May 2024 |title=Flow, as seen by Gints Zilbalodis |publisher=[[Cannes Film Festival]] |url=https://www.festival-cannes.com/en/2024/flow-as-seen-by-gints-zilbalodis/ |url-status=live |archive-url=https://web.archive.org/web/20250214030602/https://www.festival-cannes.com/en/2024/flow-as-seen-by-gints-zilbalodis/ |archive-date=14 February 2025 |ref={{harvid|Cannes Film Festival|2024}}}}
+<!-- unused
+* {{Cite web |date=8 December 2024 |title=2024 Archives |publisher=[[National Board of Review]] |url=https://nationalboardofreview.org/award-years/2024/ |url-status=live |archive-url=https://web.archive.org/web/20241204200831/https://nationalboardofreview.org/award-years/2024/ |archive-date=4 December 2024 |ref={{harvid|National Board of Review|2024}}}}
+* {{Cite web |date=8 December 2024 |title=Celebrating the best of European Cinema |publisher=[[European Film Academy]] |url=https://www.europeanfilmacademy.org/press/winner_2024/ |url-status=live |archive-url=https://web.archive.org/web/20250214020858/https://www.europeanfilmacademy.org/press/winner_2024/ |archive-date=14 February 2025 |ref={{harvid|European Film Academy|2024}}}}
+-->
+
+==External links==
+* {{Official website|https://flow.movie/}} (Latvia)
+* {{Official website|https://flowthemovie.com/}} (United States)
+* {{IMDb title}}
+* {{Rotten Tomatoes}}
+* [https://www.criterion.com/films/34685-flow ''Flow''] on [[The Criterion Collection]]
+* [https://s3.documentcloud.org/documents/25471935/flow-read-the-screenplay.pdf Official Screenplay] {{Webarchive|url=https://web.archive.org/web/20250105053014/https://s3.documentcloud.org/documents/25471935/flow-read-the-screenplay.pdf|date=5 January 2025}}
+
+{{Navboxes
+|title = Awards for ''Flow''
+|list =
+{{Academy Award for Best Animated Feature}}
+{{Annie Award for Best Animated Feature – Independent}}
+{{Boston Society of Film Critics Award for Best Animated Film}}
+{{César Award for Best Animated Film}}
+{{Chicago Film Critics Association Award for Best Animated Film}}
+{{European Film Academy Lux Award}}
+{{European Film Award for Best Animated Feature Film}}
+{{Florida Film Critics Circle Award for Best Animated Film}}
+{{Golden Globe Award for Best Animated Feature Film}}
+{{Independent Spirit Award for Best International Film}}
+{{Los Angeles Film Critics Association Award for Best Animated Film}}
+{{Lumière Award for Best Animated Film}}
+{{National Board of Review Award for Best Animated Film}}
+{{New York Film Critics Circle Award for Best Animated Film}}
+{{Online Film Critics Society Award for Best Animated Film}}
+{{San Diego Film Critics Society Award for Best Animated Film}}
+{{San Francisco Bay Area Film Critics Circle Award for Best Animated Feature}}
+{{TFCA Award for Best Animated Film}}
+{{Vancouver Film Critics Circle Award for Best Foreign Language Film}}
+}}
+{{Latvian submission for Academy Awards}}
+{{Blender Foundation}}
+{{authority control}}
+[[Category:2024 fantasy adventure films]]
+[[Category:2020s French animated films]]
+[[Category:2024 Latvian films]]
+[[Category:2024 Belgian films]]
+[[Category:2024 computer-animated films]]
+[[Category:2024 films]]
+[[Category:2024 French films]]
+[[Category:Animated adventure films]]
+[[Category:Animated films about birds]]
+[[Category:Animated films about capybaras]]
+[[Category:Animated films about cats]]
+[[Category:Animated films about dogs]]
+[[Category:Animated films about friendship]]
+[[Category:Animated films about lemurs]]
+[[Category:Animated films about whales]]
+[[Category:Animated films set in forests]]
+[[Category:Animated films without speech]]
+[[Category:Animated post-apocalyptic films]]
+[[Category:Annecy Cristal–winning films]]
+[[Category:Belgian animated fantasy films]]
+[[Category:Belgian fantasy adventure films]]
+[[Category:Belgian survival films]]
+[[Category:Best Animated Feature – Independent Annie Award winners]]
+[[Category:Best Animated Feature Academy Award winners]]
+[[Category:Best Animated Feature Film Golden Globe winners]]
+[[Category:Best Animated Film César Award winners]]
+[[Category:Best Animated Film Lumière Award winners]]
+[[Category:European Film Awards winners (films)]]
+[[Category:Films about floods]]
+[[Category:Films directed by Gints Zilbalodis]]
+[[Category:Films made using Blender]]
+[[Category:Films produced by Gints Zilbalodis]]
+[[Category:Films scored by Gints Zilbalodis]]
+[[Category:Films set on boats]]
+[[Category:Films with screenplays by Gints Zilbalodis]]
+[[Category:French animated fantasy films]]
+[[Category:French fantasy adventure films]]
+[[Category:French seafaring films]]
+[[Category:French survival films]]
+[[Category:Independent animated films]]
+[[Category:Latvian animated films]]
+[[Category:Latvian fantasy adventure films]]
+[[Category:Sea adventure films]]
+[[Category:Seafaring films]]

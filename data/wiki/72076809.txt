@@ -1,0 +1,65 @@
+{{short description|1943 Japanese film}}
+{{italic title}}
+{{Use dmy dates|date=October 2022}}
+{{Infobox film
+| name           = The Song Lantern
+| image          = File:The Song Lantern poster.jpg
+| caption        = Film poster
+| native_name    = {{Infobox Japanese| kanji=歌行燈}}
+| director       = [[Mikio Naruse]]
+| producer       = Motohiko Itō
+| writer         = {{ubl|[[Mantarō Kubota]]|[[Kyōka Izumi]] (novel)}}
+| starring       = {{ubl|Shōtarō Hanayagi|[[Isuzu Yamada]]|Ichijirō Ōya|[[Eijirō Yanagi]]}}
+| music          = [[Shirō Fukai]]
+| cinematography = [[Asakazu Nakai|Asaichi Nakai]]
+| editing        = Yoshiki Nagasawa
+| studio         = [[Toho]]
+| distributor    = Toho
+| released       = {{film date|1943|02|11|df=yes|Japan|ref1=<ref name="jmdb">{{cite web|url=http://www.jmdb.ne.jp/1943/bs000130.htm |title=歌行燈 |website=Japanese Movie Database |language=ja |access-date=22 October 2022}}</ref><ref name="Kinenote">{{cite web|url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=69242 |title=歌行燈(1943) |website=Kinenote |language=ja |access-date=22 October 2022}}</ref>}}
+| runtime        = 93 minutes
+| country        = Japan
+| language       = Japanese 
+}}
+{{nihongo|'''''The Song Lantern'''''|歌行燈|Uta andon|lead=yes}}, also titled '''''A Song by Lantern Light''''', is a 1943 Japanese [[Drama (film and television)|drama film]] by [[Mikio Naruse]]. It is based on a novel by [[Kyōka Izumi]].<ref name="jmdb" /><ref name="Kinenote" /><ref name="kotobank">{{cite web|url=https://kotobank.jp/word/%E6%AD%8C%E8%A1%8C%E7%87%88-696104 |title=歌行燈 |website=Kotobank |language=ja |access-date=22 October 2022}}</ref>
+
+==Plot==
+Japan in the [[Meiji era]]: Kitahachi, son of famous [[noh]] actor Genzaburo Onchi, is disowned by his father after Kitahachi's humiliation of noh singer Sozan results in Sozan's suicide. Also, Genzaburo forbids Kitahachi ever to perform again. When Kitahachi, who now earns his money as a street musician, learns that Sozan's daughter Osode tries to find work as a geisha but struggles with her inability to play an instrument, he teaches her the art of noh dancing. During his stay in [[Kuwana]], Genzaburo is impressed by Osode's dancing skills and, upon hearing that she was instructed by Kitahachi, reunites with his son.
+
+==Cast==
+* Shōtarō Hanayagi as Kitahachi Onchi
+* [[Isuzu Yamada]] as Osode
+* Ichijirō Ōya as Genzaburo Onchi
+* Masaro Muata as Sozan
+* [[Eijirō Yanagi]] as Jirozo
+
+==Background==
+''The Song Lantern'' starred Shōtarō Hanayagi, a popular [[shinpa]] and film actor, who had previously appeared in the lead role in [[Kenji Mizoguchi]]'s ''[[The Story of the Last Chrysanthemums]]'' (1939), which too portrayed a stage actor during the Meiji period.<ref name="kirihara">{{cite book |last=Kirihara |first=Donald |date=1992 |title=Patterns of Time: Mizoguchi and the 1930s |location=Madison |publisher=University of Wisconsin Press |page=139 |isbn=9780299132446}}</ref><ref name="russell">{{cite book |last=Russell |first=Catherine |date=2008 |title=[[The Cinema of Naruse Mikio: Women and Japanese Modernity]] |location=Durham and London |publisher=Duke University Press |pages=140–143 |isbn=978-0-8223-4290-8}}</ref>
+
+==Reception==
+According to Naruse biographer Catherine Russell, the director was faced with interferences by the [[Home Ministry]] during the film's production, and while she calls the submissive character of Osode "not well developed", she points out the elegance of some of the film's sequences.<ref name="russell" />
+
+In his 2005 review for ''[[Slant Magazine]]'', Keith Uhlich titled ''The Song Lantern'' an "intoxicating work" and "visual marvel", comparable to the works of Mizoguchi.<ref>{{cite web|url=https://www.slantmagazine.com/film/the-song-lantern/ |title=Review: The Song Lantern |date=13 December 2005 |last=Uhlich |first=Keith |website=Slant Magazine |access-date=22 October 2022}}</ref>
+
+==Legacy==
+''The Song Lantern'' was screened at the [[Museum of Modern Art]] in 1985<ref name="moma">{{cite web|url=https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6228/releases/MOMA_1985_0082_79.pdf |title=Mikio Naruse: A Master of the Japanese Cinema Opens at MoMA September 23 |website=Museum of Modern Art |access-date=19 July 2023}}</ref> and at the [[Harvard Film Archive]] in 2005<ref>{{cite web|url=https://harvardfilmarchive.org/calendar/the-song-lantern-2005-10 |title=The Song Lantern |website=Harvard Film Archive |date=2 October 2005 |access-date=19 July 2023}}</ref> as part of their retrospectives on Mikio Naruse.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|id=0036484}}
+
+{{Mikio Naruse}}
+
+{{DEFAULTSORT:Song Lantern, The}}
+[[Category:1943 films]]
+[[Category:1943 drama films]]
+[[Category:Japanese drama films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Films based on Japanese novels]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:Films set in the Meiji era]]
+[[Category:Toho films]]
+[[Category:1940s Japanese-language films]]
+[[Category:Films scored by Shirō Fukai]]
+[[Category:1943 Japanese films]]

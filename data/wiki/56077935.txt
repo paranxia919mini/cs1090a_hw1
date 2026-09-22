@@ -1,0 +1,74 @@
+{{short description|1924 film directed by Phil Rosen}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox film
+| name           = This Woman
+| image          = This Woman (1924) - 1.jpg
+| alt            = 
+| caption        = Advertisement
+| director       = [[Phil Rosen]]
+| producer       = 
+| screenplay     = [[Louis D. Lighton]]<br>[[Hope Loring]]
+| based_on       = {{based on|''This Woman''|Howard Rockey}}
+| starring       = [[Irene Rich]]<br>[[Ricardo Cortez]]<br>[[Louise Fazenda]]
+| music          = 
+| cinematography = [[H. Lyman Broening]]
+| editing        = 
+| studio         = [[Warner Bros. Pictures|Warner Bros.]]
+| distributor    = Warner Bros.
+| released       = {{Film date|1924|11|2}}
+| runtime        = 70 minutes
+| country        = United States
+| language       = [[Silent film|Silent]] (English [[intertitles]])
+| budget         = 
+| gross          = 
+}}
+
+'''''This Woman''''' is a 1924 American silent [[Drama (film and television)|drama film]] directed by [[Phil Rosen]], written by [[Louis D. Lighton]] and [[Hope Loring]], and starring [[Irene Rich]], [[Ricardo Cortez]], [[Louise Fazenda]], [[Frank Elliott (actor)|Frank Elliott]], [[Creighton Hale]], and [[Marc McDermott]]. Based on the 1924 novel ''This Woman'' by Howard Rockey, it was released by [[Warner Bros. Pictures|Warner Bros.]] on November 2, 1924.<ref>{{cite web|url=https://www.tcm.com/tcmdb/title/498746/this-woman |archive-url=https://web.archive.org/web/20180820140836/http://www.tcm.com/tcmdb/title/498746/This-Woman/ |url-status=dead |archive-date=August 20, 2018 |title=This Woman (1924) - Overview |publisher=Turner Classic Movies |date= |access-date=December 18, 2017}}</ref><ref>{{cite web |url=https://catalog.afi.com/Catalog/MovieDetails/12644 |title=This Woman |publisher=Catalog.afi.com |date= |accessdate=December 18, 2017 |archive-date=August 20, 2018 |archive-url=https://web.archive.org/web/20180820074821/https://catalog.afi.com/Catalog/MovieDetails/12644 |url-status=live }}</ref><ref>[http://www.silentera.com/PSFL/data/T/ThisWoman1924.html Progressive Silent Film List: ''This Woman''] {{Webarchive|url=https://web.archive.org/web/20231009211503/http://www.silentera.com/PSFL/data/T/ThisWoman1924.html |date=October 9, 2023 }} at silentera.com</ref>
+
+==Plot==
+As described in a review in a film magazine,<ref>{{cite journal |last=Sewell |first=C. S. |author-link= |title=''This Woman''; Warner Brothers Star Irene Rich in Pleasing But Improbable Story Adapted From Popular Novel |journal=The Moving Picture World |volume=71 |issue=1 |pages=73–74 |publisher=Chalmers Publishing Co. |location=New York City |date=1 November 1924 |url=https://archive.org/details/movingpicturewor71novd/page/73/mode/1up
+ | access-date =3 April 2021}}</ref> facing poverty, Carol Drayton a singer, attempts suicide but is saved by Rose, a young woman of the streets who buys her a meal in a questionable café. Gordon Duane, a wealthy man joins them, the place is raided, Duane lies about Carol. She is arrested and goes to jail under an assumed name. Released, she wanders about the street penniless. An intoxicated Bobby Bleecker pays her to sing in front of his sweetheart Aline Sturdevant's house.
+
+Stratini, a famous impresario, is charmed with her voice and offers to teach her, and she becomes a protégé of the wealthy Sturdevants. The butler finds her jail release and steals a necklace, seeking to force her to aid him. Bobby comes to the rescue, learns the truth but keeps mum.
+
+Whitney Duane falls in love with Carol but doubts her because of gossip. Carol meets Rose who is down and out and borrows money from Bobby to aid her. This makes Bobby's sweetheart, Aline, jealous.
+
+Gordon Duane returns from abroad. To clear matters, Carol tells her story implicating Duane. She prepares to leave, but Stratini, who has always believed in her, sticks by her, and Carol makes him admit that he loves her.
+
+==Cast==    
+{{Cast listing|
+*[[Irene Rich]] as Carol Drayton
+*[[Ricardo Cortez]] as Whitney Duane
+*[[Louise Fazenda]] as Rose
+*[[Frank Elliott (actor)|Frank Elliott]] as Gordon Duane
+*[[Creighton Hale]] as Bobby Bleecker
+*[[Marc McDermott]] as Stratini
+*[[Helen Dunbar]] as Mrs. Sturdevant
+*[[Clara Bow]] as Aline Sturdevant
+*[[Otto Hoffman]] as Judson
+}}
+
+==Preservation==
+A complete print of ''This Woman'' is preserved at Lobster Films, Paris.<ref>{{Cite web |date= |others= |title=The Library of Congress American Silent Feature Film Survival Catalog: This Woman |url=http://memory.loc.gov/diglib/ihas/loc.mbrs.sfdb.2710/default.html |archive-url=https://web.archive.org/web/20231009210800/http://memory.loc.gov/diglib/ihas/loc.mbrs.sfdb.2710/default.html |archive-date=2023-10-09 |access-date=2025-08-25 |website=memory.loc.gov}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category|This Woman (film)}}
+*{{IMDb title|0015402}}
+
+[[Category:1924 films]]
+[[Category:1924 drama films]]
+[[Category:1924 American films]]
+[[Category:1924 English-language films]]
+[[Category:American black-and-white films]]
+[[Category:American silent feature films]]
+[[Category:English-language drama films]]
+[[Category:Films directed by Phil Rosen]]
+[[Category:American silent drama films]]
+[[Category:Surviving American silent films]]
+[[Category:Warner Bros. films]]
+
+{{1920s-drama-film-stub}}

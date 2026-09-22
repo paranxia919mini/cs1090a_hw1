@@ -1,0 +1,245 @@
+{{short description|2019 film directed by Tom Harper}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox film
+| name           = The Aeronauts
+| image          = TheAeronautsPoster.jpeg
+| caption        = Theatrical release poster
+| director       = [[Tom Harper (director)|Tom Harper]]
+| screenplay     = [[Jack Thorne]]
+| story          = {{Plainlist|
+* Tom Harper
+* Jack Thorne
+}}
+| based_on       = {{Based on|''Falling Upwards: How We Took to the Air''|[[Richard Holmes (biographer)|Richard Holmes]]}}
+| producer       = {{Plainlist|
+* [[Todd Lieberman]]
+* [[David Hoberman]]
+* [[Tom Harper (director)|Tom Harper]]
+}}
+| starring       = {{Plainlist|
+* [[Eddie Redmayne]]
+* [[Felicity Jones]]
+* [[Himesh Patel]]
+* [[Tom Courtenay]]
+}}
+| cinematography = George Steel
+| editing        = Mark Eckersley
+| music          = [[Steven Price (composer)|Steven Price]]
+| studio         = {{Plainlist|
+* [[Mandeville Films]]
+* [[FilmNation Entertainment]]
+}}
+| distributor    = {{Plainlist|
+* [[Entertainment One UK|Entertainment One]] (United Kingdom)
+* [[Amazon Studios]] (United States)<ref>{{cite news |url= https://www.telegraph.co.uk/technology/2018/12/31/amazon-talks-release-original-films-imax-cinemas-2019/ |title= Amazon in talks to release original films in Imax cinemas in 2019 |newspaper= [[The Daily Telegraph]] |first= Hannah |last= Boland |date= December 31, 2018 |access-date= January 19, 2019 |archive-date= 2 May 2019 |archive-url= https://web.archive.org/web/20190502153648/https://www.telegraph.co.uk/technology/2018/12/31/amazon-talks-release-original-films-imax-cinemas-2019/ |url-status= live }}</ref>
+}}
+| released       = {{Film date|df=y|2019|8|30|[[Telluride Film Festival|Telluride]]|2019|11|4|United Kingdom|2019|12|6|United States}}
+| runtime        = 100 minutes<!-- 100m 23s --><ref>{{cite web |title=The Aeronauts (2019) |url=https://www.bbfc.co.uk/release/the-aeronauts-q29sbgvjdglvbjpwwc00otyxndy |website=[[British Board of Film Classification]] |access-date=January 13, 2020 |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624221520/https://www.bbfc.co.uk/release/the-aeronauts-q29sbgvjdglvbjpwwc00otyxndy |url-status=live }}</ref>
+| country        = {{Plainlist|
+* United Kingdom
+* United States<ref>{{cite web |title=The Aeronauts (2019) |url=https://www2.bfi.org.uk/films-tv-people/5da78ae9edb29 |archive-url=https://web.archive.org/web/20201001104034/https://www2.bfi.org.uk/films-tv-people/5da78ae9edb29 |url-status=dead |archive-date=1 October 2020 |website=BFI |access-date=13 November 2020 |language=en}}</ref>
+}}
+| language       = English
+| budget         = $40 million<ref name="budget">{{cite magazine|url=https://www.screendaily.com/features/how-tom-harper-ensured-the-40m-the-aeronauts-took-flight-with-amazon-studios/5143554.article|title=How Tom Harper ensured the $40m 'The Aeronauts' took flight with Amazon Studios|magazine=[[Screen Daily]]|publisher=Media Business Insight|last=Gant|first=Charles|date=October 7, 2019|access-date=October 25, 2019|archive-date=9 December 2019|archive-url=https://web.archive.org/web/20191209025011/https://www.screendaily.com/features/how-tom-harper-ensured-the-40m-the-aeronauts-took-flight-with-amazon-studios/5143554.article|url-status=live}}</ref>
+| gross          = $7 million<!-- TheNumbers $6.63 million plus $340,000 North American estimate from IndieWire --><ref name="NUM" /><ref name="BOM">{{Cite web |title= The Aeronauts (2019) |website= [[Box Office Mojo]] |url= https://www.boxofficemojo.com/release/rl2047378945/ |access-date= September 24, 2020 |archive-date= 10 December 2019 |archive-url= https://web.archive.org/web/20191210200026/https://www.boxofficemojo.com/release/rl2047378945/ |url-status= live }}</ref><ref name="IndieWireBO" />
+}}
+
+'''''The Aeronauts''''' is a 2019 [[Biographical film|biographical]] [[adventure film]] directed by [[Tom Harper (director)|Tom Harper]] and written by [[Jack Thorne]], from a story co-written by Thorne and Harper. The film is based on the 2013 book ''Falling Upwards: How We Took to the Air'' by [[Richard Holmes (biographer)|Richard Holmes]].<ref>{{cite web |url=https://www.eonline.com/news/1100406/how-the-aeronauts-drastically-changed-the-real-life-story |title=How The Aeronauts Drastically Changed the Real-Life Story |first=Tierney |last=Bricker |website=[[E! Online]] |date=December 6, 2019 |access-date=December 23, 2019 |archive-date=7 December 2019 |archive-url=https://web.archive.org/web/20191207063846/https://www.eonline.com/news/1100406/how-the-aeronauts-drastically-changed-the-real-life-story |url-status=live }}</ref> Produced by [[Todd Lieberman]], [[David Hoberman]], and [[Tom Harper (director)|Tom Harper]], the film stars [[Eddie Redmayne]], [[Felicity Jones]], [[Himesh Patel]] and [[Tom Courtenay]].<ref>{{cite web|url=https://www.rottentomatoes.com/m/the_aeronauts/cast-and-crew|title=The Aeronauts: Full Cast & Crew|work=Rotten Tomatoes|access-date=July 10, 2025}}</ref>
+
+The film had its world premiere at the [[Telluride Film Festival]] on 30 August 2019, followed by a showing at the [[2019 Toronto International Film Festival|2019]] [[Toronto International Film Festival]].<ref>{{Cite news |url= https://www.bbc.com/news/entertainment-arts-49630171 |title= Redmayne and Jones on 'wonderful' screen reunion |last= McIntosh |first= Steven |work= [[BBC News]] |date= September 9, 2019 |access-date= September 9, 2019 |archive-date= 27 September 2020 |archive-url= https://web.archive.org/web/20200927091226/https://www.bbc.com/news/entertainment-arts-49630171 |url-status= live }}</ref><ref>{{cite web |title= The Aeronauts |url= https://www.tiff.net/events/the-aeronauts |publisher= [[Toronto International Film Festival]] |access-date= 24 August 2019 |archive-date= 22 August 2019 |archive-url= https://web.archive.org/web/20190822224921/https://www.tiff.net/events/the-aeronauts |url-status= live }}</ref> It was released in the United Kingdom on 4 November 2019, and in the United States on 6 December 2019. The film received mostly positive reviews from critics, but was the subject of controversy for its historical revisionism of one of the two protagonists.
+
+== Plot ==
+In 1862 [[London]], Amelia Wren, a balloon pilot, and [[James Glaisher]], a scientist, arrive for the launch of the largest [[Balloon (aeronautics)|balloon]] ever constructed.{{refn|name=WrenRennes|group=N}} Despite being haunted by a vision of her husband, the late Pierre, Amelia keeps up the brave front and the balloon launches to a cheering crowd. In a flashback, James appears before the [[Royal Society]] and explains his theory that the weather can be predicted; his fellow scientists mock him and refuse to finance his studies. Returning home, he talks to his parents, who try to persuade him to pursue another avenue of science. On the balloon, James and Amelia start rising through the cloud layer. They soon run into a violent storm which sends the balloon spinning. In a flashback, Amelia is persuaded by her sister Antonia to attend a society function. There, Amelia is approached by James, who asks if she would be willing to pilot his balloon in a privately funded expedition while he attempts to prove his theories, to which she agrees.
+
+Although the violence does give James a head injury, he and Amelia make it through the storm and continue rising. James releases the first of five pigeons carrying messages stating their altitude along with other scientific readings in case they don't survive. They discover an air current which is home to a group of butterflies, confirming a theory of James's friend John Trew that insects can travel on air currents. In another flashback, as James practices for the flight, Amelia visits to tell him she has changed her mind. On the balloon, the pair eventually exceed an altitude of {{cvt|23000|feet|sigfig=2}}, beating the standing record. (James overestimates their altitude, later calculated to be about {{cvt|29500|ft}}, at about {{cvt|37000|ft}})<ref>{{Cite journal |last=Hazen |first=H. A. |date=December 9, 1898 |title=Glaisher's Highest Balloon Ascension |url=https://www.cambridge.org/core/journals/aeronautical-journal/article/abs/glaishers-highest-balloon-ascension/40267CCAEA286F2E3173188BA961397A |journal=The Aeronautical Journal |language=en |volume=3 |issue=9 |page=13 |doi=10.1017/S2398187300143610 |s2cid=164568526 |issn=2398-1873 |access-date=5 June 2023 |archive-date=7 October 2022 |archive-url=https://web.archive.org/web/20221007160306/https://www.cambridge.org/core/journals/aeronautical-journal/article/abs/glaishers-highest-balloon-ascension/40267CCAEA286F2E3173188BA961397A |url-status=live |url-access=subscription }}</ref> Amelia is shocked to learn that James didn't bring any clothes suitable for the rapidly decreasing temperature and decides to start descending. James refuses and the two argue. Amelia agrees to keep rising but makes it clear to James that they'll have to start descending soon.
+
+In another flashback, John goes to see Amelia, telling her that she has an obligation to advance the cause of science. Amelia then goes to Pierre's grave to reflect. When it begins to snow (as John told her James had predicted), she decides to go with James after all. In the balloon's basket, James starts experiencing [[Hypoxia (medical)|hypoxia]] from the altitude but insists they continue and tries to stop Amelia from descending. He relents only when Amelia tells him the story of how Pierre sacrificed himself to save her during a balloon flight. Amelia discovers that the gas release valve atop the balloon is frozen. As James falls unconscious, she has no choice but to climb up the outside of the balloon and open the valve from the top. With [[frostbite]] setting in on her hands, she struggles to wedge her boot in the valve, causing a slow release of the gas. Amelia loses consciousness and topples over the side but is saved by her rope tether.
+
+When she awakens, Amelia manages to swing back to the balloon and rouse James. As they continue to descend, snow begins to hover around them, indicating that the balloon is collapsing from the loss of too much gas. They manage to close the gas release and throw everything they can over the side, including all of James's equipment. When this doesn't work, they climb into the framework and release the basket. Realising that Amelia is ready to sacrifice herself to save him, James is able to convert the rest of the balloon into a parachute, which slows their descent. They crash through trees and hit the ground hard, Amelia being dragged along behind the balloon. She wakes and calls for James, who staggers towards her. Both are injured but euphoric that they managed to survive, setting a new human flight altitude record. James's findings prove the existence of layers in the atmosphere, paving the way for the first weather forecasts, and he and Amelia build a new balloon so they can continue to conduct research together.
+
+== Cast ==
+{{Cast listing|
+* [[Eddie Redmayne]] as [[James Glaisher]]
+* [[Felicity Jones]] as Amelia{{refn|name=WrenRennes|group=N|Rennes and Wren are both stated as the last name of the lead, Amelia. The character is credited as "Amelia Wren" although in the film Amelia is shown looking at a handbill with the notice "The aeronaut and his bride, Pierre and Amelia Rennes, 14th September 1856" and her husband's graveside bears the inscription "In loving memory Pierre Rennes".}}
+* [[Himesh Patel]] as John Trew, James's friend
+* [[Tom Courtenay]] as Arthur Glaisher, James's father
+* [[Phoebe Fox]] as Antonia, Amelia's sister
+* [[Rebecca Front]] as Aunt Frances
+* [[Robert Glenister]] as Ned Chambers
+* [[Vincent Perez]] as Pierre Rennes, Amelia's husband
+* [[Anne Reid]] as Ethel Glaisher, James's mother
+* Lewin Lloyd as Charlie
+* [[Tim McInnerny]] as [[George Biddell Airy|Airy]]
+* Thomas Arnold as [[Charles Green (balloonist)|Charles Green]]
+* [[Lisa Jackson (actress)|Lisa Jackson]] as Poppy
+* Elsa Alili and Connie Price as Antonia's daughters
+* Bella as Posey the dog
+}}
+
+== Production ==
+{{Anchor|Development}}
+In December 2016, [[Amazon Studios]] purchased the film rights to [[Jack Thorne]]'s spec script.<ref>{{cite magazine|url=https://deadline.com/2016/12/amazon-studios-takes-the-aeronauts-mandeville-films-jack-thorne-tom-harper-war-and-peace-jk-rowlling-1201866814/|title=Amazon Studios Takes Flight With Hot Package 'The Aeronauts'|first1=Diana|last1=Lodderhose|first2=Mike Jr.|last2=Fleming|magazine=Deadline Hollywood|publisher=Penske Media Corporation|date=December 8, 2016|access-date=August 13, 2019|archive-date=13 August 2019|archive-url=https://web.archive.org/web/20190813232826/https://deadline.com/2016/12/amazon-studios-takes-the-aeronauts-mandeville-films-jack-thorne-tom-harper-war-and-peace-jk-rowlling-1201866814/|url-status=live}}</ref> In mid-2018, [[Felicity Jones]] and [[Eddie Redmayne]] were confirmed to star in the film.<ref>{{cite web|url=https://www.slashfilm.com/the-aeronauts-first-look/|title='The Aeronauts' First Look: Felicity Jones and Eddie Redmayne Reunite 2,000 Feet in the Sky|work=[[/Film]]|first=Ben|last=Pearson|date=August 15, 2018|access-date=November 6, 2018|archive-date=7 November 2018|archive-url=https://web.archive.org/web/20181107010211/https://www.slashfilm.com/the-aeronauts-first-look/|url-status=live}}</ref><ref>{{cite magazine|url=http://www.thehollywoodnews.com/2018/08/15/the-aeronauts-first-look-180340/|title=First Look At Eddie Redmayne & Felicity Jones In Amazon's 'The Aeronauts'|magazine=The Hollywood News|first=Paul|last=Heath|date=August 15, 2018|access-date=November 6, 2018|archive-date=7 November 2018|archive-url=https://web.archive.org/web/20181107104007/http://www.thehollywoodnews.com/2018/08/15/the-aeronauts-first-look-180340/|url-status=live}}</ref> They were reunited after ''[[The Theory of Everything (2014 film)|The Theory of Everything]]'' (2014), directed by [[James Marsh (director)|James Marsh]], as their past work and real-life friendship would help them in this new collaboration.<ref>{{cite magazine |last=White |first=Abbey |title=How Felicity Jones and Eddie Redmayne's Rapport Was Key to 'Aeronauts' Dynamic |url=https://www.hollywoodreporter.com/news/felicity-jones-eddie-redmayne-bond-helping-aeronauts-reunion-1259808 |magazine=[[The Hollywood Reporter]] |publisher=[[Valence Media]] |date=12 May 2019 |access-date=1 January 2020 |archive-date=27 December 2019 |archive-url=https://web.archive.org/web/20191227020429/https://www.hollywoodreporter.com/news/felicity-jones-eddie-redmayne-bond-helping-aeronauts-reunion-1259808 |url-status=live }}</ref>
+
+{{Anchor|Filming}}
+[[Principal photography]] began in early August 2018, in [[West London Film Studios]], with George Steel serving as cinematographer.<ref name="Filming">{{cite magazine|url=https://www.backstage.com/magazine/article/uk-now-filming-amazons-star-studded-aeronauts-69/|title=U.K. Now Filming: Amazon's Star-Studded 'The Aeronauts'|magazine=[[Backstage (magazine)|Backstage]]|first=Audrey|last=O'Byrne|date=August 22, 2018|access-date=November 6, 2018|archive-date=7 November 2018|archive-url=https://web.archive.org/web/20181107010206/https://www.backstage.com/magazine/article/uk-now-filming-amazons-star-studded-aeronauts-69/|url-status=live}}</ref> Filming locations in England included the [[Royal Naval College, Greenwich]], [[Regent's Park]], London, [[Claydon House]], [[Buckinghamshire]], the [[Bodleian Library]] in [[Oxford]], [[Wrotham Park]], London<ref name="Filming" /> and The Historic Dockyard Chatham in [[Kent]].<ref>{{cite web |author=Kent Film Office |url=https://kentfilmoffice.co.uk/2019/10/the-aeronauts-2019/ |title=Kent Film Office Aeronauts (2019) Article |date=29 October 2019 |access-date=13 March 2020 |archive-date=12 December 2019 |archive-url=https://web.archive.org/web/20191212151925/https://kentfilmoffice.co.uk/2019/10/the-aeronauts-2019/ |url-status=live }}</ref>
+
+Key action sequences in ''The Aeronauts'' were designed for [[IMAX]] and feature an expanded aspect ratio for both IMAX and select Premium Large Format cinemas.<ref>{{Cite magazine|url=https://deadline.com/2019/05/the-aeronauts-will-have-one-week-imax-run-in-october-1202614664/|title='The Aeronauts' Will Have One-Week Imax Run In October|last=Petski|first=Denise|date=May 14, 2019|magazine=Deadline Hollywood|publisher=Penske Media Corporation|access-date=October 24, 2019|archive-date=14 May 2019|archive-url=https://web.archive.org/web/20190514174804/https://deadline.com/2019/05/the-aeronauts-will-have-one-week-imax-run-in-october-1202614664/|url-status=live}}</ref>
+
+== Music ==
+{{Main|The Aeronauts (soundtrack)}}
+
+== Historical accuracy ==
+The film is based on an amalgam of the flights detailed in [[Richard Holmes (biographer)|Richard Holmes]]' 2013 book ''Falling Upwards: How We Took to the Air'' ({{ISBN|978-0-00-738692-5}}). The most significant balloon flight depicted in ''The Aeronauts'' is based on the 5 September 1862 flight of British aeronauts [[James Glaisher]] and [[Henry Tracey Coxwell|Henry Coxwell]] whose [[coal gas]]-filled balloon broke the world [[flight altitude record]], reaching {{convert|9,000|to|11,000|m|ft|order=flip|abbr=on}}.<ref>{{cite web |url=https://www.historychannel.com.au/this-day-in-history/two-aeronauts-break-world-record-for-altitude-in-a-balloon/ |title=Two aeronauts break world record for altitude in a balloon 5 September 1862 |work=[[History (American TV channel)|History]] |access-date=August 30, 2019 |date=June 19, 2016 |archive-date=14 August 2019 |archive-url=https://web.archive.org/web/20190814120736/https://www.historychannel.com.au/this-day-in-history/two-aeronauts-break-world-record-for-altitude-in-a-balloon/ |url-status=dead }}</ref> However, while Glaisher appears in the film, Coxwell has been replaced by Amelia, a fictional character.<ref>{{Cite news |url=https://www.thetimes.com/article/ballooning-hero-becomes-a-woman-for-new-eddie-redmayne-film-the-aeronauts-xtz6s9sv8 |title=Ballooning hero becomes a woman for new Eddie Redmayne film The Aeronauts |last=Malvern |first=Jack |work=[[The Times]] |access-date=August 14, 2019 |issn=0140-0460 |archive-date=28 May 2019 |archive-url=https://web.archive.org/web/20190528174838/https://www.thetimes.co.uk/article/ballooning-hero-becomes-a-woman-for-new-eddie-redmayne-film-the-aeronauts-xtz6s9sv8 |url-status=live }}{{Subscription required}}</ref>
+
+The real flight started from Wolverhampton on the site of the town gas works and ended in the Gorsebrook area of the town. The film moves the action to London.{{citation needed|date=November 2023}}
+
+A report in ''[[The Daily Telegraph]]'' quotes Keith Moore, Head of Library at the Royal Society, as saying, "It's a great shame that Henry [Coxwell] isn't portrayed because he performed very well and saved the life of a leading scientist". Moore then criticised the film's fictional female protagonist, stating “There were so many deserving female scientists of that period who haven't had films made about them. Why not do that instead?"<ref>{{cite news |url=https://www.telegraph.co.uk/news/2018/08/15/ballooning-hero-airbrushed-history-reunite-eddie-redmayne-felicity/ |title=Ballooning hero 'airbrushed' from history to make way for female character in Eddie Redmayne film |work=The Daily Telegraph |location=UK |first=Henry |last=Bodkin |date=August 15, 2018 |access-date=August 24, 2019 |archive-date=14 August 2019 |archive-url=https://web.archive.org/web/20190814115235/https://www.telegraph.co.uk/news/2018/08/15/ballooning-hero-airbrushed-history-reunite-eddie-redmayne-felicity/ |url-status=live }}</ref> In an interview with ''The List'', Harper explained that whilst the film was inspired by a number of historical flights, the intention was never to make a documentary and he wanted the film to be reflective of a contemporary audience. He also commented on a gender bias in science, stating "There were female scientists around at the time, but not in the Royal Society... to this day, only eight per cent of the Royal Society is female."<ref>{{cite web |last1=Mottram |first1=James |title=Tom Harper: 'They were taking these extraordinary risks to further human knowledge and to see the world differently' |url=https://film.list.co.uk/article/112379-tom-harper-they-were-taking-these-extraordinary-risks-to-further-human-knowledge-and-to-see-the-world-differently/ |website=The List |access-date=11 November 2019 |date=31 October 2019 |archive-date=11 November 2019 |archive-url=https://web.archive.org/web/20191111114603/https://film.list.co.uk/article/112379-tom-harper-they-were-taking-these-extraordinary-risks-to-further-human-knowledge-and-to-see-the-world-differently/ |url-status=live }}</ref><ref>{{Cite news |url=https://www.theguardian.com/science/2010/nov/21/royal-society-lost-women-scientists |title=The Royal Society's lost women scientists |last=Holmes |first=Richard |date=21 November 2010 |work=The Observer |access-date=24 October 2019 |issn=0029-7712 |archive-date=23 September 2023 |archive-url=https://web.archive.org/web/20230923203656/https://www.theguardian.com/science/2010/nov/21/royal-society-lost-women-scientists |url-status=live }}</ref>
+
+Other critics of the film have praised Amelia as an important, aspirational female character. [[Sasha Stone (blogger)|Sasha Stone]] of ''Awards Daily'' wrote that ''The Aeronauts'' "inspires young girls and nudges the perspectives of young boys... (revealing) that women can be just as excited about taking a hero's journey as any man can."<ref>{{cite web |last=Stone |first=Sasha |author-link=Sasha Stone (blogger) |title=The Aeronauts – A Flight of Fancy With a Great Performance by Felicity Jones |url=https://www.awardsdaily.com/2019/09/01/the-aeronauts-a-flight-of-fancy-with-a-little-bit-of-substance/ |work=Awards Daily |date=2 September 2019 |access-date=23 October 2019 |archive-date=23 October 2019 |archive-url=https://web.archive.org/web/20191023155735/https://www.awardsdaily.com/2019/09/01/the-aeronauts-a-flight-of-fancy-with-a-little-bit-of-substance/ |url-status=live }}</ref>
+
+In addition to Coxwell, real-life individuals who compose Amelia's character include:
+* [[Sophie Blanchard]], the first woman to work as a professional balloonist, who became a celebrated aeronaut following her husband's death. Felicity Jones has stated that Blanchard was the inspiration for her character.<ref>{{cite magazine|url=https://parade.com/724853/walterscott/felicity-jones-on-meeting-ruth-bader-ginsburg-why-she-joined-star-wars/|title=Felicity Jones on Meeting Ruth Bader Ginsburg & Why She Joined Star Wars|magazine=[[Parade (magazine)|Parade]]|publisher=[[AMG/Parade]]|last=Scott|first=Walter|date=December 21, 2018|access-date=August 27, 2019|archive-date=14 August 2019|archive-url=https://web.archive.org/web/20190814124717/https://parade.com/724853/walterscott/felicity-jones-on-meeting-ruth-bader-ginsburg-why-she-joined-star-wars/|url-status=live}}</ref>
+* [[Margaret Graham (balloonist)|Margaret Graham]], a British aeronaut and entertainer.
+
+Amelia's relationship with husband Pierre is chiefly based on Sophie Blanchard's flights with husband [[Jean-Pierre Blanchard]], while Pierre's death is inspired by that of [[Thomas Harris (aviator)|Thomas Harris]] on 25 May 1824.<ref>{{Cite news|url=https://www.wsj.com/articles/book-review-8216falling-upwards8217-by-richard-holmes-1382728963|title=Book Review: 'Falling Upwards' by Richard Holmes|last=Winchester|first=Simon|date=October 25, 2013|work=[[The Wall Street Journal]]|access-date=May 28, 2019|issn=0099-9660|archive-date=28 May 2019|archive-url=https://web.archive.org/web/20190528173336/https://www.wsj.com/articles/book-review-8216falling-upwards8217-by-richard-holmes-1382728963|url-status=live}}{{Subscription required}}</ref>
+
+The Latin motto inscribed on the side of the balloon ''Caelum certe patet, ibimus illi'' ("Surely the sky lies open to us, let us go that way") was used on a real balloon, albeit on a much earlier flight than the one depicted in the film. <ref>https://spectator.com/article/falling-upwards-how-we-took-to-the-air-by-richard-holmes-review/</ref> Its use is somewhat ironic, as the source of the quote, Book VIII of Ovid's ''Metamorphoses'', relates the story of Icarus, who plunged to his death after flying too near the sun.<ref>https://www.poetryintranslation.com/PITBR/Latin/Metamorph8.php</ref>
+
+==Release==
+The film had its world premiere at the [[Telluride Film Festival]] on 30 August 2019.<ref>{{cite magazine |url=https://deadline.com/2019/08/telluride-film-festival-2019-lineup-ford-vs-ferrari-judy-full-list-of-movies-1202706577/ |title=Telluride Film Festival: 'Ford V Ferrari', 'Judy', 'Motherless Brooklyn', Weinstein-Inspired Drama 'The Assistant' Among Premieres Headed To 46th Edition – Full List |magazine=Deadline Hollywood |publisher=Penske Media Corporation |first=Pete |last=Hammond |date=August 29, 2019 |access-date=August 29, 2019 |archive-date=29 August 2019 |archive-url=https://web.archive.org/web/20190829155107/https://deadline.com/2019/08/telluride-film-festival-2019-lineup-ford-vs-ferrari-judy-full-list-of-movies-1202706577/ |url-status=live }}</ref> It also screened at the [[2019 Toronto International Film Festival]] on 8 September 2019.<ref>{{cite magazine |url=https://deadline.com/2019/08/toronto-film-festival-the-aeronauts-mosul-seberg-kristen-stewart-ore-to-festival-slate-1202667020/ |title=Toronto Adds 'The Aeronauts,' 'Mosul,' 'Seberg,' & More To Festival Slate |last=Fleming |first=Mike Jr. |magazine=Deadline Hollywood |publisher=Penske Media Corporation |access-date=August 13, 2019 |date=August 13, 2019 |archive-date=13 August 2019 |archive-url=https://web.archive.org/web/20190813142304/https://deadline.com/2019/08/toronto-film-festival-the-aeronauts-mosul-seberg-kristen-stewart-ore-to-festival-slate-1202667020/ |url-status=live }}</ref> [[Entertainment One UK|Entertainment One]] gave the film a full theatrical release in the United Kingdom on 4 November,&nbsp;including screenings in [[4DX]] and IMAX.<ref>{{cite news |last=Grater |first=Tom |title='The Aeronauts' to get full UK theatrical window despite Amazon strategy shift (exclusive) |url=https://www.screendaily.com/news/the-aeronauts-to-get-full-uk-theatrical-window-despite-amazon-strategy-shift-exclusive/5142572.article |work=[[Screen International|ScreenDaily]] |access-date=23 October 2019 |archive-date=27 January 2023 |archive-url=https://web.archive.org/web/20230127150809/https://www.screendaily.com/news/the-aeronauts-to-get-full-uk-theatrical-window-despite-amazon-strategy-shift-exclusive/5142572.article |url-status=live }}</ref> Amazon Studios released the film in the United States on 6 December&nbsp;for a limited theatrical run, before debuting it on [[Amazon Prime Video]] outside of the United Kingdom on 20 December 2019.<ref>{{cite web |url=https://deadline.com/2019/07/amazon-aeronauts-eddie-redmayne-felicity-jones-release-date-1202651250/ |title=Amazon Shifts Release Date & Cuts Theatrical Window For Potential Awards Pic 'The Aeronauts' With Eddie Redmayne & Felicity Jones |work=Deadline Hollywood |publisher=Penske Media Corporation |first=Andreas |last=Wiseman |date=July 23, 2019 |access-date=July 23, 2019 |archive-date=9 January 2021 |archive-url=https://web.archive.org/web/20210109080518/https://deadline.com/2019/07/amazon-aeronauts-eddie-redmayne-felicity-jones-release-date-1202651250/ |url-status=live }}</ref> The film was released in China, on November 13, 2020.<ref>{{cite web |url=https://variety.com/2020/film/news/invisible-man-call-of-the-wild-aeronauts-china-release-date-1234827703/ |title='The Invisible Man', 'Call of the Wild', 'The Aeronauts' to Hit Chinese Cinemas, Bringing New Chance at Box Office Returns |last=Davis |first=Rebecca |website=Variety |date=10 November 2020 |access-date=11 November 2020 |archive-date=11 November 2020 |archive-url=https://web.archive.org/web/20201111021512/https://variety.com/2020/film/news/invisible-man-call-of-the-wild-aeronauts-china-release-date-1234827703/ |url-status=live }}</ref>
+
+In October 2019, it was announced that ''The Aeronauts'' would screen at the IMAX [[TCL Chinese Theatre]] as part of [[American Film Institute|AFI Fest]].<ref>{{cite web |last1=Hipes |first1=Patrick |title=AFI Fest Rounds Out Gala Slate With 'The Aeronauts', 'The Two Popes'; Alan J. Pakula Getting Tribute |url=https://deadline.com/2019/10/afi-fest-2019-gala-the-aeronauts-the-two-popes-alan-j-pakula-special-screenings-1202765149/ |website=Deadline Hollywood |publisher=Penske Media Corporation |access-date=October 23, 2019 |date=21 October 2019 |archive-date=23 October 2019 |archive-url=https://web.archive.org/web/20191023155738/https://deadline.com/2019/10/afi-fest-2019-gala-the-aeronauts-the-two-popes-alan-j-pakula-special-screenings-1202765149/ |url-status=live }}</ref>
+
+Additionally, the film earned a spot at the 2019 Whistler Film Festival, in Whistler, BC Canada, December 2019.<ref>{{cite web |url=https://www.awardsdaily.com/2019/11/06/canadas-whistler-film-festival-announces-19th-annual-lineup/ |title=Canada's Whistler Film Festival Announces 19th Annual Lineup |website=Awards Daily |first=Clarence |last=Moye |date=November 6, 2019 |access-date=June 24, 2025}}</ref>
+
+=== Streaming ===
+Although Amazon does not release exact streaming figures, Jennifer Salke, head of Amazon Studios, said in an interview with ''Deadline Hollywood'' that, as of January 2020, ''The Aeronauts'' was the most viewed movie of all time on Amazon Prime.<ref>{{Cite web |url=https://deadline.com/2020/01/amazon-studios-jennifer-salke-sundance-film-festival-plans-1202839716/ |title=Last Sundance's Top Buyer Amazon Is All In At Park City: Jennifer Salke Q&A |last=Fleming |first=Mike Jr. |website=[[Deadline Hollywood]] |publisher=[[Penske Media Corporation]] |date=23 January 2020 |access-date=24 January 2020 |archive-date=24 January 2020 |archive-url=https://web.archive.org/web/20200124020658/https://deadline.com/2020/01/amazon-studios-jennifer-salke-sundance-film-festival-plans-1202839716/ |url-status=live }}</ref>
+
+== Reception ==
+=== Box office ===
+''The Aeronauts'' has grossed an estimated $340,000 in North America and $6.6 million in other territories, for a worldwide total of $7 million,<ref name="BOM" /><ref name="NUM">{{Cite web |url= https://www.the-numbers.com/movie/Aeronauts-The-(UK)-(2019)#tab=summary |title= The Aeronauts (2019) |website= [[The Numbers (website)|The Numbers]] |access-date= November 16, 2023 |archive-date= 5 December 2019 |archive-url= https://web.archive.org/web/20191205071014/https://www.the-numbers.com/movie/Aeronauts-The-(UK)-(2019)#tab=summary |url-status= live }}</ref><ref name="IndieWireBO" /> against a production budget of $40 million.<ref name="budget" />
+
+As with its other release ''[[The Report (2019 film)|The Report]]'', Amazon did not publicly release box office results for the film. Of the 186 locations that did screen it in its opening weekend (6 December 2019) 48 reported a combined gross of around $30,000.<ref>{{cite web |last=D'Alessandro |first=Anthony |title='Frozen 2' Leads Dreary December Weekend With $34M+, 'Playmobil' Plunges To $670K – Sunday Update |url=https://deadline.com/2019/12/frozen-2-already-past-300m-leading-dreary-december-weekend-with-40m-playmobil-coming-apart-1202802388/ |website=[[Deadline Hollywood]] |publisher=Penske Media Corporation |access-date=December 8, 2019 |date=December 8, 2019 |archive-date=7 December 2019 |archive-url=https://web.archive.org/web/20191207140806/https://deadline.com/2019/12/frozen-2-already-past-300m-leading-dreary-december-weekend-with-40m-playmobil-coming-apart-1202802388/ |url-status=live }}</ref> ''[[IndieWire]]'' estimated the film made a total of $185,000 in its opening weekend, an average of $1,000 per-venue.<ref>{{cite web |last=Brueggemann |first=Tom |url=https://www.indiewire.com/2019/12/box-office-portrait-of-a-lady-on-fire-the-amazon-aeronauts-1202195343/ |title=Neon's 'Portrait of a Lady on Fire' Grabs Arthouse Crowd, Amazon's 'The Aeronauts' Deflates |website=IndieWire |publisher=Penske Media Corporation |date=December 8, 2019 |access-date=December 8, 2019 |archive-date=8 December 2019 |archive-url=https://web.archive.org/web/20191208200822/https://www.indiewire.com/2019/12/box-office-portrait-of-a-lady-on-fire-the-amazon-aeronauts-1202195343/ |url-status=live }}</ref> It then made an estimated $100,000 from 85 theatres in its second weekend,<ref name="IndieWireBO">{{cite web |last=Brueggemann |first=Tom |url=https://www.indiewire.com/2019/12/box-office-oscar-contenders-uncut-gems-bombshell-malick-a-hidden-life-1202197382/ |title='Uncut Gems' and 'Bombshell' Soar, Malick's 'A Hidden Life' Drags |website=[[IndieWire]] |publisher=Penske Media Corporation |date=December 15, 2019 |access-date=December 15, 2019 |archive-date=15 December 2019 |archive-url=https://web.archive.org/web/20191215210213/https://www.indiewire.com/2019/12/box-office-oscar-contenders-uncut-gems-bombshell-malick-a-hidden-life-1202197382/ |url-status=live }}</ref> before its 20 December streaming debut on Amazon Prime.
+
+=== Critical response ===
+On [[Rotten Tomatoes]], the film has an approval rating of {{RT data|score}} based on {{RT data|count}} reviews, with an average rating of {{RT data|average}}. The website's critics consensus states, "Thrilling visuals and the substantial chemistry of its well-matched leads make ''The Aeronauts'' an adventure well worth taking."<ref>{{cite web|url=https://www.rottentomatoes.com/m/the_aeronauts|title=The Aeronauts (2019)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date={{RT data|access date|df=dmy}}|archive-date=25 November 2020|archive-url=https://web.archive.org/web/20201125085928/https://www.rottentomatoes.com/m/the_aeronauts|url-status=live}}</ref> On [[Metacritic]], the film has a weighted average score of 60 out of 100, based on reviews from 37 critics, indicating "mixed or average reviews".<ref>{{cite web |title= The Aeronauts Reviews |url= https://www.metacritic.com/movie/the-aeronauts |website= [[Metacritic]] |publisher= [[CBS Interactive]] |access-date= 19 April 2020 |archive-date= 3 December 2020 |archive-url= https://web.archive.org/web/20201203210023/https://www.metacritic.com/movie/the-aeronauts |url-status= live }}</ref>
+
+Todd McCarthy of ''[[The Hollywood Reporter]]'' wrote: "''The Aeronauts'' achieves impressive elevation as a bracing and sympathetic account of two early and very different aviators who together reached literal new heights in a perilous field of endeavor."<ref>{{cite magazine |date= 1 September 2019 |first= Todd |last= McCarthy |author-link= Todd McCarthy |title= 'The Aeronauts': Film Review {{!}} Telluride 2019 |url= https://www.hollywoodreporter.com/review/aeronauts-review-1236003 |magazine= The Hollywood Reporter |publisher= Valence Media |access-date= 23 September 2019 |archive-date= 24 September 2019 |archive-url= https://web.archive.org/web/20190924105950/https://www.hollywoodreporter.com/review/aeronauts-review-1236003 |url-status= live }}</ref> Fionnuala Halligan of ''[[Screen International]]'' wrote about the chemistry of the lead actors and the great craft on display in the film: "With the widest of wide-screens, the most vertiginous of vistas, this hot air balloon takes to the skies and soars."<ref>{{Cite magazine |url=https://www.screendaily.com/reviews/the-aeronauts-review/5142716.article |title='The Aeronauts': Review |last=Halligan |first=Fionnuala |magazine=[[Screen International|Screen Daily]] |publisher=Media Business Insight |access-date=24 October 2019 |archive-date=24 October 2019 |archive-url=https://web.archive.org/web/20191024114954/https://www.screendaily.com/reviews/the-aeronauts-review/5142716.article |url-status=live }}</ref> Tomris Laffly of ''[[Variety (magazine)|Variety]]'' praised the visuals and the lead performers: "The duo [of Redmayne and Jones] hand-in-hand elevates ''The Aeronauts''...from a flimsy action-adventure to something worth watching on the biggest possible screen, even if it operates on a handful of clichés with little character-based substance to speak of."<ref>{{cite magazine |date= 4 September 2019 |last= Laffly |first= Tomris |title= Telluride Film Review: 'The Aeronauts' |url= https://variety.com/2019/film/reviews/the-aeronauts-review-1203323219/ |magazine= [[Variety (magazine)|Variety]] |publisher= [[Penske Media Corporation]] |access-date= 23 September 2019 |archive-date= 14 September 2019 |archive-url= https://web.archive.org/web/20190914160343/https://variety.com/2019/film/reviews/the-aeronauts-review-1203323219/ |url-status= live }}</ref>
+
+Many critics also applauded the film's special effects and visuals. [[Peter Bradshaw]] of ''[[The Guardian]]'' noted the film's "terrific special effects" and "high-anxiety suspense".<ref>{{cite news |date= 10 September 2019 |access-date= 10 September 2019 |last= Bradshaw |first= Peter |title= The Aeronauts review – charming balloon adventure way up where the air is clear |url= https://www.theguardian.com/film/2019/sep/10/the-aeronauts-review-charming-balloon-adventure-way-up-where-the-air-is-clear |newspaper= [[The Guardian]] |location= UK |archive-date= 10 September 2019 |archive-url= https://web.archive.org/web/20190910235447/https://www.theguardian.com/film/2019/sep/10/the-aeronauts-review-charming-balloon-adventure-way-up-where-the-air-is-clear |url-status= live }}</ref> Eric Kohn of ''IndieWire'' wrote: "When so many supersized blockbusters take the potential of CGI action for granted, ''The Aeronauts'' finds a fresh use for it by turning the exhilaration of discovery into a real visual treat."<ref>{{cite web |date= 1 September 2019 |last= Kohn |first= Eric |title= 'The Aeronauts' Review: 'Gravity' Meets 'Free Solo' in Gripping Hot-Air Balloon Adventure |url= https://www.indiewire.com/2019/09/the-aeronauts-review-eddie-redmayne-felicity-jones-1202170417/ |work= [[IndieWire]] |publisher= [[Penske Media Corporation]] |access-date= 1 September 2019 |archive-date= 2 September 2019 |archive-url= https://web.archive.org/web/20190902025039/https://www.indiewire.com/2019/09/the-aeronauts-review-eddie-redmayne-felicity-jones-1202170417/ |url-status= live }}</ref> In a generally positive review, critic [[Bob Mondello]] showed special enthusiasm for the airborne scenes, writing: "I cannot say strongly enough that if you can see it in IMAX, you should see it in IMAX, where if you're even a little bit afraid of heights, it will likely scare you shoutless."<ref>{{Cite web |url=https://www.npr.org/2019/12/05/785253987/movie-review-the-aeronauts |title=Movie Review: 'The Aeronauts' |last=Mondello |first=Bob |author-link=Bob Mondello |date=5 December 2019 |website=[[NPR.org]] |access-date=6 December 2019 |archive-date=6 December 2019 |archive-url=https://web.archive.org/web/20191206145119/https://www.npr.org/2019/12/05/785253987/movie-review-the-aeronauts |url-status=live }}</ref>
+
+===Accolades===
+{{Table section needs prose|date=October 2020}}
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col"| Award
+! scope="col"| Category
+! scope="col"| Recipients
+! scope="col"| Result
+! scope="col" class="unsortable"| {{Abbr|Ref.|References}}
+|-
+| scope="row"| [[25th Critics' Choice Awards]]
+| [[Critics' Choice Movie Award for Best Visual Effects|Best Visual Effects]]
+| ''The Aeronauts''
+| {{nom}}
+| style="text-align:center;"| <ref name="Visual">{{cite web |url=https://deadline.com/2019/12/critics-choice-nominations-film-tv-nominees-list-1202803785/ |title='The Irishman', 'Once Upon A Time In Hollywood' Lead Critics' Choice Nominations; Netflix Dominates With 61 Noms In Movies And TV |last=Hammond |first=Pete |date=December 8, 2019 |work=Deadline Hollywood |publisher=Penske Media Corporation |access-date=December 8, 2019 |archive-date=4 September 2019 |archive-url=https://web.archive.org/web/20190904180520/https://deadline.com/2019/12/critics-choice-nominations-film-tv-nominees-list-1202803785/ |url-status=live }}</ref>
+|-
+| scope="row"| [[Houston Film Critics Society Awards 2019]]
+|Best Original Song
+|"Home to You" – ''The Aeronauts''
+| {{nom}}
+| style="text-align:center;"| <ref>{{cite web |url=https://houstonfilmcritics.com/hfcs-gives-parasite-top-award-at-13th-annual-awards-show/ |title=HFCS Gives 'Parasite' Top Award at 13th Annual Awards Show |date=January 3, 2020 |access-date=October 2, 2020 |work=[[Houston Film Critics Society|Houston Film Critics]] |archive-date=3 January 2020 |archive-url=https://web.archive.org/web/20200103161755/https://houstonfilmcritics.com/hfcs-gives-parasite-top-award-at-13th-annual-awards-show/ |url-status=live }}</ref>
+|-
+| scope="row"| 9th Music + Sound Awards
+|Best Sound Design in a Feature Film
+|Lee Walpole, Andy Kennedy, Saoirse Christopherson, Jeff Richardson, Philip Clements, Sarah Elias, Catherine Thomas, Anna Wright, Gibran Farrah, Stuart Hilliker
+| {{nom}}
+|
+|-
+| scope="row"| [[San Diego Film Critics Society Awards 2019|24th San Diego Film Critics Society Awards]]
+|Best Visual Effects
+| ''The Aeronauts''
+| {{nom}}
+| style="text-align:center;"| <ref>{{Cite web|url=http://www.sdfcs.org/2019-nominations/|title=2019 San Diego Film Critics Society's Award Nominations|date=2019-12-09|website=San Diego Film Critics Society|language=en-US|access-date=2020-09-21|archive-date=6 December 2019|archive-url=https://web.archive.org/web/20191206193204/http://www.sdfcs.org/2019-nominations/|url-status=live}}</ref><ref>{{Cite web|url=http://www.sdfcs.org/2019-awards/|title=2019 San Diego Film Critics Society's Awards|date=2019-12-09|website=San Diego Film Critics Society|language=en-US|access-date=2020-09-21|archive-date=9 December 2019|archive-url=https://web.archive.org/web/20191209195953/http://www.sdfcs.org/2019-awards/|url-status=live}}</ref>
+|-
+| scope="row"| [[18th Visual Effects Society Awards]]
+| [[Visual Effects Society Award for Outstanding Supporting Visual Effects in a Feature Motion Picture|Outstanding Supporting Visual Effects in a Photoreal Feature]]
+| Louis Morin, Annie Godin, Christian Kaestner, Ara Khanikian, Mike Dawson
+| {{nom}}
+| style="text-align:center;"| <ref>{{cite web |url=https://deadline.com/2020/01/ves-awards-nominations-2020-list-the-lion-king-the-mandalorian-game-of-thrones-1202823016/ |title=VES Awards Nominations: 'The Lion King', 'Alita: Battle Angel', 'The Mandalorian' & 'GoT' Top List |work=Deadline Hollywood |publisher=Penske Media Corporation |first=Patrick |last=Hipes |date=January 7, 2020 |access-date=January 7, 2020 |archive-date=16 February 2020 |archive-url=https://web.archive.org/web/20200216161837/https://deadline.com/2020/01/ves-awards-nominations-2020-list-the-lion-king-the-mandalorian-game-of-thrones-1202823016/ |url-status=live }}</ref>
+|-
+| scope="row"| [[Women Film Critics Circle|16th Women Film Critics Circle Awards]]
+|Best Equality of the Sexes
+|''The Aeronauts''
+| {{nom}}
+| style="text-align:center;"| <ref>{{cite web |url=http://www.cinemablend.com/new/Women-Film-Critics-Circle-Honors-Changeling-11246.html |title=Women Film Critics Circle Honors Changeling |date=14 December 2008 |access-date=10 October 2020 |archive-date=19 July 2021 |archive-url=https://web.archive.org/web/20210719171855/https://www.cinemablend.com/new/Women-Film-Critics-Circle-Honors-Changeling-11246.html |url-status=live }}</ref>
+|-
+| scope="row"| [[Taurus World Stunt Awards|19th World Stunt Awards]]
+|Best Work with a Vehicle
+|Stunt Team of ''The Aeronauts''
+|{{nom}}
+| style="text-align:center;"| <ref>{{cite web |title=2020 Nominees |url=https://www.taurusworldstuntawards.com/awards/2020-nominees/ |website=[[Taurus World Stunt Awards]] |access-date=21 September 2020 |archive-date=8 April 2020 |archive-url=https://web.archive.org/web/20200408041824/https://www.taurusworldstuntawards.com/awards/2020-nominees/ |url-status=dead }}</ref>
+|-
+|}
+
+== Notes ==
+{{Reflist|group=N}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Portal|Film}}
+* {{Official website}}
+* {{IMDb title}}
+
+{{Tom Harper}}
+{{Jack Thorne}}
+{{Authority control}}
+
+{{DEFAULTSORT:Aeronauts, The (film)}}
+[[Category:2019 American films]]
+[[Category:2019 British films]]
+[[Category:2019 English-language films]]
+[[Category:2019 adventure films]]
+[[Category:2019 action drama films]]
+[[Category:2019 biographical drama films]]
+[[Category:Action films based on actual events]]
+[[Category:Adventure films based on actual events]]
+[[Category:Amazon MGM Studios films]]
+[[Category:Amazon Prime Video original films]]
+[[Category:American 4DX films]]
+[[Category:American action adventure films]]
+[[Category:American action drama films]]
+[[Category:American adventure drama films]]
+[[Category:American aviation films]]
+[[Category:American biographical drama films]]
+[[Category:American IMAX films]]
+[[Category:American nonlinear narrative films]]
+[[Category:Biographical films about scientists]]
+[[Category:British 4DX films]]
+[[Category:British action films]]
+[[Category:British adventure films]]
+[[Category:British aviation films]]
+[[Category:British biographical drama films]]
+[[Category:British IMAX films]]
+[[Category:British nonlinear narrative films]]
+[[Category:English-language action adventure films]]
+[[Category:English-language action drama films]]
+[[Category:English-language biographical drama films]]
+[[Category:FilmNation Entertainment films]]
+[[Category:Films based on non-fiction books]]
+[[Category:Films directed by Tom Harper]]
+[[Category:Films produced by David Hoberman]]
+[[Category:Films produced by Todd Lieberman]]
+[[Category:Films scored by Steven Price]]
+[[Category:Films set in 1859]]
+[[Category:Films set in 1860]]
+[[Category:Films set in 1861]]
+[[Category:Films set in 1862]]
+[[Category:Films set in London]]
+[[Category:Films set on balloons]]
+[[Category:Films with screenplays by Jack Thorne]]
+[[Category:Lionsgate Canada films]]
+[[Category:Mandeville Films films]]
+[[Category:2019 films]]

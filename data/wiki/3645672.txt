@@ -1,0 +1,67 @@
+{{Infobox film
+| name           = The Fiancés
+| image          = I fidanzati poster.jpg 
+| caption        = Italian film poster
+| director       = [[Ermanno Olmi]]
+| producer       = [[Goffredo Lombardo]]
+| writer         = Ermanno Olmi
+| starring       = {{ubl|Carlo Cabrini|{{ill|Anna Canzi|it}}}}
+| music          = [[Gianni Ferrio]]
+| cinematography = [[Lamberto Caimi]]
+| editing        = Carla Colombo
+| studio         = {{ubl|[[Titanus]]|Sicilia S.P.A.|22 Dicembre Cin.ca}}<ref name="Cinematografo">{{cite web|url=https://www.cinematografo.it/film/i-fidanzati-bcwvix1m |title=I fidanzati |website=Cinematografo |language=it |access-date=23 February 2024}}</ref>
+| distributor    = Titanus
+| released       = {{Film date|df=y|1963|||Italy|ref1=|1963|09||[[New York City|New York]]|ref2=<ref name="MoMa">{{cite web|url=https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/3178/releases/MOMA_1963_0090.pdf |title=The New York Film Festival |website=Museum of Modern Art |date=July 1963 |access-date=23 February 2024}}</ref>}}
+| runtime        = 77 min
+| country        = Italy
+| language       = [[Italian language|Italian]]
+}}
+'''''The Fiancés''''' ({{langx|it|I fidanzati}}) is a 1963 Italian [[Drama (film and television)|drama film]] written and directed by [[Ermanno Olmi]].<ref name="Cinematografo" /> It tells the story of a young [[Milan|Milanese]] worker who moves to [[Sicily]] for a job, leaving behind his long-time fiancée. The film was shown in competition at the [[1963 Cannes Film Festival]].<ref name="Cannes">{{cite web |url=https://www.festival-cannes.com/en/f/i-fidanzati/ |title=I fidanzati |website=Festival de Cannes |access-date=23 February 2024}}</ref>
+
+==Plot==
+Giovanni, a factory welder in [[Milan]], has been offered a job by his superiors in [[Sicily]] with the prospect of a promotion. He accepts the offer and flies off to Sicily for eight months, while leaving behind his longtime fiancée Liliana (who resents his relocation). Giovanni also leaves behind his elderly father, who lives in an adjacent quarter. As he stays in a hotel, during the night, Giovanni walks about the area in loneliness while constantly thinking about Liliana. As he watches television in the lounge, he is told to report to the factory plant tomorrow morning. 
+
+The next morning, Giovanni takes a bus to the factory plant. When he arrives, he is handed his employee identification card. After a day's work, Giovanni wanders aimlessly about several locations. After a while, he exchanges candid and emotional letters with Liliana. She is still upset over Giovanni's relocation, but as their exchange continues, Liliana expresses that their physical distance has re-awakened the love in their habitual relationship.
+
+On a Sunday, Giovanni phones Liliana before he heads back to work. He wants her to write back, and promises to call her next week. As it rains, Giovanni waits for the bus.
+
+==Cast==
+* Carlo Cabrini as Giovanni
+* {{ill|Anna Canzi|it}} as Liliana
+
+==Release==
+''The Fiancés'' was screened in May 1963 at the Cannes Film Festival<ref name="MoMa" /><ref name="Cannes" /> and in September the same year at the first [[New York Film Festival]].<ref name="MoMa" /><ref name="NYT">{{cite news|url=https://www.nytimes.com/1964/01/29/archives/screen-suggesting-feeling-and-moodolmis-the-fiances-opens-at-cinema.html |title=Screen: Suggesting Feeling and Mood:Olmi's 'The Fiances' Opens at Cinema II First Day's Admission at Theater Is Free |last=Crowther |first=Bosley |date=29 January 1964 |access-date=23 February 2024 |newspaper=The New York Times}}</ref>
+
+==Reception==
+In his May 1963 review for ''[[Il Giorno (newspaper)|Il Giorno]]'', Piero Bianchi titled ''The Fiancés'' "a subtle elegy, a work in a minor but accurate and profound tone", also commending Olmi's choice of the main actors.<ref name="Cinematografo" />
+
+Upon the film's regular cinema opening in [[New York City|New York]] in January 1964, [[Bosley Crowther]] of [[The New York Times]] certified Olmi "a remarkable ability to make images speak" and ''The Fiancés'' a "profound agitation of mood", but also pointed out a lack of "large-scale social comment and implications of irony" which he had found in the director's earlier ''[[Il Posto|The Sound of Trumpets]]''.<ref name="NYT" />
+
+On [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 100% based on 5 reviews.<ref>{{cite web|url=https://www.rottentomatoes.com/m/i_fidanzati|title=The Fiances|website=[[Rotten Tomatoes]]|access-date=10 July 2026}}</ref>
+
+==Legacy==
+''The Fiancés'' was screened as part of retrospectives at the [[Berlin International Film Festival]] in 2002,<ref>{{cite web |url=https://www.berlinale.de/en/2002/programme/20023065.html |title=I fidanzati |website=Berlinale.de |access-date=25 February 2024}}</ref> at the [[Harvard Film Archive]] in 2015,<ref>{{cite web |url=https://harvardfilmarchive.org/calendar/the-fiances-2015-06 |title=The Fiancés |website=Harvard Film Archive |date=6 June 2015 |access-date=25 February 2024}}</ref> and repeatedly at the [[Cinémathèque française]].<ref>{{cite web |url=https://www.cinematheque.fr/film/43584.html |title=Les Fiancés |website=Cinémathèque française |access-date=25 February 2024 |language=fr}}</ref>
+
+==Awards==
+* 1963 [[SIGNIS|OCIC]] Award at the Cannes Film Festival<ref name="MoMa" />
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|id=0055981|title=I fidanzati}}
+* {{tcmdb title|id=74770}}
+* [https://www.criterion.com/current/posts/290-i-fidanzati-rhapsody-in-the-rain ''I fidanzati: Rhapsody in the Rain''], an essay by [[Kent Jones (critic)|Kent Jones]] at [[The Criterion Collection]]
+* [https://www.sensesofcinema.com/2019/cteq/i-fidanzati-ermanno-olmi-1963/ ''The Melancholy Dance of the (Un)Masked Soul: I fidanzati''], an essay at [[Senses of Cinema]]
+
+{{Ermanno Olmi}}
+
+{{DEFAULTSORT:Fiances, The}}
+[[Category:1963 films]]
+[[Category:Italian black-and-white films]]
+[[Category:1963 Italian-language films]]
+[[Category:1963 drama films]]
+[[Category:Films directed by Ermanno Olmi]]
+[[Category:Films set in Sicily]]
+[[Category:Films shot in Sicily]]
+[[Category:1963 Italian films]]

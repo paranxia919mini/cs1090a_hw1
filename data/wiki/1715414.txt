@@ -1,0 +1,455 @@
+{{short description|1967 film by Norman Jewison}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=November 2014}}
+{{Infobox film
+| name           = In the Heat of the Night
+| image          = In the Heat of the Night (film).jpg
+| alt            = A crouched man in a suit examining a body, and two policemen standing over him
+| caption        = Theatrical release poster
+| producer       = [[Walter Mirisch]]
+| director       = [[Norman Jewison]]
+| screenplay     = [[Stirling Silliphant]]
+| based_on       = {{based on|''[[In the Heat of the Night (novel)|In the Heat of the Night]]''|[[John Ball (novelist)|John Ball]]}}
+| starring       = {{Plainlist|
+* [[Sidney Poitier]]
+* [[Rod Steiger]]
+* [[Warren Oates]]
+* [[Lee Grant]]
+}}
+| music          = [[Quincy Jones]]
+| cinematography = [[Haskell Wexler]], [[A.S.C.]]
+| editing        = [[Hal Ashby]]
+| studio         = [[The Mirisch Corporation]]
+| distributor    = [[United Artists]]
+| released       = {{Film date|1967|08|02}}
+| runtime        = 110 minutes<!-- Theatrical runtime: 109:34 --><ref>{{Cite web | url=https://bbfc.co.uk/releases/heat-night-1970-0 | title=''IN THE HEAT OF THE NIGHT'' (A) | work=[[British Board of Film Classification]] | date=July 17, 1967 | access-date=November 13, 2014 | archive-date=November 28, 2014 | archive-url=https://web.archive.org/web/20141128124405/http://bbfc.co.uk/releases/heat-night-1970-0 | url-status=dead }}</ref>
+| country        = United States
+| language       = English
+| budget         = $2&nbsp;million<ref name="tino">{{cite book |last=Balio |first=Tino |title=United Artists: The Company that Changed the Film Industry |publisher=University of Wisconsin Press |year=1987 |page=187 |isbn=978-0-299-11440-4}}</ref> 
+| gross          = $24.4&nbsp;million<ref>{{Cite web |url=https://www.the-numbers.com/movies/1967/0ITHN.php |publisher=The Numbers |title=In the Heat of the Night, Box Office Information |access-date=March 8, 2012 |archive-date=December 10, 2007 |archive-url=https://web.archive.org/web/20071210203559/https://www.the-numbers.com/movies/1967/0ITHN.php |url-status=live }}</ref>
+}}
+
+'''''In the Heat of the Night''''' is a 1967 American [[Southern Gothic]]<ref name="paterson">{{cite web |last1=Paterson |first1=Jeremy |title=15 Best Southern Gothic Movies: Examine The Culture & History of the American South |url=https://www.theuncorkedlibrarian.com/southern-gothic-movies/ |website=The Uncorked Librarian |access-date=February 6, 2026}}</ref> [[Mystery film|mystery]]-[[drama film]] directed by [[Norman Jewison]], produced by [[Walter Mirisch]], and starring [[Sidney Poitier]] and [[Rod Steiger]]. It tells the story of Virgil Tibbs (Poitier), a black police [[detective]] from [[Philadelphia]], who becomes embroiled in a murder investigation in a small town in [[Mississippi]]. The film was adapted by [[Stirling Silliphant]] from [[John Ball (novelist)|John Ball]]'s [[In the Heat of the Night (novel)|1965 novel]] of the same name.
+
+Released by [[United Artists]] in August 1967, the film was a widespread critical and commercial success. At the [[40th Academy Awards]], the film was nominated for seven Oscars, winning five, including [[Academy Award for Best Picture|Best Picture]], [[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]], and [[Academy Award for Best Actor|Best Actor]] for Rod Steiger. [[Quincy Jones]]' score, featuring [[In the Heat of the Night (Ray Charles song)|a title song]] performed by [[Ray Charles]], was nominated for a [[Grammy Award for Best Score Soundtrack for Visual Media|Grammy Award]]. The success of the film spawned two film sequels featuring Poitier, and a [[In the Heat of the Night (TV series)|television series of the same name]], which aired from 1988 to 1995.
+
+''In the Heat of the Night'' is widely considered one of the most important American films of the 1960s. The quote "They call me ''Mister'' Tibbs!" was listed as number 16 on the [[American Film Institute]]'s ''[[100 Years...100 Movie Quotes]]'', a list of top film quotes. The film also appears on AFI's ''[[100 Years...100 Movies]]'', a list of the [[100 greatest movies]] in [[American cinema]].<ref name=":0">{{Cite web |title=In the Heat of the Night (1967) |url=https://catalog.afi.com/Catalog/moviedetails/23257 |access-date=2024-01-23 |website=[[AFI Catalog of Feature Films]]}}</ref> In 2002, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref name="preserve">{{Cite press release|title=Librarian of Congress Adds 25 Films to National Film Registry|url=https://www.loc.gov/item/prn-02-176/librarian-of-congress-adds-25-films-to-national-film-registry/2002-12-17/|agency=Library of Congress|date=December 17, 2002|access-date=May 1, 2020|archive-date=February 5, 2017|archive-url=https://web.archive.org/web/20170205102818/https://www.loc.gov/item/prn-02-176/librarian-of-congress-adds-25-films-to-national-film-registry/2002-12-17/|url-status=live}}</ref>
+
+==Plot==
+<!--As per WP:MOS-FILMS, the plot summary should not exceed 700 words-->
+In September 1966, wealthy industrialist Phillip Colbert and his wife are in [[Sparta, Mississippi]], to oversee the building of a factory. Late one night, police officer Sam Wood discovers Colbert's corpse in the street. Wood finds [[Virgil Tibbs]], a black man with a fat wallet, at the train station and arrests him. Police Chief Bill Gillespie accuses him of murder and robbery, but learns Tibbs is a homicide detective from [[Philadelphia]], who was passing through town after visiting his mother. Tibbs wants to leave town on the next train, but his Chief in Philadelphia requests Tibbs stay in Sparta to help Gillespie with the murder investigation. Though Gillespie, like many of Sparta's white residents, is racist, he and Tibbs reluctantly agree to work together.
+
+A doctor estimates that Colbert had been dead for less than an hour when his body was found. Tibbs examines the body and concludes that the murder happened much earlier, the killer was right-handed, and the victim had been killed elsewhere and moved to where Wood found his body.
+
+Gillespie arrests another suspect, Harvey Oberst, who protests his innocence. Tibbs, after being jailed for withholding his findings after examining the body, reveals that Oberst is left-handed and has witnesses to confirm his [[alibi]]. Frustrated by the ineptitude of the police but impressed by Tibbs, Colbert's widow threatens to halt construction of the factory unless Tibbs leads the investigation.
+
+Tibbs initially suspects the murderer is wealthy plantation owner Eric Endicott, a genteel racist and Sparta's most powerful citizen, who opposed Colbert's new factory. When Tibbs begins interrogating him, Endicott slaps him, and Tibbs slaps him back. Gillespie accuses Tibbs of also being racist for focusing the investigation on Endicott. Afterwards, Endicott sends a gang of thugs after him. Gillespie rescues Tibbs and tells him to leave town to save himself, but Tibbs is determined to stay and solve the case.
+
+Tibbs asks Officer Wood to retrace his patrol car route during the night of the murder; Gillespie joins them. After questioning why Wood detours from his patrol route, Tibbs discovers that Wood enjoys passing the house of 16-year-old Delores Purdy, who walks around nude with the lights on in an attempt to entice men, and that Wood changed his route to prevent Tibbs from seeing her. Gillespie learns that Wood made a $632 deposit to his bank account the day after the murder. He arrests Wood, despite Tibbs's protests that he is not the murderer. Tibbs tells Gillespie that the murder was committed at the site of the planned factory, which clears Wood because he could not have driven both his car and Colbert's car back into town.
+
+Delores' older brother Lloyd, a hostile racist, brings her to the police station to file [[statutory rape]] charges against Wood for getting her pregnant. When Tibbs insists on being present during Delores' questioning, Lloyd is offended and gathers a [[lynch mob]] to attack Tibbs.
+
+Tibbs pressures illegal abortionist Mama Caleba to reveal that she is about to provide an abortion for Delores. When Delores arrives and sees Tibbs, she runs away. Tibbs follows Delores and confronts her armed boyfriend, Ralph Henshaw, a cook at a roadside diner. Lloyd's mob arrives and holds Tibbs at gunpoint.
+
+Tibbs tells Lloyd to check Delores' purse for the $100 Ralph Henshaw gave her for an [[abortion]], which he got from killing and robbing Colbert. Lloyd realizes that Tibbs is right when he opens the purse and finds the money. After Lloyd confronts Henshaw for getting his sister pregnant, Henshaw shoots Lloyd dead. Tibbs grabs Henshaw's gun. Henshaw is arrested and confesses to killing Colbert. 
+
+Gillespie carries Tibbs’ suitcase to the train station and bids him farewell. They warmly smile at each other, making it clear there was no longer animosity between them. 
+
+==Cast==
+{{Cast listing|
+* [[Sidney Poitier]] as Detective Virgil Tibbs
+* [[Rod Steiger]] as Police Chief Bill Gillespie
+* [[Warren Oates]] as Officer Sam Wood
+* [[Lee Grant]] as Mrs. Colbert
+* [[Larry Gates]] as Eric Endicott
+* [[James Patterson (actor)|James Patterson]] as Lloyd Purdy
+* [[William Schallert]] as Mayor Schubert
+* [[Beah Richards]] as Mama Caleba
+* [[Peter Whitney]] as Courtney
+* [[Kermit Murdock]] as Henderson
+* [[Larry D. Mann]] as Watkins
+* [[Matt Clark (actor)|Matt Clark]] as "Packy" Harrison 
+* [[Arthur Malet]] as Ulam
+* [[Fred Stewart (actor)|Fred Stewart]] as Dr. Stuart
+* [[Quentin Dean]] as Delores Purdy
+* [[Scott Wilson (actor)|Scott Wilson]] as Harvey Oberst
+* [[Timothy Scott (actor, born 1937)|Timothy Scott]] as Shagbag
+* [[William C. Watson]] as McNeil
+* [[Eldon Quick]] as Charles Hawthorne
+* [[Stuart Nisbet]] as Shuie
+* Khalil Bezaleel as Jess
+* [[Peter Masterson]] as Fryer
+* [[Jester Hairston]] as butler
+* Phil Adams as 1st tough
+* Nikita Knatz as 2nd tough
+* [[Sam Reese]] as Clerk
+* [[Anthony James (actor)|Anthony James]] as Ralph Henshaw
+
+===Uncredited===
+* [[Alan Oppenheimer]] as Ted Appleton
+* [[Buzz Barton]] as train conductor
+* [[Clegg Hoyt]] as sheriff's deputy
+}}
+
+==Production==
+
+=== Casting ===
+Both [[Sidney Poitier]] and [[Rod Steiger]] were the first choices to play their roles. According to the [[AFI Catalog of Feature Films]], the two were "old friends who had long sought an opportunity to work together."<ref name=":0" />
+
+''In the Heat of the Night'' was the film debut for several of its actors - [[Scott Wilson (actor)|Scott Wilson]],<ref>{{Cite web |date=2018-10-12 |title=Scott Wilson: 'In the Heat of the Night' 50th Anniversary |url=https://www.kcrw.com/culture/shows/the-treatment/scott-wilson-in-the-heat-of-the-night-50th-anniversary-2018-10-11 |access-date=2024-01-23 |website=KCRW |language=en}}</ref> [[Anthony James (actor)|Anthony James]], [[Quentin Dean]], and [[Eldon Quick]]. [[Clegg Hoyt]]'s unbilled appearance in this film was his final acting role. He died two months after the film's release.
+
+=== Filming ===
+Although the film was set in Sparta, Mississippi, most of the movie was filmed in [[Sparta, Illinois]], where many of the town's landmarks can still be seen. The original novel was set in the (fictional) town of "Wells, South Carolina", but the name of the town was changed to Sparta so that the filmmakers could use the existing signage and storefronts.<ref name=":0" /> The producers were unaware that "Sparta, Mississippi" was a real town, and the film's depiction bears little resemblance to the real community. For example, the film's Sparta is situated along [[Interstate 20]], while the real town is nowhere near any [[interstate]].
+
+Jewison, Poitier, and Steiger worked together and got along well during filming, but Jewison had problems with the Southern authorities, and Poitier had reservations about coming  south of the [[Mason–Dixon line]]. However, despite their reservations, Jewison decided to shoot part of the film in [[Dyersburg]] and [[Union City, Tennessee|Union City]], Tennessee anyway, while the rest was filmed in Sparta, [[Chester, Illinois|Chester]] (Harvey Oberst chase scene), and [[Freeburg, Illinois|Freeburg]] (Compton's diner), Illinois.
+
+The film is notable for being the first major Hollywood film in color [[film lighting|lit]] with proper consideration for a Black person. [[Haskell Wexler]] recognized that standard strong lighting used in filming tended to produce too much glare on dark complexions and rendered the features indistinct. Accordingly, Wexler adjusted the lighting to feature Poitier with better photographic results.{{sfn|Harris|2008|p=221}}
+
+=== Slapping scene ===
+Tibbs slapping Endicott is not present in the novel. According to Poitier, the scene was almost not in the movie; he proposed the scene.<ref>{{Cite web |last=Worby |first=Mike |date=2022-09-08 |title=Sidney Poitier Agreed To Be In The Heat Of The Night Only After One Major Change |url=https://www.looper.com/998365/sidney-poitier-agreed-to-be-in-the-heat-of-the-night-only-after-one-major-change/ |access-date=2023-09-05 |website=Looper |language=en-US}}</ref> In an interview, Poitier stated: "I said, 'I'll tell you what, I'll make this movie for you if you give me your absolute guarantee when he slaps me I slap him right back and you guarantee that it will play in every version of this movie.' I try not to do things that are against nature."<ref>{{Cite news|author=<!--not stated-->|title=Poitier Used His Late Father as a Script Advisor|url=https://infoweb.newsbank.com/apps/news/document-view?p=AWNB&docref=news/1206A8DFD48AE558|via=[[NewsBank]]|agency=[[World Entertainment News Network]]|date=2008-05-01|access-date=2025-11-17|url-access=subscription}}</ref> [[Mark Harris (journalist)|Mark Harris]], in his book, ''Pictures at a Revolution'', states that copies of the original draft of the screenplay clearly depict the scene as filmed, which Jewison and Silliphant confirmed. Nevertheless, Poitier is correct that Tibbs' slapping of Endicott was not originally envisioned. After Endicott's slap, Silliphant's initial [[step-outline]] reads: "Tibbs has all he can do to restrain himself. The butler drops his head, starts to pray. 'For him, Uncle Tom', Tibbs says furiously, 'not for me!{{' "}} Tibbs' counter slap first appears in Silliphant's revised step-outline.<ref name=Heetebrij>{{cite journal |last=Heetebrij |first=Geert |url=https://christianscholars.com/subversive-christian-allegory-in-in-the-heat-of-the-night-1967/ |title=Subversive Christian Allegory in In the Heat of the Night (1967) |date=April 15, 2020 |journal=Christian Scholar's Review |volume=49 |issue=3 |pages=249–62 |access-date=April 30, 2020 |archive-date=May 10, 2020 |archive-url=https://web.archive.org/web/20200510144843/https://christianscholars.com/subversive-christian-allegory-in-in-the-heat-of-the-night-1967/ |url-status=live }}</ref>
+
+Tibbs' urging the butler to pray for Endicott was part of Silliphant's adaptation of ''In the Heat of the Night'' as a subversive Christian allegory, featuring Tibbs as the messianic outsider who confronts the racist establishment of Sparta.<ref name=Heetebrij />
+
+==Music==
+{{Infobox album
+| name = In the Heat of the Night
+| type = Soundtrack
+| artist = [[Quincy Jones]]
+| cover = 
+| caption = 
+| alt = 
+| released = 1967
+| recorded = 1967
+| venue = 
+| studio = 
+| genre = [[Film score]]
+| length = 33:34
+| label = [[United Artists Records|United Artists]]<br />UAL 4160/UAS 5160
+| producer = 
+| chronology = [[Quincy Jones]]
+| prev_title = [[Enter Laughing (film)#Musical score and soundtrack|Enter Laughing]]
+| prev_year = 1966
+| next_title = [[In Cold Blood (soundtrack)|In Cold Blood]]
+| next_year = 1967
+}}
+The [[film score]] was composed, arranged and conducted by [[Quincy Jones]], and the [[soundtrack album]] was released on the [[United Artists Records|United Artists]] label in 1967.<ref>{{cite web |url=http://www.soundtrackcollector.com/title/8407/In+The+Heat+Of+The+Night |title=In The Heat of the Night (1967) |website=Soundtrack Collector |access-date=January 17, 2018}}</ref><ref>{{cite web |last1=Edwards |first1=Dave |last2=Callahan |first2=Mike |url=http://www.bsnpubs.com/ua/ua4000-5000.pdf |title=Discography Preview for the United Artists label 40000 & 4000/5000 Series (1958–1972) |website=Both Sides Now Publications |access-date=January 17, 2018 |archive-date=August 8, 2017 |archive-url=https://web.archive.org/web/20170808123821/http://www.bsnpubs.com/ua/ua4000-5000.pdf |url-status=live }}</ref> The [[In the Heat of the Night (Ray Charles song)|title song]] performed by [[Ray Charles]], composed by Quincy Jones, with lyrics by [[Alan and Marilyn Bergman]] was released as a single by [[ABC Records]] and reached #33 on the [[Billboard Hot 100|''Billboard'' Hot 100]] chart and #21 on the [[Hot Rhythm & Blues Singles]] chart.
+{{Music ratings
+| rev1 = [[AllMusic]]
+| rev1Score = {{Rating|3|5}}<ref name="AllMusic" />}}
+[[AllMusic]]'s Steven McDonald said the soundtrack had "a tone of righteous fury woven throughout" and that "the intent behind ''In the Heat of the Night'' was to get a Southern, blues-inflected atmosphere to support the angry, anti-racist approach of the picture&nbsp;... although the cues from ''In the Heat of the Night'' show their age".<ref name="AllMusic">{{AllMusic|first=Steven|last=McDonald|class=album|id=mw0000034374|title=''In the Heat of the Night/They Call Me Mr. Tibbs'' – Review|access-date=January 19, 2018}}</ref> [[The Vinyl Factory]] said "this soundtrack to a film about racism in the South has a cool, decidedly Southern-fried sound with funk-bottomed bluesy touches, like on the strutting 'Cotton Curtain', the down 'n' dirty 'Whipping Boy' or the fat 'n' sassy 'Chief's Drive to Mayor'".<ref>{{cite web |url=https://thevinylfactory.com/features/10-definitive-quincy-jones-soundtracks-from-the-60s-and-70s/ |title=10 definitive Quincy Jones soundtracks from the '60s and '70s |website=The Vinyl Factory |date=August 21, 2015 |access-date=January 19, 2018 |archive-date=January 17, 2018 |archive-url=https://web.archive.org/web/20180117190356/https://thevinylfactory.com/features/10-definitive-quincy-jones-soundtracks-from-the-60s-and-70s/ |url-status=live }}</ref>
+
+===Track listing===
+All compositions by Quincy Jones.
+# "[[In the Heat of the Night (Ray Charles song)|In the Heat of the Night]]' (Lyrics by [[Alan and Marilyn Bergman]])&nbsp;– 2:30
+# "Peep-Freak Patrol Car"&nbsp;– 1:30
+# "Cotton Curtain"&nbsp;– 2:33
+# "Where Whitey Ain't Around"&nbsp;– 1:11
+# "Whipping Boy"&nbsp;– 1:25
+# "No You Won't"&nbsp;– 1:34
+# "Nitty Gritty Time"&nbsp;– 1:50
+# "It Sure Is Groovy!"&nbsp;– 2:30 (Lyrics by Alan and Marilyn Bergman)
+# "Bowlegged Polly"&nbsp;– 2:30 (Lyrics by Alan and Marilyn Bergman)
+# "Shag Bag, Hounds & Harvey"&nbsp;– 3:28
+# "Chief's Drive to Mayor"&nbsp;—1:10
+# "Give Me Until Morning"&nbsp;– 1:09
+# "On Your Feet, Boy!"&nbsp;– 1:37
+# "Blood & Roots"&nbsp;– 1:07
+# "Mama Caleba's Blues"&nbsp;– 5:00
+# "Foul Owl [on the Prowl]"&nbsp;– 2:30 (Lyrics by Alan and Marilyn Bergman)
+
+===Personnel===
+* Unidentified orchestra [[arranged]] and [[conducted]] by Quincy Jones including
+** [[Ray Charles]]&nbsp;– [[vocals]] (track 1), [[piano]] (track 15)
+** [[Glen Campbell]]&nbsp;– vocals (track 9), [[banjo]]
+** [[Gil Bernal]]&nbsp;– vocals (track 8)
+** Boomer and Travis&nbsp;– vocals (track 16)
+** [[Roland Kirk]]&nbsp;– [[flute]]
+** [[Bobby Scott (musician)|Bobby Scott]]&nbsp;– [[tack piano]]
+** [[Billy Preston]]&nbsp;– [[electric organ]] (track 1)
+** [[Ray Brown (musician)|Ray Brown]]&nbsp;– [[double bass|bass]]
+** [[Carol Kaye]]&nbsp;– [[electric bass]]
+** [[Don Elliott]]&nbsp;– human instrument
+** [[The Raelettes]]&nbsp;– [[backing vocals]] (track 1)
+
+==Reception==
+In contrast to films like ''[[The Chase (1966 film)|The Chase]]'' and ''[[Hurry Sundown (film)|Hurry Sundown]]'', which offered confused visions of the South, ''In the Heat of the Night'' depicted a tough, edgy vision of a Southern town that seemed to hate outsiders, a theme reflecting the uncertain mood of the time, just as the [[civil rights movement]] attempted to take hold. Canadian director Jewison wanted to tell a story of a White man and a Black man working together in spite of difficulties. Jewison said that this film proved a conviction he had held for a long time: "It's you against the world. It's like going to war. Everybody is trying to tell you something different and they are always putting obstacles in your way."
+
+A particularly famous line in the film comes immediately after Gillespie mocks the name "Virgil": <blockquote>Gillespie: "That's a funny name for a nigger boy that comes from Philadelphia! What do they call you up there?"<br>Tibbs (annoyed): "They call me ''Mister'' Tibbs!"</blockquote> This reply was later listed as number 16 on the [[American Film Institute]]'s ''[[100 Years...100 Movie Quotes]]'', a list of top film quotes, and was also the title of [[They Call Me Mister Tibbs!|the movie's sequel]]. Among other places, it was referenced by [[Timon and Pumbaa|Pumbaa]] in ''[[The Lion King]]''.
+
+Another important scene that surprised audiences at the time occurs when Endicott slaps Tibbs, who immediately slaps Endicott back. In a [[San Francisco]] pre-screening, Jewison was concerned when the young audience was laughing at the film as if it were a comedy. The audience's stunned reaction to the slapping scene convinced Jewison that the film was effective as drama.{{sfn|Harris|2008|pp=288–90}} That scene helped make the film so popular for audiences, finally seeing the top black film actor physically strike back against bigotry, that the film earned the nickname, ''[[Superspade]] Versus the Rednecks''.{{sfn|Harris|2008|p=336}} During the film's initial run, Steiger and Poitier occasionally went to the [[Capitol Theatre (New York City)|Capitol Theatre]] in [[New York City|New York]] to amuse themselves seeing how many black and white audience members there were, which could be immediately ascertained by listening to the former cheering Tibbs's retaliatory slap and the latter whispering "Oh!" in astonishment.{{sfn|Harris|2008|pp=335–6}}
+
+===Critical response===
+[[Bosley Crowther]] of ''[[The New York Times]]'' praised Jewison for crafting "a film that has the look and sound of actuality and the pounding pulse of truth." He further praised Steiger and Poitier for "each giving physical authority and personal depth" to their performances.<ref>{{cite news |last=Crowther |first=Bosley |url=https://www.nytimes.com/1967/08/03/archives/screen-in-the-heat-of-the-night-a-racial-drama-poitier-plays.html |title=Screen: 'In the Heat of the Night,' a Racial Drama |work=The New York Times |page=26 |url-access=subscription |date=August 3, 1967 |access-date=May 6, 2021 |archive-date=May 7, 2021 |archive-url=https://web.archive.org/web/20210507123548/https://www.nytimes.com/1967/08/03/archives/screen-in-the-heat-of-the-night-a-racial-drama-poitier-plays.html |url-status=live }}</ref> [[Richard Schickel]] of ''[[Life (magazine)|Life]]'' magazine wrote that "almost everything in this movie is good—the sharply drawn minor characters, the careful plotting, the wonderful rightness of each scene's setting, mood and dialogue. Most admirable of all is the way everyone avoids oversimplifications."<ref>{{cite magazine |last=Schickel |first=Richard |url=https://books.google.com/books?id=1lUEAAAAMBAJ&pg=PA10 |title=Two Pros in a Super Sleeper |magazine=Life |page=10 |date=July 28, 1967 |via=[[Google Books]] |access-date=May 9, 2021 |archive-date=May 9, 2021 |archive-url=https://web.archive.org/web/20210509221355/https://books.google.com/books?id=1lUEAAAAMBAJ&pg=PA10 |url-status=live }}</ref> John Mahoney of ''[[The Hollywood Reporter]]'' deemed the film to be "a gripping and suspenseful murder mystery that effects a feeling of greater importance by its veneer of social significance and the illusion of depth in its use of racial color."<ref>{{cite news |last=Mahoney |first=John |url=https://www.hollywoodreporter.com/news/general-news/heat-night-review-1967-movie-1026024/ |title='In the Heat of the Night': THR's 1967 Review |work=The Hollywood Reporter |orig-date=June 21, 1967 |date=August 2, 2017 |access-date=May 6, 2021 |archive-date=May 6, 2021 |archive-url=https://web.archive.org/web/20210506205843/https://www.hollywoodreporter.com/news/general-news/heat-night-review-1967-movie-1026024/ |url-status=live }}</ref>
+
+''[[Time (magazine)|Time]]'' magazine applauded the film's theme of racial unity that was "immeasurably helped by performances from Steiger and Poitier that break brilliantly with black-white stereotype."<ref>{{cite magazine |url=https://content.time.com/time/subscriber/article/0,33009,899737,00.html |title=Cinema: A Kind of Love |magazine=Time |page=72 |date=August 11, 1967 |access-date=May 6, 2021 |archive-date=May 6, 2021 |archive-url=https://web.archive.org/web/20210506185749/http://content.time.com/time/subscriber/article/0,33009,899737,00.html |url-status=live }}</ref> [[Roger Ebert]] gave ''In the Heat of the Night'' a positive review, praising Steiger's performance although he noted "the story itself was slightly too pat". He would later place it at number ten on his Top Ten list of 1967 films.<ref>{{cite news |last=Ebert |first=Roger |url=https://www.rogerebert.com/roger-ebert/the-best-10-movies-of-1967 |date=December 31, 1967 |title=The Best 10 Movies of 1967 |via=[[RogerEbert.com]] |work=[[Chicago Sun-Times]] |access-date=October 18, 2016 |archive-date=April 10, 2020 |archive-url=https://web.archive.org/web/20200410000649/https://www.rogerebert.com/roger-ebert/the-best-10-movies-of-1967 |url-status=live }}</ref> Arthur D. Murphy of ''[[Variety (magazine)|Variety]]'' felt that the excellent Poitier and outstanding Steiger performances overcame noteworthy flaws, including an uneven script.<ref>{{cite magazine|url=https://variety.com/1967/film/reviews/in-the-heat-of-the-night-1200421432/|date=June 21, 1967|magazine=[[Variety (magazine)|Variety]]|title=Film Reviews: In The Heat Of The Night|page=6|last=Murphy|first=Arthur D.|access-date=June 5, 2020|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928060239/http://variety.com/1967/film/reviews/in-the-heat-of-the-night-1200421432/|url-status=live}}</ref> [[Penelope Gilliatt]] of ''[[The New Yorker]]'' thought it had "a spurious air of concern about the afflictions of the real America at the moment" and that it is "essentially a primitive rah-rah story about an underdog's triumph over a bully".<ref>{{cite magazine |last=Gilliatt |first=Penelope |url=https://www.newyorker.com/magazine/1967/08/05/heated-bandwagon |title=The Current Cinema |url-access=subscription |magazine=The New Yorker |date=August 5, 1967 |page=64 |access-date=May 6, 2021 |archive-date=May 6, 2021 |archive-url=https://web.archive.org/web/20210506185749/https://www.newyorker.com/magazine/1967/08/05/heated-bandwagon |url-status=live }}</ref>
+
+[[Akira Kurosawa]] cited ''In the Heat of the Night'' as one of his favorite films.<ref>{{cite web |author1=Lee Thomas-Mason |title=From Stanley Kubrick to Martin Scorsese: Akira Kurosawa once named his top 100 favourite films of all time |url=https://faroutmagazine.co.uk/akira-kurosawa-100-favourite-films-list/ |website=Far Out |date=January 12, 2021 |publisher=Far Out Magazine |access-date=10 June 2021}}</ref><ref>{{cite web | title = Akira Kurosawa's Top 100 Movies! | url = http://wildgrounds.com/index.php/2009/01/17/akira-kurosawas-top-100-movies/ | url-status = dead | archive-url = https://web.archive.org/web/20100327124349/http://wildgrounds.com/index.php/2009/01/17/akira-kurosawas-top-100-movies/ | archive-date = 27 March 2010 | df = dmy-all }}</ref>
+
+On the review aggregator website [[Rotten Tomatoes]], the film holds an approval rating of 96% based on 89 reviews, with an average rating of 8.40/10. Its consensus states, "Tense, funny, and thought-provoking all at once, and lifted by strong performances from Sidney Poitier and Rod Steiger, director Norman Jewison's look at murder and racism in small-town America continues to resonate today."<ref>{{Cite web |url=https://www.rottentomatoes.com/m/in_the_heat_of_the_night/ |website=[[Rotten Tomatoes]] |title=In the Heat of the Night (1967) |access-date=January 29, 2023 |archive-date=March 2, 2012 |archive-url=https://web.archive.org/web/20120302173152/http://www.rottentomatoes.com/m/in_the_heat_of_the_night/ |url-status=live }}</ref> [[Metacritic]] assigned a score of 75 based on 14 reviews, indicating "generally favorable" reviews.<ref>{{cite web |url=https://www.metacritic.com/movie/in-the-heat-of-the-night |title=In the Heat of the Night |website=Metacritic |access-date=May 6, 2021 |archive-date=July 12, 2020 |archive-url=https://web.archive.org/web/20200712045335/https://www.metacritic.com/movie/in-the-heat-of-the-night |url-status=live }}</ref>
+
+===Box office===
+The film opened at the [[Capitol Theatre (New York City)|Capitol Theatre]] and at the 86th Street East theatre in [[New York City]] on Wednesday, August 2, 1967, grossing $108,107 in its first five days.<ref name=open>{{cite magazine|title='Heat of Night' Scores With Crix; Quick B.O. Pace|magazine=[[Variety (magazine)|Variety]]|date=August 9, 1967|page=3}}</ref> It opened in [[Miami Beach, Florida]] and in [[Toronto]] on Friday, August 4 and grossed $20,974 for the weekend which, together with the New York grosses, combined to give a weekend gross of $95,806.<ref>{{cite magazine|title=In the Heat of Night (advertisement)|magazine=[[Variety (magazine)|Variety]]|date=August 9, 1967|pages=14–15}}</ref> It was released soon after [[race riots]] in [[Newark, New Jersey|Newark]], [[Milwaukee]], and [[Detroit]].<ref name=open/> By January 1971, the film had earned $11&nbsp;million in box office rentals from the United States and Canada.<ref>{{cite magazine |title=All-Time Box Office Champs |magazine=Variety |date=January 6, 1971 |page=12}}</ref>
+
+===Accolades===
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+|-
+| rowspan="7"| [[40th Academy Awards|Academy Awards]]<ref name="Oscars1968">{{Cite web |url=http://www.oscars.org/oscars/ceremonies/1968 |title=The 40th Academy Awards (1968) Nominees and Winners |access-date=2011-08-25 |work=oscars.org |archive-date=April 2, 2015 |archive-url=https://web.archive.org/web/20150402003842/http://www.oscars.org/oscars/ceremonies/1968 |url-status=live }}</ref>
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Walter Mirisch]]
+| {{won}}
+|-
+| [[Academy Award for Best Director|Best Director]]
+| [[Norman Jewison]]
+| {{nom}}
+|-
+| [[Academy Award for Best Actor|Best Actor]]
+| [[Rod Steiger]]
+| {{won}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay – Based on Material from Another Medium]]
+| [[Stirling Silliphant]]
+| {{won}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[Hal Ashby]]
+| {{won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Samuel Goldwyn Studio]] Sound Department
+| {{won}}
+|-
+| [[Best Sound Effects]]
+| [[James Richard]]
+| {{nom}}
+|-
+| [[American Cinema Editors|American Cinema Editors Awards]]
+| [[Best Edited Feature Film – Dramatic]]
+| Hal Ashby
+| {{nom}}
+|-
+| rowspan="4"| [[21st British Academy Film Awards|British Academy Film Awards]]
+| [[BAFTA Award for Best Film|Best Film]]
+| Norman Jewison
+| {{nom}}
+|-
+| rowspan="2"| [[BAFTA Award for Best Actor in a Leading Role|Best Foreign Actor]]
+| [[Sidney Poitier]]
+| {{nom}}
+|-
+| Rod Steiger
+| {{won}}
+|-
+| United Nations Award
+| rowspan="2"| Norman Jewison
+| {{won}}
+|-
+| [[20th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| {{nom}}
+|-
+| [[Edgar Allan Poe Awards]]
+| [[List of Edgar Allan Poe Award for Best Motion Picture Screenplay winners|Best Motion Picture Screenplay]]
+| Stirling Silliphant
+| {{won}}
+|-
+| rowspan="7"| [[25th Golden Globe Awards|Golden Globe Awards]]<ref>{{cite web|url=https://www.goldenglobes.com/winners-nominees/1968|title=Winners & Nominees 1968|website=Golden Globes|access-date=May 9, 2021|archive-date=April 13, 2019|archive-url=https://web.archive.org/web/20190413221717/https://www.goldenglobes.com/winners-nominees/1968|url-status=live}}</ref>
+| colspan="2"| [[Golden Globe Award for Best Motion Picture – Drama|Best Motion Picture – Drama]]
+| {{won}}
+|-
+| rowspan="2"| [[Golden Globe Award for Best Actor – Motion Picture Drama|Best Actor in a Motion Picture – Drama]]
+| Sidney Poitier
+| {{nom}}
+|-
+| Rod Steiger
+| {{won}}
+|-
+| rowspan="2"| [[Golden Globe Award for Best Supporting Actress – Motion Picture|Best Supporting Actress – Motion Picture]]
+| [[Quentin Dean]]
+| {{nom}}
+|-
+| [[Lee Grant]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| Norman Jewison
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay – Motion Picture]]
+| Stirling Silliphant
+| {{won}}
+|-
+| [[10th Annual Grammy Awards|Grammy Awards]]
+| [[Grammy Award for Best Score Soundtrack for Visual Media|Best Original Score Written for a Motion Picture or Television Show]]
+| [[Quincy Jones]]
+| {{nom}}
+|-
+| Kansas City Film Critics Circle Awards
+| Best Actor
+| Rod Steiger
+| {{won}}{{efn|Tied with [[Paul Scofield]] for ''[[A Man for All Seasons (1966 film)|A Man for All Seasons]]''.}}
+|-
+| rowspan="3"| [[Laurel Awards]]
+| colspan="2"| Top Drama
+| {{won}}
+|-
+| rowspan="2"| Top Male Dramatic Performance
+| Sidney Poitier
+| {{nom}}
+|-
+| Rod Steiger
+| {{won}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+|-
+| rowspan="2"| [[1967 National Society of Film Critics Awards|National Society of Film Critics Awards]]
+| [[National Society of Film Critics Award for Best Actor|Best Actor]]
+| Rod Steiger
+| {{won}}
+|-
+| [[National Society of Film Critics Award for Best Cinematography|Best Cinematography]]
+| [[Haskell Wexler]]
+| {{won}}
+|-
+| rowspan="2"| [[1967 New York Film Critics Circle Awards|New York Film Critics Circle Awards]]
+| colspan="2"| [[New York Film Critics Circle Award for Best Film|Best Film]]
+| {{won}}
+|-
+| [[New York Film Critics Circle Award for Best Actor|Best Actor]]
+| Rod Steiger
+| {{won}}
+|-
+| Online Film & Television Association Awards
+| colspan="2"| Hall of Fame – Motion Picture
+| {{won}}
+|-
+| rowspan="2"| [[Sant Jordi Awards]]
+| Best Foreign Film
+| Norman Jewison
+| {{won}}
+|-
+| Best Performance in a Foreign Film
+| Rod Steiger <small>(also for ''[[The Loved One (1965 film)|The Loved One]]'' and ''[[No Way to Treat a Lady (film)|No Way to Treat a Lady]]'')</small>
+| {{won}}
+|-
+| [[20th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Written Drama|Best Written American Drama]]
+| Stirling Silliphant
+| {{nom}}
+|}
+
+==Legacy==
+In 2003, ''In the Heat of the Night'' was selected by ''[[The New York Times]]'' as one of the ''1000 Best Movies Ever Made''.<ref name="nyt1000">[https://web.archive.org/web/20050329013532/http://www.nytimes.com/ref/movies/1000best.html The Best 1,000 Movies Ever Made.] ''[[The New York Times]]'' via [[Internet Archive]]. Retrieved June 20, 2021.</ref>
+
+===American Film Institute recognition===
+The film appears on several ''[[AFI 100 Years... series|100 Years]]'' lists by the [[American Film Institute]].
+
+* [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]]: #75
+* [[AFI's 100 Years...100 Heroes & Villains]]:
+** [[Virgil Tibbs]]: #19 Hero
+* [[AFI's 100 Years...100 Movie Quotes]]:
+** Virgil Tibbs: "They call me Mister Tibbs!": #16
+* [[AFI's 100 Years...100 Cheers]]: #21
+
+===Preservation===
+The [[Academy Film Archive]] preserved ''In the Heat of the Night'' in 1997.<ref>{{Cite web|title=Preserved Projects|url=http://www.oscars.org/academy-film-archive/preserved-projects?title=in+the+heat+of+the+night&filmmaker=&category=All&collection=All|website=Academy Film Archive|access-date=August 3, 2016|archive-date=August 13, 2016|archive-url=https://web.archive.org/web/20160813092511/http://www.oscars.org/academy-film-archive/preserved-projects?title=in+the+heat+of+the+night&filmmaker=&category=All&collection=All|url-status=live}}</ref> In 2002, the film was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref name=preserve/>
+
+==Home media==
+''In the Heat of the Night'' was first released on [[DVD]] in 2001. The only extras in that release were the theatrical trailer, and audio commentary with Norman Jewison, Haskell Wexler, Rod Steiger and Lee Grant.
+
+Another DVD was released in 2008 to coincide the film's 40th Anniversary.
+
+In 2010, the film was digitized in High Definition (1080i) and broadcast on [[MGM HD]].
+
+MGM released the film on [[Blu-ray]] on January 14, 2014, through [[20th Century Fox]]. The release ports over all the extras from the 2001 and 40th Anniversary DVDs.
+
+Another DVD and Blu-ray were released by [[The Criterion Collection]] on January 29, 2019. The release contained new and previously released extras.
+
+[[Kino Lorber]] released ''In the Heat of the Night'' as a two-disc 4K [[Ultra HD]]/Blu-ray set on April 19, 2022. The main disc includes the UHD SDR version of the film plus two audio commentaries including the 2001 commentary and a brand new commentary featuring historians Steve Mitchell and Nathaniel Thompson, and Robert Mirisch. The special features Blu-ray contained the sequels ''They Call Me Mister Tibbs!'' and ''The Organization'' in addition to the 40th Anniversary extras, and theatrical trailers for all three films.
+
+==Sequels and adaptations==
+The film was followed by two [[sequel]]s with Poitier, ''[[They Call Me Mister Tibbs!]]'' (1970) and ''[[The Organization (film)|The Organization]]'' (1971). Neither of the films were based on Ball's sequel novels. Both films still did fairly well at the box office though to less critical acclaim.
+
+The film and the novel were the basis of a [[In the Heat of the Night (TV series)|television series]] of the same name, which aired from 1988 until 1995. The series serves as a sequel to the film's events, with Virgil Tibbs returning to Sparta and joining the local police force full time as its new Chief of Detectives. The series starred [[Howard Rollins]] as Tibbs and [[Carroll O'Connor]] as Gillespie. It received a generally positive critical response, with Rollins winning an [[NAACP Image Award for Outstanding Actor in a Drama Series|NAACP Image Award]] and O'Connor winning a [[Primetime Emmy Award for Outstanding Lead Actor in a Drama Series|Primetime Emmy Award]].
+
+==See also==
+* [[List of American films of 1967]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* {{Cite book |last=Harris |first=Mark |url=https://archive.org/details/picturesatrevolu00harr_0 |title=Pictures at A Revolution: Five Movies and the Birth of a New Hollywood |url-access=registration |publisher=Penguin Press |year=2008 |isbn=978-0-143-11503-8 |location=New York}}
+
+==External links==
+{{Wikiquote}}
+* [https://www.loc.gov/static/programs/national-film-preservation-board/documents/heat_night.pdf ''In the Heat of the Night''] essay by Michael Schlesinger at [[National Film Registry]] 
+* [https://books.google.com/books?id=deq3xI8OmCkC ''In the Heat of the Night''] essay by Daniel Eagan in America's Film Legacy: The Authoritative Guide to the Landmark Movies in the [[National Film Registry]], A&C Black, 2010 {{ISBN|0826429777}}, pages 624-626
+* {{IMDb title|0061811}}
+* {{TCMDb title|17602}}
+* {{AFI film|23257}}
+* [https://www.criterion.com/current/posts/6173-in-the-heat-of-the-night-the-double-bind ''In the Heat of the Night: The Double Bind''] an essay by K. Austin Collins at the [[Criterion Collection]]
+
+{{Virgil Tibbs}}
+{{Norman Jewison}}
+{{Navboxes
+| title = Awards for ''In the Heat of the Night''
+| list = 
+{{Academy Award Best Picture}}
+{{Golden Globe Award Best Motion Picture Drama}}
+{{New York Film Critics Circle Award for Best Film}}}}
+{{Authority control}}
+
+[[Category:1967 crime drama films]]
+[[Category:1967 action films]]
+[[Category:1960s mystery drama films]]
+[[Category:1967 mystery films]]
+[[Category:1960s buddy cop films]]
+[[Category:American crime drama films]]
+[[Category:1967 English-language films]]
+[[Category:Films directed by Norman Jewison]]
+[[Category:Best Drama Picture Golden Globe winners]]
+[[Category:Best Picture Academy Award winners]]
+[[Category:Edgar Award–winning works]]
+[[Category:Films scored by Quincy Jones]]
+[[Category:Films about murder]]
+[[Category:Films about prejudice]]
+[[Category:Films about race and ethnicity]]
+[[Category:Films about anti-black racism in the United States]]
+[[Category:Films adapted into television shows]]
+[[Category:Films based on American novels]]
+[[Category:Films based on crime novels]]
+[[Category:Films featuring a Best Actor Academy Award–winning performance]]
+[[Category:Films featuring a Best Drama Actor Golden Globe winning performance]]
+[[Category:Films produced by Walter Mirisch]]
+[[Category:Films set in Mississippi]]
+[[Category:Films shot in Illinois]]
+[[Category:Films shot in Tennessee]]
+[[Category:Films that won the Best Sound Mixing Academy Award]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:Films whose writer won the Best Adapted Screenplay Academy Award]]
+[[Category:American police detective films]]
+[[Category:United States National Film Registry films inducted in 2002]]
+[[Category:Films with screenplays by Stirling Silliphant]]
+[[Category:Fictional portrayals of the Philadelphia Police Department]]
+[[Category:African-American films]]
+[[Category:Virgil Tibbs]]
+[[Category:1967 American films]]
+[[Category:In the Heat of the Night (TV series)]]
+[[Category:Social thriller films]]
+[[Category:English-language crime drama films]]
+[[Category:English-language action films]]
+[[Category:English-language thriller films]]
+[[Category:English-language buddy comedy films]]
+[[Category:Southern noir films]]
+[[Category:United Artists films]]
+[[Category:1967 action thriller films]]

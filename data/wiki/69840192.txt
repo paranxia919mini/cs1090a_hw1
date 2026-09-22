@@ -1,0 +1,65 @@
+{{refimprove|date=January 2022}}
+{{Infobox film
+| name           = No Greater Love
+| image          = No Greater Love (poster).jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Masaki Kobayashi]]
+| writer         = Masaki Kobayashi<br>[[Zenzo Matsuyama]]
+| based_on       = ''[[The Human Condition (Gomikawa novel)|The Human Condition]]'' by [[Junpei Gomikawa]]
+| producer       = [[Shigeru Wakatsuki]]
+| starring       = [[Tatsuya Nakadai]]<br>[[Michiyo Aratama]]
+| cinematography = [[Yoshio Miyajima]]
+| editing        = Keiichi Uraoka
+| music          = Chuji Kinoshita
+| studio         = [[Ninjin Club]]
+| distributor    = [[Shochiku]]
+| released       = {{Film date|1959|1|15|df=yes}}
+| runtime        = 206 minutes
+| country        = Japan
+| language       = Japanese
+| budget         = 
+| gross          = Japan [[Theatrical rental|rentals]]: {{JPY|304.04 million|link=yes}}<ref>{{cite journal |title=キネマ旬報ベスト・テン85回全史 1924-2011 |journal=[[Kinema Junpo]] |date=2012 |page=148}}</ref>
+}}'''''The Human Condition I: No Greater Love''''' (第一部 純愛篇／第二部 激怒篇) is a 1959 Japanese [[Epic film|epic]] [[war drama film]] directed by [[Masaki Kobayashi]]. It is the first part of ''[[The Human Condition (film series)|The Human Condition]]'' trilogy.<ref>{{Cite web|title=The Human Condition I|url=https://criterionchannel.vhx.tv/videos/the-human-condition-i|access-date=2022-01-21|website=The Criterion Channel|language=en}}</ref>
+
+== Plot ==
+In [[World War II]]-era Japan, Kaji marries his sweetheart Michiko despite his misgivings about the future. To gain exemption from military service, he moves with his wife to a large mining operation in [[Manchukuo|Japanese-colonized Manchuria]], where he serves as a labor chief assigned to a workforce of Chinese prisoners.
+
+Kaji aggravates the camp bureaucracy by implementing humane practices to improve both labor conditions and productivity, clashing with foremen, administrators, and the [[Kenpeitai]] military police. Ultimately his efforts to grant autonomy to the POWs are undermined by scheming officials, resulting in the electrocution of several prisoners and the beheading of others accused of attempted escape. When Kaji protests the brutality, he is tortured and then drafted into the army to relieve the camp supervisors of his disruptive presence.
+
+== Cast ==
+* [[Tatsuya Nakadai]] as Kaji
+* [[Michiyo Aratama]] as Michiko
+* [[Chikage Awashima]] as Tōfuku Kin
+* [[Ineko Arima]] as Shunran Yō
+* [[Sō Yamamura]] as Okishima
+* [[Keiji Sada]] as Kageyama
+* [[Kōji Nanbara]] as Kao (as Shinji Nanbara)
+* [[Akira Ishihama]] as Chen
+* [[Kōji Mitsui]] as Furuya
+* [[Seiji Miyaguchi]] as Wang Heng Li
+* [[Eitaro Ozawa]] as Okazaki
+* [[Toru Abe]] as Sergeant Watai
+* [[Junkichi Orimoto]] as Sai
+* Masao Mishima as Manager Kuroki
+* [[Kyū Sazanka]] as Cho Meisan
+
+== Reception ==
+On the [[review aggregator]] website [[Rotten Tomatoes]], 73% of 15 critics' reviews are positive.<ref>{{Cite web |title=The Human Condition I: No Greater Love |url=https://www.rottentomatoes.com/m/the_human_condition_i_no_greater_love |access-date=2026-06-19 |website=Rotten Tomatoes |language=en}}</ref> At the 14th Mainichi Film Awards, Giyū Miyajima won Best Cinematography for both this film and ''The Human Condition II: Road to Eternity''.<ref>{{Cite web |title=毎日映画コンクール 第14回（1959年） |url=https://mainichi.jp/mfa/history/014.html |access-date=2026-06-19 |website=毎日新聞 |language=ja}}</ref>
+
+== References ==
+<references />
+
+==External links==
+* {{IMDb title|qid=Q110818465|title=No Greater Love}}
+
+{{Masaki Kobayashi}}
+{{DEFAULTSORT:Human Condition I No Greater Love}}
+[[Category:1959 films]]
+[[Category:Films directed by Masaki Kobayashi]]
+[[Category:Japanese war drama films]]
+[[Category:Films with screenplays by Masaki Kobayashi]]
+[[Category:1959 Japanese-language films]]
+[[Category:1959 Japanese films]]
+[[Category:1959 war films]]
+[[Category:Japanese black-and-white films]]

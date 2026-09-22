@@ -1,0 +1,131 @@
+{{About||the 1955 film "Finger Man"|Finger Man}}
+{{Use dmy dates|date=February 2024}}
+{{Infobox film
+| name           = Le Doulos
+| image          = Ledoulos.jpg
+| alt            = 
+| caption        = 
+| native_name    = <!--{{Infobox name module|language|title}}-->
+| director       = [[Jean-Pierre Melville]]
+| producer       = {{plainlist|
+* [[Georges de Beauregard]]
+* [[Carlo Ponti]]{{sfn|Vincendeau|2003|p=233}}}}
+| writer         = Jean-Pierre Melville
+| screenplay     = 
+| story          = 
+| based_on       = {{based on|The novel ''Le Doulos''|Pierre Lesou}}
+| starring       = {{plainlist|
+* [[Jean-Paul Belmondo]]
+*[[Serge Reggiani]]}}
+| narrator       =
+| music          = [[Paul Misraki]]
+| cinematography = [[Nicolas Hayer]]
+| editing        = Monique Bonnot
+| studio         = {{plainlist|
+* Rome-Paris Film
+* C.C. Champion{{sfn|Vincendeau|2003|p=233}}}}
+| distributor    = {{plainlist|
+* Lux-Films
+* CCF{{sfn|Vincendeau|2003|p=233}}}}
+| released       = {{Film date|1962|12|13|Italy|df=y}} 
+| runtime        = 108 minutes{{sfn|Vincendeau|2003|p=234}}
+| country        = France
+| language       = French
+| budget         = 
+| gross          = 1,475,391 admissions
+}}
+
+'''''Le Doulos''''' ({{IPA|fr|lə dulos}}) is a 1962 French [[crime film]] written and directed by [[Jean-Pierre Melville]], adapted from the novel of the same name by Pierre Lesou. It was released theatrically as '''''The Finger Man''''' in the English-speaking world, but all video and DVD releases have used the French title. Intertitles at the beginning of the film explain that the French title refers both to a kind of hat and to the slang term for a police [[informant]].<ref>A Samurai in Paris, Nogueira, Rui; TRUCHAUD, FRANCOIS. Sight and Sound; London Vol. 37, Iss. 3,  (Summer 1968): 118.</ref>
+
+==Plot==
+Maurice Faugel, just released from prison after serving a four-year sentence, meets a friend, Gilbert, who is appraising the value of jewels from a recent heist. Maurice is planning a robbery the next day with two accomplices, Silien and Rémy. Maurice kills Gilbert with Gilbert's own gun and steals the jewels as well as a large sum of money.
+
+It is later revealed that Gilbert killed Maurice's girlfriend Arlette to keep her from acting as an informant to the police when Maurice was sent to prison four years prior. Maurice leaves the house just as Nuttheccio and Armand, prominent gangsters, arrive to collect the loot. Maurice buries the jewels, money, and gun next to a lamppost. Maurice spends the evening at his girlfriend Thérèse's apartment. Silien arrives the next day to deliver equipment for the robbery that evening. After Silien leaves, he uses a payphone to call Inspector Salignari.
+
+That evening, Maurice and Rémy leave to rob a home in affluent [[Neuilly-sur-Seine|Neuilly]]. Meanwhile, Silien comes to Thérèse's apartment, then beats her and ties her to a wall radiator, demanding to know the address of the robbery. The police arrive at the robbery. Inspector Salignari corners Maurice and Rémy, fatally shooting Rémy. Maurice and Salignari shoot it out; Maurice is hit in the shoulder, but Salignari is killed. Maurice leaves the gun next to Rémy's hand and runs away. He passes out just before a car pulls up.
+
+Maurice wakes up in Jean's apartment, but neither Maurice nor Jean's wife Anita know who brought him there. Maurice resolves to find Silien, who he believes informed the police about the time and place of the robbery. He leaves Anita with a diagram showing where he buried the jewels, money, and gun, telling her to give it to Jean if something happens to him.
+
+Because the police believe that Silien called Salignari, they assume he has information on the botched robbery. They question him, hoping to get the name of Rémy's accomplice, but Silien tells them he wasn't the informant. He mentions that he hopes to get out of the criminal underworld and live in a house he has built in [[Saint-Fargeau-Ponthierry|Ponthierry]]. It is revealed that the car that rescued Maurice has been found wrecked, with Thérèse's body inside.
+
+The police also suspect that Maurice killed Gilbert. They threaten to falsely implicate Silien in a drug case unless he helps them find Maurice. Silien complies and Maurice is found. Maurice claims that Gilbert was killed while Maurice was in another room of the house. The police offer to let him go if he has information on the robbery in Neuilly, but Maurice claims he has no information. He is jailed, where he meets a prisoner named Kern.
+
+Silien finds the buried jewels, money, and gun beneath the lamppost. He visits Nuttheccio's club and speaks to Fabienne, a former girlfriend. He offers to get her out of her relationship with Nuttheccio if she will testify that Nuttheccio and Armand killed Gilbert. She eventually agrees. Silien kills Nuttheccio and plants the jewels in his safe, while Fabienne calls Armand to tell him Nuttheccio has found the stolen jewels and wants to see him. When Armand arrives, Silien kills him too, staging the scene to make it look like they killed one another.
+
+With Nuttheccio and Armand dead and framed for Gilbert's murder, Maurice is released from prison. He still believes that Silien informed on him, but Jean and Silien tell him that Silien was not the informant and had in fact been maneuvering to get Maurice out of prison. Though Silien was a friend of Salignari, he did not inform him of the robbery. However, he recognised Thérèse as one of Salignari's informants. The night of the robbery, Silien called Salignari to invite him to dinner, and Salignari revealed that he would be arresting two burglars in Neuilly. Silien got the address from Thérèse and went to Neuilly to avert a disaster. He arrived in time to pick up Maurice and take him to Jean's apartment.
+
+Silien announces that he will be moving in with Fabienne at his home in Ponthierry, and that he is going there immediately. However, while in prison, Maurice arranged for his cellmate Kern to kill Silien, promising to give Kern the money he stole from Gilbert in exchange. Maurice rushes to Silien's home to tell Kern that the hit is off.
+
+Maurice manages to arrive in Ponthierry before Silien, but Kern mistakes him for Silien and shoots him. When Silien arrives, he sees Maurice lying on the carpet. With his dying breath, Maurice warns Silien that someone is hiding behind the dressing screen, and Silien shoots at the screen, hitting Kern, who is able to shoot Silien before dying. Silien stumbles over to the phone and tells Fabienne he will not see her that evening before adjusting his hat in a mirror and falling down dead.
+
+==Cast==
+{{div col}}
+* [[Jean-Paul Belmondo]] as Silien
+* [[Serge Reggiani]] as Maurice Faugel
+* [[Jean Desailly]] as [[Commissaire de police|Commissaire]] Clain
+* [[René Lefèvre (actor)|René Lefèvre]] as Gilbert Varnove
+* [[Marcel Cuvelier]] as Paulo, a police detective
+* Philippe March (credited as Aimé de March) as Jean
+* [[Fabienne Dali]] as Fabienne
+* Monique Hennessy as Thérèse
+* Carl Studer as Kern
+* Christian Lude as the doctor
+* Jacques De Leon as Armand
+* Jack Leonard as Joe, a police detective
+* Paulette Breil as Anita
+* [[Philippe Nahon]] as Rémy
+* Charles Bayard as the old man at the house in [[Neuilly-sur-Seine|Neuilly]]
+* Daniel Crohem as Inspector Salignari
+* [[Charles Bouillaud]] as the barman at the Cotton Club
+* [[Michel Piccoli]] as Nuttheccio
+{{div col end}}
+
+==Production==
+''Le Doulos'' was shot at Melville's rue Jenner studios in Paris between April and June 1962.{{sfn|Vincendeau|2003|p=234}} The [[Centre national du cinéma et de l'image animée|CNC]] estimated its budget was 2,113,000 [[French Franc|French francs]].{{sfn|Vincendeau|2003|p=234}}
+
+==Release==
+The film was released in Paris on 8 February 1963.{{sfn|Vincendeau|2003|p=234}} The French Censorship Commission classified it as forbidden to minors below the age of 13 "in view of violent content which may shock children",{{sfn|Vincendeau|2003|p=234}} and this classification stood until 1983, when the film was passed for all audiences.{{sfn|Vincendeau|2003|p=234}} It took in 485,186 admissions in Paris, and 1,475,391 admissions in France as a whole,{{sfn|Vincendeau|2003|p=260}} which made it, after ''[[Leon Morin, Priest]]'' (1961), Melville's second-highest grossing film in France to that point (by the end of his career, it was his sixth-highest grossing film).{{sfn|Vincendeau|2003|p=260}} ''Le Doulos'' was the first box office hit in several years for Serge Reggiani.<ref>NOTED ON THE FRENCH SCREEN SCENE: Hot Debate Lukewarm Reaction Unqualified Success Complex Plot
+By CYNTHIA GRENIER. New York Times 7 Apr 1963: X13.</ref>
+
+==Reception==
+The film received strong reviews in France, with Melville biographer Ginette Vincendeau stating: "References to masterly technique, sobriety, elliptical style and narrative efficiency graced almost every review, summed up by ''[[L'Express]]'' as 'quasi perfection of ''Le Doulos''.'"<ref>Jean-Pierre Melville: An American in Paris, p. 142.</ref> Claude Beylie wrote in the influential ''[[Cahiers du Cinéma]]'' that ''Le Doulos'' possessed "moral reflection" on truth and lies, and demonstrated an "extraordinary craftsman’s precision, a high love of style."
+
+Contemporary American indifference to Melville’s work was typified by a 1964 review in ''[[The New York Times]]'', which called the film tiresome, excessively talkative, and cluttered with confusing references to irrelevant events. The reviewer considered the movie pseudointellectual and superficial, saying: 
+{{Blockquote|[T]here's not much to recommend the picture, which is one of those feeble attempts to be philosophical and mordant about crime as a chosen career. Jean-Pierre Melville, who wrote and directed it, has so many scenes of mere conversation running through it—so many scenes in which plot is played in talk—that one wonders why his people need firearms. They can talk one another to death.<ref>{{cite news | url = https://www.nytimes.com/movie/review?res=9B04E1DD1230E033A25750C0A9659C946591D6CF |date= 3 March 1964 |access-date=7 December 2017 |title= Belmondo as Crafty Informer: Doulos – the Finger Man' at Beekman |work= New York Times |first=Bosley |last= Crowther}}</ref>}}
+
+On [[Empire (magazine)|''Empire'' magazine]]'s 2008 list of the 500 Greatest Movies of All Time, ''Le Doulos'' was ranked number 472.<ref>[http://www.empireonline.com/500/6.asp Empire: Features: 500 Greatest Movies of all time: #472: ''Le Doulos'']</ref>
+
+==Legacy==
+As a tribute to the tradition of the French ''policier'' film, and to Melville specifically, [[Olivier Marchal]] named the police informant "Silien" in his 2004 film ''[[36 Quai des Orfèvres (film)|36 Quai des Orfèvres]]''.<ref>''36 Quai des Orfèvres'' film notes by Miles Fielder.</ref>
+
+American filmmaker [[Quentin Tarantino]] cited the screenplay for ''Le Doulos'' as his personal favorite and a large influence on his debut picture ''[[Reservoir Dogs]]''.<ref>{{cite web|last=Becker|first=James|title=Quentin Tarantino Interview: On the Set of Reservoir Dogs|url=http://www.beckerfilms.com/reserve.html|work=Beckerfilms.com|publisher=Panoramic Pictures|access-date=2013-03-14|archive-url=https://web.archive.org/web/20130405003229/http://www.beckerfilms.com/reserve.html|archive-date=2013-04-05|url-status=dead}}</ref>
+
+==References==
+{{Reflist}}
+
+===Sources===
+{{Refbegin}}
+* Nogueira, Rui (ed.). 1971. ''Melville on Melville''. New York: Viking Press.
+* {{cite book |last=Vincendeau |first=Ginette |title=Jean-Pierre Melville An American in Paris |publisher=[[British Film Institute]] |date=2003 |isbn=0851709494 |url-access=registration |url=https://archive.org/details/jeanpierremelvil00vinc }}
+{{Refend}}
+
+==External links==
+*{{IMDb title|0054821}}
+*[https://www.criterion.com/current/posts/702-le-doulos-walking-ghosts ''Le doulos: Walking Ghosts''] an essay by Glenn Kenney at the [[Criterion Collection]]
+
+{{Jean-Pierre Melville}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Doulos, Le}}
+[[Category:1962 films]]
+[[Category:1962 crime thriller films]]
+[[Category:Films directed by Jean-Pierre Melville]]
+[[Category:French neo-noir films]]
+[[Category:French gangster films]]
+[[Category:Films produced by Carlo Ponti]]
+[[Category:1962 French-language films]]
+[[Category:1962 French films]]
+[[Category:Films scored by Paul Misraki]]
+[[Category:French-language crime thriller films]]
+[[Category:French black-and-white films]]

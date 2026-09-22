@@ -1,0 +1,199 @@
+{{Short description|1971 film by Ted Kotcheff}}
+{{About|the 1971 film|the novel|Wake in Fright (novel)|the 2017 television miniseries|Wake in Fright (miniseries)|the album|Wake in Fright (album)}}
+{{Use dmy dates|date=September 2024}}
+{{Infobox film
+| name           = Wake in Fright
+| image          = WakeInFrightAd1.jpg
+| caption        = Australian [[daybill]] film poster
+| director       = [[Ted Kotcheff]]
+| producer       = [[George Willoughby (producer)|George Willoughby]]
+| screenplay     = [[Evan Jones (writer)|Evan Jones]]{{efn|Throughout [[principal photography]], Kotcheff reworked parts of the script without receiving a credit.<ref name="DVD commentary">{{cite video|title=Wake in Fright ([[Audio commentary]] with Ted Kotcheff and Anthony Buckley)|medium=DVD|publisher=[[Madman Entertainment]]|location=Richmond, Victoria|year=1971}}</ref>}}
+| based_on       = {{based on|''[[Wake in Fright (novel)|Wake in Fright]]''|[[Kenneth Cook]]}}
+| starring       = {{plainlist|
+* [[Donald Pleasence]]
+* [[Gary Bond]]
+* [[Chips Rafferty]]
+* [[Sylvia Kay]]
+}}
+| music          = [[John Scott (composer)|John Scott]]
+| cinematography = Brian West
+| editing        = [[Anthony Buckley]]
+| color_process  = [[Technicolor]]
+| studio         = {{plainlist|
+* [[NLT Productions]]
+* [[Group W Films]]
+}}
+| distributor    = [[United Artists]]
+| released       = {{Film date|df=y|1971|05|13|[[1971 Cannes Film Festival|Cannes]]|ref1=<ref name="boxoffice 31 may">"One UA, 3 Columbia Films Are Exhibited at Cannes". ''[[BoxOffice (magazine)|BoxOffice]]''. 31 May 1971. E-2. "The Cannes Film Festival, which ended Thursday (27) got under way on May 13 with an opening night presentation of 'Outback,' a United Artists release which was the official Australian entry."</ref>|1971|7|22|[[Paris]]|1971|10|08|[[Sydney]]|ref3=<ref name=Ozmovies />|1971|09|15|[[Detroit]]|ref4=<ref>{{cite news|title=Outback/ Valdez Is Coming/ Starts Today Exclusively |work=Detroit Free Press|page=59|date=September 15, 1971}}</ref>}}
+| runtime        = 109 minutes<ref name=Ozmovies />
+| country        = {{plainlist|
+* Australia
+* United Kingdom
+* United States<ref>{{Cite web|title=Wake in Fright (1971)|url=https://www2.bfi.org.uk/films-tv-people/4ce2b6b26303c|archive-url=https://web.archive.org/web/20160811130500/http://www.bfi.org.uk/films-tv-people/4ce2b6b26303c|url-status=dead|archive-date=11 August 2016|access-date=2021-05-20|publisher=British Film Institute}}</ref> 
+}}
+| language       = English
+| budget         = {{AUD}}700,000–800,000<ref name=Ozmovies>{{cite web|url=http://www.ozmovies.com.au/movie/wake-in-fright|title=Wake in Fright|publisher=Ozmovies|access-date=2 September 2017}}</ref><ref name="NFSA">{{cite web|url=https://www.nfsa.gov.au/latest/wake-fright-2009|title=Wake in Fright: 2009 Restoration|publisher=[[National Film and Sound Archive]]|access-date=3 December 2020}}</ref>
+| gross          = {{plainlist|
+* $321,323 {{small|(Australia re-release)}}<ref name="FilmVic">{{cite web|url=http://www.film.vic.gov.au/__data/assets/pdf_file/0004/967/AA4_Aust_Box_office_report.pdf|archive-url=https://web.archive.org/web/20120331110908/http://film.vic.gov.au/__data/assets/pdf_file/0004/967/AA4_Aust_Box_office_report.pdf|title=Australian Films at the Australian Box office|publisher=[[Film Victoria]]|access-date=12 September 2012|archive-date=31 March 2012|url-status=dead}}</ref>
+* $50,394 {{small|(US re-release)}}<ref name="Box Office Mojo">{{cite web|url=https://www.boxofficemojo.com/title/tt0067541/?ref_=bo_se_r_1|title=Wake in Fright (2012)|publisher=Box Office Mojo|access-date=13 October 2017}}</ref>
+}}
+}}
+
+'''''Wake in Fright''''' (initially released as '''''Outback''''' outside Australia) is a 1971 [[psychological thriller]] film directed by [[Ted Kotcheff]], written by [[Evan Jones (writer)|Evan Jones]], and starring [[Gary Bond]], [[Donald Pleasence]], [[Chips Rafferty]], [[Sylvia Kay]], and [[Jack Thompson (actor)|Jack Thompson]]. Based on [[Kenneth Cook]]'s [[Wake in Fright (novel)|1961 novel of the same name]], it follows a young schoolteacher who descends into personal moral degradation after finding himself stranded in a brutal, menacing town in [[outback]] Australia.
+
+Filmed on-location in [[Broken Hill]] and [[Sydney]], ''Wake in Fright'' was an international co-production between Australia, Britain,<ref>{{Cite web|title=Wake in Fright (1971)|url=https://www2.bfi.org.uk/films-tv-people/4ce2b6b26303c|archive-url=https://web.archive.org/web/20160811130500/http://www.bfi.org.uk/films-tv-people/4ce2b6b26303c|url-status=dead|archive-date=11 August 2016|access-date=2021-05-20|publisher=British Film Institute}}</ref> and the United States.<ref>{{cite web|url=https://www.allmovie.com/movie/wake-in-fright-v105221|title=Wake in Fright (1971) – Overview|publisher=[[AllMovie]]|access-date=29 September 2020}}</ref><ref name="AFI">{{cite web|url=http://catalog.afi.com/Catalog/MovieDetails/54602|title=AFI Catalog – Outback|work=[[American Film Institute]]|access-date=29 September 2020}}</ref> Alongside ''[[Walkabout (film)|Walkabout]]'', it was one of two Australian films to be nominated for the [[Palme d'Or|Grand Prix du Festival]] at the [[1971 Cannes Film Festival|24th Cannes Film Festival]]. Despite attracting positive reviews at the time, the film was a [[Box office bomb|commercial failure]] in Australia, in part due to scant marketing by [[United Artists]], as well as controversy surrounding its portrayal of outback life, including a hunting scene in which real kangaroos are shot and killed.
+
+By the 1990s, ''Wake in Fright'' had developed a [[cult film|cult reputation]] as Australia's great "[[lost film]]" because its [[negative (photography)#Negative film|master negative]] had gone missing, resulting in censored prints of degraded quality being used for its few television broadcasts and VHS releases. After the original film and sound elements were rescued by editor [[Anthony Buckley]] in 2004, the film was digitally remastered and given a 2009 re-release at [[2009 Cannes Film Festival|Cannes]] and in Australian theatres to widespread acclaim; it was issued commercially on DVD and Blu-ray later that year. ''Wake in Fright'' is now considered a pivotal film of both the [[Australian New Wave]]<ref>Rapold, Nicolas (4 October 2012). [https://www.nytimes.com/2012/10/07/movies/wake-in-fright-and-australian-new-wave.html?smid=tw-nytimesmovies&seid=auto&_r=2& "'Wake in Fright' and Australian New Wave"], ''[[The New York Times]]''. Retrieved 12 January 2012.</ref> and the [[Ozploitation]] cycle,<ref name=ozploitation>{{Cite web| title=The 17 greatest Ozploitation movies – sorted |url=https://www.theguardian.com/culture/2022/feb/14/the-17-greatest-ozploitation-movies-sorted |work=[[The Guardian]] |last=Buckmaster|first=Luke|date= 14 February 2022|access-date=20 March 2012}}</ref> earning praise from contemporary critics for Kotcheff's direction and the cast's performances.<ref name=rt>{{Cite web| title=Wake in Fright Movie Reviews |url=http://www.rottentomatoes.com/m/wake_in_fright/ |publisher=[[Rotten Tomatoes]] |access-date=23 December 2012}}</ref>
+
+''Wake in Fright'' was [[remake|remade]] as a [[Wake in Fright (miniseries)|two-part miniseries]] that aired in 2017.
+
+==Plot==
+John Grant is a young, [[middle-class]] schoolteacher who feels disgruntled because of the onerous terms of an [[employment bond]] that he signed with the government in return for receiving a [[tertiary education]]. The bond has forced him to accept a two-year post at a tiny school at Tiboonda, a remote township in the arid [[outback]]. It is the start of the [[Christmas and holiday season|Christmas holidays]], and John plans on going to [[Sydney]] to see his girlfriend Robyn, but first he must travel by train to the nearby mining town of Bundanyabba – affectionately nicknamed "The Yabba" by the locals – in order to catch a Sydney-bound flight.
+
+Upon arriving at The Yabba, John goes to a pub. There he meets the local policeman, Jock Crawford, who befriends him after both drink repeated glasses of beer, first at the pub and then at an [[Returned and Services League of Australia|RSL]] club, where they witness an unnerving [[Australian and New Zealand Army Corps|ANZAC]] memorial service. Crawford then introduces him to the illegal game of [[two-up]], and to Clarence "Doc" Tydon, a vagrant, [[alcoholic]] medical practitioner who questions John's contemptuous view of The Yabba and its populace.
+
+Deciding to try his luck at [[two-up]], John has a winning streak but becomes reckless: in a desperate bid to win enough money to pay off his bond, he loses all of his cash in two rounds. This results in John becoming stranded in The Yabba with no money, leaving him at the mercy of its searing heat and eccentric but sinister townsfolk.
+
+While drinking, John becomes friends with a resident named Tim Hynes and goes to Tim's house, where he meets his adult daughter, Janette, and his two friends, miners Dick and Joe. Tim, Dick and Joe engage in an all-day drinking session, where they are eventually joined by Doc. John converses with Janette, who quietly desires a life outside of waiting on her father and his friends. She aggressively tries to seduce John, who vomits partly in disgust and due to the beer he has ingested.
+
+After engaging in more debauched rituals with the Hynes and their guests, John finds refuge in Doc's isolated shack. After providing him with medicine to cure his [[hangover]] and feeding him on [[kangaroo meat]], Doc expounds his worldview onto John, revealing that his alcoholism and self-sufficient attitude to life prevented him from practicing in Sydney. He also reveals that he and Janette have had a long-standing [[open relationship]] punctuated by unorthodox sexual encounters.
+
+John and Doc are joined by Dick and Joe in a drunken, barbaric kangaroo hunt that lasts into the night, which culminates in Joe engaging in fisticuffs with one such kangaroo and John clumsily stabbing another to death. The four then vandalize a bush pub, where Dick and Joe engage in a playful fight that turns brutal, interrupting Doc as he lectures an unconscious John about the violent nature of civilization despite its philosophical and materialistic trappings. At dawn, John returns to Doc's shack, where Doc initiates an apparent homosexual encounter between the two.<ref>[http://www.abc.net.au/radionational/programs/movietime/wake-in-fright/3066556 "Wake in Fright", Radio National review by Julie Rigg, 26 June 2009]</ref>
+
+Repulsed, John leaves that morning and returns to town, where his two suitcases, left behind at a hotel after he met Tim, are returned to him by Crawford. After discarding one suitcase – mostly containing textbooks, including one on [[Plato]] – he wanders through the desert towards Sydney, hitch-hiking with truck drivers where possible and procuring food using the rifle he was given during the hunt. He eventually arrives at a truck stop, where he persuades a driver he assumes is heading for Sydney to give him a lift. However, due to miscommunication, John returns to The Yabba instead.
+
+Enraged with Doc and his perversity, John rushes to his empty cabin, intent on shooting him upon his return. However, he becomes overwhelmed with loneliness and remorse, and turns his rifle on himself. Doc arrives to witness John shoot himself in the temple, the impact of which scars but fails to kill him.
+
+John recovers in the hospital and signs a statement from Crawford explaining that his [[suicide attempt]] was an accident. Several weeks later, Doc takes him to the railway station, where they quietly make peace with each other. No longer contemptuous of the outback's inhabitants and more assured of himself, John accepts the offer of a beer from other passengers on the train and returns to Tiboonda to begin the new school year.
+
+==Cast==
+{{Cast listing|
+* [[Gary Bond]] as John Grant
+* [[Donald Pleasence]] as Clarence F. "Doc" Tydon
+* [[Chips Rafferty]] as Jock Crawford
+* [[Sylvia Kay]] as Janette Hynes
+* [[Jack Thompson (actor)|Jack Thompson]] as Dick
+* Peter Whittle as Joe
+* Al Thomas as Tim Hynes
+* [[John Meillon]] as Charlie
+* John Armstrong as Atkins, cab driver
+* [[Slim De Grey]] as Jarvis, two-up player
+* [[Maggie Dence]] as the hotel receptionist
+* Norman Erskine as Joe, cook at two-up school
+* [[Buster Fiddess]] as Charlie Jones, two-up Spinner
+* Tex Foote as Stubbs, bush publican
+* [[Nancy Knudsen]] as Robyn, John's girlfriend
+* [[Dawn Lake]] as Joyce, barmaid
+* [[Robert McDarra|Bob McDarra]] as Pig Eyes, truck driver
+* [[Jacko Jackson]] as Morley, van driver<ref name=HomeTruths>{{cite web|url=https://www.themonthly.com.au/issue/2009/july/1342411267/kate-jennings/home-truths|title=Home truths: Revisiting 'Wake in Fright'|date=3 July 2009|work=The Monthly|access-date=29 November 2017}}</ref><ref>{{cite web|url=http://www.bfi-staging.org.uk/films-tv-people/4ce2b6b26303c|title=Wake in Fright (1971) |work=BFI |publisher=[[British Film Institute]]|access-date=29 September 2020}}</ref>}}
+
+==Production==
+[[File:Broken Hill main street-1 (21382436496).jpg|thumb|Bundanyabba is a "thinly disguised portrait" of Broken Hill, where much of the film was shot.]]
+A [[film adaptation]] of Kenneth Cook's 1961 novel ''Wake in Fright'' was linked with the actor [[Dirk Bogarde]] and director [[Joseph Losey]] as early as 1963.<ref>{{cite journal|title=National nightmare: Mob Mentality and Colonial Failure in Wake in Fright|first=Nicholas|last=Godfrey|date=April 2017|journal=Screen Education|publisher=[[Australian Teachers of Media]]|issue=85|page=116}}</ref><ref>{{cite web|url=https://www.smh.com.au/entertainment/movies/wake-in-fright-20090630-gdtm38.html|title=Wake in Fright|work=[[The Sydney Morning Herald]]|first=Paul|last=Byrnes|date=30 June 2009|access-date=29 September 2020}}</ref> [[Morris West]] later secured the film rights and tried, unsuccessfully, to raise funding for the film's production.<ref name="AFI"/> The rights were eventually bought by Australian company [[NLT Productions]] and American firm [[Group W Films]] and Canadian director Ted Kotcheff was recruited to direct the film. As stated by writer Stephen Vagg, "the first masterpiece of the revived Australian film industry" was "directed by a Canadian, from a script by a Jamaican, with a Norwegian producer and finance from an American fridge manufacturer."<ref name="wake">{{cite news|newspaper=InReview|first=Stephen|last=Vagg|date=23 July 2024|title=There's clarity to Waking in Fright – after all these years|url=https://inreview.com.au/inreview/film/2024/07/23/theres-clarity-to-waking-in-fright-after-all-these-years/?fbclid=IwZXh0bgNhZW0CMTEAAR333DA7rQO4xvdZ8RHjch8I7QUFw75zn8yfPomGaIJyezxUepKcwel109I_aem_8q1c8BoPOr-NkGO6SEvAvw}}</ref>
+
+After ''Wake in Fright'', Kotcheff would continue to have a successful career as a director. His later films included ''[[The Apprenticeship of Duddy Kravitz (film)|The Apprenticeship of Duddy Kravitz]]'' (1973), ''[[Fun with Dick and Jane (1977 film)|Fun with Dick and Jane]]'' (1977), ''[[First Blood]]'' (1982) and ''[[Weekend at Bernie's]]'' (1988).<ref>{{cite web|url=https://www.allmovie.com/artist/ted-kotcheff-p97955/filmography|title=Ted Kotcheff Filmography|publisher=[[AllMovie]]|access-date=29 September 2020}}</ref> [[Robert Helpmann]] was initially hired to play the role of Doc Tydon, but he was replaced with Donald Pleasence due to scheduling conflicts.<ref name="AFI"/> Actor [[Michael York]] stated in a 1980 interview that he turned down a role in the film due to being offended by the kangaroo hunting scene.<ref name="AFI"/>
+
+The shooting of ''Wake in Fright'' began in January 1970 in the mining town of Broken Hill, (the area which had inspired Cook for the setting of his novel), with interiors shot the next month at Ajax Studios in the Sydney beach-side suburb of [[Bondi, New South Wales|Bondi]]. It was the last film to feature the veteran character actor Chips Rafferty, who died of a heart attack prior to ''Wake in Fright''{{'}}s release, and an early film with Jack Thompson, a future Australian cinema star, among its cast members.<ref name="AFI"/><ref>{{cite web|access-date=2 July 2025|date=2 July 2025|website=In Daily|url=https://www.indailyqld.com.au/inreview/film-tv/2025/07/02/jack-thompsons-brilliant-career-how-it-began-and-why-he-turned-his-back-on-movie-stardom?|title=Jack Thompson's brilliant career: How it began and why he turned his back on movie stardom|first=Stephen|last=Vagg}}</ref>
+
+==Film copyright issue==
+In 2018, a copyright dispute arose after Debbie Limb claimed she owned half of the film rights, as her father, [[Bobby Limb]], co-owned the film's production company NLT Productions. However, there was no existing documentation of a legal contract. It had been stipulated that revenue earned from the film be put into a trust fund to support the Australian film industry.<ref name="WIFA">{{cite web|url=https://smh.com.au/national/wake-in-fright-still-a-nightmare-for-legend-s-heir/20180616-p4zl9i.html|title=Wake in Fright still a nightmare for showbiz legend's heir|work=[[The Sydney Morning Herald]]|author=Sue Williams}}{{Dead link|date=July 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Release==
+The [[Film premiere|world premiere]] of ''Wake in Fright'' (as ''Outback'') occurred on opening night of the [[1971 Cannes Film Festival]] on 13 May.<ref name="boxoffice 31 may" /> Ted Kotcheff was nominated for a [[Golden Palm Award]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.fr/en/archives/ficheFilm/id/dcc27a70-7f10-4520-ba66-d92df51c5ac5/year/1971.html |title=Festival de Cannes: Wake in Fright |access-date=13 April 2009|work=festival-cannes.com}}</ref> Internationally, the film opened commercially in the United Kingdom on 29 October 1971 and the United States on 20 February 1972.<ref name="NFSA"/>
+
+When the film was re-released in Australia on 25 June 2009, it grossed $62,393 in its opening weekend,<ref>{{cite web|url=https://blogs.crikey.com.au/cinetology/2009/07/03/big-box-office-for-wake-in-fright/|title=Big box office for Wake in Fright|publisher=[[Crikey]]|first=Luke|last=Buckmaster|date=3 July 2009|access-date=3 December 2020|archive-date=6 April 2020|archive-url=https://web.archive.org/web/20200406020555/https://blogs.crikey.com.au/cinetology/2009/07/03/big-box-office-for-wake-in-fright/|url-status=dead}}</ref> and eventually earned $321,323.<ref name="FilmVic"/> The film made $50,394 during a 2012 re-release in the United States.<ref name="Box Office Mojo"/> It was also screened in Japan, among other revival markets.
+
+==Reception==
+''Wake in Fright'' found a favourable public response in [[France]], where it ran for five months, and in the United Kingdom. However, despite receiving such critical support at Cannes and in Australia, ''Wake in Fright'' suffered poor domestic box-office returns. Although there were complaints that the film's distributor, [[United Artists]], had failed to promote the film successfully, it was also thought that the film was "perhaps too uncomfortably direct and uncompromising to draw large Australian audiences".<ref>{{cite news | first = Matthew | last = Scott | title = Film (1971) | date = 12 December 2009 | url = https://www.scmp.com/article/701747/film-1971 | work = [[South China Morning Post]]| location = Hong Kong | access-date = 3 November 2013| archive-date=4 November 2013 | archive-url =https://web.archive.org/web/20131104183936/http://www.scmp.com/article/701747/film-1971 | url-status=live }}</ref> During an early Australian screening, one man stood up, pointed at the screen and protested "That's not us!", to which Jack Thompson yelled back "Sit down, mate. It is us."<ref>{{cite web| url = http://www.worldcinemaguide.com/masters-of-cinema-wake-in-fright/ | title= ''Wake in Fright'' | first=Al |last=Burton |date=25 December 2014| publisher=WorldCinemaGuide.com| archive-date= 5 November 2016| archive-url = https://web.archive.org/web/20161105110232/http://www.worldcinemaguide.com/masters-of-cinema-wake-in-fright/| url-status=live}}</ref>
+
+In his 1972 review for ''[[The New York Times]]'', [[Roger Greenspun]] praised the film for its atmosphere "of general foreboding that crystalizes often enough into particular terror and that is not quite like anything else I can remember feeling at the movies. Certain science-fiction films come closest to it, especially those in which some evil alien presence has taken over a community that to all outward appearances remains normal—with only the slightest most fugitive hint that something somehow is hideously wrong"; he also admitted to finding the memorial service at the RSL club to be more disturbing than the kangaroo hunting sequences, and praised the performances of the cast, particularly Kay and Thomas.<ref>Greenspun, Roger (21 February 1972). [https://www.nytimes.com/1972/02/21/archives/screen-outback-opensfilm-evokes-ambiance-of-australian-town.html "Screen: 'Outback' Opens".] ''[[The New York Times]]''. 37.</ref> 
+
+A review of the Cannes premiere in ''[[Variety (magazine)|Variety]]'' called it "a creditable effort" from the Australian film industry, "even allowing for the fact that key technical and acting credits are British. The end result is a forceful glimpse of little-known territory in which the emphasis is on booze and violence, with a touch of sex for good measure."<ref>"Film Reviews: Outback". ''[[Variety (magazine)|Variety]]''. 26 May 1971. 22.</ref> Gillian Hanson of ''[[The Monthly Film Bulletin]]'' wrote, "Canadian director Ted Kotcheff has captured the mindless brutality of life in the outback with extraordinary felicity ... Yet, despite its unmistakable competence, the film's bite is blunted by the script's shallow and largely unmotivated characterisation of John Grant, and by the loosely-knit and over-melodramatic story line which never achieves thematic coherence."<ref>{{cite journal |last=Hanson |first=Gillian |date=December 1971 |title=Outback |journal=[[The Monthly Film Bulletin]] |volume=38 |issue=455 |page=244 }}</ref>
+
+The unrestored version of ''Wake in Fright'' received a three stars (out of four) rating from the American film reviewer [[Leonard Maltin]] in his ''2006 Movie Guide'', while [[Brian McFarlane (writer)|Brian McFarlane]], writing in 1999 in ''The Oxford Companion to Australian Film'', said that it was "almost uniquely unsettling in the history of new Australian Cinema". Askmen.com echoed these sentiments, citing that "it's not hard to see why the dusty savagery and clown-faced surrealism of Ted Kotcheff's fourth feature was never shown on telly at the time."<ref>{{cite web | url = http://au.askmen.com/top_10/entertainment/top-10-weirdest-aussie-movies_4.htm|title= Top 10: Weirdest Aussie Movies > No.4 ''Wake in Fright'', 1971l | first= Toby| last= McCasker| date= n.d.|publisher=AskMen.com| archive-date=2 October 2011 | archive-url = https://web.archive.org/web/20111002014415/http://au.askmen.com/top_10/entertainment/top-10-weirdest-aussie-movies_4.html}}</ref>
+
+Following the film's restoration, ''Wake in Fright'' screened at the [[2009 Cannes Film Festival]] on 15 May 2009 when it was selected as a Cannes Classic title by the head of the department, [[Martin Scorsese]].<ref name="www.usatoday.com">{{cite news |url=https://www.usatoday.com/life/movies/news/2009-05-17-scorsese_N.htm |title=At Cannes, Martin Scorsese has his eyes on films long unseen |access-date=8 January 2012 |work=[[USA Today]]|first=Anthony |last=Breznican |date=18 May 2009| archive-date= 26 July 2013 | archive-url = https://web.archive.org/web/20130726053024/http://usatoday30.usatoday.com/life/movies/news/2009-05-17-scorsese_N.htm| url-status=live}}</ref> ''Wake in Fright'' is one of only two films ever to screen twice in the history of the festival.<ref name="www.nfsa.gov.au">{{cite web |url=http://nfsa.gov.au/site_media/uploads/file/2010/11/03/08-09-Annual-Report.pdf |title=Australian National Film & Sound Archive Annual Report 2008-09 |access-date=8 January 2012 |publisher=National Film and Sound Archive Australia}}</ref> Scorsese said, "''Wake in Fright'' is a deeply -- and I mean deeply -- unsettling and disturbing movie. I saw it when it premiered at Cannes in 1971, and it left me speechless. Visually, dramatically, atmospherically and psychologically, it's beautifully calibrated and it gets under your skin one encounter at a time, right along with the protagonist played by Gary Bond. I'm excited that ''Wake in Fright'' has been preserved and restored and that it is finally getting the exposure it deserves."<ref>{{cite web | last =Peary | first =Danny | author-link =Danny Peary | title =Ted Kotcheff on ''Wake in Fright'' | date =5 October 2012 | url =http://dannypeary.blogspot.com.au/2012/10/ted-kotcheff-on-wake-in-fright.html#comment-form | access-date =7 May 2013 }}</ref>
+
+[[Roger Ebert]] reviewed the re-release and said "It's not dated. It is powerful, genuinely shocking and rather amazing. It comes billed as a 'horror film' and contains a great deal of horror, but all of the horror is human and brutally realistic."<ref>{{cite news  | last =Ebert | first =Roger | author-link =Roger Ebert | title =Wake in Fright | work =Chicago Sun-Times | date =31 October 2012 | url =https://www.rogerebert.com/reviews/wake-in-fright-2012 | access-date =1 November 2012 }}</ref> Don Groves of [[Special Broadcasting Service|SBS]] gave the film four stars out of five, claiming that "''Wake in Fright'' deserves to rank as an Australian classic as it packs enormous emotional force, was bravely and inventively directed, and features superb performances."<ref>{{cite news | title=Wake in Fright (review) | work=[[Special Broadcasting Service|SBS]] | url=http://www.sbs.com.au/films/movie/3957/Wake-in-Fright | first=Don | last=Groves | access-date=14 February 2013 | archive-date=11 March 2010 | archive-url=https://web.archive.org/web/20100311074125/http://www.sbs.com.au/films/movie/3957/Wake-in-Fright | url-status=dead }}</ref> 
+
+American critic [[Rex Reed]], an early advocate of ''Wake in Fright'', praised the film's restoration as "the best movie news of the year", and said it "may be the greatest Australian film ever made".<ref name="rex">[[Rex Reed|Reed, Rex]] (2 October 2012). [https://observer.com/2012/10/rex-reed-ted-kotcheff-gary-bond-wake-in-fright/ "A Beautiful Nightmare"], ''[[The New York Observer]]''. Retrieved 14 December 2012.</ref> According to Australian musician and screenwriter [[Nick Cave]], it is "the best and most terrifying film about Australia in existence."<ref>Cave, Nick. [http://www.cinefamily.org/films/wake-in-fright-brand-new-35mm-print/ "Wake in Fright (brand-new 35mm print!)"] {{Webarchive|url=https://web.archive.org/web/20150402090215/http://www.cinefamily.org/films/wake-in-fright-brand-new-35mm-print/ |date=2 April 2015 }}, ''[[Cinefamily|The Cinefamily]]''. Retrieved 7 May 2013.</ref> Stephen Vagg argued for ''InReview'' that "the thing often not appreciated about Wake in Fright is that most of the people Grant encounters are trying to be nice... This snobbish Baby Boomer is too good for the people he encounters or things they do but he doesn’t have the courage of his prejudices to avoid them."<ref name="wake" />
+
+The film has an approval rating of 97% and a rating average score of 8.6/10 on the [[review aggregator]] website [[Rotten Tomatoes]], based on 59 reviews. The site's consensus states: "A disquieting classic of Australian cinema, ''Wake in Fright'' surveys a landscape both sun-drenched and ruthlessly dark."<ref name="rt"/> On [[Metacritic]], the film holds a score of 85 out of 100 based on reviews from 21 critics, indicating "universal acclaim".<ref>{{cite web|url=https://www.metacritic.com/movie/wake-in-fright-1971|title=Wake in Fright (1971) Reviews|publisher=[[Metacritic]]|access-date=29 September 2020}}</ref> ''Wake in Fright'' is also listed in the 2015 edition of the film reference book ''[[1001 Movies You Must See Before You Die]]''.<ref>Schneider, Steven Jay; Smith, Ian Haydn (2015). ''1001 Movies You Must See Before You Die''. Murdoch Books Pty Limited. 9781743366165.</ref>
+
+==Controversy==
+In addition to the film's atmosphere of sordid realism, the [[kangaroo]] hunting scene contains genuine graphic footage of kangaroos being shot.<ref>{{cite web|title=Wake in Fright – BBFC Insight|url=http://www.bbfc.co.uk/releases/wake-fright-1971#bbfcinsight|archive-url=https://web.archive.org/web/20140425060513/http://www.bbfc.co.uk/releases/wake-fright-1971#bbfcinsight|url-status=dead|archive-date=25 April 2014|website=British Board of Film Classification|access-date=28 December 2014|date=28 January 2014}}</ref> A disclaimer at the conclusion of the movie states:
+
+{{blockquote|PRODUCERS' NOTE
+
+The hunting scenes depicted in this film were taken during an actual kangaroo hunt by professional licensed hunters.
+
+For this reason and because the survival of the Australian kangaroo is seriously threatened, these scenes were shown uncut after consultation with the leading animal welfare organisations in Australia and the United Kingdom.|Quoted from the movie credits.}}
+
+The hunt lasted several hours, and gradually wore down the filmmakers. According to cinematographer Brian West, "the hunters were getting really drunk and they started to miss, ... It was becoming this orgy of killing and we [the crew] were getting sick of it." Kangaroos hopped about helplessly with gun wounds and trailing intestines. Producer [[George Willoughby (producer)|George Willoughby]] fainted after seeing a kangaroo "splattered in a particularly spectacular fashion". The crew [[Sabotage|orchestrated]] a [[power failure]] in order to end the hunt.<ref>Galvin, Peter (22 March 2010). [http://www.sbs.com.au/films/movie-news/345787/the-making-of-wake-in-fright-part-three "The Making of Wake in Fright (Part Three)"], SBS. Retrieved 7 January 2013.</ref>
+
+At the 2009 Cannes Classic screening of ''Wake in Fright'', 12 people walked out during the kangaroo hunt.<ref>[https://web.archive.org/web/20090628105104/http://www.abc.net.au/atthemovies/txt/s2590395.htm "Wake in Fright interview"], ''[[At the Movies (Australian TV series)|At the Movies]]''. Retrieved 7 January 2013</ref>
+
+Kotcheff, a vegetarian,<ref>{{cite web|last1=Skinner|first1=Craig|title=Ted Kotcheff discusses Wake in Fright, kangaroo slaughter and existentialism|url=http://www.filmdivider.com/237/ted-kotcheff-discusses-wake-in-fright-animal-welfare-and-existentialism/|website=Film Divider|access-date=27 December 2014|archive-url=https://web.archive.org/web/20141227115847/http://www.filmdivider.com/237/ted-kotcheff-discusses-wake-in-fright-animal-welfare-and-existentialism/|archive-date=27 December 2014|url-status=usurped|date=24 March 2014}}</ref> defended his use of the hunting footage in the film.<ref>{{cite web|last1=Kotcheff|first1=Ted|author-link1=Ted Kotcheff|title=Wake in Fright – Director's Statement|url=http://www.siskelfilmcenter.org/wakeinfright_statement|website=Gene Siskel Film Center|access-date=21 December 2014|archive-url=https://web.archive.org/web/20141221110208/http://www.siskelfilmcenter.org/wakeinfright_statement|archive-date=21 December 2014|url-status=dead|date=12 August 2012}}</ref>
+
+==Restoration and home-media releases==
+For many years, the only known print of ''Wake in Fright'', found in [[Dublin]], was considered of insufficient quality for transfer to DVD or videotape for commercial release. In response to this situation, ''Wake in Fright''{{'}}s editor, Anthony Buckley, began to search in 1994 for a better-preserved copy of the film in an uncut state. Eight years later, in [[Pittsburgh]], Buckley found the negatives of ''Wake in Fright'' in a shipping container labelled "For Destruction". He rescued the material, which formed the basis for the film's painstaking 2009 restoration.<ref>{{cite web|url= http://www.nfsa.gov.au/collection/film/wake-fright/recovery-and-restoration/|title=Wake in Fright: Recovery and restoration|publisher=National Film & Sound Library Australia|access-date=26 September 2013}}</ref> Evidently a 35mm print in excellent condition had also survived in the collection of the [[Library of Congress]], which screened it in the library's [[Mary Pickford Theater]] in 2008, although its reported running time of only 96 minutes suggests this was an edited version.<ref>{{cite web|title=Past Screenings: Friday, June 27, 2008|url=https://www.loc.gov/rr/mopic/pickford/2008-archive.html|website=Mary Pickford Theater|publisher=Library of Congress|access-date=27 December 2014|archive-url=https://web.archive.org/web/20140729142841/http://www.loc.gov/rr/mopic/pickford/2008-archive.html|url-status=live|archive-date=29 July 2014}}</ref>
+
+''Wake in Fright'' was released on [[DVD]] and [[Blu-ray]] formats by [[Madman Entertainment]] on 4 November 2009,<ref>{{cite web|title=Wake in Fright (aka Outback)|url=http://www.wakeinfright.com|url-status=usurped|archive-url=https://web.archive.org/web/20110202205643/http://wakeinfright.com/|archive-date=2 February 2011}}</ref> based on a digital restoration completed earlier that year. This restoration was shown to the general public for the first time at the [[Sydney Film Festival]] in June 2009, and in re-release has been called "a classic Australian film which has achieved cult status".<ref name="www.abc.net.au-7.30">{{cite web | url=http://www.abc.net.au/7.30/content/2009/s2550081.htm |title='Wake in Fright' restored for re-release | work=[[The 7:30 Report]] | publisher=[[Australian Broadcasting Corporation]]| date= 22 April 2009| first=Rebecca |last=Baillie|access-date=22 April 2009|archive-date= 26 April 2009 | archive-url = https://web.archive.org/web/20090426205126/http://www.abc.net.au/7.30/content/2009/s2550081.htm | url-status=live}}</ref>
+
+[[Umbrella Entertainment]] has since acquired the global distribution rights to the film. Umbrella announced on 17 May 2024 that they have produced a completely new restoration of the film, supervised by [[Mark Hartley]], based on a fresh [[4K resolution|4K]] re-scan from the original camera negative.<ref>{{cite web |title=Umbrella Entertainment announces restoration of new wave landmark WAKE IN FRIGHT |url=https://umbrellaent.com.au/wake-in-fright-4k/ |website=Umbrella Entertainment |access-date=28 May 2024 |date=17 May 2024}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Adams, B & Shirley, G. (1983)	''Australian Cinema: The First Eighty Years'', Angus and Robertson, {{ISBN|0-312-06126-9}}
+* Buckley, Anthony (2009) ''Behind a Velvet Light Trap: A Filmmaker's Journey from Cinesound to Cannes''. Prahran: Hardie Grant Books. {{ISBN|978-1-74066-7906}}
+* Caterson, S., (2006) "The Best Australian Film You've Never Seen", ''Quadrant'', pp.&nbsp;86–88, Jan–Feb 2006.
+* Greenwood, P. (2006). [http://wwwmcc.murdoch.edu.au/ReadingRoom/film/dbase/2006/wake.doc ''Wake in Fright''] {{Webarchive|url=https://web.archive.org/web/20190316005228/http://wwwmcc.murdoch.edu.au/ReadingRoom/film/dbase/2006/wake.doc |date=16 March 2019 }}.  Perth: Murdoch University. Retrieved 15 January 2007.
+* Kaufman, Tina (2010) ''Wake in Fright: Australian Screen Classics''. Sydney: Currency Press. {{ISBN|978-0-86819-864-4}}
+* [[Brian McFarlane (writer)|McFarlane, B.]] (1999) ''The Oxford Companion to Australian Film'', Melbourne: Oxford University Press, Melbourne.  {{ISBN|978-0-19-553797-0}}
+* Maddox, G. (2004) "Treasure, not trash: classic found in US", ''The Sydney Morning Herald'', p 13, 16 October 2004.
+* Maltin, L. (2006) ''Leonard Maltin's 2006 Movie Guide'', Signet, {{ISBN|0-451-21609-1}}.
+* Pike, A. & Cooper, R. (1998) ''Australian Film 1900–1977'', Oxford University Press, Melbourne.  {{ISBN|0-19-550784-3}}
+* Williamson, G. (2006)	"The Forum", ''The Australian'', p.&nbsp;5, 30 December 2006.
+* Zion, L. (2006) "DVD Letterbox", ''The Australian'', p.&nbsp;25, 29 July 2006.
+* Hoey. Gregory [2012] "Wake in Fright:by an elephant in the room" a book of personal memoirs.
+
+==External links==
+{{wikiquote}}
+* {{IMDb title|0067541|Wake in Fright}}
+* {{Metacritic film|title=Wake in Fright}}
+*[http://www.ozmovies.com.au/movie/wake-in-fright ''Wake in Fright''] at Oz Movies
+{{Ted Kotcheff}}
+
+{{DEFAULTSORT:Wake in Fright}}
+[[Category:1971 films]]
+[[Category:1971 LGBTQ-related films]]
+[[Category:1970s Christmas films]]
+[[Category:Australian LGBTQ-related films]]
+[[Category:Australian Christmas films]]
+[[Category:Animal cruelty incidents in film]]
+[[Category:Broken Hill]]
+[[Category:1971 English-language films]]
+[[Category:Films about educators]]
+[[Category:Films based on Australian novels]]
+[[Category:Films directed by Ted Kotcheff]]
+[[Category:Films scored by John Scott (composer)]]
+[[Category:Films about alcoholism]]
+[[Category:Films about hunting]]
+[[Category:Films about medical doctors]]
+[[Category:Films set in deserts]]
+[[Category:Films set in mining communities]]
+[[Category:Films shot in New South Wales]]
+[[Category:Films shot in Sydney]]
+[[Category:1970s rediscovered films]]
+[[Category:Films set in the Outback]]
+[[Category:Rediscovered Australian films]]
+[[Category:Obscenity controversies in film]]
+[[Category:1971 Australian films]]
+[[Category:English-language Christmas films]]
+[[Category:Films about kangaroos and wallabies]]
+[[Category:United Artists films]]

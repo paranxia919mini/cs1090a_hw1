@@ -1,0 +1,705 @@
+{{Short description|1972 American musical film by Bob Fosse}}
+
+{{Use British English|date=May 2026}}
+{{Use mdy dates|date=December 2018}}
+{{Infobox film
+| image          = Original movie poster for Cabaret.jpg
+| caption        = Theatrical release poster
+| director       = [[Bob Fosse]]
+| screenplay     = [[Jay Presson Allen]]{{efn|Rewrites by [[Hugh Wheeler]], credited as "research consultant" (see [[#Screenplay revisions|Screenplay revisions]]).}}
+| based_on       = {{plainlist|
+* {{Based on|''[[Cabaret (musical)|Cabaret]]''<br>(1966 musical)|[[Joe Masteroff]]<ref name="afi">{{Cite web |title=Cabaret (1972) |url=https://catalog.afi.com/Catalog/moviedetails/54427 |access-date=2024-11-05 |website=[[AFI Catalog of Feature Films]]}}</ref>}}
+* {{Based on|''[[I Am a Camera]]''<br>(1951 play)|[[John Van Druten]]<ref name="afi"/>}}
+* {{Based on|''[[Goodbye to Berlin]]''<br />(1939 novel)|[[Christopher Isherwood]]<ref name="afi"/>}}
+}}
+| producer       = [[Cy Feuer]]
+| starring       = {{Plainlist|
+* [[Liza Minnelli]]
+* [[Michael York]]
+* [[Helmut Griem]]
+* [[Marisa Berenson]]
+* [[Joel Grey]]
+}}
+| cinematography = [[Geoffrey Unsworth]]
+| editing        = [[David Bretherton]]
+| music          = {{plain list|
+* '''Score and lyrics:'''
+* [[Kander and Ebb]]<ref name="afi"/>
+* '''Adaptation:'''
+* [[Ralph Burns]]<ref name="afi"/>
+}}
+| studio         = [[ABC Pictures|ABC Pictures Corp.]]
+| distributor    = [[Allied Artists Pictures Corporation|Allied Artists]]
+| released       = {{Film date|1972|2|13}}
+| runtime        = 124 minutes
+| country        = United States
+| language       = English
+| budget         = $4.6&nbsp;million<ref name="Beaupre 1973"/>
+| gross          = $42.8&nbsp;million<ref name="Box Office"/>
+}}
+
+'''''Cabaret''''' is a 1972 American [[musical film|musical]] [[drama film]] directed and choreographed by [[Bob Fosse]] from a screenplay by [[Jay Presson Allen]]. It is based on [[Cabaret (musical)|the 1966 stage musical]] by [[Joe Masteroff]] (book) and the duo [[Kander and Ebb]] (music),<ref name="Variety 1971" /> which in turn was based on the 1951 play ''[[I Am a Camera]]'' by [[John Van Druten]] and the 1939 novel ''[[Goodbye to Berlin]]'' by [[Christopher Isherwood]].<ref name="Variety 1971" />{{sfn|Belletto|2008|p=609}}  It stars [[Liza Minnelli]], [[Michael York]], [[Helmut Griem]], [[Marisa Berenson]], and [[Joel Grey]]. The film won eight [[Academy Awards]], including [[Academy Award for Best Director|Best Director]] for Fosse, [[Academy Award for Best Actress|Best Actress]] for Minnelli, and [[Academy Award for Best Supporting Actor|Best Supporting Actor]] for Grey. Multiple numbers from the stage score were used for the film, which also featured three other songs by Kander and Ebb, including two written for the adaptation.<ref name="Greenspun 1972"/><ref name="TCM Notes 2016"/>
+
+In the traditional manner of musical theatre, most major characters in the stage version sing to express their emotions and advance the plot; in the film, however, the musical numbers are almost entirely [[Diegetic music|diegetic]] (recognized by the characters themselves as musical numbers) and take place inside the club,<ref name="Greenspun 1972"/>{{sfn|Belletto|2008|p=609}} with the exception of "[[Tomorrow Belongs to Me]]", which is not performed in the club or by the club characters, but is still diegetic, a nationalistic song sung by a Nazi youth and the German crowd.<ref name="Benedict 2002"/>
+
+''Cabaret'' was released in the United States on February 13, 1972, by [[Allied Artists Pictures Corporation|Allied Artists]]. The film received critical acclaim and eventually earned more than $42 million in the box office against a production budget of $4.6 million.<ref name="Variety 1971" /><ref name="Greenspun 1972" /><ref name="Box Office"/><ref name="Ebert 1972"/><ref name="Kael 1972"/> At the [[45th Academy Awards]], the film won in eight categories – including Best Director (Fosse), Best Actress (Minnelli), Best Supporting Actor (Grey), and [[Academy Award for Best Original Score|Best Score]] – holding the [[List of Academy Award records#Film records|record for most Oscars earned by a film not honoured for Best Picture]]. In 1995, ''Cabaret'' was selected by the [[Library of Congress]] for preservation in the United States [[National Film Registry]] as being deemed "culturally, historically, or aesthetically significant".<ref name="National Film Registry"/><ref name="Liebenson 1996"/>
+
+== Plot ==
+In 1931 [[Berlin]], a young, openly promiscuous American, [[Sally Bowles]], performs at the Kit Kat Klub. A new British arrival in the city, Brian Roberts, moves into the boarding house where Sally lives. A reserved academic and writer, Brian must give English lessons to earn a living while completing his doctorate. Sally tries to seduce Brian, but he tells her that on three previous occasions he has tried to have sexual relationships with women, all of which failed. They become friends, and Brian witnesses Sally's bohemian life in the last days of the [[Weimar Republic]]. When Brian consoles Sally after her father cancels his meeting with her, they become lovers, concluding that his previous failures with women were because they were "the wrong three girls".
+
+Maximilian von Heune, a rich, married playboy and baron, befriends Sally and takes her and Brian to his country estate where they are both spoiled and courted. After Brian and Max witness a Nazi song breaking out in a cafe, with all but one Patron joining in, Brian reminds Max that Max once told him the Nazis were harmless. Max drops his pursuit of the pair in haste. During an argument, Sally tells Brian that she has been having sex with Max, and Brian reveals that he has as well. Brian and Sally later reconcile, and Sally reveals that Max left them 300 [[Reichsmark|marks]] and mockingly compares the sum with what a professional prostitute earns.
+
+Sally learns that she is pregnant but is unsure of the father. Brian offers to marry her and take her back to his university life in [[Cambridge]]. At first, they celebrate their resolution to start this new life together, but after a picnic between Sally and Brian, in which Brian acts distant and uninterested, Sally becomes disheartened by the vision of herself as a bored faculty wife washing dirty diapers. Ultimately, she has an [[abortion]], without informing Brian in advance. When he confronts her, she shares her fears, and the two reach an understanding. Brian departs for England, and Sally continues her life in Berlin, embedding herself in the Kit Kat Klub.
+
+Meanwhile, Fritz Wendel, a German Jew passing as a [[Protestant Christian]], is in love with Natalia Landauer, a wealthy German Jewish heiress who holds him in contempt and suspects his motives. Through Brian, Sally advises him to be more aggressive, which eventually enables Fritz to win her love. However, to gain her parents' consent for their marriage, Fritz must reveal his Jewish background, which he does, and the two are married by a [[rabbi]].
+
+The rise of [[Fascism in Europe]] is an ever-present undercurrent and is the overarching plot of the film. The progress of the primary characters can be tracked through their changing actions and attitudes towards the [[Rise of Nazism|rising Nazism in the Weimar Republic]]. At the beginning of the film, a member of the [[Nazi Party]] is expelled from the Kit Kat Klub by the club manager, who suffers a subsequent beating.
+
+The rise of Nazism in the 1930s is also demonstrated towards the end of the film in a rural beer garden scene. There, a blond boy sings to an audience of all ages ("[[Tomorrow Belongs to Me]]") about the beauties of nature and youth. It is eventually revealed that the boy is wearing a [[Hitler Youth]] uniform. The ballad then transforms into a militant [[Nazi songs|Nazi anthem]], and by the song's end, one by one nearly all of the adults and young people rise and join in the singing. "Do you still think you can control them?" Brian then asks Max. After the beer garden scene, Brian gets into a confrontation with a Nazi on a Berlin street, which leads to his receiving a beating.
+
+In the final scene of the film in the Kit Kat Klub, it slowly becomes apparent in the hazy club that audience members wearing [[Ranks and insignia of the Nazi Party|NSDAP uniforms]] are now sitting in the preferred front seats of the club.
+
+== Cast ==
+{{Cast listing|
+* [[Liza Minnelli]] as [[Sally Bowles]]
+* [[Michael York]] as Brian Roberts
+* [[Helmut Griem]] as Baron Maximilian von Heune
+* [[Joel Grey]] as the master of ceremonies
+* [[Fritz Wepper]] as Fritz Wendel
+* [[Marisa Berenson]] as Natalia Landauer
+* [[Elisabeth Neumann-Viertel]] as Fräulein Schneider
+* [[Helen Vita]] as Fräulein Kost
+* {{ill|Sigrid von Richthofen|de}} as Fräulein Mayr
+* [[Gerd Vespermann]] as Bobby
+* [[Ralf Wolter]] as Herr Ludwig
+* [[Ricky Renée]] as Elke
+* {{ill|Estrongo Nachama|de}} as the [[Hazzan|cantor]]
+* [[Kathryn Doby]], Inge Jaeger, Angelika Koch, Helen Velkovorska, Gitta Schmidt and Louise Quick as the Kit Kat Klub dancers
+* [[:de:Oliver Collignon|Oliver Collignon]] as the [[Hitler Youth]] singer (uncredited)
+** [[Mark Lambert (American actor)|Mark Lambert]] as the singing voice of the Hitler Youth singer (uncredited)<ref name="TCM Notes 2016"/>
+* [[Pierre Franckh]] as a Nazi (uncredited)
+}}
+
+== Historical basis ==
+{{Further|Christopher Isherwood|Jean Ross}}
+{{CSS image crop|Image = Jean ross.jpg|bSize = 310|cWidth = 200|cHeight = 190|oTop = 25|oLeft = 50|Location = right|Description = The character of [[Sally Bowles]] was based on [[Jean Ross]], a British cabaret singer with whom Isherwood lived as a roommate in Weimar-era Berlin.|Link=Jean Ross}}
+
+The events depicted in the 1972 film are derived from the Anglo-American writer Christopher Isherwood's autobiographical tales of his colourful escapades in the [[Weimar Republic]].{{r|Doyle 2013|Moss 1979}} In 1929, Isherwood visited his friend [[W. H. Auden]] in [[Weimar culture|Weimar-era Berlin]] during the final year of the [[Golden Twenties]].{{sfn|Isherwood|1976|pp=3–8}} He soon relocated to Berlin to avail himself of the boy prostitutes found in the city's orgiastic [[Jazz Age]] cabarets.<ref>{{harvnb|Moss|1979}}: Isherwood frequented "the boy-bars in Berlin in the late years of the Weimar Republic.... [He] discovered a world utterly different from the repressive English one he disliked, and with it, the excitements of sex and new subject matter."</ref><ref>{{harvnb|Isherwood|1976|loc=Chapter 1|ps=: "To Christopher, Berlin meant Boys... Christopher was suffering from an inhibition, then not unusual among upper-class homosexuals; he couldn't relax sexually with a member of his own class or nation. He needed a working-class foreigner."}}</ref> His [[Auden Group|expatriate social circle]] included Auden, poet [[Stephen Spender]], and 19-year-old British [[flapper]] [[Jean Ross]].{{r|Spender 1977|Spender 1966}}
+
+By early 1931,<ref name="Bucknell 2024"/>{{sfn|Isherwood|1976|p=63}} Isherwood shared modest lodgings with Ross, a cabaret singer and aspiring film actress.{{r|Frost 2013|Parker 2004}} While rooming together in a boarding house in Berlin's [[Schöneberg]] quarter,{{r|Frost 2013|Parker 2004}} a 27-year-old Isherwood settled into a sexual relationship with a 16-year-old German boy,<ref>{{harvnb|Parker|2005|pp=205–206}}: "...a sixteen-year-old Berliner named Heinz Neddermeyer... Isherwood realized that he 'had found someone emotionally innocent, entirely vulnerable...' In other words, he had found the person for whom he had been looking in all his relationships with adolescents."</ref> while Ross engaged in a series of sexual liaisons.{{sfnm|Isherwood|1976|1pp=244–245|Parker|2005|2p=205}} After five or six months, the boarding house evicted Ross due to her sexual activities, and she moved in with a [[heroin addict]].<ref name="Bucknell 2024"/> During this period, Isherwood and Ross purportedly met John Blomshield, a wealthy playboy who inspired the film character of Baron Maximilian von Heune.{{r|Fryer 1993|MacLean 2014}} Blomshield sexually pursued both Isherwood and Ross. After inviting them on a trip abroad, he disappeared without saying goodbye.<ref name="Blomshield">{{harvnb|Isherwood|1976|p=84}}: "... the American thrilled them by inviting them to come with him to the States and then dashed their hopes by leaving Berlin abruptly, without saying goodbye."</ref>{{r|Fryer 1993|MacLean 2014}}
+
+In the summer of 1931, Ross became pregnant by jazz pianist and later actor [[Peter van Eyck]].{{sfn|Bucknell|2024}}{{r|Parker 2005|Parker 2004}} She underwent a near-fatal [[abortion]] facilitated by Isherwood, who pretended to be her impregnator.{{r|Parker 2005|Parker 2004|Thomson 2005|Lehmann 1987}} While Ross recovered from the [[botched abortion]] procedure,{{r|Parker 2005}} Germany's political situation [[Adolf Hitler's rise to power|deteriorated]].{{r|Spender 1966}} As Berlin's daily scenes featured "poverty, unemployment, political demonstrations and street fighting between the forces of the [[Communist Party of Germany|extreme left]] and the [[Nazi Party|extreme right]],"{{r|Spender 1977}} Isherwood, Spender, and others realised that they must flee the country.{{sfn|Parker|2005|p=221}}{{r|Spender 1966}} "There was a sensation of doom to be felt in the Berlin streets," Spender recalled.{{r|Spender 1966}}
+
+After the [[Enabling Act of 1933|Enabling Act]] cemented [[Adolf Hitler]]'s dictatorship, Isherwood fled Nazi Germany in May 1933.<ref>{{harvnb|Parker|2005|pp=257–258}}: "In the early hours of 13 May Isherwood sat down for the last time at his desk in Nollendorfstrasse and prepared to say goodbye to Berlin.... At six o'clock on the morning of 13 May 1933, Isherwood set off with Heinz for the Anhalterbahnhof..."</ref> Afterwards, the Nazis shuttered most of Berlin's seedy cabarets,<ref name="Farina 2013"/> and many of Isherwood's acquaintances fled abroad or perished in [[concentration camp]]s.{{sfnm|Isherwood|1976|1pp=164–166|Isherwood|1976|2pp=150, 297|Farina|2013|3pp=74–81}} These factual events inspired Isherwood's [[The Berlin Stories|Berlin stories]], including his 1937 novella ''Sally Bowles,'' republished in the 1939 novel ''[[Goodbye to Berlin]]''. [[John Van Druten]] adapted ''Goodbye to Berlin'' into the 1951 play ''[[I Am a Camera]]'', and [[Harold Prince]] produced it as the 1966 musical [[Cabaret (musical)|''Cabaret'']].{{r|Lehmann 1987|Izzo 2005}}
+
+== Production ==
+=== Pre-production ===
+In July 1968, [[Cinerama]] made a verbal agreement to make a film version of the 1966 Broadway musical but pulled out in February 1969.<ref name="TCM Notes 2016"/><ref name="New York Times 1969"/><ref name="AFI"/> In May 1969, [[Allied Artists Pictures Corporation|Allied Artists]] paid a company record $1.5 million for the film rights and planned a company record budget.<ref name="TCM Notes 2016"/><ref name="New York Times 1969"/><ref name="AFI"/> The cost of $4,570,000 was split evenly with [[American Broadcasting Company|ABC Pictures]].<ref name="TCM Notes 2016"/><ref name="AFI"/><ref name="Beaupre 1973"/>
+{{CSS image crop|Image = Bob Fosse and Viveca Lindfors 1963.jpg|bSize = 450|cWidth = 200|cHeight = 190|oTop = 110|oLeft = 0|Location = right|Description = [[Bob Fosse]] was eager to direct the film after the box office failure of ''[[Sweet Charity (film)|Sweet Charity]]'' (1969).}}
+
+In 1971, [[Bob Fosse]] learned through [[Harold Prince]], director of the original Broadway production, that [[Cy Feuer]] was producing a film adaptation of ''Cabaret'' through ABC Pictures and Allied Artists.<ref name="TCM Notes 2016"/> It would be one of the last movies made by ABC.<ref name="ink">{{cite magazine|first=Stephen|last=Vagg|magazine=Filmink|url=https://www.filmink.com.au/forgotten-film-moguls-martin-baum-at-abc-pictures-selig-seligman-at-selmur-and-edgar-scherick-at-palomar/|date=7 April 2026|access-date=7 April 2026|title=Forgotten Film Moguls: Martin Baum at ABC Pictures, Selig Seligman at Selmur and Edgar Scherick at Palomar}}</ref> This was the first film produced in the revival of Allied Artists. Determined to direct the film, Fosse begged Feuer to hire him.<ref name="TCM Notes 2016"/> However, Fosse had previously directed the unsuccessful film adaptation of ''Sweet Charity'', a box office failure which made chief executives Manny Wolf and [[Martin Baum (agent)|Marty Baum]] reluctant to hire him.<ref name="TCM Notes 2016"/> Wolf and Baum preferred a more renowned or established director such as [[Billy Wilder]], [[Joseph L. Mankiewicz]] or [[Gene Kelly]].<ref name="TCM Notes 2016"/>{{r|Garebian 2011|p=134}}
+
+Eager to hire Fosse, Feuer appealed to the studio heads, citing Fosse's talent for staging and shooting musical numbers, adding that if inordinate attention was given to filming the book scenes at the expense of the musical numbers, the whole film could fail. Fosse ultimately was hired. Over the next months, Fosse met with previously hired screenwriter Jay Presson Allen to discuss the screenplay.{{r|Garebian 2011|pp=136-139}}
+
+=== Screenplay revisions ===
+As production neared, Fosse became increasingly dissatisfied with Allen's script, which was based on [[Joe Masteroff]]'s original book of the stage version. Fosse hired [[Hugh Wheeler]] to rewrite and revise Allen's work.{{r|Garebian 2011|pp=136-139}} Wheeler was referred to as a "research consultant," and Allen retained screenwriting credit. Wheeler, a friend of Christopher Isherwood,<ref name="Day 1974"/> knew that Isherwood had been critical of the stage musical due to its [[bowdlerisations]] of his material.<ref name="Day 1974"/> Wheeler went back to Isherwood's original stories in order to ensure a more faithful adaptation of the source material. In particular, Wheeler restored the subplot about the gigolo and the Jewish heiress. Wheeler also drew on gay author Christopher Isherwood's openness about his homosexuality to make the leading male character a bisexual man "rather than the heterosexual as he had been in the stage musical."{{r|Garebian 2011|p=139}}
+
+Fosse decided to increase the focus on the Kit Kat Klub, where Sally performs, as a metaphor for the decadence of Germany in the 1930s by eliminating all but one of the musical numbers performed outside the club. The only remaining outside number is "Tomorrow Belongs to Me",<ref name="Benedict 2002"/> a folk song rendered spontaneously by patrons at an open-air café.{{sfn|Belletto|2008|p=609}} In addition, the show's original songwriters Kander and Ebb wrote two new songs, "Mein Herr" and "Money", and incorporated "[[Maybe This Time (Kander and Ebb song)|Maybe This Time]]", a song they composed in 1964 and first released by [[Kaye Ballard]].<ref name="Schudel 2019"/><ref name="Deseret News 1997"/>
+
+=== Casting ===
+{{multiple image
+ |perrow = 2
+ |total_width = 300
+ |align = right
+ |image1 = Liza Minnelli Cabaret 1972 crop 2.jpg
+ |width1 = 150
+ |image2 = Louise_Brooks_Stars_of_the_Photoplay.jpg
+ |width2 = 150
+ |alt2 = Louise Brooks was the visual model for the 1972 film
+ |footer = [[Liza Minnelli]] as [[Sally Bowles]] (left) in the 1972 film. Minnelli modelled the character's appearance upon [[Louise Brooks]] (right), an American actress who was famous in 1930s [[Weimar Germany]].{{r|Garebian 2011|p=142}}
+}}
+Feuer had cast [[Liza Minnelli]] as [[Sally Bowles]] and [[Joel Grey]] (reprising his stage role) long before Fosse was attached to the project. Fosse was given the choice of using Grey as Master of Ceremonies, at studio insistence, or walking away from the production.{{r|Garebian 2011|p=147-148}} He ultimately backed down on his "It's either me or Joel" threat, but relations between them were cool.<ref name="Riedel 2024"/>
+
+Fosse hired [[Michael York]] as Sally Bowles's bisexual love interest, a casting choice which Minnelli initially believed was incorrect until she performed with him.{{r|Garebian 2011|p=146}} Several smaller roles, as well as the remaining four dancers in the film, eventually were cast in West Germany.
+
+Minnelli had auditioned to play Sally in the original Broadway production but was deemed too inexperienced at the time, even though she had won Broadway's [[Tony Award for Best Actress in a Musical]]. By the time ''Cabaret'' reached the screen, however, Minnelli was a film star having earned an Oscar nomination as the emotionally damaged college student in ''[[The Sterile Cuckoo]]'' (1969).
+
+For her performance as Sally in the film, Minnelli reinterpreted the character and—at the explicit suggestion of her father, film and stage director [[Vincente Minnelli]]<ref name="Minnelli 2006"/>—she deliberately imitated film actress [[Louise Brooks]], a [[flapper|flapper icon]] and sex symbol of the [[Jazz Age]].<ref name="Minnelli 2006"/>{{r|Garebian 2011|p=142}} Brooks, much like the character of Sally Bowles in the film, was an aspiring actress and American expat who temporarily moved to Weimar Berlin in search of international stardom.{{r|Garebian 2011|p=139}} Minnelli later recalled:
+
+{{Blockquote|I went to my father and asked him, "What can you tell me about 1930s glamour? Should I be emulating [[Marlene Dietrich]] or something?" And he said "No, study everything you can about [[Louise Brooks]]."<ref name="Minnelli 2006"/>}}
+
+In particular, Minnelli drew upon Brooks' "[[Pandora's Box (1929 film)|Lulu makeup]] and [[Shingle bob|helmet-like coiffure]]."{{r|Garebian 2011|p=142}} For the meeting between Sally Bowles and Brian Roberts, Minnelli modelled her movements and demeanor upon Brooks; in particular, the scene in ''[[Pandora's Box (1929 film)|Pandora's Box]]'' (1929) where Brooks' carefree character of Lulu is first introduced.<ref name="Garebian 2011"/> Ultimately, Minnelli would win the [[Academy Award for Best Actress]] for her portrayal of Sally Bowles.<ref name="Buck 1973"/>
+
+=== Filming ===
+Fosse and Feuer travelled to West Germany in order to finish assembling the film crew. During this time, Fosse highly recommended [[Robert L. Surtees]] for cinematographer, but Feuer and the top executives saw Surtees's work on ''Sweet Charity'' as one of the film's many artistic problems. Producers eventually chose British cinematographer [[Geoffrey Unsworth]].{{r|Garebian 2011|pp=138, 149}} Designers [[Rolf Zehetbauer]], [[Hans Jürgen Kiebach]] and [[Herbert Strabel]] served as production designers. [[Charlotte Flemming]] designed costumes.{{r|Garebian 2011|p=205}} Dancers [[Kathryn Doby]], Louise Quick and John Sharpe were brought on as Fosse's dance aides.
+
+Rehearsals and filming took place entirely in West Germany. For reasons of economy, indoor scenes were shot at the [[Bavaria Film Studios]] in [[Grünwald, Bavaria|Grünwald]],{{r|Garebian 2011|p=143}} outside Munich.<ref name="TCM Notes 2016"/>{{r|Garebian 2011|p=146}} Prior to filming, Fosse would complain every afternoon on the set of ''[[Willy Wonka & the Chocolate Factory]]'' because that film was overrunning and keeping him from starting work on the same stage.<ref name="Aguiar 2021"/>
+
+=== Narrative and news reading ===
+Although the songs throughout the film allude to and advance the narrative, every song except "Tomorrow Belongs to Me" is executed in the context of a Kit Kat Klub performance.<ref name="Russell 2002"/><ref name="Benedict 2002"/> The voice heard on the radio reading the news throughout the film in German was that of associate producer Harold Nebenzal, whose father [[Seymour Nebenzahl]] produced such notable [[Weimar]] films as ''[[M (1931 film)|M]]'' (1931), ''[[Testament of Dr. Mabuse]]'' (1933), and ''[[The Threepenny Opera (1931 film)|Threepenny Opera]]'' (1931).
+
+== Comparison to source materials ==
+The film significantly differs from the Broadway musical. In the stage version, Sally is English (as she was in Isherwood's ''[[Goodbye to Berlin]]''). In the film adaptation, she is American.<ref name="Greenspun 1972"/> Cliff Bradshaw was renamed Brian Roberts and made British (as was Isherwood, upon whom the character was based), rather than American as in the stage version.<ref name="Greenspun 1972"/>{{r|Garebian 2011|p=139}} The characters and plotlines involving Fritz, Natalia and Max were pulled from ''[[I Am a Camera]]'' and did not appear in the stage production of ''Cabaret'' (or in ''Goodbye to Berlin'').<ref name="Day 1974"/>
+
+The most significant change involves the excision of the two main characters: Fraulein Schneider, who runs a boarding house, and her love interest, Herr Schultz, a German grocer.{{r|Garebian 2011|p=34}} Their doomed romance plot, and the consequences of a Gentile falling in love with a Jew during the rise of antisemitism, was cut. With the removals were "So What?" and "What Would You Do", sung by Schneider, the song "Meeskite", sung by Schultz,{{r|Garebian 2011|p=83}} and their two duets "It Couldn't Please Me More (The Pineapple Song)" (cut) and "Married" (reset as a piano instrumental, and a phonograph record), as well as a short reprise of "Married", sung alone by Schultz.<ref name="Internet Broadway Database"/>{{r|Garebian 2011|pp=34, 83}}
+
+Kander and Ebb wrote several new songs and removed others.<ref name="Greenspun 1972"/><ref name="TCM Notes 2016"/> "Don't Tell Mama" was replaced by "Mein Herr",{{r|Garebian 2011|p=143}} and "The Money Song" (retained in an instrumental version as "Sitting Pretty") was replaced by "Money, Money."{{r|Garebian 2011|pp=141-43}} "Mein Herr" and "Money, Money", which were composed for the film, were integrated into the stage musical alongside the original numbers.{{r|Garebian 2011|pp=141-43}} The song "[[Maybe This Time (Kander and Ebb song)|Maybe This Time]]", which Sally performs at the cabaret, predates the stage musical, recorded by Minnelli in 1964.{{r|Garebian 2011|pp=141-43}}<ref name="Kander, Ebb, and Lawrence 2004"/> Although "Don't Tell Mama" and "Married" were removed as featured musical numbers, both still appear in the film instrumentally: the bridge section of "Mama" is heard playing on Sally's gramophone; "Married" initially plays on the piano in Fraulein Schneider's parlor, and later heard on Sally's gramophone in a German translation ("Heiraten") sung by cabaret singer [[Greta Keller]].{{r|Garebian 2011|p=155}} Additionally, "[[If You Could See Her]]", performed by the MC, originally concluded with the line "She isn't a meeskite at all" onstage. The film changes this to "She wouldn't look Jewish at all," a return to Ebb's original lyrics.<ref name="Belletto 2008"/>
+
+== Soundtrack ==
+{{main|Cabaret (soundtrack)}}
+{{Track listing
+| headline = ''Cabaret: Original Soundtrack Recording''<ref name="Cabaret Soundtrack"/><ref name="Original Recording"/>
+| total_length = 38:14
+| all_writing = [[Kander and Ebb|John Kander and Fred Ebb]]
+| extra_column = Performer
+| title1 = [[Willkommen]]
+| extra1 = [[Joel Grey]]
+| length1 = 4:29
+| title2 = Mein Herr
+| extra2 = [[Liza Minnelli]]
+| length2 = 3:36
+| title3 = [[Maybe This Time (Kander and Ebb song)|Maybe This Time]]
+| extra3 = Liza Minnelli
+| length3 = 3:11
+| title4 = Money, Money
+| extra4 = Joel Grey, Liza Minnelli
+| length4 = 3:04
+| title5 = Two Ladies
+| extra5 = Joel Grey
+| length5 = 3:11
+| title6 = Sitting Pretty
+| extra6 = Instrumental
+| length6 = 2:27
+| title7 = [[Tomorrow Belongs to Me]]
+| extra7 = [[Mark Lambert (American actor)|Mark Lambert]]<ref name="TCM Notes 2016"/>
+| length7 = 3:06
+| title8 = Tiller Girls
+| extra8 = Joel Grey
+| length8 = 1:41
+| title9 = Heiraten (Married)
+| extra9 = [[Greta Keller]]
+| length9 = 3:45
+| title10 = [[If You Could See Her]]
+| extra10 = Joel Grey
+| length10 = 3:54
+| title11 = [[Cabaret (Cabaret song)|Cabaret]]
+| extra11 = Liza Minnelli
+| length11 = 3:34
+| title12 = Finale
+| extra12 = Joel Grey
+| length12 = 2:28
+}}
+
+== Reception ==
+===Box office===
+[[Image:1972 - Capri Theater Ad - 12 May MC - Allentown PA.jpg|thumb|right|upright=0.8|Newspaper ad for the film]]
+The film opened at the [[Ziegfeld Theatre (1969)|Ziegfeld Theatre]] in New York City on February 13, 1972, with a single performance benefit grossing $2,538.{{huh|date=April 2026}}<ref name=1stwk/> It started regular showings at the Ziegfeld from February 14, grossing $8,684 in its opening day, and a house record $80,278 for the week.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=February 16, 1972|page=8|title=Temp and Biz in N.Y. Rise; Holders Improve; 'Abductors' $18,000, In 3d; 'Cabaret,' Opening Day, Sock $8,684}}</ref><ref name=1stwk>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=February 23, 1972|page=11|title=Washington Throws $ Over Hudson; Ziegfeld's Hit, At Last, 'Cabaret,' 80G; Newcomers Benefit From Holiday Span}}</ref> It grossed another $165,038 from 6 other theatres in 6 key cities reported by ''[[Variety (magazine)|Variety]]'', placing it tenth at the US box office.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|title=50 Top-Grossing Films|url=https://archive.org/details/sim_variety_1972-03-01_266_3/page/9|date=March 1, 1972|page=9}}</ref> After seven months of release, it had grossed $5.3 million in the New York metropolitan area. ''Variety'' estimated that this represented 30% of the film's total compared to the normal 15% for the market, one of the few big-budget films to perform much better in New York.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=September 13, 1972|page=4|title='Cabaret' New York Area $5,282,263; Figure Is Boff; Less So In Sticks}}</ref> Based on this estimate, the film had grossed around $17 million. By year end, ''Variety'' reported that it had earned [[theatrical rental]]s of $10,885,000, making it the eighth most successful film of the year.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=January 3, 1973|page=7|title=Big Rental Films of 1972}}</ref> Following the film's success at the Academy Awards in March 1973, it reached [[List of 1973 box office number-one films in the United States|number one at the US box office]] with a gross of $1,880,000 for the week, a record for Allied Artists.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=April 4, 1973|page=5|title='Cabaret' in Oscar Wow}}</ref><ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|title=50 Top-Grossing Films|url=https://archive.org/details/sim_variety_1973-04-11_270_9/page/9|date=April 11, 1973|page=9}}</ref> It remained number one for a second week.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|title=50 Top-Grossing Films|url=https://archive.org/details/sim_variety_1973-04-18_270_10/page/9|date=April 18, 1973|page=9}}</ref> By May 1973, the film had earned rentals of $16 million in the United States and Canada and $7 million in other countries and reported a profit of $4,904,000.<ref name="Beaupre 1973"/> By the end of 1973, ''Variety'' had updated the film's rentals in the United States and Canada to $18,175,000.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=January 9, 1974|page=23|title=Udated All-Time Film Champs}}</ref>
+
+=== Critical reception ===
+==== Contemporary reviews ====
+''Variety'' claimed the film received the most "sugary" reviews of the year.<ref>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|date=January 3, 1973|page=7|title='Godfather': & Rest Of Pack|last=Frederick|first=Robert B.}}</ref> [[Roger Ebert]] gave a positive review in February 1972, saying: "This is no ordinary musical.... Part of its success comes because it doesn't fall for the old cliche that musicals have to make you happy. Instead of cheapening the movie version by lightening its load of despair, director Bob Fosse has gone right to the bleak heart of the material and stayed there."<ref>{{cite news |last1=Ebert |first1=Roger |author1-link=Roger Ebert |title=A movie musical of moral anarchy |work=[[Chicago Sun-Times]] |date=18 February 1972 |page=43}}</ref><ref name="Ebert 1972"/>
+
+A.D. Murphy of ''Variety'' wrote "The film version of the 1966 John Kander-Fred Ebb Broadway musical ''Cabaret'' is most unusual: it is literate, bawdy, sophisticated, sensual, cynical, heart-warming, and disturbingly thought-provoking. Liza Minnelli heads a strong cast. Bob Fosse's generally excellent direction recreates the milieu of Germany some 40 years ago."<ref name="Variety 1971"/>
+
+[[Roger Greenspun]] of ''[[The New York Times]]'' wrote in February 1972 that "''Cabaret'' is one of those immensely gratifying imperfect works in which from beginning to end you can literally feel a movie coming to life."<ref name="Greenspun 1972"/> Likewise, [[Pauline Kael]] of ''[[The New Yorker]]'' wrote a review that same month in which she applauded the film: {{Blockquote|"A great movie musical. Taking its form from political cabaret, it's a satire of temptations. In a prodigious balancing act, Bob Fosse, the choreographer-director, keeps the period—Berlin, 1931—at a cool distance. We see the decadence as garish and sleazy; yet we also see the animal energy in it—everything seems to become sexualized. The movie does not exploit decadence; rather, it gives it its due. With Joel Grey as our devil-doll host—the master of ceremonies—and Liza Minnelli (in her first singing role on the screen) as exuberant, corruptible [[Sally Bowles]], chasing after the life of a headliner no matter what; Minnelli has such gaiety and electricity that she becomes a star before our eyes."<ref name="Kael 1972"/>}}
+
+==== Reaction of Isherwood and others ====
+[[Image:Christopher Isherwood en route to China, 1938. (7893554712) (cropped1).jpg|thumb|left|upright=0.8|[[Christopher Isherwood]] disliked the 1972 film as he felt it depicted homosexuality in a negative light.{{r|Isherwood 1976|p=63}}]]
+Although ''Cabaret'' (1972) was well received by film critics upon its release,<ref name="Greenspun 1972"/><ref name="Ebert 1972"/><ref name="Variety 1971"/><ref name="Kael 1972"/> author Christopher Isherwood and other persons upon whom the film's characters were based were less receptive towards the cinematic adaptation.<ref name="Spender 1977"/>{{r|Isherwood 1976|p=63}} Isherwood himself was critical of the 1972 film due to what he perceived as its negative portrayal of homosexuality: {{Blockquote|"In the film of ''Cabaret'', the male lead is called Brian Roberts. He is a bisexual Englishman; he has an affair with Sally and, later, with one of Sally's lovers, a German baron...Brian's homosexual tendency is treated as an indecent but comic weakness to be snickered at, like bed-wetting."{{r|Isherwood 1976|p=63}}}}
+
+Similarly, Isherwood's friend [[Jean Ross]]—upon whom the character of Sally Bowles was based{{r|Bletchly 2013|p=26}}—was ambivalent about the film.{{r|Isherwood 2012|p=70}} She felt the depiction of 1930s Berlin "was quite, quite different" from reality.{{r|Johnstone 1975|pp=33–34}} Nevertheless, she conceded that the depiction of their social circle of British expatriates as pleasure-seeking libertines was accurate: "We were all utterly against the bourgeois standards of our parents' generation. That's what took us to [Weimar-era] Berlin. The climate was freer there."{{r|Johnstone 1975|pp=33–34}} Such ambivalence towards ''Cabaret'' (1972) was not unique among Isherwood's circle.<ref name="Spender 1977"/>
+
+The poet [[Stephen Spender]] lamented how ''Cabaret'' (1972) glossed over Weimar Berlin's crushing poverty:
+{{Blockquote|"There is not a single meal, or club, in the movie ''Cabaret,'' that Christopher [Isherwood] and I could have afforded [in 1931]. What we mostly knew was the Berlin of poverty, unemployment, political demonstrations and street fighting between forces of the extreme left and the extreme right."<ref name="Spender 1977"/>}} Both Spender and Ross contended that the 1972 film and 1966 Broadway musical deleteriously glamorised the harsh realities of the 1930s Weimar era.<ref name="Spender 1977"/>{{r|Johnstone 1975|pp=33–34}}
+
+==== Retrospective reviews ====
+In 2002, Jamie Russell of the BBC wrote that the film was "the first musical ever to be given an [[X certificate]], Bob Fosse's ''Cabaret'' launched Liza Minnelli into Hollywood superstardom and re-invented the musical for the Age of Aquarius."<ref name="Russell 2002"/> In 2013, film critic [[Peter Bradshaw]] listed ''Cabaret'' at number one on his list of "Top 10 Musicals", describing it as "satanically catchy, terrifyingly seductive...directed and choreographed with electric style by Bob Fosse...''Cabaret'' is drenched in the sexiest kind of cynicism and decadent despair."<ref name="Bradshaw 2013"/> In 2024, ''[[Forbes]]'' ranked Cabaret as the best movie musical of all time.<ref name="Escandon 2024"/>
+
+==== Controversies ====
+Although less explicit compared with other films made in the 1970s, ''Cabaret'' dealt explicitly with topics like corruption, sexual ambiguity, false dreams, and Nazism. Tim Dirks at [[Filmsite]].org notes: "The sexually-charged, semi-controversial, kinky musical was the first one ever to be given an X rating (although later re-rated) with its numerous sexual flings and hedonistic club life. There was considerable sexual innuendo, profanity, casual sex talk (homosexual and heterosexual), some evidence of [[anti-Semitism]], and even an abortion in the film."<ref name="Dirks 2013"/> It was also rated [[History of British film certificates|X in the UK]] and later re-rated as 15.<ref name="Russell 2002"/><ref name="BBFC 2019"/>
+
+On the topic of Nazism, there was little consensus among critics about the possibly fascist implications of the film and play. However, critic Steven Belletto wrote a critique of ''Cabaret'' in the journal ''Criticism,'' published by Wayne State University Press, in which he highlighted the film's anti-fascist themes, evident both within and outside the musical acts. According to Belletto, "despite the ways that the film has been understood by a variety of critics, [''Cabaret''] rejects the logic of fascist certainty by staging various numbers committed to irony and ambiguity."<ref name="Belletto 2008"/>
+
+The "[[Tomorrow Belongs to Me]]" scene was controversial, with Kander and Ebb, both of whom were Jewish, sometimes being wrongly accused of using a [[Nazi songs|historical Nazi song]].<ref name="Steyn 1997"/> According to an article in ''Variety'' in November 1976, the film was censored in [[West Berlin]] when it was first released there theatrically, with the sequence featuring the [[Hitler Youth]] singing "Tomorrow Belongs to Me" having been deleted.<ref name="TCM Notes 2016"/> This elimination was made "because of the feeling that it might stir up resentments in the audience by showing the sympathizers for the Nazi movement during the '30s."<ref name="TCM Notes 2016"/> The sequence was restored, however, when the film was shown on [[West German]] television on November 7, 1976.<ref name="TCM Notes 2016"/>
+
+Another topic of discussion was the song "If You Could See Her",{{sfn|Belletto|2008|p=610}} which closed with the line: "If you could see her through my eyes, she wouldn't look Jewish at all." The point of the song was showing anti-Semitism as it begins to run rampant in Berlin, but there were a number of Jewish groups who interpreted the lyrics differently.{{sfn|Belletto|2008|p=625}}
+
+== Accolades ==
+''Cabaret'' earned a total of ten Academy Award nominations (winning eight of them) and holds the [[List of Academy Award records#Film records|record for most Academy Awards for a film that did not also win Best Picture]].<ref name="TCM Notes 2016"/><ref name="Academy Awards 2011"/>
+
+Shortly before the [[45th Academy Awards|Academy Awards]], [[Bob Fosse]] won two [[Tony Award]]s for directing and choreographing ''[[Pippin (musical)|Pippin]]'', his biggest stage hit. Months later, he won the [[Primetime Emmy Award]] for choreographing and directing [[Liza Minnelli]]'s television special ''[[Liza with a Z]]'', thereby becoming the first director to win all three awards in one year.
+
+{| class="wikitable plainrowheaders"
+|-
+! Award
+! Category
+! Nominee(s)
+! Result
+! Ref.
+|-
+| rowspan="10"| [[45th Academy Awards|Academy Awards]]
+| [[Academy Award for Best Picture|Best Picture]]
+| [[Cy Feuer]]
+| {{nom}}
+| rowspan="10" align="center"| <ref>{{cite web |url=http://www.oscars.org/oscars/ceremonies/1973 |title=The 45th Academy Awards (1973) Nominees and Winners |access-date=March 1, 2014 |publisher=[[Academy of Motion Picture Arts and Sciences]]}}</ref>
+|-
+| [[Academy Award for Best Director|Best Director]]
+| [[Bob Fosse]]
+| {{won}}
+|-
+| [[Academy Award for Best Actress|Best Actress]]
+| [[Liza Minnelli]]
+| {{won}}
+|-
+| [[Academy Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Joel Grey]]
+| {{won}}
+|-
+| [[Academy Award for Best Adapted Screenplay|Best Screenplay – Based on Material from Another Medium]]
+| [[Jay Presson Allen]]
+| {{nom}}
+|-
+| [[Best Art Direction]]
+| Art Direction: [[Hans Jürgen Kiebach]] and [[Rolf Zehetbauer]]; <br> Set Decoration: [[Herbert Strabel]]
+| {{won}}
+|-
+| [[Academy Award for Best Cinematography|Best Cinematography]]
+| [[Geoffrey Unsworth]]
+| {{won}}
+|-
+| [[Academy Award for Best Film Editing|Best Film Editing]]
+| [[David Bretherton]]
+| {{won}}
+|-
+| [[Academy Award for Best Original Score|Best Scoring: Adaptation and Original Song Score]]
+| [[Ralph Burns]]
+| {{won}}
+|-
+| [[Academy Award for Best Sound|Best Sound]]
+| [[Robert Knudson]] and [[David Hildyard (sound engineer)|David Hildyard]]
+| {{won}}
+|-
+| [[American Cinema Editors|American Cinema Editors Awards]]
+| [[American Cinema Editors Award for Best Edited Feature Film – Comedy or Musical|Best Edited Feature Film]]
+| David Bretherton
+| {{won}}
+| align="center"|
+|-
+| [[Belgian Film Critics Association]]
+| colspan="2"| [[Grand Prix (Belgian Film Critics Association)|Grand Prix]]
+| {{won}}
+| align="center"|
+|-
+| [[Bodil Awards]]
+| [[Bodil Award for Best American Film|Best Non-European Film]]
+| Bob Fosse
+| {{won}}
+| align="center"|
+|-
+| rowspan="11"| [[26th British Academy Film Awards|British Academy Film Awards]]
+| colspan="2"| [[BAFTA Award for Best Film|Best Film]]
+| {{won}}
+| rowspan="11" align="center"| <ref>{{cite web |url=https://www.bafta.org/awards/search/?search=Cabaret |title=Cabaret |publisher=[[British Academy of Film and Television Arts]] |access-date=June 3, 2021}}</ref>
+|-
+| [[BAFTA Award for Best Direction|Best Direction]]
+| Bob Fosse
+| {{won}}
+|-
+| [[BAFTA Award for Best Actress in a Leading Role|Best Actress in a Leading Role]]
+| Liza Minnelli
+| {{won}}
+|-
+| [[BAFTA Award for Best Actress in a Supporting Role|Best Actress in a Supporting Role]]
+| [[Marisa Berenson]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Screenplay|Best Screenplay]]
+| Jay Presson Allen
+| {{nom}}
+|-
+| [[BAFTA Award for Best Production Design|Best Art Direction]]
+| Rolf Zehetbauer
+| {{won}}
+|-
+| [[BAFTA Award for Best Cinematography|Best Cinematography]]
+| Geoffrey Unsworth{{efn|Also for ''[[Alice's Adventures in Wonderland (1972 film)|Alice's Adventures in Wonderland]].''}}
+| {{won}}
+|-
+| [[BAFTA Award for Best Costume Design|Best Costume Design]]
+| [[Charlotte Flemming]]
+| {{nom}}
+|-
+| [[BAFTA Award for Best Editing|Best Film Editing]]
+| David Bretherton
+| {{nom}}
+|-
+| [[BAFTA Award for Best Sound|Best Soundtrack]]
+| David Hildyard, Robert Knudson, and [[Arthur Piantadosi]]
+| {{won}}
+|-
+| [[BAFTA Award for Most Promising Newcomer to Leading Film Roles|Most Promising Newcomer to Leading Film Roles]]
+| Joel Grey
+| {{won}}
+|-
+| [[British Society of Cinematographers Awards]]
+| [[British Society of Cinematographers Award for Best Cinematography in a Theatrical Feature Film|Best Cinematography in a Theatrical Feature Film]]
+| Geoffrey Unsworth
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://bscine.com/media/uploads/awards/bsc-cinematography-feature-film.pdf?v |title=Best Cinematography in Feature Film |publisher=[[British Society of Cinematographers]] |access-date=June 3, 2021}}</ref>
+|-
+| rowspan="2"| [[David di Donatello Awards]]
+| [[David di Donatello for Best Foreign Director|Best Foreign Director]]
+| Bob Fosse
+| {{won}}
+| rowspan="2" align="center"|
+|-
+| [[David di Donatello for Best Foreign Actress|Best Foreign Actress]]
+| Liza Minnelli
+| {{won}}
+|-
+| [[25th Directors Guild of America Awards|Directors Guild of America Awards]]
+| [[Directors Guild of America Award for Outstanding Directing – Feature Film|Outstanding Directorial Achievement in Motion Pictures]]
+| Bob Fosse
+| {{nom}}
+| align="center"| <ref>{{cite web |url=https://www.dga.org/Awards/History/1970s/1972.aspx?value=1972 |title=25th Annual DGA Awards |publisher=[[Directors Guild of America Awards]] |access-date=July 5, 2021}}</ref>
+|-
+| rowspan="9"| [[30th Golden Globes|Golden Globe Awards]]
+| colspan="2"| [[Best Motion Picture – Musical or Comedy]]
+| {{won}}
+| rowspan="9" align="center"| <ref>{{cite web |url=https://www.goldenglobes.com/film/cabaret |title=Cabaret |publisher=[[Golden Globe Foundation]] |access-date=July 5, 2021}}</ref>
+|-
+| [[Best Actress in a Motion Picture – Musical or Comedy]]
+| Liza Minnelli
+| {{won}}
+|-
+| [[Best Supporting Actor – Motion Picture]]
+| Joel Grey
+| {{won}}
+|-
+| [[Best Supporting Actress – Motion Picture]]
+| rowspan="2"| Marisa Berenson
+| {{nom}}
+|-
+| [[Golden Globe Award for New Star of the Year – Actress|Most Promising Newcomer – Female]]
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Director|Best Director – Motion Picture]]
+| Bob Fosse
+| {{nom}}
+|-
+| [[Golden Globe Award for Best Screenplay|Best Screenplay – Motion Picture]]
+| Jay Presson Allen
+| {{nom}}
+|-
+| rowspan="2"| [[Golden Globe Award for Best Original Song|Best Original Song – Motion Picture]]
+| "Mein Herr" <br> Music by [[John Kander]]; <br> Lyrics by [[Fred Ebb]]
+| {{nom}}
+|-
+| "Money, Money" <br> Music by John Kander; <br> Lyrics by Fred Ebb
+| {{nom}}
+|-
+| [[Kansas City Film Critics Circle Awards]]
+| Best Supporting Actor
+| Joel Grey
+| {{won}}
+| align="center"| <ref>{{cite web |url=https://kcfcc.org/kcfcc-award-winners-1970-79/ |title=KCFCC Award Winners – 1970-79 |publisher=[[Kansas City Film Critics Circle]] |date=December 14, 2013 |access-date=July 10, 2021}}</ref>
+|-
+| rowspan="5"| [[National Board of Review Awards 1972|National Board of Review Awards]]
+| colspan="2"| [[National Board of Review: Top Ten Films|Top Ten Films]]
+| {{won}}
+| rowspan="5" align="center"| <ref>{{cite web |url=https://nationalboardofreview.org/award-years/1972/ |title=1972 Award Winners |publisher=[[National Board of Review]] |access-date=July 5, 2021}}</ref>
+|-
+| colspan="2"| [[National Board of Review Award for Best Film|Best Film]]
+| {{won}}
+|-
+| [[National Board of Review Award for Best Director|Best Director]]
+| Bob Fosse
+| {{won}}
+|-
+| [[National Board of Review Award for Best Supporting Actor|Best Supporting Actor]]
+| Joel Grey
+| {{won}}{{efn|Tied with [[Al Pacino]] for ''[[The Godfather]]''.}}
+|-
+| [[National Board of Review Award for Best Supporting Actress|Best Supporting Actress]]
+| Marisa Berenson
+| {{won}}
+|-
+| [[National Film Preservation Board]]
+| colspan="2"| [[National Film Registry]]
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/ |title=Complete National Film Registry Listing |publisher=[[Library of Congress]] |access-date=December 16, 2015}}</ref>
+|-
+| rowspan="3"| [[1972 National Society of Film Critics Awards|National Society of Film Critics Awards]]
+| [[National Society of Film Critics Award for Best Actress|Best Actress]]
+| Liza Minnelli
+| {{draw|5th Place}}
+| rowspan="3" align="center"| <ref>{{cite web |url=https://nationalsocietyoffilmcritics.com/about-2/ |title=Past Awards |publisher=[[National Society of Film Critics]] |date=19 December 2009 |access-date=July 5, 2021}}</ref>
+|-
+| [[National Society of Film Critics Award for Best Supporting Actor|Best Supporting Actor]]
+| Joel Grey
+| {{won}}{{efn|Tied with [[Eddie Albert]] for ''[[The Heartbreak Kid (1972 film)|The Heartbreak Kid]]''.}}
+|-
+| [[National Society of Film Critics Award for Best Cinematography|Best Cinematography]]
+| Geoffrey Unsworth
+| {{draw|4th Place}}
+|-
+| Online Film & Television Association Awards
+| colspan="2"| Film Hall of Fame: Productions
+| {{won|Inducted}}
+| align="center"| <ref>{{cite web |url=http://www.oftaawards.com/film-hall-of-fame/film-hall-of-fame-productions/ |title=Film Hall of Fame Inductees: Productions |publisher=Online Film & Television Association |access-date=August 15, 2021}}</ref>
+|-
+| [[Sant Jordi Awards]]
+| Best Performance in a Foreign Film
+| Liza Minnelli
+| {{won}}
+| align="center"|
+|-
+| [[25th Writers Guild of America Awards|Writers Guild of America Awards]]
+| [[Writers Guild of America Award for Best Adapted Screenplay|Best Comedy – Adapted from Another Medium]]
+| Jay Presson Allen
+| {{won}}
+| align="center"| <ref>{{cite web |url=http://www.wga.org/awards/awardssub.aspx?id=1551 |title=Awards Winners |date= |publisher=[[Writers Guild of America Awards]] |archive-url=https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551 |archive-date=2012-12-05 |access-date=2010-06-06 |language=en}}</ref>
+|}
+
+=== American Film Institute recognition ===
+* [[AFI's 100 Years...100 Songs]]
+** Cabaret – No. 18
+* [[AFI's Greatest Movie Musicals]] – No. 5
+* [[AFI's 100 Years...100 Movies (10th Anniversary Edition)]] – No. 63 {{ISBN missing}}
+
+=== National Film Registry ===
+Inducted into the [[National Film Registry]] in 1995 among a list of 25 Films that year.<ref name="National Film Registry"/>
+
+== Legacy ==
+[[Image:Liza Minnelli 1973 Special.JPG|thumb|Minnelli reprised the character of Sally Bowles for an encore performance in the 1973 television special ''[[Liza with a Z]]'', also directed by [[Bob Fosse]].]]
+
+''Cabaret'' has been cited by ''[[TV Guide (magazine)|TV Guide]]'' as among the greatest films made<ref name="TV Guide"/> and in ''Movieline'' magazine as one of the "100 Best Movies Ever".<ref name="Movieline Magazine"/> It was included in [[Film4]]'s "100 Greatest Films of All Time" at #78<ref name="Filmsite.org"/> and in ''[[The San Francisco Chronicle]]''{{'}}s "Hot 100 Films of the Past", being hailed as "the last great musical. Liza Minnelli plays Sally Bowles, an American adrift in pre-Nazi Berlin, in Bob Fosse's stylish, near-perfect film."<ref name="Guthmann 1997"/>
+
+David Benedict has written in ''[[The Guardian]]'' about ''Cabaret''{{'s}} influence in musical films: "Back then, musicals were already low on film-goers' lists, so how come it was such a success? Simple: ''Cabaret'' is the musical for people who hate them. Given the vibrancy of its now iconic numbers – Liza Minnelli in [[bowler hat|bowler]] and black suspenders astride a bentwood chair belting out 'Mein Herr' or shimmying and shivering with pleasure over 'Money' with Joel Grey – it sounds strange to say it, but one of the chief reasons why ''Cabaret'' is so popular is that it's not shot like a musical."<ref name="Benedict 2002"/>
+
+The film has been listed as one of the most important for [[queer cinema]] for its depictions of bisexuality,<ref name="Greenspun 1972"/> arguably transgressive at the time of its 1972 [[Motion Picture Production Code|post-Code]] release, and has been credited with turning Liza Minnelli into a [[gay icon]]. Film blogs have selected it as "the gayest winner in the history of the Academy."<ref name="Baines 2012"/><ref name="St. James 2017"/><ref name="Out 2012"/> Filmmaker [[Bill Condon]] cited the film as a source of inspiration for his [[Kiss of the Spider Woman (2025 film)|2025 adaptation]] of Kander and Ebb's stage musical version of ''[[Kiss of the Spider Woman (musical)|Kiss of the Spider Woman]]''.<ref>{{cite web|url=https://playbill.com/article/what-changes-have-been-made-for-the-jennifer-lopez-led-kiss-of-the-spider-woman-movie-musical|title=What Changes Have Been Made for the Jennifer Lopez-Led ''Kiss of the Spider Woman'' Movie Musical?|date=January 25, 2025|first=Molly|last=Higgins|website=[[Playbill]]|access-date=February 4, 2025}}</ref><ref>{{cite web|url=https://deadline.com/2025/01/kiss-of-the-spider-woman-sundance-bill-condon-jennifer-lopez-interview-1236267838/|title=Sundance: Bill Condon On Revisiting ''Kiss Of The Spider Woman'' After 40 Years & Turning Jennifer Lopez Loose In An MGM-Style Musical|date=January 25, 2025|first=Mike Jr.|last=Fleming|website=[[Deadline Hollywood]]|access-date=February 4, 2025|archive-date=January 26, 2025|archive-url=https://web.archive.org/web/20250126224839/https://deadline.com/2025/01/kiss-of-the-spider-woman-sundance-bill-condon-jennifer-lopez-interview-1236267838/|url-status=live}}</ref>
+
+In a February 2020 article, ''[[Vulture (website)|Vulture]]'' named ''Cabaret'' as one of "The Best Movies That Lost Best Picture at the Oscars."<ref name="Phipps 2020"/>
+
+=== Home media ===
+The film was first released to [[DVD]] in 1998. There have been releases in 2003, 2008, and 2012. The film's international ancillary distribution rights are owned by ABC (now part of [[The Walt Disney Company]]), [[Fremantle (company)|Fremantle]] (UK), [[Warner Bros.]] (which acquired the film as part of its purchase of [[Lorimar Productions]], which had acquired the film library of [[Monogram Pictures|Allied Artists]]) has US domestic distribution rights.
+
+In April 2012, Warner unveiled a new restoration of the film at the [[Turner Classic Movies|TCM Classic Film Festival]].<ref name="McNary 2012"/><ref name="TCM Festival 2012"/><ref name="Elber 2012"/> A DigiBook edition was later released on [[Blu-ray]] on February 5, 2013.<ref name="Reuben 2013"/> Before this restoration, ''Cabaret'' had been sold on a [[standard-definition]] DVD from Warner Bros., but the film was unavailable in [[High-definition video|high-definition]] or for [[Digital cinema|digital projections]] in cinemas.<ref name="Elber 2012"/> The original camera negative is lost, and a surviving [[interpositive]] had a vertical scratch that ran through 1,000 feet, or 10 minutes, of one of its reels, as confirmed by Ned Price, vice-president of mastering and restoration for Warner Bros.<ref name="Elber 2012"/> The damage ostensibly was inflicted by a grain of dirt that had rolled through the length of the reel, beginning with a scene in which Michael York's character confronts a pro-Nazi boarding house resident, and had cut into the emulsion.<ref name="Elber 2012"/> The marred frames were digitally restored, but "the difficult part was matching the grain structure so the fix was invisible." After automated digital repair attempts failed, the 1,000 feet<!-- article said 1.4&nbsp;million frames, but that does not calculate. 10 minutes x 60 seconds/minute = 600 seconds x 24 Frames Per Second (FPS – a common film rate) = 14,400 frames--> of damaged film was hand painted using a computer stylus.<ref name="Elber 2012"/>
+
+[[Warner Archive Collection]] reissued the Blu-ray on November 20, 2018, without the DigiBook.<ref>{{cite web|url= https://www.blu-ray.com/movies/Cabaret-Blu-ray/216055/#Review|title=Cabaret Blu-ray|website=Blu-ray.com|access-date=June 11, 2020}}</ref>
+
+== See also ==
+* [[List of American films of 1972]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+<references>
+<ref name="Academy Awards 2011">{{cite web|url=http://awardsdatabase.oscars.org/ampas_awards/help/helpMain.jsp?helpContentURL=statistics/indexStats.html|title=Films Winning 4 or More Awards Without Winning Best Picture|date=March 2011|publisher=Academy of Motion Picture Arts and Sciences|access-date=September 15, 2011|url-status=dead|archive-url=https://web.archive.org/web/20160701093205/http://awardsdatabase.oscars.org/ampas_awards/help/helpMain.jsp?helpContentURL=statistics%2FindexStats.html|archive-date=July 1, 2016}}</ref>
+
+<ref name="AFI">{{AFI film|54427|Cabaret}}</ref>
+
+<ref name="Aguiar 2021">{{cite news|last=Aguiar|first=Annabel|title='Willy Wonka and the Chocolate Factory' at 50: The tender yet terrifying movie that never lost its flavor|newspaper=[[Washington Post]]|date=June 29, 2021|url=https://www.washingtonpost.com/arts-entertainment/2021/06/29/willy-wonka-chocolate-factory-anniversary/}}</ref>
+
+<ref name="Baines 2012">{{cite web|last=Baines|first=Christian|title=10 Classic Movies Every Gay Man Must See|url=http://www.samesame.com.au/features/8708/10-classic-movies-every-gay-man-must-see?page=2|website=samesame|date=July 24, 2012|access-date=February 21, 2016|url-status=dead|archive-url=https://web.archive.org/web/20160302135729/http://www.samesame.com.au/features/8708/10-classic-movies-every-gay-man-must-see?page=2|archive-date=March 2, 2016|df=mdy-all}}</ref>
+
+<ref name="BBFC 2019">{{cite web|author=<!--Staff writer(s); no by-line.-->|title=Cabaret|url=https://www.bbfc.co.uk/releases/cabaret-1970-2|archive-url=https://web.archive.org/web/20190512034517/https://www.bbfc.co.uk/releases/cabaret-1970-2|url-status=dead|archive-date=May 12, 2019|website=[[British Board of Film Classification]]|access-date=May 11, 2019}}</ref>
+
+<ref name="Beaupre 1973">{{cite magazine|last=Beaupre|first=Lee|title=ABC's 5 Years of Film Production Profits & Losses|author=<!--Staff writer(s); no by-line.-->|magazine=[[Variety (magazine)|Variety]]|publisher=[[Penske Media Corporation]]|issn=0042-2738|oclc=60626328|date=May 31, 1973|page=3}}</ref>
+
+<ref name="Belletto 2008">{{cite journal|last=Belletto|first=Steven|title='Cabaret' and Antifascist Aesthetics|year=2008|journal=Criticism|volume=50|number=4|pages=609–630|doi=10.1353/crt.0.0081|jstor=23130878|s2cid=194076043|url=https://sites.lafayette.edu/belletts/files/2010/06/50.4.belletto.pdf|access-date=January 6, 2026}}</ref>
+
+<ref name="Benedict 2002">{{cite news|last=Benedict|first=David|title=Win When You're Singing|url=https://www.theguardian.com/film/2002/jun/16/features.review2|newspaper=[[The Guardian]]|publisher=[[Guardian Media Group]]|issn=1756-3224|oclc=60623878|date=June 15, 2002|access-date=February 7, 2016}}</ref>
+
+<ref name="Bletchly 2013">{{cite news|last=Bletchly|first=Rachel|title=Their True Characters|page=26|newspaper=[[Daily Mirror]]|publisher=[[Reach plc]]|oclc=223228477|date=April 2, 2013}}</ref>
+
+<ref name="Box Office">{{cite web|url=http://www.worldwideboxoffice.com/movie.cgi?title=Cabaret&year=1972|author=<!--Staff writer(s); no by-line.-->|publisher=Worldwide Box Office|title=Cabaret, Worldwide Box Office|access-date=January 21, 2012}}</ref>
+
+<ref name="Bradshaw 2013">{{cite news|last=Bradshaw|first=Peter|title=Top 10 Musicals|url=https://www.theguardian.com/film/filmblog/2013/dec/03/top-10-movie-musicals|author=<!--Staff writer(s); no by-line.-->|newspaper=[[The Guardian]]|publisher=[[Guardian Media Group]]|issn=1756-3224|oclc=60623878|date=December 3, 2013|access-date=December 3, 2013}}</ref>
+
+<ref name="Buck 1973">{{cite news|last=Buck|first=Jerry|title=Liza Minnelli Is Named Best Actress — Brando Won't Accept Oscar|newspaper=[[The Vindicator]]|publisher=[[Ogden Newspapers]]|issn=0890-9857|oclc=12961328|pages=1–2|agency=[[Associated Press]]|date=March 28, 1973|df=mdy-all|url=https://news.google.com/newspapers?id=yy5JAAAAIBAJ&pg=677,4786728|access-date=February 28, 2020}}</ref>
+
+<ref name="Bucknell 2024">{{cite magazine|last=Bucknell|first=Katherine|author-link=Katherine Bucknell|title=How Weimar Berlin Inspired Christopher Isherwood's Sally Bowles|date=August 26, 2024|magazine=[[Literary Hub]]|publisher=[[Grove Atlantic]]|location=New York City|url=https://lithub.com/how-weimar-berlin-inspired-christopher-isherwoods-sally-bowles/|access-date=January 6, 2024}}</ref>
+
+<ref name="Cabaret Soundtrack">{{cite web|title=Cabaret (1972) soundtrack details|url=http://www.soundtrackcollector.com/title/1268/Cabaret|access-date=March 25, 2013}}</ref>
+
+<ref name="Day 1974">{{cite episode|last1=Day|first1=James|author-link1=James Day (journalist)|last2=Isherwood|first2=Christopher|author-link2=Christopher Isherwood|title=Christopher Isherwood on Day at Night, with James Day|transcript=Episode Information|transcript-url=https://www.cuny.tv/show/dayatnight/PR1012147|url=https://www.youtube.com/watch?v=kx09mDenhKU|access-date=June 18, 2018|series=Day at Night|series-link=Day at Night|network=[[Public Broadcasting Service]] (PBS)|station=[[CUNY TV]]|date=April 25, 1974|season=2|number=32|language=en}}</ref>
+
+<ref name="Deseret News 1997">{{cite news|title=Actress-comedian sings her song – 36 years after losing it to Streisand|date=June 27, 1997|work=[[Deseret News]]|url=https://www.deseret.com/1997/6/27/19320179/actress-comedian-sings-her-song-36-years-after-losing-it-to-streisand/|access-date=January 13, 2026}}</ref>
+
+<ref name="Dirks 2013">{{cite web|last=Dirks|first=Tim|title=Cabaret (1972)|url=http://www.filmsite.org/caba.html|year=2013|website=[[Filmsite]]|access-date=February 7, 2016}}</ref>
+
+<ref name="Doyle 2013">{{cite news|last=Doyle|first=Rachel B.|date=April 12, 2013|title=Looking for Isherwood's Berlin|language=en-US|newspaper=[[The New York Times]]|publisher=[[The New York Times Company]]|issn=1553-8095|oclc=1645522|url=https://www.nytimes.com/2013/04/14/travel/looking-for-christopher-isherwoods-berlin.html|access-date=February 26, 2022}}</ref>
+
+<ref name="Ebert 1972">{{cite web|last=Ebert|first=Roger|author-link=Roger Ebert|title=Cabaret Movie Review & Film Summary (1972)|website=[[RogerEbert.com]]|publisher=Ebert Digital LLC|date=January 1, 1972|url=https://www.rogerebert.com/reviews/cabaret-1972|access-date=June 12, 2019|archive-url=https://web.archive.org/web/20190612045116/https://www.rogerebert.com/reviews/cabaret-1972|archive-date=June 12, 2019|url-status=live}}</ref>
+
+<ref name="Elber 2012">{{cite news|last=Elber|first=Lynn|url=http://www.huffingtonpost.com/2012/04/12/cabaret-bob-fosse-restoration_n_1420589.html|title='Cabaret': Bob Fosse Classic Gets Restoration For 40th Anniversary|newspaper=[[HuffPost]]|publisher=[[BuzzFeed]]|date=April 12, 2012|archive-date=February 8, 2013|archive-url=https://web.archive.org/web/20130208102143/http://www.huffingtonpost.com/2012/04/12/cabaret-bob-fosse-restoration_n_1420589.html|url-status=dead}}</ref>
+
+<ref name="Escandon 2024">{{cite magazine|last=Escandon|first=Rosa|title=The 35 Best Movie Musicals Of All Time|date=March 5, 2024|magazine=[[Forbes]]|url=https://www.forbes.com/sites/entertainment/article/best-movie-musicals/|access-date=January 13, 2026|language=en}}</ref>
+
+<ref name="Farina 2013">{{cite book|last=Farina|first=William|author-link=William Farina|title=The German Cabaret Legacy in American Popular Music|location=[[New York City]]|publisher=[[McFarland & Company]]|chapter=Christopher Isherwood, Reporting from Berlin|page=79|year=2013|isbn=978-0-7864-6863-8|url=https://archive.org/details/germancabaretleg0000fari|url-access=registration|chapter-url=https://books.google.com/books?id=YdUiL1XHZKkC&pg=PA79}}</ref>
+
+<ref name="Filmsite.org">{{cite web|last=Dirks|first=Tim|title=100 Greatest Films of All Time|url=http://www.filmsite.org/filmfour4.html|website=[[Filmsite]]|access-date=February 6, 2016}}</ref>
+
+<ref name="Frost 2013">{{cite news|last=Frost|first=Peter|title=Jean Ross: The Real Sally Bowles|newspaper=[[Morning Star (British newspaper)|Morning Star]]|publisher=[[People's Press Printing Society]]|issn=0307-1758|date=December 31, 2013|access-date=February 28, 2020|url=https://www.morningstaronline.co.uk/a-52c7-Jean-Ross-the-real-Sally-Bowles}}Frost's article is more or less a summary of the Oxford National Biography article by [[Peter Parker (author)|Peter Parker]].</ref>
+
+<ref name="Fryer 1993">{{cite book|last=Fryer|first=Jonathan|title=Eye of the Camera|year=1993|page=83|publisher=[[Allison & Busby]]|location=[[London]]|url=https://books.google.com/books?id=ROtaAAAAMAAJ|isbn=978-0-85031-938-5}}</ref>
+
+<ref name="Garebian 2011">{{cite book|last=Garebian|first=Keith|title=The Making of Cabaret|location=[[Oxford]]|publisher=[[Oxford University Press]]|year=2011|isbn=978-0199732500|url=https://books.google.com/books?id=PuD3p2IGW5oC}}</ref>
+
+<ref name="Greenspun 1972">{{cite news|last=Greenspun|first=Roger|author-link=Roger Greenspun|title=Liza Minnelli Stirs a Lively 'Cabaret'|date=February 14, 1972|newspaper=[[The New York Times]]|publisher=[[The New York Times Company]]|issn=1553-8095|oclc=1645522|access-date=February 28, 2020|url=https://www.nytimes.com/1972/02/14/archives/liza-minnelli-stirs-a-lively-cabaret.html}}</ref>
+
+<ref name="Guthmann 1997">{{cite news|last=Guthmann|first=Edward|title=A Hot 100 From Out of the Past|date=October 5, 1997|newspaper=[[The San Francisco Chronicle]]|url=https://www.newspapers.com/image/1232641014/|url-access=subscription|access-date=January 12, 2026|via=Newspapers.com}}</ref>
+
+<ref name="Kander, Ebb, and Lawrence 2004">{{cite book|last1=Kander|first1=John|author-link1=John Kander|last2=Ebb|first2=Fred|author-link2=Fred Ebb|last3=Lawrence|first3=Greg|title=Colored Lights: Forty Years of Words and Music, Show Biz, Collaboration, and All That Jazz|date=September 9, 2004|publisher=[[Farrar, Straus and Giroux]]|isbn=978-0571211692}}</ref>
+
+<ref name="Internet Broadway Database">{{cite web|author=<!--Staff writer(s); no by-line.-->|title=Cabaret – Broadway Musical – Original|url=https://www.ibdb.com/broadway-production/cabaret-3348/#songs|website=[[Internet Broadway Database]]|publisher=[[The Broadway League]]|access-date=December 21, 2018}}</ref>
+
+<ref name="Isherwood 1976">{{cite book|last=Isherwood|first=Christopher|author-link=Christopher Isherwood|title=Christopher and His Kind: A Memoir, 1929-1939|url=https://books.google.com/books?id=n0IOAQAAMAAJ|publisher=[[Farrar, Straus and Giroux]]|location=[[New York City]]|year=1976|isbn=978-0374-53522-3}}</ref>
+
+<ref name="Isherwood 2012">{{cite book|last=Isherwood|first=Christopher|author-link=Christopher Isherwood|title=Liberation: Diaries, Vol. 3: 1970–1983|location=[[New York City]]|publisher=[[HarperCollins]]|year=2012|isbn=978-0-06-208474-3|url=https://books.google.com/books?id=q5Jbx9NeDV4C&pg=PP1}}</ref>
+
+<ref name="Izzo 2005">{{cite book|last=Izzo|first=David Garrett|title=Christopher Isherwood Encyclopedia|location=[[London]]|publisher=[[McFarland & Company]]|pages=97, 144|year=2005|isbn=0-7864-1519-3|url=https://books.google.com/books?id=vhAkCQAAQBAJ&q=oswald%20mosley%20action%20christopher%20isherwood&pg=PA144}}</ref>
+
+<ref name="Johnstone 1975">{{cite magazine|last=Johnstone|first=Iain|author-link=Iain Johnstone|title=The Real Sally Bowles|magazine=[[Folio (magazine)|Folio]]|publisher=Hanson Publications, Inc.|pages=33–34|year=1975|location=[[Washington, D.C.]]}}</ref>
+
+<ref name="Kael 1972">{{cite magazine|last=Kael|first=Pauline|title=Grinning (Review of Cabaret)|author-link=Pauline Kael|url=https://www.newyorker.com/magazine/1972/02/19/grinning|magazine=[[The New Yorker]]|publisher=[[Condé Nast]]|issn=0028-792X|oclc=320541675|date=February 12, 1972|access-date=February 6, 2016|pages=84, 86–88}}</ref>
+
+<ref name="Liebenson 1996">{{cite news|last=Liebenson|first=Donald|title=Cinematic Legends Take Their Place in National Film Registry|date=January 4, 1996|newspaper=[[Chicago Tribune]]|url=https://www.chicagotribune.com/news/ct-xpm-1996-01-04-9601040275-story.html|language=en-US|access-date=2020-05-28}}</ref>
+
+<ref name="Lehmann 1987">{{cite book|last=Lehmann|first=John|author-link=John Lehmann|title=Christopher Isherwood: A Personal Memoir|location=[[New York City]]|publisher=[[Henry Holt and Company]]|year=1987|isbn=0-8050-1029-7|pages=28–9|url=https://books.google.com/books?id=1OtaAAAAMAAJ}}</ref>
+
+<ref name="MacLean 2014">{{cite book|last=MacLean|first=Roy|title=Berlin: Portrait of a City Through the Centuries|year=2014|page=181|url=https://books.google.com/books?id=N0uKBAAAQBAJ|publisher=[[St. Martin's Press]]|location=[[New York City]]|isbn=978-1-250-05186-8}}</ref>
+
+<ref name="McNary 2012">{{cite magazine|last=McNary|first=Dave|title=Restored 'Cabaret' to Open TCM Festival|magazine=[[Variety (magazine)|Variety]]|publisher=[[Penske Media Corporation]]|issn=0042-2738|oclc=60626328|url=https://variety.com/2012/film/news/restored-cabaret-to-open-tcm-fest-1118049554/|date=January 31, 2012|access-date=February 7, 2016}}</ref>
+
+<ref name="Minnelli 2006">{{cite episode|title=Liza Minnelli|title-link=Liza Minnelli|series=Inside the Actors Studio|date=February 5, 2006|season=12|number=6|language=en|network=[[Bravo (American TV channel)|Bravo]]}}</ref>
+
+<ref name="Moss 1979">{{cite news|last=Moss|first=Howard|author-link=Howard Moss|title=Christopher Isherwood: Man and Work|newspaper=[[The New York Times]]|publisher=[[The New York Times Company]]|issn=1553-8095|oclc=1645522|date=June 3, 1979|access-date=February 28, 2020|url=https://www.nytimes.com/1979/06/03/archives/christopher-isherwood-man-and-work-isherwood.html}}</ref>
+
+<ref name="Movieline Magazine">{{cite web|last=Dirks|first=Tim|title=The 100 Best Movies Ever Made by Movieline Magazine|url=http://www.filmsite.org/movieline.html|website=[[Filmsite]]|access-date=February 6, 2016}}</ref>
+
+<ref name="National Film Registry">{{cite web|url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/|title=Complete National Film Registry Listing|website=[[Library of Congress]]|publisher=[[United States Government Publishing Office]]|access-date=February 27, 2020}}</ref>
+
+<ref name="Original Recording">{{cite web|title=Cabaret: Original Soundtrack Recording (1972 Film)|author=<!--Staff writer(s); no by-line.-->|website=Amazon|date=March 8, 1996|url=https://www.amazon.com/exec/obidos/ASIN/B000005KOH/soundtrackcollec|access-date=March 25, 2013}}</ref>
+
+<ref name="Out 2012">{{cite magazine|title=50 Essential Gay Films|author=<!--Staff writer(s); no by-line.-->|url=http://www.out.com/entertainment/movies/2011/02/09/50-essential-gay-films|magazine=[[Out (magazine)|Out]]|publisher= Pride Media|issn=1062-7928|date=December 9, 2012|access-date=February 21, 2016}}</ref>
+
+<ref name="Parker 2004">{{cite ODNB|last=Parker|first=Peter|author-link=Peter Parker (author)|title=Ross, Jean Iris (1911–1973)|date=September 2004|url=https://www.oxforddnb.com/view/article/74425|access-date=June 18, 2017|doi=10.1093/ref:odnb/74425|url-access=subscription}}</ref>
+
+<ref name="Parker 2005">{{cite book|last=Parker|first=Peter|author-link=Peter Parker (author)|title=Isherwood: A Life Revealed|year=2005|orig-year=2004|publisher=[[Picador (imprint)|Picador]]|location=[[London]]|isbn=978-0-330-32826-5|url=https://books.google.com/books?id=CdF2UXFgcFcC|pages=192, 220}}</ref>
+
+<ref name="Phipps 2020">{{cite web|last=Phipps|first=Keith|title=The Best Movies That Lost Best Picture at the Oscars|date=February 2020|url=https://www.vulture.com/article/best-oscar-best-picture-losers.html|website=[[Vulture (website)|Vulture]]|publisher=[[Vox Media]]|access-date=January 13, 2026}}</ref>
+
+<ref name="Reuben 2013">{{cite web|last=Reuben|first=Michael|url=https://www.blu-ray.com/movies/Cabaret-Blu-ray/43488/#Review|date=January 25, 2013|title=Cabaret Blu-ray|website=Blu-ray.com|access-date=February 28, 2020}}</ref>
+
+<ref name="Riedel 2024">{{cite magazine|last=Riedel|first=Michael|title=The Untold History of Cabaret: Revived and Kicking|date=March 26, 2024|issue=April 2024|magazine=[[Vanity Fair (magazine)|Vanity Fair]]|url=https://www.vanityfair.com/style/cabaret-revival|access-date=April 7, 2024}}</ref>
+
+<ref name="Russell 2002">{{cite news|last=Russell|first=Jamie|title=BBC – Films – Review – Cabaret|url=https://www.bbc.co.uk/films/2002/06/06/caberet_1972_review.shtml|website=[[BBC News]]|publisher=[[BBC]]|date=June 6, 2002|access-date=December 7, 2015}}</ref>
+
+<ref name="Schudel 2019">{{cite news|last=Schudel|first=Matt|date=January 23, 2019|access-date=February 28, 2020|title=Kaye Ballard, comic actress and singer from vaudeville to TV, dies at 93|newspaper=[[The Washington Post]]|publisher=Nash Holdings|issn=0190-8286|oclc=2269358|url=https://www.washingtonpost.com/local/obituaries/kaye-ballard-comic-actress-and-singer-from-vaudeville-to-tv-dies-at-93/2019/01/22/6b7bd12c-1e7b-11e9-9145-3f74070bbdb9_story.html}}</ref>
+
+<ref name="Spender 1966">{{cite book|last=Spender|first=Stephen|author-link=Stephen Spender|title=World Within World: The Autobiography of Stephen Spender|url=https://books.google.com/books?id=9OW3Ke7WKBMC|location=[[Berkeley, California]]|publisher=[[University of California Press]]|year=1966|orig-year=1951|pages=125–130|isbn=978-0-679-64045-5}}</ref>
+
+<ref name="Spender 1977">{{cite news|last=Spender|first=Stephen|author-link=Stephen Spender|title=Life Wasn't a Cabaret|newspaper=[[The New York Times]]|publisher=[[The New York Times Company]]|issn=1553-8095|oclc=1645522|page=198|date=October 30, 1977|access-date=February 20, 2020|url=https://www.nytimes.com/1977/10/30/archives/life-wasnt-a-cabaret-on-a-visit-to-the-berlin-festival-stephen.html}}</ref>
+
+<ref name="St. James 2017">{{cite web|last=St. James|first=James|title=The Gay Essentials: The 50 Movies Every Gay Man Needs to See|url=http://worldofwonder.net/gay-essentials-50-movies-every-gay-man-needs-see/|website=The WOW Report|date=June 8, 2017|access-date=February 21, 2016}}</ref>
+
+<ref name="Steyn 1997">{{cite news|last=Steyn|first=Mark|author-link=Mark Steyn|url=https://www.independent.co.uk/life-style/steins-of-the-times-1297021.html|title=Hammerstein, Bernstein, Blitzstein, Jule Styne – The great names of American musical theatre are Jewish.|date=November 29, 1997|newspaper=[[The Independent]]|publisher=Independent Digital News & Media Ltd|access-date=May 21, 2018|quote=The best Nazi song is by Jewish songwriters. As with "Ol' Man River", when Cabaret called for an ostensibly innocent pastoral hymn to German nationalism, John Kander and Fred Ebb turned in such a plausible doppelganger that it was immediately denounced as a grossly offensive Nazi anthem. "The accusations against Tomorrow Belongs To Me' made me very angry", says Fred Ebb. "'I knew that song as a child', one man had the audacity to tell me. A rabbinical person wrote to me saying he had absolute proof it was a Nazi song." It wasn't: it was written in the mid-Sixties for a Broadway musical. But today, it's the only Nazi song we all know: On election night 1987, when Spitting Image decided to draw some "crass parallels" between Mrs Thatcher and another strong leader, they opted to show the Tories singing not the Horst Wessel song, but "Tomorrow Belongs To Me" – secure in the knowledge that we'd all get the joke.}}</ref>
+
+<ref name="TCM Festival 2012">{{cite web|title= Cabaret (1972)|author=<!--Staff writer(s); no by-line.-->|url=http://www.tcm.com/festival/programs/458081/index.html|website=[[TCM Classic Film Festival]]|year=2012|archive-url=https://web.archive.org/web/20120424182448/http://www.tcm.com/festival/programs/458081/index.html|archive-date=April 24, 2012}}</ref>
+
+<ref name="TCM Notes 2016">{{cite web|title=Cabaret (1972) – Notes – TCM.com|author=<!--Staff writer(s); no by-line.-->|url=https://www.tcm.com/tcmdb/title/21780/cabaret#notes|year=2016|website=[[Turner Classic Movies]]|publisher=[[Warner Bros.|Warner Bros. Entertainment Inc.]]|access-date = February 8, 2016|url-status=dead|archive-url=https://web.archive.org/web/20171021035856/http://www.tcm.com/tcmdb/title/21780/Cabaret/notes.html|archive-date=October 21, 2017}}</ref>
+
+<ref name="Thomson 2005">{{cite magazine|last=Thomson|first=David|author-link = David Thomson (film critic)|title=The Observer as Hero|date=March 21, 2005|access-date=October 2, 2019|url=https://newrepublic.com/article/68111/the-observer-hero|magazine=[[The New Republic]]|location=[[New York City]]}}</ref>
+
+<ref name="TV Guide">{{cite web|last=Dirks|first=Tim|title=50 Greatest Movies from TV Guide|url=http://www.filmsite.org/tvguide.html|website=[[Filmsite]]|access-date=February 6, 2016}}</ref>
+
+<ref name="New York Times 1969">{{cite news|title='Cabaret' Film Rights Bought for $1.5-Million|author=<!--Staff writer(s); no by-line.-->|url=https://www.nytimes.com/1969/05/28/archives/cabaret-film-rights-bought-for-15million.html|newspaper=[[The New York Times]]|publisher=[[The New York Times Company]]|issn=1553-8095|oclc=1645522|page=34|date=May 28, 1969|access-date=September 2, 2025}}</ref>
+
+<ref name="Variety 1971">{{cite magazine|title= Cabaret|url=https://variety.com/1971/film/reviews/cabaret-2-1200422826/|magazine=[[Variety (magazine)|Variety]]|publisher=[[Penske Media Corporation]]|issn=0042-2738|oclc=60626328|date=February 16, 1972|last=Murphy|first=A.D.|page=18|access-date=December 7, 2015}}</ref>
+</references>
+
+== Bibliography ==
+Francesco Mismirigo, ''Cabaret, un film allemand'', Université de Genève, 1984
+
+== External links ==
+{{wikiquote|Cabaret (film)}}
+{{commons category|Cabaret (film)}}
+* {{IMDb title}}
+* [https://www.allmovie.com/movie/cabaret-am8569 ''Cabaret'' at AllMovie]
+* {{Metacritic film}}
+* {{AFI film}}
+* {{TCMDb title}}
+* [https://www.loc.gov/static/programs/national-film-preservation-board/documents/cabaret.pdf ''Cabaret''] essay by Stephen Tropiano on the [[National Film Registry]] website
+* {{cite book |last=Eagan |first=Daniel |chapter=Cabaret |chapter-url=https://books.google.com/books?id=deq3xI8OmCkC&pg=PA682 |title=America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry |publisher=[[A & C Black]] |year=2010 |pages=682–684 |isbn=978-0826-42977-3|ref=none}}
+* {{Rotten Tomatoes}}
+
+{{Cabaret}}
+{{Isherwood}}
+{{Bob Fosse}}
+{{Liza Minnelli}}
+{{Navboxes
+|title = Awards for ''Cabaret''
+|list =
+{{BAFTA Award for Best Film}}
+{{Golden Globe Award Best Motion Picture Musical or Comedy}}
+{{National Board of Review Award for Best Film}}
+}}
+
+{{Authority control}}
+
+[[Category:1972 films]]
+[[Category:1972 LGBTQ-related films]]
+[[Category:1972 musical films]]
+[[Category:1972 controversies]]
+[[Category:1972 American films]]
+[[Category:1972 English-language films]]
+[[Category:1972 German-language films]]
+[[Category:1972 historical drama films]]
+[[Category:1970s historical musical films]]
+[[Category:1970s LGBTQ-related drama films]]
+[[Category:1970s musical drama films]]
+[[Category:ABC Motion Pictures films]]
+[[Category:Allied Artists films]]
+[[Category:American historical drama films]]
+[[Category:American historical musical films]]
+[[Category:American bisexual men-related films]]
+[[Category:American musical drama films]]
+[[Category:Best Film BAFTA Award winners]]
+[[Category:Best Musical or Comedy Picture Golden Globe winners]]
+[[Category:Censored films]]
+[[Category:English-language historical drama films]]
+[[Category:English-language musical drama films]]
+[[Category:Films about abortion in Germany]]
+[[Category:Films about anti-fascism]]
+[[Category:Films about Nazi Germany]]
+[[Category:Films about political repression]]
+[[Category:Films about writers]]
+[[Category:Films based on adaptations]]
+[[Category:Films based on musicals]]
+[[Category:Films directed by Bob Fosse]]
+[[Category:Films featuring a Best Actress Academy Award–winning performance]]
+[[Category:Films featuring a Best Musical or Comedy Actress Golden Globe winning performance]]
+[[Category:Films featuring a Best Supporting Actor Academy Award–winning performance]]
+[[Category:Films featuring a Best Supporting Actor Golden Globe winning performance]]
+[[Category:Films produced by Cy Feuer]]
+[[Category:Films scored by Ralph Burns]]
+[[Category:Films set in 1931]]
+[[Category:Films set in Berlin]]
+[[Category:Films set in cabarets]]
+[[Category:Films shot at Bavaria Studios]]
+[[Category:Films that won the Best Original Score Academy Award]]
+[[Category:Films that won the Best Sound Mixing Academy Award]]
+[[Category:Films whose production designer won the Best Production Design Academy Award]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Films whose director won the Best Directing Academy Award]]
+[[Category:Films whose director won the Best Direction BAFTA Award]]
+[[Category:Films whose editor won the Best Film Editing Academy Award]]
+[[Category:Films with screenplays by Jay Presson Allen]]
+[[Category:American gay-related films]]
+[[Category:LGBTQ-related controversies in film]]
+[[Category:LGBTQ-related musical drama films]]
+[[Category:United States National Film Registry films inducted in 1995]]
+[[Category:Works about the Weimar Republic]]

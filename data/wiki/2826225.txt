@@ -1,0 +1,95 @@
+{{Short description|1916 American silent romantic fantasy film directed by J. Searle Dawley}}
+{{More citations needed|date=July 2023}}
+{{Use mdy dates|date=March 2025}}
+{{Use American English|date=January 2025}}
+{{Infobox film
+| name           = Snow White
+| image          = Snow White 1916.jpg
+| caption        = Advertisement (1917)
+| director       = [[J. Searle Dawley]]
+| producer       = H. Lyman Broening (uncredited)
+| writer         = [[Winthrop Ames]]
+| based_on       = {{based on|''[[Snow White]]'' as collected|[[The Brothers Grimm]]}}
+| starring       = {{plainlist|
+*[[Marguerite Clark]]
+*[[Creighton Hale]]
+}}
+| cinematography = [[H. Lyman Broening]]
+| studio         = [[Famous Players Film Company]]
+| distributor    = [[Paramount Pictures]]
+| released       = {{Film date|1916|12|25}}
+| runtime        = 63 minutes (18 frame/s)
+| country        = United States
+| language       = [[Silent film|Silent]] (English [[intertitle]]s)
+}}
+[[File:Snow White (1916).webm|thumb|''Snow White'', full 63 minute film]]
+'''''Snow White''''' is a 1916 American [[silent film|silent]] [[romantic fantasy]] film directed by [[J. Searle Dawley]]. [[Winthrop Ames]] adapted it from his own 1912 Broadway play ''[[Snow White and the Seven Dwarfs (1912 play)|Snow White and the Seven Dwarfs]]'', which was in turn adapted from the [[Snow White|1812 fairy tale]] (as collected by the [[Brothers Grimm]]). The film stars [[Marguerite Clark]] and [[Creighton Hale]], Clark reprising her stage role.<ref name=SF/>
+
+Having seen the film at the age of fifteen, [[Walt Disney]] was inspired to use the Brothers Grimm fairy tale as the subject of [[Snow White and the Seven Dwarfs (1937 film)|his first feature-length animated film]] in 1937.<ref name=SF/>
+
+==Cast==
+*[[Marguerite Clark]] as Snow White
+*[[Creighton Hale]] as Prince Florimond 
+*[[Dorothy Cumming]] as Queen Brangomar
+*[[Lionel Braham]] as Berthold the Huntsman 
+*[[Alice Washburn]] as Witch Hex (*see below)
+*[[Richard Barthelmess]] as Pie Man
+*Arthur Donaldson as King
+*Irwin Emmer as [[Seven Dwarfs|Dwarf]]
+*Billy Platt as Dwarf
+*Herbert Rice as Dwarf
+*Jimmy Rosen as Dwarf
+
+''uncredited''
+*[[May Robson]] as Witch Hex (she replaced originally scheduled Alice Washburn)
+*[[Kate Lester]] as a dowager queen
+
+==Preservation status==
+Formerly thought to have been destroyed in a vault fire and presumed [[lost film|lost]], a "substantially complete" print with Dutch intertitles, missing a few scenes, was found in [[Amsterdam]] in 1992 and restored at [[George Eastman House]].<ref name=SF/>
+
+==Home media==
+''Snow White'' is included in the boxed DVD set ''[[Treasures From American Film Archives|Treasures from American Film Archives: 50 Preserved Films]]'' (2000).<ref name=silentera/>
+
+==See also==
+*[[1916 in film]]
+*[[List of rediscovered films]]
+
+==References==
+{{Reflist|refs=
+<ref name=silentera>{{cite web|editor=Carl Bennett|url=http://www.silentera.com/video/collTreasures1HV.html |title=Treasures from American Film Archives|website=Silent Era |accessdate=May 19, 2013}}</ref>
+<ref name=SF>{{cite web|url=http://www.silentfilm.org/snow-white|title=Snow White, 1916|author=J.B. Kaufman|author-link=J.B. Kaufman|publisher=[[San Francisco Silent Film Festival]]|accessdate=May 21, 2015}}</ref>
+}}
+
+==External links==
+{{Commons category}}
+*{{AFI film|18206}}
+*{{IMDb title|0007361}}
+*{{TCMDb title|344194}}
+*[https://www.kinotv.com/page/film.php?filmcode=81457&q=0&l=en Kinotv]| ''Snow White''
+
+{{J. Searle Dawley}}
+{{Snow White}}
+
+[[Category:1916 films]]
+[[Category:1916 American films]]
+[[Category:1910s rediscovered films]]
+[[Category:1910s romantic fantasy films]]
+[[Category:American black-and-white films]]
+[[Category:American films based on plays]]
+[[Category:American romantic fantasy films]]
+[[Category:American silent feature films]]
+[[Category:Articles containing video clips]]
+[[Category:Famous Players–Lasky films]]
+[[Category:Films about royalty]]
+[[Category:Films based on adaptations]]
+[[Category:Films based on Snow White]]
+[[Category:Films directed by J. Searle Dawley]]
+[[Category:Paramount Pictures films]]
+[[Category:Rediscovered American films]]
+[[Category:Santa Claus in film]]
+[[Category:American silent horror films]]
+[[Category:Surviving American silent films]]
+
+
+{{fantasy-film-stub}}
+{{1910s-US-film-stub}}

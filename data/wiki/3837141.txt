@@ -1,0 +1,158 @@
+{{short description|1958 film by Louis Malle}}
+{{Use dmy dates|date=December 2024}}
+{{Use British English|date=February 2024}}
+{{Infobox film
+| name           = Elevator to the Gallows
+| image          = Ascenseur echafaud.jpg
+| caption        = Theatrical release poster
+| native_name    = {{Infobox name module|fr|Ascenseur pour l'échafaud}}
+| director       = [[Louis Malle]]
+| screenplay     = {{Plainlist|
+* [[Roger Nimier]]
+* Louis Malle
+}}
+{{Infobox|decat=yes|child=yes|label1=Dialogue by|data1=Roger Nimier}}
+| based_on       = {{Based on|''Ascenseur pour l'échafaud''<br>1956 novel|Noël Calef}}
+| producer       = Jean Thuillier
+| starring       = {{Plainlist|
+* [[Jeanne Moreau]]
+* [[Maurice Ronet]]
+* [[Georges Poujouly]]
+* [[Yori Bertin]]
+* [[Jean Wall]]
+* [[Iván Petrovich]]
+* [[Félix Marten]]
+* [[Lino Ventura]]
+}}
+| cinematography = [[Henri Decaë]]
+| editing        = Léonide Azar
+| music          = [[Miles Davis]]
+| studio         = Nouvelles Éditions de Films
+| distributor    = Lux Compagnie Cinématographique de France
+| released       = {{film date|1958|1|29|df=yes}}
+| runtime        = 91 minutes
+| country        = France
+| language       = French
+}}
+
+'''''Elevator to the Gallows'''''<ref>{{langx|fr|Ascenseur pour l'échafaud}}. Also known as '''''Frantic''''' in the US and '''''Lift to the Scaffold''''' in the UK.</ref> (French: '''''Ascenseur pour l'échafaud''''') is a 1958 French [[Crime thriller film|crime thriller]] [[tragedy]] film directed by [[Louis Malle]] in his directorial debut. The film stars [[Jeanne Moreau]] and [[Maurice Ronet]] as lovers whose murder plot starts to unravel after one of them becomes trapped in an elevator. The screenplay by [[Roger Nimier]] and Malle is based on the 1956 novel of the same name by Noël Calef.
+
+Associated by some critics with [[film noir]]<ref>{{cite web|title=Ascenseur pour l'echafaud (1958) – Louis Malle|last=Rasmussen|first=Linda|website=[[AllMovie]]|url=https://www.allmovie.com/movie/v18507|access-date=5 October 2013|archive-url=https://web.archive.org/web/20180515112243/https://www.allmovie.com/movie/v18507|archive-date=15 May 2018}}</ref> and introducing new narrative, cinematographic, and editing techniques, the film is considered an important work in establishing the [[French New Wave]] and the [[European art cinema|New Modern Cinema]].<ref name="romina"/> The [[Ascenseur pour l'échafaud (soundtrack)|improvised soundtrack]] by [[Miles Davis]] and the relationship the film establishes among music, image, and emotion were considered groundbreaking.
+
+==Plot==
+Lovers Florence Carala and Julien Tavernier devise a plan to kill Florence's husband Simon, a wealthy French industrialist who is also Julien's boss. Staying late at the office one Saturday, Julien, an ex-[[French Foreign Legion|Foreign Legion]] parachutist and veteran of the [[First Indochina War|Indochinese]] and [[Algerian War|Algerian]] wars, climbs the side of the building to Simon's office and kills him with his own gun, then stages the body as a suicide. He leaves the building with a secretary and security guard to provide alibis. He glances up from his car and realizes he left his climbing rope hanging from the balcony rail. Leaving the engine running, he rushes back into the building and boards the elevator just before the security guard switches off the power and locks up for the weekend, trapping Julien between floors.
+
+Louis, a young small-time crook, and his girlfriend Véronique, a flower shop assistant, steal Julien's running car and drive past Florence, who is waiting for Julien at a nearby café. The sight of Véronique convinces her Julien abandoned their plan and picked up another girl and she wanders the streets despondently searching for him in local nightclubs.
+
+Louis and Véronique drive around for hours, until some Germans in a [[Mercedes-Benz 300 SL|sporty Mercedes]] challenge Louis to a race. He follows them to a motel, and the German driver, the jovial Horst Bencker, invites Louis and Véronique to have a drink with him and his wife Frieda. Both couples check in and, while they chat, Frieda takes a few pictures of Louis and her husband with Julien's camera. She finishes the roll, so Véronique drops the film off at the motel's photo lab.
+
+After the Benckers go to bed, Louis is caught by Horst attempting to steal the Mercedes, and Louis empties Julien's pistol into them. He and Véronique return to Véronique's apartment in Paris and Véronique persuades Louis to attempt suicide with her by taking [[phenobarbital]] pills.
+
+The police discover the French couple at the hotel registered as "Mr. and Mrs. Julien Tavernier" and find Julien's car and gun next to the Benckers' corpses and Julien's raincoat in their stolen Mercedes. They search Julien's office, escorted by the security guard, and discover Simon's body. Once the building's power is switched back on, Julien escapes from the elevator and goes to a cafe, unaware that he has been identified as a murder suspect in the morning newspapers. He is arrested and charged with the murder of the Benckers, unable to convince the police that he was trapped in the elevator all weekend. The rope he left attached to the balcony eventually falls loose on its own.
+
+Florence obtains Véronique's address from the florist and finds Véronique and Louis still alive. She accuses the drowsy couple of murdering the Benckers and calls the police with an anonymous tip. Louis believes he's gotten away with the murder when he sees Julien's picture in the paper, but Véronique reminds him of the roll of film. Louis rushes to the motel's photo lab, tailed by Florence, and is arrested on the spot. Inside the lab Commissaire Cherrier shows Florence the photos of her and Julien that have been developed and are now evidence against them. Cherrier informs Florence she will probably get a harsher sentence than Julien, and Florence replies  she did it for love and believes she will one day be reunited with Julien.
+
+==Cast==
+[[File:Jeanne Moreau 1958.jpg|thumb|upright|Moreau in 1958]]
+{{Cast listing|
+* [[Jeanne Moreau]] as Florence Carala
+* [[Maurice Ronet]] as Julien Tavernier
+* [[Georges Poujouly]] as Louis
+* [[Yori Bertin]] as Véronique
+* [[Jean Wall]] as Simon Carala
+* [[Elga Andersen]] as Frieda Bencker
+* {{ill|Micheline Bona|fr}} as Geneviève, the secretary
+* [[Gérard Darrieu]] as Maurice, the daytime security guard
+* [[Marcel Cuvelier]] as Motel Receptionist
+* [[Gisèle Grandpré]] as Jacqueline Mauclair
+* [[Jacqueline Staup]] as Anna
+* Sylviane Aisenstein as Yvonne
+* [[Marcel Journet (actor)|Marcel Journet]] as President of the directors
+* [[François Joux]] as Commissioner
+* [[Charles Denner]] as Commissaire Cherrier's deputy
+* [[Hubert Deschamps]] as Deputy prosecutor
+* [[Iván Petrovich]] as Horst Bencker
+* [[Félix Marten]] as Christian Subervie
+* [[Jacques Hilling]] as Mechanic
+* [[Lino Ventura]] as Police Commissaire Cherrier
+}}
+
+==Production==
+This low-budget black-and-white production was 24-year-old [[Louis Malle]]'s first feature film. He had previously worked with [[Jacques Cousteau]] for several years, and was credited as co-director of the documentary ''[[The Silent World]]'' (1956).
+
+Malle cast [[Jeanne Moreau]] after seeing her in the Paris stage production of [[Tennessee Williams]]' ''[[Cat on a Hot Tin Roof]]''. She had already been in a number of films, but her role in this film is often considered her breakthrough. Malle filmed her without the heavy makeup and extreme lighting that previous directors had demanded. Scenes of Moreau wandering down the [[Champs Elysees]] at night were shot on fast film from a baby carriage using only available light from the street and shop windows.
+
+==Soundtrack==
+{{Main|Ascenseur pour l'échafaud (soundtrack)}}
+[[File:Miles Davis by Palumbo.jpg|thumb|Jazz trumpeter [[Miles Davis]], who produced an innovative score for ''Elevator to the Gallows'', pictured in 1956.]]
+[[Miles Davis]]'s score for the film is considered by many to be groundbreaking,<ref name="romina">{{cite book |last=Daniele |first=Romina |url=https://books.google.com/books?id=5_DvEAAAQBAJ |title=Ascenseur pour l'échafaud, Il luogo della musica nell'audiovisione |language=it |location=Milan |publisher=RDM |year=2011 |isbn=9788890490590}}</ref> with jazz critic Phil Johnson describing it as "the loneliest trumpet sound you will ever hear, and the model for sad-core music ever since. Hear it and weep."<ref>{{cite news|last=Johnson|first=Phil|title=Discs: Jazz—Miles Davis/''Ascenseur Pour L'Echafaud'' (Fontana)|newspaper=[[The Independent on Sunday]]|date=14 March 2004}}</ref> [[Richard Brody]], film critic and writer for ''[[The New Yorker]]'', wrote in 2016 that the score itself is "better than the film, by far".<ref name="The New Yorker">{{cite magazine |last=Brody |first=Richard |author-link=Richard Brody |title=Louis Malle's "Elevator to the Gallows," and Its Historic Miles Davis Soundtrack |url=https://www.newyorker.com/culture/richard-brody/louis-malles-elevator-to-the-gallows-and-its-historic-miles-davis-soundtrack |magazine=[[The New Yorker]] |date=3 August 2016 |access-date=31 October 2023}}</ref>
+
+===Recording===
+In 1957, Davis, an already well known and highly regarded jazz performer and composer, received an invitation to perform in a three-week tour of Europe as a solo artist. Davis had just abandoned his "[[Miles Davis Quintet#First Great Quintet/Sextet (1955–58)|first great quintet]]" of 1955–56, including saxophonist [[John Coltrane]], due to their addiction to heroin. He was beginning to try and live a healthier life, although he was still using cocaine.{{sfn|Davis|Troupe|1989|p=209}} Additionally, Davis, during his time performing, had been experiencing an immense amount of racism and enjoyed the chance to leave the United States for a while.<ref name="UDiscoverMusic">{{cite web |last=Waring |first=Charles |title='Ascenseur Pour L'Échafaud': Miles Davis' Groundbreaking Foray Into Modal Jazz |url=https://www.udiscovermusic.com/stories/ascenseur-pour-lechafaud-miles-davis/ |website=[[UDiscoverMusic]] |date=4 December 2023 |access-date=31 October 2023}}</ref>
+
+Marcel Romano, promoter and jazz enthusiast, picked Davis up from the airport in November 1957 with the initial intention of telling him he would feature in a film about jazz.<ref name="UDiscoverMusic"/> However, this plan fell through before Davis even arrived. Instead, film technician Jean-Claude Rappeneau, whom Romano had hired for the project, mentioned that he had been working on a feature film with young director Louis Malle who had an interest in jazz music.<ref name="UDiscoverMusic"/> Romano told Davis about the film and said Davis seemed interested in the project, so they organised a private screening for him. Davis took notes, asking questions about the relationships between the characters and explanations of the plot. He later wrote in his autobiography that he agreed to the job because he had never written music for a film before and it would be "a great learning experience".{{sfn|Davis|Troupe|1989|p=217}}
+
+While touring Europe, Davis asked that a piano be brought to his hotel room. Over the next two weeks, he began to improvise some themes that would be used in the film.<ref name="The New Yorker"/> Davis chose to use musicians he had been performing with on his European tour: saxophonist [[Barney Wilen]], pianist [[René Urtreger]], bassist [[Pierre Michelot]] and drummer [[Kenny Clarke]]. They had only been informed about the project a couple of days prior and went into the session unprepared, having not even seen the film.
+
+On 4 December 1957 at 10 p.m., Davis and his band went to the Le Poste Parisien studios to record the score. The band drank together for an hour, played for four hours, then took two hours of editing, and left the studio by 5 a.m. the next day having finished the film score.<ref>{{cite web |last=Mas |first=Simon |title=The Neglected Gem of MILES DAVIS' Discography |url=https://www.youtube.com/watch?v=VV5GVq84cWk |date=10 July 2023 |access-date=31 October 2023 |via=YouTube}}</ref>
+
+===Analysis and influence===
+The soundtrack features eight of Davis's extended improvisations, all recorded in the four-hour session. The only song mapped out in detail was "Sur L'Autoroute", and Davis gave minimal instructions to the band for the rest of the soundtrack. He gave them two chordal structures, D minor and C seventh chords, and they improvised around these.<ref name="Allmusic">{{cite web |last=Nastos |first=Michael. G |title=Ascenseur pour l'Échafaud [Original Motion Picture Soundtrack] – Miles Davis |url=https://www.allmusic.com/album/ascenseur-pour-l%C3chafaud-original-motion-picture-soundtrack--mw0000203518 |website=[[AllMusic]] |access-date=31 October 2023}}</ref> Scales rather than chords took precedence, maintaining harmonic simplicity and fragmenting the themes.<ref name="The New Yorker"/><ref name="UDiscoverMusic"/> Michelot said in a 1988 interview, "What characterised the session is the absence of a defined theme."<ref name="The New Yorker"/>
+
+The mood of the soundtrack is described as generally "dour and somber",<ref name="Allmusic"/> but the pace is picked up on tracks such as "Dîner au Motel". The songs "Générique" and "L'Assassinat de Carala" feature Davis's distinctive trumpet style that is echoed through dire straits or death wish motifs.<ref name="Allmusic"/> Phil Johnson further described the soundtrack as a "powerfully expressive, highly concentrated, freely inspired performance".<ref name="The New Yorker"/>
+
+The scoring process for ''Elevator to the Gallows'' was a milestone event in the development of Davis's theory of [[modal jazz]].<ref name="The New Yorker"/> Modal jazz became highly influential in the late '50s and '60s, switching from the chorally dense sound of [[bebop]]. Davis opened up a new gateway between composition and improvisation in this soundtrack, a pathway which he would explore in the 1959 modal jazz album ''[[Kind of Blue]]''.<ref name="UDiscoverMusic"/> This style of music would influence not only future jazz musicians but the sound of film noir itself. Richard Brody highlights this in his article, writing, "The use of jazz and jazz-derived soundtracks became so predominant, that jazz came to seem like the natural backdrop for high-speed chases, mass mayhem, and cold-blooded murder, because the films for which jazz players were enlisted were uniformly violent."<ref name="The New Yorker"/>
+
+==Critical response==
+[[File:Identite-LouisMalle-1958-Sacem.png|thumb|upright|Malle in 1958]]
+For ''[[Time (magazine)|Time]]'', journalist [[Barry Farrell (journalist)|Barry Farrell]] wrote:
+{{Blockquote|Moreau had 20 forgettable films behind her. ... Malle put Moreau under an honest light and wisely let his camera linger. The film was nothing special, but it did accomplish one thing: it proposed a new ideal of cinematic realism, a new way to look at a woman. All the drama in the story was in Moreau's face—the face that had been hidden behind cosmetics and flattering lights in all her earlier films. When Malle [made] ''[[The Lovers (1958 film)|The Lovers]]'' the following year, it was obvious who his woman would be. For one thing, he had discovered her, and for another, they were in love.<ref>{{cite magazine |last=Farrell |first=Barry |author-link=Barry Farrell (journalist) |url=https://time.com/archive/6633424/actresses-making-the-most-of-love/ |title=Actresses: Making the Most of Love |magazine=[[Time (magazine)|Time]] |date=5 March 1965 |access-date=10 August 2024 |archive-url=https://web.archive.org/web/20240810190956/https://time.com/archive/6633424/actresses-making-the-most-of-love/ |archive-date=10 August 2024 |url-status=live}}</ref>}}
+
+In a review of the film's 2005 theatrical re-release, [[Roger Ebert]] observed that Moreau's face when Florence is pondering Julien's whereabouts "is often illuminated only by the lights of the cafes and shops that she passes; at a time when actresses were lit and photographed with care, these scenes had a shock value, and influenced many films to come." He further argued that Louis and Véronique were a precursor to the young couple in [[Jean-Luc Godard]]'s ''[[Breathless (1960 film)|Breathless]]'' (1960).<ref>{{cite web |url=https://www.rogerebert.com/reviews/elevator-to-the-gallows-2005 |title=Malle's 'Elevator' a noir masterpiece |last=Ebert |first=Roger |author-link=Roger Ebert |website=[[RogerEbert.com]] |date=15 September 2005 |access-date=26 July 2016}}</ref> In a 2016 article, ''[[The New Yorker|New Yorker]]'' film critic [[Richard Brody]] claimed the film is more important for its place in French film history than for its own artistic merits, with the exception of Davis's score, which he said "is worth hearing entirely on its own. It's better than the film itself, by far, and there are better ways to hear it than in the movie—namely, by listening to a CD that features the entire studio sessions from which the score was edited."<ref name="The New Yorker"/>
+
+On the [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 93% based on 60 reviews, with an average rating of 8.30/10. The website's critics consensus reads, "Louis Malle's hypnotic debut is a noir with genuine soul, infusing its tale of best laid plans gone awry with wistful performances, swooning cinematography, and a sultry soundtrack."<ref>{{cite web|url=https://www.rottentomatoes.com/m/elevator_to_the_gallows|title=Elevator to the Gallows|website=[[Rotten Tomatoes]]|access-date=10 August 2024}}</ref> [[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 94 out of 100, based on 16 critics, indicating "universal acclaim".<ref>{{cite web|url=https://www.metacritic.com/movie/elevator-to-the-gallows/|title=Elevator to the Gallows|website=[[Metacritic]]|access-date=10 August 2024}}</ref>
+
+==Remakes==
+There have been two film adaptations of Calef's novel since Malle's version: ''Shikeidai No Erebêtâ'' (2010), by Japanese filmmaker [[Akira Ogata (film director)|Akira Ogata]], and ''Weekend'' (2013), by Russian filmmaker [[Stanislav Govorukhin]].
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite book |last1=Davis |first1=Miles |author-link1=Miles Davis |last2=Troupe |first2=Quincy |author-link2=Quincy Troupe |url=https://archive.org/details/milesautobiograp00davi |title=Miles: The Autobiography |year=1989 |publisher=[[Simon & Schuster]] |location=New York |isbn=978-0-671-63504-6 |url-access=registration}}
+{{refend}}
+
+==External links==
+* {{IMDb title}}
+* {{Rotten Tomatoes}}
+* {{TCMDb title}}
+* [https://www.criterion.com/current/posts/2642-chef-du-cinema-elevator-to-the-gallows ''Chef du Cinema: Elevator to the Gallows''] – an essay by Ron Deutsch at [[The Criterion Collection]]
+
+{{Louis Malle}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Elevator To The Gallows}}
+[[Category:1950s psychological thriller films]]
+[[Category:1958 crime thriller films]]
+[[Category:1958 directorial debut films]]
+[[Category:1958 films]]
+[[Category:1958 French films]]
+[[Category:1958 French-language films]]
+[[Category:Film noir]]
+[[Category:Films about adultery in France]]
+[[Category:Films based on crime novels]]
+[[Category:Films based on French novels]]
+[[Category:Films directed by Louis Malle]]
+[[Category:Films scored by Miles Davis]]
+[[Category:Films set in Paris]]
+[[Category:Films shot in Paris]]
+[[Category:Films with screenplays by Roger Nimier]]
+[[Category:French black-and-white films]]
+[[Category:French crime thriller films]]
+[[Category:French films based on novels]]
+[[Category:French independent films]]
+[[Category:French psychological thriller films]]
+[[Category:French-language independent films]]
+[[Category:Louis Delluc Prize winners]]

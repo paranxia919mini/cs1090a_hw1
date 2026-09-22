@@ -1,0 +1,401 @@
+{{short description|2012 comedy film directed by Harmony Korine}}
+{{about|the 2012 film|the 1983 film|Spring Break (film){{!}}''Spring Break'' (film)|the Charli XCX song|Spring Breakers (song)|other uses|Spring break (disambiguation)}}
+{{Use American English|date = November 2019}}
+{{Use mdy dates|date = November 2019}}
+{{Infobox film
+| name           = Spring Breakers
+| image          = Spring Breakers poster.jpg
+| alt            = Theatrical release poster depicting four young women in bikinis, with a man standing behind them.
+| caption        = Theatrical release poster
+| director       = [[Harmony Korine]]
+| writer         = Harmony Korine
+| producer       = {{Plainlist|
+* [[Chris Hanley]]
+* Jordan Gertner
+* David Zander
+* Charles-Marie Anthonioz
+}}
+| starring       = {{Plainlist|
+* [[James Franco]]
+* [[Selena Gomez]]
+* [[Vanessa Hudgens]]
+* [[Ashley Benson]]
+* [[Rachel Korine]]
+* [[Gucci Mane]]
+}}
+| music          = {{Plainlist|
+* [[Skrillex]]
+* [[Cliff Martinez]]
+<!--- Per poster order --->
+}}
+| cinematography = [[Benoît Debie]]
+| editing        = [[Douglas Crise]]
+| studio         = {{Plainlist|
+* [[Chris Hanley|Muse Productions]]
+* [[Annapurna Pictures]]
+* [[Division Films]]
+* [[Ted Field|Radar Productions]]
+<!--- Per poster billing block credits --->
+}}
+| distributor    = [[A24]]
+| released       = {{Film date|2012|09|04|[[69th Venice International Film Festival|Venice]]|2013|03|22|United States|ref2=<ref>{{cite web |url=http://www.inquisitr.com/524953/spring-breakers-gets-an-early-release-date/ |title='Spring Breakers' Gets An Early Release Date |work=The Inquisitr |date=February 14, 2013 |first=Niki |last=Cruz |access-date=April 12, 2013 |archive-date=September 28, 2015 |archive-url=https://web.archive.org/web/20150928122728/http://www.inquisitr.com/524953/spring-breakers-gets-an-early-release-date/ |url-status=live }}</ref>}}
+| runtime        = 94 minutes<!--Theatrical runtime: 93:35--><ref name="BBFC">{{cite web|title=''Spring Breakers'' (18)|url=https://www.bbfc.co.uk/releases/spring-breakers-2013|work=[[British Board of Film Classification]]|date=February 14, 2013|access-date=February 14, 2013|archive-date=February 3, 2014|archive-url=https://web.archive.org/web/20140203083855/http://www.bbfc.co.uk/releases/spring-breakers-2013|url-status=dead}}</ref>
+| country        = United States<ref>{{cite web|url=https://www.theguardian.com/commentisfree/2013/mar/28/spring-breakers-movie-wild-girls-rape-culture|work=[[The Guardian]]|title=Spring Breakers isn't just a terrible movie, it reinforces rape culture|author=Long, Heather|access-date=October 22, 2013|date=March 28, 2013|archive-date=October 23, 2013|archive-url=https://web.archive.org/web/20131023081257/http://www.theguardian.com/commentisfree/2013/mar/28/spring-breakers-movie-wild-girls-rape-culture|url-status=live}}</ref>
+| language       = English
+| budget         = $5 million<ref name="BOM">{{cite web |url=https://www.boxofficemojo.com/release/rl108234241/?ref_=bo_tt_gr_1 |title=Spring Breakers (2013) |website=Box Office Mojo |access-date=5 August 2014 |archive-date=April 23, 2022 |archive-url=https://web.archive.org/web/20220423072329/https://www.boxofficemojo.com/release/rl108234241/?ref_=bo_tt_gr_1 |url-status=live }}</ref>
+| gross          = $31.7 million<ref name="BOM" />
+}}
+'''''Spring Breakers''''' is a 2013 American [[crime drama film]] written and directed by [[Harmony Korine]]. Starring [[James Franco]], [[Selena Gomez]], [[Vanessa Hudgens]], [[Ashley Benson]], [[Rachel Korine]], and [[Gucci Mane]], it follows four college-aged girls who go on [[spring break]] in [[St. Petersburg, Florida]] and descend into a world of drugs, crime, and violence after meeting an eccentric local drug dealer.<ref name="Rachel">{{cite web|date=November 4, 2011|url=http://blogs.indiewire.com/theplaylist/rachel-korine-yes-harmonys-wife-joins-spring-breakers|title=Rachel Korine (Yes, Harmony's Wife) Joins 'Spring Breakers'|work=The Playlist|publisher=[[Indiewire]]|access-date=April 4, 2012|archive-url=https://web.archive.org/web/20160702222840/http://www.indiewire.com/2011/11/rachel-korine-yes-harmonys-wife-joins-spring-breakers-115252/|archive-date=July 2, 2016}}</ref><ref>{{cite web|url=https://www.allmovie.com/movie/spring-breakers-v560779|work=[[Allmovie]]|title=Spring Breakers|author=Buchanan, Jason|publisher=[[Rovi Corporation]]|access-date=April 21, 2013|archive-date=April 21, 2013|archive-url=https://web.archive.org/web/20130421134254/http://www.allmovie.com/movie/spring-breakers-v560779|url-status=live}}</ref><ref>{{cite web|url=https://www.timeout.com/us/film/spring-breakers-movie-review|work=[[Time Out (magazine)|Time Out]]|author=Rothkopf, Joshua|title=Spring Breakers|quote="Spring Breakers is either an inspired satire of the youth movie or the most irresponsible comedy mainstream Hollywood will never make."|access-date=April 23, 2013|archive-date=October 27, 2019|archive-url=https://web.archive.org/web/20191027151349/https://www.timeout.com/us/film/spring-breakers-movie-review}}</ref><ref>{{cite web|url=https://www.rogerebert.com/reviews/spring-breakers-2013-1|work=RogerEbert.com|author=Roeper, Richard|title=Spring Breakers Movie|date=March 20, 2013|access-date=April 23, 2013|author-link=Richard Roeper|archive-date=April 14, 2013|archive-url=https://web.archive.org/web/20130414012239/http://www.rogerebert.com/reviews/spring-breakers-2013-1|url-status=live}}</ref><ref>{{cite magazine|url=https://www.ew.com/ew/article/0,,20657941,00.html|magazine=[[Entertainment Weekly]]|author=Gleiberman Owen|date=March 22, 2013|title=Spring Breakers|access-date=April 23, 2013|archive-date=October 6, 2014|archive-url=https://web.archive.org/web/20141006142648/http://www.ew.com/ew/article/0,,20657941,00.html}}</ref>
+
+Harmony Korine had developed the concept over several years prior to production, with fleeting ideas about the plot and what should transpire. His initial desire was to create a "[[Sensory perception|sensory]] film" that was more about feeling than action; he placed little importance on narrative or plot, the idea for which came later.<ref>{{cite web|url=http://www.sbs.com.au/movies/article/2013/05/03/spring-breakers-harmony-korine-and-james-franco-interview|title=Spring Breakers: Harmony Korine and James Franco interview|work=[[Special Broadcasting Service|SBS]]|date=May 3, 2013|access-date=September 9, 2015|archive-date=June 3, 2016|archive-url=https://web.archive.org/web/20160603224014/http://www.sbs.com.au/movies/article/2013/05/03/spring-breakers-harmony-korine-and-james-franco-interview|url-status=live}}</ref> Once Korine developed the story's backbone, which takes place around the American spring break period, he traveled to Florida to write the screenplay. Production began in 2012. It is one of Korine's first theatrical works to receive a [[wide release]].<ref>{{Cite book|first=Eric|last=Kohn|title=Harmony Korine: Interviews|publisher=[[University Press of Mississippi]]|year=2014|isbn= 978-1-62674-348-9}}</ref>
+
+''Spring Breakers'' was released on March 22, 2013, in the United States by [[A24]] and received generally positive reviews from critics, with praise for the acting and Debie's cinematography. It grossed $31 million worldwide on a $5 million budget and has been described as a [[Cult film|cult classic]].<ref name="midnight" /><ref>{{cite web|date=March 27, 2013|url=http://www.idsnews.com/news/weekend/story.aspx?id=91982|title=Spring Breakers: The newest cult classic|work=WEEKEND|publisher=IDS News|access-date=July 5, 2013|archive-url=https://web.archive.org/web/20130905170930/http://www.idsnews.com/news/weekend/story.aspx?id=91982|archive-date=September 5, 2013}}</ref><ref>{{cite web|date=March 18, 2013|url=http://www.contactmusic.com/news/spring-breakers-trailer-selena-gomez_3560943|title=Is Record Breaking 'Spring Breakers' A Cult Movie In The Making?|work=Contactmusic.com|access-date=July 5, 2013|archive-date=January 21, 2015|archive-url=https://web.archive.org/web/20150121042101/http://www.contactmusic.com/news/spring-breakers-trailer-selena-gomez_3560943|url-status=live}}</ref><ref>{{cite web|url=https://www.cinemablend.com/reviews/Spring-Breakers-6337.html|title=Spring Breakers Review|author=Sean O'Connell|work=CinemaBlend.com|date=March 19, 2013|access-date=July 5, 2013|archive-date=March 22, 2023|archive-url=https://web.archive.org/web/20230322092350/https://www.cinemablend.com/reviews/Spring-Breakers-6337.html|url-status=live}}</ref> The film was selected to compete for the [[Golden Lion]] at the [[69th Venice International Film Festival]].<ref name="labiennale">{{cite web |url=http://www.labiennale.org/en/cinema/festival/lineup/off-sel/venezia69/ |title=Venezia 69 |access-date=July 26, 2012 |work=labiennale |archive-url=https://web.archive.org/web/20120728223053/http://www.labiennale.org/en/cinema/festival/lineup/off-sel/venezia69 |archive-date=July 28, 2012 }}</ref> A sequel is in development.
+
+==Plot==
+<!-- Due to WP:FILMPLOT, the plot needs to be generic and CANNOT EXCEED 400-700 WORDS! The total word count is 505; DO NOT ADD UNLESS NECCESSARY! -->
+College students Brit, Candy, and Cotty often spend their time partying while their friend Faith attends a religious youth group. As their classmates head to spring break, they are stuck behind because they don't have the money to travel. Desperate to make the trip, Brit and Candy get high on cocaine, don ski masks, and rob a local restaurant, using the threat of hammers and realistic-looking [[squirt gun]]s. They are assisted by Cotty, who drives (and later burns) the getaway car stolen from one of their professors. Cotty, Candy, and Brit divulge the details of their crime to a horrified Faith, who keeps quiet about it.
+
+In [[St. Petersburg, Florida]], the girls attend wild beach parties fueled by alcohol, drugs, and sex. After a particularly wild party, all four are arrested for using narcotics. They spend the night in a [[holding cell]], but are bailed out by Alien, a rapper, drug hustler, and arms dealer. Alien charms Cotty, Candy, and Brit with his money and "bad boy" swagger, but Faith is extremely uncomfortable. Alien takes the girls to a local club frequented by gang members, where Faith becomes even more uneasy. Alien attempts to seduce Faith and convince her to stay with him, using equal parts menace, threats, and tenderness, but Faith leaves, begging the others to come with her. They refuse, and she returns to college alone.
+
+Alien takes the remaining girls to a strip club owned by his rival and childhood best friend, Big Arch, who warns Alien to stop selling drugs in his territory. Alien takes the girls to his mansion, where he flaunts his drug money and cache of weapons, describing his life as the "[[American Dream]]". Brit and Candy grab two of his guns and threaten to kill him. Aroused, Alien fellates the guns and declares that he has fallen in love with the girls, claiming that they are his soulmates.
+
+Alien arms the girls with pink ski masks and shotguns and takes them to his pool, where the girls ask him to play something inspiring on the piano. They sing [[Britney Spears]]' "[[Everytime]]", while a [[Montage (filmmaking)|montage]] plays of them performing several armed robberies. While in Alien's car, they are approached by Big Arch and another member of his gang who threaten them and execute a [[drive-by shooting]], wounding Cotty in the process. Alien promises to retaliate, but a traumatized Cotty comes to her senses and chooses to return to college. Brit and Candy stay behind and have [[Threesome|three-way]] sex with Alien in his pool. The three decide to take revenge on Big Arch. In a flashforward, the two girls call <!--to who?  -->home, promising to work harder and become better people.
+
+In the present, the three take a motorboat to Big Arch's mansion. After they dock at the pier, Alien is immediately shot and killed by one of Big Arch's guards. Brit and Candy carry on, killing the rest of the members before confronting and killing Big Arch. The camera pans over the dead bodies of Big Arch's gang while the girls speak in a voice-over, first heard earlier in the film, describing the beach's beauty and musing that they have discovered who they truly are. Brit and Candy, silent and wearing pensive, ambiguous expressions, drive to college in Big Arch's [[Lamborghini]]. A final flashback shows the two girls kissing Alien's dead body before departing.
+
+==Cast==
+* [[James Franco]] as Alien, a rapper, drug hustler, and arms dealer who takes the girls under his wing.
+* [[Selena Gomez]] as Faith, who tries to devote her life to Christianity but is also friends with party girls Brit, Candy and Cotty.
+* [[Vanessa Hudgens]] as Candy, an irresponsible and uncaring college girl and Brit's best friend.
+* [[Ashley Benson]] as Brit, a rebellious and danger-seeking college girl, also Candy's best friend.
+* [[Rachel Korine]] as Cotty, a girl who likes to party but is more careful than her friends Candy and Brit.
+* [[Gucci Mane]] as Archie, Alien's childhood best friend who has become a rival drug dealer.
+
+Additionally, [[Heather Morris]], Ash Lendzion, and Emma Holzer appear as Faith's friends Bess, Forest, and Heather. [[Jeff Jarrett]] portrays a youth pastor, Russell Stuart appears as a DJ, and Houston-area sports writer [[John McClain]] appears as a judge.
+
+==Production==
+
+=== Casting ===
+[[File:Spring Breakers Cast.jpg|thumb|right|A part of the main cast at the film's premiere in [[Paris]] in February 2013: [[Rachel Korine]], [[Ashley Benson]], [[Selena Gomez]] and [[Vanessa Hudgens]].|291x291px]]
+According to [[Harmony Korine]], he wrote the film partially to make up for his own spring breaks. As a youth he had been fully devoted to skateboarding, and missed out on what he later saw as opportunities for [[Hedonism|hedonistic]] pursuits.<ref name="interviewmag">{{cite web|last=Durbin|first=Jonathan|date=May 7, 2012|url=http://www.interviewmagazine.com/film/girls-gone-wild|title=Girls Gone Wild|work=[[Interview (magazine)|Interview]]|access-date=July 8, 2012|archive-date=May 17, 2012|archive-url=https://web.archive.org/web/20120517103144/http://www.interviewmagazine.com/film/girls-gone-wild|url-status=live}}</ref> Korine has referred to the film as a "beach [[film noir|noir]]".<ref name=":0">{{Cite news |last=Godfrey |first=Alex |date=2013-03-30 |title=Spring Breakers, a riotous take on modern America |url=https://www.theguardian.com/film/2013/mar/30/spring-breakers-harmony-korine-interview |url-status=live |archive-url=https://web.archive.org/web/20150914214355/http://www.theguardian.com/film/2013/mar/30/spring-breakers-harmony-korine-interview |archive-date=September 14, 2015 |access-date=2025-11-12 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+The original lineup of lead actresses was announced as [[Emma Roberts]], [[Selena Gomez]] and [[Vanessa Hudgens]].<ref name="Girls">{{cite web|url=http://www.hollywire.com/2011/11/emma-roberts-selena-gomez-vanessa-hudgens-star-spring-break-flick|title=Emma Roberts, Selena Gomez & Vanessa Hudgens Star In Spring Break Flick|work=Hollywire|date=November 3, 2011|access-date=April 4, 2012|archive-date=November 4, 2011|archive-url=https://web.archive.org/web/20111104194519/http://www.hollywire.com/2011/11/emma-roberts-selena-gomez-vanessa-hudgens-star-spring-break-flick|url-status=live}}</ref> Director Korine had purposely collected a group of well-known young actresses with a similar reputation to Roberts in Hollywood.<ref>{{cite web|last=Orange|first=B. Alan|url=http://www.movieweb.com/news/emma-roberts-pulls-out-of-harmony-korines-spring-breakers|title=Emma Roberts Pulls Out of Harmony Korine's Spring Breakers|work=Movieweb|date=January 12, 2012|access-date=April 4, 2012|archive-date=September 20, 2012|archive-url=https://web.archive.org/web/20120920081745/http://www.movieweb.com/news/emma-roberts-pulls-out-of-harmony-korines-spring-breakers}}</ref> Roberts ultimately dropped out due to discomfort with the film's sexual content, and was replaced by [[Ashley Benson]].<ref>{{cite web|last=Finke|first=Nikki|url=https://deadline.com/2012/01/pretty-little-liars-ashley-benson-cast-in-spring-breakers-222894/|title='Pretty Little Liars' Ashley Benson Cast In 'Spring Breakers'|website=[[Deadline Hollywood]]|date=January 30, 2012|access-date=August 18, 2013|archive-date=August 25, 2013|archive-url=https://web.archive.org/web/20130825122804/http://www.deadline.com/2012/01/pretty-little-liars-ashley-benson-cast-in-spring-breakers/|url-status=live}}</ref>
+
+=== Filming ===
+The film was shot in March and April 2012 in and around [[St. Petersburg, Florida]]. The exterior shots and some interior shots of the college that Gomez and Benson attend were filmed at [[New College of Florida]]. Dormitory and classroom shots were filmed at [[Ringling College of Art and Design]].<ref name="interviewmag" /><ref>{{cite web | title='Spring Breakers' locations guide for locals | website=Tampa Bay Times | date=2013-03-21 | url=https://www.tampabay.com/things-to-do/movies/spring-breakers-locations-guide-for-locals/2110114/ | access-date=2023-04-19 | archive-date=April 19, 2023 | archive-url=https://web.archive.org/web/20230419120658/https://www.tampabay.com/things-to-do/movies/spring-breakers-locations-guide-for-locals/2110114/ | url-status=live }}</ref> Korine announced in 2013 he planned to "remix" the film's unused footage and alternate takes into an entirely new cut.<ref>{{cite news |last1=Lee |first1=Chris |title=Harmony Korine on 'Spring Breakers': 'We're doing a remix' |url=https://www.latimes.com/entertainment/movies/la-xpm-2013-jun-20-la-et-mn-korine-spring-breakers-remix-20130619-story.html |access-date=26 September 2019 |newspaper=Los Angeles Times |date=20 June 2013 |archive-date=September 26, 2019 |archive-url=https://web.archive.org/web/20190926173601/https://www.latimes.com/entertainment/movies/la-xpm-2013-jun-20-la-et-mn-korine-spring-breakers-remix-20130619-story.html |url-status=live }}</ref>
+
+== Soundtrack ==
+{{Main|Spring Breakers (Music from the Motion Picture)}}
+
+The film score to ''Spring Breakers'' was composed by [[Cliff Martinez]] and [[Skrillex]], marking the first scoring assignment for the latter.<ref>{{cite web|title=Skrillex Will Score The Movie "Spring Breakers"|url=http://www.disneydreaming.com/2012/07/02/skrillex-will-score-the-movie-spring-breakers/|archive-url=https://web.archive.org/web/20120915024356/http://www.disneydreaming.com/2012/07/02/skrillex-will-score-the-movie-spring-breakers/|archive-date=2012-09-15|access-date=2012-08-28|publisher=Disney Dreaming}}</ref><ref>{{cite web|date=July 6, 2012|title=Skrillex and Cliff Martinez to Score 'Spring Breakers'|url=http://filmmusicreporter.com/2012/07/06/skrillex-and-cliff-martinez-to-score-spring-breakers/|access-date=October 30, 2013|work=Film Music Reporter|archive-date=November 1, 2013|archive-url=https://web.archive.org/web/20131101122653/http://filmmusicreporter.com/2012/07/06/skrillex-and-cliff-martinez-to-score-spring-breakers/|url-status=live}}</ref> Skrillex was contacted after Korine sent music supervisor Randall Poster links to the [[electronica]] artist's music on [[YouTube]]. "I'm accustomed to being the oldest person at a gig," said Poster, "but when I went to see Skrillex at Roseland this year, it was dramatic. There were a lot of kids that looked like they were 15 years old. But I loved it. I truly loved it."<ref>{{cite web|last=Dombal|first=Ryan|date=June 27, 2012|title=Interviews: Wes Anderson|url=https://pitchfork.com/features/interviews/8877-wes-anderson/2/|access-date=October 30, 2013|work=[[Pitchfork Media]]|archive-date=November 5, 2013|archive-url=https://web.archive.org/web/20131105081837/http://pitchfork.com/features/interviews/8877-wes-anderson/2/|url-status=live}}</ref> 
+
+The soundtrack to the film was released on March 19, 2013 by [[Big Beat Records (Atlantic Records subsidiary)|Big Beat Records]] and [[Warner Music]].<ref name="release">{{cite web|title=Spring Breakers (Music From the Motion Picture) – Various Artists|url=https://music.apple.com/album/spring-breakers-music-from/608019859|access-date=2011-09-21|publisher=iTunes|archive-date=June 16, 2013|archive-url=https://web.archive.org/web/20130616113150/https://itunes.apple.com/album/spring-breakers-music-from/id608019859|url-status=live}}</ref><ref>{{cite web|title=Spring Breakers soundtrack|url=https://www.amazon.com/Music-Motion-Picture-Spring-Breakers/dp/B00B1E6E54|access-date=2011-09-21|publisher=Amazon|archive-date=January 1, 2022|archive-url=https://web.archive.org/web/20220101185359/https://www.amazon.com/Music-Motion-Picture-Spring-Breakers/dp/B00B1E6E54|url-status=live}}</ref>
+
+==Release==
+A three-minute preview of ''Spring Breakers'' was released at the [[2012 Cannes Film Festival]] in May 2012.{{citation needed|date=March 2020}} The entire film [[Film premiere|premiered]] at the [[69th Venice International Film Festival]] on September 4, 2012.<ref>{{cite news|url=https://www.huffingtonpost.com/2012/09/05/spring-breakers-james-franco-britney-spears_n_1858163.html|title='Spring Breakers': James Franco Sings Ariana Grande songs In New Film According To Early Reviews|work=The Huffington Post|first=Christopher|last=Rosen|date=September 5, 2012|access-date=February 19, 2020|archive-date=February 7, 2017|archive-url=https://web.archive.org/web/20170207033432/http://www.huffingtonpost.com/2012/09/05/spring-breakers-james-franco-britney-spears_n_1858163.html|url-status=live}}</ref> The film was released in New York and Los Angeles on March 15, 2013.<ref>{{cite news|url=http://www.inquisitr.com/524953/spring-breakers-gets-an-early-release-date/|title='Spring Breakers' Gets An Early Release Date|work=The Inquisitr|date=February 14, 2013|access-date=March 15, 2014|archive-date=September 28, 2015|archive-url=https://web.archive.org/web/20150928122728/http://www.inquisitr.com/524953/spring-breakers-gets-an-early-release-date/|url-status=live}}</ref> The film was released nationwide on March 22, 2013.<ref>{{Cite web|url=https://movieweb.com/movie/spring-breakers/|title=Spring Breakers (2013)|website=MovieWeb|date=March 10, 2022|access-date=December 29, 2021|archive-date=December 29, 2021|archive-url=https://web.archive.org/web/20211229045824/https://movieweb.com/movie/spring-breakers/|url-status=live}}</ref>
+
+The film had a limited release in the U.K. on April 5, 2013.<ref>{{cite magazine|url=http://www.gq-magazine.co.uk/entertainment/articles/2013-01/18/spring-breakers-harmony-korine-film-trailer|title=Disney stars gone wild: see James Franco in the first trailer for Spring Breakers|magazine=[[GQ]]|first=Alex|last=Rees|date=January 12, 2014|archive-url=https://web.archive.org/web/20130326091033/http://www.gq-magazine.co.uk/entertainment/articles/2013-01/18/spring-breakers-harmony-korine-film-trailer|archive-date=March 26, 2013}}</ref> The movie was also released in [[France]] on March 6, 2013 and was scheduled to be released in [[Australia]] in early March; however, it was pushed back to a release date of May 4.
+
+===Home media===
+''Spring Breakers'' was released [[Digital copy|digitally]] on June 25, 2013,<ref>{{cite web|url=https://twitter.com/AshBenzo/status/349603018926329858|title=Soooo Spring Breakers is out on DVD now!!!!|last=Benson|first=Ashley|work=Twitter|date=June 25, 2014|access-date=June 23, 2014|archive-date=October 22, 2013|archive-url=https://web.archive.org/web/20131022155827/https://twitter.com/AshBenzo/status/349603018926329858|url-status=live}}</ref><ref>{{cite web|url=https://twitter.com/springbreakers/status/349223630170886148|title=#springbreakers is YOURS tomorrow|date=June 25, 2014|access-date=June 24, 2014|work=Twitter|archive-date=October 22, 2013|archive-url=https://web.archive.org/web/20131022155128/https://twitter.com/springbreakers/status/349223630170886148|url-status=live}}</ref> and on DVD and Blu-ray on July 9, 2013.<ref>{{cite web |url=https://www.amazon.com/Spring-Breakers-DVD-Digital-UltraViolet/dp/B00BEJL4RO/ |title=Spring Breakers (DVD + UltraViolet Digital Copy) (2012) |website=Amazon |access-date=September 14, 2014 |archive-date=July 14, 2013 |archive-url=https://web.archive.org/web/20130714121456/http://www.amazon.com/Spring-Breakers-DVD-Digital-UltraViolet/dp/B00BEJL4RO |url-status=live }}</ref>
+
+==Reception==
+===Box office===
+''Spring Breakers'' grossed $14,124,284 in North America and $17,600,000 in other countries for a worldwide total of $31,724,284.<ref name="BOM" /> In North America, the film opened to #6 in its first weekend with $4,858,944, behind ''[[The Croods]]'', ''[[Admission (film)|Admission]]'', ''[[The Call (2013 film)|The Call]]'', ''[[Oz the Great and Powerful]]'', and ''[[Olympus Has Fallen]]''.<ref>{{cite web |url=https://www.boxofficemojo.com/weekend/chart/?yr=2013&wknd=12&p=.htm |title=Weekend Box Office Results for March 22–24, 2013 |publisher=IMDB |work=[[Box Office Mojo]] |date=March 25, 2013 |access-date=March 25, 2013 |archive-date=March 24, 2013 |archive-url=https://web.archive.org/web/20130324215219/http://www.boxofficemojo.com/weekend/chart/?yr=2013&wknd=12&p=.htm |url-status=live }}</ref>
+
+===Critical response===
+[[File:James Franco 2007 Spiderman 3 premiere.jpg|thumb|249x249px|The performance of [[James Franco]] earned praise from critics. A24 started a campaign to support him for a nomination for the [[Academy Award for Best Supporting Actor]].]]
+On review aggregator [[Rotten Tomatoes]], the film holds an approval rating of 67% based on 200 reviews, with an average rating of 6.6/10. The website's critical consensus reads, "''Spring Breakers'' blends stinging social commentary with bikini cheesecake and a bravura James Franco performance."<ref>{{cite web |url=https://www.rottentomatoes.com/m/spring_breakers_2013/ |title=''Spring Breakers (2013)''|publisher=[[Fandango Media]] |work=[[Rotten Tomatoes]] |access-date=September 7, 2024 |archive-date=November 17, 2020 |archive-url=https://web.archive.org/web/20201117025557/https://www.rottentomatoes.com/m/spring_breakers_2013 |url-status=live }}</ref> At [[Metacritic]], which assigns a weighted mean rating from film critics, it received a rating score of 63 out of 100 based on 40 critics, indicating "generally favorable reviews".<ref>{{cite web|url=https://www.metacritic.com/movie/spring-breakers|title=''Spring Breakers''|work=[[Metacritic]]|publisher=[[CBS Interactive]]|access-date=December 8, 2014|archive-date=November 17, 2020|archive-url=https://web.archive.org/web/20201117025551/https://www.metacritic.com/movie/spring-breakers|url-status=live}}</ref>
+
+Xan Brooks of ''[[The Guardian]]'' said the film is Korine's "most fully realised, purely satisfying feature film since ''[[Gummo]]''."<ref>{{cite news|url=https://www.theguardian.com/film/2012/sep/05/spring-breakers-review|title=Spring Breakers – review|newspaper=[[The Guardian]]|first=Xan|last=Brooks|date=September 5, 2012|access-date=December 13, 2016|archive-date=October 14, 2016|archive-url=https://web.archive.org/web/20161014100714/https://www.theguardian.com/film/2012/sep/05/spring-breakers-review|url-status=live}}</ref> [[Emma Seligman]] of ''[[The Huffington Post]]'' described the film as "''[[Scarface (1983 film)|Scarface]]'' meets [[Britney Spears]]."<ref>{{cite news|url= https://www.huffingtonpost.com/emma-seligman/review-spring-breakers_b_1894384.html |title=REVIEW: 'Spring Breakers'|work=[[The Huffington Post]]|first=Emma|last=Seligman|date=September 18, 2012|archive-url=https://web.archive.org/web/20170107195045/https://www.huffingtonpost.com/emma-seligman/review-spring-breakers_b_1894384.html|archive-date=January 7, 2017}}</ref> Oliver Lyttlelton of ''[[IndieWire]]'' gave the film a B, stating that the film would be a future cult favorite for "[[midnight movie]]goers".<ref name="midnight">{{cite news|url=http://blogs.indiewire.com/theplaylist/venice-review-harmony-korines-spring-breakers-is-a-surprisingly-semi-conventional-genre-flick-future-cult-favorite-20120904|title=Venice Review: Harmony Korine's 'Spring Breakers' Is A Semi-Conventional Genre Flick & Future Cult Favorite|work=[[IndieWire]]|first=Oliver|last=Lyttlelton|date=September 4, 2012|access-date=February 28, 2013|archive-url=https://web.archive.org/web/20130504105506/http://blogs.indiewire.com/theplaylist/venice-review-harmony-korines-spring-breakers-is-a-surprisingly-semi-conventional-genre-flick-future-cult-favorite-20120904|archive-date=May 4, 2013}}</ref>
+
+Guy Lodge of ''[[Variety (magazine)|Variety]]'' gave it a negative review, saying, "this attractively fizzy pic may be a shock to the system for fans of teen queens Selena Gomez and Vanessa Hudgens, but remains pretty toothless titillation by its writer-helmer's standards."<ref>{{cite magazine|url=https://www.variety.com/review/VE1117948216/|title=Variety Reviews – Spring Breakers – Venice Film Festival Review|magazine=Variety|first=Guy|last=Lodge|date=September 5, 2012}}</ref> David Rooney of ''[[The Hollywood Reporter]]'' noted that James Franco gives one of his more bizarre performances in his unpredictable career, saying "he's a cross between [[Bo Derek]] in ''[[10 (1979 film)|10]]'' and [[Richard Kiel]] in ''[[Moonraker (film)|Moonraker]]''."<ref>{{cite magazine|url=https://www.hollywoodreporter.com/review/spring-breakers-venice-review-368066|title=Spring Breakers: Venice Review|magazine=[[The Hollywood Reporter]] |first=David|last=Rooney|date=September 5, 2012}}</ref>
+
+Andrew Schenker of ''[[Slant Magazine]]'' gave the film 3 out of 4 stars.<ref>{{cite magazine|url=https://www.slantmagazine.com/film/review/spring-breakers|title=Spring Breakers - Film Review|magazine=[[Slant Magazine]]|first=Andrew|last=Schenker|date=March 12, 2013}}</ref> Jamie Dunn of ''[[The Skinny (magazine)|The Skinny]]'' gave it 4 out of 5 stars, saying: "If [[Michael Mann (director)|Michael Mann]] was to take a lot of hallucinogenics and shoot a [[Girls Gone Wild (franchise)|Girls Gone Wild]] video, it might look something like this."<ref>{{cite web|url=http://www.theskinny.co.uk/film/film_festivals/304162-spring_breakers|title=Spring Breakers - Film Review|publisher=[[The Skinny (magazine)|The Skinny]]|first=Jamie|last=Dunn|date=April 1, 2013|access-date=October 21, 2013|archive-date=October 21, 2013|archive-url=https://web.archive.org/web/20131021042234/http://www.theskinny.co.uk/film/film_festivals/304162-spring_breakers|url-status=live}}</ref> [[Richard Roeper]] of ''[[Rogerebert.com]]'' gave the film three-and-a-half stars out of four, praising the character of Alien and the film's sense of humor.<ref name="roeper">{{cite news|last=Roeper|first=Richard|date=March 20, 2013|title=Spring Breakers Movie Review|work=[[Rogerebert.com]]|url=https://www.rogerebert.com/reviews/spring-breakers-2013-1|access-date=2016-01-21|archive-date=November 2, 2019|archive-url=https://web.archive.org/web/20191102143234/https://www.rogerebert.com/reviews/spring-breakers-2013-1|url-status=live}}</ref>
+
+A24 began a campaign in September 2013 in support of a [[Academy Award for Best Supporting Actor|Best Supporting Actor]] [[Academy Award|Oscar]] nomination for Franco's performance. This was preceded by the ''Hollywood.com'' website that produced a "For your consideration" poster in support of a nomination for Franco in March 2013.<ref>{{cite news |author=Rosen |first=Christopher |date=3 September 2013 |title=James Franco's 'Spring Breakers' Role Gets For Your Consideration Oscar Ad |url=https://www.huffingtonpost.com/2013/09/03/james-franco-spring-breakers_n_3860080.html |url-status=live |archive-url=https://web.archive.org/web/20160304053203/http://www.huffingtonpost.com/2013/09/03/james-franco-spring-breakers_n_3860080.html |archive-date=March 4, 2016 |access-date=21 December 2013 |newspaper=[[The Huffington Post]]}}</ref> On December 2, 2013, A24 published a YouTube video titled "James Franco - Consider this Sh*t" and also released print advertisements following the "Consider this Sh*t [sic]" theme.<ref>{{cite news |author=Rosen |first=Christopher |date=2 December 2013 |title=James Franco's 'Spring Breakers' Oscar Campaign Gets Serious |url=https://www.huffingtonpost.com/2013/12/02/james-franco-spring-breakers-oscars_n_4369269.html |url-status=live |archive-url=https://web.archive.org/web/20161011124409/http://www.huffingtonpost.com/2013/12/02/james-franco-spring-breakers-oscars_n_4369269.html |archive-date=October 11, 2016 |access-date=21 December 2013 |newspaper=[[The Huffington Post]]}}</ref> Originally, Internet chatter considered the campaign a joke, but A24 emphasized that it was serious.<ref>{{cite web |last=Dickey |first=Josh |date=December 9, 2013 |title=James Franco Wins One for 'Spring Breakers' - Just Like That, A24's Awards Campaign 'Feels More Real' - TheWrap |url=https://www.thewrap.com/james-francos-first-win-spring-breakers-a24s-awards-campaign-feels-real/ |url-status=live |archive-url=https://web.archive.org/web/20200519065148/https://www.thewrap.com/james-francos-first-win-spring-breakers-a24s-awards-campaign-feels-real/ |archive-date=May 19, 2020 |access-date=29 September 2014 |work=[[TheWrap]]}}</ref>
+
+''Spring Breakers'' has since appeared on various retrospective "best of" lists, including two honoring the best films of the 21st century. In 2016, British film magazine ''[[Little White Lies (magazine)|Little White Lies]]'' placed the film at number 40 on their list of the ''50 best films of the decade (so far)''.<ref>{{cite web|title=The 50 best films of the decade (so far) – part 1|url=http://lwlies.com/articles/the-best-films-of-the-decade-part-one/|website=[[Little White Lies (magazine)|Little White Lies]]|access-date=12 January 2016|archive-date=January 9, 2016|archive-url=https://web.archive.org/web/20160109074752/http://lwlies.com/articles/the-best-films-of-the-decade-part-one/|url-status=live}}</ref> In August of that same year, [[BBC|BBC Magazine]] conducted a poll on the 21st century's 100 greatest films so far, with ''Spring Breakers'' ranking at number 74.<ref>{{cite news|title=BBC - Culture - The 21st Century's 100 greatest films|work=[[BBC|BBC Magazine]]|url=http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films|date=August 23, 2016|access-date=August 28, 2016|archive-date=January 31, 2017|archive-url=https://web.archive.org/web/20170131124228/http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films|url-status=live}}</ref> In France, the magazine ''[[Les Cahiers du cinéma]]'' featured ''Spring Breakers'' on their March 2013's cover,<ref>{{cite web|work=[[Les Cahiers du cinéma]]|url=https://www.cahiersducinema.com/produit/mars-2013-n687|title=Korine Révolution Pop, Mars 2013 – n°687|access-date=February 26, 2018|archive-date=February 27, 2018|archive-url=https://web.archive.org/web/20180227034329/https://www.cahiersducinema.com/produit/mars-2013-n687/|url-status=live}}</ref> and placed it second on their December 2013 Top Ten chart.<ref>{{cite web|work=Cahiers du cinéma|url=https://www.cahiersducinema.com/produit/top-ten-2013|title=Top Ten 2013 des meilleurs films, Décembre 2013 – n°695|access-date=February 26, 2018|archive-date=February 27, 2018|archive-url=https://web.archive.org/web/20180227094241/https://www.cahiersducinema.com/produit/top-ten-2013/|url-status=live}}</ref> In July 2025, it ranked number 41 on ''[[Rolling Stone]]''{{'}}s list of "The 100 Best Movies of the 21st Century."<ref>{{cite magazine | url=https://www.rollingstone.com/tv-movies/tv-movie-lists/best-movies-of-the-21st-century-1235200512/ | title=100 Best Movies of the 21st Century | magazine=[[Rolling Stone]] | date=July 1, 2025 }}</ref> It was also one of the films voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century," finishing at number 321.<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |date=July 2, 2025 |access-date=2 July 2025}}</ref>
+
+====Top ten lists====
+''Spring Breakers'' appeared on many critics' top ten lists for 2013.<ref>{{cite web |title=Film Critic Top 10 Lists - Best Movies of 2013 - Metacritic |url=https://www.metacritic.com/feature/film-critic-top-10-lists-best-movies-of-2013 |url-status= |archive-url=https://web.archive.org/web/20140102162352/http://www.metacritic.com/feature/film-critic-top-10-lists-best-movies-of-2013 |archive-date=January 2, 2014 |access-date=April 16, 2020 |work=Metacritic}}</ref>
+{{Div col|colwidth=50em}}
+* Best of 2013 (not ranked)&nbsp;– Mark Olsen, ''[[Los Angeles Times]]''
+* 2nd&nbsp;– Nigel M. Smith, Gabe Toro, & Katie Walsh, ''[[Indiewire]]''<ref>{{Cite web|url = https://www.indiewire.com/article/indiewires-editors-and-bloggers-pick-this-top-10-films-and-tv-shows-of-2013|title = Indiewire's Editors and Bloggers Pick Their Top 10 Films (And in Some Cases TV Shows) of 2013|date = December 25, 2013|access-date = February 19, 2020|archive-date = March 4, 2016|archive-url = https://web.archive.org/web/20160304061015/http://www.indiewire.com/article/indiewires-editors-and-bloggers-pick-this-top-10-films-and-tv-shows-of-2013|url-status = live}}</ref>
+* 2nd&nbsp;– ''[[Cahiers du cinéma]]''<ref>{{Cite web|url=https://www.cahiersducinema.com/boutique/produit/top-ten-2013/|title=Top Ten 2013|website=Cahiers du Cinéma|access-date=April 19, 2023|archive-date=April 19, 2023|archive-url=https://web.archive.org/web/20230419120539/https://www.cahiersducinema.com/boutique/produit/top-ten-2013/|url-status=live}}</ref>
+* 4th&nbsp;– Ben Kenigsberg, ''[[The A.V. Club]]''
+* 6th&nbsp;– David Ehrlich, ''[[Film.com]]''
+* 6th&nbsp;– Gregory Ellwood, ''[[HitFix]]''
+* 7th&nbsp;– [[Drew McWeeny]], ''[[Hitfix]]''
+* 8th&nbsp;– [[Ty Burr]], ''[[The Boston Globe]]''
+* 8th&nbsp;– Kristopher Tapley, ''[[HitFix]]''
+* 8th&nbsp;– Marlow Stern, ''[[The Daily Beast]]''
+* 10th&nbsp;– Joshua Rothkopf, ''[[Time Out New York]]''
+* 10th&nbsp;– [[A.O. Scott]], ''[[The New York Times]]''
+* Best of 2013 (listed alphabetically, not ranked)&nbsp;– [[Manohla Dargis]], ''[[The New York Times]]''
+{{Div col end}}
+
+=== Controversies ===
+
+==== Riff Raff controversy ====
+On February 15, 2012, Korine contacted rapper [[Riff Raff (rapper)|Riff Raff]] about appearing in an upcoming film, which later developed as ''Spring Breakers''.<ref>{{cite magazine|last=Buyanovsky|first=Dan|date=July 19, 2013|title=RiFF RaFF Speaks On 'Spring Breakers' Lawsuit, What He'd Do With $10 Million|url=http://www.xxlmag.com/news/2013/07/riff-raff-speaks-on-spring-breakers-lawsuit-what-hed-do-with-10-million/|magazine=[[XXL (magazine)|XXL]]|access-date=August 1, 2013|archive-date=July 23, 2013|archive-url=https://web.archive.org/web/20130723161126/http://www.xxlmag.com/news/2013/07/riff-raff-speaks-on-spring-breakers-lawsuit-what-hed-do-with-10-million/|url-status=live}}</ref> Once the trailer was released, there was speculation that the character Alien was based on Riff Raff.<ref>{{cite magazine|last=Long|first=Stephanie|date=March 28, 2012|title=James Franco to Play Riff Raff in Upcoming Harmony Korine Film|url=http://www.vibe.com/article/james-franco-play-riff-raff-upcoming-harmony-korine-film|magazine=[[Vibe (magazine)|Vibe]]}}</ref> According to Franco, Alien is based on the underground rap artist Dangeruss, who has a cameo in the film. "Of course, Harmony and I looked at some of Riff Raff's videos as inspiration, but he was one of a number of people we looked at. I would say the biggest influence on the role was this local, Florida rapper named Dangeruss. He's fairly unknown, but he was down there in the place, living the life, and he became the biggest model for me, and he's in the movie."<ref>{{cite magazine|last=Sebra|first=Matthew|date=May 1, 2012|title=Last Night...Talking Cornrows with James Franco|url=https://www.gq.com/style/blogs/the-gq-eye/2012/05/last-nighttalking-cornrows-with-james-franco.html|magazine=[[GQ]]|access-date=August 1, 2013}}</ref>
+
+After much back-and-forth about the issue, Riff Raff announced in July 2013 that he was suing the creators of ''Spring Breakers'' for $10 million for "sampling" his life without his permission or a proper producer credit.<ref>{{cite magazine|author=C. Vernon Coleman|date=July 16, 2013|title=Riff Raff Is Suing 'Spring Breakers' Creators For $10 Million|url=http://www.xxlmag.com/news/2013/07/riff-raff-is-suing-spring-breakers-creators-for-10-million/|magazine=XXL|access-date=August 1, 2013|archive-date=July 21, 2013|archive-url=https://web.archive.org/web/20130721210630/http://www.xxlmag.com/news/2013/07/riff-raff-is-suing-spring-breakers-creators-for-10-million/|url-status=live}}</ref> However, a September 2013 search by ''[[LA Weekly]]'' for court documents resulted in no findings.<ref>{{cite news|last1=Weiss|first1=Jeff|title=Is Riff Raff Serious?|newspaper=LA Weekly|url=http://www.laweekly.com/2012-05-24/music/riff_raff_sodmg_mtv_diplo_mad_decent/|access-date=24 July 2018|archive-url=https://web.archive.org/web/20120619072127/http://www.laweekly.com/2012-05-24/music/riff_raff_sodmg_mtv_diplo_mad_decent/|archive-date=June 19, 2012|ref=laweekly}}</ref>
+
+==== Portrayal of women ====
+''Spring Breakers'' has generated debate and controversy among critics, with some regarding the film as sexist due to its [[Sexual objectification|objectification]] of women, while others viewed the film as a [[Feminism|feminist]] or female-empowerment film. In regard to the former perspective, Heather Long in ''[[The Guardian]]'' suggests that the film "reinforces [[rape culture]]" and "turns young women into sex objects."<ref>{{cite news|last=Long|first=Heather|date=March 28, 2013|title=Spring Breakers isn't just a terrible movie, it reinforces rape culture|newspaper=[[The Guardian]]|url=https://www.theguardian.com/commentisfree/2013/mar/28/spring-breakers-movie-wild-girls-rape-culture|access-date=November 18, 2013|archive-date=October 23, 2013|archive-url=https://web.archive.org/web/20131023081257/http://www.theguardian.com/commentisfree/2013/mar/28/spring-breakers-movie-wild-girls-rape-culture|url-status=live}}</ref> Other reviewers state that it "pushes [[Alcoholic beverage|booze]]-and-[[bikini]] hedonism to the extreme,"<ref>{{cite news|last=Meyer|first=Carla|date=March 22, 2013|title=Movie review: James Franco only non-vacuous part of Spring Breakers'|newspaper=[[The Sacramento Bee]]|url=http://www.sacbee.com/2013/03/22/5279605/james-franco-only-non-vacuous.html|access-date=November 18, 2013|archive-date=October 23, 2013|archive-url=https://web.archive.org/web/20131023155118/http://www.sacbee.com/2013/03/22/5279605/james-franco-only-non-vacuous.html|url-status=dead}}</ref> as the "camera glides up, down, and around these women's bodies like a giant tongue".<ref>{{cite journal|last=Edelstein|first=David|date=March 15, 2013|title=Three New Films Examine What It Means When Girls Act Out|url=https://www.npr.org/2013/03/15/174322481/three-new-films-examine-what-it-means-when-girls-act-out|journal=[[NPR|National Public Radio]]|access-date=September 5, 2013|archive-date=December 4, 2013|archive-url=https://web.archive.org/web/20131204020417/http://www.npr.org/2013/03/15/174322481/three-new-films-examine-what-it-means-when-girls-act-out|url-status=live}}</ref> According to Josh Eells in ''[[Rolling Stone]]'', the film presents "a kind of girl-power camaraderie that could almost be called feminist," a result of the director's intent to "do the most radical work, but put it out in the most commercial way (...) to infiltrate the mainstream".<ref>{{cite magazine|last=Eells|first=Josh|date=March 15, 2013|title=Inside 'Spring Breakers,' the Most Debauched Movie of the Year|url=https://www.rollingstone.com/movies/news/inside-spring-breakers-the-most-debauched-movie-of-the-year-20130315|magazine=[[Rolling Stone]]|access-date=November 18, 2013}}</ref> In his review of the film, [[Richard Roeper]] wrote: 
+<blockquote>"Korine's camera is nearly an intrusive weapon as he lingers over the soft, limber bodies of Vanessa Hudgens, Selena Gomez, Ashley Benson, and his wife, Rachel Korine.... I think that's sort of the point. When a pre-med student on spring break loses her top, drinks to the point of passing out, and grabs a willing lugnut by the ears for six hours of anonymous fun, is she setting the woman's movement back 40 years, or taking charge of her life like any man would do at that age?"<ref name="roeper" /></blockquote>
+
+=== Accolades ===
+Franco won the [[Los Angeles Film Critics Association Award for Best Supporting Actor]] (tied with [[Jared Leto]] for ''[[Dallas Buyers Club]]''), [[National Society of Film Critics Award for Best Supporting Actor]], and San Francisco Film Critics Circle Award for Best Supporting Actor, while the [[Washington D.C. Area Film Critics Association]] nominated him for its Best Supporting Actor award.<ref>{{cite web|title=L.A. Film Critics: 'Gravity,' 'Her' Tie for Best Picture|url=https://www.hollywoodreporter.com/news/la-film-critics-awards-winners-664033|work=The Hollywood Reporter|access-date=21 December 2013|author=Gregg Kilday|date=8 December 2013|archive-date=November 12, 2020|archive-url=https://web.archive.org/web/20201112010810/https://www.hollywoodreporter.com/news/la-film-critics-awards-winners-664033|url-status=live}}</ref>
+
+====Awards and nominations====
+{| class="wikitable sortable plainrowheaders"
+|+
+! scope="col" | Award
+! scope="col" | Date of ceremony
+! scope="col" | Category
+! scope="col" | Recipient(s)
+! scope="col" | Result
+! scope="col" class="unsortable" |{{Abbr|Ref.|References}}
+|-
+! scope="row" | [[Alliance of Women Film Journalists|Alliance of Women Film Journalists Awards]]
+| December 19, 2013
+| Actress Most in Need of a New Agent
+| [[Ashley Benson]], [[Selena Gomez]], [[Vanessa Hudgens]] and [[Rachel Korine]]
+| {{nom}}
+| style="text-align:center;" |<ref>{{cite web|last1=Lodge|first1=Guy|url=https://uproxx.com/hitfix/2013-alliance-of-women-film-journalists-nominations/|title='12 Years a Slave' leads female-voted AWFJ nods, as 'The Counselor' is shamed|publisher=[[Uproxx]]|date=December 12, 2013|access-date=December 12, 2025|archive-date=June 27, 2018|archive-url=https://web.archive.org/web/20180627091124/https://uproxx.com/hitfix/2013-alliance-of-women-film-journalists-nominations/|url-status=live}}</ref>
+|-
+! scope="row" | [[Belgian Film Critics Association|Belgian Film Critics Association Awards]]
+| January 4, 2014
+| [[Grand Prix (Belgian Film Critics Association)|Grand Prix]]
+| ''Spring Breakers''
+| {{nom}}
+| style="text-align:center;" | <ref>{{cite news|url=http://focus.levif.be/culture/cinema/le-prix-cavens-decerne-a-kid-de-fien-troch/article-normal-11918.html|title=Le prix Cavens décerné à Kid de Fien Troch|work=[[Le Vif/L'Express|Le Vif]]|date=December 19, 2013|access-date=December 12, 2025|language=fr}}</ref>
+|-
+! scope="row" rowspan="3" | [[Bravo Otto]]
+| rowspan="3"| September 17, 2014
+| rowspan="3" | Sexy Babe
+| [[Ashley Benson]]
+| {{nom}}
+| style="text-align:center;" rowspan="3" |<ref>{{cite web|url=https://bravo-archiv.de/auswahl.php?link=ottosieger2013.php|title=Die Sieger der Otto-Wahl 2013|trans-title=The winners of the 2013 Otto Awards|publisher=The digital Bravo archiv|access-date=December 11, 2025|language=German|archive-date=October 29, 2023|archive-url=https://web.archive.org/web/20231029124655/https://bravo-archiv.de/auswahl.php?link=ottosieger2013.php|url-status=live}}</ref>
+|-
+| [[Selena Gomez]]
+| {{won|place=Gold}}
+|-
+| [[Vanessa Hudgens]]
+| {{nom}}
+|-
+! scope="row" | [[Cahiers du Cinéma]]
+| November 26, 2013
+| [[Cahiers du cinéma's Annual Top 10 Lists|Top 10 Lists]]
+| ''Spring Breakers''
+| {{sort|2|{{runner-up}}}} 
+| style="text-align:center;" |<ref>{{cite web |last=Adams |first=Sam |title=Cahiers du Cinema's Best of 2013 |url=https://www.indiewire.com/news/general-news/cahiers-du-cinemas-best-of-2013-127284/ |website=[[IndieWire]] |date=November 26, 2013 |access-date=December 11, 2025}}</ref>
+|-
+! scope="row" rowspan="2"| [[Chicago Film Critics Association Awards]]
+| rowspan="2"| [[Chicago Film Critics Association Awards 2013|December 16, 2013]]
+| [[Chicago Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| [[James Franco]]
+| {{nom}}
+| style="text-align:center;" rowspan="2" | <ref>{{cite web|url=http://blogs.indiewire.com/shadowandact/2-years-a-slave-leads-in-chicago-film-critics-association-award-nominations|title='12 Years A Slave' Leads In Chicago Film Critics Association Award Nominations|author=Sergio|date=December 13, 2013|work=[[IndieWire]]|access-date=December 13, 2013|archive-url=https://web.archive.org/web/20131213171139/http://blogs.indiewire.com/shadowandact/2-years-a-slave-leads-in-chicago-film-critics-association-award-nominations|archive-date=December 13, 2013|url-status=dead}}</ref>
+|-
+| [[Chicago Film Critics Association Award for Best Original Score|Best Original Score]]
+| [[Cliff Martinez]] and [[Skrillex]]
+| {{nom}}
+|-
+! scope="row" | [[Detroit Film Critics Society|Detroit Film Critics Society Awards]]
+| December 13, 2013
+| Best Supporting Actor
+| [[James Franco]]
+| {{nom}}
+| style="text-align:center;" | <ref>{{cite web |last=Knegt |first=Peter |title='Short Term 12' Leads Detroit Film Critics' Awards |url=https://www.indiewire.com/awards/industry/short-term-12-leads-detroit-film-critics-awards-241453/ |website=[[IndieWire]] |date=December 10, 2013 |access-date=December 12, 2025}}</ref>
+|-
+! scope="rowgroup" | [[Dorian Awards]]
+| January 21, 2014
+| Film Performance of the Year — Actor
+| [[James Franco]]
+| {{nom}}
+| style="text-align:center;" |<ref>{{cite magazine |last=Kilday |first=Gregg |title='12 Years a Slave,' 'American Hustle' Among Dorian Award Nominees (Exclusive) |url=https://www.hollywoodreporter.com/movies/movie-news/12-years-a-slave-american-2-671037/ |magazine=[[The Hollywood Reporter]] |date=January 14, 2014 |access-date=December 11, 2025}}</ref>
+|-
+! scope="row" | [[Dublin Film Critics Circle|Dublin Film Critics Circle Awards]]
+| December 20, 2013
+| Best Cinematography
+| [[Benoît Debie]]
+| {{sort|10|{{draw|8th Place}}}}
+| style="text-align:center;" | <ref>{{cite web |last=Sheena |title=The Dublin Film Critics' Circle announce their Best of 2013 Awards |url=https://entertainment.ie/movies/movie-news/the-dublin-film-critics-circle-announce-their-best-of-2013-awards-241873/ |website=Entertainment.ie |date=18 December 2013 |access-date=12 December 2025}}</ref>
+|-
+! scope="row" | [[Golden Trailer Awards]]
+| May 3, 2013
+| Trashiest Trailer
+| ''Spring Breakers'', [[A24 Films]], and [[Mark Woollen|Mark Woollen & Associates]]
+| {{won}}
+| style="text-align:center; | <ref>{{cite web |title=Disney, 'Iron Man 3' Dominate 2013 Golden Trailer Awards |url=https://deadline.com/2013/05/2013-golden-trailer-awards-winners-iron-man-3-490631/ |work=[[Deadline Hollywood]] |date=May 5, 2013 |access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[Independent Spirit Awards]]
+| [[29th Independent Spirit Awards|March 1, 2014]]
+| [[Independent Spirit Award for Best Cinematography|Best Cinematography]]
+| [[Benoît Debie]]
+| {{nom}}
+| style="text-align:center; | <ref>{{cite web |url=https://deadline.com/2013/11/indie-spirit-awards-2014-nominees-644026/ |title=2014 Spirit Awards: '12 Years A Slave', 'All Is Lost', 'Frances Ha', 'Inside Llewyn Davis' & 'Nebraska' Nab Best Feature Noms |date=November 26, 2013 |work=[[Deadline Hollywood]] |access-date=December 12, 2025}}</ref>
+|-
+! rowspan="5" scope="row" | [[IndieWire Critics Poll|''IndieWire'' Critics Poll]]
+| rowspan="5" | December 17, 2013
+| Best Film
+| ''Spring Breakers''
+| {{sort|10|{{draw|11th Place}}}}
+| style="text-align:center; | <ref>{{cite web |last1=Kohn |first1=Eric |last2=Greene |first2=Steve |title=WATCH: The Top 25 Movies of 2013 According to Indiewire’s Year-End Critics’ Poll |url=https://www.indiewire.com/features/general/watch-the-top-25-movies-of-2013-according-to-indiewires-year-end-critics-poll-32067/ |website=[[IndieWire]] |date=December 17, 2013 |access-date=December 12, 2025}}</ref>
+|-
+| Best Director
+| [[Harmony Korine]]
+| {{sort|10|{{draw|10th Place}}}}
+| rowspan="4" style="text-align:center; | <ref>{{Cite web |title=Spring Breakers — Awards |url=https://mubi.com/en/films/spring-breakers/awards | publisher=[[Mubi (streaming service)|Mubi]] |access-date=January 17, 2026 |language=en}}</ref>
+|-
+| Best Supporting Actor
+| [[James Franco]]
+| {{sort|2|{{runner-up}}}}
+|-
+| Best Original Score or Soundtrack
+| [[Cliff Martinez]] and [[Skrillex]]
+| {{sort|2|{{runner-up}}}}
+|-
+| Best Cinematography
+| [[Benoît Debie]]
+| {{sort|10|{{draw|5th Place}}}}
+|-
+! rowspan="3" scope="row" | [[International Cinephile Society Awards]]
+| rowspan="3" | February 23, 2014
+| Best Picture
+| ''Spring Breakers''
+| {{sort|10|{{draw|8th Place}}}}
+| rowspan="3" style="text-align:center;" | <ref>{{cite web |title='Inside Llewyn Davis,' 'Blue Is The Warmest Color' Top 2014 International Cinephile Society Awards |url=https://www.indiewire.com/awards/industry/inside-llewyn-davis-blue-is-the-warmest-color-top-2014-international-cinephile-society-awards-29638/ |website=[[IndieWire]] |date=February 25, 2014 |access-date=December 12, 2025}}</ref>
+|-
+| Best Supporting Actor
+| [[James Franco]]
+| {{won}}
+|-
+| Best Editing
+| [[Douglas Crise]]
+| {{sort|2|{{runner-up}}}}
+|-
+! scope="row" | [[Los Angeles Film Critics Association Awards]]
+| [[Los Angeles Film Critics Association Awards 2013|December 8, 2013]]
+| [[Los Angeles Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| [[James Franco]]
+| {{won}}{{efn|Tied with [[Jared Leto]] for ''[[Dallas Buyers Club]]''.}}
+| style="text-align:center;" | <ref>{{cite magazine |url=http://www.hollywoodreporter.com/news/la-film-critics-awards-winners-664033 |title=L.A. Film Critics: 'Gravity,' 'Her' Tie for Best Picture |last=Kilday |first=Gregg |date=December 8, 2013 |magazine=[[The Hollywood Reporter]] |access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[MTV MIAW Awards|MTV Millennial Awards]]
+| July 28, 2013
+| Iconic Movie
+| ''Spring Breakers''
+| {{nom}}
+| style="text-align:center;" |<ref>{{cite web|last1=Tinoco|first1=Armando|url=http://www.latintimes.com/mtv-millennial-awards-2013-lista-de-nominados-quien-ganara-tu-decides-128337|title=MTV Millennial Awards 2013: Lista de Nominados ¿Quién ganará? ¡Tú decides!|trans-title=MTV Millennial Awards 2013: List of Nominees - Who will win? It's up to you!|access-date=December 11, 2025|website=Latin Times|date=June 13, 2013|language=Spanish|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304031535/http://www.latintimes.com/mtv-millennial-awards-2013-lista-de-nominados-quien-ganara-tu-decides-128337|url-status=live}}</ref>
+|-
+! scope="row" | [[MTV Movie Awards]]
+| [[2014 MTV Movie Awards|April 13, 2014]]
+| [[MTV Movie Award for Best Kiss|Best Kiss]]
+| [[Ashley Benson]], [[James Franco]], and [[Vanessa Hudgens]]
+| {{nom}}
+| style="text-align:center;" | <ref>{{cite web|url=https://www.usatoday.com/story/life/movies/2014/03/06/2014-mtv-movie-awards-nominees/6088969/|title= MTV announces 2014 Movie Award nominees|date=March 6, 2014|work=[[USA Today]]|access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[National Society of Film Critics|National Society of Film Critics Awards]]
+| [[2013 National Society of Film Critics Awards|January 4, 2014]]
+| [[National Society of Film Critics Award for Best Supporting Actor|Best Supporting Actor]]
+| [[James Franco]]
+| {{won}}
+| style="text-align:center;" | <ref>{{cite magazine |url=https://variety.com/2014/film/news/inside-llewyn-davis-wins-big-with-national-society-of-film-critics-1201026622/|title='Inside Llewyn Davis' Wins Big With National Society of Film Critics|last=Chang|first=Justin|magazine=[[Variety (magazine)|Variety]]|date=January 4, 2014 |access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[New York Film Critics Circle Awards]]
+| [[2013 New York Film Critics Circle Awards|December 3, 2013]]
+| [[New York Film Critics Circle Award for Best Supporting Actor|Best Supporting Actor]]
+| [[James Franco]]
+| {{sort|2|{{runner-up}}}}
+| style="text-align:center;" | <ref>{{cite web |last1=Wells |first1=Jeffrey |title=How NYFCC Balloting Went Down |url=http://www.hollywood-elsewhere.com/2013/12/how-nyfcc-balloting-went-down/ |website=Hollywood Elsewhere |date=December 3, 2013 |archive-url=https://web.archive.org/web/20181116215826/http://hollywood-elsewhere.com/2013/12/how-nyfcc-balloting-went-down/ |archive-date=November 16, 2018 |url-status=dead |access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[San Francisco Film Critics Circle Awards]]
+| [[San Francisco Film Critics Circle Awards 2013|December 15, 2013]]
+| [[San Francisco Bay Area Film Critics Circle Award for Best Supporting Actor|Best Supporting Actor]]
+| [[James Franco]]
+| {{won}}
+| style="text-align:center;" | <ref>{{cite web|url=https://www.indiewire.com/article/12-years-a-slave-gravity-top-san-francisco-critics-awards|title='12 Years a Slave,' 'Gravity' Top San Francisco Critics Awards|date=December 15, 2023|work=[[IndieWire]]|access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[Toronto Film Critics Association|Toronto Film Critics Association Awards]]
+| [[Toronto Film Critics Association Awards 2013|December 17, 2013]]
+| [[Toronto Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| [[James Franco]]
+| {{sort|2|{{runner-up}}}}
+| style="text-align:center;" | <ref>{{cite magazine |last=Lacey |first=Liam |title=Toronto film critics name Coen brothers movie the best of 2013 |url=https://www.theglobeandmail.com/arts/awards-and-festivals/film-awards/toronto-film-critics-name-coen-brothers-movie-the-best-of-2013/article15984465/ |magazine=[[The Globe and Mail]] |date=December 17, 2013 |access-date=December 12, 2025}}</ref>
+|-
+! scope="row" rowspan="2"| [[Venice International Film Festival]]
+| rowspan="2"| [[69th Venice International Film Festival|September 8, 2012]]
+| [[Golden Lion]]
+| rowspan="2"| [[Harmony Korine]]
+| {{nom}}
+| style="text-align:center;" | <ref name="labiennale"/>
+|-
+| Future Film Festival Digital Award – Special Mention
+| {{won}}
+| style="text-align:center;" | <ref>{{cite web |title=Venice Awards 'Pieta' With Golden Lion; 'The Master' Takes Directing and Acting Honors |url=https://www.indiewire.com/news/general-news/venice-awards-pieta-with-golden-lion-the-master-takes-directing-and-acting-honors-241724/ |website=[[IndieWire]] |date=September 8, 2012 |access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[Village Voice Film Poll]]
+| December 17, 2013
+| Best Supporting Actor
+| [[James Franco]]
+| {{won}}
+| style="text-align:center;" | <ref>{{cite web |last=Scherstuhl |first=Alan |title=Picking Winners: The 2013 Village Voice Film Poll |url=https://www.villagevoice.com/picking-winners-the-2013-village-voice-film-poll/ |publisher=[[The Village Voice]] |date=December 17, 2013 |access-date=December 12, 2025}}</ref>
+|-
+! scope="row" | [[Washington D.C. Area Film Critics Association Awards]]
+| [[Washington D.C. Area Film Critics Association Awards 2013|December 9, 2013]]
+| [[Washington D.C. Area Film Critics Association Award for Best Supporting Actor|Best Supporting Actor]]
+| [[James Franco]]
+| {{nom}}
+| style="text-align:center;" | <ref>{{cite web |date=December 9, 2013 |title=2013 WAFCA Award Winners |url=http://www.wafca.com/awards/2013.htm |archive-url=https://web.archive.org/web/20140214010720/http://www.wafca.com/awards/index.htm |archive-date=February 14, 2014 |access-date=December 12, 2025 |publisher=[[Washington D.C. Area Film Critics Association]]}}</ref>
+|}
+
+==<span class="anchor" id="Spring Breakers: The Second Coming"></span>Sequel==
+A [[sequel]], under the name of ''Spring Breakers: The Second Coming'', was announced on May 6, 2014, to have been written by [[Irvine Welsh]] and directed by [[Jonas Åkerlund]]. Welsh's script focused on a set of Spring Breakers coming into conflict with Christian extremists,<ref name="SB2">{{cite magazine |url=http://www.screendaily.com/5071351.article |title=Wild Bunch unveils full Cannes 2014 slate |last=Goodfellow |first=Melanie |date=May 6, 2014 |magazine=ScreenDaily |access-date=June 9, 2016}}</ref> and Wild Bunch originally slated the film to debut at the upcoming Cannes Film Festival. Upon the announcement, Franco released a statement saying that the sequel was "not being done with Harmony Korine or my consent" and that the producers were "capitalizing on that innovative film to make money on a weak sequel" and attempting to "make money off someone else's creativity".<ref name="SB2Franco">{{cite web |url=http://blogs.indiewire.com/theplaylist/james-franco-says-spring-breakers-sequel-will-be-a-terrible-film-that-makes-money-off-someone-elses-creativity-20140515 |title=James Franco Says 'Spring Breakers' Sequel Will Be "A Terrible Film" That Makes "Money Off Someone Else's Creativity" |last=Jagernauth |first=Kevin |date=May 15, 2014 |publisher=The Playlist |work=Indiewire |access-date=June 9, 2016 |archive-date=August 14, 2014 |archive-url=https://web.archive.org/web/20140814015514/http://blogs.indiewire.com/theplaylist/james-franco-says-spring-breakers-sequel-will-be-a-terrible-film-that-makes-money-off-someone-elses-creativity-20140515 |url-status=live }}</ref>
+
+By 2017, the project had been shelved in favor of a digital series for short-video platform Blackpills; the series never materialized, however, and Blackpills itself shut down after less than two years online. As a result, development on ''Spring Breakers: The Second Coming'' had restarted, with Harmony Korine, who would direct the 2019 film ''[[The Beach Bum]]'', being open to directing and writing the sequel.
+
+In May 2025, a sequel, ''Spring Breakers: Salvation Mountain'', was officially announced, with [[Chris Hanley]] and Jordan Gertner of Muse Productions returning to produce. [[Matthew Bright]], director of the 1996 cult film [[Freeway (1996 film)|''Freeway'']]<ref>{{Citation |last=Bright |first=Matthew |title=Freeway |date=1997-09-03 |type=Crime, Drama, Thriller |url=https://www.imdb.com/title/tt0116361/ |access-date=2025-08-05 |others=Reese Witherspoon, Kiefer Sutherland, Bokeem Woodbine |publisher=The Kushner-Locke Company, August Entertainment, Davis Films}}</ref>, will direct, while [[Bella Thorne]], [[Baby Ariel|Ariel Martin]], [[True Whitaker]], and [[Grace Van Dien]] were announced to join the cast.<ref>{{Cite web |last=Ritman |first=Alex |date=May 14, 2025 |title='Spring Breakers 2' Set With New Cast: Bella Thorne, 'Stranger Things' Star Grace Van Dien and More |url=https://variety.com/2025/film/global/spring-breakers-2-bella-thorne-sequel-1236397224/ |access-date=June 3, 2025 |website=[[Variety (magazine)|Variety]]}}</ref> However, in August 2026, Thorne would write and direct the sequel instead.<ref>{{cite web|url=https://deadline.com/2026/08/bella-thorne-spring-breakers-2-tapped-write-direct-star-1237029133/|title=Bella Thorne Says ‘Spring Breakers 2’ Producers Tapped Her To Write, Direct & Star In Sequel After Seeing Directorial Debut|work=Deadline|last=Garner|first=Glenn|date=August 7, 2026|access-date=August 8, 2026}}</ref>
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Webarchive |url=https://web.archive.org/web/20131021052353/http://www.springbreakersmovie.com/ |title=Official website |date=mdy}}
+* {{IMDb title|2101441|Spring Breakers}}
+* {{mojo title|springbreakers|Spring Breakers}}
+
+{{Harmony Korine}}
+{{Annapurna Pictures}}
+
+{{DEFAULTSORT:Spring Breakers}}
+[[Category:2012 films]]
+[[Category:2012 independent films]]
+[[Category:A24 (company) films]]
+[[Category:Vertigo Films films]]
+[[Category:Icon Productions films]]
+[[Category:Annapurna Pictures films]]
+[[Category:Division Films films]]
+[[Category:2012 English-language films]]
+[[Category:Films about casual sex]]
+[[Category:Films scored by Cliff Martinez]]
+[[Category:Films about the illegal drug trade in the United States]]
+[[Category:Films about spring break]]
+[[Category:Films set on beaches]]
+[[Category:Films directed by Harmony Korine]]
+[[Category:Films with screenplays by Harmony Korine]]
+[[Category:Films set in St. Petersburg, Florida]]
+[[Category:Films shot in Florida]]
+[[Category:Films set in Florida]]
+[[Category:Obscenity controversies in film]]
+[[Category:2010s female buddy films]]
+[[Category:2012 American films]]
+[[Category:American independent films]]
+[[Category:English-language independent films]]
+[[Category:English-language buddy films]]

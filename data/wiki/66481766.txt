@@ -1,0 +1,63 @@
+{{short description|1934 Japanese film}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox film
+| name           = Street Without End
+| native_name    = {{Infobox Japanese| kanji = 限りなき舗道}}
+| image          = Street Without End (1934).jpg
+| caption        = Akio Isono and Setsuko Shinobu in <br />''Street Without End''
+| director       = [[Mikio Naruse]]
+| producer       = 
+| writer         = {{ubl|Tomizō Ikeda|Komatsu Kitamura (story)}}
+| starring       = {{ubl|Setsuko Shinobu|Akio Isono|Sozo Okada}}
+| music          = 
+| cinematography = Suketaro Inokai
+| editing        = 
+| studio         = [[Shochiku]]
+| distributor    = Shochiku
+| released       = {{film date|1934|04|26|Japan|df=yes|ref1=<ref name="jmdb">{{cite web|url=http://www.jmdb.ne.jp/1934/bj001490.htm |title=限りなき舗道 (Street Without End) |website=Japanese Movie Database |language=ja |access-date=24 January 2021}}</ref><ref name="kinenote">{{cite web|url=http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=64971 |title=限りなき舗道 (Street Without End) |website=Kinenote |language=ja |access-date=21 July 2021}}</ref>}}
+| runtime        = 88 minutes<ref name="jmdb" />
+| country        = Japan
+| language       = Japanese
+}}
+{{nihongo|'''''Street Without End'''''|限りなき舗道|Kagirinaki hodō}} is a 1934 Japanese [[Silent film|silent]] [[drama film]] directed by [[Mikio Naruse]], based on a newspaper serial by Komatsu Kitamura.<ref name="russell" /> It was Naruse's last silent film and his final film for the [[Shochiku]] studio.<ref name="russell">{{cite book|last=Russell |first=Catherine |date=2008 |title=[[The Cinema of Naruse Mikio: Women and Japanese Modernity]] |location=Durham and London |publisher=Duke University Press |isbn=978-0-8223-4290-8}}</ref><ref>{{cite book|last=Yamamoto |first=Satsuo |date=2017 |title=My Life as a Filmmaker |location=Ann Arbor |publisher=University of Michigan Press |isbn=978-0-472-07333-7}}</ref>
+
+==Plot==
+Sugiko works as a waitress in a café in [[Tokyo]]'s [[Ginza]] district. Her boyfriend Machio proposes to her, although his family has arranged a marriage with a woman from a wealthy family for him. She is also approached by Yukihiko, a talent scout for a film studio which is looking for a new star actress. When she steps onto the street absent-mindedly, she is hit by the car of Hiroshi, the heir of the Yamanouchi family. Machio sees her being taken away in Hiroshi's car, believing that she is dating Hiroshi and has decided against his proposal, and leaves town. Hiroshi starts dating Sugiko, despite his mother's and sister's objections against his liaison with a girl of lower class descent, but when he insists on marrying her, they eventually give in. Meanwhile, Sugiko's friend and colleague Kesako has successfully applied for the job at the film studio, which puts the relationship to her boyfriend Shinkichi to the test. Sugiko soon feels uncomfortable in her new home, and Hiroshi, unhappy with his family's overt reluctance to his wife, starts drinking frequently. After Sugiko leaves him, Hiroshi has a car accident and is hospitalised. At the hospital, Sugiko blames Hiroshi's mother and sister for never having accepted her. Hiroshi dies soon after, and Sugiko returns to her job in the Ginza café, reunited with Kesako and Shinkichi who quit the film studio.
+
+==Cast==
+* Setsuko Shinobu as Sugiko Shima
+* Akio Isono as Koichi, Sugiko's brother
+* Sozo Okada as Hiroshi Yamanouchi
+* Nobuko Wakaba as Takako, Hiroshi's sister
+* Fumiko Katsuragi as Hiroshi's mother
+* [[Shin'ichi Himori]] as Shinkichi
+* Chiyoko Katori as Kesako
+* Ichirō Yūki as Machio Harada, Sugiko's boyfriend
+* Yukiko Inoue as Yoshiko Hisayama
+* Shōzaburō Abe as barman
+* [[Chishū Ryū]] as Yukihiko Chiba
+* [[Tomio Aoki]] as boy on the telephone
+* [[Takeshi Sakamoto]]
+* [[Kōji Mitsui]] as café customer (credited as Hideo Mitsui)
+
+==Release==
+''Street Without End'' premiered in Japan on 26 April 1934.<ref name="jmdb" /><ref name="kinenote" /> It was shown in the U.S. as part of a Naruse retrospective in 1985, organised by the Kawakita Memorial Film Institute and film scholar [[Audie Bock]].<ref>{{cite web|url=https://cinefiles.bampfa.berkeley.edu/catalog/31470 |title=Mikio Naruse: a master of the Japanese cinema |website=CineFiles |access-date=21 July 2021}}</ref><ref name="moma">{{cite web|url=https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6228/releases/MOMA_1985_0082_79.pdf |title=Mikio Naruse: A Master of the Japanese Cinema Opens at MoMA September 23 |website=Museum of Modern Art |access-date=19 July 2023}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IMDb title|0025338}}
+* {{cite web |url=https://windowsonworlds.com/2016/05/27/street-without-end-%E9%99%90%E3%82%8A%E3%81%AA%E3%81%8D%E8%88%97%E9%81%93-mikio-naruse-1934/ |title=Street Without End |publisher=Windows on Worlds |access-date=24 January 2021}}
+* {{cite web |url=https://www.slantmagazine.com/film/street-without-end/ |title=Street Without End |last=Uhlich |first=Keith |magazine=Slant Magazine |date=21 December 2005 |access-date=24 January 2021}}
+
+{{Mikio Naruse}}
+
+[[Category:1934 films]]
+[[Category:1934 drama films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Films based on works by Japanese writers]]
+[[Category:Films directed by Mikio Naruse]]
+[[Category:Shochiku films]]
+[[Category:1930s Japanese-language films]]
+[[Category:Japanese silent drama films]]

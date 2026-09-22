@@ -1,0 +1,150 @@
+{{Short description|2024 film by Alex Ross Perry}}
+{{Use American English|date=January 2022}}
+{{Use mdy dates|date=January 2022}}
+{{Infobox film
+| italic_title   = yes
+| name           = Pavements
+| image          = Pavements film poster.jpg
+| caption        = Theatrical release poster
+| director       = [[Alex Ross Perry]]
+| producer       = {{Plainlist|
+* Alex Ross Perry
+* Peter Kline
+* Danny Gabai
+* Craig Butta
+* [[Lance Bangs]]
+* Alex Needles
+* Arrow Kruse
+* Chris Lombardi
+* [[Gerard Cosloy]]
+* [[Patrick Amory]]
+* Gabe Spierer
+* [[Robert Greene (filmmaker)|Robert Greene]]
+}}
+| writer         = Alex Ross Perry
+| starring       = {{Plainlist|
+* [[Pavement (band)|Pavement]]
+* [[Rebecca Cole (musician)|Rebecca Clay Cole]]
+* [[Gary Young (drummer)|Gary Young]]
+* [[Joe Keery]]
+* [[Nat Wolff]]
+* [[Fred Hechinger]]
+* [[Logan Miller]]
+* [[Griffin Newman]]
+* [[Tim Heidecker]]
+* [[Jason Schwartzman]]
+* [[Michael Esper]]
+* [[Zoe Lister-Jones]]
+* [[Kathryn Gallagher]]
+}}
+| music          = {{Plainlist|
+* Pavement
+* [[Keegan DeWitt]]
+* [[Dabney Morris]]
+}}
+| cinematography = [[Robert Kolodny (filmmaker)|Robert Kolodny]]
+| editing        = Robert Greene
+| studio         = {{Plainlist|
+* Alldayeveryday
+* Vice Studios
+* [[Matador Records]]
+* Field Recordings
+* LBI Entertainment
+* Monotone Inc.
+* Hipgnosis
+* WW7 Entertainment
+}}
+| distributor    = [[Utopia (company)|Utopia]]
+| released       = {{film date|2024|9|4|[[81st Venice International Film Festival|Venice]]|2025|5|2|[[Film Forum]]|2025|6|6|United States}}
+| runtime        = 128 minutes<ref>{{Cite web |last= |date=July 3, 2025 |title=''Pavements'' (15) |url=https://www.bbfc.co.uk/release/pavements-q29sbgvjdglvbjpwwc0xmdmxmdg5 |access-date=July 3, 2025 |website=[[British Board of Film Classification]] |language=en}}</ref>
+| country        = United States
+| language       = English
+| budget         = 
+| gross          = $351,421<ref>{{Cite Box Office Mojo |id=30253514 |title=Pavements}}</ref>
+}}
+'''''Pavements''''' is a 2024 American [[Experimental film|experimental]] [[Musical film|musical]] [[biopic]] [[concert film]] written, co-produced, and directed by [[Alex Ross Perry]]. It is a [[docufiction]] about the American indie band [[Pavement (band)|Pavement]], incorporating scripted scenes with documentary footage of the band, a musical stage play consisting of songs from their discography, and a museum devoted to their history.
+
+''Pavements'' premiered at the [[81st Venice International Film Festival]] on September 4, 2024,<ref>{{cite web |url=https://www.labiennale.org/en/cinema/2024/orizzonti/pavements |title=Pavements |date=September 4, 2024 |access-date=November 14, 2024 |website=[[81st Venice International Film Festival|Biennale Cinema 2024]] |publisher=[[Venice Biennial]]}}</ref> and was released by [[Utopia (company)|Utopia]] on a [[limited theatrical release]] across the United States beginning at the [[Film Forum]] in [[New York City, New York]] on May 2, 2025, before a [[wide release]] on June 6.<ref>{{Cite web |last=Tartaglione |first=Nancy |date=2024-07-23 |title=Venice Film Festival Lineup Announced – Updating Live |url=https://deadline.com/2024/07/venice-film-festival-lineup-2024-full-list-1236018399/ |access-date=2024-07-23 |website=Deadline |language=en-US}}</ref><ref>{{cite web|url=https://www.utopiadistribution.com/domestic-lineup|title=Domestic Lineup|publisher=[[Utopia (distributor)| Utopia]]|access-date=March 6, 2025|archive-date=March 18, 2025|archive-url=https://web.archive.org/web/20250318232603/https://www.utopiadistribution.com/domestic-lineup|url-status=dead}}</ref>
+
+==Plot==
+Described as "a semiotic experiment",<ref name="NewYorker">{{cite magazine|first=Hannah|last=Seidlitz|title=The World's Most Important Musical About The World's Most Important Band|url=https://www.newyorker.com/magazine/2022/12/26/the-worlds-most-important-musical-about-the-worlds-most-important-band|date=December 19, 2022|magazine=[[The New Yorker]]|access-date=January 13, 2023}}</ref> the film combines elements of documentary with a spoof biopic of the band, and incorporates moments from ''Slanted! Enchanted! A Pavement Musical'', a [[jukebox musical]] using Pavement's music. That play is about Essem, an aspiring [[Stephen Malkmus]]-like musician in a small town, who meets and falls in love with a woman named Anne, boards a train for New York City with her, is tempted by fame and glory, has an affair with another aspiring musician named Loretta, and wonders if love is worth it. The story loosely tracks the progression and themes of Pavement's works, chronologically.<ref>{{Cite web|url=https://www.rollingstone.com/music/music-live-reviews/pavement-musical-slanted-enchanted-review-1234641038/|title=The Pavement Musical 'Slanted! Enchanted!' Is Totally Insane and It Should Run Forever|website=rollingstone.com|date=December 3, 2022 |access-date=2022-12-11}}</ref> Director of all three projects [[Alex Ross Perry]] faces an uphill battle as he tries to wrangle the film together, including reticence on behalf of frontman [[Stephen Malkmus]] as Perry films the band’s tours, and biopic leading actor [[Joe Keery]]’s psychological descent as he, in a process which parodies [[Austin Butler]]’s [[Method acting]] process on ''[[Elvis (2022 film)|Elvis]]'', is left still speaking and acting like Malkmus.
+
+==Cast==
+{{castlist|
+* [[Stephen Malkmus]] as himself
+* [[Bob Nastanovich]] as himself
+* [[Scott Kannberg]] as himself
+* [[Steve West (musician)|Steve West]] as himself
+* [[Mark Ibold]] as himself
+* [[Rebecca Cole (musician)|Rebecca Clay Cole]] as herself
+* [[Gary Young (drummer)|Gary Young]] as himself
+* [[Michael Esper]] as Essem
+* [[Zoe Lister-Jones]] as Anne
+* [[Kathryn Gallagher]] as Loretta
+* [[Joe Keery]] as [[Stephen Malkmus]] / himself
+* [[Jason Schwartzman]] as Chris Lombardi
+* [[Nat Wolff]] as [[Scott Kannberg]]
+* [[Fred Hechinger]] as [[Bob Nastanovich]] 
+* [[Logan Miller]] as [[Mark Ibold]] 
+* [[Griffin Newman]] as [[Steve West (musician)|Steve West]] 
+* [[Tim Heidecker]] as [[Gerard Cosloy]]
+* [[Alex Ross Perry]] as himself
+* Violette Trotter as [[Donna Matthews]]
+* Ben Arauz as [[David Berman (musician)|David Berman]]
+* Keith Poulson as Radio DJ
+* Holden Seidlitz as himself
+* [[Kim Gordon]] as herself
+* [[Snail Mail (musician)|Lindsey Jordan]] as herself
+* [[Soccer Mommy]] as herself
+* [[Bully (band)|Alicia Bognanno]] as herself
+* [[Speedy Ortiz]] as themselves
+* Jake Perlin as himself
+* [[Greta Gerwig]] as herself
+* [[Noah Baumbach]] as himself
+}}
+
+Lucy Benzinger, Brandi Campbell, John El-Jor, Tenaya Kelleher, Joe Laplant, Nicholas Lovalvo, and [[Sophie Morris]] appear as ensemble members in ''Slanted! Enchanted!''
+
+==Production==
+[[Matador Records]] first approached Perry about creating a film with the band, except that frontman Stephen Malkmus wasn’t interested in hiring a documentary filmmaker, instead wanting to hire a screenwriter who would not write a screenplay. Inspired by the elliptical nature of that request, Perry conceived a version of the project that would defy explanation, comparing it to a film about [[Bob Dylan]] that combined [[D.A. Pennebaker]]’s ''[[Dont Look Back]]'', [[Todd Haynes]]’ ''[[I'm Not There]]'', [[Martin Scorsese]]'s ''[[Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese|Rolling Thunder Revue]]'' and Dylan's own ''[[Renaldo and Clara]]''.
+
+The film's production encompassed the creation of "Pavements 1933-2022: A Pavement Museum", a touring museum exhibit composed of real and fake artifacts from the band's history.<ref>{{Cite web|url=https://variety.com/2022/music/news/pavement-museum-exhibit-1235383754/|title=Pavement Unveils Museum Exhibit With 'Imagery, Artwork and Ephemera' From Band's Career|website=variety.com|date=September 26, 2022 |access-date=2023-01-13}}</ref>
+
+The production of ''Slanted! Enchanted!'' signals the first foray into [[musical theater]] for Perry, who had previously worked with Pavement on a music video for their song “[[Harness Your Hopes]]” and aided in creating the aforementioned Pavement Museum.<ref>{{Cite web|url=https://pitchfork.com/news/pavement-musical-from-alex-ross-perry-coming-to-new-york-next-month/|title=Pavement Musical From Alex Ross Perry Coming to New York Next Month|website=pitchfork.com|date=November 16, 2022 |access-date=2022-12-11}}</ref> Longtime Perry collaborator Craig Butta produced the play, enlisting [[Angela Trimbur]] to choreograph the musical's extensive and complex dance sequences along with co-choreographer Tenaya Kelleher.
+
+[[Keegan DeWitt]] and [[Dabney Morris]], film composers and previous collaborators with Alex Ross Perry, worked on the arrangements, re-contextualizing the [[indie rock]] slacker songs into the big broadway musical parlance. Cinematographer [[Robert Kolodny (filmmaker)|Robert Kolodny]] created the on-stage projections which play throughout the entirety of the performance. John Arnos created the set and Amanda Ford designed the costumes.<ref>{{Cite web|url=https://www.brooklynvegan.com/slanted-enchanted-a-pavement-musical-coming-to-off-broadway-in-december/|title='Slanted! Enchanted! A Pavement Musical' coming to off Broadway in December|website=brooklynvegan.com|date=November 16, 2022 |access-date=2022-12-11}}</ref>
+
+[[Michael Esper]] was cast in the lead of the show, with actor/director [[Zoe Lister-Jones]] and [[Kathryn Gallagher]] also appearing.<ref>{{Cite web|url=https://www.nme.com/news/music/pavement-announce-new-musical-slanted-enchanted-premiering-next-month-3353510/|title=Pavement announce new musical 'Slanted! Enchanted!', premiering next month|website=nme.com|date=November 22, 2022 |access-date=2022-12-11}}</ref>
+
+The New York off-Broadway production started previews on December 1, 2022 at the Sheen Center for Thought and Culture in Manhattan's NOHO neighborhood.
+
+A film directed by Perry, entitled ''Range Life: A Pavement Story'', premiered at the [[Park Slope]] location of the [[Nitehawk Cinema]] on September 14, 2023, described as "a one-of-a-kind, never to be repeated journey through the histories of Pavement."<ref>{{Cite web|url=https://nitehawkcinema.com/prospectpark/movies/range-life-a-pavement-story/|title=RANGE LIFE: A PAVEMENT STORY|website=[[Nitehawk Cinema]]|date=September 14, 2023}}</ref> While the screening was not private, it was not advertised as the premiere of the publicized ''Pavements'' film project. Like the musical and museum exhibit, the production of this [[film within a film]] comprises one strand of ''Pavements'', including footage of the September 2023 "premiere" at the Nitehawk in Brooklyn, complete with red carpet,<ref name=vulture /> as well as snapshots of supposed articles promoting ''Range Life'' and boasting of its huge budget from the fictitious "Paragon Vantage".{{efn|actually a vending machine manufacturer, and likely a spoof of [[Paramount Vantage]]}}<ref name=lwlies>{{cite web |title=Venice Film Festival: Pavements – first-look review |url=https://lwlies.com/festivals/pavements-first-look-review/ |first=Luke |last=Hicks |website=Little White Lies: Truth and Movies |date=September 5, 2024 |access-date=November 2, 2024}}</ref> However, it is unclear what movie actually played at that event, and by some accounts it was an early cut of ''Pavements'' instead.<ref name=vulture>{{cite web |title=All Your Questions About Alex Ross Perry's Pavement Movie, Answered |url=https://www.vulture.com/article/all-your-questions-about-the-pavement-movie-answered.html |first=Nate |last=Jones |date=September 4, 2024 |access-date=November 2, 2024 |website=[[Vulture (website)|Vulture]] |publisher=Vox Media}}</ref> Footage captured at the screening briefly appears in the final cut of ''Pavements.'' 
+
+Stephen Malkmus revealed in an October 2024 interview that he had been unhappy with an earlier version of ''Pavements'' (possibly the film exhibited as ''Range Life'' in 2023, or another edit in the period since), saying it was "not ready for public consumption... unless it was a prank".<ref name=vfair>{{cite web |url=https://www.vanityfair.com/style/story/vf-interview-stephen-malkmus |first=Joe |last=Hagan |title=Stephen Malkmus on Super Groups, Pseudo Documentaries, and Geriatric Guitar Gods |website=[[Vanity Fair (magazine)|Vanity Fair]] |publisher=Condé Nast |date=October 4, 2024 |access-date=November 3, 2024 |quote=I thought it was, like, not ready for public consumption. ''I understand you were upset by it.'' Yeah, they had to re-edit it or whatever. Unless it was a prank. Or maybe it was intentionally bad. It’s that kind of movie. I’m not even sure. It was all too bloated. And stuff that shouldn’t—but that’s not in it now, so that’s good. ''Were you pissed off?'' No, I was just embarrassed. It’s not that I wasn’t completely surprised also. I think it was just like a prank. Or it was not the real film. It was just like a digital dump. What he showed, the guy showed, I thought it was pretty weird.}}</ref>
+
+==Reception==
+{{Rotten Tomatoes prose|95| |58|consensus=Directed with a wry personal touch by Alex Ross Perry, ''Pavements'' distinguishes itself as a music doc by not only paying affectionate tribute to its subject but also unpacking the cultural philosophy it personifies.|ref=yes|access-date=August 6, 2025}}
+[[Metacritic]], which uses a [[Weighted arithmetic mean|weighted average]], assigned the film a score of 76 out of 100, based on 21 critics, indicating "generally favorable" reviews.<ref name="Metacritic">{{cite web |title=''Pavements'' |url=https://www.metacritic.com/movie/pavements |website=[[Metacritic]] |publisher=[[Fandom (website)#Fandom, Inc.|Fandom, Inc.]] |access-date=August 6, 2025 |archive-url= |archive-date= |url-status=}}</ref>
+
+==References==
+{{Reflist}}
+
+{{notelist}}
+
+==External links==
+* {{IMDb title|30253514}}
+
+{{Alex Ross Perry}}
+{{Pavement}}
+
+[[Category:2022 musicals]]
+[[Category:2020s mockumentary films]]
+[[Category:American mockumentary films]]
+[[Category:American nonlinear narrative films]]
+[[Category:Concert films]]
+[[Category:Films directed by Alex Ross Perry]]
+[[Category:Films based on musicals]]
+[[Category:Off-Broadway musicals]]
+[[Category:Rock musicals]]
+[[Category:Rockumentaries]]
+[[Category:Utopia (company) films]]

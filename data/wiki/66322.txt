@@ -1,0 +1,231 @@
+{{short description|1931 film by Fritz Lang}}
+{{Citation style|date=October 2023}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox film
+| name           = M
+| image          = M poster.jpg
+| alt            = [[M theatrical release poster]]
+| caption        = Theatrical release poster
+| director       = [[Fritz Lang]]
+| producer       = [[Seymour Nebenzal]]
+| writer         = Fritz Lang <br />[[Thea von Harbou]]
+| starring       = {{ubl|
+* [[Peter Lorre]]
+* [[Otto Wernicke]]
+* [[Gustaf Gründgens]]
+}}
+| cinematography = [[Fritz Arno Wagner]]
+| editing        = Paul Falkenberg
+| studio         = [[Nero-Film]] A.G.
+| distributor    = Vereinigte Star-Film GmbH
+| released       = {{Film date|1931|5|11|df=yes}}
+| runtime        = 111 minutes<!--Theatrical runtime: 111:07--><ref>{{cite web|title=''M'' (A)|url=http://www.bbfc.co.uk/releases/m-1970-4|archive-date=29 May 2014|work=[[British Board of Film Classification]]|date=24 May 1932|access-date=30 July 2013|url-status=dead|archive-url=https://web.archive.org/web/20140529235715/http://www.bbfc.co.uk/releases/m-1970-4}}</ref>
+| country        = [[Weimar Germany|Germany]]
+| language       = German
+}}
+
+'''''M''''' is a 1931 German [[mystery film|mystery]] [[thriller film]] directed by [[Fritz Lang]] and starring [[Peter Lorre]] as Hans Beckert, a [[serial killer]] who targets children, in his third screen role. Both Lang's first sound film and an early example of a [[procedural drama]],<ref>{{cite web |date=22 April 2010 |title=Now I Lay Me Down To Sleep: A Brief History of Child Murder in Cinema |url=http://www.bloody-disgusting.com/news/19930 |access-date=19 April 2016 |work=Bloody Disgusting!}}</ref> ''M'' centres on the efforts of both a city's police force and its criminal syndicates to apprehend a serial child-murderer.<ref>''Monsters of Weimar'' pp. 296–98</ref>
+
+The film's screenplay was written by Lang and his wife [[Thea von Harbou]]. It features many cinematic innovations, including the use of long [[tracking shot]]s and a musical ''[[leitmotif]]'' in the form of "[[In the Hall of the Mountain King]]", which is repeatedly whistled by Lorre's character. Lang regarded the film as his [[magnum opus]],<ref>{{cite web |last=Kauffman |first=Stanley |title=The Mark of ''M'' |url=http://www.criterion.com/current/posts/350 |access-date=27 April 2012 |publisher=The Criterion Collection}}</ref> and it is widely considered one of the [[List of films voted the best|greatest films of all time]] and an indispensable influence on modern crime and thriller fiction.<ref>{{Cite web|title=M: In Context|url=http://www.thecinessential.com/m-in-context|access-date=28 September 2020|website=The Cinessential|language=en-US|archive-date=10 September 2022|archive-url=https://web.archive.org/web/20220910133814/http://www.thecinessential.com/m-in-context|url-status=dead}}</ref><ref>{{Cite web|title=The long shadow of M|url=https://thedissolve.com/features/movie-of-the-week/913-the-long-shadow-of-m/|access-date=28 September 2020|website=The Dissolve|archive-date=27 January 2021|archive-url=https://web.archive.org/web/20210127230411/https://thedissolve.com/features/movie-of-the-week/913-the-long-shadow-of-m/|url-status=dead}}</ref><ref>{{Cite web|title=A Peerless Classic|url=https://www.goethe.de/ins/us/en/kul/mov/ies/ygf/21338313.html|access-date=28 September 2020|website=@GI_weltweit|language=en}}</ref>
+
+An American [[remake]] under [[M (1951 film)|the same title]], directed by [[Joseph Losey]], was released in 1951.
+
+== Plot ==
+In [[Berlin]],<ref>While the location is never mentioned in the film, the dialect used by the characters is characteristic of Berliners, and a police inspector's map labeled "Berlin" and a policeman's order to take suspects to the "Alex", Berlin's central police headquarters on the [[Alexanderplatz]], make the venue clear.</ref> a group of children are playing an [[Counting-out game|elimination game]] in the courtyard of an apartment building using a macabre chant about a child-killer. Frau Beckmann sets the table for lunch, waiting for her daughter Elsie to come home from school. A [[wanted poster]] warns of a serial killer preying on children, as anxious parents wait outside a school.
+
+Elsie leaves school, bouncing a ball on her way home. She is approached by Hans Beckert,<ref>{{cite web |url=https://www.bfi.org.uk/features/fritz-langs-m-blueprint-serial-killer-movie |title=Fritz Lang's M: the Blueprint for the Serial Killer Movie |date=5 September 2014 |publisher=bfi.org.uk}}</ref> who is whistling "[[In the Hall of the Mountain King]]" by [[Edvard Grieg]]. He offers to buy her a balloon from a blind street vendor, and walks and talks with her. Elsie's place at the table remains empty, her ball rolls away through a patch of grass, and her balloon gets briefly caught in the telephone lines overhead before blowing away in the wind.<ref>{{cite web |url=https://www.bfi.org.uk/features/fritz-langs-m-blueprint-serial-killer-movie |title=Fritz Lang's M: the Blueprint for the Serial Killer Movie |publisher=bfi.org.uk |date=5 December 2016 |access-date=16 May 2017}}</ref>
+
+In the wake of Elsie's disappearance, anxiety runs high among the public. Beckert sends an anonymous letter to the newspapers taking responsibility for the child murders and promising that he will commit others. The police extract clues from the letter using the new techniques of [[Fingerprint#Fingerprint identification|fingerprinting]] and [[Graphology|handwriting analysis]]. Under mounting pressure from the government, the police work around the clock. Inspector Karl Lohmann, head of the homicide squad, instructs his men to intensify their search and to check the records of recently released psychiatric patients, focusing on any with a history of violence against children.<ref name="Bradshaw">{{cite web |url=https://www.theguardian.com/film/2014/sep/04/m-review-fritz-lang |title=M review – Fritz Lang's superb thriller fascinates |first=Peter |last=Bradshaw |date=4 September 2014 |website=The Guardian}}</ref>
+
+They stage frequent raids in seedier parts of the city to question known criminals, disrupting organized crime so badly that {{lang|de|Der Schränker}} ("The Safecracker") summons the bosses of Berlin's ''[[Ringvereine]]'' to a conference to address the situation. They decide to organize their own manhunt, assigning beggars to watch the children.<ref name="Bradshaw"/> The police search Beckert's rented room, find evidence there connecting him to both the letter and a past crime scene, and lie in wait to arrest him.<ref name="auto">''Monsters of Weimar'' p. 297</ref>
+
+Beckert sees a young girl in the reflection of a shop window and begins to follow her, but stops when the girl meets her mother. He encounters another girl and befriends her, but the blind balloon vendor recognizes his whistling. The vendor alerts one of his friends, who follows Beckert and sees him inside a shop with the girl. As the two exit onto the street, the man chalks the letter "M" (for {{lang|de|Mörder}}, "murderer") onto his palm, pretends to trip, and bumps into Beckert, marking the back of his overcoat with the letter.<ref name="auto"/> The girl eventually notices the chalk and offers to clean it for him, but before she finishes, Beckert realizes he is being watched and flees without her.
+
+Attempting to evade the beggars, Beckert hides inside a large office building just before the workers leave for the evening. The beggars call {{lang|de|Der Schränker}}, who arrives at the building with a team of other criminals. They capture and torture one of the watchmen for information and, after capturing the other two, search the building and catch Beckert in the attic. When one of the watchmen trips the silent alarm, the criminals narrowly escape with their prisoner before the police arrive. Franz, one of the criminals, is left behind in the confusion and captured by the police. By falsely claiming that one of the watchmen was killed during the break-in, Lohmann tricks Franz into admitting that the gang's only motive was to find Beckert and revealing their plans for him.
+
+The criminals take Beckert to an abandoned distillery to face a [[kangaroo court]]. He finds a large, silent crowd awaiting him. Beckert is given a "lawyer" who gamely argues in his defense but fails to win any sympathy from the improvised jury. Beckert delivers an impassioned monologue, saying that he cannot control his homicidal urges, while the other criminals present break the law by choice. He questions why they believe they have any right to judge him:
+
+<blockquote>
+What right have you to speak? Criminals! Perhaps you are even proud of yourselves! Proud of being able to crack into safes, or climb into buildings or cheat at cards. All of which, it seems to me, you could just as easily give up, if you had learned something useful, or if you had jobs, or if you were not such lazy pigs. I can not help myself! I have no control over this evil thing that is inside me—the fire, the voices, the torment!<ref>{{cite web |title=M (1931) |url=http://www.classicartfilms.com/m-1931 |url-status=dead |archive-url=https://web.archive.org/web/20170312055844/http://www.classicartfilms.com/m-1931 |archive-date=12 March 2017 |access-date=10 March 2017 |publisher=classicartfilms.com}}</ref><ref>''Monsters of Weimar'' p. 298</ref>
+</blockquote>
+
+Beckert pleads to be handed over to the police. His "lawyer" points out that {{lang|de|Der Schränker}}, presiding over the proceedings, is wanted on three counts of manslaughter, and that it is unjust to execute an insane man. Just as the mob is about to kill Beckert, the police arrive to arrest both him and the criminals.
+
+As a panel of judges prepares to deliver their verdict at Beckert's trial, the mothers of three of his victims weep in the gallery. Frau Beckmann says that "no sentence will bring the dead children back" and "one has to keep closer watch over the children". The screen fades to black as she adds, "All of you".<ref>{{cite book |author=Garnham, Nicholas |title=M: a film by Fritz Lang |publisher=New York: Simon and Schuster |year=1968 |isbn=978-0900855184 |pages=15–108}}</ref>
+
+== Cast ==
+<!--These are all sources used in the Hans Beckert article. They were used for primary information, but they may have some actual use in this article.
+
+<ref>{{cite book |last=Solomon |first=Stanley J. |title=The classic cinema: essays in criticism |publisher=Harcourt Brace Jovanovich |year=1973 |url=https://books.google.com/books?id=f4i0AAAAIAAJ&q=%22Hans+Beckert%22&dq=%22Hans+Beckert%22 |access-date=27 July 2009}} {{isbn|978-0155076297}}</ref>
+
+<ref name="BOOK2">{{cite book |coauthors=Kerry P. Holmes, Elizabeth L. Glenn Stuart, Mary H. Warner |title=Engaging reluctant readers through foreign films |publisher=[[Rowman & Littlefield]] |year=2005 |edition=illustrated |pages=156–61 |url=https://books.google.com/books?id=w0_EvSWXMaUC&pg=PA156&dq=%22Hans+Beckert%22 |access-date=27 July 2009}} {{isbn|978-1578862061}} </ref>
+
+<ref name="BOOK1">{{cite book |last=Gunning |first=Tom |title=The films of Fritz Lang: allegories of vision and modernity |publisher=[[British Film Institute]] |year=2000 |edition=illustrated, reprint}} {{isbn|978-0851707426}}</ref>
+
+<ref>{{cite book |coauthors=Rob White, Edward Buscombe |title=British Film Institute film classics |publisher=[[Taylor & Francis]] |date=2003 |pages=156 |url=https://books.google.com/books?id=51c-FO0YgSYC&pg=PA156&dq=%22Hans+Beckert%22 |access-date=July 27, 2009}} {{isbn|978-1579583286}} </ref>
+
+<ref name="BOOK3">{{cite book |coauthors=Harold Schechter, David Everitt |title=For reel: the real-life stories that inspired some of the most popular movies of all time |publisher=Berkley Boulevard Books |date=2000 |url=https://books.google.com/books?id=p8lZAAAAMAAJ&q=%22Hans+Beckert%22&dq=%22Hans+Beckert%22 |access-date=27 July 2009}} {{ISBN|978-0425172711}}</ref>-->
+* [[Peter Lorre]] as Hans Beckert. ''M'' was Lorre's first major starring role and boosted his career, though he was typecast as a villain for years afterward in films such as ''[[Mad Love (1935 film)|Mad Love]]'' and ''[[Crime and Punishment (1935 American film)|Crime and Punishment]]''. Before ''M'', Lorre had been mostly a comedic actor. After fleeing the Nazis, he landed a role in [[Alfred Hitchcock]]'s ''[[The Man Who Knew Too Much (1934 film)|The Man Who Knew Too Much]]'' (1934), learning his lines phonetically in order to improve his English.
+* [[Otto Wernicke]] as Inspector Karl Lohmann. Wernicke made his breakthrough with ''M'' after playing many small roles in [[silent film]]s for over a decade. After his part in ''M'' he was in great demand due to the success of the film, including returning to the role of Lohmann in Lang's ''[[The Testament of Dr. Mabuse]]'', and he played supporting roles for the rest of his career.<ref name="Wernicke">{{cite web |last=Staedeli |first=Thomas |title=Otto Wernicke |publisher=Cyranos |url=http://www.cyranos.ch/smwern-e.htm |access-date=14 January 2007}}</ref>
+* [[Gustaf Gründgens]] as {{lang|de|Der Schränker}} ("The Safecracker"). Gründgens received acclaim for his role in the film and established a successful career for himself during the Nazi era, ultimately becoming director of the {{lang|de|Staatliches Schauspielhaus}} (National Dramatic Theatre).<ref name="Gründgens">{{cite web |last=Staedeli |first=Thomas |title=Otto Wernicke |publisher=Cyranos |url=http://www.cyranos.ch/smgrue-e.htm |access-date=14 January 2007}}</ref>
+
+{{Div col}}
+* Ellen Widmann as Mrs. Beckmann
+* [[Inge Landgut]] as Elsie Beckmann
+* [[Theodor Loos]] as Inspector Groeber
+* [[Friedrich Gnaß]] as Franz, the burglar
+* [[Fritz Odemar]] as Falschspieler (cheater)
+* [[Paul Kemp (actor)|Paul Kemp]] as Taschendieb (pickpocket with seven watches)
+* [[Theo Lingen]] as Bauernfänger (con man)
+* Rudolf Blümner as Beckert's defender
+* [[Georg John]] as blind balloon-seller
+* [[Franz Stein]] as minister
+* [[Ernst Stahl-Nachbaur]] as police chief
+* [[Gerhard Bienert]] as criminal secretary
+* [[Karl Platen]] as Damowitz, a night-watchman
+* [[Rosa Valetti]] as innkeeper
+* [[Hertha von Walther]] as prostitute
+* [[Heinrich Gotho]] as passer-by who tells a kid the time
+;Uncredited
+* [[Hanna Maron]] as girl in circle at the beginning
+* [[Klaus Pohl (actor)|Klaus Pohl]] as witness / one-eyed man (uncredited)<ref>Garnham. p. 13.</ref>
+{{Div col end}}
+
+== Inspiration ==
+''M'' has been said, by various critics and reviewers, to be based on serial killer [[Peter Kürten]]—the "Vampire of [[Düsseldorf]]"—whose crimes took place in the 1920s.<ref name="Crime Library">{{cite news |last = Ramsland |first = Katherine |author-link = Katherine Ramsland |title = Court TV Crime Library Serial Killers Movies |publisher = [[Crime Library]] |url = http://www.crimelibrary.com/serial_killers/notorious/serial_killer_movies/8.html |access-date = 28 October 2006 |url-status = dead |archive-url = https://web.archive.org/web/20061103193626/http://www.crimelibrary.com/serial_killers/notorious/serial_killer_movies/8.html |archive-date = 3 November 2006 |df = dmy-all }}</ref><ref name="Gary Morris">{{cite web |last = Morris |first = Gary |title = A Textbook Classic Restored to Perfection |publisher = Bright Lights |url = http://www.brightlightsfilm.com/29/m.html |archive-url = https://archive.today/20130102073457/http://www.brightlightsfilm.com/29/m.html |url-status = dead |archive-date = 2 January 2013 |access-date = 12 January 2007 }}</ref> Lang denied that he drew from this case in an interview in 1963 with film historian Gero Gandert: "At the time I decided to use the subject matter of ''M'', there were many serial killers terrorizing Germany—[[Fritz Haarmann|Haarmann]], [[Carl Großmann|Großmann]], Kürten, [[Karl Denke|Denke]], [...]".<ref>"Fritz Lang on ''M'': An Interview", in ''Fritz Lang:'' M'' – Protokoll'', Marion von Schröder Verlag, Hamburg 1963, reprinted in the Criterion Collection booklet.</ref><ref>''Monsters of Weimar'' p. 293</ref>
+
+Inspector Karl Lohmann is based on [[Ernst Gennat]], then director of the Berlin criminal police.<ref>Kempe,
+Frank: [https://www.deutschlandfunkkultur.de/kriminalist-ernst-gennat-buddha-vom-alexanderplatz.932.de.html?dram:article_id=295121 ''“Buddha vom Alexanderplatz“''], [[Deutschlandfunk Kultur]], 21 August 2014 (in German).</ref>
+
+Lang's depiction of the Berlin underworld in the film was inspired by the real ''[[Ringvereine]]'' (lit. "Ring clubs").<ref name="Lee p.18">Lee p.18</ref> The film's portrayal of the ''Ringvereine'' as organized with a board of directors that were dominated by a charismatic master criminal was based on reality.<ref name="Lee p.18" /> Likewise, the practice of the ''Ringvereine'' shown in the film of providing financial support for the families of imprisoned members was also based on reality.<ref name="Lee p.18" /> The break-in of an office building depicted in the film was inspired by the real-life 1929 break-in of the Disconto Bank in Berlin by the Sass brothers gang, though unlike in the film the objective was [[larceny]], not to capture a serial killer.<ref name="Lee p.18" />
+
+The ''Ringvereine'', which were officially wrestling associations that existed for the physical betterment of German men, always sought to promote a very 'respectable', almost middle-class image of themselves.<ref>Schulte-Bockholt p.23</ref> Like the Mafia, the ''Ringvereine'' paradoxically portrayed themselves as the guardians of society's values, who upheld a certain social order. The image the ''Ringvereine'' sought to project was as "professionals" whose crimes did not harm ordinary people.<ref name="Kaes, Dimendberg, Jay p.719">Kaes, Dimendberg, Jay p.719</ref>
+
+Though the ''Ringvereine'' were known to be gangsters, their hierarchal structure and strict discipline led to a certain popular admiration for them as a force for social order unlike the psychopathic serial killers who murdered random strangers for reasons that often seemed unfathomable, sparking widespread fear and dread.<ref name="Kaes, Dimendberg, Jay p.719" /> In an article originally published in ''Die Filmwoche'', Lang wrote that the crime scene in Germany was "such compelling cinematic material that I lived in constant fear that someone else would exploit this idea before me".<ref>{{cite news |last=Lang |first=Fritz |url=https://www.criterion.com/current/posts/1457-my-film-m-a-factual-report |title=My Film M: A Factual Report |work=[[The Criterion Collection]] |date=25 May 2012 |access-date=11 May 2021}}</ref>
+
+== Production ==
+Lang placed an advertisement in a newspaper in 1930 stating that his next film would be {{lang|de|Mörder unter uns}} (''Murderer Among Us'') and that it was about a child murderer. He immediately began receiving threatening letters in the mail and was also denied a studio space to shoot the film at the [[Staaken Studios]]. When Lang confronted the head of Staaken Studio to find out why he was being denied access, the studio head informed Lang that he was a member of the [[Nazi Party]] and that the party suspected that the film was meant to depict the Nazis.<ref>Jensen, Paul M. ''The Cinema of Fritz Lang''. New York: A. S. Barnes & Co. 1969. {{ISBN|978-0498074158}}. p. 93</ref> This assumption was based entirely on the film's original title and the Nazi Party relented when told the plot.<ref>Wakeman, John. ''World Film Directors'', Volume 1. New York: H.W. Wilson Company. 1987. {{ISBN|0824207572}}. p. 614.</ref>
+
+''M'' was eventually shot in six weeks at a ''Staaken Zeppelinhalle'' studio, just outside Berlin. Lang made the film for [[Nero-Film]], rather than with [[UFA GmbH|UFA]] or his own production company. It was produced by Nero studio head [[Seymour Nebenzal]] who later produced Lang's ''The Testament of Dr. Mabuse''. Working titles for the film included {{lang|de|Eine Stadt sucht einen Mörder}} (''A City Searches for a Murderer'') and {{lang|de|Dein Mörder sieht Dich an}} (''Your Murderer Looks at You'').<ref>Jensen. p. 93</ref>
+
+While researching for the film, Lang spent eight days inside a mental institution in Germany and met several child murderers, including [[Peter Kürten]]. He used several real criminals as extras in the film and eventually 25 cast members were arrested during the film's shooting.<ref name="Jensen. p. 94">Jensen. p. 94.</ref> Peter Lorre was cast in the lead role of Hans Beckert, acting for the film during the day and appearing on stage in [[Valentin Kataev]]'s ''Squaring the Circle'' at night.<ref name="Jensen. p. 93">Jensen. p. 93.</ref>
+
+Lang did not show any acts of violence or deaths of children on screen and later said that by only suggesting violence, he forced "each individual member of the audience to create the gruesome details of the murder according to their personal imagination".<ref name="Wakeman. p. 615">Wakeman. p. 615.</ref>
+
+[[File:LangM.jpg|thumb|Peter Lorre as Hans Beckert, gazing into a shop window. Lang used glass and reflections throughout the film for expressive purposes.]]
+=== Use of sound ===
+''M'' was Lang's first sound film, and he experimented with the new technology.<ref name="Jensen. p. 95">Jensen. p. 95.</ref> It has a dense and complex soundtrack, as opposed to the more theatrical "talkies" being released at the time. The soundtrack includes sounds occurring off-camera, sounds motivating action and suspenseful moments of silence before sudden noise. Lang was also able to make fewer cuts in the film's editing, since sound effects could now be used to inform the narrative.<ref>Jensen. p. 103.</ref>
+
+The film was one of the first to use a ''[[leitmotif]]'', a technique borrowed from [[opera]]. It associates a melody with Lorre's character, who whistles "In the Hall of the Mountain King" from Edvard Grieg's ''[[Peer Gynt (Grieg)|Peer Gynt]]''. Later in the film, the mere sound of the song lets the audience know that he is nearby. This association of a musical theme with a particular character or situation is now a film staple.<ref name="Leitmotif">{{cite web |last = Costantini |first = Gustavo |title = Leitmotif revisited |publisher = Filmsound |url = http://www.filmsound.org/gustavo/leitmotif-revisted.htm |access-date = 10 May 2006 |archive-url = https://web.archive.org/web/20060421054317/http://www.filmsound.org/gustavo/leitmotif-revisted.htm |archive-date = 21 April 2006 |url-status = dead }}</ref> As Lorre could not whistle, Lang dubbed Beckert's whistling.<ref name="Falkenberg Classroom Tapes">{{cite web |last = Falkenberg |first = Paul |title = Classroom Tapes – M |publisher = The Criterion Collection |year = 2004 |url = http://www.criterion.com/asp/release.asp?id=30&section=review&rid=325 |access-date = 8 August 2007 |archive-date = 29 September 2007 |archive-url = https://web.archive.org/web/20070929122819/http://www.criterion.com/asp/release.asp?id=30&section=review&rid=325 |url-status = dead }}</ref>
+
+==Release==
+''M'' premiered on 11 May 1931 at the [[Ufa-Palast am Zoo]] in Berlin, in a version lasting 117 minutes.<ref name="Jensen. p. 93"/> The original negative is preserved at the Federal Film Archive in a 96-minute version. In 1960, an edited 98-minute version was released. The film was restored in 2000 by the Netherlands Film Museum in collaboration with the Federal Film Archive, the Cinemateque Suisse, Kirsch Media and ZDF/ARTE., with [[Janus Films]] releasing the 109-minute version as part of its [[The Criterion Collection|Criterion Collection]] using prints from the Cinemateque Suisse and the Netherlands Film Museum.<ref>''M'', Janus Films, Criterion Collection, closing credits.</ref> A complete print of the English version and selected scenes from the French version were included in the 2010 Criterion Collection release of the film.<ref>[http://www.dvdoutsider.co.uk/bluray/reviews/m/m.html Review of 2010 M Blu-ray/DVD release (region 2)] {{Webarchive|url=https://web.archive.org/web/20101009210619/http://www.dvdoutsider.co.uk/bluray/reviews/m/m.html |date=9 October 2010 }}, DVD Outsider.co.uk. Retrieved 24 April 2010.</ref>
+
+The film was released in the United States in April 1933 by Foremco Pictures.<ref>{{cite news|url=https://www.nytimes.com/movie/review?res=9B03E1D7173BEF3ABC4B53DFB2668388629EDE|title=The Daesseldorf Murders|access-date=28 September 2017|newspaper=New York Times|date=3 April 1933}}</ref> After playing in German with English subtitles for two weeks, it was pulled from theaters and replaced by an English-language version. The re-dubbing was directed by Eric Hakim, and Lorre was one of the few cast members to reprise his role in the film.<ref name="Jensen. p. 93"/>
+
+As with many other early talkies from the years 1930–1931, ''M'' was partially reshot with actors (including Lorre) performing dialogue in other languages for foreign markets after the German original was completed, apparently without Lang's involvement. An English-language version was filmed and released in 1932 from an edited script with Lorre speaking his own words, his first English part. An edited French version was also released but despite the fact that Lorre spoke French his speaking parts were dubbed.<ref>{{cite news|url=https://nypost.com/2010/03/04/dvd-extra-peter-lorres-long-lost-english-language-debut/|title=DVD Extra: Peter Lorre's long-lost English-language debut|access-date=28 September 2017|newspaper=New York Post|date=4 March 2010}}</ref>
+
+In 2013, a [[Digital Cinema Package|DCP]] version was released by Kino Lorber and played theatrically in North America<ref name="McLanahan">{{cite web |url=http://www.orartswatch.org/fritz-langs-m-is-a-great-entertainment-but-its-also-a-genre-mashup/ |work=Oregon Artswatch |author=Erik McLanahan |title=Fritz Lang's 'M' is a great entertainment, but it's also a genre mashup |date=9 April 2013 |access-date=20 May 2014 |archive-date=21 May 2014 |archive-url=https://web.archive.org/web/20140521031754/http://www.orartswatch.org/fritz-langs-m-is-a-great-entertainment-but-its-also-a-genre-mashup/ |url-status=dead }}</ref> in the original aspect ratio of 1.19:1.<ref>{{cite web|url=http://thecharles.com/node/580 |title=M (Thursday 9PM) |publisher=The Charles Theater [Baltimore, Maryland] |access-date=20 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140520193927/http://thecharles.com/node/580 |archive-date=20 May 2014 }}</ref> Critic Kenneth Turan of the ''Los Angeles Times'' called this the "most-complete-ever version" at 111 minutes.<ref>{{cite news |url=https://www.latimes.com/entertainment/la-xpm-2013-apr-09-la-et-mn-m-review20130405-story.html |title=Critic's Choice: 'M' stands for masterpiece |author=Kenneth Turan |newspaper=Los Angeles Times |date=9 April 2013 |access-date=20 May 2014}}</ref> The film was restored by TLEFilms Film Restoration & Preservation Services (Berlin) in association with Archives françaises du film – CNC (Paris) and PostFactory GmbH (Berlin).<ref>{{cite web |url=http://www.kinolorber.com/film.php?id=398 |publisher=Kino Lorber |title=M |access-date=20 May 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140716223035/http://www.kinolorber.com/film.php?id=398 |archive-date=16 July 2014  }}</ref>
+
+==Critical reception==
+
+===Initial response===
+A ''[[Variety (magazine)|Variety]]'' review said that the film was "a little too long. Without spoiling the effect—even bettering it—cutting could be done. There are a few repetitions and a few slow scenes."<ref name="Jensen. p. 93"/> [[Graham Greene]] compared the film to "looking through the eye-piece of a microscope, through which the tangled mind is exposed, laid flat on the slide: love and lust; nobility and perversity, hatred of itself and despair jumping at you from the jelly".<ref name="Wakeman. p. 615"/>
+
+===Reassessment===
+In later years, the film received widespread critical praise and holds [[List of films with a 100% rating on Rotten Tomatoes|an approval rating of 100%]] on [[Rotten Tomatoes]] based on 63 reviews, with an average rating of 9.30/10. The site's critics consensus reads: "A landmark psychological thriller with arresting images, deep thoughts on modern society, and Peter Lorre in his finest performance."<ref>{{cite web |url=https://www.rottentomatoes.com/m/1012928_m |title=M (1931) |website=[[Rotten Tomatoes]] |publisher=[[Fandango Media]] |access-date=4 April 2026 }}</ref>
+
+Marc Savlov of ''[[Austin Chronicle]]'' awarded the film five out of five stars, calling it, "One of the greatest of all German Expressionistic films". Savlov praised the film's cinematography, the use of sound and Lorre's performance.<ref name="savov97">{{cite web |last=Savlov |first=Marc |title=M. Austin Chronicle. 12-08-97 |url=http://www.filmvault.com/filmvault/austin/m/m1.html |website=Austin Chronicle.cm |publisher=Marc Savlov |access-date=9 September 2019 |archive-url=https://web.archive.org/web/20191018215435/http://www.filmvault.com/filmvault/austin/m/m1.html |archive-date=18 October 2019 |url-status=dead }}</ref> In 1997, critic [[Roger Ebert]] added ''M'' to his "Great Movies" list. He proposed Lang's limited use of dialogue was a critical factor in the film's success, in contrast with many early sound films which "felt they had to talk all the time". Ebert also argued the film's characters, nearly all [[grotesques]], embodied Lang's distaste for his adopted homeland: "What I sense is that Lang hated the people around him, hated Nazism, and hated Germany for permitting it."<ref>{{cite web |date=August 3, 1997 |last=Ebert |first=Roger |author-link=Roger Ebert |title=M movie review (1931) |url=https://www.rogerebert.com/reviews/great-movie-m-1931 |website=RogerEbert.com }}</ref>
+
+In 2015, Taste of Cinema ranked the film 18th among the "30 Great [[Psychopathy|Psychopath]] Movies That Are Worth Your Time", and in 2024 ''[[Paste (magazine)|Paste]]'' ranked the character of Beckert 1st among "the best portrayals of cinematic sociopaths".<ref name=":0">{{Cite web |title=5 of the Best Portrayals of Cinematic Sociopaths |url=https://www.pastemagazine.com/movies/horror-movies/movie-sociopaths-best-portrayals-psychopath-mental-illness-empathy-actors-roles |access-date=2025-03-09 |website=Paste Magazine |language=en-US}}</ref><ref>{{Cite web |last=Turer |first=Jason |date=2015-04-09 |title=30 Great Psychopath Movies That Are Worth Your Time |url=https://www.tasteofcinema.com/2015/30-great-psychopath-movies-that-are-worth-your-time/ |access-date=2025-03-08 |website=Taste of Cinema - Movie Reviews and Classic Movie Lists |language=en-US}}</ref>
+
+== Themes ==
+The [[Weimar Republic]] was marked by intense debates about the morality and efficiency of capital punishment, with the political left arguing that the death penalty was barbaric while the right-wing argued that the death penalty was needed to maintain law and order.<ref name="Kaes, Dimendberg, Jay p.719" /> Adding to the debate was popular interest in the new science of psychiatry, with many psychiatrists arguing that crime was caused by damaged minds and emotions which could be cured.<ref name="Kaes, Dimendberg, Jay p.719" /> In the background was a popular obsessive fear of crime and social breakdown, which was fed by sensationalist newspaper coverage of crime.<ref name="Kaes, Dimendberg, Jay p.719" />
+
+In addition, for many conservative Germans, the Weimar republic was itself born of crime, namely the [[German revolution of 1918–1919|November Revolution of 1918]] which began with the [[Kiel mutiny#Wilhelmshaven mutiny|High Seas Fleet mutiny]]. According to this viewpoint, its origins in mutiny and revolution made the Weimar Republic an illegitimate state that could not maintain social order.<ref name="Kaes, Dimendberg, Jay p.719" /> Lang followed these debates closely and incorporated them into several of his Weimar-era films. The debate at Beckert's "trial" about whether he deserved to be killed or not paralleled the contemporary debates about capital punishment in Germany.<ref name="Flipscreeen">{{cite news |title=The Uncomfortable Justice of Fritz Lang's 'M' |url=https://flipscreened.com/2020/11/18/the-uncomfortable-justice-of-fritz-langs-m-1931/ |access-date=2 November 2021 |publisher=Flipscreen |date=18 November 2020}}</ref>
+
+The fact that ''Der Schränker'', a career criminal, serves as both the prosecutor and judge at the kangaroo court, egging on the mob of criminals to kill Beckert, seems to suggest that Lang's sympathy was with the abolitionists.<ref name="Flipscreeen" /> The arguments that ''Der Schränker'' makes at the kangaroo court, namely that certain people are so evil that they deserved to be killed for the good of society, was precisely the same argument made by supporters of the death penalty.
+
+== Legacy ==
+Lang considered ''M'' to be his favorite of his own films because of the social criticism in the film. In 1937, he told a reporter that he made the film "to warn mothers about neglecting children".<ref name="Jensen. p. 95"/> The film has appeared on multiple lists as one of the greatest films ever made. It was voted the best German film of all time with 306 votes in a 1994 poll of 324 film journalists, film critics, filmmakers, and cineastes organized by the {{interlanguage link|Association of German Cinémathèques|de|Deutscher Kinematheksverbund}}.<ref>{{cite journal |title=The 100 Most Important German Films |url=http://www.fiafnet.org/pdf/uk/fiaf54.pdf |archive-url=https://web.archive.org/web/20150605042344/http://www.fiafnet.org/pdf/uk/fiaf54.pdf |archive-date=5 June 2015 |journal=Journal of Film Preservation |date=April 1997 |issue=54 |page=41 |url-status=dead}}</ref> It is included in [[Empire (magazine)|''Empire'']]'s 100 Best Films of World Cinema in 2010<ref>{{cite web | title = The 100 Best Films Of World Cinema: 33. M | url = http://www.empireonline.com/features/100-greatest-world-cinema-films/default.asp?film=33 | work = Empire}}</ref> and the film reference book ''[[1001 Movies You Must See Before You Die]]''.{{sfn|Schneider|2015|p=90}}
+
+In 2018, it was voted the thirteenth greatest foreign-language film of all time in [[BBC]]'s poll of 209 critics in 43 countries.<ref>{{Cite web|title=The 100 greatest foreign-language films|url=https://www.bbc.com/culture/article/20181029-the-100-greatest-foreign-language-films|access-date=December 17, 2020|website=BBC Culture}}</ref> The film is also referenced in the song "In Germany Before the War" by American songwriter [[Randy Newman]] in his 1977 album ''[[Little Criminals]]''.<ref>{{cite web | title = In Germany Before The War by Randy Newman | url = https://www.songfacts.com/facts/randy-newman/in-germany-before-the-war | access-date=June 22, 2021 | work = Songfacts}}</ref>
+
+A scene from the movie was used in the 1940 Nazi propaganda movie ''[[The Eternal Jew (1940 film)|The Eternal Jew]]''.<ref>{{cite book |last=Barnouw |first=Erik |title=Documentary: a history of the non-fiction film |url=https://books.google.com/books?id=qtZ91DNvgBMC&pg=PA142 |access-date=15 November 2011 |year=1993 |publisher=Oxford University Press |isbn=978-0195078985 |page=142 }}</ref>
+
+===Remakes and adaptations===
+A Hollywood remake of [[M (1951 film)|the same title]] was released in 1951, shifting the action from Berlin to Los Angeles. Nero Films head Seymour Nebenzal and his son Harold produced the film for [[Columbia Pictures]]. Lang had once told a reporter: "People ask me why I do not remake ''M'' in English. I have no reason to do that. I said all I had to say about that subject in the picture. Now, I have other things to say."<ref name="Jensen. p. 94"/> The remake was directed by [[Joseph Losey]] and starred [[David Wayne]] in Lorre's role. Losey stated that he had seen ''M'' in the early 1930s and watched it again shortly before shooting the remake, but that he "never referred to it. I only consciously repeated one shot. There may have been unconscious repetitions in terms of the atmosphere, of certain sequences."<ref name="Jensen. p. 94"/> Lang later said that when the remake was released, he "had the best reviews of [his] life".<ref name="Wakeman. p. 615"/>
+
+Argentine film noir ''[[The Black Vampire]]'', released in 1953 and directed by [[Román Viñoly Barreto]], is based on Lang's original script.<ref>{{cite web|url=https://www.lanacion.com.ar/espectaculos/cine/a-50-anos-de-el-vampiro-negro-nid528032/ |title=A 50 años de "El vampiro negro" |date=17 September 2003 }}</ref>
+
+In 2003, ''M'' was adapted for radio by [[Peter Straughan]] and broadcast on [[BBC Radio 3]] on 2 February, later re-broadcast on [[BBC Radio 4 Extra]] on 8 October 2016.<ref>{{cite web|url=https://www.bbc.co.uk/programmes/b007fqv4|title=Fritz Lang and Thea von Harbou – M |publisher=BBC Radio 4 Extra|access-date=21 October 2016}}</ref> Directed by [[Toby Swift]], this drama won the Prix Italia for Adapted Drama in 2004.<ref>{{cite web |title=Prix Italia: Past Editions – Winners 1949–2009 |url=http://www.prixitalia.rai.it/2010/pdf/WINNERS_1949-2009.pdf |website=Wayback Machine |publisher=Prix Italia |archive-url=https://web.archive.org/web/20160303194401/http://www.prixitalia.rai.it/2010/pdf/WINNERS_1949-2009.pdf |access-date=15 January 2020|archive-date=3 March 2016 }}</ref>
+
+Writer [[Jon J. Muth]] adapted the screenplay into a four-part comic book series in 1990, which was reissued as a graphic novel in 2008.<ref>{{cite book |url=https://www.publishersweekly.com/978-0-8109-9522-2|title=Fiction Book Review: M: A Graphic Novel by Jon J. Muth, Author, Thea Von Harbou, Screenplay by, Fritz Lang, Adapted by Abrams (189 p)|date=April 2008 |publisher=Harry N. Abrams |isbn=978-0810995222}}</ref>
+
+In 2015, [[Joseph D. Kucan]] adapted the screenplay into a theatrical stageplay entitled ''A Summons from the Tinker to Assemble the Membership in Secret at the Usual Place'' for the Las Vegas-based theatre company A Public Fit.<ref>{{cite web|url=https://www.talkinbroadway.com/page/regional/lasvegas/lv1.html | title=A Summons from the Tinker to Assemble the Membership in Secret at the Usual Place | author=Mary LaFrance | website=TALKIN' BROADWAY}}</ref>
+
+In 2019, a six-episode Austrian-German miniseries adaptation of the film was released, entitled ''M — A City Hunts a Murderer''.<ref>{{cite web|url=https://www.imdb.com/title/tt7028444/ |title=M – A City Hunts a Murderer|publisher=IMDB.com|access-date=25 November 2019}}</ref>
+
+== Home media ==
+[[The Criterion Collection]] released the film on [[DVD]] on October 20, 1998, and they upgraded it to Blu-ray on May 11, 2010. On February 22, 2010, Eureka Video released the film under their Masters of Cinema series.
+
+== See also ==
+* [[Trial film]]
+* [[List of cult films]]
+* [[List of films featuring surveillance]]
+* [[List of films with a 100% rating on Rotten Tomatoes]]
+* [[List of films considered the best]]
+* [[List of films featuring psychopaths and sociopaths]]
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* {{cite book |last1=Kaes |first1=Anton |last2=Dimendberg |first2=Edward |last3=Jay |first3=Martin |title=The Weimar Republic Sourcebook |date=1994 |publisher=University of California Press |location=Los Angeles |isbn=9780520067752|ref=none}}
+* {{cite book |last1=Lee |first1=Daryl |title=The Heist Film Stealing with Style |date=2014 |publisher=Wallflower |location=New York |isbn=9780231169691|ref=none}}
+* {{cite book| last = Lessing| first = Theodor| title = Monsters of Weimar: Haarmann, the Story of a Werewolf| orig-year = 1925 | year = 1993| publisher = Nemesis Books | location = London| isbn = 1897743106| pages = 293–306|ref=none}}
+* {{cite book |editor-last=Schneider |editor-first=Steven Jay |date=2015 |title=1001 Movies You Must See before You Die |publisher=Cassel |isbn=9781844038794}}
+* {{cite book |last1=Schulte-Bockholt |first1=Schulte-Bockholt |title=The Politics of Organized Crime and the Organized Crime of Politics A Study in Criminal Power |date=2006 |publisher=Lexington Books |location=Latham |isbn=9780739113585|ref=none}}
+* {{cite book| last = Thomas| first = Sarah| title = Peter Lorre, Face Maker: Stardom and Performance Between Hollywood and Europe| year = 2012| publisher = Berghahn Books | location = United States| isbn = 9780857454423|ref=none}}
+
+== External links ==
+* {{IMDb title|0022100}}
+* {{TCMDb title|82216}}
+* [https://web.archive.org/web/20140520171449/http://www.tlefilms.com/pdf%20files/TLEFilms_Restoration%20Project_M_1931.pdf The Restoration of ''M'' (2003)] from TLEFilms.com
+* [https://www.criterion.com/current/posts/350-the-mark-of-m ''The Mark of M''] an essay by [[Stanley Kauffmann]] at the [[Criterion Collection]]
+* [http://film.virtual-history.com/film.php?filmid=526 ''M'' Photographs and literature]
+* [https://web.archive.org/web/20140512213005/http://www.peterlorrecompanion.com/m-and-the-making-of-peter-lorre.html ''M'' and the making of Peter Lorre]
+* [https://www.weimarcinema.org/page/m-dossier Dossier on M by Tony Kaes on WeimarCinema.org]
+
+{{Fritz Lang}}
+{{Thea von Harbou}}
+{{DEFAULTSORT:M (1931 Film)}}
+[[Category:1931 German films]]
+[[Category:1931 German-language films]]
+[[Category:1930s psychological thriller films]]
+[[Category:1931 crime drama films]]
+[[Category:1931 films]]
+[[Category:Banned films in Nazi Germany]]
+[[Category:Films about capital punishment]]
+[[Category:Films about organised crime in Germany]]
+[[Category:Films about psychopaths and sociopaths]]
+[[Category:Films adapted into comics]]
+[[Category:Films adapted into radio programs]]
+[[Category:Films directed by Fritz Lang]]
+[[Category:Films of the Weimar Republic]]
+[[Category:Films produced by Seymour Nebenzal]]
+[[Category:Films set in Berlin]]
+[[Category:Films shot at Staaken Studios]]
+[[Category:Films shot in Berlin]]
+[[Category:Films shot in Germany]]
+[[Category:Films with screenplays by Fritz Lang]]
+[[Category:Films with screenplays by Thea von Harbou]]
+[[Category:German black-and-white films]]
+[[Category:German crime drama films]]
+[[Category:German Expressionist films]]
+[[Category:German psychological thriller films]]
+[[Category:German serial killer films]]
+[[Category:German vigilante films]]
+[[Category:Paramount Pictures films]]
+[[Category:Police detective films]]
+[[Category:Procedural films]]

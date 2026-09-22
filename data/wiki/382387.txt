@@ -1,0 +1,438 @@
+{{short description|1984 film by Joe Dante}}
+{{other uses|Gremlins (franchise)|Gremlin (disambiguation)}}
+{{Use American English|date=March 2019}}
+{{Use mdy dates|date=March 2019}}
+{{Infobox film
+| name           = Gremlins
+| image          = Gremlins1.jpg
+| alt            = 
+| caption        = Theatrical release poster by [[John Alvin]]
+| director       = [[Joe Dante]]
+| producer       = [[Michael Finnell]]
+| writer         = [[Chris Columbus (filmmaker)|Chris Columbus]]
+| starring       = {{Plainlist|
+* [[Zach Galligan]]
+* [[Phoebe Cates]]
+* [[Hoyt Axton]]
+* [[Polly Holliday]]
+* [[Frances Lee McCain]]
+}}
+| narrator       = 
+| music          = [[Jerry Goldsmith]]
+| cinematography = [[John Hora]]
+| editing        = [[Tina Hirsch]]
+| studio         = {{plainlist|
+* [[Warner Bros. Pictures|Warner Bros.]]<ref name=afi>{{cite web|url=https://catalog.afi.com/Catalog/moviedetails/68263|title=Gremlins (1984)|work=[[AFI Catalog of Feature Films]]|access-date=August 12, 2018|archive-date=August 13, 2018|archive-url=https://web.archive.org/web/20180813075950/https://catalog.afi.com/Catalog/moviedetails/68263|url-status=live}}</ref>
+* [[Amblin Entertainment]]<ref name=afi/>
+}}
+| distributor    = Warner Bros.<ref name=afi/>
+| released       = {{Film date|1984|6|8}}
+| runtime        = 106 minutes
+| country        = United States
+| language       = English
+| budget         = $11 million
+| gross          = $212.9 million
+}}
+
+'''''Gremlins''''' is a 1984 American [[comedy horror]] film directed by [[Joe Dante]], written by [[Chris Columbus (filmmaker)|Chris Columbus]] and starring [[Zach Galligan]], [[Phoebe Cates]], [[Hoyt Axton]], [[Polly Holliday]] and [[Frances Lee McCain]], with [[Howie Mandel]] providing the voice of the [[Mogwai (Chinese culture)|''Mogwai'']] character, Gizmo. It draws on legends of folkloric mischievous creatures that cause malfunctions—"[[gremlin]]s"—in the British [[Royal Air Force]] going back to [[World War II]]. The story follows Billy Peltzer, who receives Gizmo as a pet, who then spawns more of his kind that evolve into the titular [[imp]]-like monsters that wreak havoc on Billy's hometown during [[Christmas Eve]].<ref>{{Cite web |last=Wood |first=Jennifer |date=February 26, 2019 |title=20 Facts About Gremlins |url=https://www.mentalfloss.com/article/57137/21-things-you-might-not-know-about-gremlins |url-status=live |archive-url=https://web.archive.org/web/20201208194334/https://www.mentalfloss.com/article/57137/21-things-you-might-not-know-about-gremlins |archive-date=December 8, 2020 |access-date=December 12, 2020 |website=[[Mental Floss]]}}</ref>
+
+The film was accompanied by a large merchandising campaign and juxtaposes [[black comedy]] with a [[Christmas film|Christmas time setting]]. [[Steven Spielberg]] was the executive producer, with the film being produced by [[Michael Finnell]].
+
+''Gremlins'' was theatrically released on June 8, 1984, by [[Warner Bros. Pictures|Warner Bros.]] to critical and commercial success. However, it was heavily criticized for some of its more violent sequences.  In response to this and to similar complaints about ''[[Indiana Jones and the Temple of Doom]]'', Spielberg suggested that the [[Motion Picture Association|Motion Picture Association of America]] (MPAA) revise its [[Motion Picture Association film rating system|rating system]], which it did within two months of the film's release, creating a new [[PG-13 (Motion Picture Association)|PG-13]] rating.<ref name="Parker">{{cite web |last1=Parker |first1=Ryan |title=How 'The Temple of Doom' Changed the MPAA Ratings System |url=https://www.hollywoodreporter.com/heat-vision/indiana-jones-temple-doom-changed-mpaa-ratings-system-999618 |website=The Hollywood Reporter |archive-url=https://web.archive.org/web/20180713074049/https://www.hollywoodreporter.com/heat-vision/indiana-jones-temple-doom-changed-mpaa-ratings-system-999618 |archive-date=July 13, 2018 |date=May 23, 2017}}</ref>{{efn|name=fn1|Contrary to popular belief, ''Indiana Jones and the Temple of Doom'' and ''Gremlins'' were both released in the U.S. with a PG (not PG-13) rating,<ref>{{cite web |title=Indiana Jones and the Temple of Doom (1984) |url=https://filmratings.com/Search?filmTitle=indiana+jones+and+the+temple+of+doom&x=16&y=11 |website=Filmratings.com |publisher=MPAA |access-date=January 27, 2019 |quote=Rating: PG |archive-date=January 28, 2019 |archive-url=https://web.archive.org/web/20190128082721/https://filmratings.com/Search?filmTitle=indiana+jones+and+the+temple+of+doom&x=16&y=11 |url-status=live }}</ref><ref>{{cite web |title=Gremlins (1984) |url=https://filmratings.com/Search?filmTitle=GREMLINS&x=0&y=0 |website=Filmratings.com |publisher=MPAA |access-date=January 27, 2019 |quote=Rating: PG |archive-date=January 27, 2019 |archive-url=https://web.archive.org/web/20190127205822/https://filmratings.com/Search?filmTitle=GREMLINS&x=0&y=0 |url-status=live }}</ref> although controversy surrounding the two films did lead to the subsequent creation of the PG-13 rating. The first film to be issued the new PG-13 rating was ''[[The Flamingo Kid]]'',<ref>{{cite web |title=History of Ratings |url=https://filmratings.com/History |website=Filmratings.com |publisher=MPAA |access-date=January 27, 2019 |archive-date=January 28, 2019 |archive-url=https://web.archive.org/web/20190128082720/https://filmratings.com/History |url-status=live }}</ref> although ''[[Red Dawn]]'' was the first to be released theatrically under the new rating.<ref name=Parker/> Conversely, the [[British Board of Film Classification]] (BBFC) elected to give ''Gremlins'' a [[History of British film certificates|15]] rating, rather than the desired PG, meaning under 15s could not view the film. Some complained to the BBFC that the rating was too strict. The BBFC did not yet use 12 or 12A certificates, and upon the film's 2012 re-release, it was re-rated 12A.<ref>{{cite web |last1=Lester |first1=Dr Catherine |title=Why Gremlins is still shocking audiences after 40 years |url=https://www.birmingham.ac.uk/news/2024/gremlins-is-still-shocking-audiences-at-40-years-old |website=University of Birmingham |access-date=September 15, 2024 |date=June 5, 2024}}</ref><ref>{{cite web |title=BBFC Podcast Episode 52 - Gremlins (1984) |url=https://www.bbfc.co.uk/about-us/podcasts/bbfc-podcast-episode-52-gremlins-1984 |website=BBFC.co.uk |date=June 15, 2016 |access-date=September 15, 2024}}</ref>}} It was followed by a sequel, ''[[Gremlins 2: The New Batch]]'' (1990), while a third film is set to be released in November 2027.
+
+== Plot ==
+<!-- Per WP:FILMPLOT, the plot summary should be 400–700 words. -->
+Struggling [[inventor]] Randall Peltzer visits a [[Chinatown]] antique store to find a Christmas present for his son, Billy. In it, Randall uncovers a small and furry creature called a {{lang|yue-Latn|mogwai}} ([[Cantonese]]: {{wikt-lang|yue|魔怪}}, 'devil'). The owner, Sam Wing, refuses to sell it to him, but his grandson secretly does, warning Randall to remember three important rules concerning its care – keep the ''mogwai'' away from light, especially sunlight, which will kill it; do not let it come in contact with water; and above all, never let it eat after midnight.
+
+In Randall's hometown of Kingston Falls, Billy works at its local [[bank]], but fears that his dog Barney will be [[Animal euthanasia|put down]] by widowed miser Ruby Deagle. His father returns and offers him the ''mogwai'', now named "Gizmo", as a pet and informs him of the rules. Gizmo is friendly and docile, but when Billy's friend, Pete Fountaine, accidentally spills water on him, five more ''mogwai'' spawn from him – a more mischievous sort led by the aggressive Stripe, named after the [[Mohawk hairstyle|mohawk]]-like tuft of white fur on his head. Billy shows one of the ''mogwai'' to his former elementary school science teacher, Roy Hanson, spawning another ''mogwai'', whom the latter experiments on. Back home, Stripe and his fellow ''mogwai'' trick Billy into feeding them after midnight by sabotaging his bedside clock. They form [[Pupa#Cocoon|cocoon]]s, as does Hanson's ''mogwai'', which soon hatch, emerging as destructive and [[Reptile|reptilian]] imp-like monsters called "gremlins". Hanson is murdered by his gremlin, while those at the Peltzer house torture Gizmo and assault Billy's mother, Lynn.
+
+The duo are able to dispatch all the gremlins sans Stripe, who escapes to the local [[YMCA]] where he jumps into its [[swimming pool]], spawning an army of gremlins that wreak havoc on Kingston Falls. Many locals are injured or outright killed during their rampage, including Deagle. The police are helpless in the ordeal, as they too fall victim to the gremlins' mischief. After Billy rescues his co-worker and girlfriend, Kate Beringer, when the gremlins attack the [[Bar (establishment)|bar]] she works at, and they seek refuge in the bank. Kate discloses that her father went missing on Christmas Eve when she was nine years old, but was then found dead in their house's chimney<!-- Kate explicitly states that although she was lighting a fire in the fireplace, her father was found in the actual chimney --> several days later. Planning to surprise his family while portraying [[Santa Claus]], he inadvertently slipped and broke his neck while climbing down it. Still suffering from [[post-traumatic stress disorder]] due to this incident, Kate confesses how it led to her dislike of the holidays.
+
+The trio find the gremlins gathered in the local [[movie theater]] due to [[morning]] approaching and set off a natural gas explosion, killing them all except for Stripe, who left the theater earlier to retrieve candy at a [[Montgomery Ward]] store across the street. They follow Stripe into the store, where he attempts to use a [[fountain]] to spawn more gremlins, but Gizmo then opens a nearby [[skylight]], exposing Stripe to sunlight and killing him.
+
+In the aftermath, Wing arrives at the Peltzer house to reclaim Gizmo as he scolds the family for their negligence and criticizes [[Western world|Western society]] for its carelessness with nature. However, as he turns to leave, Gizmo, having bonded with Billy, bids him goodbye. A compassionate Wing then concedes that Billy may be ready to properly care for him one day.
+
+== Cast ==
+{{castlist|
+* [[Zach Galligan]] as Billy Peltzer
+* [[Phoebe Cates]] as Kate Beringer
+* [[Hoyt Axton]] as Randall "Rand" Peltzer
+* [[Polly Holliday]] as Ruby Deagle
+* [[Frances Lee McCain]] as Lynn Peltzer
+* [[Judge Reinhold]] as Gerald Hopkins
+* [[Dick Miller]] as Murray Futterman
+* [[Glynn Turman]] as Roy Hanson
+* [[Keye Luke]] as Sam Wing
+* [[Scott Brady (actor)|Scott Brady]] as Sheriff Frank Reilly
+* [[Corey Feldman]] as Pete Fountaine
+* [[Jonathan Banks]] as Deputy Brent Frye
+* [[Edward Andrews]] as Roland Corben
+* [[Jackie Joseph]] as Sheila Futterman
+* [[Belinda Balaski]] as Mrs. Harris
+* [[Harry Carey Jr.]] as Mr. Anderson
+* [[Nicky Katt]] and [[Tracy Wells]] as schoolchildren
+* John Louie as Wing's unnamed grandson
+* Kenny Davis as Dorry
+* Mushroom as Barney
+* [[John C. Becher]] as Doctor Molinar
+}}
+
+The film features various cameos from crew members or guests. [[Steven Spielberg]] cameos as a man riding a [[recumbent bicycle]]; [[Jim McKrell]] plays Lew Landers; composer [[Jerry Goldsmith]] plays a man in a [[telephone booth]]; [[Kenneth Tobey]] plays a [[filling station]] attendant; and [[William Schallert]] plays Father Bartlett. Animator [[Chuck Jones]] plays Mr. Jones, Billy's drawing mentor; he would later conceive the ''[[Looney Tunes]]''-centric segments for the sequel, ''Gremlins 2: The New Batch'' (1990).
+
+=== Voices ===
+* [[Howie Mandel]] as Gizmo
+** Ilene Keys additionally provided the character's singing voice (''uncredited'')<ref name=":0">{{cite web|url=https://www.youtube.com/watch?v=9t4Nm7LLfGw|title=GREMLINS: Le Film Cachait Un Énorme SECRET !|date=July 6, 2023 |publisher=YouTube|access-date=2023-10-15|language=en}}</ref>
+* [[Frank Welker]] as Stripe
+* [[Don Steele]] as Rockin' Ricky Rialto
+* [[Marvin Miller (actor)|Marvin Miller]] as [[Robby the Robot]] (''uncredited'')
+The vocal effects of the ''mogwai'' and gremlins were provided by Mandel,<ref name="Howie Mandel">{{cite web|title=John Hardel on Twitter: "Howie Mandel voicing one of the background gremlins from Gremlins, he mentioned this in the commentary and a podcast, he's the one that says, "Let it be lowbrow, go, go, go!""|url=https://twitter.com/hardel_john/status/1637589396764459011|publisher=Twitter|access-date=May 15, 2024}}</ref> Welker, Brad Kesten (uncredited), [[Michael Winslow]], [[Bob Bergen]], [[Fred Newman (actor)|Fred Newman]], [[Peter Cullen]], [[Jim Cummings]] (unused),<ref name="Jim Cummings 1">{{cite web|url=https://www.youtube.com/watch?v=M7XT-6b6K0M&t=146s|archive-url=https://ghostarchive.org/varchive/youtube/20211221/M7XT-6b6K0M|archive-date=2021-12-21|url-status=live|title=Gremlins: Voicing the creatures|date=December 28, 2019 |publisher=YouTube|access-date=May 21, 2021}}{{cbignore}}</ref><ref name="Jim Cummings 2">{{cite web|url=https://www.youtube.com/watch?v=a5SVP7JB92g&t=4879s|title=Daniel Ross {{!}} Voicing Donald Duck {{!}} Toon'd In! with Jim Cummings|date=April 28, 2025 |publisher=YouTube|access-date=May 27, 2025}}</ref> [[Sonny Melendrez]] (uncredited),<ref name="Sonny Melendrez">{{Cite web|title=Biography|date=June 22, 2019|url=https://sonnymelendrez.com/san-antonio-motivational-speaker-biography/|publisher=Sonny Melendrez|access-date=May 21, 2021}}</ref> [[Mark Dodson (actor)|Mark Dodson]], [[Bob Holt (actor)|Bob Holt]], Michael Sheehan and director [[Joe Dante]] (uncredited).<ref name="Joe Dante">{{cite web|title=Kirk Thatcher on Twitter: "No...kinda sounds like Joe Dante might have done that voice!"|url=https://twitter.com/KirkThatcher/status/1788676820218544372|publisher=Twitter|access-date=May 15, 2024}}</ref>
+
+== Production ==
+
+=== Background ===
+''Gremlins'' was produced at a time when combining horror and comedy was becoming increasingly popular. According to Professor [[Noël Carroll]], ''[[Ghostbusters]]'', released the same weekend as ''Gremlins'', and the comic strip ''[[The Far Side]]'' also followed this trend. Carroll argued that there was now a new genre emphasizing sudden shifts between humorous and horrific scenes, drawing laughs with plot elements that have been traditionally used to scare.<ref>{{cite journal |last=Carroll |first=Noël |date=Spring 1999 |title=Horror and Humor |journal=The Journal of Aesthetics and Art Criticism: Aesthetics and Popular Culture |volume=57 |number=2 |page=145|doi=10.1111/1540_6245.jaac57.2.0145 }}</ref>
+
+The notion of gremlins was first conceived during the 1920s when mechanical failures in [[Royal Air Force|RAF]] aircraft were jokingly blamed on the small monsters. The term "gremlins" also entered popular culture as children's author and RAF pilot [[Roald Dahl]] published a book called ''[[The Gremlins]]'' in 1943, based on the mischievous creatures.{{sfn|Bilstein|2001|p=318}} [[Walt Disney]] considered making a film of it. A [[Bugs Bunny]] cartoon of the era, ''[[Falling Hare]]'', shows Bugs battling a gremlin on an airplane. Joe Dante had read ''The Gremlins'' and said that the book was of some influence on his film. In 1983, Dante publicly distanced his work from earlier films, explaining, "Our gremlins are somewhat different—they're sort of green, and they have big mouths, and they smile a lot and they do incredibly, really nasty things to people and enjoy it all the while".<ref name="Featurette">{{cite AV media |people=[[Joe Dante|Dante, Joe]], [[Steven Spielberg|Spielberg, Steven]] |date=2002 |title=Gremlins: Behind the Scenes |medium=DVD |publisher=Warner Home Video}}</ref><ref name="DVD">{{cite AV media |people=[[Joe Dante|Dante, Joe]] |date=2002 |title=Steven Spielberg presents ''Gremlins'' Special edition audio commentary |medium=DVD |publisher=Warner Home Video}}</ref>
+
+=== Development ===
+[[File:Chris Columbus - Home Alone 35th.jpg|thumb|250x250px|[[Chris Columbus (filmmaker)|Chris Columbus]] conceived of the idea for ''Gremlins'' and wrote the initial draft as a [[spec script]].]]
+The story of ''Gremlins'' was conceived by [[Chris Columbus (filmmaker)|Chris Columbus]] in around July of 1981.<ref>{{Cite web|url=https://time.com/archive/6884244/cinema-creature-comforts-and-discomforts/|title=Cinema: Creature Comforts and Discomforts|first=Richard|last=Corliss|date=June 4, 1984|website=Time.com|access-date=June 13, 2026}}</ref> As Columbus explained, his inspiration came from his loft, when at night "what sounded like a platoon of mice would come out and to hear them skittering around in the blackness was really creepy".<ref name="Behind Scenes">{{cite AV media |people=[[Chris Columbus (filmmaker)|Columbus, Chris]] |date=2002 |title=Steven Spielberg presents ''Gremlins'': Behind the Scenes |medium=DVD |publisher=Warner Home Video}}</ref> He then wrote the original screenplay as a [[spec script]] to show potential employers that he had writing abilities. He also made rough concept art for the Gremlins.<ref name="History">{{cite web|url=https://www.theringer.com/2024/06/06/movies/gremlins-movie-oral-history-gizmo|title=Creature Feature: The Oral History of 'Gremlins'|website=Theringer.com|access-date=June 13, 2026}}</ref> In the first draft the main characters were originally going to be 12 years old.<ref name="History"/><ref name="auto">[https://forums.lostmediawiki.com/thread/11838/gremlins-rated-screenplay-story-inaccurate] {{dead link|date=June 2026}}</ref> The story was not actually intended to be filmed. This changed in early 1982 when [[Steven Spielberg]] came across the spec script.<ref>{{Cite web|url=https://www.theringer.com/2024/06/06/movies/gremlins-movie-oral-history-gizmo|title=Creature Feature: The Oral History of 'Gremlins'|date=June 6, 2024|website=Theringer.com|access-date=June 13, 2026}}</ref> In April 1982 the second draft was written, still at that point a R-Rated horror film. This draft is the earliest version available online.<ref>{{Cite web|url=http://archive.org/details/gremlins-early-2nd-draft|title=Gremlins - Original Screenplay (Early Draft)|date=June 13, 1982|access-date=June 13, 2026|via=Internet Archive}}</ref><ref name="auto"/><ref name="DVD" /> As Spielberg explained, "It's one of the most original things I've come across in many years, which is why I bought it."<ref name="Featurette" /> Spielberg considered [[Tim Burton]] to direct the film after seeing his [[short film]] ''[[Frankenweenie (1984 film)|Frankenweenie]]''.<ref>{{cite web | url=http://cutprintfilm.com/features/an-oral-history-of-gremlins/ | title=An Oral History of 'Gremlins' (1984) |last=Costill |first=David |website=Cut Print Film | date=December 23, 2016 }}</ref>
+
+After deciding to executive produce the film himself, Spielberg chose Dante as his director because of his experience with horror-comedy; Dante had previously directed ''[[The Howling (film)|The Howling]]''; however, in the time between ''The Howling'' and the offer to film ''Gremlins'', he had experienced a lull in his career.<ref name="DVD" />  Dante began doing storyboard work on the film while also working as a director on ''[[Twilight Zone: The Movie]]'' (1983), a film on which Spielberg also served as a director.<ref>{{Cite book|url=https://archive.org/details/Fangoria_037_c2c_1984_Gremlins_smog777-DREGS|title=Gremlins director Joe Dante provides a behind-the-scenes look at this summer's big-budget creature-feature.|last=Everitt|first=David|publisher=Fangoria (37)|year=1984|pages=[https://archive.org/details/Fangoria_037_c2c_1984_Gremlins_smog777-DREGS/page/n21 20]–22}}</ref> The film's producer was [[Michael Finnell]], who had also worked on ''The Howling'' with Dante. Spielberg took the project to Warner Bros. and co-produced it through his own company, [[Amblin Entertainment]].
+
+Designer Chris Walas spoke on the creation of the initial concept of the creatures, "After reading the script, my first idea was to take the [[tarsier]], a little primate, and give it cartoony proportions. I wanted the big eyes to make it cute. I showed it to Mike Finnell and Joe Dante and they asked for some tweaks, so I made the next one. This is more like a puppy. Big, floppy ears. It's not based on any one dog in particular — just a Cocker Spaniel or something. Fortunately they did not go with it. These were the only two Mogwai I sculpted before the final one."<ref>{{Cite web |date=2014-06-30 |title=Gremlins Week: The Evolution Of Gizmo |url=https://www.empireonline.com/movies/features/evolution-gremlins-gizmo/ |access-date=2024-08-10 |website=Empire |language=en}}</ref>
+
+The film's script went through a few drafts before a shooting script was finalized. The first version was much darker than the final film. Various scenes were cut, including one which portrayed Billy's mother being decapitated during her struggle with the gremlins, with her head thrown down the stairs when Billy arrives. Dante later explained the scene made the film darker than the filmmakers wanted. There was also a scene where the gremlins ate Billy's dog and a scene where the gremlins attacked a [[McDonald's]], eating customers instead of burgers. Also, instead of Stripe being a ''mogwai'' who becomes a gremlin, there was originally no ''mogwai'' named Stripe; rather, Gizmo was supposed to transform into Stripe the gremlin. Spielberg overruled this plot element as he felt Gizmo was cute and that audiences would want him to be present throughout the film.<ref name="DVD" />
+
+The film mentions an urban legend<ref>{{cite web | title=Santa Claustrophobia | url=https://www.snopes.com/fact-check/santa-claustrophobia/ | work=[[Urban Legends Reference Pages]] | date=October 23, 1999 | access-date=December 7, 2020 | archive-date=May 3, 2021 | archive-url=https://web.archive.org/web/20210503010423/https://www.snopes.com/fact-check/santa-claustrophobia/ | url-status=live }}</ref> in which Kate reveals in a speech that her father died at Christmas when he dressed as [[Santa Claus]] and broke his neck while climbing down the family's chimney. After the film was completed, studio executives insisted upon its removal, because they felt it was too ambiguous as to whether it was supposed to be funny or sad. Dante refused to take the scene out, saying it represented the film as a whole, which had a combination of horrific and comedic elements. Spielberg did not like the scene but, despite his creative control, he viewed ''Gremlins'' as Dante's project and allowed him to leave it in.<ref name="DVD" /> A parody of this scene is featured in ''[[Gremlins 2: The New Batch]]''.
+
+=== Casting ===
+[[File:Zach Galligan at the Chiller Theatre Expo in NJ, October 26, 2013.jpg|upright|thumb|[[Zach Galligan]] was a relatively unknown actor when cast as the lead character Billy.]]
+[[Phoebe Cates]] was cast as Kate, Billy's girlfriend, despite concerns that she was known for playing more risqué parts, such as Linda Barrett in ''[[Fast Times at Ridgemont High]]'' (1982). Spielberg urged the casting of the relatively unknown [[Zach Galligan]] as Billy because he saw chemistry between Galligan and Cates during auditions. Galligan later compared himself to Billy, saying he was a "geeky kid", and that being in the film "was really kind of a dream" given "what I get to do, what my character gets to do, blow up movie theatres", adding that he "got to work with great people".<ref name="Galligan">{{cite AV media |people=[[Zach Galligan|Galligan, Zach]], [[Joe Dante|Dante, Joe]] |date=2002 |title=Steven Spielberg presents ''Gremlins'' Special edition audio commentary |medium=DVD |publisher=Warner Home Video}}</ref>  Spielberg commented when Galligan was testing with Cates that "he's in love with her already" and that was how Galligan won the part.<ref>{{cite news|last1=Watkins|first1=Jack|title=How we made Gremlins|url=https://www.theguardian.com/film/2017/dec/04/how-we-made-gremlins-steven-spielberg-joe-dante-zach-galligan|access-date=4 December 2017|work=The Guardian|date=4 December 2017|archive-date=December 4, 2017|archive-url=https://web.archive.org/web/20171204232250/https://www.theguardian.com/film/2017/dec/04/how-we-made-gremlins-steven-spielberg-joe-dante-zach-galligan|url-status=live}}</ref> [[Tom Hanks]],<ref name="theringer.com">{{Cite web |last=Siegel |first=Alan |date=2024-06-06 |title=Creature Feature: The Oral History of 'Gremlins' |url=https://www.theringer.com/movies/2024/6/6/24171434/gremlins-movie-oral-history-gizmo |access-date=2024-08-10 |website=The Ringer |language=en}}</ref> [[Kevin Bacon]], [[Ralph Macchio]], [[Emilio Estevez]], [[Rob Lowe]]<ref>{{Cite news |last=Kilday |first=Gregg |date=1984-06-07 |title=Zach Galligan: Gizmo's Best Friend |url=https://www.washingtonpost.com/archive/lifestyle/1984/06/08/zach-galligan-gizmos-best-friend/f1209b9a-99ad-4453-b6d8-262fa7d69cea/ |newspaper=The Washington Post}}</ref> and [[Judd Nelson]] also auditioned.<ref>{{cite web | url=https://filmschoolrejects.com/commentary-gremlins-joe-dante-2f4cc8995462/ | title=40 Things We Learned from Joe Dante's 'Gremlins' Commentary | last=Hunter |first=Rob |date=December 8, 2016 |website=[[Film School Rejects]]}}</ref>
+
+In contrast to Galligan, many of the supporting actors and actresses were better known. Veteran actor [[Glynn Turman]] portrayed the high school science teacher whose study of a newborn ''mogwai'' leads to his death after it forms a cocoon and emerges as a vicious gremlin. [[Dick Miller]], who was a regular in Dante's films, was another experienced actor on the set, playing a [[World War II]] veteran who first refers to the creatures as gremlins. Rand was played by [[Hoyt Axton]], who was always the filmmakers' preferred choice for the role even though it was widely contested by other actors.<ref name="DVD" /> Axton's experience included acting as the father in ''[[The Black Stallion (film)|The Black Stallion]]'' (1979), and he was also a country music singer-songwriter. After an introductory scene to ''Gremlins'' was cut, Axton's voice earned him the added role of the narrator to establish some context. Mr. Wing was played by [[Keye Luke]], a renowned film actor, whose film career spanned half a century. Although in reality he was around 80 at the time of filming, and his character was very elderly, Luke's youthful appearance had to be covered by make-up.<ref name="DVD" />
+
+[[Corey Feldman]], who up to that time had primarily been in commercials, played Pete Fountaine, establishing his early credentials as a child actor; he previously met with Spielberg when he auditioned for ''[[E.T. the Extra-Terrestrial]]''. [[Polly Holliday]], an actress best known for her role in ''[[Alice (American TV series)|Alice]]'', played Mrs. Deagle. Dante considered the casting fortunate, as she was well-known, and he considered her to be talented. Two other well-known actors, ''Fast Times''{{'}} [[Judge Reinhold]] and character actor [[Edward Andrews]], received roles that were significantly reduced after the film was edited; they played Billy's superiors at the bank.<ref name="DVD" /><ref name="theringer.com"/> Tom Hanks also read for Gerald.<ref name="theringer.com"/>
+
+=== Special effects ===
+[[File:HowieMandelM07.jpg|upright|thumb|Comedian [[Howie Mandel]] provided the voice of Gizmo.]]
+Some of the performances were shot on the [[Courthouse Square]] and [[Colonial Street]] sets of the [[Universal Studios Lot]] in [[Universal City, California|Universal City]], California (Mrs. Deagle's house was one such set as well as the opening street scenes in Chinatown, which were filmed on the [[Warner Bros. Studios Burbank|Warner Bros. Studios]] backlot). This required fake snow; Dante also felt it was an atmosphere that would make the special effects more convincing.
+
+An earlier attempt to use [[monkey]]s to interpret the gremlins was abandoned because the test monkey panicked when made to wear a gremlin head. [[Puppet]]s and [[marionette]]s were used instead, so the actors worked alongside them in most scenes.<ref name=Empire>{{cite web |url=https://empireonline.com/news/story.asp?NID=41383 |title=Gremlins Reunion: First Look At The Empire Photoshoot |work=[[Empire (magazine)|Empire]] |date=25 June 2014 |access-date=26 June 2014 |archive-date=September 24, 2015 |archive-url=https://web.archive.org/web/20150924130414/http://www.empireonline.com/news/story.asp?NID=41383 |url-status=live }}</ref> Nevertheless, after the actors finished their work for good, a great deal of effort was spent finishing the effects.
+
+[[Rob Bottin]] and [[John Dykstra]] were originally considered to do the special effects, Bottin was Dante's first choice; but he was busy working on ''[[Legend (1985 film)|Legend]]'' (1985).<ref name="theringer.com"/> Dante eventually brought in [[Chris Walas]], who worked on his directorial debut ''[[Piranha (1978 film)|Piranha]]'' (1978). While the Gremlins were specifically designed to be [[hand puppet]]s, including specialized puppets that only did one action such as crawl, skateboard, and hang from the lights, the small size of the Mogwai forced Gizmo to be largely [[animatronic]]. Walas designed numerous small rubber puppets to portray Gizmo and the gremlins, and said he cannot estimate an accurate number "since we cannibalized a lot of them to create new puppets along the way".<ref>{{cite web|author=Walas, Anina|url=https://www.starwars.com/news/talking-with-creature-effects-legend-chris-walas-or-as-i-know-him-uncle-chris|title=Talking with Creature Effects Legend Chris Walas...Or As I Know Him, Uncle Chris|date=2016-03-01|publisher=StarWars.com}}</ref> There was more than one Gizmo puppet, and occasionally Galligan, when carrying one, would set him down off camera, and when Gizmo appeared again sitting on a surface it was actually a different puppet wired to the surface. These puppets had many limitations. The Gizmo puppets were particularly frustrating because they were smaller and thus broke down more. While Walas recommended making the ''mogwai'' larger to make their creation and functioning easier for the special effects team, Dante insisted on keeping their size small to enhance the cuteness of the creatures.<ref>{{Cite book|url=https://archive.org/details/Fangoria_038|title=Chris Walas|last=Martin|first=R. H.|publisher=Fangoria (38)|date=October 1984|pages=[https://archive.org/details/Fangoria_038/page/n44 44]–45}}</ref> Consequently, to satisfy the crew, a scene was included in which the gremlins hang Gizmo on a wall and throw darts at him. This was included on a list that the crew created known to them as the "Horrible Things to do to Gizmo" list.<ref name="DVD"/> 
+
+Other effects required large ''mogwai'' faces and ears to be produced for close-ups, as the puppets were less capable of conveying emotion. Consequently, large props simulating food were needed for the close-ups in the scene in which the ''mogwai'' feast after midnight. An enlarged Gizmo puppet was also needed for the scene in which he multiplies. The new ''mogwai'', who popped out of Gizmo's body as small, furry balls which then started to grow, were balloons and expanded as such. Walas had also created the exploding gremlin in the microwave by means of a balloon that was allowed to burst.<ref name="DVD"/>
+
+[[Howie Mandel]] provided the voice of Gizmo and prolific voice actor [[Frank Welker]] provided the voice of the gremlins' leader, Stripe. It was Welker who suggested Mandel perform in ''Gremlins''. The puppets' lines were mostly invented by the voice actors, based on cues from the physical actions of the puppets, which were filmed before the voice work. When developing the voice for Gizmo, Mandel explained, "[Gizmo was] cute and naive, so, you know, I got in touch with that... I couldn't envision going any other way or do something different with it".<ref name="Mandel">{{cite AV media |people=[[Howie Mandel|Mandel, Howie]], [[Joe Dante|Dante, Joe]] |date=2002 |title=Steven Spielberg presents ''Gremlins'' Special edition audio commentary |medium=DVD |publisher=Warner Home Video}}</ref> The majority of the other gremlins' voices were performed by [[Michael Winslow]] and [[Peter Cullen]], while the remaining voices were done by Mandel, Welker, [[Bob Bergen]], [[Fred Newman (actor)|Fred Newman]], [[Jim Cummings]], [[Sonny Melendrez]], [[Mark Dodson (actor)|Mark Dodson]], [[Bob Holt (actor)|Bob Holt]], Michael Sheehan and even Dante himself.<ref name="Jim Cummings 1" /><ref name="Sonny Melendrez"/><ref name="Joe Dante"/><ref name="Howie Mandel"/>
+
+=== Music ===
+The film's score was composed and conducted by [[Jerry Goldsmith]], who won a [[Saturn Award for Best Music]] for his efforts, and performed by the [[Hollywood Studio Symphony]]. The main score was composed to convey "the mischievous humor and mounting suspense of Gremlins".<ref name="Behind Scenes" /> Goldsmith also wrote Gizmo's song, which was hummed by Ilene Keys, a child actress and acquaintance of Goldsmith, rather than Mandel himself.<ref name="DVD" /><ref name=":0" /> Goldsmith also appears in the film, alongside Steven Spielberg, in the scene where Rand calls home from the salesman's convention.
+
+The soundtrack album was released by [[Geffen Records]] as a specially priced 7-cut mini-album on LP and cassette (Goldsmith's music comprised all of side two) and reissued on compact disc in 1993 only in Germany.
+
+# "Gremlins...Mega Madness" ([[Michael Sembello]]) – 3:50
+# "Make It Shine" ([[Quarterflash]]) – 4:10
+# "Out Out" – ([[Peter Gabriel]]) – 7:00
+# "The Gift" – 4:51
+# "Gizmo" – 4:09
+# "Mrs. Deagle" – 2:50
+# "The Gremlin Rag" – 4:03
+
+"Gremlins...Mega Madness" was also released as a single, with "The Gremlin Rag" as its B-side (The USA release has Late For Work).
+
+In 2011, ''[[Film Score Monthly]]'' issued a two-disc release of the soundtrack, with the complete score on disc one and the original soundtrack album on disc two (representing the latter's first North American CD issue); this was the label's final Jerry Goldsmith album. A CD release by [[Warner Archive Collection]] was released through [[WaterTower Music]] on October 10, 2015.
+
+''DISC ONE: The Film Score''
+{{div col|colwidth=20em}}
+# "Fanfare in C" ([[Max Steiner]]) / "The Shop" / "The Little One" – 4:30
+# "Late for Work" – 1:46
+# "Mrs. Deagle / That Dog" – 2:22
+# "The Gift" – 1:45
+# "First Aid" – 2:17
+# "Spilt Water" – 3:02
+# "A New One" – 1:10
+# "The Lab / Old Times" – 2:35
+# "The Injection" – 2:56
+# "Snack Time / The Wrong Time" – 1:49
+# "The Box" – 1:24
+# "First Aid" – 1:39
+# "Disconnected / Hurry Home" – 1:03
+# "Kitchen Fight" – 4:06
+# "Dirty Linen" – 0:43
+# "The Pool" – 1:07
+# "The Plow / Special Delivery" – 1:16
+# "High Flyer" – 2:22
+# "Too Many Gremlins" – 2:06
+# "No Santa Claus" – 3:27
+# "After Theatre" – 1:39
+# "Theatre Escape / Stripe Is Loose / Toy Dept. / No Gizmo" – 4:36
+# "The Fountain / Stripe's Death" – 5:42
+# "Goodbye, Billy" – 2:56
+# "End Title / The Gremlin Rag" – 4:10
+# "Blues" – 2:17
+# "Mrs. Deagle [film version]" – 1:27
+# "God Rest You Merry, Gentlemen" (traditional, arr. Alexander Courage) – 1:12
+# "After Theatre" [with "Silent Night"] – 1:36
+# "After Theatre" [without "Silent Night"] – 1:36
+# "Rabbit Rampage" (Milt Franklyn) – 0:47
+# "The Gremlin Rag [full version]" – 3:35
+# "Gizmo's New Song" – 0:35
+# "Gizmo's Trumpet" – 0:30
+{{div col end}}
+
+Tracks 26–34 are listed as bonus tracks.
+
+''DISC TWO: 1984 Soundtrack Album''
+# "Gremlins...Mega Madness" (Michael Sembello) – 3:52
+# "Make It Shine" (Quarterflash) – 4:11
+# "Out Out" – (Peter Gabriel) – 7:02
+# "The Gift" – 4:58
+# "Gizmo" – 4:14
+# "Mrs. Deagle" – 2:54
+# "The Gremlin Rag" – 4:13
+
+== Reception ==
+=== Box office ===
+[[File:Joe Dante 66ème Festival de Venise (Mostra) 2.jpg|upright|thumb|Director [[Joe Dante]] acknowledged some parents were upset after taking their children to see ''Gremlins'' in theaters.]]
+Financially, ''Gremlins'' was a success. Produced on an $11 million budget, it was more expensive than Spielberg had originally intended but still relatively cheap for its time.<ref name="DVD" /> The [[Trailer (film)|trailer]] introduced the film to audiences by briefly explaining that Billy receives a strange creature as a Christmas present, by going over the three rules, and then coming out with the fact that the creatures transform into terrible monsters.<ref>{{Citation |title=Gremlins (1984) Official Trailer #1 - Horror Comedy | date=October 16, 2013 |url=https://www.youtube.com/watch?v=XBEVwaJEgaA |access-date=2023-12-25 |language=en}}</ref> This trailer showed little of either the ''mogwai'' or the gremlins.<ref>{{cite AV media |date=2002 |title=Steven Spielberg presents ''Gremlins'' Special edition: Theatrical Trailers |medium=DVD |publisher=Warner Home Video}}</ref> In contrast to this, other advertisements concentrated on Gizmo, overlooked the gremlins, and made the film look similar to Spielberg's earlier family film ''[[E.T. the Extra-Terrestrial]]'' (1982).<ref name="PG-13">{{Cite news |last=Breznican |first=Anthony |date=March 31, 2011 |title=PG-13 remade Hollywood ratings system |work=[[Seattle Post-Intelligencer]] |url=https://www.seattlepi.com/ae/movies/article/PG-13-remade-Hollywood-ratings-system-1152332.php |url-status=live |archive-url=https://web.archive.org/web/20201128223908/https://www.seattlepi.com/ae/movies/article/PG-13-remade-Hollywood-ratings-system-1152332.php |archive-date=November 28, 2020}}</ref>
+
+''Gremlins'' was released into North American theaters on June 8, 1984, the same day as Ivan Reitman's ''[[Ghostbusters]]''. ''Gremlins'' ranked second, with $12.5 million in its first weekend, $1.1 million less than ''Ghostbusters''. By the end of its American screenings on November 29, it had grossed $148,168,459 domestically. This made it the fourth highest-grossing film of the year, behind ''[[Beverly Hills Cop]]'', ''[[Ghostbusters]]'', and ''[[Indiana Jones and the Temple of Doom]]''.<ref name="box office">{{cite web | title=Gremlins | url=https://www.boxofficemojo.com/release/rl3126298113/weekend/ | work=[[Box Office Mojo]] | access-date=April 30, 2006 | archive-date=December 13, 2018 | archive-url=https://web.archive.org/web/20181213083855/https://www.boxofficemojo.com/movies/?id=gremlins.htm | url-status=live }}</ref> Since ''Gremlins'' had an international audience, different versions of the film were made to overcome cultural barriers. Mandel learned to speak his few intelligible lines, such as "Bright light!", in various languages, including German. Regional music and humor were also incorporated into foreign-language versions. Dante credited this work as being one of the factors that helped to make ''Gremlins'' a worldwide success.<ref name="DVD" />
+
+Discussing the film's violence, Dante later told reporters that "the idea of taking a 4-year-old to see ''Gremlins'', thinking it's going to be a cuddly, funny animal movie and then seeing that it turns into a horror picture, I think people were upset... They felt like they had been sold something family-friendly and it wasn't entirely family-friendly".<ref name="PG-13" />
+
+The film became available to audiences again when it was returned to theaters on August 30, 1985. This additional release brought its gross up to $153,083,102, making it [[Warner Bros. Pictures|Warner Bros.]]' most successful film at the time, a record that stood until ''[[Batman (1989 film)|Batman]]'' surpassed it in 1989.<ref name="box office" />
+
+By February 1985, the film had grossed $59.6 million internationally, including $17 million in Japan.<ref>{{cite magazine|magazine=[[Daily Variety]]|title='Gremlins' Hits In Int'l Marts|page=43|date=February 15, 1985}}</ref> It grossed a further $0.2 million in 2019,<ref name="box office" /> taking its worldwide gross to over $212.9 million.
+
+=== Critical response ===
+[[Roger Ebert]] approved of the film, awarding it three out of four and declaring it to not only be "fun", but also a "sly series of send-ups", effectively [[parody]]ing many elemental film storylines. In his opinion, ''Gremlins'' did this partly through depictions of mysterious worlds (the shop in Chinatown) and tyrannical elderly women (Mrs. Deagle). Ebert also believed the rule in which a ''mogwai'' cannot eat after midnight was inspired by [[fairy tale]]s, and that the final scenes parody classic horror films. He connected Kate's speech about her father with "the great tradition of 1950s [[Sick comedy|sick joke]]s".<ref name="Ebert">{{cite web |last=Ebert |first=Roger |date=June 8, 1984 |url=https://rogerebert.com/reviews/gremlins-1984 |title=Gremlins |work=Rogerebert.com |access-date=November 15, 2019 |archive-date=November 19, 2019 |archive-url=https://web.archive.org/web/20191119191054/https://www.rogerebert.com/reviews/gremlins-1984 |url-status=live }}</ref> [[Gene Siskel]] gave the film three-and-a-half out of four, describing it as "a wickedly funny and slightly sick ride", and "a most original work. We're aware at every moment that someone is trying to entertain us. Playfulness abounds."<ref>[[Gene Siskel|Siskel, Gene]] (June 8, 1984). "'Gremlins' rots the brain — delightfully". ''[[Chicago Tribune]]''. Section 5, p. 1, 2.</ref> ''[[Variety (magazine)|Variety]]'' declared, "Make room for adorable 'Gremlins' dolls on the shelves and start counting the take for another calculated audience pleaser from the Steven Spielberg-Frank Marshall-Kathleen Kennedy team. But that's all that's here in this showy display of technical talent, otherwise nearly heedless of dramatic concerns."<ref>{{cite journal |date=May 23, 1984 |title=Gremlins |journal=[[Variety (magazine)|Variety]] |page=12 }}</ref> 
+
+[[Vincent Canby]] of ''[[The New York Times]]'' was mixed, writing that the film "is far more interested in showing off its knowledge of movie lore and making random jokes than in providing consistent entertainment. Unfortunately, it's funniest when being most nasty."<ref>{{cite journal |last=Canby |first=Vincent |author-link=Vincent Canby |date=June 8, 1984 |title=Screen: 'Gremlins', Kiddie Gore |url=https://www.nytimes.com/1984/06/08/movies/screen-gremlins-kiddie-gore.html |journal=[[The New York Times]] |page=C10 |access-date=May 28, 2023}}</ref> [[Leonard Maltin]] disapproved of the film, and his view was made clear in remarks he made on the television show ''[[Entertainment Tonight]]''. He called the film "icky" and "gross".<ref name="Grant">{{cite journal |last=Grant |first=Edmond |date=October 1990 |title=''Gremlins 2'' |journal=Films in Review |volume=41 |issue=10 |pages=485–487}}</ref> He later wrote that despite being set in a "picture-[[postcard]] town" and blending the feel of ''[[It's a Wonderful Life]]'' (a clip of which appears in ''Gremlins'') with that of ''[[The Blob]]'', the film is "negated by too-vivid violence and mayhem"; giving the film two out of four.{{sfn|Maltin|2001|p=557}} Maltin later made a [[cameo appearance]] in ''Gremlins 2'', repeating his criticisms of the original on film, as an [[in-joke]], before being throttled by the creatures; he later gave the second film a more positive rating, three out of four.
+
+John Nubbin reviewed ''Gremlins'' for ''[[Different Worlds]]'' magazine and stated that "All in all, it is just another [[exploitation film]]. Trading on Spielberg's name and reputation, it is merely a money-maker - just another summer film which in the end has nothing to keep it in our memories past Thanksgiving."<ref name="dw36">{{cite journal | last = Nubbin |first = John | title = Film Reviews | journal = [[Different Worlds]] | issue = 36 | pages =44 |date=September–October 1984}}</ref> [[Colin Greenland]] reviewed ''Gremlins'' for ''[[Imagine (game magazine)|Imagine]]'' magazine, and stated that "Two or three good jokes, three or four neat scenes, lots of detail, but overall, a manic melee of pyrotechnics that made random grabs for my sympathy and failed to hold my attention, A bit more coherent thought, and who knows, it might have been something good."<ref name="Imagine24">{{cite journal | last = Greenland|first = Colin |author-link=Colin Greenland| title =Fantasy Media | type = review | journal = [[Imagine (AD&D magazine)|Imagine]] | issue = 24| pages =47 | publisher = TSR Hobbies (UK), Ltd. |date=March 1985| issn = }}</ref> One BBC critic wrote in 2000 that "the plot is thin and the pacing is askew", but nevertheless praised the film's use of [[dark humour]] and its contrast with the idyllic Christmas setting.<ref>{{cite web |last=Haflidason |first=Almar |date=2000 |title=Gremlins (1984) |url=https://www.bbc.co.uk/films/2000/12/15/gremlins_1984_review.shtml |url-status=live |archive-url=https://web.archive.org/web/20060617183903/http://www.bbc.co.uk/films/2000/12/15/gremlins_1984_review.shtml |archive-date=June 17, 2006 |access-date=April 29, 2006 |work=[[BBC]]}}</ref> In 2002, another critic wrote that in hindsight, ''Gremlins'' has "corny special effects" and that the film will tend to appeal to children more so than to adults; he also said the acting was dull.<ref>{{Cite web |last=French |first=Blake |date=2002 |title=Gremlins |url=http://www.filmcritic.com/misc/emporium.nsf/ddb5490109a79f598625623d0015f1e4/763408a278500cd788256c2b00838caf?OpenDocument |url-status=dead |archive-url=https://web.archive.org/web/20060523182636/http://www.filmcritic.com/misc/emporium.nsf/ddb5490109a79f598625623d0015f1e4/763408a278500cd788256c2b00838caf?OpenDocument |archive-date=May 23, 2006 |access-date=May 3, 2006 |website=filmcritic.com}}</ref>
+
+Despite the initial mixed criticism, ''Gremlins'' has continued to receive praise over the years and is considered by many critics to be one of the best films of 1984.<ref>{{cite web |title=The Greatest Films of 1984 |url=https://www.filmsite.org/1984.html |url-status=live |archive-url=https://web.archive.org/web/20100926221858/http://www.filmsite.org/1984.html |archive-date=September 26, 2010 |access-date=May 21, 2010 |website=[[AMC (TV channel)|AMC Filmsite.org]]}}</ref><ref>{{cite web |title=The 10 Best Movies of 1984 |url=http://www.mtv.com/news/movies/features/story/10-best-movies-of-1984/15492765/ |url-status=dead |archive-url=https://web.archive.org/web/20081204103324/http://www.film.com/features/story/10-best-movies-of-1984/15492765 |archive-date=December 4, 2008 |access-date=May 21, 2010 |website=[[RealNetworks|Film.com]]}}</ref> On [[review aggregator]] [[Rotten Tomatoes]], the film holds an approval rating of 86% based on 91 reviews. The website's critical consensus reads, "Whether you choose to see it as a statement on [[consumer culture]] or simply a special effects-heavy popcorn flick, ''Gremlins'' is a minor classic."<ref>{{cite web|url=https://www.rottentomatoes.com/m/gremlins|title=''Gremlins'' (1984)|website=[[Rotten Tomatoes]]|publisher=[[Fandango Media|Fandango]]|access-date=19 March 2026|archive-url=https://web.archive.org/web/20210223143643/https://www.rottentomatoes.com/m/gremlins|archive-date=February 23, 2021|url-status=live}}{{RT data|edit}}</ref> On [[Metacritic]], the film received a score of 70 based on 13 reviews.<ref>{{cite web | url= https://www.metacritic.com/movie/gremlins |title= ''Gremlins'' (1984) |website= [[Metacritic]]| access-date= 30 July 2022 }}</ref>
+
+=== Themes and interpretations ===
+While some critics criticized the film's depictions of violence and [[greed]]—such as death scenes, Kate's speech and the gremlins' [[gluttony]]—for lacking comic value, scholar Charlotte Miller instead interpreted these as a [[satire]] of "some characteristics of [[Western culture|Western civilization]]", suggesting that Westerners may take too much satisfaction from violence. ''Gremlins'' can also be interpreted as a statement against [[technology]], in that some characters, such as Billy's father, are overly dependent on it. In contrast, Mr. Wing is shown to have a strong distaste for television.<ref>{{cite journal |last=Miller |first=Charlotte |date=April 1985 |title=Using ''Gremlins'' to Teach Theme |journal=The English Journal |volume=74 |number=4 |page=69|doi=10.2307/817310 |jstor=817310 }}</ref> [[Kirkpatrick Sale]] also interpreted ''Gremlins'' as an [[anti-technology]] film in his book ''Rebels Against the Future''.{{sfn|Sale|p=240}}  Another scholar suggested that the film is meant to express a number of observations of society by having the gremlin characters shift in what they are meant to represent. At different times, they are depicted as [[teenager]]s, the wealthy establishment, and fans of [[The Walt Disney Company|Disney]] films.<ref name="Rosenbaum">{{cite journal |last=Rosenbaum |first=Jonathan |date=Autumn 1988 |title=Who Framed Roger Rabbit |journal=[[Film Quarterly]] |volume=42 |number=1 |page=37 |doi=10.2307/1212435 |jstor=1212435 |url=https://online.ucpress.edu/fq/article/42/1/33/39794/Review-Who-Framed-Roger-Rabbit-by-Robert-Zemeckis|url-access=subscription }}</ref>
+
+Another scholar drew a connection between the [[microwave]] scene and urban legends about pets dying in microwave ovens. He described the portrayal of this [[urban legend]] in the film as successful, but that meant it seemed terrible.<ref name="Doyle">{{cite journal |last=Doyle |first=Charles Clay |date=January 1988 |title=The Avenging Voice from the Depths |journal=Western Folklore |volume=47 |number=1 |pages=21–37 |doi=10.2307/1500053 |jstor=1500053 |doi-access=free }}</ref> This is indeed a scene that is thought of as being one of the film's most violent depictions; with even Roger Ebert expressing some fear in his review that the film might encourage [[Social learning theory|children to try similar things]] with their pets.<ref name="Ebert" /> Catherine Lester casts doubt on whether any children actually did [[imitation|attempt]] this as a result of seeing the film. Situating ''Gremlins'' in the children's [[horror genre]], she argues that child viewers are invited to identify with the gremlins themselves, whose [[rebellious]] behaviour may function as a source of subversive pleasure.<ref>{{Cite book |last=Lester |first=Catherine |title=Horror films for children: fear and pleasure in American cinema |date=2021 |publisher=Bloomsbury Academic |isbn=978-1-350-13526-0 |edition= |location=London |pages=51, 53}}</ref>
+
+Some commentators have interpreted the film as containing [[anti-colonial]] themes. In this reading, Randall Peltzer's acquisition of Gizmo from Mr. Wing is viewed as an act of [[Cultural appropriation|appropriation]], with the ensuing chaos resulting from the Peltzers' inability to understand or properly care for the creature. The film's conclusion, in which Mr. Wing reclaims Gizmo and criticizes the family's actions, has been interpreted as reinforcing the idea that Gizmo was removed from his original cultural context without adequate understanding or authority.<ref>{{cite web |title='Gremlins': The Underrated Christmas Movie |url=https://tribecafilm.com/news/gremlins-the-underrated-christmas-movie-steven-spielberg-howie-mandel |website=Tribeca |date=23 December 2013 |access-date=16 June 2026}}</ref>
+
+=== Accolades ===
+{| class="wikitable plainrowheaders sortable"
+|-
+! scope="col"| Award
+! scope="col"| Date of ceremony
+! scope="col"| Category
+! scope="col"| Recipient(s)
+! scope="col"| Result
+! scope="col" class="unsortable"| {{Abbr|Ref(s)|Reference(s)}}
+|-
+!scope="row" | [[Goldene Leinwand]]
+| rowspan="1" | March 27, 1985
+| Goldene Leinwand
+| [[Joe Dante]]
+| {{won}}
+| rowspan="1" | <ref>{{cite web |url=https://www.goldene-leinwand.de/filme/gremlins-kleine-monster/ |title=Gremlins – Kleine Monster |work=[[Goldene Leinwand]] |access-date=June 26, 2017 |archive-date=June 27, 2017 |archive-url=https://web.archive.org/web/20170627000136/https://www.goldene-leinwand.de/filme/gremlins-kleine-monster/ |url-status=live }}</ref>
+|-
+!scope="row" rowspan=9| [[Saturn Award]]s
+| rowspan="9" | [[12th Saturn Awards|June 9, 1985]]
+| [[Saturn Award for Best Horror Film|Best Horror Film]]
+!
+| {{won}}
+| rowspan="9" | <ref>{{cite news |date=February 22, 1985 |title='Gremlins' leads Saturn Award nominations |newspaper=[[Reno Gazette-Journal]] }}</ref><ref>{{cite web|url=http://www.saturnawards.org/past.html |title=Past Saturn Awards |publisher=[[Academy of Science Fiction, Fantasy and Horror Films]] |access-date=8 June 2007 |archive-url=https://web.archive.org/web/20070601200624/http://www.saturnawards.org/past.html |archive-date=1 June 2007}}</ref>
+|-
+| [[Saturn Award for Best Director|Best Director]]
+| Joe Dante
+| {{won}}
+|-
+| [[Saturn Award for Best Supporting Actor|Best Supporting Actor]]
+| [[Dick Miller]]
+| {{nom}}
+|-
+| [[Saturn Award for Best Supporting Actress|Best Supporting Actress]]
+| [[Polly Holliday]]
+| {{won}}
+|-
+| Best Younger Actor
+| [[Corey Feldman]]
+| {{nom}}
+|-
+| [[Saturn Award for Best Writing|Best Writing]]
+| [[Chris Columbus (filmmaker)|Chris Columbus]]
+| {{nom}}
+|-
+| [[Saturn Award for Best Music|Best Music]]
+| [[Jerry Goldsmith]]
+| {{won}}
+|-
+| [[Saturn Award for Best Special Effects|Best Special Effects]]
+| [[Chris Walas]]
+| {{won}}
+|-
+| Best Make-Up
+| Greg LaCava
+| {{nom}}
+|-
+!scope="row" rowspan=2| [[Young Artist Awards]]
+| rowspan="2" | [[6th Young Artist Awards|December 2, 1984]]
+| Best Family Motion Picture – Adventure
+!
+| {{won}}
+| rowspan="2" | <ref>{{cite web |url=https://www.youngartistawards.org/pastnoms6.htm |title=Sixth Annual Youth in Film Awards 1983–1984 |work=[[Young Artist Awards]] |access-date=May 6, 2016 |archive-url=https://web.archive.org/web/20160506135203/http://www.youngartistawards.org/pastnoms6.htm |archive-date=6 May 2016 |url-status=dead }}</ref>
+|-
+| Best Young Supporting Actor
+| Corey Feldman
+| {{nom}}
+|-
+|}
+
+=== Home media ===
+[[Warner Home Video]] released ''Gremlins'' on [[VHS]], [[CED Videodisc]], and [[Betamax]] on November 25, 1985.<ref>{{cite magazine |magazine=[[Daily Variety]] |title='Gremlins' Makes 4th Qtr. Three-Way Homevid Race|last=Birnbaum|first=Tom|page=1|date=September 16, 1985}}</ref> The film was released on [[DVD]] in 1997 in a bare bones presentation. It included both full screen and widescreen versions and the film's trailer. It was repackaged in August, 1999 with the same disc, but a different cover. On August 20, 2002, a "[[special edition]]" DVD was released, which featured [[Audio commentary|cast and filmmakers' commentary]] and [[deleted scene]]s. A 25th anniversary [[Blu-ray Disc|Blu-ray]] edition was released on December 1, 2009. The film was again released on home video in 4K Ultra HD on October 1, 2019.
+
+The film grossed $15.2 million in home sales on DVD and Blu-Ray.<ref>{{Cite web |title=Gremlins (1984) - Financial Information |url=https://www.the-numbers.com/movie/Gremlins |access-date=2023-12-23 |website=The Numbers}}</ref>
+
+== Merchandising ==
+=== Toys and collectibles ===
+With its commercial themes, particularly the [[cuteness]] of the character Gizmo, ''Gremlins'' became the center of considerable merchandising. Due to this, it became part of a rising trend in film, which had received a boost from Spielberg's ''[[E.T. the Extra-Terrestrial]]''.<ref name="DVD" /> Manufacturers including [[LJN]] produced versions of Gizmo as [[doll]]s or [[stuffed animal]]s, the latter of which became a popular high-demand toy during the [[holiday season]] of 1984. Both Gizmo and the gremlins were mass-produced as [[action figure]]s, and [[Topps]] printed [[trading card]]s based upon the film.<ref>[https://www.amazon.com/exec/obidos/tg/detail/-/B0000A1R4Q Gremlins Action Figure: Gizmo by NECA] {{Webarchive|url=https://web.archive.org/web/20160302110947/http://www.amazon.com/exec/obidos/tg/detail/-/B0000A1R4Q |date=March 2, 2016 }}, [[Amazon.com]], URL accessed April 30, 2006; [https://www.amazon.com/exec/obidos/tg/detail/-/B0000A1R4O Gremlins Action Figure: Poker Player by NECA] {{Webarchive|url=https://web.archive.org/web/20160302110952/http://www.amazon.com/exec/obidos/tg/detail/-/B0000A1R4O |date=March 2, 2016 }}, [[Amazon.com]], URL accessed April 30, 2006; [https://www.amazon.com/exec/obidos/tg/detail/-/B000EO5MRI Gremlins Movie Photo Trading Cards Box −36 Count by Topps] {{Webarchive|url=https://web.archive.org/web/20160302110954/http://www.amazon.com/exec/obidos/tg/detail/-/B000EO5MRI |date=March 2, 2016 }}," [[Amazon.com]]. Retrieved April 30, 2006.</ref>
+
+An interactive Gizmo [[Furby|Furby Friends]] toy was released in 1999.<ref>{{Cite web |title=Gremlins Electronic Interactive Gizmo |url=https://www.hasbro.com/common/instruct/Gremlins_Electronic_Interactive_Gizmo.pdf |website=Hasbro}}</ref>
+
+A product placement deal with fast food chain [[Hardee's]] also led to a series of five book-and-cassette/45 records adaptations of the film's story. Starting in the early 2000s, companies such as Jun Planning and the [[National Entertainment Collectibles Association]] produced all-new Gremlins toys and collectibles. In 2017 Trick or Treat Studios began producing official Gremlins life-size puppets of Stripe and Gizmo.<ref>{{Cite web |date=June 7, 2017 |title=Gremlins Halloween Props coming in August 2017 |url=http://animatronichalloween.com/gremlin-halloween-props-coming-in-august-2017/ |url-status=live |archive-url=https://web.archive.org/web/20171113003912/http://animatronichalloween.com/gremlin-halloween-props-coming-in-august-2017/ |archive-date=November 13, 2017 |access-date=2019-04-25 |website=AnimatronicHalloween.com |language=en-US}}</ref> In May 2019, [[National Entertainment Collectibles Association|NECA]] unveiled their Christmas 2019 collectible, which features two Gremlins singing carols.<ref>{{Cite web |first=John |last=Squires |url=https://bloody-disgusting.com/toys/3561422/neca-turned-gremlins-christmas-carol-scene-new-set-action-figures/ |title=NECA Turned the 'Gremlins' Christmas Carol Scene into a New Set of Action Figures! |work=Bloody Disgusting |date=May 15, 2019 |language=en-US |access-date=2019-05-27 |archive-date=May 27, 2019 |archive-url=https://web.archive.org/web/20190527193803/https://bloody-disgusting.com/toys/3561422/neca-turned-gremlins-christmas-carol-scene-new-set-action-figures/ |url-status=live }}</ref>
+
+A brick built [[Lego]] version of Gizmo was released in October 2025.<ref>{{Cite web |title=Gremlins™: Gizmo 21361 {{!}} Ideas {{!}} Buy online at the Official LEGO® Shop US |url=https://www.lego.com/en-us/product/gremlins-brick-built-gizmo-21361 |access-date=2026-08-19 |website=www.lego.com |language=en}}</ref>
+
+=== Books ===
+The screenplay was adapted into a [[novelization]] by [[George Gipe]], published by [[Avon Books]] in June 1984. The novel offered an origin for ''mogwai'' and gremlins as a prologue. Supposedly, ''mogwai'' were created as gentle, contemplative creatures by a scientist on an alien world. However, it was discovered their [[physiology]] was unstable. The result was only 1 in 10,000 ''mogwai'' would retain their sweet, loving demeanor. The rest would change into creatures the novel referred to as "mischievous". The minority ''mogwai'' (the 1 in 10,000) are immortal by human standards, though Gizmo explains to Stripe if he were to undergo the transformation himself, he would become like the others, "short lived and violent". This origin is unique to the novel but is referred to in the novelization of ''Gremlins 2'' by [[David Bischoff]]. No definitive origin for ''mogwai'' or gremlins is given in either ''Gremlins'' film. The novelization contains a subplot that was cut from the original film, where the [[National Guard (United States)|National Guard]] plans to neutralize the gremlins with fire hoses.{{citation needed|date=May 2022}}
+
+A comic book adaptation was published by [[Western Publishing]] in 1984.<ref>{{Cite web |title=Gremlins |url=https://www.keycollectorcomics.com/character/gremlins,12592/ |access-date=2025-05-26 |website=Key Collector Comics |language=en}}</ref>
+
+=== Video games ===
+{{Main|Gremlins (video game)}}
+
+{{anchor|gremlins_5200|gremlins_un|gremlins_vs}}
+==== Action-oriented video games ====
+Several officially licensed [[video game]]s based on the film have been produced. One of the first was ''[[Gremlins (video game)|Gremlins]]'', released by [[Atari, Inc.]] for their [[Atari 2600|2600]] console.
+
+Atari, Inc. released a completely different<ref name="atariprotos">{{cite web|url=http://www.atariprotos.com/5200/software/gremlins/gremlins.htm|title=AtariProtos.com – All Your Protos Are Belong To Us!|work=atariprotos.com|access-date=October 7, 2012|archive-date=November 26, 2012|archive-url=https://web.archive.org/web/20121126083856/http://www.atariprotos.com/5200/software/gremlins/gremlins.htm|url-status=live}}</ref> (and more technically advanced) game—also called ''Gremlins''—for the [[Atari 5200]] console and the [[Apple II]], [[Commodore 64]] and [[IBM PC compatible]] computers. Although the Atari 5200 version went to manufacturing in 1984, the turmoil surrounding [[Jack Tramiel]]'s takeover of Atari's consumer business resulted in it not being released until 1986.<ref name="atariprotos"/>
+
+In the 2000s, more games were released; ''Gremlins: Unleashed!'' was released on [[Game Boy Color]] in 2001. The game was about Gizmo trying to catch Stripe and thirty other gremlins, while the gremlins also try to turn Gizmo into a gremlin. Both Gizmo and Stripe are playable characters in the game.<ref>{{cite web|url=https://gamefaqs.gamespot.com/gbc/519130-gremlins-unleashed/images/screen-2|title=Gremlins: Unleashed|work=gamefaqs.com|access-date=December 7, 2020|archive-date=August 7, 2020|archive-url=https://web.archive.org/web/20200807064630/https://gamefaqs.gamespot.com/gbc/519130-gremlins-unleashed/images/screen-2|url-status=live}}</ref>
+
+In 2011 [[National Entertainment Collectibles Association|NECA]], published a Gremlins game for the [[Wii]] and [[Nintendo DS]] called ''Gremlins Gizmo''. This was developed by [[Pipeworks Software]] and was released on November 18, 2011.<ref>{{Cite web |last=Team |first=NECA |date=2011-11-15 |title=NECA Announces Gremlins Gizmo for Wii, Nintendo DS |url=https://necaonline.com/2011/11/neca-announces-gremlins-gizmo-for-wii-nintendo-ds/ |access-date=2024-08-10 |website=NECAOnline.com |language=en-US}}</ref>
+
+A Gremlins Team Pack was released for ''[[Lego Dimensions]]'' on November 18, 2016. The pack includes minifigures of Gizmo and Stripe, a constructible [[Polaroid Corporation|Polaroid]] [[camera]] and [[radio-controlled car]] and grants access to an Adventure World and Battle Arena based on the franchise. Howie Mandel and Frank Welker reprise their respective roles as Gizmo and Stripe.<ref>{{cite web |url=https://slashfilm.com/lego-dimensions-expansions-trailer/ |title=LEGO Dimensions Expansions Trailer: Harry Potter, Goonies, Gremlins & more |publisher=Slashfilm.com |date=2016-06-09 |access-date=2016-11-22 |archive-date=November 15, 2019 |archive-url=https://web.archive.org/web/20191115055748/https://www.slashfilm.com/lego-dimensions-expansions-trailer/ |url-status=live }}</ref><ref>{{cite web |url=https://cosmicbook.news/content/lego-dimensions-adds-fantastic-beasts-adventue-time-gremlins-sonic-et |title=LEGO Dimensions Adds Fantastic Beasts, Adventue Time, Gremlins, Sonic & ET |date=November 20, 2016 |publisher=Cosmic Book News |access-date=2016-11-22 |archive-date=January 26, 2021 |archive-url=https://web.archive.org/web/20210126090751/https://cosmicbook.news/content/lego-dimensions-adds-fantastic-beasts-adventue-time-gremlins-sonic-et |url-status=live }}</ref> In the [[platform fighter]] ''[[MultiVersus]]'', Gizmo and Stripe are playable characters, along with a map based on the theater shown in the film.<ref>{{cite web|url=https://www.eventhubs.com/news/2022/sep/02/gizmo-announced-shown-delayed-multiversus|title=Gizmo officially announced, shown, and delayed for ''MultiVersus''|date=September 2, 2022|access-date=September 3, 2022|archive-date=September 3, 2022|archive-url=https://web.archive.org/web/20220903172933/https://www.eventhubs.com/news/2022/sep/02/gizmo-announced-shown-delayed-multiversus/|url-status=live}}</ref><ref>{{cite web |last=McWhertor |first=Michael |title=''MultiVersus''{{'}} next fighters, Black Adam and Stripe, revealed |url=https://www.polygon.com/23303139/multiversus-season-1-characters-black-adam-stripe-gremlins |website=[[Polygon (website)|Polygon]] |publisher=VOX Media |access-date=August 15, 2022 |date=August 15, 2022 |archive-date=August 15, 2022 |archive-url=https://web.archive.org/web/20220815135300/https://www.polygon.com/23303139/multiversus-season-1-characters-black-adam-stripe-gremlins |url-status=live }}</ref>
+
+==== ''Gremlins: The Adventure'' ====
+{{anchor|gremlins_adv}}
+At the time of the film's release, an [[interactive fiction]] game based on scenes from the film, entitled ''Gremlins: The Adventure'' (1985), was released for various [[home computer]]s, including the [[Acorn Electron]], the [[BBC Micro]], the [[Commodore 64]] and the [[ZX Spectrum]]. The game was written by [[Brian Howarth]] for [[Adventure Soft]] and was text-based, with full-color illustrations on some formats.
+
+=== Miscellaneous ===
+In addition to this, ''Gremlins'' brand breakfast cereal was produced by Ralston concurrent to and for a few years after the first film was released in 1984. The front of the cereal box featured Gizmo, and inside were decals of the malevolent gremlins, including Stripe.<ref>{{cite web |title=Topher's Breakfast Cereal Character Guide |url=https://www.lavasurfer.com/cereal-ralston2.html |url-status=live |archive-url=https://web.archive.org/web/20080705040500/http://www.lavasurfer.com/cereal-ralston2.html |archive-date=July 5, 2008 |access-date=August 8, 2008 |website=LavaSurfer.com}}</ref>
+
+== ''Gremlins'' 1983 rough cut ==
+For many years, rumors existed of an extended cut of the film. On February 26, 2026, Joe Dante confirmed that not only did it exist, but he presented to The Gremlins Museum at www.gremlns.com a nearly 3-hour [[VHS]] copy of the film labeled ''11/23/83 – Gremlins 1st Assembly'' along with a second VHS labeled ''Gremlins outtakes'' that included an additional 40 minutes of deleted and alternate footage. The rough cut of the film, which has a runtime of 2 hours and 35 minutes (nearly an hour longer than the final theatrical cut), presents the film in its earliest form with longer and alternative takes, deleted plot points, larger character arcs, camera audio with animatronic puppet sounds which give the movie a completely different feel than the final released film. Some of the outtakes footage is made up of entirely unique sequences written and filmed but ultimately cut before the assembly stage however confirmed to exist for the first time are scenes of Barney the dog knocking over Mrs. Deagle's snowman and full Mogwai walking shots. 
+
+The Gremlins Museum cannot distribute the film without the permission of Warner Bros. Pictures and Amblin Entertainment and mentioned how they would like to have a special screening of the rough cut, however, it would likely need Dante to help sanction a screening. "I also think Warner Bros. Archives could consider it as a standalone release or potentially include it in a future [[Blu-ray]] set with ''Gremlins 3'' around the corner. This rough cut is, without question, worthy of all these options and seeing it will be an extremely emotional experience for many Gremlin fans" the museum said. Despite being unable to show the footage to the public, the website has started to upload information along with some still images from the VHS.<ref>{{Cite web |title=The Gremlins Rough Cut |url=https://www.gremlns.com/gremlins-rough-cut/# |access-date=2026-03-04 |website=gremlns.com}}</ref><ref>{{Cite web |title=Gremlins: A 3-Hour Cut of Joe Dante's Classic Film Exponentially Ups Mogwai Madness (DETAILS)|url=https://www.syfy.com/syfy-wire/gremlins-three-hour-cut-of-joe-dante-classic-ups-mogwai-madness|access-date=2026-03-04 |website=syfy.com}}</ref>
+
+== Sequels and animated prequel series ==
+{{main|Gremlins (franchise)}}
+
+After the commercial success it was followed by a sequel, ''[[Gremlins 2: The New Batch]]'' in 1990. The film was not as successful as the first, and further films were not planned.
+
+In January 2013, Vulture reported that Warner Bros. was negotiating with Amblin Entertainment to reboot the ''Gremlins'' franchise.<ref>{{cite web |last=Brodesser-Akner |first=Claude |date=January 16, 2013 |title=Warner Bros. Looking to Breed Gremlins Again |url=https://vulture.com/2013/01/warner-bros-looking-to-breed-gremlins-again-reboot.html |url-status=live |archive-url=https://web.archive.org/web/20170421181915/http://www.vulture.com/2013/01/warner-bros-looking-to-breed-gremlins-again-reboot.html |archive-date=April 21, 2017 |access-date=November 22, 2016 |work=Vulture |publisher=New York Media LLC}}</ref> [[Seth Grahame-Smith]] was selected to produce, alongside David Katzenberg.<ref>{{cite web |last=Miska |first=Brad |date=May 13, 2013 |title=Exclusive: 'Gremlins' Reboot Has Seth Grahame-Smith Snacking After Midnight! |url=https://bloody-disgusting.com/news/3232653/exclusive-gremlins-reboot-has-seth-grahame-smith-snacking-after-midnight/ |url-status=live |archive-url=https://web.archive.org/web/20161207182045/http://bloody-disgusting.com/news/3232653/exclusive-gremlins-reboot-has-seth-grahame-smith-snacking-after-midnight/ |archive-date=December 7, 2016 |access-date=November 22, 2016 |work=Bloody Disgusting!}}</ref> In January 2015, Grahame-Smith stated that the project has been put on hold.<ref>{{cite web |last=Maidy |first=Alex |date=January 16, 2015 |title=Seth Grahame-Smith says the Gremlins reboot is in a holding pattern |url=https://joblo.com/movie-news/seth-grahame-smith-says-the-gremlins-reboot-is-in-a-holding-pattern-206 |url-status=dead |archive-url=https://web.archive.org/web/20170531183854/http://www.joblo.com/movie-news/seth-grahame-smith-says-the-gremlins-reboot-is-in-a-holding-pattern-206 |archive-date=May 31, 2017 |access-date=November 22, 2016 |work=JoBlo |publisher=JoBlo Media, Inc.}}</ref> In November 2015, [[Zach Galligan]] confirmed that the third film would be a sequel and not a reboot.<ref>{{cite web |last=Brew |first=Simon |date=November 27, 2015 |title=Gremlins 3 won't be a remake or reboot |url=https://denofgeek.com/movies/gremlins/38022/gremlins-3-wont-be-a-remake-or-reboot |url-status=dead |archive-url=https://web.archive.org/web/20160201152406/http://www.denofgeek.com/movies/gremlins/38022/gremlins-3-wont-be-a-remake-or-reboot |archive-date=February 1, 2016 |access-date=November 22, 2016 |work=Den of Geek |publisher=Dennis Publishing, Ltd.}}</ref> In a December 2016 interview with ''Bleeding Cool'', Galligan again spoke about a third film saying that "Warner Bros. definitely wants it, Chris Columbus wants to do it because he'd like to undo the ''Gremlins 2'' thing as he wasn't thrilled with it, and Spielberg wants to." He claimed ''Gremlins 3'' is being written by Carl Ellsworth.<ref>{{cite web |last=Squires |first=John |date=December 27, 2016 |title=Zach Galligan Offers 'Gremlins 3' Update; "Warner Bros. Definitely Wants It" |url=https://bloody-disgusting.com/news/3419325/zach-galligan-offers-gremlins-3-update-warner-bros-definitely-wants/ |url-status=live |archive-url=https://web.archive.org/web/20161228023207/http://bloody-disgusting.com/news/3419325/zach-galligan-offers-gremlins-3-update-warner-bros-definitely-wants/ |archive-date=December 28, 2016 |access-date=December 27, 2016 |work=Bloody Disgusting}}</ref> In an interview with ''[[/Film]]'' in 2017, a script was written by Chris Columbus. His script explored the idea that has been on the fan's mind for a long time: "if all the gremlins come from getting Gizmo wet and feeding his mogwai offspring after midnight, should Gizmo be eliminated?" He described his script as "twisted and dark".<ref>{{cite news |author=Topel |first=Fred |date=August 15, 2017 |title=Exclusive: 'Gremlins 3' Has a "Twisted and Dark" Screenplay Says Writer Chris Columbus |work=[[/Film]] |url=https://slashfilm.com/gremlins-3-has-been-written/ |url-status=live |access-date=September 7, 2017 |archive-url=https://web.archive.org/web/20170901105542/http://www.slashfilm.com/gremlins-3-has-been-written |archive-date=September 1, 2017}}</ref> In November 2020, Columbus stated that CGI would not be used for the gremlins and that traditional puppets and animatronics would continue to be used.<ref>{{cite web |last=Lovett |first=Jamie |date=November 23, 2020 |title=Gremlins 3 Writer Reveals Creatures Will Not Be CGI |url=https://comicbook.com/movies/news/gremlins-3-not-cgi-puppets-chris-columbus/ |access-date=March 8, 2021 |website=Comicbook.com}}</ref>
+
+In 2019, Warner Bros. successfully gained registered trademark of the name and the franchise.<ref>{{cite web |url=https://trademarks.justia.com/877/28/gremlins-87728373.html |last=Jackson |first=Christopher |date=January 22, 2019 |title=Gremlins – Trademark Details |work=[[Justia]] |access-date=August 23, 2019 |archive-date=May 26, 2019 |archive-url=https://web.archive.org/web/20190526215130/https://trademarks.justia.com/877/28/gremlins-87728373.html |url-status=live }}</ref> That same year, the studio's parent company [[WarnerMedia]] greenlit an [[Gremlins (TV series)|animated prequel series]] based on the property for its streaming service, [[Max (streaming service)|Max]].<ref>{{cite web |url=https://www.hollywoodreporter.com/live-feed/gremlins-animated-series-works-warnermedia-streaming-service-1190404 |title='Gremlins' Animated Series in Development for WarnerMedia Streaming Service |first=Rick |last=Porter |work=[[The Hollywood Reporter]] |date=February 25, 2019 |access-date=May 26, 2019 |archive-date=May 26, 2019 |archive-url=https://web.archive.org/web/20190526215253/https://www.hollywoodreporter.com/live-feed/gremlins-animated-series-works-warnermedia-streaming-service-1190404 |url-status=live }}</ref> The first season, subtitled ''Secrets of the Mogwai'', premiered on May 23, 2023. The series was renewed for a second season, subtitled ''The Wild Batch'', which was released on October 3, 2024.<ref>{{cite web |url=https://www.animationmagazine.net/2024/06/gremlins-the-wild-batch-s2-to-wreak-havoc-on-max-this-fall/ |title='Gremlins: The Wild Batch' S2 to Wreak Havoc on Max This Fall |website=Animation Magazine |first=Ramin |last=Zahed |date=June 7, 2024 |access-date=June 21, 2024}}</ref>
+
+In January 2025, it was reported by [[Deadline Hollywood|Deadline]] that Warner Bros. was developing a third ''Gremlins'' movie written by Chris Columbus who also was writing a sequel to ''[[The Goonies]]''. Nothing official has been confirmed by Warner Bros. about a sequel for either film being planned.<ref>{{cite web|url=https://deadline.com/2025/01/warner-bros-executive-exits-2025-movies-1236256895/|title=Why Warner Bros Shook Up Its Feature Exec Ranks As It Braces For An Auteur-Driven 2025 Slate|website=Deadline|last=D'Alessandro|first=Anthony|date=January 15, 2025|access-date=February 5, 2025}}</ref> By November of that year, a sequel was announced with Columbus and Spielberg returning as director and executive producer respectively and would be released on November 19, 2027.<ref>{{cite web|url= https://variety.com/2025/film/news/gremlins-3-release-date-november-2027-1236571272/|title='Gremlins 3' Movie Sets November 2027 Release Date|website=Variety|date=November 6, 2025|access-date=November 6, 2025}}</ref>
+
+== Legacy ==
+[[File:Mogwai graffiti, Honk Oss.jpg|thumb|Mogwai depicted in [[street art]] ([[Oss]], Netherlands)]]
+The film not only spawned the sequel (another sequel is scheduled for a November 2027 release) and an advertisement for [[BT Group|British Telecom]],<ref>{{cite news | url=https://www.theguardian.com/media/video/2008/apr/30/dragons.den.gremlins.bt | title=It's Dragon v Gremlins in BT ad | work=The Guardian | publisher=Guardian.co.uk | date=April 30, 2008 | access-date=November 22, 2016 | archive-date=January 10, 2017 | archive-url=https://web.archive.org/web/20170110093054/https://www.theguardian.com/media/video/2008/apr/30/dragons.den.gremlins.bt | url-status=live }}</ref> but is believed to have been the inspiration for several unrelated films about small monsters. These include ''[[Ghoulies]]'',<ref name="Doyle" /> ''[[Troll (1986 film)|Troll]]'',{{sfn|Maltin|2001|p=1141}} ''[[Hobgoblins (film)|Hobgoblins]]''<ref>{{cite web | first=Jason | last=Gibner | title=Hobgoblins | url=https://allmovie.com/movie/hobgoblins-v22679 | work=[[Allmovie]] | publisher=RhythmOne | access-date=November 22, 2016 | archive-date=November 22, 2016 | archive-url=https://web.archive.org/web/20161122222956/http://www.allmovie.com/movie/hobgoblins-v22679 | url-status=live }}</ref> and ''[[Munchies (film)|Munchies]]''.<ref>{{cite news |last=O'Toole |first=Lawrence |date=January 16, 1987 |title=NY CLIPS Nell says no to fashion king and Warren's spoon is hot |newspaper=[[The Globe and Mail]] |page=D.6}}</ref>
+
+In music, the Scottish post-rock band [[Mogwai]] is named after the film's creatures: as for the reason why the band chose this as their name, their guitarist, Stuart Braithwaite, has stated that "it has no significant meaning and we always intended on getting a better one, but like a lot of other things we never got round to it".<ref>{{cite web |title=Mogwai Band FAQ |url=http://www.mogwai.co.uk/words/Frequently_Asked_Questions/Frequently_Asked_Questions/ |url-status=dead |archive-url=https://web.archive.org/web/20060421044521/http://www.mogwai.co.uk/words/Frequently_Asked_Questions/Frequently_Asked_Questions/ |archive-date=April 21, 2006 |access-date=April 12, 2010 |website=Mogwai.co.uk}}</ref> Welsh singer and songwriter Rod Thomas performs under the name [[Bright Light Bright Light]], which is a direct quote from the film.<ref name="Guardian">{{cite web | first=Michael | last=Cragg | title=New music: Bright Light Bright Light – Disco Moment | url=https://www.theguardian.com/music/musicblog/2011/jun/30/new-music-bright-light-disco-moment | work=The Guardian | publisher=Guardian.co.uk | date=June 30, 2011 | access-date=December 27, 2012 | archive-date=January 1, 2014 | archive-url=https://web.archive.org/web/20140101122714/http://www.theguardian.com/music/musicblog/2011/jun/30/new-music-bright-light-disco-moment | url-status=live }}</ref>
+
+On November 18, 2016, both Gizmo and Stripe made appearances in ''[[Lego Dimensions]]'' as playable characters in their own Team Pack. Many of the other in-game playable characters, such as [[Supergirl]], acknowledge the duo's rules and they each have their own unique abilities and weaponry; Gizmo having a radio-controlled car inspired by the toy car he piloted in the film's climax and Stripe having a camera-like gadget inspired by the ones manufactured by Polaroid Corporation, one of which Kate Beringer armed herself with during the gremlins' attack on Dorry's Tavern. Both Mandel and Welker returned to reprise their respective roles.
+
+In 2017, some gremlins were featured in the animated film ''[[The Lego Batman Movie]]'', with its director, [[Chris McKay]], explaining his love for the characters. These gremlins were among numerous villains from outside of the ''[[Batman]]'' franchise playing a role in the film, with many of the added antagonists owned by Warner Bros.<ref>{{cite web | first=Clarisse | last=Loughrey | title=The LEGO Batman Movie nearly included some very different villains | url=https://www.independent.co.uk/arts-entertainment/films/news/the-lego-batman-movie-different-villains-moriarty-sherlock-daniel-day-lewis-a7578901.html | work=[[The Independent]] | date=February 14, 2017 | access-date=April 28, 2017 | archive-date=April 29, 2017 | archive-url=https://web.archive.org/web/20170429044748/http://www.independent.co.uk/arts-entertainment/films/news/the-lego-batman-movie-different-villains-moriarty-sherlock-daniel-day-lewis-a7578901.html | url-status=live }}</ref>
+
+In February 2021, a [[Mountain Dew]] Zero Sugar ad featuring Zach Galligan as Billy Peltzer and Gizmo was released, which also revealed that Billy has a daughter.<ref>{{Cite web|url=https://m.youtube.com/watch?v=Teep-y_wjXA |archive-url=https://ghostarchive.org/varchive/youtube/20211221/Teep-y_wjXA |archive-date=2021-12-21 |url-status=live|title=MTN Dew Zero Sugar Gremlins &#124; Rule #4 &#124; Must be Refreshing After Midnight|website=[[YouTube]] }}{{cbignore}}</ref>
+
+Also in 2021, a trio of Gremlins including Stripe appear in ''[[Space Jam: A New Legacy]]''.<ref>{{cite web |date=July 20, 2021 |title=Here Are 45 Easter Eggs From The New "Space Jam" Movie — See Which Ones You Missed |url=https://www.yahoo.com/lifestyle/45-easter-eggs-space-jam-232922724.html |access-date=27 July 2021 |website=Yahoo.com}}</ref> They were shown running towards the site of the basketball game between the Tune Squad and the Goon Squad and can be seen cheering from on top of the blue Bronto-Crane from ''[[The Flintstones]]''.
+
+Both Gizmo and Stripe appear as playable characters in the 2022 fighting game ''[[MultiVersus]]'', voiced by [[Daniel Ross (actor)|Daniel Ross]].<ref>{{cite web|url=https://www.pcgamer.com/gizmo-and-stripe-are-coming-to-multiversus-and-are-two-separate-characters/|title=Gizmo and Stripe are coming to Multiversus and are 'two separate characters'|first=Imogen|last= Mellor |work=[[PC Gamer]]|date=September 2, 2022|access-date=June 8, 2023}}</ref>
+
+Both Gizmo and the sequel's Brain Gremlin appear in the ''[[Teen Titans Go!]]'' episode, "Warner Bros. 100th Anniversary" as supporting characters.
+
+Stripe appears as a finished pixel art puzzle solution in the ''[[Picross]]'' game series for the Nintendo Switch, Found in Picross S4 as Puzzle P042.
+
+== See also ==
+* [[Warner Bros. Classics & Great Gremlins Adventure]] (a.k.a. Gremlins Invasion), two defunct amusement rides themed after the film
+* [[List of holiday horror films]]
+* [[List of Christmas films]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* {{cite book |last=Bilstein |first=Roger E. |date=2001 |title=Flight in America: From the Wrights to the Astronauts |location=Baltimore |publisher=Johns Hopkins University Press |isbn=0-8018-6685-5 |url=https://archive.org/details/flightinamericaf00bils }}
+* {{cite book |last=Maltin |first=Leonard |date=2001 |title=Leonard Maltin's 2002 Movie & Video Guide |publisher=A Signet Book }}
+* {{cite book |last=Sale |first=Kirkpatrick |title=Rebels Against the Future |publisher=Quartet Books }}
+
+== Further reading ==
+*{{Cite news |last=Siegel |first=Alan |date=2024-06-06 |title=Creature Feature: The Oral History of 'Gremlins' |url=https://www.theringer.com/movies/2024/6/6/24171434/gremlins-movie-oral-history-gizmo |access-date=2024-09-18 |website=The Ringer |language=en}}
+
+== External links ==
+* {{commons category-inline|Gremlins (film)|''Gremlins'' (film)}}
+* {{wikiquote-inline|Gremlins|''Gremlins''}}
+* {{IMDb title}}
+* {{Mojo title}}
+* {{Rotten Tomatoes}}
+* {{TCMDb title}}
+
+{{Gremlins}}
+{{Joe Dante}}
+{{Chris Columbus}}
+{{Saturn Award for Best Horror Film 1972–1990}}
+
+[[Category:Gremlins (franchise)]]
+[[Category:1980s Christmas comedy films]]
+[[Category:1980s Christmas horror films]]
+[[Category:1980s dark fantasy films]]
+[[Category:1984 fantasy comedy films]]
+[[Category:1980s monster movies]]
+[[Category:1984 American films]]
+[[Category:1984 black comedy films]]
+[[Category:1984 comedy horror films]]
+[[Category:1984 English-language films]]
+[[Category:Amblin Entertainment films]]
+[[Category:American black comedy films]]
+[[Category:American Christmas comedy films]]
+[[Category:American Christmas horror films]]
+[[Category:American comedy horror films]]
+[[Category:American dark fantasy films]]
+[[Category:American fantasy comedy films]]
+[[Category:American monster movies]]
+[[Category:English-language Christmas comedy films]]
+[[Category:English-language comedy horror films]]
+[[Category:English-language fantasy comedy films]]
+[[Category:Films about gremlins]]
+[[Category:Films adapted into television shows]]
+[[Category:Films based on Chinese myths and legends]]
+[[Category:Films based on European myths and legends]]
+[[Category:Films directed by Joe Dante]]
+[[Category:Films scored by Jerry Goldsmith]]
+[[Category:Films set in cinemas and movie theaters]]
+[[Category:Films set in New York (state)]]
+[[Category:Films shot in Los Angeles]]
+[[Category:Films using stop-motion animation]]
+[[Category:Films with screenplays by Chris Columbus (filmmaker)]]
+[[Category:Puppet films]]
+[[Category:Rating controversies in film]]
+[[Category:Saturn Award–winning films]]
+[[Category:Warner Bros. films]]

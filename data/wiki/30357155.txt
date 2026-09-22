@@ -1,0 +1,67 @@
+{{Infobox film
+| image          = Kazoku where spring comes late 1970.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[Yoji Yamada]]
+| producer       = 
+| writer         = 
+| screenplay     = Yoji Yamada<br />Akira Miyazaki
+| story          =
+| based_on       = 
+| narrator       = 
+| starring       = [[Chieko Baisho]] <br> [[Hisashi Igawa]] <br> [[Chishū Ryū]]
+| music          = 
+| cinematography = 
+| editing        = 
+| studio         = [[Shochiku]]
+| distributor    = 
+| released       = {{Film date|1970|10|24}}
+| runtime        = 106 minutes
+| country        = Japan
+| language       = Japanese
+| budget         = 
+| gross          = 
+}}
+{{Nihongo|'''''Where Spring Comes Late'''''|家族|Kazoku|lead=yes}}, also known as '''''The Family''''', is a 1970 Japanese film directed by [[Yoji Yamada]].<ref>{{cite web|url=http://www.kinejun.jp/cinema/id/19376|script-title=ja:家族|access-date=2011-10-22|work=[[Kinema Junpo]] Film Database|language=ja|archive-date=2012-08-04|archive-url=https://archive.today/20120804184955/http://www.kinejun.jp/cinema/id/19376|url-status=dead}}</ref>
+
+== Plot ==
+The Kazami family live on the island of [[Iōjima, Nagasaki]], where Seiichi Kamazi works in a coal mine. With the coal mine closing, Seiichi decides to move to [[Hokkaido]] and become a dairy farmer. The family rides the train between the two islands (a roughly 3,000-mile journey). Along the way, they stop in [[Fukuyama, Hiroshima|Fukuyama]], where Seiichi's brother Tsutomu lives, [[Osaka]], where they attend [[Expo '70]], and [[Tokyo]]. In Tokyo, the family's youngest daughter passes away. Genzō, Seiichi's father, reaches Hokkaido but passes away shortly after. He is buried in a Catholic ceremony. Despite Seiichi's misgivings, Tamiko (his wife) convinces him to stay and forge a new life for themselves.
+
+==Cast==
+* [[Chieko Baisho]] as Tamiko Kazami
+* [[Hisashi Igawa]] as Seiichi Kazami
+* [[Chishū Ryū]] as Genzō Kazami
+* [[Gin Maeda]]
+* [[Hiroshi Inuzuka]] as Comedian
+* [[Kiyoshi Atsumi]]
+* [[Shūichi Ikeda]]
+
+==Awards==
+'''25th [[Mainichi Film Award]]'''<ref>{{cite web |title=Japan-movie |script-title=ja:25 1970年 |url=http://www.japan-movie.net/about/history25.html |url-status=usurped |archive-url=https://web.archive.org/web/20080120185016/http://www.japan-movie.net/about/history25.html |archive-date=20 January 2008 |access-date=2011-01-07 |publisher=japan-movie.net |language=ja}}</ref>
+*'''Won''': [[Mainichi Film Award for Best Film|Best Film]]
+
+== Criticism ==
+Scholar Yoshikuni Igarashi called the film "a declaration of war against the regime of the high-growth economy." He views Seiichi's journey as motivated by his desire to maintain economic independence.<ref>{{Cite book |last=Igarashi |first=Yoshikuni |title=Japan, 1972: Visions of Masculinity in an Age of Mass Consumerism |publisher=Columbia University Press |year=2021 |isbn=9780231551380 |location=New York |pages=88, 91 |language=English }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0067296|Kazoku}}
+
+{{Yoji Yamada}}
+{{Navboxes
+|title = Awards
+|list =
+{{Mainichi Film Award for Best Film}}
+{{Kinema Junpo Award for Best Film}}
+}}
+
+[[Category:1970 films]]
+[[Category:Best Film Kinema Junpo Award winners]]
+[[Category:Films directed by Yoji Yamada]]
+[[Category:Films with screenplays by Yôji Yamada]]
+[[Category:1970 Japanese films]]
+
+
+{{1970s-Japan-film-stub}}

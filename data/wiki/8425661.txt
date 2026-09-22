@@ -1,0 +1,416 @@
+{{short description|2008 film by Phyllida Lloyd}}
+{{Use American English|date=January 2023}}
+{{Use mdy dates|date=May 2026}}
+{{Infobox film
+| image          = Mamma Mia (2008) US poster.jpg
+| alt            = <!-- description needed see [[WP:ALT]] -->
+| caption        = North American theatrical release poster
+| director       = [[Phyllida Lloyd]]
+| screenplay     = [[Catherine Johnson (playwright)|Catherine Johnson]]
+| based_on       = {{Based on|''[[Mamma Mia! (musical)|Mamma Mia!]]''|Catherine Johnson}}
+| producer       = {{Plainlist|
+* [[Judy Craymer]]
+* [[Gary Goetzman]]
+}}<!--only producers, executive producers should be in prose-->
+| starring       = {{Plainlist|
+* [[Meryl Streep]]
+* [[Pierce Brosnan]]
+* [[Colin Firth]]
+* [[Stellan Skarsgård]]
+* [[Julie Walters]]
+* [[Dominic Cooper]]
+* [[Amanda Seyfried]]
+* [[Christine Baranski]]
+}}
+| cinematography = [[Haris Zambarloukos]]
+| editing        = [[Lesley Walker]]
+| music          = {{Plainlist|
+* [[Benny Andersson]]
+* [[Björn Ulvaeus]]
+}}
+| studio         = {{Plainlist|
+* [[Universal Pictures]]<ref name="AFI">{{Cite web |title=''MAMMA MIA!'' (2008) |url=https://catalog.afi.com/Catalog/MovieDetails/64692 |url-status=live |archive-url=https://web.archive.org/web/20200526161619/https://catalog.afi.com/Catalog/MovieDetails/64692 |archive-date=May 26, 2020 |access-date=July 19, 2026 |website=[[AFI Catalog of Feature Films]] |publisher=[[American Film Institute]]}}</ref><ref name="BFI">{{Cite web |title=''Mamma Mia!'' (2008) |url=https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150742379 |url-status=live |archive-url=https://web.archive.org/web/20190719040056/http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150742379 |archive-date=July 19, 2019 |access-date=July 19, 2026 |website=[[British Film Institute]]}}</ref><ref name="ScreenDailyReview">{{Cite web |last=Goodridge |first=Mike |date=June 30, 2008 |title=Mamma Mia! The Movie |url=https://www.screendaily.com/mamma-mia-the-movie/4039643.article |url-status=live |archive-url=https://web.archive.org/web/20151227233547/https://www.screendaily.com/mamma-mia-the-movie/4039643.article |archive-date=December 27, 2015 |access-date=July 19, 2026 |website=[[Screen Daily]]}}</ref>
+* [[Relativity Media]]<ref name="BFI" /><ref name="ScreenDailyReview" />
+* [[Playtone]]<ref name="BFI" /><ref name="ScreenDailyReview" />
+* Littlestar Productions<ref name="BFI" /><ref name="ScreenDailyReview" />
+}}
+| distributor    = Universal Pictures<ref name="AFI" /><ref name="BFI" /><ref name="ScreenDailyReview" />
+| released       = {{Film date|2008|6|30|[[Leicester Square]]|2008|7|10|United Kingdom|2008|7|18|United States}}
+| runtime        = 109 minutes<ref name="BBFC">{{Cite web |title=''Mamma Mia!'' (PG) |url=https://www.bbfc.co.uk/release/mamma-mia-q29sbgvjdglvbjpwwc0znjizmta |website=[[British Board of Film Classification]] |access-date=December 17, 2025}}</ref><!--Theatrical running time 108:32-->
+| country        = {{plainlist|
+* United States
+* United Kingdom{{Efn|''Mamma Mia!'' is listed as a production of both the United States and United Kingdom, attributed to multiple sources: <ref name="AFI" /><ref name="BFI" /><ref name="ScreenDailyReview" /><ref name="LUMIERE">{{Cite web |title=''Mamma Mia!'' (2008) |url=https://lumiere.obs.coe.int/movie/28484 |url-status=live |archive-url=https://web.archive.org/web/20251105055758/https://lumiere.obs.coe.int/movie/28484 |archive-date=November 5, 2025 |access-date=July 19, 2026 |website=[[Lumiere (database)|Lumiere]] |publisher=[[European Audiovisual Observatory]]}}</ref>}}
+}}
+| language       = English
+| budget         = $52 million<ref name="BOM"/>
+| gross          = $706.4 million<ref name="BOM"/>
+}}
+'''''Mamma Mia!''''' (promoted as '''''Mamma Mia! The Movie''''') is a 2008 [[jukebox musical]] [[romantic comedy]] film directed by [[Phyllida Lloyd]] and written by [[Catherine Johnson (playwright)|Catherine Johnson]], based on her book from [[Mamma Mia! (musical)|the 1999 musical]]. The film features an [[ensemble cast]], including [[Meryl Streep]], [[Pierce Brosnan]], [[Colin Firth]], [[Stellan Skarsgård]], [[Julie Walters]], [[Dominic Cooper]], [[Amanda Seyfried]], and [[Christine Baranski]]. The film follows a young bride-to-be named Sophie who invites three men to her upcoming wedding, with the possibility that any of them could be her real father.
+
+[[Principal photography]] primarily took place on the Greek island of [[Skopelos]] from August to September 2007, with [[ABBA]] members [[Benny Andersson]] and [[Björn Ulvaeus]] composing the film's score. ''Mamma Mia!'' premiered at the [[Leicester Square]] in [[London]] on June 30, 2008, before being released in the United Kingdom on July 10, and in the United States on July 18, by [[Universal Pictures]]. It received mixed reviews from critics and was a box-office success, grossing $706.4 million worldwide on a $52{{nbsp}}million budget, becoming the [[2008 in film#Highest-grossing films|fifth highest-grossing film of 2008]]. A sequel, titled ''[[Mamma Mia! Here We Go Again]]'', was released on July 20, 2018, with much of the cast returning.
+
+== Plot ==
+<!-- Per [[WP:FILMPLOT]], plot summaries are to be between 400-700 words. -->
+On the fictional Greek island of Kalokairi ({{langnf|el||summer}}), bride-to-be Sophie Sheridan reveals to her bridesmaids that she has secretly invited three men to her wedding without telling her mother, Donna: Irish-American architect Sam Carmichael, Swedish travel writer Bill Anderson, and British banker Harry Bright. One of the three is Sophie's biological father, though she doesn't know which, and she wants him to give her away at the wedding; she believes that after spending time with each of them, she will learn who fathered her.
+
+When the three men arrive at Kalokairi, Sophie explains she sent the wedding invitations, not Donna, but does not reveal that she believes one of them is her father. She hides the men in Donna's goat house, and they hesitantly agree not to reveal themselves yet, as it is a surprise.
+
+As Donna is working on the goat house, she spies on them. Dumbfounded to find herself facing her former lovers, she demands they leave. Donna confides in her old friends Tanya and Rosie, who have also arrived for the wedding, that she truly does not know which of the three fathered Sophie.
+
+Sophie finds the men aboard Bill's sailboat and they sail around Kalokairi, with the men bonding with Sophie and telling her stories of Donna's carefree youth. Sophie attempts to tell her fiancé Sky about her ploy but loses her nerve.
+
+At Sophie's bachelorette party, Donna is distressed by the three men's presence, but Rosie and Tanya assure her that they will take care of them.
+Sophie talks with each man alone.
+* Bill learns that Donna received the money for her villa from his great-aunt Sofia whereas he had understood the money was bequeathed "to family"; as a result, they believe he is her father and she asks him to give her away but keep their secret until the wedding.
+* Sam deduces (rightly or wrongly) that he is her father and asks who is giving her away. She says "no-one" and Sam offers. They agree to keep it a secret until the wedding.
+* Harry similarly deduces (rightly or wrongly) and states that he'll walk her down the aisle, giving her no chance to decline.
+
+In the morning, Donna attempts to comfort Sophie and offers to cancel the wedding; Sophie reacts angrily, saying she wants to avoid her mother's mistakes. Sam attempts to discuss the wedding with Donna, and both realize they still have feelings for each other. Sophie admits her actions to Sky and asks for his help, but he reacts angrily to her deception.
+
+As they prepare for the wedding Donna admits to Sophie that her mother disowned her after she got pregnant, but she could not be more proud of having her. Sophie then asks Donna to give her away, to which Donna happily agrees.
+
+As the bridal party and guests enter the chapel Sam intercepts Donna, who reveals the pain she felt over losing him. At the wedding, Sam reveals that he had ended his engagement, but returned to find Donna had gone off with another man (Bill).
+
+The three men agree with Sophie that they do not want the paternity confirmed, each agreeing to be one-third of a father for Sophie. Sophie suggests to Sky that they postpone their wedding and travel the world. Sam proposes to Donna, revealing that he is divorced and has always loved her. She happily accepts and they marry on the spot.
+
+== Cast ==
+[[Image:ABBA 2008 Av Daniel Åhs.jpg|thumb|300px|[[ABBA]] appeared together with the film's cast and crew in 2008. (Left to right: [[Benny Andersson]], [[Pierce Brosnan]], [[Amanda Seyfried]], [[Meryl Streep]], [[Agnetha Fältskog]], [[Anni-Frid Lyngstad]], [[Christine Baranski]], [[Colin Firth]], [[Catherine Johnson (playwright)|Catherine Johnson]], [[Phyllida Lloyd]], [[Judy Craymer]], [[Björn Ulvaeus]] and [[Dominic Cooper]])]]
+<!-- Main cast order per closing tombstone stand-alone credits -->
+
+* [[Meryl Streep]] as Donna Sheridan, Sophie's mother and the owner of the hotel Villa Donna in Greece
+* [[Pierce Brosnan]] as Sam Carmichael, Sophie's possible father and an [[Irish Americans|Irish-American]] architect
+* [[Colin Firth]] as Harry Bright, Sophie's possible father and a British banker
+* [[Stellan Skarsgård]] as Bill Anderson, Sophie's possible father, a Swedish sailor and [[Travel literature|travel writer]]
+* [[Julie Walters]] as Rosie Mulligan<!--This is her last name according to the cover of her book, seen on the boat.-->, one of Donna's former bandmates in Donna and the Dynamos; an unmarried, fun-loving author
+* [[Dominic Cooper]] as Sky Rymand, Sophie's fiancé who is designing a website for the hotel
+* [[Amanda Seyfried]] as Sophie Sheridan, Donna's 20-year-old daughter and Sky's fiancée
+* [[Christine Baranski]] as Tanya Chesham-Leigh, Donna's other former bandmate; a rich three-time divorcée
+<!-- Rest of the cast order per closing credits scroll -->
+* [[Rachel McDowall]] as Lisa, a close friend of Sophie and her bridesmaid
+* [[Ashley Lilley]] as Ali, a close friend of Sophie and her bridesmaid
+* [[Ricardo Montez]] as Stavros
+* [[Enzo Squillino Jr.]] as Gregoris, one of Donna's employees
+* [[Philip Michael]] as Pepper, a bartender and Sky's [[best man]] who takes an interest in Tanya
+* [[Chris Jarvis (actor)|Chris Jarvis]] as Eddie, a friend of Sky and Pepper
+* [[Juan Pablo Di Pace]] as Petros, Harry's partner
+* [[Niall Buggy]] as Father Alex, a wedding priest
+* [[Benny Andersson]] as "Dancing Queen" piano player (uncredited){{cn|reason=Per [[MOS:FILMCAST]], "For uncredited roles, a citation should be provided in accordance with Wikipedia's verifiability policy."|date=May 2026}}
+* [[Spencer Kayden]] as Agnes (uncredited){{cn|reason=Per [[MOS:FILMCAST]], "For uncredited roles, a citation should be provided in accordance with Wikipedia's verifiability policy."|date=May 2026}}
+* [[Björn Ulvaeus]] as Greek god (uncredited){{cn|reason=Per [[MOS:FILMCAST]], "For uncredited roles, a citation should be provided in accordance with Wikipedia's verifiability policy."|date=May 2026}}
+
+== Soundtrack ==
+{{See also|Mamma Mia! The Movie Soundtrack}}
+A [[soundtrack album]] was released on July 7, 2008, by [[Decca Records|Decca]] in the United States and [[Polydor]] internationally. The recording was produced by [[Benny Andersson]]. The album features sixteen musical numbers from the film, including a [[hidden track]]. The album was nominated at the [[51st Annual Grammy Awards]] for [[Grammy Award for Best Compilation Soundtrack Album for a Motion Picture, Television or Other Visual Media|Best Compilation Soundtrack Album for Motion Picture, Television or Other Visual Media]]. The deluxe edition of the soundtrack album was released on November 25, 2008.
+
+{{div col}}
+# "[[I Have a Dream (song)|I Have a Dream]]" (Prologue) – Sophie
+# "[[Honey, Honey]]" – Sophie, Ali and Lisa
+# "[[Money, Money, Money]]" – Donna, Tanya and Rosie
+# "[[Mamma Mia (ABBA song)|Mamma Mia]]" – Donna
+# "[[Chiquitita]]" – Rosie, Tanya and Donna<sup>†</sup>
+# "[[Dancing Queen]]" – Tanya, Rosie and Donna
+# "[[Our Last Summer]]" – Harry, Bill, Sam, and Sophie 
+# "[[Lay All Your Love on Me]]" – Sky and Sophie
+# "[[Super Trouper (song)|Super Trouper]]" – Donna, Tanya and Rosie
+# "[[Gimme! Gimme! Gimme! (A Man After Midnight)]]" – Sophie, Ali and Lisa
+# "[[Voulez-Vous (song)|Voulez-Vous]]" – Donna, Sam, Tanya, Rosie, Harry, Bill, Sky, Ali, Lisa and Pepper
+# "[[SOS (ABBA song)|SOS]]" – Sam and Donna
+# "[[Does Your Mother Know]]" – Tanya and Pepper
+# "[[Slipping Through My Fingers]]" – Donna and Sophie
+# "[[The Winner Takes It All]]" – Donna
+# "[[I Do, I Do, I Do, I Do, I Do]]" – Sam and Donna<sup>†</sup>
+# "[[When All Is Said and Done]]"  – Sam and Donna
+# "[[Take a Chance on Me]]" – Rosie, Bill, Tanya, Pepper, and Harry
+# "[[Mamma Mia (ABBA song)|Mamma Mia]]" (Reprise) – Donna, Tanya, Rosie, Harry, Sam, Bill, Sky, Sophie, Ali, Lisa, Pepper
+# "[[I Have a Dream (song)|I Have a Dream]]" – Sophie
+# "[[Dancing Queen]]" (Reprise) – Tanya, Rosie, and Donna
+# "[[Waterloo (ABBA song)|Waterloo]]" – Donna, Rosie, Tanya, Sam, Bill, Harry, Sky, and Sophie<sup>†</sup>
+# "[[Thank You for the Music]]" (End Credits) – Sophie<sup>§</sup>
+{{div col end}}
+
+*<sup>†</sup> Featured in the film, but omitted from the soundtrack album.
+*<sup>§</sup> Included on the soundtrack album as a hidden track.
+
+== Production ==
+[[File:Agios ioannis mamma mia chapel.jpg|thumb|The Agios Ioannis chapel during filming of the wedding scene for ''Mamma Mia!''.]]
+Most of the outdoor scenes were filmed on location at the small Greek islands of [[Skopelos]] and [[Skiathos]], in [[Thessaly]] (between August 29 and September 2007),<ref name=WPress/><ref>[https://www.skopelostravel.net/mamma-mia/ Film locations, photos and videos]</ref> and the seaside [[Hamlet (place)|hamlet]] of [[Damouchari]] in the [[Pelion]] area of Greece. On Skopelos, Kastani beach on the southwest coast was the film's main location site.<ref name=WPress/> The producers built a beach bar and [[jetty]] along the beach but removed both set pieces after production wrapped.<ref name="WPress">{{cite news| title = Mamma Mia! – Unfazed by the fuss in Skopelos | newspaper = The Telegraph | date = July 15, 2008 | url = https://www.telegraph.co.uk/travel/artsandculture/2229868/Mamma-Mia---Unfazed-by-the-fuss-in-Skopelos.html| archive-url = https://web.archive.org/web/20080928051539/http://www.telegraph.co.uk/travel/artsandculture/2229868/Mamma-Mia---Unfazed-by-the-fuss-in-Skopelos.html| url-status = dead| archive-date = September 28, 2008| first=Paul| last=Mansfield| access-date=May 12, 2010}}</ref> The wedding procession was filmed at the Agios Ioannis Chapel near [[Glossa, Sporades|Glossa]].<ref>{{Cite web |date=January 6, 2016 |title=skopelostravel.net {{!}} Agios Ioannis church, Skopelos |url=http://www.skopelostravel.net/agios-ioannis-church/ |access-date=October 28, 2022 |archive-url=https://web.archive.org/web/20160106000054/http://www.skopelostravel.net/agios-ioannis-church/ |archive-date=January 6, 2016 }}</ref>
+
+A complete set for Donna's Greek villa was built at the [[007 Stage|007 stage at Pinewood Studios]] and most of the film was shot there. Real trees were used for the set, watered daily through an automated watering system and given access to daylight to keep them growing. The part of the film where Brosnan's character, Sam, leaves his New York office to go to the Greek Island was actually filmed at the [[Lloyd's building]] on [[Lime Street, London|Lime Street]] in the [[City of London]]. He dashes down the escalators and through the [[Porte-cochère|porte-cochere]], where yellow cabs and actors representing New York mounted police were used for verisimilitude.<ref>{{cite web|url=http://flamin.filmlondon.org.uk/content.asp?CategoryID=1078&ArticleID=1826|archive-url=https://web.archive.org/web/20110816112619/http://flamin.filmlondon.org.uk/content.asp?CategoryID=1078&ArticleID=1826|archive-date=August 16, 2011|title=FLAMIN - Page not found|date=August 16, 2011}}</ref>
+
+[[File:Beach on Skopelos Island, Greece.jpg|thumb|The film was shot partly on the [[Greek island]] of [[Skopelos]].]]
+
+The ''Fernando'', Bill Anderson's [[yacht]] in the film, was the [[ketch]] ''Tai-Mo-Shan'',<ref name="cbm/mmyp">{{cite web |title=Mama Mia yacht in peril |url=https://www.classicboat.co.uk/mama-mia-yacht-in-peril/ |website=Classic Boat Magazine |access-date=April 5, 2026}}</ref><ref name="syc/45K33">{{cite web |title=45’ Teak Ketch 1933 |url=https://www.sandemanyachtcompany.co.uk/yacht/16/45-teak-ketch-1933 |website=Sandeman Yacht Company}}</ref><ref name="hkHV/tms">{{cite web |title=Tai Mo Shan |url=https://hongkonghistoricvessels.com/tai-mo-shan/ |website=Hong Kong Historic Vessels |access-date=April 5, 2026 |date=August 15, 2025}}</ref> built in 1934 by H. S. Rouse at the [[Hong Kong and Whampoa Dock|Hong Kong and Whampoa dockyards]].<ref>{{cite web|title= 45' Teak Ketch 1933. Yacht for sale from classic yacht broker in Poole|url= http://www.sandemanyachtcompany.co.uk/details/?id=233|archive-url= https://web.archive.org/web/20160304095528/http://www.sandemanyachtcompany.co.uk/details/?id=233|url-status= dead|archive-date= March 4, 2016|work= Sandeman Yacht brokerage Poole|publisher= Sandeman Yacht Company|access-date= September 28, 2009}}</ref><ref>{{cite web|title= Tai-Mo-Shan|url= http://www.coburgbrokers.com/tai.html|work= Coburg Yacht Brokers website|publisher= Coburg Yacht Brokers|access-date= September 28, 2009|archive-date= January 6, 2009|archive-url= https://web.archive.org/web/20090106022005/http://www.coburgbrokers.com/tai.html|url-status= live}}</ref>
+
+Meryl Streep took opera singing lessons as a child, and as an adult, she had previously sung in several films, including ''[[Postcards from the Edge (film)|Postcards from the Edge]]'', ''[[Silkwood]]'', ''[[Death Becomes Her]]'', and ''[[A Prairie Home Companion (film)|A Prairie Home Companion]]''.<ref>{{cite news| title = Meryl Streep the singing and dancing queen| newspaper = The Telegraph| date = July 4, 2008| url = https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/07/04/bfmeryl104.xml| archive-url = https://web.archive.org/web/20080704173437/http://www.telegraph.co.uk/arts/main.jhtml?xml=%2Farts%2F2008%2F07%2F04%2Fbfmeryl104.xml| url-status = dead| archive-date = July 4, 2008| location = London| first = John| last = Hiscock| access-date = May 12, 2010}}</ref> She was a fan of the stage show ''Mamma Mia!'' after seeing it on Broadway in September 2001, saying that she found the show to be an affirmation of life in the midst of the destruction of [[September 11 attacks|9/11]].<ref>Meryl Streep, speaking on 'Abba: The Mamma Mia Story', ITV</ref>
+
+[[Amy Adams]], [[Brittany Murphy]], [[Busy Philipps]], [[Evan Rachel Wood]], [[Jessica Biel]], [[Kirsten Dunst]], [[Leighton Meester]], [[Mandy Moore]], and [[Zooey Deschanel]] auditioned for the role of Sophie.<ref>{{cite magazine|last=Bell|first=Keaton|url=https://www.vogue.com/article/oral-history-of-mamma-mia|title=Thank You for the Music: An Oral History of ''Mamma Mia!''|magazine=[[Vogue (magazine)|Vogue]]|date=September 12, 2023|access-date=October 24, 2023}}</ref> [[Tom Hanks]] auditioned for a role in the film, but he was rejected as his singing was "too bad". [[Adam Sandler]], [[Donny Osmond]], [[John Travolta]], and [[John Turturro]] were all considered for the role of Sam Carmichael. [[Robin Williams]], [[Steve Buscemi]], [[Paul Giamatti]], and [[Jim Carrey]] were all considered for the role of Harry Bright. [[Eric Bana]], [[Hugo Weaving]], [[David Hasselhoff]], and [[Jim Belushi]] were all considered for the role of Bill Anderson. [[Jennifer Coolidge]], [[Catherine O'Hara]], and [[Caroline Rhea]] were all considered for the role of Donna.
+
+== Release ==
+Though the world premiere of the film occurred elsewhere, most of the media attention was focused on the Swedish premiere, where [[Anni-Frid Lyngstad]] and [[Agnetha Fältskog]] joined [[Björn Ulvaeus]] and [[Benny Andersson]] with the cast at the Rival Theatre in [[Mariatorget]], [[Stockholm]], owned by Andersson, on July 4, 2008. It was the first time all four members of ABBA had been photographed together since 1986.<ref>{{cite news|last=Wejbro|first=Sandra|title=ABBA återförenades på röda mattan (Swedish)|url=http://www.aftonbladet.se/nojesliv/film/article2836959.ab|newspaper=Aftonbladet|date=July 4, 2008|access-date=July 6, 2008|archive-date=July 11, 2008|archive-url=https://web.archive.org/web/20080711161437/http://www.aftonbladet.se/nojesliv/film/article2836959.ab|url-status=live}}<!-- Template data translated to English by Kitch on July 7, 2008 --></ref>
+
+=== Home media ===
+In November 2008, ''Mamma Mia!'' became the fastest-selling DVD of all time in the UK according to Official UK Charts Company figures. It sold 1,669,084 copies on its first day of release, breaking the previous record (held by ''Titanic'') by 560,000 copies. By the end of 2008, the Official UK Charts Company declared that it had become the biggest-selling DVD ever in the UK, with one in every four households owning a copy (over 5 million copies sold).<ref>{{cite web|last=Sutherland |first=Mark |url=https://www.hollywoodreporter.com/hr/content_display/news/e3i17e8d113d82a5300a568d1520c7ee9ac |archive-url=https://web.archive.org/web/20090115195731/http://www.hollywoodreporter.com/hr/content_display/news/e3i17e8d113d82a5300a568d1520c7ee9ac |url-status=dead |archive-date=January 15, 2009 |title='Mamma Mia!' breaks U.K. DVD record |website=[[The Hollywood Reporter]] |date=December 31, 2008 |access-date=July 13, 2017}}</ref> The record was previously held by ''[[Pirates of the Caribbean: The Curse of the Black Pearl]]'' with sales of 4.7 million copies.
+
+In the United States, the DVD made over $30 million on its first day of release. ''Mamma Mia!'' was released on DVD and Blu-ray on December 16, 2008.<ref>{{cite web |author=Varley |first=Eddie |date=December 17, 2008 |title=MAMMA MIA! DVD Takes In 30 Million In First Day Of Sales |url=http://www.broadwayworld.com/article/MAMMA_MIA_DVD_Takes_In_30_Million_In_First_Day_Of_Sales_20081217 |url-status=live |archive-url=https://web.archive.org/web/20111229062107/http://broadwayworld.com/article/MAMMA_MIA_DVD_Takes_In_30_Million_In_First_Day_Of_Sales_20081217 |archive-date=December 29, 2011 |access-date=December 19, 2016 |publisher=Broadwayworld.com}}</ref> By December 31, 2008, ''Mamma Mia!'' became the bestselling DVD of all time in Sweden with 545,000 copies sold.<ref>{{cite web|title=Nyheterna - tv4.se|url=http://nyheterna.se/1.799701/|publisher=nyheterna.se|access-date=September 20, 2016|archive-date=August 9, 2011|archive-url=https://web.archive.org/web/20110809155519/http://www.nyheterna.se/1.799701/|url-status=live}}</ref>
+
+== Reception ==
+=== Box office ===
+''Mamma Mia!'' grossed $144.3 million in the United States and Canada, and $562.3 million in other territories, for a worldwide total of $706.4{{nbsp}}million, against a production budget of $52{{nbsp}}million.<ref name="BOM">{{Cite Box Office Mojo|id=0795421|title=Mamma Mia! (2008)|access-date=December 25, 2025|publisher_hide=yes|archive-url=https://web.archive.org/web/20260408191838/https://www.boxofficemojo.com/title/tt0795421/|archive-date=April 8, 2026|url-status=live}}</ref><ref name="NUM">{{cite web|url=https://www.the-numbers.com/movie/Mamma-Mia#tab=summary|website=[[The Numbers (website)|The Numbers]]|title=Mamma Mia! (2008)|access-date=February 5, 2009|archive-date=July 31, 2020|archive-url=https://web.archive.org/web/20200731153551/https://www.the-numbers.com/movie/Mamma-Mia#tab=summary|url-status=live}}</ref> It became the highest grossing live-action musical of all time until it was surpassed by [[Bill Condon]]'s ''[[Beauty and the Beast (2017 film)|Beauty and the Beast]]'' in 2017. It was also the highest-grossing movie directed by a woman until it was surpassed by [[Patty Jenkins]]' ''[[Wonder Woman (2017 film)|Wonder Woman]]'' in 2017.<ref name="marketwatch1">{{cite web |last=Williams |first=Trey |url=http://www.marketwatch.com/story/wonder-woman-passes-mamma-mia-as-highest-grossing-film-by-female-director-2017-06-23 |title='Wonder Woman' passes 'Mamma Mia!' as highest-grossing film by female director |website=MarketWatch |date=June 24, 2017 |access-date=July 5, 2017 |archive-date=June 23, 2017 |archive-url=https://web.archive.org/web/20170623211432/http://www.marketwatch.com/story/wonder-woman-passes-mamma-mia-as-highest-grossing-film-by-female-director-2017-06-23 |url-status=live }}</ref>  It is the third highest-grossing film of 2008 internationally (i.e. outside North America) with an international total of $458.4 million and the thirteenth highest gross of 2008 in North America (the US and Canada) with $144.1 million.
+
+The film made $9.6 million on its opening day in the United States and Canada, as well as $27.6 million on its opening weekend, ranking #2 at the box office, behind ''[[The Dark Knight]]''.<ref>{{cite web | title = Box Office Mojo | website = [[Box Office Mojo]] | date = July 19, 2008 | url = https://www.boxofficemojo.com/movies/?id=mammamia.htm | access-date = July 19, 2008 | archive-date = January 2, 2010 | archive-url = https://web.archive.org/web/20100102050129/http://boxofficemojo.com/movies/?id=mammamia.htm | url-status = live }}</ref> At the time, it made ''Mamma Mia!'' the record-holder for the highest grossing opening weekend for a movie based on a Broadway musical, surpassing ''[[Hairspray (2007 film)|Hairspray]]''{{'}}s box office record in 2007 and later surpassed by ''[[Into the Woods (film)|Into the Woods]]''.<ref>{{cite magazine|title="Into the Woods" Slides Into Second Place in Domestic Box-Office Totals, Beating "Unbroken"|last1=Gioia|first1=Michael|last2=Chum|first2=Vichet|magazine=[[Playbill]]|quote=As previously reported, the Rob Marshall-directed film has become the biggest launch of a Broadway adaptation since "Mamma Mia!" ($27.8 million).|date=December 30, 2014|url=http://www.playbill.com/news/article/into-the-woods-slides-into-second-place-in-domestic-box-office-totals-beating-unbroken-338152|access-date=January 5, 2012}}</ref>
+
+In the United Kingdom, ''Mamma Mia!'' grossed £69.2 million as of January 23, 2009; it is the [[List of highest-grossing films in the United Kingdom|thirteenth highest-grossing film of all time at the UK box office]].<ref>{{cite web|url=http://www.25thframe.co.uk/chartspagetemplate.php?source=ukboxoffice|title=UK all time top grossing films|publisher=25thframe.co.uk|access-date=May 25, 2012|archive-date=February 15, 2011|archive-url=https://web.archive.org/web/20110215111058/http://25thframe.co.uk/chartspagetemplate.php?source=ukboxoffice|url-status=live}}</ref> The film opened at number one in the UK, taking £6.6 million on 496 screens. It managed to hold on to the top spot for two weeks, narrowly keeping [[Pixar]]'s ''[[WALL-E]]'' from reaching number one in its second week.{{Citation needed|date=January 2017}}
+
+When released on July 3, 2009, in Greece, the film grossed $1.6 million in its opening weekend, reaching number one at the Greek box office.<ref>{{cite web | title=Greece Box Office Index | website=[[Box Office Mojo]] | date=June 10, 2008 | url=https://www.boxofficemojo.com/intl/greece/ | access-date=June 10, 2008 | archive-date=May 17, 2008 | archive-url=https://web.archive.org/web/20080517003040/http://www.boxofficemojo.com/intl/greece | url-status=live }}</ref>
+
+=== Critical response ===
+<!-- Please note, when updating Rotten Tomatoes and Metacritic ratings, you should also update the "access-date" field within the citation tags to reflect the date on which you have updated them. -->
+
+''Mamma Mia!'' received mixed reviews upon release.<ref>{{Cite news |last=Ahad |first=Halima |date=October 8, 2023 |title=In Defence of: Mamma Mia! |url=https://www.redbrick.me/in-defence-of-mamma-mia/ |access-date=February 18, 2025 |work=[[Redbrick (newspaper)|Redbrick]] |quote=Mamma Mia! has always received mixed reviews since its glamorous debut in 2008}}</ref><ref>{{Cite news |last=Fretts |first=Bruce |date=December 21, 2017 |title=New Trailer: 'Mamma Mia! Here We Go Again,' Starring Cher |url=https://www.nytimes.com/2017/12/21/movies/mamma-mia-here-we-go-again-cher-lily-james-meryl-streep.html |url-access=subscription |archive-url=https://web.archive.org/web/20221224181407/https://www.nytimes.com/2017/12/21/movies/mamma-mia-here-we-go-again-cher-lily-james-meryl-streep.html |archive-date=December 24, 2022 |access-date=February 18, 2025 |work=[[The New York Times]] |quote=the original “Mamma Mia,” despite mixed reviews}}</ref><ref>{{Cite news |date=May 20, 2017 |title=Mamma Mia sequel announced with original cast |url=https://www.bbc.com/news/entertainment-arts-39987268 |access-date=February 18, 2025 |work=[[BBC News Online]] |quote=Despite mixed reviews}}</ref> The [[Review aggregator|review aggregation]] website [[Rotten Tomatoes]] repored that out of 186 critic reviews, 54% of them were positive, with an average rating of 5.8/10. The site's consensus states: "This jukebox musical is full of fluffy fun but rough singing voices and a [[Camp (style)|campy]] tone might not make you feel like 'You Can Dance' the whole 90 minutes."<ref name=rt>{{cite web | url=https://rottentomatoes.com/m/mamma_mia/ | title=Mamma Mia! Reviews | website=[[Rotten Tomatoes]] | access-date=July 18, 2026 | archive-date=October 5, 2019 | archive-url=https://web.archive.org/web/20191005111836/https://www.rottentomatoes.com/m/mamma_mia/ | url-status=live }}</ref> [[Metacritic]] assigned the film a [[weighted average]] score of 51 out of 100, based on 37 critics, indicating "mixed or average" reviews.<ref>{{cite web |url=https://www.metacritic.com/movie/mamma-mia! |title=''Mama Mia'' reviews |work=[[Metacritic]] |access-date=February 20, 2018 |archive-date=July 11, 2020 |archive-url=https://web.archive.org/web/20200711180753/https://www.metacritic.com/movie/mamma-mia! |url-status=live }}</ref> Audiences polled by [[CinemaScore]] gave the film an average grade of "A−" on an A+ to F scale.<ref>{{Cite web|url=https://www.cinemascore.com/|title=Cinemascore|date=2008|website=Cinemascore|language=en-US|access-date=January 15, 2020|archive-date=January 16, 2023|archive-url=https://web.archive.org/web/20230116020801/https://www.cinemascore.com/|url-status=live}}</ref>
+
+[[BBC Radio 5 Live]]'s film critic [[Mark Kermode]] admitted to enjoying the film, despite describing the experience as "the closest you get to see A-List actors doing drunken karaoke".<ref>{{cite web|url=https://www.youtube.com/watch?v=61UolzFTVPI  |archive-url=https://ghostarchive.org/varchive/youtube/20211213/61UolzFTVPI |archive-date=December 13, 2021 |url-status=live|title=Mark Kermode Reviews Mamma Mia |publisher= BBC Radio 5 live |via=YouTube |date=July 11, 2008 |access-date=December 19, 2016}}{{cbignore}}</ref> Peter Bradshaw of ''[[The Guardian]]'' was more negative, giving it one star, and expressed a "need to vomit".<ref>{{cite news |last=Bradshaw |first=Peter |url=https://www.theguardian.com/culture/2008/jul/10/film.reviews |title=Mamma Mia! &#124; Culture |newspaper=The Guardian |access-date=December 19, 2016 |archive-date=December 21, 2016 |archive-url=https://web.archive.org/web/20161221152103/https://www.theguardian.com/culture/2008/jul/10/film.reviews |url-status=live }}</ref> Bob Chipman of ''[[The Escapist (magazine)|Escape to the Movies]]'' said it was "so base, so shallow and so hinged on meaningless spectacle, it's amazing it wasn't made for men".<ref>{{cite web|url=https://www.youtube.com/watch?v=CSKFjUDEyuM  |archive-url=https://ghostarchive.org/varchive/youtube/20211213/CSKFjUDEyuM |archive-date=December 13, 2021 |url-status=live|title=MOVIEBOB: Mama Mia |publisher=YouTube |date=July 25, 2008 |access-date=December 19, 2016}}{{cbignore}}</ref> ''[[The Daily Telegraph]]'' stated that it was enjoyable but poorly put together: "Finding the film a total shambles was sort of a shame, but I have a sneaking suspicion I'll go to see it again anyway."<ref>{{cite news|title=Telegraph review|url=https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/07/11/bfmamma111.xml|access-date=September 20, 2016|newspaper=The Daily Telegraph|archive-url=https://web.archive.org/web/20080807022212/http://www.telegraph.co.uk/arts/main.jhtml?xml=%2Farts%2F2008%2F07%2F11%2Fbfmamma111.xml|archive-date=August 7, 2008|url-status=dead}}</ref> Angie Errigo of ''[[Empire (film magazine)|Empire]]'' said it was "cute, clean, camp fun, full of sunshine and toe tappers."<ref>{{cite web |date=July 3, 2008 |last=Errigo |first=Angie |url=https://www.empireonline.com/movies/mamma-mia/review/ |title=Mamma Mia! Review &#124; Movie |location=gb |publisher=Empireonline.com |access-date=January 27, 2017 |archive-date=February 2, 2017 |archive-url=https://web.archive.org/web/20170202123832/http://www.empireonline.com/movies/mamma-mia/review/ |url-status=live }}</ref>
+
+The casting of actors not known for their singing abilities led to some mixed reviews.<ref>{{Cite news |last=Burns |first=Julie |date=September 21, 2021 |title=The Story Of ABBA: Mamma Mia! |url=https://www.classicpopmag.com/2021/09/abba-mamma-mia/ |access-date=February 18, 2025 |work=[[Classic Pop (magazine)|Classic Pop]] |quote=The fact that some of the cast had not been chosen for their vocalising led to some mixed reviews from critics. Most especially Pierce Brosnan}}</ref> ''Variety'' stated that "some stars, especially the bouncy and rejuvenated Streep, seem better suited for musical comedy than others, including Brosnan and Skarsgård."<ref>{{cite magazine|last=Mintzer |first=Jordan |url=https://www.variety.com/VE1117937623.html |title=Mamma Mia! |magazine=Variety |date=July 5, 2008 |access-date=December 19, 2016}}</ref> Brosnan, especially, was savaged by many critics: his singing was compared to "a [[water buffalo]]" (''[[New York (magazine)|New York Magazine]]''),<ref>{{cite web |url=https://nymag.com/movies/reviews/48514/index1.html |title=The Dark Knight – Mamma Mia! – The Exiles |publisher=New York Magazine Movie Review |website=Nymag.com |date=July 21, 2008 |access-date=December 19, 2016 |archive-date=July 16, 2008 |archive-url=https://web.archive.org/web/20080716053110/https://nymag.com/movies/reviews/48514/index1.html |url-status=live }}</ref> "a donkey braying" (''[[The Philadelphia Inquirer]]'')<ref>{{cite web |last=Rickey |first=Carrie |url=http://www.philly.com/inquirer/columnists/carrie_rickey/20080718__Mamma_Mia___here_we_go_again_-_this_time_on_screen.html |title='Mamma Mia,' here we go again – this time on screen |publisher=Philly.com |date=July 17, 2008 |access-date=December 19, 2016 |archive-date=December 11, 2010 |archive-url=https://web.archive.org/web/20101211142820/http://www.philly.com/inquirer/columnists/carrie_rickey/20080718__Mamma_Mia___here_we_go_again_-_this_time_on_screen.html |url-status=dead }}</ref> and "a wounded raccoon" (''[[The Miami Herald]]''),<ref>{{cite web |last=Rodriguez |first=Rene |date=July 17, 2008 |title=Mamma Mia! (PG-13) **½ |url=https://www.miamiherald.com/miami-com/things-to-do/article225885735.html |access-date=April 21, 2025 |website=[[Miami Herald]]}}</ref> and Matt Brunson of ''[[Creative Loafing|Creative Loafing Charlotte]]'' said he "looks physically pained choking out the lyrics, as if he's being subjected to a [[prostate exam]] just outside of the camera's eye."<ref>{{cite web |last=Brunson |first=Matt |url=http://charlotte.creativeloafing.com/gyrobase/out_of_tune/Content?oid=336031 |title=Out of tune &#124; Reviews |publisher=Creative Loafing Charlotte |website=Charlotte.creativeloafing.com |date=July 23, 2008 |access-date=December 19, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20110616212436/http://charlotte.creativeloafing.com/gyrobase/out_of_tune/Content?oid=336031 |archive-date=June 16, 2011}}</ref>
+
+In 2025, it was one of the films voted for the "Readers' Choice" edition of ''[[The New York Times]]''{{'}} list of "The 100 Best Movies of the 21st Century," finishing at number 183.<ref>{{cite web |title=Readers Choose Their Top Movies of the 21st Century |url=https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html |website=The New York Times |date=July 2, 2025 |access-date=July 2, 2025}}</ref>
+
+=== Accolades ===
+{|class="wikitable sortable" style="width: 100%;"
+|-
+|- 
+! scope="col"| Award
+! scope="col"| Date of ceremony
+! scope="col"| Category
+! scope="col"| Recipient(s)
+! scope="col"| Result 
+! scope="col" class="unsortable" | {{Tooltip|Ref.|Reference(s)}}
+|-
+| [[American Cinema Editors#Eddie Awards|ACE Eddie Awards]]
+| [[American Cinema Editors Awards 2009|February 15, 2009]]
+| Best Edited Feature Film – Comedy or Musical
+| [[Lesley Walker]]
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web |last1=Knegt |first1=Peter |title=ACE Eddie Noms Announced |url=https://www.indiewire.com/2009/01/ace-eddie-noms-announced-70927/ |website=[[IndieWire]] |access-date=July 22, 2018 |date=January 12, 2009 |archive-date=July 28, 2018 |archive-url=https://web.archive.org/web/20180728221428/https://www.indiewire.com/2009/01/ace-eddie-noms-announced-70927/ |url-status=live }}</ref>
+|-
+|[[American Music Awards]]
+|[[American Music Awards of 2008|November 23, 2008]]
+|[[American Music Award for Top Soundtrack|Favorite Soundtrack]]
+|''[[Mamma Mia! The Movie Soundtrack]]''
+|{{nom}}
+| style="text-align:center;" |<ref>{{Cite web|title=Breaking News - 2008 American Music Awards Nominees Announced {{!}} TheFutonCritic.com|url=http://www.thefutoncritic.com/news/2008/10/14/2008-american-music-awards-nominees-announced-29161/20081014abc01/|access-date=May 15, 2021|website=www.thefutoncritic.com|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801041730/http://www.thefutoncritic.com/news/2008/10/14/2008-american-music-awards-nominees-announced-29161/20081014abc01/|url-status=live}}</ref>
+|-
+| rowspan="3" | [[British Academy Film Awards]]
+| rowspan="3" | [[62nd British Academy Film Awards|February 8, 2009]]
+| [[BAFTA Award for Best British Film|Outstanding British Film]]
+| ''Mamma Mia!''
+| {{nom}}
+| rowspan="3" style="text-align:center;"|<ref>{{cite web|url=http://www.bafta.org/awards/film/film-nominations-in-2009,657,BA.html |archive-url=https://web.archive.org/web/20090117024112/http://www.bafta.org/awards/film/film-nominations-in-2009%2C657%2CBA.html |url-status=dead |archive-date=January 17, 2009 |title=Film Nominations in 2009 |publisher=Film Awards – BAFTA  |date=January 17, 2009 |access-date=January 2, 2017 }}</ref>
+|-
+| [[BAFTA Award for Best Film Music|Best Film Music]]
+| [[Benny Andersson]] and [[Björn Ulvaeus]]
+| {{nom}}
+|-
+| [[BAFTA Award for Outstanding Debut by a British Writer, Director or Producer|Carl Foreman Award for Special Achievement by a British Director, Writer or Producer for their First Feature Film]]
+| [[Judy Craymer]]
+| {{nom}}
+|-
+| [[Costume Designers Guild Awards]]
+| [[11th Costume Designers Guild Awards|February 17, 2009]]
+| [[Costume Designers Guild Award for Excellence in Contemporary Film|Excellence in Contemporary Film]]
+| [[Ann Roth]]
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web |title=10th Annual Awards 2008 |url=http://costumedesignersguild.com/awards/awards-archive/awards2008/ |website=[[Costume Designers Guild]] |access-date=July 28, 2018 |archive-date=July 28, 2018 |archive-url=https://web.archive.org/web/20180728191531/http://costumedesignersguild.com/awards/awards-archive/awards2008/ |url-status=live }}</ref>
+|-
+| [[Empire Award]]
+| [[14th Empire Awards|March 29, 2009]]
+| [[Empire Award for Best Soundtrack|Best Soundtrack]]
+| [[Benny Andersson]] and [[Björn Ulvaeus]]
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web|last1=Reynolds|first1=Simon|title=Empire Awards 2009: The Winners|url=https://www.digitalspy.com/movies/news/a151143/empire-awards-2009-the-winners/|website=[[Digital Spy]]|publisher=[[Hearst Communications|Hearst Magazines]]|access-date=February 16, 2018|archive-url=https://archive.today/20180216233735/https://www.digitalspy.com/movies/news/a151143/empire-awards-2009-the-winners/|archive-date=February 16, 2018|date=March 30, 2009|url-status=live}}</ref>
+|-
+| rowspan="2" | [[Golden Globe Awards]]
+| rowspan="2" | [[66th Golden Globe Awards|January 11, 2009]]
+| [[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]]
+| ''Mamma Mia!''
+| {{nom}}
+| rowspan="2" style="text-align:center;"|<ref>{{cite web|url=http://www.goldenglobes.org/2009/01/66th-annual-golden-globe-award-winners/|title=66th Annual Golden Globe Award Winners|publisher=[[Hollywood Foreign Press Association]]|archive-url=https://archive.today/20130725123711/http://www.goldenglobes.org/2009/01/66th-annual-golden-globe-award-winners/|archive-date=July 25, 2013|url-status=dead|access-date=July 25, 2015}}</ref>
+|-
+| [[Golden Globe Award for Best Actress – Motion Picture Comedy or Musical|Best Actress – Motion Picture Comedy or Musical]]
+| Meryl Streep
+| {{nom}}
+|-
+| [[Golden Raspberry Awards]]
+| [[29th Golden Raspberry Awards|February 21, 2009]]
+| [[Golden Raspberry Award for Worst Supporting Actor|Worst Supporting Actor]]
+| Pierce Brosnan
+| {{won}}
+| style="text-align:center;"|<ref name="awards">{{cite web| last =Wilson| first =John| author-link =John Wilson (Golden Raspberry)| title =29th Annual Golden Raspberry (Razzie) Award "Winners"| work =Home of the Golden Raspberry Award Foundation| publisher =Golden Raspberry Award Foundation| url =http://www.razzies.com/history/08winners.asp| access-date =May 1, 2009| year =2009| archive-date =April 27, 2009| archive-url =https://web.archive.org/web/20090427222315/http://www.razzies.com/history/08Winners.asp| url-status =live}}</ref>
+|-
+| [[Motion Picture Sound Editors|Golden Reel Awards]]
+| February 21, 2009
+| [[Golden Reel Award for Outstanding Achievement in Sound Editing - Musical for Feature Film|Best Sound Editing – Music in a Musical Feature Film]]
+| Tony Lewis, Martin Lowe, Robert Houston
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web|title=2009 Golden Reel Award Nominees: Feature Films|url=http://www.mpse.org/goldenreels/2009awards/2009featurenominees.html|website=[[Motion Picture Sound Editors]]|access-date=February 17, 2018|archive-url=https://archive.today/20120630072128/http://www.mpse.org/goldenreels/2009awards/2009featurenominees.html|archive-date=June 30, 2012}}</ref>
+|-
+| [[Grammy Awards]]
+| [[51st Annual Grammy Awards|February 8, 2009]]
+|  [[Grammy Award for Best Compilation Soundtrack Album for a Motion Picture, Television or Other Visual Media|Best Compilation Soundtrack Album for Motion Picture, Television or Other Visual Media]]
+|''Mamma Mia! The Movie Soundtrack''
+| {{nom}}
+| style="text-align:center;"|<ref name="grammys">{{cite web|title=51st Annual Grammy Awards – 2008|url=https://www.grammy.com/awards/51st-annual-grammy-awards|website=grammy.com|date=November 28, 2017 |access-date=January 21, 2018|url-status=live|archive-url=https://archive.today/20180123023512/https://www.grammy.com/grammys/awards/51st-annual-grammy-awards|archive-date=January 23, 2018}}</ref>
+|-
+| [[Irish Film and Television Awards]]
+| [[6th Irish Film & Television Awards|February 14, 2009]]
+| Best International Actress
+| Meryl Streep
+| {{won}}
+| style="text-align:center;"|<ref>{{cite web |title=Winners 2009 {{!}} IFTA {{!}} Irish Film & Television Academy {{!}} Irish Film & Television Awards |url=http://www.ifta.ie/awards/iftawinners2009.html |website=[[Irish Film & Television Academy]] |access-date=July 22, 2018 |archive-date=January 3, 2018 |archive-url=https://web.archive.org/web/20180103062155/http://www.ifta.ie/awards/iftawinners2009.html |url-status=live }}</ref>
+|-
+| [[MTV Movie & TV Awards|MTV Movie Awards]]
+| [[2009 MTV Movie Awards|May 31, 2009]]
+| [[MTV Movie Award for Next Generation|Best Breakthrough Female Performance]]
+| [[Amanda Seyfried]]
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web|last1=Sciretta|first1=Peter|title=2009 MTV Movie Awards Winners|url=https://www.slashfilm.com/2009-mtv-movie-awards-winners/|website=[[SlashFilm]]|access-date=January 23, 2018|archive-url=https://archive.today/20130411200628/http://www.slashfilm.com/2009-mtv-movie-awards-winners/|archive-date=April 11, 2013|date=May 31, 2009}}</ref>
+|-
+| rowspan="4" | [[National Movie Awards]]
+| rowspan="4" | [[National Movie Awards#2nd NMA (2008)|September 8, 2008]]
+| Best Musical<ref name="Schmidt"/>
+| ''Mamma Mia!''
+| {{won}}
+| rowspan="4" style="text-align:center;"|<ref name="Schmidt">{{cite news|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article4715181.ece|title=Mamma Mia wins at National Movie Awards|last=Schmidt|first=Veronica|date=September 9, 2008|work=[[The Times]]|publisher=[[Times Newspapers Ltd]]|access-date=September 6, 2010|location=London|archive-date=June 15, 2011|archive-url=https://web.archive.org/web/20110615150532/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article4715181.ece|url-status=dead}}</ref>
+|-
+| Best Female Performance
+| [[Meryl Streep]]
+| {{won}}
+|-
+| rowspan="2" | Best Male Performance
+| [[Pierce Brosnan]]
+| {{nom}}
+|-
+| [[Colin Firth]]
+| {{nom}}
+|-
+| rowspan="3" | [[People's Choice Awards]]
+| rowspan="3" | [[35th People's Choice Awards|January 7, 2009]]
+| Favorite Movie Comedy
+| ''Mamma Mia!''
+| {{nom}}
+| rowspan="3" style="text-align:center;"|<ref name="nom">{{cite web|url=http://www.peopleschoice.com/pca/awards/nominees/index.jsp?year=2009|title=People's Choice Awards Past Nominees & Winners: 2009|access-date=December 31, 2008|work=PCAvote.com|publisher=Sycamore Productions|archive-url=https://web.archive.org/web/20091027004716/http://www.peopleschoice.com/pca/awards/nominees/index.jsp?year=2009|archive-date=October 27, 2009|url-status=dead}}</ref>
+|-
+| Favorite Cast
+| ''Mamma Mia!''
+| {{nom}}
+|-
+| Favorite Song from a Soundtrack
+| "[[Mamma Mia (ABBA song)|Mamma Mia]]"
+| {{won}}
+|-
+| rowspan="3" | [[Rembrandt Awards]]
+| rowspan="3" | March 9, 2009
+| Best Female Actress
+| rowspan="2" | Meryl Streep
+| {{won}}
+| rowspan="3" style="text-align:center;"|<ref name="Rembrandt">{{cite web |last=van Oosten |first=Jasper |title=Oorlogswinter en Mamma Mia! winnen Film1 Rembrandt Awards |url=https://www.film1.nl/blog/11405-Oorlogswinter-en-Mamma-Mia-winnen-Film1-Rembrandt-Awards.html |website=[[Film1]] |access-date=July 28, 2018 |date=March 10, 2009 |archive-date=July 28, 2018 |archive-url=https://web.archive.org/web/20180728191424/https://www.film1.nl/blog/11405-Oorlogswinter-en-Mamma-Mia-winnen-Film1-Rembrandt-Awards.html |url-status=live }}</ref>
+|-
+| Best International Actress
+| {{won}}
+|-
+| Best International Film
+| [[Phyllida Lloyd]]
+| {{won}}
+|-
+| [[Satellite Awards]]
+| [[13th Satellite Awards|December 14, 2008]]
+| [[Satellite Award for Best Actress – Motion Picture|Best Actress in a Motion Picture, Comedy or Musical]]
+| [[Meryl Streep]]
+| {{nom}}
+| style="text-align:center;"|<ref>{{cite web|url=http://www.pressacademy.com/satawards/awards2008.shtml |title=Nominees and Winners; 2008 13th Annual SATELLITE Awards |publisher=The International Press Academy |access-date=August 10, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20081202035312/http://www.pressacademy.com/satawards/awards2008.shtml |archive-date=December 2, 2008}}</ref>
+|}
+
+== Sequel ==
+{{main|Mamma Mia! Here We Go Again}}
+
+''Mamma Mia! Here We Go Again'' was announced on May 19, 2017, and premiered on July 18, 2018.<ref>{{cite news|last=Alexander|first=Bryan|title='Mamma Mia' sequel 'Here We Go Again' coming next summer|url=https://www.usatoday.com/story/life/movies/2017/05/19/mamma-mia-sequel-here-we-go-again-coming-next-summer/101899234/|work=US Today|date=May 19, 2017|access-date=May 19, 2017|archive-date=August 21, 2020|archive-url=https://web.archive.org/web/20200821045028/https://www.usatoday.com/story/life/movies/2017/05/19/mamma-mia-sequel-here-we-go-again-coming-next-summer/101899234/|url-status=live}}</ref> It was written and directed by [[Ol Parker]].<ref>{{cite web|url=https://deadline.com/2017/05/mamma-mia-here-we-go-again-theaters-release-next-summer-1202098572/|title='Mamma Mia: Here We Go Again!' On Universal Pictures' 2018 Schedule|last=Busch|first=Anita|website=[[Deadline Hollywood]]|date=May 19, 2017|access-date=May 28, 2017|archive-date=August 4, 2020|archive-url=https://web.archive.org/web/20200804011533/https://deadline.com/2017/05/mamma-mia-here-we-go-again-theaters-release-next-summer-1202098572/|url-status=live}}</ref> It was announced that Seyfried,<ref>{{cite web|url=https://deadline.com/2017/06/amanda-seyfried-joins-mamma-mia-sequel-1202105360/|title=Amanda Seyfried Set For 'Mamma Mia!' Reprise|last=Fleming|first=Mike Jr.|website=[[Deadline Hollywood]]|date=June 1, 2017|access-date=June 1, 2017|archive-date=June 4, 2017|archive-url=https://web.archive.org/web/20170604081759/https://deadline.com/2017/06/amanda-seyfried-joins-mamma-mia-sequel-1202105360/|url-status=live}}</ref> Cooper, Streep, Firth and Brosnan would be returning.<ref>{{cite web|url=https://www.etonline.com/movies/220110_dominic_cooper_dishes_on_returning_for_mamma_mia_2_it_a_phone_call_i_ve_been_waiting_for/|title=Dominic Cooper Dishes on Returning for 'Mamma Mia 2': It's 'a Phone Call I've Been Waiting For'|last=Seemayer|first=Zach|publisher=[[Entertainment Tonight]]|date=June 22, 2017|access-date=June 22, 2017|archive-date=July 21, 2018|archive-url=https://web.archive.org/web/20180721014227/https://www.etonline.com/movies/220110_dominic_cooper_dishes_on_returning_for_mamma_mia_2_it_a_phone_call_i_ve_been_waiting_for|url-status=live}}</ref> In July 2017, [[Lily James]] was confirmed to portray young Donna.<ref>{{cite web|url=https://www.comingsoon.net/movies/news/868357-mamma-mia-sequel-casts-baby-drivers-lily-james|title=Mamma Mia Sequel Casts Baby Driver's Lily James|last=Busch|first=Jenna|publisher=Comingsoon.net|date=July 12, 2017|access-date=July 16, 2017|archive-date=August 15, 2019|archive-url=https://web.archive.org/web/20190815190133/https://www.comingsoon.net/movies/news/868357-mamma-mia-sequel-casts-baby-drivers-lily-james|url-status=live}}</ref> The film took almost five months to film and was released in London and Sweden on July 16, 2018, and was released worldwide on July 20, 2018. The film was a commercial success and made $402 million worldwide with a $75 million budget. Reviews were generally positive, with critics praising the performances and musical numbers. The film was released digitally on October 9, 2018, and on DVD on October 23, 2018. It held the top spot on the charts for the week ending November 3, 2018.
+
+== See also ==
+*''[[Buona Sera, Mrs. Campbell]]'', a 1968 film about a woman who does not know which of three men is the father of her daughter, which some critics speculate ''Mamma Mia!'' was based upon.
+*[[Lace (miniseries)|''Lace'']], a 1984 miniseries about a daughter who tries to figure out which of three women is her mother.
+*[[Mamma Mia (30 Rock)|Mamma Mia]], a television episode of the series ''30 Rock'' that was heavily influenced by ''Mamma Mia!''.
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* Louise FitzGerald (ed.), Melanie Williams (ed.): ''Mamma Mia! The Movie: Exploring a Cultural Phenomenon''. I.B. Tauris, 2013, {{ISBN|9781848859425}}
+
+== External links ==
+* {{Official website}}
+* {{IMDb title}}
+* {{Mojo title}}
+* {{Metacritic film}}
+* {{Rotten Tomatoes}}
+* [https://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150742379 ''Mamma Mia!''] at the [[British Film Institute]]
+
+{{Mamma Mia!}}
+{{Phyllida Lloyd}}
+{{Golden Raspberry Award for Worst Supporting Actor}}
+{{ABBA}}
+{{authority control}}
+
+{{DEFAULTSORT:Mamma Mia! (Film)}}
+[[Category:Mamma Mia!]]
+[[Category:2008 films]]
+[[Category:2008 directorial debut films]]
+[[Category:2008 musical films]]
+[[Category:2008 romantic comedy films]]
+[[Category:2008 American films]]
+[[Category:2008 British films]]
+[[Category:2008 buddy comedy films]]
+[[Category:2008 English-language films]]
+[[Category:2000s female buddy films]]
+[[Category:2008 German films]]
+[[Category:2000s musical comedy films]]
+[[Category:2000s romantic musical films]]
+[[Category:ABBA]]
+[[Category:American buddy comedy films]]
+[[Category:American female buddy films]]
+[[Category:American musical comedy films]]
+[[Category:American romantic comedy films]]
+[[Category:American romantic musical films]]
+[[Category:British buddy comedy films]]
+[[Category:British female buddy films]]
+[[Category:British musical comedy films]]
+[[Category:British romantic comedy films]]
+[[Category:British romantic musical films]]
+[[Category:English-language buddy comedy films]]
+[[Category:English-language German films]]
+[[Category:English-language musical comedy films]]
+[[Category:English-language romantic comedy films]]
+[[Category:English-language romantic musical films]]
+[[Category:Films about mother–daughter relationships]]
+[[Category:Films about weddings]]
+[[Category:Films based on musicals]]
+[[Category:Films directed by Phyllida Lloyd]]
+[[Category:Films produced by Gary Goetzman]]
+[[Category:Films scored by Benny Andersson]]
+[[Category:Films set in Greece]]
+[[Category:Films set in hotels]]
+[[Category:Films set in the Mediterranean Sea]]
+[[Category:Films set on islands]]
+[[Category:Films shot at Pinewood Studios]]
+[[Category:Films shot in California]]
+[[Category:Films shot in Thessaly]]
+[[Category:Films shot in London]]
+[[Category:Films shot in Morocco]]
+[[Category:German musical comedy films]]
+[[Category:German romantic comedy films]]
+[[Category:German romantic musical films]]
+[[Category:Golden Raspberry Award–winning films]]
+[[Category:Jukebox musical films]]
+[[Category:Universal Pictures films]]
+[[Category:Playtone films]]

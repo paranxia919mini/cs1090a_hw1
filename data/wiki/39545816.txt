@@ -1,0 +1,91 @@
+{{Short description|1954 film}}
+{{for|the jazz fusion album|The Stranger's Hand (album)}}
+{{Use British English|date=May 2016}}
+{{Use dmy dates|date=May 2016}}
+{{Infobox film
+| name           =  The Stranger's Hand
+| image          = The Stranger's Hand.jpg
+| caption        = 
+| director       = [[Mario Soldati]] 
+| producer       = [[Angelo Rizzoli (publisher, born 1889)|Angelo Rizzoli]]<br>[[Graham Greene]]<br>Peter Moore<br>[[John Stafford (producer)|John Stafford]]
+| writer         =  [[Giorgio Bassani]]<br>[[Guy Elmes]]
+|based_on = ''The Stranger's Hand'' by [[Graham Greene]] 
+| starring       = [[Trevor Howard]] <br> [[Alida Valli]] <br> [[Richard Basehart]]
+| music          = [[Nino Rota]]<br>[[Alessandro Cicognini]]
+| cinematography = [[Enzo Serafin]]
+| editing        = Tom Simpson<br> Leslie Hogdson<br> [[Leo Catozzo]]
+| studio = Milo Film <br>Rizzoli Film<br> Independent Film Producers 
+| distributor    = [[British Lion Films]]
+| released       =   {{Film date|1954|01|20|df=yes}}
+| runtime        = 85 minutes 
+|budget=£164,200<ref name="money">Chapman, J. (2022). The Money Behind the Screen: A History of British Film Finance, 1945-1985. Edinburgh University Press p 359. The British budget was £77,525, with the balance provided in lira by the Italian co-production partner. The certified sterling cost came to £92,235.</ref>
+| country        =  Italy <br> United Kingdom
+| language = English
+}}
+
+'''''The Stranger's Hand''''' ({{langx|it|La mano dello straniero}}) is a 1954 British-Italian [[Thriller film|thriller]] [[drama film]] directed by [[Mario Soldati]] and starring [[Trevor Howard]], [[Alida Valli]] and [[Richard Basehart]]. An [[international co-production]], it is based on the draft treatment with the same name written by [[Graham Greene]].<ref name="45-59">{{cite book|author1=Roberto Chiti |author2=Roberto Poppi |author3=Enrico Lancia |title=Dizionario del cinema italiano: I film|date=1991 |publisher=Gremese, 1991|isbn=8876055487}}</ref> The plot follows the son of a British [[MI5]] agent kidnapped in [[Venice]] by agents of [[Yugoslavia]] as he searches for his father.
+
+Greene used a pseudonym to enter the first two chapters of ''The Stranger's Hand'' in a competition organized by the ''[[New Statesman]]'' which called for submissions in the style of Graham Greene. His entry won second prize. Soldati saw the chapters and persuaded Greene to complete the story to serve as the basis for a film. Greene expanded it to 30 pages of a "film story", and [[Giorgio Bassani]] and [[Guy Elmes]] used Greene's work as the basis for their screenplay.<ref>{{cite news|work=[[The Guardian]]|access-date=1 September 2026|url= https://www.theguardian.com/books/2005/dec/24/fiction.film |title= God beneath the banalities|first=Ian|last=Thomson|date=23 December 2005}}</ref>
+
+In the ''[[New York Times]]'', [[Bosley Crowther]] enjoyed the film's use of situations and themes typical of Greene, but thought Soldati allowed the story to "sag like a slack rope".<ref>{{cite news|work=New York Times|access-date=1 September 2026|url=https://www.nytimes.com/1955/02/16/archives/screen-hand-of-greene-british-writers-touch-seen-in-plaza-film.html|date=16 February 1955|title='Hand' of Greene; British Writer's Touch Seen in Plaza Film|first=Bosley|last=Crowther}}</ref> 
+
+==Cast==
+* [[Trevor Howard]] as Major Roger Court 
+* [[Richard O'Sullivan]] as Roger Court, his son
+* [[Alida Valli]] as Roberta Gleukovitch 
+* [[Richard Basehart]] as Joe Hamstringer 
+* [[Eduardo Ciannelli]] as Dr. Vivaldi  
+* [[Arnoldo Foà]] as Police Commissioner 
+* [[Stephen Murray (actor)|Stephen Murray]] as the British Consul in Venice
+* [[Guido Celano]] as the Chief Constable  
+* [[Nerio Bernardi]] as Vincenzo
+* Giorgio Costantini as Pescovitch
+* Angelo Cecchelin as Luza
+* Nino Vechina as First Killer
+* Armando Papette as Second Killer
+* Giovanni Karuz as Third Killer
+* Joan Butterfield as Mrs. Harrington
+* Alessandro Paulon as Morgan
+* Remington Olmsted as Ramondo
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Spicer, Andrew. ''Historical Dictionary of Film Noir''. Scarecrow Press, 2010.
+
+==External links==
+*{{IMDb title|id=0045202}}
+
+{{Mario Soldati |state=collapsed}}
+{{Graham Greene|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stranger's Hand}}
+[[Category:1954 films]]
+[[Category:1954 thriller films]]
+[[Category:Films directed by Mario Soldati]]
+[[Category:Films scored by Nino Rota]]
+[[Category:Films based on works by Graham Greene]]
+[[Category:British thriller films]]
+[[Category:Films produced by Angelo Rizzoli]]
+[[Category:Novels by Graham Greene]]
+[[Category:Films shot in Venice]]
+[[Category:1950 British novels]]
+[[Category:1950 English-language novels]]
+[[Category:Italian thriller films]]
+[[Category:1954 drama films]]
+[[Category:Films scored by Alessandro Cicognini]]
+[[Category:English-language Italian films]]
+[[Category:1954 Italian-language films]]
+[[Category:British black-and-white films]]
+[[Category:Italian black-and-white films]]
+[[Category:British Lion Films films]]
+[[Category:1954 English-language films]]
+[[Category:1954 British films]]
+[[Category:1954 Italian films]]
+[[Category:English-language thriller films]]
+
+{{1950s-Italy-film-stub}}
+{{1950s-thriller-film-stub}}

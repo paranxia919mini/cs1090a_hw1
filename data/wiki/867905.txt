@@ -1,0 +1,129 @@
+{{Short description|1949 film directed by Akira Kurosawa}}{{Use dmy dates|date=April 2026}}{{About|the 1949 film|other media titled ''Stray Dog''|Stray dog (disambiguation)}}{{Expand language|langcode=ja}}
+{{Infobox film
+| name           = Stray Dog
+| image          = Nora inu poster.jpg
+| caption        = Theatrical release poster
+| native_name    = <!-- {{Infobox name module|language|title}} or {{Infobox name module|title}} -->
+| director       = [[Akira Kurosawa]]
+| screenplay     = Akira Kurosawa<br>[[Ryūzō Kikushima]]
+| producer       = [[Sōjirō Motoki]]
+| starring       = {{Plainlist|
+* [[Toshiro Mifune]]
+* [[Takashi Shimura]]
+* [[Keiko Awaji]]
+* [[Noriko Sengoku]]
+* [[Noriko Honma]]
+* {{Ill|Eiko Miyoshi|ja|三好栄子}}
+* {{Ill|Hajime Izu|ja|伊豆肇}}
+* [[Ichiro Sugai]]
+* [[Minoru Chiaki]]
+* [[Eijirō Tōno]]
+* {{Ill|Teruko Kishi|ja|岸輝子}}
+* [[Iida Chōko]]
+* {{Ill|Reikichi Kawamura|ja|河村黎吉}}
+<!-- Per poster -->
+}}
+| cinematography = [[Asakazu Nakai]]
+| editing        = Toshio Goto
+| music          = [[Fumio Hayasaka]]
+| studio         = {{Plainlist|
+* [[Shintoho]]
+* Film Art Association{{Sfn|Galbraith|2008|p=73}}
+}}
+| distributor    = [[Toho]]
+| released       = {{Film date|df=yes|1949|10|17}}
+| runtime        = 122 minutes{{Sfn|Galbraith|2008|p=73}}
+| country        = Japan
+| language       = Japanese
+| budget         = 
+| gross          = 
+}}
+
+{{Nihongo|'''''Stray Dog'''''|[[wikt:野良犬|野良犬]]|Nora Inu|lead=yes}} is a 1949 Japanese [[Crime film|crime]] [[Drama (film and television)|drama]] [[Film noir|noir film]] directed and co-written by [[Akira Kurosawa]], starring [[Toshiro Mifune]] and [[Takashi Shimura]]. It was Kurosawa's second film of 1949 produced by the Film Art Association and released by [[Shintoho]]. It is also considered a [[Mystery film|detective movie]] (among the earliest films in that genre)<ref>{{cite book|last1=Broe|first1=Dennis|title=Class, Crime and International Film Noir: Globalizing America's Dark Art|date=2014|publisher=Palgrave Macmillan|location=London|isbn=978-1137290137|pages=162–67|url=https://books.google.com/books?id=BbyuAwAAQBAJ|access-date=June 9, 2017}}</ref> that explores the mood of Japan during its painful [[postwar Japan|postwar]] recovery, as well as a precursor to the contemporary [[police procedural]] and [[buddy cop film]] genres, based on its premise of pairing two cops with different personalities and motivations together on a difficult case.<ref>{{cite journal|title=Film International, Volume 4, Issues 1-6 |journal=[[Film International]]|year=2006|volume=4|issue=1–6|url=https://books.google.com/books?id=y50qAQAAIAAJ|access-date=28 April 2012|page=163|publisher=[[Arts Council Norway|Kulturrådet]]|location=Sweden|quote=In addition to being a masterful precursor to the buddy cop movies and police procedurals popular today, ''Stray Dog'' is also a complex genre film that examines the plight of soldiers returning home to post-war Japan.}}</ref>
+
+==Plot==
+The film takes place during a [[heatwave]] in the middle of summer in post-war [[Tokyo]]. Murakami, a newly-promoted homicide detective in the Tokyo police, has his [[Colt Model 1908 Vest Pocket|Colt]] pistol stolen while riding on a crowded [[Trolleybus|trolley]]. He chases the [[pickpocket]], but loses him. A remorseful Murakami reports the theft to his superior, Nakajima, at police headquarters. After Nakajima encourages him to conduct an investigation into the theft, the inexperienced Murakami gets a lead from one of the women who traveled in the trolley and goes [[undercover police|undercover]] in the city's backstreets for days, trying to infiltrate the illicit [[arms dealing|arms market]]. He eventually locates a dealer who agrees to sell him a stolen gun, but when Murakami arrests the dealer's girlfriend at the exchange, he is distraught to find that she doesn't know anything about his missing gun.  
+
+With the aid of a test-fired bullet retrieved from a tree trunk by Murakami, the police [[Forensic firearm examination|forensic firearms expert]] determines that Murakami's Colt was used to rob a woman of ¥40,000. Nakajima partners him up with veteran detective Satō. After Satō skillfully questions the girlfriend, the two detectives learn that the gun dealer Tachibana, who is using the alias of 'Honda', is a fan of [[baseball]]. They stake-out a local high-attendance baseball game looking for Tachibana and manage to lure him away from the crowd before taking him into custody. A rice ration card found on his person reveals that the gun was loaned to Yusa, a disenchanted war veteran who has become involved with the [[yakuza]] to support himself. The detectives interview Yusa's sister, one of his yakuza associates, and his sweetheart, showgirl Harumi Namiki, but none of these visits produce any useful leads. Satō takes Murakami to eat at his place, where he meets Satō's wife and children. 
+
+Murakami's gun is used again, and this time, during a robbery, a woman is murdered. He and Satō continue to question Namiki at her mother's house. She is still reluctant to talk, so Satō leaves to trace Yusa's movements, while Murakami remains behind hoping that Namiki's mother can persuade her to begin cooperating. Satō finds the hotel where Yusa is staying. He tries to call Murakami, but just as he is about to reveal Yusa's location, the criminal (having overheard the hotel owners mention that a cop is present) shoots Satō twice before making his escape. Satō, badly wounded but alive, staggers out the door, passes out from blood loss, and is taken to the hospital. A distraught Murakami is forcibly removed from the hospital on Nakajima's orders when he becomes disruptive and starts wailing loudly. 
+
+The following morning, Namiki has a change of heart and informs Murakami that Yusa called and asked her to meet him at a train station so they can skip town. Murakami races to the station and manages to get a positive identification on Yusa by taking into account his age, white suit stained with mud, and left-handedness, three tips he has collected over the past few days. Yusa tries to flee and Murakami pursues him into the forest; Yusa is able to wound him in the arm, but then panics, wastes his last two bullets, and throws the gun away. Murakami, in spite of his injury, wrestles Yusa down, handcuffs him, retrieves the gun, and takes him into custody. Days later at the hospital, Satō has recovered and congratulates Murakami on receiving his first citation. Murakami admits that he sympathizes with Yusa's situation, to which Satō replies that there are lots more like Yusa and that he will lose such sentimentality over time as he arrests more people.
+
+==Cast==
+{{castlist|
+*[[Toshiro Mifune]] as Detective Murakami
+*[[Takashi Shimura]] as Detective Satō
+*[[Keiko Awaji]] as Harumi Namiki
+*[[Eiko Miyoshi]] as Harumi's mother
+*[[Noriko Honma]] as Wooden Tub Shop woman
+*[[Isao Kimura]] as Yusa
+*[[Minoru Chiaki]] as Girlie Show director
+*[[Ichiro Sugai]] as Yayoi Hotel owner
+*[[Gen Shimizu]] as Chief Inspector Nakajima
+*[[Reikichi Kawamura]] as Officer Ichikawa
+*[[Noriko Sengoku]] as Girl
+}}
+
+==Production==
+[[Image:StrayDogShadows.jpg|right|thumb|alt=Black-and-white image of two men facing the left of frame, walking in front of a brick wall. A bold series of vertically striped shadows covers the entire image. The middle-aged man to the right wears a white fedora, a medium-dark suit, and an open-collared white shirt. In front of him, to the left of the image, a younger, taller man wears a cream-toned suit, a white beret and shirt, and a light striped tie. Each man holds a pistol in his right hand.|''Stray Dog'' contains elements associated with [[film noir]] and was a precursor to the [[buddy cop film]] genre.]]
+''Stray Dog'' was directed by Akira Kurosawa. Kurosawa and [[Ryūzō Kikushima|Ryuzo Kikushima]] co-wrote the screenplay, and the film was co-produced by [[Shintoho]] and the Film Art Association.{{Sfn|Galbraith |2002|p=110}}{{Sfn|Galbraith|2008|p=74}}
+
+''Stray Dog'' was the first time that Kurosawa collaborated with [[Ryūzō Kikushima|Ryuzo Kikushima]], with the former sending the latter to the [[Tokyo Metropolitan Police Department]] to collect cases that they could use as the basis for the script of the film, choosing a case where a young detective lost his pistol. It also takes inspiration from contemporary debates in Japan about the ''"après-guerre"'' generation with its apparent rise in delinquency and crime. Despite being one of Akira Kurosawa's most critically renowned postwar films, ''Stray Dog'' was not always held in such high regard by the director himself. Kurosawa initially said that he thought little of the film, calling it "too technical" and also remarking that it contains "all that technique and not one real thought in it." His attitude had changed by 1982, when he wrote in his autobiography that "no shooting ever went as smoothly," and that "the excellent pace of the shooting and the good feeling of the crew can be sensed in the finished film."<ref>{{cite web|url=http://www.criterion.com/current/posts/323-stray-dog-kurosawa-comes-of-age |title=''Stray Dog'': Kurosawa Comes of Age|publisher=criterion.com|access-date=2011-10-12}}</ref> However, Kurosawa was rankled when someone from the [[American Society for the Prevention of Cruelty to Animals|ASPCA]] accused him of infecting a dog with rabies for the movie's opening shot of a canine panting in the heat. He had to write a letter to American [[occupation of Japan|occupation]] officials denying the allegation, and he later said that he never felt "a stronger sense of regret over Japan's losing the war."{{Sfn|Conrad|2022|p=68-73}}{{Sfn|Kurosawa|1983|p=174}}<!-- While filming for Stray Dog, an open set was destroyed by winds from Typhoon Kitty. -->
+
+He mentioned in several interviews that his script was inspired by [[Jules Dassin]]’s ''[[The Naked City]]'' and the works of [[Georges Simenon]].<ref>{{cite web|url=http://imagesjournal.com/2004/reviews/straydog/ |title=DVD Review of Stray Dog by Gary Morris|publisher=imagesjournal.com|access-date=2011-10-12}}</ref> Kurosawa heard of a detective who had lost his pistol, and based the screenplay on an unpublished novel Kurosawa wrote around the anecdote within six weeks.{{Sfn|Galbraith |2002|p=109-110}} He attempted to rewrite the novel as a screenplay and finished it within around two months.{{Sfn|Kurosawa|1983|p=Something Like and Autobiography}} He initially planned the opening scenes to be in chronological order as in the novel, which he found its pacing unsatisfactory for a drama.{{Sfn|Galbraith|2002|p=110}}{{Sfn|Richie|1998|p=63}}
+
+<!-- Stray Dog was shot at Oizumi Studio [note on Toho strikes] (Kurosawa 1983 174) -->''Stray Dog'' was mostly shot at a studio rented by Toho with more than thirty sets built. [[Ishirō Honda]], who would go on to direct several monster movies such as ''[[Godzilla (1954 film)|Godzilla]]'' and ''[[Mothra (film)|Mothra]]'', served as Kurosawa's chief assistant, shooting second unit footage for the 10-minute long sequence of Murakami roaming through Tokyo, and often doubled for [[Toshiro Mifune]] in waist shots. Kurosawa later praised Honda for helping him capture the atmosphere of post-World War II Tokyo. The film marks the first appearances of [[Minoru Chiaki]], [[Noriko Honma]] and [[Isao Kimura]] in a Kurosawa film. Chiaki would go on to appear in ten more movies by the director, Honma played the medium in ''[[Rashomon]]'' and Kimura played the youngest of the seven samurai in ''[[Seven Samurai]]''. The baseball game scene was shot at the actual [[Korakuen Stadium]].
+
+The film was also the debut of then sixteen-year old [[Keiko Awaji]], who plays Harumi Namiki, a dancer and the girlfriend of Yusa, the villain of the film. She was chosen over other actresses because of her mean looks. Kurosawa described her as being too spoiled and that she could not cry on cue, and never cast her again in another movie of his. Awaji would later regret her unprofessionalism during filming. Kurosawa became so close with his cast and crew during filming that he remarked later it was difficult for him to break up with them after filming was completed.<ref>Akira Kurosawa, ''[[Something Like an Autobiography]]'', 1981</ref><!-- Production was finished in September 1949.{{sfn|Galbraith|2002|p=113}} -->
+
+==Release==
+''Stray Dog'' was distributed theatrically by [[Toho]] in Japan on 17 October 1949.{{sfn|Galbraith|2008|p=74}} The film received a theatrical release in the United States by Toho International with English subtitles on 31 August 1963.{{sfn|Galbraith|2008|p=74}}
+
+==Reception==
+''Stray Dog'' holds a 100% approval rating on [[Rotten Tomatoes]] based on 20 reviews, with an average rating of 7.90/10.<ref>{{cite web|url=https://www.rottentomatoes.com/m/1020312-stray_dog |title=Stray Dog (Nora inu) (1963) |publisher=Rotten Tomatoes |access-date=July 12, 2025}}</ref> At the 1950 [[Mainichi Film Concours]], it won awards for Best Actor (Takashi Shimura), Best Film Score (Fumio Hayasaka), Best Cinematography ([[Asakazu Nakai]]) and Best Art Direction ([[Sō Matsuyama]]).{{sfn|Galbraith|2008|pp=73, 74}} The film was included on Japanese film magazine ''[[Kinema Junpo]]''{{'s}} "Best Ten" of the year at third place.{{sfn|Galbraith|2008|p=74}} In 2009, the film was voted at No. 10 on the list of The Greatest Japanese Films of All Time by ''[[Kinema Junpo]]''.<ref>{{cite web|url=http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version|title=Greatest Japanese films by magazine Kinema Junpo (2009 version)|access-date=2011-12-26|archive-url=https://archive.today/20120711021342/http://mubi.com/topics/greatest-japanese-films-by-magazine-kinema-junpo-2009-version|archive-date=July 11, 2012|url-status=dead}}</ref>
+
+==Remake==
+The film was remade in 1973, under the name ''[[Nora Inu (1973 film)|Nora Inu]]'', for [[Shochiku]].{{sfn|Galbraith|2008|p=74}} It was later remade for television in 2013.<ref>{{cite web|title=Nora inu |url=http://www.tv-asahi.co.jp/norainu/ |url-status=dead |archive-url=https://web.archive.org/web/20130114215856/http://www.tv-asahi.co.jp/norainu/ |archive-date=January 14, 2013 }}</ref>
+
+An Indian [[Tamil language|Tamil]] film, ''[[8 Thottakkal]]'', was loosely inspired by the film,<ref>{{Cite news|url=https://www.thehindu.com/entertainment/reviews/senapathi-movie-review-rajendra-prasad-naresh-agastya-impress-in-this-fairly-engrossing-crime-drama/article38079039.ece|title='Senapathi' movie review: Rajendra Prasad unleashes his darker side|newspaper=The Hindu|date=31 December 2021|last1=Dundoo|first1=Sangeetha Devi|access-date=3 January 2022|archive-date=3 January 2022|archive-url=https://web.archive.org/web/20220103024915/https://www.thehindu.com/entertainment/reviews/senapathi-movie-review-rajendra-prasad-naresh-agastya-impress-in-this-fairly-engrossing-crime-drama/article38079039.ece|url-status=live}}</ref> which was remade in Kannada as ''[[8MM Bullet]]'' (2018),<ref>{{Cite web|url=https://bangaloremirror.indiatimes.com/entertainment/reviews/8mm-bullet-movie-review-flick-claims-to-be-inspired-by-akira-kurosawas-1949-film-stray-dog-but-thats-only-half-true/articleshow/66654519.cms|title=8MM Bullet Movie Review: Flick claims to be inspired by Akira Kurosawa's 1949 film Stray Dog but that's only half true|access-date=17 November 2018|archive-date=17 November 2018|archive-url=https://web.archive.org/web/20181117233315/https://bangaloremirror.indiatimes.com/entertainment/reviews/8mm-bullet-movie-review-flick-claims-to-be-inspired-by-akira-kurosawas-1949-film-stray-dog-but-thats-only-half-true/articleshow/66654519.cms|url-status=live}}</ref> Telugu as ''[[Senapathi]]'' (2021),<ref>{{Cite news|url=https://www.thehindu.com/entertainment/reviews/senapathi-movie-review-rajendra-prasad-naresh-agastya-impress-in-this-fairly-engrossing-crime-drama/article38079039.ece|title='Senapathi' movie review: Rajendra Prasad unleashes his darker side|newspaper=The Hindu|date=31 December 2021|last1=Dundoo|first1=Sangeetha Devi|access-date=3 January 2022|archive-date=3 January 2022|archive-url=https://web.archive.org/web/20220103024915/https://www.thehindu.com/entertainment/reviews/senapathi-movie-review-rajendra-prasad-naresh-agastya-impress-in-this-fairly-engrossing-crime-drama/article38079039.ece|url-status=live}}</ref> and Malayalam as ''[[Corona Papers]]'' (2023).
+
+==References==
+{{Reflist}}
+
+===Sources===
+{{Refbegin}}
+* {{cite book|last=Conrad |first=David |author-link=David Conrad |year=2022 |title=Akira Kurosawa and Modern Japan |publisher=[[McFarland & Co.]] |isbn=978-1-4766-8674-5 |location=North Carolina}}
+* {{cite book |last=Galbraith |first=Stuart IV |author-link=Stuart Galbraith IV |year=2008 |title=The Toho Studios Story: A History and Complete Filmography |publisher=[[Scarecrow Press]] |isbn=978-1461673743}}
+* {{cite book |last=Galbraith |first=Stuart IV |author-link=Stuart Galbraith IV |year=2002 |isbn=9780571199822 |edition=1st |location=London |title=The Emperor and the wolf: the lives and films of Akira Kurosawa and Toshiro Mifune |title-link=The Emperor and the Wolf |publisher=[[Faber & Faber]]}}
+* {{Cite book |last=Kurosawa |first=Akira |title=Something Like and Autobiography |title-link=Something Like an Autobiography |date=1983}}
+* {{cite book |last=Richie |first=Donald |author-link=Donald Richie |year=1998 |title=The Films of Akira Kurosawa |title-link=The Films of Akira Kurosawa |publisher=[[University of California Press]]}}
+{{Refend}}
+
+==External links==
+{{Commons category|Stray Dog}}
+* {{IMDb title|0041699}}
+* [https://www.criterion.com/current/posts/604-excess-in-stray-dog "Excess in ''Stray Dog''{{-"}}], an essay by Chris Fujiwara at the [[Criterion Collection]]
+* ''[http://www.jmdb.ne.jp/1949/by001430.htm Stray Dog]'' {{in lang|ja}} at the [[Japanese Movie Database]]
+
+{{Akira Kurosawa}}
+{{Authority control}}
+[[Category:1949 Japanese films]]
+[[Category:1940s crime thriller films]]
+[[Category:Japanese black-and-white films]]
+[[Category:Japanese crime thriller films]]
+[[Category:1940s Japanese-language films]]
+[[Category:Film noir]]
+[[Category:Films directed by Akira Kurosawa]]
+[[Category:Films set in Tokyo]]
+[[Category:Films shot in Tokyo]]
+[[Category:Police detective films]]
+[[Category:Procedural films]]
+[[Category:Films with screenplays by Akira Kurosawa]]
+[[Category:Films with screenplays by Ryuzo Kikushima]]
+[[Category:Films scored by Fumio Hayasaka]]
+[[Category:Films produced by Sōjirō Motoki]]
+[[Category:1940s police procedural films]]
+[[Category:Fictional portrayals of the Tokyo Metropolitan Police Department]]
+[[Category:Shintoho films]]
+[[Category:Japanese detective films]]

@@ -1,0 +1,179 @@
+{{short description|1999 film by David Cronenberg}}
+{{About|the film}}
+{{more citations needed|date=July 2015}}
+{{Infobox film
+| name           = eXistenZ
+| image          = EXISTENZ.jpg
+| alt            = 
+| caption        = Theatrical release poster
+| director       = [[David Cronenberg]]
+| producer       = {{plainlist|
+* David Cronenberg
+* András Hámori
+* [[Robert Lantos]]
+}}
+| writer         = David Cronenberg
+| starring       = {{plainlist|
+* [[Jennifer Jason Leigh]]
+* [[Jude Law]]
+* [[Ian Holm]]
+* [[Don McKellar]]
+* [[Callum Keith Rennie]]
+* [[Sarah Polley]]
+* [[Robert A. Silverman]]
+* [[Christopher Eccleston]]
+* [[Willem Dafoe]]
+}}
+| music          = [[Howard Shore]]
+| cinematography = [[Peter Suschitzky]]
+| editing        = [[Ronald Sanders (film editor)|Ronald Sanders]]
+| studio         = {{plainlist|
+* [[The Movie Network]]
+* [[Natural Nylon]]
+* [[Telefilm Canada|Téléfilm Canada]]
+* Serendipity Point Films
+}}
+| distributor    = {{Plainlist|
+* [[Alliance Films|Alliance Atlantis Releasing]] (Canada)
+* [[Momentum Pictures|Alliance Atlantis Releasing UK]] (United Kingdom)<ref>{{cite web|title=Film #12098: eXistenZ|work=[[Lumiere (website)|Lumiere]]|access-date=20 May 2021|url=http://lumiere.obs.coe.int/web/film_info/?id=12098|archive-date=20 May 2021|archive-url=https://web.archive.org/web/20210520072635/http://lumiere.obs.coe.int/web/film_info/?id=12098|url-status=live}}</ref><ref>{{cite web|title=UGC PH founder Philippe Hellmann dies|website=[[Screen International]]|first=Wendy|last=Mitchell|date=16 November 2010|access-date=15 March 2023|url=https://www.screendaily.com/ugc-ph-founder-philippe-hellmann-dies/5020604.article|archive-date=11 June 2014|archive-url=https://web.archive.org/web/20140611104142/http://www.screendaily.com/ugc-ph-founder-philippe-hellmann-dies/5020604.article|url-status=live}}</ref>
+}}
+| released       = {{Film date|1999|04|23|North America|1999|04|30|United Kingdom}}
+| runtime        = 97 minutes<!--Theatrical runtime: 96:51--><ref>{{cite web |title=''EXISTENZ'' (15) |url=https://www.bbfc.co.uk/release/existenz-q29sbgvjdglvbjpwwc0zmdg1mjk |publisher=[[British Board of Film Classification]] |date=April 30, 1999 |access-date=September 3, 2015 |archive-date=May 19, 2021 |archive-url=https://web.archive.org/web/20210519061208/https://www.bbfc.co.uk/release/existenz-q29sbgvjdglvbjpwwc0zmdg1mjk |url-status=live }}</ref>
+| country        = {{plainlist|
+* Canada
+* United Kingdom<ref>{{cite web|title=Film #12098: eXistenZ|work=[[Lumiere (website)|Lumiere]]|access-date=20 May 2021|url=http://lumiere.obs.coe.int/web/film_info/?id=12098|archive-date=20 May 2021|archive-url=https://web.archive.org/web/20210520072635/http://lumiere.obs.coe.int/web/film_info/?id=12098|url-status=live}}</ref><ref>{{cite magazine|magazine=[[Sight & Sound]]|title=eXistenZ|last=Jackson|first=Kevin|page=46|date=May 1999|issn=0037-4806|publisher=[[British Film Institute]]|volume=9|issue=5}}</ref>}}
+| language       = English
+| budget         = {{plainlist|
+* [[Canadian dollar|CAD]]31 million
+* ([[USD]]15 million<ref name="mojo">{{cite web |title=eXistenZ |url=https://boxofficemojo.com/movies/?id=existenz.htm |publisher=[[Box Office Mojo]] |access-date=September 3, 2015 |archive-date=September 5, 2015 |archive-url=https://web.archive.org/web/20150905214015/http://www.boxofficemojo.com/movies/?id=existenz.htm |url-status=live }}</ref>)
+}}
+| gross          = $5.5 million (Canada/UK/US)
+}}
+'''''Existenz''''' (stylized as '''''eXistenZ''''') is a 1999 [[Science fiction film|science fiction]] [[horror film]] written, produced and directed by [[David Cronenberg]]. The film follows Allegra Geller ([[Jennifer Jason Leigh]]), a game designer who becomes the target of assassins while playing a [[virtual reality]] game of her own creation.<ref>{{Cite news |last=Howe |first=Desson |title=Heightened 'eXistenZ' |url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/existenzhowe.htm |newspaper=Washington Post |access-date=2023-07-20 |archive-date=2000-08-16 |archive-url=https://web.archive.org/web/20000816212216/http://washingtonpost.com/wp-srv/style/longterm/movies/videos/existenzhowe.htm |url-status=live }}</ref> An international co-production between Canada, the United Kingdom, and France, it also stars [[Jude Law]], [[Ian Holm]], [[Don McKellar]], [[Callum Keith Rennie]], [[Sarah Polley]], [[Christopher Eccleston]], [[Willem Dafoe]], and [[Robert A. Silverman]].<ref>{{Cite web |last=Sears |first=Abbie |date=2019-08-12 |title=David Cronenberg's eXistenZ in relation to Videodrome {{!}} 25YL |url=https://horrorobsessive.com/2019/08/12/david-cronenbergs-existenz-in-relation-to-videodrome/ |access-date=2023-07-20 |website=Horror Obsessive |language=en-US |archive-date=2023-07-20 |archive-url=https://web.archive.org/web/20230720190813/https://horrorobsessive.com/2019/08/12/david-cronenbergs-existenz-in-relation-to-videodrome/ |url-status=live }}</ref>
+
+The film received mostly positive reviews upon release. Cronenberg was awarded the [[Silver Bear|Silver Bear for Outstanding Artistic Contribution]] at the [[49th Berlin International Film Festival]].
+
+== Plot ==
+In the near future, virtual reality games are played on [[biotechnological]] "game pods" that attach to people's "bio-ports", connectors surgically inserted into players' spines. Two game companies, Antenna Research and Cortical Systematics, compete against each other. In addition, a group of fanatics called Realists fight both companies, decrying the "deforming" of reality by virtual reality games.
+
+World-renowned game designer Allegra Geller demonstrates Antenna Research's latest [[virtual reality]] game, ''eXistenZ'', to a focus group. The demonstration is disrupted by Noel Dichter, a Realist who shoots Geller with an organic pistol he smuggled past security. As Dichter is gunned down, security guard and publicist Ted Pikul escorts Geller to safety.
+
+Geller discovers that her pod, which contains the only copy of ''eXistenZ'', may have been damaged. Pikul reluctantly agrees to have a bio-port installed in his spine so they can jointly test the game's integrity. Geller takes him to a gas station run by black-marketeer Gas, who deliberately installs a faulty bio-port into Pikul's spine. He reveals his intention to kill Geller for the bounty on her head, but Pikul kills him. The two hide at a former ski lodge used by Geller's mentor Kiri Vinokur, who repairs the damaged pod and gives Pikul a new bio-port.
+
+Testing the game, Geller and Pikul meet D'Arcy Nader, who provides them with new "micro pods," enabling them to enter a deeper layer of virtual reality. There they assume new identities as workers Larry Ashen and Barb Bricken in a game pod factory. Another worker in the factory, Yevgeny Nourish, claims to be their Realist contact. At a Chinese restaurant near the factory, Nourish instructs that they order "the special" for lunch. Pikul eats the unappetizing special, and constructs a pistol from the inedible parts. He impulsively threatens Geller, then shoots the Chinese waiter. When the pair return to the game store, Hugo Carlaw informs them that Nourish is actually a double agent for Cortical Systematics, and the waiter which Pikul murdered was the actual contact.
+
+At the factory, they find a diseased pod. Geller connects it to her bio-port, planning to infect the other pods and sabotage the factory. When Geller quickly becomes ill, Pikul cuts her free from the pod, but she begins to bleed to death. Nourish appears with a flamethrower and blasts the diseased pod, which bursts into deadly spores.
+
+Geller and Pikul awaken back at the ski lodge, where they discover Geller's game pod is also diseased. Geller surmises that Vinokur must have infected Pikul's new bio-port to destroy her game, and she inserts a disinfecting device into Pikul's bio-port. Unexpectedly, Carlaw reappears as a Realist resistance fighter and escorts Geller and Pikul outside to witness the death of ''eXistenZ''. Before Carlaw can kill Geller, Vinokur, who is a double agent for Cortical Systematics, shoots Carlaw in the back and informs Geller that he copied her game data while fixing her pod; she then vengefully kills Vinokur. Pikul then reveals that he himself is a Realist sent to kill her. Geller, having figured out his intentions since he pointed the gun at her in the Chinese restaurant, detonates the disinfecting device in his bio-port, killing him.
+
+Suddenly, Pikul and Geller awaken in a small church, together with all of the other members of the cast, all wearing blue electronic virtual reality devices. It is revealed that all preceding events took place within Nourish's new virtual reality game, PilgrImage's ''transCendenZ''. The test group praise the game, and reflect on their character roles.
+
+Nourish tells his assistant Merle that he feels uneasy, as the heavy anti-game plot elements may have originated from one of the testers' thoughts. Pikul and Geller approach Nourish and accuse him of distorting reality, before fatally shooting him and Merle, and shouting Realist sentiments. The test group do not react. As Pikul and Geller leave, they aim their guns at the person who played the Chinese waiter, who first pleads for his life, then asks if they are still in the game. Pikul and Geller do not answer.
+
+== Cast ==
+{{Cast listing|
+* [[Jennifer Jason Leigh]] as Allegra Geller<ref>{{cite web|first=Micheal|last=Mullen|url=http://headline.gamespot.com/news/98_04/13_extenvg/index.html|archiveurl=https://web.archive.org/web/20001020071428/http://headline.gamespot.com/news/98_04/13_extenvg/index.html|title=Jennifer Jason Leigh as Game Maker?|website=[[GameSpot]]|archivedate=October 20, 2000|date=April 13, 1998|accessdate=November 6, 2022}}</ref>
+* [[Jude Law]] as Ted Pikul
+* [[Ian Holm]] as Kiri Vinokur
+* [[Don McKellar]] as Yevgeny Nourish
+* [[Callum Keith Rennie]] as Hugo Carlaw
+* [[Sarah Polley]] as Merle
+* [[Christopher Eccleston]] as the Seminar Leader
+* [[Willem Dafoe]] as Gas
+* [[Robert A. Silverman]] as D'Arcy Nader
+* Oscar Hsu as Chinese Waiter
+* [[Kris Lemche]] as Noel Dichter
+* [[Vik Sahay]] as Male Assistant
+}}
+
+==Production==
+{{expand section|date=November 2017}}
+
+The film's plot came about after Cronenberg conducted an interview with [[Salman Rushdie]] for [[Shift (magazine)|''Shift'' magazine]] in 1995. At the time, Rushdie was in hiding due to a [[fatwa]] having been put on his life, due to his controversial book ''[[The Satanic Verses]]''.<ref name="ExistenzCF">{{cite magazine |last= Jones|first=Alan |date=May 1999|title= eXistenZ |url= https://archive.org/details/cinefantastique_1970-2002/Cinefantastique%20Vol%2031%20No%205%20%28May%201999%29/page/n6/mode/1up|magazine=Cinefantastique |location= |publisher= Fourth Castle Micromedia|access-date= January 25, 2026}}</ref><ref>{{Cite news |last=Dee |first=Jonathan |date=2005-09-18 |title=David Cronenberg's Body Language |language=en-US |work=The New York Times |url=https://www.nytimes.com/2005/09/18/magazine/david-cronenbergs-body-language.html |access-date=2023-07-20 |issn=0362-4331 |archive-date=2023-07-20 |archive-url=https://web.archive.org/web/20230720191743/https://www.nytimes.com/2005/09/18/magazine/david-cronenbergs-body-language.html |url-status=live }}</ref> Rushdie's dilemma gave Cronenberg an idea of "a Fatwa [sic] against a virtual-reality game designer". ''Existenz'' was originally pitched to [[Metro-Goldwyn-Mayer]], but they did not [[green-light]] the film due to its complex structure.<ref name= "ExistenzCF"/><ref>{{cite news |author=Richard von Busack |date=April 22–28, 1999 |title=Pod Man Out: A virtual-reality game turns reality inside out in David Cronenberg's 'eXistenZ' |url=http://www.metroactive.com/papers/metro/04.22.99/existenz-9916.html |work=Metro Silicon Valley |access-date=September 3, 2015 |archive-date=December 20, 2016 |archive-url=https://web.archive.org/web/20161220201052/http://www.metroactive.com/papers/metro/04.22.99/existenz-9916.html |url-status=live }}</ref>
+
+This was Cronenberg's first original script since ''[[Videodrome]]''.{{sfn|Mathijs|2008|p=217}}
+
+Cronenberg deliberately avoided using conventional futuristic imagery in the film. He chose not to include computers, television sets or screens, and also excluded mirrors, jewellery, patterned clothing and trainers from the production design and costumes. These choices were meant to subtly disorient the audience rather than create an explicitly futuristic setting.<ref>{{Cite web |last=Rapp |first=Alan E. |date=1999-04-29 |title=You can never read too much into it |url=https://www.salon.com/1999/04/29/cronenberg/ |access-date=2026-08-25 |website=Salon.com |language=en-US}}</ref>
+
+==Novelizations==
+* [[Christopher Priest (novelist)|Christopher Priest]] wrote the tie-in novel to accompany the film ''eXistenZ'', the theme of which has much in common with some of Priest's other novels.
+* In 1999, a [[graphic novel]] credited to David Cronenberg and Sean Scoffield was published.
+
+== Reception ==
+===Box office===
+The film grossed $2.9 million in Canada and the United States<ref name="mojo"/> and $2.6 million in the United Kingdom.<ref>{{cite magazine|magazine=[[Screen International]]|page=18|title=Top 10 UK Indie Releases|date=28 January 2000}}</ref> i.e. a total of $5.5 million in these three countries.
+
+===Critical reception===
+{{expand section|date=November 2017}}
+The film received generally positive reviews, with a 76% approval rating at [[Rotten Tomatoes]] based on 76 reviews, with an average rating of 6.7/10. The site's critical consensus reads, "Gooey, slimy, grotesque fun."<ref>{{Cite web |title=Existenz (1999) |url=https://rottentomatoes.com/m/existenz/ |publisher=[[Rotten Tomatoes]] |access-date=February 26, 2025|archive-date=September 2, 2015 |archive-url=https://web.archive.org/web/20150902020339/http://www.rottentomatoes.com/m/existenz/ |url-status=live }}</ref> [[Metacritic]] assigned a score of 68 out of 100, based on 29 critics, indicating "generally favorable reviews".<ref>{{cite web|url=https://www.metacritic.com/movie/existenz|title=eXistenZ|work=[[Metacritic]]|access-date=May 5, 2020|archive-date=October 2, 2020|archive-url=https://web.archive.org/web/20201002094841/https://www.metacritic.com/movie/existenz|url-status=live}}</ref>
+
+[[Roger Ebert]] gave the film three stars out of four in his review of the film, noting its release after fellow science-fiction film ''[[The Matrix]]''. He compared the two films, stating that while both have special effects, Cronenberg's film was stranger along with having his best effects involve "gooey, indescribable organic things".<ref>{{cite web|url=https://www.rogerebert.com/reviews/existenz-1999|title=Existenz Movie Review & Film Summary (1999) - Roger Ebert|first=Roger|last=Ebert|website=www.rogerebert.com|access-date=28 September 2018|archive-date=10 April 2019|archive-url=https://web.archive.org/web/20190410111221/https://www.rogerebert.com/reviews/existenz-1999|url-status=live}}</ref>
+
+Conversely, [[James Berardinelli]] gave the film a two out of four star rating in his review. He cites that the film had a "disjointed feel", and called it a "missed opportunity" that suffered from being released near ''The Matrix'' and ''[[Open Your Eyes (1997 film)|Open Your Eyes]]'', which he states did similar things that were accomplished better in those films.<ref>{{Cite web|url=https://www.reelviews.net/reelviews/existenz|title=eXistenZ|first=James|last=Berardinelli|website=Reelviews Movie Reviews|access-date=2020-03-07|archive-date=2020-06-07|archive-url=https://web.archive.org/web/20200607131820/https://www.reelviews.net/reelviews/existenz|url-status=live}}</ref>
+
+== Accolades ==
+'''[[49th Berlin International Film Festival|Berlin International Film Festival]]'''
+* Won, Silver Bear for outstanding artistic contribution [[David Cronenberg]]<ref name="Berlinale">{{cite web |url=https://www.berlinale.de/en/archive/jahresarchive/1999/03_preistraeger_1999/03_preistraeger_1999.html |title=Berlinale: 1999 Prize Winners |publisher=[[49th Berlin International Film Festival|Berlin Film Festival]] |access-date=September 3, 2015 |archive-date=February 22, 2021 |archive-url=https://web.archive.org/web/20210222214511/https://www.berlinale.de/en/archive/jahresarchive/1999/03_preistraeger_1999/03_preistraeger_1999.html |url-status=live }}</ref>
+* Nominated, Golden Bear: David Cronenberg
+
+'''[[Imagine Film Festival|Amsterdam Fantastic Film Festival]]'''
+* Won, Silver Scream: David Cronenberg
+
+'''[[Genie Award]]s'''
+* Won, Best Achievement in Editing: [[Ronald Sanders (film editor)|Ronald Sanders]]
+* Nominated, Best Achievement in Art Direction/Production Design: [[Carol Spier]], and Elinor Rose Galbraith
+* Nominated, Best Motion Picture: [[David Cronenberg]], [[Robert Lantos]], and Andras Hamori
+
+'''[[Golden Reel Award (Motion Picture Sound Editors)|Golden Reel Award]]s'''
+* Nominated, Best Sound Editing in a Foreign Feature: David Evans, Wayne Griffin, Mark Gingras, John Laing, Tom Bjelic, and Paul Shikata
+
+'''[[Saturn Award]]s'''
+* Nominated, Best Science Fiction Film (lost to ''[[The Matrix]]'')<ref>{{Cite web |last= |first= |date=2000-03-15 |title=‘Hollow’ carves most Saturn Awards noms |url=https://variety.com/2000/film/news/hollow-carves-most-saturn-awards-noms-1117779482/ |access-date=2026-02-10 |website=Variety |language=en-US}}</ref>
+
+== See also ==
+{{Portal|Film|Science Fiction}}
+* ''[[The Thirteenth Floor]]''
+* ''[[The Matrix]]''
+
+==References==
+{{reflist}}
+
+==Works cited==
+* {{cite book|last=Mathijs |first=Ernest |author-link=Ernest Mathijs |title=The Cinema of David Cronenberg: From Baron of Blood to Cultural Hero |publisher=[[Columbia University Press|Wallflower Press]] |date=2008 |url=https://archive.org/details/cinemaofdavidcro0000math |isbn=9781905674657}}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title|0120907}}
+* {{ISFDB title|id=197753|title=eXistenZ}} <!-- novelisation -->
+* {{mojo title|existenz|eXistenZ}}
+* {{rotten-tomatoes|existenz|eXistenZ}}
+* {{Metacritic film|title=eXistenZ}}
+
+{{David Cronenberg}}
+{{Authority control}}
+
+{{DEFAULTSORT:Existenz}}
+[[Category:1999 films]]
+[[Category:1999 science fiction horror films]]
+[[Category:Canadian body horror films]]
+[[Category:Canadian science fiction horror films]]
+[[Category:British science fiction horror films]]
+[[Category:British body horror films]]
+[[Category:English-language Canadian films]]
+[[Category:Films scored by Howard Shore]]
+[[Category:Films about video games]]
+[[Category:Films about virtual reality]]
+[[Category:Films directed by David Cronenberg]]
+[[Category:Films set in the future]]
+[[Category:Films shot in Toronto]]
+[[Category:Metafictional works]]
+[[Category:Dimension Films films]]
+[[Category:Alliance Atlantis films]]
+[[Category:UGC films]]
+[[Category:Serendipity Point Films films]]
+[[Category:1999 English-language films]]
+[[Category:1999 Canadian films]]
+[[Category:1999 British films]]
+[[Category:Biopunk films]]
+[[Category:English-language science fiction horror films]]
+[[Category:Films that won the Outstanding Artistic Contribution Silver Bear]]

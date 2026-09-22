@@ -1,0 +1,335 @@
+{{Short description|1985 film by John Hughes}}
+{{Other uses|Breakfast Club (disambiguation)}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=November 2025}}
+
+{{Infobox film
+| image          = The Breakfast Club poster.jpg
+| alt            = The five main characters huddled together, four seated in various poses and a girl lying across in front. 
+| caption        = Theatrical release poster by [[Annie Leibovitz]]
+| director       = [[John Hughes]]
+| writer         = John Hughes
+| producer       = {{Plainlist|
+* [[Ned Tanen]]
+* John Hughes
+}}
+| starring       = {{plainlist|<!--Per poster billing. Please do not add John Kapelos who is not mentioned here-->
+* [[Emilio Estevez]]
+* [[Paul Gleason]]
+* [[Anthony Michael Hall]]
+* [[Judd Nelson]]
+* [[Molly Ringwald]]
+* [[Ally Sheedy]]
+}}
+| cinematography = [[Thomas Del Ruth]]
+| editing        = [[Dede Allen]]
+| music          = [[Keith Forsey]]
+| studio         = {{Plainlist|
+* [[Universal Pictures]]<ref>{{cite web |title=AFI{{!}}Catalog - The Breakfast Club |url=https://catalog.afi.com/Catalog/moviedetails/55708 |website=[[American Film Institute]] |access-date=28 October 2025}}</ref>
+* [[A&M Films]]
+* [[Channel Productions]]
+}}
+| distributor    = Universal Pictures
+| released       = {{film date|1985|02|07|Los Angeles|1985|02|15|United States}}
+| runtime        = 97 minutes<!--Theatrical runtime: 97:03--><ref>{{cite web |url=https://www.bbfc.co.uk/releases/breakfast-club-1970-4 |title=The Breakfast Club |publisher=Bbfc.co.uk |access-date=July 30, 2014 |archive-date=January 10, 2014 |archive-url=https://web.archive.org/web/20140110230043/http://www.bbfc.co.uk/releases/breakfast-club-1970-4 |url-status=dead}}</ref>
+| country        = [[United States]]
+| language       = [[English language|English]]
+| budget         = $1 million<ref>{{cite web |url=http://soultrain.com/2014/09/25/80s-breakfast-club/ |title=The 80's: 'The Breakfast Club' |access-date=September 29, 2014|archive-url=https://web.archive.org/web/20141006092148/http://soultrain.com/2014/09/25/80s-breakfast-club/|url-status=dead|archive-date=October 6, 2014}}</ref>
+| gross          = $52.1 million<ref name="mojo">{{cite web |url=https://boxofficemojo.com/title/tt0088847/ |title=The Breakfast Club |website=Box Office Mojo |access-date=September 9, 2026 |archive-date=May 31, 2018 |archive-url=https://web.archive.org/web/20180531134831/http://www.boxofficemojo.com/movies/?id=breakfastclub.htm |url-status=live}}</ref>
+}}
+
+'''''The Breakfast Club''''' is a 1985 American [[Coming-of-age story|coming-of-age]] [[Comedy drama|comedy-drama film]] written, produced, and directed by [[John Hughes]]. It stars [[Emilio Estevez]], [[Paul Gleason]], [[Anthony Michael Hall]], [[Judd Nelson]], [[Molly Ringwald]], and [[Ally Sheedy]]. The film tells the story of five teenagers from different high school cliques who serve a [[School discipline#Non-corporal forms of disciplinary action|Saturday detention]] overseen by their authoritarian [[Vice Principal|vice principal]].
+
+Hughes had written the script in 1982, and began casting for the film after the release of ''[[Sixteen Candles]]'' (1984). Filming took place from March to May 1984, and the entire film was shot at [[Maine North High School]] in [[Des Plaines, Illinois]]. Although the film is technically not an [[independent film]] due to [[Universal Pictures]]' involvement as a producer, ''The Breakfast Club'' has been popularly recognized as one; the low budget, Universal not being the primary production company, and the overall feel of the film are factors to its recognition.<ref>{{cite web |url=https://www.filmindependent.org/blog/undercover-indies-how-the-breakfast-club-went-small-scale-and-created-a-cult-classic/#:~:text=The%20Breakfast%20Club%20is%20the,a%20lasting%20cinematic%20success%20story. |title=Undercover Indies: How 'The Breakfast Club' Went Small-Scale and Created a Cult Classic |work=Film Independent |date=October 14, 2021 |access-date=April 18, 2023 |archive-date=April 18, 2023 |archive-url=https://web.archive.org/web/20230418163654/https://www.filmindependent.org/blog/undercover-indies-how-the-breakfast-club-went-small-scale-and-created-a-cult-classic/#:~:text=The%20Breakfast%20Club%20is%20the,a%20lasting%20cinematic%20success%20story. |url-status=live}}</ref><ref name="popculturehits">{{cite web |url=https://collider.com/indie-movies-that-became-hits/ |title=10 Indie Movies That Became Pop Culture Hits |website=[[Collider (website)|Collider]] |date=March 6, 2023 |access-date=April 18, 2023 |archive-date=April 18, 2023 |archive-url=https://web.archive.org/web/20230418165311/https://collider.com/indie-movies-that-became-hits/ |url-status=live}}</ref>
+
+The film premiered in Los Angeles on February 7, 1985, and was theatrically released by Universal Pictures on February 15, 1985. It grossed $52.1 million against a $1 million budget, and earned acclaim from critics, who consider it to be one of Hughes's most memorable and recognized works, and is considered one of the cornerstone films of the 1980s. The media subsequently referred to the film's five main actors as members of a group called the "[[Brat Pack]]". In 2015, the film was digitally remastered and was re-screened in 430 theaters in celebration of its 30th anniversary.<ref>{{cite web |title=Breakfast Club 30 |url=http://www.BreakfastClub30.com |url-status=dead |archive-url=https://web.archive.org/web/20150311040341/http://breakfastclub30.com/ |archive-date=March 11, 2015 |access-date=May 3, 2021 |publisher=BreakfastClub30.com}}</ref>
+
+In 2016, ''The Breakfast Club'' was selected for preservation in the United States [[National Film Registry]] by the [[Library of Congress]] as being "culturally, historically, or aesthetically significant".<ref>{{cite magazine |url=https://www.rollingstone.com/movies/news/breakfast-club-rushmore-added-to-national-film-registry-w456002 |title='Breakfast Club,' 'Rushmore' Among Films Added to National Film Registry |author=Daniel Kreps |magazine=Rolling Stone |date=December 14, 2016 |access-date=December 21, 2017 |archive-date=December 22, 2017 |archive-url=https://web.archive.org/web/20171222053249/https://www.rollingstone.com/movies/news/breakfast-club-rushmore-added-to-national-film-registry-w456002 |url-status=live}}</ref><ref>{{cite news |url=https://www.washingtonpost.com/lifestyle/style/national-film-registry-honors-breakfast-club-rushmore-and-other-teen-angst-movies/2016/12/13/824a7fbe-be58-11e6-ac85-094a21c44abc_story.html |title=National Film Registry honors 'Breakfast Club,' 'Rushmore' and other teen angst movies |author=Michael O'Sullivan |newspaper=The Washington Post |date=December 14, 2016 |access-date=December 21, 2017 |archive-date=January 6, 2018 |archive-url=https://web.archive.org/web/20180106064753/https://www.washingtonpost.com/lifestyle/style/national-film-registry-honors-breakfast-club-rushmore-and-other-teen-angst-movies/2016/12/13/824a7fbe-be58-11e6-ac85-094a21c44abc_story.html |url-status=live}}</ref><ref>{{cite web|title=2012 National Film Registry Picks in A League of Their Own|url=https://www.loc.gov/item/prn-12-226/cinematic-firsts-enshrined-in-2012-film-registry/2012-12-19/|access-date=2020-09-18|website=Library of Congress|archive-date=November 26, 2020|archive-url=https://web.archive.org/web/20201126213632/https://www.loc.gov/item/prn-12-226/cinematic-firsts-enshrined-in-2012-film-registry/2012-12-19/|url-status=live}}</ref><ref>{{cite web|title=Complete National Film Registry Listing |url=https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/|access-date=2020-09-18|website=Library of Congress|archive-date=March 5, 2016|archive-url=https://web.archive.org/web/20160305191832/https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/|url-status=live}}</ref> The film has been considered as one of the best films of the 1980s, and one of the best [[teen films]] of all time.
+
+==Plot==
+<!-- The plot summary should be 400–700 words. Please see WP: FILMPLOT for more information. -->
+On Saturday, March 24, 1984, five students at [[Shermer High School]] in Shermer, Illinois, report for an all-day detention: socially awkward nerd Brian Johnson, jock Andrew Clark, shy loner Allison Reynolds, popular girl Claire Standish, and rebellious delinquent John Bender. They gather in the school library and meet with their Vice Principal Richard Vernon, who warns them not to talk or move from their seats and assigns each of them the task of writing a minimum one-thousand-word [[essay]] describing who they think they are.
+
+Bender ignores the rules and spends his time antagonizing the others and defying Vernon, who gives him eight additional weekends of detentions. After lunch, the students sneak off to retrieve Bender's [[Cannabis (drug)|marijuana]] stash from his locker. When they see Vernon returning to the library, Bender deliberately gets caught to allow the others to sneak back in. 
+
+Locked in a storage closet as punishment, Bender is further berated by Vernon. Vernon tells him that he wants Bender to prove how [[Machismo|tough]] he is and attempts to goad Bender into hitting him. Bender is visibly afraid and does not move. After Vernon leaves him, he escapes into the ceiling panels and falls into the library, where the others hide him from Vernon.
+
+The students pass the time arguing, listening to music, and smoking marijuana, gradually opening up about their home lives and their reasons for being in detention:  
+* Claire's popularity subjects her to intense [[peer pressure]], while her bickering parents use her against each other. She received detention for skipping school to go shopping. 
+* Bender reveals the [[physical abuse]] he and his mother suffer at the hands of his father, including [[Cigarette burns|cigar burns]] and other injuries. He is serving detention for pulling the fire alarm. 
+* Andrew became influenced by [[Jock (stereotype)|jock culture]] and is intimidated by his father to succeed in [[Scholastic wrestling|wrestling]], to the point of being unable to think for himself. He was given detention for taping a student's [[buttocks]] together in an attempt to win both his teammates' and his father's approval.
+* Brian is under so much academic pressure from his parents to get good grades that he contemplated suicide after getting an F in [[industrial arts|shop class]]. He was sent to detention for bringing a [[flare gun]] to school in order to commit suicide. The gun exploded in his locker.
+* Allison is compulsively dishonest with [[Child neglect|neglectful]] parents. She steals and hoards small things. She says that she will use them should she ever run away from home. She also says that she showed up to detention for lack of anything better to do.
+
+Despite their differences, the students realize they all face similar problems: Andrew and Allison bond over their complex relationships with their parents; Brian and Claire each feel anxiety over being virgins. While the group suspects that their new friendships will end once detention is over, they do admit they will look at their peers differently from now on.
+
+Meanwhile, Vernon complains to the janitor, Carl, that students have become increasingly arrogant over the course of his teaching career, but Carl suggests that Vernon is the one who has changed and cares too much about what the students think of him.
+
+The group convinces Brian to complete Vernon's essay on everyone's behalf. Claire gives Allison a [[makeover]], which sparks romantic interest from Andrew, and Bender crawls back through the ceiling to the closet, where Claire challenges her "pristine" reputation by kissing him. As the students part ways, Allison and Andrew kiss, and she rips the state championship patch off his letterman jacket to keep. Claire gives Bender one of her diamond earrings, and they share their own kiss.
+
+Vernon reads Brian's essay, which asserts that the vice principal has made [[Adolescent cliques#High school cliques|petty assumptions]] about all of them and declares that "each one of us is a brain (Brian), an athlete (Andrew), a basket case (Allison), a princess (Claire), and a criminal (Bender). Does that answer your question? Sincerely yours, the Breakfast Club." Bender walks home across the school's football field, triumphantly raising his fist in the air.
+
+==Cast==
+{{div col}}
+* [[Emilio Estevez]] as Andrew Clark, an athletic student in Saturday detention
+* [[Paul Gleason]] as Richard Vernon, the school vice principal who oversees the Saturday detention
+* [[Anthony Michael Hall]] as Brian Johnson, a brainy student in Saturday detention
+* [[John Kapelos]] as Carl Reed, a school janitor
+* [[Judd Nelson]] as John Bender, a delinquent student in Saturday detention
+* [[Molly Ringwald]] as Claire Standish, a popular student in Saturday detention
+* [[Ally Sheedy]] as Allison Reynolds, a loner student in Saturday detention
+* [[Ron Dean]] as Mr. Clark, Andrew's father
+* Mercedes Hall as Mrs. Johnson, Brian's mother
+* Mary Christian as Brian's sister
+* Tim Gamble as Mr. Standish, Claire's father
+* Perry Crawford & Fran Gargano as (respectively) Mr. and Mrs. Reynolds, Allison's parents
+* [[John Hughes (filmmaker)|John Hughes]] as Mr. Johnson (uncredited cameo), Brian's father
+{{div col end}}
+
+==Production==
+
+===Development===
+The title was originally ''The Lunch Bunch'', but a friend of Hughes' from another school had a detention class called "The Breakfast Club", so he decided to go with that.<ref name="huffpost.com">{{cite web | url=https://www.huffpost.com/entry/the-breakfast-club-anniversary_n_6647566 | title=15 Things You Didn't Know About 'The Breakfast Club' | date=February 12, 2015 }}</ref> Hughes wrote the script around the time when he was writing ''Sixteen Candles'', but he wrote the ''Sixteen Candles'' script in mere days, and it impressed the studio executives who chose it to be his directorial debut.<ref>{{cite web | url=https://www.vanityfair.com/news/2010/03/john-hughes-201003 | title=David Kamp on John Hughes | website=[[Vanity Fair (magazine)|Vanity Fair]] | date=February 10, 2010 }}</ref>
+
+===Casting===
+[[Molly Ringwald]] and [[Anthony Michael Hall]] both starred in Hughes's 1984 film ''[[Sixteen Candles]]''. Towards the end of filming, Hughes asked them to be in ''The Breakfast Club''. Hall became the first to be cast, agreeing to the role of Brian Johnson; his real-life mother and sister played his character's mother and sister in the film. Ringwald was originally approached to play the character of Allison Reynolds, but she was "really upset" because she wanted to play Claire Standish (then named "Cathy" in the first draft of the script), which saw the auditions of [[Robin Wright]], [[Jodie Foster]], [[Diane Lane]], and [[Laura Dern]]. She eventually convinced Hughes and the studio to give her the part.<ref name="Itzkoff" /> [[Joan Cusack]] was considered for the role of Allison before [[Ally Sheedy]] was ultimately cast.<ref>{{Cite web |last=Lambe |first=Stacy |date=April 24, 2025 |year=2025 |orig-date=April 24, 2025 |title=Molly Ringwald Reveals This Brother-Sister Duo Was Almost Cast in The Breakfast Club Over Ally Sheedy and Judd Nelson |url=https://people.com/the-breakfast-club-this-brother-sister-duo-was-almost-cast-as-allison-and-bender-11719766 |url-status=live |archive-url=https://web.archive.org/web/20260513200335/https://people.com/the-breakfast-club-this-brother-sister-duo-was-almost-cast-as-allison-and-bender-11719766 |archive-date=May 13, 2026 |access-date=May 13, 2026 |website=People}}</ref><ref>{{cite web | url=https://decider.com/2015/02/13/the-breakfast-club-that-might-have-been/ | title='The Breakfast Club' That Might Have Been {{pipe}} Decider | date=February 13, 2015 }}</ref>
+
+[[Emilio Estevez]] was originally cast in the role of John Bender, but when Hughes was unable to find someone to play Andrew Clark, Estevez was recast. [[Nicolas Cage]] was considered for the role of John Bender, which was the last role to be cast. [[Alan Ruck]] also auditioned for the role,<ref>{{cite web |date=July 3, 1986 |title=Ruck Just Put Himself into His 'Day Off' Role |url=https://www.chicagotribune.com/news/ct-xpm-1986-07-03-8602170641-story.html |website=[[Chicago Tribune]]}}</ref> but the choice was narrowed down to [[John Cusack]] and [[Judd Nelson]]. Hughes originally cast Cusack, but decided to replace him with Nelson before shooting began, because Cusack did not look intimidating enough for the role. At one point, Hughes was disappointed in Nelson because he stayed in character and harassed Ringwald off-camera; the other actors had to convince Hughes not to fire him.<ref name="Itzkoff">{{cite news |last=Itzkoff |first=Dave |title=She Won't Forget About Him: Molly Ringwald Remembers John Hughes |work=[[The New York Times]] |url=https://archive.nytimes.com/artsbeat.blogs.nytimes.com/2010/09/17/she-wont-forget-about-him-molly-ringwald-remembers-john-hughes/ |date=September 17, 2010 |access-date=September 4, 2011 |archive-date=November 26, 2022 |archive-url=https://web.archive.org/web/20221126030544/https://archive.nytimes.com/artsbeat.blogs.nytimes.com/2010/09/17/she-wont-forget-about-him-molly-ringwald-remembers-john-hughes/ |url-status=live}}</ref><ref name="wsj"/> [[Todd Bridges]] was offered to audition for an unspecified role after Hughes walked to him on the plane, but he later walked away after one of the studio executives informed him that they didn't know how to write for black people.<ref>{{Cite web | url=https://people.com/todd-bridges-reveals-why-he-walked-out-on-his-audition-for-the-breakfast-club-12017042 | title=Todd Bridges Shares What One The Breakfast Club Executive Said to Him That Led Him to Walk Out on His Audition for the Teen Hit | website=people.com | date=2026-07-13}}</ref> [[Rick Moranis]] was originally cast as the janitor, but was released by Ned Tanen, the film's producer, who felt that Moranis' portrayal as an over-the-top Russian caricature did not suit the serious nature of the film. Moranis was replaced by [[John Kapelos]].<ref>{{Cite magazine |url=https://www.vanityfair.com/hollywood/2015/03/the-breakfast-club-rick-moranis |title=How the Female Stars of The Breakfast Club Fought to Remove a Sexist Scene, and Won |date=March 12, 2015 |magazine=[[Vanity Fair (magazine)|Vanity Fair]]}}</ref><ref name="Gora">{{cite book |last=Gora |first=Susannah |year=2010 |title=You Couldn't Ignore Me If You Tried |publisher=Three Rivers Press |isbn=9780307408433}}</ref>{{rp|56–57}}
+
+===Filming===
+In 1999, Hughes said that his request to direct the film met with resistance and skepticism because he lacked filmmaking experience.<ref>{{cite web|url=http://home.comcast.net/~aimsters4/bclub.html|title=Premiere, December 1999, Oral history "Breakfast Club"|publisher=comcast.net|access-date=March 14, 2011|archive-date=June 29, 2011|archive-url=https://web.archive.org/web/20110629170732/http://home.comcast.net/~aimsters4/bclub.html|url-status=live}}</ref> He ultimately convinced the film's investors that, due to the modest $1 million budget and its single-location shoot, he could greatly minimize their risk. Hughes originally thought that ''The Breakfast Club'' would be his directorial debut. He opted for an insular, largely one-room set and wrote about high school students, who would be played by younger actors.<ref name="Gora" />{{rp|47}}
+
+[[Principal photography]] began on March 28, 1984, and ended in May. Filming took place at [[Maine North High School]] in [[Des Plaines, Illinois]], which had been closed in May 1981. The same school was used for interior scenes of Hughes's 1986 film ''[[Ferris Bueller's Day Off]]'', which also featured exterior shots from nearby [[Glenbrook North High School]]. The appearance of the library at Maine North High, considered too small for use in the film, prompted the crew to build a virtually identical but larger set in the school's gymnasium.<ref name="Gora" />{{rp|58}} The actors rehearsed for three weeks and then shot the film in sequence.<ref name="Gora" />{{rp|59, 69}} Nelson tried other opinions for the ending scene until eventually landing the fist pump.<ref name="huffpost.com"/> The dance sequence was originally scripted with Claire dancing alone, but Ringwald felt embarrassed about performing solo and Hughes agreed to have the others join her.<ref name="Time">{{Cite magazine |last=Waxman |first=Olivia B. |date=2015-02-15 |title=Molly Ringwald Talks About the Most Embarrassing Part of Filming 'The Breakfast Club' |url=https://time.com/3709835/molly-ringwald-breakfast-club-30th-anniversary/ |access-date=2025-03-02 |magazine=Time |language=en |archive-date=January 16, 2025 |archive-url=https://web.archive.org/web/20250116182157/https://time.com/3709835/molly-ringwald-breakfast-club-30th-anniversary/ |url-status=dead }}</ref> On the ''Ferris Bueller's Day Off'' DVD commentary (featured on the 2004 DVD version), Hughes revealed that he shot the two films concurrently to save time and money, and some outtakes of both films feature elements of the film crews working on the other film. The first print was 150 minutes in length.<ref name="new">{{cite web |last=Dameron |first=Emerson |title=John Hughes: The Director's Cut |url=http://newcityfilm.com/2009/08/11/john-hughes-the-directors-cut/ |url-status=live |publisher=Newcity Film |date=August 11, 2009 |access-date=March 28, 2012 |archive-url=https://web.archive.org/web/20111011050130/http://newcityfilm.com/2009/08/11/john-hughes-the-directors-cut/ |archive-date=October 11, 2011}}</ref>
+
+During a cast reunion in honor of the film's 25th anniversary, Ally Sheedy revealed that a director's cut existed; but Hughes's widow, who was also present, did not disclose any details concerning its whereabouts.<ref name="wsj">{{cite web |last=Steinberg |first=Julie |title='The Breakfast Club' Cast Reunites, But Where's Emilio? "Working on 'Mighty Ducks 5'" |url=https://blogs.wsj.com/speakeasy/2010/09/21/the-breakfast-club-cast-reunites-but-wheres-emilio-working-on-mighty-ducks-5/ |url-status=live |work=[[The Wall Street Journal]] |date=September 21, 2010 |access-date=March 28, 2012 |archive-url=https://web.archive.org/web/20110817090725/http://blogs.wsj.com/speakeasy/2010/09/21/the-breakfast-club-cast-reunites-but-wheres-emilio-working-on-mighty-ducks-5/ |archive-date=August 17, 2011}}</ref> In 2015, the first draft of the film's script was discovered in a Maine South High School cabinet as district employees were moving offices to a new building.<ref name=JohnsonJenfirstdraft>{{cite news |last=Johnson |first=Jennifer |url=https://www.chicagotribune.com/suburbs/park-ridge/news/ct-prh-breakfast-club-script-tl-0423-20150420-story.html |title=Original 'Breakfast Club' screenplay found in District 207 cabinet during move |newspaper=[[Chicago Tribune]] |date=April 21, 2015 |access-date=January 20, 2017 |archive-date=February 1, 2017 |archive-url=https://web.archive.org/web/20170201235052/http://www.chicagotribune.com/suburbs/park-ridge/news/ct-prh-breakfast-club-script-tl-0423-20150420-story.html |url-status=live}}</ref>
+
+===Poster===
+The film's poster, featuring the five characters huddled together, was photographed by [[Annie Leibovitz]] toward the end of shooting. The shot of five actors gazing at the camera influenced the way teen films were marketed from that point on.<ref name="Gora" />{{rp|79–80, 325–326}} The poster refers to the five "types" of the story, using slightly different terms than those used in the film (and in a different sequence), stating "They were five total strangers with nothing in common, meeting for the first time. A brain, a beauty, a jock, a rebel and a recluse". ''The Breakfast Club'' poster "family shot", notably including Bender's raised fist, was satirized in the poster for the comedy-horror film ''[[The Texas Chainsaw Massacre 2]]''.<ref>{{cite web|url=https://www.imdb.com/title/tt0092076/trivia|title=The Texas Chainsaw Massacre 2 (1986)|work=IMDb|access-date=October 11, 2021|archive-date=October 24, 2016|archive-url=https://web.archive.org/web/20161024151829/http://www.imdb.com/title/tt0092076/trivia|url-status=live}}</ref> It also inspired the title page of chapter 29 of the manga series ''[[Akane-banashi]]''.<ref>{{cite web|url=https://www.viz.com/blog/posts/mangaka-musings-9-11-2022|title=Mangaka Musings 9/11/2022|website=[[Viz Media]]|date=September 11, 2022|access-date=September 17, 2022|archive-date=September 20, 2022|archive-url=https://web.archive.org/web/20220920171453/https://www.viz.com/blog/posts/mangaka-musings-9-11-2022|url-status=live}}</ref>
+
+==Themes==
+The main theme of the film is the constant struggle of the American teenager to be understood, both by adults and by themselves. It explores the pressure put on teenagers to fit into their own realms of high school social constructs, as well as the lofty expectations of their parents, teachers, and other authority figures. On the surface, the students have little in common with each other, but they eventually bond over a common disdain for the aforementioned peer pressure and parental expectations.<ref name="Loukides">{{cite book |last=Loukides |first=Paul |year=1996 |title=Beyond the Stars 5: Themes and Ideologies in American Popular Film |publisher=Popular Press |isbn=9780879727017 |pages=[https://archive.org/details/beyondstars00louk/page/30 30–32] |url=https://archive.org/details/beyondstars00louk/page/30}}</ref><ref>Barsanti, Chris (2010). ''[https://books.google.com/books?id=ZPW4VhjQ0iIC Filmology: A Movie-a-Day Guide to the Movies You Need to Know] {{webarchive |url=https://web.archive.org/web/20140503083437/http://books.google.com/books?id=ZPW4VhjQ0iIC&printsec=frontcover |date=May 3, 2014}}''. Adams Media. p. 49.</ref> Stereotyping is another theme. Once the obvious stereotypes are broken down, the characters "empathize with each other's struggles, dismiss some of the inaccuracies of their first impressions, and discover that they are more similar than different".<ref>{{cite web |url=http://www.oup.com/us/companion.websites/9780195309928/instructorresources/filmstorage/breakfastclub/ |title=The Breakfast Club |publisher=Oup.com |access-date=September 9, 2013 |archive-date=October 30, 2008 |archive-url=https://web.archive.org/web/20081030044100/http://www.oup.com/us/companion.websites/9780195309928/instructorresources/filmstorage/breakfastclub/ |url-status=live}}</ref> The main adult character, Mr. Vernon, is portrayed with arguably no redeeming qualities; throughout the film, he consistently talks down to students, accesses private student information (then attempts to cover his tracks when confronted by a fellow employee) and forcefully flaunts his authority at each opportunity. He continually and aggressively challenges Bender, who is the only one of the group who chooses to stand up to him.<ref name="Loukides"/>
+
+==Release==
+The film premiered in Los Angeles on February 7, 1985. [[Universal Pictures]] released the film in cinemas on February 15, 1985, in the United States.<ref name="numbers">{{cite web |title=The Breakfast Club (1985) - Financial Information |url=https://www.the-numbers.com/movie/Breakfast-Club-The#tab=summary |website=[[The Numbers (website)|The Numbers]]}}</ref>
+
+===Home media===
+''The Breakfast Club'' was first released on [[VHS]]<ref name="numbers" /><ref>{{cite book |title=Breakfast Club [VHS] |asin=630018403X}}</ref> and [[LaserDisc]].<ref>{{cite web |title=The Breakfast Club (Laserdisc) 1985 |url=https://www.amazon.com/Breakfast-Club-Laserdisc-1985/dp/B0079126B4 |website=Amazon.com |access-date=March 10, 2020 |archive-date=April 15, 2023 |archive-url=https://web.archive.org/web/20230415044507/https://www.amazon.com/Breakfast-Club-Laserdisc-1985/dp/B0079126B4 |url-status=live}}</ref> In 2003, the film was released on [[DVD]] as part of the "High School Reunion Collection".<ref>{{cite web |url=https://www.amazon.com/dp/B0000A98ZP |title=The Breakfast Club (High School Reunion Collection): Molly Ringwald, Emilio Estevez, Anthony Michael Hall, Judd Nelson, Ally Sheedy, John Kapelos, Paul Gleason, John Hughes, Ned Tanen: Movies & TV |website=Amazon |date=September 2, 2003 |access-date=July 30, 2014 |archive-date=April 22, 2021 |archive-url=https://web.archive.org/web/20210422040924/http://www.amazon.com/dp/B0000A98ZP |url-status=live}}</ref> In 2008, a "Flashback Edition" DVD was released with several special features, including an [[audio commentary]] with Anthony Michael Hall and Judd Nelson.<ref>{{cite web |url=https://www.amazon.com/Breakfast-Club-Flashback-Emilio-Estevez/dp/B001AEF6BI/ |title=The Breakfast Club (Flashback Edition): Emilio Estevez, Anthony Michael Hall, Molly Ringwald, Ally Sheedy, Judd Nelson, Paul Gleason, Mercedes Hall, John Kapelos, Ron Dean, Perry Crawford, Fran Gargano, John Hughes, Tim Gamble, Jackie Burch, Thomas del Ruth: Movies & TV |website=Amazon |date=September 16, 2008 |access-date=July 30, 2014 |archive-date=March 23, 2021 |archive-url=https://web.archive.org/web/20210323104748/https://www.amazon.com/Breakfast-Club-Flashback-Emilio-Estevez/dp/B001AEF6BI/ |url-status=live}}</ref> A 25th Anniversary Edition [[Blu-ray]] was released in 2010,<ref>{{cite web |url=https://www.amazon.com/dp/B003IWYOF4 |title=The Breakfast Club (25th Anniversary Edition) [Blu-ray]: Emilio Estevez, Paul Gleason, Anthony Michael Hall, Judd Nelson, Molly Ringwald, Ally Sheedy, John Hughes: Movies & TV |website=Amazon |date=August 3, 2010 |access-date=July 30, 2014 |archive-date=March 8, 2021 |archive-url=https://web.archive.org/web/20210308140036/https://www.amazon.com/dp/B003IWYOF4 |url-status=live}}</ref> and the same disc was re-released with a DVD and [[digital copy]] in 2012 as part of Universal's 100th Anniversary series.<ref>{{cite web|url=https://www.amazon.com/dp/B003IWYOF4 |title=The Breakfast Club (Blu-ray + DVD + Digital Copy) : Universal's 100th Anniversary |website=Amazon |date=August 3, 2010 |access-date=March 26, 2013|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308140036/https://www.amazon.com/dp/B003IWYOF4 |url-status=live}}</ref><ref>{{cite web |url=http://www.universal100th.com/ |title=Celebrating 100 years of iconic movie moments |publisher=Universal 100th |access-date=July 30, 2014 |archive-date=August 28, 2014 |archive-url=https://web.archive.org/web/20140828190421/http://www.universal100th.com/ |url-status=live}}</ref>
+
+On March 10, 2015, the 30th Anniversary Edition was released. This release was digitally remastered and restored from the original 35mm film negatives for better picture quality on DVD, Digital HD and Blu-ray.<ref>{{cite web|url=http://www.blu-ray.com/news/?id=15732|title=The Breakfast Club 30th Anniversary Edition Blu-ray|publisher=Blu-ray.com|access-date=December 30, 2014|archive-date=December 31, 2014|archive-url=https://web.archive.org/web/20141231074922/http://www.blu-ray.com/news/?id=15732|url-status=live}}</ref> [[The Criterion Collection]] released a special edition two-disc DVD set and a [[Blu-ray]] disc on January 2, 2018. The transfer was the same as the previous release but included new features such as fifty minutes of new, deleted and extended scenes, an [[Press kit|Electronic Press Kit]], new and archival interviews, a 1985 excerpt of the ''[[Today (American TV program)|Today]]'' program, a new video essay and an episode of ''[[This American Life]]''.<ref>{{cite web |url=https://www.indiewire.com/features/general/the-criterion-collection-the-breakfast-club-i-daniel-blake-1201887970/ |first=Michael |last=Nordine |title=The Criterion Collection Announces January 2018 Titles, Including 'The Breakfast Club' and 'I, Daniel Blake' |work=[[IndieWire]] |date=October 16, 2017 |access-date=March 24, 2020 |archive-date=March 24, 2020 |archive-url=https://web.archive.org/web/20200324140011/https://www.indiewire.com/2017/10/the-criterion-collection-the-breakfast-club-i-daniel-blake-1201887970/amp/ |url-status=live}}</ref><ref>{{cite web|url=https://www.blu-ray.com/movies/The-Breakfast-Club-Blu-ray/191181|title=The Breakd Club Blu-ray|website=Blu-ray.com|access-date=March 24, 2020|archive-date=March 22, 2020|archive-url=https://web.archive.org/web/20200322012442/https://www.blu-ray.com/movies/The-Breakfast-Club-Blu-ray/191181/|url-status=live}}</ref> Criterion released the film on [[Ultra HD Blu-ray]] on November 4, 2025, based on a new 4K scan of the film.<ref>{{Cite web |last=Tangonan |first=E. J. |date=2025-08-25 |title=Criterion announces the 4K Blu-ray release for The Breakfast Club |url=https://www.joblo.com/the-breakfast-club-4k-blu-ray/ |access-date=2025-11-18 |website=JoBlo |language=en-US}}</ref>
+
+==Reception==
+
+===Critical response===
+[[Roger Ebert]] awarded three stars out of four and called the performances "wonderful", adding that the film was "more or less predictable" but "doesn't need earthshaking revelations; it's about kids who grow willing to talk to one another, and it has a surprisingly good ear for the way they speak."<ref>{{cite web |url=https://www.rogerebert.com/reviews/the-breakfast-club-1985 |title=The Breakfast Club movie review |last=Ebert |first=Roger |date=February 15, 1985 |website=[[RogerEbert.com]] |access-date=December 28, 2019 |archive-date=February 12, 2020 |archive-url=https://web.archive.org/web/20200212073926/https://www.rogerebert.com/reviews/the-breakfast-club-1985 |url-status=live}}</ref> [[Gene Siskel]] of the ''[[Chicago Tribune]]'' gave the film three-and-a-half stars out of four, and wrote: "This confessional formula has worked in films as different as ''[[Who's Afraid of Virginia Woolf? (film)|Who's Afraid of Virginia Woolf?]]'', ''[[The Big Chill (film)|The Big Chill]]'', and ''[[My Dinner with Andre]]'' and it works here too. It works especially well in ''The Breakfast Club'' because we keep waiting for the film to break out of its claustrophobic set and give us a typical teenage movie sex-or-violence scene. That doesn't happen, much to our delight."<ref>Siskel, Gene (February 15, 1985). [https://www.chicagotribune.com/news/ct-xpm-1985-02-15-8501090715-story.html "Teenage life gets touching new portrayal"] {{webarchive |url=https://web.archive.org/web/20230215231911/https://www.chicagotribune.com/news/ct-xpm-1985-02-15-8501090715-story.html |date=February 15, 2023}}. ''[[Chicago Tribune]]''. Section 7, Page A.</ref> Kathleen Carroll from the ''[[New York Daily News]]'' stated, "Hughes has a wonderful knack for communicating the feelings of teenagers, as well as an obvious rapport with his exceptional cast–who deserve top grades."<ref>{{cite news|url=http://www.nydailynews.com/entertainment/movies/breakfast-club-endearing-comedy-1985-review-article-1.2529922|title='The Breakfast Club' is an endearing teenage comedy: 1985 review|first=Cathleen|last=Carroll|work=[[New York Daily News]]|date=February 15, 1985|access-date=March 6, 2018|archive-date=March 7, 2018|archive-url=https://web.archive.org/web/20180307151116/http://www.nydailynews.com/entertainment/movies/breakfast-club-endearing-comedy-1985-review-article-1.2529922|url-status=live}}</ref>
+
+Other reviews were less positive. [[Janet Maslin]] of ''[[The New York Times]]'' wrote, "There are some good young actors in ''The Breakfast Club'', though a couple of them have been given unplayable roles", namely Ally Sheedy and Judd Nelson, adding, "The five young stars would have mixed well even without the fraudulent encounter-group candor towards which ''The Breakfast Club'' forces them. Mr. Hughes, having thought up the characters and simply flung them together, should have left well enough alone."<ref>{{Cite news |last=Maslin |first=Janet |author-link=Janet Maslin |date=February 15, 1985 | url=https://www.nytimes.com/1985/02/15/movies/john-hughes-s-breakfast-club.html |title=Film: John Hughes's 'Breakfast Club' |archive-url=https://web.archive.org/web/20191228074634/https://www.nytimes.com/1985/02/15/movies/john-hughes-s-breakfast-club.html |archive-date=December 28, 2019 |newspaper=[[The New York Times]] |page=C18 }}</ref> James Harwood of ''[[Variety (magazine)|Variety]]'' panned the film as a movie that "will probably pass as deeply profound among today's teenage audience, meaning the youngsters in the film spend most of their time talking to each other instead of dancing, dropping their drawers and throwing food. This, on the other hand, should not suggest they have anything intelligent to say."<ref>Harwood, James (February 13, 1985). "Film Reviews: The Breakfast Club". ''[[Variety (magazine)|Variety]]''. 19.</ref>
+
+Among retrospective reviews, [[James Berardinelli]] wrote in 1998: "Few will argue that ''The Breakfast Club'' is a great film, but it has a candor that is unexpected and refreshing in a sea of too-often generic teen-themed films. The material is a little talky (albeit not in a way that will cause anyone to confuse it with something by [[Éric Rohmer]]), but it's hard not to be drawn into the world of these characters."<ref>{{cite web |url=http://www.reelviews.net/reelviews/breakfast-club-the |title=The Breakfast Club |last=Berardinelli |first=James |website=Reelviews |access-date=December 28, 2019 |archive-date=December 29, 2019 |archive-url=https://web.archive.org/web/20191229153955/http://www.reelviews.net/reelviews/breakfast-club-the |url-status=live}}</ref>
+
+On the [[review aggregator]] website [[Rotten Tomatoes]], the film holds an approval rating of 87% based on 114 reviews, with an average rating of 7.60/10. The website's critics consensus reads, "If ''The Breakfast Club''{{'}}s gestures towards authenticity are occasionally undercut by trendy flourishes, its blistering emotional honesty and talented troupe of young actors catapult it to the top of the teen comedy class."<ref>{{cite web |url=https://www.rottentomatoes.com/m/breakfast_club/ |title=The Breakfast Club (1985) |work=[[Rotten Tomatoes]] |access-date=May 7, 2026 |archive-date=June 4, 2020 |archive-url=https://web.archive.org/web/20200604173528/https://www.rottentomatoes.com/m/breakfast_club |url-status=live}}</ref> [[Metacritic]] gave the film a [[weighted arithmetic mean|weighted average]] score of 66 out of 100 based on 25 reviews from mainstream critics, considered to be "generally favorable reviews".<ref>{{cite web |url=https://www.metacritic.com/movie/the-breakfast-club |title=The Breakfast Club Reviews |work=[[Metacritic]] |access-date=March 6, 2018 |archive-date=May 14, 2020 |archive-url=https://web.archive.org/web/20200514004243/https://www.metacritic.com/video/titles/breakfastclub?q=the%2Bbreakfast%2Bclub |url-status=live}}</ref>
+
+Writing in 2015, [[P. J. O'Rourke]] called ''The Breakfast Club'' and ''Ferris Bueller's Day Off'' "Hughes's masterwork[s]". He described the former film as an example of Hughes's politics, in that the students do not organize a protest, but "present themselves, like good [[conservative]]s do, as individuals and place the highest value, like this conservative does, on goofing off. Otherwise known as individual liberty."<ref name="orourke20150322">{{cite news |last=O'Rourke |first=P.J. |author-link=P. J. O'Rourke |title=Don't You Forget About Me: The John Hughes I Knew |url=https://www.thedailybeast.com/articles/2015/03/22/how-john-hughes-made-conservatism-funny |url-status=live |website=The Daily Beast |date=March 22, 2015 |access-date=April 26, 2019 |archive-url=https://web.archive.org/web/20210503021001/https://www.thedailybeast.com/dont-you-forget-about-me-the-john-hughes-i-knew |archive-date=May 3, 2021}}</ref>
+
+===Box office===
+In February 1985, the film debuted at No. 3 at the box office (behind ''[[Beverly Hills Cop]]'' and ''[[Witness (1985 film)|Witness]]'').<ref>{{cite web|title=Weekend Box Office: February 15-18, 1985—4-day President's Day Weekend|url=https://boxofficemojo.com/weekend/chart/?view=&yr=1985&wknd=07a&p=.htm|website=[[Box Office Mojo]]|access-date=September 3, 2011|archive-date=October 23, 2012|archive-url=https://web.archive.org/web/20121023063337/http://boxofficemojo.com/weekend/chart/?view=&yr=1985&wknd=07a&p=.htm|url-status=live}}</ref> Grossing $46,434,721 domestically and $52,084,721 worldwide, the film was a box office success, given its $1 million budget.<ref name="mojo" />
+
+===Accolades===
+{{Unreferenced section|date=September 2024}}
+[[Anthony Michael Hall]], [[Judd Nelson]], [[Molly Ringwald]], [[Paul Gleason]] and [[Ally Sheedy]] all won a Silver Bucket of Excellence Award at the [[2005 MTV Movie Awards]].
+{| class="wikitable sortable"
+! Award
+! Nominee
+! Result
+|-
+| rowspan="1" |[[2005 MTV Movie Awards|Silver Bucket of Excellence Award]]
+| Anthony Michael Hall<br />Judd Nelson<br />Paul Gleason<br />Molly Ringwald<br />Ally Sheedy|| {{Won}}
+|}
+
+==Legacy==
+[[File:MEGACON Orlando 2025 The Breakfast Club Q&A panel (cropped).png|thumb|From left: [[Molly Ringwald]], [[Ally Sheedy]], [[Judd Nelson]] and [[Anthony Michael Hall]] in February 2025]]
+''The Breakfast Club'' has been called the quintessential 1980s film.<ref>{{cite book|author=Dunkleberger, Amy|date=2007|url=https://books.google.com/books?id=AZNqWBiZwCEC|title=So You Want to Be a Film Or TV Screenwriter?|publisher=Enslow Publishers, Inc.|page=73|isbn=9780766026452|access-date=October 16, 2016|archive-date=May 3, 2021|archive-url=https://web.archive.org/web/20210503020931/https://books.google.com/books?id=AZNqWBiZwCEC|url-status=live}}</ref> In 2008, ''[[Empire (magazine)|Empire]]'' magazine ranked it at number 369 on their ''The 500 Greatest Movies of All Time'' list.<ref>{{Cite web | archive-url=https://web.archive.org/web/20120119034539/https://www.empireonline.com/500/25.asp | archive-date=2012-01-19 |title=''Empire's'' The 500 Greatest Movies of All Time.|work=[[Empire (magazine)|Empire]] |url=https://www.empireonline.com/500/25.asp  |url-status=dead |access-date=August 5, 2010 }}</ref> It later ranked at number 38 on their 2014 list.<ref>[https://web.archive.org/web/20140712110816/https://www.empireonline.com/301/list.asp?page=25 ''Empire's'' The 301 Greatest Movies of All Time.] ''[[Empire (magazine)|Empire]]'' via [[Internet Archive]]. Retrieved July 12, 2014.</ref> Similarly, ''[[The New York Times]]'' placed the film on its ''Best 1000 Movies Ever'' list<ref>[https://web.archive.org/web/20080612032429/https://www.nytimes.com/ref/movies/1000best.html The Best 1,000 Movies Ever Made.] ''[[The New York Times]]'' via [[Internet Archive]]. Published April 29, 2003. Retrieved June 12, 2008.</ref> and ''[[Entertainment Weekly]]'' ranked the film number 1 on its list of the 50 Best High School Movies.<ref>{{cite web |url=http://www.filmsite.org/50besthsfilms2.html |title=Entertainment Weekly's The 50 Best High School Movies |publisher=[[AMC (TV channel)|AMC]]'s [[Filmsite.org]] |access-date=August 5, 2010 |archive-date=November 12, 2010 |archive-url=https://web.archive.org/web/20101112142042/http://www.filmsite.org/50besthsfilms2.html |url-status=live}}</ref> In the 2001 parody film ''[[Not Another Teen Movie]]'', Gleason reprised his role as Assistant Principal Vernon in a short scene that parodies ''The Breakfast Club''.<ref>{{cite news |author-link=A. O. Scott |first=A. O. |last=Scott |title=FILM REVIEW; Pretty in Prank: A Spoof of a Lampoon of a Satire of... |url=https://www.nytimes.com/2001/12/14/movies/film-review-pretty-in-prank-a-spoof-of-a-lampoon-of-a-satire-of.html |work=The New York Times |date=December 14, 2001 |access-date=March 28, 2012 |archive-date=May 17, 2013 |archive-url=https://web.archive.org/web/20130517205556/http://www.nytimes.com/2001/12/14/movies/film-review-pretty-in-prank-a-spoof-of-a-lampoon-of-a-satire-of.html |url-status=live}}</ref> To emphasize its eminent position within the canon of American coming-of-age films and its continued influence to this day, scholar Björn Sonnenberg-Schrank called ''The Breakfast Club'' "the ''[[Citizen Kane]]'' of the teen film genre".<ref>{{Cite book |url=https://link.springer.com/book/10.1007/978-3-030-31287-9 |title=Actor-Network Theory at the Movies |date=2020 |language=en |doi=10.1007/978-3-030-31287-9 |last1=Sonnenberg-Schrank |first1=Björn |isbn=978-3-030-31286-2 }}</ref> [[Sebastian Stan]] described the superhero film ''[[Thunderbolts*]]'' (2025) as "''The Breakfast Club'' of Marvel".<ref>{{cite web | url=https://variety.com/2025/film/awards/sebastian-stan-donald-trump-apprentice-thunderbolts-different-man-1236270956/ | title=Sebastian Stan on Why Playing Donald Trump Was the 'Hardest Thing' He's Ever Done and How 'Thunderbolts*' is Like Marvel's 'The Breakfast Club' | date=January 12, 2025 }}</ref>
+
+In 2005, the film received the Silver Bucket of Excellence Award in honor of its 20th anniversary at the [[MTV Movie Awards]]. For the event, MTV attempted to reunite the original cast. Sheedy, Ringwald, and Hall appeared together on stage, with Kapelos in the audience; Gleason gave the award to his former castmates. Estevez could not attend because of other commitments, and Nelson appeared earlier in the show but left before the on-stage reunion, prompting Hall to joke that the two were "in Africa with [[Dave Chappelle]]". Yellowcard performed Simple Minds' anthem for the film, "[[Don't You (Forget About Me)]]", at the awards. At the [[82nd Academy Awards]] (March 7, 2010), Sheedy, Hall, Ringwald, and Nelson all appeared in a tribute to John Hughes—who had died the prior year—along with other actors who had worked with him, including [[Jon Cryer]] from ''[[Pretty in Pink]]'', [[Matthew Broderick]] from ''[[Ferris Bueller's Day Off]]'', and [[Macaulay Culkin]] from ''[[Home Alone]]''. In 2012, the [[Nickelodeon]] television series ''[[Victorious]]'' had their own spoof on the film, in the episode titled "The Breakfast Bunch".
+
+In 2018, ''[[The New Yorker]]'' published an article written by Ringwald in which she critiqued Hughes's films "in the age of [[Me Too movement|#MeToo]]", beginning with a discussion of how she explained to her ten-year-old daughter what happened in the scene when her character seems to be sexually assaulted under a desk.<ref>{{cite magazine | url=https://www.newyorker.com/culture/personal-history/what-about-the-breakfast-club-molly-ringwald-metoo-john-hughes-pretty-in-pink | first=Molly | last=Ringwald | author-link=Molly Ringwald | magazine=The New Yorker | date=April 6, 2018 | title=What About 'The Breakfast Club'? | access-date=March 26, 2019 | archive-date=March 27, 2019 | archive-url=https://web.archive.org/web/20190327090118/https://www.newyorker.com/culture/personal-history/what-about-the-breakfast-club-molly-ringwald-metoo-john-hughes-pretty-in-pink | url-status=live}}</ref> The essay provoked some to claim that Ringwald was criticizing the director who made her into a film star, but she was defended by [[Jenny Han]] for a "tender, fair-minded piece".<ref>{{cite news|url=https://www.theguardian.com/culture/2018/apr/07/molly-ringwald-revisiting-the-breakfast-club-was-troubling|last=Slawson|first=Nicola|title=Molly Ringwald says The Breakfast Club is troubling in #MeToo era|date=7 April 2018|access-date=18 December 2022|newspaper=The Guardian|location=UK|archive-date=December 18, 2022|archive-url=https://web.archive.org/web/20221218231925/https://www.theguardian.com/culture/2018/apr/07/molly-ringwald-revisiting-the-breakfast-club-was-troubling|url-status=live}}</ref>
+
+In April 2025, all five principal stars reunited in Chicago during a panel discussion, marking the first time the cast had been together in forty years.<ref>{{cite web | title=All Five 'Breakfast Club' Actors Reunite for the First Time in 40 Years; 'I Feel Really Moved We're All Together,' Says Molly Ringwald | date=April 13, 2025 | url=https://variety.com/2025/film/news/breakfast-club-actors-reunite-molly-ringwald-1236368517/ }}</ref><ref>{{cite web | title='The Breakfast Club' stars reunite for the first time in 40 years | website=[[CNN]] | date=April 14, 2025 | url=https://www.cnn.com/2025/04/14/entertainment/breakfast-club-cast-reunion-intl-scli/index.html }}</ref><ref>{{cite web | title=''The Breakfast Club''{{'s}} Emilio Estevez Admits He Was on Pain Pills the First Time the Whole Cast Met |url=https://people.com/emilio-estevez-was-on-pain-pills-first-time-whole-breakfast-club-cast-met-11714753 }}</ref>
+
+==Soundtrack==
+{{Infobox album
+| name         = The Breakfast Club (Original Motion Picture Soundtrack)
+| type         = soundtrack
+| artist       = various artists
+| cover        = 
+| alt          = 
+| released     = {{start date|1985|2|19}}
+| recorded     = 1984
+| genre        = [[Rock music|Rock]], [[New wave music|new wave]]
+| length       = {{Duration|m=37|s=59}}
+| label        = [[A&M Records|A&M]]
+| producer     = various artists
+| prev_title   = 
+| prev_year    = 
+| next_title   = 
+| next_year    = 
+| misc         = {{Singles
+ | name        = The Breakfast Club (Original Motion Picture Soundtrack)
+ | type        = soundtrack
+ | single1     = [[Don't You (Forget About Me)]]
+ | single1date = February 20, 1985 (US)
+ | single2     = Fire in the Twilight
+ | single2date = May 1985
+}}
+{{Audio sample
+ | type        = soundtrack
+ | file        = Simple Minds - Don't You Forget About Me.ogg
+ | description = "Don't You (Forget About Me)" by [[Simple Minds]]
+}}
+}}
+The film's [[soundtrack]], '''''The Breakfast Club (Original Motion Picture Soundtrack)''''', was produced by British pop musician [[Keith Forsey]] and released on February 19, 1985, by [[A&M Records]]. The album peaked at No. 17 on the US [[Billboard 200|''Billboard'' 200]] album chart. The song "[[Don't You (Forget About Me)]]", performed by Scottish rock band [[Simple Minds]], was released as a single on February 23, 1985, in the United States and reached No. 1 on the [[Billboard Hot 100|''Billboard'' Hot 100]].<ref>{{Cite magazine|url=https://www.billboard.com/artist/simple-minds/|title=Simple Minds - Biography, Music & News|magazine=Billboard}}</ref> It was released on April 8, 1985, in the United Kingdom.
+
+===Track listing===
+{{Track listing
+| headline = Side one
+| extra_column = Performer
+| title1 = [[Don't You (Forget About Me)]]
+| writer1 = [[Keith Forsey]], Steve Schiff
+| extra1 = [[Simple Minds]]
+| length1 = 4:20
+| title2 = Waiting
+| writer2 = K. Forsey, S. Schiff
+| extra2 = [[E. G. Daily|Elizabeth Daily]]
+| length2 = 4:37
+| title3 = Fire in the Twilight
+| writer3 = {{hlist|[[Jack Hues]]|K. Forsey|S. Schiff}}
+| extra3 = [[Wang Chung (band)|Wang Chung]]
+| length3 = 3:51
+| title4 = I'm the Dude
+| writer4 = K. Forsey, S. Schiff
+| extra4 = [[Keith Forsey]]
+| length4 = 2:10
+| title5 = Heart Too Hot to Hold
+| writer5 = {{hlist|Johnson|K. Forsey|Laurie Forsey|Michael Frondelli}}
+| extra5 = [[Jesse Johnson (musician)|Jesse Johnson]] & Stephanie Spruill
+| length5 = 4:25
+| all_writing = 
+| title6 = 
+| length6 = 
+| title7 = 
+| length7 = 
+| title8 = 
+| length8 = 
+| title9 = 
+| length9 = 
+| title10 = 
+| length10 = 
+| total_length = 19:23
+}}
+{{track listing
+| headline      = Side two
+| extra_column  = Performer
+| title1        = Dream Montage
+| writer1       = Chang
+| extra1        = [[Gary Chang]]
+| length1       = 2:37
+| title2        = We Are Not Alone
+| writer2       = {{hlist|DeVito|[[Robby Benson|Robbie Benson]]|Steve Goldstein}}
+| extra2        = [[Karla DeVito]]
+| length2       = 3:39
+| title3        = The Reggae
+| writer3       = Forsey
+| extra3        = Keith Forsey
+| length3       = 3:07
+| title4        = Didn't I Tell You
+| writer4       = {{hlist|K. Forsey|L. Forsey|S. Schiff}}
+| extra4        = [[Joyce Kennedy (singer)|Joyce Kennedy]]
+| length4       = 4:47
+| title5        = Love Theme
+| writer5       = Forsey
+| extra5        = Keith Forsey
+| length5       = 4:26
+| all_writing   = 
+| title6        = 
+| length6       = 
+| title7        = 
+| length7       = 
+| title8        = 
+| length8       = 
+| title9        = 
+| length9       = 
+| title10       = 
+| length10      = 
+| total_length  = 18:36
+}}
+
+=== Overview ===
+The album contains ten songs that are played partially throughout the movie, performed by bands and singers of the [[rock music|rock]] and [[New wave music|new wave]] genres, including three instrumental songs by record producer Keith Forsey.<ref name="allmusic" /> [[Simple Minds]]'s international hit "[[Don't You (Forget About Me)]]" is played in the opening and closing credits.<ref>{{Cite web|url=https://wdrv.com/episode/the-song-simple-minds-didnt-want-to-record-for-the-breakfast-club-soundtrack/|title=The song Simple Minds didn't want to record for The Breakfast Club soundtrack – 97.1fm The Drive – WDRV Chicago|date=January 26, 2022|website=97.1fm The Drive - WDRV Chicago}}</ref> A music video was made for this song and for [[Wang Chung (band)|Wang Chung]]'s "Fire in the Twilight" (reached No 110 on the US [[Billboard Hot 100|''Billboard'' Hot 100]]).<ref>{{Cite web |url=https://www.musicvf.com/Wang+Chung.art |title=Wang Chung Songs ••• Top Songs / Chart Singles Discography ••• Music VF, US & UK hits charts |access-date=April 24, 2020 |archive-date=July 17, 2020 |archive-url=https://web.archive.org/web/20200717171126/https://www.musicvf.com/Wang+Chung.art |url-status=live}}</ref> Not included on the soundtrack is the "[[Colonel Bogey March]]" that the students are [[whistling]] when Principal Vernon walks into the room.<ref>{{cite news|title=25 Of Cinema's Catchiest Earworms|url=https://www.empireonline.com/movies/features/catchiest-movie-earworms/|access-date=16 April 2022|work=Empire|archive-date=April 16, 2022|archive-url=https://web.archive.org/web/20220416095151/https://www.empireonline.com/movies/features/catchiest-movie-earworms/|url-status=live}}</ref><ref>{{cite book |last1=Coyne |first1=Tom |title=A Course Called Scotland: Searching the Home of Golf for the Secret to Its Game |date=2019 |publisher=Simon and Schuster |page=246}}</ref>
+
+=== Critical reception ===
+In a June 25, 1985 review for ''[[The Village Voice]]'', music critic [[Robert Christgau]] gave the album a "D−" and said that it has "utterly negligible" songs, and he commended [[Simple Minds]] for trying to distance themselves from their song, "[[Don't You (Forget About Me)]]", best known for being played during the film's opening and closing credits.<ref>{{cite web |last=Christgau |first=Robert |date=June 25, 1985 |url=http://www.robertchristgau.com/xg/cg/cgv6-85.php |title=Christgau's Consumer Guide |work=[[The Village Voice]] |location=New York |access-date=December 16, 2016 |archive-date=September 14, 2015 |archive-url=https://web.archive.org/web/20150914130732/http://www.robertchristgau.com/xg/cg/cgv6-85.php |url-status=live}}</ref> In a retrospective review for [[AllMusic]], [[Stephen Thomas Erlewine]] gave the soundtrack three out of five stars and wrote that, apart from Simple Minds' "undisputed masterpiece", the album is largely "disposable" and marred by "'80s artifacts" and "forgettable instrumentals".<ref name="allmusic">{{cite web |first=Stephen Thomas |last=Erlewine |title=''The Breakfast Club'' [Original Soundtrack] |url=https://www.allmusic.com/album/the-breakfast-club-mw0000193096 |website=AllMusic |access-date=December 16, 2016 |archive-date=October 8, 2017 |archive-url=https://web.archive.org/web/20171008032134/https://www.allmusic.com/album/the-breakfast-club-mw0000193096 |url-status=live}}</ref>
+
+=== Charts ===
+{|class="wikitable sortable plainrowheaders"
+|-
+!scope="col"| Chart (1985)
+!scope="col"| Peak<br />position
+|-
+{{album chart|Canada|29|chartid=0526|rowheader=true|access-date=March 4, 2026}}
+|-
+!scope="row"| US [[Billboard 200|''Billboard'' 200]]<ref>{{cite web|url=https://www.billboard.com/charts/billboard-200/1985-05-18/ |title=''Billboard'' 200 |date=May 18, 1985 |website=[[Billboard (magazine)|Billboard]] |access-date=March 4, 2026}}</ref>
+| style="text-align:center;"| 17
+|}
+
+== Cancelled sequel ==
+Hughes had considered a sequel to the film, focusing on the teens reuniting years later while serving detention in university, now as the polar opposite of how they were in the first film. The film was never made prior to Hughes' death.<ref>{{Cite web |last=Busch |first=Jenna |date=2023-11-01 |title=Is The Breakfast Club 2 Happening, Or Is School Out Forever? |url=https://www.slashfilm.com/1434121/the-breakfast-club-2-is-it-happening/ |access-date=2024-01-02 |website=/Film |language=en-US}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+* {{cite magazine|last1=Ringwald|first1=Molly|author-link1=Molly Ringwald|title=What About 'The Breakfast Club'?—Revisiting the movies of my youth in the age of #MeToo.|url=https://www.newyorker.com/culture/personal-history/what-about-the-breakfast-club-molly-ringwald-metoo-john-hughes-pretty-in-pink|magazine=[[The New Yorker]]|access-date=April 9, 2018|date=April 6, 2018|archive-date=April 9, 2018|archive-url=https://web.archive.org/web/20180409022748/https://www.newyorker.com/culture/personal-history/what-about-the-breakfast-club-molly-ringwald-metoo-john-hughes-pretty-in-pink|url-status=live}}
+{{refend}}
+
+==External links==
+{{wikiquote}}
+* {{IMDb title}}
+* {{Rotten Tomatoes|2=The Breakfast Club}}
+* {{AFI film}}
+* {{TCMDb title}}
+* [https://www.criterion.com/current/posts/5243-the-breakfast-club-smells-like-teen-realness ''The Breakfast Club: Smells Like Teen Realness''] – an essay by David Kamp at [[the Criterion Collection]]
+
+{{John Hughes}}
+{{Authority control}}
+{{Portal bar|1980s|Film|United States|Comedy|Education}}
+
+{{DEFAULTSORT:Breakfast Club}}
+[[Category:1985 films]]
+[[Category:1985 comedy-drama films]]
+[[Category:1985 American films]]
+[[Category:1980s coming-of-age comedy-drama films]]
+[[Category:1985 coming-of-age films]]
+[[Category:1985 English-language films]]
+[[Category:1980s high school films]]
+[[Category:1980s teen comedy-drama films]]
+[[Category:A&M Films films]]
+[[Category:American coming-of-age comedy-drama films]]
+[[Category:American high school films]]
+[[Category:American teen comedy-drama films]]
+[[Category:Films about juvenile delinquency]]
+[[Category:Films directed by John Hughes (filmmaker)]]
+[[Category:Films produced by John Hughes (filmmaker)]]
+[[Category:1985 independent films]]
+[[Category:Films set in 1984]]
+[[Category:Films set in Illinois]]
+[[Category:Fictional quintets]]
+[[Category:Films set in libraries]]
+[[Category:Films shot in Illinois]]
+[[Category:Films with screenplays by John Hughes (filmmaker)]]
+[[Category:United States National Film Registry films inducted in 2016]]
+[[Category:Universal Pictures films]]
+[[Category:American independent films]]
+[[Category:Des Plaines, Illinois]]
+[[Category:English-language comedy-drama films]]
+[[Category:English-language independent films]]
+[[Category:A&M Records soundtracks]]

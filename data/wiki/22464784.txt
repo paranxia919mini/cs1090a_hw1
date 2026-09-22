@@ -1,0 +1,59 @@
+{{short description|1973 film}}
+{{Redirect|A Promessa|the television series|A Promessa (2024 TV series)}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox film
+| name           = The Vows
+| image          = 
+ 
+| caption        = 
+| director       = [[António de Macedo]]
+| producer       = {{ubl|Francisco de Castro|António de Macedo}}
+| writer         = [[Bernardo Santareno]]
+| starring       = [[Guida Maria]]
+| music          = 
+| cinematography = Elso Roque
+| editing        = António de Macedo
+| distributor    = 
+| released       = {{film date|df=yes|1973}}
+| runtime        = 102 minutes
+| country        = Portugal
+| language       = Portuguese
+| budget         = 
+}}
+
+'''''The Vows''''' ({{langx|pt|A Promessa}}) is a 1973 Portuguese [[drama film]] directed by [[António de Macedo]]. It was entered into the [[1973 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/2303/year/1973.html |title=Festival de Cannes: The Vows |accessdate=18 April 2009|work=festival-cannes.com}}</ref>
+
+== Synopsis ==
+Maria do Mar and her husband, José, are young newlyweds living in a fishing village, Palheiros de Tocha, between Aveiro and Figueira da Foz. Their intimacy is disturbed, however, by a vow of chastity they took as a result of a storm that caused the shipwreck of José's father's boat. Both live in permanent tension, caused by the presence of Labareda, a gypsy taken in by the couple following a dispute in which he was stabbed.
+
+==Cast==
+* [[Guida Maria]] - Maria do Mar
+* [[Sinde Filipe]] - Labareda
+* [[João Mota]] - José
+* [[Luís Santos (actor)|Luís Santos]] - Salvador
+* [[J. Rodrigues de Carvalho]] - Mário
+* [[Fernando Loureiro]] - Gypsy
+* [[Luís Barradas]] - Gypsy
+* [[Fernanda Coimbra]] - Gypsy
+* [[Maria (actor)|Maria]] - Joaquina
+* [[Grece de Castro]] - Grandmother
+* [[Xico Machado]] - Father João
+* [[Agostinho Alves]] - Father Couto
+* [[Celeste Alves]] - Maria's neighbour
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb title|id=0072039|title=The Vows}}
+
+{{DEFAULTSORT:Vows, The}}
+[[Category:1973 films]]
+[[Category:1970s Portuguese-language films]]
+[[Category:1973 drama films]]
+[[Category:Films directed by António de Macedo]]
+[[Category:Portuguese drama films]]
+[[Category:Portuguese-language drama films]]
+
+
+{{Portugal-film-stub}}

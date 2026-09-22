@@ -1,0 +1,74 @@
+{{short description|1927 film}}
+{{Redirect|Chang (film)|the 1997 South Korean Film|Downfall (1997 film)}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox film
+| name           = Chang: A Drama of the Wilderness
+| image          = Chang poster.jpg
+| caption        = Film poster
+| director       = {{ubl|[[Merian C. Cooper]]|[[Ernest B. Schoedsack]]}}
+| producer       = {{ubl|Merian C. Cooper|Ernest B. Schoedsack}}
+| writer         = [[Achmed Abdullah]]
+| starring       = {{ubl|Kru|Chantui|Nah}}
+| music          = [[Hugo Riesenfeld]]
+| cinematography = [[Ernest B. Schoedsack]]
+| editing        = [[Louis R. Loeffler]]
+| studio         = {{ubl|[[Famous Players–Lasky Corporation]]|[[Paramount Famous Lasky Corporation]]}}
+| distributor    = [[Paramount Pictures]]
+| released       = {{Film date|1927|4|29}}
+| country        = United States
+| runtime        = 64 minutes
+| language       = {{ubl|[[Silent film]]|English [[intertitle]]s}} 
+| budget         = 
+}}
+'''''Chang: A Drama of the Wilderness''''', also known simply as '''''Chang''''' (from [[Thai language|Thai]] ช้าง, "[[elephant]]") is a 1927 American [[silent film|silent]] [[documentary film]] about a poor farmer in northern [[Nan Province]] (northern [[Thailand]]) and his daily struggle for survival in the jungle. The film was directed by [[Merian C. Cooper]] and [[Ernest B. Schoedsack]].<ref>{{cite web|work=[[The New York Times]]|title=Chang A Drama of the Wilderness (1927)|first=Mordaunt|last=Hall|author-link=Mordaunt Hall|date=April 30, 1927|url=https://www.nytimes.com/movie/review?res=990CE0DD163CE733A25753C3A9629C946695D6CF}}</ref> It was released by [[Famous Players–Lasky]], a division of [[Paramount Pictures]].
+
+==Plot==
+Kru, the farmer depicted in the film, battles leopards, tigers, and even a herd of elephants, all of which pose a constant threat to his livelihood. As filmmakers, Cooper and Schoedsack attempted to capture real life with their cameras, though they often re-staged events that had not been captured adequately on film. The danger was real to all the people and animals involved. Tigers, leopards, and bears are slaughtered on camera,<ref name="BP-20190721"/> while the film's climax shows Kru's house being demolished by a stampeding elephant.
+[[File:Chang A Drama of the Wilderness (1927).webm|thumb|right|thumbtime=4|''Chang: A Drama of the Wilderness'' (1927)]]
+
+==Release==
+===Home media===
+''Chang'' was released for the first time on [[DVD]] by [[Image Entertainment]] on November 21, 2000.<ref name="allmovidvd">{{cite web|title=Chang: A Drama of the Wilderness (1927) - Merian C. Cooper, Ernest B. Schoedsack|url=https://www.allmovie.com/movie/chang-a-drama-of-the-wilderness-v141371/releases|website=Allmovie.com|access-date=April 9, 2018}}</ref> Milestone Video would release the film on [[VHS]] and on DVD on January 8, 2002<ref name="amazonvhs">{{cite book|title=Chang: A Drama of the Wilderness Silent VHS|asin=6302420512 }}</ref> and October 29, 2013, respectively.<ref name="allmovidvd"/>
+
+==Reception==
+''Chang'' was one of the "biggest movies of 1928."<ref name="BP-20190721">{{cite news |last1=Biggs |first1=Andrew |title=What's past is prologue |url=https://www.bangkokpost.com/life/social-and-lifestyle/1716191/whats-past-is-prologue |access-date=July 21, 2019 |work=Bangkok Post |date=July 21, 2019}}</ref>
+
+{{Rotten Tomatoes data|prose|ref=yes}}
+
+Author and film critic [[Leonard Maltin]] awarded the film three and a half of four stars, calling the film "[a] fascinating ethnographic documentary/narrative."<ref name="MaltinGreen2010">{{cite book|author1=Leonard Maltin|author2=Spencer Green|author3=Rob Edelman|title=Leonard Maltin's Classic Movie Guide|url=https://books.google.com/books?id=hLtaAAAAYAAJ|date=January 2010|publisher=Plume|isbn=978-0-452-29577-3|page=109}}</ref> [[Mordaunt Hall]] from ''[[The New York Times]]'' praised the film,  calling it "vivid and thrilling."<ref name="hall27">{{cite news|last1=Hall|first1=Mordaunt|title=THE SCREEN|url=https://www.nytimes.com/1927/04/30/archives/the-screen.html|work=New York Times|access-date=April 9, 2018}}</ref>
+
+===Awards===
+''Chang'' was nominated for the [[Academy Award for Unique and Artistic Production]] at the [[first Academy Awards]] in 1929,<ref name="BP-20190721"/> the only time that award was presented.
+
+==See also==
+* [[List of films shot in Thailand]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Chang: A Drama of the Wilderness}}
+*{{IMDb title|0017743}}
+*{{TCMDb title}}
+*{{AFI film}}
+
+{{Ernest B. Schoedsack}}
+{{Authority control}}
+
+[[Category:1927 films]]
+[[Category:American documentary films]]
+[[Category:American silent feature films]]
+[[Category:American black-and-white films]]
+[[Category:Ethnofiction films]]
+[[Category:Films directed by Ernest B. Schoedsack]]
+[[Category:Films directed by Merian C. Cooper]]
+[[Category:Paramount Pictures films]]
+[[Category:1927 documentary films]]
+[[Category:Black-and-white documentary films]]
+[[Category:Thai national heritage films]]
+[[Category:1927 American films]]
+[[Category:1927 English-language films]]
+[[Category:Films scored by Hugo Riesenfeld]]
+[[Category:English-language documentary films]]
+[[Category:Articles containing video clips]]

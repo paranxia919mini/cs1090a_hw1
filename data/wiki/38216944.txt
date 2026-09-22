@@ -1,0 +1,55 @@
+{{short description|1977 film}}
+{{One source|date=August 2023}}
+{{use dmy dates|date=December 2016}}
+{{Infobox film
+| name           = Dead End
+| image          = 
+| caption        = 
+| director       = [[Parviz Sayyad]]
+| producer       = Parviz Sayyad
+| writer         = Parviz Sayyad
+| starring       = [[Mary Apick]]
+| music          = 
+| cinematography = Houshang Baharlou
+| editing        = Rouhollah Emami
+| distributor    = 
+| released       = {{Film date|1977|7}}
+| runtime        = 95 minutes
+| country        = Iran
+| language       = Persian
+| budget         = 
+}}
+
+'''''Dead End''''' ({{langx|fa|Bon Bast}}) is a 1977 Iranian [[drama film]] written and directed by [[Parviz Sayyad]]. It was entered into the [[10th Moscow International Film Festival]] where [[Mary Apick]] won the award for Best Actress.<ref name="Moscow1977">{{cite web|url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1977 |title=10th Moscow International Film Festival (1977) |accessdate=2013-01-13 |work=MIFF |url-status=dead |archiveurl=https://web.archive.org/web/20130116194935/http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1977 |archivedate=2013-01-16 }}</ref>
+
+==Cast==
+* [[Mary Apick]]
+* Parviz Bahador
+* Bahman Zarrinpour
+
+==Plot==
+The story revolves around a young girl, a recent high school graduate, who is living with her mother in a small house located in a dead end street somewhere in Tehran, the capital city of Iran. The protagonist fills her uneventful days by either helping her mother at home or studying for her university entry exam. Alone in her room, listening to love songs, she often daydreams about love and the possibility of finding an ideal man.
+
+She begins to notice a handsome yet mysterious man who is always following her and waiting in her street, staring at her bedroom window. Encouraged by suggestions from her best friend, she eventually convinces herself that the man is her admirer and this idea leads her to hopelessly fall in love with him.
+
+During an impromptu encounter at a local cafe, the mysterious man inquires about her brother. Oddly, after this encounter, and once the man realizes that her brother does not live with her and her mother, the mysterious man stops hanging around her street.
+
+One day, when her political activist brother is visiting, the man drops by their home. The young girl, hopeful that the reason for this visit is to ask for her hand in marriage, wears a wedding dress and puts on makeup in anticipation of being called into the living room for the good news.
+
+After hearing a commotion, the girl races to the courtyard. She sees the man, who is a government agent, taking her brother away.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{IMDb title|0078893|Dead End}}
+
+[[Category:1977 films]]
+[[Category:1977 drama films]]
+[[Category:Iranian drama films]]
+[[Category:1970s Persian-language films]]
+[[Category:Films based on short fiction]]
+[[Category:Persian-language drama films]]
+[[Category:1970s Iranian films]]
+
+{{Iran-film-stub}}
